@@ -1,0 +1,31 @@
+---
+title: "StarCraft 2: OFFENSIVE Mass Recall!"
+excerpt: "A great match of professional Zerg vs Protoss. Subscribe for more videos: http://lowko.tv/youtube Another epic Zerg vs Protoss: https://goo.gl/qeUdf6  In this match of StarCraft 2 I cast a Zerg versus Protoss between Serral and ShoWTimE. Both players specialise in the late game. Because of this, they"
+originalUrl: https://youtube.com/watch?v=XhrtFSZT5nM
+type: video
+length: PT27M36S
+publishedDateTime: 2017-12-19T10:14:50Z
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XhrtFSZT5nM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: LowkoTV
+  domain: lowko.tv
+  images:
+    - url: https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - StarCraft 2
+
+images:
+  - url: https://i.ytimg.com/vi/XhrtFSZT5nM/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "gL+AInN248I+Dd7ss5r0gw4BC92sg74V+rIzxErN8BDeXnkyGLcKScHA2DS+ze1wO9vtYm6g9eLtodXfLjZ7qgPcIylOPmbCnYtyK2b6PQDZ+P9S59gMnN0gktnsQGHENm4AGAXeRfnbbpQrUBhJdE+xztWjISjN8MbZ+vPa9OLV1BtGLsXNHEczz+HzBF/XH2c9NkZlOvnZgTw6XsAhePov3nqLqxD0ZXvjCgsUnGcV2+jTzhZMGPzPxedpkOGpnempw0WA/3wxPwtsA/P3RQoz5ggPyaL8D0MdBoAndgxkDdWZgNme/Zhz/5tD+LvCs9vYsN9LL7wTV4JuiXwJUa9YX38APyMKv3mdRUNTsVb1jwK5W8bFxSjsIFZsMgn1IqnSFXuK7Tw7fzrCAUwjX6Roj+4PjVKpM15j1jjJv7s=;+xPzjXMEX3LghpFRzXMLIQ=="
+---
+

@@ -1,0 +1,48 @@
+taxonomy: topic
+_id: zerg
+name: Zerg
+parent: StarCraft 2
+keywords:
+  - zerg
+  - TvZ
+  - hatchery
+  - swarm host
+  - swarm hosts
+  - neural parasite
+  - baneling
+  - banelings
+  - drone
+  - queen
+  - queens
+  - nydus worm
+  - zergling
+  - zerglings
+  - infestors
+  - infestor
+  - corruptors
+  - corruptor
+  - brood lord
+  - brood lords
+  - roaches
+  - roach
+  - rogue
+  - serral
+  - dark
+  - soo
+  - life
+  - snute
+  - nerchio
+  - scarlett
+  - solar
+  - stephano
+  - leenock
+  - nestea
+  - reynor
+hashtags:
+  - "#Zerg"
+images:
+  - https://smartableai.github.io/starcraft2/assets/images/topics/zerg.jpg
+services:
+  games: https://smartableai.github.io/starcraft2/api/games/zerg/
+  learning: https://smartableai.github.io/starcraft2/api/learning/zerg/
+  people: https://smartableai.github.io/starcraft2/api/people/zerg/

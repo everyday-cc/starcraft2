@@ -1,0 +1,44 @@
+taxonomy: topic
+_id: protoss
+name: Protoss
+shortname: Protoss
+parent: StarCraft 2
+keywords:
+  - protoss
+  - PvZ
+  - PvT
+  - phoenix
+  - dark shrine
+  - probe
+  - probes
+  - cannon
+  - storm
+  - nexus
+  - void rays
+  - dark templars
+  - mothership
+  - sos
+  - stats
+  - zest
+  - mc
+  - neeb
+  - classic
+  - parting
+  - hero
+  - showtime
+  - trap
+  - dear
+  - rain
+  - mana
+  - naniwa
+  - patience
+  - huk
+  - creator
+hashtags:
+  - "#Protoss"
+images:
+  - https://smartableai.github.io/starcraft2/assets/images/topics/protoss.jpg
+services:
+  games: https://smartableai.github.io/starcraft2/api/games/protoss/
+  learning: https://smartableai.github.io/starcraft2/api/learning/protoss/
+  people: https://smartableai.github.io/starcraft2/api/people/protoss/

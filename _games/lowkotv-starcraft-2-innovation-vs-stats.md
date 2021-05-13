@@ -1,0 +1,33 @@
+---
+title: "StarCraft 2: INnoVation vs Stats!"
+excerpt: "An awesome match of professional Terran vs Protoss. Subscribe for more videos: http://lowko.tv/youtube Neeblet vs Snute: https://goo.gl/8paMLW  INnoVation vs Stats is an incredibly high level Terran vs Protoss. Both of these players are some of the very best in their respective races. Both have been"
+originalUrl: https://youtube.com/watch?v=R8PpAf6U2UM
+type: video
+length: PT16M55S
+publishedDateTime: 2017-06-14T11:58:03Z
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R8PpAf6U2UM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: LowkoTV
+  domain: lowko.tv
+  images:
+    - url: https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - StarCraft 2
+  - Terran
+  - Protoss
+
+images:
+  - url: https://i.ytimg.com/vi/R8PpAf6U2UM/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "53DK2tSQP34Zn63h2dsmc78aVowkOCmbgy/32Zu1d7X9xG3Ayd2m54LNIsZwMhIe5p+79gGCFFUddbRGNIcwA5cWf5+NLiAeqT0g3a3PKTaetx8D2Cz6RtBt7h3bmaA3X7hFbr2c/EE8U4IDbUJl+lJ42zU/Cm0tJvKhXGAo2giiaaPRJ8t+0lVIXBL3bRZEArSv9hNCpqKFu7Q/r74LQBJ2NIBWIwIsfBVsbiuHX0s6nR38i+ev4Xr5Hz4kVuuuAfp1j0NxkDP4J7vjLJw9571PJiGWljFpkV50zlpzGmf0qwjAb+uWf6HTGhk/3RUOdMGKyCLohhGpzq1/r76t1CAEzalVpIeBOrFIaUPfnB6jSSQ0oOvRZRLZhKFAhEUFcN5zBFe2kDZw7Wuh6Rv6vgnfUcxytl6PpU4jWit+tGU=;8TWorKetWEz+LiMlXz0xew=="
+---
+

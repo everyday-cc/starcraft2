@@ -1,0 +1,45 @@
+taxonomy: topic
+_id: terran
+name: Terran
+shortname: Terran
+parent: StarCraft 2
+keywords:
+  - terran
+  - TvZ
+  - suv
+  - reaper
+  - reapers
+  - widow mine
+  - cyclone
+  - bunker
+  - tank
+  - tanks
+  - raven
+  - battlecruiser
+  - battlecruisers
+  - banshee
+  - nuke
+  - nukes
+  - planetary
+  - marine
+  - maru
+  - innovation
+  - ty
+  - polt
+  - mma
+  - mvp
+  - byun
+  - special
+  - taeja
+  - bomber
+  - gumiho
+  - marineking
+  - alive
+hashtags:
+  - "#Terran"
+images:
+  - https://smartableai.github.io/starcraft2/assets/images/topics/terran.jpg
+services:
+  games: https://smartableai.github.io/starcraft2/api/games/terran/
+  learning: https://smartableai.github.io/starcraft2/api/learning/terran/
+  people: https://smartableai.github.io/starcraft2/api/people/terran/

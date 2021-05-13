@@ -1,0 +1,77 @@
+{
+  "title": "Communities",
+  "path": "_communities",
+  "page": 1,
+  "value": [
+    {
+      "path": "_communities/reddit-starcraft.md",
+      "excerpt": "All about the StarCraft games and professional scenes surrounding them. Please read the rules before submitting content.",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/communities/reddit-starcraft/index.json",
+      "webUrl": "https://www.reddit.com/r/starcraft/",
+      "originalUrl": "https://www.reddit.com/r/starcraft/",
+      "provider": {
+        "name": "Reddit",
+        "domain": "reddit.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/reddit.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 502,
+      "images": [
+        {
+          "url": "https://b.thumbs.redditmedia.com/fD7Pck7nNDb99vAiahXsGgoMfVtNNVQlfxQBxKOU_Os.png",
+          "width": 256,
+          "height": 256,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "Starcraft on Reddit",
+      "type": "forum",
+      "members": 266000,
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_communities/sc2-forums.md",
+      "excerpt": "It's the official Starcraft 2 forums by Blizzard",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/communities/sc2-forums/index.json",
+      "webUrl": "https://us.forums.blizzard.com/en/sc2/",
+      "originalUrl": "https://us.forums.blizzard.com/en/sc2/",
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 502,
+      "images": [
+        {
+          "url": "https://d212vo0owly06i.cloudfront.net/en/sc2/plugins/discourse-blizzard-themes/images/banners/sc2/glass.jpg",
+          "width": 2500,
+          "height": 520,
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "name": "SC2 Forums",
+      "type": "forum",
+      "members": 264500,
+      "topics": [
+        "StarCraft 2"
+      ]
+    }
+  ]
+}

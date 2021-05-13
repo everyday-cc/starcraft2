@@ -1,0 +1,43 @@
+{
+  "title": "People",
+  "path": "_people",
+  "page": 1,
+  "value": [
+    {
+      "path": "_people/sos.md",
+      "title": "sOs - 김유진",
+      "excerpt": "Kim sOs Yoo Jin is a StarCraft progamer from South Korea. He plays Protoss for team Jin Air Green Wings.",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/people/sos/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/people/sos/",
+      "type": "profile",
+      "name": "sOs - 김유진",
+      "bio": "Kim sOs Yoo Jin is a StarCraft progamer from South Korea. He plays Protoss for team Jin Air Green Wings.",
+      "location": "South Korea",
+      "website": "https://liquipedia.net/starcraft2/SOs",
+      "twitter": {
+        "username": "JinAirsOs",
+        "url": "https://twitter.com/JinAirsOs",
+        "followers": 8664
+      },
+      "twitch": {
+        "url": "https://www.twitch.tv/jinairsos1",
+        "followers": 12100
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 48,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000729484857/76c755e682db3d861100811bbc787ab3_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "sOs - 김유진",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    }
+  ]
+}

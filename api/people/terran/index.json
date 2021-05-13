@@ -1,0 +1,114 @@
+{
+  "title": "People",
+  "path": "_people",
+  "page": 1,
+  "value": [
+    {
+      "path": "_people/ty.md",
+      "title": "TY - 전태양",
+      "excerpt": "Jun TY Tae Yang, also known as BaBy, is a StarCraft progamer from South Korea who is currently playing for Afreeca Freecs. He played his first StarCraft II official match during the hybrid 2011-2012 Proleague Season 2.",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/people/ty/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/people/ty/",
+      "type": "profile",
+      "name": "TY - 전태양",
+      "bio": "Jun TY Tae Yang, also known as BaBy, is a StarCraft progamer from South Korea who is currently playing for Afreeca Freecs. He played his first StarCraft II official match during the hybrid 2011-2012 Proleague Season 2.",
+      "location": "South Korea",
+      "website": "https://liquipedia.net/starcraft2/TY",
+      "twitter": {
+        "username": "SC2_TYTY",
+        "url": "https://twitter.com/SC2_TYTY",
+        "followers": 5455
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/channel/UC8jw8nkrFeBCZKbD38PCkMA",
+        "subscribers": 6800
+      },
+      "twitch": {
+        "url": "https://www.twitch.tv/sc2tyty",
+        "followers": 15900
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 90,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1126026871664021504/nCTPpjuN_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "TY - 전태양",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/byun.md",
+      "title": "ByuN - 변현우",
+      "excerpt": "ByuN Hyun Woo, formerly known as GhostKing, is a Terran player from South Korea, currently teamless.",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/people/byun/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/people/byun/",
+      "type": "profile",
+      "name": "ByuN - 변현우",
+      "bio": "ByuN Hyun Woo, formerly known as GhostKing, is a Terran player from South Korea, currently teamless.",
+      "location": "South Korea",
+      "website": "https://liquipedia.net/starcraft2/ByuN",
+      "twitter": {
+        "username": "sc2byun",
+        "url": "https://twitter.com/sc2byun",
+        "followers": 9259
+      },
+      "twitch": {
+        "url": "https://www.twitch.tv/sc2byun",
+        "followers": 44300
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 89,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/988681889530564608/UK1ffdqU_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "ByuN - 변현우",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/maru.md",
+      "title": "Maru - 조성주",
+      "excerpt": "Cho Maru Seong Ju is a Terran player from South Korea, who is currently playing for Jin Air Green Wings. He is well known for being the youngest GSL player of all time, winning his first televised game at the age of 13.",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/people/maru/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/people/maru/",
+      "type": "profile",
+      "name": "Maru - 조성주",
+      "bio": "Cho Maru Seong Ju is a Terran player from South Korea, who is currently playing for Jin Air Green Wings. He is well known for being the youngest GSL player of all time, winning his first televised game at the age of 13.",
+      "location": "South Korea",
+      "website": "https://liquipedia.net/starcraft2/Maru",
+      "twitch": {
+        "url": "https://www.twitch.tv/maru072",
+        "followers": 14600
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://liquipedia.net/commons/images/b/b4/20191101_Carlton-Beener_Blizzcon2019_WCS2_00233.jpg",
+          "width": 482,
+          "height": 321,
+          "title": "Maru - 조성주",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    }
+  ]
+}

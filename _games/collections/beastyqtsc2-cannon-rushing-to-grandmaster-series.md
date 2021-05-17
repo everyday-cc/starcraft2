@@ -2,7 +2,7 @@
 title: "Cannon Rushing to Grandmaster Series!"
 excerpt: ""
 type: collection
-heat: 61
+heat: 63
 
 provider:
   name: BeastyqtSC2

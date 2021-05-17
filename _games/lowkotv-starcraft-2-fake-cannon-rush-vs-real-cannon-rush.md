@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-fake-canno
 type: video
 length: PT24M58S
 publishedDateTime: 2021-03-22T11:03:32Z
-heat: 62
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gp-O9TRhIBA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "MxW0QCTeQk42NHv5sfpGnpJFj340lF6iwkBHpPQLtAe6VdoxzFVSJgIvak54I0cOgM/UANe4U2CwI3LdY4kHj9OXxyWrfk7HQT8MTf9NCBE9V9Q5n/WqE6gUT6XgEw01KDyJvZlvOeippJnjsfpXlgMy7oye+Gk98yr+eVR9oxLn3ul/wPOeVafAxTzC59jc1HosL0lSRDUijb1OEvIuyjzPSqCeLbbPH3Dp3FM9nNXViGnzmlBH5mbGrFqLfz3f8Ofy0AZQnNTP3yFpLfTLGnU74x9c8a0YnVi0Yar7O9qLKgcoGEaRzw3yptqKGUipzwZDJjRiXoLmAMWnQNgW2H1KTm42fB11aAWySfz4RfdrGtBMd28o1QwCdQkUxerx20ecgdBLVpIt25FurMOKEpHgBIp3WLDEq6g+f1VcZCs=;VCC+ca6SG1rcTSk87wUrwg=="
+secured: "sH0o2NnYCJnwjArdem9PHsfeHOu2iqJzjZCkgZWIjEKQ6cGZQFebp+8br/DT6MlrBJvQzf1aKqv9cAw7rBnlWvbPPTdOlmufRHc6XdKdrfnY3MZKS9jTAwrvMh+0hZo2cuvYLwKXS8rXRRfgDMD3NtrjdRcraRYXvF/j450ox17XEOSNMz9/+bC9tTpuvG6BjM5sm/fL3Qb7BGI31k50sAXNt+4ppk2EV1WX0hCKOMAc60ZrmbOREw1kZJXMUqUE/dF52kTy8qr+EDlmD7Jsw3XOLxIU4cigH5AW6EMa7fua/Z6F1vkYbsLPjIJ3MP4hqhBGVA+1ZZbNmLzEt/MCdg0bwnDGUg0Iu9VfspzLH2e7xgFmqJbzvRQzMzIyTTcN8rrHQGbR5YTeUx5kg7HCE5Mn0fAkWbHfdz3i7wnKsdA=;RVwHJWpb0gyEDSipe27Dkg=="
 ---
 

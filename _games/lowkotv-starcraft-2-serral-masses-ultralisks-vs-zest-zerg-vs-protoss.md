@@ -2,6 +2,7 @@
 title: "StarCraft 2: Serral MASSES ULTRALISKS vs Zest?! (Zerg vs Protoss)"
 excerpt: "Professional match of StarCraft 2 between Serral and Zest. In this match Zest opens up with what looks like a standard turtle Sky Toss style. However, as he transitions towards a lot of Gateways, Serral is forced to respond and decides to go for Ultralisks. Ultras versus Protoss are incredibly uncommon."
 originalUrl: https://youtube.com/watch?v=eVrNGBt_yeE
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-masses-ultralisks-vs-zest-zerg-vs-protoss/
 type: video
 length: PT21M46S
 publishedDateTime: 2021-05-17T10:25:45Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "2+MvO4JzzxQ52b8dj5+wZ7IignlvmxK6+Hjcp4/jkQqUFI1TyhJrjdot8LZBhrxRMsaAIBHxztDJPG+Ijo+sthxxUY9UcTpgWMSS00/6NH1t75PKbEoO1ptmxmCSArg7QbDWGge8u9QY8uNECBqryOy0cMW40txjsvtJe2u9rLgdGS188EYRPMbHhvr+HnxwgFkOr/uvNR1cKiUd8Z69eOX/dchmmZUK38QHfgiisJoCVkphQm0fxxqFFG+2mt4RNE8eo9UAmeILTmkn1u7WFoMuMQ+hKYmACM0t9KWOMy+eJ0tHas7brCpHGli6/pSsLq8IzTSCFWeoKEeLB/+kHpiViPX4RQAjaumYA8dX2NVSofxHWDzCV2z/e+aCRvs0n/mPJMVOJSX5adoGPYFxOw==;QoRtyixa/T9YvV61IgLa6w=="
+secured: "bNvMSgp6EWKct3MnEacDgW2lNxX2y2cmm9GSiQkfMSLhIuQTvQ7F+7rRFqUh9LF0aQ3uxyZzP7PbWcVgaFhPsdsIxKsVAE7CKhWL8TLRYYVmF0tDOuvaeaqTX1avrpa6FCrYHu0YRKjz/B2gkU7ADVyCK4P6xjbLLyOoC4Unie+B0xrPdwgwcBdvcRYEz6IAMsAkXJpsNlndV9NKP9h2ctTaB8JzxyKE4ApdGiwaL7zmkD1Ld6eZb7YNEIYpE1ViperGj6bzKslqPA0MtafouOZGAGdArzI1Wf6PwnupGOBk92YYGauM4lrVSemny3BXbl8a6H6W879cvaJZtxjxqx16+xJPQJGHHihHkN5X3brQ1JOmUQugFVKBBGGbBs3FAcqDL43lPHrtJDrOm++d4g==;aZiBT09EcS9DqBpIG+bFjw=="
 ---
 

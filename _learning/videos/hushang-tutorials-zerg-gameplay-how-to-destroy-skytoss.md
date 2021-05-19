@@ -2,11 +2,12 @@
 title: "Zerg Gameplay | How to Destroy Skytoss"
 excerpt: "I hate hearing you guys struggling vs skytoss so it's time to learn how to wreck it ;)  Zerg Gameplay | How to Destroy Skytoss #Zerg #Starcraft2 #SC2  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft"
 originalUrl: https://youtube.com/watch?v=ncgfd54a0HY
+webUrl: https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-zerg-gameplay-how-to-destroy-skytoss/
 type: video
 price: Free
 length: PT16M6S
 publishedDateTime: 2021-05-17T21:14:29Z
-heat: 157
+heat: 178
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ncgfd54a0HY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +25,6 @@ images:
     height: 360
     isCached: true
 
-secured: "mYMVtePWn/1AjdRZTywEMqJzh8j3ezdW56N0X8xX0rj8tcyeQ5jHJ0oe+3TclZX8iKaJ1IgZkjrZavBwvifluxaW5jw8RnTkDo3KYKp3Bc3cKBSl9rTfop+BqfV2M/G7KWqaejpnRSIcMDMXZ5d+x+k12mcNCIXDQR7ja05PFp+Yjz/3f7i7FRbY4gOGxDfiPT1x0sh8obgGapKzFcW+xtDhzjW4noM3oxgRWH4Vc7vOs+6v4rWqupjIOYvYOG2qfaBZOsj2bTZlin3w+d9V2qk8Zf4A+BHb4UiviREcQwGxvlz99ZJKRKkoP9VnYHALRVZgtu6Bs3cPsKLNKbxoyanTSQ/+2Vs3hVbv0HNPFFI80PPjxoU6StUbaE9U/05EqlX0y2eEtwyHtmH0YEHDlA==;qSV4/Q3BCtnllm0QodkwTg=="
+secured: "FQJxQkqT4jDFuSkExF83ogw4xV/2U3JA9DD5KlwgT5QylJcTBQaS0hQ0Bp6ZH7j0UoZnRy8Qcpxi7vnEQ5zMFQk2bXB/qBlDJHDxyVCpruUnRmN/dE72oO79KLHdUbc+vUSEoUB0O3JAIX1F0b5r78PUpPUCWqGwJBLSuP5oA75nag05mmzWTe7VJyrNfPnNz2ccKD3U/0yzeb2mo6KuzTBAeP0mUxfSXzEAyrtD/HFJRFf34C0basbRkBuYDrKVjxp0TCowihYrk2KZAJzqCuJQ+hxagLGHsvUGfizJFe+CSiG0br6Xwas7satQ/TA5MiVUp5zqOYilZHvVS7bDz58v6wXgKKNyFlMvsFQQmjfZ0bwznUO1mET8g3lCdua3kv8tJl+fs/L5xv7SzBODPv4lyGxbHRBYU7y0KrujuuU=;kQFQssguGg/Ceu5CjP0dEA=="
 ---
 

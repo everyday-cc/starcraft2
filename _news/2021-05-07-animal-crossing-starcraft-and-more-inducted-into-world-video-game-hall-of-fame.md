@@ -2,11 +2,11 @@
 category: news
 title: "Animal Crossing, Starcraft, and more inducted into World Video Game Hall of Fame"
 excerpt: "The World Video Game Hall of Fame has announced its four 2021 inductees: Animal Crossing, Starcraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego? The inductees were ..."
-publishedDateTime: 2021-05-06T19:43:00Z
-originalUrl: "https://www.gamesradar.com/uk/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
-webUrl: "https://www.gamesradar.com/uk/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
-ampWebUrl: "https://www.gamesradar.com/uk/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
-cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/uk/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+publishedDateTime: 2021-05-06T19:38:00Z
+originalUrl: "https://www.gamesradar.com/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+webUrl: "https://www.gamesradar.com/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+ampWebUrl: "https://www.gamesradar.com/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
 type: article
 quality: 52
 heat: -1
@@ -41,38 +41,6 @@ related:
       - url: "https://i12.dlrwebservice.com/s3/img.rv/3718/i/3035909/o/1_3718_3035909_121729636.jpg"
         width: 2048
         height: 1536
-        isCached: true
-  - title: "2018 Starcraft Autumn Ridge 289BHS"
-    excerpt: "Starcraft Autumn Ridge 289BHS Travel Trailer #5AR183 with 26 photos for sale in Bushnell, Florida 33513. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-24T04:05:00Z
-    webUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-289bhs-travel-trailer-3033997"
-    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-289bhs-travel-trailer-3033997"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-289bhs-travel-trailer-3033997"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/41829/i/3033997/o/1_41829_3033997_121488298.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "2015 Keystone Starcraft 309BHL"
-    excerpt: "Keystone Starcraft 309BHL Travel Trailer #P9330A with 25 photos for sale in Adamsburg, Pennsylvania 15611. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-29T07:09:00Z
-    webUrl: "https://www.rvusa.com/2015-keystone-starcraft-309bhl-travel-trailer-3037564"
-    ampWebUrl: "https://www.rvusa.com/amp/2015-keystone-starcraft-309bhl-travel-trailer-3037564"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2015-keystone-starcraft-309bhl-travel-trailer-3037564"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i13.dlrwebservice.com/s3/img.rv/41871/i/3037564/o/1_41871_3037564_121579139.jpg"
-        width: 800
-        height: 599
         isCached: true
   - title: "2004 Starcraft Homestead 29BHS"
     excerpt: "Starcraft Homestead 29BHS Travel Trailer #c792043 with 21 photos for sale in Rapid City, South Dakota 57702. See this unit and thousands more at RVUSA.com. Updated Daily."
@@ -271,6 +239,6 @@ related:
         height: 456
         isCached: true
 
-secured: "Jr7o/Nm/wRbuSB4XTjZDQNHK3tiEqRnMgTK0C5bZRah/qkkKXy71k2INt+YFl2AjhhKA2RJ+nNocJyeMpQhkfp1MPo6GxthjbIo1SlepkX5/sWiIfHuxCj+287d5skqBjtAeqXH9kQQ1rJq8ewLAiliCiTguq4IgBHsnUI20ZuX3KQiBzs1UhiRqCOgebCxPHwzQf7cJMa05k47Z/HQhRK2Oa/Q/s7M4iN8yUk4oZ0Sgsz/cCaK4DtNVgcJ2NcnLwzKJ+LozYKcaMQ81BTexeWHHXdfl2sgRZh3Ngs74CT91blGo990yKUVRhgN9yb+Y35Xibtz1tP2gwXyeCEFIDUKYc/HTUA58G5AW0JqNJHc=;me4IOlu1zPAgyElk+4UmqQ=="
+secured: "oirKG/W07e2JIuzlB2NXTbhNcjq0d7nQ+uMwrrMgYlfv8ag40G30r9fZGLu7DMW76f9aIv4VgiM2ZyZCLd0z419EGWpp91aqajLkIiS7Na/UW/l8Bg20wffFhVAXz1ci0Xy9D7HSIYTPE1NQn9ng5+tqPrFg20e6zf/t1AR7U5+gjgeudRlHIcXm20h7fqrF0gIGoQ/pBz0PSauhknthNUFqbRjbElEgBVzccH0g1iXISn1/lXhRL3fBhDP9qzDpt3/NYlPl9Kkyc0XdpgWL0Z4VOd4IkOo2/lgeVgXbC5deyktd+5xRHAa6ztekiFSqxMHYu+UA7rxwoaSvoqG6RLBVjBcb62qxPz1oZpKIHb4=;cqfLf8AkrKW6Hru1njf+XQ=="
 ---
 

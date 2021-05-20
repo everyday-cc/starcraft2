@@ -2,7 +2,7 @@
 title: "SC2 Protoss Gameplay | Adept Glaives into Colossus"
 excerpt: "In today's gameplay video I use adept glaives vs a 5500GM zerg. I transition into colossus afterwards and go for a heavy push.  SC2 Protoss Gameplay | Adept Glaives into Colossus #sc2 #protoss #gameplay   Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com"
 originalUrl: https://youtube.com/watch?v=lP-AxjhloVM
-webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-sc2-protoss-gameplay-adept-glaives-into-colossus/
+webUrl: https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-sc2-protoss-gameplay-adept-glaives-into-colossus/
 type: video
 price: Free
 length: PT13M17S

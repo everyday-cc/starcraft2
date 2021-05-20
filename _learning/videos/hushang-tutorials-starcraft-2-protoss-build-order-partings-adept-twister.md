@@ -2,7 +2,7 @@
 title: "Starcraft 2: Protoss Build Order | Parting's Adept Twister"
 excerpt: "Starcraft 2: Protoss Build Order | Parting's Adept Twister #Starcraft2 #ProtossBuildOrder #Parting  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help"
 originalUrl: https://youtube.com/watch?v=JgVw6AsTL9c
-webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-build-order-partings-adept-twister/
+webUrl: https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-build-order-partings-adept-twister/
 type: video
 price: Free
 length: PT12M14S

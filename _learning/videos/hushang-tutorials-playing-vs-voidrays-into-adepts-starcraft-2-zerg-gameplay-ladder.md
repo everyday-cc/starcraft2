@@ -2,7 +2,7 @@
 title: "Playing vs Voidrays into Adepts [Starcraft 2 - Zerg Gameplay / Ladder]"
 excerpt: "Showing a game that gives a lot of insight into how to play vs voidrays depending on their 3rd base timing  Starcraft 2: Zerg Gameplay / Ladder #Zerg #Starcraft2 #Gameplay #Ladder  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com"
 originalUrl: https://youtube.com/watch?v=1qvK0KwZ2LQ
-webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-playing-vs-voidrays-into-adepts-starcraft-2-zerg-gameplay-ladder/
+webUrl: https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-playing-vs-voidrays-into-adepts-starcraft-2-zerg-gameplay-ladder/
 type: video
 price: Free
 length: PT11M3S

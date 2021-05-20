@@ -2,7 +2,7 @@
 title: "Protoss Gameplay Starcraft 2 | Storm vs Terran"
 excerpt: "#Protoss #Gameplay #Starcraft2  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years"
 originalUrl: https://youtube.com/watch?v=YhmpwiCGw5c
-webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-gameplay-starcraft-2-storm-vs-terran/
+webUrl: https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-protoss-gameplay-starcraft-2-storm-vs-terran/
 type: video
 price: Free
 length: PT11M42S

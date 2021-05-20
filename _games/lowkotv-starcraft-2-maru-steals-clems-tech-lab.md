@@ -2,7 +2,7 @@
 title: "StarCraft 2: Maru STEALS Clem's Tech Lab!"
 excerpt: "Best-of-3 series of top level StarCraft 2 between Clem (Terran) and Maru (Terran).  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:"
 originalUrl: https://youtube.com/watch?v=BZZosGja3cg
-webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-maru-steals-clems-tech-lab/
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maru-steals-clems-tech-lab/
 type: video
 length: PT21M34S
 publishedDateTime: 2020-11-17T11:05:58Z
@@ -14,7 +14,7 @@ provider:
   name: LowkoTV
   domain: lowko.tv
   images:
-    - url: https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg
+    - url: https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg
       width: 50
       height: 50
 

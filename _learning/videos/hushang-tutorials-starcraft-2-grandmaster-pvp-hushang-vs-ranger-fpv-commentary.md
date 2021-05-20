@@ -2,7 +2,7 @@
 title: "Starcraft 2: Grandmaster PvP | HuShang vs Ranger [FPV & Commentary]"
 excerpt: "Starcraft 2 Protoss vs Protoss (pvp) gameplay/ladder.    Top Grandmaster PvP | HuShang vs Ranger [FPV & Commentary] #Starcraft2 #protoss #pvp #commentary  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft"
 originalUrl: https://youtube.com/watch?v=XfkTeiZuUGA
-webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-grandmaster-pvp-hushang-vs-ranger-fpv-commentary/
+webUrl: https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-grandmaster-pvp-hushang-vs-ranger-fpv-commentary/
 type: video
 price: Free
 length: PT14M26S

@@ -2,7 +2,7 @@
 title: "Learn Starcraft 2: EASY Beginner Zerg Build Order Guide [2021]"
 excerpt: "Starcraft 2 Beginner's Guide (roach build order) . Let's learn a very easy beginner friendly zerg build order for Starcraft 2. This is a very powerful but also very easy build order (relatively at least haha) to execute for new players! Hope you learn a lot and enjoy the video!  Learn Starcraft 2: EASY"
 originalUrl: https://youtube.com/watch?v=IdLoHTiVJ4o
-webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-2021/
+webUrl: https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-2021/
 type: video
 price: Free
 length: PT31M9S

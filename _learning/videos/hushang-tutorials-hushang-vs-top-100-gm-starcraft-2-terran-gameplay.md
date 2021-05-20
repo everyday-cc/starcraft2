@@ -2,7 +2,7 @@
 title: "HuShang vs TOP 100 GM | Starcraft 2: Terran Gameplay"
 excerpt: "Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and I have 5+ GM students and"
 originalUrl: https://youtube.com/watch?v=tccZgx9HqXo
-webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-hushang-vs-top-100-gm-starcraft-2-terran-gameplay/
+webUrl: https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-hushang-vs-top-100-gm-starcraft-2-terran-gameplay/
 type: video
 price: Free
 length: PT18M17S

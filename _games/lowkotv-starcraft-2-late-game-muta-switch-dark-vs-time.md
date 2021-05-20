@@ -2,7 +2,7 @@
 title: "StarCraft 2: LATE  GAME MUTA SWITCH! (Dark vs TIME)"
 excerpt: "Professional match of StarCraft 2 between the current World Champion Dark and TIME the highest ranked player from China. In this match we see both players take a slightly uncommon path in their macro games. Tactical Nukes by TIME and a late game Mutalisk transition by Dark.  Become a YouTube member:"
 originalUrl: https://youtube.com/watch?v=1tykA9F5ZDQ
-webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-late-game-muta-switch-dark-vs-time/
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-late-game-muta-switch-dark-vs-time/
 type: video
 length: PT31M25S
 publishedDateTime: 2020-10-12T08:59:01Z
@@ -14,7 +14,7 @@ provider:
   name: LowkoTV
   domain: lowko.tv
   images:
-    - url: https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg
+    - url: https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg
       width: 50
       height: 50
 

@@ -2,7 +2,7 @@
 title: "Starcraft 2: Learning Zerg vs Zerg from Serral"
 excerpt: "In today's Zerg guide we are going to be looking at a Zerg vs Zerg match between Serral and Elazer, breaking down the game and seeing what we can learn from two of the top players in Europe.  Sponsor: https://www.siteground.com/index.htm?afcode=2eac6a366dc6939df6d36d5d2217e02c  #Starcraft #zerg #zvz"
 originalUrl: https://youtube.com/watch?v=7tRaskU_pCE
-webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-learning-zerg-vs-zerg-from-serral/
+webUrl: https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-learning-zerg-vs-zerg-from-serral/
 type: video
 price: Free
 length: PT17M46S

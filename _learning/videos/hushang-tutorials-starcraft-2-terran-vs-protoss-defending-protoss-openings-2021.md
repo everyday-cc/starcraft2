@@ -2,7 +2,7 @@
 title: "Starcraft 2: Terran vs Protoss | Defending Protoss Openings [2021]"
 excerpt: "Hey guys, in our second installation of Terran vs Protoss week we're looking at how to defend a bunch of different openings with the safe beginner terran opening.   Starcraft 2: Terran vs Protoss | Defending Protoss Openings [2021] #Starcraft2 #TerranVsProtoss #TvP #Terran #SC2  0:00 - Intro/Cinematic"
 originalUrl: https://youtube.com/watch?v=a7L-9spJ0vs
-webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-defending-protoss-openings-2021/
+webUrl: https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-defending-protoss-openings-2021/
 type: video
 price: Free
 length: PT27M20S

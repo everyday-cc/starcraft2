@@ -2,7 +2,7 @@
 title: "Using the safe PvP build to Defend cheese... 16 TIMES IN A ROW"
 excerpt: "I get cheesed 16 times in a row in Starcraft 2 to help you defend one base attacks in the protoss vs protoss matchup.  Using the safe PvP build to Defend cheese... 16 TIMES IN A ROW #protoss #pvp #starcraft2  Coaching -------------------------------------------------------------------------- Website:"
 originalUrl: https://youtube.com/watch?v=Qfgy6uw65uQ
-webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-using-the-safe-pvp-build-to-defend-cheese-16-times-in-a-row/
+webUrl: https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-using-the-safe-pvp-build-to-defend-cheese-16-times-in-a-row/
 type: video
 price: Free
 length: PT1H21M57S

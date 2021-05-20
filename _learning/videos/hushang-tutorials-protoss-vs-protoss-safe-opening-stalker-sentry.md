@@ -2,7 +2,7 @@
 title: "Protoss vs Protoss - Safe Opening (stalker-sentry)"
 excerpt: "Let's take a dive into some pvp tutorials this week. To get us into the midgame safely, let's make sure to start off with a safe opening!  Build Order: ---------------------------- 14 pylon 16 gate 17 gas 18 gas 19 gate 21 cyber 22 pylon @100% cyber    stalker + sentry    warp gate #stalker-stalker Nexus"
 originalUrl: https://youtube.com/watch?v=PD6PYQBfF6Q
-webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-vs-protoss-safe-opening-stalker-sentry/
+webUrl: https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-protoss-vs-protoss-safe-opening-stalker-sentry/
 type: video
 price: Free
 length: PT9M15S

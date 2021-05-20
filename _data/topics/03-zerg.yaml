@@ -41,8 +41,8 @@ keywords:
 hashtags:
   - "#Zerg"
 images:
-  - https://smartableai.github.io/starcraft2/assets/images/topics/zerg.jpg
+  - https://everyday-cc.github.io/starcraft2/assets/images/topics/zerg.jpg
 services:
-  games: https://smartableai.github.io/starcraft2/api/games/zerg/
-  learning: https://smartableai.github.io/starcraft2/api/learning/zerg/
-  people: https://smartableai.github.io/starcraft2/api/people/zerg/
+  games: https://everyday-cc.github.io/starcraft2/api/games/zerg/
+  learning: https://everyday-cc.github.io/starcraft2/api/learning/zerg/
+  people: https://everyday-cc.github.io/starcraft2/api/people/zerg/

@@ -2,7 +2,7 @@
 title: "Protoss vs Protoss | Aggressive Opening! Adept-Oracle [2020 Guide]"
 excerpt: "Starcraft 2: Protoss vs Protoss guide/tutorial. Today we're learning an aggressive pvp opening with 8 adepts + 2 oracles. It hits like a tank and there's pretty much no way for your opponent to defend any damage. The question is more so \"how much damage\" can you do?  Protoss vs Protoss | Aggressive Opening!"
 originalUrl: https://youtube.com/watch?v=6KQvDEO_PMo
-webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-vs-protoss-aggressive-opening-adept-oracle-2020-guide/
+webUrl: https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-protoss-vs-protoss-aggressive-opening-adept-oracle-2020-guide/
 type: video
 price: Free
 length: PT11M13S

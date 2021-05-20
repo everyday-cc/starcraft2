@@ -37,8 +37,8 @@ keywords:
 hashtags:
   - "#Protoss"
 images:
-  - https://smartableai.github.io/starcraft2/assets/images/topics/protoss.jpg
+  - https://everyday-cc.github.io/starcraft2/assets/images/topics/protoss.jpg
 services:
-  games: https://smartableai.github.io/starcraft2/api/games/protoss/
-  learning: https://smartableai.github.io/starcraft2/api/learning/protoss/
-  people: https://smartableai.github.io/starcraft2/api/people/protoss/
+  games: https://everyday-cc.github.io/starcraft2/api/games/protoss/
+  learning: https://everyday-cc.github.io/starcraft2/api/learning/protoss/
+  people: https://everyday-cc.github.io/starcraft2/api/people/protoss/

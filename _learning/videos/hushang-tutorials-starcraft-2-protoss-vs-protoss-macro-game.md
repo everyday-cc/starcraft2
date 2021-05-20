@@ -2,7 +2,7 @@
 title: "Starcraft 2: Protoss vs Protoss Macro Game"
 excerpt: "In today's Starcraft 2 video I talk you through my thoughts as I play a macro protoss vs protoss game vs Vibe's offrace  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website!"
 originalUrl: https://youtube.com/watch?v=gj0bdIiDF70
-webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-macro-game/
+webUrl: https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-macro-game/
 type: video
 price: Free
 length: PT17M36S

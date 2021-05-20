@@ -8,7 +8,7 @@ provider:
   name: SC2HL
   domain: sc2hl.com
   images:
-    - url: https://smartableai.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg
+    - url: https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg
       width: 50
       height: 50
 

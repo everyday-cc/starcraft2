@@ -2,7 +2,7 @@
 title: "Why you should place your PYLON on the HIGHGROUND vs RANDOM"
 excerpt: "This random player tried to cheese me after forcing me to place my pylon in an undesirable position. He gets really toxic afterwards, enjoy!  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons?"
 originalUrl: https://youtube.com/watch?v=6Aq1oBZWDTc
-webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-why-you-should-place-your-pylon-on-the-highground-vs-random/
+webUrl: https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-why-you-should-place-your-pylon-on-the-highground-vs-random/
 type: video
 price: Free
 length: PT5M44S

@@ -2,7 +2,7 @@
 title: "Starcraft 2: Live Terran vs Protoss Practice Session"
 excerpt: "In today's video I recorded a terran vs protoss practice session. This week I'm working a lot on the Terran vs Protoss matchup. Let's try and figure out this frustrating matchup :)  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com"
 originalUrl: https://youtube.com/watch?v=N1rZW8yd_7M
-webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-live-terran-vs-protoss-practice-session/
+webUrl: https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-live-terran-vs-protoss-practice-session/
 type: video
 price: Free
 length: PT1H2M2S

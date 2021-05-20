@@ -2,7 +2,7 @@
 title: "Starcraft 2: Defending Mutalisks [Terran vs Zerg]"
 excerpt: "In today's Terran Starcraft 2 lesson we are looking at how to defend mutalisks in Terran vs Zerg  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you"
 originalUrl: https://youtube.com/watch?v=WPLvSCJNvkM
-webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-defending-mutalisks-terran-vs-zerg/
+webUrl: https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-defending-mutalisks-terran-vs-zerg/
 type: video
 price: Free
 length: PT19M25S

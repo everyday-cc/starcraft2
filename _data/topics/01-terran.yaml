@@ -38,8 +38,8 @@ keywords:
 hashtags:
   - "#Terran"
 images:
-  - https://smartableai.github.io/starcraft2/assets/images/topics/terran.jpg
+  - https://everyday-cc.github.io/starcraft2/assets/images/topics/terran.jpg
 services:
-  games: https://smartableai.github.io/starcraft2/api/games/terran/
-  learning: https://smartableai.github.io/starcraft2/api/learning/terran/
-  people: https://smartableai.github.io/starcraft2/api/people/terran/
+  games: https://everyday-cc.github.io/starcraft2/api/games/terran/
+  learning: https://everyday-cc.github.io/starcraft2/api/learning/terran/
+  people: https://everyday-cc.github.io/starcraft2/api/people/terran/

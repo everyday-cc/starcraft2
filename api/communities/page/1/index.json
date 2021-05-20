@@ -6,7 +6,7 @@
     {
       "path": "_communities/reddit-starcraft.md",
       "excerpt": "All about the StarCraft games and professional scenes surrounding them. Please read the rules before submitting content.",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/communities/reddit-starcraft/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/communities/reddit-starcraft/index.json",
       "webUrl": "https://www.reddit.com/r/starcraft/",
       "originalUrl": "https://www.reddit.com/r/starcraft/",
       "provider": {
@@ -14,7 +14,7 @@
         "domain": "reddit.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/reddit.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/reddit.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -41,7 +41,7 @@
     {
       "path": "_communities/sc2-forums.md",
       "excerpt": "It's the official Starcraft 2 forums by Blizzard",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/communities/sc2-forums/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/communities/sc2-forums/index.json",
       "webUrl": "https://us.forums.blizzard.com/en/sc2/",
       "originalUrl": "https://us.forums.blizzard.com/en/sc2/",
       "provider": {
@@ -49,7 +49,7 @@
         "domain": "blizzard.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false

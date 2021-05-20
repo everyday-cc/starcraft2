@@ -2,7 +2,7 @@
 title: "Learn Starcraft 2: EASY Beginner Terran Build Order (2020)"
 excerpt: "Let's learn a very easy beginner friendly terran build order for starcraft 2. This is a very powerful but also very easy build order (relatively at least haha) to execute for new players! Hope to learn a lot and enjoy the video!  Coaching --------------------------------------------------------------------------"
 originalUrl: https://youtube.com/watch?v=X1g4O2PTOtQ
-webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-terran-build-order-2020/
+webUrl: https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-terran-build-order-2020/
 type: video
 price: Free
 length: PT21M44S

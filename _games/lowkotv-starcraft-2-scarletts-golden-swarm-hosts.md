@@ -2,7 +2,7 @@
 title: "StarCraft 2: Scarlett's GOLDEN Swarm Hosts!"
 excerpt: "Awesome game of Zerg versus Protoss between Scarlett and Nina in StarCraft 2. This particular game is far different from what we normally see at the pro level in this matchup. A wide variety of units is used, with only a minor focus on the Stargate units and Corruptors.  Support my work on Patreon: http://www.patreon.com/lowkotv"
 originalUrl: https://youtube.com/watch?v=YGsBtckySA8
-webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-scarletts-golden-swarm-hosts/
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarletts-golden-swarm-hosts/
 type: video
 length: PT35M58S
 publishedDateTime: 2021-04-09T10:52:55Z
@@ -14,7 +14,7 @@ provider:
   name: LowkoTV
   domain: lowko.tv
   images:
-    - url: https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg
+    - url: https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg
       width: 50
       height: 50
 

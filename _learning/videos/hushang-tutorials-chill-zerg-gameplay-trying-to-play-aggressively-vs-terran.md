@@ -2,7 +2,7 @@
 title: "Chill Zerg Gameplay | Trying to play aggressively vs Terran"
 excerpt: "#ZergVsTerran #Starcraft2 #Gameplay #Commentary In today's video we're doing some chill zerg gameplay and we're going to be playing very aggressively. I'm done taking my beatings as zerg, it's time to take the fight to the terran!  0:00 - Intro/Teaser 0:32 - Zerg Gameplay 11:20 - Like/Subscribe/Share"
 originalUrl: https://youtube.com/watch?v=Kpyndf1PfSI
-webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-chill-zerg-gameplay-trying-to-play-aggressively-vs-terran/
+webUrl: https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-chill-zerg-gameplay-trying-to-play-aggressively-vs-terran/
 type: video
 price: Free
 length: PT12M52S

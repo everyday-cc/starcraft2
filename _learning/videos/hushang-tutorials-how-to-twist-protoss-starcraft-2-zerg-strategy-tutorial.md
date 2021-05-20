@@ -2,7 +2,7 @@
 title: "How to twist Protoss [Starcraft 2: Zerg Strategy Tutorial]"
 excerpt: "[Starcraft 2: Zerg Strategy Tutorial] #Starcraft2 #Zerg #ZvP  In today's video I show you guys 3 common setups/plans to play aggressive against protoss. All three are pretty strong but it depends a bit on your playstyle and intentions throughout the game. Hope you enjoy the video :)   Coaching --------------------------------------------------------------------------"
 originalUrl: https://youtube.com/watch?v=rlYxy7ygaio
-webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-how-to-twist-protoss-starcraft-2-zerg-strategy-tutorial/
+webUrl: https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-how-to-twist-protoss-starcraft-2-zerg-strategy-tutorial/
 type: video
 price: Free
 length: PT18M24S

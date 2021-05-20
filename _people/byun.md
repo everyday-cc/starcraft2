@@ -3,14 +3,14 @@ name: "ByuN - 변현우"
 bio: "ByuN Hyun Woo, formerly known as GhostKing, is a Terran player from South Korea, currently teamless."
 location: South Korea
 type: "profile"
-heat: 89
+heat: 88
 
 website: https://liquipedia.net/starcraft2/ByuN
 
 twitter:
   username: sc2byun
   url: https://twitter.com/sc2byun
-  followers: 9259
+  followers: 10024
 
 twitch:
   url: https://www.twitch.tv/sc2byun
@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "ByuN - 변현우"
 
-secured: "RfI7fVHVPgXVScJc91bUZ2J7L2LSw6NybkAEOhuQcsaKpr7h2ShBXo4brIfJ88g11Fa6OW3uv1sSStbMfoIdMwP7nKBXistVKP0YodBgFU/qtkw/xnuNMKdO/2jY6PqRjIHpyrj7q29fCJM2wmOTq8f2v/m+fEcKLkITuEg4K68+v3xKgr3BcfeV7olwqNhUA+2cCX5w5Hsoyh/u/aU2Iiz8lYGYbvmymNCY2W6LecrLKcS6fdxTSkXImID8miVI0GSWcXehRnRBBX/YkqzBvkYCeH5Xi9aidvaxOchaCM7MR+bZlNf5W5PXHmMSCs+ElA0APyzFLljaxWi0HT90sKWXwjQrKHWHs+T6jiFAIRbfBMF6KFE9p8H9YXxIUsEKgyOhYdLKkcuXNfEFiniDEVM8/5WJLKVcwCrQF5obLJM=;QEUOeBQFqOzT6IBiKcoWSw=="
+secured: "wiiaGnYBY5jX0IgD44YWp9PbjuH8P8dds5YTpcIE13Mi+h9eN5ZJeA6hOtP2BaqAM5gdTJRsgz5k9kgmjOvOgQO8kHDvLQKlA5IBHoL+eoxCYu9Y90OJlopPjaKP8ujB5D3Tb9mxokI6CgcATOxQcXzZGb2WwJECuA5mzivzBiMP0BpqkTTFgORZkxwf/tzyZ+wvSU0Lax7QQ17O7q2mUAEKKqWqbdOyvcVadnZsFJKQ3DWBgbWgytxhIKyf2Ifp8k2boNGsMYpDZhcfyb/8k68lSHBWa/fWS9J6GWuL89WFv7SnNmqkE2d03xU/ka/YNqtaevvaU7H6TQR7ply8/ohMORTLJruT4uEcFu7M2KIEXWSS4dmF71jJWcQ1wmI3NZCa61NBcqrCwLp/r5Ik1JGqr200QaAJF7fZWmMz998=;JYokx2JCCZhrfPQdz2764Q=="
 ---
 

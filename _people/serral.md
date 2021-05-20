@@ -3,14 +3,14 @@ name: "Serral"
 bio: "Joona Serral Sotala is a Zerg player from Finland who is currently playing for Ence eSports."
 location: Finland
 type: "profile"
-heat: 148
+heat: 127
 
 website: https://liquipedia.net/starcraft2/Serral
 
 twitter:
   username: ENCE_Serral
   url: https://twitter.com/ENCE_Serral
-  followers: 24304
+  followers: 26354
 
 twitch:
   url: https://www.twitch.tv/serral
@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "Serral"
 
-secured: "2pWatgKRRqUMUOkCA6LoHz4Na//jpv9sVEolcxqhYK/CvnAGoOgcYcdw4zp/5+lJjt8yFwvagUCVP1ycIPWFjHOv2cpPRqYH3WRqB0o2GnJmiHUGk3W1TAfCrpV9tXg0wDK6IBKvAE/xZxsDtMsvagBf/k4dcvNsSwRizoMORxplyT/Vv6DmwaIvEju7G8xiqCJN6Hb3iBz1eiRyphzBfNSmFLirym0gdayno0K7wU0lHK394opZZbEc+v8YxYJ+MLtCXwl6aXdWNrPLoQypZPKz+oBkC8ruXhnRTdk35mripVZWnWHzWdBSyXBJhSblk4RYMxhWIoSdqLtuZqefdgGPEUMcfnPXOFI2bRRWz+kIW28u7jrTwARP2QZOaFR9YPN47VVG4S0p/cG7JvGAKcBziC1Mw8fIl3i8NjHxkII=;66MIwGZq/8XdrQm75YO17A=="
+secured: "ikkX1KaM45gh//ur9fF1gRscPZy4AJH67pAkqtoeOWCByqmCqU4K1GJSwxCsw5anyXXZC9tiyU9q1Fv9oFLHT68c/R5DVaCy6YtsIrcYAmB/YxGyWgOZyRfbWLWMjAQc7M4ZYC0ls6wEfAmg+UQ1q75VHBhWBS9Ob4GYQuhBQzMOwQrz7NLQyf9PnG3esfzz0iccyI0C8Nr6G0WDZHa0rb+LT/IMA7Y3L4oaaLvgPd8RbWPX0SEjrijVxRRWp1EwDCfVePSmTCN97mAQhr4vOgVpK9gUEgxBuPLC7Jgoq85r1eQEvEm6pQi0iwvMSYIudoouqJNWyShMaSeV/zSL56KNPRxR9DiS+Ns2g4KpX5+/fZdgjlqo4BFxWqqObLeeKgRzQyi5LbJaSSgMF9vg9p95947OSnSPImYg/wOmxns=;6h12r0gepofGMM6KyHAlqw=="
 ---
 

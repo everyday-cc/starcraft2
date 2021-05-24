@@ -1,28 +1,28 @@
 ---
 category: news
-title: "2021 Starcraft Autumn Ridge 26-BH"
-excerpt: "Starcraft Autumn Ridge 26-BH Travel Trailer #BF5256 with 42 photos for sale in Clayton, Delaware 19938. See this unit and thousands more at RVUSA.com. Updated Daily."
-publishedDateTime: 2021-05-06T04:06:00Z
-originalUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
-webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
-ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
-cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
+title: "That Time A Tiny StarCraft Tournament Gave Away 100 Bitcoins"
+excerpt: "Esports has come a hell of a long way and prizes are massive, but they might not have netted you anywhere near as much as what placing 5th to 8th in this StarCraft 2 tournament would have got you."
+publishedDateTime: 2021-05-13T11:47:00Z
+originalUrl: "https://www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-100-bitcoins/"
+webUrl: "https://www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-100-bitcoins/"
+ampWebUrl: "https://www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-100-bitcoins/amp/"
+cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-100-bitcoins/amp/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: RVUSA.com
-  domain: rvusa.com
+  name: Kotaku Australia
+  domain: kotaku.com.au
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://i12.dlrwebservice.com/s3/img.rv/39105/i/3043387/o/1_39105_3043387_121725952.jpg"
-    width: 2048
-    height: 1536
+  - url: "https://imgix.kotaku.com.au/content/uploads/sites/3/2015/12/Kerrigan.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -74,21 +74,21 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "That Time A Tiny StarCraft Tournament Gave Away 100 Bitcoins"
-    excerpt: "Esports has come a hell of a long way and prizes are massive, but they might not have netted you anywhere near as much as what placing 5th to 8th in this StarCraft 2 tournament would have got you."
-    publishedDateTime: 2021-05-13T11:47:00Z
-    webUrl: "https://www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-100-bitcoins/"
-    ampWebUrl: "https://www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-100-bitcoins/amp/"
-    cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-100-bitcoins/amp/"
+  - title: "2021 Starcraft Autumn Ridge 26-BH"
+    excerpt: "Starcraft Autumn Ridge 26-BH Travel Trailer #BF5256 with 42 photos for sale in Clayton, Delaware 19938. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-05-06T04:06:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
+    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
     type: article
     provider:
-      name: Kotaku Australia
-      domain: kotaku.com.au
+      name: RVUSA.com
+      domain: rvusa.com
     quality: 57
     images:
-      - url: "https://imgix.kotaku.com.au/content/uploads/sites/3/2015/12/Kerrigan.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280"
-        width: 1280
-        height: 720
+      - url: "https://i12.dlrwebservice.com/s3/img.rv/39105/i/3043387/o/1_39105_3043387_121725952.jpg"
+        width: 2048
+        height: 1536
         isCached: true
   - title: "Legendary Starcraft ll player Taeja retires from pro competition"
     excerpt: "\"It's time to start a new chapter in my life\" said the legendary Terran player as he hung up his mouse and keyboard for the final time."
@@ -116,6 +116,6 @@ related:
       domain: rvusa.com
     quality: 37
 
-secured: "jrvH/I1cITOZ+qtgvTgP17zPn3/fD7H7bY0FhiToymOE3xrKrKb3Y5/kaDA1u2ynZLqni0WCxOeIXha5BDcPMK5UIKvoAQ8/LyvI8BlC2fW/7PRGTUaVPgQp2lIUVmsDtADKQFvqGmgF37zx/JwApTE9J8Cz6T/veYIGxIBaU5vHOqyn51zVm9fJshLVSSoI2ne4+SMV+YdtVEDO0jw5/aEYaPquyOy/h92fUhGJrT7F/O8OrUJRHuCSb3vMrKP70RqpZRH7Zp75mLMYCf2FYQ9HplKREw5xtc06xdz1DCm32GhV/o9XhOYGuvhyC/u0cCfMqtBe8FdmRh5Y0IhDYk8UiugAI8QIYw5PHbunkxFgV0zDV1UPB2jKwFiDPjqu6LMeuse/m/cSLjywB7PwPQDurh6+1b5tl6bB1FvoytFn9D0nV5jQ3BcPmcpjmZJvOmIIbvW7ZwpyB7R6l16fmDBelAM/8JeSjGjZGLrkf+WJVZMG8ahIJTqGdPQNEYo4y47LcrgtFYx7w5imp+QSOg==;NzuMnYw3HcPIcpXOdm7V8g=="
+secured: "v5tGFI5U/r7QUWpCCXl+Z8IoMpx3MgcvJ/6AIQ5PxvNJqGiw+oeefbSTxWjICw+aEPQS4ORtc2UdNeNjJKwGgnAoHnG9sCYFkz7T5ncj2+B/yaZaLSVDwdzLSZ4/g0PAGslJSjxOMriE4cIuqjcZrQdoKL6Ml0SedhhierCzGBo/ijJKfgJa5c+4ROLCVhWy6lcPisE8JgrwDp9FiFMRiV+u9BThup6V82+sqnWDOxFZqRD57OaXAqP80jBlMA7oJMrYU+imTu9QpOoff9m460YR98yKaAC1PpxpmjiiPzJylF+6fn6BcESwCuKjm1YYaioFzNSZIqqOTpvxGF0vUPJ1u19xlL3mXPCzhDZRi4E=;xR9wT+S49C3UlK+Jaivolg=="
 ---
 

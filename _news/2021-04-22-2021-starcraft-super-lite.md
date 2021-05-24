@@ -10,7 +10,8 @@ cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/20
 type: article
 quality: 57
 heat: 97
-published: true
+removed: true
+published: false
 
 provider:
   name: RVUSA.com

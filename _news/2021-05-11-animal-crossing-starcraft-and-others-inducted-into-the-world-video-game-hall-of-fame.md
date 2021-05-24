@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Weekend PC Download Deals for May 7: StarCraft enters the Hall of Fame"
+    excerpt: "StarCraft has been inducted into the World Video Game Hall of Fame and Blizzard is celebrating with a full franchise sale."
+    publishedDateTime: 2021-05-07T21:50:00Z
+    webUrl: "https://www.shacknews.com/article/124261/weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame"
+    ampWebUrl: "https://www.shacknews.com/article/124261/weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/124261/weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 57
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/05/07/starcraft-pcdeals_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Starcraft headlines class of 4 inductees into World Video Game Hall of Fame"
     excerpt: "Did you miss GamesBeat Summit 2021? Watch on-demand here!  The World Video Game Hall of Fame has added four classic games to its roster today: Animal Crossing, StarCraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego?"
     publishedDateTime: 2021-05-06T15:04:00Z
@@ -41,6 +57,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/05/winners.jpg?w=1200&strip=all"
         width: 1200
         height: 588
+        isCached: true
+  - title: "Animal Crossing, Starcraft, and more inducted into World Video Game Hall of Fame"
+    excerpt: "The World Video Game Hall of Fame has announced its four 2021 inductees: Animal Crossing, Starcraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego? The inductees were ..."
+    publishedDateTime: 2021-05-06T19:38:00Z
+    webUrl: "https://www.gamesradar.com/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+    ampWebUrl: "https://www.gamesradar.com/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 52
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/xVywRssSrF4W6U3Y9VZjqm-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "‘Animal Crossing’, ‘StarCraft’ and others inducted into the World Video Game Hall Of Fame"
     excerpt: "This years’ inductees into the World Video Game Hall Of Fame have been announced, honouring four of the 'best' video games"
@@ -88,6 +120,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "StarCraft inducted into the World Video Game Hall of Fame"
+    excerpt: "What started out as a piece of the real-time strategy game genre that featured humans and aliens from across the solar system back in 1998 has landed on earth in the World Video Game Hall of Fame."
+    publishedDateTime: 2021-05-06T17:57:00Z
+    webUrl: "https://www.invenglobal.com/articles/13968/starcraft-inducted-into-the-world-video-game-hall-of-fame"
+    type: article
+    provider:
+      name: Inven Global
+      domain: invenglobal.com
+    quality: 37
+    images:
+      - url: "https://static.invenglobal.com/upload/image/2021/05/06/o1620322211028365.jpeg"
+        width: 810
+        height: 456
+        isCached: true
   - title: "StarCraft, MSFS, and Carmen Sandiego inducted into Videogame Hall of Fame"
     excerpt: "Microsoft Flight Simulator, StarCraft, and Where In The World Is Carmen Sandiego? lead this year’s class, at least as far as PC-relevant games go. They’re joined by Animal Crossing, which we’re sure is a fine game but can’t be certain unless a port ..."
     publishedDateTime: 2021-05-08T12:21:00Z
@@ -100,6 +146,6 @@ related:
       domain: pcgamesn.com
     quality: 36
 
-secured: "oUQscsO4Kk4H+V7G9tR+EzSuT4CKuMB9hR1ciU4hWUH9ZUaEKWwkt+puY8E3jLUDZhm/YYGp/k8xZhKX8/BpwkedukZ1nAyKRRjHbawGGrswV5d/wItZGsB0et1q2U5Ai+Tn/RjnlMeP5adMM5LXkFn7el6AVPeRT0smg63eSBCkE3GIxAdopO9+mKKhI8mv5JmIEgCrKryzxwK6yYR7d7b3Dyipmwq+Ft/TVYyCHZVMVhr1Yx05UCaRtB5LqTETfWHj7ygtif2hIkn/IN9jWYD9yDnhJ+ypSrv0mVs1IE4llrBwTCxSWEigm927yEFupIlTPC56HfxuER4IvpjwFYDQVMw6fDx5FDEGTEQlW2U=;/lpsKkajZYgQTXauy+9VWA=="
+secured: "pZC/f53tTmBAjq1JicHklVjr3N3RtoyQgjjiPPz9KIYla6rfChNY8u8sqkrpj/VTsYHmU5n6VQLMKZ186jR3JSg/94CX+MiwOj2N5DYTq73HHPlD/a8zx7wYT6/+d0OKBrrLPWaqMvii1tQsGg5v86e03x7Gxn7SMR4b70mzau1/BOJTGXl/x9Qp72BnjHDc8AqMk3WtlheiQBfB6JjMhwxwYk65QS7bmDs+1uisrzCCOSZIUIearDTrETJotaO8H/s6O6YrouDxUNc2mhI0G+wHL1DjcWxPx5CVsoKn09BAIjJIRDty9zCA9pb0WCUmNeF1kXwYebTO8QJcRa9HYFK/disX6zzWATs2GSVtRxLm4v4e4x8wqNlF/uaC4ATrwJQs7xIW1AFShGmengtrqStYeNvDsfvY0qHnXHrEeBxC9ek856hAj5lQqPqxVDfntQZHryXuKzCJcnje/FZyu0ph6RBMzK/BphTLHwQeXW4tZd6+AV4Q6s4UwCSUvNHkIDRyxHoWxyoNQrn0JPC2bQ==;xSQO7hMQtmntIVt/18bYsw=="
 ---
 

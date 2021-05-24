@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-06-starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame.md",
-      "title": "Starcraft headlines class of 4 inductees into World Video Game Hall of Fame",
-      "excerpt": "Did you miss GamesBeat Summit 2021? Watch on-demand here!  The World Video Game Hall of Fame has added four classic games to its roster today: Animal Crossing, StarCraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego?",
+      "path": "_news/2021-05-13-starcraft-ii-great-taeja-is-retiring-once-again.md",
+      "title": "Starcraft II Great TaeJa Is Retiring Once Again",
+      "excerpt": "The conclusion he reached that it was time for him to leave the professional StarCraft II scene. “It wasn’t an easy decision,” he wrote. “I can feel I want to play more, but the ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/",
-      "originalUrl": "https://venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/",
+      "webUrl": "https://www.kotaku.com.au/2021/05/starcraft-ii-great-taeja-is-retiring-once-again/",
+      "originalUrl": "https://www.kotaku.com.au/2021/05/starcraft-ii-great-taeja-is-retiring-once-again/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 194,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/winners.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 588,
+          "url": "https://imgix.kotaku.com.au/content/uploads/sites/3/2021/05/12/825b7f60288855420035f0bed212660a.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,64 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/amp/",
-      "publishedDateTime": "2021-05-06T08:04:00-07:00",
+      "ampWebUrl": "https://www.kotaku.com.au/2021/05/starcraft-ii-great-taeja-is-retiring-once-again/amp/",
+      "cdnAmpWebUrl": "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2021/05/starcraft-ii-great-taeja-is-retiring-once-again/amp/",
+      "publishedDateTime": "2021-05-12T14:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds.md",
-      "title": "2018 Starcraft Autumn Ridge Outfitter 19BH Front Queen & 2 Bunk Beds",
-      "excerpt": "Starcraft Autumn Ridge Outfitter 19BH Front Queen & 2 Bunk Beds Travel Trailer #TT13844 with 33 photos for sale in Williamstown, New Jersey 08094. See this unit and thousands more at RVUSA.com. Updated Daily.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rvusa.com/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909",
-      "originalUrl": "https://www.rvusa.com/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 354,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i12.dlrwebservice.com/s3/img.rv/3718/i/3035909/o/1_3718_3035909_121729636.jpg",
-          "width": 2048,
-          "height": 1536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909",
-      "cdnAmpWebUrl": "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909",
-      "publishedDateTime": "2021-05-05T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RVUSA.com",
-        "domain": "rvusa.com",
+        "name": "Kotaku Australia",
+        "domain": "kotaku.com.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -92,23 +41,23 @@
       ],
       "topics": [
         "StarCraft 2",
-        "Zerg"
+        "Terran"
       ]
     },
     {
-      "path": "_news/2021-04-22-2021-starcraft-super-lite.md",
-      "title": "2021 Starcraft Super Lite",
-      "excerpt": "Starcraft Super Lite Travel Trailer #40501 with 31 photos for sale in Grand Rapids, Michigan 49548. See this unit and thousands more at RVUSA.com. Updated Daily.",
+      "path": "_news/2021-05-08-weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame.md",
+      "title": "Weekend PC Download Deals for May 7: StarCraft enters the Hall of Fame",
+      "excerpt": "StarCraft has been inducted into the World Video Game Hall of Fame and Blizzard is celebrating with a full franchise sale.",
       "sourceUrl": null,
-      "webUrl": "https://www.rvusa.com/2021-starcraft-super-lite-travel-trailer-3030981",
-      "originalUrl": "https://www.rvusa.com/2021-starcraft-super-lite-travel-trailer-3030981",
+      "webUrl": "https://www.shacknews.com/article/124261/weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame",
+      "originalUrl": "https://www.shacknews.com/article/124261/weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 217,
       "tags": null,
       "images": [
         {
-          "url": "https://i11.dlrwebservice.com/s3/img.rv/3323/i/3030981/o/1_3323_3030981_121435857.jpg",
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/05/07/starcraft-pcdeals_feature.jpg",
           "width": 1920,
           "height": 1080,
           "title": null,
@@ -118,13 +67,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.rvusa.com/amp/2021-starcraft-super-lite-travel-trailer-3030981",
-      "cdnAmpWebUrl": "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-super-lite-travel-trailer-3030981",
-      "publishedDateTime": "2021-04-22T00:04:00-07:00",
+      "ampWebUrl": "https://www.shacknews.com/article/124261/weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/124261/weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame?amphtml=1",
+      "publishedDateTime": "2021-05-07T14:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "RVUSA.com",
-        "domain": "rvusa.com",
+        "name": "Shacknews",
+        "domain": "shacknews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -492,48 +441,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-2021-starcraft-super-lite-241-bh.md",
-      "title": "2021 Starcraft Super Lite 241-BH",
-      "excerpt": "Starcraft Super Lite 241-BH Travel Trailer #YD5104 with 2 photos for sale in Clayton, Delaware 19938. See this unit and thousands more at RVUSA.com. Updated Daily.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rvusa.com/2021-starcraft-super-lite-241-bh-travel-trailer-2978117",
-      "originalUrl": "https://www.rvusa.com/2021-starcraft-super-lite-241-bh-travel-trailer-2978117",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i12.dlrwebservice.com/s3/img.rv/39105/i/2978117/o/1_39105_2978117_120128335.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rvusa.com/amp/2021-starcraft-super-lite-241-bh-travel-trailer-2978117",
-      "cdnAmpWebUrl": "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-super-lite-241-bh-travel-trailer-2978117",
-      "publishedDateTime": "2021-02-26T21:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RVUSA.com",
-        "domain": "rvusa.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1117,6 +1024,81 @@
       "provider": {
         "name": "Game-Debate",
         "domain": "game-debate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-starcraft-ii-does-not-launch-issue-quick-and-easy-fix.md",
+      "title": "StarCraft II Does Not Launch Issue Quick and Easy Fix",
+      "excerpt": "The StarCraft II does not launch issue is usually caused by a corrupted game file, outdated graphics driver, or an outdated operating system update. In order to fix this problem you will need to ...",
+      "sourceUrl": null,
+      "webUrl": "https://thedroidguy.com/starcraft-ii-does-not-launch-issue-quick-and-easy-fix-1136894",
+      "originalUrl": "https://thedroidguy.com/starcraft-ii-does-not-launch-issue-quick-and-easy-fix-1136894",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Droid Guy",
+        "domain": "thedroidguy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game.md",
+      "title": "‘StarCraft II’ devs open new studio to work on “next great” RTS game",
+      "excerpt": "A number of ‘StarCraft II’ developers have banded together to open a new studio focused on PC real-time strategy games.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nme.com/en_au/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793542",
+      "originalUrl": "https://www.nme.com/en_au/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793542",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2020/10/102020-Starcraft-II-Blizzard-Entertainment.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nme.com/en_au/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793542?amp",
+      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_au/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793542?amp",
+      "publishedDateTime": "2020-10-20T23:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
         "images": null,
         "publishers": null,
         "authors": null

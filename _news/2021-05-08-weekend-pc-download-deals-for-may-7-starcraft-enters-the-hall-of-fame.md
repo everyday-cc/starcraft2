@@ -9,8 +9,8 @@ ampWebUrl: "https://www.shacknews.com/article/124261/weekend-pc-download-deals-f
 cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/124261/weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame?amphtml=1"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 217
+published: true
 
 provider:
   name: Shacknews
@@ -26,165 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "2018 Starcraft Autumn Ridge Outfitter 19BH Front Queen & 2 Bunk Beds"
-    excerpt: "Starcraft Autumn Ridge Outfitter 19BH Front Queen & 2 Bunk Beds Travel Trailer #TT13844 with 33 photos for sale in Williamstown, New Jersey 08094. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-06T04:05:00Z
-    webUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909"
-    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909"
+  - title: "Starcraft headlines class of 4 inductees into World Video Game Hall of Fame"
+    excerpt: "Did you miss GamesBeat Summit 2021? Watch on-demand here!  The World Video Game Hall of Fame has added four classic games to its roster today: Animal Crossing, StarCraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego?"
+    publishedDateTime: 2021-05-06T15:04:00Z
+    webUrl: "https://venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/"
+    ampWebUrl: "https://venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/amp/"
     type: article
     provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 55
     images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/3718/i/3035909/o/1_3718_3035909_121729636.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
-  - title: "2004 Starcraft Homestead 29BHS"
-    excerpt: "Starcraft Homestead 29BHS Travel Trailer #c792043 with 21 photos for sale in Rapid City, South Dakota 57702. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-30T07:12:00Z
-    webUrl: "https://www.rvusa.com/2004-starcraft-homestead-29bhs-travel-trailer-3038483"
-    ampWebUrl: "https://www.rvusa.com/amp/2004-starcraft-homestead-29bhs-travel-trailer-3038483"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2004-starcraft-homestead-29bhs-travel-trailer-3038483"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i11.dlrwebservice.com/s3/img.rv/39603/i/3038483/o/1_39603_3038483_121603446.jpg"
-        width: 860
-        height: 645
-        isCached: true
-  - title: "2011 Starcraft Lexion S-Lite 254RK"
-    excerpt: "Starcraft Lexion S-Lite 254RK Travel Trailer #28036365 with 22 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-30T09:30:00Z
-    webUrl: "https://www.rvusa.com/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
-    ampWebUrl: "https://www.rvusa.com/amp/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/39478/i/3039347/o/1_39478_3039347_121656631.jpg"
-        width: 908
-        height: 511
-        isCached: true
-  - title: "2011 Starcraft Lexion S-Lite M-254RK"
-    excerpt: "Starcraft Lexion S-Lite M-254RK Travel Trailer #28036365 with 1 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-30T09:30:00Z
-    webUrl: "https://www.rvusa.com/2011-starcraft-lexion-s-lite-m-254rk-travel-trailer-3039347"
-    ampWebUrl: "https://www.rvusa.com/amp/2011-starcraft-lexion-s-lite-m-254rk-travel-trailer-3039347"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2011-starcraft-lexion-s-lite-m-254rk-travel-trailer-3039347"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i11.dlrwebservice.com/s3/img.rv/39478/i/3039347/o/1_39478_3039347_121626111.jpg"
-        width: 908
-        height: 511
-        isCached: true
-  - title: "2021 Starcraft Autumn Ridge 19BH"
-    excerpt: "Starcraft Autumn Ridge 19BH Travel Trailer #AR13769 with 7 photos for sale in Williamstown, New Jersey 08094. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-30T04:10:00Z
-    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-19bh-travel-trailer-3038631"
-    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-19bh-travel-trailer-3038631"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-19bh-travel-trailer-3038631"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/3718/i/3038631/o/1_3718_3038631_121610992.jpg"
-        width: 1300
-        height: 1300
-        isCached: true
-  - title: "2017 Starcraft AR-ONE MAXX 26BHS"
-    excerpt: "Starcraft AR-ONE MAXX 26BHS Travel Trailer #1KZ0728B with 1 photos for sale in Ocala, Florida 34480. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-01T04:09:00Z
-    webUrl: "https://www.rvusa.com/2017-starcraft-ar-one-maxx-26bhs-travel-trailer-3040107"
-    ampWebUrl: "https://www.rvusa.com/amp/2017-starcraft-ar-one-maxx-26bhs-travel-trailer-3040107"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2017-starcraft-ar-one-maxx-26bhs-travel-trailer-3040107"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/32363/i/3040107/o/1_32363_3040107_121641289.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "2021 Starcraft Autumn Ridge 172FB"
-    excerpt: "Starcraft Autumn Ridge 172FB Travel Trailer #AR13768 with 7 photos for sale in Williamstown, New Jersey 08094. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-30T22:33:00Z
-    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-172fb-travel-trailer-3038629"
-    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-172fb-travel-trailer-3038629"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-172fb-travel-trailer-3038629"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i11.dlrwebservice.com/s3/img.rv/3718/i/3038629/o/1_3718_3038629_121610811.jpg"
-        width: 1300
-        height: 1300
-        isCached: true
-  - title: "2015 Starcraft Travel Star Expandable 227CKS"
-    excerpt: "Starcraft Travel Star Expandable 227CKS Travel Trailer #FG129373-A with 28 photos for sale in Cincinnati, Ohio 45251. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-05T07:11:00Z
-    webUrl: "https://www.rvusa.com/2015-starcraft-travel-star-expandable-227cks-travel-trailer-3042140"
-    ampWebUrl: "https://www.rvusa.com/amp/2015-starcraft-travel-star-expandable-227cks-travel-trailer-3042140"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2015-starcraft-travel-star-expandable-227cks-travel-trailer-3042140"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/772/i/3042140/o/1_772_3042140_121693444.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
-  - title: "2018 Starcraft Solstice Super Lite 28TSI"
-    excerpt: "Starcraft Solstice Super Lite 28TSI Fifth Wheel #c86327 with 5 photos for sale in Hendersonville, Tennessee 37075. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-05T07:08:00Z
-    webUrl: "https://www.rvusa.com/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
-    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i13.dlrwebservice.com/s3/img.rv/39603/i/3042275/o/1_39603_3042275_121697213.jpg"
-        width: 860
-        height: 573
-        isCached: true
-  - title: "2021 Starcraft Autumn Ridge 26-BH"
-    excerpt: "Starcraft Autumn Ridge 26-BH Travel Trailer #BF5256 with 42 photos for sale in Clayton, Delaware 19938. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-06T04:06:00Z
-    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
-    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/39105/i/3043387/o/1_39105_3043387_121725952.jpg"
-        width: 2048
-        height: 1536
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/winners.jpg?w=1200&strip=all"
+        width: 1200
+        height: 588
         isCached: true
   - title: "Animal Crossing, Starcraft, and more inducted into World Video Game Hall of Fame"
     excerpt: "The World Video Game Hall of Fame has announced its four 2021 inductees: Animal Crossing, Starcraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego? The inductees were ..."
@@ -202,28 +58,68 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "2018 Starcraft Launch 27rb ULTRA"
-    excerpt: "Starcraft Launch 27rb ULTRA Travel Trailer #12869 for sale in Eureka, Missouri 63025. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-02T04:04:00Z
-    webUrl: "https://www.rvusa.com/2018-starcraft-launch-27rb-ultra-travel-trailer-3040561"
-    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-launch-27rb-ultra-travel-trailer-3040561"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-launch-27rb-ultra-travel-trailer-3040561"
+  - title: "‘Animal Crossing’, ‘StarCraft’ and others inducted into the World Video Game Hall Of Fame"
+    excerpt: "This years’ inductees into the World Video Game Hall Of Fame have been announced, honouring four of the 'best' video games"
+    publishedDateTime: 2021-05-10T12:04:00Z
+    webUrl: "https://www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228"
+    ampWebUrl: "https://www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228?amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228?amp"
     type: article
     provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
-  - title: "2010 Starcraft RT 36"
-    excerpt: "Starcraft RT 36 Toy Hauler #c5411800 for sale in Glendale, Arizona 85308. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-06T04:05:00Z
-    webUrl: "https://www.rvusa.com/2010-starcraft-rt-36-toy-hauler-3043118"
-    ampWebUrl: "https://www.rvusa.com/amp/2010-starcraft-rt-36-toy-hauler-3043118"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2010-starcraft-rt-36-toy-hauler-3043118"
+      name: NME
+      domain: nme.com
+    quality: 48
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/03/Switch_ACNH_0220-Direct_Advanced_SCRN_08.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
+  - title: "‘Animal Crossing’, ‘StarCraft’ and others inducted into the World Video Game Hall Of Fame"
+    excerpt: "This years’ inductees into the World Video Game Hall Of Fame have been announced, honouring four of the 'best' video games"
+    publishedDateTime: 2021-05-11T01:03:00Z
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937565"
+    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937565?amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937565?amp"
     type: article
     provider:
-      name: RVUSA.com
-      domain: rvusa.com
+      name: NME
+      domain: nme.com
+    quality: 48
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/03/Switch_ACNH_0220-Direct_Advanced_SCRN_08.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
+  - title: "StarCraft and Microsoft Flight Simulator among latest inductees into the Video Game Hall of Fame"
+    excerpt: "The Museum back in March narrowed the field down to just a dozen finalists. Classics like Pole Position, Guitar Hero, Portal and Call of Duty all"
+    publishedDateTime: 2021-05-07T19:01:00Z
+    webUrl: "https://www.techspot.com/news/89599-starcraft-microsoft-flight-simulator-among-latest-inductees-video.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/89599-starcraft-microsoft-flight-simulator-among-latest-inductees-video.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89599-starcraft-microsoft-flight-simulator-among-latest-inductees-video.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 44
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-07-image-18.jpg"
+        width: 2500
+        height: 1439
+        isCached: true
+  - title: "'Animal Crossing' and 'StarCraft' join the Video Game Hall of Fame"
+    excerpt: "1998’s StarCraft and 2001’s Animal Crossing. They beat out the likes of the original Call of Duty, Portal, Guitar Hero and — checks notes — FarmVille to make it into this year’s class."
+    publishedDateTime: 2021-05-07T03:19:00Z
+    webUrl: "https://www.engadget.com/world-video-game-hall-of-fame-2021-inductees-193936184.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
     quality: 37
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/db4b8f00-ae9e-11eb-afa7-474f9635f098"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "StarCraft inducted into the World Video Game Hall of Fame"
     excerpt: "What started out as a piece of the real-time strategy game genre that featured humans and aliens from across the solar system back in 1998 has landed on earth in the World Video Game Hall of Fame."
     publishedDateTime: 2021-05-06T17:57:00Z
@@ -238,6 +134,17 @@ related:
         width: 810
         height: 456
         isCached: true
+  - title: "StarCraft, MSFS, and Carmen Sandiego inducted into Videogame Hall of Fame"
+    excerpt: "Microsoft Flight Simulator, StarCraft, and Where In The World Is Carmen Sandiego? lead this year’s class, at least as far as PC-relevant games go. They’re joined by Animal Crossing, which we’re sure is a fine game but can’t be certain unless a port ..."
+    publishedDateTime: 2021-05-08T12:21:00Z
+    webUrl: "https://www.pcgamesn.com/starcraft-msfs-hall-of-fame"
+    ampWebUrl: "https://www.pcgamesn.com/starcraft-msfs-hall-of-fame?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-msfs-hall-of-fame?amp"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 36
 
 secured: "ITVjQO1AacvstEZ+l2AJqWLWxloMviuTistcd4aAh5yt7RI2eBLyVrhF7SR+raot7XaXCisakKe0i/Ji4Pa2qs9b2ZGOxPy0ko6WBq53UBENrf/9x23L3zAnicNQArJAiw/HYQDY6ruxXPRi7cMWopMQ1XUjuSn1l3yCYWGgc8t+3j0ZSVV0nM8YWc2ZiLZOeUuiFkBtrTtHUfNfi8Frx4OvTC8s4ARgzN4yi4r8DvQnUqTWr+5DU2RuGDnGbPCDZ6S1MI/paRm8rws+heG9qszq0H5hRcaAa7GFZH3W0put/+VpByd05rv3fW6vfJB8gpxjH1dpyEyGEf4swULJmtezzPqagkZyBnOHHkorfFk=;3IZrQzM2FhICHfiRYV8IeQ=="
 ---

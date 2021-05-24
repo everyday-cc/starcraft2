@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://www-themarysue-com.cdn.ampproject.org/c/s/www.themarysue.
 type: article
 quality: 37
 heat: -1
+removed: true
 published: false
 
 provider:

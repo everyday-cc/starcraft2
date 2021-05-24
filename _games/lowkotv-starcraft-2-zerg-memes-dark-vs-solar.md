@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zerg-memes-dark-
 type: video
 length: PT30M2S
 publishedDateTime: 2020-10-24T10:01:33Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CmF7zUANQBI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UBLPuva54k6tCFkxMVKT2O7ywyc15lgXH8R8eRXl0HysNKDmbaVYdhmgKcdyBW+tQ4yGBKMbAuKMUUnntqvvYLtRjFrcj7+K09ffUW0oPrTaQO5s4CDwEK6ARCrNaQ9mBfATA+wcMf4uL58pNZ5Dtvweev2oVaMyeEdvCh+ktLdex4JfWLK7GepNZzVxXtbcPfgg4U4vcoFov3Necovh1TEr4Ol/gnyst1VK6xXtm45vmHQTXNsPu0p7MG2DbD2O8am6SRMK5CIKmBu3SNMl1hU3W56CI7QLM4qoZSjxwvqNSrzT/JED75YR4iZ1bh6b0+TMY+RN0oQkL/IqdOeM9FzQTRk0QBV75Jt/jKpWhIzNvlBKLmr+FPggyPDHJo7241DSZ68jDvOkgUBgNYLwVxxGSOGML3YTakKHAozjkVo=;jUjdVCXvJvyXP0xgrTvS3A=="
+secured: "rD3aEGhB99FGD1sH6q7yHZahqb1QQdo+/Bgov9Ut2kX3AP5C0CeJ2bBshDiwvMazH0Fk6dFLzptoIMeCem1kx+7NbHiomyNRRNNlz8MmEYMHNhaVLL6XUAePFZjaHnfySYiah74cq7lKQzP0qvqXCVlZmGaEo5ye9bqm1xqRESYSiVRxnQ8c2aY6L2uhnndGMDBn/pKJCP8pKckld5NArskY86Dfx2YxZXgY2NdPEfzC6B+htwUPCfwnTJhj4Wk8p/Lv0yBM50+gEUooWKP4z0MkqjM7lmoEZ6vFTMezwdorELUXsR/r2lfTtvzwSq47QVgo1yd8o4MInPyHs8XCp6QFdm/Zdtat4rlq3MXHdUXMq3LLpBTrVVZkpVrbr0EYjVv7rKOuekMNDnjWK4l0zRMaLE50SD1v7DvqrA0FN98=;/QiB/9u6qPlz3KMdZC8IxA=="
 ---
 

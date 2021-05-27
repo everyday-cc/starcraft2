@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kotaku.com.au/2021/05/starcraft-ii-great-taeja-is-retiri
 cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2021/05/starcraft-ii-great-taeja-is-retiring-once-again/amp/"
 type: article
 quality: 74
-heat: 194
+heat: 114
 published: true
 
 provider:
@@ -27,54 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "2015 Starcraft Travel Star Expandable 227CKS"
-    excerpt: "Starcraft Travel Star Expandable 227CKS Travel Trailer #FG129373-A with 28 photos for sale in Cincinnati, Ohio 45251. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-05T07:11:00Z
-    webUrl: "https://www.rvusa.com/2015-starcraft-travel-star-expandable-227cks-travel-trailer-3042140"
-    ampWebUrl: "https://www.rvusa.com/amp/2015-starcraft-travel-star-expandable-227cks-travel-trailer-3042140"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2015-starcraft-travel-star-expandable-227cks-travel-trailer-3042140"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/772/i/3042140/o/1_772_3042140_121693444.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
-  - title: "2018 Starcraft Solstice Super Lite 28TSI"
-    excerpt: "Starcraft Solstice Super Lite 28TSI Fifth Wheel #c86327 with 5 photos for sale in Hendersonville, Tennessee 37075. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-05T07:08:00Z
-    webUrl: "https://www.rvusa.com/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
-    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i13.dlrwebservice.com/s3/img.rv/39603/i/3042275/o/1_39603_3042275_121697213.jpg"
-        width: 860
-        height: 573
-        isCached: true
-  - title: "2021 Starcraft Autumn Ridge 26-BH"
-    excerpt: "Starcraft Autumn Ridge 26-BH Travel Trailer #BF5256 with 42 photos for sale in Clayton, Delaware 19938. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-06T04:06:00Z
-    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
-    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/39105/i/3043387/o/1_39105_3043387_121725952.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
   - title: "That Time A Tiny StarCraft Tournament Gave Away 100 Bitcoins"
     excerpt: "Esports has come a hell of a long way and prizes are massive, but they might not have netted you anywhere near as much as what placing 5th to 8th in this StarCraft 2 tournament would have got you."
     publishedDateTime: 2021-05-13T11:47:00Z
@@ -105,17 +57,6 @@ related:
         width: 708
         height: 471
         isCached: true
-  - title: "2010 Starcraft RT 36"
-    excerpt: "Starcraft RT 36 Toy Hauler #c5411800 for sale in Glendale, Arizona 85308. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-06T04:05:00Z
-    webUrl: "https://www.rvusa.com/2010-starcraft-rt-36-toy-hauler-3043118"
-    ampWebUrl: "https://www.rvusa.com/amp/2010-starcraft-rt-36-toy-hauler-3043118"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2010-starcraft-rt-36-toy-hauler-3043118"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
 
 secured: "UIjJAiqAyxki4RISA/acA7K1/m7wbDHjK7E0rzf6zhWpfO2nX8PmAtnxGO6TSamt1anu5kKB3ZMYNp8mSeJ0AYHtKu4NYaKbypN0NYKiNVzKNXi2WL7ULg6DtoAudVjmPUrKhIJpd4O6082iQmejQeYy50Yp/CGcvIYh976yH9hSOzXCTCbqhisxlg3/31tIeT3p0zx3aSCoYuJrOMkOPEk4FP2IIvivEe/crAaALU+1RrnT0Fgq/pj4lFg5JbiTOwsTNM+9PVXAL42MkKBjxfsOj81IBpbbf8UA04WB7piEtGTsoARqAn9VVSp05yZLDDQrEoIhIo4xk1JnNXBsV4LVQWTP04bKaDtEXvESQMs=;ZgWfh/eFLzHrNW1fYAk52Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nme.com/news/gaming-news/animal-crossing-starcraft-and-o
 cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228?amp"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Weekend PC Download Deals for May 7: StarCraft enters the Hall of Fame"
-    excerpt: "StarCraft has been inducted into the World Video Game Hall of Fame and Blizzard is celebrating with a full franchise sale."
-    publishedDateTime: 2021-05-07T21:50:00Z
-    webUrl: "https://www.shacknews.com/article/124261/weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame"
-    ampWebUrl: "https://www.shacknews.com/article/124261/weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/124261/weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 57
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/05/07/starcraft-pcdeals_feature.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "‘Animal Crossing’, ‘StarCraft’ and others inducted into the World Video Game Hall Of Fame"
     excerpt: "This years’ inductees into the World Video Game Hall Of Fame have been announced, honouring four of the 'best' video games"
     publishedDateTime: 2021-05-11T01:03:00Z

@@ -42,17 +42,6 @@ related:
         width: 2000
         height: 1270
         isCached: true
-  - title: "StarCraft, MSFS, and Carmen Sandiego inducted into Videogame Hall of Fame"
-    excerpt: "Microsoft Flight Simulator, StarCraft, and Where In The World Is Carmen Sandiego? lead this year’s class, at least as far as PC-relevant games go. They’re joined by Animal Crossing, which we’re sure is a fine game but can’t be certain unless a port ..."
-    publishedDateTime: 2021-05-08T12:21:00Z
-    webUrl: "https://www.pcgamesn.com/starcraft-msfs-hall-of-fame"
-    ampWebUrl: "https://www.pcgamesn.com/starcraft-msfs-hall-of-fame?amp"
-    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-msfs-hall-of-fame?amp"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 36
 
 secured: "pZC/f53tTmBAjq1JicHklVjr3N3RtoyQgjjiPPz9KIYla6rfChNY8u8sqkrpj/VTsYHmU5n6VQLMKZ186jR3JSg/94CX+MiwOj2N5DYTq73HHPlD/a8zx7wYT6/+d0OKBrrLPWaqMvii1tQsGg5v86e03x7Gxn7SMR4b70mzau1/BOJTGXl/x9Qp72BnjHDc8AqMk3WtlheiQBfB6JjMhwxwYk65QS7bmDs+1uisrzCCOSZIUIearDTrETJotaO8H/s6O6YrouDxUNc2mhI0G+wHL1DjcWxPx5CVsoKn09BAIjJIRDty9zCA9pb0WCUmNeF1kXwYebTO8QJcRa9HYFK/disX6zzWATs2GSVtRxLm4v4e4x8wqNlF/uaC4ATrwJQs7xIW1AFShGmengtrqStYeNvDsfvY0qHnXHrEeBxC9ek856hAj5lQqPqxVDfntQZHryXuKzCJcnje/FZyu0ph6RBMzK/BphTLHwQeXW4tZd6+AV4Q6s4UwCSUvNHkIDRyxHoWxyoNQrn0JPC2bQ==;xSQO7hMQtmntIVt/18bYsw=="
 ---

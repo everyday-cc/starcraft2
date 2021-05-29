@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-when-behind-go-d
 type: video
 length: PT32M27S
 publishedDateTime: 2020-11-19T10:13:18Z
-heat: 54
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0SlB8B7UdZI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "KoSSZZUO8YrkCh3bnEjhBrIxFzL3zDzJvPW1PCo/C0fU0IFcQ8yLMw96LvRobG4Sur51w4S6ZMW7by93RHNIhcBhixcfqjXuwLEh9enP3c8upnbGIEPBmil1nIUnNozyndkNU12M3Kh7fBPZ2aJzXaOIzNppq4F2OkLYy2DSQOLmTQKUvITVLEq7HBU7AA02nr2trt8+oSPQK1Ibef5plsetaNFjOlQlNnNT3BEdzh+ZwW7uPZqLZW9HuJ6QviDApETWPyJUKtXsL1kR3MGqzv+2bD03uzJhONItWNZtaXQABJO79RdP/DoFtUI631RPr/DO6EaZUnWV6629kdUKpYtPgCPzq3YgJy/M5A7tWB2huXdlEovdEjrrhKmAqIesZfVDvQzUhY6reU8ugYIn5aVaNzGm6LOg1Xdt0ueTJLo=;BGwM779TNrOWrIyxTROhQA=="
+secured: "4HT/1ORk9LPuwdit82Vf4K7+T4jRuJMQMegyhIgvrvnlbr+icUmTPE5KvVeraa48nvrWOFEQ7ERGrJMyWFX7Z3+53BT9AKJNI6qyffdhkce+G8IFGMbWc9jr90v2Cs7egMOhpw+eY1yIh8Wnm2MK299O/grLs365Hk5GRPUbTS/eOsU8cEgn9dcyHTU/SB25+ivoRpasVu0E4GDxJ90+tHGcxZYx97BP7WC7YwkcLd0yiosePgq8KOX8fkh7w1aiyajHxyruULVBX6mWKR9sMxt8dYeizpQInsM1LZXYlrnSu8+AmpUDOCUYqT7sbneI9/0XAA47nUnuwBRBtQJizSXnVXRmjmYOOvIsm/inmPTacQh62/BnFhFNemEa8/1rdzAG3JporgP6VDBTVk74+tcUMns/qs9rMfpnahOkBOU=;hYLghLVdY3pUr21GnkjyUw=="
 ---
 

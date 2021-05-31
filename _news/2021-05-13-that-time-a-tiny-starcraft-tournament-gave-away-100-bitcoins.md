@@ -42,20 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Legendary Starcraft ll player Taeja retires from pro competition"
-    excerpt: "\"It's time to start a new chapter in my life\" said the legendary Terran player as he hung up his mouse and keyboard for the final time."
-    publishedDateTime: 2021-05-12T05:35:00Z
-    webUrl: "https://www.invenglobal.com/articles/14005/team-liquid-taeja-retires-starcraft-ll"
-    type: article
-    provider:
-      name: Inven Global
-      domain: invenglobal.com
-    quality: 54
-    images:
-      - url: "https://static.invenglobal.com/upload/image/2021/05/12/r1620801058518794.jpeg"
-        width: 708
-        height: 471
-        isCached: true
 
 secured: "v5tGFI5U/r7QUWpCCXl+Z8IoMpx3MgcvJ/6AIQ5PxvNJqGiw+oeefbSTxWjICw+aEPQS4ORtc2UdNeNjJKwGgnAoHnG9sCYFkz7T5ncj2+B/yaZaLSVDwdzLSZ4/g0PAGslJSjxOMriE4cIuqjcZrQdoKL6Ml0SedhhierCzGBo/ijJKfgJa5c+4ROLCVhWy6lcPisE8JgrwDp9FiFMRiV+u9BThup6V82+sqnWDOxFZqRD57OaXAqP80jBlMA7oJMrYU+imTu9QpOoff9m460YR98yKaAC1PpxpmjiiPzJylF+6fn6BcESwCuKjm1YYaioFzNSZIqqOTpvxGF0vUPJ1u19xlL3mXPCzhDZRi4E=;xR9wT+S49C3UlK+Jaivolg=="
 ---

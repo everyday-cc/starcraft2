@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kotaku.com.au/2021/05/starcraft-ii-great-taeja-is-retiri
 cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2021/05/starcraft-ii-great-taeja-is-retiring-once-again/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 94
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://imgix.kotaku.com.au/content/uploads/sites/3/2015/12/Kerrigan.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Legendary Starcraft ll player Taeja retires from pro competition"
-    excerpt: "\"It's time to start a new chapter in my life\" said the legendary Terran player as he hung up his mouse and keyboard for the final time."
-    publishedDateTime: 2021-05-12T05:35:00Z
-    webUrl: "https://www.invenglobal.com/articles/14005/team-liquid-taeja-retires-starcraft-ll"
-    type: article
-    provider:
-      name: Inven Global
-      domain: invenglobal.com
-    quality: 54
-    images:
-      - url: "https://static.invenglobal.com/upload/image/2021/05/12/r1620801058518794.jpeg"
-        width: 708
-        height: 471
         isCached: true
 
 secured: "UIjJAiqAyxki4RISA/acA7K1/m7wbDHjK7E0rzf6zhWpfO2nX8PmAtnxGO6TSamt1anu5kKB3ZMYNp8mSeJ0AYHtKu4NYaKbypN0NYKiNVzKNXi2WL7ULg6DtoAudVjmPUrKhIJpd4O6082iQmejQeYy50Yp/CGcvIYh976yH9hSOzXCTCbqhisxlg3/31tIeT3p0zx3aSCoYuJrOMkOPEk4FP2IIvivEe/crAaALU+1RrnT0Fgq/pj4lFg5JbiTOwsTNM+9PVXAL42MkKBjxfsOj81IBpbbf8UA04WB7piEtGTsoARqAn9VVSp05yZLDDQrEoIhIo4xk1JnNXBsV4LVQWTP04bKaDtEXvESQMs=;ZgWfh/eFLzHrNW1fYAk52Q=="

@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-florencios-favou
 type: video
 length: PT42M8S
 publishedDateTime: 2021-03-17T12:45:07Z
-heat: 60
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qhTomZ3__wU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "PuVZB/wXFZ80/EoLLc5LyCne5Lsco/J/8/WNeb82r3WXJnl/6F8ftXDKF8ppuNbGAq9Ti1bMw4zw8KvafPlV4e8fW4PNFpyuYFHZIegmGEhnMRu0sePr1iexjHKzWIO7KlREKbmXNZJE7OiiK//cUqvW6qyCViNiLXu7Laoz+8z10yaw7qUwrLO7Hjzbh6+RPTtWcdKZrQ/lV8SwuXHcWcG4Ludg7L9DNgY8TaDZ0VURpP8eW3/csjVMRdkyzE65IVCMbMB/69RY+HWLPmJLFuYqSLQC2Dy2KkHbzWzFiWmmgSumKFK4Qy6vC6v82nXqka2+OMV5j3Eeko0rqNMXfgwxgclRcaGikYnS5a5i/dnETC4szCFr6xz/X8oOqa2TGh2flm1oR6CNwdra4AJHIPpaxesU46JLJAeiihhcuxE=;wz+RqnwYTNqv/yQh3y0pFg=="
+secured: "OYo2xUNrCxOw3rR5UyNpNRO0LZncHn2pHe8F8B8GOO3HxAMQPMX8tRDOQPGweC7zepxVrUdZKkyjEA4HQD5M5VuDlVmdKSgxootCbb7r4k5/cAKKHCAm0X7K+jxgatzqlTowKa3wFChJDrXXJkz8ZGrLWcKPCbU0XoJU6WLkhLcu1smuHluGIKMmiLH4UAxwbJjFfBBv9buAspPQnUdezV4whMeFC/0d2or+cyQiFz80cVvDPhSyq5UIR0IM1A+cU7REqQq49FkiN9YbFwwB3u1qID7LR7X6jK+pywaSNs45vysUYJC5kfdvwXfv/IeRxBIGXnhfVwjQVlYP78NaNm7TSjl5RO+7vd+6vBBoXpotG304qAxbMpP4qoFrBACV2U55WpZ9GPFykpUdvNM7aG48QNAWhwIhnlejyesSyKU=;34Avgj/If6Qur3ua9Mhwnw=="
 ---
 

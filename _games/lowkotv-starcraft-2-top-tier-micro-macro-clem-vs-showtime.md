@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-tier-micro-m
 type: video
 length: PT22M26S
 publishedDateTime: 2021-02-09T11:10:50Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pV8vs2V7dVI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "DlPI/MocRS3fnIsk2rvQmom3zJsEvjZcPkJXewU38PrHq4mh2xGxK6VKfCWYQchbayEfuYZszpsEnYYmlV6jlbkV9StfbGHV1RdGqhcTdFeJGviEWKiDw+jxj+/6hjdGrLR0vjngTSRwEDJwScpCDLFca99nhZZQ2VSYHWDFgciCQ4JIwlG/6nECzGhjX57p8cOc4DTU4vExqQVziOOnngHKrDAJTlRUn5x99v4O723RJ/OSDOeqy1GM5m5+g5Zd1JEQsl1bMg7gHmTnFXucIHyZp+sCCTSgYCsZln285JMBZskrhDJXDjnTbDOsrUNVqy1kv+hAj4UTjdjwOeI8LU1BnP3LApixta+SqMNMNSrH9bREKnjNTtyv3KIXHnwFkR2jwk7Cb3tmaF9uZrb2i9afsp0U/ePDaZwZIcYjYyY=;K9hYNzDErlRo8WawKBtSmw=="
+secured: "3G1bGZJw3H3UQRsgtHSraXkSSleOfdtFbHC2RhwL1wIsAFuvOgueNqqvQJVna7rOX1ZkIvNaGS5TtFOz+mjNobyN7nQEv3tqmTf8T2dScgUlo9ujMMLSRo063ZssFHjOxux81k5c2zmMq7QSShiaQVcL0KZo2oD9Gf+mCgwXbpZsRHIB0NMgQfsoxCkSkJnaSHKZzGQlfNyFMR7rbzAoWYAO2QAH6Gm4QxgBZdsiyY4gL6QWbG+LSE1rQlbpEJUsmpVBbx8Yvg2TxnHUkmxTldyTC+FvegdcLgdkjNDiR9CvkpoV47StI6mfrn9E9EpOSDXw+V9CzG/+Y7Ie/4q8r/34nUsUfs89Gbwx05L6RNCrzWZ8ixQvWCnso/nIHG4IqHQi3FgWcQBMr5D+uYD8QYw9SMCd1SO50Y9kFM6SF6U=;CcI8S8P1m7C1+w+2G0xVIA=="
 ---
 

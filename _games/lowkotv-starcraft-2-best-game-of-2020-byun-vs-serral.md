@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-game-of-202
 type: video
 length: PT42M58S
 publishedDateTime: 2020-12-01T10:38:35Z
-heat: 70
+heat: 65
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VZeBQi3WXlk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "IQfGlCSO+yjebk8mbJW9BElNIBuLrpNJwKYJ4cdWKeAHquN95bw++lemIWrJM0+E9EmyWsPmItdPMa3kuSKl5UZMt4yTvKxYNMJ/ckpKVem/vAW1lCnye/M8rdd12FnU62DEAg5eIAI21j6pW4+Ye7dRMb9AJoS/y3SWnj0cYAvLuYjerLc9CTP4tCrHLx6MXaj+SxEstgNPTEgM6tY12u+D5Ao3l/U2vFfpbPwFOaTlC4CLzj/4y4AE5U6VbZzFO8Zrno7cISJtrq4KvCDqG9CzbvuEbcoAjPuVpPxMrPWNqX6KLo1e3qnokHn8uLfPNYS3ZuWlkInEhSbQIq8UHF1YCmfEkMDJ62jrBehX+mDNr92ApOt3K6PHKkwfhHhAAoVWDr/NNrJO2jnnZbbcYQyFFdkVNE2ipoGBpN1rxJu3rgHsx5bJn+yPp8JxS97x;Ew8/wmvPqZ5VRXDnH9qmtw=="
+secured: "IWeg6pwIKrLaFUPZxJVJRMb42eBHNTZNOZAgFDj/dfgF0y38akEAJJf3Dth/nClvga+t6tHvLGPOmW68a+qvqu3Zd3Pc8GCCot5aq5ipP/x+FioWNWZQKHFi3EBLQteW5B50TM2JmUef7OJN5tZvE+XUydj476itnUDzUI7ts5NeeKlwhyCFz5GQtdWNQmUyndxa1dIY4xgB/pHnRV22LoUxwUZJK+nAGZuVESfXWeUvVpm8XVj9fJ6KVDqhcMIpKYIG0JhyzqZ+0xbO/yLSjUqlGWyndV8jYl6lhN8yn4Ib8mymcBCTyIw2ozg8CFfta9y4PRx5C1uLddcFlMV9e8GjFkjgCN49KDucJx/hucsbbbwC5oUIjw2O50N8c7JiWuj/nebJ7ssczk6zGxTsOzOkjhwo5cRLcCBTl9LNQUXP0qbiJBV91VYsqCnw7AQZ;7DAphu8rE2Or5fVWdsJ38g=="
 ---
 

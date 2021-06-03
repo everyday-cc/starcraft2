@@ -3,14 +3,14 @@ name: "sOs - 김유진"
 bio: "Kim sOs Yoo Jin is a StarCraft progamer from South Korea. He plays Protoss for team Jin Air Green Wings."
 location: South Korea
 type: "profile"
-heat: 30
+heat: 0
 
 website: https://liquipedia.net/starcraft2/SOs
 
 twitter:
   username: JinAirsOs
   url: https://twitter.com/JinAirsOs
-  followers: 8396
+  followers: 8349
 
 twitch:
   url: https://www.twitch.tv/jinairsos1
@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "sOs - 김유진"
 
-secured: "7X2mryV5FZCP8M8X0rhvK7qOw5Ule5Q/0fj43XP8Y1iMUyRWPPJnhAi33PU8BVciFTaVnvzeDICLHESM5ztKNs53ddjzqkUzzfmi1JOGp5/6CS1NH5dgV2N3ylEYjmIIHaivjXPyrhA7hkTOsyB9a95YeE8DJ43QK3JgMUVCKAAHTYc0ZFvkfdxx4NPqgvsrqpCsYhS7dxW5n41+nIcgBfnvZmmAbNCeOK3PR1FrFm8dQ1RnUay6FEnF0E5ApJKVTH6w4WPmK21/FVWZko8dWsVsDO34hD1MW4WqePPP+zJU/pTubD9WX5A+NU2mbooKbFi5EPOSvtLjcJuHpwoVYitTbH86GIzkJGAnJLUQtXatZfLN2bNCI8yHLD8uxsg0aYSWFv88a5CFDkEQ0frMdUSvkGTXR93DtgxRapiWFeY=;BwDpxv49kgVaEQlyrq1qBQ=="
+secured: "5Td0oQ0mIXrMO2tHB/wpZJCLCAKnP88sjvdK29cZCapOkDrwU94RS8Ay8/25xOIA363vpR6XfThas0EwaGnMcZ4Awq2vPu5KtZWI2o3/bpdFa55jf67a/7UNRY8JdoEP2Nvr0w3wGTU6/caWuFV9a/pcQj7LSVgf8emQ4BONGSnCUK56ymAxI8vIhI7c8X580yoJMvZrHHzxizYuib4vyPonvvJzlp3Epj5Gw/cmznsiQ6AXFWeYDVcHO/pG0MJteCwvNHR5xjzcY6p9TqHnPd5kJE60sXdsmwoWIdSM5s5tYu3VkMN0CuL8PrEGcSq3oOPdO0QwgJXrWTw8GxTA/ioGDZlv78xHT51c0iRjDN2R5sa6CUd7N67+LtDF2FeN9H0zgzdBuRpcomgRVnsEd8HABdfO0RSPX6G6jlffamQ=;o4WBB0+l/Oijade2u2GILw=="
 ---
 

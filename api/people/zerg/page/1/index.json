@@ -4,6 +4,42 @@
   "page": 1,
   "value": [
     {
+      "path": "_people/reynor.md",
+      "title": "Reynor",
+      "excerpt": "SC2 italian professional player for @teamqlash and redbull athlete @redbullgaming",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/people/reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/people/reynor/",
+      "type": "profile",
+      "name": "Reynor",
+      "bio": "SC2 italian professional player for @teamqlash and redbull athlete @redbullgaming",
+      "location": "Italy",
+      "website": "https://liquipedia.net/starcraft2/Reynor",
+      "twitter": {
+        "username": "Reynor02",
+        "url": "https://twitter.com/Reynor02",
+        "followers": 16252
+      },
+      "twitch": {
+        "url": "https://www.twitch.tv/rb_reynor",
+        "followers": 22300
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 387,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1151435347450114050/b4Nrflg9_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Reynor",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/serral.md",
       "title": "Serral",
       "excerpt": "Joona Serral Sotala is a Zerg player from Finland who is currently playing for Ence eSports.",
@@ -17,7 +53,7 @@
       "twitter": {
         "username": "ENCE_Serral",
         "url": "https://twitter.com/ENCE_Serral",
-        "followers": 26354
+        "followers": 26352
       },
       "twitch": {
         "url": "https://www.twitch.tv/serral",
@@ -27,7 +63,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 127,
+      "heat": 48,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1237029703669743621/bLXySPYv_400x400.jpg",

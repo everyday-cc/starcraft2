@@ -4,42 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_people/byun.md",
-      "title": "ByuN - 변현우",
-      "excerpt": "ByuN Hyun Woo, formerly known as GhostKing, is a Terran player from South Korea, currently teamless.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/people/byun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/people/byun/",
-      "type": "profile",
-      "name": "ByuN - 변현우",
-      "bio": "ByuN Hyun Woo, formerly known as GhostKing, is a Terran player from South Korea, currently teamless.",
-      "location": "South Korea",
-      "website": "https://liquipedia.net/starcraft2/ByuN",
-      "twitter": {
-        "username": "sc2byun",
-        "url": "https://twitter.com/sc2byun",
-        "followers": 10024
-      },
-      "twitch": {
-        "url": "https://www.twitch.tv/sc2byun",
-        "followers": 44300
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 88,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/988681889530564608/UK1ffdqU_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "ByuN - 변현우",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/ty.md",
       "title": "TY - 전태양",
       "excerpt": "Jun TY Tae Yang, also known as BaBy, is a StarCraft progamer from South Korea who is currently playing for Afreeca Freecs. He played his first StarCraft II official match during the hybrid 2011-2012 Proleague Season 2.",
@@ -53,7 +17,7 @@
       "twitter": {
         "username": "SC2_TYTY",
         "url": "https://twitter.com/SC2_TYTY",
-        "followers": 5815
+        "followers": 5818
       },
       "youtube": {
         "url": "https://www.youtube.com/channel/UC8jw8nkrFeBCZKbD38PCkMA",
@@ -67,7 +31,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 70,
+      "heat": 53,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1126026871664021504/nCTPpjuN_400x400.png",
@@ -106,6 +70,42 @@
           "height": 321,
           "title": "Maru - 조성주",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/byun.md",
+      "title": "ByuN - 변현우",
+      "excerpt": "ByuN Hyun Woo, formerly known as GhostKing, is a Terran player from South Korea, currently teamless.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/people/byun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/people/byun/",
+      "type": "profile",
+      "name": "ByuN - 변현우",
+      "bio": "ByuN Hyun Woo, formerly known as GhostKing, is a Terran player from South Korea, currently teamless.",
+      "location": "South Korea",
+      "website": "https://liquipedia.net/starcraft2/ByuN",
+      "twitter": {
+        "username": "sc2byun",
+        "url": "https://twitter.com/sc2byun",
+        "followers": 9983
+      },
+      "twitch": {
+        "url": "https://www.twitch.tv/sc2byun",
+        "followers": 44300
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 0,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/988681889530564608/UK1ffdqU_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "ByuN - 변현우",
+          "isCached": true
         }
       ],
       "content": "\r\n"

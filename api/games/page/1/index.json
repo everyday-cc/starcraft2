@@ -151,44 +151,6 @@
       "publishedDateTime": "2020-10-19T06:11:52-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-clem-best-of-3.md",
-      "title": "StarCraft 2: SERRAL vs CLEM! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level Zerg versus Terran in StarCraft 2 between Clem and Serral.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-clem-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-clem-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=LAHWtJfZXQQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LAHWtJfZXQQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M1S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 161,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LAHWtJfZXQQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-05-27T03:31:39-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-he-is-pretending-to-be-afk-viewer-games.md",
       "title": "StarCraft 2: He Is PRETENDING To Be AFK?! (Viewer Games)",
       "excerpt": "Two games of StarCraft 2. In the first one we watch a match where Florencio gets a taste of his own medicine, and in the second one a Protoss player pretends to go AFK at the beginning of the match while building a Nexus on the other side of the map.  Florencio on Twitch: https://www.twitch.tv/florenciosc",
@@ -224,6 +186,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-05-25T02:31:15-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serral-vs-clem-best-of-3.md",
+      "title": "StarCraft 2: SERRAL vs CLEM! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level Zerg versus Terran in StarCraft 2 between Clem and Serral.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-clem-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-clem-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=LAHWtJfZXQQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LAHWtJfZXQQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M1S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 157,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LAHWtJfZXQQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-05-27T03:31:39-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-hass-new-eco-cheese-strategy-best-of-5.md",
@@ -302,6 +302,44 @@
       "publishedDateTime": "2021-01-14T04:25:38-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-the-three-raven-hit-squad-clem-vs-heromarine.md",
+      "title": "StarCraft 2: The THREE RAVEN Hit Squad! (Clem vs HeroMarine)",
+      "excerpt": "Best-of-3 series of top level Terran versus Terran between Clem and HeroMarine in StarCraft 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-three-raven-hit-squad-clem-vs-heromarine/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-three-raven-hit-squad-clem-vs-heromarine/",
+      "originalUrl": "https://youtube.com/watch?v=PWZ2DVCytqE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PWZ2DVCytqE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M44S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 117,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PWZ2DVCytqE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-04-23T04:40:18-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-maru.md",
       "title": "StarCraft 2: SERRAL VS MARU!",
       "excerpt": "It finally happened! Serral versus Maru in a best-of-3 series of StarCraft 2. These two have somehow managed to dodge each other in many tournaments, but today it's finally time to watch them face off against one another.  Lowko's Zerg vs Terran: https://youtu.be/-94UEY2W1oU  Become a YouTube member:",
@@ -376,44 +414,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-05-24T03:54:32-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-burrowed-banelings-the-most-underused-upgrade-ragnarok-vs-uthermal.md",
-      "title": "StarCraft 2: BURROWED BANELINGS - The Most Underused Upgrade! (Ragnarok vs uThermal)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between uThermal and Ragnarok. Some creative plays coming out of both players.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-burrowed-banelings-the-most-underused-upgrade-ragnarok-vs-uthermal/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-burrowed-banelings-the-most-underused-upgrade-ragnarok-vs-uthermal/",
-      "originalUrl": "https://youtube.com/watch?v=aIYvo2vohCw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aIYvo2vohCw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M8S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 114,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aIYvo2vohCw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-04-01T04:37:28-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-full-economy-cheese-serral-vs-ty.md",
@@ -533,14 +533,14 @@
       "publishedDateTime": "2021-05-22T04:37:03-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-parting-feels-cheesy-best-of-3.md",
-      "title": "StarCraft 2: PartinG Feels CHEESY! (Best-of-3)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between PartinG and Ragnarok. In this particular series PartinG is feeling cheesy as he opens up as aggressively as possible versus his Zerg opponent.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-parting-feels-cheesy-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-parting-feels-cheesy-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=KBeo72SzCBk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KBeo72SzCBk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M40S",
+      "path": "_games/lowkotv-starcraft-2-ridiculously-good-counter-micro-clem-vs-showtime.md",
+      "title": "StarCraft 2: RIDICULOUSLY GOOD Counter-Micro! (Clem vs ShoWTimE)",
+      "excerpt": "One of the best games of Terran versus Protoss I've recently seen. Fantastic game of top level StarCraft 2 between Clem and ShoWTimE. Great micro and macro from both players.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-ridiculously-good-counter-micro-clem-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-ridiculously-good-counter-micro-clem-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=fAtJIkXvh84",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fAtJIkXvh84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M2S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -560,7 +560,7 @@
       "heat": 112,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/KBeo72SzCBk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/fAtJIkXvh84/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -568,7 +568,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-04-05T02:51:37-07:00"
+      "publishedDateTime": "2021-03-18T04:23:23-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-cure-best-of-5.md",

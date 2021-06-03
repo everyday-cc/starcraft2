@@ -4,6 +4,115 @@
   "page": 5,
   "value": [
     {
+      "path": "_games/beastyqtsc2-starcraft-2-zerg-admits-his-race-is-easy.md",
+      "title": "StarCraft 2: ZERG ADMITS HIS RACE IS EASY!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-zerg-admits-his-race-is-easy/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-zerg-admits-his-race-is-easy/",
+      "originalUrl": "https://youtube.com/watch?v=tMROwj81_tM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tMROwj81_tM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M50S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tMROwj81_tM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-09-29T01:27:41-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-banshee-assassins.md",
+      "title": "StarCraft 2: BANSHEE ASSASSINS!",
+      "excerpt": "Mech vs Swarm aka Terran vs Zerg in a professional match of SC2. Subscribe for more videos: http://lowko.tv/youtube Mass Thor: https://youtu.be/xJCcTlq6x5g  In this game between Fantasy and Solar, the Terran decides to open up with a quick Command Center first and transitions towards a Mech based army.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-banshee-assassins/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-banshee-assassins/",
+      "originalUrl": "https://youtube.com/watch?v=1kiKwqVIaKI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1kiKwqVIaKI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M31S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1kiKwqVIaKI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-04-28T08:06:51-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-battlecruiser-death-ball.md",
+      "title": "StarCraft 2: BATTLECRUISER DEATH BALL?!",
+      "excerpt": "Turns out Battlecruisers are actually alright now in StarCraft 2! Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://goo.gl/yX3tHx  The new balance changes for StarCraft 2 are not quite live yet, however, progamers are trying out a new set of strategies. In this match between",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-battlecruiser-death-ball/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-battlecruiser-death-ball/",
+      "originalUrl": "https://youtube.com/watch?v=76dtdyA2mS4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/76dtdyA2mS4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M52S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/76dtdyA2mS4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-11-09T02:59:31-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-battlecruisers-for-breakfast.md",
       "title": "StarCraft 2: Battlecruisers For Breakfast!",
       "excerpt": "Battlecruiser operational. Subscribe for more videos: http://lowko.tv/youtube More Starcraft 2 casts: https://goo.gl/NG8qAV  What do you do when your opponent is badmouthing you and you are being contained with Siege Tanks and Liberators? Simple. Go for Battlecruisers off of a single base. This is a",
@@ -1042,121 +1151,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-13T01:57:13-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-cringe-nukes.md",
-      "title": "StarCraft 2: The Cringe NUKES!",
-      "excerpt": "A very strange Terran vs Terran. Subscribe for more videos: http://lowko.tv/youtube Zerg vs Protoss misdirection: https://goo.gl/ByS50z  In this Gold vs Platinum League Terran vs Terran the player in Blue decides to play a bit of a strange style with Tactical Nukes and bad manner Mules.  Support me on",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-cringe-nukes/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-cringe-nukes/",
-      "originalUrl": "https://youtube.com/watch?v=ykgEMS8zuzI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ykgEMS8zuzI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M6S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ykgEMS8zuzI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-04-29T11:57:16-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-greedy-terran.md",
-      "title": "StarCraft 2: THE GREEDY TERRAN!",
-      "excerpt": "In this best-of-5 series of professional StarCraft 2 I commentate a match between soO and Dream. soO is one of the most well known names in the StarCraft scene, however I had not heard of Dream in a few a years. Turns out he likes to play greedy Terran buid orders.  This match is from Olimoleague: http://patreon.com/olimoley",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-greedy-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-greedy-terran/",
-      "originalUrl": "https://youtube.com/watch?v=OjtpUauGITs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OjtpUauGITs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OjtpUauGITs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-06-26T11:09:40-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-hero-battlecruiser.md",
-      "title": "StarCraft 2: THE HERO BATTLECRUISER!",
-      "excerpt": "An awesome match of Zerg vs Terran with a Hero Battlecruiser. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Zerg match: https://goo.gl/E9r57B  In this video MarineLorD decides to play a very cool style versus Namshar. While we have seen different versions of Terran Mech, he decides",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-hero-battlecruiser/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-hero-battlecruiser/",
-      "originalUrl": "https://youtube.com/watch?v=79gC4M-udK4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/79gC4M-udK4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/79gC4M-udK4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-11-30T04:14:52-08:00"
     }
   ],
   "nextPage": 6

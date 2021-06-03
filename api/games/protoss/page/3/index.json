@@ -4,44 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-the-battle-of-the-defensive-protoss-stats-vs-showtime.md",
-      "title": "StarCraft 2: The Battle of the DEFENSIVE PROTOSS! (Stats vs ShoWTimE)",
-      "excerpt": "Awesome game of professional StarCraft 2 between The Shield of Auir and Die Mauer. In this Protoss versus Protoss we see both players trying to outmacro the other, but it turns out they're pretty much doing the exact same thing.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-battle-of-the-defensive-protoss-stats-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-battle-of-the-defensive-protoss-stats-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=36ZaYu68mi0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/36ZaYu68mi0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M30S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/36ZaYu68mi0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-23T03:58:27-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-double-nexus-rush-viewer-game.md",
       "title": "StarCraft 2: THE DOUBLE NEXUS RUSH! (Viewer Game)",
       "excerpt": "Fun but painful viewer submitted game of StarCraft 2. In this Silver League match of Terran versus Protoss we see the Protoss going for the fabled Nexus Rush.  Support my work: http://www.patreon.com/lowkotv  If you have an awesome game of StarCraft 2 that you would like me to cast, you can submit the",
@@ -192,6 +154,39 @@
       "publishedDateTime": "2018-10-26T03:26:41-07:00"
     },
     {
+      "path": "_games/beastyqtsc2-starcraft-2-cocky-stream-sniper.md",
+      "title": "StarCraft 2: Cocky Stream Sniper!",
+      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  Folks in chat on my stream think they can snipe me and get away with it. Not if I have anything to say about!   Feel free to let me",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-cocky-stream-sniper/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-cocky-stream-sniper/",
+      "originalUrl": "https://youtube.com/watch?v=tg2hFwPGltk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tg2hFwPGltk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M50S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 52,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tg2hFwPGltk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-20T04:11:24-07:00"
+    },
+    {
       "path": "_games/beastyqtsc2-starcraft-2-hello-anyone-there.md",
       "title": "StarCraft 2: HELLO? Anyone There?",
       "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  This set of games in this series ends with a great turn of events - my opponent thinks I'm actually AlphaStar!   Feel free to let me",
@@ -225,14 +220,14 @@
       "publishedDateTime": "2019-07-20T04:02:45-07:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-mass-sentries-vs-broodlords-lurkers.md",
-      "title": "StarCraft 2: MASS Sentries vs Broodlords & Lurkers?!",
-      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  More games from the MASS SENTRIES to GRANDMASTER series! In this set of games, we finally make it to Master League! Also, in one of",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-sentries-vs-broodlords-lurkers/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-sentries-vs-broodlords-lurkers/",
-      "originalUrl": "https://youtube.com/watch?v=G4pmoTLP5_A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G4pmoTLP5_A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M16S",
+      "path": "_games/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster.md",
+      "title": "StarCraft 2: MASS Void Rays to Grandmaster!",
+      "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=qyvOV-b5TZs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qyvOV-b5TZs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M22S",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -247,7 +242,7 @@
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/G4pmoTLP5_A/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qyvOV-b5TZs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -255,17 +250,17 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-07-21T06:36:35-07:00"
+      "publishedDateTime": "2019-11-30T04:55:08-08:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-mass-sentries-vs-tanks-and-thors.md",
-      "title": "StarCraft 2: MASS Sentries vs Tanks and Thors?",
-      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  There are sooo many gems from playing this series on stream - from splitting Sentries vs Ultralisks, to trying to break Terran Mech,",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-sentries-vs-tanks-and-thors/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-sentries-vs-tanks-and-thors/",
-      "originalUrl": "https://youtube.com/watch?v=vUVCm0iEJuk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vUVCm0iEJuk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M49S",
+      "path": "_games/beastyqtsc2-starcraft-2-new-series-mass-zealots-phoenix.md",
+      "title": "StarCraft 2: *NEW* Series! MASS Zealots & Phoenix!",
+      "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-new-series-mass-zealots-phoenix/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-new-series-mass-zealots-phoenix/",
+      "originalUrl": "https://youtube.com/watch?v=HjX_DXPgf_k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HjX_DXPgf_k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -280,7 +275,7 @@
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/vUVCm0iEJuk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/HjX_DXPgf_k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -288,7 +283,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-07-18T15:54:23-07:00"
+      "publishedDateTime": "2020-03-20T04:37:09-07:00"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-only-sentries-to-grandmaster.md",
@@ -324,14 +319,14 @@
       "publishedDateTime": "2019-07-17T13:38:31-07:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-the-most-salt-inducing-series-yet-cannon-rushing-to-grandmaster-episode-1.md",
-      "title": "StarCraft 2: The Most SALT Inducing Series Yet! - Cannon Rushing to Grandmaster - Episode 1",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-the-most-salt-inducing-series-yet-cannon-rushing-to-grandmaster-episode-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-the-most-salt-inducing-series-yet-cannon-rushing-to-grandmaster-episode-1/",
-      "originalUrl": "https://youtube.com/watch?v=Gg-KYV9GWyc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gg-KYV9GWyc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M18S",
+      "path": "_games/beastyqtsc2-starcraft-2-protoss-doctor-calls-mesick-never-attack-to-grandmaster.md",
+      "title": "StarCraft 2: Protoss Doctor Calls me......SICK! - Never Attack to Grandmaster",
+      "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-protoss-doctor-calls-mesick-never-attack-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-protoss-doctor-calls-mesick-never-attack-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=aX-PxxUoyIs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aX-PxxUoyIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT55M27S",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -342,12 +337,11 @@
       ],
       "heat": 52,
       "tags": [
-        "Cheese",
         "Live"
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Gg-KYV9GWyc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/aX-PxxUoyIs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -355,7 +349,73 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-10-25T04:23:00-07:00"
+      "publishedDateTime": "2020-04-29T03:12:20-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-speed-prism-sentry-doom-drop.md",
+      "title": "StarCraft 2: Speed Prism Sentry DOOM DROP!",
+      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  Yet more Mass Sentry games in all three Protoss matchups! The first opponent has some thoughts on this playstyle...  Feel free to let",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-speed-prism-sentry-doom-drop/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-speed-prism-sentry-doom-drop/",
+      "originalUrl": "https://youtube.com/watch?v=p2TTlySM5mo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p2TTlySM5mo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M45S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 52,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/p2TTlySM5mo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-24T15:57:51-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-wtf-mass-sentry-vs-mass-sentry.md",
+      "title": "StarCraft 2: WTF? Mass Sentry vs Mass Sentry?",
+      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  A true test of skill in this series happens when I go up vs another Protoss who is also playing Mass Sentry. Who can out-Mass Sentry",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-wtf-mass-sentry-vs-mass-sentry/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-wtf-mass-sentry-vs-mass-sentry/",
+      "originalUrl": "https://youtube.com/watch?v=t2LNo5LJKLM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t2LNo5LJKLM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M18S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 52,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/t2LNo5LJKLM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-21T05:59:26-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-cheeky-protoss-moves-maru-vs-astrea.md",
@@ -970,14 +1030,14 @@
       "publishedDateTime": "2019-07-24T15:55:50-07:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy.md",
-      "title": "StarCraft 2: Another IMBALANCED Protoss Strategy!",
-      "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy/",
-      "originalUrl": "https://youtube.com/watch?v=fG5sjcAyeow",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fG5sjcAyeow\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M6S",
+      "path": "_games/beastyqtsc2-starcraft-2-deadliest-hallucinated-oracle-you-have-ever-seen.md",
+      "title": "StarCraft 2: Deadliest Hallucinated Oracle You Have EVER Seen!",
+      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  This set of games continues onward in the Mass Sentry Series, and we even start facing Grand Master opponents! One thing we learn about",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-deadliest-hallucinated-oracle-you-have-ever-seen/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-deadliest-hallucinated-oracle-you-have-ever-seen/",
+      "originalUrl": "https://youtube.com/watch?v=oIp2AvYqqgI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oIp2AvYqqgI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M15S",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -992,7 +1052,7 @@
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/fG5sjcAyeow/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/oIp2AvYqqgI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1000,85 +1060,17 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-12-01T03:18:56-08:00"
+      "publishedDateTime": "2019-07-31T17:11:56-07:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-cannon-rush-into-carriers-vs-terran-cannon-rushing-to-grandmaster-episode-9.md",
-      "title": "StarCraft 2: Cannon Rush Into Carriers vs Terran?! - Cannon Rushing to Grandmaster - Episode 9",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5-7 days a week. Stream start time is around 7 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-cannon-rush-into-carriers-vs-terran-cannon-rushing-to-grandmaster-episode-9/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-cannon-rush-into-carriers-vs-terran-cannon-rushing-to-grandmaster-episode-9/",
-      "originalUrl": "https://youtube.com/watch?v=DznOcvlMccI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DznOcvlMccI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M32S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "tags": [
-        "Cheese",
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DznOcvlMccI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-11-17T05:37:31-08:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-cannon-rushing-with-the-colossus-support-cannon-rushing-to-grandmaster-episode-5.md",
-      "title": "StarCraft 2: Cannon Rushing With The Colossus Support! - Cannon Rushing to Grandmaster - Episode 5",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-cannon-rushing-with-the-colossus-support-cannon-rushing-to-grandmaster-episode-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-cannon-rushing-with-the-colossus-support-cannon-rushing-to-grandmaster-episode-5/",
-      "originalUrl": "https://youtube.com/watch?v=HsRx_dpPjf0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HsRx_dpPjf0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M8S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "tags": [
-        "Cheese",
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HsRx_dpPjf0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-11-02T06:08:20-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-i-got-planetary-fortress-rushed.md",
-      "title": "StarCraft 2: I Got Planetary Fortress RUSHED!",
-      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  I have three games for you all from the MASS SENTRIES to GRANDMASTER series - one game against each race! The games vs Protoss and Zerg",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-i-got-planetary-fortress-rushed/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-i-got-planetary-fortress-rushed/",
-      "originalUrl": "https://youtube.com/watch?v=e6MKl-zT94o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e6MKl-zT94o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M22S",
+      "path": "_games/beastyqtsc2-starcraft-2-mass-phoenix-vs-terran-all-in.md",
+      "title": "StarCraft 2: MASS Phoenix vs Terran ALL-IN!",
+      "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPhoenix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-phoenix-vs-terran-all-in/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-phoenix-vs-terran-all-in/",
+      "originalUrl": "https://youtube.com/watch?v=zNn2gxWYWUg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zNn2gxWYWUg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M48S",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -1093,7 +1085,7 @@
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/e6MKl-zT94o/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/zNn2gxWYWUg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1101,7 +1093,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-07-29T18:11:08-07:00"
+      "publishedDateTime": "2020-04-14T03:02:55-07:00"
     }
   ],
   "nextPage": 4

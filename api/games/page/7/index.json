@@ -4,44 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-lurker-drops-solar-vs-astrea.md",
-      "title": "StarCraft 2: LURKER DROPS! (Solar vs Astrea)",
-      "excerpt": "A best-of-5 series of professional StarCraft 2 between Solar and Astrea. In this series of games between a Zerg and Protoss we have a variety of strategies from both players, although the general strategic line is the same. Both players open up similiarly in all games, but transition to different build",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-lurker-drops-solar-vs-astrea/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-lurker-drops-solar-vs-astrea/",
-      "originalUrl": "https://youtube.com/watch?v=L6k2Nxhk7Bc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L6k2Nxhk7Bc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H59S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/L6k2Nxhk7Bc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-01-21T04:39:47-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-maru-vs-parting.md",
       "title": "StarCraft 2: MARU vs PARTING!",
       "excerpt": "One of the best games of StarCraft 2 I've seen recently. Fantastic match of top level Terran versus Protoss between Maru and PartinG.  Maru vs INnoVation: https://youtu.be/MfPoT1p5Z-o  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second",
@@ -385,6 +347,44 @@
       "publishedDateTime": "2018-06-01T01:38:27-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-zest-vs-maxpax-cheese-in-every-game-best-of-5.md",
+      "title": "StarCraft 2: Zest vs MaxPax - Cheese in EVERY Game! (Best-of-5)",
+      "excerpt": "MaxPax versus Zest in a best-of-5 series of Protoss versus Protoss in StarCraft 2. It doesn't get much more cheesy than this...  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zest-vs-maxpax-cheese-in-every-game-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zest-vs-maxpax-cheese-in-every-game-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=QUw68GwInWQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QUw68GwInWQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M38S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QUw68GwInWQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-03-26T04:54:48-07:00"
+    },
+    {
       "path": "_games/sc2hl-8-player-pro-ffa-starcraft-2-homestory-cup.md",
       "title": "8 PLAYER PRO FFA! - StarCraft 2 HomeStory Cup",
       "excerpt": "Highlights of a very funny Free for All that happened during Homestory Cup 16.  The Starcraft 2 FFA featured Neeb, Stats, Elazer and many more!  You can watch the full match here: https://www.twitch.tv/videos/200541935?t=05h13m44s   ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for",
@@ -422,6 +422,39 @@
       "publishedDateTime": "2018-10-16T07:21:19-07:00"
     },
     {
+      "path": "_games/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy.md",
+      "title": "StarCraft 2: Another IMBALANCED Protoss Strategy!",
+      "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy/",
+      "originalUrl": "https://youtube.com/watch?v=fG5sjcAyeow",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fG5sjcAyeow\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M6S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 53,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fG5sjcAyeow/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-01T03:18:56-08:00"
+    },
+    {
       "path": "_games/beastyqtsc2-starcraft-2-mass-marines-vs-colossus.md",
       "title": "StarCraft 2: MASS Marines vs Colossus?!",
       "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
@@ -453,138 +486,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-09-22T02:10:43-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series.md",
-      "title": "StarCraft 2: Never Attack to Grandmaster.....With Nukes! - NEW SERIES!",
-      "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series/",
-      "originalUrl": "https://youtube.com/watch?v=dxFmLI_uM9s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dxFmLI_uM9s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M8S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 53,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dxFmLI_uM9s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-24T05:02:15-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-super-salty-zerg-vs-super-mass-marines.md",
-      "title": "StarCraft 2: Super Salty Zerg vs Super MASS Marines!",
-      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-super-salty-zerg-vs-super-mass-marines/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-super-salty-zerg-vs-super-mass-marines/",
-      "originalUrl": "https://youtube.com/watch?v=WewqvmNOPYA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WewqvmNOPYA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M46S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 53,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WewqvmNOPYA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-09-28T06:44:55-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-wtf-mass-sentry-vs-mass-sentry.md",
-      "title": "StarCraft 2: WTF? Mass Sentry vs Mass Sentry?",
-      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  A true test of skill in this series happens when I go up vs another Protoss who is also playing Mass Sentry. Who can out-Mass Sentry",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-wtf-mass-sentry-vs-mass-sentry/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-wtf-mass-sentry-vs-mass-sentry/",
-      "originalUrl": "https://youtube.com/watch?v=t2LNo5LJKLM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t2LNo5LJKLM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M18S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 53,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/t2LNo5LJKLM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-07-21T05:59:26-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-zerg-admits-his-race-is-easy.md",
-      "title": "StarCraft 2: ZERG ADMITS HIS RACE IS EASY!",
-      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-zerg-admits-his-race-is-easy/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-zerg-admits-his-race-is-easy/",
-      "originalUrl": "https://youtube.com/watch?v=tMROwj81_tM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tMROwj81_tM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M50S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 53,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tMROwj81_tM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-09-29T01:27:41-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-beautiful-starcraft-dark-vs-cure.md",
@@ -1117,6 +1018,121 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-03-09T01:10:08-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-no-minerals-remaining-serral-vs-cure.md",
+      "title": "StarCraft 2: NO MINERALS REMAINING?! (Serral vs Cure)",
+      "excerpt": "Serral versus Cure in an insane game of StarCraft 2. In this match we see Cure focusing on Terran Mech, where as Serral takes the harassment approach where he constantly tries to outmine the Terran.  Maru vs Serral: https://youtu.be/h4A8ZTaPBAE  Become a YouTube member: https://lowko.tv/join Support",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-no-minerals-remaining-serral-vs-cure/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-no-minerals-remaining-serral-vs-cure/",
+      "originalUrl": "https://youtube.com/watch?v=pNhMT3ZndxA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pNhMT3ZndxA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pNhMT3ZndxA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-13T03:11:16-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-not-quite-your-normal-protoss-vs-terran.md",
+      "title": "StarCraft 2: Not Quite Your Normal Protoss vs Terran!",
+      "excerpt": "Not quite your standard Protoss versus Terran game. Subscribe for more videos: http://lowko.tv/youtube Insane Proxy Barracks: https://goo.gl/8m0B4g  In this video I cast a Silver League Protoss versus Terran in StarCraft 2. This match turns out to be not quite your regular game of Protoss versus Terran.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-not-quite-your-normal-protoss-vs-terran/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-not-quite-your-normal-protoss-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=-48-CiKI370",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-48-CiKI370\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M16S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-48-CiKI370/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-03-11T01:34:29-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-parting-feels-cheesy-best-of-3.md",
+      "title": "StarCraft 2: PartinG Feels CHEESY! (Best-of-3)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between PartinG and Ragnarok. In this particular series PartinG is feeling cheesy as he opens up as aggressively as possible versus his Zerg opponent.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-parting-feels-cheesy-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-parting-feels-cheesy-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=KBeo72SzCBk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KBeo72SzCBk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M40S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KBeo72SzCBk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-04-05T02:51:37-07:00"
     }
   ],
   "nextPage": 8

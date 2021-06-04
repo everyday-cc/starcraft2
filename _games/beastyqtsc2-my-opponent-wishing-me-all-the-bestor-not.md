@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/beastyqtsc2-my-opponent-wishing-me-a
 type: video
 length: PT30M30S
 publishedDateTime: 2020-10-14T12:47:20Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j9ofiYvK_Kc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "iEetIOzSw+nfgXa/6X7/vK1Rb5QIHFzCfr+2bx6X3kafKX8V6igUtaP6ecRpeZdnrdsDtN2QtJxTNOD9LIBzL7bZh2gxgw2yVwkopokcV2fkpi42wlabcg4d01+Wq/PaVBzA+p/4Ovwt/Q2ma4D40dvdHu78TRU48my6PbGxTNDa7xaPHm3MMi2ZnSUx3PUATnrkd5vrQFCXA2XqIcgpCxcG/fUbP/QyvQ7ePa5NtCT6EiSDlweFRP8k3AxQ6BDhp2T7CLI+rC3ttAoq4kj9VqdCEyMUH5D6BySmUTkLcgfZBRi9V74acnFkL3kCujlDS9SK9q7v8yXxfbVbBwzLDMxgI9s+Ezk6Ssz3mZ0fu841KXRq5eHqa0rftS/xUblTZUWqjYEK6RVbiTDs8SHh0yt7HyPwuec2ZZPORUgsUek=;OxaDl+9/l7833RLhADboqQ=="
+secured: "zeHNkj2ZSPPGGEkirjzzdj1TSZkYey9fL/rTZfzRkfUS0+o7yOY0SsEdXwsqSA2gk5p+m4HeHanPaM67DMjiVeWmcakbZJ8lqoTeW1A6wKwisJKJxL09+e2w61KSP3GuZyEpJjcIUEMfbTZYyP3cw+VG6rm04RPRbFoT07EPipuJziOYk6pnTURED+mGTqSmipfA/Xuk2sM3LowmzMlQzWgOKJiSJ2ewEtipNjimCUzKPFN9D3uPcZdwZ3e9CgikmhvAwlVsEqxApcu3bF2LQ7Lmm3r0GbUjZxbBdriswUV+eVLc/6+lrtnEIRRBsXaNr9emvhGWCgL4qVJIQvqW13luzCXNUXi11IXy+8dYbkSNVEMT1oe8X0KsiGYOP8smWVNMzSM2FH2Asem+m3V4L1I5YxOytXaBFo7kC53+wCY=;sy9D3vA5nTypw4yptRVliw=="
 ---
 

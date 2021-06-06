@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-destroys-cl
 type: video
 length: PT30M18S
 publishedDateTime: 2021-02-25T17:27:54Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6Qb51hctEN0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "FHcoih1XWTwXEt2oCfwhlbigMjrozGYKU7fkTZwiEZ0jEt7yqZJOOyAIQ+n5IkDDcL5iWlpfUIhCiP8wFNZVdlJlBVaR6o7pGLbWYHu88WoBFbDY4QdG33bWbBVOrk4L1ArH/hFelacVJO+pqMVM028BaQpnqGHZUllBrnJX2ljX3XKB+gFWklHC8+E3bVBm0z5olphksdUAZZwYpoa7e90fWSHSOvh+Psw+E9M0UDNEk9xIBP2d68ilwNwzx8o0xnZIzlGrmUVn0Cr/A9uLmdqp6y//0EnW748tLzGYkfTXH8VzUdp8uko6rtmhw+TbyEoEPIj4DniHkum4oc2adanbXbfetB6XRlwFx7/WVG0xeyKgUDNh6ZLlxIp49FJsWR7hVXmoLKklQCI9PJX1SynCsBKAdbhLV7DRZzeW1LQ=;SdACzUfUpmYcuDnvD4zYRQ=="
+secured: "QJPiYaLubPD+LFmizOelLOvFn0tPancW92jaDKI5Y93rHEMizhGzWTHp0F41/egDJ+WK3awcKbRQ4KQR5KYxIUYICVAO4+4b7Ma2MQsCzkEMREdDEkBaP6VukRLpGRbn4lWbQeHNNf31kj4ccddbOOOdxfhWJUJb/qqQvcxZUvvH31mTOWfoOCA0Srk5bRkTokK5eLDNGlohM7lgrCsFVTmN75jFQg+LIW3adrv8whCzac6Cj951zCL3CZWIzvJRnIMCcEh6XFE3xd2HUkHvHsPGRy6xAnmPSPW9cpNo+TWb13wjxDbBYq9U/vbVxUtutrwxyVfY7rqp/d5uCJw5C00obytrIWDhNmwiE3TvQei2ptycygld9DRKjoyqG1sdjPOI3U5usi1csAS8wWcIrIdpUdRpA3V58thFYOfcbys=;pABIUBxyfXEui7BJXLIvZg=="
 ---
 

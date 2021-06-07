@@ -4,44 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-co-op-fenix-guide-how-to-easily-beat-brutal-missions.md",
-      "title": "StarCraft 2 Co-op: Fenix Guide - How To Easily Beat Brutal Missions!",
-      "excerpt": "A full overview of my go-to strategy with Fenix in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Fenix Stargate build: https://goo.gl/uq2FU9  After spending quite a bit of time, I finally managed to get Fenix to the highest level in the game. In this video I explain my default strategy",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-co-op-fenix-guide-how-to-easily-beat-brutal-missions/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-co-op-fenix-guide-how-to-easily-beat-brutal-missions/",
-      "originalUrl": "https://youtube.com/watch?v=foqzSPGRAH0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/foqzSPGRAH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M59S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-05-06T02:00:27-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/foqzSPGRAH0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/lowkotv-starcraft-2-how-to-improve-efficiently-practice-guide.md",
       "title": "StarCraft 2: How-to Improve & Efficiently Practice! (Guide)",
       "excerpt": "Practicing a lot and practicing efficiently are two seperate things. In this video I go over how I improve in StarCraft 2, and how to make the most of your practice time.  The basic idea is to have a certain goal in mind when playing the game. A lot of people complain that they have a hard time laddering",
@@ -982,6 +944,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/PD6PYQBfF6Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-protoss-vs-zerg-guide-learn-how-to-stay-safe-starcraft-2.md",
+      "title": "Protoss vs Zerg Guide | Learn HOW to stay SAFE!!! [Starcraft 2]",
+      "excerpt": "In today's Starcraft 2 guide we will be looking at the Protoss vs Zerg (PvZ) matchup.  Let's take a look at a simple tip that will help you win in all of your Protoss vs Zerg (PvZ) matches. This is a strategy I use when playing pvz to easily crush the bugs. Hope you enjoy the guide!  Protoss vs Zerg",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-vs-zerg-guide-learn-how-to-stay-safe-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-protoss-vs-zerg-guide-learn-how-to-stay-safe-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=Nr66-65wDKc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nr66-65wDKc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M14S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-04T22:21:45-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Nr66-65wDKc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

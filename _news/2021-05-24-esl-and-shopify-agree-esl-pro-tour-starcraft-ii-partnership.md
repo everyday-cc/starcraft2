@@ -9,7 +9,7 @@ ampWebUrl: "https://esportsinsider.com/2021/05/shopify-esl-partnership/?amp"
 cdnAmpWebUrl: "https://esportsinsider-com.cdn.ampproject.org/c/s/esportsinsider.com/2021/05/shopify-esl-partnership/?amp"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:

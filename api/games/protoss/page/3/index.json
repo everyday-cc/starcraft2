@@ -4,14 +4,14 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-ridiculously-good-counter-micro-clem-vs-showtime.md",
-      "title": "StarCraft 2: RIDICULOUSLY GOOD Counter-Micro! (Clem vs ShoWTimE)",
-      "excerpt": "One of the best games of Terran versus Protoss I've recently seen. Fantastic game of top level StarCraft 2 between Clem and ShoWTimE. Great micro and macro from both players.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-ridiculously-good-counter-micro-clem-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-ridiculously-good-counter-micro-clem-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=fAtJIkXvh84",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fAtJIkXvh84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M2S",
+      "path": "_games/lowkotv-starcraft-2-hyper-aggressive-protoss.md",
+      "title": "StarCraft 2: HYPER AGGRESSIVE PROTOSS!",
+      "excerpt": "PartinG vs FanTaSy in a sick match on Dreamcatcher. Subscribe for more videos: http://lowko.tv/youtube Solar vs INnoVation: https://goo.gl/gVzpyJ  Usually the Terran players are the ones in charge of the pace of Terran vs Protoss. However, in this game PartinG takes charge from beginning to the very",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-hyper-aggressive-protoss/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-hyper-aggressive-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=Q6yEz7GBa7k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q6yEz7GBa7k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M49S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -31,7 +31,7 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/fAtJIkXvh84/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Q6yEz7GBa7k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -39,7 +39,122 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-03-18T04:23:23-07:00"
+      "publishedDateTime": "2018-07-08T12:57:03-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-massive-disruptor-hit-trap-vs-bunny.md",
+      "title": "StarCraft 2: MASSIVE DISRUPTOR HIT! (Trap vs Bunny)",
+      "excerpt": "Very scrappy game of professional StarCraft 2 between Trap (Protoss) and Bunny (Terran). Both players make several of mistakes in the match, which is why it gets extremely hectic. From accidential Colossus rally points, to a massive Disruptor hit. Terran vs Protoss has quickly become one of my favourites,",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-massive-disruptor-hit-trap-vs-bunny/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-massive-disruptor-hit-trap-vs-bunny/",
+      "originalUrl": "https://youtube.com/watch?v=X4hrOu22HaU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X4hrOu22HaU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M45S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/X4hrOu22HaU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-01-11T04:09:01-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-professional-cheese-cannon-rush-vs-proxy-void-rays-stats-vs-zest.md",
+      "title": "StarCraft 2: PROFESSIONAL CHEESE - Cannon Rush vs Proxy Void Rays! (Stats vs Zest)",
+      "excerpt": "After some great games of Zerg versus Zerg and Terran versus Terran, it is time for Protoss versus Protoss. This is one of the craziest games of high level StarCraft 2 I've seen recently.  Dark vs Serral: https://youtu.be/vD6JmIVTOXo Cure vs ByuN: https://youtu.be/tTX4nFOYqOA  Support my work on Patreon:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-professional-cheese-cannon-rush-vs-proxy-void-rays-stats-vs-zest/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-professional-cheese-cannon-rush-vs-proxy-void-rays-stats-vs-zest/",
+      "originalUrl": "https://youtube.com/watch?v=c07FjaDtY2E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c07FjaDtY2E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/c07FjaDtY2E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-12T02:12:37-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-relentless-aggression-byun-vs-trap.md",
+      "title": "StarCraft 2: RELENTLESS AGGRESSION! (ByuN vs Trap)",
+      "excerpt": "Trap versus ByuN in a best-of-5 series of professional StarCraft 2. After having a look at ByuN's Terran versus Zerg a few days ago, today we have a look at the current state of his Terran versus Protoss.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-relentless-aggression-byun-vs-trap/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-relentless-aggression-byun-vs-trap/",
+      "originalUrl": "https://youtube.com/watch?v=azhpEHcwzMQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/azhpEHcwzMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/azhpEHcwzMQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-22T03:17:44-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-terran-vs-protoss-cringe.md",
@@ -79,6 +194,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-04-09T04:26:51-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-zest-vs-maxpax-cheese-in-every-game-best-of-5.md",
+      "title": "StarCraft 2: Zest vs MaxPax - Cheese in EVERY Game! (Best-of-5)",
+      "excerpt": "MaxPax versus Zest in a best-of-5 series of Protoss versus Protoss in StarCraft 2. It doesn't get much more cheesy than this...  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zest-vs-maxpax-cheese-in-every-game-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zest-vs-maxpax-cheese-in-every-game-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=QUw68GwInWQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QUw68GwInWQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M38S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QUw68GwInWQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-03-26T04:54:48-07:00"
     },
     {
       "path": "_games/sc2hl-8-minute-mothership-sos-vs-neeb-gsl-vs-the-world.md",
@@ -436,44 +589,6 @@
       "publishedDateTime": "2020-05-07T03:15:21-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-fake-cannon-rush-vs-real-cannon-rush.md",
-      "title": "StarCraft 2: FAKE Cannon Rush vs REAL Cannon Rush?!",
-      "excerpt": "Awesome best-of-3 series of high level StarCraft 2. In this Protoss versus Protoss between PartinG and MaxPax we see both players constantly trying to outsmart each other with Photon Cannons, proxy Stargates, Dark Templar, army positioning and expansions.  Support my work on Patreon: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-fake-cannon-rush-vs-real-cannon-rush/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-fake-cannon-rush-vs-real-cannon-rush/",
-      "originalUrl": "https://youtube.com/watch?v=Gp-O9TRhIBA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gp-O9TRhIBA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M58S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Gp-O9TRhIBA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-22T04:03:32-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-gateway-cheese-vs-gateways-cheese-parting-vs-astrea.md",
       "title": "StarCraft 2: GATEWAY CHEESE vs GATEWAYS CHEESE! (PartinG vs Astrea)",
       "excerpt": "Awesome best-of-5 series of StarCraft 2 between PartinG and Astrea. In this series we have a variety of Protoss versus Protoss strategies and some cheeky Proxy situations.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
@@ -510,44 +625,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-17T04:53:08-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-parting-feels-cheesy-best-of-3.md",
-      "title": "StarCraft 2: PartinG Feels CHEESY! (Best-of-3)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between PartinG and Ragnarok. In this particular series PartinG is feeling cheesy as he opens up as aggressively as possible versus his Zerg opponent.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-parting-feels-cheesy-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-parting-feels-cheesy-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=KBeo72SzCBk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KBeo72SzCBk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M40S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KBeo72SzCBk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-04-05T02:51:37-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-phenomenal-terran-vs-protoss.md",
@@ -666,44 +743,6 @@
       "publishedDateTime": "2019-01-10T11:49:58-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-professional-cheese-cannon-rush-vs-proxy-void-rays-stats-vs-zest.md",
-      "title": "StarCraft 2: PROFESSIONAL CHEESE - Cannon Rush vs Proxy Void Rays! (Stats vs Zest)",
-      "excerpt": "After some great games of Zerg versus Zerg and Terran versus Terran, it is time for Protoss versus Protoss. This is one of the craziest games of high level StarCraft 2 I've seen recently.  Dark vs Serral: https://youtu.be/vD6JmIVTOXo Cure vs ByuN: https://youtu.be/tTX4nFOYqOA  Support my work on Patreon:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-professional-cheese-cannon-rush-vs-proxy-void-rays-stats-vs-zest/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-professional-cheese-cannon-rush-vs-proxy-void-rays-stats-vs-zest/",
-      "originalUrl": "https://youtube.com/watch?v=c07FjaDtY2E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c07FjaDtY2E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/c07FjaDtY2E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-12T02:12:37-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-protoss-mind-games.md",
       "title": "StarCraft 2: PROTOSS MIND GAMES!",
       "excerpt": "Best-of-5 series between Has and Nerchio. Subscribe for more videos: http://lowko.tv/youtube Has vs Kelazhur: https://goo.gl/pqA6ws  Mind games left and right, in particular from the Protoss player in this game. In this video I cast a best-of-5 series of professional StarCraft 2.  Support me on Patreon:",
@@ -819,46 +858,6 @@
       "publishedDateTime": "2020-07-21T04:19:20-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-legends-free-for-all-mc-nestea-mvp-effort-rain-last.md",
-      "title": "StarCraft 2: THE LEGENDS FREE-FOR-ALL! (MC, Nestea, Mvp, Effort, Rain & Last)",
-      "excerpt": "Very fun free-for-all in StarCraft 2 in Big Game Hunters between Last, Effort, Rain, Mvp, Nestea and MC. All StarCraft 1 and StarCraft 2 legends.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-legends-free-for-all-mc-nestea-mvp-effort-rain-last/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-legends-free-for-all-mc-nestea-mvp-effort-rain-last/",
-      "originalUrl": "https://youtube.com/watch?v=NOcA0Q-gjBE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NOcA0Q-gjBE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NOcA0Q-gjBE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-02-23T09:23:49-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-ultimate-patience-game-rogue-vs-showtime.md",
       "title": "StarCraft 2: THE ULTIMATE PATIENCE GAME! (Rogue vs ShoWTimE)",
       "excerpt": "While this professional match of StarCraft 2 starts off very slowly, it turns out to be one of the most spectacular matches of late game Zerg versus Protoss I've ever seen.   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel:",
@@ -896,6 +895,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-20T01:41:14-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-top-tier-micro-macro-clem-vs-showtime.md",
+      "title": "StarCraft 2: TOP-TIER Micro & Macro! (Clem vs ShoWTimE)",
+      "excerpt": "Awesome game of top level Terran versus Protoss between Clem and ShoWTimE in StarCraft 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-tier-micro-macro-clem-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-tier-micro-macro-clem-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=pV8vs2V7dVI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pV8vs2V7dVI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pV8vs2V7dVI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-02-09T03:10:50-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-ultimate-protoss-efficiency.md",
@@ -974,45 +1011,6 @@
       "publishedDateTime": "2020-11-05T02:56:07-08:00"
     },
     {
-      "path": "_games/sc2hl-199-army-supply-neeb-vs-rogue-starcraft-2-global-finals.md",
-      "title": "199 ARMY SUPPLY?! - Neeb vs Rogue - Starcraft 2 Global Finals",
-      "excerpt": "Neeb and Rogue clash out in an epic 52 minute Protoss vs Zerg during the Starcraft 2 Global Finals (live this and next weekend!)  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    A 15 minute highlight reel from the hour long vod!     Thank you for watching our videos! Subscribe for more StarCraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-199-army-supply-neeb-vs-rogue-starcraft-2-global-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-199-army-supply-neeb-vs-rogue-starcraft-2-global-finals/",
-      "originalUrl": "https://youtube.com/watch?v=tCpgXcneiXc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tCpgXcneiXc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M53S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tCpgXcneiXc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-10-16T07:22:02-07:00"
-    },
-    {
       "path": "_games/sc2hl-5-vs-10-supply-28-minute-basetrade-starcraft-2-clem-vs-showtime.md",
       "title": "5 vs 10 SUPPLY?! - 28 Minute BASETRADE - Starcraft 2: Clem vs Showtime",
       "excerpt": "A crazy Protoss vs Terran between Showtime and Clem, the 16 year old Starcraft 2 pro. Who will win the Basetrade?   ► Find the WCS Valencia Vods here: https://www.youtube.com/user/WCSStarCraft ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more",
@@ -1051,30 +1049,35 @@
       "publishedDateTime": "2018-10-16T07:21:19-07:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-cannon-rush-vs-cannon-rush-cannon-rushing-to-grandmaster-episode-7.md",
-      "title": "StarCraft 2: Cannon Rush vs Cannon Rush?! - Cannon Rushing to Grandmaster - Episode 7",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-cannon-rush-vs-cannon-rush-cannon-rushing-to-grandmaster-episode-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-cannon-rush-vs-cannon-rush-cannon-rushing-to-grandmaster-episode-7/",
-      "originalUrl": "https://youtube.com/watch?v=H-ArS_LbwZ8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/H-ArS_LbwZ8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M25S",
+      "path": "_games/sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s.md",
+      "title": "DARK SHRINE VS DARK SHRINE - sOs vs herO - GSL Code S",
+      "excerpt": "A crazy Best of 3 between sOs vs herO, Both going for Dark shrine rushes in the first game! Some great Cheddar cheese from both players  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s/",
+      "originalUrl": "https://youtube.com/watch?v=4stL2OicyNw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4stL2OicyNw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M48S",
       "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Protoss",
+        "Zerg"
       ],
-      "heat": 51,
-      "tags": [
-        "Cheese",
-        "Live"
-      ],
+      "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/H-ArS_LbwZ8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/4stL2OicyNw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1082,32 +1085,38 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-11-08T02:33:28-08:00"
+      "publishedDateTime": "2018-03-03T15:41:54-08:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-hello-anyone-there.md",
-      "title": "StarCraft 2: HELLO? Anyone There?",
-      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  This set of games in this series ends with a great turn of events - my opponent thinks I'm actually AlphaStar!   Feel free to let me",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-hello-anyone-there/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-hello-anyone-there/",
-      "originalUrl": "https://youtube.com/watch?v=mPtPn89RYrg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mPtPn89RYrg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M46S",
+      "path": "_games/sc2hl-neebs-defense-vs-mass-nydus-worm-starcraft-2-neeb-vs-lambo.md",
+      "title": "Neeb's Defense vs Mass Nydus Worm - Starcraft 2: Neeb vs Lambo",
+      "excerpt": "Neeb's crazy defense against Lambos mass nydus worm during IEM Katowice 2019. With a bonus clip from the hilarious analysis from Incontrol.  ► SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe   A crazy description   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-neebs-defense-vs-mass-nydus-worm-starcraft-2-neeb-vs-lambo/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-neebs-defense-vs-mass-nydus-worm-starcraft-2-neeb-vs-lambo/",
+      "originalUrl": "https://youtube.com/watch?v=DGi04zT4LuU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DGi04zT4LuU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M4S",
       "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Protoss",
+        "Zerg"
       ],
-      "heat": 51,
-      "tags": [
-        "Live"
-      ],
+      "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mPtPn89RYrg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/DGi04zT4LuU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1115,7 +1124,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-07-20T04:02:45-07:00"
+      "publishedDateTime": "2019-03-06T07:05:01-08:00"
     }
   ],
   "nextPage": 4

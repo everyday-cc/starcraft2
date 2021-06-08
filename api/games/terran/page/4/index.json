@@ -4,6 +4,44 @@
   "page": 4,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-tons-of-nukes-in-a-pro-game.md",
+      "title": "StarCraft 2: TONS OF NUKES IN A PRO GAME!",
+      "excerpt": "An incredible match between soO and INnoVation. Subscribe for more videos: http://lowko.tv/youtube Macro Wars: https://goo.gl/1c32tn  Tactical Nukes were usually considered to be mostly a unique mechanic. These days however, it gets used more and more in professional games and in this one... Tactical",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-tons-of-nukes-in-a-pro-game/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-tons-of-nukes-in-a-pro-game/",
+      "originalUrl": "https://youtube.com/watch?v=FcnhekTNHPg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FcnhekTNHPg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M39S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FcnhekTNHPg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-03-06T01:32:40-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-who-called-in-the-fleet-dark-vs-ty.md",
       "title": "StarCraft 2: WHO CALLED IN THE FLEET? (Dark vs TY)",
       "excerpt": "Dark versus TY in an epic game of StarCraft 2. In this game of top-level StarCraft we see TY play a different approach than most Terrans do at this level. A lot of Terran players enjoy playing a late-game composition based around the Thor at the moment, but TY decides to focus on a Battlecruiser army",
@@ -119,6 +157,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
+    },
+    {
+      "path": "_games/sc2hl-battlecruiser-operational-maru-vs-ty-starcraft-2.md",
+      "title": "BATTLECRUISER OPERATIONAL - Maru vs TY - Starcraft 2",
+      "excerpt": "A great game between Maru and TY, showing some of the highest level terran vs terran gameplay ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload other content, such as trailers & montages.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-battlecruiser-operational-maru-vs-ty-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-battlecruiser-operational-maru-vs-ty-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=EKHhBVON3zY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EKHhBVON3zY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M3S",
+      "provider": {
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EKHhBVON3zY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-10-16T07:21:19-07:00"
     },
     {
       "path": "_games/sc2hl-planetary-rush-8-player-starcraft-2-ffa.md",
@@ -505,14 +581,14 @@
       "publishedDateTime": "2017-11-20T08:23:55-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-byun-destroys-clems-main-base.md",
-      "title": "StarCraft 2: ByuN DESTROYS Clem's Main Base!",
-      "excerpt": "Professional match of StarCraft 2 between Clem and ByuN.   Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-destroys-clems-main-base/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-destroys-clems-main-base/",
-      "originalUrl": "https://youtube.com/watch?v=6Qb51hctEN0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6Qb51hctEN0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M18S",
+      "path": "_games/lowkotv-starcraft-2-byun-vs-solar-best-of-3.md",
+      "title": "StarCraft 2: BYUN vs SOLAR! (Best-of-3)",
+      "excerpt": "ByuN has been steadily climbing through the ranks again in StarCraft 2. In this today's video he's facing off against Solar in a best-of-3 series.  Clem's 9 Barracks Reaper: https://youtu.be/bbJWnH_ooAI  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-vs-solar-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-vs-solar-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=eLWJxqsr7gs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eLWJxqsr7gs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M46S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -527,12 +603,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Terran",
+        "Zerg"
       ],
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6Qb51hctEN0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/eLWJxqsr7gs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -540,45 +617,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-02-25T09:27:54-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-byuns-ridiculous-unit-control.md",
-      "title": "StarCraft 2: ByuN's RIDICULOUS Unit Control!",
-      "excerpt": "A match of professional StarCraft 2 between DRG and ByuN. While ByuN is behind almost the entire game economically, he somehow someway makes a game of out it.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-ridiculous-unit-control/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-ridiculous-unit-control/",
-      "originalUrl": "https://youtube.com/watch?v=eLsxa7TnXvo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eLsxa7TnXvo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M4S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eLsxa7TnXvo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-25T05:59:08-07:00"
+      "publishedDateTime": "2020-11-07T03:35:45-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-harstem-nukes-his-own-main-base.md",
@@ -773,6 +812,45 @@
       "publishedDateTime": "2018-10-24T02:03:07-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-reynors-aggressive-lurker-late-game-vs-maru.md",
+      "title": "StarCraft 2: Reynor's AGGRESSIVE Lurker Late Game vs Maru!",
+      "excerpt": "Professional match of StarCraft 2 between Reynor and Maru. Lots of Lurkers in the late game!  ByuN versus Serral: https://www.youtube.com/watch?v=VZeBQi3WXlk   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynors-aggressive-lurker-late-game-vs-maru/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-aggressive-lurker-late-game-vs-maru/",
+      "originalUrl": "https://youtube.com/watch?v=ZpYkXmbinKU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpYkXmbinKU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M9S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZpYkXmbinKU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-12-07T10:09:57-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-banshee-hit-squad.md",
       "title": "StarCraft 2: THE BANSHEE HIT SQUAD!",
       "excerpt": "Terran Mech is starting to look surprisingly mobile. Subscribe for more videos: http://lowko.tv/youtube Macro Wars: https://goo.gl/1c32tn  In this match of Professional StarCraft 2 I cast a game between Solar and Maru. Terran Mech has quickly been developing over the last few months. It has gone from",
@@ -809,84 +887,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-03-10T02:56:54-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-legends-free-for-all-mc-nestea-mvp-effort-rain-last.md",
-      "title": "StarCraft 2: THE LEGENDS FREE-FOR-ALL! (MC, Nestea, Mvp, Effort, Rain & Last)",
-      "excerpt": "Very fun free-for-all in StarCraft 2 in Big Game Hunters between Last, Effort, Rain, Mvp, Nestea and MC. All StarCraft 1 and StarCraft 2 legends.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-legends-free-for-all-mc-nestea-mvp-effort-rain-last/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-legends-free-for-all-mc-nestea-mvp-effort-rain-last/",
-      "originalUrl": "https://youtube.com/watch?v=NOcA0Q-gjBE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NOcA0Q-gjBE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NOcA0Q-gjBE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-02-23T09:23:49-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-siege-tank-surprise.md",
-      "title": "StarCraft 2: The Siege Tank SURPRISE!",
-      "excerpt": "Macro game of Zerg versus Terran in StarCraft 2. I decide to play mostly Zerglings, Banelings, Hydralisks and Ultralisks versus a Bio Terran after opening up with 5 quick Roaches.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-siege-tank-surprise/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-siege-tank-surprise/",
-      "originalUrl": "https://youtube.com/watch?v=RdZ3iUlFaNc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RdZ3iUlFaNc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M51S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RdZ3iUlFaNc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-16T04:44:46-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-ultimate-terran-army-soo-vs-dream.md",
@@ -967,14 +967,14 @@
       "publishedDateTime": "2018-01-09T06:12:03-08:00"
     },
     {
-      "path": "_games/sc2hl-maru-on-7-bases-starcraft-2-iem-maru-vs-dark.md",
-      "title": "Maru on 7 BASES?! - Starcraft 2 IEM: Maru vs Dark",
-      "excerpt": "Maru vs Dark during IEM Katowice, Maru showing off his crazy macro vs the killer zerg Dark.  ► SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe   A crazy description   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload other content, such",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-maru-on-7-bases-starcraft-2-iem-maru-vs-dark/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-maru-on-7-bases-starcraft-2-iem-maru-vs-dark/",
-      "originalUrl": "https://youtube.com/watch?v=xhIlzNTADhs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xhIlzNTADhs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M27S",
+      "path": "_games/sc2hl-tense-terran-vs-zerg-starcraft-2-serral-vs-bunny.md",
+      "title": "TENSE Terran vs Zerg - Starcraft 2: Serral vs Bunny",
+      "excerpt": "A tense Terran vs Zerg between Serral and Bunny from Homestory Cup 18! ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Watch the full VOD from HSC: https://www.twitch.tv/videos/339846106   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-tense-terran-vs-zerg-starcraft-2-serral-vs-bunny/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-tense-terran-vs-zerg-starcraft-2-serral-vs-bunny/",
+      "originalUrl": "https://youtube.com/watch?v=1Be_9MSYhMY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1Be_9MSYhMY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M10S",
       "provider": {
         "name": "SC2HL",
         "domain": "sc2hl.com",
@@ -995,7 +995,7 @@
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/xhIlzNTADhs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/1Be_9MSYhMY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

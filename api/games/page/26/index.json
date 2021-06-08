@@ -4,6 +4,155 @@
   "page": 26,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-justice-is-served.md",
+      "title": "StarCraft 2: JUSTICE IS SERVED!",
+      "excerpt": "Just your regular good ol' Protoss vs Protoss... With a twist! Subscribe for more videos: http://lowko.tv/youtube Intense micro battles: https://goo.gl/8ofWqN  A Silver versus Gold league Protoss versus Protoss is almost bound to have at least one of the two players cheese. Lo and behold... The same",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-justice-is-served/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-justice-is-served/",
+      "originalUrl": "https://youtube.com/watch?v=xRqrSylGiaE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xRqrSylGiaE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M6S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xRqrSylGiaE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-07-11T04:15:29-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-korean-vs-european-zerg-vs-zerg-solar-vs-serral.md",
+      "title": "StarCraft 2: KOREAN VS EUROPEAN ZERG VS ZERG! (Solar vs Serral)",
+      "excerpt": "Zerg versus Zerg is one of the hardest matchups to play well in StarCraft 2. Since all units have very high damage output compared to their hitpoints, it can be over in a flash. In this professional match of SC2 I cast a game between Serral and Solar. Solar plays very aggressively and focuses on Muta",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-korean-vs-european-zerg-vs-zerg-solar-vs-serral/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-korean-vs-european-zerg-vs-zerg-solar-vs-serral/",
+      "originalUrl": "https://youtube.com/watch?v=0LwUyhD6KGk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0LwUyhD6KGk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M11S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0LwUyhD6KGk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-21T02:28:51-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-laser-giraffes-bo3.md",
+      "title": "StarCraft 2: LASER GIRAFFES! (Bo3)",
+      "excerpt": "Gumiho vs Zest in a best-of-3 series. Subscribe for more videos: http://lowko.tv/youtube Dark vs Rogue: https://goo.gl/PRf8Gq  Gumiho and Zest are both easily in the top 10 of the current best players in StarCraft 2. In this match they face off against each other.  Support me on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-laser-giraffes-bo3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-laser-giraffes-bo3/",
+      "originalUrl": "https://youtube.com/watch?v=lAZ3GbV6tv4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lAZ3GbV6tv4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lAZ3GbV6tv4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-06-14T03:56:49-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-late-game-master-class.md",
+      "title": "StarCraft 2: LATE GAME Master Class!",
+      "excerpt": "An epic game of Zerg vs Protoss between Serral and Trap. Subscribe for more videos: http://lowko.tv/youtube The Queen Run-by: https://goo.gl/DXZHkx  Some maps are focused around aggressive build orders and some are played extremely passively. This is a very passive game of professional Zerg vs Protoss,",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-late-game-master-class/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-late-game-master-class/",
+      "originalUrl": "https://youtube.com/watch?v=3xTwJm3jDhY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3xTwJm3jDhY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M9S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3xTwJm3jDhY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-03-10T02:55:08-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-late-game-muta-switch-dark-vs-time.md",
       "title": "StarCraft 2: LATE  GAME MUTA SWITCH! (Dark vs TIME)",
       "excerpt": "Professional match of StarCraft 2 between the current World Champion Dark and TIME the highest ranked player from China. In this match we see both players take a slightly uncommon path in their macro games. Tactical Nukes by TIME and a late game Mutalisk transition by Dark.  Become a YouTube member:",
@@ -229,44 +378,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-10-22T05:01:56-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-lurker-creativity-dark-vs-dream.md",
-      "title": "StarCraft 2: LURKER CREATIVITY! (Dark vs Dream)",
-      "excerpt": "Awesome game of Starcraft 2 between Dark and Dream. A Zerg versus Terran.  Dark vs Creator:  https://www.youtube.com/watch?v=ZGBQn1UbR5g  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-lurker-creativity-dark-vs-dream/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-lurker-creativity-dark-vs-dream/",
-      "originalUrl": "https://youtube.com/watch?v=L5qAk3G5CAE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L5qAk3G5CAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M37S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/L5qAk3G5CAE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-11-13T03:05:36-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-lurker-drops.md",
@@ -1020,119 +1131,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-04-20T03:53:23-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-mittens-diamonds.md",
-      "title": "StarCraft 2: MITTENS & DIAMONDS!",
-      "excerpt": "A Diamond League Zerg vs Terran with commentary. Subscribe for more videos: http://lowko.tv/youtube Queen drop harass: https://goo.gl/iwpCji  In this match of Zerg versus Terran in StarCraft 2 played between two players in Diamond League between ElbowMittens and Doneson.  If you have an awesome replay",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-mittens-diamonds/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-mittens-diamonds/",
-      "originalUrl": "https://youtube.com/watch?v=2BqKojH-74Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2BqKojH-74Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M20S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2BqKojH-74Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-08-18T05:12:45-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-muta-ling-bane-is-back.md",
-      "title": "StarCraft 2: MUTA LING BANE IS BACK!",
-      "excerpt": "Mutalisks looks like they might be back to the meta of StarCraft 2! Subscribe for more videos: http://lowko.tv/youtube Battlecruiser death ball: https://www.youtube.com/watch?v=76dtdyA2mS4  DRG vs TIME in a really fun match of StarCraft 2. The new multiplayer balance patch makes Mutalisks once again",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-muta-ling-bane-is-back/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-muta-ling-bane-is-back/",
-      "originalUrl": "https://youtube.com/watch?v=-WrL1hqno4Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-WrL1hqno4Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-WrL1hqno4Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-11-10T04:58:28-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-mutas-vs-mech-soo-vs-ty.md",
-      "title": "StarCraft 2: MUTAS VS MECH?! (soO vs TY)",
-      "excerpt": "Zerg versus Terran Mech match of professional StarCraft 2 between soO and TY. In this game we see why Terran Mech is losing popularity as soO is going for a unit composition that on paper makes very little sense, until you realise he can mine significantly more than the Terran player and can constantly",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-mutas-vs-mech-soo-vs-ty/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-mutas-vs-mech-soo-vs-ty/",
-      "originalUrl": "https://youtube.com/watch?v=n5h5VKHnsKg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n5h5VKHnsKg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/n5h5VKHnsKg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-08T04:49:16-07:00"
     }
   ],
   "nextPage": 27

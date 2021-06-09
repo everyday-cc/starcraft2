@@ -4,38 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_games/beastyqtsc2-starcraft-2-nuking-every-single-supply-depot-my-opponent-had.md",
-      "title": "StarCraft 2: Nuking EVERY Single Supply Depot my Opponent had!",
-      "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-nuking-every-single-supply-depot-my-opponent-had/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-nuking-every-single-supply-depot-my-opponent-had/",
-      "originalUrl": "https://youtube.com/watch?v=7BbfMYXjJfc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7BbfMYXjJfc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M52S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 52,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7BbfMYXjJfc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-05-05T05:25:41-07:00"
-    },
-    {
       "path": "_games/beastyqtsc2-starcraft-2-only-sentries-to-grandmaster.md",
       "title": "StarCraft 2: ONLY Sentries to Grandmaster!!!",
       "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch",
@@ -1106,6 +1074,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-04-05T02:51:37-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-phenomenal-terran-vs-protoss.md",
+      "title": "StarCraft 2: PHENOMENAL Terran vs Protoss!",
+      "excerpt": "A really sick match between MaNa and SpeCial. Subscribe for more videos: http://lowko.tv/youtube MMA vs aLive: https://goo.gl/GW9L7H  In this match of professional Protoss vs Terran we have an intense back-and-forth between both progamers.  Support me on Patreon: http://www.patreon.com/lowkotv Join the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-phenomenal-terran-vs-protoss/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-phenomenal-terran-vs-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=6TUloHyJl98",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6TUloHyJl98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M47S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6TUloHyJl98/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-06-09T05:02:01-07:00"
     }
   ],
   "nextPage": 11

@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-non-stop-action-
 type: video
 length: PT13M27S
 publishedDateTime: 2020-10-07T08:58:37Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-NRRWhXp-1w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Gv3IBhlbKkQPUR7XJp4MxzWLM7+aS4KDHrxSyJv5614bXCC/5tLG/ckVESZ6ntbGVvJc1OLc/H3kuk8qNky/PXs5fo6kdZwHqWgCOpNKRrJ6vr6ekgXn6GJhf8pjdvgWjA3+6K7PzPOlLrGdv2WvApN53GNsXZjZLPaWoGQNaQ4F2TuWADn7xfD/etSLRee/LvrJYJAfw0/MSspAsLMFr/LucjkeNzNCYHlFbBQHHz9MvUbxqqYgX1etb2UqMKTecriOOWPFO96Vf+Q9Js8jstAfg7LQHy/ErpuFzqZXHu7gvJDxyZuztmZ/gY7EeD6cWh7m7zo4IpKnlES9j/4zf+n7SMnsfqv8Gx/1NDRhgy/NF425ENg1nTNk4wDSkCLaN6+qC6LxHATQ7nfw33soRrZAARv89PAe5wmVnYDA5EQ=;Refpvq9cXxbHs12oG24t9g=="
+secured: "2tkvNJzGADglJ9S7MCH8ssgBVbE7Jq4Oq0Qq/Fs8QlC62X0HszkEMkRpKjjI0nw4Qt10mc9Kzcjha+xRMcqL05T5dm1miYi5g3B4SLDzd9q6sfYnnbzHYx7VHsvg1Habkyqe3hQYc0IV2fvyPvlcCVmafbrbAhNeJtOaRB6AkOiqrosndXEY6EP0ytA0y7dII6le7wzVbQ5Wi4h/9EqM8BNu3fIYbLGuP3nPy97o+ft41cMIRV5N4RSbrUhew2VkGoBxAg8emBlV0dE5Obh0zl8UIIf3D4kY2JXZ8U/U9vznMSgcehfqaH4QpLCEw7Dt7kC1Le68SOILkBq3A74u+/5OLPBm7dmMJo53EAuQHNhluYu2iWhXI7oPP/nxXZng7Mz0CRSGOMmmkS0Zv5u8KKHlR9OVWbgjYrkOXTn0Ehs=;UlaSTbCZrP7VdgvDIIMgTQ=="
 ---
 

@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-siege-tank-s
 type: video
 length: PT34M51S
 publishedDateTime: 2021-03-16T11:44:46Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RdZ3iUlFaNc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "R1ykUQIjvu+kDYsnRR1pIFu0SPwPgTleL6sUm2g2SnOBS5K9fH2VpWO0mY7grQewzIj27XElOSQvjfFBMLj+o81fuRi8zmG/pusUvH23oCSwV3i2a9D7njh3S9f2sRkcL6Ri/oB8TwJYVH+q+tABMCJ4dHqY+JuWVSIa6NtiryG0B6W4koPm7qmLe4lhp3zPyeS0EeDFiYhVU+I37yXbZwCd0xIOLI4z2SjuFVKpK98O/DLdmWdPb6iwW4AURVmVcldFZoHkS7xYemUR6I/UcaGw3w4RwR/FtPIBVA5Jb9mrzfObogEXQ3sYJpxDLw7BQI8J1Md2azJoVwj4VgpuZMJ2eW4dDQE59C8wX2+mcjnQT958Dp7U1uDyqlX9bXsMEiku8YduKoSxPdpecscf5qRe0l1QoOzLAuwmIRWSz44=;9iJenP5+RtoPB5Yc/wPgVg=="
+secured: "OUWAwpQ2Js62VWUYgMWxQa5rVl6v0BlwAFFREkAAdSLQ5nQx1KS5fgnfFzWMRHdQnjOBJe4Px2f7ZxYS/72nfoBd60Q/YXwSlZUZfstI0kWhM87lH5GHtzaF4fbBJNb9m3uz5HRTBTt9idDrqRc2uIj9gZb7049r7nZ9HihUgPTSwzSdDOtTonanVLZPctfge0mtjQr8/sQjQaGrJJqjtKsUXBc0qSgsmtBOri6urjwXb0ucsUIRMXx4j7swvap3pdr4AqjA9BKZca29sryuL7Gx8Gd9MidZQMrsXxTZyKKAteniVxCOvHO5rkKY2EA1L9GJr9IF9mzAwnkA1zHqlYcggtvAjjgaAQviuPfq2Tfmm8jYiaPM5V57aWbpmdmaAGX/vffyEqBxspVP/XdpHqiw6iANXdDhv6sM8xap6sg=;Xkrs02YTK02Jj8ltkVnJSA=="
 ---
 

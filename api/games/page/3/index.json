@@ -383,6 +383,45 @@
       "publishedDateTime": "2021-01-11T04:22:50-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-byuns-empty-medivac-drop-dark-vs-byun.md",
+      "title": "StarCraft 2: ByuN's EMPTY Medivac Drop?! (Dark vs ByuN)",
+      "excerpt": "Best-of-5 series of StarCraft 2 between ByuN and Dark, two previous world champions of StarCraft 2.  OlimoLeague on Patreon: https://www.patreon.com/olimoley Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-empty-medivac-drop-dark-vs-byun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-empty-medivac-drop-dark-vs-byun/",
+      "originalUrl": "https://youtube.com/watch?v=KqbcrD-4vHk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KqbcrD-4vHk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M9S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KqbcrD-4vHk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-05-10T03:55:40-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-intense-protoss-micro-strategies-parting-vs-reynor.md",
       "title": "StarCraft 2: INTENSE PROTOSS MICRO STRATEGIES! (PartinG vs Reynor)",
       "excerpt": "Amazing series of Zerg versus Protoss at the professional level of StarCraft 2. In this match between PartinG and Reynor we see PartinG go for some uncommon strategies. He opens up very aggressively with Photon Cannons regularly and then transitions towards an army that is extremely micro heavy, but",
@@ -681,45 +720,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-03-04T04:51:27-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-non-stop-protoss-aggression-serral-vs-trap.md",
-      "title": "StarCraft 2: NON-STOP Protoss Aggression! (Serral vs Trap)",
-      "excerpt": "Top level game of Zerg versus Protoss in StarCraft 2 between Serral and Trap. In this match Trap decides to just pile on the pressure with Adepts, Oracles, Archons, 10 Gateways and more.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-non-stop-protoss-aggression-serral-vs-trap/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-non-stop-protoss-aggression-serral-vs-trap/",
-      "originalUrl": "https://youtube.com/watch?v=iEY5iLUuUto",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iEY5iLUuUto\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M57S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iEY5iLUuUto/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-05-11T02:59:32-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-proxy-hatchery-problems-bly-vs-maxpax.md",

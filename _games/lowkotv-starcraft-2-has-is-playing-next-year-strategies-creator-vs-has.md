@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-has-is-playing-n
 type: video
 length: PT14M46S
 publishedDateTime: 2021-04-22T11:32:10Z
-heat: 77
+heat: 68
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EY33CBhYJIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "AKSlUIIT99jOY6K/MmfEqeU/3Jy2039/fmkHZkWJq2x2Wz+7qsKFkQlVI0CkCl8b+qkcHqm+eDiWubpIEe+h9LACeX5YNPjeFiTEtZg/Cf+8VuSoqTm3HLNi+lJDDCUmfZFebXerMucqbs3TgE2aDHD1R1QyQ1guFMXcArVgImJ3lv89bJ6qsYZuPrztPARRoD9qU02q5bL1S2JEGnFrg07x/aqeaKARZSZ0vIjA21VoiFU0vr5UfS23JOHRlPNqL6WKfuaEj5dGmQDrWa59seQM6HHzktIaXOavsqGV0WKIaPFvLXj8o2K7m2BZ+hXpUxaAi3pFaRFNzlgjrtfR0bNz10ERQGp69VNRiFd1bWu3+TufPS7ExB3idIgaphAlWmsR/ZcZJ0ZsEE9l8NkUM9MQ0UFW0gXaugpX4LlrgkWfaDqDQCRpQj3gWSM9PvDk;GrMgNuOaarTwtg+afL/BLg=="
+secured: "WISKziGZ9Tpyrokc+3t9X2lo2cYZfp3vkqYwWZfksrPVnRDxGSnT5gRYBpj6fn8Rn3kAgVdQEczppVfTHkY4++4uXrBJgIiCQYkrcIPdGEXJ1pOxqesWT0aJEhIoxyXvsu2PwR801agMKaoWCnyuBoNhAbGY1twHRBPXmMFscuhahDvsBWJPEB0/XEvDxX6U5ZrLdg59jGiitt2W0rhGQcgAzHPRmgftOPsf+UTstHH6doOzFWUH3+MSHkZBgB69HFEGqN8kMdPgIxDbxdzhKEOL8iqnbRut3bilLPCtwI2PW4etKd54QolYovpau9yU3feCRQpKJZh3AwVw1s6IR0hOGJO6eMIBGCSttiBjEa2AwW7KHRa+1oQOD4Fpw9Ax5bw2YB41M6ySQlzgeQDFC966g8sUTPkNQWbyOskffQoTWF8a5PpMU8OEmy6E+LSN;C7TGPnhKcLQmVpB6zRnFgg=="
 ---
 

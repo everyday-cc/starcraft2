@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-ridiculous
 type: video
 length: PT24M4S
 publishedDateTime: 2021-03-25T12:59:08Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eLsxa7TnXvo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "jCpNZA+o31ZaO6F0OqJuRVlGFvKsZ5OJjwz+WOliKZXFkwt5bZZ4RTwLoXVJmo/haarAXky3HgQXufdIqbNRSuEYJt/osGFyFtX1GTbj0eZZbR35iIai/cug7ti/oSzAZA7UxeV+MAPZvOVgUQnFjbWqueQljsm41ECDC4ox7BfotLQRuUR3tqrZXojXQ7E+5wGZUvVId3uBg4X1FLCjain2Ip7ByjZroCs96oY4utTSsxXoRav0Nx/6+Dh6h/DuaphP4A7cD41w2amuDq0Y1TPadvSi13pIN0gd1lx2HrNfB21nj6rcsNWSUiOKefttLnXMsLZHr9YxLeV9Ti1VY7UyJiZQviPUsnAM1BSWnE5ELLVWULQkWl0LBX0nbW21ToxIdGFwjib0KHrzVQK5/NPCp3BomsmWE2TyKstbAos=;UJXPedCgw+5k6yZSVuS5lA=="
+secured: "VebjRuVViemzpJsHWSQWrKrM/Uuen88NTiHF52lFA+bBTJqtPMUTsdu9QYG1qhH9QeGSegCi4BslpZXoOszjfYlYnwqtWbNBLcHyEjZ+8NDH9ZjmkF6qgKZ6XaXzqNvAMXTd9xNGSWRGwB+yc/M4vYBt/GQYqy1+Q4dLH/VJbIpHjGwg66bIxmhSESncUbSisslpOk7APd51YWW3XxFjUWtRx/SPvRYVRvBJzXkjA/QkfzQo0w8FixWrbV+4BUHBRcHNdhlWzQHgbUE/uvZ7bW5WWAnkevrxOF1n6GNMLU8Z0eS3Vs6VFy1p0UuvOwSEioj8NnMHq552r3glyQGzKr8f0ARCO8ZX1WCg9QhENxfjE5sZhtRwKbDwjvwz2HJk3OY7a4ByFmQErIKe0VOaMbnp4IhutK0Ry89x++MIiCk=;S2xFtdSliNj6SmeuRkQz3A=="
 ---
 

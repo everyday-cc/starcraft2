@@ -4,14 +4,14 @@
   "page": 8,
   "value": [
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-zerg-blind-counter-scouting-guide.md",
-      "title": "StarCraft 2: ZERG BLIND COUNTER?! (Scouting Guide)",
-      "excerpt": "Zerg vs Protoss scouting guide in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Zerg vs Terran all-in build order: https://goo.gl/kRXijf  Scouting a Protoss can be very difficult. In this video I explain how to scout with Zerg in StarCraft 2 without losing an Overlord.  In this video",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-zerg-blind-counter-scouting-guide/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-zerg-blind-counter-scouting-guide/",
-      "originalUrl": "https://youtube.com/watch?v=Ti9a7AvLOCU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ti9a7AvLOCU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M47S",
+      "path": "_learning/videos/lowkotv-starcraft-2-zerg-cheese-build-order.md",
+      "title": "StarCraft 2: ZERG CHEESE Build Order!",
+      "excerpt": "A very easy build order with a solid win rate in Zerg vs Zerg. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 guides: https://goo.gl/Njw8ay  The strength of the 15 Hatchery, 14 Extractor and 14 Spawning Pool is the fact that it makes your build order look very \"normal\". Your opponent",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-zerg-cheese-build-order/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-zerg-cheese-build-order/",
+      "originalUrl": "https://youtube.com/watch?v=EFGJKS69qz0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EFGJKS69qz0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M43S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -24,11 +24,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-02-04T02:58:54-08:00",
+      "publishedDateTime": "2017-05-11T06:23:54-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Ti9a7AvLOCU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/EFGJKS69qz0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

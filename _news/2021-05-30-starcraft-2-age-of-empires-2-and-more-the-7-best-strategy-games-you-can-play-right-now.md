@@ -40,6 +40,17 @@ related:
         width: 2048
         height: 1024
         isCached: true
+  - title: "Starcraft's owner Paul Makin dies"
+    excerpt: "Paul Makin, most famous as the owner of globe-trotting multiple Group One winner Starcraft, has died aged 82. An Australian who made his money betting on racing in Hong Kong and Japan, Makin also ..."
+    publishedDateTime: 2021-05-27T00:00:00Z
+    webUrl: "https://wwos.nine.com.au/horse-racing/starcraft-s-owner-paul-makin-dies/bf388208-dcdf-42fb-8e78-631c5014e6f6"
+    ampWebUrl: "https://amp.nine.com.au/article/bf388208-dcdf-42fb-8e78-631c5014e6f6"
+    cdnAmpWebUrl: "https://amp-nine-com-au.cdn.ampproject.org/c/s/amp.nine.com.au/article/bf388208-dcdf-42fb-8e78-631c5014e6f6"
+    type: article
+    provider:
+      name: Nine.com.au
+      domain: nine.com.au
+    quality: 37
   - title: "How to Install Starcraft 2 on Ubuntu Linux"
     excerpt: "In this Linux guide you will learn how to install Starcraft 2 on Ubuntu Linux. The Starcraft 2 game has been released free of charge for anyone with registered Battle.net account. Before you proceed with the installation make sure that you have correctly ..."
     publishedDateTime: 2021-06-08T23:10:00Z

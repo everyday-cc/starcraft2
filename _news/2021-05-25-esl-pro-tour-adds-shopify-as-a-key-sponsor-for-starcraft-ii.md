@@ -7,7 +7,7 @@ originalUrl: "https://www.gamereactor.eu/esports/985443/ESL+Pro+Tour+adds+Shopif
 webUrl: "https://www.gamereactor.eu/esports/985443/ESL+Pro+Tour+adds+Shopify+as+a+key+sponsor+for+StarCraft+II/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 490
     height: 267
     isCached: true
-
-related:
-  - title: "ESL and Shopify agree ESL Pro Tour StarCraft II partnership"
-    excerpt: "Esports brand ESL and eCommerce platform Shopify announced that they will cooperate on the ESL Pro Tour StarCraft II this year."
-    publishedDateTime: 2021-05-24T11:01:00Z
-    webUrl: "https://esportsinsider.com/2021/05/shopify-esl-partnership/"
-    ampWebUrl: "https://esportsinsider.com/2021/05/shopify-esl-partnership/?amp"
-    cdnAmpWebUrl: "https://esportsinsider-com.cdn.ampproject.org/c/s/esportsinsider.com/2021/05/shopify-esl-partnership/?amp"
-    type: article
-    provider:
-      name: esportsinsider
-      domain: esportsinsider.com
-    quality: 57
-    images:
-      - url: "https://resources.esportsinsider.com/esportsinsider/2021/05/shopify-esl-header.png"
-        width: 1200
-        height: 720
-        isCached: true
 
 secured: "Nj83PDwZUDrRrx5otOFG7s1+zXdstWQomLFxchhRoURYRTXuRZC7tOSshDI4Cxux8K39k382zWxfX0LhKzpelmyCJp51r5b+AYDPP3cZqHyGeonrfcst2CSMNn6YRoSUzwXlPURAAxz7+L1WbrYyYtP64n7VIr3zyqvTHiidmEOi9kIiwc1VJI0mL7yDYvrwZ3oJ82/dZ0J+LuaSQVdeynI/VjzGXre1d3C5UNobHNqnxrDezEnQvpTUGvowM4un6cV/YxgTBdbck7tLBrb5/BRgQGjqM2oZeJk7idOnEli0IMg7ukYBBkPcIyNC+hv3CpDBYLG/HiKDa/Awc3CIuH75F9gerxGjQB+Ibqqpr0c=;kA6x1+Hbsls8H6GMnVzMAw=="
 ---

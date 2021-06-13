@@ -1,18 +1,20 @@
 ---
 category: news
-title: "How to Install Starcraft 2 on Ubuntu Linux"
-excerpt: "In this Linux guide you will learn how to install Starcraft 2 on Ubuntu Linux. The Starcraft 2 game has been released free of charge for anyone with registered Battle.net account. Before you proceed with the installation make sure that you have correctly ..."
-publishedDateTime: 2021-06-08T23:10:00Z
-originalUrl: "https://www.linuxtoday.com/developer/how-to-install-starcraft-2-on-ubuntu-linux-210606184502.html"
-webUrl: "https://www.linuxtoday.com/developer/how-to-install-starcraft-2-on-ubuntu-linux-210606184502.html"
+title: "Starcraft's owner Paul Makin dies"
+excerpt: "Paul Makin, most famous as the owner of globe-trotting multiple Group One winner Starcraft, has died aged 82. An Australian who made his money betting on racing in Hong Kong and Japan, Makin also ..."
+publishedDateTime: 2021-05-27T00:00:00Z
+originalUrl: "https://wwos.nine.com.au/horse-racing/starcraft-s-owner-paul-makin-dies/bf388208-dcdf-42fb-8e78-631c5014e6f6"
+webUrl: "https://wwos.nine.com.au/horse-racing/starcraft-s-owner-paul-makin-dies/bf388208-dcdf-42fb-8e78-631c5014e6f6"
+ampWebUrl: "https://amp.nine.com.au/article/bf388208-dcdf-42fb-8e78-631c5014e6f6"
+cdnAmpWebUrl: "https://amp-nine-com-au.cdn.ampproject.org/c/s/amp.nine.com.au/article/bf388208-dcdf-42fb-8e78-631c5014e6f6"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Linux Today
-  domain: linuxtoday.com
+  name: Nine.com.au
+  domain: nine.com.au
 
 topics:
   - StarCraft 2
@@ -34,17 +36,6 @@ related:
         width: 2048
         height: 1024
         isCached: true
-  - title: "Starcraft's owner Paul Makin dies"
-    excerpt: "Paul Makin, most famous as the owner of globe-trotting multiple Group One winner Starcraft, has died aged 82. An Australian who made his money betting on racing in Hong Kong and Japan, Makin also ..."
-    publishedDateTime: 2021-05-27T00:00:00Z
-    webUrl: "https://wwos.nine.com.au/horse-racing/starcraft-s-owner-paul-makin-dies/bf388208-dcdf-42fb-8e78-631c5014e6f6"
-    ampWebUrl: "https://amp.nine.com.au/article/bf388208-dcdf-42fb-8e78-631c5014e6f6"
-    cdnAmpWebUrl: "https://amp-nine-com-au.cdn.ampproject.org/c/s/amp.nine.com.au/article/bf388208-dcdf-42fb-8e78-631c5014e6f6"
-    type: article
-    provider:
-      name: Nine.com.au
-      domain: nine.com.au
-    quality: 37
   - title: "Starcraft 2, Age of Empires 2 and more: The 7 best strategy games you can play right now"
     excerpt: "When our robot replacements finally toast our extinction, they’ll point to a single victory as the moment the tide turned in their favour – we’re not talking about chess or Go, but the day Google’s DeepMind beat the best of us at Starcraft 2."
     publishedDateTime: 2021-05-30T00:00:00Z
@@ -59,7 +50,16 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How to Install Starcraft 2 on Ubuntu Linux"
+    excerpt: "In this Linux guide you will learn how to install Starcraft 2 on Ubuntu Linux. The Starcraft 2 game has been released free of charge for anyone with registered Battle.net account. Before you proceed with the installation make sure that you have correctly ..."
+    publishedDateTime: 2021-06-08T23:10:00Z
+    webUrl: "https://www.linuxtoday.com/developer/how-to-install-starcraft-2-on-ubuntu-linux-210606184502.html"
+    type: article
+    provider:
+      name: Linux Today
+      domain: linuxtoday.com
+    quality: 17
 
-secured: "YR3w6bEyCpcUnGhlR3w58YyBk/GpkY1zXcuZ0U3RRqeOg5TgXaDO/XVL9TqWcrAtifC+k+udv6FpVY5BPZNCz88CH2Q9X9eNMTNe3vnxHHLMbL2DQ40nmzXevRHMrC7Sx5/L/aJsNaFpg5W67XBpilovZ0XmoL8TFmtoLVkAYpB2ecEuZ87VJv+deSDP7ssh+RDKFeV7+X5+LBS0WA9jWkVDZx4NkBdTqhRbh2y8eUmTsArq5A1U+xEM/84MeOJEOcDupJK/ZhoViCo4X+veOojziCJgbIz4cRGHiCkNf9kJHH8SXG2/jdCTJAX91xATn1TyWoVxOmX/7vUbj2SRbI/RojGL1i/k89u20FKBNqg=;9M+4s9WsxQuoei07tHJ1Pg=="
+secured: "mmikKv62iGV0o8lTYdiHoNlyvnID7ThwCoPYQmEdUC6IFgPetmKkWHxql9Vcq2/YkB2rY2HRgue0HoZydYroljroMaLMWDn1GKErV6j5GuQccDU4OkkkRqJJjBX+jofPRLgEdRDwF76s0qM2HMc3WAffb5yEj3amsf02Z2XjUmR/h6G6/ganhaVVfzqPpwq4XJBC5lBQWQLiik9dUC+civDe5LZvlOnAqHVDgVJNNXyHUEKhx7ritM0HtFh/RVDH47mktF6arwiml/iJwrxNORo/4cjGziHPHNNpwPU0avewsZaQR1IY7PrFRD6uCRyJ6rCifZTFyC5RJow+svKcGu0PtXh7QjHpzt1LVrVC5dA=;/u19gZuiEXQiXYXQTPmZrQ=="
 ---
 

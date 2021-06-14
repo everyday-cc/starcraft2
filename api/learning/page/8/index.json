@@ -4,45 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-zerg-cheese-build-order.md",
-      "title": "StarCraft 2: ZERG CHEESE Build Order!",
-      "excerpt": "A very easy build order with a solid win rate in Zerg vs Zerg. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 guides: https://goo.gl/Njw8ay  The strength of the 15 Hatchery, 14 Extractor and 14 Spawning Pool is the fact that it makes your build order look very \"normal\". Your opponent",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-zerg-cheese-build-order/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-zerg-cheese-build-order/",
-      "originalUrl": "https://youtube.com/watch?v=EFGJKS69qz0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EFGJKS69qz0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-05-11T06:23:54-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EFGJKS69qz0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/lowkotv-starcraft-2-zerg-tutorial-drones-before-army.md",
       "title": "StarCraft 2: Zerg Tutorial - Drones before Army!",
       "excerpt": "StarCraft 2: Legacy of the Void tutorial for Zerg players in 1 vs 1. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 tutorials: https://goo.gl/a5vYOq  Figuring out how many Drones you can get away with is extremely important. If you're trying to improve with Zerg, it is arguably speaking",
@@ -887,6 +848,36 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-shift-key-makes-it-easy-workers-to-gas-waypoints-ctrl-grps-moving.md",
+      "title": "Learn to play Starcraft - Shift Key MAKES IT EASY! (workers to gas, waypoints, ctrl grps, moving)",
+      "excerpt": "impromptu guide on the utility of the shift hotkey for a bit of everything",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-to-play-starcraft-shift-key-makes-it-easy-workers-to-gas-waypoints-ctrl-grps-moving/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-to-play-starcraft-shift-key-makes-it-easy-workers-to-gas-waypoints-ctrl-grps-moving/",
+      "originalUrl": "https://youtube.com/watch?v=7x9pHr544oY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7x9pHr544oY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M21S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-11-19T09:05:30-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7x9pHr544oY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
       ]
     },
     {

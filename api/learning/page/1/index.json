@@ -4,37 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-2021.md",
-      "title": "Learn Starcraft 2: EASY Beginner Zerg Build Order Guide [2021]",
-      "excerpt": "Starcraft 2 Beginner's Guide (roach build order) . Let's learn a very easy beginner friendly zerg build order for Starcraft 2. This is a very powerful but also very easy build order (relatively at least haha) to execute for new players! Hope you learn a lot and enjoy the video!  Learn Starcraft 2: EASY",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-2021/",
-      "originalUrl": "https://youtube.com/watch?v=IdLoHTiVJ4o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IdLoHTiVJ4o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M9S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-04-22T18:58:19-07:00",
-      "heat": 153,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IdLoHTiVJ4o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-starcraft-2-how-to-rapid-fire-warp-in-ultra-fast-technique.md",
       "title": "Starcraft 2: How to Rapid Fire Warp In (Ultra Fast Technique)",
       "excerpt": "You may have seen Rapid Fire Warp Ins before, but never THIS fast! This is going to change your protoss macro in starcraft 2 forever. Let's get started!  Starcraft 2: How to Rapid Fire Warp In (Ultra Fast Technique) #Starcraft2 #Protoss #RapidFire  ♦ Coaching --------------------------------------------------------------------------",
@@ -66,63 +35,23 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained.md",
-      "title": "StarCraft 2: Zerg vs Terran EXPLAINED!",
-      "excerpt": "Today's video is made in collaboration with Benetton. The sweater I'm wearing in this video: https://us.benetton.com/knit-sweater-in-100-cotton-beige-1598K1O31_1K9.html?utm_campaign=USA_MF_INFLUENCER_Adult_SpecialContent_SS21-Lowko_Intent_2021-03&utm_medium=live&utm_source=youtube.com  In this video",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained/",
-      "originalUrl": "https://youtube.com/watch?v=rGa7TwyZa_4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rGa7TwyZa_4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-04-28T02:19:50-07:00",
-      "heat": 134,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rGa7TwyZa_4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-terran-pro-analysis-defending-the-dirtiest-cheeser-of-them-all.md",
-      "title": "Terran Pro Analysis | Defending The Dirtiest Cheeser of them all",
-      "excerpt": "Starcraft 2 Terran Pro Replay Analysis #Starcraft2​ #terran​ #analysis  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-pro-analysis-defending-the-dirtiest-cheeser-of-them-all/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-terran-pro-analysis-defending-the-dirtiest-cheeser-of-them-all/",
-      "originalUrl": "https://youtube.com/watch?v=0nZJxqv4pIU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0nZJxqv4pIU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M37S",
+      "path": "_learning/videos/hushang-tutorials-when-to-attack-protoss-starcraft-2-terran-vs-protoss.md",
+      "title": "WHEN TO ATTACK PROTOSS | Starcraft 2 Terran vs Protoss",
+      "excerpt": "Playing vs protoss can sometimes feels like bull!@#$...but beating protoss is easier than you might think! In this series \"How to Defeat Protoss\" we're going to be looking at key components to let you annihilate the competition. Let's get into it!  WHEN TO ATTACK PROTOSS | Starcraft 2 Terran vs Protoss",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-when-to-attack-protoss-starcraft-2-terran-vs-protoss/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-when-to-attack-protoss-starcraft-2-terran-vs-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=O_eotUxWXTU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O_eotUxWXTU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M29S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2021-04-03T19:06:13-07:00",
-      "heat": 130,
+      "publishedDateTime": "2021-04-13T09:41:50-07:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/0nZJxqv4pIU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/O_eotUxWXTU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -181,7 +110,7 @@
         "domain": "hushangcoaching.com"
       },
       "publishedDateTime": "2020-12-08T18:09:09-08:00",
-      "heat": 101,
+      "heat": 100,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/CupNHJotqmQ/maxresdefault.jpg",
@@ -243,7 +172,7 @@
         "domain": "hushangcoaching.com"
       },
       "publishedDateTime": "2020-10-09T16:03:01-07:00",
-      "heat": 75,
+      "heat": 80,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/X1g4O2PTOtQ/maxresdefault.jpg",
@@ -258,6 +187,37 @@
       "topics": [
         "StarCraft 2",
         "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-2021.md",
+      "title": "Learn Starcraft 2: EASY Beginner Zerg Build Order Guide [2021]",
+      "excerpt": "Starcraft 2 Beginner's Guide (roach build order) . Let's learn a very easy beginner friendly zerg build order for Starcraft 2. This is a very powerful but also very easy build order (relatively at least haha) to execute for new players! Hope you learn a lot and enjoy the video!  Learn Starcraft 2: EASY",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-2021/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-2021/",
+      "originalUrl": "https://youtube.com/watch?v=IdLoHTiVJ4o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IdLoHTiVJ4o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M9S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-04-22T18:58:19-07:00",
+      "heat": 80,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IdLoHTiVJ4o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
       ]
     },
     {
@@ -282,7 +242,7 @@
         ]
       },
       "publishedDateTime": "2016-09-19T13:46:31-07:00",
-      "heat": 71,
+      "heat": 73,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/dBlNRfFkPdk/maxresdefault.jpg",
@@ -312,7 +272,7 @@
         "domain": "hushangcoaching.com"
       },
       "publishedDateTime": "2020-06-17T16:29:41-07:00",
-      "heat": 69,
+      "heat": 70,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/F_C9Vqv6lFE/maxresdefault.jpg",
@@ -1045,6 +1005,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2021.md",
+      "title": "Starcraft 2: EASY Beginner Protoss Build Order Tutorial vs Terran [2021]",
+      "excerpt": "Very powerful protoss build order vs terran. We begin with observers for scouting, blink for helping to defend terran early pressures and then transition into a formidable colossus/chargelot army which should safely get you to the mid-game phase!  0:00 Intro 0:56 Protoss Build Order vs Terran | Opening",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2021/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2021/",
+      "originalUrl": "https://youtube.com/watch?v=XvRoGf3SXRo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XvRoGf3SXRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M41S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-10-02T18:54:21-07:00",
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XvRoGf3SXRo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-aggressive-opening-adept-oracle-2020-build-order-guide.md",
       "title": "Starcraft 2: Protoss vs Protoss | Aggressive Opening! Adept-Oracle [2020 Build Order Guide]",
       "excerpt": "Starcraft 2: Protoss vs Protoss guide/tutorial. Today we're learning an aggressive pvp opening with 8 adepts + 2 oracles. It hits like a tank and there's pretty much no way for your opponent to defend any damage. The question is more so \"how much damage\" can you do?  Protoss vs Protoss | Aggressive Opening!",
@@ -1093,37 +1084,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/d3UPyQPRA5M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2021.md",
-      "title": "Starcraft 2: EASY Beginner Protoss Build Order Tutorial vs Terran [2021]",
-      "excerpt": "Very powerful protoss build order vs terran. We begin with observers for scouting, blink for helping to defend terran early pressures and then transition into a formidable colossus/chargelot army which should safely get you to the mid-game phase!  0:00 Intro 0:56 Protoss Build Order vs Terran | Opening",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2021/",
-      "originalUrl": "https://youtube.com/watch?v=XvRoGf3SXRo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XvRoGf3SXRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M41S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-10-02T18:54:21-07:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XvRoGf3SXRo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1208,68 +1168,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020.md",
-      "title": "Learn Starcraft 2: Terran Build Order - EASY & SAFE [Starcraft 2 2020]",
-      "excerpt": "In today's guide/lesson we're looking at how to execute a terran vs terran (tvt) build order. Was supposed to be just the opening but I got a little carried away so you're getting 19 minutes of raw TvT information. Get out your notepads ;)  #BuildOrder #TerranVsTerran #TvT Terran vs Terran(TvT) Build",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020/",
-      "originalUrl": "https://youtube.com/watch?v=CupNHJotqmQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CupNHJotqmQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M42S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-12-08T18:09:09-08:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CupNHJotqmQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/winterstarcraft-learn-starcraft-protoss-beginner-guide-1-updated-patch-40-free-to-play.md",
-      "title": "Learn Starcraft - Protoss Beginner Guide #1 (Updated Patch 4.0 FREE TO PLAY)",
-      "excerpt": "How to command the incredibly strong forces of the protoss and cover weaknesses against the other inferior races. Updated for patch 4.0! This guide is not intended for COMPLETELY new players, but those who have played several games/campaign missions and grasp the very basics.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-protoss-beginner-guide-1-updated-patch-40-free-to-play/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-starcraft-protoss-beginner-guide-1-updated-patch-40-free-to-play/",
-      "originalUrl": "https://youtube.com/watch?v=x3ZkSX0tJg4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x3ZkSX0tJg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M41S",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-11-26T03:51:55-08:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/x3ZkSX0tJg4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/lowkotv-starcraft-2-co-op-fenix-guide-how-to-easily-beat-brutal-missions.md",
       "title": "StarCraft 2 Co-op: Fenix Guide - How To Easily Beat Brutal Missions!",
       "excerpt": "A full overview of my go-to strategy with Fenix in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Fenix Stargate build: https://goo.gl/uq2FU9  After spending quite a bit of time, I finally managed to get Fenix to the highest level in the game. In this video I explain my default strategy",
@@ -1344,6 +1242,113 @@
       "topics": [
         "StarCraft 2",
         "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-guide-spamming-abilities-rapid-fire.md",
+      "title": "StarCraft 2 Guide: SPAMMING Abilities! (Rapid Fire)",
+      "excerpt": "Rapid fire is one of the most useful hotkeys in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Hotkey & Control Groups guide: https://goo.gl/u1zJjv  In this video I explain how to enable rapid fire, and spam abilities in StarCraft 2. The uses for this are very obvious once you start",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-guide-spamming-abilities-rapid-fire/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-guide-spamming-abilities-rapid-fire/",
+      "originalUrl": "https://youtube.com/watch?v=N2dNK-mIWkQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N2dNK-mIWkQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M37S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-01-12T08:03:44-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N2dNK-mIWkQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-how-to-improve-efficiently-practice-guide.md",
+      "title": "StarCraft 2: How-to Improve & Efficiently Practice! (Guide)",
+      "excerpt": "Practicing a lot and practicing efficiently are two seperate things. In this video I go over how I improve in StarCraft 2, and how to make the most of your practice time.  The basic idea is to have a certain goal in mind when playing the game. A lot of people complain that they have a hard time laddering",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-how-to-improve-efficiently-practice-guide/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-how-to-improve-efficiently-practice-guide/",
+      "originalUrl": "https://youtube.com/watch?v=QB7axvdu9xo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QB7axvdu9xo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M56S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-06-22T06:45:37-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QB7axvdu9xo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/winterstarcraft-learn-starcraft-protoss-beginner-guide-1-updated-patch-40-free-to-play.md",
+      "title": "Learn Starcraft - Protoss Beginner Guide #1 (Updated Patch 4.0 FREE TO PLAY)",
+      "excerpt": "How to command the incredibly strong forces of the protoss and cover weaknesses against the other inferior races. Updated for patch 4.0! This guide is not intended for COMPLETELY new players, but those who have played several games/campaign missions and grasp the very basics.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-protoss-beginner-guide-1-updated-patch-40-free-to-play/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-starcraft-protoss-beginner-guide-1-updated-patch-40-free-to-play/",
+      "originalUrl": "https://youtube.com/watch?v=x3ZkSX0tJg4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x3ZkSX0tJg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M41S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-11-26T03:51:55-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/x3ZkSX0tJg4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
       ]
     }
   ],

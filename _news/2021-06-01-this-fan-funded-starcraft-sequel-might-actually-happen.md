@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailydot.com/parsec/starcraft-universe-mod-kickstarter-b
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/parsec/starcraft-universe-mod-kickstarter-blizzard/?amp"
 type: article
 quality: 57
-heat: 118
+heat: 117
 published: true
 
 provider:

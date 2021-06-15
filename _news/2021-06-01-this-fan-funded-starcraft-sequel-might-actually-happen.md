@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailydot.com/parsec/starcraft-universe-mod-kickstarter-b
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/parsec/starcraft-universe-mod-kickstarter-blizzard/?amp"
 type: article
 quality: 57
-heat: 117
+heat: 97
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Starcraft's owner Paul Makin dies"
-    excerpt: "Paul Makin, most famous as the owner of globe-trotting multiple Group One winner Starcraft, has died aged 82. An Australian who made his money betting on racing in Hong Kong and Japan, Makin also ..."
-    publishedDateTime: 2021-05-27T00:00:00Z
-    webUrl: "https://wwos.nine.com.au/horse-racing/starcraft-s-owner-paul-makin-dies/bf388208-dcdf-42fb-8e78-631c5014e6f6"
-    ampWebUrl: "https://amp.nine.com.au/article/bf388208-dcdf-42fb-8e78-631c5014e6f6"
-    cdnAmpWebUrl: "https://amp-nine-com-au.cdn.ampproject.org/c/s/amp.nine.com.au/article/bf388208-dcdf-42fb-8e78-631c5014e6f6"
-    type: article
-    provider:
-      name: Nine.com.au
-      domain: nine.com.au
-    quality: 37
   - title: "Starcraft 2, Age of Empires 2 and more: The 7 best strategy games you can play right now"
     excerpt: "When our robot replacements finally toast our extinction, they’ll point to a single victory as the moment the tide turned in their favour – we’re not talking about chess or Go, but the day Google’s DeepMind beat the best of us at Starcraft 2."
     publishedDateTime: 2021-05-30T00:00:00Z

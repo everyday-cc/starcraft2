@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=Z6v00nM7W1U
 type: video
 length: PT26M48S
 publishedDateTime: 2019-12-30T13:08:21Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z6v00nM7W1U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 360
     isCached: true
 
-secured: "1ijynODe67ifXgxneIqHljFBaVYXUYB8e1IDUN+oTxPEfdnAS7Xzua4QHFpMgVobvgOn70ZJ0c/LHOLIOzy0fnQRuTJ0gb0+QUPyrTldW076qg6/GdtK+wp24xiW1OPjCN2MfmK8tWmqL/q0H0iRTuna1s94VnsThyde7fuSBysJvlfJIatdn/GXFIkW+O6STJoz13vd6tRI4dJP8Rhj4cBwB/P+2f+yys+i7sN7lzE/tiM1Iv8FIyUjyL/gc1mpPXI8IieK9MfGWBzCSZchrWg1Nt++XwZJBW95xTBtRDda2DqbCFBsnZRVzxFC4avahRIOI958Qpa/JzwFrVFywG9gcARVm8mT1HGSPwZQsyhcqgeo3EtroZAQZsLbM9iI5ik8F1ztB+Y1YlMUauOJwh4XIHZ7MNS+fRjtmFXNt7DbvjvwDELksuB5Ch+Iq4by;qhyEOGRj1yymXEraf1SE3g=="
+secured: "gnsI82IkFsM3z/wii/VFgGwSNQGZ7bzUiNdkY8McSs2tiVVGHZfS7+VC8BTn/zLwHmgJFy6kJbUosMD/YiWkX3xMCgPwFDxSRCOhkOP+DUYEqDvmhTc0hpxgGWj5krtbDiV6T3NhfIS90xdp5asH2SWuu4rviejNjiIO1zIc4FRSSYUQxM8BBoPlc4DVmb9zKDIAA72oqpekZt6q3GX1OVkQwHgCYIwQzt+LnI6/IugLTtV4xiHfRtWVNhGJYwOgIBF+XnZZRO0vXLlWvPBr4VagidfKOUS2d+PTUMC1KhHTXzDTMPAd3zrAxWcEaDei/37OejbiB13cuzHEZ6FMxTeEa+8MdqVygcTp1lplA8aj4+RjX8Sj/FkCvsiwX0OBm44lP+9rXokwyi3CiHOfpahxyOqWmcPNsOZwgvr8XEslamK+uNp7dRMOVdR3AKWs;mZP4fdo8HKv2T6KSD4LGKA=="
 ---
 

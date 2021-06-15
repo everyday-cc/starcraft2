@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/2011-05-31-starcraft-2-heart-of-the-swa
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2011-05-31-starcraft-2-heart-of-the-swarm-preview-kerrigan-again.html"
 type: article
 quality: 57
-heat: 81
+heat: 82
 published: true
 
 provider:

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.engadget.com/amp/2011-05-31-starcraft-2-heart-of-the-swa
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2011-05-31-starcraft-2-heart-of-the-swarm-preview-kerrigan-again.html"
 type: article
 quality: 57
-heat: 79
-published: true
+heat: 59
+published: false
 
 provider:
   name: Engadget
@@ -28,22 +28,6 @@ images:
     width: 530
     height: 272
     isCached: true
-
-related:
-  - title: "Sarah Kerrigan's Voice Actor In Starcraft 2 Is Gorgeous In Real Life"
-    excerpt: "Tricia Helfer is the voice behind Sarah Kerrigan, a prominent character in \"StarCraft 2\" better known to her enemies as the \"Queen of Blades.\""
-    publishedDateTime: 2021-05-27T11:31:00Z
-    webUrl: "https://www.looper.com/421202/sarah-kerrigans-voice-actor-in-starcraft-2-is-gorgeous-in-real-life/"
-    type: article
-    provider:
-      name: Looper
-      domain: looper.com
-    quality: 54
-    images:
-      - url: "https://img1.looper.com/img/gallery/sarah-kerrigans-voice-actor-in-starcraft-2-is-gorgeous-in-real-life/l-intro-1622047984.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "eJqtFv3RW19Ud9qXvSe4M2CPqHJoZaqGaoFphXWJBcSoZNgcEdP0bj1eAaxA7bYgCfZcc7heeaD9pE9wr5KaM0wRRidjJt65iz9hZtlRk2+p6AF/LYFsi2Fk9SkWfl2Fb3vmzhvJJfCA8xEDvDg/x4qSfT/dApl1H5obHzAIe+FUkuRRBJe47cnu9Qqe92FkHWOC3KMR8JLgz7rDARmb+rsRxty9UPhGC4P2kQcWZEXxK1Emgp7X1spZ31/mT8VJfu8XeXGKRkgSpTBzTAsOIRG7J60GvIqttaHCdgLdSjENlWbFUBZKVpsDmwwv7OgizuKlhtNGoWvciju0kRNALWbAtP42frBMsS+WHWMDX5U=;s/s5db+bv77b0EDt+prgGg=="
 ---

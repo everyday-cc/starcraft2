@@ -44,57 +44,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-31-starcraft-2-heart-of-the-swarm-preview-kerrigan-again.md",
-      "title": "StarCraft 2: Heart of the Swarm preview: Kerrigan, again",
-      "excerpt": "When Blizzard announced that StarCraft 2 would be split into three different games years ago, there was quite a bit of weeping and gnashing of teeth -- lots of complaining that the new corporate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2011-05-31-starcraft-2-heart-of-the-swarm-preview-kerrigan-again.html",
-      "originalUrl": "https://www.engadget.com/2011-05-31-starcraft-2-heart-of-the-swarm-preview-kerrigan-again.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/i_G4Aw12XCXmH3r10Rrjog--~B/aD0yNzI7dz01MzA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.joystiq.com/media/2011/05/hotsheader.jpg",
-          "width": 530,
-          "height": 272,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/2011-05-31-starcraft-2-heart-of-the-swarm-preview-kerrigan-again.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2011-05-31-starcraft-2-heart-of-the-swarm-preview-kerrigan-again.html",
-      "publishedDateTime": "2021-05-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_news/2021-05-24-esl-and-shopify-agree-esl-pro-tour-starcraft-ii-partnership.md",
       "title": "ESL and Shopify agree ESL Pro Tour StarCraft II partnership",
       "excerpt": "Esports brand ESL and eCommerce platform Shopify announced that they will cooperate on the ESL Pro Tour StarCraft II this year.",
@@ -1118,6 +1067,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-starcraft-2-system-requirements.md",
+      "title": "StarCraft 2 System Requirements",
+      "excerpt": "Based on scores by our most trusted members. Please login to add your score for StarCraft 2 Graphics played on the pc. Lifespan Lifespan score reflects how much gameplay this pc game has in it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.game-debate.com/games/index.php?g_id=37618&game=StarCraft2",
+      "originalUrl": "https://www.game-debate.com/games/index.php?g_id=37618&game=StarCraft2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.game-debate.com/low-vs-ultra-graphics-settings/comparison-icon.jpg",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game-Debate",
+        "domain": "game-debate.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

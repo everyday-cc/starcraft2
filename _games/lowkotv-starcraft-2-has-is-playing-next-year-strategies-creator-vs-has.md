@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-has-is-playing-n
 type: video
 length: PT14M46S
 publishedDateTime: 2021-04-22T11:32:10Z
-heat: 70
+heat: 64
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EY33CBhYJIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "huDpHLrMMeISyH/Z7GG7pJ/rar8JCwsV+lhAphukzLEYxm01AY2/It6trpKlW2n0Q/QXQlM4o5CTTqYkfDqNZqRcPucwLOY4QUI3WWzRHJrlV993AU4oOHVCdG66oQij3yAjk4XNOMFE1ZwfEOXUgS5ySk11lIKDKNl3HhibybH6leLwBxxEX21tae+fkBIeo/9mUDG5q1Xwz3rOyKCJN+JB0OjBjzQW2LbfFej4moKgfWGLPFTFaqHqz3gsy5yuCnC5efbiM8A7CctFHg7MqXBOEsUY6TVfCqC/9s/HWSGZdgIwCZ7IWBwMaTKpIyJTnvg40IrjsYFW/aW26rKSGq3BeTNpdqm5rEhKj48+mR0mtWoel6QwQHWQpH9bEZTBekfqUABhoAerZ67GUoWZw38gv4cjNtLfaCsp+nQI7aEJoDLpLqicKpMB0tg/FFw4;Pwlbpu/FzxLBjC/cZcCvBg=="
+secured: "xb04yunJvWzr0z+BeX8i7OHWfSIbSLBeQxwu/rdJ3Nk3KzWHnsXxyUGes+is4GX8L16zPhmLVwonAnND03jKQhj2cvOYk0D6F0H64CoUIhJGngRVV1QVfGQ9G4skrjBWP/QQu+dapHvUHl2oIaWOzdPrv1f9KNmpI51Jv5Z3si8DpHoj9LxgUfm+E1fct9hb45LSjDx1LOrfMNXdz2k64aXaxOaedNEEuPfyfXAJvHhRtjNbyrHieXSpt3r+GI56xoyQY8qQgUao6lwfBHZR5+W30Kf8FrmwtdTHcoTPOMeGPaha/oy3hRRQ3Us1Rbi1Hv071rBSJH/VCeDxGQ0Nh3C/xMvWd/4ioVFKrx+nbjr7yZxrNHpgORlQlkAgUSwQadE/qxC8IcKLSnng6BlihxPtKQm2Lt2Y04bRklFeaXTCKmchQ54LAVN9UZZ3JrMb;PFnFja2gltEgGnZCYH9svg=="
 ---
 

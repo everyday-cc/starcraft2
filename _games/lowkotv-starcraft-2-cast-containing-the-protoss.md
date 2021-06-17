@@ -3,7 +3,7 @@ title: "StarCraft 2 Cast: Containing The PROTOSS!"
 excerpt: "ShoWTimE versus MajOr in a professional game of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/S1lJbH  A Protoss versus Terran in StarCraft 2. The match-up is currently pretty tricky for Protoss. In many instances, the Terran player has access to"
 originalUrl: https://youtube.com/watch?v=ojIHOzDXigE
 type: video
-length: PT13M1S
+length: PT13M
 publishedDateTime: 2017-01-13T15:16:32Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "hEwpXL5BiWfOWLbijchPqy8SgwR8595l261qTaWjZngtECZ2kj+TOUk1fL46MhqyFYxCJjkOw7XRYySjJBNlh0WdWFFWfxZRQqt+thTdmJTbhfDVvpgR1IEdteiL9JPikeWYt1Z0MawFwiiSiRDC6hGzegz0JGSb+iJk+sY3kH1kW3ZVgvqYoEz3Ih9o/Df2a1pUYHdjOrP1aCrsZjamMICeTLcrtgHb7+cjRXaxuMWT+Gfh8EJW23/F/f9qw0ICC/XOANv+vUk632WPDUiK/p+bNpm9KzUuUeIf90nANWpsiLD5OHktRq+o4JaHL6LBC0vL89xRkb4OW4gM+wvwVtQK+GN7x4tC5Jtm2ulOfyXR3o+kuvnzvbRf7lGi9rQzRFXbmkJwI/omnc2/HGhvesDRARGpgdyYacZINvCHfUQ=;mcqo1D/WJgbGAL8SafQ6iA=="
+secured: "7+bQPuoaIVYhj8gz+OJW5mFGRBReoctkk8YXtMSJCntaDnR9AFgs6mmcplOCvA3GNq9WtdSRZ4W5hQuy/tVBv9EToATq/Tm4WsuzN47UA3ZksCRVyqoZh3zngF8gkXM2OnWvu8Q80wmBqQLke/0nyxH+rcUAbSnyFd+GWBScKC4F5kJYB3hYYjvI8xKEteNYb/NdyjHnyTrrwy0gTZEln1z+jcF4AoQXzVkKLPLLd2Zhp6BTqwVH5Tge/+HNqwuBnTiNxMYLbopNpR1alBSIehtSGof/czlE3J7nZVCh70nwtlLejAtcx+j/oZJkW3Fk634AUCxxLtqkaJccQOQHshpCBJN9elWOwf0YjuvQupYE8EjbnVJDRadOxp2End8ldHtUEFgvNT8FwYzJX/Ca86XiGRQIglhTNys1EnTJXpY=;rc2ApzF75IKoE9i4fSV87g=="
 ---
 

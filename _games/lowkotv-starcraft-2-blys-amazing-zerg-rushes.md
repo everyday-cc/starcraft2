@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-blys-amazing-zer
 type: video
 length: PT15M56S
 publishedDateTime: 2021-02-11T20:06:48Z
-heat: 57
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/60wtU8hP_mQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "gtESExW+xw7QnK5QrWkVid9jkaQ5jKcGUSR6qeNNikvbs5AA2TH3QVL8FWQd2TKeOFtIvQVlzHkBBIUhXx/czwRdlapZGypEQr3v1uUipQsE+O9r1ag74QbA8GYduILh0M87ao+DDEnS26Sb0cV+lMDs+C5A6BXFHjzosrpSIZ62ZKsB4w1U7Ch9aT1XMRAf2XQePAh0fTrv+S5+EgHrCDyIW7FamYpecZeqhuvXPmR4VCTeY94QYI57G/lkZ8Z2m3k/twgkP2Ji/GCztBF2gBO7ojndU+SD2HU1rwnOeuWlKfATq2h4NKyE67ssJMiG54mp0ip7J3GCVA1NIS5CMSxS1//iglZrfx/FLgPrU/cw4FBHV/8Ikm1s3CfVJ7FISeCdm3TZO89Xgk7rmUxdfxqGohV2jMJ60nvW5t5S6/a4k/1KVCsKlrtMWfsAa8vB;/59lzX40VpDIzWp+ZLEPow=="
+secured: "ejBHGlp2LdFYsJJiFawGfLAxyfEu7OYl1W5UfKIqqE4vkTExmEHvXGSNPP4trFBdUb+jcFiEg/ef+yqdJvXsAJsAQYtR5wX4HnUyJk/E/+pMTeMWAUBbzICrIdmj4FIzc5ioCeOflNMTnx52ybMHJrzf18tGljcxvPON5ekF2gTSfu6k8rUW6RKetd/baVGFYS7NpIux+OS4rM+sgmpSQJQ7Z3/WPvC6lQL9wOLKgzO5A1idmW+n72CysNL7tmjoG53i/DLJGjHPImylGnIfSF1CuILXnqLYok99jhVTt4enhioRfwk0Xc5bUmxUSTEVsJGrZxt6CX7zexlYAE03OXlCddY0sVuxl7QtUxGpFbshDHc0XwHTrIKVmRec4joa3XbLS6QRz84Zq0x3az8dQZzMCoVORutfd+Mkxka6WFj4gffjvIYfi1KAdiLH1jiV;YbvBGjfZslsB9J0g6ZDXaA=="
 ---
 

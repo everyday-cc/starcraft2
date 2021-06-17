@@ -2,11 +2,11 @@
 category: news
 title: "How Reynor became the new king of Starcraft 2"
 excerpt: "We sat down with professional StarCraft 2 superstar Riccardo ‘Reynor’ Romiti to discuss how he became one of the world's elite players."
-publishedDateTime: 2021-06-15T09:16:00Z
-originalUrl: "https://www.redbull.com/se-en/reynor-starcraft-2-interview"
-webUrl: "https://www.redbull.com/se-en/reynor-starcraft-2-interview"
-ampWebUrl: "https://amp.redbull.com/se-en/reynor-starcraft-2-interview"
-cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/se-en/reynor-starcraft-2-interview"
+publishedDateTime: 2021-06-15T07:00:00Z
+originalUrl: "https://www.redbull.com/my-en/reynor-starcraft-2-interview"
+webUrl: "https://www.redbull.com/my-en/reynor-starcraft-2-interview"
+ampWebUrl: "https://amp.redbull.com/my-en/reynor-starcraft-2-interview"
+cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/my-en/reynor-starcraft-2-interview"
 type: article
 quality: 74
 heat: 74
@@ -26,6 +26,6 @@ images:
     height: 320
     isCached: true
 
-secured: "MrpE2MU/z352GxQuIZ9h5Jnu0XWSai/KbR5qBnamwsYRwIJjIahWJ6GxuHRYVMFfP0j+cT6tlkpe/jvCmmCZ3h5iiOpxa36UO0nDSZlXq8YSLeLWZi1yWMvs9eW5WeQLTH8mER/2zABzKNS/9ADoNB9Kg7wVFqp10S45lv3WHwTBao2btyWBqCsfRIKJfEvK+qq6k+zmCgmjx9V/2sKmFpatCf61E2S5hQVb9m+bWsR9oTIWigb5MJ1DGB4TDoPNMc2wP5LfIb5m3++QUfaNc3rAg+v9vIJ3TWwbkVaFL3shxjqYWgXk6BmWNaEh+KhvPCObkcbUQXsmxhI4egpLDNWUOKSmL2Oyn64JWTZ3HpYVv9An1wXxFqxul/t+4lSEPruL3fr7wZ2TVfDOBCAEeOJ60C9DSeEGV3v/X+iZKwofcGvhWs0OfhTUKLsN2OdIRyVyGne3YncizEIMT4Noqz0DQohoDku7mIrypseLSEiP0NggSnyUzzAOSU2YLXqaEZPfBczFYoCTDVTRc/6Dig==;57ImMrMv7NL0knD4WyMkEw=="
+secured: "/8IJ3yAePsiIMvd09qlik8G5ASwOSDwMRgac4qCppO1ufuziI8H2o/ahz/DHSy70u7C3qpxdXeATq38JRTiej29opbxTVw9NfGHHrvAS3NZ6lfy72orerH/2LND8T+APyIEgVp8E9ukjf9pdJuSnjJviyFtJyPx+tiXc4/Otee0k+JlN0gDPZ0MhN57twwQYrp3ncrhPO2tjSyje/exnpapAIGJsztiBIgiEZsBGMMJZtr1awqTOFtLy35S+65WXQvNue3Cpx5F96ZUnLK+BAtmpBLGvsWNK/Iw9makvk6QxK3JGWlNn3x/f8wbHfWm4eljmZaxvBQYHZ3EklsLZnl8XtNh1G4SeoRe5REmwIwY=;MNumd8hyp39MH3vC8V62zQ=="
 ---
 

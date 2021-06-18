@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.redbull.com/my-en/reynor-starcraft-2-interview"
 cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/my-en/reynor-starcraft-2-interview"
 type: article
 quality: 74
-heat: 74
+heat: 94
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 480
     height: 320
     isCached: true
+
+related:
+  - title: "How Reynor became the new king of Starcraft 2"
+    excerpt: "We sat down with professional StarCraft 2 superstar Riccardo ‘Reynor’ Romiti to discuss how he became one of the world's elite players. Riccardo ‘Reynor’ Romiti is one of the best Zerg ..."
+    publishedDateTime: 2021-06-16T16:57:00Z
+    webUrl: "https://www.redbull.com/ke-en/reynor-starcraft-2-interview"
+    type: article
+    provider:
+      name: Red Bull
+      domain: redbull.com
+    quality: 34
 
 secured: "kyWutM5vmo2llUVp4K3vipIbsTaICKbiiiNrH068D2jm5oAOrPwil91YelosUWM+wZn+zdEP5wY9i0XzamVWNAwlT+gJ7rq69FNL/mruRE2q53UOvQHm0oDIoqLUAUY5kXOddRUt+64SyMbWWlz5+gbELClAoL58JzHErhd1MHXCe+7YnER+CpuI2PfZ0SIvTo9BLc92M90jyvmmh5OIwgSw8JtyvtlB8DJMiets5ydYXdPzY6X0QR+/WgZPwgIQGuBTHQ2RP+aywCMPIr3OqlSbaXkb9DLVWHhmYAW9ybd1MjtNkI8KOxFORACs8b5ssCp/chBzRZ5/X4cSPxqH/pehbAbymE6b0p6e8hiQRLYqs0bDzm0REK2l9R/uLdlUyU8EVL9ovg6K1vhPjrBeYFVEFxi9hvSw1W1Vu8cIFPanwpjoW7keB7hRO8bNB/wJxnwbNTMBIX816AIEQS19etnnz0lDzq8viruuV/+xgAK+isgH2+DHtEU2Lw5EtC2baPEOerESKJGpSUT0ygcYGg==;cf6XgFO5qG+MukIT36bovA=="
 ---

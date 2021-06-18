@@ -2,11 +2,11 @@
 category: news
 title: "How Reynor became the new king of Starcraft 2"
 excerpt: "We sat down with professional StarCraft 2 superstar Riccardo ‘Reynor’ Romiti to discuss how he became one of the world's elite players."
-publishedDateTime: 2021-06-15T09:16:00Z
-originalUrl: "https://www.redbull.com/se-en/reynor-starcraft-2-interview"
-webUrl: "https://www.redbull.com/se-en/reynor-starcraft-2-interview"
-ampWebUrl: "https://amp.redbull.com/se-en/reynor-starcraft-2-interview"
-cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/se-en/reynor-starcraft-2-interview"
+publishedDateTime: 2021-06-15T07:00:00Z
+originalUrl: "https://www.redbull.com/my-en/reynor-starcraft-2-interview"
+webUrl: "https://www.redbull.com/my-en/reynor-starcraft-2-interview"
+ampWebUrl: "https://amp.redbull.com/my-en/reynor-starcraft-2-interview"
+cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/my-en/reynor-starcraft-2-interview"
 type: article
 quality: 74
 heat: 94
@@ -44,6 +44,6 @@ related:
         height: 320
         isCached: true
 
-secured: "ScM/+ZFhM3N+eeIbmfVV2uOJhuM8KJeRGQQzbm2jgGGlM/nKYVAXy1OuuDaXKJmv2Whz8elGMwQzKmfP5iGO54AN/5dqetR0heRRgXR8l+1O7umNOMqAIvCShI/dKMgGugfkDx9/xz2F4QZ9HS1a6V8wuWGfFFGs7Xe+HOygH1iyXxKNaEW71vh3w/GSbFh3n9VMP1SpNzgxC90qCg90L6mZeJYy4nmAO25qyxOMt73UcB3AF+H6ndrH3b2IUkJkncZUTTfWGZio1NMrgvwjrM1KUmbEv94zsC0+/qxrzSzagTzhFLuR3At8tMJSfw0ni4zm2Rp4uXS0ICX1Sl8ZGhZPSrNU8DPit4ETwGs1/6UyjrUppGvvCru7qDcyfRl617v10DTzBWv0aCZmwaUi1yYNFPpCVTR/u2yc7r/UrgMz4A6B9ytrdumjHI6wb2QSSf58gcNfkUWVHUgsgtycLraCOI15s7Xk/fEJwW1iMu4wyDT5f2GNnd6jW3utQ/YYdRwgkRSNH08XIaXVIB2yAw==;bI0TEebr8DrMPsTTzulI3w=="
+secured: "PLgxycv5RkNUvkgKlVcVuW9rQI1iGyx9JFVnsJMJBQP0gE573DudPBvOTxiAQjqQeD6RBCMbJJhZ9c7cqwWRmTTVmlfIdLychk/zwIPkoZNmLm1KGOwd/M5SxA+bytVGEzuVn+5WUMU/07SRifYHCS2grx2e4wHzwF9Am9mHBw5gPIhrpfRbBF+Lv7er6/v3tfxStNYyvij16gWxC9k8WVy3afGmA3ifz53H6VOXv6LGp2oghWM0HK8gGO6lRSZsipGqIdsOSYZuRb4m+YAQzykqrSHh0vZ2uG3L6BwfJ4RjI+KlGHfwJfBuKZCsZ3Ui88lfmDvYwAqCG+t7uQNceNOx6557Dyx+XYZm1G7jxbw=;d1VKWzi16h9udXq5ea4ZjQ=="
 ---
 

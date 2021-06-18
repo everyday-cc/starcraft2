@@ -34,20 +34,6 @@ related:
         width: 2048
         height: 1024
         isCached: true
-  - title: "Starcraft 2, Age of Empires 2 and more: The 7 best strategy games you can play right now"
-    excerpt: "When our robot replacements finally toast our extinction, they’ll point to a single victory as the moment the tide turned in their favour – we’re not talking about chess or Go, but the day Google’s DeepMind beat the best of us at Starcraft 2."
-    publishedDateTime: 2021-05-30T00:00:00Z
-    webUrl: "https://www.gqindia.com/get-smart/content/starcraft-2-age-of-empires-2-and-more-the-7-best-strategy-games-you-can-play-right-now"
-    type: article
-    provider:
-      name: GQ
-      domain: gqindia.com
-    quality: 28
-    images:
-      - url: "https://assets.gqindia.com/photos/60b3382e432a069d15d98f8c/16:9/w_1280,c_limit/CivilizationVI_screenshot_announce1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "YR3w6bEyCpcUnGhlR3w58YyBk/GpkY1zXcuZ0U3RRqeOg5TgXaDO/XVL9TqWcrAtifC+k+udv6FpVY5BPZNCz88CH2Q9X9eNMTNe3vnxHHLMbL2DQ40nmzXevRHMrC7Sx5/L/aJsNaFpg5W67XBpilovZ0XmoL8TFmtoLVkAYpB2ecEuZ87VJv+deSDP7ssh+RDKFeV7+X5+LBS0WA9jWkVDZx4NkBdTqhRbh2y8eUmTsArq5A1U+xEM/84MeOJEOcDupJK/ZhoViCo4X+veOojziCJgbIz4cRGHiCkNf9kJHH8SXG2/jdCTJAX91xATn1TyWoVxOmX/7vUbj2SRbI/RojGL1i/k89u20FKBNqg=;9M+4s9WsxQuoei07tHJ1Pg=="
 ---

@@ -29,10 +29,10 @@ images:
 related:
   - title: "How Reynor became the new king of Starcraft 2"
     excerpt: "We sat down with professional StarCraft 2 superstar Riccardo ‘Reynor’ Romiti to discuss how he became one of the world's elite players."
-    publishedDateTime: 2021-06-15T07:00:00Z
-    webUrl: "https://www.redbull.com/my-en/reynor-starcraft-2-interview"
-    ampWebUrl: "https://amp.redbull.com/my-en/reynor-starcraft-2-interview"
-    cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/my-en/reynor-starcraft-2-interview"
+    publishedDateTime: 2021-06-15T09:16:00Z
+    webUrl: "https://www.redbull.com/se-en/reynor-starcraft-2-interview"
+    ampWebUrl: "https://amp.redbull.com/se-en/reynor-starcraft-2-interview"
+    cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/se-en/reynor-starcraft-2-interview"
     type: article
     provider:
       name: Red Bull

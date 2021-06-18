@@ -2,11 +2,11 @@
 category: news
 title: "How Reynor became the new king of Starcraft 2"
 excerpt: "We sat down with professional StarCraft 2 superstar Riccardo ‘Reynor’ Romiti to discuss how he became one of the world's elite players."
-publishedDateTime: 2021-06-15T07:00:00Z
-originalUrl: "https://www.redbull.com/my-en/reynor-starcraft-2-interview"
-webUrl: "https://www.redbull.com/my-en/reynor-starcraft-2-interview"
-ampWebUrl: "https://amp.redbull.com/my-en/reynor-starcraft-2-interview"
-cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/my-en/reynor-starcraft-2-interview"
+publishedDateTime: 2021-06-15T09:16:00Z
+originalUrl: "https://www.redbull.com/se-en/reynor-starcraft-2-interview"
+webUrl: "https://www.redbull.com/se-en/reynor-starcraft-2-interview"
+ampWebUrl: "https://amp.redbull.com/se-en/reynor-starcraft-2-interview"
+cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/se-en/reynor-starcraft-2-interview"
 type: article
 quality: 74
 heat: 94
@@ -44,6 +44,6 @@ related:
         height: 320
         isCached: true
 
-secured: "bjfWZsrKxvKmrFLnQ6yvtVEO79YF9Yh5RXTBTa22/frZS613Ctso8nQFpzw+L1UFOOaQOo3RobCL+79x+blxIZTsDGfsEjYOL/TafbRRimr/Kiu/T/7ADgL6qUQu4VLIr6umBCcCdCWF6V9Y98Ny4SI84l4F0ttkGXf2satc6gUdjguXDQePOqi8l5flk6VwbUsRgXeKUcMfpg6jqMwh+RQt3yixK9OxI4MAE3q4D3dm0g0x53AZhyT6p5fmf6FEl/QXVrX2Vmp9NSKjpytmoPsHpD5h+zDfgUgGyw+9fWZGk7HFRDLQO6ltbXQaRLjxW9jM5Ge8Y/RzJJZvaV0E9WfGgRfSZGMliDWn1RPTnq0b8lc/Q09DHfPI5nSq702G1LT+d9eT1zu6/hf38K22wIoC3HbP2q+0POBm7E6rhM0RXzULA2BCtQMAEfn7psewkTaQ8UaX7fiG+6jO44qWBZfLEASFdad667mC/VTI2ADNGESgyUedPJOx+GU1wImlQGKrgJUU6SyuicOuGiV1VA==;pdZ8A2503lM+a0yB5LIAkg=="
+secured: "WXXWSZUdJX906bv41YOZu4/2vP8SuVDTYyesMMFy4TECjaB4+j/fyQMns7JJJ8+htkGVxt21wrz3+U9xDTq1F+mCrbTLid8p1oeuoM3H8RU71JGtRpFyaCvKQjjfhkJ2eqQ1o1C+pPSEhp0xpp8gTDa8PpeLoJi0pHIaRXVG9jfk/buwDR23G1XCMU4m8l7+7uY0zNMx125L/jRm1vDXvhTHLnU2sQQOx08RJ4wDlkq/Dsw9+ENPL6R+9Pu2r8kmquH7UrjMkQfHypyOMFX+VpFK5+b/MlFtUDoioyaEF5ThAK0r6q9rKVVIv1nYAJnXhVa8Qp8EiG2Vq6kquWuxwPw0OY4T7y4H0ZRs2eAdlmM=;0NOZ1C013kdfCKr1kDRlMQ=="
 ---
 

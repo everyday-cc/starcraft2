@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailydot.com/parsec/starcraft-universe-mod-kickstarter-b
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/parsec/starcraft-universe-mod-kickstarter-blizzard/?amp"
 type: article
 quality: 57
-heat: 97
+heat: 77
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Starcraft 2, Age of Empires 2 and more: The 7 best strategy games you can play right now"
-    excerpt: "When our robot replacements finally toast our extinction, they’ll point to a single victory as the moment the tide turned in their favour – we’re not talking about chess or Go, but the day Google’s DeepMind beat the best of us at Starcraft 2."
-    publishedDateTime: 2021-05-30T00:00:00Z
-    webUrl: "https://www.gqindia.com/get-smart/content/starcraft-2-age-of-empires-2-and-more-the-7-best-strategy-games-you-can-play-right-now"
-    type: article
-    provider:
-      name: GQ
-      domain: gqindia.com
-    quality: 28
-    images:
-      - url: "https://assets.gqindia.com/photos/60b3382e432a069d15d98f8c/16:9/w_1280,c_limit/CivilizationVI_screenshot_announce1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "How to Install Starcraft 2 on Ubuntu Linux"
     excerpt: "In this Linux guide you will learn how to install Starcraft 2 on Ubuntu Linux. The Starcraft 2 game has been released free of charge for anyone with registered Battle.net account. Before you proceed with the installation make sure that you have correctly ..."
     publishedDateTime: 2021-06-08T23:10:00Z

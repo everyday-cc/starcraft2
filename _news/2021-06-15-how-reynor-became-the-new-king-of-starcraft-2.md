@@ -28,11 +28,11 @@ images:
 
 related:
   - title: "How Reynor became the new king of Starcraft 2"
-    excerpt: "We sat down with professional StarCraft 2 superstar Riccardo ‘Reynor’ Romiti to discuss how he became one of the world's elite players. Riccardo ‘Reynor’ Romiti is one of the best Zerg ..."
+    excerpt: "Now, just seven years later he stands on top of professional Starcraft – even besting the most talented South Koreans that stand in his way. Now rated as the third-best player in the world ..."
     publishedDateTime: 2021-06-16T16:57:00Z
-    webUrl: "https://www.redbull.com/id-id/reynor-starcraft-2-interview"
-    ampWebUrl: "https://amp.redbull.com/id-id/reynor-starcraft-2-interview"
-    cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/id-id/reynor-starcraft-2-interview"
+    webUrl: "https://www.redbull.com/us-en/reynor-starcraft-2-interview"
+    ampWebUrl: "https://amp.redbull.com/us-en/reynor-starcraft-2-interview"
+    cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/us-en/reynor-starcraft-2-interview"
     type: article
     provider:
       name: Red Bull
@@ -44,6 +44,6 @@ related:
         height: 320
         isCached: true
 
-secured: "Wf8HLPK7uqMewAsNCRs/BTuqzqR15kOPAAi0OQtYyF55lSIYMC8zGiR67HqY8/mDCPomSUAsVfcgEikiu9eIHEe5lw5Fgh9x0ECKqrcKjo1rvTADcSvmLSWcvcKUJGp4C15v43kR35H2fbdtG4+hQwGeBhzW7eSsTEfvATRHH6aAULG2SKlspWs05cS/iXI1gz45T8PGelL1vKcibxWktgyYaU50NzWxprAocETgiP3FOVXrrmL4C6MfhLPyTxr+bzDWytToYnIc2eGkq3/dJwoat6FgW5gJYNNB1WyZ/Z/GZCh3eh5hZeZkBkCJRDDzkQBfRI2/R1G3Z3/aeGBdfHFWiGwzYxcu2u/MT6LtL/U=;wawsjYYKx646DW0CiAWimA=="
+secured: "ScM/+ZFhM3N+eeIbmfVV2uOJhuM8KJeRGQQzbm2jgGGlM/nKYVAXy1OuuDaXKJmv2Whz8elGMwQzKmfP5iGO54AN/5dqetR0heRRgXR8l+1O7umNOMqAIvCShI/dKMgGugfkDx9/xz2F4QZ9HS1a6V8wuWGfFFGs7Xe+HOygH1iyXxKNaEW71vh3w/GSbFh3n9VMP1SpNzgxC90qCg90L6mZeJYy4nmAO25qyxOMt73UcB3AF+H6ndrH3b2IUkJkncZUTTfWGZio1NMrgvwjrM1KUmbEv94zsC0+/qxrzSzagTzhFLuR3At8tMJSfw0ni4zm2Rp4uXS0ICX1Sl8ZGhZPSrNU8DPit4ETwGs1/6UyjrUppGvvCru7qDcyfRl617v10DTzBWv0aCZmwaUi1yYNFPpCVTR/u2yc7r/UrgMz4A6B9ytrdumjHI6wb2QSSf58gcNfkUWVHUgsgtycLraCOI15s7Xk/fEJwW1iMu4wyDT5f2GNnd6jW3utQ/YYdRwgkRSNH08XIaXVIB2yAw==;bI0TEebr8DrMPsTTzulI3w=="
 ---
 

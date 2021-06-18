@@ -1,12 +1,12 @@
 ---
 category: news
 title: "How Reynor became the new king of Starcraft 2"
-excerpt: "We sat down with professional StarCraft 2 superstar Riccardo ‘Reynor’ Romiti to discuss how he became one of the world's elite players. Riccardo ‘Reynor’ Romiti is one of the best Zerg ..."
+excerpt: "Now, just seven years later he stands on top of professional Starcraft – even besting the most talented South Koreans that stand in his way. Now rated as the third-best player in the world ..."
 publishedDateTime: 2021-06-16T16:57:00Z
-originalUrl: "https://www.redbull.com/id-id/reynor-starcraft-2-interview"
-webUrl: "https://www.redbull.com/id-id/reynor-starcraft-2-interview"
-ampWebUrl: "https://amp.redbull.com/id-id/reynor-starcraft-2-interview"
-cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/id-id/reynor-starcraft-2-interview"
+originalUrl: "https://www.redbull.com/us-en/reynor-starcraft-2-interview"
+webUrl: "https://www.redbull.com/us-en/reynor-starcraft-2-interview"
+ampWebUrl: "https://amp.redbull.com/us-en/reynor-starcraft-2-interview"
+cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/us-en/reynor-starcraft-2-interview"
 type: article
 quality: 74
 heat: -1
@@ -44,6 +44,6 @@ related:
         height: 320
         isCached: true
 
-secured: "b5KhcpRVWeWxkk3vW1pybFRDNzP+wdQxikMC+vAn0dS+EdBtc9o51I+pJSd0Ua1Lcqeop9frsFu0OLozoA6jdwHBeyfYFEeTauxxjidXL/zF/cR0ty008gs6XbghXyZC/EQ0R+RGc6zPWqfUOrRoRy94/UfPr7X0GE9Hb5TNBanqWnqx+d4ZpQMeI/nxMtZqmgQHxg2kS/MMwgnWC0DNJV4BY0fmSZ77JnfkgM/1G7kQc5G6XeqGJ1r04+wZBFbRxc9dtbdUcL/qxIFoSeYL2scFUUv2uy/g2qjLP8QNZcPxbaJLNUATWXd/nVZinrKsHiuG6WiUFIT2M56PI6a6oCmSU2jn+ER/oulgijP49bY=;xQo3eeE0NZAyLY4ZDz3nVw=="
+secured: "maC557tpZynQVulNUHOrN+4iDeYnqs15cTvlsVoPvgW1HWk15Po3e9dYG6CvVxxj6/8TCdD+Ax3fF1IuEaXQBYl12JXBYgiyEN7YXI8oEX9wxtehrEsFCyMel2TJ5Ue4sP5sgMqzSJg025oBWcTJfSqa4cm057wT3D1p2XhYxJu4UrB2WrUNghs7/f8Zifle1Y8++u/0kIfrhvlnwbpgVHXtiz9haCjLM1gCYtPRed24pB2yeSrlAG/UBRyMEhrXZJdS9lwddXSvYRSzHJ9AMUSUCsVv7NXzNyWOSJuVgr09Y36dVWWp8ql7laVSZ45tAwyKgJpCJQZe2MYMcFa/9jD5d0PIW9oPxizpmgyBlmM=;UuRw23ZdNuygUpsA/FRb1A=="
 ---
 

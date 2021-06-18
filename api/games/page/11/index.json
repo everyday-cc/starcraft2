@@ -4,6 +4,44 @@
   "page": 11,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-the-planetary-fortress-contain.md",
+      "title": "StarCraft 2: THE PLANETARY FORTRESS CONTAIN!",
+      "excerpt": "An awesome match of Silver League Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube The Zerg... Mothership? https://goo.gl/BvZU5A  While the ending of this match is a little slow, the early game is awesome. In this match the Terran player decides to focus on a Planetary Fortress contain.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-planetary-fortress-contain/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-planetary-fortress-contain/",
+      "originalUrl": "https://youtube.com/watch?v=2KJv_9IbrZ0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2KJv_9IbrZ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M19S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2KJv_9IbrZ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-01-05T13:16:38-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-siege-tank-surprise.md",
       "title": "StarCraft 2: The Siege Tank SURPRISE!",
       "excerpt": "Macro game of Zerg versus Terran in StarCraft 2. I decide to play mostly Zerglings, Banelings, Hydralisks and Ultralisks versus a Bio Terran after opening up with 5 quick Roaches.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
@@ -1039,39 +1077,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-09-18T03:20:11-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster.md",
-      "title": "StarCraft 2: MASS Void Rays to Grandmaster!",
-      "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster/",
-      "originalUrl": "https://youtube.com/watch?v=qyvOV-b5TZs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qyvOV-b5TZs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M22S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qyvOV-b5TZs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-30T04:55:08-08:00"
     }
   ],
   "nextPage": 12

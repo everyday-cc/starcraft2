@@ -2,14 +2,12 @@
 category: news
 title: "How Reynor became the new king of Starcraft 2"
 excerpt: "We sat down with professional StarCraft 2 superstar Riccardo ‘Reynor’ Romiti to discuss how he became one of the world's elite players."
-publishedDateTime: 2021-06-15T09:16:00Z
-originalUrl: "https://www.redbull.com/se-en/reynor-starcraft-2-interview"
-webUrl: "https://www.redbull.com/se-en/reynor-starcraft-2-interview"
-ampWebUrl: "https://amp.redbull.com/se-en/reynor-starcraft-2-interview"
-cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/se-en/reynor-starcraft-2-interview"
+publishedDateTime: 2021-06-15T07:00:00Z
+originalUrl: "https://www.redbull.com/mk-mk/reynor-starcraft-2-interview"
+webUrl: "https://www.redbull.com/mk-mk/reynor-starcraft-2-interview"
 type: article
-quality: 74
-heat: 94
+quality: 54
+heat: 74
 published: true
 
 provider:
@@ -21,9 +19,9 @@ topics:
   - Zerg
 
 images:
-  - url: "https://img.redbull.com/images/c_fill,w_480,h_320,g_auto,f_auto,q_auto/redbullcom/2021/6/14/du7ng5zkogwqqv7uxw3n/reynor-interview"
-    width: 480
-    height: 320
+  - url: "https://img.redbull.com/images/c_crop,w_3200,h_2133,x_0,y_0,f_auto,q_auto/c_scale,w_1500/redbullcom/2021/6/14/du7ng5zkogwqqv7uxw3n/reynor-interview"
+    width: 1500
+    height: 1000
     isCached: true
 
 related:
@@ -37,6 +35,6 @@ related:
       domain: redbull.com
     quality: 34
 
-secured: "hAIdQsWp4JR8zL/a7qHphzNTURuexNU7uSCmc3M6jUzysAvIotLwDWNcXnKVk/KM1JBRY/x4lnwcEUW5MXLPeCAZeO3GUfYNXW9QzbENP0Mi+xXPE1SYyIRGzRuzBH+hCUidJxrK9u5m8iuUEszl6SyNMReHaxWGCcmfYtVrwId7t7cN3IHoDa3eZDCHvJKOiN2uVMCl2Ls9TCZDZup6yNtC3RjeGgElj+Rcxvj3mVLIogJE4W/qvU1r0jvAURR8eRw5twixqfaBPLOlqIaawb1mA0PGfUOLve/c1Bmrj2v3cBBU3YiGhqoclsv8LQsVszm59z2BJotw5xO0gzmw1exgEVBr+cuKD5KeI822j1k=;P3oNoTkAPvkuPjUy0EZUzA=="
+secured: "LlUvptsYNp7orR42JIkOCzwkwTzOxm/ovDob/ZOOCGj8n2td9dUoCRucYuhAjU9+gl4JpwhgWJcmOTx9jOxmObx0sPLHHdqR/fKrSllYUkf0rTLvQcAii6klvbIAWRcpkkYWYi+61jEDz4by+j+spRnqCF+E3WMOc8WApfgiMkTC2vYSI4B+LG5+rMp7UdsVjNNd4Rg2IzK+1Ur8ahQl/RB39iYFKoTs3S3ej24/tvLFUf6cXEyYvr3L10CBLc92vxlp7iQ3jnCotVRDD9ruhcKIalIN9gSLobS1qoVhAD2al4M5UBtFW6nnqCzgrFLg/tSOgse3pkNlIIjNvZ7agsQALTnGek2HeF3lcW+yl80=;cgvWXFKn3SGgQ+sD0kDQcA=="
 ---
 

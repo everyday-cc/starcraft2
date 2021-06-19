@@ -7,8 +7,8 @@ originalUrl: "https://www.redbull.com/mk-mk/reynor-starcraft-2-interview"
 webUrl: "https://www.redbull.com/mk-mk/reynor-starcraft-2-interview"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Red Bull
@@ -26,22 +26,15 @@ images:
 
 related:
   - title: "How Reynor became the new king of Starcraft 2"
-    excerpt: "Now, just seven years later he stands on top of professional Starcraft – even besting the most talented South Koreans that stand in his way. Now rated as the third-best player in the world ..."
+    excerpt: "We sat down with professional StarCraft 2 superstar Riccardo ‘Reynor’ Romiti to discuss how he became one of the world's elite players. Riccardo ‘Reynor’ Romiti is one of the best Zerg ..."
     publishedDateTime: 2021-06-16T16:57:00Z
-    webUrl: "https://www.redbull.com/us-en/reynor-starcraft-2-interview"
-    ampWebUrl: "https://amp.redbull.com/us-en/reynor-starcraft-2-interview"
-    cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/us-en/reynor-starcraft-2-interview"
+    webUrl: "https://www.redbull.com/gb-en/reynor-starcraft-2-interview"
     type: article
     provider:
       name: Red Bull
       domain: redbull.com
-    quality: 74
-    images:
-      - url: "https://img.redbull.com/images/c_fill,w_480,h_320,g_auto,f_auto,q_auto/redbullcom/2021/6/14/du7ng5zkogwqqv7uxw3n/reynor-interview"
-        width: 480
-        height: 320
-        isCached: true
+    quality: 34
 
-secured: "U+mBFc/v/avmSQiVSgkxTt01BFQf5RKWlPvW/9LBqvnKTLyyk2SKsr/SM5WTMMT7tQrpaeV+tWLMaulmUWahIjeL36ZgQmMWmhO/a/BMED0FkBf6/ywONGExE3wXN3IP8PLF3hq28U2snZnpOyAUXVJ2xI0HVAs2XIN9r1w1gBiTybKgnD2en3blQUcAMJEKhuIQ5YZKK0F3y5wBwIiYpsgG3ElpD2Uo7XjHxpzBuj9IElUdYxIL0yPs1gZsKXnPIw6UqQ07Epan92bBeRzIHsBUUuJh6rJQYvB/LLWkWTW5PT9DJpN25oxnNlJghdxWzvXsA9sW+X761lXL3zdfnOB488pfAo89BKY4ztllgh4=;UDRlE+Een6nGb6BKMj1aSA=="
+secured: "8CKPccS9EZQivIkDr2vfRPCOJLnJt30DFJkgbeUx5vShcYuM85xawkgILAC22s3CGNmsiRZmIqxLZc0hw7uY1FFhQ8gaq2ANtLleIx8FXOfO0GyOtZHlzmt++zHMeVxyEkO0xIIbeTubm3B517B6lKJv1OHBx8Saicje4f0Aagau7jP13TiqfvkRwbgJZ0vqAizGYtAWrh/twJhrc0RsM6zop89s4Iq5osaqYFIYUGBbHn/S59Qldf8ck/aJx5oEZusdzocKoNVr140bjhn0W8dXrBS2eD9ezPhxVxACilQMWg6MCe1SWtFk+Xz/C+7L+LDzboajqqzxP4jQ7Rcm1hEOkhZUN6mpNgonTyQ1hiEy3UoGPTruqXn0N0U/7F9hIyG6Udt+9wDenROKL3mxCamyUyW2sJhkWk4SDtQtAyTvm/2MPg3s58o/n0mIjX0l94wkMajnbSA8LUJDreNTZC9ovU8KYThU6M58mB/S5hGAG3We2fke0kFBHksh6kBLmIkxPWf6D48Jjpb9JPdiww==;LnDI3doGukdd2W/lMMlsxA=="
 ---
 

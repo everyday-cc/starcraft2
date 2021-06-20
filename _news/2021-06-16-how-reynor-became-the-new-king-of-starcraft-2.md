@@ -3,8 +3,8 @@ category: news
 title: "How Reynor became the new king of Starcraft 2"
 excerpt: "We sat down with professional StarCraft 2 superstar Riccardo ‘Reynor’ Romiti to discuss how he became one of the world's elite players. Riccardo ‘Reynor’ Romiti is one of the best Zerg ..."
 publishedDateTime: 2021-06-16T16:57:00Z
-originalUrl: "https://www.redbull.com/mk-mk/reynor-starcraft-2-interview"
-webUrl: "https://www.redbull.com/mk-mk/reynor-starcraft-2-interview"
+originalUrl: "https://www.redbull.com/gb-en/reynor-starcraft-2-interview"
+webUrl: "https://www.redbull.com/gb-en/reynor-starcraft-2-interview"
 type: article
 quality: 54
 heat: -1
@@ -27,10 +27,10 @@ images:
 related:
   - title: "How Reynor became the new king of Starcraft 2"
     excerpt: "We sat down with professional StarCraft 2 superstar Riccardo ‘Reynor’ Romiti to discuss how he became one of the world's elite players."
-    publishedDateTime: 2021-06-15T07:00:00Z
-    webUrl: "https://www.redbull.com/my-en/reynor-starcraft-2-interview"
-    ampWebUrl: "https://amp.redbull.com/my-en/reynor-starcraft-2-interview"
-    cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/my-en/reynor-starcraft-2-interview"
+    publishedDateTime: 2021-06-15T09:16:00Z
+    webUrl: "https://www.redbull.com/se-en/reynor-starcraft-2-interview"
+    ampWebUrl: "https://amp.redbull.com/se-en/reynor-starcraft-2-interview"
+    cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/se-en/reynor-starcraft-2-interview"
     type: article
     provider:
       name: Red Bull
@@ -42,6 +42,6 @@ related:
         height: 320
         isCached: true
 
-secured: "gZGb+N/Dz5hi8GhUEZBi+daDzwl0opcVoUNrH2BNvLp72bGX1iZ0yIVPOLmHKF4UidWiS8C0LGmLVSx73OuDZcYzBpXc72O2eueNW9aBFMWl8WOE1fpzkEvjCthd+QRj+oiEVVrrL1OiElYTS3zfAKwwoNOVsSWM0Wu0QtgFAdOfH0ZBhro6c1gMIio6VUOfbNTh+Um/lgPLHegk5abM6CO4CqGBCuP9u/SIxffDxX1YoT5oU0ReJLDKS585DkqDzk7m8kZOxgus9Hd6rrJ/Gr4oC/Zi6ClT334JYrO0+6pCYTWpeGdlCTbq+/rmV23LMdoIRHlQR7xTxeat0dbSlFBKMG0Di5F/t/YjLkg4CYY=;mi0UBv0T/md3Wqz5EnuvsQ=="
+secured: "rjh6yT/MG+HptkUq3E5GBfzd37mIxPgFTsSyoQ7SaXqE/W20ZNe+DG0RK2bGmcWxaNptS9NdG9bfbpI3iFyaBXa+UT2t6BuGqr29yp8lLbeR80Lsta+u7MWICJL4UVBqAfH9TNf29b0vIFhr/0rEAKt9s/jwrXSUDCv2NI7H14gK4Pp2QSKM1gv9hgm7LeFr4lIgF076sjCYEYvpFM0rmEcFdSREMKWB2k7doB5Pe+QCYWz5abTfvB2ADE4zILZel3V6nLxYBphb+30MSsLpHJ+7Nqd/zSXpF03NnAfGIKMmmu7BAxzkvLsYjAti8WrIsPmvzUOxNXWyU5gCclnpEfbbu6sZwEeV1N6QjCFOGUM=;M8rhFHYnYZLpd/C7y1rgdg=="
 ---
 

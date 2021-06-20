@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-ultimate-pat
 type: video
 length: PT49M38S
 publishedDateTime: 2020-10-20T08:41:14Z
-heat: 54
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P-84Oh9yx7w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "X8AVBRLgXaKHuEBEA3id+ej3fRQz+r3H/uK+iBPL60JDQTK2z+3ZssrJFWzI+qDCLTQ/5SvH4oLHgF+xfRkuleR5WRBo8IeEYiWwlf4oU2LgFxSTYAcZIo3A7B4t+AeVRhtxrAymWDpGao5eJlFbrcEcbjJ5bUpdnYjHL+8e9wyrt1EjpD6XTupqQgzUpB608APYo6Dg40cVfFqmHIwdP6gUGCrXc5ovzXw41VZ9p2k7K+vh9WYNPwaYsnpNqmFqZ5otVi1BcRF5FDiSaawmRsDMKmnY5bSE1D8YHLvYd9QA9hCxUocJ2ZGPEMbkZCgIcSF4ygoNBr9bzwbVF9yigP8H1KBapOIVCHaw/GJ62/m5QfhB4YEotusn9via7pNs4sD6J79umYc7aIPKe3H+OOP2S35E9mS3YJ4YpSCZnEY=;BmJe8lZeCadJ7ixkVJIqjA=="
+secured: "J7jevILLnQWZ0dEP1K5P2JS+385WTV0wTB7CY18yDQYnNc6Uu46NTzozoGR39tZNanZNiGavQ6acZsMfiRMfcWpMW/lOteVU79W5CemaH5RX1OnseDJ2PsFeDhU/sHmDhQnbh2Q2B+LUMGPutfQhUjeHeLHnFPSE9PKpo9PvNewQnFJXaeHsVuDON3T7oHS8uuSusI7/A5AJ0orwoui8Ig0amLcwX6vVHeBqtRgjjdIBP6ABzmmJdxckWnQqYTKzBc3M43Y3nT9rdFo0yGmKHgqd7IG+gCCYJ6SmV+GB2Q/KqZLLCQyQqy2HrCdc/XiYLGLd9OR3u+nR+WzPuMN+m1GH+VQTVZCER+PhayR0fyI6MSGCrJPLp5mfDK6BEcHu8+ChL0xUjw03/N/5tL2t7pXhoQ+/CE0tFjIfb63o0fA=;ga9dTeA5a6qpAA72LBi8gg=="
 ---
 

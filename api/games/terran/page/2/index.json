@@ -4,44 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-byuns-mass-sky-terran.md",
-      "title": "StarCraft 2: ByuN's MASS Sky Terran!",
-      "excerpt": "Amazing game of Terran versus Terran in StarCraft 2 between SpeCial and ByuN.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-mass-sky-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-mass-sky-terran/",
-      "originalUrl": "https://youtube.com/watch?v=LFFZdSmUlY8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LFFZdSmUlY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LFFZdSmUlY8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-11-23T03:28:25-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-cannon-rushing-a-terran-florencio.md",
       "title": "StarCraft 2: CANNON RUSHING A TERRAN?! (Florencio)",
       "excerpt": "Florencio is back with a crazy game of StarCraft 2. In this Master League match of Terran versus Protoss we start with a Cannon Rush but quickly gets into one of the strangest games of SC2 that I've ever seen... With lots of cringy moments and terrible decisions added in the mix.  Get more videos & support",
@@ -1515,6 +1477,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-07-08T04:26:49-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-masters-of-micro-byun-vs-parting.md",
+      "title": "StarCraft 2: MASTERS OF MICRO! (ByuN vs PartinG)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between ByuN and PartinG. Both of these players well known for their incredible unit control and micro, and in this match they face off against each other.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-masters-of-micro-byun-vs-parting/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-masters-of-micro-byun-vs-parting/",
+      "originalUrl": "https://youtube.com/watch?v=hfXPJ22QwSQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hfXPJ22QwSQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hfXPJ22QwSQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-28T04:58:20-08:00"
     }
   ],
   "nextPage": 3

@@ -29,7 +29,7 @@
         "Terran",
         "Protoss"
       ],
-      "heat": 417,
+      "heat": 330,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/_Qz9EguE8A8/maxresdefault.jpg",
@@ -266,14 +266,14 @@
       "publishedDateTime": "2021-06-09T02:13:09-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-scarletts-mass-mutas-vs-astrea-best-of-3.md",
-      "title": "StarCraft 2: Scarlett's MASS MUTAS vs Astrea! (Best-of-3)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between Scarlett and Astrea. In this series Scarlett goes for several types of aggression (Queen pushes, Swarm Hosts and Mutalisks) to prevent the game from going to the late game.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scarletts-mass-mutas-vs-astrea-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarletts-mass-mutas-vs-astrea-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=_TOcKGNK-Rw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_TOcKGNK-Rw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M19S",
+      "path": "_games/lowkotv-starcraft-2-scarletts-golden-swarm-hosts.md",
+      "title": "StarCraft 2: Scarlett's GOLDEN Swarm Hosts!",
+      "excerpt": "Awesome game of Zerg versus Protoss between Scarlett and Nina in StarCraft 2. This particular game is far different from what we normally see at the pro level in this matchup. A wide variety of units is used, with only a minor focus on the Stargate units and Corruptors.  Support my work on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scarletts-golden-swarm-hosts/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarletts-golden-swarm-hosts/",
+      "originalUrl": "https://youtube.com/watch?v=YGsBtckySA8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YGsBtckySA8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M58S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -290,10 +290,10 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 123,
+      "heat": 120,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/_TOcKGNK-Rw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YGsBtckySA8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -301,7 +301,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-05-15T03:34:40-07:00"
+      "publishedDateTime": "2021-04-09T03:52:55-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-showtime-best-of-5.md",
@@ -420,6 +420,44 @@
       "publishedDateTime": "2021-06-07T22:36:50-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-what-year-is-it-zerg-super-cheese-leenock-vs-drg.md",
+      "title": "StarCraft 2: WHAT YEAR IS IT? Zerg Super Cheese! (Leenock vs DRG)",
+      "excerpt": "This match genuinely could have taken place a decade ago in StarCraft 2. In this best-of-3 series of Zerg versus Zerg I cast an extremely aggressive series between Leenock and DRG.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-what-year-is-it-zerg-super-cheese-leenock-vs-drg/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-what-year-is-it-zerg-super-cheese-leenock-vs-drg/",
+      "originalUrl": "https://youtube.com/watch?v=wrQH6jgxaRg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wrQH6jgxaRg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M59S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 119,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wrQH6jgxaRg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-03T02:34:24-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-blys-amazing-proxy-hatcheries-vs-clem.md",
       "title": "StarCraft 2: Bly's AMAZING Proxy Hatcheries Vs Clem!",
       "excerpt": "Bly versus Clem in a best-of-5 series of professional StarCraft 2.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
@@ -455,82 +493,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-12-24T01:43:03-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-three-raven-hit-squad-clem-vs-heromarine.md",
-      "title": "StarCraft 2: The THREE RAVEN Hit Squad! (Clem vs HeroMarine)",
-      "excerpt": "Best-of-3 series of top level Terran versus Terran between Clem and HeroMarine in StarCraft 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-three-raven-hit-squad-clem-vs-heromarine/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-three-raven-hit-squad-clem-vs-heromarine/",
-      "originalUrl": "https://youtube.com/watch?v=PWZ2DVCytqE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PWZ2DVCytqE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M44S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 113,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PWZ2DVCytqE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-04-23T04:40:18-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-what-year-is-it-zerg-super-cheese-leenock-vs-drg.md",
-      "title": "StarCraft 2: WHAT YEAR IS IT? Zerg Super Cheese! (Leenock vs DRG)",
-      "excerpt": "This match genuinely could have taken place a decade ago in StarCraft 2. In this best-of-3 series of Zerg versus Zerg I cast an extremely aggressive series between Leenock and DRG.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-what-year-is-it-zerg-super-cheese-leenock-vs-drg/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-what-year-is-it-zerg-super-cheese-leenock-vs-drg/",
-      "originalUrl": "https://youtube.com/watch?v=wrQH6jgxaRg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wrQH6jgxaRg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M59S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wrQH6jgxaRg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-03T02:34:24-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-zerg-mothership.md",
@@ -1062,6 +1024,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-05-27T03:31:39-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-sneaky-disruptors-byun-vs-zoun.md",
+      "title": "StarCraft 2: SNEAKY Disruptors! (ByuN vs Zoun)",
+      "excerpt": "Professional match of StarCraft 2 between ByuN and Zoun.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-sneaky-disruptors-byun-vs-zoun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-sneaky-disruptors-byun-vs-zoun/",
+      "originalUrl": "https://youtube.com/watch?v=HbrOyQKQRdk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HbrOyQKQRdk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M1S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 90,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HbrOyQKQRdk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-05-28T03:06:11-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-innovation.md",

@@ -2,12 +2,14 @@
 category: news
 title: "How Reynor became the new king of Starcraft 2"
 excerpt: "We sat down with professional StarCraft 2 superstar Riccardo ‘Reynor’ Romiti to discuss how he became one of the world's elite players."
-publishedDateTime: 2021-06-15T07:00:00Z
-originalUrl: "https://www.redbull.com/mk-mk/reynor-starcraft-2-interview"
-webUrl: "https://www.redbull.com/mk-mk/reynor-starcraft-2-interview"
+publishedDateTime: 2021-06-15T09:16:00Z
+originalUrl: "https://www.redbull.com/se-en/reynor-starcraft-2-interview"
+webUrl: "https://www.redbull.com/se-en/reynor-starcraft-2-interview"
+ampWebUrl: "https://amp.redbull.com/se-en/reynor-starcraft-2-interview"
+cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/se-en/reynor-starcraft-2-interview"
 type: article
-quality: 54
-heat: 74
+quality: 74
+heat: 94
 published: true
 
 provider:
@@ -19,9 +21,9 @@ topics:
   - Zerg
 
 images:
-  - url: "https://img.redbull.com/images/c_crop,w_3200,h_2133,x_0,y_0,f_auto,q_auto/c_scale,w_1500/redbullcom/2021/6/14/du7ng5zkogwqqv7uxw3n/reynor-interview"
-    width: 1500
-    height: 1000
+  - url: "https://img.redbull.com/images/c_fill,w_480,h_320,g_auto,f_auto,q_auto/redbullcom/2021/6/14/du7ng5zkogwqqv7uxw3n/reynor-interview"
+    width: 480
+    height: 320
     isCached: true
 
 related:
@@ -35,6 +37,6 @@ related:
       domain: redbull.com
     quality: 34
 
-secured: "CIgVHSggd2i7A5nUBZD/gsBB5WAO3W4V/tCLrNpDgw0peAJnnfWmvk2PBm35smFQ6sFMLge5YIXsmcx61oIk0+m4rX5ls5z58FxTu2gDHJXRL7gxICILQNumH6WC2DXHgf/tnsEaGgyRbYdziILutm6gwdagGMadxJakK5F5f8JutD2uRFGv5IjtoswExRXPDVJ9W0w2HmteNlh/ugfuwRt/Od7AyPD7dR+MpBOMPa9sLK6fenJYttenBEOE7C45voMQU9dzubY0LftuZ2/ibZ+qDKaltP3PMo8O9qQL3nVxgVsZbBoUgyayf62y/vWlUVEREXHEPp0Ppk/ZWlptOANgdCw5LAPzSTcZTXGB6cGWaMuUScfj0MPt09b+tSIcFOLTWzE+4vaPCONTYQMkb7W/3RTeWmmp98r4hoXQCX5/ODZne2lN8kkvRmcKWPc8XUtvtu01zcZvVWZwW55l2wB+3SHUoMKs9Xg33WvhLLFoBWLhdEsTnVpFgiM15NJAJCH6UtDT2Epa1ewtPObtIg==;N17iM8Fql7c5cvPqvlyTOw=="
+secured: "qq4hOBtn3dfH0JVV9lqyBZQWuDj3x8SQEwH3+P+0gCbdykwDfDYlbEwoh5H3EOS5J1B8BGJ9yMWyslW1lIP+et89h9g/b3bjvjUKx+BkxPK7QEsKG6fN2BPitubw8U4OUO5bLJMjT2tDYEzM6DD3lED+BPA9JICJy83FDfjW4D1aM9gMdyDcuWWDB0e2sP+4v7zPglo0b8CIDHYbIDoNJmOtTkwx6Yc5i1rm58NNCZ+9P6COoZMiu0UI/u/LuWAp0Z2wl9phxoPN8RdBwWdY8rtcv3YVZbkqhJZzgSPd+CNPFY33T1FJbKtNsMhSq5MSfQ0TMdfx70gZYa4F2lD4LcxK3yGZfSrv1DHGVh6X73s=;S91PZcG7R4z4w8FLY3slrA=="
 ---
 

@@ -4,6 +4,121 @@
   "page": 5,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-psionic-storm-drops-bo5.md",
+      "title": "StarCraft 2: PSIONIC STORM DROPS?! (Bo5)",
+      "excerpt": "Best-of-5 series between Rogue and herO. Subscribe for more videos: http://lowko.tv/youtube The supreme late game: https://goo.gl/oHhD3V  An epic best-of-5 series between two of the very best players in their respective races. In this series strategies continuously change, as players try to adjust to",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-psionic-storm-drops-bo5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-psionic-storm-drops-bo5/",
+      "originalUrl": "https://youtube.com/watch?v=tvW0CF0cGdE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tvW0CF0cGdE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M7S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tvW0CF0cGdE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-01-25T02:41:37-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-reynor-playing-protoss-bly-vs-reynor.md",
+      "title": "StarCraft 2: REYNOR PLAYING PROTOSS?! (Bly vs Reynor)",
+      "excerpt": "Since there are not a lot of big offline tournaments on the horizon, a few SC2 pro gamers have decided to rank up their offraces over the last week or two in StarCraft 2. In the case of Reynor, one of the best Zerg players in the world, he has been playing a significant amount of Protoss and also Terran.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynor-playing-protoss-bly-vs-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynor-playing-protoss-bly-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=WnOibyHGg00",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WnOibyHGg00\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WnOibyHGg00/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-03T03:13:26-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-rip-mothership-core.md",
+      "title": "StarCraft 2: RIP Mothership Core!",
+      "excerpt": "The Mothership Core is gone... Does that mean Protoss is too? Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Commentary: https://goo.gl/XXpZvf  This is the first Grand Finals in the new patch of professional StarCraft 2. While the Mothership Core has been removed, a lot of additions",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-rip-mothership-core/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-rip-mothership-core/",
+      "originalUrl": "https://youtube.com/watch?v=Bj6749fN7ag",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bj6749fN7ag\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M15S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Bj6749fN7ag/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-11-14T02:39:28-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-scarlett-base-races-neeb.md",
       "title": "StarCraft 2: Scarlett BASE RACES Neeb!",
       "excerpt": "Long macro game of Zerg versus Protoss in StarCraft 2 between Scarlett and Neeb.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
@@ -996,106 +1111,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-04-11T03:48:11-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-cannon-rushing-with-the-colossus-support-cannon-rushing-to-grandmaster-episode-5.md",
-      "title": "StarCraft 2: Cannon Rushing With The Colossus Support! - Cannon Rushing to Grandmaster - Episode 5",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-cannon-rushing-with-the-colossus-support-cannon-rushing-to-grandmaster-episode-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-cannon-rushing-with-the-colossus-support-cannon-rushing-to-grandmaster-episode-5/",
-      "originalUrl": "https://youtube.com/watch?v=HsRx_dpPjf0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HsRx_dpPjf0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M8S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Cheese",
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HsRx_dpPjf0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-11-02T06:08:20-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-carriers-carriers-carriers-sky-protoss-to-grandmaster-episode-10.md",
-      "title": "StarCraft 2: CARRIERS CARRIERS CARRIERS!!! - Sky Protoss to Grandmaster Episode 10",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-carriers-carriers-carriers-sky-protoss-to-grandmaster-episode-10/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-carriers-carriers-carriers-sky-protoss-to-grandmaster-episode-10/",
-      "originalUrl": "https://youtube.com/watch?v=PDfTWn3xUrE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PDfTWn3xUrE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M1S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PDfTWn3xUrE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-09-24T12:15:42-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-combat-shield-clutch-snipe.md",
-      "title": "StarCraft 2: Combat Shield CLUTCH SNIPE!",
-      "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-combat-shield-clutch-snipe/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-combat-shield-clutch-snipe/",
-      "originalUrl": "https://youtube.com/watch?v=pJRyZIOUuMY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pJRyZIOUuMY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M45S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pJRyZIOUuMY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-12-24T03:32:28-08:00"
     }
   ],
   "nextPage": 6

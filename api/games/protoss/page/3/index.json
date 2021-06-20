@@ -4,6 +4,121 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-ridiculously-good-counter-micro-clem-vs-showtime.md",
+      "title": "StarCraft 2: RIDICULOUSLY GOOD Counter-Micro! (Clem vs ShoWTimE)",
+      "excerpt": "One of the best games of Terran versus Protoss I've recently seen. Fantastic game of top level StarCraft 2 between Clem and ShoWTimE. Great micro and macro from both players.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-ridiculously-good-counter-micro-clem-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-ridiculously-good-counter-micro-clem-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=fAtJIkXvh84",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fAtJIkXvh84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M2S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fAtJIkXvh84/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-03-18T04:23:23-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-skytoss-vs-maxed-out-zerg-scarlett-vs-creator.md",
+      "title": "StarCraft 2: SKYTOSS VS MAXED OUT ZERG! (Scarlett vs Creator)",
+      "excerpt": "Nearly the entire map in this match of professional StarCraft 2 gets mined out. In this Zerg versus Protoss I cast a game between Scarlett and Creator. Both players  feel comfortable playing the extreme late game in StarCraft 2 and that's exactly what we get. While the match is being played  I discuss",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-skytoss-vs-maxed-out-zerg-scarlett-vs-creator/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-skytoss-vs-maxed-out-zerg-scarlett-vs-creator/",
+      "originalUrl": "https://youtube.com/watch?v=_0I06UtIgWk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_0I06UtIgWk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M9S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_0I06UtIgWk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-05-25T04:02:59-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-ultimate-protoss-efficiency.md",
+      "title": "StarCraft 2: ULTIMATE Protoss Efficiency!",
+      "excerpt": "An epic game of Zerg vs Protoss between Neeb and Rogue. Subscribe for more videos: http://lowko.tv/youtube Crazy Protoss micro: https://goo.gl/tvhEza  Rogue decides to not play the typical Zerg late game, but instead swarms his opponent with constant waves of Zerg attacks. Neeb however, decides to sit",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-ultimate-protoss-efficiency/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-ultimate-protoss-efficiency/",
+      "originalUrl": "https://youtube.com/watch?v=nZjZSAa4j50",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nZjZSAa4j50\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M27S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nZjZSAa4j50/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-05-21T01:58:00-07:00"
+    },
+    {
       "path": "_games/sc2hl-199-army-supply-neeb-vs-rogue-starcraft-2-global-finals.md",
       "title": "199 ARMY SUPPLY?! - Neeb vs Rogue - Starcraft 2 Global Finals",
       "excerpt": "Neeb and Rogue clash out in an epic 52 minute Protoss vs Zerg during the Starcraft 2 Global Finals (live this and next weekend!)  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    A 15 minute highlight reel from the hour long vod!     Thank you for watching our videos! Subscribe for more StarCraft",
@@ -79,73 +194,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-08-04T12:34:48-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy.md",
-      "title": "StarCraft 2: Another IMBALANCED Protoss Strategy!",
-      "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy/",
-      "originalUrl": "https://youtube.com/watch?v=fG5sjcAyeow",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fG5sjcAyeow\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M6S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 52,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fG5sjcAyeow/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-12-01T03:18:56-08:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2.md",
-      "title": "StarCraft 2: Are You Jerking Me...? - Cannon Rushing to Grandmaster - Episode 2",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2/",
-      "originalUrl": "https://youtube.com/watch?v=zKB6EX4t-vM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zKB6EX4t-vM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT51M24S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 52,
-      "tags": [
-        "Cheese",
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zKB6EX4t-vM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-10-26T03:26:41-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-200-worker-kills-showtime-vs-heromarine.md",
@@ -765,44 +813,6 @@
       "publishedDateTime": "2020-01-10T04:38:14-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-zest-vs-maxpax-cheese-in-every-game-best-of-5.md",
-      "title": "StarCraft 2: Zest vs MaxPax - Cheese in EVERY Game! (Best-of-5)",
-      "excerpt": "MaxPax versus Zest in a best-of-5 series of Protoss versus Protoss in StarCraft 2. It doesn't get much more cheesy than this...  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zest-vs-maxpax-cheese-in-every-game-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zest-vs-maxpax-cheese-in-every-game-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=QUw68GwInWQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QUw68GwInWQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QUw68GwInWQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-26T04:54:48-07:00"
-    },
-    {
       "path": "_games/sc2hl-5-vs-10-supply-28-minute-basetrade-starcraft-2-clem-vs-showtime.md",
       "title": "5 vs 10 SUPPLY?! - 28 Minute BASETRADE - Starcraft 2: Clem vs Showtime",
       "excerpt": "A crazy Protoss vs Terran between Showtime and Clem, the 16 year old Starcraft 2 pro. Who will win the Basetrade?   ► Find the WCS Valencia Vods here: https://www.youtube.com/user/WCSStarCraft ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more",
@@ -947,14 +957,14 @@
       "publishedDateTime": "2018-11-08T02:33:28-08:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-cocky-stream-sniper.md",
-      "title": "StarCraft 2: Cocky Stream Sniper!",
-      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  Folks in chat on my stream think they can snipe me and get away with it. Not if I have anything to say about!   Feel free to let me",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-cocky-stream-sniper/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-cocky-stream-sniper/",
-      "originalUrl": "https://youtube.com/watch?v=tg2hFwPGltk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tg2hFwPGltk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M50S",
+      "path": "_games/beastyqtsc2-starcraft-2-cannon-rushing-with-the-colossus-support-cannon-rushing-to-grandmaster-episode-5.md",
+      "title": "StarCraft 2: Cannon Rushing With The Colossus Support! - Cannon Rushing to Grandmaster - Episode 5",
+      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-cannon-rushing-with-the-colossus-support-cannon-rushing-to-grandmaster-episode-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-cannon-rushing-with-the-colossus-support-cannon-rushing-to-grandmaster-episode-5/",
+      "originalUrl": "https://youtube.com/watch?v=HsRx_dpPjf0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HsRx_dpPjf0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M8S",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -965,11 +975,12 @@
       ],
       "heat": 51,
       "tags": [
+        "Cheese",
         "Live"
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tg2hFwPGltk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/HsRx_dpPjf0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -977,40 +988,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-07-20T04:11:24-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-completely-wiping-out-protoss-200200-army-never-attack-to-grandmaster.md",
-      "title": "StarCraft 2: Completely Wiping Out Protoss 200/200 Army! - Never Attack to Grandmaster",
-      "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-completely-wiping-out-protoss-200200-army-never-attack-to-grandmaster/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-completely-wiping-out-protoss-200200-army-never-attack-to-grandmaster/",
-      "originalUrl": "https://youtube.com/watch?v=keSRB-wU9Tg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/keSRB-wU9Tg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M43S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/keSRB-wU9Tg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-05-09T05:07:00-07:00"
+      "publishedDateTime": "2018-11-02T06:08:20-07:00"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-hello-anyone-there.md",
@@ -1046,14 +1024,14 @@
       "publishedDateTime": "2019-07-20T04:02:45-07:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-mass-sentries-vs-broodlords-lurkers.md",
-      "title": "StarCraft 2: MASS Sentries vs Broodlords & Lurkers?!",
-      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  More games from the MASS SENTRIES to GRANDMASTER series! In this set of games, we finally make it to Master League! Also, in one of",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-sentries-vs-broodlords-lurkers/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-sentries-vs-broodlords-lurkers/",
-      "originalUrl": "https://youtube.com/watch?v=G4pmoTLP5_A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G4pmoTLP5_A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M16S",
+      "path": "_games/beastyqtsc2-starcraft-2-i-got-planetary-fortress-rushed.md",
+      "title": "StarCraft 2: I Got Planetary Fortress RUSHED!",
+      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  I have three games for you all from the MASS SENTRIES to GRANDMASTER series - one game against each race! The games vs Protoss and Zerg",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-i-got-planetary-fortress-rushed/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-i-got-planetary-fortress-rushed/",
+      "originalUrl": "https://youtube.com/watch?v=e6MKl-zT94o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e6MKl-zT94o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M22S",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -1068,7 +1046,7 @@
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/G4pmoTLP5_A/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/e6MKl-zT94o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1076,17 +1054,51 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-07-21T06:36:35-07:00"
+      "publishedDateTime": "2019-07-29T18:11:08-07:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster.md",
-      "title": "StarCraft 2: MASS Void Rays to Grandmaster!",
-      "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster/",
-      "originalUrl": "https://youtube.com/watch?v=qyvOV-b5TZs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qyvOV-b5TZs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M22S",
+      "path": "_games/beastyqtsc2-starcraft-2-insane-hold-vs-terran-cannon-rushing-to-grandmaster-episode-8.md",
+      "title": "StarCraft 2: INSANE Hold vs Terran! - Cannon Rushing to Grandmaster - Episode 8",
+      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-insane-hold-vs-terran-cannon-rushing-to-grandmaster-episode-8/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-insane-hold-vs-terran-cannon-rushing-to-grandmaster-episode-8/",
+      "originalUrl": "https://youtube.com/watch?v=hwJ801E20UY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hwJ801E20UY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M51S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "tags": [
+        "Cheese",
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hwJ801E20UY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-11-11T04:55:12-08:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-last-episode-of-mass-zealots-phoenix.md",
+      "title": "StarCraft 2: LAST Episode of MASS Zealots & Phoenix!",
+      "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-last-episode-of-mass-zealots-phoenix/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-last-episode-of-mass-zealots-phoenix/",
+      "originalUrl": "https://youtube.com/watch?v=VqD-RFpwj_c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VqD-RFpwj_c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M23S",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -1101,7 +1113,7 @@
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/qyvOV-b5TZs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/VqD-RFpwj_c/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1109,7 +1121,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-11-30T04:55:08-08:00"
+      "publishedDateTime": "2020-04-20T03:28:59-07:00"
     }
   ],
   "nextPage": 4

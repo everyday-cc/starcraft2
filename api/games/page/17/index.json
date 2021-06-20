@@ -37,6 +37,39 @@
       "publishedDateTime": "2017-09-24T12:15:42-07:00"
     },
     {
+      "path": "_games/beastyqtsc2-starcraft-2-cocky-stream-sniper.md",
+      "title": "StarCraft 2: Cocky Stream Sniper!",
+      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  Folks in chat on my stream think they can snipe me and get away with it. Not if I have anything to say about!   Feel free to let me",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-cocky-stream-sniper/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-cocky-stream-sniper/",
+      "originalUrl": "https://youtube.com/watch?v=tg2hFwPGltk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tg2hFwPGltk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M50S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tg2hFwPGltk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-20T04:11:24-07:00"
+    },
+    {
       "path": "_games/beastyqtsc2-starcraft-2-combat-shield-clutch-snipe.md",
       "title": "StarCraft 2: Combat Shield CLUTCH SNIPE!",
       "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
@@ -68,6 +101,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-12-24T03:32:28-08:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-completely-wiping-out-protoss-200200-army-never-attack-to-grandmaster.md",
+      "title": "StarCraft 2: Completely Wiping Out Protoss 200/200 Army! - Never Attack to Grandmaster",
+      "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-completely-wiping-out-protoss-200200-army-never-attack-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-completely-wiping-out-protoss-200200-army-never-attack-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=keSRB-wU9Tg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/keSRB-wU9Tg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M43S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/keSRB-wU9Tg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-05-09T05:07:00-07:00"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-countered-by-adepts-with-glaives-mass-zealot-phoenix.md",
@@ -432,20 +498,21 @@
       "publishedDateTime": "2020-05-29T03:11:52-07:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-ghost-with-69-killsnice-never-attack-to-grandmaster.md",
-      "title": "StarCraft 2: Ghost With 69 Kills....nice - Never Attack to Grandmaster",
+      "path": "_games/beastyqtsc2-starcraft-2-ghost-nuke-vs-an-ultralisk-never-attack-to-grandmaster.md",
+      "title": "StarCraft 2: Ghost Nuke vs an Ultralisk... - Never Attack to Grandmaster",
       "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-ghost-with-69-killsnice-never-attack-to-grandmaster/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-ghost-with-69-killsnice-never-attack-to-grandmaster/",
-      "originalUrl": "https://youtube.com/watch?v=Syh0gb5tdxA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Syh0gb5tdxA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M38S",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-ghost-nuke-vs-an-ultralisk-never-attack-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-ghost-nuke-vs-an-ultralisk-never-attack-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=az3W_i11os0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/az3W_i11os0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M42S",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Terran"
       ],
       "heat": 50,
       "tags": [
@@ -453,7 +520,7 @@
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Syh0gb5tdxA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/az3W_i11os0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -461,7 +528,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-05-16T04:52:53-07:00"
+      "publishedDateTime": "2020-05-28T03:50:21-07:00"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-grandmaster-cannon-rush-vs-void-rays.md",
@@ -563,39 +630,6 @@
       "publishedDateTime": "2020-04-01T01:17:52-07:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-i-got-planetary-fortress-rushed.md",
-      "title": "StarCraft 2: I Got Planetary Fortress RUSHED!",
-      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  I have three games for you all from the MASS SENTRIES to GRANDMASTER series - one game against each race! The games vs Protoss and Zerg",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-i-got-planetary-fortress-rushed/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-i-got-planetary-fortress-rushed/",
-      "originalUrl": "https://youtube.com/watch?v=e6MKl-zT94o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e6MKl-zT94o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M22S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/e6MKl-zT94o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-07-29T18:11:08-07:00"
-    },
-    {
       "path": "_games/beastyqtsc2-starcraft-2-i-gotengineering-bay-rushed.md",
       "title": "StarCraft 2: I Got.....Engineering Bay Rushed...",
       "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
@@ -693,40 +727,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-09-13T03:56:29-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-insane-hold-vs-terran-cannon-rushing-to-grandmaster-episode-8.md",
-      "title": "StarCraft 2: INSANE Hold vs Terran! - Cannon Rushing to Grandmaster - Episode 8",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-insane-hold-vs-terran-cannon-rushing-to-grandmaster-episode-8/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-insane-hold-vs-terran-cannon-rushing-to-grandmaster-episode-8/",
-      "originalUrl": "https://youtube.com/watch?v=hwJ801E20UY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hwJ801E20UY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M51S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Cheese",
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hwJ801E20UY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-11-11T04:55:12-08:00"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-insane-storms-sky-protoss-to-grandmaster-episode-12.md",
@@ -861,39 +861,6 @@
       "publishedDateTime": "2019-08-04T03:03:22-07:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-last-episode-of-mass-zealots-phoenix.md",
-      "title": "StarCraft 2: LAST Episode of MASS Zealots & Phoenix!",
-      "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-last-episode-of-mass-zealots-phoenix/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-last-episode-of-mass-zealots-phoenix/",
-      "originalUrl": "https://youtube.com/watch?v=VqD-RFpwj_c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VqD-RFpwj_c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M23S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VqD-RFpwj_c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-20T03:28:59-07:00"
-    },
-    {
       "path": "_games/beastyqtsc2-starcraft-2-lmao-what-on-earth-is-that.md",
       "title": "StarCraft 2: LMAO.. WHAT ON EARTH IS THAT?",
       "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  Also, I will soon begin to make videos featuring",
@@ -990,6 +957,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-09-08T16:44:32-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-maphacker-beastyqt-strikes-again-mass-zealot-phoenix.md",
+      "title": "StarCraft 2: Maphacker Beastyqt Strikes Again! - MASS Zealot & Phoenix!",
+      "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-maphacker-beastyqt-strikes-again-mass-zealot-phoenix/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-maphacker-beastyqt-strikes-again-mass-zealot-phoenix/",
+      "originalUrl": "https://youtube.com/watch?v=-2Ys4bSsLXU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-2Ys4bSsLXU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M40S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-2Ys4bSsLXU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-11T03:47:28-07:00"
     }
   ],
   "nextPage": 18

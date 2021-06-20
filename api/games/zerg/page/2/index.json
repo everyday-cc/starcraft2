@@ -197,45 +197,6 @@
       "publishedDateTime": "2019-01-29T03:35:05-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-serral-masses-ultralisks-vs-zest-zerg-vs-protoss.md",
-      "title": "StarCraft 2: Serral MASSES ULTRALISKS vs Zest?! (Zerg vs Protoss)",
-      "excerpt": "Professional match of StarCraft 2 between Serral and Zest. In this match Zest opens up with what looks like a standard turtle Sky Toss style. However, as he transitions towards a lot of Gateways, Serral is forced to respond and decides to go for Ultralisks. Ultras versus Protoss are incredibly uncommon.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-masses-ultralisks-vs-zest-zerg-vs-protoss/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-masses-ultralisks-vs-zest-zerg-vs-protoss/",
-      "originalUrl": "https://youtube.com/watch?v=eVrNGBt_yeE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eVrNGBt_yeE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M46S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eVrNGBt_yeE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-05-17T03:25:45-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-new-rank-1-reynor-vs-dream.md",
       "title": "StarCraft 2: THE NEW RANK #1! (Reynor vs Dream)",
       "excerpt": "Amazing best-of-3 series of StarCraft 2 between the Reynor and Dream. In this series of Zerg versus Terran Reynor decides to use Lurkers against Terran bio, which is a unit that is not commonly used in the matchup. In general a brilliant series between two very highly ranked pro gamers.  Support my work:",
@@ -381,7 +342,7 @@
             "StarCraft 2",
             "Zerg"
           ],
-          "heat": 50,
+          "heat": 51,
           "tags": [
             "Live"
           ],
@@ -892,6 +853,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-05-29T00:58:39-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-reynors-hyper-aggressive-strategies-best-of-5.md",
+      "title": "StarCraft 2: Reynor's HYPER AGGRESSIVE Strategies! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Reynor and GunGFuBanDa. In this series Reynor decides to play very aggresively as he plays a variety of strategies versus this macro Protoss style. Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynors-hyper-aggressive-strategies-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-hyper-aggressive-strategies-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=sfTbHUSeEGA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sfTbHUSeEGA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M56S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sfTbHUSeEGA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-04-14T03:58:39-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-ultimate-zerg-protoss-armies-serral-vs-harstem.md",

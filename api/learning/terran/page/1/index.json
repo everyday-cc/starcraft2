@@ -35,37 +35,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-terran-pro-analysis-defending-the-dirtiest-cheeser-of-them-all.md",
-      "title": "Terran Pro Analysis | Defending The Dirtiest Cheeser of them all",
-      "excerpt": "Starcraft 2 Terran Pro Replay Analysis #Starcraft2​ #terran​ #analysis  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-pro-analysis-defending-the-dirtiest-cheeser-of-them-all/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-terran-pro-analysis-defending-the-dirtiest-cheeser-of-them-all/",
-      "originalUrl": "https://youtube.com/watch?v=0nZJxqv4pIU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0nZJxqv4pIU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M37S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-04-03T19:06:13-07:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0nZJxqv4pIU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-why-scientists-wont-settle-for-any-other-build.md",
       "title": "WHY scientists WON'T settle for any other BUILD",
       "excerpt": "In today's lesson we're looking at a terran vs terran gameplan. Was supposed to be the opening but I got a little carried away so you're getting 19 minutes of raw TvT information. Get out your notepads ;)  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
@@ -786,6 +755,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/a7L-9spJ0vs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-terran-pro-analysis-defending-the-dirtiest-cheeser-of-them-all.md",
+      "title": "Terran Pro Analysis | Defending The Dirtiest Cheeser of them all",
+      "excerpt": "Starcraft 2 Terran Pro Replay Analysis #Starcraft2​ #terran​ #analysis  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-pro-analysis-defending-the-dirtiest-cheeser-of-them-all/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-terran-pro-analysis-defending-the-dirtiest-cheeser-of-them-all/",
+      "originalUrl": "https://youtube.com/watch?v=0nZJxqv4pIU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0nZJxqv4pIU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M37S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-04-03T19:06:13-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0nZJxqv4pIU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

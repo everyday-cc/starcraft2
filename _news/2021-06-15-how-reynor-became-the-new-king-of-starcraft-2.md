@@ -2,14 +2,14 @@
 category: news
 title: "How Reynor became the new king of Starcraft 2"
 excerpt: "We sat down with professional StarCraft 2 superstar Riccardo ‘Reynor’ Romiti to discuss how he became one of the world's elite players."
-publishedDateTime: 2021-06-15T09:16:00Z
-originalUrl: "https://www.redbull.com/se-en/reynor-starcraft-2-interview"
-webUrl: "https://www.redbull.com/se-en/reynor-starcraft-2-interview"
-ampWebUrl: "https://amp.redbull.com/se-en/reynor-starcraft-2-interview"
-cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/se-en/reynor-starcraft-2-interview"
+publishedDateTime: 2021-06-15T07:00:00Z
+originalUrl: "https://www.redbull.com/my-en/reynor-starcraft-2-interview"
+webUrl: "https://www.redbull.com/my-en/reynor-starcraft-2-interview"
+ampWebUrl: "https://amp.redbull.com/my-en/reynor-starcraft-2-interview"
+cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/my-en/reynor-starcraft-2-interview"
 type: article
 quality: 74
-heat: 96
+heat: 94
 published: true
 
 provider:
@@ -42,6 +42,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "+8SkuRE7iuTpyugT7QdWKwROCZa6U28HcaVz/JTOyhcOZk+LkK6wF3yKCGwtav0qnRa2NIkaZsK6+PXAe0tYyjWrajbEhV2HeLzZiuAUkK/kBCYeAG9GsrK/c2OZAWqbOZSCorc/G9hM5X0TMUHJ+Gy0yklxsCfYRGKFFhELFqvQ4ocgezu7UyLv0mgXs0qodAOJ1kW55TrqfIv92f5ggZB1oHw+bR20OKLUFoQFu5qFwhoGcMpicryNfhBgNN383dUBMGGOK1xzISu9MnR+yv/34d0YmkMW+xkmf+WOIcrKbyqaxz6oSmXxSZbJfc7OmPH+KaxZbiYgVPRa0dcUJC0Vimc+rmaRA2KcGJ2dA09PqAoGy3R0hOEimWn1EPLHCJ48x2DSe8LGzo/5E3evFIOys9xNTXo8MoVmAGFxF9ZAhd5dm5IqHE31j0PcyXdEb1vG1dCHKHQX9rellj+Y+RRvfMaaGm+/XqkPSL3l7XbWn+hqWpkWTzAtUVE9V3JTV+20rrYr1gweKtU88kB2nw==;lgsGZgIVNeVE/Y2tCntUQQ=="
+secured: "/VH+tkyG81rYoTmfdMk9D8phpLb0qaKP9wmCUdIlG6w2Skbe3SVSJ4/v/t7V3UY4zvy0F67KVys6V0pPj7MzgW2zQG2plSXeLTpB4q3P1tdlBl7uFF3g3t2dWi6jiDC2G4EJRTOoJednDmO6GUGrSETgwizAOw97GihfkV6VuHKnYGB9KzJzoXMF+SV1UvT+rgBB2DYU80+69N2nvvzfBTkHcqnbYA97uTwt4N/Cimn+zs9laxaJQTHeYW4vaaMD4DDoN+xlRRRIjSVMviPgYy2c6VWcLKIMtUDc+r6axiYWVX17RCVkQH5w0rVob7C81YJ4HcJkjjZi7tHUqSc35dCxt8j2U5fLyV+6UvpMnHQ=;cN0dnU5btDNlXwfbq+VTGQ=="
 ---
 

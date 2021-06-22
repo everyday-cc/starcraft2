@@ -2,13 +2,15 @@
 category: news
 title: "How Reynor became the new king of Starcraft 2"
 excerpt: "We sat down with professional StarCraft 2 superstar Riccardo ‘Reynor’ Romiti to discuss how he became one of the world's elite players."
-publishedDateTime: 2021-06-15T07:00:00Z
-originalUrl: "https://www.redbull.com/za-en/reynor-starcraft-2-interview"
-webUrl: "https://www.redbull.com/za-en/reynor-starcraft-2-interview"
+publishedDateTime: 2021-06-15T09:16:00Z
+originalUrl: "https://www.redbull.com/se-en/reynor-starcraft-2-interview"
+webUrl: "https://www.redbull.com/se-en/reynor-starcraft-2-interview"
+ampWebUrl: "https://amp.redbull.com/se-en/reynor-starcraft-2-interview"
+cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/se-en/reynor-starcraft-2-interview"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 94
+published: true
 
 provider:
   name: Red Bull
@@ -18,17 +20,28 @@ topics:
   - StarCraft 2
   - Zerg
 
+images:
+  - url: "https://img.redbull.com/images/c_fill,w_480,h_320,g_auto,f_auto,q_auto/redbullcom/2021/6/14/du7ng5zkogwqqv7uxw3n/reynor-interview"
+    width: 480
+    height: 320
+    isCached: true
+
 related:
   - title: "How Reynor became the new king of Starcraft 2"
-    excerpt: "Now, just seven years later he stands on top of professional Starcraft – even besting the most talented South Koreans that stand in his way. Now rated as the third-best player in the world ..."
+    excerpt: "We sat down with professional StarCraft 2 superstar Riccardo ‘Reynor’ Romiti to discuss how he became one of the world's elite players. Riccardo ‘Reynor’ Romiti is one of the best Zerg ..."
     publishedDateTime: 2021-06-16T16:57:00Z
-    webUrl: "https://www.redbull.com/au-en/reynor-starcraft-2-interview"
+    webUrl: "https://www.redbull.com/gb-en/reynor-starcraft-2-interview"
     type: article
     provider:
       name: Red Bull
       domain: redbull.com
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://img.redbull.com/images/c_crop,w_3200,h_2133,x_0,y_0,f_auto,q_auto/c_scale,w_1500/redbullcom/2021/6/14/du7ng5zkogwqqv7uxw3n/reynor-interview"
+        width: 1500
+        height: 1000
+        isCached: true
 
-secured: "IOIj6OUrb74VmDan2hfrH848UGKpTtHKXmVTI5NUfmTPscrwMVQV4PDZzb42BXwVFq4m4FbgAlWP4GfSlCzqNXKVPgqKyxhc6FqbvEcCsSgCMhet5JhXO9XfyrGQ+4yJqM1YBpEqkHvH4Bhf9dyGDK1G/nVbhrgkdxNnNni0fd6ONeeX9pL9fDYeYcTXXkOORC8zb/Aoe7GWpCjRzvpxmm2EP9GsOOgFYX90sRxXyiUH4ektpgXRf2UWe1j6w8gAgjMOnGQ3wdDfHjNc0Cl/UiIMDVBXo3ebcEgT2MlLvq8etK5RyXHRhlVzx9r9itl8juESr00WrjPPn5PGA8dfQVzhFmp9QmTMyD9+HgCPnPYL3Wc9Zx8CCb2PWn+hpHZkyVqF9KsyhPRys5UwTitDGJIBlwSt+vGS+y4kmLr8HYnFwU7bO4yi6nyGc9Ou7JcTcLDKULCWSDIF/DRDxlRlV9Wz5L7KU1KXMIUzDbH9oNGH+BUnJpVrkz+5nTy/6RF7IBs0xk9QxDmCwLO57+tolw==;t7iO2ywOoejHZpRIL8mkjg=="
+secured: "ekKswg2gYUfEltwkcCrxpd3H/XRtXYpRvlBVAFwkWxf321To8wa6qIBiesh+s7kS5kyrYuLXuiNy5jsuOPvdeA9rxtK5mdVNo63eVOvw1ILsNUuwqnZyqI2MJEQZvU3gRSSrM+g7E6gB0Upd0wS4ptQrHMHMAFbIkBknDDBgOJkqBdT8B2tDGXljVA0YgVrOlWXmW/s6EgZ0estt8i2tcuOys1F1WbqKjJK019pNYEA+qWHPwDWeT5NnWas20QUfKNwyQBBoSbOvSvjvzhEBJ4EojQi+WtltH8Z6ScxOO56OC+dQlnJCHZD8NOQr1zeZa+d4XFhorDwpOn5YiNq3dbqnYV79tkn4hvruITAMQr8=;F8Wwbdr7h44nSbPQgpNpjQ=="
 ---
 

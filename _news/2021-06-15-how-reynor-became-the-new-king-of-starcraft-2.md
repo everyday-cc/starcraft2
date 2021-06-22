@@ -2,11 +2,11 @@
 category: news
 title: "How Reynor became the new king of Starcraft 2"
 excerpt: "We sat down with professional StarCraft 2 superstar Riccardo ‘Reynor’ Romiti to discuss how he became one of the world's elite players."
-publishedDateTime: 2021-06-15T07:00:00Z
-originalUrl: "https://www.redbull.com/my-en/reynor-starcraft-2-interview"
-webUrl: "https://www.redbull.com/my-en/reynor-starcraft-2-interview"
-ampWebUrl: "https://amp.redbull.com/my-en/reynor-starcraft-2-interview"
-cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/my-en/reynor-starcraft-2-interview"
+publishedDateTime: 2021-06-15T09:16:00Z
+originalUrl: "https://www.redbull.com/se-en/reynor-starcraft-2-interview"
+webUrl: "https://www.redbull.com/se-en/reynor-starcraft-2-interview"
+ampWebUrl: "https://amp.redbull.com/se-en/reynor-starcraft-2-interview"
+cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/se-en/reynor-starcraft-2-interview"
 type: article
 quality: 74
 heat: 94
@@ -42,6 +42,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "Zf73MQO95qep6mHj0K2etS+B/YldPyX875NTE6GcobhZ0nSGEwqi1Fx9qbMZV5Nli5Cte9WiHgo0t7lso6fZhHCvsvQ+03zqFUxaYtWpQtM3z1dAjdMkFTp3UFQIJNIA1/fOcMYAnTKHZNfyMIzNNp9hcfNAbzfNh+Kka4GQ40mPMHRkXasVQRvcvoaiNntPYWW0XJxzhQXxdtcnEVF+vSIZqbh6ct8deQ+rzxZ+51xlqwJM+c/YlvB0R6rJSAb1UQqTrr+Te1ddfLeYkZzj3a9fCcndqlfg1GYdDEVWy3mM/nvNKr2xEqHBzkjJaUHjwVPLleFuvY34RtEX7nE4lfZ7Ln01DITU51pai2GvuRHkXFdOtCvMsQ4K4aOxsHUFOVlBn02nIaHAatc881QRRaHqq0dOdOMxIcaKJt3UskUEqK6Nya0D7fjbyyJMvCljjQTJ10LypovrYpM7YnZ1B2qoJgxVVSEwfQ/qTbOcq2XdX33GPgAdP7fhII4wEOtt0tBAQWj5MxDKiJVPnQVyRQ==;5pHa553//rc+Nn8i/WJ09g=="
+secured: "Y6LILVY9BpY0iRhz5yy5D6sKcNo9k9Dh3/axy954HwBtArVs950GlLxYX2Os+M66NF6dOoxBMo6q0d8NrSPD43BrX2N9QL41+AetClfXxGjhzPgn8QRn0SZL1ybI7yL4VJzD4J8pwGk8vele2e8U6frNMKjrL6efESq3bN1RJXS7FQ8c/jsfuz1GHQDaF0T7JyE/I+iiDMyQDMUVt/9EFOgPRHQnRDxHSwkpf8xWLlc93hS2OfwA7XXaFLXj/+6zqqHP+TCtiUIAuz3miorWUdvcMhJ96GNvJieSz9wxOGIRWhaKaH3zHxRvkpt3pVE0Bun0sA3KsUcVkeEbwQoVb+xUwuZbMxiIOBbX4ExPhRA=;vp7k2j3OfJJZIWV79bel2A=="
 ---
 

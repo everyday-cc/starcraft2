@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-so-many-tactical
 type: video
 length: PT35M22S
 publishedDateTime: 2020-11-11T11:23:12Z
-heat: 58
+heat: 60
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x900enTWliI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "vYLBlqyIewf1kj07EgnX0WAee6FqmSC1YFqJE/x/ETYSEl8yocyddmbEJ6J/M1oL5K4YImeOjDctXBTHPxFtdlg68+wRDeSOoj9Gzv0shX4z1/vgyYmSiA6My6ZgWblqKLK+/bwv01jShWdSTiYRYQyfyLFEw9/TvYkCekQhA9+pdmelb4R0wTSqqXFst2GhjUtKP2DBqFimtswd8NYkVdr1E6/EVIKhPiIfzxzzcRl25az9lqwOnTblu5x48wx6Hk+7O0fbMCkGx7HN+YRp/8mNxWZPg/8G1+sJv2zBjTSEhAzYDGy0mmugpQQe9CCBk8C9Sazb8XmnRbfkJHbTcOlXPqrDg83Jskdi8B9J8i0ncNwYS/QS4syTJNAQ9PeoPqrUqQMgzXCPVnBik2VVt2ZFnGhMLuD1NdivGkM/ycaCRRxTvlQPSqFP/l4ngfOs;BQH+nltplC4ZdMBQXM/i/Q=="
+secured: "mUjZRe146mJQR1DTZOT1Uv617gIm1f2+i+kv3LrJdwS8dKVl/Uz/mWStiokFUS2B5HSKbcLjPP1eUj2nHV7JRECxfYG8ITDoeZdt6/To5iZAbymXU3y6GBr5rsT/d+lhAm5vOToMrC+6t67Dnyw4WO1aeA0JMW9mwRvO0pKK7mfQTTosD+ZmyuDH312VpEKUUqMfSqhXfYXR4oAgjpe4Y98C7zmDDU0eGRCqGIlPCUZWgyUzC/huAg6QLI/q2mnl18GICmdhoxIazNwXsRXW91x2Hs+PJdisNCqrAZZSHziu+WLtHCIuis5lRVVS3PQak/3JVx45k+0e5NWBbDAmlDmjzjcCY8E+YtXM3MD5DMAV0h+TqOcMHX60rvCxrOSOQ1lgWZ2lTBgpbhSurVxntzfl5tM08HhpAYYfAMqtte3Z4n41jQx3hg9IbT2JN8li;nw4zfOSYmwskPQcnhm+Kjg=="
 ---
 

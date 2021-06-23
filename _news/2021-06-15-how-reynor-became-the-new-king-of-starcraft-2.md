@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.redbull.com/int-en/reynor-starcraft-2-interview"
 cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/int-en/reynor-starcraft-2-interview"
 type: article
 quality: 74
-heat: 94
+heat: 95
 published: true
 
 provider:
@@ -42,6 +42,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "C0voZ7yQukc8JoIyjA8aR8sFRQfh5a8fdDt0UQkdpskBB2s8CkE0U6qxU+H8mweqS1fxVuyWOLjJJox7J/Omer1EbTDtH517wMNoPi44Q/Se7Z6t3XvLzZhGZEKpjJIFoUUv6jH+LTENjsNQABY8FLFn0IFqlNjQEwQLdFsDSLDlX9yiHtRYTYJ5CrC5YMY/YZW8R4qjQnilpcHISRuGGPXIUvBq9FEKNkF0tMDioX5gRscAVyF09bbZ7umhNZVsKMwTXUJD4PZFwdn8oikd7g4eV3BPIJca/6ByyZGKSb0WDICBP/RKxuhEbm0odPxcDgkQHnrKO+wK5DUFWLZ6YlQfIQz8BrNithLv5vBmKig=;ysjDRbAuOn7vetXvToF+8Q=="
+secured: "FS6kQw4BEfN7cBYxGEqiMc1TsskAQEg81xGqzN4op8fGsoyYuL9mzSfqKNIEAiXx++BB+QgLzqq/RO5xyZ+05ShGTHa3ts0dO4cp6WpgvxNNSZBNCRyb0K2m1bGI6MgOFs7V6Z8ICedMjGcraKEyQER2d2ibMPj0J5D9E3Hx0LfwuctgafZVYxPuabSU52Fe+E2HmbvMFB9SU9GYLK756xn9Ft59F1lVvo2s7aYa+aMvTugG+bmZYfXL2l+wxvuJxhE/nbFK0FM2DGY9ILmY030BcY1gI4jIE4574AN7xvY93WDZUO1d5NY1dpFKdj7rWjkrrlBdbu1jhxOClrQuwjQczAFC+6R5Sq+e1G4Oif1A8sygMeL0ViMcY9qHjeUgnBLQ87lbMOABKX1RI3msCG94w4kF378+PLICOi9iY09ARZAgAtatzFff7GmnZ8N80kUaQ8y6Cpsuip+G5FG6miSMGnYlJtfTlaMaHDG+05k02/tGcweocdJemMk0sKeV18A+0YoKqcrhB0D0ooBeUg==;SnIMOIcz88noqXBBX0jOSQ=="
 ---
 

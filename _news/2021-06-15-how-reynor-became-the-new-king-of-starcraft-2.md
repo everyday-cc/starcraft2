@@ -3,10 +3,10 @@ category: news
 title: "How Reynor became the new king of Starcraft 2"
 excerpt: "We sat down with professional StarCraft 2 superstar Riccardo ‘Reynor’ Romiti to discuss how he became one of the world's elite players."
 publishedDateTime: 2021-06-15T07:00:00Z
-originalUrl: "https://www.redbull.com/my-en/reynor-starcraft-2-interview"
-webUrl: "https://www.redbull.com/my-en/reynor-starcraft-2-interview"
-ampWebUrl: "https://amp.redbull.com/my-en/reynor-starcraft-2-interview"
-cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/my-en/reynor-starcraft-2-interview"
+originalUrl: "https://www.redbull.com/int-en/reynor-starcraft-2-interview"
+webUrl: "https://www.redbull.com/int-en/reynor-starcraft-2-interview"
+ampWebUrl: "https://amp.redbull.com/int-en/reynor-starcraft-2-interview"
+cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/int-en/reynor-starcraft-2-interview"
 type: article
 quality: 74
 heat: 94
@@ -42,6 +42,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "fNHYxSUztNDfuIj+8DjlkOvPP/Of445kVhLdH4U7YVai2w0Ren8+V8Oj5aVq+iOefvIuZBcgM0XiwtsMeW3Wt5Es3cfmoC008aPU7vIfWLL2asfYk61bb3MVk8ddQT7HlWJnvCq3ZYQXlX8FxyXTY3gVqirPCxX/QfGFtR4qaEnpcqfaLkGTaCEugnFY2W70kjquAMPYOAfNxxx8gGpGl1GgDrmITyqQ9EkLn1W/lTeFgGVoFBu/vli0ncpK2Qi1YKbqQMytQkfReir8DpxZoqKQgprcn3tVr1XsaxOd+hRuHgcf8pWb9R0X4Ov31Ajy0hmfsgYRgqCgo4S+aEdJIZCCeR8aR/7JWEAxp2sfyJ0=;dlKk0u2za5Z7tbT3+2dMDQ=="
+secured: "C0voZ7yQukc8JoIyjA8aR8sFRQfh5a8fdDt0UQkdpskBB2s8CkE0U6qxU+H8mweqS1fxVuyWOLjJJox7J/Omer1EbTDtH517wMNoPi44Q/Se7Z6t3XvLzZhGZEKpjJIFoUUv6jH+LTENjsNQABY8FLFn0IFqlNjQEwQLdFsDSLDlX9yiHtRYTYJ5CrC5YMY/YZW8R4qjQnilpcHISRuGGPXIUvBq9FEKNkF0tMDioX5gRscAVyF09bbZ7umhNZVsKMwTXUJD4PZFwdn8oikd7g4eV3BPIJca/6ByyZGKSb0WDICBP/RKxuhEbm0odPxcDgkQHnrKO+wK5DUFWLZ6YlQfIQz8BrNithLv5vBmKig=;ysjDRbAuOn7vetXvToF+8Q=="
 ---
 

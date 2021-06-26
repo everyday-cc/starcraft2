@@ -4,43 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-the-very-best-of-the-worst-bronze-league-heroes.md",
-      "title": "StarCraft 2: The Very BEST Of The WORST! (Bronze League Heroes)",
-      "excerpt": "A crazy game of Terran versus Protoss between Bronze League players in StarCraft 2. In this match we see some crazy strategies coming into play.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-very-best-of-the-worst-bronze-league-heroes/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-very-best-of-the-worst-bronze-league-heroes/",
-      "originalUrl": "https://youtube.com/watch?v=jdhzJmvrC2Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jdhzJmvrC2Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 84,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jdhzJmvrC2Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-12-03T02:22:00-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-bly-masses-tons-of-queens-best-of-3.md",
       "title": "StarCraft 2: Bly Masses Tons Of QUEENS! (Best-of-3)",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between Bly and goblin. In this series they are clearly playing their favourite strategies, mass Void Ray for goblin and mass Queen for Bly.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
@@ -232,6 +195,44 @@
       "publishedDateTime": "2021-05-11T02:59:32-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-serral-vs-clem-best-of-3.md",
+      "title": "StarCraft 2: SERRAL vs CLEM! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level Zerg versus Terran in StarCraft 2 between Clem and Serral.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-clem-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-clem-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=LAHWtJfZXQQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LAHWtJfZXQQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M1S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 80,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LAHWtJfZXQQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-05-27T03:31:39-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-command-center-disappeared-viewer-games.md",
       "title": "StarCraft 2: The Command Center DISAPPEARED?! (Viewer Games)",
       "excerpt": "Two viewer games of StarCraft 2. The first one is a very cringy Terran versus Protoss between two players in Silver/Bronze League. The second is a Terran versus Protoss in Platinum League that starts off with both players cheesing each other.  Support my work on Patreon: http://www.patreon.com/lowkotv",
@@ -384,6 +385,44 @@
       "publishedDateTime": "2020-04-27T05:29:13-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-epic-match-reinventing-terran-mech.md",
+      "title": "StarCraft 2: Epic Match!  REINVENTING TERRAN MECH?!",
+      "excerpt": "A really good best-of-5 series between Dark and Gumiho. Subscribe for more videos: http://lowko.tv/youtube Drone rush vs Drone rush: https://goo.gl/GsDVVk  Easily one of the best best-of-5 series of Zerg vs Terran I've seen in recent times. It looks like Gumhio is reinventing Terran Mech. Super cool",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-match-reinventing-terran-mech/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-match-reinventing-terran-mech/",
+      "originalUrl": "https://youtube.com/watch?v=mf5jx5TOnR4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mf5jx5TOnR4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H12M51S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 77,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mf5jx5TOnR4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-10-24T02:02:31-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-sneaky-disruptors-byun-vs-zoun.md",
       "title": "StarCraft 2: SNEAKY Disruptors! (ByuN vs Zoun)",
       "excerpt": "Professional match of StarCraft 2 between ByuN and Zoun.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
@@ -408,7 +447,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 77,
+      "heat": 76,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/HbrOyQKQRdk/maxresdefault.jpg",
@@ -497,44 +536,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-05-22T04:37:03-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-epic-match-reinventing-terran-mech.md",
-      "title": "StarCraft 2: Epic Match!  REINVENTING TERRAN MECH?!",
-      "excerpt": "A really good best-of-5 series between Dark and Gumiho. Subscribe for more videos: http://lowko.tv/youtube Drone rush vs Drone rush: https://goo.gl/GsDVVk  Easily one of the best best-of-5 series of Zerg vs Terran I've seen in recent times. It looks like Gumhio is reinventing Terran Mech. Super cool",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-match-reinventing-terran-mech/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-match-reinventing-terran-mech/",
-      "originalUrl": "https://youtube.com/watch?v=mf5jx5TOnR4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mf5jx5TOnR4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H12M51S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 74,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mf5jx5TOnR4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-10-24T02:02:31-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-clem-best-of-5.md",
@@ -1184,6 +1185,44 @@
       "publishedDateTime": "2021-04-14T03:58:39-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-trap-zergs-zest-with-his-protoss.md",
+      "title": "StarCraft 2: Trap ZERGS Zest with his Protoss!",
+      "excerpt": "Professional match of Protoss versus Protoss in StarCraft 2 between Zest and Trap, two top level Protoss players.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-trap-zergs-zest-with-his-protoss/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-trap-zergs-zest-with-his-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=OzY21gKHC8o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OzY21gKHC8o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OzY21gKHC8o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-08T11:07:15-07:00"
+    },
+    {
       "path": "_games/beastyqtsc2-starcraft-2-new-series-mass-widow-mines-ravens-to-grandmaster.md",
       "title": "StarCraft 2: *NEW* Series! MASS Widow Mines & Ravens to Grandmaster!",
       "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
@@ -1253,43 +1292,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-11-23T04:53:20-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-maxpaxs-incredible-stargate-proxies.md",
-      "title": "StarCraft 2: MaxPax's Incredible Stargate PROXIES!",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between MaxPax and soul. MaxPax has been playing some awesome SC2 with a variety of build orders and strategies.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpaxs-incredible-stargate-proxies/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpaxs-incredible-stargate-proxies/",
-      "originalUrl": "https://youtube.com/watch?v=TT64gcEXKZA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TT64gcEXKZA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M28S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TT64gcEXKZA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-02-02T04:37:11-08:00"
     }
   ],
   "nextPage": 3

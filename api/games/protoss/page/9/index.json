@@ -4,45 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-hyper-aggressive-terran-cure-vs-zest.md",
-      "title": "StarCraft 2: HYPER AGGRESSIVE TERRAN! (Cure vs Zest)",
-      "excerpt": "A very aggressive game of Terran versus Protoss in StarCraft 2. In this professional match Cure, the Terran player, decides to start off with a double proxy Barracks. While the response from Zest was solid, a lot of damage still gets dealt. However, when going for Terran cheese the Command Center does",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-hyper-aggressive-terran-cure-vs-zest/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-hyper-aggressive-terran-cure-vs-zest/",
-      "originalUrl": "https://youtube.com/watch?v=uWGEYmZ0WnA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uWGEYmZ0WnA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M44S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uWGEYmZ0WnA/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-12-18T04:48:16-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-incredible-protoss-micro.md",
       "title": "StarCraft 2: INCREDIBLE Protoss Micro!",
       "excerpt": "Zest versus Elazer in a professional match of StarCraft 2. A ridiculous display of skill by Zest, showcasing some of the best micro and unit control I have ever seen. Even though Zest deals a lot of damage, Elazer reads the situation very well and macros significantly better than the Protoss. Because",
@@ -311,44 +272,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-16T04:04:55-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-mass-muta-vs-protoss.md",
-      "title": "StarCraft 2: MASS MUTA VS PROTOSS?!",
-      "excerpt": "A best-of-3 series series between PtitDrogo and Solar. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Zerg match: https://goo.gl/E9r57B  In this series of games, we see a variety of strategies. From Zerg we see Mass Mutalisks, Swarm Hosts, aggressive Roach pushes. Protoss decides to",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-mass-muta-vs-protoss/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-mass-muta-vs-protoss/",
-      "originalUrl": "https://youtube.com/watch?v=xm66G8kpoAY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xm66G8kpoAY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xm66G8kpoAY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-12-08T04:29:44-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-maxed-out-soo-vs-zest.md",
@@ -736,6 +659,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-04-15T02:06:39-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-protoss-cringe.md",
+      "title": "StarCraft 2: PROTOSS CRINGE!",
+      "excerpt": "Cheddar, Gouda, Protoss, and Brie. My favourite types of cheese! Subscribe for more videos: http://lowko.tv/youtube The Zerg... Mothership?! https://goo.gl/bZtVFG  Easily one of the most cringy games of Protoss vs Protoss games I've ever uploaded... And it's awesome! Probe rushes, Cannon rushes, Dark",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-protoss-cringe/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-protoss-cringe/",
+      "originalUrl": "https://youtube.com/watch?v=R0F0VSIO7dc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R0F0VSIO7dc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M28S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/R0F0VSIO7dc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-02-28T03:35:39-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-protoss-vs-protoss-trap-vs-dear.md",
@@ -1159,6 +1120,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-09-18T03:23:39-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-final-units-clem-vs-showtime.md",
+      "title": "StarCraft 2: THE FINAL UNITS! (Clem vs ShoWTimE)",
+      "excerpt": "Excellent game of StarCraft 2 between Clem and ShoWTimE. In this Terran versus Protoss at the professional level we see an extremely close match betweenn some of the highest ranked players in Europe.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-final-units-clem-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-final-units-clem-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=H_AIA8G6T_w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/H_AIA8G6T_w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M56S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/H_AIA8G6T_w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-07-28T01:58:23-07:00"
     }
   ],
   "nextPage": 10

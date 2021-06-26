@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.redbull.com/int-en/reynor-starcraft-2-interview"
 cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/int-en/reynor-starcraft-2-interview"
 type: article
 quality: 74
-heat: 99
+heat: 100
 published: true
 
 provider:

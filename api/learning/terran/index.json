@@ -4,6 +4,68 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-when-to-attack-protoss-starcraft-2-terran-vs-protoss.md",
+      "title": "WHEN TO ATTACK PROTOSS | Starcraft 2 Terran vs Protoss",
+      "excerpt": "Playing vs protoss can sometimes feels like bull!@#$...but beating protoss is easier than you might think! In this series \"How to Defeat Protoss\" we're going to be looking at key components to let you annihilate the competition. Let's get into it!  WHEN TO ATTACK PROTOSS | Starcraft 2 Terran vs Protoss",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-when-to-attack-protoss-starcraft-2-terran-vs-protoss/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-when-to-attack-protoss-starcraft-2-terran-vs-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=O_eotUxWXTU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O_eotUxWXTU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M29S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-04-13T09:41:50-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/O_eotUxWXTU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-terran-pro-analysis-defending-the-dirtiest-cheeser-of-them-all.md",
+      "title": "Terran Pro Analysis | Defending The Dirtiest Cheeser of them all",
+      "excerpt": "Starcraft 2 Terran Pro Replay Analysis #Starcraft2​ #terran​ #analysis  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-pro-analysis-defending-the-dirtiest-cheeser-of-them-all/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-terran-pro-analysis-defending-the-dirtiest-cheeser-of-them-all/",
+      "originalUrl": "https://youtube.com/watch?v=0nZJxqv4pIU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0nZJxqv4pIU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M37S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-04-03T19:06:13-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0nZJxqv4pIU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-why-scientists-wont-settle-for-any-other-build.md",
       "title": "WHY scientists WON'T settle for any other BUILD",
       "excerpt": "In today's lesson we're looking at a terran vs terran gameplan. Was supposed to be the opening but I got a little carried away so you're getting 19 minutes of raw TvT information. Get out your notepads ;)  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
@@ -698,37 +760,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-when-to-attack-protoss-starcraft-2-terran-vs-protoss.md",
-      "title": "WHEN TO ATTACK PROTOSS | Starcraft 2 Terran vs Protoss",
-      "excerpt": "Playing vs protoss can sometimes feels like bull!@#$...but beating protoss is easier than you might think! In this series \"How to Defeat Protoss\" we're going to be looking at key components to let you annihilate the competition. Let's get into it!  WHEN TO ATTACK PROTOSS | Starcraft 2 Terran vs Protoss",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-when-to-attack-protoss-starcraft-2-terran-vs-protoss/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-when-to-attack-protoss-starcraft-2-terran-vs-protoss/",
-      "originalUrl": "https://youtube.com/watch?v=O_eotUxWXTU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O_eotUxWXTU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M29S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-04-13T09:41:50-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/O_eotUxWXTU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/lowkotv-starcraft-2-easy-terran-build-order-guide.md",
       "title": "StarCraft 2: EASY Terran Build Order! (Guide)",
       "excerpt": "StarCraft 2 build order for Terran players. In this video I go over an easy to execute two base build order for Terran versus Protoss that new players and experienced players should be able to pick up quickly. This is a relatively easy build order that focuses on a timing attack, as well as macro.  10",
@@ -966,37 +997,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Bo61A-koxDE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-take-control-of-the-mid-game-tvz-3-rax-transition-guide-terran.md",
-      "title": "Mastering Starcraft 2: Take control of the Mid-Game TvZ [3 Rax Transition Guide] [Terran]",
-      "excerpt": "In this Terran guide, I'm going to show you an incredibly powerful timing attack to show Zergs who's the real nerd in town. Let's get to it!   #terran #Starcraft #Guide #sc2 #starcraft2  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-take-control-of-the-mid-game-tvz-3-rax-transition-guide-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-take-control-of-the-mid-game-tvz-3-rax-transition-guide-terran/",
-      "originalUrl": "https://youtube.com/watch?v=QkyNGd-2E0o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QkyNGd-2E0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M29S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-12T19:38:57-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QkyNGd-2E0o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

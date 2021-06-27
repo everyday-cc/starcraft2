@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Reflections: Listowel and Starcraft"
-excerpt: "Pictured here in this photograph from the Listowel Banner negative files at the Stratford-Perth Archives are: from left, Robert Fiddler, general manager, and George Burgers, production manager, with the first model of a tent trailer manufactured in Listowel."
-publishedDateTime: 2021-06-25T00:00:00Z
-originalUrl: "https://www.sarniathisweek.com/opinion/reflections-listowel-and-starcraft"
-webUrl: "https://www.sarniathisweek.com/opinion/reflections-listowel-and-starcraft"
-ampWebUrl: "https://www.sarniathisweek.com/opinion/reflections-listowel-and-starcraft/wcm/e45ba035-0578-42a4-8fcc-f6dd29f1298f/amp/"
-cdnAmpWebUrl: "https://www-sarniathisweek-com.cdn.ampproject.org/c/s/www.sarniathisweek.com/opinion/reflections-listowel-and-starcraft/wcm/e45ba035-0578-42a4-8fcc-f6dd29f1298f/amp/"
+excerpt: "Production started on Monday, Feb. 6, 1972 at Starcraft Recreational Products Limited’s new Canadian plant, part of the larger corporation based in Indiana. They would be producing a line of ..."
+publishedDateTime: 2021-06-25T15:52:00Z
+originalUrl: "https://www.theobserver.ca/opinion/reflections-listowel-and-starcraft"
+webUrl: "https://www.theobserver.ca/opinion/reflections-listowel-and-starcraft"
+ampWebUrl: "https://www.theobserver.ca/opinion/reflections-listowel-and-starcraft/wcm/e45ba035-0578-42a4-8fcc-f6dd29f1298f/amp/"
+cdnAmpWebUrl: "https://www-theobserver-ca.cdn.ampproject.org/c/s/www.theobserver.ca/opinion/reflections-listowel-and-starcraft/wcm/e45ba035-0578-42a4-8fcc-f6dd29f1298f/amp/"
 type: article
 quality: 57
 heat: 57
 published: false
 
 provider:
-  name: sarniathisweek.com
-  domain: sarniathisweek.com
+  name: Sarnia Observer
+  domain: theobserver.ca
 
 topics:
   - StarCraft 2
@@ -25,6 +25,6 @@ images:
     height: 750
     isCached: true
 
-secured: "m00Csg4q+IoiPCQ6f06K3UvMkeS9/8kjg2gxRSarYQ20J6B0LF5GR1KcbCQ0USnVGYUJZdq3LjPASvxoau/LK2w0WKIgKes2dpqd2q5lbBMCuu6dFJ2XwVUI/s9gR+1udD8eX+VxRhWuaJF8A0qGxBiVZYitc6P2xFJncUKzZXF6od+j0y1Y5FSt7Yt0KSntlio3y515/resuWhVLXcGw6jVSu6g3SBC3OZnc4dLsSK3wRo0JgP4zpBhStfwF482SS4dffnn66PX/IBh8baprFvA2usDWYsGhbK31hzT8ne4SHBuICTdut+fk8Rh2jcSp+mIgEqK3/7qcSxG4XVM1CYAqWU0qQ5jv63gdW5K/Ek=;IZ/eqFkccuXjEVdyz6lsNg=="
+secured: "5paodlhYmqrDgghBQzfJ8DjtXtFAEcYbXssaCGape7Q0WYoI40lnRExMUInln67CO0qrW4HCVjudeOJbRwSeZT+99tFUbCs+NnjXhG+j/9OBR6PQqR6JVZ57hMqG1cVct8xYxRDNrCXxSZio4bXq/qwEfdY2e250BDga1+BmOeal6L+KmLouINdrtz7NWnAkiRDu+SbhmmRjEEAsZ41Gui2HqkZWeg9jo6Zz5Dxn8CMgsHf9tzLNgW6Nbp6WcZjZLI8TuOGavzb2UeEOJlXM7KjacbQAZfaV40wSLhFP3g89v700eMP4JCANxHpMpNQGRb9FJgvBS/tIsyyl8wN+9QjAQYGf4oU7feUnux0wvYs=;LHF90u+khwe2Mt2mzcgzvw=="
 ---
 

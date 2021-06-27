@@ -4,6 +4,68 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-zerg-guide-queen-management.md",
+      "title": "Starcraft 2 Zerg Guide | Queen Management",
+      "excerpt": "Often I see people's queens running around like aimless chickens. If you want to have amazing macro you need to keep your queens orderly. Let's take a look at how to do that!  Starcraft 2 Zerg Guide | Queen Management #Zerg #Queens #Starcraft2  ♦ Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-zerg-guide-queen-management/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-zerg-guide-queen-management/",
+      "originalUrl": "https://youtube.com/watch?v=-ZuuO8YrfH0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-ZuuO8YrfH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M29S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-05-29T15:26:15-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-ZuuO8YrfH0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-terran-vs-terran-learn-this-one-weird-trick-to-macro-like-a-gm.md",
+      "title": "Terran vs Terran | Learn this one weird trick to macro like a GM",
+      "excerpt": "Terran vs Terran | Learn this one weird trick to macro like a GM In this guide we talk about how you can continue to improve your macro into diamond and masters, where everyone is already making scv's consistently. What more could there be right? Let's take a look!  #starcraft #sc2 #terran #tvt  Starcraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-vs-terran-learn-this-one-weird-trick-to-macro-like-a-gm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-terran-vs-terran-learn-this-one-weird-trick-to-macro-like-a-gm/",
+      "originalUrl": "https://youtube.com/watch?v=hp5Ap6rdxfE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hp5Ap6rdxfE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M22S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-06-14T10:06:06-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hp5Ap6rdxfE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-terran-vs-zerg-strategy-zerg-players-are-going-to-hate-you.md",
       "title": "Terran vs Zerg Strategy | Zerg players are going to HATE you!",
       "excerpt": "In today's Starcraft 2 guide we're looking at an incredibly fun and aggressive way to play the Terran vs Zerg (TvZ) matchup. In today we set up a gameplan, tomorrow and the day after we'll take a look at the micro, control group set up and some examples!  Terran vs Zerg | HYPER AGRESSIVE - Zerg players",
@@ -66,45 +128,6 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-co-op-terran-mech-swann-guide.md",
-      "title": "StarCraft 2 Co-op: TERRAN MECH! (Swann Guide)",
-      "excerpt": "How-to play Swann effectively in the co-op version of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More co-op: https://goo.gl/4EmHtK  Swann is an incredibly strong commander in the game but he can be quite tricky to play as well. His early game is very weak in comparison, where as",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-co-op-terran-mech-swann-guide/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-co-op-terran-mech-swann-guide/",
-      "originalUrl": "https://youtube.com/watch?v=L0yEjZpKFAM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L0yEjZpKFAM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M36S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-01-23T13:12:41-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/L0yEjZpKFAM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/lowkotv-starcraft-2-easy-terran-build-order-guide.md",
       "title": "StarCraft 2: EASY Terran Build Order! (Guide)",
       "excerpt": "StarCraft 2 build order for Terran players. In this video I go over an easy to execute two base build order for Terran versus Protoss that new players and experienced players should be able to pick up quickly. This is a relatively easy build order that focuses on a timing attack, as well as macro.  10",
@@ -141,6 +164,46 @@
       "topics": [
         "StarCraft 2",
         "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in.md",
+      "title": "StarCraft 2: EASY Zerg vs Terran All-In!",
+      "excerpt": "Easy Zerg build order for the Zerg vs Terran matchup in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Serral's Zerg vs Terran Roach push: https://goo.gl/8A8pSd  This is a much easier build order to execute in Zerg vs Terran. While it is easier and hits much earlier, it is also much",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in/",
+      "originalUrl": "https://youtube.com/watch?v=Te-EQdku9PI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Te-EQdku9PI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-11-30T04:59:22-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Te-EQdku9PI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
       ]
     },
     {
@@ -181,44 +244,6 @@
         "StarCraft 2",
         "Protoss",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-how-to-nydus-rush.md",
-      "title": "StarCraft 2: HOW-TO NYDUS RUSH!",
-      "excerpt": "How does a top-level player execute a Nydus Rush? Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Guides & Tutorials: https://goo.gl/BEPvJo  In this video I analyse a recent game between Serral and SpeCial. In this match on Backwater LE Serral decides to rush a Nydus Worm with minimal",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-how-to-nydus-rush/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-how-to-nydus-rush/",
-      "originalUrl": "https://youtube.com/watch?v=R2zN8eEaztM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R2zN8eEaztM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M2S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-02-02T04:44:42-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/R2zN8eEaztM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
       ]
     },
     {
@@ -726,46 +751,6 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in.md",
-      "title": "StarCraft 2: EASY Zerg vs Terran All-In!",
-      "excerpt": "Easy Zerg build order for the Zerg vs Terran matchup in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Serral's Zerg vs Terran Roach push: https://goo.gl/8A8pSd  This is a much easier build order to execute in Zerg vs Terran. While it is easier and hits much earlier, it is also much",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in/",
-      "originalUrl": "https://youtube.com/watch?v=Te-EQdku9PI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Te-EQdku9PI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-11-30T04:59:22-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Te-EQdku9PI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-4-terran-macro-tips-terran-tutorial.md",
       "title": "StarCraft 2: Legacy of the Void - 4 Terran Macro Tips! (Terran Tutorial)",
       "excerpt": "4 tips for Terran players in StarCraft 2: Legacy of the Void. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 tutorials: https://goo.gl/a5vYOq  These guidelines should help out most Terran players that are looking to improve in StarCraft 2: 1. Focus on Marine, Marauder and Medivac",
@@ -844,6 +829,44 @@
       ]
     },
     {
+      "path": "_learning/videos/lowkotv-starcraft-2-mass-carrier-fenix-guide.md",
+      "title": "StarCraft 2: MASS CARRIER! (Fenix Guide)",
+      "excerpt": "A cheesy, but very effective build for Fenix in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube My \"standard\" Fenix build: https://goo.gl/G6ArYc  While in most games I will get a wide variety of units, while leveling up Fenix I quickly found out a few very powerful strategies. This is",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-mass-carrier-fenix-guide/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-mass-carrier-fenix-guide/",
+      "originalUrl": "https://youtube.com/watch?v=76PmBDv7-ww",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/76PmBDv7-ww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-05-06T02:01:43-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/76PmBDv7-ww/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-massive-balance-changes.md",
       "title": "StarCraft 2: MASSIVE Balance Changes!",
       "excerpt": "Massive balance changes were announced for StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Patch notes: https://goo.gl/64DKjp  In order to keep the game fresh, massive balance changes have been announced for StarCraft 2. In this video I read out all of the patch notes where the latest",
@@ -869,6 +892,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Zlq7u_qVXRc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-new-major-patch-campaign-multiplayer-co-op-and-editor-changes.md",
+      "title": "StarCraft 2: NEW MAJOR PATCH - Campaign, Multiplayer, Co-op and Editor Changes!",
+      "excerpt": "The StarCraft 2 5.0 patch has been announced. In this video I go over the changes and improvements they are planning to make to the campaign, multiplayer, co-op and editor in SC2.   Blog posts: https://news.blizzard.com/en-us/starcraft2/23482888/starcraft-ii-5-0-ptr-patch-notes https://news.blizzard.com/en-us/starcraft2/23471116/starcraft-ii-4-13-0-ptr-patch-notes",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-new-major-patch-campaign-multiplayer-co-op-and-editor-changes/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-new-major-patch-campaign-multiplayer-co-op-and-editor-changes/",
+      "originalUrl": "https://youtube.com/watch?v=7JA5ObNF7_Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7JA5ObNF7_Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-07-23T02:57:30-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7JA5ObNF7_Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -921,14 +982,14 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-zerg-cheese-build-order.md",
-      "title": "StarCraft 2: ZERG CHEESE Build Order!",
-      "excerpt": "A very easy build order with a solid win rate in Zerg vs Zerg. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 guides: https://goo.gl/Njw8ay  The strength of the 15 Hatchery, 14 Extractor and 14 Spawning Pool is the fact that it makes your build order look very \"normal\". Your opponent",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-zerg-cheese-build-order/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-zerg-cheese-build-order/",
-      "originalUrl": "https://youtube.com/watch?v=EFGJKS69qz0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EFGJKS69qz0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M43S",
+      "path": "_learning/videos/lowkotv-starcraft-2-serrals-zerg-vs-terran-build-orders.md",
+      "title": "StarCraft 2: Serral's Zerg vs Terran Build Orders!",
+      "excerpt": "Zerg versus Terran build orders. In this video I go over three games that Serral recently played versus HeroMarine and have an in depth look at the build orders that plays to achieve the macro game.  Get more videos & support my work: http://www.patreon.com/lowkotv Zerg vs Terran build order notes: https://pastebin.com/vZisrAuM",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-serrals-zerg-vs-terran-build-orders/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-serrals-zerg-vs-terran-build-orders/",
+      "originalUrl": "https://youtube.com/watch?v=ZOY5ctizPK0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZOY5ctizPK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H23M46S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -941,11 +1002,11 @@
           }
         ]
       },
-      "publishedDateTime": "2017-05-11T06:23:54-07:00",
+      "publishedDateTime": "2019-09-17T01:59:58-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/EFGJKS69qz0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZOY5ctizPK0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -956,76 +1017,8 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
+        "Terran",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-zerg-tutorial-drones-before-army.md",
-      "title": "StarCraft 2: Zerg Tutorial - Drones before Army!",
-      "excerpt": "StarCraft 2: Legacy of the Void tutorial for Zerg players in 1 vs 1. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 tutorials: https://goo.gl/a5vYOq  Figuring out how many Drones you can get away with is extremely important. If you're trying to improve with Zerg, it is arguably speaking",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-zerg-tutorial-drones-before-army/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-zerg-tutorial-drones-before-army/",
-      "originalUrl": "https://youtube.com/watch?v=bbkrPspJP4g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bbkrPspJP4g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-07-27T01:55:06-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bbkrPspJP4g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/winterstarcraft-learn-starcraft-new-players-guide-to-matchmaking.md",
-      "title": "Learn Starcraft! New Player's Guide to Matchmaking",
-      "excerpt": "The top five things new players can be confused about when starting off playing Starcraft 2!",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-new-players-guide-to-matchmaking/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-starcraft-new-players-guide-to-matchmaking/",
-      "originalUrl": "https://youtube.com/watch?v=bhDsd2coZpI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bhDsd2coZpI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M33S",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-11-19T09:05:00-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bhDsd2coZpI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
       ]
     }
   ],

@@ -4,37 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-2021.md",
-      "title": "Learn Starcraft 2: EASY Beginner Zerg Build Order Guide [2021]",
-      "excerpt": "Starcraft 2 Beginner's Guide (roach build order) . Let's learn a very easy beginner friendly zerg build order for Starcraft 2. This is a very powerful but also very easy build order (relatively at least haha) to execute for new players! Hope you learn a lot and enjoy the video!  Learn Starcraft 2: EASY",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-2021/",
-      "originalUrl": "https://youtube.com/watch?v=IdLoHTiVJ4o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IdLoHTiVJ4o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M9S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-04-22T18:58:19-07:00",
-      "heat": 158,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IdLoHTiVJ4o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-sc2-zerg-guide-where-to-place-your-first-couple-overlords-2021.md",
       "title": "SC2 Zerg Guide | Where to place your first couple overlords [2021]",
       "excerpt": "Let's take a look at some zerg fundamentals! Where to place your overlords at the beginning of the game to defend cheese and also scout your opponent.  SC2 Zerg Guide | Where to place your first couple overlords [2021] #Starcraft2 #Zerg #Guide  0:00 - Overlord placement against Zerg 8:20 - Overlord placement",
@@ -218,6 +187,37 @@
       "topics": [
         "StarCraft 2",
         "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-2021.md",
+      "title": "Learn Starcraft 2: EASY Beginner Zerg Build Order Guide [2021]",
+      "excerpt": "Starcraft 2 Beginner's Guide (roach build order) . Let's learn a very easy beginner friendly zerg build order for Starcraft 2. This is a very powerful but also very easy build order (relatively at least haha) to execute for new players! Hope you learn a lot and enjoy the video!  Learn Starcraft 2: EASY",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-2021/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-2021/",
+      "originalUrl": "https://youtube.com/watch?v=IdLoHTiVJ4o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IdLoHTiVJ4o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M9S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-04-22T18:58:19-07:00",
+      "heat": 78,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IdLoHTiVJ4o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
       ]
     },
     {
@@ -1129,6 +1129,45 @@
       ]
     },
     {
+      "path": "_learning/videos/lowkotv-starcraft-2-terran-build-order.md",
+      "title": "StarCraft 2: Terran BUILD ORDER!",
+      "excerpt": "A very powerful Terran vs Protoss timing attack. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 guides: https://goo.gl/Njw8ay  In this video I discuss a match that of Terran vs Protoss from aLive's point of view. He's a very powerful Terran player, who executes a very clean build",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-terran-build-order/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-terran-build-order/",
+      "originalUrl": "https://youtube.com/watch?v=KK4Trit-MvE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KK4Trit-MvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M34S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-05-19T06:23:58-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KK4Trit-MvE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-co-op-swarming-infested-terran-stukov-guide.md",
       "title": "StarCraft 2 Co-op: SWARMING INFESTED TERRAN! (Stukov Guide)",
       "excerpt": "A guide on how to play Stukov and swarm the map with the infested. Subscribe for more videos: http://lowko.tv/youtube More co-op: https://goo.gl/08VRI9  Stukov is an incredibly powerful commander in the co-op version of StarCraft 2. After leveling him up to level 15 I figured out several great unit compositions",
@@ -1168,14 +1207,14 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-terran-build-order.md",
-      "title": "StarCraft 2: Terran BUILD ORDER!",
-      "excerpt": "A very powerful Terran vs Protoss timing attack. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 guides: https://goo.gl/Njw8ay  In this video I discuss a match that of Terran vs Protoss from aLive's point of view. He's a very powerful Terran player, who executes a very clean build",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-terran-build-order/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-terran-build-order/",
-      "originalUrl": "https://youtube.com/watch?v=KK4Trit-MvE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KK4Trit-MvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M34S",
+      "path": "_learning/videos/lowkotv-starcraft-2-serrals-new-two-base-zerg-build-order.md",
+      "title": "StarCraft 2: Serral's NEW Two Base Zerg Build Order!",
+      "excerpt": "In a few of the professional matches of StarCraft 2 that I have casted recently, Serral goes for a build order that does not usually gets played at the highest level of the game. While most Zerg build orders still focus on quick getting the third Hatchery as soon as possible, Serral has been focusing",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-serrals-new-two-base-zerg-build-order/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-serrals-new-two-base-zerg-build-order/",
+      "originalUrl": "https://youtube.com/watch?v=VVXpbETVltY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VVXpbETVltY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M1S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1188,11 +1227,11 @@
           }
         ]
       },
-      "publishedDateTime": "2017-05-19T06:23:58-07:00",
+      "publishedDateTime": "2020-05-01T01:53:43-07:00",
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/KK4Trit-MvE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/VVXpbETVltY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1203,7 +1242,7 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Zerg"
       ]
     },
     {
@@ -1304,37 +1343,6 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021.md",
-      "title": "Starcraft 2: Terran vs Protoss Gameplay with Commentary [2021]",
-      "excerpt": "In today's video we're looking at some Starcraft 2: Terran vs Protoss gameplay. We'll be covering TvP all week. Let's get to it!  0:00 - Intro/Cinematic 1:12 - SC2 Terran Gameplay  19:00 - Like/Share/Subscribe!  #terran #gameplay #Starcraft2 #ladder #commentary Starcraft 2: Terran vs Protoss Gameplay",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021/",
-      "originalUrl": "https://youtube.com/watch?v=YS3zcgrN5IE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YS3zcgrN5IE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M56S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-01-15T18:18:51-08:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YS3zcgrN5IE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
       ]
     }
   ],

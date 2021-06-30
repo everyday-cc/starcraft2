@@ -4,14 +4,14 @@
   "page": 6,
   "value": [
     {
-      "path": "_games/beastyqtsc2-starcraft-2-the-best-game-of-the-widow-mine-raven-series.md",
-      "title": "StarCraft 2: The Best Game of the Widow Mine & Raven Series!",
-      "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  2019 Best Moments video: https://youtu.be/FEAEwkYcUS0  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-the-best-game-of-the-widow-mine-raven-series/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-the-best-game-of-the-widow-mine-raven-series/",
-      "originalUrl": "https://youtube.com/watch?v=apACVYICxYM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/apACVYICxYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M58S",
+      "path": "_games/beastyqtsc2-starcraft-2-three-in-a-row-he-figured-it-out.md",
+      "title": "StarCraft 2: THREE in a Row! He Figured it Out!",
+      "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-three-in-a-row-he-figured-it-out/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-three-in-a-row-he-figured-it-out/",
+      "originalUrl": "https://youtube.com/watch?v=dQXwdp8GV_Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dQXwdp8GV_Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M29S",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -26,7 +26,7 @@
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/apACVYICxYM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/dQXwdp8GV_Y/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -34,17 +34,17 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-02-03T02:07:36-08:00"
+      "publishedDateTime": "2020-02-07T03:57:36-08:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-the-most-unique-tactic-in-terran-vs-terran.md",
-      "title": "StarCraft 2: The MOST Unique Tactic in Terran vs Terran!",
-      "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  2019 Best Moments video: https://youtu.be/FEAEwkYcUS0  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-the-most-unique-tactic-in-terran-vs-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-the-most-unique-tactic-in-terran-vs-terran/",
-      "originalUrl": "https://youtube.com/watch?v=6OCx0AdmXsQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6OCx0AdmXsQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M10S",
+      "path": "_games/beastyqtsc2-starcraft-2-widow-mine-medivac-doom-drops.md",
+      "title": "StarCraft 2: Widow Mine & Medivac DOOM DROPS!",
+      "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-widow-mine-medivac-doom-drops/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-widow-mine-medivac-doom-drops/",
+      "originalUrl": "https://youtube.com/watch?v=oWq4sG1LDi0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oWq4sG1LDi0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M7S",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -59,7 +59,7 @@
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6OCx0AdmXsQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/oWq4sG1LDi0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -67,7 +67,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-02-02T04:26:18-08:00"
+      "publishedDateTime": "2020-01-24T02:41:14-08:00"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-zerg-walking-into-the-death-mine-squad.md",
@@ -101,39 +101,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-02-10T04:02:19-08:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-the-anti-terran-salt-miner-build.md",
-      "title": "The Anti-Terran Salt Miner Build!",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-the-anti-terran-salt-miner-build/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-the-anti-terran-salt-miner-build/",
-      "originalUrl": "https://youtube.com/watch?v=YB5vFvdnW6Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YB5vFvdnW6Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M6S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YB5vFvdnW6Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-24T05:15:38-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-battlecruiser-death-ball.md",
@@ -1138,6 +1105,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-09-01T06:31:44-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-terran-bio-vs-terran-mech.md",
+      "title": "StarCraft 2: Terran Bio vs Terran Mech!",
+      "excerpt": "Terran vs Terran match of professional StarCraft 2 between Cure and Dream.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-bio-vs-terran-mech/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-terran-bio-vs-terran-mech/",
+      "originalUrl": "https://youtube.com/watch?v=mc-3WHF1zT8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mc-3WHF1zT8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mc-3WHF1zT8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-13T01:56:20-08:00"
     }
   ],
   "nextPage": 7

@@ -4,6 +4,130 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-hushang-vs-top-100-gm-starcraft-2-terran-gameplay.md",
+      "title": "HuShang vs TOP 100 GM | Starcraft 2: Terran Gameplay",
+      "excerpt": "Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and I have 5+ GM students and",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-hushang-vs-top-100-gm-starcraft-2-terran-gameplay/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-hushang-vs-top-100-gm-starcraft-2-terran-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=tccZgx9HqXo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tccZgx9HqXo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M17S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-02-09T16:22:06-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tccZgx9HqXo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-ice-and-chrome-le-walling-guide-pvt.md",
+      "title": "Ice and Chrome LE - Walling Guide PvT",
+      "excerpt": "Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is a website where you can contribute a monthly donation that will help",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-ice-and-chrome-le-walling-guide-pvt/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-ice-and-chrome-le-walling-guide-pvt/",
+      "originalUrl": "https://youtube.com/watch?v=hU7vwRhiP_8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hU7vwRhiP_8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M42S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-05-29T10:17:41-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hU7vwRhiP_8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-ice-and-chrome-le-walling-guide-pvz.md",
+      "title": "Ice and Chrome LE - Walling Guide PvZ",
+      "excerpt": "Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is a website where you can contribute a monthly donation that will help",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-ice-and-chrome-le-walling-guide-pvz/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-ice-and-chrome-le-walling-guide-pvz/",
+      "originalUrl": "https://youtube.com/watch?v=wxutLYw5KlE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wxutLYw5KlE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M5S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-05-28T10:38:21-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wxutLYw5KlE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-are-you-microing-too-much.md",
+      "title": "Mastering Starcraft 2 | Are you microing too much?",
+      "excerpt": "In this video we take a look at a Terran vs Zerg game and discuss some of the main mistakes Terran players are making. It's super easy to fall into this trap!  Starcraft 2: Mastering Starcraft 2 | Are you microing too much? [Terran vs Zerg TvZ] #StarCraft2 #SC2 #RTS   Coaching - https://www.hushangcoaching.com",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-are-you-microing-too-much/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-are-you-microing-too-much/",
+      "originalUrl": "https://youtube.com/watch?v=Bo61A-koxDE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bo61A-koxDE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M8S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-09T15:48:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Bo61A-koxDE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-easy-micro-techniques-mostly-to-wreck-zergs.md",
       "title": "Mastering Starcraft 2: Easy micro techniques (mostly) to WRECK zergs",
       "excerpt": "In this episode of the mini-series Hyper-Aggressive TvZ we take a look at some micro techniques you can use in your own games to significantly improve the performance of your army. Just don't forget to macro xD  Mastering Starcraft 2: Easy micro techniques (mostly) to WRECK zergs #StarCraft2 #Terran",
@@ -807,130 +931,6 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-zerg-grandmaster-gameplay-macro-game-with-lurkers-zerg-vs-protoss.md",
-      "title": "Starcraft 2 Zerg Grandmaster Gameplay | Macro Game with LURKERS! [Zerg vs Protoss]",
-      "excerpt": "Starcraft 2 Grandmaster Zerg Gameplay. Using lurkers vs protoss is one of the strongest ways to currently play a macro game in the zerg vs protoss matchup. Let's take a look at an example game I played against a master 1 protoss so I can show you how to progress safely and then wreck your competition.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-zerg-grandmaster-gameplay-macro-game-with-lurkers-zerg-vs-protoss/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-zerg-grandmaster-gameplay-macro-game-with-lurkers-zerg-vs-protoss/",
-      "originalUrl": "https://youtube.com/watch?v=mi_0Of48t1M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mi_0Of48t1M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M23S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-09-30T13:43:23-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mi_0Of48t1M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-zerg-vs-protoss-strategy-defending-adept-all-ins.md",
-      "title": "Starcraft 2: Zerg vs Protoss strategy | Defending Adept All Ins",
-      "excerpt": "In today's Starcraft 2 tutorial we are looking at the Zerg vs Protoss matchup and correct the strategy to defend vs protoss adept all ins!  Some important points to this defense include 1. Getting an early tech scout with your overlord so you know when to get your buildings 2. Scouting the protoss gasses",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-zerg-vs-protoss-strategy-defending-adept-all-ins/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-zerg-vs-protoss-strategy-defending-adept-all-ins/",
-      "originalUrl": "https://youtube.com/watch?v=JJRhGUCdJw4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JJRhGUCdJw4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M48S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-09-28T23:49:58-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JJRhGUCdJw4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-zerg-vs-zerg-guide-defending-mutalisks.md",
-      "title": "Starcraft 2: Zerg vs Zerg Guide | Defending Mutalisks",
-      "excerpt": "In today's Starcraft 2 guide we're looking at the zerg vs zerg matchup. Lets' learn how to play confidently against mutalisk as the roach player!  Starcraft 2: Zerg vs Zerg Guide | Defending Mutalisks with Roaches #StarCraft2 #sc2 #ZergVSZerg   Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-zerg-vs-zerg-guide-defending-mutalisks/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-zerg-vs-zerg-guide-defending-mutalisks/",
-      "originalUrl": "https://youtube.com/watch?v=MUtRoqvzO-k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MUtRoqvzO-k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M46S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-09-25T21:11:36-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MUtRoqvzO-k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-submarine-le-walling-guide-pvt.md",
-      "title": "Submarine LE - Walling Guide PvT",
-      "excerpt": "Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is a website where you can contribute a monthly donation that will help",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-submarine-le-walling-guide-pvt/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-submarine-le-walling-guide-pvt/",
-      "originalUrl": "https://youtube.com/watch?v=J56lfLzHf30",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J56lfLzHf30\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M41S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-05-29T14:35:23-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/J56lfLzHf30/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
       ]
     }
   ],

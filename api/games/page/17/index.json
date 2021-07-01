@@ -4,6 +4,158 @@
   "page": 17,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-swarm-host-hit-squad.md",
+      "title": "StarCraft 2: SWARM HOST HIT SQUAD!",
+      "excerpt": "First game of the Amateur League Series! A Zerg vs Zerg. Subscribe for more videos: http://lowko.tv/youtube Stinky Cheese: https://goo.gl/49vhoj  A completely different kind of game. In this match, one player plays a much more standard game. The other however, decides to tech up and go Swarm Host, Ultralisks",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-swarm-host-hit-squad/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-swarm-host-hit-squad/",
+      "originalUrl": "https://youtube.com/watch?v=mguqxbrYOQw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mguqxbrYOQw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M59S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mguqxbrYOQw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-08-17T01:20:28-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-swarm-hosts-assassins.md",
+      "title": "StarCraft 2: Swarm Hosts Assassins!",
+      "excerpt": "A great match of professional StarCraft 2 between Reynor and PtitDrogo that shows the dynamic between the Protoss ground army and the Swarm Hosts from Zerg.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community on Discord: http://discord.gg/lowkotv The hardware",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-swarm-hosts-assassins/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-swarm-hosts-assassins/",
+      "originalUrl": "https://youtube.com/watch?v=YJKY6rH3-WM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YJKY6rH3-WM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M7S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YJKY6rH3-WM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-30T01:27:56-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-swarming-as-terran.md",
+      "title": "StarCraft 2: SWARMING AS TERRAN?!",
+      "excerpt": "A ridiculous game of Zerg vs Terran in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Professional 2v2: https://www.youtube.com/watch?v=QJM7wa9N7-4  In this match between uThermal and Solar, Terran has his mind set on swarming the Zerg, trading inefficiently and expanding all over the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-swarming-as-terran/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-swarming-as-terran/",
+      "originalUrl": "https://youtube.com/watch?v=_pAQFBJmBXQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_pAQFBJmBXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_pAQFBJmBXQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-01-15T05:01:59-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-tactical-nuke-distractions-astrea-vs-dream.md",
+      "title": "StarCraft 2: TACTICAL NUKE DISTRACTIONS! (Astrea vs Dream)",
+      "excerpt": "Awesome game of professional StarCraft 2 between Astrea and Dream. Astrea has been making a name for himself recently as he has been taking games off of some of the best players in the world. In this match he is going up against Dream, one of the highest ranked Terran players from South Korea. Dream",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-tactical-nuke-distractions-astrea-vs-dream/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-tactical-nuke-distractions-astrea-vs-dream/",
+      "originalUrl": "https://youtube.com/watch?v=TBDHCJNQ2Aw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TBDHCJNQ2Aw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TBDHCJNQ2Aw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-08T03:14:44-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-tactical-nuke-vs-mass-tempest.md",
       "title": "StarCraft 2: TACTICAL NUKE vs MASS TEMPEST!",
       "excerpt": "A  long macro game between TY and PartinG in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://www.youtube.com/watch?v=gUE1eInkbVk  Such an awesome game of Protoss vs Terran. In this match, PartinG decides to base his unit composition around the Tempest with the",
@@ -982,157 +1134,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-10-28T09:55:31-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-tempo-advantage.md",
-      "title": "StarCraft 2: The Tempo Advantage!",
-      "excerpt": "Massive Widow Mine hits in this professional match in StarCraft 2 of Zerg versus Terran between Cure and Impact.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup I use: https://lowko.tv/setup/  This game",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-tempo-advantage/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-tempo-advantage/",
-      "originalUrl": "https://youtube.com/watch?v=0EQmbSNMKJ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0EQmbSNMKJ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M55S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0EQmbSNMKJ0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-09-04T03:07:37-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-ultimate-patience-game-rogue-vs-showtime.md",
-      "title": "StarCraft 2: THE ULTIMATE PATIENCE GAME! (Rogue vs ShoWTimE)",
-      "excerpt": "While this professional match of StarCraft 2 starts off very slowly, it turns out to be one of the most spectacular matches of late game Zerg versus Protoss I've ever seen.   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-ultimate-patience-game-rogue-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-ultimate-patience-game-rogue-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=P-84Oh9yx7w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P-84Oh9yx7w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/P-84Oh9yx7w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-20T01:41:14-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-zerg-forcefield.md",
-      "title": "StarCraft 2: THE ZERG... FORCEFIELD?!",
-      "excerpt": "A great game of Zerg versus Zerg between JustMonika and Alika. Subscribe for more videos: http://lowko.tv/youtube The Zerg... Mothership?! https://goo.gl/bZtVFG  Using Infestors as a main army unit used to be quite common, but these days it almost barely happens. They're usually used as spell casters",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-zerg-forcefield/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-zerg-forcefield/",
-      "originalUrl": "https://youtube.com/watch?v=bkHhm5MGBVI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bkHhm5MGBVI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M8S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bkHhm5MGBVI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-02-15T02:45:11-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-thor-drop-shenanigans.md",
-      "title": "StarCraft 2: THOR DROP Shenanigans!",
-      "excerpt": "It is time for a best-of-3 series of professional StarCraft 2! Subscribe for more videos: http://lowko.tv/youtube The Banshee Hit Squad: https://goo.gl/dRti8W  Gumiho versus Solar. A very evenly matched game of StarCraft 2. In this best-of-3 we see Mech from the Terran player in all three games. However,",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-thor-drop-shenanigans/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-thor-drop-shenanigans/",
-      "originalUrl": "https://youtube.com/watch?v=HpVX95VSrb4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HpVX95VSrb4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M50S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HpVX95VSrb4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-04-06T04:56:57-07:00"
     }
   ],
   "nextPage": 18

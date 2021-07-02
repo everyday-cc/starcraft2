@@ -236,14 +236,14 @@
       "publishedDateTime": "2020-10-05T03:11:34-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-esl-open-cup-grand-finals-solar-vs-astrea-best-of-5.md",
-      "title": "StarCraft 2: ESL Open Cup GRAND FINALS - Solar vs Astrea! (Best-of-5)",
-      "excerpt": "The Grand Finals of the ESL Open Cup 68 North America. In this best-of-5 series of professional StarCraft 2 I cast Astrea versus Solar, a Protoss versus Zerg.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-esl-open-cup-grand-finals-solar-vs-astrea-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-esl-open-cup-grand-finals-solar-vs-astrea-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=OG1AeAYrnWY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OG1AeAYrnWY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M16S",
+      "path": "_games/lowkotv-starcraft-2-epic-game-the-map-is-completely-mined-out-dark-vs-zoun.md",
+      "title": "StarCraft 2: EPIC GAME - The Map Is COMPLETELY Mined Out! (Dark vs Zoun)",
+      "excerpt": "Awesome game of Zerg versus Protoss in StarCraft 2 between Dark and Zoun.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-game-the-map-is-completely-mined-out-dark-vs-zoun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-the-map-is-completely-mined-out-dark-vs-zoun/",
+      "originalUrl": "https://youtube.com/watch?v=ftIzX5OlUso",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ftIzX5OlUso\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M55S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -260,10 +260,10 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 116,
+      "heat": 115,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/OG1AeAYrnWY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ftIzX5OlUso/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -271,7 +271,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-05-03T04:59:35-07:00"
+      "publishedDateTime": "2021-05-06T04:15:18-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-bly-plays-hyper-aggressive-zerg-maxpax-best-of-3.md",

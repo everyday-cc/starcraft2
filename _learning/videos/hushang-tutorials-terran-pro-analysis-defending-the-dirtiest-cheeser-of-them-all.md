@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT12M37S
 publishedDateTime: 2021-04-04T02:06:13Z
-heat: 131
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0nZJxqv4pIU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "C+0p42wsjGRfSp4IoZMua9Z3eDZR0N1fd4cKBaY01anXcT0qE67jJnWN+0RkN9JbJLpwx1W38/VQy0OL2oPnpKplKPplMo4TssMDKbQUoxyFtJFjLPoBylrMqWCbgA69EWnbHp341+B+Fgdn/el2mjfvxKJGrqkOY8DokS7apkTYqwhYZsnazKm8b8RxWNhOBEYrvs5fiUjCT7CYrF27uHHVIs5VkczONM8v05+gY955VhTIfk8DruUwyTijoikrmZr/OjzlfaYK2zioUQpPhpbREkANMA3/PyGf3UNjOSco2t/okb9RKBXWwuebCxqdFYvMDBVZIU0hc/1GTY/BpQXEu3EL+K3jmvPKIAzeoABGywjtjraJ//Xscmwz7A55Yohbf+yFQ5i082Vnhh8VvZ34Q3nMVgPr/4vd2APDFG4=;kxPHJ3KUk1m/7Z1DS159rA=="
+secured: "2evaeWahi+Ga21t5tl2/srMv6VgI/VXV/NM7MnDyASc6Pyp95tnAST+GhaRK2PtS6spsb4n8OKHF0R35G3wpUA8HIkUmGzXVdjroyhfxo+vHdYrgm3nP695+KhSMHK0U3tOeYORLxuY2eQeGegXQLTFt4CbNDolalfTHInHX5SVq+rlTZr419/wIXgD4KIqgf9n6YyQe8ieJlEVYdTYnhZ/4GzQaBz1btvuOvx+/b+oa1EHK03hUVNxi2dbQ0r0db0+h4Jo2aj4LO+CaNvwkILIwM18gf4tBaHE8/MoC6CZNUEYb5JHK08Y68tkJRUGv4Dvsw/TbhCs47PMjTwad6WFrGz480vcWI3ACYo0SWJAWZVFoiSF326WvwStUhxLc6zZoMOruKaXeJyGh/WSVNnpu99kLoIMinU6rp/UXsPg=;6/maZsRBQQv7YElccl2VPA=="
 ---
 

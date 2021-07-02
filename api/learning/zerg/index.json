@@ -254,6 +254,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-zerg-macro-guide-injects-the-most-important-zerg-lesson-youve-ever-had-starcraft-2.md",
+      "title": "Zerg Macro Guide (injects) | The MOST important ZERG lesson you've ever had [Starcraft 2]",
+      "excerpt": "This is the most important zerg macro guide you will ever watch! Make sure to watch till the end to get extra tips on maintaining a strong macro cycle without missing a beat!  The MOST important ZERG lesson you've ever had  #zerg #macro #guide #starcraft #sc2  Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-macro-guide-injects-the-most-important-zerg-lesson-youve-ever-had-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-zerg-macro-guide-injects-the-most-important-zerg-lesson-youve-ever-had-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=5An7RM-NxTk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5An7RM-NxTk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M11S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-11T16:09:19-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5An7RM-NxTk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-serrals-new-two-base-zerg-build-order.md",
       "title": "StarCraft 2: Serral's NEW Two Base Zerg Build Order!",
       "excerpt": "In a few of the professional matches of StarCraft 2 that I have casted recently, Serral goes for a build order that does not usually gets played at the highest level of the game. While most Zerg build orders still focus on quick getting the third Hatchery as soon as possible, Serral has been focusing",
@@ -275,41 +306,10 @@
         ]
       },
       "publishedDateTime": "2020-05-01T01:53:43-07:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VVXpbETVltY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-zerg-macro-guide-injects-the-most-important-zerg-lesson-youve-ever-had-starcraft-2.md",
-      "title": "Zerg Macro Guide (injects) | The MOST important ZERG lesson you've ever had [Starcraft 2]",
-      "excerpt": "This is the most important zerg macro guide you will ever watch! Make sure to watch till the end to get extra tips on maintaining a strong macro cycle without missing a beat!  The MOST important ZERG lesson you've ever had  #zerg #macro #guide #starcraft #sc2  Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-macro-guide-injects-the-most-important-zerg-lesson-youve-ever-had-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-zerg-macro-guide-injects-the-most-important-zerg-lesson-youve-ever-had-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=5An7RM-NxTk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5An7RM-NxTk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M11S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-11T16:09:19-07:00",
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/5An7RM-NxTk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/VVXpbETVltY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -382,46 +382,6 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained.md",
-      "title": "StarCraft 2: Zerg vs Terran EXPLAINED!",
-      "excerpt": "Today's video is made in collaboration with Benetton. The sweater I'm wearing in this video: https://us.benetton.com/knit-sweater-in-100-cotton-beige-1598K1O31_1K9.html?utm_campaign=USA_MF_INFLUENCER_Adult_SpecialContent_SS21-Lowko_Intent_2021-03&utm_medium=live&utm_source=youtube.com  In this video",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained/",
-      "originalUrl": "https://youtube.com/watch?v=rGa7TwyZa_4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rGa7TwyZa_4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-04-28T02:19:50-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rGa7TwyZa_4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
         "Zerg"
       ]
     },
@@ -559,6 +519,45 @@
       ]
     },
     {
+      "path": "_learning/videos/lowkotv-starcraft-2-serrals-zerg-build-order.md",
+      "title": "StarCraft 2: SERRAL'S ZERG BUILD ORDER!",
+      "excerpt": "Let's discuss Serral's Zerg vs Terran Roach push push! Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Guides & Tutorials: https://goo.gl/BEPvJo  In this video I go over a match that Serral recently played in the Grand Finals of Homestory Cup 18 versus INnoVation. Serral and many",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-serrals-zerg-build-order/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-serrals-zerg-build-order/",
+      "originalUrl": "https://youtube.com/watch?v=c9p20iRoWmo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c9p20iRoWmo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M10S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-11-27T04:12:24-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/c9p20iRoWmo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-zerg-tutorial-drones-before-army.md",
       "title": "StarCraft 2: Zerg Tutorial - Drones before Army!",
       "excerpt": "StarCraft 2: Legacy of the Void tutorial for Zerg players in 1 vs 1. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 tutorials: https://goo.gl/a5vYOq  Figuring out how many Drones you can get away with is extremely important. If you're trying to improve with Zerg, it is arguably speaking",
@@ -594,6 +593,46 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained.md",
+      "title": "StarCraft 2: Zerg vs Terran EXPLAINED!",
+      "excerpt": "Today's video is made in collaboration with Benetton. The sweater I'm wearing in this video: https://us.benetton.com/knit-sweater-in-100-cotton-beige-1598K1O31_1K9.html?utm_campaign=USA_MF_INFLUENCER_Adult_SpecialContent_SS21-Lowko_Intent_2021-03&utm_medium=live&utm_source=youtube.com  In this video",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained/",
+      "originalUrl": "https://youtube.com/watch?v=rGa7TwyZa_4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rGa7TwyZa_4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M34S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-04-28T02:19:50-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rGa7TwyZa_4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
         "Zerg"
       ]
     },
@@ -753,14 +792,14 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-serrals-zerg-build-order.md",
-      "title": "StarCraft 2: SERRAL'S ZERG BUILD ORDER!",
-      "excerpt": "Let's discuss Serral's Zerg vs Terran Roach push push! Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Guides & Tutorials: https://goo.gl/BEPvJo  In this video I go over a match that Serral recently played in the Grand Finals of Homestory Cup 18 versus INnoVation. Serral and many",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-serrals-zerg-build-order/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-serrals-zerg-build-order/",
-      "originalUrl": "https://youtube.com/watch?v=c9p20iRoWmo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c9p20iRoWmo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M10S",
+      "path": "_learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in.md",
+      "title": "StarCraft 2: EASY Zerg vs Terran All-In!",
+      "excerpt": "Easy Zerg build order for the Zerg vs Terran matchup in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Serral's Zerg vs Terran Roach push: https://goo.gl/8A8pSd  This is a much easier build order to execute in Zerg vs Terran. While it is easier and hits much earlier, it is also much",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in/",
+      "originalUrl": "https://youtube.com/watch?v=Te-EQdku9PI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Te-EQdku9PI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M24S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -773,11 +812,11 @@
           }
         ]
       },
-      "publishedDateTime": "2018-11-27T04:12:24-08:00",
+      "publishedDateTime": "2018-11-30T04:59:22-08:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/c9p20iRoWmo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Te-EQdku9PI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -788,6 +827,7 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
+        "Terran",
         "Zerg"
       ]
     },
@@ -1076,37 +1116,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/DgcSvLqW9UE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-007-a-bit-about-macro.md",
-      "title": "Starcraft 2 Newbie Guide - 007 - A Bit About Macro",
-      "excerpt": "In this episode we'll touch on the topic of macro, and show a longer game with some late game units.  Diggity's channel(s): https://www.youtube.com/diggitySC https://www.youtube.com/DiggityYT  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-007-a-bit-about-macro/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-007-a-bit-about-macro/",
-      "originalUrl": "https://youtube.com/watch?v=MBVsKerZQuI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MBVsKerZQuI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT47M9S",
-      "provider": {
-        "name": "davidangel64",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2015-12-04T17:00:10-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MBVsKerZQuI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

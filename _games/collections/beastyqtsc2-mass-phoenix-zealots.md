@@ -2,7 +2,7 @@
 title: "MASS Phoenix & Zealots!"
 excerpt: ""
 type: collection
-heat: 60
+heat: 61
 
 provider:
   name: BeastyqtSC2

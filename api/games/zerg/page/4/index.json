@@ -975,14 +975,14 @@
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-mass-infestors-vs-mass-ravens-ft-ketroc.md",
-      "title": "StarCraft 2: MASS Infestors vs MASS Ravens! (ft Ketroc)",
-      "excerpt": "Twitch Chat vs Cheater INSANE AI: https://www.youtube.com/watch?v=qxeUsyW569g  Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that,",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-infestors-vs-mass-ravens-ft-ketroc/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-infestors-vs-mass-ravens-ft-ketroc/",
-      "originalUrl": "https://youtube.com/watch?v=EJu24FSdS0s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EJu24FSdS0s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT52M39S",
+      "path": "_games/beastyqtsc2-starcraft-2-mass-infestors-to-grandmaster.md",
+      "title": "StarCraft 2: MASS Infestors to Grandmaster!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  Also, I will soon begin to make videos featuring",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-infestors-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-infestors-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=r4EBNNY_olg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r4EBNNY_olg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M41S",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -997,7 +997,7 @@
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/EJu24FSdS0s/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/r4EBNNY_olg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1005,7 +1005,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-08-25T15:51:07-07:00"
+      "publishedDateTime": "2019-08-14T02:46:27-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-1000-iq-dark-templar.md",

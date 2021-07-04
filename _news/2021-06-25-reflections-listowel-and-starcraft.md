@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Reflections: Listowel and Starcraft"
-excerpt: "Production started on Monday, Feb. 6, 1972 at Starcraft Recreational Products Limited’s new Canadian plant, part of the larger corporation based in Indiana. They would be producing a line of ..."
-publishedDateTime: 2021-06-25T15:52:00Z
-originalUrl: "https://www.theobserver.ca/opinion/reflections-listowel-and-starcraft"
-webUrl: "https://www.theobserver.ca/opinion/reflections-listowel-and-starcraft"
-ampWebUrl: "https://www.theobserver.ca/opinion/reflections-listowel-and-starcraft/wcm/e45ba035-0578-42a4-8fcc-f6dd29f1298f/amp/"
-cdnAmpWebUrl: "https://www-theobserver-ca.cdn.ampproject.org/c/s/www.theobserver.ca/opinion/reflections-listowel-and-starcraft/wcm/e45ba035-0578-42a4-8fcc-f6dd29f1298f/amp/"
+excerpt: "Pictured here in this photograph from the Listowel Banner negative files at the Stratford-Perth Archives are: from left, Robert Fiddler, general manager, and George Burgers, production manager, with the first model of a tent trailer manufactured in Listowel."
+publishedDateTime: 2021-06-25T00:00:00Z
+originalUrl: "https://www.sarniathisweek.com/opinion/reflections-listowel-and-starcraft"
+webUrl: "https://www.sarniathisweek.com/opinion/reflections-listowel-and-starcraft"
+ampWebUrl: "https://www.sarniathisweek.com/opinion/reflections-listowel-and-starcraft/wcm/e45ba035-0578-42a4-8fcc-f6dd29f1298f/amp/"
+cdnAmpWebUrl: "https://www-sarniathisweek-com.cdn.ampproject.org/c/s/www.sarniathisweek.com/opinion/reflections-listowel-and-starcraft/wcm/e45ba035-0578-42a4-8fcc-f6dd29f1298f/amp/"
 type: article
 quality: 57
-heat: 57
-published: false
+heat: 77
+published: true
 
 provider:
-  name: Sarnia Observer
-  domain: theobserver.ca
+  name: sarniathisweek.com
+  domain: sarniathisweek.com
 
 topics:
   - StarCraft 2
@@ -25,6 +25,22 @@ images:
     height: 750
     isCached: true
 
-secured: "jnqkX6v8Zq23GY/oeaLcCU7yK+57tEyH4PW/dnUz/0QfdzzlKYxvMO5D5mjNN+sArQbElGZa4A09JtDjrracv18oEgkS5Q2eqcznHvivaxJrDc20wT+T6WV2NN7GnR49pTqMLi4vxbswKKLE5fEfo+8fw4gQqxXgT97wEH1Zb2CvoUaqlMn5P6Lu9lvOa6TsAD/SCFi6tt40Rfl/sT4zF0DN4ZVVZH7mI+mUrA+Ak7s+KrYCoo8G1m8iDYC7ss2kTUaO17syQJhSGyWNU3SBL3UpC8pyf3n8HNEX1/SwEjxFW/1Ql6ryVLAN0P1KWcSLE61YGhHU5sRPGBr6YQK9cyRK77645H/bbn4Td8HzrtY=;Qdo7TXJh6mpEQ9HGPUn80Q=="
+related:
+  - title: "StarCraft: WarChest – Shadow Wars: The Complete Collection"
+    excerpt: "The Complete Collection - £12.46 - and many other great board games are available for the lowest prices at Zatu Games UK! Browse our online store today!"
+    publishedDateTime: 2021-06-18T02:57:00Z
+    webUrl: "https://www.board-game.co.uk/product/starcraft-warchest-shadow-wars-the-complete-collection/"
+    type: article
+    provider:
+      name: board-game.co.uk
+      domain: board-game.co.uk
+    quality: 37
+    images:
+      - url: "https://www.board-game.co.uk/wp-content/uploads/2021/06/StarCraft-WarChest-Shadow-Wars-The-Complete-Collection.jpg"
+        width: 500
+        height: 500
+        isCached: true
+
+secured: "lIMw55ffFihoAsrck2buCTnxov0wcSNfu00fD1gFzFF4/v3g7tcnsYAel1YsOluS2mWd3vnrpIQE6quoYtfReVzx+skxZzZDYALh/VgGXuSFpGTgeRkIPUJ3aHbdjshC29Y7fOJLQMkItr5mM5UC4pIDlHmjOv2kTuF/1cr5CtMo9X1rIqyOV4Q7M13+CTbXPgT0XtpMxipwn7dLQhrdY+DZSeNDvCizAbPemWfCFDtDC/DMqA6/YyPFAjTzf3GvaLcJaTAU4jnteR6O9N2viNg6vLMAMkAqfFxudP5EYoalHi+xVhoEE4rkTF3TkKpwPYKa8vKcUfF6i3OiWT3AVthlGeGhfzvqdJMdZmf40zQ=;85hFyhLBZQBpim4RseWq2Q=="
 ---
 

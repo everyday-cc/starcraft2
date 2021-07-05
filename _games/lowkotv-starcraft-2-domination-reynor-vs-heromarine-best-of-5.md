@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-domination-reyno
 type: video
 length: PT1H1M57S
 publishedDateTime: 2021-02-10T12:37:40Z
-heat: 61
+heat: 64
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O5v4_d3GxmY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "WVggYhOh13p23AahgnmNACea02WV4X0q8uuPimKXhKYDrJTlWeiPgZPKQbWM+5nAq8iidHwGUMXExPQJkR4Ac6uzk/mZAs/OaxgpAADwMTenc/QKC7wQ/nIuTuFsrpNwxj0YVub68jTXAfgFTC28vmaWU8DZClRegA9DNsE9wpHL4+xNOuiWqBckoybDuLLsX4EuUcf4KPSgawV6DRSzTXOyZHjo1gm5iwszNRL0JhXRaa/21UT+1TebXHJzsFnbC3Kx7inF8dU7QnpsSFuh8ECLGLJFq84nZnusp4CF91kmonyYFXiW2Shn0wV6jm8+xx1XLXGNhT/rcG26G5BMB/y9yEim0w9MhDSkKjveLqKwc7vgR5NUWO7hDZFZA27cQYP18Cw2SmjJBQiEdWKpBwX1rRaBvLEC/zJuQTH01TNoSs21lREwxZ3salLLDJHE;8/CIaenQ10ZdrPuFO6qXGQ=="
+secured: "1DlP7KC+2mVUIfywniovD9Rpa6QsGP50eHi80ZNCWW1XBjW0pnK7lpNxKU5eu4Oxpr8qe1B0FR1zzsM5+KMn+6u8MFETKWV6I5UpV64hHbjUpig4W3baqqqSqME2Tx9dR+YnDNMM3gF3h3eVsll4lZuUVZiB3g8J1oR73D8Bd2kM0Dy8hFDKuLw3fxEirUNMb+tj7FSJXNegykpzGW5lPCwvPUCZrIRaBQhEDyIp5baZS9kZTNr12bOfsiQd3uBmvbTPhpDA3YVgLcZ+B3PsmPNcN6UP5NX9ycgweJm80d+26bLXvwuFxZ3qJmNC/Y3lNdq5trGWilfOso8KM5dhejwqnMvCZLkHnyzjuzHCw5r7SmmgsKDrpCHb931KXpTHiAFLcqtIyLHLy60BmswAEIdDwuKE/PJt8llT4Iv2uik1YRvWzU3vucscy5BkT8J/;LZkfb1ZX17x5AHi6N4Mikw=="
 ---
 

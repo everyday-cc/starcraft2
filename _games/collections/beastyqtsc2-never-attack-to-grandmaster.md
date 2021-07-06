@@ -2,7 +2,7 @@
 title: "Never Attack to Grandmaster"
 excerpt: ""
 type: collection
-heat: 67
+heat: 64
 
 provider:
   name: BeastyqtSC2

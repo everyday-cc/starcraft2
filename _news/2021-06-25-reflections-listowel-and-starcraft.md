@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sarniathisweek.com/opinion/reflections-listowel-and-star
 cdnAmpWebUrl: "https://www-sarniathisweek-com.cdn.ampproject.org/c/s/www.sarniathisweek.com/opinion/reflections-listowel-and-starcraft/wcm/e45ba035-0578-42a4-8fcc-f6dd29f1298f/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 57
+published: false
 
 provider:
   name: sarniathisweek.com
@@ -24,22 +24,6 @@ images:
     width: 1000
     height: 750
     isCached: true
-
-related:
-  - title: "StarCraft: WarChest – Shadow Wars: The Complete Collection"
-    excerpt: "The Complete Collection - £12.46 - and many other great board games are available for the lowest prices at Zatu Games UK! Browse our online store today!"
-    publishedDateTime: 2021-06-18T02:57:00Z
-    webUrl: "https://www.board-game.co.uk/product/starcraft-warchest-shadow-wars-the-complete-collection/"
-    type: article
-    provider:
-      name: board-game.co.uk
-      domain: board-game.co.uk
-    quality: 37
-    images:
-      - url: "https://www.board-game.co.uk/wp-content/uploads/2021/06/StarCraft-WarChest-Shadow-Wars-The-Complete-Collection.jpg"
-        width: 500
-        height: 500
-        isCached: true
 
 secured: "tHmzOYgTBKIu54+oDk+tNSxJupxQ7VGNrvTGNFjXAlCuYTZCkC2IB0sIp8i8XYCga7gvLi2YtYQbP19GijuYGr1KFb2X9LEtva/2ApAZHaP0JEQ7vM0nqn9lEBgskG20qELT5f5vY1NQLQmYlgusnRcS5KlbO0r8MPzVM9u6FDAp2+oMKvLzcuYnai2PUWL70sQzjcErSb5GHLWgx956DVHLTw/YEGoKtZgHUvxG0aEmyzgJ7ab8jp9ufAfbbyAY8FP83IFaGJbLIy97LXmhCCrS735fK+0kPvmshucp1u++XKjrXYDSTgE+S10iTwuSgEXvs0U07ictNEbAHzCSAZT2pTZGNc1CsC4DnXykROP47CxJKWobpq48jTQEYvACeS970or1tjYN8ady6cgTbxlCetDtdb2n4vFSy5HSe0ABuTx9hSweptTogy3xWpKd/I0rIyu95jS7HNDdfSoIO1VH9l6azh4jG4C7wGP5OijQ/rVz/cadJMTCA7rz8IO220xZnYjL0CrSzxGLBUe1Zg==;o3dIMiT4FHxqloTnP4NqlQ=="
 ---

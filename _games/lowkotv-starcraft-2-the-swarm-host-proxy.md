@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=nHtXJgNOWBs
 type: video
 length: PT22M55S
 publishedDateTime: 2017-10-04T13:42:17Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nHtXJgNOWBs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "MZaMUPUDsfVTjQNH5rufOavR5RRY4ebfgRhWCkPeulC3QKUwqUc2JX81uUnaXvayf1vgNXedQfAvB/siFRwlrWi5R9qDdmHYEk0iTmK16TroLdCNCOAwYLr0Bpku93ysoc8wE7VzjjlaaP8fN6Ay1M7vghpvU8eorSmna9aqnyUZHiJG9shhhYDgiI5aI0wqwUkVCTCd4SyCM+oqzTDUVCfX1+vOCpIb/qg6dSzKWNbxH3a1yD8RBZW/eEVTlZeFF6HaO9yWQKa3YG325aCROIsZHIKXmWWiokbtadmu/IBgPqep1c5twZfDtSn7WFTOYkaSul6GMuO1fQyAh6RRAkl0PGeL+3Dyga6bF7Ql+ZH8MWca6MAZIDO0hTo4TY0XTKimXccjlzAZkfzl3aBsZV66AwWrEFWejv+a8LCyGz9Y54aA6Oxy9rTerIzt9S9m;92dmfoaBfW0vvNRRsZ0RVQ=="
+secured: "AuPdHnzzRhnCpanoKN+vsKaddiyo+Wt21pTPh4B/caVUqjlhfOiDUScRHTMU01URxckMbbQITMz28o2Wvjd+f0EhzLxUCloYp6nfvEL5zf2C4rvW+33MfPqQx23wTuC6m7KoMYVNJAvQRRooAjgf92qhukKfxWg0CCcKwfOErCpktq3Wzck+o7M/AzY5SH/ay5jQHkwBIXczy+uVH15cbYifRJyHdYClOxV7gwVTSulstkqNFboIq3XkdhdZga6nYhSOLZZnxtLyWPksgvEiuhkLfD68xiq5mtDty+uyfcmR7DsYuMEfzK05P5y7+31Vzir5/lP+besmcLNYHmRJibdNYFxjtHKq0vxTo+ahznf9csOebx4+l1jUZbEWPcMzzOj1rOisuXZ9vAVVKpwPz0FwSrUqtFKtmIWFWM8OFtX2+JPFjyhJe6z6Numek5Od;PLrJkK6Qx+40I6eEIc+bdA=="
 ---
 

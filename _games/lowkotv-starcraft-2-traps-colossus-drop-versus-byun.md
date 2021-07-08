@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-traps-colossus-d
 type: video
 length: PT36M20S
 publishedDateTime: 2021-01-19T11:58:35Z
-heat: 59
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ISPK_eWX3ls\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Fw456FVoAHq5ZjxUXb4RKIEUFQkrb/oxCevgqPnqD7zQIUiZwnzo0hWFi5Dy1XMPEvKm/f/d6HuG9gz0Rrdn7XAfXI60/Pr+turAtoyk6Bljg1e2Ws+K3w++ZdABjtMg+dEgNzakenB6Ua7lipnVpzQTeZrpCs5o+57gUFS09gNFCEJ6WAOyL6j6oLznThnTUsPmhQ01tX3PDpGXNtFqRBzrp62HXs3S5HJJYPsz/K0Dl+PPGO92SchiEHyzZt2gtI0jfINimNUu7hvs1ru44U4d7+va0S8HUfjdDFKt0BAq3JD7iF2pn+74SD+JiYUDARN6/EvmRNFj9PzHb1ih9vCYK9QBRfc+ZPcVOok6OMNxKGIFQ5FDEGeB1ph+jbBmBpb9fyHjXp1li6B5DaWguIIH/XztWczhcvAXEAP2yFBBFuLge/vCTpsz4/Tr03G3;J7sVe/CfJMWNwqPsK6VE3Q=="
+secured: "NoWAxLvW+fq3d0gmmAYozE9o87ZRuufC2YyeCMnm1gZ2dkgG/NIKGHbzR/LM61qie86H1sfzyPYVZ/7peJn/z0LebcDK7A5+rGT16q2whXHlPcgK10IpxbSIB90b0B/DYaJ80jJlRb7DLVNs6qxqcRlIx+ljYOC4I+DOIjq1NE2rOgmtJLSUXrKlB/mwocA6lmIrjKaMxn/AgEbTFvHQ+HtGuNkzOK1KewjArBWoYBcSVJplMsHBcUP88pImEv2FzTGg1/+PP5gADIWcy6inrFD9Uda+7hhrlLLEafEXhly/bZy7C3vEcWTr0UyKIvX2txdXiegR6bjOKjD2sx5XWttg5xrZcorhEcHj8ZYV9fFjxwfwLgBVdzURHqq18WI3xmhpFu6nnm39AOAi/Xt8wD29VCIzh/tnF3jiJaJRgIeowqO8BbTTY+ybzvlXOlvk;nND457XcDP3rMRLnvOwoZA=="
 ---
 

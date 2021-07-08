@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-late-game-muta-s
 type: video
 length: PT31M25S
 publishedDateTime: 2020-10-12T08:59:01Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1tykA9F5ZDQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "iwh6SFoz1UXQNcLpeqCrM4nEkeB/Yb44FCxlmYnPmUbGr1VM7y8yJe3SF8IVcvMUwHhXPpA868ml/wLSgN7x2x3PWRulsHdORcoJp7dxZjZqn1aVh5RismhmfvPRrjscg7v1SnnoT6c1n1p1zSH3/eHVnYpHIfSta3k9K6kvdGZbRUhS/oYrEXSSwSaU1/ceSgLYRSQmvTBVKiZqI1BvD5d6crl3Fs3HrEj/3zEFoL/RI8EslwNBlpm3ru7XJgrMAuosCI/ZU3y2j2oS/itA63HVdpXtCwF5CRebKKRg8Cu06a8Ix7M2oyIxqXKV1/lTffN7G+j1dIKKQmDfSPp4R4EvimUkN60f3VNMI7jfq7q0CYd8c2qu4/vHElYw7moh8ibKmYPWGUiMSwavaFHGMtMwyOl5DxnjlI4GjEkFg64=;3ekx2A+PPWpRDCJBGxKUMA=="
+secured: "Ax2ehzH5ad0KwlgoYCBGJbIwUX/PpROV03zQLkmRTmUgBokXBxugGHR3J0Gibd8OPQsUhtd3HkMmax0PrZ+u9hGzEyZ7w9q8/duTMGHjX8M7wxYa3E7ZSzlGW7mW0cPIqVz+o+UcmPTbpCyctF5FfHpCjZuvvXsrF9j7gXF5sc0c5Mohhtb/t3hqFfJcIu5D2ob03mULXi5SSQmJ2SdMijahDjfa+8CR0qL8eNuyv84J0wnhPbgpngPeFY9SeDz8NK1ksEWMk9ZLlW6nO/NUbDvM2fIcvlnXPsGASc9/i7XzKCTon5D/kDoTvm7PAUNWQP7e2bte4d9OJLMi0ESvaUyCsGxQwaZI/F+ukOd8PqREeX6E8U9bDosY2lI1k8kp09tx9gx+XWca6wK9cXjQrgqo7kZue8NqTfaOx/4X3vo=;fXLZJZoJ+5/w+2qg09bS0A=="
 ---
 

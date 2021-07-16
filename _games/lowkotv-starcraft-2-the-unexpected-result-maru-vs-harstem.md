@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-unexpected-r
 type: video
 length: PT29M24S
 publishedDateTime: 2020-12-05T11:15:53Z
-heat: 55
+heat: 61
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVLznaW8EmE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8wjRsQYHlJUA25KLy3eXPtHRP9+jgDgjZVA8wS/rtyJzMFAZSLCwas1nGMa5FESmsCzZuFmFCgq7Fvg+SuOvD/xsQDcjmC7O94I+wHxNVqm3Ie8UC5vEcfAqTxGl3qv7KrE1yJYPDt2hoQK+/ZgMrYeK17o0JL4S9j1NmR8YTjCavR3xGuCcWg0cAbXHzHj02t0l3Gd0ir2CKMDiDzcjNbyQTfw5LMoGmXiQI/1mr9/Bc1n/EuqPp+g51llnZ3OHsiN3DjK988lamzien0Sk0INs0CUTStkI59UqyUJ5QHdKgo1uu+wfNhOxb5/wCf1ZxkheZQNEX5N9JGMSW1sxzQyYM9NzHgVicnW+FBrD1QL/oelOtjtbwujZHnbW9GJBLY0HJoLneSY7B6y/EfnNRurIJpRx61tsPlCTTQpxd1zfjPoongfC0Sn2HMcZPslb;Xj/5WWUvZ8rw5+td1iVvhg=="
+secured: "hex2HwMK5nc5jI8tD/81bsf1f6UWD0Wq78kHX5+2cWa+4Hd/m9WosQVZcQMXDI0IgnXJwbhgLQ3FPWAY+h1CdRt5xJ1W468v0zxx5tNtIdluE1UxE1X/1T4AXFQggE6e4q9w5irokCDqxTwTDDkt/0q7atOoJm5i39qYVMlKi30RkEBk1EMtfaVVc/yBPeFybFXB7swapnDtRve9uqZl4NknJzvJcxc0wLcQCQNikISHQ9EQsQ1YOo3PZH4kIH4LzsM5KDmb5qbEP7doIC81Z/9mjWjUw+pP4S+FXgC2DzLISLUJHWncz5163CsYEFdL2aQQkG707O8iiI8JTF+PGDii7rBa2Rofnt+f7CeaHWRFr99NOmDTyd7nvzBrE3YKZz+whGHgoPfCF5ZvyGx7kPVAioQkG4hTTbKfiE2yNINBlmHdIKrRqcg+NUqv5ifD;P8DSo+anymZPgFcDNtkcXQ=="
 ---
 

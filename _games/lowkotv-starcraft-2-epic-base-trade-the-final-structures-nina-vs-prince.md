@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-base-trade-
 type: video
 length: PT31M44S
 publishedDateTime: 2021-02-24T18:27:48Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9W_OaJcZkrA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "OK8+wW1S7oTN1HFU+PY+o+111TnyMtAericHPWzPux5bmCnYpZCSYAp0Fn5n1bEYrth6djP8v/jhdfGWRP0q7liS6iie6cNfaZiF3+rZhv0DKFJM0DJVY5ddqMa8ms4cCokx3Oy/Ryo+4bNqsT/kCgIvutTNjQ3V7Kruf//VogKOctMAcUAnZkQ0U4THvUzi9c7/U3bdEe/hKO+TZ66UxWXRqalYFxk6ZlAb7k+sPXw8C6eJHH7U3BA0tAoWbIuI1vVn8g3epi7YQU1W9+S1p4v+kpa0i2hgMxw93Yjy2070mDO7JrStRupp5eYgs/4MYjghyoXZEb6pArFIlpEhEylFYs6Qt9pH2wWPVitwn5bSVjv/pw/RSftRM3EVSrny6NC5Bg6LYMwptlFkx4u4Qn7VrgTN+3dvE6s0JG9CxiQ=;HIFb6IYxinBc0oa94+iMqg=="
+secured: "Qxw1m7jj02zfOY4mYoI7V1FVz81CZEuonn9BUXQAF/snafIRiVcfWJ6l8c1EVI5grjH9AoiXAW+UL++3ZKgnmzeMm+tDjbt5oLrsoCnNedwvKefAZhVZ71x5PAzKdRODBNFAJJ7WV2MwP3TK2BcqMlKCmSXjgPrsq36uuELZS+frXddQhM2CqYITxRaaznb5wuzed4vnaYwsHHrZzz2kGicIbI0dF5oW0oW9/DoSBdoy8ujIBypFYni95IgFOlsNHDWifkYtNV2HTtn4h5wHidzZJS4ER0MeW3n2CiLkAgKrbGTE2A21TsHCR9kIJMmWsflu8gUVL4eFkK39mMewMMu/O/HMXyEqyjmoFqG2NLPHcpvu6timkkOH3WTxIvJcb3HGB3Z1OAW6kQLnKkRpIKdXyHG9WFRYgLD+UElUh3w=;bkvGlxiiJJ4/j8NKq7bxwg=="
 ---
 

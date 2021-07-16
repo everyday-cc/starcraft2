@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-crazy-ap
 type: video
 length: PT27M21S
 publishedDateTime: 2021-01-22T13:05:05Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rwkoi2sgjNk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "4eKVmz7PRHJ1cGdAa00cmrQr2yir3IHto6B5j7VjxuTyTojtrtntUJVYWppJ/yV7dcD9hFN0XZ5dIyyqZ2cJIRi3OIXVwIx7YsH5+4BDTKWypuBtrc58E1j6E9w81NGmhbd18lnK0NsN+bjhShhTf13HvOJOi/hBBCaVt5Rrv7Y5fodKJ8tXpNTgC8pylupYAVSIR73up2ogOqc/WwHq/hHcEgpWsXXmWLypK9WKQMGW74yBbVzNFkIORJq0F6y/W8nahvfjN6WLm3B3AleSkOU0PiYrU9np9xL7N0AiRDuj3EjbzfoLpkOiX1s+XwcMH5STaBFkYmVFPzMLwja+fMQhAGrVjoNJYm5MLa2/6Ic+ILr/DROUTh8AYAvMk/Jes+ri4Qk7bFcqD++A1QgF5MWbTSsk3rbkawvzksSG9Kml0T7RiPtrN0wgdWoH3udN;Ua1pzUkFfbu94/BoJ8S1Cg=="
+secured: "NC17G8hFqYDyBoaR9HI2L6MPvYHAFtWHXIBkr9Xil39xCvKIQ3YQIjOR8sCY8E1IwGYIKgYY4sGS4tbNa3npiw8ZNMkmo6Z4Hj22TlGqUjdPo1PlLjPQqwtprC8x9vCYEUxeDZ6tRzs4io+IeCUtxEhnCgy/ni9X9K0q1N/ll0stJU8Ik+M/bovz7+JZ9hB0iQequ1oJO3btUr1XPIQlX+y6IrPDGKMX9r9a2I1ZYI/APqD/kNALH7se+mMxA9OeMWSk3zH+D325aV7WyIk17G6x4f7MDqBELnpybDXMqMDMNo+AUfLqkmK3Gx18PloSFtcMhYZ2s7ZZP9l0RWMd1/df2RME8PjXx5f1j9lBeCRKj1JuPfPeweZ6EIQkRpWe6xOhv3OW0sc1WMYuRClmZG17F6WqBXmdhkZaEFWZYCWAXi6DrysYzxlNmvZfhipg;v7spNWmDyKfmZAQSnVeT/w=="
 ---
 

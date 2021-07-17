@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/beastyqtsc2-i-ran-into-a-nasty-lurke
 type: video
 length: PT32M10S
 publishedDateTime: 2020-10-11T12:24:55Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HNr4V_uyUUI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "l6qDCTkwQRjQTKP1e7JjC0g4570BfzXUVpvR4jJMRNdJ8Ql+VnLHnP1fv/8uQTbKG+Czg48TSqxIMFkAGcjQAOXJJtqcq3aea6WYA+3CqcYZVNO+tWLJnwz5BzB7uOVCv2DHZWPFnCBwrGaXWAUWsaw0ETjIPpjgouOO5jm6Vkft5G68jIrGaXE2oEuloptHGSqstrvnhLaKuMjdsnvkbwQf4FKsk3inWe3cOD0LcvER7j5EeKfyKfA+1LcM+pCs5pUu7E5cd35LkK2tE2svrjPbq4QvqW+5FD4fEeUohiw+KCjNCvL8XlmR3wOS9FGJgDvMaIAGXz19k5w5ZbuGoR0rKYWPtJFAJdXB9cFibZa476ebpP5sVkGMmUqIgA3N13F0fDI0oqQvB0NuuDcI6QQ1AcL13TSB/UjF9hvH6+g=;0YsBEry5sHAETkNg7k9ZDQ=="
+secured: "1EjhuhhBYUq7IDj1DhR08UlO2ejqkUgCoTdrcvo24XkcIVBubCp+6BeapCsfZhlgaLjfhjkupBxzWRKARAhtiRlzUFIhtxDnd5pun4cCDIRmWT54t0+3zynpCa+kPNId2ibhzsTA4Omh3Uhan32H+y3mbu6b9/bAkH2i/Xkw07ke/N6atGPjPB5o5TD6xNgSasUuF2Gj2VqF1xXji9NLTVn9JG0duy6z5pdzSysvaAQztla8jH7nfDfQNvLieh4m4TIW3QbJZzOkVQ79gh6Ea26Tx1MIFUC72T2WXRt78xgfMNxIgYILAKM4iDcOobxe6yqB/6z+oyrKHSIcj5CKWBWjB4wH1mCHHBVAoIEzGWB6Pn0uZ9pQry/HmKNrafwPpgiu00j2G2+mpu3hF9XnVywguznIGj9l/39/OhbKrXk=;mhfctW6sp2qyiIqxdo4rIg=="
 ---
 

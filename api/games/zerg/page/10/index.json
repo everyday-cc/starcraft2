@@ -4,14 +4,14 @@
   "page": 10,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-tournament-grand-finals-scarlett-vs-sos.md",
-      "title": "StarCraft 2: TOURNAMENT GRAND FINALS! (Scarlett vs sOs)",
-      "excerpt": "Best-of-7 series of Scarlett vs sOs. Subscribe for more videos: http://lowko.tv/youtube How-to Nydus Rush: https://goo.gl/MEV5Vn  An awesome series of Zerg versus Protoss. Cheese, macro, aggressive games and much more passive gameplay. These are matches played in the Grand Finals of IEM PyeongChang.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-tournament-grand-finals-scarlett-vs-sos/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-tournament-grand-finals-scarlett-vs-sos/",
-      "originalUrl": "https://youtube.com/watch?v=__k5jMuQwkM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/__k5jMuQwkM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT51M3S",
+      "path": "_games/lowkotv-starcraft-2-the-swarm-host-counter-attack.md",
+      "title": "StarCraft 2: THE SWARM HOST COUNTER-ATTACK!",
+      "excerpt": "Zerg vs Terran between in Soul and Reynor in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Bly vs Soul with Battle Mech: https://goo.gl/bpDV8i  An awesome game of Zerg vs Terran where Soul once again plays his Terran Battle Mech army. Reynor decides to get hyper aggressive and throws",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-swarm-host-counter-attack/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-swarm-host-counter-attack/",
+      "originalUrl": "https://youtube.com/watch?v=Q2MnmTLYn40",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q2MnmTLYn40\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M6S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -26,13 +26,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
         "Zerg"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/__k5jMuQwkM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Q2MnmTLYn40/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -40,7 +39,83 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-02-14T04:56:07-08:00"
+      "publishedDateTime": "2018-12-29T00:41:52-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-swarm-host-switch.md",
+      "title": "StarCraft 2: The SWARM HOST Switch!",
+      "excerpt": "Scarlett versus Neeb in an awesome match of Zerg vs Protoss. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/FUBQ5y  Swarm Hosts are an odd unit. They're technically not great at finishing the game, but they are awesome at buying time to climb up to higher tier",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-swarm-host-switch/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-swarm-host-switch/",
+      "originalUrl": "https://youtube.com/watch?v=ImY75owB0II",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ImY75owB0II\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ImY75owB0II/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-01-31T00:23:15-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-zerg-surprise-impact-vs-armani.md",
+      "title": "StarCraft 2: THE ZERG SURPRISE! (Impact vs Armani)",
+      "excerpt": "Awesome game of professional StarCraft 2 between Impact and Armani. Impact's game plan is to make sure his opponent nevers secures a fourth base while getting one himself. This forces Armani to make some very risky moves, starting with a surprise Nydus Worm.  Get more videos & support my work: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-zerg-surprise-impact-vs-armani/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-zerg-surprise-impact-vs-armani/",
+      "originalUrl": "https://youtube.com/watch?v=LwX1zVOvEaw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LwX1zVOvEaw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M25S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LwX1zVOvEaw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-03-12T05:02:41-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-vipers-vs-mutalisks-scarlett-vs-tlo.md",
@@ -79,45 +154,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-01-14T04:33:54-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-warp-prisms-nydus-worms-zest-vs-soo.md",
-      "title": "StarCraft 2: WARP PRISMS & NYDUS WORMS! (Zest vs soO)",
-      "excerpt": "An awesome match of professional StarCraft 2 between Zest and soO. In this game soO decides to try to contain his opponent on just a few bases, using wave after wave after wave of Zerg units to keep the Protoss player from expanding. soO decides to focus on Nydus Worms to keep the Protoss player up the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-warp-prisms-nydus-worms-zest-vs-soo/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-warp-prisms-nydus-worms-zest-vs-soo/",
-      "originalUrl": "https://youtube.com/watch?v=oRPBIb_vIm8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oRPBIb_vIm8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M23S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oRPBIb_vIm8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-03-30T05:01:40-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-what-an-epic-zerg-vs-zerg.md",
@@ -348,45 +384,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-04-07T02:15:04-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-zerg-vs-terran-insanity.md",
-      "title": "StarCraft 2: Zerg vs Terran INSANITY!",
-      "excerpt": "An incredible best-of-3 series between ByuN and Reynor. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Protoss: https://goo.gl/qeUdf6  Late game Zerg versus Terran is still being figured out. ByuN apparently knows more than others, as he decides to focus heavily on Ghosts in this match-up.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zerg-vs-terran-insanity/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zerg-vs-terran-insanity/",
-      "originalUrl": "https://youtube.com/watch?v=YpCHlPQRX1c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YpCHlPQRX1c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YpCHlPQRX1c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-01-09T06:12:03-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-zerg-vs-zerg-cringe.md",

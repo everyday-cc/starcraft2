@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-lowest-high-
 type: video
 length: PT24M20S
 publishedDateTime: 2021-02-06T12:32:15Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EEJE9smYROk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "mWambggueH5hObPDypS/N746x6wIZTWbRl7gIu1osXeSVO+D2vGE4urZxbFprQuUsrkShKgfLxTJM2DLoFw+x9spdwofU8KJgProCeg1/27Ur/6uP7pcwVNA4wYVW9YsujJO3mctEdZaSlLlhSCA2zBndLo248gWacCmu6vcoc27qLf8yLC8mciZnystrFBQxDI/2+ar3RIOBA186uSNZ7odSv4Lky82HqqHJWapUJUFyOJhUpp0AA3RI12GLvIxXBP90p9Ie61bMhQWPXh4CvcBSfIXuIFj1oZvCYboRKnAPh1gDk2F+WPmBLhK4mGMUtDBBpRS1OSaKxDZPXBFCE8uqvoKH7O6QAi3U/QAF7xSRnL405VliMA2F3mgQp5y8E87VzF0oh7xfZjziTTi3nvtcYbzLrDmnOdTVxGfDJg=;J2vP6eAKak6HQTHZEVmZOA=="
+secured: "dpjAdAylKImlAEBnL24iF+TKEJ8FTmff3X3/usCWuKwC2Z8p9+QLUSbPH71NSr0jhPG1wKdfSkyszCX1doUWa/dxxm4WWIDy2OkE4+t38kRp1sSTYlBQ2L5aTvQd5p/5zTnzMn4lWIsJiCqp+X2vUDHSH2YS/uJv2MD7887+TZLOdXUC7HLyQM6cjjks+zoHXskVEG78ImXKovFXlJrI51hzCWr0YzfrJsKT+DviyEa8bTvfE5kidbhcQgsqLW2Ir8P9ImNPiIGtCLahFW+hxqkof9WdCo+rWMebymrzQTsA4cJrrDVZYuDVNC1yiidABTVooXmeaY/DXqFbKycKMXyxA9hxaBhXA3nbsKVvuKc6MkF8HKF0ebutSwRX7IKizC/uJffgLxOgH6C3hVwmCbpAST5TFppkwHd5dM5+Dsc=;h1ifioj1A4/ef3AzZ7y3nQ=="
 ---
 

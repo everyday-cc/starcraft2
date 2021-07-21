@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=an1Eb8DdL4A
 type: video
 length: PT1H9M44S
 publishedDateTime: 2021-05-14T11:44:40Z
-heat: 103
+heat: 100
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/an1Eb8DdL4A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "vfeu5sNg3GsluooJ8ewAT7YaCoCE1hbbHe3n2+HH/n4UwAxJl9U1+QwNuw+vqwdbg6bpwQNe6GcsDI/Ybb7JebinOAywIZvVnbF+yjw0XegmRoRdEu+4gC3ugouG1Ka49sXrGcRE58ZvMGBDPnymwVRsNVxDFDcXvW6vBDJa05Qo5j24MqwwOwP2FOcmbP1uUxym6RIpSY7bNohkousJdcwSXG+6ZA0Q5dt4HeoC/cuaUo5xUw885VaQ7lfBFs4sB++MsMl8o95JdN/B2/rtqJtIlenE0GbiHTzsVLGTFw9oWf9XzVI0EwJBjphih4zY9gipqB3xbYDLTUEhHaR5nrya5xCcW+c7VCQhAixaFKkhsOMMScp7BRI+/WZ6LOsxTCfDai/CzJspW8vr3EYx8eCQM0zjn+bQ/g+/NGLUrRxgEBFPu9kasuW7Z8GTZFxQ;9rlwDIUJFPvunZls/Nifug=="
+secured: "Y2g0MtOlAmE3M4u8UkfOTrupgZZXZ/VJxz3JwDy+C3ngwSrHDSYGo0YvNkBMTCuCl4QNwhoyFUH9XtW9RyTkauy+jujA6S3Nj5tqm8mANkcbiupC+ktp0haq28SRYunqeuCvssXtsrVO/4SEDY0VVZAf6ZKzSQt/rWSNylTfEn6aUHIjFlvkdksDcgaq9r3GNKuEk2p7GVwSZedNwtD48m4l2ijmVUP7JJmvtD3D2wNlZzNqLUoia2+etJOEjKwoGHOjrGWTV91DX3sLGPxp+F4502YdcKTRqXB7DPrYcYP/PNFkhOcLDb1YChAr29GYkac9H1Ru4BjM5aFTkhsJlRhLvholxXPh9n0Cn1mBDNacMmHyKRIr3ZmU4fakbT6s1xv1OLG97bXFH/MAkM14pPHchilTv+iBM1E9+t8tHtzIG1vGBrwqaD01wf3zOI3E;1SihA847nqc1bncN4lA+/g=="
 ---
 

@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-perfect-defe
 type: video
 length: PT48M39S
 publishedDateTime: 2020-12-21T09:38:15Z
-heat: 56
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W8TAYlijjag\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "cLZfLeCd8FQJkxLbpv+RYOSaRqtMPyUTSuE5iPrDqCYcmSWRPdEZ7JfKBHawguHGm8Wv071cS3EBAb9fzTlI3WhMPFsw54KUDNqaiIOf3EAeuRhnD4SJ7e18StrsQRerScEe1ZQ9fbn+GJmUwZGHrp+3FWTBQ/w7rvYcvtwsg/x+xS84P1QbyiAamu9P2g20ku8dd2aDySroB5mxvVjNP3efSSfXUyX+qTC1iJgy+pD5dKBqbtMYA67HvSy5fYxkjPYILVdo6LkesSzMrbTlhuZVEPxflvH40KOnoh2NhWTvkPCePvZXAVFrfaU8vCcaELeUadefJ4xnVpbHbXiJ7Xk3q+wv+HbMB3rtgPRxDYCe+QxJHxRqMDWmmP6qb/x3wLLG6VP2HYieyYSd3t8jhmtCUtgo+8ieqs425VGd3IA=;nFRbhzphtBmg5DckT7kjuA=="
+secured: "ECnK8nTVxGEwWyFuDeG7Q41YaWD5zk6XYf0gYNfi/cywQH+6t14ptICkYe96e+RXQj3cB60DWdDAB1HKn2B9/g5Lyf9z9jdtKBm6bmJUybC0kQsvg6eBZfQc90YZ8Ey1JQ6HQVx6KoqRJv2UUqZwVtIAbN4uzVQduN6klk78zjC/FpOyIfb4RkVTO0P0zVi9Ex3Z/DxXOK8wcPp4YQa31+rFId8e1G3vy+7yRVhvbJ5s4NRwu11tR6y7oYEeAm1O6ZEFMnAX0G2xN7+X7sw/RPRg/ZW0OwXgzQuwPT33TrFUhsAENNk0FQLis+qpLmfvtv3Uzs7yGYwsskZMgf7eisQmDi3t/dwUfhPXNiFYa0JxKAosHi5DcVEz1h5TlDaXyKGrhPw80XkcYYwUvAXTzJ2e8ajVlNnrs23FVsPwXiw=;l1eTR89vC1oJiCJAJ4xAKw=="
 ---
 

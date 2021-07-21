@@ -4,85 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/videos/lowkotv-zerg-versus-protoss-early-game-starcraft-ii-study.md",
-      "title": "Zerg versus Protoss Early Game - StarCraft II Study",
-      "excerpt": "So you want to win versus Protoss? Today we discuss the Zerg versus Protoss matchup in it's very basics. You need to be hitting between 40 and 44 supply at the 5:50 mark. Why? Because it's possible and it's relatively easy. Loads of StarCraft II players hit only about 30-35 supply, which is a difference",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-zerg-versus-protoss-early-game-starcraft-ii-study/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-zerg-versus-protoss-early-game-starcraft-ii-study/",
-      "originalUrl": "https://youtube.com/watch?v=x3V1KPQ6RVY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x3V1KPQ6RVY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M8S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2013-04-26T05:26:02-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/x3V1KPQ6RVY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-zerg-versus-zerg-all-in-build-order-heart-of-the-swarm-build-order-for-starcraft-ii.md",
-      "title": "Zerg versus Zerg All In Build Order - Heart of the Swarm Build Order for StarCraft II",
-      "excerpt": "Zerg build orders are crucial for anyone that wants to improve in StarCraft II: Heart of the Swarm. This time around however, instead of macro build orders for Zerg we take a look at an all in build that should work at every level of play. This should be a good all in for maps where the gas geysers in",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-zerg-versus-zerg-all-in-build-order-heart-of-the-swarm-build-order-for-starcraft-ii/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-zerg-versus-zerg-all-in-build-order-heart-of-the-swarm-build-order-for-starcraft-ii/",
-      "originalUrl": "https://youtube.com/watch?v=2HU1_eYJTgA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2HU1_eYJTgA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2013-04-26T05:27:13-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2HU1_eYJTgA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/lowkotv-zerg-versus-zerg-all-in-build-order-starcraft-2-heart-of-the-swarm.md",
       "title": "Zerg versus Zerg ALL-IN Build Order (StarCraft 2: Heart of the Swarm)",
       "excerpt": "Gasless Zerg versus Zerg build order: https://www.youtube.com/watch?v=OLpOrsJT96U  The build order is as follows:  The build order is as follows: 15 Spawning Pool 15 Hatchery Four Queens as soon as possible 5:00 Double Gas @100 Gas: Zergling Speed + Roach Warren @Max Saturation: Save up Minerals and",
@@ -290,6 +211,39 @@
       ]
     },
     {
+      "path": "_learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss.md",
+      "title": "Learn Starcraft - SPEEDRUN TO MASTERS RANDOM | 30 Wins, 0 Losses - Terran, Zerg & Protoss",
+      "excerpt": "Making sure to use safe, solid builds to get an advantage when playing smart! Most build orders I think could be copied to success for platinum/diamond players.  Watch the stream - https://www.twitch.tv/wintergaming Tweeter - https://www.twitter.com/starcraftwinter Patreon - https://www.patreon.com/wintergaming",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=XWDpI2r_Ztc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XWDpI2r_Ztc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4H5M11S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-09-21T15:07:07-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XWDpI2r_Ztc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg",
+        "Terran",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/winterstarcraft-learn-starcraft-terran-v-zerg-mech-build-order-updated-2018.md",
       "title": "Learn Starcraft! - Terran v Zerg Mech Build Order! (Updated 2018)",
       "excerpt": "A basic mech build to roast and toast the horrendous zerg. Meant for lower level players looking for some direction! -- Watch live at https://www.twitch.tv/wintergaming",
@@ -371,6 +325,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/GUeqi7vEDvI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-starter-guide-2-build-order-updated-2017-lotv.md",
+      "title": "Learn to play Starcraft: Zerg Starter Guide #2 [BUILD ORDER] (Updated 2017 LOTV)",
+      "excerpt": "We go over a very basic Zerg build order designed to get you into the midgame with a good economy and options. These guides are in no particular order, nor are they meant for COMPLETELY NEW (less than 10 games) players, instead are all meant to help improve generally!",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-starter-guide-2-build-order-updated-2017-lotv/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-starter-guide-2-build-order-updated-2017-lotv/",
+      "originalUrl": "https://youtube.com/watch?v=Jb-fmYlR6fI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jb-fmYlR6fI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M11S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-09-21T15:08:11-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Jb-fmYlR6fI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -4,6 +4,45 @@
   "page": 8,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-amazing-widow-mine-connections-cure-vs-rogue.md",
+      "title": "StarCraft 2: AMAZING Widow Mine Connections! (Cure vs Rogue)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Cure and Rogue. This series starts off with normal build orders, but quickly evolves to something much greater as both players test a variety of strategies.  Match is from the OlimoLeague December finals. Support OlimoLeague on Patreon here: https://www.patreon.com/olimoley",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-amazing-widow-mine-connections-cure-vs-rogue/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-amazing-widow-mine-connections-cure-vs-rogue/",
+      "originalUrl": "https://youtube.com/watch?v=263YrLQfh9s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/263YrLQfh9s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M23S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/263YrLQfh9s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-12-30T10:56:50-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-big-brain-baneling-bust.md",
       "title": "StarCraft 2: BIG BRAIN BANELING BUST!",
       "excerpt": "Two viewer submitted games of StarCraft 2 with some very big brain moves.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
@@ -154,45 +193,6 @@
       "publishedDateTime": "2017-11-20T08:23:55-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-byuns-empty-medivac-drop-dark-vs-byun.md",
-      "title": "StarCraft 2: ByuN's EMPTY Medivac Drop?! (Dark vs ByuN)",
-      "excerpt": "Best-of-5 series of StarCraft 2 between ByuN and Dark, two previous world champions of StarCraft 2.  OlimoLeague on Patreon: https://www.patreon.com/olimoley Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-empty-medivac-drop-dark-vs-byun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-empty-medivac-drop-dark-vs-byun/",
-      "originalUrl": "https://youtube.com/watch?v=KqbcrD-4vHk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KqbcrD-4vHk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M9S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KqbcrD-4vHk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-05-10T03:55:40-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-cheesy-terran-cheese.md",
       "title": "StarCraft 2: CHEESY TERRAN CHEESE!",
       "excerpt": "Why build inside your own base when you can also Proxy them? Subscribe for more videos: http://lowko.tv/youtube Proxy Thor: https://goo.gl/qgLVyt  In this match the Terran player decides to get cheesy. However, he does not expect the response from the Zerg.  If you have an awesome replay of StarCraft",
@@ -268,6 +268,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-05-07T03:15:21-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-epic-game-the-map-is-completely-mined-out-dark-vs-zoun.md",
+      "title": "StarCraft 2: EPIC GAME - The Map Is COMPLETELY Mined Out! (Dark vs Zoun)",
+      "excerpt": "Awesome game of Zerg versus Protoss in StarCraft 2 between Dark and Zoun.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-game-the-map-is-completely-mined-out-dark-vs-zoun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-the-map-is-completely-mined-out-dark-vs-zoun/",
+      "originalUrl": "https://youtube.com/watch?v=ftIzX5OlUso",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ftIzX5OlUso\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M55S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ftIzX5OlUso/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-05-06T04:15:18-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-epic-team-game-2v2.md",
@@ -1102,44 +1140,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-04-23T04:40:18-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-tons-of-nukes-in-a-pro-game.md",
-      "title": "StarCraft 2: TONS OF NUKES IN A PRO GAME!",
-      "excerpt": "An incredible match between soO and INnoVation. Subscribe for more videos: http://lowko.tv/youtube Macro Wars: https://goo.gl/1c32tn  Tactical Nukes were usually considered to be mostly a unique mechanic. These days however, it gets used more and more in professional games and in this one... Tactical",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-tons-of-nukes-in-a-pro-game/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-tons-of-nukes-in-a-pro-game/",
-      "originalUrl": "https://youtube.com/watch?v=FcnhekTNHPg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FcnhekTNHPg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M39S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FcnhekTNHPg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-03-06T01:32:40-08:00"
     }
   ],
   "nextPage": 9

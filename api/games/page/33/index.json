@@ -4,6 +4,44 @@
   "page": 33,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-two-hero-banshees.md",
+      "title": "StarCraft 2: Two Hero Banshees!",
+      "excerpt": "HeRoMaRinE versus Reynor in a professional Zerg versus Terran in StarCraft 2. Big Gabe gets an advantage in the early game, but facing off against Reynor is not an easy task as he is known to defend with minimal defences and relentless counter attacks.  Get more videos & support my work: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-two-hero-banshees/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-two-hero-banshees/",
+      "originalUrl": "https://youtube.com/watch?v=PM-cUmiNpYo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PM-cUmiNpYo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M47S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PM-cUmiNpYo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-22T04:52:42-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-ultralisks-vs-skytoss.md",
       "title": "StarCraft 2: ULTRALISKS vs SKYTOSS?!",
       "excerpt": "Ultralisks vs units that fly from Protoss? What? Subscribe for more videos: http://lowko.tv/youtube Mass Battlecruiser switch: https://goo.gl/ibLRG4  Dark vs herO in a professional match of Zerg vs Protoss. Even though Dark knows his opponent is going for the late game Skytoss army, he doesn't care and",
@@ -1102,44 +1140,7 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-07-24T03:20:07-07:00"
-    },
-    {
-      "path": "_games/sc2hl-proxy-vs-proxy-maru-vs-innovation-starcraft-2-starleague.md",
-      "title": "PROXY vs PROXY - Maru vs Innovation - StarCraft 2 Starleague",
-      "excerpt": "Maru and Innovation both go for 2 rax reaper, landing in a weird TvT proxy vs proxy situation.  During the Starcraft 2 Starleague group stage  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-proxy-vs-proxy-maru-vs-innovation-starcraft-2-starleague/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-proxy-vs-proxy-maru-vs-innovation-starcraft-2-starleague/",
-      "originalUrl": "https://youtube.com/watch?v=koQe2bgZfpw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/koQe2bgZfpw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M40S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/koQe2bgZfpw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-07-24T03:19:50-07:00"
     }
-  ]
+  ],
+  "nextPage": 34
 }

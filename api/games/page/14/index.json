@@ -4,6 +4,44 @@
   "page": 14,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-non-stop-zerg-cheese-serral-vs-elazer.md",
+      "title": "StarCraft 2: NON-STOP ZERG CHEESE! (Serral vs Elazer)",
+      "excerpt": "Very cheesy series of StarCraft 2 between Serral and Elazer. Zerg rushes, Drone pulls, Zergling cheese, early Spawning Pools and perfect micro in this best-of-5 series.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-non-stop-zerg-cheese-serral-vs-elazer/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-non-stop-zerg-cheese-serral-vs-elazer/",
+      "originalUrl": "https://youtube.com/watch?v=uVVuHUOLjGw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uVVuHUOLjGw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uVVuHUOLjGw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-05-29T00:58:39-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-not-quite-your-normal-protoss-vs-terran.md",
       "title": "StarCraft 2: Not Quite Your Normal Protoss vs Terran!",
       "excerpt": "Not quite your standard Protoss versus Terran game. Subscribe for more videos: http://lowko.tv/youtube Insane Proxy Barracks: https://goo.gl/8m0B4g  In this video I cast a Silver League Protoss versus Terran in StarCraft 2. This match turns out to be not quite your regular game of Protoss versus Terran.",
@@ -1104,45 +1142,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-13T01:56:20-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-terran-mech-vs-zerg-swarm.md",
-      "title": "StarCraft 2: TERRAN MECH vs ZERG SWARM!",
-      "excerpt": "Stephano vs DeMusliM in a really cool macro focused Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube Has vs Kelazhur: https://goo.gl/pqA6ws  While Stephano starts this game off thinking that he was going up against a Bio based player, DeMusliM quickly secures 4 bases and starts producing",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-mech-vs-zerg-swarm/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-terran-mech-vs-zerg-swarm/",
-      "originalUrl": "https://youtube.com/watch?v=atDlF8G-PD0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/atDlF8G-PD0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M50S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/atDlF8G-PD0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-07-30T02:52:40-07:00"
     }
   ],
   "nextPage": 15

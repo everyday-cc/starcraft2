@@ -4,44 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-has-is-playing-next-year-strategies-creator-vs-has.md",
-      "title": "StarCraft 2: HAS Is Playing Next-Year Strategies?! (Creator vs Has)",
-      "excerpt": "Fun match of Protoss versus Protoss in StarCraft 2 between Has and Creator.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-has-is-playing-next-year-strategies-creator-vs-has/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-has-is-playing-next-year-strategies-creator-vs-has/",
-      "originalUrl": "https://youtube.com/watch?v=EY33CBhYJIs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EY33CBhYJIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M46S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EY33CBhYJIs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-04-22T04:32:10-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-reynor-best-of-5.md",
       "title": "StarCraft 2: SERRAL vs REYNOR! (Best-of-5)",
       "excerpt": "Best-of-5 series of top level StarCraft 2 between Reynor versus Serral.  Serral cheesing: https://youtu.be/6F0UJmOXW3U  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
@@ -152,6 +114,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-02-21T02:41:32-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-bly-plays-hyper-aggressive-zerg-maxpax-best-of-3.md",
+      "title": "StarCraft 2: Bly Plays HYPER AGGRESSIVE Zerg! (MaxPax Best-of-3)",
+      "excerpt": "Zerg can't be played much more aggressively than in this best-of-3 series in StarCraft 2. In this StarCraft 2 match I cast a game between Bly and MaxPax.  Bly vs goblin: https://youtu.be/CCpA8GYEl6k  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-bly-plays-hyper-aggressive-zerg-maxpax-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-bly-plays-hyper-aggressive-zerg-maxpax-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=_VaXp8uHEic",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_VaXp8uHEic\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M15S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_VaXp8uHEic/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-12T03:39:56-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-nuke-dream-viewer-games.md",
@@ -460,39 +460,6 @@
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
     },
     {
-      "path": "_games/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series.md",
-      "title": "Best Nukes of Never Attack to Grandmaster Series!",
-      "excerpt": "Welcome to a fan-made supercut of all of Beastyqt's Nukes! Enjoy this Nuke Reel!  Check out Black Fire's channel who edited this video: https://www.youtube.com/channel/UCT2zCxLrL91NILOBHcRAELA/featured?  #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series/",
-      "originalUrl": "https://youtube.com/watch?v=-HaQ_9HnPkw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-HaQ_9HnPkw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M52S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 63,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-HaQ_9HnPkw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-27T05:37:31-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-best-game-of-2020-byun-vs-serral.md",
       "title": "StarCraft 2: BEST Game Of 2020?! (ByuN vs Serral)",
       "excerpt": "One of the best games of the year in StarCraft 2. An epic match of Zerg versus Terran between Serral and ByuN. Two previous world champions of the game.   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
@@ -684,6 +651,163 @@
       "publishedDateTime": "2021-04-14T03:58:39-07:00"
     },
     {
+      "path": "_games/collections/beastyqtsc2-never-attack-to-grandmaster.md",
+      "title": "Never Attack to Grandmaster",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/beastyqtsc2-never-attack-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/collections/beastyqtsc2-never-attack-to-grandmaster/",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "topItems": [
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series.md",
+          "title": "StarCraft 2: Never Attack to Grandmaster.....With Nukes! - NEW SERIES!",
+          "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series/",
+          "originalUrl": "https://youtube.com/watch?v=dxFmLI_uM9s",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dxFmLI_uM9s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT39M8S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 53,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/dxFmLI_uM9s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-04-24T05:02:15-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-mass-nuking-hasstarted-never-attack-to-grandmaster.md",
+          "title": "StarCraft 2: MASS Nuking has.....STARTED! - Never Attack to Grandmaster!",
+          "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-nuking-hasstarted-never-attack-to-grandmaster/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-nuking-hasstarted-never-attack-to-grandmaster/",
+          "originalUrl": "https://youtube.com/watch?v=YGGuH8v4wXY",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YGGuH8v4wXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT34M3S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2"
+          ],
+          "heat": 51,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/YGGuH8v4wXY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-04-24T17:16:01-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-master-baiter-sultanqt-strikes-again-never-attack-to-grandmaster.md",
+          "title": "StarCraft 2: Master-Baiter Sultanqt Strikes Again! - Never Attack to Grandmaster",
+          "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-master-baiter-sultanqt-strikes-again-never-attack-to-grandmaster/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-master-baiter-sultanqt-strikes-again-never-attack-to-grandmaster/",
+          "originalUrl": "https://youtube.com/watch?v=phVGrLt08Oo",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/phVGrLt08Oo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT36M16S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/phVGrLt08Oo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-04-26T02:52:39-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-my-opponent-broke-his-keyboard-never-attack-to-grandmaster.md",
+          "title": "StarCraft 2: My Opponent Broke His Keyboard! - Never Attack to Grandmaster",
+          "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-my-opponent-broke-his-keyboard-never-attack-to-grandmaster/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-my-opponent-broke-his-keyboard-never-attack-to-grandmaster/",
+          "originalUrl": "https://youtube.com/watch?v=An4ug7RI1qE",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/An4ug7RI1qE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT45M5S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2"
+          ],
+          "heat": 53,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/An4ug7RI1qE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-04-27T05:22:58-07:00"
+        }
+      ],
+      "size": 28,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dxFmLI_uM9s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-cannon-rushing-a-terran-florencio.md",
       "title": "StarCraft 2: CANNON RUSHING A TERRAN?! (Florencio)",
       "excerpt": "Florencio is back with a crazy game of StarCraft 2. In this Master League match of Terran versus Protoss we start with a Cannon Rush but quickly gets into one of the strangest games of SC2 that I've ever seen... With lots of cringy moments and terrible decisions added in the mix.  Get more videos & support",
@@ -837,6 +961,204 @@
       "publishedDateTime": "2021-03-01T04:59:54-08:00"
     },
     {
+      "path": "_games/collections/beastyqtsc2-cannon-rushing-to-grandmaster-series.md",
+      "title": "Cannon Rushing to Grandmaster Series!",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/beastyqtsc2-cannon-rushing-to-grandmaster-series/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/collections/beastyqtsc2-cannon-rushing-to-grandmaster-series/",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "topItems": [
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-the-most-salt-inducing-series-yet-cannon-rushing-to-grandmaster-episode-1.md",
+          "title": "StarCraft 2: The Most SALT Inducing Series Yet! - Cannon Rushing to Grandmaster - Episode 1",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-the-most-salt-inducing-series-yet-cannon-rushing-to-grandmaster-episode-1/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-the-most-salt-inducing-series-yet-cannon-rushing-to-grandmaster-episode-1/",
+          "originalUrl": "https://youtube.com/watch?v=Gg-KYV9GWyc",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gg-KYV9GWyc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT54M18S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 53,
+          "tags": [
+            "Cheese",
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/Gg-KYV9GWyc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-10-25T04:23:00-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2.md",
+          "title": "StarCraft 2: Are You Jerking Me...? - Cannon Rushing to Grandmaster - Episode 2",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2/",
+          "originalUrl": "https://youtube.com/watch?v=zKB6EX4t-vM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zKB6EX4t-vM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT51M24S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 52,
+          "tags": [
+            "Cheese",
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/zKB6EX4t-vM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-10-26T03:26:41-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-proxy-nexus-warp-in-cannon-rushing-to-grandmaster-episode-3.md",
+          "title": "StarCraft 2: Proxy Nexus Warp-in! - Cannon Rushing to Grandmaster - Episode 3",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-proxy-nexus-warp-in-cannon-rushing-to-grandmaster-episode-3/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-proxy-nexus-warp-in-cannon-rushing-to-grandmaster-episode-3/",
+          "originalUrl": "https://youtube.com/watch?v=XUESn0DFMEk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XUESn0DFMEk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT45M29S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 51,
+          "tags": [
+            "Cheese",
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/XUESn0DFMEk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-10-29T05:14:09-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-cannon-rushing-with-the-colossus-support-cannon-rushing-to-grandmaster-episode-5.md",
+          "title": "StarCraft 2: Cannon Rushing With The Colossus Support! - Cannon Rushing to Grandmaster - Episode 5",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-cannon-rushing-with-the-colossus-support-cannon-rushing-to-grandmaster-episode-5/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-cannon-rushing-with-the-colossus-support-cannon-rushing-to-grandmaster-episode-5/",
+          "originalUrl": "https://youtube.com/watch?v=HsRx_dpPjf0",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HsRx_dpPjf0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT33M8S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "tags": [
+            "Cheese",
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/HsRx_dpPjf0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-11-02T06:08:20-07:00"
+        }
+      ],
+      "size": 8,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Gg-KYV9GWyc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection"
+    },
+    {
+      "path": "_games/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series.md",
+      "title": "Best Nukes of Never Attack to Grandmaster Series!",
+      "excerpt": "Welcome to a fan-made supercut of all of Beastyqt's Nukes! Enjoy this Nuke Reel!  Check out Black Fire's channel who edited this video: https://www.youtube.com/channel/UCT2zCxLrL91NILOBHcRAELA/featured?  #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series/",
+      "originalUrl": "https://youtube.com/watch?v=-HaQ_9HnPkw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-HaQ_9HnPkw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M52S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 61,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-HaQ_9HnPkw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-27T05:37:31-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-byun-reinvents-terran-strategies.md",
       "title": "StarCraft 2: ByuN REINVENTS Terran Strategies!",
       "excerpt": "Awesome series of Zerg versus Terran between Solar and ByuN. In this best-of-3 ByuN seems to renew Terran strategies in both the early and the mid game.  Match is from the OlimoLeague: https://www.patreon.com/olimoley  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv",
@@ -951,171 +1273,6 @@
       "publishedDateTime": "2017-07-24T03:19:50-07:00"
     },
     {
-      "path": "_games/collections/beastyqtsc2-cannon-rushing-to-grandmaster-series.md",
-      "title": "Cannon Rushing to Grandmaster Series!",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/beastyqtsc2-cannon-rushing-to-grandmaster-series/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/collections/beastyqtsc2-cannon-rushing-to-grandmaster-series/",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "topItems": [
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-the-most-salt-inducing-series-yet-cannon-rushing-to-grandmaster-episode-1.md",
-          "title": "StarCraft 2: The Most SALT Inducing Series Yet! - Cannon Rushing to Grandmaster - Episode 1",
-          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-the-most-salt-inducing-series-yet-cannon-rushing-to-grandmaster-episode-1/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-the-most-salt-inducing-series-yet-cannon-rushing-to-grandmaster-episode-1/",
-          "originalUrl": "https://youtube.com/watch?v=Gg-KYV9GWyc",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gg-KYV9GWyc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT54M18S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Protoss"
-          ],
-          "heat": 52,
-          "tags": [
-            "Cheese",
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/Gg-KYV9GWyc/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2018-10-25T04:23:00-07:00"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2.md",
-          "title": "StarCraft 2: Are You Jerking Me...? - Cannon Rushing to Grandmaster - Episode 2",
-          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2/",
-          "originalUrl": "https://youtube.com/watch?v=zKB6EX4t-vM",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zKB6EX4t-vM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT51M24S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Protoss"
-          ],
-          "heat": 51,
-          "tags": [
-            "Cheese",
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/zKB6EX4t-vM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2018-10-26T03:26:41-07:00"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-proxy-nexus-warp-in-cannon-rushing-to-grandmaster-episode-3.md",
-          "title": "StarCraft 2: Proxy Nexus Warp-in! - Cannon Rushing to Grandmaster - Episode 3",
-          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-proxy-nexus-warp-in-cannon-rushing-to-grandmaster-episode-3/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-proxy-nexus-warp-in-cannon-rushing-to-grandmaster-episode-3/",
-          "originalUrl": "https://youtube.com/watch?v=XUESn0DFMEk",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XUESn0DFMEk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT45M29S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Protoss"
-          ],
-          "heat": 50,
-          "tags": [
-            "Cheese",
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/XUESn0DFMEk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2018-10-29T05:14:09-07:00"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-cannon-rushing-with-the-colossus-support-cannon-rushing-to-grandmaster-episode-5.md",
-          "title": "StarCraft 2: Cannon Rushing With The Colossus Support! - Cannon Rushing to Grandmaster - Episode 5",
-          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-cannon-rushing-with-the-colossus-support-cannon-rushing-to-grandmaster-episode-5/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-cannon-rushing-with-the-colossus-support-cannon-rushing-to-grandmaster-episode-5/",
-          "originalUrl": "https://youtube.com/watch?v=HsRx_dpPjf0",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HsRx_dpPjf0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT33M8S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Protoss"
-          ],
-          "heat": 51,
-          "tags": [
-            "Cheese",
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/HsRx_dpPjf0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2018-11-02T06:08:20-07:00"
-        }
-      ],
-      "size": 8,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Gg-KYV9GWyc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection"
-    },
-    {
       "path": "_games/collections/beastyqtsc2-mass-marines-to-grandmaster.md",
       "title": "MASS Marines to Grandmaster!",
       "excerpt": "",
@@ -1147,7 +1304,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 52,
+          "heat": 54,
           "tags": [
             "Live"
           ],
@@ -1213,7 +1370,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 50,
+          "heat": 51,
           "tags": [
             "Live"
           ],
@@ -1246,7 +1403,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 50,
+          "heat": 51,
           "tags": [
             "Live"
           ],
@@ -1277,11 +1434,11 @@
       "type": "collection"
     },
     {
-      "path": "_games/collections/beastyqtsc2-mass-void-rays-to-grandmaster.md",
-      "title": "MASS Void Rays to Grandmaster",
+      "path": "_games/collections/beastyqtsc2-only-sentries-to-grandmaster.md",
+      "title": "ONLY Sentries to Grandmaster",
       "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/beastyqtsc2-mass-void-rays-to-grandmaster/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/collections/beastyqtsc2-mass-void-rays-to-grandmaster/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/beastyqtsc2-only-sentries-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/collections/beastyqtsc2-only-sentries-to-grandmaster/",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -1292,14 +1449,14 @@
       ],
       "topItems": [
         {
-          "path": "_games/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster.md",
-          "title": "StarCraft 2: MASS Void Rays to Grandmaster!",
-          "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster/",
-          "originalUrl": "https://youtube.com/watch?v=qyvOV-b5TZs",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qyvOV-b5TZs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT39M22S",
+          "path": "_games/beastyqtsc2-starcraft-2-only-sentries-to-grandmaster.md",
+          "title": "StarCraft 2: ONLY Sentries to Grandmaster!!!",
+          "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-only-sentries-to-grandmaster/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-only-sentries-to-grandmaster/",
+          "originalUrl": "https://youtube.com/watch?v=afB5F1bvx90",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/afB5F1bvx90\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT41M53S",
           "provider": {
             "name": "BeastyqtSC2",
             "domain": "youtube.com"
@@ -1308,13 +1465,13 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 52,
+          "heat": 50,
           "tags": [
             "Live"
           ],
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/qyvOV-b5TZs/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/afB5F1bvx90/maxresdefault.jpg",
               "width": 1280,
               "height": 720,
               "isCached": true
@@ -1322,17 +1479,17 @@
           ],
           "content": "\r\n",
           "type": "video",
-          "publishedDateTime": "2019-11-30T04:55:08-08:00"
+          "publishedDateTime": "2019-07-17T13:38:31-07:00"
         },
         {
-          "path": "_games/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy.md",
-          "title": "StarCraft 2: Another IMBALANCED Protoss Strategy!",
-          "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy/",
-          "originalUrl": "https://youtube.com/watch?v=fG5sjcAyeow",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fG5sjcAyeow\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT37M6S",
+          "path": "_games/beastyqtsc2-starcraft-2-mass-sentries-vs-tanks-and-thors.md",
+          "title": "StarCraft 2: MASS Sentries vs Tanks and Thors?",
+          "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  There are sooo many gems from playing this series on stream - from splitting Sentries vs Ultralisks, to trying to break Terran Mech,",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-sentries-vs-tanks-and-thors/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-sentries-vs-tanks-and-thors/",
+          "originalUrl": "https://youtube.com/watch?v=vUVCm0iEJuk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vUVCm0iEJuk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT48M49S",
           "provider": {
             "name": "BeastyqtSC2",
             "domain": "youtube.com"
@@ -1347,7 +1504,7 @@
           ],
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/fG5sjcAyeow/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/vUVCm0iEJuk/maxresdefault.jpg",
               "width": 1280,
               "height": 720,
               "isCached": true
@@ -1355,17 +1512,17 @@
           ],
           "content": "\r\n",
           "type": "video",
-          "publishedDateTime": "2019-12-01T03:18:56-08:00"
+          "publishedDateTime": "2019-07-18T15:54:23-07:00"
         },
         {
-          "path": "_games/beastyqtsc2-starcraft-2-mass-void-rays-vs-mass-bio-basetrade.md",
-          "title": "StarCraft 2: MASS Void Rays vs MASS Bio BASETRADE!",
-          "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-void-rays-vs-mass-bio-basetrade/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-void-rays-vs-mass-bio-basetrade/",
-          "originalUrl": "https://youtube.com/watch?v=mx45Kv3pw3E",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mx45Kv3pw3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT39M11S",
+          "path": "_games/beastyqtsc2-starcraft-2-hello-anyone-there.md",
+          "title": "StarCraft 2: HELLO? Anyone There?",
+          "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  This set of games in this series ends with a great turn of events - my opponent thinks I'm actually AlphaStar!   Feel free to let me",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-hello-anyone-there/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-hello-anyone-there/",
+          "originalUrl": "https://youtube.com/watch?v=mPtPn89RYrg",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mPtPn89RYrg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT33M46S",
           "provider": {
             "name": "BeastyqtSC2",
             "domain": "youtube.com"
@@ -1380,7 +1537,7 @@
           ],
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/mx45Kv3pw3E/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/mPtPn89RYrg/maxresdefault.jpg",
               "width": 1280,
               "height": 720,
               "isCached": true
@@ -1388,17 +1545,17 @@
           ],
           "content": "\r\n",
           "type": "video",
-          "publishedDateTime": "2019-12-06T04:16:47-08:00"
+          "publishedDateTime": "2019-07-20T04:02:45-07:00"
         },
         {
-          "path": "_games/beastyqtsc2-starcraft-2-sniping-all-orbital-commands-with-chad-rays.md",
-          "title": "StarCraft 2: Sniping ALL Orbital Commands With Chad Rays!",
-          "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-sniping-all-orbital-commands-with-chad-rays/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-sniping-all-orbital-commands-with-chad-rays/",
-          "originalUrl": "https://youtube.com/watch?v=GxWVeRPPqo4",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GxWVeRPPqo4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT40M19S",
+          "path": "_games/beastyqtsc2-starcraft-2-cocky-stream-sniper.md",
+          "title": "StarCraft 2: Cocky Stream Sniper!",
+          "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  Folks in chat on my stream think they can snipe me and get away with it. Not if I have anything to say about!   Feel free to let me",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-cocky-stream-sniper/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-cocky-stream-sniper/",
+          "originalUrl": "https://youtube.com/watch?v=tg2hFwPGltk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tg2hFwPGltk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT16M50S",
           "provider": {
             "name": "BeastyqtSC2",
             "domain": "youtube.com"
@@ -1407,13 +1564,13 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 50,
+          "heat": 51,
           "tags": [
             "Live"
           ],
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/GxWVeRPPqo4/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/tg2hFwPGltk/maxresdefault.jpg",
               "width": 1280,
               "height": 720,
               "isCached": true
@@ -1421,171 +1578,14 @@
           ],
           "content": "\r\n",
           "type": "video",
-          "publishedDateTime": "2019-12-06T15:32:01-08:00"
+          "publishedDateTime": "2019-07-20T04:11:24-07:00"
         }
       ],
-      "size": 24,
+      "size": 12,
       "heat": 61,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/qyvOV-b5TZs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection"
-    },
-    {
-      "path": "_games/collections/beastyqtsc2-never-attack-to-grandmaster.md",
-      "title": "Never Attack to Grandmaster",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/beastyqtsc2-never-attack-to-grandmaster/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/collections/beastyqtsc2-never-attack-to-grandmaster/",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "topItems": [
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series.md",
-          "title": "StarCraft 2: Never Attack to Grandmaster.....With Nukes! - NEW SERIES!",
-          "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series/",
-          "originalUrl": "https://youtube.com/watch?v=dxFmLI_uM9s",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dxFmLI_uM9s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT39M8S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 54,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/dxFmLI_uM9s/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2020-04-24T05:02:15-07:00"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-mass-nuking-hasstarted-never-attack-to-grandmaster.md",
-          "title": "StarCraft 2: MASS Nuking has.....STARTED! - Never Attack to Grandmaster!",
-          "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-nuking-hasstarted-never-attack-to-grandmaster/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-nuking-hasstarted-never-attack-to-grandmaster/",
-          "originalUrl": "https://youtube.com/watch?v=YGGuH8v4wXY",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YGGuH8v4wXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT34M3S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2"
-          ],
-          "heat": 51,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/YGGuH8v4wXY/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2020-04-24T17:16:01-07:00"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-master-baiter-sultanqt-strikes-again-never-attack-to-grandmaster.md",
-          "title": "StarCraft 2: Master-Baiter Sultanqt Strikes Again! - Never Attack to Grandmaster",
-          "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-master-baiter-sultanqt-strikes-again-never-attack-to-grandmaster/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-master-baiter-sultanqt-strikes-again-never-attack-to-grandmaster/",
-          "originalUrl": "https://youtube.com/watch?v=phVGrLt08Oo",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/phVGrLt08Oo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT36M16S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2"
-          ],
-          "heat": 50,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/phVGrLt08Oo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2020-04-26T02:52:39-07:00"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-my-opponent-broke-his-keyboard-never-attack-to-grandmaster.md",
-          "title": "StarCraft 2: My Opponent Broke His Keyboard! - Never Attack to Grandmaster",
-          "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-my-opponent-broke-his-keyboard-never-attack-to-grandmaster/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-my-opponent-broke-his-keyboard-never-attack-to-grandmaster/",
-          "originalUrl": "https://youtube.com/watch?v=An4ug7RI1qE",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/An4ug7RI1qE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT45M5S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2"
-          ],
-          "heat": 51,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/An4ug7RI1qE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2020-04-27T05:22:58-07:00"
-        }
-      ],
-      "size": 28,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dxFmLI_uM9s/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/afB5F1bvx90/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -79,14 +79,14 @@
       "publishedDateTime": "2018-10-16T07:21:19-07:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series.md",
-      "title": "StarCraft 2: Never Attack to Grandmaster.....With Nukes! - NEW SERIES!",
-      "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series/",
-      "originalUrl": "https://youtube.com/watch?v=dxFmLI_uM9s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dxFmLI_uM9s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M8S",
+      "path": "_games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster.md",
+      "title": "StarCraft 2: MASS Marines to Grandmaster!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=dTWvlG6Lork",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dTWvlG6Lork\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M15S",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -101,7 +101,7 @@
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/dxFmLI_uM9s/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/dTWvlG6Lork/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -109,7 +109,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-04-24T05:02:15-07:00"
+      "publishedDateTime": "2019-09-14T04:35:04-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-a-ridiculous-display-of-skill.md",
@@ -1104,34 +1104,28 @@
       "publishedDateTime": "2017-07-27T09:48:48-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-amazing-bio-vs-mech-cure-vs-innovation.md",
-      "title": "StarCraft 2: AMAZING Bio vs Mech! (Cure vs INnoVation)",
-      "excerpt": "Amazing game of top-level StarCraft 2 between Cure and INnoVation. In this professional match Cure decides to take the approach of Marines, Marauders and Medivacs whereas INnoVation decides to focus his unit composition on primarily Siege Tanks and Hellions.  Get more videos & support my work: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-amazing-bio-vs-mech-cure-vs-innovation/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-amazing-bio-vs-mech-cure-vs-innovation/",
-      "originalUrl": "https://youtube.com/watch?v=Hg6no_2xbPs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Hg6no_2xbPs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M30S",
+      "path": "_games/beastyqtsc2-starcraft-2-my-opponent-broke-his-keyboard-never-attack-to-grandmaster.md",
+      "title": "StarCraft 2: My Opponent Broke His Keyboard! - Never Attack to Grandmaster",
+      "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-my-opponent-broke-his-keyboard-never-attack-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-my-opponent-broke-his-keyboard-never-attack-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=An4ug7RI1qE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/An4ug7RI1qE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M5S",
       "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
       },
       "topics": [
-        "StarCraft 2",
-        "Terran"
+        "StarCraft 2"
       ],
       "heat": 53,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Hg6no_2xbPs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/An4ug7RI1qE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1139,7 +1133,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-02-18T04:58:57-08:00"
+      "publishedDateTime": "2020-04-27T05:22:58-07:00"
     }
   ],
   "nextPage": 8

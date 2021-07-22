@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=Iy61JeUJva8
 type: video
 length: PT30M34S
 publishedDateTime: 2019-10-05T11:27:34Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Iy61JeUJva8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "AJhEAFFLj5C/5WiJHhf0n/lUFb1WywnnW5n0cthJSMgYjyw7DMpM1rxHQVCf6ouQD6dqZB+M5Lxp2bpI8NTtPXq+aqvztCVurn0rQPi/nN+LDsFhiQk+MNZw/ZADPJiipp7j7xz2an+rtx6u1eV3GF0d9eVQp8s3Rm04ufLeHIiTFaleP7kUcpRbgTDz+YmhbSW3DiKNq3UyhDDwGMTOA+HtOhA9BzAkjQFL/UrRWSdoBV+epdjku1WFx4NStLA815hodxKOAa9iUYGXlL3RSFQDvXdedrFw2cc9wagRvCMEgYq20TUGrcN8MzcQbWfHscwd4SAxljW4WSYy3T7PxkGSg1H51/GUKa7XR4jEZZdWrArJJY2UViaMXm0v3qruyPgfGoacifZ+NXMFtqBXrqvl5nGAMNvRKYSmXo9AEBw=;82m3gf3yI+WF7CyfRKGBNA=="
+secured: "a3doczamblog+3E6X3P+JrWVs1NVCl1uPAVPgKbjqk67vb9HTy56zaYGXXfEZ3HlLWAMk5/KqJpTeqC/j0ze6eccf66edgsZ/kb4c7/+vJXMM4pgbKrfbtERrnf3HhvtAUjkZGrK0Fb+2j/eIkwVG8uUWhhcXcvow/cBBxd/Ak6PK8TebZImf7DqVNik1NY/MB+TojSAVc3u/fIJC2P4IACurfHNbgTPVnIZtDv8eDWv0mdWU9Sct9squ57+6hgrzdTPks+hjAK8gAXwwJ4knrfMJXxlfSog33uJxVmTdcCB5GkCK6KEftAkRB9uMiMBL8iGXwMqrRWBcVLc8rrT5BXRu/DC0ixQRjWEX7mS62Bi2iSFKB7DTRydMHjKJJH/oD1mbhNg3lrcCKebSuV+TDhG5RS2KNhdByctUvdbKeU=;lbcemiCteCtj703GFpNVpQ=="
 ---
 

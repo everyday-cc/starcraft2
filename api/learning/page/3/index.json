@@ -4,85 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-serrals-zerg-build-order.md",
-      "title": "StarCraft 2: SERRAL'S ZERG BUILD ORDER!",
-      "excerpt": "Let's discuss Serral's Zerg vs Terran Roach push push! Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Guides & Tutorials: https://goo.gl/BEPvJo  In this video I go over a match that Serral recently played in the Grand Finals of Homestory Cup 18 versus INnoVation. Serral and many",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-serrals-zerg-build-order/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-serrals-zerg-build-order/",
-      "originalUrl": "https://youtube.com/watch?v=c9p20iRoWmo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c9p20iRoWmo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M10S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-11-27T04:12:24-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/c9p20iRoWmo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained.md",
-      "title": "StarCraft 2: Zerg vs Terran EXPLAINED!",
-      "excerpt": "Today's video is made in collaboration with Benetton. The sweater I'm wearing in this video: https://us.benetton.com/knit-sweater-in-100-cotton-beige-1598K1O31_1K9.html?utm_campaign=USA_MF_INFLUENCER_Adult_SpecialContent_SS21-Lowko_Intent_2021-03&utm_medium=live&utm_source=youtube.com  In this video",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained/",
-      "originalUrl": "https://youtube.com/watch?v=rGa7TwyZa_4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rGa7TwyZa_4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-04-28T02:19:50-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rGa7TwyZa_4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/winterstarcraft-learn-starcraft-advanced-guide-diamond-to-masters-all-races-part-1-updated-2018.md",
       "title": "Learn Starcraft - Advanced Guide (Diamond to Masters All Races) Part 1 [Updated 2018]",
       "excerpt": "A guide for more experienced players, detailing the things that diamond (and below) players frequently miss, and what to look for! Covers all races and builds. Required: https://www.sc2replaystats.com Replay Pack of All the Games: https://drive.google.com/open?id=16TEQx8mNyKoiKJvymM3l7Vnb5X53HHrX  Thumbnail",
@@ -377,6 +298,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/7Ezci19D-DY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-how-to-rapid-fire-warp-in-ultra-fast-technique.md",
+      "title": "Starcraft 2: How to Rapid Fire Warp In (Ultra Fast Technique)",
+      "excerpt": "You may have seen Rapid Fire Warp Ins before, but never THIS fast! This is going to change your protoss macro in starcraft 2 forever. Let's get started!  Starcraft 2: How to Rapid Fire Warp In (Ultra Fast Technique) #Starcraft2 #Protoss #RapidFire  ♦ Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-how-to-rapid-fire-warp-in-ultra-fast-technique/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-how-to-rapid-fire-warp-in-ultra-fast-technique/",
+      "originalUrl": "https://youtube.com/watch?v=-gW8qeKeAIA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-gW8qeKeAIA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M25S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-06-08T20:40:41-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-gW8qeKeAIA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1034,6 +986,39 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss.md",
+      "title": "Learn Starcraft - SPEEDRUN TO MASTERS RANDOM | 30 Wins, 0 Losses - Terran, Zerg & Protoss",
+      "excerpt": "Making sure to use safe, solid builds to get an advantage when playing smart! Most build orders I think could be copied to success for platinum/diamond players.  Watch the stream - https://www.twitch.tv/wintergaming Tweeter - https://www.twitter.com/starcraftwinter Patreon - https://www.patreon.com/wintergaming",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=XWDpI2r_Ztc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XWDpI2r_Ztc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4H5M11S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-09-21T15:07:07-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XWDpI2r_Ztc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg",
+        "Terran",
+        "Protoss"
       ]
     }
   ],

@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/beastyqtsc2-that-sweet-juicy-grandma
 type: video
 length: PT46M8S
 publishedDateTime: 2020-10-26T13:20:57Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cfBqRFymELY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "v27vM/hZ4IHFKbl0w7m/psO1UCI5T3AbRm5Oq5LSiT0MZ1+H4DUJ+WPYIdk9RX5Y/MYWqvEpr3L0WwzvClaHRZhnC1lminHDTy+LHaO0Bh9JGHvzDiB3nf91DDsj7vi88mTVHyUts4OBTOI+H4ytC3gpSPGboKSdlC7wvbl/vW0n7sasKtH2Uj2PYs7ZRP1HE9Rw4SYSWLvwbNaUDbqBx3ldzitALml83GmsdQh6lqCA2CwbiJW/gW5UNxrj+TQ3IEX+CVRWtPG6RcRxecA9hfSBd4LspWnaKvrI6H1kPdyLRfDndzoNNP4RzB1Ei7xgCLCrgI1XXnLC6/ti6mE1mIKfN6J9C+av2XMM9cQAXgEpv84rp9xsqhHgsN5jzJItQio/7EBoQxal/nuE2vnZnqYVjQwAigL/JZEIkk53a9E=;DkwnKqw9ouUnbernaxoBug=="
+secured: "mWk+YzYHF5gDyv8Teh+bzxEQm9q43ZpzTMrDf7OAhIkGM1ZIIVnG7ExZ1bSmhLzSrlOgjA/c8BOHxh08lm3Zk/aX3cfsgbYTC1OEdyNyMxonWpYB4Iz4ULTdx/hahMq3aEghCZbCX5mAhjDAS5xLr5BWalHjEH2hCRraWpfdPKJP1epUhbLI/GgjWaIe8gX9YCRYAZBYo7WbVvQBrMQs8ZJkC3R/larCnLI9KMGj4rgi6vglJ6oLTlGpPdqOV86DU0y1P13qC3YEKKC0KrIL66la7Qo4k+GPNTKNmN0UTwWl6XeQIWSO9uH37N+cz6vScvOxM5/qcL7X4tlEUQc1iVQsyOGcO5BqezJm/yIGagK9fRno635TPrIJS2T2Z6bSXEafPQrQX+3GAUikKRHdUE+cIpkbi1vRKL3+wnnUguk=;Fmi8xF72ENs6RNG2pwrwFA=="
 ---
 

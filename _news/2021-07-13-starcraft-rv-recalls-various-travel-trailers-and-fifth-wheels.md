@@ -9,8 +9,8 @@ ampWebUrl: "https://www.consumeraffairs.com/amp/recalls/starcraft-rv-recalls-var
 cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/recalls/starcraft-rv-recalls-various-travel-trailers-and-fifth-wheels-071321.html"
 type: article
 quality: 57
-heat: 57
-published: false
+heat: 77
+published: true
 
 provider:
   name: ConsumerAffairs
@@ -24,6 +24,17 @@ images:
     width: 600
     height: 303
     isCached: true
+
+related:
+  - title: "Starcraft Chronicles: Calling all 3D animators and the like!"
+    excerpt: "If you're like us and still have nightly dreams of Starcraft 2 but wake up cold and alone to the fact that it's still not here, then this could be the project for you. Blizzplanet brings word that ..."
+    publishedDateTime: 2021-07-20T00:00:00Z
+    webUrl: "https://www.engadget.com/2006-07-19-calling-all-3d-animators-and-the-like.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 17
 
 secured: "yaRs+tXw/i/iYPY53cFjZbZPRXSin/RtGFrkw3OlWJC5CmwFIXnan13+V/0ICCrBOdK2alI12D2ftgt3u1ocpSHSW6Bo3a1sViUAFoQOMlWPsF80T2UHXYMHQkEroueWU3FmmZnyqaU6V6PD1hBFei/2ansZjxO2T9bpcv7SavMLQc0AQiCaLrAqEWFhKdWXjtJADiBlVS+tPAIULWzCQZ4sKH5oNxrb1RQjROI8vDOg5cDaFRHllQWX+px14Vyj7thmhVLFs+1DJqA7I3b2PtsIKeXizmkTey8i6MSCoF8Em9zJKJCiPoGvlnbWxIcd4nLIItPzU+hMkwmFdZZgk5i0dQXQv+c6Xhw+QCIHPxJFC4YDsPpxnWszItJV07SZpUifT3CoYH/noXWas8MXKT3p8XIYsAz2D+nOYXg4ILkGfgoZAXVRw/0c1ulRuduUHtkcSotC5Maj+m/UyrP/TAVWXuDJzndz/Dy1l8pF80ENJ5UbsXzLIOhnHxR1huBH9xVqRxyMKVgdtDNatsZ43g==;/TcZYDhdslbQAQFK8H8sGA=="
 ---

@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-burrowed-banelin
 type: video
 length: PT42M8S
 publishedDateTime: 2021-04-01T11:37:28Z
-heat: 58
+heat: 60
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aIYvo2vohCw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "NykIN0QXOgUDP2v6Pe+zzIDpEqSMGwUdEVssYBwSlABCUHTy6bvNG1FgS6BVfq0Zh2mKBD0PvyxKtBUEzgtUCvlJ7HQwwxzhL1mypwm2RXTH3H6d55xM8jEbVGlMAnLFoLSDQBuExFjIinYPg5KDlBvv3GhDSvBUBKf0j/PfTVOZeU5I6pPejYS00Xl0GuSRiNOLaY2vFxm4VxT/A46m8ESxKsLgnCEBR+aYT4TpjMZXrsRT+ToDLzP5pyRQ02vUazB/46xVLiYKktmWqdgso3MxOVDkMeWhkNuI5mPhemrzMt1aCryIio+J/oS0bTF8v7lBqdiyI15K4qX2YoQVLaO0kkb/RMcck/VzqZ7wNVDbTjTrO76znuNaIyEvN8sJdsNbd2BwCTb6CE+wT2dMFFJaN1LW6YSwh4hV0QAyi7I=;7v8FLxG7OkchY3TcYtSIoA=="
+secured: "VoSrWztBIqPUmsKoQ/WFIhSWYyQgd3vEtZMeuAN5sdf0wm2l5RI+U6cq67HAVFlrbMI588X78+I9yZCIxrCDZtYijxcLKMaTDL6gVSJ+i0V3BiAVWZvwZyIKdp+uYiYHYhDeJDxkJ/Qxh1RSm3mu+vFPBalqcPDkYYX+LZvNSQY86VsK7iD2zX04wRC8GfZsCTf5MmtoI801ESxVaIa1SfKKW7OQyfiTf1TknOuNGJdT1BzTHcPauu/H1JJdjxuoNTwygrsEWztmqScH66eXnfEng9Wx60vISLZNEUjualKOx2crEjhsiVoLucilIKol7EHHUxRJMTTsustIBTaBL3+PTllj4sno7rxtkThHx1h2DVNb3+W5M4eb760C/7Fn/UObAKo4j1xFMRK8y+XoOkPOoUpimu388E3I0il76/I=;2dFySg0iu2DpJKKmlvyaCQ=="
 ---
 

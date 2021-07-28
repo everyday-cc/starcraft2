@@ -113,44 +113,6 @@
       "publishedDateTime": "2021-07-21T05:04:43-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-innovations-final-tournament.md",
-      "title": "StarCraft 2: INnoVation's FINAL Tournament?!",
-      "excerpt": "In this video I cast a best-of-3 series between INnoVation and Nice in StarCraft 2, a Terran versus Protoss. INnoVation will be starting his mandatory military service soon. He mentioned that because of his age he will likely not be coming back to StarCraft 2.  Support my work on Patreon: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-innovations-final-tournament/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-innovations-final-tournament/",
-      "originalUrl": "https://youtube.com/watch?v=97iiA5eH_DY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/97iiA5eH_DY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M12S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 139,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/97iiA5eH_DY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-19T02:10:24-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-grand-finals-match-maru-vs-reynor.md",
       "title": "StarCraft 2: The GRAND FINALS Match! (Maru vs Reynor)",
       "excerpt": "Reynor versus Maru in a professional match of StarCraft 2. This is the final game of the Dreamhack StarCraft 2 Masters 2021 Summer Season Finals, the final match of the grand finals of that tournament. In this game Maru decides to play Terran Mech, which is very uncommon. Reynor plays hyper aggressively",
@@ -188,6 +150,83 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-16T04:58:51-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-innovations-final-tournament.md",
+      "title": "StarCraft 2: INnoVation's FINAL Tournament?!",
+      "excerpt": "In this video I cast a best-of-3 series between INnoVation and Nice in StarCraft 2, a Terran versus Protoss. INnoVation will be starting his mandatory military service soon. He mentioned that because of his age he will likely not be coming back to StarCraft 2.  Support my work on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-innovations-final-tournament/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-innovations-final-tournament/",
+      "originalUrl": "https://youtube.com/watch?v=97iiA5eH_DY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/97iiA5eH_DY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M12S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 120,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/97iiA5eH_DY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-19T02:10:24-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-mysterious-terran-parting-vs-time.md",
+      "title": "StarCraft 2: The MYSTERIOUS Terran! (PartinG vs TIME)",
+      "excerpt": "TIME does not seem to participate in nearly as many StarCraft 2 events outside of China as he used to. It's been far too long since I casted one of this games, so in today's best-of-3 series he goes up against the top level Protoss player PartinG.  Support my work on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-mysterious-terran-parting-vs-time/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-mysterious-terran-parting-vs-time/",
+      "originalUrl": "https://youtube.com/watch?v=2VFeOkzggGA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2VFeOkzggGA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M7S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 120,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2VFeOkzggGA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-15T04:50:44-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-planetary-fortress-vs-proxy-nexus-crazy-viewer-games.md",
@@ -229,44 +268,6 @@
       "publishedDateTime": "2021-03-07T01:26:01-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-sneaky-disruptors-byun-vs-zoun.md",
-      "title": "StarCraft 2: SNEAKY Disruptors! (ByuN vs Zoun)",
-      "excerpt": "Professional match of StarCraft 2 between ByuN and Zoun.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-sneaky-disruptors-byun-vs-zoun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-sneaky-disruptors-byun-vs-zoun/",
-      "originalUrl": "https://youtube.com/watch?v=HbrOyQKQRdk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HbrOyQKQRdk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M1S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 117,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HbrOyQKQRdk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-05-28T03:06:11-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-byun-vs-rogue-on-treadmill-crazy-new-map.md",
       "title": "StarCraft 2: ByuN vs Rogue on TREADMILL! (Crazy New Map)",
       "excerpt": "This map called \"Treadmill\" just came in fifth in the most recent StarCraft 2 map tournament. In this video I cast a game on this crazy map between Rogue and ByuN. It features some very unusual designs which I personally really like. Such as a chain of speed circles at the top of the map, multiple high",
@@ -306,45 +307,6 @@
       "publishedDateTime": "2021-07-15T03:52:09-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-insane-game-mass-tactical-nukes-maru-vs-zest.md",
-      "title": "StarCraft 2: INSANE GAME - Mass Tactical Nukes! (Maru vs Zest)",
-      "excerpt": "Another amazing game of top-level StarCraft 2. This time around it is time for a Terran versus Protoss that goes to the late game. Mass Gateway, Command Center, Sky Toss, Sky Terran and Tactical Nukes are all part of this epic match.  Zest vs Dark: https://youtu.be/mUG5ryGpiV8  Support my work on Patreon:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-game-mass-tactical-nukes-maru-vs-zest/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-game-mass-tactical-nukes-maru-vs-zest/",
-      "originalUrl": "https://youtube.com/watch?v=inovDFegy6E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/inovDFegy6E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M5S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/inovDFegy6E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-13T03:43:54-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-maru.md",
       "title": "StarCraft 2: SERRAL VS MARU!",
       "excerpt": "It finally happened! Serral versus Maru in a best-of-3 series of StarCraft 2. These two have somehow managed to dodge each other in many tournaments, but today it's finally time to watch them face off against one another.  Lowko's Zerg vs Terran: https://youtu.be/-94UEY2W1oU  Become a YouTube member:",
@@ -382,6 +344,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-05T03:11:34-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-insane-game-mass-tactical-nukes-maru-vs-zest.md",
+      "title": "StarCraft 2: INSANE GAME - Mass Tactical Nukes! (Maru vs Zest)",
+      "excerpt": "Another amazing game of top-level StarCraft 2. This time around it is time for a Terran versus Protoss that goes to the late game. Mass Gateway, Command Center, Sky Toss, Sky Terran and Tactical Nukes are all part of this epic match.  Zest vs Dark: https://youtu.be/mUG5ryGpiV8  Support my work on Patreon:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-game-mass-tactical-nukes-maru-vs-zest/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-game-mass-tactical-nukes-maru-vs-zest/",
+      "originalUrl": "https://youtube.com/watch?v=inovDFegy6E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/inovDFegy6E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M5S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 106,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/inovDFegy6E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-13T03:43:54-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-worst-terran-build-order-viewer-games.md",

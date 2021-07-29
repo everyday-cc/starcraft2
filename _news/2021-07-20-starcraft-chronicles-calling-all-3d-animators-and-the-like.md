@@ -38,6 +38,22 @@ related:
         width: 600
         height: 303
         isCached: true
+  - title: "StarCraft II’s Extended Launch Trailer Revealed"
+    excerpt: "You may remember that a month ago, Blizzard released a most excellent trailer for StarCraft II to coincide with the NBA finals (of all things): Now, just days before StarCraft II‘s world debut ..."
+    publishedDateTime: 2021-07-21T00:00:00Z
+    webUrl: "https://www.themarysue.com/starcraft-ii-extended-launch-trailer/"
+    ampWebUrl: "https://www.themarysue.com/starcraft-ii-extended-launch-trailer/amp/"
+    cdnAmpWebUrl: "https://www-themarysue-com.cdn.ampproject.org/c/s/www.themarysue.com/starcraft-ii-extended-launch-trailer/amp/"
+    type: article
+    provider:
+      name: The Mary Sue
+      domain: themarysue.com
+    quality: 57
+    images:
+      - url: "https://www.themarysue.com/wp-content/uploads/2020/12/themarysue-defult-social.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
 
 secured: "W7goXKzdvWqFqEpLXtW80GlB0tceTzcCDXhLTPaS7ngxuWdbAInRtR9fOVwsTQ0npFsHdxOhkHfplfl7C3DZcoeIFhBtSbxBDKDQMEs88Ewo48wlzFwgp4Zqi6Vg/QxjosbeCKBIQLWhKThQjPnNffVfIoNLfRcK0v9cWC9q1YVZvBhcgJZbMg2dD/HoZIqRAV3EKYTuX6dhioSXqMIqcbE9knmu9Yn+XkhzvKJw2FTGKBi4UTtVmhTqkCUlNVb2QM6uBSnqlrx4tgzNxspH74r8oxZ/2SMB+BNEMgPsAtpediYEV086ORKElVwMTV7vN7DQbvyaP0BLu9tAeDG0WlMzzJnXRtcRauaQwHUKH7I=;kx93seZqe2w1Q0CGc63DBw=="
 ---

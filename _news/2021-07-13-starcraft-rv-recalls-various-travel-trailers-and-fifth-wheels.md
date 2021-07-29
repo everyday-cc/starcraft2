@@ -9,7 +9,7 @@ ampWebUrl: "https://www.consumeraffairs.com/amp/recalls/starcraft-rv-recalls-var
 cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/recalls/starcraft-rv-recalls-various-travel-trailers-and-fifth-wheels-071321.html"
 type: article
 quality: 57
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "StarCraft II’s Extended Launch Trailer Revealed"
+    excerpt: "You may remember that a month ago, Blizzard released a most excellent trailer for StarCraft II to coincide with the NBA finals (of all things): Now, just days before StarCraft II‘s world debut ..."
+    publishedDateTime: 2021-07-21T00:00:00Z
+    webUrl: "https://www.themarysue.com/starcraft-ii-extended-launch-trailer/"
+    ampWebUrl: "https://www.themarysue.com/starcraft-ii-extended-launch-trailer/amp/"
+    cdnAmpWebUrl: "https://www-themarysue-com.cdn.ampproject.org/c/s/www.themarysue.com/starcraft-ii-extended-launch-trailer/amp/"
+    type: article
+    provider:
+      name: The Mary Sue
+      domain: themarysue.com
+    quality: 57
+    images:
+      - url: "https://www.themarysue.com/wp-content/uploads/2020/12/themarysue-defult-social.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Starcraft Chronicles: Calling all 3D animators and the like!"
     excerpt: "If you're like us and still have nightly dreams of Starcraft 2 but wake up cold and alone to the fact that it's still not here, then this could be the project for you. Blizzplanet brings word that ..."
     publishedDateTime: 2021-07-20T00:00:00Z

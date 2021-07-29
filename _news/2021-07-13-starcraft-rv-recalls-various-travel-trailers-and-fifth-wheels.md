@@ -9,7 +9,7 @@ ampWebUrl: "https://www.consumeraffairs.com/amp/recalls/starcraft-rv-recalls-var
 cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/recalls/starcraft-rv-recalls-various-travel-trailers-and-fifth-wheels-071321.html"
 type: article
 quality: 57
-heat: 99
+heat: 100
 published: true
 
 provider:

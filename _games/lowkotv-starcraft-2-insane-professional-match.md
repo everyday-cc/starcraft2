@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=bU7QF8rLeBw
 type: video
 length: PT28M29S
 publishedDateTime: 2019-02-07T12:06:56Z
-heat: 57
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bU7QF8rLeBw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "D/9IVNBpItSuM/FPqpT6Z21kHkwUgZR3Mxq36XpY1+M472NKMufsvTr2iBbHFlqG35QHXcs/yI0d/iGNaKsm+YDc3tVTliiIGgYB7y/fHV6FNvl9ylSLSsnCedr5M+Is155WYKN7BtE6Rtx5j9ZioBi4s5t6c/AUrDimfnb7lz2ecDDFfaFv2krZqUEntnrR+zesUBzeoXmbVqFhlQ5DO2mCsqxeA73uGSQUmvpIDWcj5L9Q2lWGLeS8OHiJFQVsB7gPTNtGGkdXdpPr0keXgLJZ0YQ0e23ubVvBqt8uqgsNgEPKV4BzFwdZdRc3GvYcs0gzP3Bg68q7MCXUxySQijDOZ4OHdcziaUeaeq0JXOHPPSg509HXLeGAQ1bqe5zQg/QViGd8R5fcpwS1tdl1AaL9+au2EjgnnZkddX+S0htkxo1VUxR4Ux/apk5u3i9r;c969A3+hAltUvQPWAWD47A=="
+secured: "gWv04N/AGJr41cjK0XDNNKRr7VxPzjlbYFkPun8W3AA12xumB0queg9Tlm8OCv4IdauJplp4TVN6yIa9FVpMWzSXRU5Es1vOTnVWt8VOkThomYfB049KfXwgw6z36POzyfnXQ3TGmKccVaHNW4fysXRf1eOuIy8xgUusYQR0dOG8RIzodZNfWuqpdLa4A6u1ZX0ZI9+90G/2tBPS8besWOCe7HlCMDeFRDlW4Aw5s52PQRzZDT9ShTjfycGQuTjCWYJMZ7H1PueFM6BPiwLIO7qQjqjTGXJMns/6drQDucXtHhSn7PCQ++Cwr6Y+1CYc5CFYm2bjP1zT6ZFZZiJFdI9oRW4x6IfSP3rlRBP4mDJybSQuI1nveBtek9gBYdiNrY6PrYk2r6ctT6dj8rtf9q9IBbljpvjJl02osZ6oj1hCCXk+K1EsewpXCgv9c+ri;bsAE/0vxo/a/JaUCeTUbfg=="
 ---
 

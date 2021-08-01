@@ -4,6 +4,36 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/winterstarcraft-starcraft-2-updated-2018-basic-hotkeys-control-groups-and-production-tutorial.md",
+      "title": "Starcraft 2: Updated 2018 - Basic Hotkeys, Control Groups and Production Tutorial",
+      "excerpt": "Starcraft 2: Legacy of the Void.  I break down what I use hotkeys and control groups for, hopefully you find this video helpful!  Basic Breakdown -  1 - MAIN ARMY 2 - SPECIALTY CASTER (MCORE, QUEEN, DROP) 3 - SPELLCASTERS/FLYERS 4 - BASES 5- PRODUCTION 6 - ETCETC   Watch the highlights playlist (use",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-starcraft-2-updated-2018-basic-hotkeys-control-groups-and-production-tutorial/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-starcraft-2-updated-2018-basic-hotkeys-control-groups-and-production-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=R_NzuIPkq98",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R_NzuIPkq98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M39S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-11-19T09:04:35-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/R_NzuIPkq98/maxresdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-build-order-guide-double-stargate-phoenix-starcraft-2.md",
       "title": "Build Order Guide | Double Stargate Phoenix [Starcraft 2]",
       "excerpt": "Super strong, defensive protoss vs zerg (pvz) build order guide. This opening is going to give you incredible map control over zerg in the mid-game, letting you scout exactly what is coming your way and making it easy to feel in control of the game. This build also completely owns mutalisk transitions",
@@ -125,37 +155,6 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-how-to-drop-with-medivacs-starcraft-2-terran-tutorialguidehow-to-2021.md",
-      "title": "How to drop with medivacs | Starcraft 2 Terran Tutorial/Guide/How-To [2021]",
-      "excerpt": "How to drop with medivacs | Starcraft 2 Terran Tutorial/Guide/How-To #Starcraft #Terran #Tutorial  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-how-to-drop-with-medivacs-starcraft-2-terran-tutorialguidehow-to-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-how-to-drop-with-medivacs-starcraft-2-terran-tutorialguidehow-to-2021/",
-      "originalUrl": "https://youtube.com/watch?v=h5SWDtyqA6Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h5SWDtyqA6Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M26S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-06-16T16:02:10-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/h5SWDtyqA6Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
       ]
     },
     {
@@ -345,37 +344,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-sc2-zerg-guide-where-to-place-your-first-couple-overlords-2021.md",
-      "title": "SC2 Zerg Guide | Where to place your first couple overlords [2021]",
-      "excerpt": "Let's take a look at some zerg fundamentals! Where to place your overlords at the beginning of the game to defend cheese and also scout your opponent.  SC2 Zerg Guide | Where to place your first couple overlords [2021] #Starcraft2 #Zerg #Guide  0:00 - Overlord placement against Zerg 8:20 - Overlord placement",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-sc2-zerg-guide-where-to-place-your-first-couple-overlords-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-sc2-zerg-guide-where-to-place-your-first-couple-overlords-2021/",
-      "originalUrl": "https://youtube.com/watch?v=00TG2p2hJ6M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/00TG2p2hJ6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M10S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-06-23T22:01:49-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/00TG2p2hJ6M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-starcraft-2-how-to-defend-12-pool.md",
       "title": "Starcraft 2 | How to Defend 12 Pool",
       "excerpt": "https://www.hushangcoaching.com  Want more personalized lessons? HuShang has been coaching SC2 professionally for more than 6 years. You can contact him on discord or by email!  Discord: HuShang#9770 Email: hushangtutorials@outlook.com  Enjoying the content. Want to support HuShang Tutorials directly?https://www.patreon.com/hushangtutorials",
@@ -435,6 +403,37 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-zerg-guide-queen-management.md",
+      "title": "Starcraft 2 Zerg Guide | Queen Management",
+      "excerpt": "Often I see people's queens running around like aimless chickens. If you want to have amazing macro you need to keep your queens orderly. Let's take a look at how to do that!  Starcraft 2 Zerg Guide | Queen Management #Zerg #Queens #Starcraft2  ♦ Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-zerg-guide-queen-management/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-zerg-guide-queen-management/",
+      "originalUrl": "https://youtube.com/watch?v=-ZuuO8YrfH0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-ZuuO8YrfH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M29S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-05-29T15:26:15-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-ZuuO8YrfH0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
       ]
     },
     {

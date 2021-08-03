@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/sasha-scarlett-hostyn-world-record-star
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/sasha-scarlett-hostyn-world-record-starcraft-2?amp"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

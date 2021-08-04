@@ -9,7 +9,7 @@ ampWebUrl: "https://www.themarysue.com/starcraft-ii-extended-launch-trailer/amp/
 cdnAmpWebUrl: "https://www-themarysue-com.cdn.ampproject.org/c/s/www.themarysue.com/starcraft-ii-extended-launch-trailer/amp/"
 type: article
 quality: 57
-heat: 80
+heat: 81
 published: true
 
 provider:

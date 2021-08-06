@@ -42,6 +42,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Halo and StarCraft Ship Sizes"
+    excerpt: "Been resting from art for some days, so I'm posting this silly edit I did for a Discord Server. The page is from the very interesting StarCraft Book: StarCraft Field Manual. I had to compress the image using the 1km line (which was actually really helpful ..."
+    publishedDateTime: 2021-08-06T22:51:00Z
+    webUrl: "https://www.deviantart.com/lunaraurizen/art/Halo-and-StarCraft-Ship-Sizes-888026949"
+    type: article
+    provider:
+      name: DeviantArt
+      domain: deviantart.com
+    quality: 37
+    images:
+      - url: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8c5c7157-7459-4fa8-8259-96accb8ac16c/deophz9-3fd21901-94b4-4bb4-824a-3bc2c11282b3.png/v1/fill/w_1060,h_754,q_70,strp/halo_and_starcraft_ship_sizes_by_lunaraurizen_deophz9-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4NCIsInBhdGgiOiJcL2ZcLzhjNWM3MTU3LTc0NTktNGZhOC04MjU5LTk2YWNjYjhhYzE2Y1wvZGVvcGh6OS0zZmQyMTkwMS05NGI0LTRiYjQtODI0YS0zYmMyYzExMjgyYjMucG5nIiwid2lkdGgiOiI8PTE4MDUifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.INL3L-t8JPqpniIDtB8bsfNuhPSI3VXzzh8q_9SMpkg"
+        width: 1060
+        height: 754
+        isCached: true
 
 secured: "YcP1/feYw9CzYECJrPDzBzK389G8tZo7ug/3oEfayNeNNhQch/vU2eEt429vb9uiePistDSl4moElnFGiYVqIdPbl07odR8UDcrkMBsWAPoR5on2QGnPmAUCUzkDv5PBGSCcey1cUE2pwPpMXmb+b/eOG39kv6c9FgyJbnDnT7/YX6x9M37hGlXaZH3B80YODOyf9/lBxYVtQvHOCX3M/FxWqwO1PpLTI2vWtKQ2D6p05Ycq1z/jqcWE4I09CvNHVZYoJAIhCXxlQ7Lhqr/BKKXXPqMpuUixt25KGB6vpUmMLUvoea1NQH6P7mgGl1r399BRK+byCN4sqJ76NdJMRoynEKJX/HRs8fpvh+W7LmI=;DyjpWKdq4zI32/bN83vrmA=="
 ---

@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-parting-feels-ch
 type: video
 length: PT13M40S
 publishedDateTime: 2021-04-05T09:51:37Z
-heat: 51
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KBeo72SzCBk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "YcBHkScSWK+kZec7BFARiOFJf29rMcjlfmVxK7fD+LjS5y6vZerPlCWPir5HFRhO1z6sHacPI5T0xpRnuTWw8P83dmFXbu1HHpjweTUqeK/gIDbJy9A1RHNzPhEAIKWIrS3QAfSZl8NdsuEFwhZlbdF9S70xGjCiPEli+HEaJ40lMU6RKpyf1pvWz/A2eEd6uw1cgVFd/1Rt30Av0Gn6orBxFcNumXV9z53WB0W1ZD601EKKBHm4veIGDQOgN4Ntq1FVeH1euh7PTfUoh8f78RflyFjivjXB4uk0icbUGM6lQUFqLz94LNr+uwxrW0MyuGrkJREk6Z4rZAJNByA0/VToeurOI6uEaTCRkhQ5lE5Dk7/25sEWFoSWwa/MROUAyaFfy+FrnPb5jDByhwvabv4x8R2p6uvd7kHhHI1m3WQ=;HYzLpj+Ua4tF27RaYWsyeQ=="
+secured: "omRuhLC9g14eVmjCkKdQ1HPlHNuy4tGZtBNSRzXKSrsKrluVhARHCUqq4RrgV0NAKKoxZ/LhURuc+w5yaO0+B6+gLlflP4mm79jEvh5Xgeie5FrYutjKRXPlNY4cvzkf6wwwQZgaAslpTqS9iGyT+Y+t6pmbP1qt72rBFcAhv0W8OkVjohpI1dCdk/PbfejhgG4phmj9cXRXqkcIAdJ5K39FwAYB6qKGQ/+DAkN/QNJvuv7dH/6ywORZNgCL5aHYf9xE/CLOnp7iO/0dK8KayAOjHhirH/n55i+kyZ/Q16qcHkbnS9IfIxJ1DebMfoWg0q7wda/uoKe7PeXAikT6SVj0AenH9zQOshqIxTnVpdqZHQaSHYSIUposs6RBTAGM1xB+d+gP8wW6xKyw69VY0bnK4ZMPMqtdHg6nK7SpacE=;6LBg7FwJeQZmAkIwqH4kBw=="
 ---
 

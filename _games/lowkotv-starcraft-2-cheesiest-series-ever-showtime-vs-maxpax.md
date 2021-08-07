@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cheesiest-series
 type: video
 length: PT11M51S
 publishedDateTime: 2020-12-12T10:43:08Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UVEpX2i5668\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "6jw/qk1blvFWEIciVk1N+61JRg34OVCmSQYeVDu0I6059wqMNsswALfusyGT/lEDuJR3Nuyv5AYUNTULHoG8Qmr1fNDPLkPo5p0QnHL5Fuo592yGHVKHEYxHK3NbHQUn/C5nEirUrxAhY0mk4dIUkeBaVChfk/mIalz5ewpNfW4LUs8R78UlfwwCi1XG/srjE1AbJrjtSeCD6El++N4oF7WV8zX+9E09VMIMxFH+FO5c46DR4pB7G0joDttBCYVqv3rANondRr91kbgX/g2Y4DRr3I4D7JNA+2Nx4Tg8ocgXBnB9P5yN9J/ps5F4GVhJOinpsIUVXK5JdAv/+SvNgJBVMwK71Ox9Bmbu9iQFfCUKvmMQ9Mg9z5m7GOJ7EqaIp+hbPDIn/jto2p74YEA2VcAH6WbCl6t/evdxQkNKSXc=;Pb1lttm7RtzLkh1rbW1Tow=="
+secured: "BIEEB+MfkTze5Bs+ua5a6XHU/nQod85ujATu7eKZUWDbFzgBhS7+H0M8bhYhdA7FKeX6A/aTk+7lMmU+Y/BwVOLNJRorkXPEAu9RHeWiAKmpFaCZm7s/eQuCnj0UjW+dQxv9zOm8kyHBGCSogHWUp68i16rB4H4VR52Z0tKmOR4DRR0NW0FLezXtA6OVWW3NgZ8ASQ+024os3ywWyLZCJOCmiQ4VnP9Dh1LhkJ5duzW9u06Nt5i8ab3vVkYE/82KggdOzpjMQn19cjM8VCOsKHNU3CLPbYNf8s8kQFSTKZSz2dsFbUSyQCcUsWvSCfFM+ObnrxS5eMbf7p7oT8+XaXot3l4MsGVZZMiYFZiwGkNt1Shv3qn/ylxPBXTGh4ChZCS2OPk30nymxQ+AkYcXrapzl8BA7qNi/wblRwjJEEQ=;gjkbuYNA4E0yTJYSTFk01g=="
 ---
 

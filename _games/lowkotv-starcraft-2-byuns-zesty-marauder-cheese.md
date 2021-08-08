@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-zesty-mara
 type: video
 length: PT41M8S
 publishedDateTime: 2020-12-15T11:46:23Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZOM2W5H8QrQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "iWgP4aBUKXlZ/1nQm+2HJDu914bl23kF9lHaCTI1pUNhbRQyNYy8BQcqBRmQQyj4LuXro6gqpQyaCzXl4hM136mWhe+to1ZeWsiwB9wixbM0ve5fhVLa5s36xxjXPs6ECf2N7CJRsT6lcXZ08dav2YHMAKYq+KITXEDcK0LI4PeQd0o9sx+BAie3LtRns0kb/nVXbK8hBcJOt6k8Eq1Wr3+DERLDlQpY2086KlfephqpQfzunwPjvNf4IzfR0xns1gGoOdbzzE7AzkFuvFnFG6iiM1+12lPNOqktDURFFKVSYXsVMi0SSacGaTlXtCcCTzd6jDVP7d1X1vvtLG/DhaOrwLABr7Bd82Y3F4jGVMu7aMqusPa1lrrX0LFOPPMPwfJjfHVSqkj1E2hyfYd81/uRZ9syYwuGu7q1tafnQBWjLyttwk6pYcumUOkGjYCZ;ywypb1X98q/uORhvnaU1hg=="
+secured: "w3QEslQnKc6Cku5l+fYXf4m583QIOfB/l+xPIEMyt925loEgWssMw9XyBLR2r+hI7aiZswRKv6LoTE64achtZMdp0knFCDFs1+zzgggmCxMH7dJdWVk0JNpPPwPCerEZfDJDAeTBrO9eN8WshsdbRmGOICKB11H2fTLd9Kau6Zfcw4QDlsmxCNBAzg56etrhsACdHHAw9ePGsJQ+QU2zRC3FLo/RQpU87DEBGxD3OjFcNDFq2aYEUowMZJlsi2+DR73UCb/2qTElNuqr1SOgm6uiCoV3kRGn8raMAvyfaTX4/+Z33n+QYd49peT98H4pqMJUR0fWT+82pqNDbtBF0RdRccBbgn2czQzx4gWgooodi6g5C+Cs3OCc2pCvvzj5+96zU0+M4inUHWQY+s2DsslvvuAZucIchrda1Zm7x3U=;07w+oulpn268b1EgE6zOJg=="
 ---
 

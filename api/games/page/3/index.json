@@ -4,82 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-old-school-vs-new-school-showtime-vs-maxpax.md",
-      "title": "StarCraft 2: OLD SCHOOL vs NEW SCHOOL! (ShoWTimE vs MaxPax)",
-      "excerpt": "Best-of-3 series between ShoWTimE and MaxPax in StarCraft 2. This is an old school progamer playing a very macro focused style, going up against a relative newcomer who plays far more aggressively. In this Protoss versus Protoss we see two of the highest ranked non-Korean players face off in a series.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-old-school-vs-new-school-showtime-vs-maxpax/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-old-school-vs-new-school-showtime-vs-maxpax/",
-      "originalUrl": "https://youtube.com/watch?v=UeOdaAMIydA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UeOdaAMIydA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M50S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UeOdaAMIydA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-08T03:08:34-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-worst-terran-build-order-viewer-games.md",
-      "title": "StarCraft 2: The WORST Terran Build Order! (Viewer Games)",
-      "excerpt": "Three viewer submitted games of StarCraft 2 of players in Silver, Gold and Platinum League. Very fun (but very cringy) viewer submitted games.  If you want me to cast your game next, you can submitted your replay to replays@lowko.tv.   Support my work on Patreon: http://www.patreon.com/lowkotv Become",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-worst-terran-build-order-viewer-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-worst-terran-build-order-viewer-games/",
-      "originalUrl": "https://youtube.com/watch?v=NyAr5QsrA7g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NyAr5QsrA7g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M46S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NyAr5QsrA7g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-22T03:20:22-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-best-game-of-2020-byun-vs-serral.md",
       "title": "StarCraft 2: BEST Game Of 2020?! (ByuN vs Serral)",
       "excerpt": "One of the best games of the year in StarCraft 2. An epic match of Zerg versus Terran between Serral and ByuN. Two previous world champions of the game.   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
@@ -1394,6 +1318,83 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-11-23T08:38:34-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-specials-extreme-slow-push-vs-has-best-of-5.md",
+      "title": "StarCraft 2: SpeCial's EXTREME SLOW PUSH  Vs Has! (Best-of-5)",
+      "excerpt": "Fun series of professional Protoss versus Terran in StarCraft 2. While Has is known for his very aggressive playstyle, it is primarily SpeCial that decides the pacing of this best-of-5 series.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-specials-extreme-slow-push-vs-has-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-specials-extreme-slow-push-vs-has-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=1whP8yGawWc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1whP8yGawWc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M46S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1whP8yGawWc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-01T03:06:28-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-machines-innovation-vs-reynor.md",
+      "title": "StarCraft 2: The Machine's INnoVation vs Reynor!",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between INnoVation and Reynor.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-machines-innovation-vs-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-machines-innovation-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=8JQPqVOKmW8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8JQPqVOKmW8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT52M15S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8JQPqVOKmW8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-30T04:55:14-08:00"
     }
   ],
   "nextPage": 4

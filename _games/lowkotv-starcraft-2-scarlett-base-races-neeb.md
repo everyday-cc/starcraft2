@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarlett-base-ra
 type: video
 length: PT39M3S
 publishedDateTime: 2020-11-23T09:09:07Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QAUbqVt5hRY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "0zCdHspm/T1RnBfbGNrJc4RMDxL6Pc2ZYplYzCSzF1Zmv+Ta9UcpHPOoLrlkruKHLz6IYv5KnLsXmanOjsP5MzU80PiSlvn7zrdZJMO8zeqHxTJCp9H5+5u/airpJIgblU58OfGvulsQk1iA5g7gNDT7Y3khECNnwR2pjxkLShMEaOQ/g7X4HBUBSv16duyn79ZnHpsq4qbHcyc1noIprmmKkNsmxWaZKGFmdlBZQdf5Ew2Itc0+730ojZoZz5ITI/smcCwDdTrPXHZ2RPg1a0VzmWcEw+t+cefkmjBIqWNwHahJr1armZ6LHjJdwOYS6Gl+9h7xAu3n3gh7w0b/PZwcpNM+1hfzyV6Z0hhPPzg3FpBMfOsj9TF6yG1q1a2FLY3TDEawf0+WbwXaomj7U6h5v8REBpIIIrWA81kFkCM=;eynigA0wuj/IX/nKGIEHmw=="
+secured: "+vZkRLtC8nxktuEskC44U1tLNRjf6GDyh3IIPpTD+NDxQW1YIpUsIYaYEBF6Oqs/9/VxIA2RQDR6bRLL9E51raGHRjziChHxo9CNDkF+FJCTg18sS7BoIrLH6tTOHm3sK2zeWo6U6XKUAsek4vEcD7ojQ8aylApHVvR+FuMegBXhsSFkfUg04p32jfW4CVJEwmUypCUDDj+G0th8zsXmC02ENBUfaZeTqlLLJkePTfz/G+9UC1m1L/DYboPrPF3hO7O4L7pSAcdoP6jF7I/gZHq0rvcxQ9Sjb56N6Byq9apqfutMOS/US3Nazxr0YhFJn7qUZCONnceOYk1BFWrGnKZKmVhLYWK2wJhNyEfUNbTLdP7Zx3Ml3JUe2seJc5EWjY81yCbksPBqtnEFaW7Uf2zBUgmyk+OU9WvpqWiOUNs=;fqw6rBu8W6hSE6VJC09QLw=="
 ---
 

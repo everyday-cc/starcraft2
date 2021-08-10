@@ -4,39 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_games/beastyqtsc2-starcraft-2-expanding-to-the-island-base-mass-zealots-phoenix.md",
-      "title": "StarCraft 2: Expanding to the Island Base! - MASS Zealots & Phoenix!",
-      "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-expanding-to-the-island-base-mass-zealots-phoenix/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-expanding-to-the-island-base-mass-zealots-phoenix/",
-      "originalUrl": "https://youtube.com/watch?v=7UwwC9aiEkw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7UwwC9aiEkw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M2S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7UwwC9aiEkw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-03-27T04:29:39-07:00"
-    },
-    {
       "path": "_games/beastyqtsc2-starcraft-2-failed-cheese-hurry-up-or-leave.md",
       "title": "StarCraft 2: FAILED Cheese! HURRY UP OR LEAVE!",
       "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
@@ -961,6 +928,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-03-25T04:09:52-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-only-sentries-to-grandmaster.md",
+      "title": "StarCraft 2: ONLY Sentries to Grandmaster!!!",
+      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-only-sentries-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-only-sentries-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=afB5F1bvx90",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/afB5F1bvx90\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M53S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/afB5F1bvx90/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-17T13:38:31-07:00"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-placements-disruptors-to-grandmaster-episode-1.md",

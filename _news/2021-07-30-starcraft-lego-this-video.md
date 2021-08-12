@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/2010-07-30-starcraft-lego-this-video.html
 webUrl: "https://www.engadget.com/2010-07-30-starcraft-lego-this-video.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "STARCRAFT GHOST ACADEMY TP VOL 03"
-    excerpt: "Elite soldiers known as ghosts are trained to use their special psychic powers for military operations, and one Ghost Academy cadet, Nova, must handle both her teammates and her own demons."
-    publishedDateTime: 2021-07-24T04:47:00Z
-    webUrl: "https://www.previewsworld.com/Catalog/AUG211641"
-    type: article
-    provider:
-      name: PREVIEWSworld
-      domain: previewsworld.com
-    quality: 37
-    images:
-      - url: "https://www.previewsworld.com/SiteImage/FBCatalogImage/STL200409.jpg"
-        width: 1200
-        height: 1800
-        isCached: true
   - title: "All Stories Tagged: StarCraft 2: Heart of the Swarm"
     excerpt: "One of Blizzard's most beloved sequels is now a decade old and so there's a big anniversary sale across the StarCraft franchise. Was Blizzard's apology at BlizzCon 2019 enough, or will/are you ..."
     publishedDateTime: 2021-07-31T00:00:00Z

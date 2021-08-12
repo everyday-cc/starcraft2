@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "STARCRAFT GHOST ACADEMY TP VOL 03"
-    excerpt: "Elite soldiers known as ghosts are trained to use their special psychic powers for military operations, and one Ghost Academy cadet, Nova, must handle both her teammates and her own demons."
-    publishedDateTime: 2021-07-24T04:47:00Z
-    webUrl: "https://www.previewsworld.com/Catalog/AUG211641"
-    type: article
-    provider:
-      name: PREVIEWSworld
-      domain: previewsworld.com
-    quality: 37
-    images:
-      - url: "https://www.previewsworld.com/SiteImage/FBCatalogImage/STL200409.jpg"
-        width: 1200
-        height: 1800
-        isCached: true
   - title: "StarCraft + LEGO = this video"
     excerpt: "Considering a LEGO StarCraft video game would require some mind-bending collaboration (or buyout) between WBIE and Activision-Blizzard, we'll just have to experience the fantasy through some stop ..."
     publishedDateTime: 2021-07-30T00:00:00Z

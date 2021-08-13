@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-photon-cannons-v
 type: video
 length: PT17M26S
 publishedDateTime: 2020-12-28T11:41:25Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/42GvDc4uvHU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "RHa8uHuH3hJ0BwozrgVpS1vA5wlyLgPjSRWKyKP2xsfIKm07D7wD4wEk50rCB+nTL0v6fb6ZxSq3FMH9/NfVYM2rkUpoBL7u5Nm1Hu72GxLLDhtbINsN3EgmV+6ORziBar+KoTFJ/lMhpBp+aIdYOTW272VyqeMd5B2nADUKeAdua3kQtuf9LDbdndh9pwUoYwrU8e2g4dJ2Cvp2BsB5oM2kZGEG6S4v6VqoqdTHwNDEsjYOEAdwgv+WBaoRYJoFDceW3J9R9oOZXHC2wBHfGnQOvPk7055x3T4uXnLLfs1lkfKvr0EAxhMO67gt1faJvXpxxAQsZYu9bfI390HiR6HAfSeAllNcYm2p6Jsm+UqeyfJD6BZ1sDvclN9UNX6BO2GdTlOZxIlPs9ovKotWE3Kqr7byS6zo8OMVTwl0VH8=;TkbGzVX327JFV74/UxLxqQ=="
+secured: "Ek/oQVVzB9FuDMgyxvvNg8WG+X9pUc99MudIG/0fDLm+cjmZIOLlv+aYs2mbgNdNXGogRvE1x3JRj6AKov3mqgh3vrjncaVkudKbvIKxeVLRqESeav6VkeHtJAcHayGtzdVfUqC7w4rnMHeDvB1iapX7PudPd9X5XKXsmm5+jbzxaaESuSEeDyvHeCNxhk72Hkmg9C5ok+idm0ep9TovIXoOL4jb6l8SjC+4e6Nanx2hzOhIVEg/vKIebvOltag0PYG7ju13aITzuneV4t/YmXhPlI794z25rQsbntxz28RGH8ji1imDu/nv1L1xJh8wPCYAqK577yTST9WU2CEOs43j+4Z3KmqsYGh64ccyN7JHtD5YlPIj7NM9IC8n0nD7IyzGgcb3w0WbpjRp4eckS2wC9aN2Z0v2bOM2h5pPNds=;za8UlOk5emIYlwoDfKCQUw=="
 ---
 

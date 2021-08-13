@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zest-vs-maxpax-c
 type: video
 length: PT27M38S
 publishedDateTime: 2021-03-26T11:54:48Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QUw68GwInWQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "2iciOOEVtI2gAuJB/QONZAFEQzk//iGP00IdK08Iil34zL7jORWcd1pWlI7xXY2HI1fUBm9Hm/Hhqkmd2c3W8utVCLlZ41r1isi81DhBg4oI1KOpijbw6RsFyRWgN5Sg+uJKAfpucHF22xnaUGJnryEz3vRcbmV0gu+YXwexhBrHT7ZgNbUPCK71JLvscs0Sg6FNH2ZseHW+uvkiHoPS+dQp35fdbRhbV2fC4cELgDCeVJ0qKXAXvdAzQvhZPKA+SXIKFXi4ppBRsqhnj7ljkGh+aw17C4MyN6RZOwbAJpRCs5+BgRLG/W0Kpk5jGHEjk8saTbtucfemaP5rHqdx0b3zw0Wjmxm46J8o1gv6aDqqitUxwiTAkjpTBszJ+oH51ZRBB5IPoUV15FOFzX8iCNCjRMSdoeL7208pNe3+FOY=;kPruDADNj4qwPQMkziWBEg=="
+secured: "TAYrkyXVDlMx/RirdoKZPdvO2kbSKQX+w6eIkJA3EL+XeiZoB7QEs8FQQ/6PR3Q3TLb9FWLto6BbhNOQRGJSSSgDVEsEa7PvzvqQ8coPyKZpeSeO9M6PyQFG2SvA8QL2DYK+CWDHShYxiuV0QSxrCGdn97zQHheGAI6AwEXRSks+rqe27u5imT9IT7PWGtpCaZjFXKlfdsDzumiCCB78gb0erLN/8JeCjEbYcvppuIJby3KShV2wYmND1hcDdN2YbEMwWblQ775XiH8l9aDq1TCxDqDlacnJKLCHTEiHz/uefEfaVamXMKEcUv2jDR/gZ17N9pQ1Kgn8xfC4e0eVatz+wHwE1WHT4JpQD8qMX6vCCrmx12mC9d2t67CpLBR+kkjtfM1FYRfKFRdOI70vWFOrDsHWdx4nQ5Kts3+su3c=;ktUeXJJe4ZS9BD3q32r6Ow=="
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "StarCraft 2: SERRAL vs INNOVATION!"
-excerpt: "A very cool match of Zerg versus Terran. In this game of StarCraft 2 between Serral and INnoVation, we see both players taking a different approach than what we usually see in this matchup. Especially the Terran player decides to open up with what seems to be a new build order. It looks like a \"16 Marine"
-originalUrl: https://youtube.com/watch?v=_bunAOOY9Wo
+title: "StarCraft 2: Serral vs INnoVation!"
+excerpt: "Who is the greatest StarCraft 2 player of all time? In the beginning of this game between Serral and INnoVation I discuss the players that are in my opinion up for the title of being the Greatest Of All Time.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community"
+originalUrl: https://youtube.com/watch?v=Z8DlwTY9ce0
 type: video
-length: PT18M21S
-publishedDateTime: 2020-09-07T10:03:30Z
-heat: 87
+length: PT33M52S
+publishedDateTime: 2019-08-19T11:11:17Z
+heat: 85
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_bunAOOY9Wo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z8DlwTY9ce0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: LowkoTV
@@ -23,11 +23,11 @@ topics:
   - Zerg
 
 images:
-  - url: https://i.ytimg.com/vi/_bunAOOY9Wo/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/Z8DlwTY9ce0/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
 
-secured: "OOvTc5juoNyV4pt0QAa9KMGa1FtaV4dJRo/dLET4tjGZBB6nkiTwTX/dY8kmbhs9yoyjPJmoTNQoNoLJ4bXCXiN0beQItoXi/AOhr9dJ82YoJAaAEDeEtS3BEtkWLg88xh4q8/XXRL8Wi4L8nK40/K4g27VsCyZuW0ElJfLUaDargtU5srgaCczPLLm4vstez0whkWX0ozWmOO/ChnEy8QnnQ7M4TTRTgHlHy1M9g63PaB8rfbSZn4X0FkhrxxXAO72GEr/JhVWhF/LQ7TbKEjtcASZqjo5k9R8nY+8oSBk+8TTYT/yJljSYSGI5Sl83uiNl46285MTkWqbaQXIOeJICV36O/xN08cXUPrs5gd9nXsjvzZ1e01oSLRAPRtGgn3nsH6SeBdUYg6GE/NR1Iw==;FxK1FEMkYJs2AnLVKP0CaQ=="
+secured: "oeefNFfLryB9bfZ4MxApyRmcqMXbCcFagYz5kuhHM7dCAxWHzM4XLL6acgFFYbSHu8Yi/K/fss0Y3zvvlfGwfSp0z0eFrRysOe2Al31IJTJ/Xy8FmMFprnd1NCp9n0WG0ggI4gCXjj1bClFFmhWIQAAgUCdtHJDzSRohYEQHxTXVAFqyK0nzjZKc2rbDl41ebUaxWshablZs7f3WyOSCaI9rXi86t0ZU+bDAD4EjekM3KVRLQ0TqoWWASiMRBpyhf0yTGNXyARJmuaSskgMWkfvGbM/p383Q+Kp2ESbleojQCwxuIYN5eth/boJcYSTlRiIKRtEtKpJ6hfbnq/MHmyx3uYHHE9HEsAM2z9szsZfDjpx6IU/W7vidxpDkR3fLsjrc6p2kYcGKEHcUTtqGYQ==;eaEQRDAGXZhFt3dy1k6foQ=="
 ---
 

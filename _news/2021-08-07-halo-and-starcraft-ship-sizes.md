@@ -52,6 +52,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "All Stories Tagged: StarCraft 2: Wings of Liberty"
+    excerpt: "One of Blizzard's most beloved sequels is now a decade old and so there's a big anniversary sale across the StarCraft franchise. Was Blizzard's apology at BlizzCon 2019 enough, or will/are you ..."
+    publishedDateTime: 2021-07-31T00:00:00Z
+    webUrl: "https://www.shacknews.com/topic/starcraft-2-wings-liberty"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 37
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/07/31/sc2-pc-deals_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "z85wryUiIiUz+CAJa3i+tusgeaDS+21eKI3JKzGfNxExv1GYyIUbGyqe1N1mQkvGD6dX6KhllErWunSzM2Zc5j6vBkjAC/KlVX6nlIINNMauF7XVLSmwOs0ohU9OHdRYmK3BXnA7Svvd7zj4h4XS5yMmsIP7FmCJkaxPB1174awjXUKI5145JPMeeXe37a8MXi6YG2x6Zt2biJApOQVhB53rI6w19T8rPgLmJDtaFUku8TviWrPmqWz6bbKv48yLAxlf1qHMFi7XZzmYxSLe+FT6y3fYOdHErNHxdDt0Iz2cdYnrLcrZaZ4o6ihZowgzzRoxzNo8a2s9sVBsVkVeOXWXDRfcneNNI4VbLK1FbOsZ9VuMz9jCBMYNNkxqRR3OsBFFsCzcGeQmoelKmRLXumQTow0nKMbu3a1k5qFth/ynQVrF7QNla9rf1h0xputO6Nay+XBK7oZcoQGlNQbfNQx8b+1CtMWr1e6PY+MNEc6J/DccsGS1JUf55WCPqS2wKupdPmQaraw1U+bALVYX6g==;nrBo6EtcBA3VvpMjSwJZ0Q=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
-title: "All Stories Tagged: StarCraft 2: Heart of the Swarm"
-excerpt: "One of Blizzard's most beloved sequels is now a decade old and so there's a big anniversary sale across the StarCraft franchise. Was Blizzard's apology at BlizzCon 2019 enough, or will/are you ..."
-publishedDateTime: 2021-07-31T00:00:00Z
-originalUrl: "https://www.shacknews.com/topic/starcraft-2-heart-swarm"
-webUrl: "https://www.shacknews.com/topic/starcraft-2-heart-swarm"
+title: "Starcraft Remastered is actually a thing now"
+excerpt: "Otherwise, you can expect Starcraft Remastered to launch in “summer” (our winter, then). Check out the trailer below. On paper, the HP Omen 15 presents a compact comprehensive gaming package ..."
+publishedDateTime: 2021-08-06T00:00:00Z
+originalUrl: "https://memeburn.com/gearburn/2017/03/starcraft-remastered/"
+webUrl: "https://memeburn.com/gearburn/2017/03/starcraft-remastered/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Shacknews
-  domain: shacknews.com
+  name: Memeburn
+  domain: memeburn.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/07/31/sc2-pc-deals_feature.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://memeburn.com/gearburn/wp-content/uploads/sites/3/2017/03/starcraft-remastered.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -38,6 +38,20 @@ related:
         width: 530
         height: 308
         isCached: true
+  - title: "All Stories Tagged: StarCraft 2: Heart of the Swarm"
+    excerpt: "One of Blizzard's most beloved sequels is now a decade old and so there's a big anniversary sale across the StarCraft franchise. Was Blizzard's apology at BlizzCon 2019 enough, or will/are you ..."
+    publishedDateTime: 2021-07-31T00:00:00Z
+    webUrl: "https://www.shacknews.com/topic/starcraft-2-heart-swarm"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 37
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/07/31/sc2-pc-deals_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "All Stories Tagged: StarCraft 2: Wings of Liberty"
     excerpt: "One of Blizzard's most beloved sequels is now a decade old and so there's a big anniversary sale across the StarCraft franchise. Was Blizzard's apology at BlizzCon 2019 enough, or will/are you ..."
     publishedDateTime: 2021-07-31T00:00:00Z
@@ -51,20 +65,6 @@ related:
       - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/07/31/sc2-pc-deals_feature.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Starcraft Remastered is actually a thing now"
-    excerpt: "Otherwise, you can expect Starcraft Remastered to launch in “summer” (our winter, then). Check out the trailer below. On paper, the HP Omen 15 presents a compact comprehensive gaming package ..."
-    publishedDateTime: 2021-08-06T00:00:00Z
-    webUrl: "https://memeburn.com/gearburn/2017/03/starcraft-remastered/"
-    type: article
-    provider:
-      name: Memeburn
-      domain: memeburn.com
-    quality: 37
-    images:
-      - url: "https://memeburn.com/gearburn/wp-content/uploads/sites/3/2017/03/starcraft-remastered.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Halo and StarCraft Ship Sizes"
     excerpt: "Been resting from art for some days, so I'm posting this silly edit I did for a Discord Server. The page is from the very interesting StarCraft Book: StarCraft Field Manual. I had to compress the image using the 1km line (which was actually really helpful ..."
@@ -81,6 +81,6 @@ related:
         height: 754
         isCached: true
 
-secured: "pJY/8x3gwXOsLBhjkkOL5ea6jawP0fhbX77tBOntRcVDm5gWgf42rpWdWZkoruxLL7Fb1aFN9bQl4fos/hm6jHAcvZT+2G2EesfBecMmEeFfLMc3FawaSRCmvjkF7JGMRZfzFWyqTXQSN+0rdBoh0GLsJnS/Ds1v5NjH349wm0EOBJ4UnXTctMXKPVW6Duq/Dq61Pa0tlupWPfMWudEEq5Hux0OgvFuDQITcPYArzsQ4TNdRashNxN9L4hWoQfEdnvuUwgLv8NymYkzg++2SVe7pkvEwDleSPptgmesM1ufAB3TsoXrAr/IkVefF1+luf0ZuzUmOa4yNj/ZX8vVdV9lHJui6wwylaau7N6J9E74=;sn/AMkQV2poB2lsMudvnnw=="
+secured: "2v0a2HK8P5s7bdXZ1OJQ8t31Pl1zgNryhKdIXWsvPKdlbgopbqy7Lcyu5BkeQMliekhGX7B5fa0V4REdQeDIrEyKeKtz/XbIyKS318vd04vQ/R9Ua0emsH09ShZXSZoU/G0JBld71DlgDy7SMRLzJhIVaOZdq2NA2n/LapDHi4161yLLsGaYiH7ZE4DosfpeSV47ff5HAZ/QF/pghGTEGknfGONafCtEAEJSzX922ecwWfHcgKmsR0Bl99hyQK4mVqbSFakV+hHaXyWCTBtrTGzmrAvoEegibWgkOx9BIcWvDAuu2OS4pCw8AAWrezflqrtxvmOVP0HyqfC+zL3/k1ypT902AJTkx0bd6zzCDNA=;t8PwhYBqFt8VOkETl7eGxA=="
 ---
 

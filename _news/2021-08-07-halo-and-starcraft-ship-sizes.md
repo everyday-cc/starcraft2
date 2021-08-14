@@ -66,6 +66,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Starcraft Remastered is actually a thing now"
+    excerpt: "Otherwise, you can expect Starcraft Remastered to launch in “summer” (our winter, then). Check out the trailer below. On paper, the HP Omen 15 presents a compact comprehensive gaming package ..."
+    publishedDateTime: 2021-08-06T00:00:00Z
+    webUrl: "https://memeburn.com/gearburn/2017/03/starcraft-remastered/"
+    type: article
+    provider:
+      name: Memeburn
+      domain: memeburn.com
+    quality: 37
+    images:
+      - url: "https://memeburn.com/gearburn/wp-content/uploads/sites/3/2017/03/starcraft-remastered.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "z85wryUiIiUz+CAJa3i+tusgeaDS+21eKI3JKzGfNxExv1GYyIUbGyqe1N1mQkvGD6dX6KhllErWunSzM2Zc5j6vBkjAC/KlVX6nlIINNMauF7XVLSmwOs0ohU9OHdRYmK3BXnA7Svvd7zj4h4XS5yMmsIP7FmCJkaxPB1174awjXUKI5145JPMeeXe37a8MXi6YG2x6Zt2biJApOQVhB53rI6w19T8rPgLmJDtaFUku8TviWrPmqWz6bbKv48yLAxlf1qHMFi7XZzmYxSLe+FT6y3fYOdHErNHxdDt0Iz2cdYnrLcrZaZ4o6ihZowgzzRoxzNo8a2s9sVBsVkVeOXWXDRfcneNNI4VbLK1FbOsZ9VuMz9jCBMYNNkxqRR3OsBFFsCzcGeQmoelKmRLXumQTow0nKMbu3a1k5qFth/ynQVrF7QNla9rf1h0xputO6Nay+XBK7oZcoQGlNQbfNQx8b+1CtMWr1e6PY+MNEc6J/DccsGS1JUf55WCPqS2wKupdPmQaraw1U+bALVYX6g==;nrBo6EtcBA3VvpMjSwJZ0Q=="
 ---

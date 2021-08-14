@@ -1,13 +1,13 @@
 ---
-title: "StarCraft 2: Serral vs INnoVation!"
-excerpt: "Who is the greatest StarCraft 2 player of all time? In the beginning of this game between Serral and INnoVation I discuss the players that are in my opinion up for the title of being the Greatest Of All Time.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community"
-originalUrl: https://youtube.com/watch?v=Z8DlwTY9ce0
+title: "StarCraft 2: SERRAL vs INNOVATION!"
+excerpt: "A very cool match of Zerg versus Terran. In this game of StarCraft 2 between Serral and INnoVation, we see both players taking a different approach than what we usually see in this matchup. Especially the Terran player decides to open up with what seems to be a new build order. It looks like a \"16 Marine"
+originalUrl: https://youtube.com/watch?v=_bunAOOY9Wo
 type: video
-length: PT33M52S
-publishedDateTime: 2019-08-19T11:11:17Z
-heat: 85
+length: PT18M21S
+publishedDateTime: 2020-09-07T10:03:30Z
+heat: 87
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z8DlwTY9ce0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_bunAOOY9Wo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: LowkoTV
@@ -23,11 +23,11 @@ topics:
   - Zerg
 
 images:
-  - url: https://i.ytimg.com/vi/Z8DlwTY9ce0/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/_bunAOOY9Wo/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
 
-secured: "A7GTZ2wKsECYIwkH9IwShKVCh+U9Z9tX0YC6PDA6l1AB791FwpeU8iItPY7J7AYD54kw3vXiJCoRHEAHMGw57XyyzwnA9h0eG+BAWiWdgXVFg1iEEh8TFBEhYzePLZ6s5nEyYWCHMNW6HXbENS6unpUi2g/v1k6PeKmmb2iIqcC2n1TO2TFu+eacK1EC8NY4SHKh2HrYNIvTpKWfNfj+ScsA/2/tPsLGu/s/HfvSZmJxcU6a38Ij891og8fgIscMFKM8lVaebp9j4Xtum6vGCvqt0Q6tCMkGMzKIANoNoRN+F4ZjR9NeOCWXD3A1scXjbY+Zi/PgaZAC7zPNaCn3OjAouk8hIWtZVLek1XjB86gQWMsX0wQKIdTeTAGPgDUTpig2NZ12dUqINCuOp9iSNQ==;Px1jSj3v33qsbCoZVDo1LA=="
+secured: "oYMwg9n1G6Zz4U+T3c65dH4ZdDhn1zFx+rQBTcxQAV4H3rMlmorHSp37yE6+XLWoroxDJLsHYPoHdl+YKWmhTzld9jNWIUOSWGbvkZzvjT0Q8R2pRwYtIC1Wf7QBkusLCKTo2Yd9jrAsUIZEl1wlbBH//LBPYdw/4gmHOv1dDUQgEJnVK6jnD4kYjZh03Ii3Qg5ikuzmQ7Er7rxJI9TZHigOKj1lKBWnzIIRVLfeTm5GsLf5OvxRlpOd+YbdmMc85lmFIHNUc1fZgzAHWxWhWdodAYeexrOZY9YEv2dS2B2baNnE6W3f9ybcfltw15fkDvGkkU1RhJbe841AQjundXk9Hg45AvcI71U6WayX5fHTuLeGhtQRHzOdE9YxDjZ6oLVNC/n2VezjIyLTbIS+6A==;VLgrfuvKFi8Lyra/xEzklw=="
 ---
 

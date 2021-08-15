@@ -1,13 +1,13 @@
 ---
-title: "StarCraft 2: SERRAL VS CURE! (Best-of-5)"
-excerpt: "Professional series of StarCraft 2 between Serral and Cure. Two top level pro gamers face off against each other in a battle of macro and micro.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part"
-originalUrl: https://youtube.com/watch?v=oRqEnM1H10I
+title: "StarCraft 2: SERRAL vs CURE! (Best-of-5)"
+excerpt: "A best-of-5 series of top level StarCraft 2 between Serral and Cure, the current number 1 and 2 on Aligulac. While Serral is clearly the more accomplished of the two, Cure does a great job playing both Terran Mech and Terran Bio. Serral focuses primarily on Zerglings, Banelings and Hydralisks, but mixes"
+originalUrl: https://youtube.com/watch?v=BZeCPfOKjvs
 type: video
-length: PT1H4M11S
-publishedDateTime: 2020-08-13T19:12:48Z
-heat: 108
+length: PT1H22S
+publishedDateTime: 2020-01-31T08:50:43Z
+heat: 99
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oRqEnM1H10I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BZeCPfOKjvs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: LowkoTV
@@ -22,11 +22,11 @@ topics:
   - Zerg
 
 images:
-  - url: https://i.ytimg.com/vi/oRqEnM1H10I/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/BZeCPfOKjvs/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
 
-secured: "n5NsSYDIiheaqjgaHSAzu6PtiS46WTFIXRrGtAZ8hrEYTRx0XysKfFmgoXRhdfgcfYb4bX51Oajk6R7cEa1BFp/99IJFCulnyh6YyMad8Fk4JK3J6mDV9ra+oc303A1/I2/G/GWwlIFpytsxeJSfYnp/QlcMP0DGrs+dASFNVaM3DW/4bYNPMBo1mRuo1p3A6J/3yg+2H1d0r0bKjJC7msnyPRfrKWmi1ksSoaGFdEL+nloTamALKk5Vx9diKY5hNwX6wxWhVUlgmqzjUcvghKXpEj3qoU9o/MCHrdfHKGQD3rizHMmNP6Gov0CR4pbeKqncxK1LaYuSnbCuqlgDETS8L8cfPISJMGO+Y+kmmr8+J7Xy+FdYyUNCCiNCE/f0MskywvjQsdD1H2g/dLxAGQ==;ro/09bL6dJSARN77K5pFVQ=="
+secured: "AcROG57moMezaYZfVEOttfNQ/JvxRDOm/BL2uH/ohwoB/IB1aZmQ4OgEWV4lWjuGZrcyXL+gdxd8ljvIQKv6+16EyAi0ZK9t+JVNxoVBXzMMUK+clV1NJKxQOZEGY3mlfhAnqpWdrG2y9/Qlb3ByVW/YM+BJSlmOVetFG+Ty7XT1e0jESW5AHZDDtBVea0rSSnEFwwqbq2tiqOWASxFl3itfMG6DYEu/UVoMWWkyZeXUD4lQGikey+P7v5exxAMAPrY/7LDbgDLN9jPlAoGoMbLeVMDP83rnGO6VrzTflm4I/utIJ0zIaexKUc7R2ErfeD1VWypvIiwmt8GK8HO6F+Lp7ik1Ew0l93P+WIXKLA1zvWibE/nMlTeFV0qLZBSOco2pTUB5fLt4JmfDIC08zg==;CuxENoJVTddOai2X2zbNug=="
 ---
 

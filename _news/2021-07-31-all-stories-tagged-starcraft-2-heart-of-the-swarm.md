@@ -7,7 +7,7 @@ originalUrl: "https://www.shacknews.com/topic/starcraft-2-heart-swarm"
 webUrl: "https://www.shacknews.com/topic/starcraft-2-heart-swarm"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,34 @@ images:
     isCached: true
 
 related:
+  - title: "StarCraft + LEGO = this video"
+    excerpt: "Considering a LEGO StarCraft video game would require some mind-bending collaboration (or buyout) between WBIE and Activision-Blizzard, we'll just have to experience the fantasy through some stop ..."
+    publishedDateTime: 2021-07-30T00:00:00Z
+    webUrl: "https://www.engadget.com/2010-07-30-starcraft-lego-this-video.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/fGRkDimNVllX_aZad93qGQ--~B/aD0zMDg7dz01MzA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.joystiq.com/media/2010/07/legostarcraft5302-play.png"
+        width: 530
+        height: 308
+        isCached: true
+  - title: "All Stories Tagged: StarCraft 2: Wings of Liberty"
+    excerpt: "One of Blizzard's most beloved sequels is now a decade old and so there's a big anniversary sale across the StarCraft franchise. Was Blizzard's apology at BlizzCon 2019 enough, or will/are you ..."
+    publishedDateTime: 2021-07-31T00:00:00Z
+    webUrl: "https://www.shacknews.com/topic/starcraft-2-wings-liberty"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 37
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/07/31/sc2-pc-deals_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Starcraft Remastered is actually a thing now"
     excerpt: "Otherwise, you can expect Starcraft Remastered to launch in “summer” (our winter, then). Check out the trailer below. On paper, the HP Omen 15 presents a compact comprehensive gaming package ..."
     publishedDateTime: 2021-08-06T00:00:00Z

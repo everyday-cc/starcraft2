@@ -4,83 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-bunker-rush.md",
-      "title": "StarCraft 2: BUNKER RUSH?!",
-      "excerpt": "A hyper aggressive match of Terran versus Zerg. Subscribe for more videos: http://lowko.tv/youtube Zest vs Solar: https://www.youtube.com/watch?v=Bj6749fN7ag  Rather than commiting to an all-in, Jjakji goes for calculated aggression instead. Starting with a Bunker Rush, transitioning towards Hellions",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-bunker-rush/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-bunker-rush/",
-      "originalUrl": "https://youtube.com/watch?v=PT1lG9hDBDA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PT1lG9hDBDA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M41S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PT1lG9hDBDA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-11-20T08:23:55-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-byuns-empty-medivac-drop-dark-vs-byun.md",
-      "title": "StarCraft 2: ByuN's EMPTY Medivac Drop?! (Dark vs ByuN)",
-      "excerpt": "Best-of-5 series of StarCraft 2 between ByuN and Dark, two previous world champions of StarCraft 2.  OlimoLeague on Patreon: https://www.patreon.com/olimoley Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-empty-medivac-drop-dark-vs-byun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-empty-medivac-drop-dark-vs-byun/",
-      "originalUrl": "https://youtube.com/watch?v=KqbcrD-4vHk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KqbcrD-4vHk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M9S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KqbcrD-4vHk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-05-10T03:55:40-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-cast-mass-overlord-drops.md",
       "title": "StarCraft 2 Cast: MASS Overlord Drops!",
       "excerpt": "An awesome match of Zerg versus Terran between KeeN and True. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/LsmBuQ  In this professional match of Zerg versus Terran in StarCraft 2, the Terran player decides to go for a Mech based strategy. However, instead",
@@ -1035,6 +958,45 @@
       "publishedDateTime": "2017-03-11T01:34:29-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-parting-vs-maru-best-of-3.md",
+      "title": "StarCraft 2: PARTING vs MARU! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level Protoss versus Terran in StarCraft 2 between PartinG and Maru.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-parting-vs-maru-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-parting-vs-maru-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=Lo6V4bxZQi0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Lo6V4bxZQi0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Lo6V4bxZQi0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-05-21T02:35:15-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-planetary-fortress-cringe.md",
       "title": "StarCraft 2: PLANETARY FORTRESS CRINGE!",
       "excerpt": "A very strange game of Silver League Terran vs Terran Subscribe for more videos: http://lowko.tv/youtube The Spine Crawler contain: https://goo.gl/PBczwg  If you have an awesome replay of StarCraft 2 that you think is worth casting, you can send it to replays@lowko.tv.  Support me on Patreon: http://www.patreon.com/lowkotv",
@@ -1147,6 +1109,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-06-07T04:08:38-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-relentless-aggression-byun-vs-trap.md",
+      "title": "StarCraft 2: RELENTLESS AGGRESSION! (ByuN vs Trap)",
+      "excerpt": "Trap versus ByuN in a best-of-5 series of professional StarCraft 2. After having a look at ByuN's Terran versus Zerg a few days ago, today we have a look at the current state of his Terran versus Protoss.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-relentless-aggression-byun-vs-trap/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-relentless-aggression-byun-vs-trap/",
+      "originalUrl": "https://youtube.com/watch?v=azhpEHcwzMQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/azhpEHcwzMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/azhpEHcwzMQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-22T03:17:44-07:00"
     }
   ],
   "nextPage": 10

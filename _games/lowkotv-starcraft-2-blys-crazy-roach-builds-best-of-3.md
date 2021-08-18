@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-blys-crazy-roach
 type: video
 length: PT53M53S
 publishedDateTime: 2021-04-21T11:30:01Z
-heat: 60
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1m3Ro99LOmo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "njemwp9yqgFoqjPwMcw6m8ahog4N85Ol2qaRyNG727c5rDzt3bVxVrpG+EXpDkyvLkCjznl/xnQGP/FOwqks600SGVBXNV4E+IAcZh0nvO0HTk8d7I3z5+qDSIWXt3PmpGQR8iFOfrJYmT8DGOR1TJIISBtNtalQbfJlVlxIokLpGIpFB9oNdOSs6x8q3puhqC+mpDBFod+r7lDlA8bUF5/36u1c70j56EIyCpwevSHVSOjniRFxsq6+gCkHCJIDIRIbauWw0mcX+R7NvRe9jpQ8FfPO55LvqbhTlBUrtWBio2vbuFh1ZTqvZhRLcRJCEKp1ba0zv4c3thOuxYGZGr/w7ZKOXUIZuQVDqNJXYUz/FooDb9Z6i146Lo8qyW5xG60daLIKgyslQWh8vntVmBVOV4MrgB3BP1j3HGePiZzam4TNfYxKXHIyaR7CDCbP;+0IZT710se3K2j1KLoQuNA=="
+secured: "gx7hzb+5+D+PboaNyAiN0uht+cDynVjBVBRhxpZOxmBlXs1rZgZVpNxmfLAF6rIYiU4/04FPiFoWdaCiYGXiZAuG2pEWyw+CRxzvR/WmLDmYXhBooe7z4BI4WW+0z3UPe+2GYpYcNl+8/kEaGHFGBN7piQAO3M2OeKjxJo0iDskk/yyJcxC3ueVtPqMCK7QbOmCuXBTt9G88YQU7npbl/CbDybI5m60T3v+2B0Rd8GUf/xDEmAvrKKGc7HMHuR+zNBnoo+58E7EYQWq+cfGNwrZya1mZhARkSudI83S28UyfccWR/uQ0n27XNH+x29IsMm0h5EUzTdN1o2xZI+C9B6603SBVUBTTgXvtybAOq6LejXy34RdadcJEF6GpirOVjtI6nCG+HNBfECLWDw4lpDAGv3yWp80dYUVW7ZusMCT1yX0EAu1lVpa7s/mu0BUn;bhdZyme74o76XUOT3eb9ug=="
 ---
 

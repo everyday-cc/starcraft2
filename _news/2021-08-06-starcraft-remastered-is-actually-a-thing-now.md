@@ -7,7 +7,7 @@ originalUrl: "https://memeburn.com/gearburn/2017/03/starcraft-remastered/"
 webUrl: "https://memeburn.com/gearburn/2017/03/starcraft-remastered/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,34 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "All Stories Tagged: StarCraft 2: Heart of the Swarm"
-    excerpt: "One of Blizzard's most beloved sequels is now a decade old and so there's a big anniversary sale across the StarCraft franchise. Was Blizzard's apology at BlizzCon 2019 enough, or will/are you ..."
-    publishedDateTime: 2021-07-31T00:00:00Z
-    webUrl: "https://www.shacknews.com/topic/starcraft-2-heart-swarm"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 37
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/07/31/sc2-pc-deals_feature.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "All Stories Tagged: StarCraft 2: Wings of Liberty"
-    excerpt: "One of Blizzard's most beloved sequels is now a decade old and so there's a big anniversary sale across the StarCraft franchise. Was Blizzard's apology at BlizzCon 2019 enough, or will/are you ..."
-    publishedDateTime: 2021-07-31T00:00:00Z
-    webUrl: "https://www.shacknews.com/topic/starcraft-2-wings-liberty"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 37
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/07/31/sc2-pc-deals_feature.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Halo and StarCraft Ship Sizes"
     excerpt: "Been resting from art for some days, so I'm posting this silly edit I did for a Discord Server. The page is from the very interesting StarCraft Book: StarCraft Field Manual. I had to compress the image using the 1km line (which was actually really helpful ..."
     publishedDateTime: 2021-08-06T22:51:00Z

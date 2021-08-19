@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=w5kFpuZe0qU
 type: video
 length: PT30M58S
 publishedDateTime: 2018-12-14T11:41:46Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/w5kFpuZe0qU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Ou8rVojtdyydwKx98OIrQPOBgyNswDjpYFfC6QR6EL9cdvBlg1wsc8DbGf3yjTjYdF34VxmHbOxyVD09QVbkQCAd3CwuClJ9UagS8vseybvAxkzvAdkWJs5QEVhLDljAHHoUxn4IS2Q/G7HJOVK//8TvRcBxgCpDksUcJO3sRm7vwG8pQNA9Tano0Pa+ULcYAVSSchpS4LDw5wYkztU7CeCZekHd/bCUW6i6oTPlvRwJK8/9RzQMztKTit0P+FXI1bGzOeB6AmGMJXBtbvWJsqykhK5v30bnKAWhWg5UdZhXkKkfuQypdRXjAGnk0CyHXlhYa6nisBM9peQppUowlN78K4zcaSBYGEITIeVjb/tVzyq9rl1lTCZHFJEYeB3c1sjgZmO4rxC30IUZAlG/eRGQsIuK1Finp66PRcJvdWN3KDvNaOQ44AdrJc0/k7R/;wWis+tento9XHV5Yn7GjHw=="
+secured: "5X/ZSqND+4xN/TxXhXVWQJ88IP3xs/T74vRwR+rXO7iwi8zOclHWogA9HJ1eFuedkwJtgzCBBYn5XNCWkfur73p528MubFe7O6a1/2Lvu4kzDgEZJSGQtmtTEcIC0/EMca4Qe02in0rPSpnpm+nXVuFiN1EuNHkkbkqHXpFFND1v3PnTZZ4ecWbRQvnKnC3mr5hiqHjOSHVcYJlrzDLjQgOWYxNx2BJXKlC9k3BF2fGKPCgp5TZD+uDdhx1wouifQkMWJclhLwTa9O2YG/zR78s9PYERcGMeMkr2JXGgNJBHaw2htZGY4E0mLxuaWlmzzM0W7M4d8IkEJuwEizhNe1pWZSr3otDo346VWmNxG2lhnx0IPMGToOmhETGZpXEza3I56r7pJnH9qr7yWeEZNMv0RrNoaWjC6h+mwkYGBbhwjZ+dkRO0alKUJwv8P2UA;AQKfJek2bXzblmte7mjr9Q=="
 ---
 

@@ -80,6 +80,44 @@
       "publishedDateTime": "2019-01-10T11:49:58-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-professional-cheese-cannon-rush-vs-proxy-void-rays-stats-vs-zest.md",
+      "title": "StarCraft 2: PROFESSIONAL CHEESE - Cannon Rush vs Proxy Void Rays! (Stats vs Zest)",
+      "excerpt": "After some great games of Zerg versus Zerg and Terran versus Terran, it is time for Protoss versus Protoss. This is one of the craziest games of high level StarCraft 2 I've seen recently.  Dark vs Serral: https://youtu.be/vD6JmIVTOXo Cure vs ByuN: https://youtu.be/tTX4nFOYqOA  Support my work on Patreon:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-professional-cheese-cannon-rush-vs-proxy-void-rays-stats-vs-zest/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-professional-cheese-cannon-rush-vs-proxy-void-rays-stats-vs-zest/",
+      "originalUrl": "https://youtube.com/watch?v=c07FjaDtY2E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c07FjaDtY2E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/c07FjaDtY2E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-12T02:12:37-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-professional-cheese.md",
       "title": "StarCraft 2: PROFESSIONAL CHEESE!",
       "excerpt": "Stephano versus PartinG in a really cool game of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Solar vs INnoVation: https://goo.gl/gVzpyJ  Super quick decision making is the name of the game. Stephano notices the cheese early and responds immediately. However, he does lose two bases",
@@ -345,45 +383,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-04-03T03:13:26-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-reynors-aggressive-lurker-late-game-vs-maru.md",
-      "title": "StarCraft 2: Reynor's AGGRESSIVE Lurker Late Game vs Maru!",
-      "excerpt": "Professional match of StarCraft 2 between Reynor and Maru. Lots of Lurkers in the late game!  ByuN versus Serral: https://www.youtube.com/watch?v=VZeBQi3WXlk   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynors-aggressive-lurker-late-game-vs-maru/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-aggressive-lurker-late-game-vs-maru/",
-      "originalUrl": "https://youtube.com/watch?v=ZpYkXmbinKU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpYkXmbinKU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M9S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZpYkXmbinKU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-12-07T10:09:57-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-scarlett-base-races-neeb.md",
@@ -805,44 +804,6 @@
       "publishedDateTime": "2020-07-21T04:19:20-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-battle-of-the-defensive-protoss-stats-vs-showtime.md",
-      "title": "StarCraft 2: The Battle of the DEFENSIVE PROTOSS! (Stats vs ShoWTimE)",
-      "excerpt": "Awesome game of professional StarCraft 2 between The Shield of Auir and Die Mauer. In this Protoss versus Protoss we see both players trying to outmacro the other, but it turns out they're pretty much doing the exact same thing.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-battle-of-the-defensive-protoss-stats-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-battle-of-the-defensive-protoss-stats-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=36ZaYu68mi0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/36ZaYu68mi0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M30S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/36ZaYu68mi0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-23T03:58:27-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-best-pro-match-of-2019.md",
       "title": "StarCraft 2: The BEST Pro Match Of 2019!",
       "excerpt": "It's the final day of 2019 and I figured it would be appropriate to cast what is my favourite professional game of StarCraft 2 this year. In this video I cast a match that was played earlier this year between Serral and soO during IEM Katowice.  If you would have told me a few years ago that a Zerg versus",
@@ -1139,6 +1100,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-10-24T06:19:06-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-hero-battlecruiser.md",
+      "title": "StarCraft 2: THE HERO BATTLECRUISER!",
+      "excerpt": "An awesome match of Zerg vs Terran with a Hero Battlecruiser. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Zerg match: https://goo.gl/E9r57B  In this video MarineLorD decides to play a very cool style versus Namshar. While we have seen different versions of Terran Mech, he decides",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-hero-battlecruiser/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-hero-battlecruiser/",
+      "originalUrl": "https://youtube.com/watch?v=79gC4M-udK4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/79gC4M-udK4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M38S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/79gC4M-udK4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-11-30T04:14:52-08:00"
     }
   ],
   "nextPage": 15

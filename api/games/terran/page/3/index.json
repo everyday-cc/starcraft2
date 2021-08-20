@@ -4,6 +4,39 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster.md",
+      "title": "StarCraft 2: MASS Marines to Grandmaster!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=dTWvlG6Lork",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dTWvlG6Lork\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M15S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 54,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dTWvlG6Lork/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-09-14T04:35:04-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-byun-bunker-rushes-stats-best-of-3.md",
       "title": "StarCraft 2: ByuN BUNKER RUSHES Stats! (Best-of-3)",
       "excerpt": "Best-of-3 series of top level StarCraft 2 between ByuN and Stats. This match is from OlimoLeague.   OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
@@ -82,44 +115,6 @@
       "publishedDateTime": "2021-05-22T04:37:03-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-byuns-cheese-gets-shut-down.md",
-      "title": "StarCraft 2: ByuN's Cheese Gets SHUT DOWN!",
-      "excerpt": "Awesome match of Terran versus Zerg in StarCraft 2 between ByuN and Dark.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-cheese-gets-shut-down/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-cheese-gets-shut-down/",
-      "originalUrl": "https://youtube.com/watch?v=cvOrN72JZbE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cvOrN72JZbE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M47S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cvOrN72JZbE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-15T06:24:18-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-byuns-mass-sky-terran.md",
       "title": "StarCraft 2: ByuN's MASS Sky Terran!",
       "excerpt": "Amazing game of Terran versus Terran in StarCraft 2 between SpeCial and ByuN.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
@@ -158,14 +153,14 @@
       "publishedDateTime": "2020-11-23T03:28:25-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-byuns-strategic-variety-best-of-3.md",
-      "title": "StarCraft 2: ByuN's Strategic Variety! (Best-of-3)",
-      "excerpt": "Best-of-3 series between ByuN and Ragnarok in professional StarCraft 2.  Tournament game is from OlimoLeague: https://www.patreon.com/olimoley  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-strategic-variety-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-strategic-variety-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=cg-juG9IGPo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cg-juG9IGPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M10S",
+      "path": "_games/lowkotv-starcraft-2-byuns-zesty-marauder-cheese.md",
+      "title": "StarCraft 2: ByuN's ZESTY Marauder Cheese!",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between ByuN and Zest. This series of games was played during the ESL Open Cup.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-zesty-marauder-cheese/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-zesty-marauder-cheese/",
+      "originalUrl": "https://youtube.com/watch?v=ZOM2W5H8QrQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZOM2W5H8QrQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M8S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -185,7 +180,7 @@
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/cg-juG9IGPo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZOM2W5H8QrQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -193,7 +188,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-12-17T03:43:14-08:00"
+      "publishedDateTime": "2020-12-15T03:46:23-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-cheesy-terran-cheese.md",
@@ -424,44 +419,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-11-20T08:23:55-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-byuns-zesty-marauder-cheese.md",
-      "title": "StarCraft 2: ByuN's ZESTY Marauder Cheese!",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 between ByuN and Zest. This series of games was played during the ESL Open Cup.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-zesty-marauder-cheese/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-zesty-marauder-cheese/",
-      "originalUrl": "https://youtube.com/watch?v=ZOM2W5H8QrQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZOM2W5H8QrQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M8S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZOM2W5H8QrQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-12-15T03:46:23-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-epic-terran-vs-zerg-bo5.md",
@@ -812,46 +769,6 @@
       "publishedDateTime": "2020-11-11T03:23:12-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-legends-free-for-all-mc-nestea-mvp-effort-rain-last.md",
-      "title": "StarCraft 2: THE LEGENDS FREE-FOR-ALL! (MC, Nestea, Mvp, Effort, Rain & Last)",
-      "excerpt": "Very fun free-for-all in StarCraft 2 in Big Game Hunters between Last, Effort, Rain, Mvp, Nestea and MC. All StarCraft 1 and StarCraft 2 legends.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-legends-free-for-all-mc-nestea-mvp-effort-rain-last/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-legends-free-for-all-mc-nestea-mvp-effort-rain-last/",
-      "originalUrl": "https://youtube.com/watch?v=NOcA0Q-gjBE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NOcA0Q-gjBE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NOcA0Q-gjBE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-02-23T09:23:49-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-mysterious-terran-parting-vs-time.md",
       "title": "StarCraft 2: The MYSTERIOUS Terran! (PartinG vs TIME)",
       "excerpt": "TIME does not seem to participate in nearly as many StarCraft 2 events outside of China as he used to. It's been far too long since I casted one of this games, so in today's best-of-3 series he goes up against the top level Protoss player PartinG.  Support my work on Patreon: http://www.patreon.com/lowkotv",
@@ -1153,6 +1070,82 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-07-08T04:26:49-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-amazing-bio-vs-mech-cure-vs-innovation.md",
+      "title": "StarCraft 2: AMAZING Bio vs Mech! (Cure vs INnoVation)",
+      "excerpt": "Amazing game of top-level StarCraft 2 between Cure and INnoVation. In this professional match Cure decides to take the approach of Marines, Marauders and Medivacs whereas INnoVation decides to focus his unit composition on primarily Siege Tanks and Hellions.  Get more videos & support my work: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-amazing-bio-vs-mech-cure-vs-innovation/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-amazing-bio-vs-mech-cure-vs-innovation/",
+      "originalUrl": "https://youtube.com/watch?v=Hg6no_2xbPs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Hg6no_2xbPs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M30S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Hg6no_2xbPs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-02-18T04:58:57-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-byuns-cheese-gets-shut-down.md",
+      "title": "StarCraft 2: ByuN's Cheese Gets SHUT DOWN!",
+      "excerpt": "Awesome match of Terran versus Zerg in StarCraft 2 between ByuN and Dark.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-cheese-gets-shut-down/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-cheese-gets-shut-down/",
+      "originalUrl": "https://youtube.com/watch?v=cvOrN72JZbE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cvOrN72JZbE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M47S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cvOrN72JZbE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-15T06:24:18-08:00"
     }
   ],
   "nextPage": 4

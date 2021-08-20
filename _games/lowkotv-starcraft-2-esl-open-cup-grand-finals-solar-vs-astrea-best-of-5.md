@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-esl-open-cup-gra
 type: video
 length: PT56M16S
 publishedDateTime: 2021-05-03T11:59:35Z
-heat: 55
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OG1AeAYrnWY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "hObec/zF1SDwQ0yQTNMBjmJeFF+Yl42WsTwR6lJ4HizE7uhQ8+9Ei12j98FWoWu/heTY9/jM1cpXrsLedof1+SG6BbJTJrngFUhr0dQWkrBx2vtq8IOassAWMUHrefPl1heiUn/BcRPIV/X98QwWydIqTaO3/uvW86UJ0P29fsogv4w1PibMD9DKZn7jtLyUlUVJmxvHbPmqCiK+I2TxySHJIMKPFzAhPiXLMMaWZUAKVODA26kk6bsGWbycGkTCBrQcpzPQx42IjsBmasTDCVkXUOzF582fzxmDvphTESawlE17khOXRSdcDWSFnG6m6TkjEvIc1yzNk3OPkQApqaVd/hoBYqlWsL+bZuPC6ho4ykyQqG/BVLq5TLBktwji+k5Hqzng+eUlFVD7MH8K6b+Npo8we2FZeNlETJf5IcGYPU7RSQLaG5Sr7778iAfs;zUb4DulKZsS4sLJQx26xHg=="
+secured: "QZANymEXjTIazMOunNZzLlahks/Ied34+q9K7PW9If5/vR6/gKH/Q5COwdNLpzKzM0In7aGga7PyxzF0StWW05R6Xu29dcY4CyME8lE/gvQZ1CBrddKC54NXXAZWiFk27K32owIkyXjTZ9NDKs/AUw+vOiGJZx9/IBcwePLwJvE84bKkLsoREYts5XarVHK4OHkEk8W69ItjsXEXUmVZZwle8ZvyDlIhhxODlx/V1sMRs6tN62j09tKPGo7QkdJxmAb6JG453+8en+riYZ0xk+sgn9TbkeLBvke+G9CRraozvQiowR/FEj7P44VBvRO7EU3pJHrYd2GVsR9/4jylTlkxlsSMIZckfUR0h2aSGZiomkea1JlY153GYSGI4o/GHQ7MXxeQ7d8Fph/rUBhEjRn3b51Tzbdi2sT/+mFgEfP+4zQoy6+EdTazincj/3xk;Wzln/t6dXgKdkcHpShkAaA=="
 ---
 

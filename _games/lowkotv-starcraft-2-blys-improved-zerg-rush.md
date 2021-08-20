@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-blys-improved-ze
 type: video
 length: PT17M59S
 publishedDateTime: 2020-12-04T11:48:36Z
-heat: 57
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mBP8soYss38\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "fKvdvHb4E43p+WJYIQUVV2C+BqFaQDqeFbfAyysr455M9lNShZup/NOyh5n6c2zqhCZq481VKuEHAUwBweQd+uGbznevmWapkhhRYBoLH9UBeSGni6eOzVpfoLQejbnStjePlRC8Y+Ei0qvkWb7hnLljKuiHXxrILhV4+LD4gm34OLReEtv0VVWxNk6QL62j5XxgZEj12sCqafoj6mD1YrzsYZuCa//hDUciZYJW6boUzTHis9LdSJtlJxZtY+N3AecR8ySIqsbg8VWJJ1xXG/iHDSMQDLSGLYCDz4bXldMcv/30Lv1hCA+RI/F3qlDBuwSTQ58jAHK/4fk+OVvMJL/RDxaCoZr6JmBhIYIgOhsXfbMLfpV7OHqryqaQvt78uP69/yHQFOacqPo4vg1gcyzsptfwo8NDUh9v6HeMlKHIYPpz6+jmldkmrg+oBZMR;h+fZJPkIFtVfMJ3cbwOG/Q=="
+secured: "DewKyoK5+4C3PgXM1xoRRXXVI4tonbTEwVAmFMskvNaqK4RvI1rQ52zCLZGDC4yJ7FzG6pyaza5Hf67mY4vSRl+0BvoCNzZQOzcfGXCZt5E6yO0Fk2PoI3SjE67BUexMdaKaOUpM1naRmrdQdIW324eJvWahzKYp3RurfrTfpkjThYNyFSQ2DNzkLD6ndJ45S3PoQqNJKiPkXISqENfPD1efrtDQ36j47dHOUEKwHBEETCB9GAwvxURsCvW/eJz9KDLJX4QHUmMdzFYGLJdMNYXdbZIsQl0KFl5xaL8uW4eo74vZfb6jNweal+8M1qMAP6otNU7TCt/pI5/+xaT4h4cvgC39rVMBQKrz41D15/ocvDRfDjJeWukHnhirqDkZyKN7e7Bwn+zp0gpe3mn+gys7N3Oa3R+Kp18G+iA819w0Nzk5V9zZwOnzwmPscbw6;i1C22Xz/KhxwDsJajIxKUg=="
 ---
 

@@ -4,80 +4,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-battle-for-the-fourth-base.md",
-      "title": "StarCraft 2: BATTLE FOR THE FOURTH BASE!",
-      "excerpt": "Serral vs Lambo in a best-of-5 series of professional StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Swarm Host hit squad: https://goo.gl/ki6jkT  A super clean series of Zerg vs Zerg. Both players are very high level contendors and in this match they face off against each other in a",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-battle-for-the-fourth-base/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-battle-for-the-fourth-base/",
-      "originalUrl": "https://youtube.com/watch?v=VhA63JXtuWs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VhA63JXtuWs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VhA63JXtuWs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-09-01T04:06:17-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-battle-mech-counter-attacks.md",
-      "title": "StarCraft 2: BATTLE MECH COUNTER-ATTACKS!",
-      "excerpt": "Super good game between Reynor and Gumiho. Subscribe for more videos: http://lowko.tv/youtube Insane Protoss macro: https://goo.gl/kYVEow  Small mistakes have big consequences in a game of professional StarCraft 2. Reynor makes a small misstep in the early game and immediately gets punished. His followup",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-battle-mech-counter-attacks/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-battle-mech-counter-attacks/",
-      "originalUrl": "https://youtube.com/watch?v=B8EUBMDHXRk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B8EUBMDHXRk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B8EUBMDHXRk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-08T00:34:03-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-battle-of-the-world-champions.md",
       "title": "StarCraft 2: BATTLE OF THE WORLD CHAMPIONS!",
       "excerpt": "Rogue vs ByuN in a best-of-3 series of Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube More professional StarCraft 2: https://goo.gl/kFUSLt  Both players in this match are previous World Champions of StarCraft 2. ByuN shows some very cool build orders, and Rogue does what he does best...",
@@ -839,6 +765,44 @@
       "publishedDateTime": "2018-03-06T23:33:31-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-byun-destroys-clems-main-base.md",
+      "title": "StarCraft 2: ByuN DESTROYS Clem's Main Base!",
+      "excerpt": "Professional match of StarCraft 2 between Clem and ByuN.   Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-destroys-clems-main-base/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-destroys-clems-main-base/",
+      "originalUrl": "https://youtube.com/watch?v=6Qb51hctEN0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6Qb51hctEN0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M18S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6Qb51hctEN0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-02-25T09:27:54-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-cast-archon-drops.md",
       "title": "StarCraft 2 Cast: ARCHON Drops!",
       "excerpt": "Professional best of three in StarCraft 2 between MaNa and Nerchio. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/S1lJbH  In this series of StarCraft 2 we see what is currently considered to be a very standard Zerg versus Protoss. MaNa decides to play the same",
@@ -1139,6 +1103,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-02-04T04:54:29-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-cast-empty-medivac-drops.md",
+      "title": "StarCraft 2 Cast: EMPTY Medivac \"Drops\"!",
+      "excerpt": "Cast of a professional match of StarCraft 2 between Bunny and Solar. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/S1lJbH  Empty Medivac drops, sneaky Gold base expansions and non-stop aggression. This Zerg vs Terran is crazy. Both players decide to move all",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-empty-medivac-drops/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cast-empty-medivac-drops/",
+      "originalUrl": "https://youtube.com/watch?v=CeKFdngFzPQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CeKFdngFzPQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M45S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CeKFdngFzPQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-01-19T07:37:55-08:00"
     }
   ],
   "nextPage": 23

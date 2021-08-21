@@ -2,7 +2,7 @@
 title: "MASS Widow Mines & Ravens!"
 excerpt: ""
 type: collection
-heat: 60
+heat: 61
 
 provider:
   name: BeastyqtSC2

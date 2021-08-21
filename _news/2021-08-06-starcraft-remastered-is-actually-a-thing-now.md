@@ -38,34 +38,6 @@ related:
         width: 1060
         height: 754
         isCached: true
-  - title: "2022 Starcraft CX 23 DL"
-    excerpt: "The CX pontoon boat series is everything you'd expect from Starcraft. With countless layouts and options to choose from, you're sure to find the perfect pontoon boat for you at a value you can afford. Take a look for yourself. RELAX ON THE WATER THE CX ..."
-    publishedDateTime: 2021-08-12T14:31:00Z
-    webUrl: "https://www.yachtworld.com/boats/2022/starcraft-cx-23-dl-3865137/"
-    type: article
-    provider:
-      name: YachtWorld
-      domain: yachtworld.com
-    quality: 37
-    images:
-      - url: "https://images.yachtworld.com/resize/1/8/66/7670866_20201127113016100_1_XLARGE.jpg?f=/1/8/66/7670866_20201127113016100_1_XLARGE.jpg&w=1200&h=800&t=1628276139000"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "2022 Starcraft SVX 191 OB"
-    excerpt: "Check out the models ranging from 17' to 23'. SVX SERIES BY STARCRAFT THE ALL-NEW SVX SERIES PROVES THAT FUN ON THE WATER DOESN'T HAVE TO COME WITH A BIG PRICE TAG. SVX COMES LOADED WITH VALUE, INCLUDING FEATURES LIKE A FOUR-SPEAKER STEREO, A BIMINI TOP ..."
-    publishedDateTime: 2021-08-13T04:58:00Z
-    webUrl: "https://www.yachtworld.com/boats/2022/starcraft-svx-191-ob-3865809/"
-    type: article
-    provider:
-      name: YachtWorld
-      domain: yachtworld.com
-    quality: 37
-    images:
-      - url: "https://images.yachtworld.com/resize/1/13/15/7681315_20201208084602365_1_XLARGE.jpg?f=/1/13/15/7681315_20201208084602365_1_XLARGE.jpg&w=1200&h=800&t=1628532314000"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "2v0a2HK8P5s7bdXZ1OJQ8t31Pl1zgNryhKdIXWsvPKdlbgopbqy7Lcyu5BkeQMliekhGX7B5fa0V4REdQeDIrEyKeKtz/XbIyKS318vd04vQ/R9Ua0emsH09ShZXSZoU/G0JBld71DlgDy7SMRLzJhIVaOZdq2NA2n/LapDHi4161yLLsGaYiH7ZE4DosfpeSV47ff5HAZ/QF/pghGTEGknfGONafCtEAEJSzX922ecwWfHcgKmsR0Bl99hyQK4mVqbSFakV+hHaXyWCTBtrTGzmrAvoEegibWgkOx9BIcWvDAuu2OS4pCw8AAWrezflqrtxvmOVP0HyqfC+zL3/k1ypT902AJTkx0bd6zzCDNA=;t8PwhYBqFt8VOkETl7eGxA=="
 ---

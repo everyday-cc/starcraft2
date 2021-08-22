@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "2022 Starcraft SLS 3"
+    excerpt: "SLS Starcraft pontoon boat innovation continues with the SLS series, featuring HMX tubes. With strategically placed strakes, HMX tubes give you better lift, less surface drag, increased speed, faster planing and a tighter turning radius. In short ..."
+    publishedDateTime: 2021-08-12T14:31:00Z
+    webUrl: "https://www.yachtworld.com/boats/2022/starcraft-sls-3-3865768/"
+    type: article
+    provider:
+      name: YachtWorld
+      domain: yachtworld.com
+    quality: 37
+    images:
+      - url: "https://images.yachtworld.com/resize/1/8/53/7670853_20201127104927473_1_XLARGE.jpg?f=/1/8/53/7670853_20201127104927473_1_XLARGE.jpg&w=1016&h=677&t=1628529043000"
+        width: 1016
+        height: 677
+        isCached: true
   - title: "2022 Starcraft SVX 191 OB"
     excerpt: "Check out the models ranging from 17' to 23'. SVX SERIES BY STARCRAFT THE ALL-NEW SVX SERIES PROVES THAT FUN ON THE WATER DOESN'T HAVE TO COME WITH A BIG PRICE TAG. SVX COMES LOADED WITH VALUE, INCLUDING FEATURES LIKE A FOUR-SPEAKER STEREO, A BIMINI TOP ..."
     publishedDateTime: 2021-08-13T04:58:00Z

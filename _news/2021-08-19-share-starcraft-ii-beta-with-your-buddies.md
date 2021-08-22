@@ -9,7 +9,7 @@ ampWebUrl: "https://heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with
 cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with-your-buddies/amp/"
 type: article
 quality: 57
-heat: 141
+heat: 161
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://images.yachtworld.com/resize/1/8/66/7670866_20201127113016100_1_XLARGE.jpg?f=/1/8/66/7670866_20201127113016100_1_XLARGE.jpg&w=1200&h=800&t=1628276139000"
         width: 1200
         height: 800
+        isCached: true
+  - title: "2022 Starcraft SLS 3"
+    excerpt: "SLS Starcraft pontoon boat innovation continues with the SLS series, featuring HMX tubes. With strategically placed strakes, HMX tubes give you better lift, less surface drag, increased speed, faster planing and a tighter turning radius. In short ..."
+    publishedDateTime: 2021-08-12T14:31:00Z
+    webUrl: "https://www.yachtworld.com/boats/2022/starcraft-sls-3-3865768/"
+    type: article
+    provider:
+      name: YachtWorld
+      domain: yachtworld.com
+    quality: 37
+    images:
+      - url: "https://images.yachtworld.com/resize/1/8/53/7670853_20201127104927473_1_XLARGE.jpg?f=/1/8/53/7670853_20201127104927473_1_XLARGE.jpg&w=1016&h=677&t=1628529043000"
+        width: 1016
+        height: 677
         isCached: true
   - title: "2022 Starcraft SLS 3 DC"
     excerpt: "SLS Starcraft pontoon boat innovation continues with the SLS series, featuring HMX tubes. With strategically placed strakes, HMX tubes give you better lift, less surface drag, increased speed, faster planing and a tighter turning radius. In short ..."

@@ -1,31 +1,45 @@
 ---
 category: news
-title: "Share StarCraft II Beta With Your Buddies"
-excerpt: "We’ve all been waiting over a decade. But Blizzard is finally releasing a few more StarCraft 2: Wings of Liberty multiplayer beta keys for the original testers to share with their friends ..."
-publishedDateTime: 2021-08-19T00:10:00Z
-originalUrl: "https://heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with-your-buddies/"
-webUrl: "https://heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with-your-buddies/"
-ampWebUrl: "https://heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with-your-buddies/amp/"
-cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with-your-buddies/amp/"
+title: "2022 Starcraft SLS 3 DC"
+excerpt: "SLS Starcraft pontoon boat innovation continues with the SLS series, featuring HMX tubes. With strategically placed strakes, HMX tubes give you better lift, less surface drag, increased speed, faster planing and a tighter turning radius. In short ..."
+publishedDateTime: 2021-08-13T10:33:00Z
+originalUrl: "https://www.yachtworld.com/boats/2022/starcraft-sls-3-dc-3865813/"
+webUrl: "https://www.yachtworld.com/boats/2022/starcraft-sls-3-dc-3865813/"
 type: article
-quality: 57
-heat: 141
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Heavy.com
-  domain: heavy.com
+  name: YachtWorld
+  domain: yachtworld.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://heavy.com/wp-content/uploads/2010/03/1269025106_star-craft-2.jpg?quality=65&strip=all"
-    width: 600
-    height: 210
+  - url: "https://images.yachtworld.com/resize/1/47/85/6924785_20181130123737915_1_XLARGE.jpg?f=/1/47/85/6924785_20181130123737915_1_XLARGE.jpg&w=483&h=322&t=1628533832000"
+    width: 483
+    height: 322
     isCached: true
 
 related:
+  - title: "Share StarCraft II Beta With Your Buddies"
+    excerpt: "We’ve all been waiting over a decade. But Blizzard is finally releasing a few more StarCraft 2: Wings of Liberty multiplayer beta keys for the original testers to share with their friends ..."
+    publishedDateTime: 2021-08-19T00:10:00Z
+    webUrl: "https://heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with-your-buddies/"
+    ampWebUrl: "https://heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with-your-buddies/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with-your-buddies/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 57
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2010/03/1269025106_star-craft-2.jpg?quality=65&strip=all"
+        width: 600
+        height: 210
+        isCached: true
   - title: "2022 Starcraft CX 23 DL"
     excerpt: "The CX pontoon boat series is everything you'd expect from Starcraft. With countless layouts and options to choose from, you're sure to find the perfect pontoon boat for you at a value you can afford. Take a look for yourself. RELAX ON THE WATER THE CX ..."
     publishedDateTime: 2021-08-12T14:31:00Z
@@ -39,20 +53,6 @@ related:
       - url: "https://images.yachtworld.com/resize/1/8/66/7670866_20201127113016100_1_XLARGE.jpg?f=/1/8/66/7670866_20201127113016100_1_XLARGE.jpg&w=1200&h=800&t=1628276139000"
         width: 1200
         height: 800
-        isCached: true
-  - title: "2022 Starcraft SLS 3 DC"
-    excerpt: "SLS Starcraft pontoon boat innovation continues with the SLS series, featuring HMX tubes. With strategically placed strakes, HMX tubes give you better lift, less surface drag, increased speed, faster planing and a tighter turning radius. In short ..."
-    publishedDateTime: 2021-08-13T10:33:00Z
-    webUrl: "https://www.yachtworld.com/boats/2022/starcraft-sls-3-dc-3865813/"
-    type: article
-    provider:
-      name: YachtWorld
-      domain: yachtworld.com
-    quality: 37
-    images:
-      - url: "https://images.yachtworld.com/resize/1/47/85/6924785_20181130123737915_1_XLARGE.jpg?f=/1/47/85/6924785_20181130123737915_1_XLARGE.jpg&w=483&h=322&t=1628533832000"
-        width: 483
-        height: 322
         isCached: true
   - title: "2022 Starcraft SVX 191 OB"
     excerpt: "Check out the models ranging from 17' to 23'. SVX SERIES BY STARCRAFT THE ALL-NEW SVX SERIES PROVES THAT FUN ON THE WATER DOESN'T HAVE TO COME WITH A BIG PRICE TAG. SVX COMES LOADED WITH VALUE, INCLUDING FEATURES LIKE A FOUR-SPEAKER STEREO, A BIMINI TOP ..."
@@ -78,6 +78,6 @@ related:
       domain: usatoday.com
     quality: 17
 
-secured: "cex9xK1NOQOEOPcfwmSCH1+nLHJlMucxJJXcHPiznpamFd831WE2G1E/YO/IWOXeUVT5OdEFrbIb4TZhfRO3C5ok9B7KUlSBhmxlCQBU5pix3UOaEfwDXOqd2nzBDlzQnlagQcSX/UsQnvyqKbDHcvMnJdXyIL0gs1DROsuN+HsvUNUALr+isJ2Gb4ZpPxeEOx4QbmhASDn5O/V3hWBVIH6z+YTsZt6VyeXAbftxSjBvhqN8d2jywtBwxb083WuaT1JV4gtBkc/IeiDrCVPc0zf4Mjb/oOB/a0f7EAJWvnxqSnM1PfmKmi1gKeF8QJUgdyIDsaF6LXwaaj+BX3kNnzgMkVTmjpYxfHKYGQBlpUk=;YKkBg4SRKdUaQmZzc92HRA=="
+secured: "Dbyby4NAWnT4ZYxq0EixrRzoTCq9P/HY89cR8+dRjzRlzklXju4KFiZ9HQRVDrJtYus/NmTdeZiwJbTXuKqBKJq4ucWTI/x9DT1CJBNQLL7eXN0tfUrLL0p3Ub/fxOA7bfLbi9YYpexdSnztXxFuTIEPqHnOGCiG+E2fXrXik4oiM2rUUwwCpgDDiwTxxHMMf6tzaWGD0KWJuPY28icQC8EC3wuRb3dQCmt43n/+NAjtWBUzuXGmlL3fPUDENfvZ2jybv+euFOKzZxOEb+QQ8etvPfqDtrsLrYF8Gb5jB3QlGtV7/MVrsw42T5V/NYNpAKAKZ7RkZDZjOpVbxF50mKcDwO6AWlLpW9lv+M55oPE=;G2kGQgw1Iuz6dq4Cnpt59A=="
 ---
 

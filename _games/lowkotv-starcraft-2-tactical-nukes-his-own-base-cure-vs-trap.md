@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=EPOzcrqG3YE
 type: video
 length: PT1H8M40S
 publishedDateTime: 2020-07-02T12:06:47Z
-heat: 57
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EPOzcrqG3YE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "C1rLJjo02rQldRlHbvk22MKapw2yLSgihQNrLPIpx6GwNO09JNQuHy7kgslKccN9M/Y/M8RvAIRGwNHaK0TE3LE0dLplYbV5u6EhRrE4oqq6coPVq6y3oZxIaZA248lKBkJBQ/fum7ZCvmyqJZ5ZG8ZCdxIP7MMLc623UkgguFAEcDeIOHzv1sh8WIcgSSXAnHmKryJD32ne1Uhnh1drHzRqatjYOaVmheldyPNiP4o+mJaK/LQbEzPbVAIM5qX0mjKTJk7FS3Tw6A5cm7a443WQbKIJHFPvnveZDvHeZnvr/piQ001Wp2ZvE0pQ8I/f6O8XfY8xKThtIb7CNI2s0Xqty7RfAm2OW5KpDX1JEjS3LfUPlJQrF4DsWwZjDzFfZ/JMMhlvTqVUQj7lt5V6d5awGuxi5C7lrFE2JUi4x7nwqIOTK9k9isxa/NIGUFIL;dMPynWCSDlYtA/84tsj46A=="
+secured: "C8w6f7JeFPciVA4Um5dBCZkm5zCnX6ebfOwnghQk7gkup4iZBiVK7SDELaoaMSagjrBJlJdh1GtE812cDFCwArdtzBOcP1gL7y3zbAWbn3alYmAsMuBEBDArKc+t1IdDvEKQln3NGNBq7aFg8lDN4bG4Fl5t2W04I11PuzfeYt/GSNoAxVEQbQenz/Y5tWa/WNMVbtqXr/GvlN9U87vMFAgPVIJeKZpYfllScTl1XapahGGwwAPWm0lGG1kP+8lCefg+ucqDmweX6vD4BcfmKLIGhf37BY/jfVkQj9Xs3SyJfYkRFIGfW6zpBwyCRvBoL+UPBOlGXNBtRkUTl3UB60FAnWwvpPyK3f7Ug5a6Hx260xY7x2T34dAWF5ryY0AWQI96+m5Vd6qDVX1oahwX9I5mPH5Z0LzeiymgZIA/K+aS+XDWqarVN0+oiLrB+bE0;jprKECYqaIMgKcWMM2N0rA=="
 ---
 

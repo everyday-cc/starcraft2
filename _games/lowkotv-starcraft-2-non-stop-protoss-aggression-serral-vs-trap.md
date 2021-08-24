@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-non-stop-protoss
 type: video
 length: PT16M57S
 publishedDateTime: 2021-05-11T09:59:32Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iEY5iLUuUto\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "FGtuKs8eCqI8uERaPszdbjqg1RA/QTOxJewThYyZPPVYgvO26sLrusAPa3GAoXb9C5n+dZfim4us5tRV/i+gch0j/WqMYTJ+kehwseCrfEBjnw+N2EL/nDXV4TSFYdJHozXqcz4C83fEM3tUjokZ86B0h8OL+rHIMXrQCkKylXB9ZXUo3Uh3PjiExeD+s2+zUzGbhRlBOm+rMstScb76tMvYgIzm0hDnMZSZ92vMCkWLwdIgc1KcqrccSrlQyn92iXBpPa2Lgi2aA7e/i+yLqB0ju0FviijXhlkPQ2g+E4pO65kuGXCs6HSwcoyfdTiGd0wPAMbv2jrhLg6oVqW3sJPxY1WoML6wt+teLwp4dNS/o3S/RfFsbkOySvg38c0fXmtACh+1gIuLaIKfOH81c/sHYB5983uBm76lFUS3zhs=;TikxSqJ8qv/ReB4oHxK8ig=="
+secured: "UjItKtBscXaKtCmTwCP7tI9lahkdBsOM1RygFNeTV/D6Ax3GsuNAPx8b+G5UeHcTTll9NN9JKuuv6fs5I9xeE1nujW9Hou423LvY74S8sJk9Y50Y2XQrU6JSnGD1O6TX3pZQ8YIj1Q3BaRGBsbh1v0UQsb0e+abuSKISqFBhB9HJOnEybPiOS+02/v+jD5VVGk5lJylrMuoRNUlKCN8WweHqQdl1GYcYjQ7XcgW/tZ6K/3pt9ObvKLtxDYnQEfbNsRioKyAzIqcuGtqwClOXdirxK3/oTJK3F1o+OeIvW7emtvUotdid3jBwJ8lhJiz+VTGlz3JOxVXUAAWft5itdnL5RcaIMNURtlqeNiQPopKksY2Y3AKXTDtcnS+yNfRc36ZEY5m6CMEl5RnTbW6HVfhL487f8QZsbBk6c/4RQeA=;GypNzCwLnBgbqSNAu4OWVA=="
 ---
 

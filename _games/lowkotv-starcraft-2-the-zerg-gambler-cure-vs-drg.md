@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-zerg-gambler
 type: video
 length: PT46M15S
 publishedDateTime: 2021-01-06T13:02:19Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4EkG4cuQ5L0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "adhUCn3ZJ+pMvJBM/gL9BxWL/M6cmOA3MRSAifYJC4OjQZvMtjPmIa4kgC9zB35YcPyoi7noSu8jr53pcs/7qlKhaVEYFUYRjDNd3HknYJLQVJ+6FDPBhO3nN7JGlG+I3R/GQp3pEkVKd81SBVh/hJuHaDHmrusrBo8SPBRAmPj0Nz1tNDaY0ETH6t42LnPvaRERqn+42yt6oagBEgVQtTjdN0mPzbbIDcWFQHOIYj7OCAOCmDq/L/k+G2jetDWGY7E7skHD25wiauQ284lPo0XFuMpOJ9hdGD3t9DgohnF1SbTN/atWeVNZWMsn1l2AYa+goAJZl6MSe7XJ+3jczKv14cwDxmhQMQkyPV/3zA9aIKmyaP4umhTztpJIZLHW3pgOkG56/Xe2nsQkQFIwHs0MQYUszbhRYvGDhZvtq0jSRNiYgk/lqh685Wkf0W4R;zhaTf21ojrhXuBeDF+jBQg=="
+secured: "i8fG28QUJANtbvW6vKzYHmirOt4jEzVmAH0oUjA4Cy+yTmEN3fOankSGUoueJLE1T6f6k5wNJ8UvBteVMASoxssNVCGkya9wUUxyV6+3c3lcbucnyzOsnhKbWVVG2/0TFlnD0IMUPjluQxs9u2B0rdqxJQ4nUafJsaHGXPvKr23Hr+bG0MCnSeGC11t08wuxr0KOZe1zOq/lf25aQrEdqB7jAmuIOel37JlgxCrqR0GfuVsuymCd/UUSGGchLLEUd62LN8VUkDs7eN4hLBB70OBGSgXBsZC1my7KFsPN8C1x0tvGfCMEh0/9kauAyLoLzKYsSlmoyHLhTpmVnDtLJofY7jwDNXRs7GsSZdSOwFB20RZbjQD4qUhJtgGVVfQRlUx3/a7CWvqqdYW8vdItKtrPiycWrNP3xJKMQVaOVwTlxvsc7TyOW9ytMJ6D7rnr;dJzLJuW/IQfYgq3NUCgmcQ=="
 ---
 

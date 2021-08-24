@@ -339,14 +339,14 @@
       "publishedDateTime": "2021-08-16T03:53:32-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-goblin-masses-phoenixes-vs-reynor-best-of-3.md",
-      "title": "StarCraft 2: Goblin MASSES PHOENIXES vs Reynor! (Best-of-3)",
-      "excerpt": "Phoenixes are not a very common unit currently at the professional level of StarCraft 2 in the Zerg versus Protoss matchup. We see them from time to time, but these days it is all about Void Rays and Carriers. In this video I cast a best-of-3 series of Zerg versus Protoss between Reynor and Goblin.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-goblin-masses-phoenixes-vs-reynor-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-goblin-masses-phoenixes-vs-reynor-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=IvoBpYooY9Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IvoBpYooY9Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53M19S",
+      "path": "_games/lowkotv-starcraft-2-dark-vs-zest-ultras-vs-protoss-best-of-5.md",
+      "title": "StarCraft 2: Dark vs Zest - ULTRAS vs Protoss?! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Dark and Zest. In this match we see both players constantly trying to outsmart each other with a variety of tactics, strategies and unit compositions.  Dark vs Zest on Beckett Industries: https://youtu.be/mUG5ryGpiV8  Support my work on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-dark-vs-zest-ultras-vs-protoss-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-dark-vs-zest-ultras-vs-protoss-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=NMlt6yJ-iKk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NMlt6yJ-iKk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H6M21S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -361,12 +361,13 @@
       },
       "topics": [
         "StarCraft 2",
+        "Protoss",
         "Zerg"
       ],
-      "heat": 146,
+      "heat": 156,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/IvoBpYooY9Q/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/NMlt6yJ-iKk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -374,7 +375,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-07-20T04:54:57-07:00"
+      "publishedDateTime": "2021-07-22T03:28:09-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul.md",
@@ -681,44 +682,6 @@
       "publishedDateTime": "2020-10-05T03:11:34-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-old-school-vs-new-school-showtime-vs-maxpax.md",
-      "title": "StarCraft 2: OLD SCHOOL vs NEW SCHOOL! (ShoWTimE vs MaxPax)",
-      "excerpt": "Best-of-3 series between ShoWTimE and MaxPax in StarCraft 2. This is an old school progamer playing a very macro focused style, going up against a relative newcomer who plays far more aggressively. In this Protoss versus Protoss we see two of the highest ranked non-Korean players face off in a series.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-old-school-vs-new-school-showtime-vs-maxpax/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-old-school-vs-new-school-showtime-vs-maxpax/",
-      "originalUrl": "https://youtube.com/watch?v=UeOdaAMIydA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UeOdaAMIydA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M50S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 122,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UeOdaAMIydA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-08T03:08:34-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-zerg-mothership.md",
       "title": "StarCraft 2: THE ZERG... MOTHERSHIP?!",
       "excerpt": "Turns out Neural Parasite is pretty good... If used correctly. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Protoss: https://goo.gl/qeUdf6  A very fun match of Gold League Zerg versus Protoss. In this game the Zerg player decides to go for a strategy that is a little uncommon. Eventually,",
@@ -795,6 +758,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-05T04:18:24-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-insane-psi-storm-drop-parting-vs-special.md",
+      "title": "StarCraft 2: INSANE Psi Storm Drop! (PartinG vs SpeCial)",
+      "excerpt": "Best-of-5 series of Terran versus Protoss in Starcraft 2 between PartinG and SpeCial.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-psi-storm-drop-parting-vs-special/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-psi-storm-drop-parting-vs-special/",
+      "originalUrl": "https://youtube.com/watch?v=_Qz9EguE8A8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Qz9EguE8A8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M27S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 113,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_Qz9EguE8A8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-18T04:02:45-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-relentless-terran-aggression-classic-vs-gumiho.md",

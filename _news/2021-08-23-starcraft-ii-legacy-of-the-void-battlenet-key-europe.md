@@ -9,7 +9,7 @@ ampWebUrl: "https://www.denoticias.es/us/amp/products/starcraft-ii-legacy-of-the
 cdnAmpWebUrl: "https://www-denoticias-es.cdn.ampproject.org/c/s/www.denoticias.es/us/amp/products/starcraft-ii-legacy-of-the-void-battlenet-key-europe.html"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:

@@ -38,6 +38,20 @@ related:
         width: 1060
         height: 754
         isCached: true
+  - title: "2022 Starcraft SLS 3 Q DH"
+    excerpt: "SLS Starcraft pontoon boat innovation continues with the SLS series, featuring HMX tubes. With strategically placed strakes, HMX tubes give you better lift, less surface drag, increased speed, faster planing and a tighter turning radius. In short ..."
+    publishedDateTime: 2021-08-10T08:37:00Z
+    webUrl: "https://www.yachtworld.com/boats/2022/starcraft-sls-3-q-dh-3865885/"
+    type: article
+    provider:
+      name: YachtWorld
+      domain: yachtworld.com
+    quality: 37
+    images:
+      - url: "https://images.yachtworld.com/resize/1/14/38/7981438_20210809125923740_1_XLARGE.jpg?f=/1/14/38/7981438_20210809125923740_1_XLARGE.jpg&w=600&h=400&t=1628542764000"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "2v0a2HK8P5s7bdXZ1OJQ8t31Pl1zgNryhKdIXWsvPKdlbgopbqy7Lcyu5BkeQMliekhGX7B5fa0V4REdQeDIrEyKeKtz/XbIyKS318vd04vQ/R9Ua0emsH09ShZXSZoU/G0JBld71DlgDy7SMRLzJhIVaOZdq2NA2n/LapDHi4161yLLsGaYiH7ZE4DosfpeSV47ff5HAZ/QF/pghGTEGknfGONafCtEAEJSzX922ecwWfHcgKmsR0Bl99hyQK4mVqbSFakV+hHaXyWCTBtrTGzmrAvoEegibWgkOx9BIcWvDAuu2OS4pCw8AAWrezflqrtxvmOVP0HyqfC+zL3/k1ypT902AJTkx0bd6zzCDNA=;t8PwhYBqFt8VOkETl7eGxA=="
 ---

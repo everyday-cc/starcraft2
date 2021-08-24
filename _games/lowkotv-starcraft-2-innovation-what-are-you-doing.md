@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=GbTdrfG3fzo
 type: video
 length: PT31M48S
 publishedDateTime: 2018-06-28T13:40:03Z
-heat: 52
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GbTdrfG3fzo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "WwciMhGGYIml5ejeccKQuFvFuzHSZ3VpHou/SPu0ZtxxphBubzg7bGCeArnEqAkC/FsS3tmmTk+cHWzj0tPs70RHHJfeAyhszDyYE/WxBvtB1u+t/DtI32ff0bgGj9Y3w6UNc2Q4AB2qN+O9fX7WNaA+dDKy4lVIFcyO4k7rA1avREDSmKQnGIMz4vHWy303/iCv3lBIZvFIBW79NTyGx2Rrh3Zc7s/W/WjBU1UAvuOGH3z2nBLnwfSGUzLvLjpj9GPYgD7Fg8tXy+hJ3YbP47CMm4EFrrMCK2tw89irdRmAVKpf3svC3KrJEXu13vYBd8pt/NjePhPAHBo7WhtWbJIIU8Q1efb3T96hEmgaqEy7hbHqi29Oes/2YNEugVHVqTaELrgnfdSlbWuUFQ6U9VSS8+asXdDUs38QMphWXclcjz7YXmff1jgR9cgsZbTq;Jew+IkQybPeIJpaulve5GQ=="
+secured: "tQdZskwILpdi+p7gQp3EA6XJPga2DRkRo/yb4DscFVo1XiPqEW8ke6VW4F0IHIu3bnMjJA+g6W2S1BHIVK/C0+8R44DIjlzvPyvnUlBoSgorq+zAka12kP99mTGSqEZDgBzJsqZaskNh4a7JIIgSOia/JcCjvtldKHlmrFqAvWaHFMfnp6cPgPMeHP9eke/jH8lf8iOHIuuZHACX/zQtpuDJj89kfwqxXZG9OxwBjvi2awd5rAhJD9BvomAlbTI8GGcilN/xPOoFnwoYmuKr7AgufXNA0ASX5ZebuMZG0seaSN83pHlE252udqrwUCVOljGMFN+oZHvYp/sPbuy9XK6qB+nHUEyTjK+1dEAdjS1S+HcJRfO2biBO32spxvC4rKYaR64nelK6Ffb4S++abaYWPO2Qr3bWytN4WnwkRpGDb356asl9JbIl7XxABwbL;iI2oNTzkt9NBrB9sic5UeA=="
 ---
 

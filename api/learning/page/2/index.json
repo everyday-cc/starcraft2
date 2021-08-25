@@ -4,6 +4,37 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021.md",
+      "title": "Starcraft 2: Terran vs Protoss Gameplay with Commentary [2021]",
+      "excerpt": "In today's video we're looking at some Starcraft 2: Terran vs Protoss gameplay. We'll be covering TvP all week. Let's get to it!  0:00 - Intro/Cinematic 1:12 - SC2 Terran Gameplay  19:00 - Like/Share/Subscribe!  #terran #gameplay #Starcraft2 #ladder #commentary Starcraft 2: Terran vs Protoss Gameplay",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021/",
+      "originalUrl": "https://youtube.com/watch?v=YS3zcgrN5IE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YS3zcgrN5IE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M56S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-01-15T18:18:51-08:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YS3zcgrN5IE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-zerg-macro-guide-injects-the-most-important-zerg-lesson-youve-ever-had-starcraft-2.md",
       "title": "Zerg Macro Guide (injects) | The MOST important ZERG lesson you've ever had [Starcraft 2]",
       "excerpt": "This is the most important zerg macro guide you will ever watch! Make sure to watch till the end to get extra tips on maintaining a strong macro cycle without missing a beat!  The MOST important ZERG lesson you've ever had  #zerg #macro #guide #starcraft #sc2  Coaching --------------------------------------------------------------------------",
@@ -31,46 +62,6 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained.md",
-      "title": "StarCraft 2: Zerg vs Terran EXPLAINED!",
-      "excerpt": "Today's video is made in collaboration with Benetton. The sweater I'm wearing in this video: https://us.benetton.com/knit-sweater-in-100-cotton-beige-1598K1O31_1K9.html?utm_campaign=USA_MF_INFLUENCER_Adult_SpecialContent_SS21-Lowko_Intent_2021-03&utm_medium=live&utm_source=youtube.com  In this video",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained/",
-      "originalUrl": "https://youtube.com/watch?v=rGa7TwyZa_4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rGa7TwyZa_4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-04-28T02:19:50-07:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rGa7TwyZa_4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
         "Zerg"
       ]
     },
@@ -261,6 +252,46 @@
       ]
     },
     {
+      "path": "_learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained.md",
+      "title": "StarCraft 2: Zerg vs Terran EXPLAINED!",
+      "excerpt": "Today's video is made in collaboration with Benetton. The sweater I'm wearing in this video: https://us.benetton.com/knit-sweater-in-100-cotton-beige-1598K1O31_1K9.html?utm_campaign=USA_MF_INFLUENCER_Adult_SpecialContent_SS21-Lowko_Intent_2021-03&utm_medium=live&utm_source=youtube.com  In this video",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained/",
+      "originalUrl": "https://youtube.com/watch?v=rGa7TwyZa_4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rGa7TwyZa_4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M34S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-04-28T02:19:50-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rGa7TwyZa_4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-beginner-guide-1-updated-2017.md",
       "title": "Learn to play Starcraft - Zerg Beginner Guide #1 - Updated (2017)",
       "excerpt": "We go over the basic mechanics of zerg and show the importance of understanding at least some of what your opponent is doing.  This guide is meant for players with an understanding of the objectives of starcraft but without any strong direction or gameplan, especially for each specific race! -- Watch",
@@ -320,6 +351,37 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-how-to-rapid-fire-warp-in-ultra-fast-technique.md",
+      "title": "Starcraft 2: How to Rapid Fire Warp In (Ultra Fast Technique)",
+      "excerpt": "You may have seen Rapid Fire Warp Ins before, but never THIS fast! This is going to change your protoss macro in starcraft 2 forever. Let's get started!  Starcraft 2: How to Rapid Fire Warp In (Ultra Fast Technique) #Starcraft2 #Protoss #RapidFire  ♦ Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-how-to-rapid-fire-warp-in-ultra-fast-technique/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-how-to-rapid-fire-warp-in-ultra-fast-technique/",
+      "originalUrl": "https://youtube.com/watch?v=-gW8qeKeAIA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-gW8qeKeAIA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M25S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-06-08T20:40:41-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-gW8qeKeAIA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
       ]
     },
     {
@@ -930,82 +992,6 @@
       "topics": [
         "StarCraft 2",
         "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-how-to-nydus-rush.md",
-      "title": "StarCraft 2: HOW-TO NYDUS RUSH!",
-      "excerpt": "How does a top-level player execute a Nydus Rush? Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Guides & Tutorials: https://goo.gl/BEPvJo  In this video I analyse a recent game between Serral and SpeCial. In this match on Backwater LE Serral decides to rush a Nydus Worm with minimal",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-how-to-nydus-rush/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-how-to-nydus-rush/",
-      "originalUrl": "https://youtube.com/watch?v=R2zN8eEaztM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R2zN8eEaztM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M2S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-02-02T04:44:42-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/R2zN8eEaztM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-mass-carrier-fenix-guide.md",
-      "title": "StarCraft 2: MASS CARRIER! (Fenix Guide)",
-      "excerpt": "A cheesy, but very effective build for Fenix in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube My \"standard\" Fenix build: https://goo.gl/G6ArYc  While in most games I will get a wide variety of units, while leveling up Fenix I quickly found out a few very powerful strategies. This is",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-mass-carrier-fenix-guide/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-mass-carrier-fenix-guide/",
-      "originalUrl": "https://youtube.com/watch?v=76PmBDv7-ww",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/76PmBDv7-ww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-05-06T02:01:43-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/76PmBDv7-ww/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.deviantart.com/lunaraurizen/art/Halo-and-StarCraft-Shi
 webUrl: "https://www.deviantart.com/lunaraurizen/art/Halo-and-StarCraft-Ship-Sizes-888026949"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Starcraft Remastered is actually a thing now"
-    excerpt: "Otherwise, you can expect Starcraft Remastered to launch in “summer” (our winter, then). Check out the trailer below. On paper, the HP Omen 15 presents a compact comprehensive gaming package ..."
-    publishedDateTime: 2021-08-06T00:00:00Z
-    webUrl: "https://memeburn.com/gearburn/2017/03/starcraft-remastered/"
-    type: article
-    provider:
-      name: Memeburn
-      domain: memeburn.com
-    quality: 37
-    images:
-      - url: "https://memeburn.com/gearburn/wp-content/uploads/sites/3/2017/03/starcraft-remastered.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "2022 Starcraft SLS 3 Q DH"
     excerpt: "SLS Starcraft pontoon boat innovation continues with the SLS series, featuring HMX tubes. With strategically placed strakes, HMX tubes give you better lift, less surface drag, increased speed, faster planing and a tighter turning radius. In short ..."
     publishedDateTime: 2021-08-10T08:37:00Z

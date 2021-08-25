@@ -9,7 +9,7 @@ ampWebUrl: "https://heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with
 cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with-your-buddies/amp/"
 type: article
 quality: 57
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -82,6 +82,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "BlizzCon 2009 Goody Bag is full of StarCraft goodness"
+    excerpt: "Despite the earlier announcement that StarCraft II would be delayed, it looks like BlizzCon 2009 is going to be all StarCraft all the time. Blizzard recently revealed through the BlizzCon website ..."
+    publishedDateTime: 2021-08-13T23:59:00Z
+    webUrl: "https://www.engadget.com/2009-08-14-blizzcon-2009-goody-bag-is-full-of-starcraft-goodness.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 17
   - title: "STARCRAFT BUS ( 21V623000 ) - Fuel System, Diesel: Pre-Heater"
     excerpt: "Forest River, Inc. (Forest River) is recalling certain 2017-2018 Starcraft Allstar XL transit buses equipped with Cummins B6.7 diesel engines. The electric fuel heater within the fuel module may overheat, causing plastic in the fuel heater to melt and ..."
     publishedDateTime: 2021-08-20T18:19:00Z

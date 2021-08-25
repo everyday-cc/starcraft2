@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-showti
 type: video
 length: PT1H18M31S
 publishedDateTime: 2021-01-14T12:25:38Z
-heat: 110
+heat: 103
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jf2lO14J63E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "uamKwTzSVWt36wmLM91U8Zym8QVoPsyb1G7uDEsXeA9KxD/HKKe1pFUOCdofFgrh0Rxh0zn6vqJj5oT5Gp2xXOPVN5xO2Tar9nXV+k6mWiUqqqWGxlpaelwPLe5REpya0GZ6yGo47BAuUSM0NhzD/IwIAvHwZFr72tnRkLCxVgEYNmq882NUXDfFXM6QALalE71b7jLn8BfDveOBLGlgiG52ES+7U+Yz4ZaCy/xTkRG9o/RaVmMg7105XsV03pcsN/1MBpo9g7UTuRvT2cDZFyDUOAkwO6fWnKIP8snY7TTxG+ONN3dTdvsLHv61PoPKx9Qfy88RWc0maP4EnB6bdJDPYZ3EhNmbgATz23p9wug6lXIzGjvp0HTMaS7zzIHd1dyznG1eKAeyIq3RO/kE/4XQ2BtrDuC6cluWtsPgFwo=;vm4KzOJ1P635DuLdThx01A=="
+secured: "FiUTG2+K6TCZGFqVd82Ke17F0muXO/DrbRjCZJtnAlNYfVP0BwZXuiLoo0WS/pJE/arLVRBJfVLv+kIqFN/Du9jfWgTDaxAJC0mAuXUnUejYsm+ZcaimoyswXaR+VnOZRf8SxgT78fsXJTQyIQxCjf0IOFUou92GLnKIG3/H0zAjIYYp7bwUnXoMXPx4EWcMJO0a0cUcInSZcXpEepCjDyn1XfLVFVi6D+jhZS8QbCuNrOORh+/F2m+Jmz6AWVCogYOv08eQGnl3N2Q4JrbIuZLvO5dsOZqaFNKjm0zfKcCBGa+4ROVcDB0GTO717rOX/1gYq/p5momk9YzmIfkJ7lFgE807i8PZq3USa6FuGx+PoXKNwK5gWxj3LXJ+uNx64kg/3eGkK7SUreZ9fkPQ1saunbH6yWWBmIJ662OrIBasii9R8JJAQUPk0bXWlIn6;zoV4whPRpo4b9HEa5ctU8A=="
 ---
 

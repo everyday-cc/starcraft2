@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Starcraft II: Heart Of The Swarm (DLC) Battle.net Key GLOBAL"
+    excerpt: "Battle.net Key GLOBAL. Starcraft II: Heart of the Swarm is the second expansion to a competitive sci-fi RTS game Starcraft II. The expansion"
+    publishedDateTime: 2021-08-23T16:46:00Z
+    webUrl: "https://www.denoticias.es/us/products/starcraft-ii-heart-of-the-swarm-dlc-battlenet-key-global.html"
+    ampWebUrl: "https://www.denoticias.es/us/amp/products/starcraft-ii-heart-of-the-swarm-dlc-battlenet-key-global.html"
+    cdnAmpWebUrl: "https://www-denoticias-es.cdn.ampproject.org/c/s/www.denoticias.es/us/amp/products/starcraft-ii-heart-of-the-swarm-dlc-battlenet-key-global.html"
+    type: article
+    provider:
+      name: denoticias.es
+      domain: denoticias.es
+    quality: 57
+    images:
+      - url: "https://cdn-products.eneba.com/resized-products/lekqpzoikgzinjtpsc5k_390x400_1x-0.jpg"
+        width: 390
+        height: 547
+        isCached: true
   - title: "StarCraft II: Legacy Of The Void Battle.net Key EUROPE"
     excerpt: "Legacy Of The Void Battle.net Key EUROPE. Whether you’re just getting into StarCraft or have been playing the game for years, StarCraft II: Legacy of the Void key"
     publishedDateTime: 2021-08-23T16:20:00Z

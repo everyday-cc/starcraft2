@@ -9,8 +9,8 @@ ampWebUrl: "https://www.denoticias.es/us/amp/products/starcraft-ii-legacy-of-the
 cdnAmpWebUrl: "https://www-denoticias-es.cdn.ampproject.org/c/s/www.denoticias.es/us/amp/products/starcraft-ii-legacy-of-the-void-battlenet-key-europe.html"
 type: article
 quality: 57
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: denoticias.es
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Starcraft II: Heart Of The Swarm (DLC) Battle.net Key GLOBAL"
+    excerpt: "Battle.net Key GLOBAL. Starcraft II: Heart of the Swarm is the second expansion to a competitive sci-fi RTS game Starcraft II. The expansion"
+    publishedDateTime: 2021-08-23T16:46:00Z
+    webUrl: "https://www.denoticias.es/us/products/starcraft-ii-heart-of-the-swarm-dlc-battlenet-key-global.html"
+    ampWebUrl: "https://www.denoticias.es/us/amp/products/starcraft-ii-heart-of-the-swarm-dlc-battlenet-key-global.html"
+    cdnAmpWebUrl: "https://www-denoticias-es.cdn.ampproject.org/c/s/www.denoticias.es/us/amp/products/starcraft-ii-heart-of-the-swarm-dlc-battlenet-key-global.html"
+    type: article
+    provider:
+      name: denoticias.es
+      domain: denoticias.es
+    quality: 57
+    images:
+      - url: "https://cdn-products.eneba.com/resized-products/lekqpzoikgzinjtpsc5k_390x400_1x-0.jpg"
+        width: 390
+        height: 547
+        isCached: true
   - title: "Starcraft II: Heart Of The Swarm (DLC) Battle.net Key EUROPE"
     excerpt: "Battle.net Key EUROPE. Starcraft II: Heart of the Swarm is the second expansion to a competitive sci-fi RTS game Starcraft II. The expansion"
     publishedDateTime: 2021-08-23T17:01:00Z

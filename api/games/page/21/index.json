@@ -4,73 +4,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_games/beastyqtsc2-starcraft-2-this-terran-gamer-isangry-mass-zealots-phoenix.md",
-      "title": "StarCraft 2: This Terran Gamer is....ANGRY! - MASS Zealots & Phoenix",
-      "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-this-terran-gamer-isangry-mass-zealots-phoenix/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-this-terran-gamer-isangry-mass-zealots-phoenix/",
-      "originalUrl": "https://youtube.com/watch?v=1Mt9_TWRkaM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1Mt9_TWRkaM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M6S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1Mt9_TWRkaM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-03-20T04:47:41-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-three-hours-in-speed-running-to-grandmaster-episode-3.md",
-      "title": "StarCraft 2: THREE HOURS IN! - SPEED Running to Grandmaster Episode 3",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-three-hours-in-speed-running-to-grandmaster-episode-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-three-hours-in-speed-running-to-grandmaster-episode-3/",
-      "originalUrl": "https://youtube.com/watch?v=dm1Vzd6l6Co",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dm1Vzd6l6Co\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT58M44S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "tags": [
-        "Cheese",
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dm1Vzd6l6Co/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-01-15T07:25:03-08:00"
-    },
-    {
       "path": "_games/beastyqtsc2-starcraft-2-three-in-a-row-he-figured-it-out.md",
       "title": "StarCraft 2: THREE in a Row! He Figured it Out!",
       "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
@@ -836,44 +769,6 @@
       "publishedDateTime": "2019-03-05T23:33:50-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-200-worker-kills-showtime-vs-heromarine.md",
-      "title": "StarCraft 2: 200 WORKER KILLS! (ShoWTimE vs HeRoMaRinE)",
-      "excerpt": "An amazing game of professional StarCraft 2 between ShoWTimE and HeRoMaRinE, two German progamers. In this one match of Terran versus Protoss we see over 200 worker kills which is way more than we see in the average match of SC2. An incredible High Templar drop leads to a base race. This is the type",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-200-worker-kills-showtime-vs-heromarine/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-200-worker-kills-showtime-vs-heromarine/",
-      "originalUrl": "https://youtube.com/watch?v=SmimU_MYFmY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SmimU_MYFmY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M33S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SmimU_MYFmY/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-01-16T03:51:29-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-220-worker-kills-clem-vs-drg.md",
       "title": "StarCraft 2: 220 WORKER KILLS?! (Clem vs DRG)",
       "excerpt": "Long drawn-out macro game of professional StarCraft 2. In this Zerg versus Terran between Clem and DRG we have a classic case of ZvT. Marine Marauder Medivac versus Mutalisks Zerglings and Banelings.   Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
@@ -985,6 +880,43 @@
       "publishedDateTime": "2019-06-24T03:19:48-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-a-ghost-story.md",
+      "title": "StarCraft 2: A GHOST STORY!",
+      "excerpt": "Let me tell you a story of Ghosts. Subscribe for more videos: http://lowko.tv/youtube The Zerg... Mothership?! https://goo.gl/bZtVFG  In this game of Silver League Terran versus Zerg, the Terran player decides to rush Ghosts versus our Zerg opponent. Mark and Jim go on an adventure together.  If you",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-a-ghost-story/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-a-ghost-story/",
+      "originalUrl": "https://youtube.com/watch?v=4yxqpCV9bFE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4yxqpCV9bFE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M42S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4yxqpCV9bFE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-03-06T13:48:56-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-a-race-for-their-base.md",
       "title": "StarCraft 2: A RACE FOR THEIR BASE!",
       "excerpt": "Terran vs Protoss between MarineLord and DnS in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Zerg match: https://goo.gl/E9r57B  While this game starts off as a normal match, soon we transition towards a very interesting base race, where both players decide to try and kill",
@@ -1020,6 +952,81 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-12-07T04:14:52-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-a-ridiculous-zerg-vs-zerg.md",
+      "title": "StarCraft 2: A RIDICULOUS ZERG VS ZERG!",
+      "excerpt": "One of the longest games I've seen of Zerg vs Zerg. Subscribe for more videos: http://lowko.tv/youtube Insane Protoss macro: https://goo.gl/kYVEow  Denver versus Namshar in a really epic match of Zerg vs Zerg. While Denver decides to open up very defensively, he quickly piles on the aggression in the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-a-ridiculous-zerg-vs-zerg/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-a-ridiculous-zerg-vs-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=blr5eNFKU9A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/blr5eNFKU9A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/blr5eNFKU9A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-03-01T05:09:18-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-a-very-risky-base-trade.md",
+      "title": "StarCraft 2: A Very Risky Base Trade...",
+      "excerpt": "A very exciting game of Terran vs Terran! Subscribe for more videos: http://lowko.tv/youtube The Spine Crawler contain: https://goo.gl/PBczwg  If you have an awesome replay of StarCraft 2 that you think is worth casting, you can send it to replays@lowko.tv.  Support me on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-a-very-risky-base-trade/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-a-very-risky-base-trade/",
+      "originalUrl": "https://youtube.com/watch?v=d9lDo4ODI9M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d9lDo4ODI9M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M4S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/d9lDo4ODI9M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-10-02T04:59:07-07:00"
     }
   ],
   "nextPage": 22

@@ -7,7 +7,7 @@ originalUrl: "https://www.yachtworld.com/boats/2022/starcraft-sls-3-q-dh-3865885
 webUrl: "https://www.yachtworld.com/boats/2022/starcraft-sls-3-q-dh-3865885/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,19 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Halo and StarCraft Ship Sizes"
-    excerpt: "Been resting from art for some days, so I'm posting this silly edit I did for a Discord Server. The page is from the very interesting StarCraft Book: StarCraft Field Manual. I had to compress the image using the 1km line (which was actually really helpful ..."
-    publishedDateTime: 2021-08-06T22:51:00Z
-    webUrl: "https://www.deviantart.com/lunaraurizen/art/Halo-and-StarCraft-Ship-Sizes-888026949"
+  - title: "It is implementation of transformer at Starcraft 2 envirionment"
+    excerpt: "I am trying to implement AlphaStar based on supplementary material of DeepMind. Currently, I can solove the MoveToBeacon environment which is one of the mini-game of PySC2 using the multi state encoder, the action head model structure of the AlphaStar ..."
+    publishedDateTime: 2021-08-15T00:00:00Z
+    webUrl: "https://github.com/kimbring2/AlphaStar_Implementation"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 37
+    images:
+      - url: "https://opengraph.githubassets.com/68d56ed4979129ff286d42a1ae54757247217ef39b9ff7a9dcd6b36f24688561/kimbring2/AlphaStar_Implementation"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Starcraft 2: four campains - one universe"
+    excerpt: "But I'll probably first play Starcraft 1, since I've never played that before - though I just could watch the \"Previously\"-section of the campain."
+    publishedDateTime: 2021-08-15T04:50:00Z
+    webUrl: "https://www.deviantart.com/scout-leader/art/Starcraft-2-four-campains-one-universe-888311688"
     type: article
     provider:
       name: DeviantArt
       domain: deviantart.com
     quality: 37
     images:
-      - url: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8c5c7157-7459-4fa8-8259-96accb8ac16c/deophz9-3fd21901-94b4-4bb4-824a-3bc2c11282b3.png/v1/fill/w_1060,h_754,q_70,strp/halo_and_starcraft_ship_sizes_by_lunaraurizen_deophz9-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4NCIsInBhdGgiOiJcL2ZcLzhjNWM3MTU3LTc0NTktNGZhOC04MjU5LTk2YWNjYjhhYzE2Y1wvZGVvcGh6OS0zZmQyMTkwMS05NGI0LTRiYjQtODI0YS0zYmMyYzExMjgyYjMucG5nIiwid2lkdGgiOiI8PTE4MDUifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.INL3L-t8JPqpniIDtB8bsfNuhPSI3VXzzh8q_9SMpkg"
-        width: 1060
-        height: 754
+      - url: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15992e1c-b20c-4006-b11b-e3a598a412bd/deovloo-a8420100-09ca-4a99-8b1a-aefbd1d78a68.jpg/v1/fill/w_1192,h_670,q_70,strp/starcraft_2__four_campains___one_universe_by_scout_leader_deovloo-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMTU5OTJlMWMtYjIwYy00MDA2LWIxMWItZTNhNTk4YTQxMmJkXC9kZW92bG9vLWE4NDIwMTAwLTA5Y2EtNGE5OS04YjFhLWFlZmJkMWQ3OGE2OC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.A-UpeKfEJoYkZGjz8mHFGFWa77z3ql4-5eP_zLOcKVE"
+        width: 1192
+        height: 670
         isCached: true
 
 secured: "HNmbF/my5kUoo4PUcql2fCiQ7FPcuQBLCzZLG450yy8lJ6zhmvfYuRSiXJpWZ3BBjOfq5yM5NXXYs04iQiAVHd19YGXTSjJJNvcRqElEa/GCYeUsSRSOaFIT3AX8FvZk0Dtq826wUOOSOd8wGrLILdLdfkfz4QtFuiOpXHNG0z/mArTB27nVDZATetufCyipGojwl+2Ia5NMbhIFb4RZwKLLSE7qFZ8T24x+sUKTNc/fIVkcSCGGOUmvVwNLehjugxYNjQeVVwl4kJbL0bcFXNjPYzwEmCKCQUXqMOeTsBi+Rr77sDNt6hYJ/yo5gXFlFQVwGOxSbNkAKn+Ig26jwwsRE9Ra1of4EvIjopFb7NE=;JlxCK3OoTs9AJDWztF/aSA=="

@@ -4,72 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_games/beastyqtsc2-starcraft-2-split-map-mass-battlecruisers-vs-mass-tempests-never-attack-to-grandmaster.md",
-      "title": "StarCraft 2: Split Map MASS Battlecruisers vs MASS Tempests! - Never Attack to Grandmaster",
-      "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-split-map-mass-battlecruisers-vs-mass-tempests-never-attack-to-grandmaster/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-split-map-mass-battlecruisers-vs-mass-tempests-never-attack-to-grandmaster/",
-      "originalUrl": "https://youtube.com/watch?v=hGpUOtub09g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hGpUOtub09g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT55M30S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hGpUOtub09g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-05-04T03:42:59-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-the-best-game-of-the-widow-mine-raven-series.md",
-      "title": "StarCraft 2: The Best Game of the Widow Mine & Raven Series!",
-      "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  2019 Best Moments video: https://youtu.be/FEAEwkYcUS0  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-the-best-game-of-the-widow-mine-raven-series/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-the-best-game-of-the-widow-mine-raven-series/",
-      "originalUrl": "https://youtube.com/watch?v=apACVYICxYM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/apACVYICxYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M58S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/apACVYICxYM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-02-03T02:07:36-08:00"
-    },
-    {
       "path": "_games/beastyqtsc2-starcraft-2-the-most-unique-tactic-in-terran-vs-terran.md",
       "title": "StarCraft 2: The MOST Unique Tactic in Terran vs Terran!",
       "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  2019 Best Moments video: https://youtu.be/FEAEwkYcUS0  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!",
@@ -236,6 +170,39 @@
       "publishedDateTime": "2020-09-25T05:24:52-07:00"
     },
     {
+      "path": "_games/beastyqtsc2-starcraft-2-widow-mine-medivac-doom-drops.md",
+      "title": "StarCraft 2: Widow Mine & Medivac DOOM DROPS!",
+      "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-widow-mine-medivac-doom-drops/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-widow-mine-medivac-doom-drops/",
+      "originalUrl": "https://youtube.com/watch?v=oWq4sG1LDi0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oWq4sG1LDi0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M7S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oWq4sG1LDi0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-01-24T02:41:14-08:00"
+    },
+    {
       "path": "_games/beastyqtsc2-starcraft-2-widow-mines-ravens-completed.md",
       "title": "StarCraft 2: Widow Mines & Ravens COMPLETED!",
       "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
@@ -301,6 +268,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-01-24T04:37:51-08:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-zerg-admits-his-race-is-easy.md",
+      "title": "StarCraft 2: ZERG ADMITS HIS RACE IS EASY!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-zerg-admits-his-race-is-easy/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-zerg-admits-his-race-is-easy/",
+      "originalUrl": "https://youtube.com/watch?v=tMROwj81_tM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tMROwj81_tM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M50S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tMROwj81_tM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-09-29T01:27:41-07:00"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-zerg-walking-into-the-death-mine-squad.md",

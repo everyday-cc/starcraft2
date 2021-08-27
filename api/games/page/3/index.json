@@ -4,14 +4,52 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-top-tier-starcraft-dark-vs-zest.md",
-      "title": "StarCraft 2: TOP-TIER STARCRAFT! (Dark vs Zest)",
-      "excerpt": "Incredible game of top level StarCraft 2 between Dark and Zest. While Dark is the one who plays hyper aggressively with a 12 Pool early on, it is Zest who gets to control the pace of the early and mid-game. This game features some of the best StarCraft 2 I've personally ever seen.  Support my work on",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-tier-starcraft-dark-vs-zest/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-tier-starcraft-dark-vs-zest/",
-      "originalUrl": "https://youtube.com/watch?v=mUG5ryGpiV8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mUG5ryGpiV8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M25S",
+      "path": "_games/lowkotv-starcraft-2-serral-cheeses-clem-best-of-5.md",
+      "title": "StarCraft 2: Serral CHEESES Clem! (Best-of-5)",
+      "excerpt": "One of the best series of Zerg versus Terran in StarCraft 2 that I've seen recently. In this match between Serral and Clem, we see Serral going for some very strange build orders that seem to throw Clem off guard.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-cheeses-clem-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-cheeses-clem-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=6F0UJmOXW3U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6F0UJmOXW3U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT58M35S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6F0UJmOXW3U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-20T02:21:58-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-ultimate-zerg-protoss-armies-serral-vs-harstem.md",
+      "title": "StarCraft 2: THE ULTIMATE ZERG & PROTOSS ARMIES! (Serral vs Harstem)",
+      "excerpt": "One of the longest games of professional StarCraft 2 ever played. In this Protoss versus Zerg between Harstem and Serral we see both players building their ultimate armies and taking their sides of the map.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-ultimate-zerg-protoss-armies-serral-vs-harstem/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-ultimate-zerg-protoss-armies-serral-vs-harstem/",
+      "originalUrl": "https://youtube.com/watch?v=_9LLCJYb6K4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_9LLCJYb6K4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H9M43S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -29,10 +67,10 @@
         "Protoss",
         "Zerg"
       ],
-      "heat": 67,
+      "heat": 69,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mUG5ryGpiV8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/_9LLCJYb6K4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -40,7 +78,45 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-07-08T13:18:51-07:00"
+      "publishedDateTime": "2021-03-27T05:29:46-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-nuke-dream-viewer-games.md",
+      "title": "StarCraft 2: THE NUKE DREAM! (Viewer Games)",
+      "excerpt": "Three viewer submitted games of StarCraft 2 with some of the best/worst Nukes in games I've seen. This video includes a Platinum League match of Protoss versus Protoss, a Gold League match of 2v2 and a Silver League game of Terran versus Terran.  Submit your own games (please only submit your best) to",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-nuke-dream-viewer-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-nuke-dream-viewer-games/",
+      "originalUrl": "https://youtube.com/watch?v=WgG_32aY-S8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WgG_32aY-S8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M35S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WgG_32aY-S8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-18T04:06:10-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-evolving-strategies-bo7.md",
@@ -422,44 +498,6 @@
       "publishedDateTime": "2021-03-01T04:59:54-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-nexus-gambit-viewer-games.md",
-      "title": "StarCraft 2: THE NEXUS GAMBIT! (Viewer Games)",
-      "excerpt": "Three viewer submitted games of StarCraft 2 where the players make questionable decisions... If you want me to make fun of your game as well, you can submit it to replays@lowko.tv.   Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-nexus-gambit-viewer-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-nexus-gambit-viewer-games/",
-      "originalUrl": "https://youtube.com/watch?v=ISuwLbbnEOw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ISuwLbbnEOw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ISuwLbbnEOw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-14T03:59:35-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-trash-talking.md",
       "title": "StarCraft 2: TRASH TALKING!",
       "excerpt": "Today it's time for a viewer submitted game of StarCraft 2. In this Platinum and Diamond League match of Protoss vs Zerg. One of the cheesiest games you can go watch, as the Protoss decides to go for a few Proxy Gateways on the other side of the map, but it turns out to be one of the worst StarCraft",
@@ -646,6 +684,201 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-13T01:57:08-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-nexus-gambit-viewer-games.md",
+      "title": "StarCraft 2: THE NEXUS GAMBIT! (Viewer Games)",
+      "excerpt": "Three viewer submitted games of StarCraft 2 where the players make questionable decisions... If you want me to make fun of your game as well, you can submit it to replays@lowko.tv.   Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-nexus-gambit-viewer-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-nexus-gambit-viewer-games/",
+      "originalUrl": "https://youtube.com/watch?v=ISuwLbbnEOw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ISuwLbbnEOw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M34S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ISuwLbbnEOw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-14T03:59:35-07:00"
+    },
+    {
+      "path": "_games/collections/beastyqtsc2-never-attack-to-grandmaster.md",
+      "title": "Never Attack to Grandmaster",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/beastyqtsc2-never-attack-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/collections/beastyqtsc2-never-attack-to-grandmaster/",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "topItems": [
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series.md",
+          "title": "StarCraft 2: Never Attack to Grandmaster.....With Nukes! - NEW SERIES!",
+          "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series/",
+          "originalUrl": "https://youtube.com/watch?v=dxFmLI_uM9s",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dxFmLI_uM9s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT39M8S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 53,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/dxFmLI_uM9s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-04-24T05:02:15-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-mass-nuking-hasstarted-never-attack-to-grandmaster.md",
+          "title": "StarCraft 2: MASS Nuking has.....STARTED! - Never Attack to Grandmaster!",
+          "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-nuking-hasstarted-never-attack-to-grandmaster/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-nuking-hasstarted-never-attack-to-grandmaster/",
+          "originalUrl": "https://youtube.com/watch?v=YGGuH8v4wXY",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YGGuH8v4wXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT34M3S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2"
+          ],
+          "heat": 51,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/YGGuH8v4wXY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-04-24T17:16:01-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-master-baiter-sultanqt-strikes-again-never-attack-to-grandmaster.md",
+          "title": "StarCraft 2: Master-Baiter Sultanqt Strikes Again! - Never Attack to Grandmaster",
+          "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-master-baiter-sultanqt-strikes-again-never-attack-to-grandmaster/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-master-baiter-sultanqt-strikes-again-never-attack-to-grandmaster/",
+          "originalUrl": "https://youtube.com/watch?v=phVGrLt08Oo",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/phVGrLt08Oo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT36M16S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2"
+          ],
+          "heat": 52,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/phVGrLt08Oo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-04-26T02:52:39-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-my-opponent-broke-his-keyboard-never-attack-to-grandmaster.md",
+          "title": "StarCraft 2: My Opponent Broke His Keyboard! - Never Attack to Grandmaster",
+          "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-my-opponent-broke-his-keyboard-never-attack-to-grandmaster/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-my-opponent-broke-his-keyboard-never-attack-to-grandmaster/",
+          "originalUrl": "https://youtube.com/watch?v=An4ug7RI1qE",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/An4ug7RI1qE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT45M5S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2"
+          ],
+          "heat": 61,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/An4ug7RI1qE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-04-27T05:22:58-07:00"
+        }
+      ],
+      "size": 28,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dxFmLI_uM9s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection"
     },
     {
       "path": "_games/lowkotv-starcraft-2-battle-royale-pro-gamer-free-for-all.md",
@@ -875,14 +1108,14 @@
       "publishedDateTime": "2018-10-24T02:02:31-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-nukes-brood-lords-elazer-vs-heromarine.md",
-      "title": "StarCraft 2: NUKES & BROOD LORDS! (Elazer vs HeroMarine)",
-      "excerpt": "Best-of-5 series of professional Zerg versus Terran in StarCraft 2 between Elazer and HeroMarine.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-nukes-brood-lords-elazer-vs-heromarine/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-nukes-brood-lords-elazer-vs-heromarine/",
-      "originalUrl": "https://youtube.com/watch?v=Z5Hcs9eZiFg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z5Hcs9eZiFg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M24S",
+      "path": "_games/lowkotv-starcraft-2-old-school-vs-new-school-showtime-vs-maxpax.md",
+      "title": "StarCraft 2: OLD SCHOOL vs NEW SCHOOL! (ShoWTimE vs MaxPax)",
+      "excerpt": "Best-of-3 series between ShoWTimE and MaxPax in StarCraft 2. This is an old school progamer playing a very macro focused style, going up against a relative newcomer who plays far more aggressively. In this Protoss versus Protoss we see two of the highest ranked non-Korean players face off in a series.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-old-school-vs-new-school-showtime-vs-maxpax/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-old-school-vs-new-school-showtime-vs-maxpax/",
+      "originalUrl": "https://youtube.com/watch?v=UeOdaAMIydA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UeOdaAMIydA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M50S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -897,13 +1130,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
-        "Zerg"
+        "Protoss"
       ],
       "heat": 62,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Z5Hcs9eZiFg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UeOdaAMIydA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -911,7 +1143,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-06-21T04:58:42-07:00"
+      "publishedDateTime": "2021-07-08T03:08:34-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-reynor-best-of-5.md",
@@ -1027,121 +1259,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-07-24T03:19:50-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-byun-reinvents-terran-strategies.md",
-      "title": "StarCraft 2: ByuN REINVENTS Terran Strategies!",
-      "excerpt": "Awesome series of Zerg versus Terran between Solar and ByuN. In this best-of-3 ByuN seems to renew Terran strategies in both the early and the mid game.  Match is from the OlimoLeague: https://www.patreon.com/olimoley  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-reinvents-terran-strategies/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-reinvents-terran-strategies/",
-      "originalUrl": "https://youtube.com/watch?v=b223lcwanCs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b223lcwanCs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M6S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/b223lcwanCs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-11-18T02:53:19-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-cannon-rushing-a-terran-florencio.md",
-      "title": "StarCraft 2: CANNON RUSHING A TERRAN?! (Florencio)",
-      "excerpt": "Florencio is back with a crazy game of StarCraft 2. In this Master League match of Terran versus Protoss we start with a Cannon Rush but quickly gets into one of the strangest games of SC2 that I've ever seen... With lots of cringy moments and terrible decisions added in the mix.  Get more videos & support",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cannon-rushing-a-terran-florencio/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cannon-rushing-a-terran-florencio/",
-      "originalUrl": "https://youtube.com/watch?v=mCM-pm0rSRo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mCM-pm0rSRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M29S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mCM-pm0rSRo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-02-27T01:56:03-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-florencios-disgusting-terran-strategies.md",
-      "title": "StarCraft 2: Florencio's DISGUSTING Terran Strategies!",
-      "excerpt": "Florencio is back! This time with fresh Terran strategies in StarCraft 2.   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-florencios-disgusting-terran-strategies/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-florencios-disgusting-terran-strategies/",
-      "originalUrl": "https://youtube.com/watch?v=S4QD2UMm9nY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S4QD2UMm9nY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/S4QD2UMm9nY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-11-23T04:53:20-08:00"
     }
   ],
   "nextPage": 4

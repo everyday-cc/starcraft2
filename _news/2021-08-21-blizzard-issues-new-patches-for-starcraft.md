@@ -118,6 +118,15 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 17
+  - title: "A fully realized Starcraft MMO is in the works, but it needs to be Kickstarted first"
+    excerpt: "If you're a dedicated World of Warcraft player, you may have already spent a good deal of time wondering when developer Blizzard would give its StarCraft property the MMO treatment as well."
+    publishedDateTime: 2021-08-22T00:00:00Z
+    webUrl: "https://www.engadget.com/2013-08-21-a-fully-realized-starcraft-mmo-is-in-the-works-but-it-needs-to.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 10
 
 secured: "pXf+WEXZoj8hSoPlWycsytrnaUIyFAhIdVxXLPhVla4U2PzO6e5VzVA4bKmbfrfWRexfofHjr1yWCvkIS1GMI34KEaE2AV+JCj0THI58uLi9NOdS8SugMEQjZ5mBZS5SFaOoc0tS0cckWCPt9y7eMQziQ3tfXWsUFqJ0GhCKMqhT8ooN1R8Jrg5x7q0to1kYYA6sZMAXROBE5aliNBD7bh5enkI7ymRjEQj5UOPJBRA6zWbI2hznfDPFeyeWcplYCA1tX7/16BSGjxRHRkCdzuFVSTFrWVTs2X93c43z/fcnIjJGfguYytzeDUC2b6l+XJiABCOZbHEodZdnyQqun05NdbWNAHMURSsKJI3mP+8=;a4+LiX4BFetHlnkyufrt4Q=="
 ---

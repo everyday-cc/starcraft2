@@ -113,6 +113,15 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 17
+  - title: "A fully realized Starcraft MMO is in the works, but it needs to be Kickstarted first"
+    excerpt: "If you're a dedicated World of Warcraft player, you may have already spent a good deal of time wondering when developer Blizzard would give its StarCraft property the MMO treatment as well."
+    publishedDateTime: 2021-08-22T00:00:00Z
+    webUrl: "https://www.engadget.com/2013-08-21-a-fully-realized-starcraft-mmo-is-in-the-works-but-it-needs-to.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 10
 
 secured: "I5DcqijKcp6HZjIPppAOu899A7G57nHm5wjjVM2xK5VfboAG/0x3VjgyLITl8AMs6yBLxPHIW6Y8Z3mYVOYBHiryMKPqny84Y1v8CePnPVeRUnLL21k3i1Flu6uft57MrOBREGpE5lf0P5giHPLLMGhyzau1gjIdYDdBQv+UcDnGuJECmUFuLVEDvlKdelR4TKAyzTULcEzClpRYVg2KXWRrZy+7MbUchykYVoAM5+Db8jC4Y2QtEWJCkvH9OerxVS4uSYbmx8JNOnIv0RzGWnQ+V7HRQ8g1YmbaIxEVBxQIH2VT7GyX5W63Bct5Jc5Tlb91BU43eBJJQpa09VXR52gJ3Z6g48J5eCkwdsUaD3Y=;Deivdiya1ykG/8V58+Fw3g=="
 ---

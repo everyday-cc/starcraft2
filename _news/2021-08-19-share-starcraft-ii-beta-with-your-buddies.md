@@ -9,7 +9,7 @@ ampWebUrl: "https://heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with
 cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with-your-buddies/amp/"
 type: article
 quality: 57
-heat: 201
+heat: 221
 published: true
 
 provider:
@@ -114,6 +114,15 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 17
+  - title: "A fully realized Starcraft MMO is in the works, but it needs to be Kickstarted first"
+    excerpt: "If you're a dedicated World of Warcraft player, you may have already spent a good deal of time wondering when developer Blizzard would give its StarCraft property the MMO treatment as well."
+    publishedDateTime: 2021-08-22T00:00:00Z
+    webUrl: "https://www.engadget.com/2013-08-21-a-fully-realized-starcraft-mmo-is-in-the-works-but-it-needs-to.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 10
 
 secured: "cex9xK1NOQOEOPcfwmSCH1+nLHJlMucxJJXcHPiznpamFd831WE2G1E/YO/IWOXeUVT5OdEFrbIb4TZhfRO3C5ok9B7KUlSBhmxlCQBU5pix3UOaEfwDXOqd2nzBDlzQnlagQcSX/UsQnvyqKbDHcvMnJdXyIL0gs1DROsuN+HsvUNUALr+isJ2Gb4ZpPxeEOx4QbmhASDn5O/V3hWBVIH6z+YTsZt6VyeXAbftxSjBvhqN8d2jywtBwxb083WuaT1JV4gtBkc/IeiDrCVPc0zf4Mjb/oOB/a0f7EAJWvnxqSnM1PfmKmi1gKeF8QJUgdyIDsaF6LXwaaj+BX3kNnzgMkVTmjpYxfHKYGQBlpUk=;YKkBg4SRKdUaQmZzc92HRA=="
 ---

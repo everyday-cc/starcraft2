@@ -1,27 +1,25 @@
 ---
 category: news
-title: "2022 Starcraft SLS 3 DC"
-excerpt: "SLS Starcraft pontoon boat innovation continues with the SLS series, featuring HMX tubes. With strategically placed strakes, HMX tubes give you better lift, less surface drag, increased speed, faster planing and a tighter turning radius. In short ..."
-publishedDateTime: 2021-08-13T10:33:00Z
-originalUrl: "https://www.yachtworld.com/boats/2022/starcraft-sls-3-dc-3865813/"
-webUrl: "https://www.yachtworld.com/boats/2022/starcraft-sls-3-dc-3865813/"
+title: "A fully realized Starcraft MMO is in the works, but it needs to be Kickstarted first"
+excerpt: "If you're a dedicated World of Warcraft player, you may have already spent a good deal of time wondering when developer Blizzard would give its StarCraft property the MMO treatment as well."
+publishedDateTime: 2021-08-22T00:00:00Z
+originalUrl: "https://www.engadget.com/2013-08-21-a-fully-realized-starcraft-mmo-is-in-the-works-but-it-needs-to.html"
+webUrl: "https://www.engadget.com/2013-08-21-a-fully-realized-starcraft-mmo-is-in-the-works-but-it-needs-to.html"
 type: article
-quality: 37
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: YachtWorld
-  domain: yachtworld.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/engadget.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
-
-images:
-  - url: "https://images.yachtworld.com/resize/1/47/85/6924785_20181130123737915_1_XLARGE.jpg?f=/1/47/85/6924785_20181130123737915_1_XLARGE.jpg&w=483&h=322&t=1628533832000"
-    width: 483
-    height: 322
-    isCached: true
 
 related:
   - title: "Share StarCraft II Beta With Your Buddies"
@@ -67,6 +65,20 @@ related:
       - url: "https://images.yachtworld.com/resize/1/8/53/7670853_20201127104927473_1_XLARGE.jpg?f=/1/8/53/7670853_20201127104927473_1_XLARGE.jpg&w=1016&h=677&t=1628529043000"
         width: 1016
         height: 677
+        isCached: true
+  - title: "2022 Starcraft SLS 3 DC"
+    excerpt: "SLS Starcraft pontoon boat innovation continues with the SLS series, featuring HMX tubes. With strategically placed strakes, HMX tubes give you better lift, less surface drag, increased speed, faster planing and a tighter turning radius. In short ..."
+    publishedDateTime: 2021-08-13T10:33:00Z
+    webUrl: "https://www.yachtworld.com/boats/2022/starcraft-sls-3-dc-3865813/"
+    type: article
+    provider:
+      name: YachtWorld
+      domain: yachtworld.com
+    quality: 37
+    images:
+      - url: "https://images.yachtworld.com/resize/1/47/85/6924785_20181130123737915_1_XLARGE.jpg?f=/1/47/85/6924785_20181130123737915_1_XLARGE.jpg&w=483&h=322&t=1628533832000"
+        width: 483
+        height: 322
         isCached: true
   - title: "2022 Starcraft SVX 191 OB"
     excerpt: "Check out the models ranging from 17' to 23'. SVX SERIES BY STARCRAFT THE ALL-NEW SVX SERIES PROVES THAT FUN ON THE WATER DOESN'T HAVE TO COME WITH A BIG PRICE TAG. SVX COMES LOADED WITH VALUE, INCLUDING FEATURES LIKE A FOUR-SPEAKER STEREO, A BIMINI TOP ..."
@@ -114,16 +126,7 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 17
-  - title: "A fully realized Starcraft MMO is in the works, but it needs to be Kickstarted first"
-    excerpt: "If you're a dedicated World of Warcraft player, you may have already spent a good deal of time wondering when developer Blizzard would give its StarCraft property the MMO treatment as well."
-    publishedDateTime: 2021-08-22T00:00:00Z
-    webUrl: "https://www.engadget.com/2013-08-21-a-fully-realized-starcraft-mmo-is-in-the-works-but-it-needs-to.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 10
 
-secured: "Dbyby4NAWnT4ZYxq0EixrRzoTCq9P/HY89cR8+dRjzRlzklXju4KFiZ9HQRVDrJtYus/NmTdeZiwJbTXuKqBKJq4ucWTI/x9DT1CJBNQLL7eXN0tfUrLL0p3Ub/fxOA7bfLbi9YYpexdSnztXxFuTIEPqHnOGCiG+E2fXrXik4oiM2rUUwwCpgDDiwTxxHMMf6tzaWGD0KWJuPY28icQC8EC3wuRb3dQCmt43n/+NAjtWBUzuXGmlL3fPUDENfvZ2jybv+euFOKzZxOEb+QQ8etvPfqDtrsLrYF8Gb5jB3QlGtV7/MVrsw42T5V/NYNpAKAKZ7RkZDZjOpVbxF50mKcDwO6AWlLpW9lv+M55oPE=;G2kGQgw1Iuz6dq4Cnpt59A=="
+secured: "c3CQkTCSaWSZs3Z4aeKFhAau5Guapn4nOSRRcvmxSJqD4QI1iyPil1npGSVMUyb+Pf/Qpoq/vlaGe8FSo3s4CsdfkYVAadDX2lop4Zs1ZpCCaxQ88NOrYgtbzzUxCPgEcPdusGYI2jGPy7XtlcsKNvS1bl6pmuIFSj/Hl1q2GY0L+shbHmUpFMorE6e1xX+e/8pFeIPiKksyULEl2sWrgrBNTcK37Wc+Lndew/1G77K1IO+IJXXQEQzpWPUyFgmL1qD5184i/NeUGcfqnT/+TLZgx0gk5wCXkGXdCVM/mshUrG8Dvpyur6NisQ2yJgcVRjF39p2QLl0ODSVRsnrcBx+fmEx8tFJczx7iaCV+7kw=;8IpO7w/h9gQThCM/A4JwQQ=="
 ---
 

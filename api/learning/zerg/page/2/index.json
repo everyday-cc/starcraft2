@@ -4,6 +4,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-007-a-bit-about-macro.md",
+      "title": "Starcraft 2 Newbie Guide - 007 - A Bit About Macro",
+      "excerpt": "In this episode we'll touch on the topic of macro, and show a longer game with some late game units.  Diggity's channel(s): https://www.youtube.com/diggitySC https://www.youtube.com/DiggityYT  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-007-a-bit-about-macro/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-007-a-bit-about-macro/",
+      "originalUrl": "https://youtube.com/watch?v=MBVsKerZQuI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MBVsKerZQuI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M9S",
+      "provider": {
+        "name": "davidangel64",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2015-12-04T17:00:10-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MBVsKerZQuI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-008-applying-pressure.md",
+      "title": "Starcraft 2 Newbie Guide - 008 - Applying Pressure",
+      "excerpt": "Constantly scout your opponent, and don't be afraid to apply pressure.  By keeping your opponent pinned, you create opportunities to get further ahead.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ  Other places to find my stuff: Twitter:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-008-applying-pressure/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-008-applying-pressure/",
+      "originalUrl": "https://youtube.com/watch?v=vBbZVqG1q1o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vBbZVqG1q1o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M5S",
+      "provider": {
+        "name": "davidangel64",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2015-12-05T19:30:13-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vBbZVqG1q1o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-009-protoss-gameplay.md",
+      "title": "Starcraft 2 Newbie Guide - 009 - Protoss Gameplay",
+      "excerpt": "An overview of Protoss gameplay to help newer, interested players get a good view of all three races, and to help round out the guide.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ  Other places to find my stuff: Twitter: http://twitter.com/davidangel64",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-009-protoss-gameplay/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-009-protoss-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=YYLph9dGJ-Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YYLph9dGJ-Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M54S",
+      "provider": {
+        "name": "davidangel64",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2015-12-06T17:00:14-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YYLph9dGJ-Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-010-losing.md",
       "title": "Starcraft 2 Newbie Guide - 010 - Losing",
       "excerpt": "Starcraft is a competitive game.  You're going to win some, you're going to lose some.  When you win a game, you feel good, and that's awesome.  But how do you react to losing a game?  How you react to losing in a competitive game like Starcraft 2 is an important consideration.  The biggest concept is",
@@ -52,37 +146,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/rlYxy7ygaio/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-vs-protoss-2020.md",
-      "title": "Learn Starcraft 2: EASY Beginner Zerg Build Order Guide vs Protoss [2020]",
-      "excerpt": "Learn Starcraft 2: EASY Beginner Zerg Build Order Guide vs Protoss [2020]  In this Starcraft 2 zerg build order guide we will take a look at a very safe and standard way to open in the zerg vs protoss matchup. We will be using a roach composition that is easy to make and tends to be more forgiving if",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-vs-protoss-2020/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-vs-protoss-2020/",
-      "originalUrl": "https://youtube.com/watch?v=5MwuNRUcLtg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5MwuNRUcLtg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M48S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-06-08T12:45:54-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5MwuNRUcLtg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -252,37 +315,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-learning-zerg-vs-zerg-from-serral.md",
-      "title": "Starcraft 2: Learning Zerg vs Zerg from Serral",
-      "excerpt": "In today's Zerg guide we are going to be looking at a Zerg vs Zerg match between Serral and Elazer, breaking down the game and seeing what we can learn from two of the top players in Europe.  Sponsor: https://www.siteground.com/index.htm?afcode=2eac6a366dc6939df6d36d5d2217e02c  #Starcraft #zerg #zvz",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-learning-zerg-vs-zerg-from-serral/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-learning-zerg-vs-zerg-from-serral/",
-      "originalUrl": "https://youtube.com/watch?v=7tRaskU_pCE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7tRaskU_pCE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M46S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-10-23T14:42:39-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7tRaskU_pCE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-starcraft-2-master-broodlord-infestor-control-micro-control-groups-more.md",
       "title": "Starcraft 2: Master Broodlord Infestor Control [micro + control groups & more]",
       "excerpt": "In this guide we take a look at controlling one of the most difficult compositions in Starcraft2: broodlord infestor + friends. I will be showing you how to set up your control groups as a beginner or advanced level player, how to micro this complex army & some extra awesome tips along the way ;)  #Starcraft",
@@ -364,37 +396,6 @@
           "url": "https://i.ytimg.com/vi/mi_0Of48t1M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-zerg-guide-queen-management.md",
-      "title": "Starcraft 2 Zerg Guide | Queen Management",
-      "excerpt": "Often I see people's queens running around like aimless chickens. If you want to have amazing macro you need to keep your queens orderly. Let's take a look at how to do that!  Starcraft 2 Zerg Guide | Queen Management #Zerg #Queens #Starcraft2  ♦ Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-zerg-guide-queen-management/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-zerg-guide-queen-management/",
-      "originalUrl": "https://youtube.com/watch?v=-ZuuO8YrfH0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-ZuuO8YrfH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M29S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-05-29T15:26:15-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-ZuuO8YrfH0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],
@@ -500,25 +501,25 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-zerg-macro-guide-you-wont-believe-how-many-more-drones-i-got-starcraft-2.md",
-      "title": "Zerg Macro Guide | You WONT BELIEVE how many MORE DRONES I got!!! [Starcraft 2]",
-      "excerpt": "In this zerg macro guide we take a DEEP look at the nuances of droning, economy & macro to help you understand where you might be going wrong in your games. How is it that Grand Master's a pros generate so many more drones than you?!? You're about to find out :)  Zerg Macro | You WONT BELIEVE how many",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-macro-guide-you-wont-believe-how-many-more-drones-i-got-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-zerg-macro-guide-you-wont-believe-how-many-more-drones-i-got-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=QmfbJTpcvt8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QmfbJTpcvt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M1S",
+      "path": "_learning/videos/hushang-tutorials-zerg-gameplay-how-to-destroy-skytoss.md",
+      "title": "Zerg Gameplay | How to Destroy Skytoss",
+      "excerpt": "I hate hearing you guys struggling vs skytoss so it's time to learn how to wreck it ;)  Zerg Gameplay | How to Destroy Skytoss #Zerg #Starcraft2 #SC2  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-gameplay-how-to-destroy-skytoss/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-zerg-gameplay-how-to-destroy-skytoss/",
+      "originalUrl": "https://youtube.com/watch?v=ncgfd54a0HY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ncgfd54a0HY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M6S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-08-31T22:12:47-07:00",
+      "publishedDateTime": "2021-05-17T14:14:29-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/QmfbJTpcvt8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/ncgfd54a0HY/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],

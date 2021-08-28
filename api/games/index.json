@@ -80,6 +80,44 @@
       "publishedDateTime": "2021-08-25T04:59:01-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-blys-new-zerg-cheese-vs-lambo-best-of-3.md",
+      "title": "StarCraft 2: Bly's NEW Zerg Cheese vs Lambo! (Best-of-3)",
+      "excerpt": "Very fun best-of-3 series of professional StarCraft 2 between Lambo and Bly. It turns out that Bly has got some spicy new builds for the Zerg versus Zerg match up.  Bly's YouTube channel: https://www.youtube.com/c/BlyOnFire Lambo's YouTube channel: https://www.youtube.com/c/LamboSC2  Support my work",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-blys-new-zerg-cheese-vs-lambo-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-blys-new-zerg-cheese-vs-lambo-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=A1Y-pOl4V4Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A1Y-pOl4V4Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M16S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 274,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/A1Y-pOl4V4Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-08-28T00:58:30-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-harstems-terran-clown-fiesta.md",
       "title": "StarCraft 2: Harstem's TERRAN Clown Fiesta!",
       "excerpt": "Epic game of Terran versus Zerg between Harstem (TheCowboy) and EliteAI. In the pursuit of trying to outsmart the opponent, Harstem decides to go for a super late Battlecruiser into Terran Mech opener while the opponent switches to Muta Ling Bane.  Harstem's channel: https://www.youtube.com/harstem",
@@ -187,44 +225,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-19T06:11:52-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-mass-thor-vs-mass-brood-lord-in-2021-reynor-vs-dream.md",
-      "title": "StarCraft 2: MASS Thor vs MASS Brood Lord in 2021?! (Reynor vs Dream)",
-      "excerpt": "Epic match of professional StarCraft 2 between Reynor and Dream. This is a recent game from Dreamhack Summer that showcases StarCraft at the absolute highest skill level.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-mass-thor-vs-mass-brood-lord-in-2021-reynor-vs-dream/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-mass-thor-vs-mass-brood-lord-in-2021-reynor-vs-dream/",
-      "originalUrl": "https://youtube.com/watch?v=sCQLMMm65uw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sCQLMMm65uw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M23S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 203,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sCQLMMm65uw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-07T03:56:04-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-carriers-tempests-vs-battlecruisers-vikings-soul-vs-gungfubanda.md",
@@ -339,6 +339,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-08-20T03:59:37-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-mass-thor-vs-mass-brood-lord-in-2021-reynor-vs-dream.md",
+      "title": "StarCraft 2: MASS Thor vs MASS Brood Lord in 2021?! (Reynor vs Dream)",
+      "excerpt": "Epic match of professional StarCraft 2 between Reynor and Dream. This is a recent game from Dreamhack Summer that showcases StarCraft at the absolute highest skill level.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-mass-thor-vs-mass-brood-lord-in-2021-reynor-vs-dream/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-mass-thor-vs-mass-brood-lord-in-2021-reynor-vs-dream/",
+      "originalUrl": "https://youtube.com/watch?v=sCQLMMm65uw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sCQLMMm65uw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M23S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 143,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sCQLMMm65uw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-07T03:56:04-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-bronze-and-silver-league-heroes.md",
@@ -640,6 +678,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-27T04:35:55-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-nukes-brood-lords-elazer-vs-heromarine.md",
+      "title": "StarCraft 2: NUKES & BROOD LORDS! (Elazer vs HeroMarine)",
+      "excerpt": "Best-of-5 series of professional Zerg versus Terran in StarCraft 2 between Elazer and HeroMarine.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-nukes-brood-lords-elazer-vs-heromarine/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-nukes-brood-lords-elazer-vs-heromarine/",
+      "originalUrl": "https://youtube.com/watch?v=Z5Hcs9eZiFg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z5Hcs9eZiFg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 120,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Z5Hcs9eZiFg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-21T04:58:42-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul.md",
@@ -1063,84 +1140,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-14T04:25:38-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-planetary-fortress-vs-proxy-nexus-crazy-viewer-games.md",
-      "title": "StarCraft 2: PLANETARY FORTRESS vs PROXY NEXUS! (Crazy Viewer Games)",
-      "excerpt": "Viewer submitted games of StarCraft 2. Some crazy matches that you definitely will never see at the professional level of the game. Proxy Command Centers into Planetary Cheese, Nexus inside the opponents main base and of course the classic Cannon Rush.  Support my work on Patreon: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-planetary-fortress-vs-proxy-nexus-crazy-viewer-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-planetary-fortress-vs-proxy-nexus-crazy-viewer-games/",
-      "originalUrl": "https://youtube.com/watch?v=C8EnPv8p1Qc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C8EnPv8p1Qc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M54S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 98,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/C8EnPv8p1Qc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-07T01:26:01-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-scarlett-plays-protoss-in-a-tournament-best-of-3.md",
-      "title": "StarCraft 2: Scarlett Plays PROTOSS in a Tournament?! (Best-of-3)",
-      "excerpt": "Best-of-3 series of StarCraft 2 where Scarlett decides to offrace as Protoss versus Namshar. While she normally plays Zerg, she decides to mix it up and play some of the most frustrating Protoss versus Zerg I''ve seen in a while.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scarlett-plays-protoss-in-a-tournament-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarlett-plays-protoss-in-a-tournament-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=JFSzXMifwn4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JFSzXMifwn4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M14S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 98,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JFSzXMifwn4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-05T04:18:24-07:00"
     }
   ],
   "nextPage": 2

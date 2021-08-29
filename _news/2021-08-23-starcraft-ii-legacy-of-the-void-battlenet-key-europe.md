@@ -58,6 +58,20 @@ related:
         width: 390
         height: 547
         isCached: true
+  - title: "2021 Starcraft 191 SVX OB"
+    excerpt: "The Starcraft SVX 191 OB is an 18'11 deck boat with a capacity of 12 persons and a maximum power rating of 150 HP. Its ample seating and standard Bimini top will keep you and your guests comfortable and encourage all-day boating trips, while the options ..."
+    publishedDateTime: 2021-08-27T17:45:00Z
+    webUrl: "https://www.yachtworld.com/boats/2021/starcraft-191-svx-ob-3664913/"
+    type: article
+    provider:
+      name: YachtWorld
+      domain: yachtworld.com
+    quality: 37
+    images:
+      - url: "https://images.yachtworld.com/resize/1/87/45/7378745_20200901080032002_1_XLARGE.jpg?f=/1/87/45/7378745_20200901080032002_1_XLARGE.jpg&w=1152&h=768&t=1598976038000"
+        width: 1152
+        height: 768
+        isCached: true
 
 secured: "fyLdGkNvzFEsnMTJVlQqGFDDT9VDzwJ9GXqoplysFu45AyBpKOUOJpr9pD5cXeNwXol+QQ3CsvUHH+SeQhvKXOBLFLbogT/RvGJ0iMsyxFGtNJ7eD1C0Uj+kJow1MzxBa8EXtWcIIeTu6Sisb53gU0mcLw7J7qtIZaNYSj3gsQex0uWv4r9+3VOocAs3tIYU91+wqHHCHyaz7EeWGlEpfUtbiYGo05zu1kPEARIVxgmMZZOpYp2k+8bsA7x/n9RWFRuG9vixQYitMrLmH2q1GwFmrnnF4NcIdpjGF4ieaJDr2k7750CMW9oU2wLfvXpmqiQ3lA2HOQrUZm7rSlI+tKeTUoc7y9lEitXwJ22ZWz8=;LzjRMc3HPNNqOyjDrfaEXA=="
 ---

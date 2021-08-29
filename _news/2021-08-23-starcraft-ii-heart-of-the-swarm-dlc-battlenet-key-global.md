@@ -9,7 +9,7 @@ ampWebUrl: "https://www.denoticias.es/us/amp/products/starcraft-ii-heart-of-the-
 cdnAmpWebUrl: "https://www-denoticias-es.cdn.ampproject.org/c/s/www.denoticias.es/us/amp/products/starcraft-ii-heart-of-the-swarm-dlc-battlenet-key-global.html"
 type: article
 quality: 57
-heat: 101
+heat: 121
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://cdn-products.eneba.com/resized-products/lekqpzoikgzinjtpsc5k_390x400_1x-0.jpg"
         width: 390
         height: 547
+        isCached: true
+  - title: "2021 Starcraft 191 SVX OB"
+    excerpt: "The Starcraft SVX 191 OB is an 18'11 deck boat with a capacity of 12 persons and a maximum power rating of 150 HP. Its ample seating and standard Bimini top will keep you and your guests comfortable and encourage all-day boating trips, while the options ..."
+    publishedDateTime: 2021-08-27T17:45:00Z
+    webUrl: "https://www.yachtworld.com/boats/2021/starcraft-191-svx-ob-3664913/"
+    type: article
+    provider:
+      name: YachtWorld
+      domain: yachtworld.com
+    quality: 37
+    images:
+      - url: "https://images.yachtworld.com/resize/1/87/45/7378745_20200901080032002_1_XLARGE.jpg?f=/1/87/45/7378745_20200901080032002_1_XLARGE.jpg&w=1152&h=768&t=1598976038000"
+        width: 1152
+        height: 768
         isCached: true
 
 secured: "PL2CktME0fojEB/P7FYZ8a7OInWHpzQR9nC8sxvv8tpfouHUdOGa+abFmDSYnKSYyCLQIbNGy4hwiXg7kAjAmzjosxZfSCXjJXWExVBTv0C5v0axA5NJFVXmTGa8jjzmD7vb3VJdz3iwpRNVCyC+CzyOQRiaqDWevOY8kh/viCDFlc157PsKCcaf4a4p/L4zX625pGRuLDnq86+hSllgL4cbSOVzGQpjsDtwCexP0iVfXU5iSF2LJeUSAcGubUPCohclKftq/k/p2zItv0XpHw+JS7LRm4xdvShWurCMP/1HP+wT7knRvItxjrJc0+2sKHmuyiEmVcGgGOc9P5T/Lt22FJR6AD4txARKTb3HCL8=;/jilFrhUQgka0elcXKTlEg=="

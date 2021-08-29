@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Blizzard issues new patches for Starcraft"
-excerpt: "The nation of Korea let out a collective \"GG!\" today as Blizzard released a new patch for both the original Starcraft and its expansion, Brood War. Starcraft has been on the shelves for a little ..."
-publishedDateTime: 2021-08-21T00:00:00Z
-originalUrl: "https://www.engadget.com/2007-08-21-blizzard-issues-new-patches-for-starcraft.html"
-webUrl: "https://www.engadget.com/2007-08-21-blizzard-issues-new-patches-for-starcraft.html"
+title: "StarCraft: Remastered Launching On August 14; Pricing and Pre-Order Bonuses Announced"
+excerpt: "Blizzard Entertainment finally announced the release date for its iconic and highly anticipated StarCraft: Remastered. The game is currently scheduled to launch on August 14, 2017 across PC and MAC."
+publishedDateTime: 2021-08-13T23:59:00Z
+originalUrl: "https://www.dualshockers.com/starcraft-remastered-pc-launch-date-price-revealed/"
+webUrl: "https://www.dualshockers.com/starcraft-remastered-pc-launch-date-price-revealed/"
 type: article
-quality: 37
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/engadget.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: DualShockers
+  domain: dualshockers.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://s.yimg.com/uu/api/res/1.2/x6UDI9hBq0StsN1vyYWShQ--~B/aD0yMjU7dz00OTA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.joystiq.com/media/2007/08/patchday_sc.jpg"
-    width: 490
-    height: 225
+  - url: "https://www.dualshockers.com/static/uploads/2017/06/StarCraft-Remastered.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -100,19 +96,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "StarCraft: Remastered Launching On August 14; Pricing and Pre-Order Bonuses Announced"
-    excerpt: "Blizzard Entertainment finally announced the release date for its iconic and highly anticipated StarCraft: Remastered. The game is currently scheduled to launch on August 14, 2017 across PC and MAC."
-    publishedDateTime: 2021-08-13T23:59:00Z
-    webUrl: "https://www.dualshockers.com/starcraft-remastered-pc-launch-date-price-revealed/"
+  - title: "Blizzard issues new patches for Starcraft"
+    excerpt: "The nation of Korea let out a collective \"GG!\" today as Blizzard released a new patch for both the original Starcraft and its expansion, Brood War. Starcraft has been on the shelves for a little ..."
+    publishedDateTime: 2021-08-21T00:00:00Z
+    webUrl: "https://www.engadget.com/2007-08-21-blizzard-issues-new-patches-for-starcraft.html"
     type: article
     provider:
-      name: DualShockers
-      domain: dualshockers.com
-    quality: 30
+      name: Engadget
+      domain: engadget.com
+    quality: 37
     images:
-      - url: "https://www.dualshockers.com/static/uploads/2017/06/StarCraft-Remastered.jpg"
-        width: 1280
-        height: 720
+      - url: "https://s.yimg.com/uu/api/res/1.2/x6UDI9hBq0StsN1vyYWShQ--~B/aD0yMjU7dz00OTA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.joystiq.com/media/2007/08/patchday_sc.jpg"
+        width: 490
+        height: 225
         isCached: true
   - title: "BlizzCon 2009 Goody Bag is full of StarCraft goodness"
     excerpt: "Despite the earlier announcement that StarCraft II would be delayed, it looks like BlizzCon 2009 is going to be all StarCraft all the time. Blizzard recently revealed through the BlizzCon website ..."
@@ -142,6 +138,6 @@ related:
       domain: engadget.com
     quality: 10
 
-secured: "pXf+WEXZoj8hSoPlWycsytrnaUIyFAhIdVxXLPhVla4U2PzO6e5VzVA4bKmbfrfWRexfofHjr1yWCvkIS1GMI34KEaE2AV+JCj0THI58uLi9NOdS8SugMEQjZ5mBZS5SFaOoc0tS0cckWCPt9y7eMQziQ3tfXWsUFqJ0GhCKMqhT8ooN1R8Jrg5x7q0to1kYYA6sZMAXROBE5aliNBD7bh5enkI7ymRjEQj5UOPJBRA6zWbI2hznfDPFeyeWcplYCA1tX7/16BSGjxRHRkCdzuFVSTFrWVTs2X93c43z/fcnIjJGfguYytzeDUC2b6l+XJiABCOZbHEodZdnyQqun05NdbWNAHMURSsKJI3mP+8=;a4+LiX4BFetHlnkyufrt4Q=="
+secured: "ZiiOrfgQM+qKAjorwUYv6DBkgm6lwaHEIK+JVXSuvOiYxXpx+DBYduu+GaDUELtJeq/+ZHlcuSHh/3ir03Lf7BC1sGBtBbBXLG5RFDbxSAJx2VLH2zQFg7/n3QXJVDvMNHIgSNLMtp9Nwk2/nvqwjBfL1gAfS2anzwlFDhtzYSpEBd/JM1Og39paowMHNjKPRdTXuGXO96tab0ws6JXLeh7J9hLkD6TJPPmYrncK4yHJ8KbYdF5i3wEmR2CZ7bpCmeEdkAD1qzOuys1Nq3N23d2xOiE5lEY1lXFR6+e96S1oC6GhI+EKGmERQH6GpIsfflJmpnQ1PkQI7J120HIcEf3NWsem7xQaiHRHGKF1tvA=;3CiEEB1zMymIiZOr++ZsVg=="
 ---
 

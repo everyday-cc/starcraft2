@@ -9,7 +9,7 @@ ampWebUrl: "https://heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with
 cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with-your-buddies/amp/"
 type: article
 quality: 57
-heat: 223
+heat: 243
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       - url: "https://s.yimg.com/uu/api/res/1.2/x6UDI9hBq0StsN1vyYWShQ--~B/aD0yMjU7dz00OTA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.joystiq.com/media/2007/08/patchday_sc.jpg"
         width: 490
         height: 225
+        isCached: true
+  - title: "StarCraft: Remastered Launching On August 14; Pricing and Pre-Order Bonuses Announced"
+    excerpt: "Blizzard Entertainment finally announced the release date for its iconic and highly anticipated StarCraft: Remastered. The game is currently scheduled to launch on August 14, 2017 across PC and MAC."
+    publishedDateTime: 2021-08-13T23:59:00Z
+    webUrl: "https://www.dualshockers.com/starcraft-remastered-pc-launch-date-price-revealed/"
+    type: article
+    provider:
+      name: DualShockers
+      domain: dualshockers.com
+    quality: 30
+    images:
+      - url: "https://www.dualshockers.com/static/uploads/2017/06/StarCraft-Remastered.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "BlizzCon 2009 Goody Bag is full of StarCraft goodness"
     excerpt: "Despite the earlier announcement that StarCraft II would be delayed, it looks like BlizzCon 2009 is going to be all StarCraft all the time. Blizzard recently revealed through the BlizzCon website ..."

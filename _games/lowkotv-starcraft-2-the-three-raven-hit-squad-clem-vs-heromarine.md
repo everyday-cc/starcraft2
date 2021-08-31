@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-three-raven-
 type: video
 length: PT38M44S
 publishedDateTime: 2021-04-23T11:40:18Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PWZ2DVCytqE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "eZWOU9f9LhSVKAqsZSEEkYmABpyg0PARuuD/4wMsnyVpwdrhWxcZLA44aUy4K5emm7T6cV6rfumtsnaD3TNpGvW6hAkIxAagZBSwTD2FgK+KkkHKdEeX97Tg9/OFapdu6vQs3nV1rqrpqtOEEPVGKdZEYRPMaRaAb60ND+Avgp/Fh5nMp0tWtrGnGtxl3SPFHXUgwBLq81nTc74EaD8mmeZ8wtQ9oIACbrnXIblxjgLOyFcKFjcyYKLh+DFwVgVU2J+nqPe+ub0zCj1RUpnfWedcb8vUCOymAX2d8O0ZllQk+Jg6yk3rm0F4Oqp8xMiUtL6vNOewBTmjso6joKA1VYcER3JBzvjDZ73/iGgBbHZPlgooafmYW1Bbv1oht2bnfxTttX1XdlVUmPwBYOX/ohVDXunWxa3C7fyXHF0zhZw=;M9knn1E8CdCm941ZSTHrSw=="
+secured: "Zq8sDh95Xnr3YUpobz7B5rka2LNLr+rnKg/GTcFrpx54ZbOQ5OWXLKG9dmQ/jpqUas6gl7yOjG518wrFAcTxH9/Rsa+FuIzIwRP6VtolhMgJfIIAsitifc8IRHkaV8SA5aaY3spuTmanxiOE/CX+QecCTIg+REBEvxh2xqjFgQGlMjjLrunbzqBA3RUWuGqBvQHuIesP6Zg/0D0S8suSfiZKNaOPjKCrk5uydCO3y/Jrk3h2Uf7BpaYbY27vK0zFDoDCuvHxYbuCcAsD8wdWS9SvOu7o0akkn8tHwTAF4f2XgzLY8YqTR6HWn/6VF+hervzmAI9pvNx9RxghzupVxrHv3ggS20sGqT3/aOp8Yoii+EMH+yUzpLftm31GS8lkXfdZY8U1PC1O3TTVtGOdvEd1Q7pHCch+LVQ16qHi9Kw=;r1aWxdVjl2vF26OtJ5T+kQ=="
 ---
 

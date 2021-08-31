@@ -4,44 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-the-mass-battlecruiser-switch.md",
-      "title": "StarCraft 2: THE MASS BATTLECRUISER SWITCH!",
-      "excerpt": "Best-of-3 in professional StarCraft 2 between TaeJa and Scarlett. Subscribe for more videos: http://lowko.tv/youtube TY vs Dark (epic game): https://goo.gl/PGHX1S  An awesome series of games in professional StarCraft 2. In this series TaeJa decides to mix it up. He's very well known for his Marine play.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-mass-battlecruiser-switch/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-mass-battlecruiser-switch/",
-      "originalUrl": "https://youtube.com/watch?v=70Px64OHSi4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/70Px64OHSi4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/70Px64OHSi4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-02-14T04:49:08-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-unexpected-result-maru-vs-harstem.md",
       "title": "StarCraft 2: The UNEXPECTED Result! (Maru vs Harstem)",
       "excerpt": "Very fun match of professional StarCraft 2 between Maru and Harstem. While most of the time we see Protoss players forced into Colossus because of Marine Marauder unit compositions, in this game Harstem decides to go for Carriers with Disruptors because of Maru's Mech army.  Become a YouTube member:",
@@ -1093,6 +1055,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-02-23T03:14:35-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-extreme-cannon-rush.md",
+      "title": "StarCraft 2: EXTREME Cannon Rush!",
+      "excerpt": "StarCraft 2 cast of a Platinum League Protoss versus Terran. Subscribe for more videos: http://lowko.tv/youtube Insane Proxy Barracks: https://goo.gl/8m0B4g  Cannon rush seems to be one of the most popular strategies for lower league Protoss players. In this PvT, it is no different. However the Protoss",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-extreme-cannon-rush/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-extreme-cannon-rush/",
+      "originalUrl": "https://youtube.com/watch?v=yE1JixH3jX0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yE1JixH3jX0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M7S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yE1JixH3jX0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-03-15T02:10:46-07:00"
     }
   ],
   "nextPage": 10

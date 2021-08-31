@@ -1,42 +1,46 @@
 ---
 category: news
-title: "2022 Starcraft CX 23 DL"
-excerpt: "The CX pontoon boat series is everything you'd expect from Starcraft. With countless layouts and options to choose from, you're sure to find the perfect pontoon boat for you at a value you can afford. Take a look for yourself. RELAX ON THE WATER THE CX ..."
-publishedDateTime: 2021-08-12T14:31:00Z
-originalUrl: "https://www.yachtworld.com/boats/2022/starcraft-cx-23-dl-3865137/"
-webUrl: "https://www.yachtworld.com/boats/2022/starcraft-cx-23-dl-3865137/"
+title: "StarCraft 2: Nova Covert Ops Mission Pack 2 Review"
+excerpt: "The second chapter of StarCraft 2’s Ghost-focused mini campaign managed to exceed my meager expectations from the underwhelming pilot episode that is Covert Ops Mission Pack 1… but only just."
+publishedDateTime: 2021-08-17T00:00:00Z
+originalUrl: "https://www.ign.com/articles/2016/08/04/starcraft-2-nova-covert-ops-mission-pack-2-review"
+webUrl: "https://www.ign.com/articles/2016/08/04/starcraft-2-nova-covert-ops-mission-pack-2-review"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 77
+heat: 197
+published: true
 
 provider:
-  name: YachtWorld
-  domain: yachtworld.com
+  name: IGN
+  domain: ign.com
+  images:
+    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://images.yachtworld.com/resize/1/8/66/7670866_20201127113016100_1_XLARGE.jpg?f=/1/8/66/7670866_20201127113016100_1_XLARGE.jpg&w=1200&h=800&t=1628276139000"
-    width: 1200
-    height: 800
+  - url: "https://assets1.ignimgs.com/2016/08/04/nova1280jpg-a2d7be_160w.jpg?width=1280"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
-  - title: "StarCraft 2: Nova Covert Ops Mission Pack 2 Review"
-    excerpt: "The second chapter of StarCraft 2’s Ghost-focused mini campaign managed to exceed my meager expectations from the underwhelming pilot episode that is Covert Ops Mission Pack 1… but only just."
-    publishedDateTime: 2021-08-17T00:00:00Z
-    webUrl: "https://www.ign.com/articles/2016/08/04/starcraft-2-nova-covert-ops-mission-pack-2-review"
+  - title: "2022 Starcraft CX 23 DL"
+    excerpt: "The CX pontoon boat series is everything you'd expect from Starcraft. With countless layouts and options to choose from, you're sure to find the perfect pontoon boat for you at a value you can afford. Take a look for yourself. RELAX ON THE WATER THE CX ..."
+    publishedDateTime: 2021-08-12T14:31:00Z
+    webUrl: "https://www.yachtworld.com/boats/2022/starcraft-cx-23-dl-3865137/"
     type: article
     provider:
-      name: IGN
-      domain: ign.com
-    quality: 77
+      name: YachtWorld
+      domain: yachtworld.com
+    quality: 37
     images:
-      - url: "https://assets1.ignimgs.com/2016/08/04/nova1280jpg-a2d7be_160w.jpg?width=1280"
-        width: 1280
-        height: 720
+      - url: "https://images.yachtworld.com/resize/1/8/66/7670866_20201127113016100_1_XLARGE.jpg?f=/1/8/66/7670866_20201127113016100_1_XLARGE.jpg&w=1200&h=800&t=1628276139000"
+        width: 1200
+        height: 800
         isCached: true
   - title: "2022 Starcraft SLS 3"
     excerpt: "SLS Starcraft pontoon boat innovation continues with the SLS series, featuring HMX tubes. With strategically placed strakes, HMX tubes give you better lift, less surface drag, increased speed, faster planing and a tighter turning radius. In short ..."
@@ -104,6 +108,6 @@ related:
       domain: engadget.com
     quality: 17
 
-secured: "Fz0QLUpGpPa05aEpC/mQ8JEfK1Hg5zYRs5NC3oQcy7g1hjWPR/QGaKlsANhmdmdVLbSnrne7Qp0mcune1l/6eN2GTjGZcR1IjX+tijHp68Ptis2VWgJQtTGScHp4x7KIPoK5ZErpZBHaXQxEQ0Vkbq0SCHISy8Io1v4G0wCRz9iTxAJpt9Q4uwr8CFIHh2/gQ21zjH4DPnH1DNYVXpKIFfVweQoABAYeoIbeCUUkjASEkSsw0PZuy16qxFBL/ML+4kFnlbUzNNGHX00kwjmupSYAv/vx7MrBEkwU3mLzJ+riB+F2sKI57OHtpROEhnf8XKLc04hc6+lW02F+i+xf1W1YIya8uEnPSlFoD6nsKL4=;a7rPRrqrb5YfdSCdIsuzNA=="
+secured: "lRJ7/Ec5Ha0D+mJLBpE3X+Be3uQ7lrV/4YqlqHgaLRCmV9R9IpbaWfC1GQ/L/lNDAn7Cp/QrlmUvvNI06hdznUpuWGu6itUK1GsmukRZUaK4JwPYmCemqbRsJMWW4eHEzomBCTXF4IkUto0Sa3Lnj4MTbBpDIsrj2I8ce9LQ1PkaZgD1rfpI7sTucLCy1QzUPzx3wrS3H0RvKHl65INIcExyYpUNhQ+MWVrUZh81d//OxxllAjlIOW/qmoB7qyhLvsnCx6MQ1Z67I2z+AXcCn+s1UwXMHTcUOSYy4AN7UArUFVhfYmJbeHJftALAZcjH+l24xHG7gO7zPPTYiE3vallcQgqb5K1xoJj9YjCk//k=;gLqvr/4VzUdhe7BTQZN49A=="
 ---
 

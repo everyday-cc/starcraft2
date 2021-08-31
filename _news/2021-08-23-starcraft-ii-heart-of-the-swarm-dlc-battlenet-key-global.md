@@ -9,7 +9,7 @@ ampWebUrl: "https://www.denoticias.es/us/amp/products/starcraft-ii-heart-of-the-
 cdnAmpWebUrl: "https://www-denoticias-es.cdn.ampproject.org/c/s/www.denoticias.es/us/amp/products/starcraft-ii-heart-of-the-swarm-dlc-battlenet-key-global.html"
 type: article
 quality: 57
-heat: 117
+heat: 120
 published: true
 
 provider:

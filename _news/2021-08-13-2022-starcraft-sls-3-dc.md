@@ -38,20 +38,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "2022 Starcraft SVX 191 OB"
-    excerpt: "Check out the models ranging from 17' to 23'. SVX SERIES BY STARCRAFT THE ALL-NEW SVX SERIES PROVES THAT FUN ON THE WATER DOESN'T HAVE TO COME WITH A BIG PRICE TAG. SVX COMES LOADED WITH VALUE, INCLUDING FEATURES LIKE A FOUR-SPEAKER STEREO, A BIMINI TOP ..."
-    publishedDateTime: 2021-08-13T04:58:00Z
-    webUrl: "https://www.yachtworld.com/boats/2022/starcraft-svx-191-ob-3865809/"
-    type: article
-    provider:
-      name: YachtWorld
-      domain: yachtworld.com
-    quality: 37
-    images:
-      - url: "https://images.yachtworld.com/resize/1/13/15/7681315_20201208084602365_1_XLARGE.jpg?f=/1/13/15/7681315_20201208084602365_1_XLARGE.jpg&w=1200&h=800&t=1628532314000"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Blizzard issues new patches for Starcraft"
     excerpt: "The nation of Korea let out a collective \"GG!\" today as Blizzard released a new patch for both the original Starcraft and its expansion, Brood War. Starcraft has been on the shelves for a little ..."
     publishedDateTime: 2021-08-21T00:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/2016/08/04/starcraft-2-nova-covert-op
 webUrl: "https://www.ign.com/articles/2016/08/04/starcraft-2-nova-covert-ops-mission-pack-2-review"
 type: article
 quality: 77
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "2022 Starcraft SLS 3 DC"
-    excerpt: "SLS Starcraft pontoon boat innovation continues with the SLS series, featuring HMX tubes. With strategically placed strakes, HMX tubes give you better lift, less surface drag, increased speed, faster planing and a tighter turning radius. In short ..."
-    publishedDateTime: 2021-08-13T10:33:00Z
-    webUrl: "https://www.yachtworld.com/boats/2022/starcraft-sls-3-dc-3865813/"
-    type: article
-    provider:
-      name: YachtWorld
-      domain: yachtworld.com
-    quality: 37
-    images:
-      - url: "https://images.yachtworld.com/resize/1/47/85/6924785_20181130123737915_1_XLARGE.jpg?f=/1/47/85/6924785_20181130123737915_1_XLARGE.jpg&w=483&h=322&t=1628533832000"
-        width: 483
-        height: 322
-        isCached: true
   - title: "Blizzard issues new patches for Starcraft"
     excerpt: "The nation of Korea let out a collective \"GG!\" today as Blizzard released a new patch for both the original Starcraft and its expansion, Brood War. Starcraft has been on the shelves for a little ..."
     publishedDateTime: 2021-08-21T00:00:00Z

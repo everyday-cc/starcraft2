@@ -42,20 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "2022 Starcraft SLS 3 DC"
-    excerpt: "SLS Starcraft pontoon boat innovation continues with the SLS series, featuring HMX tubes. With strategically placed strakes, HMX tubes give you better lift, less surface drag, increased speed, faster planing and a tighter turning radius. In short ..."
-    publishedDateTime: 2021-08-13T10:33:00Z
-    webUrl: "https://www.yachtworld.com/boats/2022/starcraft-sls-3-dc-3865813/"
-    type: article
-    provider:
-      name: YachtWorld
-      domain: yachtworld.com
-    quality: 37
-    images:
-      - url: "https://images.yachtworld.com/resize/1/47/85/6924785_20181130123737915_1_XLARGE.jpg?f=/1/47/85/6924785_20181130123737915_1_XLARGE.jpg&w=483&h=322&t=1628533832000"
-        width: 483
-        height: 322
-        isCached: true
   - title: "BlizzCon 2009 Goody Bag is full of StarCraft goodness"
     excerpt: "Despite the earlier announcement that StarCraft II would be delayed, it looks like BlizzCon 2009 is going to be all StarCraft all the time. Blizzard recently revealed through the BlizzCon website ..."
     publishedDateTime: 2021-08-13T23:59:00Z

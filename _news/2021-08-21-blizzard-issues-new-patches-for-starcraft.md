@@ -42,15 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "BlizzCon 2009 Goody Bag is full of StarCraft goodness"
-    excerpt: "Despite the earlier announcement that StarCraft II would be delayed, it looks like BlizzCon 2009 is going to be all StarCraft all the time. Blizzard recently revealed through the BlizzCon website ..."
-    publishedDateTime: 2021-08-13T23:59:00Z
-    webUrl: "https://www.engadget.com/2009-08-14-blizzcon-2009-goody-bag-is-full-of-starcraft-goodness.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 17
 
 secured: "pXf+WEXZoj8hSoPlWycsytrnaUIyFAhIdVxXLPhVla4U2PzO6e5VzVA4bKmbfrfWRexfofHjr1yWCvkIS1GMI34KEaE2AV+JCj0THI58uLi9NOdS8SugMEQjZ5mBZS5SFaOoc0tS0cckWCPt9y7eMQziQ3tfXWsUFqJ0GhCKMqhT8ooN1R8Jrg5x7q0to1kYYA6sZMAXROBE5aliNBD7bh5enkI7ymRjEQj5UOPJBRA6zWbI2hznfDPFeyeWcplYCA1tX7/16BSGjxRHRkCdzuFVSTFrWVTs2X93c43z/fcnIjJGfguYytzeDUC2b6l+XJiABCOZbHEodZdnyQqun05NdbWNAHMURSsKJI3mP+8=;a4+LiX4BFetHlnkyufrt4Q=="
 ---

@@ -38,20 +38,6 @@ related:
         width: 600
         height: 210
         isCached: true
-  - title: "StarCraft: Remastered Launching On August 14; Pricing and Pre-Order Bonuses Announced"
-    excerpt: "Blizzard Entertainment finally announced the release date for its iconic and highly anticipated StarCraft: Remastered. The game is currently scheduled to launch on August 14, 2017 across PC and MAC."
-    publishedDateTime: 2021-08-13T23:59:00Z
-    webUrl: "https://www.dualshockers.com/starcraft-remastered-pc-launch-date-price-revealed/"
-    type: article
-    provider:
-      name: DualShockers
-      domain: dualshockers.com
-    quality: 30
-    images:
-      - url: "https://www.dualshockers.com/static/uploads/2017/06/StarCraft-Remastered.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "STARCRAFT BUS ( 21V623000 ) - Fuel System, Diesel: Pre-Heater"
     excerpt: "Forest River, Inc. (Forest River) is recalling certain 2017-2018 Starcraft Allstar XL transit buses equipped with Cummins B6.7 diesel engines. The electric fuel heater within the fuel module may overheat, causing plastic in the fuel heater to melt and ..."
     publishedDateTime: 2021-08-20T18:19:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/2016/08/04/starcraft-2-nova-covert-op
 webUrl: "https://www.ign.com/articles/2016/08/04/starcraft-2-nova-covert-ops-mission-pack-2-review"
 type: article
 quality: 77
-heat: 117
+heat: 97
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 490
         height: 225
         isCached: true
-  - title: "BlizzCon 2009 Goody Bag is full of StarCraft goodness"
-    excerpt: "Despite the earlier announcement that StarCraft II would be delayed, it looks like BlizzCon 2009 is going to be all StarCraft all the time. Blizzard recently revealed through the BlizzCon website ..."
-    publishedDateTime: 2021-08-13T23:59:00Z
-    webUrl: "https://www.engadget.com/2009-08-14-blizzcon-2009-goody-bag-is-full-of-starcraft-goodness.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 17
 
 secured: "lRJ7/Ec5Ha0D+mJLBpE3X+Be3uQ7lrV/4YqlqHgaLRCmV9R9IpbaWfC1GQ/L/lNDAn7Cp/QrlmUvvNI06hdznUpuWGu6itUK1GsmukRZUaK4JwPYmCemqbRsJMWW4eHEzomBCTXF4IkUto0Sa3Lnj4MTbBpDIsrj2I8ce9LQ1PkaZgD1rfpI7sTucLCy1QzUPzx3wrS3H0RvKHl65INIcExyYpUNhQ+MWVrUZh81d//OxxllAjlIOW/qmoB7qyhLvsnCx6MQ1Z67I2z+AXcCn+s1UwXMHTcUOSYy4AN7UArUFVhfYmJbeHJftALAZcjH+l24xHG7gO7zPPTYiE3vallcQgqb5K1xoJj9YjCk//k=;gLqvr/4VzUdhe7BTQZN49A=="
 ---

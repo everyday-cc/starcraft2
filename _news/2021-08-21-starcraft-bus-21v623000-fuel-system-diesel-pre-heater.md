@@ -34,20 +34,6 @@ related:
         width: 600
         height: 210
         isCached: true
-  - title: "StarCraft: Remastered Launching On August 14; Pricing and Pre-Order Bonuses Announced"
-    excerpt: "Blizzard Entertainment finally announced the release date for its iconic and highly anticipated StarCraft: Remastered. The game is currently scheduled to launch on August 14, 2017 across PC and MAC."
-    publishedDateTime: 2021-08-13T23:59:00Z
-    webUrl: "https://www.dualshockers.com/starcraft-remastered-pc-launch-date-price-revealed/"
-    type: article
-    provider:
-      name: DualShockers
-      domain: dualshockers.com
-    quality: 30
-    images:
-      - url: "https://www.dualshockers.com/static/uploads/2017/06/StarCraft-Remastered.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "A fully realized Starcraft MMO is in the works, but it needs to be Kickstarted first"
     excerpt: "If you're a dedicated World of Warcraft player, you may have already spent a good deal of time wondering when developer Blizzard would give its StarCraft property the MMO treatment as well."
     publishedDateTime: 2021-08-22T00:00:00Z

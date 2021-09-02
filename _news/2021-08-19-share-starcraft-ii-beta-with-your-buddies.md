@@ -9,7 +9,7 @@ ampWebUrl: "https://heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with
 cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with-your-buddies/amp/"
 type: article
 quality: 57
-heat: 122
+heat: 121
 published: true
 
 provider:

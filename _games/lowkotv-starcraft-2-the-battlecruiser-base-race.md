@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=A1-4-eltzsQ
 type: video
 length: PT38M28S
 publishedDateTime: 2019-11-13T09:56:27Z
-heat: 50
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A1-4-eltzsQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "trmM98Y+jKfikbG1dsP21FDyHurfcNHM2Xrad4djn7rRejQSl2WIvtZU5QGKm5Ujs+JaZmmcPCz/8y5Blug+T5r1Bn+gUeK4jef6721yc3QsLaIbrmYv1NaQrCMaICDntXAixo//VdHJc3dLSmQzU5rn82cBlvz6d1dfmOqtrzmPA97nhag/21LVk3th4j+1kQMisN+mD9C8bBC+PkG+mLE5XZ/V0H0aegOhBkZtdDfyT60EjqxE3PUey2ovDGveo8MK+d/NR4u3dcl6hLFsJT0J1aUqQd/yzfc+ME5HdmNEHVDR8ICFt8ZkCy7+jChgcfDFCJZHx4v76thD/w0xZa+pBZFB+1ZEAMtTPhHTTKugjSijU9SC84Gm073XFaCI3ryIlH4Ta1UEiGjADrKi6LmFnO7gv6wynh6297qJ1nA=;0qcGrmGHfRaWGVTKy1HRcw=="
+secured: "pcieFjoct/oXJ4RhvvU98/TI0TawiM35KkJ10q+OQDin3qlnGgCNBoxgqEC2pNTqSkMpxQPRwKN9HCPwTSjt5coleblmS7ost+FjedZTFk1e9193vB87ASt4cDaAgRQK45K2xdl2eNINyWxuozOtb47SH8yimoMUjbU00zzI/6OI5fBgFePflM/dSU9LQC/R/tmKGg4mSozyVceA4KlR43u56dmTs8Z5jP3XJlRF4XJjetWCE/CzidlQpqZ14y6O1NlzGKx/wCldLWrWeIxsZKEGnLZ6f0LifoT0NKMXsz1U3t0Ovfym0g2nwReO8iFcQP/JGNfeVrB8xF8Yeq6J6/aP20MbXDLHIkaXYCIXUyem/DXdXwf+/pTUDR58LTxDpNCtEComBTzAmYHnPonvqKTy72YjZAcPMtr3a927kPU=;duDDkM+y8mzrLLVW3ls4rA=="
 ---
 

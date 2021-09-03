@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-blys-amazing-pro
 type: video
 length: PT59M14S
 publishedDateTime: 2020-12-24T09:43:03Z
-heat: 70
+heat: 79
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1RpcgiNR9xE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "VGFiQuLTJd3ks4Zo1VkEwFaCAJdbEqaOK4DYsddEoNlc4kELtzvTuCMxjrpyvkBQGd65idCJiiE5ctHtFQ3e56R6zcTtuEA1HOXIRRLkYlv0SQyuoZnucrInj3aLq+FuttJqYIyLs/Q/o/+ZbDnekCkcWZBkzuxcdL/MeM/m8NvezIXQ4jnNqsm5299x6uTtcqObNZgHfTdtsNuMzFBrKAYMEn1pRJYRGVmMl65zqGqZTjGfsWAvmraCf4AZwWpye6x2nNx5UdKqA+DU2jCwQvyccZZ9WKGHA7qEcfaqYXzxxd79cFvxB4Lq5RJTthhhBzVQUBIZUZXXZ++rTQS569M9HxhtSWSCfw6TiNWZcIC/X4bVSJ5EGMOv0nmMJvlLodWFVVKBltimXzPvZPNjwAa58C3I8NBLd3k4JDG6h8fsELK+cm5MJZ9hHwlxathx;dJ3IozWRuDTYpffnVRiXEA=="
+secured: "nZv2Yl42ukBuQpalybelNBofaujyqTCiv8lm9H0pudaTaFmpft6hThD59Y23FdW/hpJ+d5k8C3sZdaI9slTZXyc5fi2KyHEf9SwClNIwUXo9L8o744GnWs4yTGpt/Vr8pK6Xfrkhc+og5mZHvVGE0XdkHbi9A09dacIrHSCzmpJg2E8ffUfmb5RCkl9mHTq/pRCBKKo9FCACSeVyutKT7sdzzgnanwlcjIbhWv+Zl+rfxiKfudYjQX8+d9kINYyf//XU6orODf9sAAeqr3g+O7J49URyX0uJaxJcIaltu+Lu5Bs4mpCOAmaKl56W5/v0cYf4vEjkwNe43euuzRFHJjMtqtl0MXFcj55fLM9+GfGngJb59/VlNHw9EhRI1TewI1kjEXol+zVMeTP+qUSzS79Qq1sAB6lrPvvk65Joko8=;VCPy1lf+2qvxi9Iu8cndhg=="
 ---
 

@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-match-disru
 type: video
 length: PT23M46S
 publishedDateTime: 2021-02-13T11:48:01Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n2aZas1y8v8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "G3EXJ9bXxybVO6wBV0LpfDTjH+Aw7DX0h95kSySt78i9YHMhhZoW1naPVcNDGCjebGhh3H3K3cSrDvWPOf578zFUmSxZLDIx0/hlSaRZj9hxlY6t3lFHUZKNzzQhrY9aLbNr7OCEyTcugvNvhK4KfK6QizMxQ1hIZiUiivKtvKV73cl5cXGShzkVkxEpujmtlg7dKalsKj4citIZBHXEceE3JDXroSdimi1VLtgZKArdzNjWqaDohDnN+kXS2NIrAm9ilcTUhkjqBEzcXHUYlqbkzFI1lUW/mKTVWT2eAEbQ08NO04qbEqbpT8k2KIilDdbVxyQWMrhb9TuWVjNOG0CbHnGzUKV80q0rBLDGOmYSPZXtEBj8q8IT1IVPfM5yZvVQXXpPQHcQXbeJIln9fDso5eE+TXbi2BoSOqj+hQU=;+LoQwnCVvbuJsC8yWOyKbA=="
+secured: "wkiVzzHcYyFdeJ6CKlAXHbffbkUhIMWE8eZuWQZp67h37Net1WBMvBOlahzFHOrd1j/B+8wDGzQfVGD4bn9bleWRx0nNUOIqAd8niWIB6jQPeNFEo4x3GoIiHdlADQbXuThITeVNuNimyQ08Yh+2fhvDuB+klKM5l/ltcnKJVcNd5/Plj5UBVJZRJgMYUwSYeTTlz90eNpY1iO2KNeCmG0pI17UaYdmB4an/82cYP7vOtYNvoOgsWZxM3DKi7DnTGk3V5zxus2bx24/1Ey3i0+qjcC/4EpdsjCdodJNsosH3hCsC3nsAdPNSLRwAlnIgdsiqs4onij1sjXTHE1lDnoec1Zk+kN8hv8d2VeOwud7EefoxHwhakM8zvgfk7lTaoqBfe5NQ6Z7YcUOYQ/IYmgsY8lJvJdoAP/1VYe9ND+Q=;I5fsodIp7+ZafIKPOu2PBA=="
 ---
 

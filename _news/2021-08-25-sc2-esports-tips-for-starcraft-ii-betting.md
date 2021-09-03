@@ -23,6 +23,22 @@ images:
     height: 288
     isCached: true
 
+related:
+  - title: "New and Used International STARCRAFT Buses and Passenger Vehicles For Sale"
+    excerpt: "Construction Equipment Guide covers the nation with its four regional newspapers, offering construction and industry news and information along with new and used construction equipment for sale ..."
+    publishedDateTime: 2021-08-31T23:50:00Z
+    webUrl: "https://www.constructionequipmentguide.com/used-buses-and-passenger-vehicles-for-sale/international/model/starcraft/id/30711111"
+    type: article
+    provider:
+      name: Construction
+      domain: constructionequipmentguide.com
+    quality: 35
+    images:
+      - url: "https://d1ovd2ryr2wywi.cloudfront.net/305x0_d3864e1285391660"
+        width: 305
+        height: 228
+        isCached: true
+
 secured: "ltQOCJPDYp1AxJfoMv0a9rmfzMjVuKg31cF71q4gPblNiX6sMumViN3EQKktarBwn5B5Zz8GVLNRuRSfAVW7BDym/m3UAXY4t8R/bkfrrlmfoApz6AtyGSq4Df25/3lAxzFR3EuJrbAxjQ0vD309gNusXha3p+uI+2K6b/tmC+zZFzOPgTCLiqjFoM+DvN+89tXqo1tndXcKZHUa3kH9x5JcKUNouzSR3RUyKceI1L9fhStnV4jih54/CoULT7WpxH1b6pGvH2+mdrBqWXK++3u0sub/Go8oeCUOQGazHCGIaBM6vujeu0cragwKJDH86YX6k5W7ZKiAvaLsoTwRhBG6MvP2Ls64yjhbDd/5SIE=;zJljb7Pc5aMbaonPXusQDw=="
 ---
 

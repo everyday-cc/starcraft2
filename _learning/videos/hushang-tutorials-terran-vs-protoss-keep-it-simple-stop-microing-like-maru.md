@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT13M49S
 publishedDateTime: 2020-07-31T02:03:30Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HmIGYeoXzTA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "LUaDOCvgbu0k3iplx1KDtQN3C2eflMhLSZ5PJW4wOvTmPt5txmXQeIaDSjGgQOS3Kkj8mqbBAs6+VHhskiIgctYtVkmXSxVEGjvBgPe1bJ2LpXdwIW/h3gFt8PgiMG39S/EtdJQ6ef3+rsTxwinW7h/6+zlPFtLhh9LFnIx3jPl74vq8Pdcp8M+NZlDNaIAmM2kSBSlrm8GFrPBo6l69vtJIPxqkQ4eph65SlTHJqJfOrqzJ/d0prljqE+Udej8GwrOIZaQBPl3vmh+xmQMCJlTHMAepBf7CuA3P1G4Sodgyxn2c1vIFQMsonJMe0xWDZaqmf/vvj+ccW5dToMSoVnSayXqe+n5Ua20nEOhcKJ0/E1gXYRMbqR2uB9lzxV37XEVI3wmMu6sFHCUvLhH/spEYJ9mDH6Q/UKVsjeAuajg=;hg0GKwYMmnL4HXW/veluig=="
+secured: "M+/fpZKa4PmoQbtRnkAbZBJpPvnSDPRFFk7wWc9QjMEQKHUy6ByKK9AiwHNHOB/1BwOyjVogCHyMrnh3xvXVacTP9aSV4yP2T6Hvvcyows60Bch5FWLmaO0oteUXg5opcFtIqT/jTqUAzsxtUHQPfOHBIq+8XiKnkhT5nYqhncFjZpDFplOJkcnXIhmWchU8CgsXxy8OcQ7LGIO5VbmntZO8q+i4EM3arVrqV+UEp4H49NsAXVTKEEmzsvI3XfjN6wgroWmciqJFIGqJvDXF1w3z0/BC2MbK9CSByq+OXtnM2U8SqU/nKZT9iHscJNaKpnJORTj91aNnhzoKIxXOd+QCraccF+lap5SJeP/SWZyFSw6b/AcsIRhxQG4bTgRscz9g/ToUQFNL5jX/M2H59PjPbZz3mwZogYZ1SF0W0fI=;vyDjZjigV3sWacRMi5JHFQ=="
 ---
 

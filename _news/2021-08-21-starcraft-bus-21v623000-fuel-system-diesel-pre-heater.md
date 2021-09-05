@@ -34,6 +34,20 @@ related:
         width: 600
         height: 210
         isCached: true
+  - title: "Blizzard issues new patches for Starcraft"
+    excerpt: "The nation of Korea let out a collective \"GG!\" today as Blizzard released a new patch for both the original Starcraft and its expansion, Brood War. Starcraft has been on the shelves for a little ..."
+    publishedDateTime: 2021-08-21T00:00:00Z
+    webUrl: "https://www.engadget.com/2007-08-21-blizzard-issues-new-patches-for-starcraft.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/x6UDI9hBq0StsN1vyYWShQ--~B/aD0yMjU7dz00OTA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.joystiq.com/media/2007/08/patchday_sc.jpg"
+        width: 490
+        height: 225
+        isCached: true
   - title: "A fully realized Starcraft MMO is in the works, but it needs to be Kickstarted first"
     excerpt: "If you're a dedicated World of Warcraft player, you may have already spent a good deal of time wondering when developer Blizzard would give its StarCraft property the MMO treatment as well."
     publishedDateTime: 2021-08-22T00:00:00Z

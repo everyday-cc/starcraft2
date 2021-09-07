@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-fake-cannon-rush
 type: video
 length: PT24M58S
 publishedDateTime: 2021-03-22T11:03:32Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gp-O9TRhIBA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8dZWrvyvl5cPMXwnRX37aZBEkboExtU5/JgEzDaewy1K2mrxLlsTdcdF5xdGMN6zMeMfFqwvlce1iSWCG0AHAsQaxIVMeL8vRWRXui+1Ck3Eh2IkAoNRPXQ6Y0tdl+8TiI8wGbrMAxa9XZwrz6p5SMRi4ETmZy3a41t53Frg3Cu7J2o5FtocDVtMT0UjOWkcTwu8d4I5rfnBi9WHLNxim88/R4jnoUv34oGCFF+lVWWgnQIQJoJVO2ziMSIWOWWqAxV1W7Q/em1ezApJEftr9zqIjWJSMTf/DBPFsvylYPBlsk8aoOU9Ta01MmfxgO2gkg8LwMHXBIiCTqR3CAP19TjeReXxBhp7YNgO6OG2spOR3oDDWxP+ueosl59XrNIEjGNwHVducw8dsMDOxnR2wMA+fj37FTIU5ipkU1KktUc=;3ew26RbIawPjLpYlyt9xSw=="
+secured: "M4AD3svUs3132AEzR0xqTagZD5eAWMeqh6817QwhCW2PA+pM8tD6bh2GZq4MLlMhfg7TG/w/ew9J8unWvlZrPM3OrG4Ndk80bZishEn0etuK5bhhatUcgK6Kh3eGpKOKiY4p1ZNc+YUyNwetAmyZx3el9LFjPowenr9Stmy1ptIH+ruDSIPV+49RXqlacYTAKztbwt2/YCszfv4FM5lxLJBvfjamuWUvsbhhpyKio4mXZ05eTv5NHD8XLY4nNNMn7yxoz14sCaVmR90irnKOz/zKUh+TCFAJvKfb/dQdJsW0hgfq6xrZHt8h7gLDz8GuS5werT+KFXqUZAVfkwtaMMAhQlenLKcJiECmNxZySM/33kMqJrrX7DVyy3dHHdBusFhLfab1LcFX9sCfoH4xb5RX3SHmjBsiwfXIeP53lZI=;Fr2B4kanh5L8p3qa46kZaA=="
 ---
 

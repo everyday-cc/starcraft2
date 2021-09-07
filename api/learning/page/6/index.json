@@ -4,6 +4,99 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-submarine-le-walling-guide-pvz.md",
+      "title": "Submarine LE - Walling Guide PvZ",
+      "excerpt": "Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is a website where you can contribute a monthly donation that will help",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-submarine-le-walling-guide-pvz/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-submarine-le-walling-guide-pvz/",
+      "originalUrl": "https://youtube.com/watch?v=B7efzDtgquE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B7efzDtgquE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M23S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-05-29T14:37:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B7efzDtgquE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-terran-pro-analysis-defending-the-dirtiest-cheeser-of-them-all.md",
+      "title": "Terran Pro Analysis | Defending The Dirtiest Cheeser of them all",
+      "excerpt": "Starcraft 2 Terran Pro Replay Analysis #Starcraft2​ #terran​ #analysis  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-pro-analysis-defending-the-dirtiest-cheeser-of-them-all/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-terran-pro-analysis-defending-the-dirtiest-cheeser-of-them-all/",
+      "originalUrl": "https://youtube.com/watch?v=0nZJxqv4pIU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0nZJxqv4pIU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M37S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-04-03T19:06:13-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0nZJxqv4pIU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-terran-vs-protoss-keep-it-simple-stop-microing-like-maru.md",
+      "title": "Terran vs Protoss | Keep it SIMPLE, stop microing like MARU",
+      "excerpt": "Today we look at microing vs chargelot archon as Terran. You don't need to do any flashy/wild micro to get effective results vs protoss! Keep it SIMPLE and follow a set plan of steps and you'll be crushing :)  Terran vs Protoss | Keep it SIMPLE, stop microing like MARU #StarCraft2 #Terran #Micro #TvP",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-vs-protoss-keep-it-simple-stop-microing-like-maru/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-terran-vs-protoss-keep-it-simple-stop-microing-like-maru/",
+      "originalUrl": "https://youtube.com/watch?v=HmIGYeoXzTA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HmIGYeoXzTA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M49S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-30T19:03:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HmIGYeoXzTA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-terran-vs-protoss-mine-drop-tutorial-into-3-rax.md",
       "title": "Terran vs Protoss | Mine Drop Tutorial (into 3 rax)",
       "excerpt": "Terran vs Protoss | Mine Drop Tutorial (into 3 rax) Learn how to start dominating Protoss players with one of the most standard builds in TvP. In this guide you'll learn how to begin with a mine drop to put on some pressure with the possibility of dealing game ending damage and then transition into a",
@@ -52,37 +145,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/GW0w2tUHauA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-terran-vs-terran-strategy-guide-learn-this-one-weird-trick-to-macro-like-a-gm.md",
-      "title": "Terran vs Terran Strategy Guide | Learn this one weird trick to macro like a GM",
-      "excerpt": "In today's terran vs terran strategy guide we talk about how you can continue to improve your macro into diamond and masters, where everyone is already making scv's consistently. What more could there be right? Let's take a look!  Terran vs Terran Guide | Learn this one weird trick to macro like a GM",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-vs-terran-strategy-guide-learn-this-one-weird-trick-to-macro-like-a-gm/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-terran-vs-terran-strategy-guide-learn-this-one-weird-trick-to-macro-like-a-gm/",
-      "originalUrl": "https://youtube.com/watch?v=hp5Ap6rdxfE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hp5Ap6rdxfE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M22S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-06-14T10:06:06-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hp5Ap6rdxfE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -238,6 +300,68 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/NAzXv812sg0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-zerg-gameplay-how-to-destroy-skytoss.md",
+      "title": "Zerg Gameplay | How to Destroy Skytoss",
+      "excerpt": "I hate hearing you guys struggling vs skytoss so it's time to learn how to wreck it ;)  Zerg Gameplay | How to Destroy Skytoss #Zerg #Starcraft2 #SC2  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-gameplay-how-to-destroy-skytoss/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-zerg-gameplay-how-to-destroy-skytoss/",
+      "originalUrl": "https://youtube.com/watch?v=ncgfd54a0HY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ncgfd54a0HY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M6S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-05-17T14:14:29-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ncgfd54a0HY/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-zerg-macro-guide-you-wont-believe-how-many-more-drones-i-got-starcraft-2.md",
+      "title": "Zerg Macro Guide | You WONT BELIEVE how many MORE DRONES I got!!! [Starcraft 2]",
+      "excerpt": "In this zerg macro guide we take a DEEP look at the nuances of droning, economy & macro to help you understand where you might be going wrong in your games. How is it that Grand Master's a pros generate so many more drones than you?!? You're about to find out :)  Zerg Macro | You WONT BELIEVE how many",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-macro-guide-you-wont-believe-how-many-more-drones-i-got-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-zerg-macro-guide-you-wont-believe-how-many-more-drones-i-got-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=QmfbJTpcvt8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QmfbJTpcvt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M1S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-08-31T22:12:47-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QmfbJTpcvt8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -925,161 +1049,6 @@
         "StarCraft 2",
         "Protoss",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-comebacks-muta-ling-bane-micro-tutorial.md",
-      "title": "StarCraft 2: Comebacks & Muta Ling Bane Micro! (Tutorial)",
-      "excerpt": "Coming back in StarCraft 2 is usually not easy. When your opponent gains a massive advantage early on, they will be able to carry that advantage to the mid game. However, every now and then you will find yourself being behind and still able to come back. In this video I go over the different ways to",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-comebacks-muta-ling-bane-micro-tutorial/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-comebacks-muta-ling-bane-micro-tutorial/",
-      "originalUrl": "https://youtube.com/watch?v=8Rk0D7a8r9M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8Rk0D7a8r9M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M7S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2015-08-17T06:50:49-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8Rk0D7a8r9M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-complete-ladder-revamp-explained-flaws-improvements.md",
-      "title": "StarCraft 2: Complete Ladder Revamp Explained! (Flaws & Improvements)",
-      "excerpt": "There's a complete overhaul of the StarCraft 2 ladder coming up. Subscribe for more videos: http://lowko.tv/youtube Official StarCraft video: https://www.youtube.com/watch?v=IUzUVXL_-Qc  The StarCraft 2 ladder will be getting an update soon. It's been in the works for a long time, and the StarCraft team",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-complete-ladder-revamp-explained-flaws-improvements/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-complete-ladder-revamp-explained-flaws-improvements/",
-      "originalUrl": "https://youtube.com/watch?v=DnO8G3QsZo4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DnO8G3QsZo4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-06-23T03:48:04-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DnO8G3QsZo4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-easy-protoss-vs-protoss-build-order-guide.md",
-      "title": "StarCraft 2: EASY Protoss vs Protoss Build Order! (Guide)",
-      "excerpt": "Protoss versus Protoss build for StarCraft 2 that is very easy to execute. If you are new to playing Protoss or if you want a more cheesy build, I would recommend giving this 3 Gateway all-in build order a try.   9 Pylon 10 Gateway 12 Assimilator  @Gateway: Cybernetics Core Pylon – Small cut in Probe",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-protoss-vs-protoss-build-order-guide/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-easy-protoss-vs-protoss-build-order-guide/",
-      "originalUrl": "https://youtube.com/watch?v=lDyU9cGppo8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lDyU9cGppo8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M9S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2015-03-13T06:16:52-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lDyU9cGppo8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-easy-terran-build-order-versus-protoss-guide-tutorial-how-to.md",
-      "title": "StarCraft 2: Easy Terran Build Order Versus Protoss (Guide / Tutorial / How-To)",
-      "excerpt": "How to beat Protoss as Terran in StarCraft 2: Heart of the Swarm. StarCraft 2 Build Order guide for Terran.   Reaper Expand 10 Supply Depot 12 Barracks 12 Refinery  @Barracks: Orbital Command + Reaper @Reaper: 2 SCV's off gas + Reactor on the Barracks  17 Command Center 18 Supply Depot  Transition to",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-terran-build-order-versus-protoss-guide-tutorial-how-to/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-easy-terran-build-order-versus-protoss-guide-tutorial-how-to/",
-      "originalUrl": "https://youtube.com/watch?v=GYI4EANKDCU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GYI4EANKDCU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2013-11-17T10:22:25-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GYI4EANKDCU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
       ]
     }
   ],

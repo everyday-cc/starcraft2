@@ -4,68 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-how-to-drop-with-medivacs-starcraft-2-terran-tutorialguidehow-to-2021.md",
-      "title": "How to drop with medivacs | Starcraft 2 Terran Tutorial/Guide/How-To [2021]",
-      "excerpt": "How to drop with medivacs | Starcraft 2 Terran Tutorial/Guide/How-To #Starcraft #Terran #Tutorial  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-how-to-drop-with-medivacs-starcraft-2-terran-tutorialguidehow-to-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-how-to-drop-with-medivacs-starcraft-2-terran-tutorialguidehow-to-2021/",
-      "originalUrl": "https://youtube.com/watch?v=h5SWDtyqA6Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h5SWDtyqA6Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M26S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-06-16T16:02:10-07:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/h5SWDtyqA6Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-sc2-zerg-guide-where-to-place-your-first-couple-overlords-2021.md",
-      "title": "SC2 Zerg Guide | Where to place your first couple overlords [2021]",
-      "excerpt": "Let's take a look at some zerg fundamentals! Where to place your overlords at the beginning of the game to defend cheese and also scout your opponent.  SC2 Zerg Guide | Where to place your first couple overlords [2021] #Starcraft2 #Zerg #Guide  0:00 - Overlord placement against Zerg 8:20 - Overlord placement",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-sc2-zerg-guide-where-to-place-your-first-couple-overlords-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-sc2-zerg-guide-where-to-place-your-first-couple-overlords-2021/",
-      "originalUrl": "https://youtube.com/watch?v=00TG2p2hJ6M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/00TG2p2hJ6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M10S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-06-23T22:01:49-07:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/00TG2p2hJ6M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-lambo-released-a-12-pool-guide-ive-got-the-counter-play.md",
       "title": "Lambo released a 12 pool guide. I've got the counter play.",
       "excerpt": "Protoss vs Zerg Guide / Tutorial  In today's video we're looking at an EXTREMELY detailed guide on how to defend 12 pool in the protoss vs zerg matchup. If you lose after watching the full guide, Ill have to ban you.  #ProtossVsZerg #sc2 #guide #tutorial #Starcraft2  Coaching --------------------------------------------------------------------------",
@@ -128,6 +66,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-2021.md",
+      "title": "Learn Starcraft 2: EASY Beginner Zerg Build Order Guide [2021]",
+      "excerpt": "Starcraft 2 Beginner's Guide (roach build order) . Let's learn a very easy beginner friendly zerg build order for Starcraft 2. This is a very powerful but also very easy build order (relatively at least haha) to execute for new players! Hope you learn a lot and enjoy the video!  Learn Starcraft 2: EASY",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-2021/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-2021/",
+      "originalUrl": "https://youtube.com/watch?v=IdLoHTiVJ4o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IdLoHTiVJ4o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M9S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-04-22T18:58:19-07:00",
+      "heat": 86,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IdLoHTiVJ4o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-terran-build-order-2020.md",
       "title": "Learn Starcraft 2: EASY Beginner Terran Build Order (2020)",
       "excerpt": "Let's learn a very easy beginner friendly terran build order for starcraft 2. This is a very powerful but also very easy build order (relatively at least haha) to execute for new players! Hope to learn a lot and enjoy the video!  Coaching --------------------------------------------------------------------------",
@@ -159,37 +128,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-2021.md",
-      "title": "Learn Starcraft 2: EASY Beginner Zerg Build Order Guide [2021]",
-      "excerpt": "Starcraft 2 Beginner's Guide (roach build order) . Let's learn a very easy beginner friendly zerg build order for Starcraft 2. This is a very powerful but also very easy build order (relatively at least haha) to execute for new players! Hope you learn a lot and enjoy the video!  Learn Starcraft 2: EASY",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-2021/",
-      "originalUrl": "https://youtube.com/watch?v=IdLoHTiVJ4o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IdLoHTiVJ4o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M9S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-04-22T18:58:19-07:00",
-      "heat": 83,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IdLoHTiVJ4o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-terran-build-order-2021.md",
       "title": "Learn Starcraft 2: EASY Beginner Terran Build Order (2021)",
       "excerpt": "Let's learn a very easy beginner friendly terran build order for starcraft 2. This is a very powerful but also very easy build order (relatively at least haha) to execute for new players! Hope to learn a lot and enjoy the video!  Learn Starcraft 2: EASY Beginner Terran Build Order (2021) #TerranBuildOrder",
@@ -203,7 +141,7 @@
         "domain": "hushangcoaching.com"
       },
       "publishedDateTime": "2020-10-09T16:03:01-07:00",
-      "heat": 80,
+      "heat": 81,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/X1g4O2PTOtQ/maxresdefault.jpg",
@@ -242,7 +180,7 @@
         ]
       },
       "publishedDateTime": "2016-09-19T13:46:31-07:00",
-      "heat": 74,
+      "heat": 69,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/dBlNRfFkPdk/maxresdefault.jpg",
@@ -272,7 +210,7 @@
         "domain": "hushangcoaching.com"
       },
       "publishedDateTime": "2020-06-17T16:29:41-07:00",
-      "heat": 70,
+      "heat": 66,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/F_C9Vqv6lFE/maxresdefault.jpg",
@@ -287,36 +225,6 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/winterstarcraft-new-players-guide-to-starcraft-2-beginner-multiplayerchoosing-race.md",
-      "title": "New Player's Guide to Starcraft 2 (Beginner Multiplayer/Choosing Race)",
-      "excerpt": "Starcraft 2 is FREE TO PLAY! I try to show all the things silver league me wishes he had known in 2010!! Important Links (to outside resources): Sc2ReplayStats: https://sc2replaystats.com/ Team Liquid: http://www.teamliquid.net/ Reddit Resources: https://www.reddit.com/r/starcraft/wiki/related_reddits",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-new-players-guide-to-starcraft-2-beginner-multiplayerchoosing-race/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-new-players-guide-to-starcraft-2-beginner-multiplayerchoosing-race/",
-      "originalUrl": "https://youtube.com/watch?v=bLR_DRS8LLU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bLR_DRS8LLU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M53S",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-11-19T09:03:49-08:00",
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bLR_DRS8LLU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
       ]
     },
     {
@@ -348,6 +256,36 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/winterstarcraft-new-players-guide-to-starcraft-2-beginner-multiplayerchoosing-race.md",
+      "title": "New Player's Guide to Starcraft 2 (Beginner Multiplayer/Choosing Race)",
+      "excerpt": "Starcraft 2 is FREE TO PLAY! I try to show all the things silver league me wishes he had known in 2010!! Important Links (to outside resources): Sc2ReplayStats: https://sc2replaystats.com/ Team Liquid: http://www.teamliquid.net/ Reddit Resources: https://www.reddit.com/r/starcraft/wiki/related_reddits",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-new-players-guide-to-starcraft-2-beginner-multiplayerchoosing-race/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-new-players-guide-to-starcraft-2-beginner-multiplayerchoosing-race/",
+      "originalUrl": "https://youtube.com/watch?v=bLR_DRS8LLU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bLR_DRS8LLU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M53S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-11-19T09:03:49-08:00",
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bLR_DRS8LLU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
       ]
     },
     {
@@ -496,7 +434,7 @@
         ]
       },
       "publishedDateTime": "2017-05-19T06:23:58-07:00",
-      "heat": 62,
+      "heat": 61,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/KK4Trit-MvE/maxresdefault.jpg",
@@ -538,7 +476,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2015-11-26T17:00:09-08:00",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/1wcWMqzUQ2k/maxresdefault.jpg",
@@ -1068,6 +1006,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2021.md",
+      "title": "Starcraft 2: EASY Beginner Protoss Build Order Tutorial vs Terran [2021]",
+      "excerpt": "Very powerful protoss build order vs terran. We begin with observers for scouting, blink for helping to defend terran early pressures and then transition into a formidable colossus/chargelot army which should safely get you to the mid-game phase!  0:00 Intro 0:56 Protoss Build Order vs Terran | Opening",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2021/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2021/",
+      "originalUrl": "https://youtube.com/watch?v=XvRoGf3SXRo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XvRoGf3SXRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M41S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-10-02T18:54:21-07:00",
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XvRoGf3SXRo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-terran-vs-terrantvt-build-order-guide-easy-safe-starcraft-2-2020.md",
       "title": "Terran vs Terran(TvT) Build Order Guide - EASY & SAFE [Starcraft 2 2020]",
       "excerpt": "In today's guide/lesson we're looking at how to execute a terran vs terran (tvt) build order. Was supposed to be just the opening but I got a little carried away so you're getting 19 minutes of raw TvT information. Get out your notepads ;)  #BuildOrder #TerranVsTerran #TvT Terran vs Terran(TvT) Build",
@@ -1137,37 +1106,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2021.md",
-      "title": "Starcraft 2: EASY Beginner Protoss Build Order Tutorial vs Terran [2021]",
-      "excerpt": "Very powerful protoss build order vs terran. We begin with observers for scouting, blink for helping to defend terran early pressures and then transition into a formidable colossus/chargelot army which should safely get you to the mid-game phase!  0:00 Intro 0:56 Protoss Build Order vs Terran | Opening",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2021/",
-      "originalUrl": "https://youtube.com/watch?v=XvRoGf3SXRo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XvRoGf3SXRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M41S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-10-02T18:54:21-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XvRoGf3SXRo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-zerg-macro-guide-injects-the-most-important-zerg-lesson-youve-ever-had-starcraft-2.md",
       "title": "Zerg Macro Guide (injects) | The MOST important ZERG lesson you've ever had [Starcraft 2]",
       "excerpt": "This is the most important zerg macro guide you will ever watch! Make sure to watch till the end to get extra tips on maintaining a strong macro cycle without missing a beat!  The MOST important ZERG lesson you've ever had  #zerg #macro #guide #starcraft #sc2  Coaching --------------------------------------------------------------------------",
@@ -1181,7 +1119,7 @@
         "domain": "hushangcoaching.com"
       },
       "publishedDateTime": "2020-07-11T16:09:19-07:00",
-      "heat": 57,
+      "heat": 58,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/5An7RM-NxTk/maxresdefault.jpg",
@@ -1199,23 +1137,31 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020.md",
-      "title": "Learn Starcraft 2: Terran Build Order - EASY & SAFE [Starcraft 2 2020]",
-      "excerpt": "In today's guide/lesson we're looking at how to execute a terran vs terran (tvt) build order. Was supposed to be just the opening but I got a little carried away so you're getting 19 minutes of raw TvT information. Get out your notepads ;)  #BuildOrder #TerranVsTerran #TvT Terran vs Terran(TvT) Build",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020/",
-      "originalUrl": "https://youtube.com/watch?v=CupNHJotqmQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CupNHJotqmQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M42S",
+      "path": "_learning/videos/lowkotv-starcraft-2-co-op-swarming-infested-terran-stukov-guide.md",
+      "title": "StarCraft 2 Co-op: SWARMING INFESTED TERRAN! (Stukov Guide)",
+      "excerpt": "A guide on how to play Stukov and swarm the map with the infested. Subscribe for more videos: http://lowko.tv/youtube More co-op: https://goo.gl/08VRI9  Stukov is an incredibly powerful commander in the co-op version of StarCraft 2. After leveling him up to level 15 I figured out several great unit compositions",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-co-op-swarming-infested-terran-stukov-guide/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-co-op-swarming-infested-terran-stukov-guide/",
+      "originalUrl": "https://youtube.com/watch?v=OwowRArz5Do",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OwowRArz5Do\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M1S",
       "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-12-08T18:09:09-08:00",
-      "heat": 55,
+      "publishedDateTime": "2016-12-16T08:09:20-08:00",
+      "heat": 56,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/CupNHJotqmQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OwowRArz5Do/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1227,6 +1173,44 @@
       "topics": [
         "StarCraft 2",
         "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-guide-spamming-abilities-rapid-fire.md",
+      "title": "StarCraft 2 Guide: SPAMMING Abilities! (Rapid Fire)",
+      "excerpt": "Rapid fire is one of the most useful hotkeys in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Hotkey & Control Groups guide: https://goo.gl/u1zJjv  In this video I explain how to enable rapid fire, and spam abilities in StarCraft 2. The uses for this are very obvious once you start",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-guide-spamming-abilities-rapid-fire/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-guide-spamming-abilities-rapid-fire/",
+      "originalUrl": "https://youtube.com/watch?v=N2dNK-mIWkQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N2dNK-mIWkQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M37S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-01-12T08:03:44-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N2dNK-mIWkQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
       ]
     },
     {
@@ -1292,14 +1276,14 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-guide-spamming-abilities-rapid-fire.md",
-      "title": "StarCraft 2 Guide: SPAMMING Abilities! (Rapid Fire)",
-      "excerpt": "Rapid fire is one of the most useful hotkeys in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Hotkey & Control Groups guide: https://goo.gl/u1zJjv  In this video I explain how to enable rapid fire, and spam abilities in StarCraft 2. The uses for this are very obvious once you start",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-guide-spamming-abilities-rapid-fire/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-guide-spamming-abilities-rapid-fire/",
-      "originalUrl": "https://youtube.com/watch?v=N2dNK-mIWkQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N2dNK-mIWkQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M37S",
+      "path": "_learning/videos/lowkotv-starcraft-2-how-to-improve-efficiently-practice-guide.md",
+      "title": "StarCraft 2: How-to Improve & Efficiently Practice! (Guide)",
+      "excerpt": "Practicing a lot and practicing efficiently are two seperate things. In this video I go over how I improve in StarCraft 2, and how to make the most of your practice time.  The basic idea is to have a certain goal in mind when playing the game. A lot of people complain that they have a hard time laddering",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-how-to-improve-efficiently-practice-guide/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-how-to-improve-efficiently-practice-guide/",
+      "originalUrl": "https://youtube.com/watch?v=QB7axvdu9xo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QB7axvdu9xo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M56S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1312,11 +1296,11 @@
           }
         ]
       },
-      "publishedDateTime": "2017-01-12T08:03:44-08:00",
+      "publishedDateTime": "2015-06-22T06:45:37-07:00",
       "heat": 55,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/N2dNK-mIWkQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/QB7axvdu9xo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1327,6 +1311,37 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-beginner-guide-1-updated-2017.md",
+      "title": "Learn to play Starcraft - Zerg Beginner Guide #1 - Updated (2017)",
+      "excerpt": "We go over the basic mechanics of zerg and show the importance of understanding at least some of what your opponent is doing.  This guide is meant for players with an understanding of the objectives of starcraft but without any strong direction or gameplan, especially for each specific race! -- Watch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-beginner-guide-1-updated-2017/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-beginner-guide-1-updated-2017/",
+      "originalUrl": "https://youtube.com/watch?v=UdFTRsXMG7w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UdFTRsXMG7w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M23S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-11-19T09:09:08-08:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UdFTRsXMG7w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
       ]
     }
   ],

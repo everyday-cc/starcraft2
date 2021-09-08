@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cure-vs-hellrais
 type: video
 length: PT49M50S
 publishedDateTime: 2021-04-19T11:41:16Z
-heat: 62
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iMyg5Il-7eU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "qmG/GMuhq/9xseI9o+mgrus5RhkaNtj5J8583oysWd0XMy5gQGuWIsSFEhnPbAcNEv6rs+0z5W5KPiYVAH8v+uRwWUbdlw0qSnnwiIJJLfFK/Zr3nnlEQQUBUi/gCHCaqvsJnlagbmk4ouTwyGH087QRf4gcqPkuRe7DpjayDP1w4q5hu7ZH8K8lBuPq0ZVE/3XF4mVMZG1D3hXCJbcTJVapM4Sb48e3wC/89/QgMrumoui95P+dm6rlsHkj4/opFkVPbK9tkwL+aUHRbv2NLlptrT6enKCZffWO1J1f4lcqjmRbfyxjPjVUy4XpGEOfHKU7Sy8/osM8xZx6nyWSXYdcsgAWrc7dVCSo1d4XkxSH5hO/Q47nNrSfO7YbV0+Mf8ZJZPA9UMFxbb4gIqn0ThXNwihjIMBtB0B810adNnLv/VrLnlIXlD1HLmQjYuG6;D94+c4qImOCZ9/010rPJSA=="
+secured: "XWRVyKyesvUF6y1vykGYt2uqJU5oOaSDDt/xc76tUtB68sLmPpz9xcG5uL7B9b5xhHR6EaQRg7cvC1CsYDigrR06oug6PJRHe+bC5iu/d+AU18ozeKn8j4QoPSnZxdDbTaEQjGqP9Y9KpmnQ50RhKtlfsxzFsEI23HywOcuGwLI+i8WeoaG7CwaykBYaC4hbibpd6+X6im5QGe2er7bur0n5LcCGzL8WyHPJe8o47Gzqi4e3/5F4TJdliFkmZDsv2WVmsyYYPGZ3r3QwZDDPL/3UTTci4Y2CKDwDouAhsCQIpBJCrkNpyZk23lQRRyJs7pypn2FpNuxpYAWfiHJSTwlGXPaHOEfR/xYTZ61wol6s0YzFnpRQB70B3reRONYxzE0nAet975YJaaYNTMeVVEh3opliRzrOB46fMwF5z5rGkb35liXaysUnfrr0jTz+;re78Y8dxgr0fVRBPiY0pAA=="
 ---
 

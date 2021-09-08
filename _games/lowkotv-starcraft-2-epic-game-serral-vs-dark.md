@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-serral
 type: video
 length: PT26M43S
 publishedDateTime: 2021-01-08T12:18:07Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vD6JmIVTOXo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Kh49iMFNcUObdZiDrhn9S8CB/dEDqbjYFJYcPDiktopKH40vhGmLpRh6Sez5R9pDwvfbhXZZUDvbDBLNgqCMqsZLSMBEWIyXGzUCP+11gEnhziGcAASiu7T4s3WrIyADn43vEZSgw7EL2idIvNkr8z5QIG0t50zB5/H205ID7pApOfM2/qKf+Gg2aIem5bTwxrZkq/lQUXrjkSVEIw4kIwU/AkOc8mL9OLHSZR4lzDhCqOe4mCLnAdigAkmZYRgnIfSOKt2h/SycHYi7wMxHSMMSlVG8nPSaxVIffcdbxyy0HlrJvLZU+mVq0Rp85S1BPbVqlgtBpKp8V3xdv/hv6cqy6XapKMPf4fsgtd4UnZfLQUbpThvO+sNBU+VUd6W3lg3iAO3/bF5Ahzw/f2Cor/9v9tegn0234v/sVCR6ErM=;a4AwPolA14L2e6MgQBgBoA=="
+secured: "Igx973WtZgAh6BOQreEwRCNW4Vlr+llQ++LbIGyFxvxlMWyryJKOINLRQX6xNlZpGsReC7cd7DVJz8hn0drOkkagCloMti/Dzf0dFszhxehl5TFJVE0Sq289ZtmWTMatAfvQ3QfMJ0g1UxeRnRs+H/xxguU4hYKslveZXVDSy2uInjYMe9A87j805nFafiqpeeDneeta5ArOwhMwnLW0BSjub9egCK4XEORegPUsMsDPKDdgVvm8Smmap4jrfwSmN7PADjsv8AMziqdkyixp85B2plZl99ZQnTniKGpnjJAZt4PaVgN4HtaKcWKM52Kr2K5j/FjyNP3T+D5hraJEWh6B3f7GsntNVf/zerNKY+fQJog8WKR6KQTRjZBIsthWX9GMn5Rd7g8qBLkP/kjWTybOZnxxwj7N60Xrm7x/l3Q=;LRZyMr4dccWiz9nGuGLEQw=="
 ---
 

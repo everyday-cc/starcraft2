@@ -578,44 +578,6 @@
       "publishedDateTime": "2019-02-27T02:46:15-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-blind-terran-army.md",
-      "title": "StarCraft 2: The BLIND Terran Army!",
-      "excerpt": "All those Terran units need to be fired. Or glasses. One of the two. Subscribe for more videos: http://lowko.tv/youtube Intense micro battles: https://goo.gl/8ofWqN  In this Protoss versus Terran we get quickly into a base trade scenario. The Terran player tries to close out the game as quickly as he",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-blind-terran-army/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-blind-terran-army/",
-      "originalUrl": "https://youtube.com/watch?v=BrERaMwC5fw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BrERaMwC5fw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M35S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BrERaMwC5fw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-07-18T13:23:49-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-cringe-nukes.md",
       "title": "StarCraft 2: The Cringe NUKES!",
       "excerpt": "A very strange Terran vs Terran. Subscribe for more videos: http://lowko.tv/youtube Zerg vs Protoss misdirection: https://goo.gl/ByS50z  In this Gold vs Platinum League Terran vs Terran the player in Blue decides to play a bit of a strange style with Tactical Nukes and bad manner Mules.  Support me on",
@@ -767,6 +729,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-10-11T03:18:51-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-never-ending-push-dark-vs-innovation.md",
+      "title": "StarCraft 2: The NEVER-ENDING Push! (Dark vs INnoVation)",
+      "excerpt": "An insane match of Zerg versus Terran. Subscribe for more videos: http://lowko.tv/youtube Proxy Barracks vs Proxy Barracks: https://goo.gl/Xy5WW8  INnoVation versus Dark. The game doesn't get much better than this. In this match Dark decides to go for an aggressive upgrade based timing attack, however",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-never-ending-push-dark-vs-innovation/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-never-ending-push-dark-vs-innovation/",
+      "originalUrl": "https://youtube.com/watch?v=ZYdGZBhmpF0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZYdGZBhmpF0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZYdGZBhmpF0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-03-11T01:36:50-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-thors-vs-disruptors-innovation-vs-parting.md",

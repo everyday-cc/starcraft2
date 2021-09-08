@@ -64,7 +64,7 @@
       "topics": [
         "StarCraft 2"
       ],
-      "heat": 343,
+      "heat": 269,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/jXxUgCLJWrE/maxresdefault.jpg",
@@ -102,7 +102,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 246,
+      "heat": 237,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/A1Y-pOl4V4Q/maxresdefault.jpg",
@@ -227,44 +227,6 @@
       "publishedDateTime": "2021-09-06T04:06:16-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-darks-amazing-strategic-variety-best-of-5.md",
-      "title": "StarCraft 2: Dark's AMAZING Strategic Variety! (Best-of-5)",
-      "excerpt": "Dark versus HeroMarine in a best-of-5 series of StarCraft 2. It turns out these two pro gamers are incredibly close in skill level.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-amazing-strategic-variety-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-amazing-strategic-variety-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=Zh-5vTuTMfM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zh-5vTuTMfM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT57M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 174,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Zh-5vTuTMfM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-27T04:35:55-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-official-viewer-tournament.md",
       "title": "StarCraft 2: The OFFICIAL Viewer Tournament!",
       "excerpt": "The best games from the first viewer tournament! This video features all the best matches of StarCraft 2 that were played during the \"LowkoTV Viewer Tournament #1\".  00:00:00 Introduction 00:07:32 Game 1 00:17:02 Game 2 00:30:39 Game 3 00:47:38 Game 4 01:00:16 Game 5  01:33:26 Game 6 01:48:26 Game 7",
@@ -375,6 +337,82 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-05-25T02:31:15-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-astreas-late-game-cannon-rush.md",
+      "title": "StarCraft 2: Astrea's LATE GAME Cannon \"Rush\"!",
+      "excerpt": "Solar versus Astrea in a professional match of StarCraft 2. In this Zerg versus Protoss we see a game go the distance. Astrea executes some really cool moves by building a wall close to one of the outer Zerg bases and slowly shooting it down with Disruptors, High Templar and Oracles.  Support my work",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-astreas-late-game-cannon-rush/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-astreas-late-game-cannon-rush/",
+      "originalUrl": "https://youtube.com/watch?v=UtSTzwNOYE0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UtSTzwNOYE0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 144,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UtSTzwNOYE0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-16T03:40:15-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-zest-keeps-cheesing-parting-best-of-5.md",
+      "title": "StarCraft 2: Zest Keeps CHEESING PartinG! (Best-of-5)",
+      "excerpt": "This Protoss versus Protoss in StarCraft 2 is a recent grand finals of the ESL Open Cup Korea. In this best-of-5 series we watch Zest continuously try to cheese out PartinG.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zest-keeps-cheesing-parting-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zest-keeps-cheesing-parting-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=XcK6XiauLdw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XcK6XiauLdw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M39S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 144,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XcK6XiauLdw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-08-07T13:48:38-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-hass-new-eco-cheese-strategy-best-of-5.md",
@@ -606,44 +644,6 @@
       "publishedDateTime": "2021-02-17T04:39:22-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-heromarines-proxy-armory-vs-reynor-best-of-5.md",
-      "title": "StarCraft 2: HeroMarine's PROXY ARMORY vs Reynor! (Best-of-5)",
-      "excerpt": "Best-of-5 series of top level Terran versus Zerg in StarCraft 2 between Reynor and HeroMarine. In this series we see a variety on the same theme from both players, especially in the early game. HeroMarine tries to harass his opponent with Hellions, Banshees, Ravens, Marines, Cyclones and more, where",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heromarines-proxy-armory-vs-reynor-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heromarines-proxy-armory-vs-reynor-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=7R1fp3_7pUo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7R1fp3_7pUo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 116,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7R1fp3_7pUo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-21T03:26:02-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-floor-is-lurkers-cure-vs-rogue.md",
       "title": "StarCraft 2: The Floor Is LURKERS! (Cure vs Rogue)",
       "excerpt": "Best-of-3 series of top-level StarCraft 2 between Rogue and Cure. In this Zerg versus Terran we watch both players execute a variety of strategies as they try to outsmart the opponent.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
@@ -680,6 +680,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-08-17T05:00:43-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-darks-amazing-strategic-variety-best-of-5.md",
+      "title": "StarCraft 2: Dark's AMAZING Strategic Variety! (Best-of-5)",
+      "excerpt": "Dark versus HeroMarine in a best-of-5 series of StarCraft 2. It turns out these two pro gamers are incredibly close in skill level.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-amazing-strategic-variety-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-amazing-strategic-variety-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=Zh-5vTuTMfM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zh-5vTuTMfM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M16S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 114,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Zh-5vTuTMfM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-27T04:35:55-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-marus-maxed-out-sky-terran-best-of-5.md",
@@ -1099,44 +1137,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-13T03:43:54-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-harstems-terran-clown-fiesta.md",
-      "title": "StarCraft 2: Harstem's TERRAN Clown Fiesta!",
-      "excerpt": "Epic game of Terran versus Zerg between Harstem (TheCowboy) and EliteAI. In the pursuit of trying to outsmart the opponent, Harstem decides to go for a super late Battlecruiser into Terran Mech opener while the opponent switches to Muta Ling Bane.  Harstem's channel: https://www.youtube.com/harstem",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-harstems-terran-clown-fiesta/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-harstems-terran-clown-fiesta/",
-      "originalUrl": "https://youtube.com/watch?v=vpb-XhmrAac",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vpb-XhmrAac\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M42S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 93,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vpb-XhmrAac/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-24T03:11:40-07:00"
     }
   ],
   "nextPage": 2

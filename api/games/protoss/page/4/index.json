@@ -4,14 +4,14 @@
   "page": 4,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-top-of-the-line-protoss-vs-terran.md",
-      "title": "StarCraft 2: TOP-OF-THE-LINE Protoss vs Terran!",
-      "excerpt": "A solid best-of-5 series between INnoVation and herO. Subscribe for more videos: http://lowko.tv/youtube Intense Zerg vs Protoss: https://goo.gl/D6Qj6z  In this series there is a clash between two titans. Both players are the statistical rank 1 for their respective races. herO is known as the best Protoss",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-of-the-line-protoss-vs-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-of-the-line-protoss-vs-terran/",
-      "originalUrl": "https://youtube.com/watch?v=9DpFrmdyarU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9DpFrmdyarU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT47M15S",
+      "path": "_games/lowkotv-starcraft-2-tlos-queen-drops-versus-neeb.md",
+      "title": "StarCraft 2: TLO's QUEEN DROPS versus Neeb!",
+      "excerpt": "Best-of-3 series of StarCraft 2 between TLO and Neeb. TLO has always played his own brand of Zerg, and he once again goes for some cool attacks versus Neeb.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-tlos-queen-drops-versus-neeb/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-tlos-queen-drops-versus-neeb/",
+      "originalUrl": "https://youtube.com/watch?v=1KazjH_9jO8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1KazjH_9jO8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M29S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -26,13 +26,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
-        "Protoss"
+        "Protoss",
+        "Zerg"
       ],
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/9DpFrmdyarU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/1KazjH_9jO8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -40,7 +40,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2017-08-05T05:10:07-07:00"
+      "publishedDateTime": "2020-11-23T04:55:04-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-ultralisks-versus-protoss-soo-vs-zest.md",
@@ -436,44 +436,6 @@
       "publishedDateTime": "2018-10-29T05:14:09-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-cannon-rush-cringe.md",
-      "title": "StarCraft 2: Cannon Rush CRINGE!",
-      "excerpt": "Cannon Rushes can be pretty good... Sometimes they simply aren't. Subscribe for more videos: http://lowko.tv/youtube The Crescent Moon rush: https://goo.gl/aqaGPu  A funny match of Silver League Protoss versus Protoss. Rather than transitioning towards other units, one of the players has got his mind",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cannon-rush-cringe/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cannon-rush-cringe/",
-      "originalUrl": "https://youtube.com/watch?v=wms-fczQcNY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wms-fczQcNY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wms-fczQcNY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-11-10T04:29:50-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-crazy-new-map-purity-and-industry-dark-vs-stats.md",
       "title": "StarCraft 2: CRAZY NEW MAP - Purity and Industry! (Dark vs Stats)",
       "excerpt": "Amazing game of Zerg versus Protoss at the highest level of StarCraft 2. Stats is also known as the Shield of Aiur and is one of the most succesful Protoss players of all time. Dark is the current World Champion of StarCraft 2 and as such is obviously amazing at playing Zerg. In this game they face off",
@@ -591,44 +553,6 @@
       "publishedDateTime": "2017-11-29T01:36:31-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-extreme-cannon-rush.md",
-      "title": "StarCraft 2: EXTREME Cannon Rush!",
-      "excerpt": "StarCraft 2 cast of a Platinum League Protoss versus Terran. Subscribe for more videos: http://lowko.tv/youtube Insane Proxy Barracks: https://goo.gl/8m0B4g  Cannon rush seems to be one of the most popular strategies for lower league Protoss players. In this PvT, it is no different. However the Protoss",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-extreme-cannon-rush/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-extreme-cannon-rush/",
-      "originalUrl": "https://youtube.com/watch?v=yE1JixH3jX0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yE1JixH3jX0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M7S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yE1JixH3jX0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-03-15T02:10:46-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-extreme-late-game-terran-vs-protoss.md",
       "title": "StarCraft 2: Extreme Late Game Terran vs Protoss!",
       "excerpt": "An exciting game of professional Terran versus Protoss between Fantasy and Trap. While generally speaking the late game of Zerg vs Protoss and Terran vs Zerg is quite a bit later, seeing Terran versus Protoss go past the 20 minute mark is unusual and creates some very exciting gameplay.  Get more videos",
@@ -705,45 +629,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-12-13T03:47:05-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-incredible-protoss-vs-terran-bo3.md",
-      "title": "StarCraft 2: INCREDIBLE Protoss vs Terran! (Bo3)",
-      "excerpt": "ByuN vs herO in an incredible series of Protoss vs Terran. Subscribe for more videos: http://lowko.tv/youtube More Starcraft 2 casts: https://goo.gl/NG8qAV  In this video I cast a best of three series between two of the world's very best for their respective races. Both players play their standard style.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-protoss-vs-terran-bo3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-incredible-protoss-vs-terran-bo3/",
-      "originalUrl": "https://youtube.com/watch?v=fzBv-rqYZxg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fzBv-rqYZxg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fzBv-rqYZxg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-06-06T04:52:03-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-insane-protoss-micro.md",
@@ -938,6 +823,44 @@
       "publishedDateTime": "2018-07-20T03:13:38-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-probe-rush.md",
+      "title": "StarCraft 2: PROBE RUSH!",
+      "excerpt": "After the Drone rush video... It turns out Protoss can do it too! Subscribe for more videos: http://lowko.tv/youtube Drone Rush: https://goo.gl/8EyX2C  Easily one of the craziest matches of StarCraft 2 I have ever casted. In this match, the Protoss decides to go for a Probe rush. However, it doesn't",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-probe-rush/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-probe-rush/",
+      "originalUrl": "https://youtube.com/watch?v=eM3kT7ScShI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eM3kT7ScShI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M56S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eM3kT7ScShI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-02-17T03:59:58-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-professional-cheese-cannon-rush-vs-proxy-void-rays-stats-vs-zest.md",
       "title": "StarCraft 2: PROFESSIONAL CHEESE - Cannon Rush vs Proxy Void Rays! (Stats vs Zest)",
       "excerpt": "After some great games of Zerg versus Zerg and Terran versus Terran, it is time for Protoss versus Protoss. This is one of the craziest games of high level StarCraft 2 I've seen recently.  Dark vs Serral: https://youtu.be/vD6JmIVTOXo Cure vs ByuN: https://youtu.be/tTX4nFOYqOA  Support my work on Patreon:",
@@ -1128,6 +1051,84 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-09T03:45:25-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serral-vs-neeb.md",
+      "title": "StarCraft 2: Serral vs Neeb!",
+      "excerpt": "Serral versus Neeb. A top-level game of StarCraft 2. Both of these players are incredibly good. Serral, the current World Champion of StarCraft and Neeb, the strongest player from the United States of America and of the very few who actually has a positive win loss ratio against the Finnish Phenom.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-neeb/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-neeb/",
+      "originalUrl": "https://youtube.com/watch?v=8JAIynws5tk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8JAIynws5tk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M9S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8JAIynws5tk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-19T04:06:05-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-so-many-banelings-serral-vs-neeb.md",
+      "title": "StarCraft 2: SO MANY BANELINGS! (Serral vs Neeb)",
+      "excerpt": "A professional best-of-3 series of StarCraft 2 between two channel favourites, Serral and Neeb. Both of these progamers are considered to be amongst the very best in the world. Serral has been considered the number 1 in the world for several years now. Neeb is the rank 1 from the United States of America.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-so-many-banelings-serral-vs-neeb/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-so-many-banelings-serral-vs-neeb/",
+      "originalUrl": "https://youtube.com/watch?v=jT1Uq39lZO8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jT1Uq39lZO8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M28S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jT1Uq39lZO8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-02-13T04:28:56-08:00"
     }
   ],
   "nextPage": 5

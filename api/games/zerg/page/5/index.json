@@ -4,45 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-battlecruisers-vs-mutalisks-reynor-vs-innovation.md",
-      "title": "StarCraft 2: BATTLECRUISERS vs MUTALISKS! (Reynor vs INnoVation)",
-      "excerpt": "Top-level game of professional StarCraft 2 between INnoVation and Reynor. In this game INnoVation starts off with a double Proxy Barracks Terran cheese, however he is forced to transition towards something more defensive after it gets scouted by the Zerg player. He decides to go straight into Battlecruiserrs",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-battlecruisers-vs-mutalisks-reynor-vs-innovation/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-battlecruisers-vs-mutalisks-reynor-vs-innovation/",
-      "originalUrl": "https://youtube.com/watch?v=30hnIXX0SKQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/30hnIXX0SKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M5S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/30hnIXX0SKQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-05T04:43:09-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-cast-highest-level-zerg-vs-terran-byun-vs-dark.md",
       "title": "StarCraft 2 Cast: HIGHEST LEVEL Zerg vs Terran - ByuN vs Dark!",
       "excerpt": "The highest level of Zerg versus Terran that StarCraft 2 has to offer. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/fi5EXG  It has been far too long since I casted games of StarCraft 2: Legacy of the Void. What better way to get back into it than to cast a",
@@ -121,6 +82,44 @@
       "publishedDateTime": "2020-03-23T04:40:11-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-cure-proxy-raxes-dark-twice.md",
+      "title": "StarCraft 2: Cure PROXY RAXES Dark... Twice!",
+      "excerpt": "Professional matches of StarCraft 2 between Dark and Cure. In these games Cure feels particularly cheesy.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cure-proxy-raxes-dark-twice/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cure-proxy-raxes-dark-twice/",
+      "originalUrl": "https://youtube.com/watch?v=bsQZYYFU_hM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bsQZYYFU_hM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bsQZYYFU_hM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-09T02:13:09-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-epic-game-serral-vs-dark.md",
       "title": "StarCraft 2: Epic Game - SERRAL vs DARK!",
       "excerpt": "Amazing game of the highest level in StarCraft 2. In this Zerg versus Zerg between Serral and Dark we see both players taking a distinctly different approach in the ZvZ matchup.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel:",
@@ -157,45 +156,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-08T04:18:07-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-epic-match-disruptors-vs-banelings-reynor-vs-showtime.md",
-      "title": "StarCraft 2: EPIC MATCH - Disruptors vs Banelings! (Reynor vs ShoWTimE)",
-      "excerpt": "Great game of top level professional StarCraft 2 between Reynor and ShoWTimE.  Bly vs Harstem: https://youtu.be/60wtU8hP_mQ  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-match-disruptors-vs-banelings-reynor-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-match-disruptors-vs-banelings-reynor-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=n2aZas1y8v8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n2aZas1y8v8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M46S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/n2aZas1y8v8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-02-13T03:48:01-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-exceptional-zerg-vs-terran.md",
@@ -312,6 +272,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-07-06T03:54:01-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-florencios-roach-whack-a-mole.md",
+      "title": "StarCraft 2: Florencio's ROACH WHACK-A-MOLE!",
+      "excerpt": "Very fun game of Zerg versus Protoss on the StarCraft 2 ladder. In this game Florencio decides to cheese his opponent with multiple proxy Hatcheries, burrowed Roaches and Nydus Worms.  Florencio on Twitch: https://www.twitch.tv/florenciosc  Support my work on Patreon: http://www.patreon.com/lowkotv Become",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-florencios-roach-whack-a-mole/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-florencios-roach-whack-a-mole/",
+      "originalUrl": "https://youtube.com/watch?v=ru_HglKItig",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ru_HglKItig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ru_HglKItig/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-27T02:21:07-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-lurker-creativity-dark-vs-dream.md",
@@ -583,6 +581,45 @@
       "publishedDateTime": "2020-10-13T03:11:16-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-non-stop-protoss-aggression-serral-vs-trap.md",
+      "title": "StarCraft 2: NON-STOP Protoss Aggression! (Serral vs Trap)",
+      "excerpt": "Top level game of Zerg versus Protoss in StarCraft 2 between Serral and Trap. In this match Trap decides to just pile on the pressure with Adepts, Oracles, Archons, 10 Gateways and more.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-non-stop-protoss-aggression-serral-vs-trap/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-non-stop-protoss-aggression-serral-vs-trap/",
+      "originalUrl": "https://youtube.com/watch?v=iEY5iLUuUto",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iEY5iLUuUto\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iEY5iLUuUto/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-05-11T02:59:32-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-nydus-worm-whack-a-mole.md",
       "title": "StarCraft 2: NYDUS WORM Whack-A-Mole!",
       "excerpt": "Nydus Worm whack-a-mole at the highest level of play in StarCraft 2. In this game I cast a game of professional StarCraft 2 between the current World Champion Dark and ShoWTimE.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch:",
@@ -775,6 +812,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-11-23T01:09:07-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serral-masses-ultralisks-vs-zest-zerg-vs-protoss.md",
+      "title": "StarCraft 2: Serral MASSES ULTRALISKS vs Zest?! (Zerg vs Protoss)",
+      "excerpt": "Professional match of StarCraft 2 between Serral and Zest. In this match Zest opens up with what looks like a standard turtle Sky Toss style. However, as he transitions towards a lot of Gateways, Serral is forced to respond and decides to go for Ultralisks. Ultras versus Protoss are incredibly uncommon.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-masses-ultralisks-vs-zest-zerg-vs-protoss/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-masses-ultralisks-vs-zest-zerg-vs-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=eVrNGBt_yeE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eVrNGBt_yeE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M46S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eVrNGBt_yeE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-05-17T03:25:45-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-neeb.md",
@@ -970,44 +1046,6 @@
       "publishedDateTime": "2021-02-23T09:23:49-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-new-highest-ranked-pro-reynor-vs-clem.md",
-      "title": "StarCraft 2: The NEW Highest Ranked Pro! (Reynor vs Clem)",
-      "excerpt": "Clem recently overtook Serral on Aligulac as the highest ranked pro player in StarCraft 2. In this match he goes up against the World Champion Reynor.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-new-highest-ranked-pro-reynor-vs-clem/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-new-highest-ranked-pro-reynor-vs-clem/",
-      "originalUrl": "https://youtube.com/watch?v=X9M0Q_JXrMw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X9M0Q_JXrMw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/X9M0Q_JXrMw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-05-08T04:13:14-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-queen-push-reynor-vs-dream.md",
       "title": "StarCraft 2: THE QUEEN PUSH! (Reynor vs Dream)",
       "excerpt": "Fun best-of-3 series of professional StarCraft 2. In this series of games between Reynor and Dream, we see both players going for a variety of build orders. Dream decides to focus his attention on Hellbat pushes and Battlecruisers, Reynor goes for Roaches, Ravagers and the Queen march.  Get more videos",
@@ -1121,45 +1159,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-02-15T02:45:11-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-warp-prisms-nydus-worms-zest-vs-soo.md",
-      "title": "StarCraft 2: WARP PRISMS & NYDUS WORMS! (Zest vs soO)",
-      "excerpt": "An awesome match of professional StarCraft 2 between Zest and soO. In this game soO decides to try to contain his opponent on just a few bases, using wave after wave after wave of Zerg units to keep the Protoss player from expanding. soO decides to focus on Nydus Worms to keep the Protoss player up the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-warp-prisms-nydus-worms-zest-vs-soo/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-warp-prisms-nydus-worms-zest-vs-soo/",
-      "originalUrl": "https://youtube.com/watch?v=oRPBIb_vIm8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oRPBIb_vIm8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M23S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oRPBIb_vIm8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-03-30T05:01:40-07:00"
     }
   ],
   "nextPage": 6

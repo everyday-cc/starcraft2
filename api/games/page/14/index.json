@@ -4,14 +4,14 @@
   "page": 14,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-nydus-lurkers-in-the-terrans-main.md",
-      "title": "StarCraft 2: NYDUS & LURKERS In The Terran's Main!",
-      "excerpt": "Awesome match of StarCraft 2 between Armani and Dream, two very highly ranked pro players.  Match is from OlimoLeague: https://www.patreon.com/olimoley  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-nydus-lurkers-in-the-terrans-main/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-nydus-lurkers-in-the-terrans-main/",
-      "originalUrl": "https://youtube.com/watch?v=K3QnoQEfNS4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K3QnoQEfNS4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M52S",
+      "path": "_games/lowkotv-starcraft-2-non-stop-terran-aggression.md",
+      "title": "StarCraft 2: NON-STOP Terran Aggression!",
+      "excerpt": "An awesome match before uThermal and Nerchio. Subscribe for more videos: http://lowko.tv/youtube The Crescent Moon Strategy: https://goo.gl/Rs8Qw6  In this game Terran decides to play an incredibly aggressive style. uThermal decides to pile on the aggression and hopes Nerchio crumbles. Nerchio however,",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-non-stop-terran-aggression/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-non-stop-terran-aggression/",
+      "originalUrl": "https://youtube.com/watch?v=TEFIkZlCdbQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TEFIkZlCdbQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -31,7 +31,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/K3QnoQEfNS4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/TEFIkZlCdbQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -39,7 +39,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-12-22T10:21:45-08:00"
+      "publishedDateTime": "2017-04-22T04:08:47-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-nydus-worm-whack-a-mole.md",
@@ -152,44 +152,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-10-03T04:22:02-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-parting-feels-cheesy-best-of-3.md",
-      "title": "StarCraft 2: PartinG Feels CHEESY! (Best-of-3)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between PartinG and Ragnarok. In this particular series PartinG is feeling cheesy as he opens up as aggressively as possible versus his Zerg opponent.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-parting-feels-cheesy-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-parting-feels-cheesy-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=KBeo72SzCBk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KBeo72SzCBk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M40S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KBeo72SzCBk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-04-05T02:51:37-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-phenomenal-terran-vs-protoss.md",
@@ -648,6 +610,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-11-23T01:09:07-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serral-masses-ultralisks-vs-zest-zerg-vs-protoss.md",
+      "title": "StarCraft 2: Serral MASSES ULTRALISKS vs Zest?! (Zerg vs Protoss)",
+      "excerpt": "Professional match of StarCraft 2 between Serral and Zest. In this match Zest opens up with what looks like a standard turtle Sky Toss style. However, as he transitions towards a lot of Gateways, Serral is forced to respond and decides to go for Ultralisks. Ultras versus Protoss are incredibly uncommon.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-masses-ultralisks-vs-zest-zerg-vs-protoss/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-masses-ultralisks-vs-zest-zerg-vs-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=eVrNGBt_yeE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eVrNGBt_yeE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M46S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eVrNGBt_yeE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-05-17T03:25:45-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-neeb.md",

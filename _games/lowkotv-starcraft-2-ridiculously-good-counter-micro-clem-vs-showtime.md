@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-ridiculously-goo
 type: video
 length: PT40M2S
 publishedDateTime: 2021-03-18T11:23:23Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fAtJIkXvh84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "vqObf1J0i5QEyvaMfmwyPuhRqQ3DbtMdxn7xnlMUS26F0T63gdvJL7aeBs/NHU+tYHJkH/hV+7lbAD4oKcjAnBVHzHhDQ+Sq4syZOyq0g0qrRabLorhPUGD+Nz7USxAW31yi0zqiUkFt2jB19LeL0DIYAb7YacZ4bZaimyhtaQEDQsFg8ujelhm/NedSLbdc/noNyRVXqd3VBIL9XkI208HsYMyL5MBAen4GzIYDEogY7IAWyyUvM7byBgAg7Nno5aG0COU1T8aXUjInTjwUr4VXmTclsAIko/0Dz+JtzyJIpwId+56H8p2FWs8oAK3ZH6k2A13IkW9B+JaSkt/z6CxxaMoFR2KO/VCRBddLMHm0RGani89ZQbIK44wgIjuDXnWSLfqlQJJ4EOiENZKoLZFfGbSyihFknledLAqkEkI=;NVPXfqJKfoJJPnvs8hCuWg=="
+secured: "wwdhzV5XuDWAy+BGKL36+pSFm4mSDe6bACI3etfOXOWoMl5yrNOskXzm092ceeAFzh+mba3VLexighI/1Ncso5BC0IqQz40U63apn0yjp4Cz2eo8dtqsK6FAbQSPm88NqbnKGh7EDkNpR6xDi8/b8UXMkSLKpGUv0gyd3FYaVG95FPjpgv5p2epfbcIlGyk/WQ6SOZv3Ypt2+CACfnim49eJ5iJkvETIrFHiP97KLpHbtKgoORaietG9qE7yRtZ620fZpb0c5XossGSiFMAEq4Olcjw6QLnWC3kWdbJXOcHsB3CZqKpxjXeD15+13h7VJXnNyE2WN1LB/FNcPq5SdG1p6bcGl0c7a7IJaRIQaY0rA0+gnacF2yOtyx9kyKBqLtaNbpus2U0X66BFRIU3TphVFkLWtKZl/SkPA75u6+8=;xF5qSxnW4V+8hWg+EHX54w=="
 ---
 

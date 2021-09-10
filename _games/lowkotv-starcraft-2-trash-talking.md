@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=VouAQJwx9k8
 type: video
 length: PT19M3S
 publishedDateTime: 2020-01-24T22:28:17Z
-heat: 73
+heat: 80
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VouAQJwx9k8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Akd6B++akRMlftbqIoZ2oj/RwCAw7c3tKicoL8ouZuEldXZBUdBHehB5bXKjf3dsJ0PafPVZtPX/dp8NpNXpK306ECqUiLGvN19ieHd7z0UnBwuxVSB67SO/0lJyC0rdkf9LBX8XAthvFGygxuKcvrsJl76dASrMgY1RP/ocKQCy2f7ZN3zxdtuzp01idLu3wxlVL/o2kGa73s+sCGEIIR63wNrGtFIWCqRiku84aG4FeZguAU2vNYwt/z1IrhA9LtZTIdPsOTNRsxfBBsRv0ewccHiyXCEO7W5gDBmQSO8Yhc1GcdiZiCuinQcSI1535quAEV9PX32ER9NbKr4Nh3gmruPlx5KKsxRhZCgiSpIJ/TR9ZNBk9EfmEPrynTznO3uGIHhPqjT3TV7UfH31AvXjagnzo5lifMgVKkG7/CxXoFBVCcIB2H+fScEHUhLk;VNbRRD4on1cmCRPG2gq1tg=="
+secured: "7yJ+IyH4ZwjkJzLwUFdeXk6M8Cw6XSLwaKl79F9qBWZrNPoqkQcGp/8HWfHRyHRpUsr+ebfyu4xaQbzG2XwKRUxZyoj4bkCNSfoHr5BvCXY2mCNYTxpVsv77OnVdwYKXiACyr3M3r01f7W1IKhNc9sV2pOkhm/44tMDjDXxsU96wscj2i6h7jMvxoT7HCD/+CCfUKcRQ2YmWC3/JaaRnT56soLQbPV4PNV/iUTvh3afraxEG5B5kxoiB935LS04BJCx0Ao7tZql6y83Y4wpoIVOYrfxtBPL6Shg4n47qW6EdXUqmK9zGoioopf2zUrLyhYP4KxVp6TVcaJFIWCKUPxYtwoEZK0wTMq6xCcPdLg75jiE1FwgZ2DLQId8a5QpdSmiVSE06HQbqosheZSRRcQsoHon47QyS62QAw3IDYTix7188KU64UD/Qgo2i9SnL;fKWYRizrp1VcDzhGLG4sBA=="
 ---
 

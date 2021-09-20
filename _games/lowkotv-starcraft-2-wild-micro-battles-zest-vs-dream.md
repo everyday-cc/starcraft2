@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-wild-micro-battl
 type: video
 length: PT32M14S
 publishedDateTime: 2020-11-05T10:56:07Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6GWgvx0wfhg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 800
     isCached: true
 
-secured: "21a1xlb8AtZIlYu+zyrY/ej59bIKG6FWpQ41dgWs+ZoH47EJTc21Y2mwlrggWqxpvY1LohwFoAk7dL8aHsTecXlr3GvkepisgifVUhU99ZloQ65bgzB18ZQtH8FfoyeF2JQtm88iEaQkwvpTkcbbUfBfhD4P+ChFA6TahPf+x8VLywb5DqI/1DgsWLwPFK7zJePXpKVoZzxOP7HGSYTFqJP2hDV8Jcjw5lIAosbNNyA07JBqkJ7FavV+E3Ch/2ZXAb5mGTNtHIiYPWS2SzzV9btfLu2zm1dDrLJjkUAClgKy/wjpuGKkMhwc+5hVvHPRbTKdAvfBJyMEVhitEeHSXqlkjtJYpX+lmsDFlkd+A3W6bFv9XBHAMbRVOI2KZFwEteshZ0ATsbFXyLUUL81ceLgk6rPRcR/cn8NL5fOTJrY=;dny8k6D4R0g7qxwBbmDiKg=="
+secured: "Bvo1F2k32Kc5UsaktLVeDre29891PKCFWsG7r4zRVWL1BO/kXvSGEJPfZJuDWk5h3sEa1NnS/dOg3XChckP7MdarMHzEQEbbb4SqztmmCQdK48Z46mqz7Pu9rKbo2oEGzaTBN3V0L26GeAcgpb3hHgwIroOzSSMWwPQjR0OqOsD3BgSlUxIBJGN9Tn5hjvLiaxczoIW559moIKgDM7/aKq7j9j5TQVFq+7S23GhWE9Q9tREq8ZVj9QWwYf24+GoqZzBsUMC27AgWyXlyi8+XQCC3H2Nx2fkctFF+1rhGe161nakXrQwWPa7B/XSFmrW4y2Kf/DYW66JWbqNxqE171v2w5pCg9YAFfpbF0chy9XobMaNTsouUr48hme821zNhv3rcd7V3ft4jwJwj9icX9myET7msBi0jIVznyZPE0Bk=;hrwpmKdaTCAgOZ3cZOZdmg=="
 ---
 

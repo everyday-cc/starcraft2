@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=QeOTVuIH1Cc
 type: video
 length: PT1H5M37S
 publishedDateTime: 2019-11-13T09:56:14Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QeOTVuIH1Cc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Oj2kXIkDa2r8H/w3OsSuxW5yMZMw1306KwvFlxiOYnXaqbmwiXBymmsylt8S4ad0FIIF1viqdfN0dzNVcG/FmwVj2ZH5Cfe8UYlC1UkynRVR2fwVAK5WzgIgdRfdSNDftNF6qMaHzxo/z6wN/L8d+xfx4BfnniRRe2491zFoQykmb+W+3pROumQ5nyAi7JKvj/BRo0mgv6DIycb9ckZXorU1v3oD7YnimKumrc0exThOJFUh58vzZNdxnMh5dZF1N5izINFl2+Ns8D0++ffq86mqjDttzID/CgGlnlLj7BR1rtpcm0DkzOP06Rtlxa81xd2/UV73rgRGsFNTB6QEtEFfYC1xGOWY1ri4tJ2zIKLBAy335XGJt4PXvLsE4xKaVUOhAVqLbZkDtDX9Fa/MQwmBBdt48bQnRZeKIQ3KFLz3OFWcjEQ/roM+KeUp+WIS;DR3Uo0m3v0xh41Zeyi9tMQ=="
+secured: "RzzsSNEXlfOE1io17VslGcBV1/sXmPtAN/UK7GlOB4iwRkCYyhdr1LgAZ8tUpvDMMKmD/BX3ttjOxicp7U80mU8LMc4VoHA9Ek6L6LPlisLzf2cmmM5DtQQFTyAjIOg61Ok+GhW4d5JhPxvK1Ep0N6ViJwrXgExj12H1AvTSJdxcOAw9p0yq7psB21hy8oHAuGokRa5vkpc2oHr8s4GlfdJ/s2edEw2rIPjpjV2OMhvQ2SgWDtiFhJ68ZHNQsXQDbI51CNadvkWPbyN6u63/RQ5IiyCjsxK5LvJ5Flb9VWjyl8ouhIKc7GU7uq641yHuadzuzsUN70FGfP0uy9SLE76v2fafAB5FSDd/uUPvMg3rCc1/6CMWEntLQrucRE3yS06A6ZWCDa8Y7KwhT567KcgWuK5k/XLnbSxUeS1/ZVdjkfBKSFNgiYuFA2xbrx2t;XrTMrjBx+3K8uYlGR1+0NA=="
 ---
 

@@ -1,0 +1,30 @@
+---
+title: "TvZ Mech Style - Coaching D3"
+excerpt: "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig"
+originalUrl: https://youtube.com/watch?v=33HPyKp_rlA
+type: video
+price: Free
+length: PT1H6M57S
+publishedDateTime: 2019-08-23T16:00:01Z
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/33HPyKp_rlA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: PiG
+  domain: youtube.com
+
+topics:
+  - StarCraft 2
+  - Terran
+  - Zerg
+
+images:
+  - url: https://i.ytimg.com/vi/33HPyKp_rlA/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "E5vq7KGIZmlTsMKuabtnWllLG3gYz1mSeX2RoPbztv761J+8mL4ngejc6RL/rzQy+fSzndABoGA25xQHbJN7nyagnIxFUd7EP7+xKD3Cfz6NQww5TRzDm8gUmVHRfhhB0AxjpZAbmGnZecqHWTvDy35KZ3aBNE5AvscDK846/aa/Ff6syoFUULVVM17HiNo08q+HWQzyxml0Skz+z1Ln+eviv49A15kKW5sryJo50qg36thXLjEmYut7S86NC0ZL1ljZtVPUCGzQxdxDdDKv6ZK1TPo/Oloh3n9SuxZMu7GNWUiKoihR5DoNXRjMeZGZkPniep8ogL8mf2cn8xTbNMF9T5NIEb68aLUnw5g327C8Q0t2ZO6tVl9ptrucBam3WWCQnwvJZkWC565NKWL1Xg==;43C5tF9WkYg/2amMxgKXyg=="
+---
+

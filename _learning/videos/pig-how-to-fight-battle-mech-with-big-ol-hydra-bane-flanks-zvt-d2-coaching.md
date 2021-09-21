@@ -1,0 +1,28 @@
+---
+title: "How to fight Battle Mech with big ol’ Hydra bane flanks - ZvT D2 coaching"
+excerpt: "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig"
+originalUrl: https://youtube.com/watch?v=wGiDFlBPuUY
+type: video
+price: Free
+length: PT1H12M7S
+publishedDateTime: 2019-08-31T16:00:08Z
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wGiDFlBPuUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: PiG
+  domain: youtube.com
+
+topics:
+  - StarCraft 2
+
+images:
+  - url: https://i.ytimg.com/vi/wGiDFlBPuUY/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "YQXrveVLYb4lmSGWKo1pXWHMUydwL8wGGiw3iayMmMz4TR3PjztL86HFTWOq4IihmbLhD9ch/UnvwvYR3KgMzZ7Xo+eVzDxCUn4v3tDmjRWkUCt/7XNqi6qsv32b/DeO/0OBt+v8ie6YDDgxCZckNZj/zhIyBBwK8gYFeASvf7r3DXxilgQHS13jrsjXpsnfgJwZ8VoOn5TswoCjG0H+eCrW9g08OvzILuN82RWr4kYgX1n9BN/sJrcXiDAIb5mx9CQ17lmCcX/c0njKv0LmuT3gt/tV4nnD19Ib9C4rOdaTpoO937WoHMdA80ClMhPSfr8Ds92QLpEDmsxmA31Sw9aQHpl39BdKQeuW88Zgy/3fRjRvizIx38of5Os3pBg/gjxRT7EtmqAZiq7n4dXn4Q==;8wIZj41FmhaNw3aEnF8NuA=="
+---
+

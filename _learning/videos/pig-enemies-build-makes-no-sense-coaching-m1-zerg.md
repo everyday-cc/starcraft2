@@ -1,0 +1,29 @@
+---
+title: "Enemies Build Makes No Sense!? | Coaching M1 Zerg"
+excerpt: "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig"
+originalUrl: https://youtube.com/watch?v=tOJPQpZBT7g
+type: video
+price: Free
+length: PT1H12M47S
+publishedDateTime: 2020-06-30T16:00:21Z
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tOJPQpZBT7g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: PiG
+  domain: youtube.com
+
+topics:
+  - StarCraft 2
+  - Zerg
+
+images:
+  - url: https://i.ytimg.com/vi/tOJPQpZBT7g/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "mCG4Gl17YiVzKQpkmC5SaW8/sPhLa4DeLsM91a0dw6jE/liSO/VKimeU6CduVhK9TSFM26Fq6fIJnQ5lCzMfBn8Exrqeot+WFRHb75gk38Im5vY+VYaLsL216nXckwkiBYs9To7TwR7SdKtc2zHcvKlFVpEepGbnIfa+gTIQPj0dOcEG0fKEwHbDprFIQTLAW0IgFb1cHHAk/Zuzgk3olF7rxpnOWmmnBsTs1whViq2HBcwbsbU4y6cJxkMHJ/4vDphc54yrMESM2T2Ys2FQt9N43Fpe5JxSH0JZZ+pFNAKGVF3QVOs6DcJv5rbvkatFJW6WhebPHft0Hs1CDUiDLkb82CudOeMD1WM4f8oxu7qQwgm5jCx/IZzgYNd8cCz0tQggufYLvmy2UH+19LOa+w==;zh8BwWtgIQjhUmG3uECUFw=="
+---
+

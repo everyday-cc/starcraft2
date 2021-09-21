@@ -1,0 +1,27 @@
+---
+title: "War Boys vs Perverlords - Peeping Tom Liquid Reign ICYFAR G1"
+excerpt: "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to gain world domination! UH, i mean, as much map vision as possible!  CURRENT LIQUID REIGN ICYFAR CHALLENGE: \"All your bases are belong to us” - Send in your best basetrades! - During"
+originalUrl: https://youtube.com/watch?v=fhMFPIiYmWY
+type: video
+length: PT16M31S
+publishedDateTime: 2021-06-01T12:46:41Z
+heat: 58
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fhMFPIiYmWY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: PiG
+  domain: youtube.com
+
+topics:
+  - StarCraft 2
+
+images:
+  - url: https://i.ytimg.com/vi/fhMFPIiYmWY/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "mp/GLuyvnbEfj265jLdLVeYQVZNKcQjRkikpvpx8pRRNkm3pBxZlXXBjGbpfzkze4Qa54NOsV4ByZq7Se9YCtn85jGVLbTQadHdLdu0KDEJxI3Im1DjRBzcGAl465DE3nxWWr5krAOvE+iG2WXTayZ/CFXRXdFr3PJ6JOOhjZ5RUY3xrzq7Anq1GATZ2On4G890ODt9hyJ2Yej4sK1SpMWkBeKZdvfwgZCLdJjdqyNOYp9kp1LZn7qTV+i+YGtwP8AdE5NxL3xXq4bxb8zwYkzefN5L7mSSM66Ct4LznoOetBwuF0LKwDvZGd4zv3mX1TDaTPNNvGUqfX4s60fDAPiC+HZpGqMhsWSA1HYjyvPSOCBlz9YNDIf6B8CEP8U/WnIoqsdpuoP3dhFMJ9/OB7Q==;PTRHAYqpfw0sKz8WvPoCEQ=="
+---
+

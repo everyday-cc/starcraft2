@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=Y6RoWplR74I
 type: video
 length: PT16M24S
 publishedDateTime: 2019-08-23T10:21:55Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y6RoWplR74I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "TdjUXw0QXwIsXJ2T88uA7Stct1W75SOpKc4xcmRclB5TDhpXvmAtgh4FEoi+M7H4gSY/1J7W8NMLqkdXT++aLsEyOvHYXBnRZ46je9yCsNiep2YV3gvAeWj2wexMtcSfXnBMi+wtPD2hbFzWYIuUXvaEIXJWcDoIL8jpZBmrvquj4Vxl1TBQ7x9eKm7VIdjx0qsCH7KA2JbrZGAn7C19vadhpwf0KWbyuPIIodVl/45/geFGtg72AQmE2qt6LSxkCAGU2Sw4rI6EjbEzBK/lG0ml9dKA7IV62SJcEIAAyqlp75e3oo5Y/u6/2ILD5W9AtxzzXMc3jY6fSGauBVF+WliLklICqAvUBtFjXYv5RqNo5MldRmm7DoN41LaM74UGS4m5FbzuIM0UVTUjRnq+4Q==;HEKXiLDF5uIC2Qd/TXyU6w=="
+secured: "ToskUOAK9Rnod3YjLZS/j+wrs4Qx56Jqup6kTqcCB7pOKPPXP7qdjNqXA7s2sjlWNTBc9E90L8BWeEXbs6YbiBDUReTfV7NVDr4TT2mViThFKC23z0S/wGJ8y9CWFyIGk9cuiaCptFYFwrTYQAdS0V5wLuabYfJm32MwShwUSyRJMbGNhdrkSJjFoe4JpkVslq9LPcm0B0hXldFUJQlyjzaqZ2FvICMjwijF5IvyAqHHJrVcSMA7I33hjEX9dks5n3xAwkCNJDja5pThsVJtD1x8cCroXMuN+q7sz+9S4DmdBXWviSav7s/UlsIgxebZlNN8XWBghwhfFGUKOvF//pE5GIXPSiTlaWjQsQCBOtVJS0nzvnm99P4YKL79gJw6DLe+hSPxsIXOELGmiAf+u+d3u5DgylIAwcqjmx4e1U8=;qkkGDdglJ/Ohf9iAVB4FDQ=="
 ---
 

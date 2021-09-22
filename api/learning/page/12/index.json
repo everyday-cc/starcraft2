@@ -4,805 +4,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_learning/videos/pig-breaking-down-problems-and-fundamental-mechanics-plat-zerg-coaching.md",
-      "title": "Breaking down Problems and Fundamental Mechanics - Plat Zerg Coaching",
-      "excerpt": "Coaching a platinum Zerg player.  -- Watch live at https://www.twitch.tv/x5_pig My NEW HP: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to my Discord: https://discordapp.com/invite/SkhbzCM",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-breaking-down-problems-and-fundamental-mechanics-plat-zerg-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-breaking-down-problems-and-fundamental-mechanics-plat-zerg-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=gBJPF3xvJfw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gBJPF3xvJfw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H24S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-03-24T09:30:17-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gBJPF3xvJfw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-bringing-it-back-to-fundamentals-coaching-tvp-diamond-1.md",
-      "title": "Bringing it back to Fundamentals | Coaching TvP Diamond 1",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-bringing-it-back-to-fundamentals-coaching-tvp-diamond-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-bringing-it-back-to-fundamentals-coaching-tvp-diamond-1/",
-      "originalUrl": "https://youtube.com/watch?v=ud-IuDdZTis",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ud-IuDdZTis\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT51M56S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-04-13T09:00:28-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ud-IuDdZTis/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-bronze-tips-zvp-newbie-stream.md",
-      "title": "Bronze tips! - ZvP - Newbie Stream",
-      "excerpt": "This is a section from my newbie/beginner stream where I analyse a players replay and answer their question. Notes that are shown on screen at some points: https://docs.google.com/document/d/1C87ZA4Zmsx9gaEdbYcDOmJZKe22XzORWQIlZN4AClpI/edit?usp=sharing  -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-bronze-tips-zvp-newbie-stream/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-bronze-tips-zvp-newbie-stream/",
-      "originalUrl": "https://youtube.com/watch?v=XQVBvnqxFKc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XQVBvnqxFKc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M17S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:44:33-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XQVBvnqxFKc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-builds-within-builds-tvp-m2-coaching.md",
-      "title": "Builds within Builds - TvP M2 Coaching",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-builds-within-builds-tvp-m2-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-builds-within-builds-tvp-m2-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=pt4u1kF2IRo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pt4u1kF2IRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H20M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-07-14T19:17:03-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pt4u1kF2IRo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-cheeky-zvt-diamond-3-coaching.md",
-      "title": "CHEEKY ZvT - Diamond 3 Coaching",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-cheeky-zvt-diamond-3-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-cheeky-zvt-diamond-3-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=oyTksViDgnw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oyTksViDgnw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H12M59S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-10-07T09:00:11-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oyTksViDgnw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-cheesing-our-way-to-victory-in-tvp-coaching-diamond-2.md",
-      "title": "Cheesing our way to victory in TvP - Coaching Diamond 2",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-cheesing-our-way-to-victory-in-tvp-coaching-diamond-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-cheesing-our-way-to-victory-in-tvp-coaching-diamond-2/",
-      "originalUrl": "https://youtube.com/watch?v=_wNxiPT6X38",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_wNxiPT6X38\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M5S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-04-21T07:58:26-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_wNxiPT6X38/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-cheesy-terran-learns-macro-tvz-coaching-d2.md",
-      "title": "Cheesy Terran learns macro TvZ - Coaching D2",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-cheesy-terran-learns-macro-tvz-coaching-d2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-cheesy-terran-learns-macro-tvz-coaching-d2/",
-      "originalUrl": "https://youtube.com/watch?v=uTFq0TFVs_k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uTFq0TFVs_k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H14M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-06-12T06:36:21-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uTFq0TFVs_k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-2-base-muta-zvt-defending-hellbat-timing.md",
-      "title": "Coaching 2-base muta ZvT + Defending Hellbat timing",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Love the content a lot? Then please consider becoming a member ;) https://www.youtube.com/channel/UC9OluGthYmZo0vsF9IjicFg/join -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-2-base-muta-zvt-defending-hellbat-timing/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-2-base-muta-zvt-defending-hellbat-timing/",
-      "originalUrl": "https://youtube.com/watch?v=VvINTmOQ8Y8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VvINTmOQ8Y8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H7M47S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-04-25T16:12:05-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VvINTmOQ8Y8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-astrea-pro-coaching-4-astrea-pt-2.md",
-      "title": "Coaching Astrea | Pro-Coaching #4 Astrea Pt. 2",
-      "excerpt": "Be sure to follow Astrea! https://www.twitch.tv/zastrea https://twitter.com/SCAstrea   Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-astrea-pro-coaching-4-astrea-pt-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-astrea-pro-coaching-4-astrea-pt-2/",
-      "originalUrl": "https://youtube.com/watch?v=C5lrukbFQRk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C5lrukbFQRk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H21M33S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-12-12T09:00:04-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/C5lrukbFQRk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-blink-pvt-masters-1.md",
-      "title": "Coaching Blink PvT Masters 1",
-      "excerpt": "I coach a Masters 1 Protoss on his PvT play, defending cyclone pushes and controlling the midgame -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-blink-pvt-masters-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-blink-pvt-masters-1/",
-      "originalUrl": "https://youtube.com/watch?v=F0tVlAYyM_o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/F0tVlAYyM_o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H18M31S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:44:06-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/F0tVlAYyM_o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-d1-zvp-big-replay-analysis.md",
-      "title": "Coaching D1 ZvP Big replay analysis!",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-d1-zvp-big-replay-analysis/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-d1-zvp-big-replay-analysis/",
-      "originalUrl": "https://youtube.com/watch?v=ICLOZxgEvmA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ICLOZxgEvmA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H15M10S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-11-15T09:00:14-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ICLOZxgEvmA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-diamond-tvz-long-all-the-details.md",
-      "title": "Coaching Diamond TvZ (Long) - All the Details",
-      "excerpt": "I coach a diamond terran player on the details of his tvz. -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-diamond-tvz-long-all-the-details/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-diamond-tvz-long-all-the-details/",
-      "originalUrl": "https://youtube.com/watch?v=F9RXfs1v4BA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/F9RXfs1v4BA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H22M37S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-04-24T01:45:22-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/F9RXfs1v4BA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-diamond-zerg-defending-drops-and-pressure-zvt.md",
-      "title": "Coaching Diamond Zerg - Defending Drops and Pressure - ZvT",
-      "excerpt": "I coach a diamond zerg player on defending drops and pressure as well as tightening up his build and why he should overprepare a little with his defence so he can spend less APM on his defence, and more on his macro -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-diamond-zerg-defending-drops-and-pressure-zvt/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-diamond-zerg-defending-drops-and-pressure-zvt/",
-      "originalUrl": "https://youtube.com/watch?v=pkFiCVmiHSw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pkFiCVmiHSw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H5M19S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-06-08T03:55:58-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pkFiCVmiHSw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-gm-pvp.md",
-      "title": "Coaching GM PvP",
-      "excerpt": "I coach GM/Masters1 Protoss Veryn on his PvP using a chargelot archon immortal style -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-gm-pvp/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-gm-pvp/",
-      "originalUrl": "https://youtube.com/watch?v=bnMWltBZvHk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bnMWltBZvHk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H4M31S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-09-15T19:33:58-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bnMWltBZvHk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-gm-random-on-setting-up-and-performing-at-lan.md",
-      "title": "Coaching GM Random on Setting up and Performing at LAN",
-      "excerpt": "I coach a GM Random player on how to play the best possible at a LAN including getting his settings and hotkeys right and then -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-gm-random-on-setting-up-and-performing-at-lan/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-gm-random-on-setting-up-and-performing-at-lan/",
-      "originalUrl": "https://youtube.com/watch?v=YuNlzbmcD0M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YuNlzbmcD0M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M49S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-05-11T02:13:22-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YuNlzbmcD0M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-gm-random-on-zvp-hydra-ling-bane.md",
-      "title": "Coaching GM Random on ZvP Hydra-ling-bane",
-      "excerpt": "I coach a GM Random player on how to improve his Hydra-ling-bane ZvP -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-gm-random-on-zvp-hydra-ling-bane/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-gm-random-on-zvp-hydra-ling-bane/",
-      "originalUrl": "https://youtube.com/watch?v=t8dwI-wsC0o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t8dwI-wsC0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M1S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-05-11T02:13:22-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/t8dwI-wsC0o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-gm-zerg-vs-mech.md",
-      "title": "Coaching GM Zerg vs Mech",
-      "excerpt": "I coach EU Pro Risky who was looking for direction after feeling very lost vs mech. -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-gm-zerg-vs-mech/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-gm-zerg-vs-mech/",
-      "originalUrl": "https://youtube.com/watch?v=EyXYpDj59cY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EyXYpDj59cY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M43S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:42:45-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EyXYpDj59cY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-gm-zvp-and-zvt-vision-clear-plans-and-decisive-rules.md",
-      "title": "Coaching GM ZvP and ZvT - Vision, Clear Plans and decisive Rules",
-      "excerpt": "Coaching Tambi on some ZvP and ZvT!  -- Watch live at https://www.twitch.tv/x5_pig My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to my Discord: https://discordapp.com/invite/SkhbzCM  My Affiliate Link for the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-gm-zvp-and-zvt-vision-clear-plans-and-decisive-rules/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-gm-zvp-and-zvt-vision-clear-plans-and-decisive-rules/",
-      "originalUrl": "https://youtube.com/watch?v=5nnZbuO0eUM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5nnZbuO0eUM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M9S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-02-04T09:00:12-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5nnZbuO0eUM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-gold-tvz-scouting-and-defending-rushes.md",
-      "title": "Coaching Gold TvZ - Scouting and Defending Rushes",
-      "excerpt": "A gold 2 coaching session where we cover scouting and reacting to aggression in TvZ -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-gold-tvz-scouting-and-defending-rushes/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-gold-tvz-scouting-and-defending-rushes/",
-      "originalUrl": "https://youtube.com/watch?v=9LEnSEb31C8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9LEnSEb31C8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H8M36S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-04-05T22:33:47-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9LEnSEb31C8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-grandmaster-going-proprepping-for-tournaments.md",
-      "title": "Coaching Grandmaster - Going Pro/Prepping for Tournaments",
-      "excerpt": "I coach GM Zerg CalebAracous on taking his play up to the pro level and preparing for tournaments.\r \r Notes: https://docs.google.com/document/d/1F0z17cftqf0r7R4gq9UBJye9I3H1YszhgXBvrMUAscE/edit?usp=sharing -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-grandmaster-going-proprepping-for-tournaments/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-grandmaster-going-proprepping-for-tournaments/",
-      "originalUrl": "https://youtube.com/watch?v=YanpXEN2QVU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YanpXEN2QVU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M43S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:42:45-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YanpXEN2QVU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-master-1-zvt-roach-pressure-into-ling-bane-muta.md",
-      "title": "Coaching Master 1 ZvT - Roach Pressure into Ling Bane Muta",
-      "excerpt": "I coach Tambi, a 5300MMR Zerg on his ZvT, focusing on refining his roach pressure into ling-bane muta. -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-master-1-zvt-roach-pressure-into-ling-bane-muta/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-master-1-zvt-roach-pressure-into-ling-bane-muta/",
-      "originalUrl": "https://youtube.com/watch?v=H4_KOYJDI_k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/H4_KOYJDI_k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M19S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-06-08T03:56:17-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/H4_KOYJDI_k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-masters-zerg-on-battlemech-coaching.md",
-      "title": "Coaching Masters Zerg on Battlemech | Coaching",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-masters-zerg-on-battlemech-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-masters-zerg-on-battlemech-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=Rw5Qvu_4WtA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Rw5Qvu_4WtA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M58S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-02-22T09:00:20-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Rw5Qvu_4WtA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-masters-zvt-roach-based-playstyle-vs-terran.md",
-      "title": "Coaching Masters ZvT - Roach based playstyle vs Terran!",
-      "excerpt": "Coaching my student on how to play with roach/ravager based armies in a ZvT!  -- Watch live at https://www.twitch.tv/x5_pig My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to my Discord: https://discordapp.com/invite/SkhbzCM",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-masters-zvt-roach-based-playstyle-vs-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-masters-zvt-roach-based-playstyle-vs-terran/",
-      "originalUrl": "https://youtube.com/watch?v=SP12IylAGR0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SP12IylAGR0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M40S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-01-25T04:07:20-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SP12IylAGR0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-masters-zvz-stage-2-roach-attack.md",
-      "title": "Coaching Masters  ZvZ Stage 2 Roach Attack",
-      "excerpt": "I coach a masters 1 zerg player on how to develop into stage 2 of the zvz :http://lotv.spawningtool.com/build/52590/ -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-masters-zvz-stage-2-roach-attack/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-masters-zvz-stage-2-roach-attack/",
-      "originalUrl": "https://youtube.com/watch?v=8N3JNCric-I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8N3JNCric-I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H29M31S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:42:45-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8N3JNCric-I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-maynarde-2-1-1-into-solid-tvz-linking-macro-tasks-consistent-build-orders.md",
-      "title": "Coaching Maynarde 2-1-1 into solid TvZ - Linking Macro tasks, Consistent Build Orders",
-      "excerpt": "I coach the dreaded caster Maynarde on defining his TvZ better and better and forming habits that will use our APM and attention more efficiently -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-maynarde-2-1-1-into-solid-tvz-linking-macro-tasks-consistent-build-orders/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-maynarde-2-1-1-into-solid-tvz-linking-macro-tasks-consistent-build-orders/",
-      "originalUrl": "https://youtube.com/watch?v=oPzeLvWsZ0k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oPzeLvWsZ0k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H18M59S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:44:33-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oPzeLvWsZ0k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-mech-defending-all-ins-plat-3-tvz.md",
-      "title": "Coaching MECH + Defending All-ins - Plat 3 TvZ",
-      "excerpt": "I coach on the rarely seen MECH tvz, with a focus on defending aggressive play and some really helpful general advice in the second half of the coaching. -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-mech-defending-all-ins-plat-3-tvz/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-mech-defending-all-ins-plat-3-tvz/",
-      "originalUrl": "https://youtube.com/watch?v=jEq7rJFe-xA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jEq7rJFe-xA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H11M49S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:42:45-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jEq7rJFe-xA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-coaching-neuro-on-zvp-gm-coaching-define-and-refine-all-the-details.md",
       "title": "Coaching Neuro on ZvP! GM Coaching - DEFINE and REFINE all the details",
       "excerpt": "I coach my friend Neuro on his ZvP - he’s a solid GM player who’s had a recent downswing so we help discuss the matchup and how he can define his play in greater detail, and then work on refining the details  -- Watch live at https://www.twitch.tv/x5_pig",
@@ -912,6 +113,802 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qcOItFKxrdg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-plat-tvp-mine-drop-harassment.md",
+      "title": "Coaching Plat TvP - Mine + Drop Harassment",
+      "excerpt": "In this weeks I Cast Your Freakin Awesome Replays players show off the new units and abilities in 4.0  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-plat-tvp-mine-drop-harassment/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-plat-tvp-mine-drop-harassment/",
+      "originalUrl": "https://youtube.com/watch?v=y-Sjb7lzV0k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y-Sjb7lzV0k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M43S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:42:45-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/y-Sjb7lzV0k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-platinum-pvp-pvz.md",
+      "title": "Coaching Platinum PvP + PvZ",
+      "excerpt": "I coach a Platinum/Diamond Protoss helping him adjust to the new patch -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-platinum-pvp-pvz/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-platinum-pvp-pvz/",
+      "originalUrl": "https://youtube.com/watch?v=2EjGb4kHGik",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2EjGb4kHGik\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H8M49S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:42:45-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2EjGb4kHGik/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-protoss-silvergold-league.md",
+      "title": "Coaching Protoss - Silver/Gold League",
+      "excerpt": "I coach a silver/gold protoss -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-protoss-silvergold-league/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-protoss-silvergold-league/",
+      "originalUrl": "https://youtube.com/watch?v=-_rXVijNETM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-_rXVijNETM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H12M20S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-_rXVijNETM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-pvp-1-base-all-in-plat.md",
+      "title": "Coaching PvP - 1 base all-in - Plat",
+      "excerpt": "I coach Barnuckle on how to punish greedy expands in PvP, refining his 1-base all-in -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-pvp-1-base-all-in-plat/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-pvp-1-base-all-in-plat/",
+      "originalUrl": "https://youtube.com/watch?v=lqpVwQ0XOt8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lqpVwQ0XOt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT59M31S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-09-21T03:54:35-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lqpVwQ0XOt8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-pvz-blocking-lings-and-using-chargelots-plat.md",
+      "title": "Coaching PvZ - Blocking lings and using Chargelots - Plat",
+      "excerpt": "I coach a platinum Protoss on keeping his wall secure and using his chargelot army properly throughout the game. -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-pvz-blocking-lings-and-using-chargelots-plat/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-pvz-blocking-lings-and-using-chargelots-plat/",
+      "originalUrl": "https://youtube.com/watch?v=as-FQHkp4BY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/as-FQHkp4BY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H7M19S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-08-31T03:47:29-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/as-FQHkp4BY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-pvz-stats-3-oracle-into-immortal-sentry-push-diamond-2-coaching.md",
+      "title": "Coaching PvZ Stats’ 3 oracle into immortal sentry push - Diamond 2 coaching",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;)    If you wish to support me please consider supporting my patreon: [https://www.patreon.com/PiGSC2](https://www.patreon.com/PiGSC2)    ### Videos don’t appear in your feed and you want to get notified about new uploads? Press the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-pvz-stats-3-oracle-into-immortal-sentry-push-diamond-2-coaching/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-pvz-stats-3-oracle-into-immortal-sentry-push-diamond-2-coaching/",
+      "originalUrl": "https://youtube.com/watch?v=IiepTwljOCQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IiepTwljOCQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H18M35S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-09-19T09:00:05-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IiepTwljOCQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-queene-pt1.md",
+      "title": "Coaching QueenE! - Pt.1",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-queene-pt1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-queene-pt1/",
+      "originalUrl": "https://youtube.com/watch?v=7ni9hoi0Sv4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7ni9hoi0Sv4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H8M4S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-16T10:00:04-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7ni9hoi0Sv4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-rule-of-1-gas-macro-zvt-d3.md",
+      "title": "Coaching Rule of 1-gas macro ZvT - D3",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-rule-of-1-gas-macro-zvt-d3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-rule-of-1-gas-macro-zvt-d3/",
+      "originalUrl": "https://youtube.com/watch?v=mcYR1o7l0t8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mcYR1o7l0t8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H15M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-05-01T11:06:53-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mcYR1o7l0t8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-rushi-on-zvt-diamond1.md",
+      "title": "Coaching Rushi on ZvT - Diamond1",
+      "excerpt": "Coaching Rushi who more or less won this coaching through playing an amateur tournament.  -- Watch live at https://www.twitch.tv/x5_pig My NEW HP: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-rushi-on-zvt-diamond1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-rushi-on-zvt-diamond1/",
+      "originalUrl": "https://youtube.com/watch?v=zwosY5xH6V8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zwosY5xH6V8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H18M42S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-02-27T10:45:37-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zwosY5xH6V8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-session-with-maynarde-coaching-maynarde-december-pt1.md",
+      "title": "Coaching Session with Maynarde! | Coaching Maynarde December Pt1",
+      "excerpt": "Coaching Maynarde again! Part one of this session ^.^  Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads?",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-session-with-maynarde-coaching-maynarde-december-pt1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-session-with-maynarde-coaching-maynarde-december-pt1/",
+      "originalUrl": "https://youtube.com/watch?v=gyAVtcdkISI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gyAVtcdkISI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT51M51S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-01-16T09:00:16-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gyAVtcdkISI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-session-with-maynarde-coaching-maynarde-december-pt2.md",
+      "title": "Coaching Session with Maynarde! | Coaching Maynarde December Pt2",
+      "excerpt": "Coaching Maynarde again! Part two of this session ^.^  Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads?",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-session-with-maynarde-coaching-maynarde-december-pt2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-session-with-maynarde-coaching-maynarde-december-pt2/",
+      "originalUrl": "https://youtube.com/watch?v=8NpAW352ENM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8NpAW352ENM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M36S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-01-20T09:00:04-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8NpAW352ENM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-tells-reaction-lists-and-focus-in-improvement-silver-terran.md",
+      "title": "Coaching - Tells, Reaction lists and focus in improvement - Silver Terran",
+      "excerpt": "I coach a silver terran on scouting tells and reactions as well as how to focus his improvement better -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tells-reaction-lists-and-focus-in-improvement-silver-terran/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tells-reaction-lists-and-focus-in-improvement-silver-terran/",
+      "originalUrl": "https://youtube.com/watch?v=xXJ0OrT_IJU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xXJ0OrT_IJU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H3M1S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-06-04T22:59:25-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xXJ0OrT_IJU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-tvp-diamond-league.md",
+      "title": "Coaching TvP Diamond League",
+      "excerpt": "I coach a Diamond Terran on TvP -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvp-diamond-league/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvp-diamond-league/",
+      "originalUrl": "https://youtube.com/watch?v=Zw9nWKgSe_U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zw9nWKgSe_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H6M13S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-05-07T22:14:13-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Zw9nWKgSe_U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-tvp-micro-spreading-bio-and-using-liberators.md",
+      "title": "Coaching TvP Micro - Spreading Bio and Using Liberators",
+      "excerpt": "I show a student how to micro his bio effectively in TvP, without needing super high apm! -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvp-micro-spreading-bio-and-using-liberators/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvp-micro-spreading-bio-and-using-liberators/",
+      "originalUrl": "https://youtube.com/watch?v=ctTilCjF86M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ctTilCjF86M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-09-12T04:32:13-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ctTilCjF86M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-tvp-solid-tvp-plat-3.md",
+      "title": "Coaching TvP - Solid TvP - Plat 3",
+      "excerpt": "I coach a plat 3 Terran on a solid TvP Build and how to improve, here's the build link: http://lotv.spawningtool.com/build/42910/ -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvp-solid-tvp-plat-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvp-solid-tvp-plat-3/",
+      "originalUrl": "https://youtube.com/watch?v=xhNF3KzPzt0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xhNF3KzPzt0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H1M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-09-21T03:54:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xhNF3KzPzt0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-tvptvz-solving-problems-and-adapting-to-weird-situations.md",
+      "title": "Coaching TvP/TvZ Solving Problems and adapting to weird situations",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos dont appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvptvz-solving-problems-and-adapting-to-weird-situations/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvptvz-solving-problems-and-adapting-to-weird-situations/",
+      "originalUrl": "https://youtube.com/watch?v=eFa--qR6s64",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eFa--qR6s64\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H19M8S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-05-01T08:16:25-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eFa--qR6s64/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-tvt-and-tvp-plat-3-analysing-replays-and-engaging-splash-damage-with-bio-tank.md",
+      "title": "Coaching TvT and TvP Plat 3 - Analysing replays and engaging splash damage with bio tank",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvt-and-tvp-plat-3-analysing-replays-and-engaging-splash-damage-with-bio-tank/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvt-and-tvp-plat-3-analysing-replays-and-engaging-splash-damage-with-bio-tank/",
+      "originalUrl": "https://youtube.com/watch?v=jLXlG7rckD4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jLXlG7rckD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H14M34S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-11-07T09:00:11-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jLXlG7rckD4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-tvt-battle-cruisers.md",
+      "title": "Coaching TvT Battle Cruisers!",
+      "excerpt": "Heyho!  Another Coaching Session with Misspiggy!  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvt-battle-cruisers/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvt-battle-cruisers/",
+      "originalUrl": "https://youtube.com/watch?v=8G6LJ29FMhA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8G6LJ29FMhA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H9M19S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-05-22T22:21:49-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8G6LJ29FMhA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-tvt-diamond-1-overextending-and-transitions.md",
+      "title": "Coaching TvT - Diamond 1 - Overextending and Transitions",
+      "excerpt": "I coach Diamond 1 Terran Utriple on his TvT - focusing on consistent transitions and recognising where he overextends -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvt-diamond-1-overextending-and-transitions/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvt-diamond-1-overextending-and-transitions/",
+      "originalUrl": "https://youtube.com/watch?v=9A031qlACsc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9A031qlACsc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H7M31S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-06-08T03:56:17-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9A031qlACsc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-tvz-2-1-1-micromacro-balance-d3.md",
+      "title": "Coaching TvZ - 2-1-1 + Micro/Macro Balance - D3",
+      "excerpt": "I coach a diamond 3 Terran on his 2-1-1 build order, where to focus his attention, when to look at the fighting and when to look at home -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvz-2-1-1-micromacro-balance-d3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvz-2-1-1-micromacro-balance-d3/",
+      "originalUrl": "https://youtube.com/watch?v=xnIgmUNoBqs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xnIgmUNoBqs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M43S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-08-15T03:29:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xnIgmUNoBqs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-tvz-bbq-party-and-when-to-macro-when-to-micro.md",
+      "title": "Coaching TvZ - BBQ Party and When to Macro, When to Micro",
+      "excerpt": "I coach Vision on the bbq party opening and how to shift his focus from micro into macro at the right times -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvz-bbq-party-and-when-to-macro-when-to-micro/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvz-bbq-party-and-when-to-macro-when-to-micro/",
+      "originalUrl": "https://youtube.com/watch?v=F9Q5wsLDpEw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/F9Q5wsLDpEw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M19S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-09-12T04:32:13-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/F9Q5wsLDpEw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-tvz-defending-early-pool-shenanigans-and-macroing-like-a-beast.md",
+      "title": "Coaching TvZ Defending Early Pool Shenanigans and MACROing like a Beast",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvz-defending-early-pool-shenanigans-and-macroing-like-a-beast/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvz-defending-early-pool-shenanigans-and-macroing-like-a-beast/",
+      "originalUrl": "https://youtube.com/watch?v=fT5hhMz7Gsg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fT5hhMz7Gsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H16M31S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-05-19T17:39:04-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fT5hhMz7Gsg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-tvz-medivacmarine-micro-diamond-3.md",
+      "title": "Coaching TvZ - Medivac+Marine Micro - Diamond 3",
+      "excerpt": "I coach a Terran player on how to micro his marine-medivac, with a focus on manually flying medivacs over marines to allow hot pickups during fights. -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvz-medivacmarine-micro-diamond-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvz-medivacmarine-micro-diamond-3/",
+      "originalUrl": "https://youtube.com/watch?v=zCyHG1RBbag",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zCyHG1RBbag\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M25S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-08-15T03:29:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zCyHG1RBbag/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-winters-zvt-12.md",
+      "title": "Coaching Winter's ZvT 1/2",
+      "excerpt": "I coach popular random GM streamer Winter's ZvT -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-winters-zvt-12/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-winters-zvt-12/",
+      "originalUrl": "https://youtube.com/watch?v=cFNM0HVZmBM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cFNM0HVZmBM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M37S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:42:45-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cFNM0HVZmBM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-winters-zvt-22.md",
+      "title": "Coaching Winter's ZvT! 2/2",
+      "excerpt": "I coach popular streamer Winter on his ZvT! -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-winters-zvt-22/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-winters-zvt-22/",
+      "originalUrl": "https://youtube.com/watch?v=0pvc9pXkzdQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0pvc9pXkzdQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M7S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:42:45-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0pvc9pXkzdQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-zvp-lurker-play.md",
+      "title": "Coaching ZvP Lurker Play",
+      "excerpt": "I coach a diamond zerg on how to hit multiple- angled attacks to allow his lurker pushes to get in position -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-zvp-lurker-play/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-zvp-lurker-play/",
+      "originalUrl": "https://youtube.com/watch?v=5v56JZVgedY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5v56JZVgedY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M31S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:06-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5v56JZVgedY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

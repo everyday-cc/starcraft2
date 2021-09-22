@@ -4,14 +4,14 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/videos/pig-opening-phoenix-in-pvp-coaching-diamond.md",
-      "title": "Opening Phoenix in PvP - Coaching Diamond",
-      "excerpt": "I coach a diamond protoss on refining their phoenix opening in PvP - with a focus on recognising and reacting differently to air or ground play from the enemy.  -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-opening-phoenix-in-pvp-coaching-diamond/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-opening-phoenix-in-pvp-coaching-diamond/",
-      "originalUrl": "https://youtube.com/watch?v=LczC6Jw5q8k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LczC6Jw5q8k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M7S",
+      "path": "_learning/videos/pig-pig-shows-how-to-deal-with-widow-mines-as-zerg-and-protoss-newbie-stream.md",
+      "title": "PiG Shows how to deal with widow mines as Zerg and Protoss - Newbie Stream",
+      "excerpt": "This is a section from my newbie/beginner stream where I analyse a players replay and answer their question. Notes that are shown on screen at some points: https://docs.google.com/document/d/1C87ZA4Zmsx9gaEdbYcDOmJZKe22XzORWQIlZN4AClpI/edit?usp=sharing  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-pig-shows-how-to-deal-with-widow-mines-as-zerg-and-protoss-newbie-stream/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-pig-shows-how-to-deal-with-widow-mines-as-zerg-and-protoss-newbie-stream/",
+      "originalUrl": "https://youtube.com/watch?v=nFigmzM_8Zk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nFigmzM_8Zk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M17S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -20,7 +20,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/LczC6Jw5q8k/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/nFigmzM_8Zk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -31,69 +31,8 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-phoenix-expand-diamond-3-pvp-coaching.md",
-      "title": "Phoenix Expand  - Diamond 3 PvP Coaching!",
-      "excerpt": "I heard you guys like coaching ;)   -- Watch live at https://www.twitch.tv/x5_pig My NEW HP: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to my Discord: https://discordapp.com/invite/SkhbzCM",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-phoenix-expand-diamond-3-pvp-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-phoenix-expand-diamond-3-pvp-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=7fYzMo_gX_o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7fYzMo_gX_o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT57M7S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-03-24T09:30:22-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7fYzMo_gX_o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-pig-plays-adept-pressure-pvz-newbie-stream.md",
-      "title": "PiG Plays Adept Pressure PvZ - Newbie Stream",
-      "excerpt": "This is a highlight from my newbie/beginner stream where I play a PvZ adept opening, focusing on having a clear and simple build order with pressure built in to stop a zergs economy getting out of control. I also talk about learning how to win in the early and midgame stages off an opening before moving",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-pig-plays-adept-pressure-pvz-newbie-stream/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-pig-plays-adept-pressure-pvz-newbie-stream/",
-      "originalUrl": "https://youtube.com/watch?v=rHkom6a2-8Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rHkom6a2-8Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M12S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:44:06-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rHkom6a2-8Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
+        "Protoss",
+        "Zerg"
       ]
     },
     {
@@ -441,6 +380,37 @@
       ]
     },
     {
+      "path": "_learning/videos/pig-starcraft-2-zero-micro-pvt-guide.md",
+      "title": "StarCraft 2 - ZERO MICRO PvT Guide",
+      "excerpt": "This is a solid opening that focuses on extra observers so you have plenty of warning to stop incoming harassment, collosus to stop the stim push, and chargelots and archons to A+Move the Terran 3rd base! … OK admittedly if you mess up the attack on the 3rd base, the game goes longer and you have to",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zero-micro-pvt-guide/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zero-micro-pvt-guide/",
+      "originalUrl": "https://youtube.com/watch?v=WOUnsHxU2pI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WOUnsHxU2pI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M34S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-26T17:56:56-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WOUnsHxU2pI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-switching-from-pure-macro-to-micro-play-coaching-protoss-gold-league.md",
       "title": "Switching from pure macro to micro play - Coaching Protoss Gold League",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -469,6 +439,38 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-the-pig-show-1-tobias-showtime-sieber-is-zerg-still-imba-showtime-talks-lategame-pvz.md",
+      "title": "The PiG Show #1 | Tobias 'Showtime' Sieber - Is Zerg still imba? Showtime talks lategame PvZ",
+      "excerpt": "Be sure to check out Showtimes twitch and social media: https://www.twitch.tv/sc2showtime https://twitter.com/ShoWTimESC2 https://www.instagram.com/showtimesc2/?hl=en  Here is a link to the Neeb vs Serral VOD: https://www.twitch.tv/videos/515417253?t=02h46m28s  Nationwars continues in 4 days (dezember",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-the-pig-show-1-tobias-showtime-sieber-is-zerg-still-imba-showtime-talks-lategame-pvz/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-the-pig-show-1-tobias-showtime-sieber-is-zerg-still-imba-showtime-talks-lategame-pvz/",
+      "originalUrl": "https://youtube.com/watch?v=zIPjBtZiLnA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zIPjBtZiLnA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H37M35S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-12-19T21:06:20-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zIPjBtZiLnA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
       ]
     },
     {

@@ -27,6 +27,7 @@ items:
   - beastyqtsc2-starcraft-2-defending-one-base-proxy-immortals-with-infestors
   - beastyqtsc2-starcraft-2-super-salty-edition-of-mass-infestors
   - beastyqtsc2-starcraft-2-terrans-and-protosses-rise-up
+  - beastyqtsc2-starcraft-2-terran-players-love-winfestors-
   - beastyqtsc2-starcraft-2-last-episode-of-mass-infestors-to-grandmaster
 
 topics:

@@ -33,6 +33,7 @@ items:
   - sc2hl-5-vs-10-supply-28-minute-basetrade-starcraft-2-clem-vs-showtime
   - sc2hl-zoning-nukes-maru-vs-stats-starcraft-2-iem-katowice-2018
   - sc2hl-tense-terran-vs-zerg-starcraft-2-serral-vs-bunny
+  - sc2hl-neural-parasite-engagements-serral-vs-trap-starcraft-2
   - sc2hl-proxy-vs-proxy-maru-vs-innovation-starcraft-2-starleague
   - sc2hl-maru-on-7-bases-starcraft-2-iem-maru-vs-dark
   - sc2hl-500-dead-roaches-starcraft-2-iem-serral-vs-soo

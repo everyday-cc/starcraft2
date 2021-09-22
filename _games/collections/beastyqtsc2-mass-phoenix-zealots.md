@@ -30,7 +30,9 @@ items:
   - beastyqtsc2-starcraft-2-i-am-struggling-at-5100-mmr-mass-zealot-phoenix
   - beastyqtsc2-starcraft-2-maphacker-beastyqt-strikes-again-mass-zealot-phoenix
   - beastyqtsc2-starcraft-2-cannon-rushing-thecannon-rusher-mass-zealot-phoenix
+  - beastyqtsc2-starcraft-2-chicken-calls-me-outchickens-out-
   - beastyqtsc2-starcraft-2-mass-phoenix-vs-terran-all-in
+  - beastyqtsc2-starcraft-2-trash-buildtoxic-qt-strikes-with-vengeance-
   - beastyqtsc2-starcraft-2-last-episode-of-mass-zealots-phoenix
 
 topics:

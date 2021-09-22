@@ -18,6 +18,7 @@ items:
   - beastyqtsc2-starcraft-2-so-many-motherships-yoinked
   - beastyqtsc2-starcraft-2-mass-void-rays-vs-mass-carriers
   - beastyqtsc2-starcraft-2-failed-cheese-hurry-up-or-leave
+  - beastyqtsc2-starcraft-2-salty-noob-calls-me-pig-
   - beastyqtsc2-starcraft-2-mass-void-rays-vs-mass-stalkers
   - beastyqtsc2-chad-raying-people-a-beautiful-starcraft-2-life-story
   - beastyqtsc2-starcraft-2-the-void-ray-gains-with-beastyqt

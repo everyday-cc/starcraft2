@@ -19,6 +19,7 @@ items:
   - beastyqtsc2-starcraft-2-another-salty-protoss-you-played-sh1t
   - beastyqtsc2-starcraft-2-mass-zerg-air-vs-widow-mines-ravens
   - beastyqtsc2-starcraft-2-mass-widow-mine-drops-on-colossus-army
+  - beastyqtsc2-starcraft-2-it-worked-he-thought-i-was-zerg-
   - beastyqtsc2-starcraft-2-the-most-unique-tactic-in-terran-vs-terran
   - beastyqtsc2-starcraft-2-the-best-game-of-the-widow-mine-raven-series
   - beastyqtsc2-starcraft-2-almost-grandmaster-with-widow-mines-ravens
@@ -29,6 +30,7 @@ items:
   - beastyqtsc2-starcraft-2-blowing-up-battlecruisers-with-widow-mines
   - beastyqtsc2-starcraft-2-so-much-pressure-from-a-terran
   - beastyqtsc2-starcraft-2-meeting-maxpax-with-mass-widow-mines-ravens
+  - beastyqtsc2-starcraft-2-stuck-at-5400-5500-mmr-with-the-series-
   - beastyqtsc2-starcraft-2-camping-terran-production-with-widow-mines
   - beastyqtsc2-starcraft-2-protoss-army-gets-obliterated-by-widow-mines
   - beastyqtsc2-starcraft-2-mining-out-the-map-with-mines-ravens

@@ -22,9 +22,10 @@ items:
   - sc2hl-does-he-see-the-nuke-starcraft-2-maru-vs-soo
   - sc2hl-serral-vs-mass-battlecruisers-starcraft-2-iem-2019
   - sc2hl-8-minute-mothership-sos-vs-neeb-gsl-vs-the-world
-  - sc2hl-banelings-vs-planetary-fortress-maru-vs-leenock-starcraft-2
   - sc2hl-battlecruiser-operational-maru-vs-ty-starcraft-2
+  - sc2hl-banelings-vs-planetary-fortress-maru-vs-leenock-starcraft-2
   - sc2hl-neebs-defense-vs-mass-nydus-worm-starcraft-2-neeb-vs-lambo
+  - sc2hl-360-starcraft-2-surround-serral-vs-stats
   - sc2hl-relentless-swarm-hosts-starcraft-2-stats-vs-iasonu
   - sc2hl-epic-tvz-firecake-vs-masa-dreamhack-open
   - sc2hl-the-best-zerg-vs-zerg-ever-starcraft-2-serral-vs-rogue-wcs
@@ -34,12 +35,14 @@ items:
   - sc2hl-tense-terran-vs-zerg-starcraft-2-serral-vs-bunny
   - sc2hl-proxy-vs-proxy-maru-vs-innovation-starcraft-2-starleague
   - sc2hl-maru-on-7-bases-starcraft-2-iem-maru-vs-dark
+  - sc2hl-500-dead-roaches-starcraft-2-iem-serral-vs-soo
   - sc2hl-400-supply-vs-400-supply-starcraft-2-professional-2v2
-  - sc2hl-vipers-abducting-eachother-solar-vs-dark-starcraft-2-iem-katowice-2018
   - sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s
+  - sc2hl-vipers-abducting-eachother-solar-vs-dark-starcraft-2-iem-katowice-2018
   - sc2hl-big-banks-soo-vs-rogue-wcs-global-finals
   - sc2hl-crazy-pvt-patience-vs-bravo-sc2-proleague
   - sc2hl-crazy-pvp-basetrade-showtime-vs-neeb-iem-shanghai
+  - sc2hl-so-many-nukes-in-40-min-game-starcraft-2-serral-vs-innovation
   - sc2hl-battlecruiser-flank-starcraft-2-8-player-ffa
 
 topics:

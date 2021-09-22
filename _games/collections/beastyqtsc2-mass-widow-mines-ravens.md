@@ -15,6 +15,7 @@ items:
   - beastyqtsc2-starcraft-2-brutal-widow-mine-connections-vs-terran
   - beastyqtsc2-starcraft-2-salty-protoss-calls-me-a-fkin-rat
   - beastyqtsc2-starcraft-2-a-viewer-exposed-me-to-the-opponent
+  - beastyqtsc2-starcraft-2-35-command-centers-vs-late-game-zerg
   - beastyqtsc2-starcraft-2-another-salty-protoss-you-played-sh1t
   - beastyqtsc2-starcraft-2-mass-zerg-air-vs-widow-mines-ravens
   - beastyqtsc2-starcraft-2-mass-widow-mine-drops-on-colossus-army

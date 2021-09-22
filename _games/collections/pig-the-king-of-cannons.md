@@ -2,22 +2,34 @@
 title: "The King of Cannons"
 excerpt: "It's much better when you're watching someone else get cannoned in StarCraft 2, isn't it?"
 type: collection
-heat: 53
+heat: 62
 
 provider:
   name: PiG
   domain: youtube.com
 
 items:
+  - pig-whose-ball-is-it-anyway-the-king-of-cannons-1
+  - pig-motorboating-immortal-king-of-cannons-2
+  - pig-but-what-if-they-blind-counter-me-king-of-cannons-ep3
   - pig-the-king-channels-is-his-inner-sewer-mermaid-the-king-of-cannons-4-5-6
+  - pig-i-swear-this-has-never-happened-before-depot-dysfunction-the-king-of-cannons-7
+  - pig-call-the-militia-the-king-of-cannons-8-9
+  - pig-i-will-be-inside-of-you-the-king-of-cannons-10
   - pig-starcraft-2-showtimes-perfect-cannon-rush-defence-king-of-cannons-11
+  - pig-starcraft-2-1-base-carrier-king-of-cannons-12
+  - pig-3-cheeses-in-16-minutes-24-seconds-king-of-cannons-13-starcraft-2
+  - pig-never-expand-never-surrender-king-of-cannons-14
+  - pig-protoss-on-protoss-crime-king-of-cannons-15
+  - pig-the-stuff-zerg-nightmares-are-made-of-kings-of-cannons-16
+  - pig-starcraft-2-simcity-wars-2-games-king-of-cannons-17
 
 topics:
   - StarCraft 2
   - Protoss
 
 images:
-  - url: https://i.ytimg.com/vi/kZLh08S2kyo/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/6LShnUyxhUc/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true

@@ -20,6 +20,7 @@ items:
   - beastyqtsc2-winning-the-impossible-game
   - beastyqtsc2-rage-spamming-pause-before-quitting
   - beastyqtsc2-the-deadliest-four-pronged-terran-attack
+  - beastyqtsc2-farming-80-probes-in-just-about-11-minutes
   - beastyqtsc2-i-ran-into-a-nasty-lurker-trap
   - beastyqtsc2-prophet-beastyqt-100-prediction-rate
   - beastyqtsc2-my-opponent-wishing-me-all-the-bestor-not

@@ -22,6 +22,7 @@ items:
   - beastyqtsc2-chad-raying-people-a-beautiful-starcraft-2-life-story
   - beastyqtsc2-starcraft-2-the-void-ray-gains-with-beastyqt
   - beastyqtsc2-starcraft-2-the-fight-between-the-good-and-the-evil
+  - beastyqtsc2-starcraft-2-how-to-play-vs-this-xd
   - beastyqtsc2-starcraft-2-two-base-mothership-void-ray-rush
   - beastyqtsc2-starcraft-2-combat-shield-clutch-snipe
   - beastyqtsc2-starcraft-2-same-terran-3-games-in-a-row-blind-countered

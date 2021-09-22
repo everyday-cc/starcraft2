@@ -13,10 +13,12 @@ items:
   - beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2
   - beastyqtsc2-starcraft-2-proxy-nexus-warp-in-cannon-rushing-to-grandmaster-episode-3
   - beastyqtsc2-starcraft-2-cannon-rushing-with-the-colossus-support-cannon-rushing-to-grandmaster-episode-5
+  - beastyqtsc2-starcraft-2-colossus-phoenix-vs-terranyikes-cannon-rushing-to-grandmaster-episode-6
   - beastyqtsc2-starcraft-2-cannon-rush-vs-cannon-rush-cannon-rushing-to-grandmaster-episode-7
   - beastyqtsc2-starcraft-2-insane-hold-vs-terran-cannon-rushing-to-grandmaster-episode-8
   - beastyqtsc2-starcraft-2-cannon-rush-into-carriers-vs-terran-cannon-rushing-to-grandmaster-episode-9
   - beastyqtsc2-starcraft-2-where-are-you-going-cannon-rushing-to-grandmaster-episode-10
+  - beastyqtsc2-starcraft-2-juicy-cannon-rushes-quick-wins-cannon-rushing-to-grandmaster-episode-11
 
 topics:
   - StarCraft 2

@@ -17,6 +17,7 @@ items:
   - beastyqtsc2-starcraft-2-one-base-nuke-rush-tvt-n-u-k-e-s-episode-6
   - beastyqtsc2-starcraft-2-one-nuke-to-rule-them-all-n-u-k-e-s-episode-7
   - beastyqtsc2-starcraft-2-oh-my-n-u-k-e-s-episode-8
+  - beastyqtsc2-starcraft-2-split-map-nukesyummy-n-u-k-e-s-episode-9
   - beastyqtsc2-starcraft-2-deleted-n-u-k-e-s-episode-10
 
 topics:

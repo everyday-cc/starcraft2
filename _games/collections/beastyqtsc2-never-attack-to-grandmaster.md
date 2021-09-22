@@ -26,8 +26,10 @@ items:
   - beastyqtsc2-starcraft-2-ghost-with-69-killsnice-never-attack-to-grandmaster
   - beastyqtsc2-starcraft-2-surrendering-with-8000-resources-never-attack-to-grandmaster
   - beastyqtsc2-starcraft-2-running-from-the-protoss-army-to-buy-more-time-never-attack-to-grandmaster
+  - beastyqtsc2-starcraft-2-one-nuke-vs-100-carrier-interceptors-never-attack-to-grandmaster
   - beastyqtsc2-starcraft-2-looking-for-red-dots-is-not-funny-never-attack-to-grandmaster
   - beastyqtsc2-starcraft-2-nuke-on-top-of-the-protoss-army-yes-please-never-attack-to-grandmaster
+  - beastyqtsc2-starcraft-2-emping-the-command-centers-no-scans-never-attack-to-grandmaster
   - beastyqtsc2-starcraft-2-mass-carriers-vs-1-lonely-nuke-boy-never-attack-to-grandmaster
   - beastyqtsc2-starcraft-2-ghost-nuke-vs-an-ultralisk-never-attack-to-grandmaster
   - beastyqtsc2-starcraft-2-fing-monkey-mech-player-never-attack-to-grandmaster

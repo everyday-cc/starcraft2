@@ -15,9 +15,11 @@ items:
   - beastyqtsc2-starcraft-2-cocky-stream-sniper
   - beastyqtsc2-starcraft-2-wtf-mass-sentry-vs-mass-sentry
   - beastyqtsc2-starcraft-2-mass-sentries-vs-broodlords-lurkers
+  - beastyqtsc2-starcraft-2-300-sentries-lost-in-one-game
   - beastyqtsc2-starcraft-2-almost-5000-mmr-with-sentries
   - beastyqtsc2-starcraft-2-speed-prism-sentry-doom-drop
   - beastyqtsc2-starcraft-2-i-got-planetary-fortress-rushed
+  - beastyqtsc2-starcraft-2-mined-out-map-and-400-sentries
   - beastyqtsc2-starcraft-2-deadliest-hallucinated-oracle-you-have-ever-seen
   - beastyqtsc2-starcraft-2-youve-never-seen-this-in-your-life
   - beastyqtsc2-starcraft-2-last-episode-of-mass-sentries

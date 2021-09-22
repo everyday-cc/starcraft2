@@ -1,0 +1,28 @@
+---
+title: "StarCraft 2 - BROOD WAR PvZ IN SC2! | ICYFAR G3 Boomer Builds"
+excerpt: "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they bring back strats from yesteryear (Boomer Builds)! Here’s a fun game of protoss versus zerg completing the challenge in humorous fashion.   NEW ICYFAR CHALLENGE: One-Two Punch."
+originalUrl: https://youtube.com/watch?v=_HxEEkQn3tA
+type: video
+length: PT16M28S
+publishedDateTime: 2021-06-01T12:46:41Z
+heat: 54
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_HxEEkQn3tA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: PiG
+  domain: youtube.com
+
+topics:
+  - StarCraft 2
+  - Protoss
+
+images:
+  - url: https://i.ytimg.com/vi/_HxEEkQn3tA/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "ImEzZUnxcs+JyvoCUo834OPYzL2f9JVw4E7Pk5cf/UTdP11ENCoRaNZcouSHWi/TSkQhykXLKivrduP+xKswn68G2cQ7PUvgU8LKSJUaHDpZveZFnX+gFxIx4W48pwGAqj6SmXWp2eLslTmYoylaRqEO58orCBRi2LajKtdhg7KdviHF/m0QPT7Va1iRHqFxdiAWxijsPBnZRSA90h6st6pfy4lMGGhctqF/daAXD+01IwZ3AaUhkqguUbxqRNTrS5p/T02Oee+JsmBWLOsCeJwoA0Qt23URf/n0SGam+QYfdzkdwHl92hgvzfHxvXQDPqPTW/R8zlO5X5bQ1qibRY3xZWhJfvhEa4I1iQ8HdZXTUVI/0xjykCXyzfPztZ+IwgKiUXkSt0VKcPNU2PXDXw==;o3Sp4qnjm+2uTBc6moGEcQ=="
+---
+

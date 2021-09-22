@@ -2,30 +2,263 @@
 title: "The Florencio Files"
 excerpt: "Welcome to this mystical StarCraft 2 playlist, the one-and-only™ documented archives of the legendary SEWER MERMAID!"
 type: collection
-heat: 64
+heat: 69
 
 provider:
   name: PiG
   domain: youtube.com
 
 items:
+  - pig-starcraft-2-recall-rush-the-florencio-files-1
+  - pig-starcraft-2-micro-god-the-florencio-files-2
+  - pig-starcraft-2-florencio-vs-weedamins-the-florencio-files-3
+  - pig-starcraft-2-florencio-vs-avilo-the-florencio-files-4
+  - pig-starcraft-2-when-both-players-have-nfi-whats-happening-the-florencio-files-5
+  - pig-starcraft-2-florencio-vs-neuro-the-florencio-files-6
+  - pig-starcraft-2-florencios-pulls-out-the-screwdriver-the-florencio-files-7
+  - pig-starcraft-2-oops-i-forgot-to-cancel-the-florencio-files-8
+  - pig-starcraft-2-your-friendly-neighbourhood-florencio-the-florencio-files-9
+  - pig-starcraft-2-florencio-hands-neeb-the-controller-the-florencio-files-10
+  - pig-starcraft-2-the-winners-write-the-history-books-the-florencio-files-11
+  - pig-starcraft-2-proxy-vs-proxy-the-florencio-files-12
+  - pig-starcraft-2-you-sneaky-bastard-the-florencio-files-13
+  - pig-starcraft-2-battery-battle-the-florencio-files-14
+  - pig-starcraft-2-florencio-vs-neuro-insane-match-the-florencio-files-15
+  - pig-starcraft-2-never-prioritise-bm-over-macro-the-florencio-files-16
+  - pig-starcraft-2-neebencio-half-top-pro-half-sewer-mermaid-the-florencio-files-17
+  - pig-starcraft-2-your-viewers-werent-ready-for-this-the-best-episode-yet-the-florencio-files-18
+  - pig-starcraft-2-the-ultimate-turkey-slap-the-florencio-files-19
+  - pig-starcraft-2-a-whole-new-world-the-florencio-files-20
+  - pig-starcraft-2-just-do-this-build-and-win-100-the-florencio-files-21
+  - pig-starcraft-2-florencio-takes-on-a-slavic-witch-the-florencio-files-22
+  - pig-starcraft-2-florencios-apprentice-challenges-the-master-the-florencio-files-23
   - pig-starcraft-2-100-pure-unbridled-lack-of-sportsmanship-the-florencio-files-24
+  - pig-starcraft-2-abathurs-baby-bonus-policy-the-florencio-files-25
+  - pig-starcraft-2-can-sun-tzus-wisdom-stop-the-sewer-mermaid-the-florencio-files-26
+  - pig-starcraft-2-nice-yellow-octopus-tries-to-metagame-the-guac-king-the-florencio-files-27
+  - pig-starcraft-2-game-breaking-recall-exploit-the-florencio-files-28
+  - pig-starcraft-2-recall-is-the-new-manner-mule-the-florencio-files-29
+  - pig-starcraft-2-too-many-disco-balls-no-such-thing-the-florencio-files-30
+  - pig-starcraft-2-your-tears-will-simply-make-him-more-powerful-the-florencio-files-31
+  - pig-starcraft-2-psyche-the-florencio-files-32
+  - pig-starcraft-2-frozen-poopsicles-the-florencio-files-33
+  - pig-starcraft-2-battle-of-the-cheesers-the-florencio-files-34
+  - pig-starcraft-2-battle-for-the-skies-the-florencio-files-35
+  - pig-starcraft-2-i-think-the-games-broken-the-florencio-files-36
+  - pig-starcraft-2-the-probe-in-its-natural-habitat-the-florencio-files-37
+  - pig-starcraft-2-unleashed-back-into-the-wild-the-florencio-files-38
+  - pig-starcraft-2-anyeongs-angry-the-florencio-files-39
+  - pig-starcraft-2-everything-is-a-gimmick-since-forever-with-protoss-the-florencio-files-40
+  - pig-starcraft-2-neeb-finally-loses-his-patience-the-florencio-files-41
+  - pig-starcraft-2-1hp-and-a-dream-the-florencio-files-42
+  - pig-starcraft-2-tantric-recall-the-florencio-files-43
+  - pig-starcraft-2-draw-the-florencio-files-44
+  - pig-starcraft-2-florencio-crossover-episode-encirclement-icyfar-g2
+  - pig-starcraft-2-florencios-pylon-science-the-florencio-files-45
+  - pig-starcraft-2-wtf-who-thinks-to-do-that-the-florencio-files-46
+  - pig-starcraft-2-drip-feeding-your-opponent-hope-the-florencio-files-47
+  - pig-starcraft-2-rat-king-zergling-style-the-florencio-files-48
+  - pig-starcraft-2-probius-maximus-the-florencio-files-49
+  - pig-starcraft-2-wake-up-and-smell-the-sewerage-beastyqt-the-florencio-files-50
   - pig-whats-detection-the-florecenio-files-51
+  - pig-starcraft-2-dont-use-anti-protoss-language-livibee-the-florencio-files-52
+  - pig-starcraft-2-neeb-hogs-the-xbox-controller-the-florencio-files-53
+  - pig-starcraft-2-florencio-faces-off-against-the-cheeky-nydus-sh-the-florencio-files-54
+  - pig-starcraft-2-inside-the-sick-mind-of-a-sewer-mermaid-the-florencio-files-55
+  - pig-starcraft-2-incontrol-vs-florencio-the-florencio-files-56
+  - pig-starcraft-2-oh-i-remember-vsing-you-before-pilipili-the-florencio-files-57
+  - pig-starcraft-2-slowest-pitching-of-a-tent-ever-the-florencio-files-double-trouble-58
+  - pig-starcraft-2-split-florencio-edition-the-florencio-files-59
+  - pig-starcraft-2-coaching-florencio-the-sewer-archon
+  - pig-starcraft-2-refugee-hunters-2v2-with-florencio
+  - pig-starcraft-2-splashgasm-the-florencio-files-60
+  - pig-starcraft-2-revved-up-overlord-the-florencio-files-61
+  - pig-starcraft-2-lets-take-the-kids-to-six-flags-the-florencio-files-62
+  - pig-starcraft-2-the-brown-mile-the-florencio-files-63
+  - pig-starcraft-2-i-like-to-welcome-thieves-into-my-property-the-florencio-files-64
+  - pig-starcraft-2-gg-please-stop-the-florencio-files-65
+  - pig-starcraft-2-the-merry-go-round-of-terran-sorrow-the-florencio-files-66
+  - pig-starcraft-2-salting-the-wounds-florencios-goes-terran-the-florencio-files-67
+  - pig-starcraft-2-slightly-delayed-natural-the-florencio-files-68
+  - pig-starcraft-2-florencios-play-pen-the-florencio-files-69
+  - pig-starcraft-2-florencio-drags-the-faithful-to-an-inner-circle-of-hell-the-florencio-files-70
+  - pig-starcraft-2-florencio-gets-fooled-the-florencio-files-71
+  - pig-starcraft-2-florencio-herds-the-terran-into-his-lair-the-florencio-files-72
+  - pig-starcraft-2-florencio-goes-full-sauron-the-florencio-files-73
+  - pig-starcraft-2-touching-the-tips-the-florencio-files-74
+  - pig-starcraft-2-neebs-proudest-day-as-a-micro-dad-the-florencio-files-75
+  - pig-starcraft-2-florencio-goes-bowling-the-florencio-files-76
+  - pig-starcraft-2-french-peasants-avoid-bath-time-the-florencio-files-77
+  - pig-starcraft-2-florencio-mind-controls-a-zerg-the-florencio-files-78
+  - pig-starcraft-2-what-the-hell-is-this-pig-the-florencio-files-79
+  - pig-starcraft-2-dont-go-in-there-the-florencio-files-80
+  - pig-starcraft-2-the-dutch-rudder-of-doom-the-florencio-files-81
+  - pig-starcraft-2-florencio-hypnotizes-them-into-his-fist-the-florencio-files-82
+  - pig-starcraft-2-donkey-cheese-vs-swiss-cheese-the-florencio-files-83
+  - pig-starcraft-2-attack-of-the-clones-the-florencio-files-84
+  - pig-starcraft-2-you-dont-need-to-show-your-d-mole-to-your-friends-dad-the-florencio-files-85
+  - pig-starcraft-2-whack-a-mole-the-florencio-files-86
+  - pig-starcraft-2-you-cant-land-here-2-brothers-go-to-tentacle-town-florencio-files-87-88
+  - pig-starcraft-2-fine-the-florencio-files-89
+  - pig-starcraft-2-florencios-secret-guac-recipe-revealed-the-florencio-files-90
+  - pig-starcraft-2-surprise-double-prong-explosion-the-florencio-files-91
+  - pig-starcraft-2-can-the-thors-escape-the-maze-the-florencio-files-92
+  - pig-starcraft-2-the-last-place-youll-ever-look-the-florencio-files-93
+  - pig-starcraft-2-saltus-interruptus-the-florencio-files-94
+  - pig-starcraft-2-florencios-blue-cheese-the-florencio-files-95
+  - pig-starcraft-2-thats-how-we-made-you-the-florencio-files-96
+  - pig-starcraft-2-dont-let-the-gremlin-steal-your-acorns-the-florencio-files-97
+  - pig-starcraft-2-dawn-of-the-dumb-the-florencio-files-98
+  - pig-starcraft-2-the-sweet-lullaby-of-the-sewer-mermaid-the-florencio-files-99
+  - pig-starcraft-2-i-wouldnt-trust-this-guy-to-babysit-my-kids-the-florencio-files-100
+  - pig-starcraft-2-chonkiest-medivac-ever-made-the-florencio-files-101
+  - pig-starcraft-2-nine-spore-crawlers-the-florencio-files-102
+  - pig-starcraft-2-rotterdam-vs-florencio-the-florencio-files-103
+  - pig-starcraft-2-warp-jump-to-the-grave-the-florencio-files-104
+  - pig-starcraft-2-breaking-the-seal-the-florencio-files-105
+  - pig-starcraft-2-less-apm-than-a-pocket-watch-the-florencio-files-106
+  - pig-starcraft-2-incels-strike-back-florencio-files-107
+  - pig-starcraft-2-theres-no-such-thing-as-too-many-tempests-florencio-files-108
+  - pig-starcraft-2-salt-in-the-wind-the-florencio-files-109
+  - pig-starcraft-2-broodlord-magic-trick-the-florencio-files-110
+  - pig-starcraft-2-recall-rush-is-back-the-florencio-files-111
+  - pig-starcraft-2-basetrade-101-the-florencio-files-112
+  - pig-starcraft-2-inducing-a-brain-bleed-the-florencio-files-113
+  - pig-starcraft-2-nexus-nuts-the-florencio-files-114
+  - pig-starcraft-2-florencio-learns-to-stutter-step-the-florencio-files-115
+  - pig-starcraft-2-macro-king-florencio-the-florencio-files-116
+  - pig-starcraft-2-ghetto-birds-the-florencio-files-117
+  - pig-starcraft-2-crazed-eagle-the-florencio-files-118-119
+  - pig-starcraft-2-distraction-pylon-the-florencio-files-120
+  - pig-starcraft-2-fake-nexus-or-real-nexus-the-florencio-files-121
+  - pig-starcraft-2-snitches-get-stitches-the-florencio-files-122
+  - pig-starcraft-2-hercules-bc-build-the-florencio-files-123
+  - pig-starcraft-2-will-the-real-sewer-mermaid-please-stand-up-the-florencio-files-124-125
+  - pig-starcraft-2-please-unload-here-the-florencio-files-126
+  - pig-starcraft-2-warping-in-immortals-the-florencio-files-127
+  - pig-starcraft-2-racist-rohana-leads-the-charge-the-florencio-files-128
+  - pig-starcraft-2-so-salty-the-ocean-gets-jealous-the-florencio-files-129
+  - pig-starcraft-2-open-wide-come-inside-the-florencio-files-130
+  - pig-starcraft-2-apocalypse-now-the-florencio-files-131
+  - pig-starcraft-2-every-flying-unit-in-the-game-the-florencio-files-132
+  - pig-starcraft-2-flovid-19-the-florencio-files-133
+  - pig-starcraft-2-failed-cannon-rush-the-florencio-files-134
+  - pig-starcraft-2-open-for-business-the-florencio-files-135
+  - pig-starcraft-2-im-not-mad-the-florencio-files-136
+  - pig-starcraft-2-home-sweet-home-the-florencio-files-137
+  - pig-starcraft-2-peekaboo-nerd-the-florencio-files138
+  - pig-starcraft-2-janice-wont-share-her-bandaids-the-florencio-files-139
+  - pig-starcraft-2-grabbin-zergs-by-the-snatchery-the-florencio-files-140
+  - pig-starcraft-2-mine-your-step-the-florencio-files-141
+  - pig-starcraft-2-geek-squad-science-the-florencio-files-142
+  - pig-starcraft-2-battle-of-the-bastards-the-florencio-files-143
+  - pig-starcraft-2-ad-astra-the-florencio-files-144
+  - pig-starcraft-2-like-lambs-to-the-slaughter-the-florencio-files-145
+  - pig-starcraft-2-big-mommas-house-the-florencio-files-146
+  - pig-starcraft-2-i-bet-you-dont-get-any-pus-the-florencio-files-147
+  - pig-starcraft-2-hide-and-seek-the-florencio-files-148
+  - pig-starcraft-2-sloppy-joes-starcraft-the-florencio-files-149
+  - pig-starcraft-2-demon-of-despair-the-florencio-files-150
+  - pig-starcraft-2-the-anklegrinder-build-the-florencio-files-151
+  - pig-starcraft-2-the-united-sewer-marine-corps-the-florencio-files-152
+  - pig-starcraft-2-who-wants-a-treat-the-florencio-files-153
+  - pig-starcraft-2-dont-fight-the-guy-with-dilated-pupils-the-florencio-files-154
+  - pig-starcraft-2-trumpchads-and-turkey-slaps-the-florencio-files-155
+  - pig-starcraft-2-ghost-in-the-sheets-blood-on-the-streets-the-florencio-files-156
+  - pig-starcraft-2-photo-finish-the-florencio-files-157
+  - pig-starcraft-2-19-minute-tvz-musketeer-transition-the-florencio-files-158
+  - pig-starcraft-2-massive-splash-damage-the-florencio-files-159
+  - pig-starcraft-2-sewer-mermaid-gets-revenge-the-florencio-files-160
+  - pig-starcraft-2-crazy-recall-strategy-the-florencio-files-161
+  - pig-starcraft-2-burrow-mind-games-the-florencio-files-162
+  - pig-starcraft-2-50-kill-immortal-drop-the-florencio-files-163
+  - pig-starcraft-2-offensive-gg-the-florencio-files-164
   - pig-starcraft-2-how-to-beat-turtle-terran-the-florencio-files-165
   - pig-starcraft-2-mass-oracle-lasers-to-the-face-the-florencio-files-166
+  - pig-starcraft-2-proxy-hatch-burrow-cheese-the-florencio-files-167
+  - pig-starcraft-2-ridiculous-widow-mine-bait-florencio-files-168
+  - pig-starcraft-2-ludicrous-zvz-florencio-files-169
   - pig-starcraft-2-zookeeper-florencio-contains-a-simple-terran-player-florencio-files-170
   - pig-starcraft-2-florencio-stole-your-base-florencio-files-171
+  - pig-starcraft-2-sewer-mermaids-epic-minefields-florencio-files-172
+  - pig-starcraft-2-nuking-every-inch-of-the-zerg-base-florencio-files-173
+  - pig-starcraft-2-sneaky-burrowed-swarm-hosts-florencio-files-174
+  - pig-starcraft-2-florencio-the-drone-bbqer-vs-macro-god-florencio-files-175
+  - pig-starcraft-2-next-evolution-of-the-sewer-mermaid-florencio-files-176
+  - pig-starcraft-2-i-made-too-much-mistake-florencio-files-177
+  - pig-starcraft-2-fear-is-the-most-powerful-weapon-florencio-files-178
+  - pig-starcraft-2-nuclear-bbq-florencio-files-179
+  - pig-starcraft-2-chase-your-tail-mate-florencio-files-180
+  - pig-starcraft-2-the-zerg-t-bag-florencio-files-181
+  - pig-starcraft-2-crouching-barracks-hidden-factory-florencio-files-182
+  - pig-starcraft-2-81-kill-nuke-florencio-files-183
+  - pig-starcraft-2-terran-meltdown-too-many-nukes-to-handle-florencio-files-184
+  - pig-starcraft-2-florencio-the-mutalisk-hunter-florencio-files-185
+  - pig-starcraft-2-planetary-prison-florencio-files-186
+  - pig-starcraft-2-classic-pretending-to-be-dead-strategy-florencio-files-187
+  - pig-starcraft-2-slow-zergling-doom-drop-florencio-files-188
+  - pig-starcraft-2-the-roach-that-refuses-to-die-florencio-files-189
+  - pig-starcraft-2-florencio-gets-shut-down-florencio-files-190
+  - pig-starcraft-2-award-winning-smooth-brain-plays-florencio-files-191
   - pig-starcraft-2-secret-spawning-pool-rush-florencio-files-192
   - pig-starcraft-2-ravens-vs-swarmhost-nydus-florencio-files-193
+  - pig-starcraft-2-planetaries-for-pennies-florencio-files-194
+  - pig-starcraft-2-ebay-block-florencio-files-195
+  - pig-starcraft-2-denying-every-single-base-florencio-files-196
+  - pig-starcraft-2-secret-barracks-in-the-main-florencio-files-197
+  - pig-starcraft-2-what-the-hell-is-this-bunker-rush-florencio-files-198
+  - pig-starcraft-2-vintage-nexus-rush-into-voidray-surprise-florencio-files-199
+  - pig-starcraft-2-who-can-survive-the-sewers-florencio-files-200
+  - pig-starcraft-2-crazy-scv-repair-rush-florencios-autoshop-florencio-files-201-starcraft-2
+  - pig-starcraft-2-better-sentry-control-than-parting-florencio-files-202-starcraft-2
+  - pig-starcraft-2-florencio-made-an-attack-upgrade-florencio-files-203-starcraft-2
+  - pig-starcraft-2-mass-banshee-widow-mine-onslaught-florencio-files-204-starcraft-2
+  - pig-starcraft-2-battle-of-the-karens-florencio-files-205-starcraft-2
+  - pig-starcraft-2-secret-cannon-rush-florencio-files-206-starcraft-2
+  - pig-starcraft-2-florencio-smells-something-fishy-florencio-files-207-starcraft-2
+  - pig-starcraft-2-nuclear-trauma-victim-florencio-208-starcraft-2
+  - pig-starcraft-2-florencio-joins-forces-with-boom-florencio-files-209-sc2
+  - pig-starcraft-2-florencio-boom-evolve-into-the-explosive-archon-florencio-files-210-sc2
+  - pig-starcraft-2-the-unholy-trinity-vs-7-armed-archon-florencio-files-211
+  - pig-starcraft-2-archon-showmatch-widowmines-liberators-only-florencio-files-212
+  - pig-starcraft-2-macro-mermaid-vs-creep-king-florencio-files-213
+  - pig-starcraft-2-gm-micro-bronze-macro-florencio-files-214-starcraft-2
+  - pig-starcraft-2-this-dude-nexus-rushed-florencio-florencio-files-215
+  - pig-starcraft-2-chad-roaches-take-on-an-entire-base-florencio-files-216
+  - pig-starcraft-2-zerg-mind-games-florencio-files-217
+  - pig-starcraft-2-double-nydus-peekaboo-florencio-files-218
+  - pig-starcraft-2-the-chadrays-are-back-florencio-files-219
+  - pig-starcraft-2-florencios-utter-nonsense-zvz-florencio-files-220-2-games-in-1
+  - pig-starcraft-2-unashamed-pervert-rax-florencio-files-221
+  - pig-starcraft-2-a-burrowed-farce-florencio-files-222
+  - pig-starcraft-2-the-nuke-to-end-all-nukes-florencio-files-223
+  - pig-starcraft-2-lasers-florencio-files-224
+  - pig-starcraft-2-zergling-drops-florencio-files-225
+  - pig-starcraft-2-perfectly-stacked-battlecruisers-florencio-files-226
+  - pig-starcraft-2-florencio-faces-a-terran-doppleganger-florencio-files-227
+  - pig-starcraft-2-starcraft-2-florencio-power-hour-florencio-files-228
+  - pig-starcraft-2-pig-eats-hot-wings-and-finally-comprehends-science-florencio-files-229
+  - pig-starcraft-2-how-not-to-use-thors-florencio-files-230
+  - pig-starcraft-2-sickest-strat-flo-execution-florencio-files-231
+  - pig-starcraft-2-banshee-plus-liberator-makes-zerg-cry-florencio-files-232
+  - pig-starcraft-2-cyclone-widow-mine-all-in-florencio-files-233
+  - pig-starcraft-2-the-cheeser-becomes-the-cheesed-florencio-files-234
+  - pig-starcraft-2-florencios-caricature-of-a-macro-zerg-florencio-files-235
+  - pig-starcraft-2-no-expanding-allowed-florencio-files-236
+  - pig-starcraft-2-the-worst-recall-of-2021-florencio-files-237
+  - pig-starcraft-2-why-are-you-hitting-yourself-florencio-files-238
+  - pig-starcraft-2-the-birth-of-clemencio-florencio-files-239
+  - pig-starcraft-2-battle-of-the-baboons-florencio-files-240
+  - pig-starcraft-2-flos-in-trouble-battlecruiser-edition-florencio-file-241
 
 topics:
   - StarCraft 2
   - Protoss
 
 images:
-  - url: https://i.ytimg.com/vi/ZxBM2ji0SWg/maxresdefault.jpg
-    width: 1280
-    height: 720
+  - url: https://i.ytimg.com/vi/7hGsrlWElnU/hqdefault.jpg
+    width: 480
+    height: 360
     isCached: true
 
 secured: "Aq/DAvQV9wUcSYy7nkwEcMc93spx5wWacycRLB4XVun7bfAiQNLvOhl5Fa4wgNi6eN5CkyNtZP1o32Kw4wWrYn+siOn/FVktOUMeShQmj4Zmx5syZtEFGqyMmHZhS65LvuPPGuY3NeSQyRenHtliEbE0RbRqVG/L4XM/M1ogz4/3Ckq31q0mTCWGwOvwYtV69Kx5nVXaqfGNf0nwJIYQ0Yc9X/SqjKJWn0xKY7qOVQa/kX9lNKidPMlnxbcU4H59YRxOgcCwIDA3rxIPJR5rhUcna/FH8a0yKQJSrjkh2aMDCmiYDhDnqZglY7tLQTz6y/C6YoBbhU2GD21xtU805w32AZPahrb9rG/vcEQTg+M=;AwfGlvfrF7fOb/Ue7opqxw=="

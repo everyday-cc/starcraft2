@@ -24,6 +24,7 @@ items:
   - beastyqtsc2-starcraft-2-1000-apm-commentating-while-playing-mass-marines
   - beastyqtsc2-starcraft-2-mvp-mc-serral-andmass-marines
   - beastyqtsc2-starcraft-2-basetrading-protoss-with-mass-marinnes
+  - beastyqtsc2-starcraft-2-15-reactor-barracks-mass-marines
   - beastyqtsc2-starcraft-2-cannon-rush-into-proxy-tempests
   - beastyqtsc2-starcraft-2-mass-marines-grandmasterand-msnand-ventrilo
   - beastyqtsc2-starcraft-2-maphacking-qt-strikes-again

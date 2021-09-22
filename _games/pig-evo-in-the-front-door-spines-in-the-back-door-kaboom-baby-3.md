@@ -1,0 +1,27 @@
+---
+title: "Evo in the Front Door, Spines in the Back Door | Kaboom Baby #3"
+excerpt: "Check out her twitch:  https://www.twitch.tv/booooooooooooooooooom/   Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified"
+originalUrl: https://youtube.com/watch?v=f1hjRM8u1hM
+type: video
+length: PT7M10S
+publishedDateTime: 2021-06-01T12:47:39Z
+heat: 56
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f1hjRM8u1hM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: PiG
+  domain: youtube.com
+
+topics:
+  - StarCraft 2
+
+images:
+  - url: https://i.ytimg.com/vi/f1hjRM8u1hM/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "ObmTy1joP8qKlHAIEeqyushBDQ170rXB9RHjF8ZYk8PxQ2AKmVEkPXgNA62yuN2Lezm1mXaIE3ABFqbxWV63iGTU4/MzdCwPdHTvoBW8RGtgpkH3CWp6Qhnl5Xf28i7yYPV9FTuiUHogRbQvVQQTEibeUlaCqbxiQsQp13N3Ysj40HW/9Pn6tdASITGeVgxu4IoGIH1z2evX3Mvf6G4oy3J1K9VLiKH5MMLTOd370NXqnK3IVldjX0IAiTS1u/3/Qy2JUdwSmsqWIScboECILBDOwmKaJdUMwMNSraVYWw+ewIHdVdGVDpjhXzkoPIdvDa0aPc7DiJMTwJ8eCXv8BqSpZoxl1BmvyOxe2sCrwt4Sv+AMQEgNY863hDq5i+6RtiBWo4wwL/NW+c/9NkTCKA==;zpO5bMVXuovd9+Jd6BuWQw=="
+---
+

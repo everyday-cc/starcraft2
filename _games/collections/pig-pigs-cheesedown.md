@@ -14,8 +14,10 @@ items:
   - pig-cheesedown-has-vs-noregret-g3-4
   - pig-cheesedown-has-vs-noregret-g5-6
   - pig-cheesedown-has-vs-noregret-g7
+  - pig-cheesedown-2-noregret-vs-has-g3-6-interview
   - pig-cheesedown-3-has-vs-noregret
   - pig-cheesedown-2-noregret-vs-has-g1-2
+  - pig-has-vs-noregret-bo9-cheesedown-4
 
 topics:
   - StarCraft 2

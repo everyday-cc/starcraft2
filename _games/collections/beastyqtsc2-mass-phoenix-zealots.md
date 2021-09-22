@@ -23,6 +23,7 @@ items:
   - beastyqtsc2-starcraft-2-countered-by-adepts-with-glaives-mass-zealot-phoenix
   - beastyqtsc2-starcraft-2-i-got-mule-dropped-mass-zealot-phoenix
   - beastyqtsc2-starcraft-2-revealing-my-true-identity-sultan-qt
+  - beastyqtsc2-starcraft-2-60-zealots-crushing-the-terran-army
   - beastyqtsc2-starcraft-2-cannon-rushing-into-mass-phoenix
   - beastyqtsc2-starcraft-2-stupid-strats-gz-mass-zealot-phoenix
   - beastyqtsc2-starcraft-2-beasty-mad-beasty-smash

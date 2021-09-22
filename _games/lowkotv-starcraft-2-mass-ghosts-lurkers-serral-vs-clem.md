@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-mass-ghosts-lurk
 type: video
 length: PT27M29S
 publishedDateTime: 2021-04-29T10:30:22Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qPzHIxL_a6c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Xxq8zipmHWF3ojK5ScOaZzIpcifad1TiYlb6S0/6ACgBbCYcCd+SHnJ8GEqKjDobmxKvvX8fAQTWfng3aIKAMnNtU7zdZP1Eu293Wv0/MGpBwmr5E0TMKGFf7R2OsuJDNUDt0DTBu0dBqgT/giu/aLcI1saxaZRdzG5SsErTpM6oPuo+wZ9efUA73SVdfXq0+Z5p0Fo4uviXnAdvxb87ie8nV5iGoO4kjRbyA5E/t8JEN/gG2QB/kuYLP14tlLTXWwjptkGgp6f7kSaAlJkGGGdIRBqJxJ1FMtzl1Jfibc9htrzb0dPqo1gDBy0ubi2jaevU7uqfcB+RYIumGjHFQoVNTxHqlWa+A16lFkvDzmObBGmzn8JiV1hdb5T8g/ffirwtxCYUCrXSJDz5N2jP+4pFjAIzNKa2UGf1sgJUGCVUAX2+MOCLKJjzo69EgrWM;EldOl2bLqXhXv4te9ZIZrg=="
+secured: "8Hjq8ljLwXk8mH3AtSljY1DqFsj4wAzzn2K1XMTBBSimLmizctQhX+oZprPB/BtYnBfz9IdUK5U5ShH2YbSyHa+iVQ8ipMYgzAi8Q+1OIvjX0Y+sYxTnacvE7OKeK0FgdsE5U+37DkQBkgwPNN6gP8zJGf4naQxEB44YnAy5LSdiwSlEsbOPSt6TNO8mW3W4Yj3QQufIgiSI5HFpQybJX6uJkZWZI3R8zQ9ryKDPPrcYy6RVRAGy00MkQNDab1qGRGtVV1X1F6nLncSMpjQPCMHrPTcAShufPPk9/lzRH6hFvyOKFySYdD644WOEPQRf4Nbz88N5LcllPVTyPwJlqMAq9aMT9Fan1PlPSZV48ch2ToQMLF8b9tSzE2TtTvBqqTBoYK+njGwjHk7wII/isfuhZA1h5oYeVYzWvRSgf6cr6537wQ6ZKQWIzj/s+sON;SWKLjU1iL2rEP3ctPYpwAA=="
 ---
 

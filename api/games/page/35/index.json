@@ -4,35 +4,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_games/pig-the-pig-daily-53-angry-boys-bm-icyfar-12-part-2.md",
-      "title": "The PiG Daily #53 | Angry Boys! - BM ICYFAR #12 (Part 2)",
-      "excerpt": "THIS WEEKS ICYFAR: \"Striking from the Shadows\" - Submit your games using cloaked, burrowed or invisible units! Send submissions to eonblu95@gmail.com as attachment. Lastest submission until the second daily of the week (Monday in EU/US, Tuesday in AUS/KR). Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-pig-daily-53-angry-boys-bm-icyfar-12-part-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-pig-daily-53-angry-boys-bm-icyfar-12-part-2/",
-      "originalUrl": "https://youtube.com/watch?v=malHIYTEiGg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/malHIYTEiGg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M49S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/malHIYTEiGg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-the-pig-daily-60-striking-from-the-shadows-icyfar-13.md",
       "title": "The PIG Daily #60 | Striking from the Shadows! ICYFAR #13",
       "excerpt": "THIS WEEKS ICYFAR: \"Epic Comebacks\" - Submit your games involving an epic comeback! Send submissions to eonblu95@gmail.com as attachment. Lastest submission until the second daily of the week (Monday in EU/US, Tuesday in AUS/KR).\r Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb",
@@ -967,6 +938,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-02-17T03:58:24-08:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-mvp-mc-serral-andmass-marines.md",
+      "title": "StarCraft 2: Mvp? MC? Serral? and....MASS Marines!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mvp-mc-serral-andmass-marines/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mvp-mc-serral-andmass-marines/",
+      "originalUrl": "https://youtube.com/watch?v=n6n8t7zOVX0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n6n8t7zOVX0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M37S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/n6n8t7zOVX0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-10-06T04:04:19-07:00"
     }
   ],
   "nextPage": 36

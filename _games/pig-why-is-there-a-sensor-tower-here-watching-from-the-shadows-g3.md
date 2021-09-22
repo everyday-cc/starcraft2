@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=-phuWnsMdYA
 type: video
 length: PT25M30S
 publishedDateTime: 2021-06-01T12:46:41Z
-heat: 55
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-phuWnsMdYA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "mW4rhPqCwxmY+3F6EJUJ6SxuPXLjo/MUDSOZ2/LZyg3wp/wdKqDgWFbEQGIqtalxoxM4KzUDaqmHLBbwelj4fgzBSxim1GUP0xDFodj8B61mmf7m29ww+yLVykx77jO7KJrFXD3FPE0eGqR+ZZoupv1NYemBL5kdp9e1DyvS4kUkF8xc0lLFwQwq4ap+yz/+94csN3TbdJWRX69nzUE+LSt7a5mTw3QrWkSZn4sEG+UUy2mXeOq7+6vRpCHDmEigSsTpPxMuLSVodYbsChYc8wEQi204WS44RmWoQZywclQXvCciP0BtdcwiG9gYmaciKUVBcEwJs5gMrpwmCwOKtdSd4t86oxH0RH9ZJrhrnn//ThE3uSAV8mwM1NfnXLUVImx20KT86L9ekLXj42yPNw==;d2CREbzJ0fTc5S/K7XJJxg=="
+secured: "41tAwD+E8GZ/Uo+JOBSbuqRL+hJh3G3GApIorUKOlw7KvVR31vKkjcP2BVfqXGpKRaKt3ChkfLKXnDMlbj0mkD/1gWB23Mhd/yqedUM+FNMIiXCpnUdg067YG4pqYmJ5cyZsLF+zjCM4xxb6mvaBg6FMHHCnHBgQ9HBZko+KTyNnRCoUkD5Q5HwBRNk17fizRetzjq9MRNTZkhUWEhYrJloaGTm7mV2lJZnjO/JfWQQZMinfHPUW7xdxew4vcUUVyvmutZ29pipg42Qx7xhJcsbr01mHHsnr0cL9IaXkTxMhq8ojJ4JGikWkJVXaF3L6bSNkyJeIIgDdA7savmi/0yr2OwTmXFYvbkdcUNgoJQZJPVT6K/RFMf4ECep9FwNx8F4oAqRaSgC/8htBGCnQX038KwBMA0h3YlA1+jSi2iM=;ha8WnZW4S+OTb3JXym3Jlg=="
 ---
 

@@ -2,7 +2,7 @@
 title: "PiG's Twitch Plays"
 excerpt: "Viewer requested StarCraft 2 strategies and reactions, based on democartic voting - THAT is Twich Plays PiG."
 type: collection
-heat: 61
+heat: 60
 
 provider:
   name: PiG

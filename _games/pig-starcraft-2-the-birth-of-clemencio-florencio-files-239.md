@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=zUZZRnsy0r0
 type: video
 length: PT18M22S
 publishedDateTime: 2021-09-01T11:09:31Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zUZZRnsy0r0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "84Hdyjm8mbnOzT6Z868QLILH56jfBOcSfUXJTBquVuL0NO+FIKvpiOe72bn7mkhGNYqwMMzEK/0rcd3y8IMdsNRz/0ENheLA61DX71VUa6NQ3Lmc+7VVu1rQbfG31IKHyFC4/SN9J0U9wF5j/oFt8e0uxkR/66suAxik/wVt152NMeh6iXbcFvJBnxBMmQMF8jF60aLbqweJLZTz0bD0QxG3+llpwTeVYf94O38c0ve6lZk6kpgI5lNwegTIbB7dli1tWni7saKUycWtbx1Y1GyZbW6GaAUjlh8kZkNwS+TTVtW/HrxEE+YIToAhHz8HjEb3XVG7NISVVRg6wY4kq+AMo76Jh5k6OCD0kP8b8Qz3rd8VSzkEklgZsQCtigA6kuoepEbtm4jA68sUNLv1O4GCmgGCf+VqIHE5Rbb6Lf8=;9+QNKyWfkf3eIxako/NHSA=="
+secured: "VbpDhThRtF4VGqKskAHNHiuCq4sJNUtz3uyHiIbkiMkilCw8626De1H5TaeTAZ6vmW0XjyQPB02qlfq2odK+6XSo/Rrwhtrkr4SP0PnFmbm3hIqIWP7/nFfrepTArqP0Puc0hY71aSbxrL7brTIcv9c0fIMEwU6+fSJLNy+2PzLIuTKzRk3irvCuamRtCrI4dzsy557xPStC+K5q+wl+hzDAqZWqVv9hvImL2wmb+XisCpHBgDgqKWktTku7ruTS6emIu+xJRbe8fFUJkpz1/A2wVl3FOurns2FyngNvDqtEK/lsIUsFVhjaJ4A/eKNcH++3/DRfR1sLJ+NPQgAvC2wpVi4PYabbuULbR5zKAcQeXW27qEqogJNcfHZtW8XBt/Tg8uFt00D4NUJac49bcoAIrumPutFbkBkboNm4xCI=;MBRavT2jk7XZLAJwooLu3w=="
 ---
 

@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-no-minerals-rema
 type: video
 length: PT42M43S
 publishedDateTime: 2020-10-13T10:11:16Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pNhMT3ZndxA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Y2bW1U2muAEYf5gvKCvYFJNEo7omuL+OZvhv/6SJ+4ViDaAeHDVDqatxjJyg6dE+53VlqdHddbnb8Trym8RMibSl2UNbIZv+urIv7vSe94ZqdzRRsnkxEGPP+CzFTVIHGbVenTK8smi8dz2O3KTDqkfYQQO/eRg8t/bTSBAdG57R243Pk+ihIN9eP4o+Y++Av9TkI3Lk9A4S9tJT9izu+URxz0gwRAumEWb89fxqEogmeqCRh0j6FdskQ8HUuC3nhu0INeU4lQHF/EVFcGGXOqrPhHzU0kUW8ReEooOm65yM0ocd3q+9oMZM2QH88Z09M5FERXsKomPGQHyIIyoRhTlMuyWZR2UiCZWyzKVv3cjeHFyPYLpVPcEYuDSoDC3QdOq31LhDZZXKRjtLSLDMlN8I0/7SFwisTG8V8UXiRGo=;GdyCr2g0KiMJ7fsAsI4aZQ=="
+secured: "pxFxf/Vk91l7UXw1InSZTyCIIxUaZc3PO2X/CbpEe5Cj5mbVPMkykvSEYgttqk/lNGODUhAkzC7qHyAiIcv7+f37ex4AlssKpRIT/baPD6j/mI0VvppN2Te3j8TIeF/pEVSj+GoF8cwYNX3A5AxZeepQSiSsJwpEB7G/9abhOkISr8rBxsvOYXFKbrcG9VhVl6y/fy6qyrU8hDt8ZOYw6NullIfmD8RYmszYQgfnK1wkjH/lWUSDO325qzMyDmRTa6q/14vu58BMM6xMbAtxaN00rXPJx98AoDkNextd8agh1BmaFzYVIZDlkqJ/wGvb1+s7dOoav/oXla/5wzft1bCGZdv2Mbv5rxF+lJ0AlMsH9fF0cTGqVZg+G+TEltvEIKljk7LNsfgchEo/n7J/yb9WtNOkkB4Q/oCSH8Tdz/o=;pHEIQbItbh0x19fPCZUIvA=="
 ---
 

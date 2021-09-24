@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-blys-amazing-pro
 type: video
 length: PT59M14S
 publishedDateTime: 2020-12-24T09:43:03Z
-heat: 103
+heat: 109
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1RpcgiNR9xE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "f9eEJq8xTF45pilGnpZBwTWNX0Q2g6Wz95pYQD6MU2Ivc29vsnJAdQqzTkK+Yin4dKsiDFzS+TwS4N3R8Oi5PkxWptvknPCQNZTmL33O2HRMLrmaY4XQcLiA0Zg/SgaP5P+KitHGJXCRBgnMvj0s9L71/gxGypj7snM9x8oduhoYHMNdbv2dizWnF7L6uNYSOetOpLJ50SyE+5lqbR77Cl14DwqI2Rty6gMk/xFsUKtn60dI1xOyB9Y4gnV9GUzXIVdhUxEEs1UHbkq/whd9PGyOYGKqgs0bfvIBVorarxqY4q6mv0H4xebwsXoODLd9N/RnOQPw0Yu4i3ffButaXuHU9TvNq0HObxrxFwLiQHsFtY1PlsIdKB8VL5Hp4DVtVtQYIwOW8YoSAX5kYNs1Z7ET4nANvVEzqaKm0MsfRrtwKgpMQlZVdhSice2zUp3T;Pb1/JmJ2Z2AW2mlNJfY7AA=="
+secured: "2cakqdwkUqMIJ1AFms5qvOvopLaPo7EM1NFsubvFIJKenX7prVBUYthlTC+l44SyAFCeEWoX///z/IQWjsLXTISD88E5SK1tIgjzDi1N+cThwUYhP7UmFzBsi5kPaw+tUnPbmyhPpDSZ8JfYkZ00A3PwmILB0/nVgKxUCmYlVsgipKRhyUkwyH2liQBrzginuaDaEC9Cb+UTdQgwhoLG8PLxEB2se6raQLObq4KSJn9u/jWH6fJLmDYqxSFbi3Zpym5jdL2avWScY8T2sADF15NDsoXRecq2Z4m3c0ZySsN5GXE0+bFDksE1xaga4+PVaet023mLt/WYWDF8Y+2cTrH8jEvsvMs3eUPZaM6joLzjlMdXzlLeUnJWOd0ZsQyKPpvSEhS5+I6kjj6aCewaLlRMi4l4cegFpktu7aOTUsu5iCmlJok4PoAJczoP7/gq;9dgQIU1cjZO/Sd3kOt551Q=="
 ---
 

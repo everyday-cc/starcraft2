@@ -2,7 +2,7 @@
 title: "PiG's Zerg B2GM"
 excerpt: "Welcome to PiG's Starcraft Zerg Bronze to GM series, where I teach you how to play the Zerg race from beginner to grandmaster level"
 type: collection
-heat: 84
+heat: 74
 
 provider:
   name: PiG
@@ -18,6 +18,7 @@ items:
   - videos/pig-starcraft-2-zerg-bronze-to-gm-7-2-base-mutas-in-diamond-1-b2gm
   - videos/pig-starcraft-2-zerg-bronze-to-gm-8-aggressive-builds-in-masters-3-b2gm
   - videos/pig-starcraft-2-zerg-bronze-to-gm-9-spellcasters-in-masters-2-b2gm
+  - videos/pig-starcraft-2-zerg-bronze-to-gm-10-mid-game-timings-in-masters-1-b2gm
 
 topics:
   - StarCraft 2

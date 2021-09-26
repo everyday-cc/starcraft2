@@ -66,7 +66,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 332,
+      "heat": 318,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/bDK8Ps8UAOE/maxresdefault.jpg",
@@ -238,7 +238,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 207,
+      "heat": 212,
       "tags": [
         "Live"
       ],
@@ -322,6 +322,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-09-14T01:37:27-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul.md",
+      "title": "StarCraft 2: PROFESSIONAL 2v2?! (Maru & sOs vs MaxPax & souL)",
+      "excerpt": "The standard competitive mode in StarCraft 2 is 1v1. However the OlimoLeague recently put on an event where they invited three teams of progamers to face off in a 2v2 (2 vs 2) event. In this video I cast a best-of-5 between Maru and sOs on one team, and MaxPax and souL on the other.  OlimoLeague on Patreon:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul/",
+      "originalUrl": "https://youtube.com/watch?v=qk3OKS90ckA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qk3OKS90ckA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H7M4S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 173,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qk3OKS90ckA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-29T04:34:49-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-blys-new-zerg-cheese-vs-lambo-best-of-3.md",
@@ -626,45 +665,6 @@
       "publishedDateTime": "2021-02-17T04:39:22-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-byun-and-classic-lose-their-main-base-best-of-5.md",
-      "title": "StarCraft 2: ByuN and Classic Lose  Their MAIN BASE! (Best-of-5)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between Classic and ByuN.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-and-classic-lose-their-main-base-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-and-classic-lose-their-main-base-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=VIyzVhhHO6I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VIyzVhhHO6I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT51M36S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 123,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VIyzVhhHO6I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-25T04:59:01-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-ultimate-zerg-protoss-armies-serral-vs-harstem.md",
       "title": "StarCraft 2: THE ULTIMATE ZERG & PROTOSS ARMIES! (Serral vs Harstem)",
       "excerpt": "One of the longest games of professional StarCraft 2 ever played. In this Protoss versus Zerg between Harstem and Serral we see both players building their ultimate armies and taking their sides of the map.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -818,35 +818,25 @@
       "publishedDateTime": "2020-12-24T01:43:03-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul.md",
-      "title": "StarCraft 2: PROFESSIONAL 2v2?! (Maru & sOs vs MaxPax & souL)",
-      "excerpt": "The standard competitive mode in StarCraft 2 is 1v1. However the OlimoLeague recently put on an event where they invited three teams of progamers to face off in a 2v2 (2 vs 2) event. In this video I cast a best-of-5 between Maru and sOs on one team, and MaxPax and souL on the other.  OlimoLeague on Patreon:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul/",
-      "originalUrl": "https://youtube.com/watch?v=qk3OKS90ckA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qk3OKS90ckA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H7M4S",
+      "path": "_games/pig-the-afk-build-rate-my-starcraft-4.md",
+      "title": "THE AFK BUILD | Rate My StarCraft #4",
+      "excerpt": "This submission for Rate My Starcraft features the AFK Build, where you pretend to be AFK to your unsuspecting opponent.  🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your awesome StarCraft plays. Send in your replay to RateMyStarCraft@gmail.com PLUS",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-afk-build-rate-my-starcraft-4/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-afk-build-rate-my-starcraft-4/",
+      "originalUrl": "https://youtube.com/watch?v=8UFZgMif_FU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8UFZgMif_FU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M29S",
       "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "PiG",
+        "domain": "youtube.com"
       },
       "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
+        "StarCraft 2"
       ],
-      "heat": 113,
+      "heat": 111,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/qk3OKS90ckA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/8UFZgMif_FU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -854,7 +844,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-07-29T04:34:49-07:00"
+      "publishedDateTime": "2021-08-20T21:02:46-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-floor-is-lurkers-cure-vs-rogue.md",
@@ -893,35 +883,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-08-17T05:00:43-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-these-games-gave-me-brain-damage-pig-roasts-4.md",
-      "title": "StarCraft 2 - THESE GAMES GAVE ME BRAIN DAMAGE | PiG Roasts #4",
-      "excerpt": "Welcome to PiG Roasts! where I roast the ever living sh*t out of people's replays. All in good fun, of course! There were replays in both lower and higher leagues, with some questionable strategies and mechanics no matter what. Hope you guys enjoy :P  🔥 If you want to get roasted by PiG, send your replay",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-these-games-gave-me-brain-damage-pig-roasts-4/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-these-games-gave-me-brain-damage-pig-roasts-4/",
-      "originalUrl": "https://youtube.com/watch?v=xGKZNFowQ3o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xGKZNFowQ3o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H16M20S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xGKZNFowQ3o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-17T16:10:21-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-darks-amazing-strategic-variety-best-of-5.md",
@@ -1112,6 +1073,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-01-04T03:39:21-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serral-vs-maru.md",
+      "title": "StarCraft 2: SERRAL VS MARU!",
+      "excerpt": "It finally happened! Serral versus Maru in a best-of-3 series of StarCraft 2. These two have somehow managed to dodge each other in many tournaments, but today it's finally time to watch them face off against one another.  Lowko's Zerg vs Terran: https://youtu.be/-94UEY2W1oU  Become a YouTube member:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-maru/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-maru/",
+      "originalUrl": "https://youtube.com/watch?v=h4A8ZTaPBAE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h4A8ZTaPBAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H9M18S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 98,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/h4A8ZTaPBAE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-05T03:11:34-07:00"
     }
   ],
   "nextPage": 2

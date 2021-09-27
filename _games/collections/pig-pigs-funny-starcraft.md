@@ -763,6 +763,7 @@ items:
   - pig-starcraft-2-flos-in-trouble-battlecruiser-edition-florencio-file-241
   - pig-the-sickest-trick-to-defend-cannon-rushes-icyfar-building-blocker-compilation-starcraft-2
   - pig-when-you-both-think-youre-dead-but-youre-just-stupid-santa-claws-5-starcraft-2
+  - pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53
 
 topics:
   - StarCraft 2

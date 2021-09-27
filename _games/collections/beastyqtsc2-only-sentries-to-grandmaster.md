@@ -2,7 +2,7 @@
 title: "ONLY Sentries to Grandmaster"
 excerpt: ""
 type: collection
-heat: 72
+heat: 70
 
 provider:
   name: BeastyqtSC2

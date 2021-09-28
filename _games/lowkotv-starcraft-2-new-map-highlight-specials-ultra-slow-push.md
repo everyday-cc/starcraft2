@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-map-highligh
 type: video
 length: PT24M26S
 publishedDateTime: 2021-04-15T11:53:30Z
-heat: 54
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GE_M8NzQHuo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "md/kxHXe5+xd424Zb3OPaeHT52S0o88ks1zdTi0D4fZ3esylZh5KeDR14acxwy6jm0NAzz3CcL6xkluAIDVnKnAbF+/U+Kl+JUcpK//mTGzB45TtBlNhSB/VJExyhkA8ShoqFK0YAVulB0u4kTdjspRGHF5Xb7B+aFtVEkAiGYRv4lvtqusa/o0sjUYZniwWA7mqq2ECOxFjpDvO5g69Sk9Ns0fw3imHMH3eU5H+cXBUhWdPXuF6Ou0axiTpfTkpXTjmvUAYgNVmaUgvaeNVF1/rleVZdVBjHkAERWzioC5/E54AGol8kX+t/ggRjszjcbwTD4SASWdvUrsYkzSMlkndS/vASNY6SlQBOeRd38rXkJLE1w3IWuI+AWf0pBdKA74MPzt/ZC3MbD0x/lpjvvpA6ZzlsJyMsGBAyiTmuIk=;POE2qT5ASsHkta9wT4GExw=="
+secured: "DAWZmWgKaRiaCB3gcNI7l6G2XBfPXCEbvjoDfwDNAiurt8t1OQHEUvDgMTDV1o2MmCJ4Iw7Yl2Y2AGtuarfcoQbwFjWjnBfE3wTV5ekFgUFTNWEDE/fxuEL/9PkLNsm3+wQ6QcjDpEGnX/TFRV5PNVm3DLY3nLx1UHnFprYpLUNa4JKWg0+HmVWHkq4HGqkaRBwshDETh15vELYbgdBB65tc0t/cDgdJHxBWnsA724lyOIfsfyM/zu9CNMrIFed7AVFvQ/dVYdblWSHFSSiM+764MoWO14WUl/AomXgo29edNqn31Ji3KdieEP6MsaJynDgBSmdz1CHh69fgEPRkvUnI7P+XLpHi/9p6HmQ9ylJIZWtIRCMs39xAjRvaE7WUfM4MEiq+5knkS6ewC4IiC39pIxErUBY3tXIIR4GPEEQ=;cgf2Ztk1IbIAfgWMbRlhdw=="
 ---
 

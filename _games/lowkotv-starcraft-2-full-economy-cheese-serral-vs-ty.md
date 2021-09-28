@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-full-economy-che
 type: video
 length: PT59M33S
 publishedDateTime: 2021-01-25T18:45:48Z
-heat: 70
+heat: 68
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aBTCpA5LN8o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "uX9jVZqrMsuwa6Tz6Vr2oSml2yzYP67N5CYt3lgn0kNqVs5igGXvbQ8GIvif25mEr93FukONhV4q6HFfw2ltly9p4LGqn9AV9qiE05u4GciEA4mgIMtAgI2BTdYUfWuml30pfLMAgl3YH78tDpW6kbdjVqvFXY2IAtBg1Z85UxtymfZqyXRrf7ADVkA/i9HmziA93RjU5a9yuL5vdJwyuVulBl77P8FRypfsXLzfjtWelocPtzbb071DgGMxJL3fl6LIXoxFoQ4cBoMNssabLjwgEWZBhFjcmvnbIwOnQy0AyKcqYxqqR2X1z1QkubszUZFupxRZAf1eua4E6VBGm1Kdqa/QIeMCc6jkuuVDAQwpYtB3bpHtnHzd91Ut2kopNOSxzHPzwlScUyOqJI6lkg+KBsVkmyo13FgNKifwPXvYw59gLxxoT5mK+048t1ut;Q5WDuGqVPkEKJYTleaeUgg=="
+secured: "sLue7aGhz4EW9qJ9omUD6XIFWzI6kLMRAbhFPNa3WdrwulXin0+ShSXTrPWdWlY8IJxQ3Bs5HcYOtAxmh6pqVRB6FWj09YBlhA5NHThLmB1ci5uDb7Anvy681UwXmEjaWUGCwg4OdUKvR4crGKSoYdMCwkJ2cCV+3R90WhhCKUEFcr5DvZfHRjJGaU4QJNaLEsVMucZ/BkIiRlsjNYZ8R/XBeJhfeX/kTYaajdSpmo9AFTDFq9tW+xkNkQMx31V8kK6Ke+9copGI2fDkaGhpTv4J0TiQpK2mIiW2gSRJTn6aiODU2b+eaTYd9YJL6+0g3gZBRq/boPmJDfKUNWJLHmHIka+Vd/kAlkjA2jQu97viXxVpe8grPGtRP0ianIjiJQ4dE+PD86X9helmvf3fyuQqf9dyMk6hx50vcFCmnstAEVT4DwPmlrOQRKQkXBVW;GnC+RjRfl17JclBqL1CYLQ=="
 ---
 

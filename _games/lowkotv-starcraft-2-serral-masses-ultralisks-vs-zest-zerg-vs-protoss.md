@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-masses-ul
 type: video
 length: PT21M46S
 publishedDateTime: 2021-05-17T10:25:45Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eVrNGBt_yeE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "MNze1PQd06ZL9HbgDsZPkl/K8T/hzlP71CB+vKNAlDe2KHCSoDiEPVaeSzzySfkJ9DbfjqD8JVgDRW74fCxkkqXqP3B/EIdmVXlN1UwndSp8vLF8Rhq8Vd1kr+FiZgegPo1Wr75hAK1z3prX1XEqTCkVK0P5WmwtGk+aGpwJutTNhliEJG4CmVKPBboqApfZ1LyQtugiQDkh+JQHaMxQRTuETFcPjgdP++aj8OLXzi1JT6yL4XSNK1PjUoaJoj81r95n7q1OnKXMrZJ0Iqeds4BwBUViLZmXlJWHkMSBOHbyd6ComyNF5EN/vV0iOb4fPLmU00tlhd0lWIPHEw0c49SSIxSbV2wnzu9sbbrV0S+JNR8/1zFFth6Kr33jWZjwkaH7ik5cPVOuhoGC6FrWsUD0fCoi3yiBW5hqF9TLvjo=;33q7cHT8/RlRFW1P4psLpg=="
+secured: "6BpEkLepIkQlr6wUqX/CBtWFFyiQohMI96O+e5uSwjkiVCPqR4yBHmj55Ntru16nSwaS2cJPUTdd+JLoZTosDm6mbx6hK9VxjX6nB6ZHIbLto3bQE7ks4KmQ9nAc7zGZKcqnEXi/52Jm3xIcpPhwhFCfSxwsdFrGGGAIr/NdQPEafkcWpu/uX/ifjefvdm35Mp+kmmZ3lOb2cbLE1zA+sYB/yQjg6W0r+F1vvXqbjBsB/ZcXsiia3y5agvyEqWEfUNyi35TDFaIV+qK59J64GyqM4qz6kUrKjucrU+ZOahoOU9+cWTDjYWdvlYPxB59msn/sXILRkE4QCXw1UnaPKBWn1E7xKqStKYGWrKcfWz2q4nostGjiZ4SN7fyysWmZX29mjUCgbwD1GY2c4wmPkYtnLjczeZDfldd1IJYjsUg=;6RkPpfKfQZWpEtMGkGalbQ=="
 ---
 

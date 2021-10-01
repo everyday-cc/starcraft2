@@ -4,36 +4,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-the-200iq-comeback-move-diamond-in-the-ruff-51.md",
-      "title": "StarCraft 2 - THE 200IQ COMEBACK MOVE! | Diamond in the Ruff #51",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Zerg opponent? Okay, this strat was pretty big brain, like 200IQ at least 🐷 Support PiG: https://www.pigstarcraft.com/support/  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-200iq-comeback-move-diamond-in-the-ruff-51/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-200iq-comeback-move-diamond-in-the-ruff-51/",
-      "originalUrl": "https://youtube.com/watch?v=nVvcu9PPP0o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nVvcu9PPP0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M48S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nVvcu9PPP0o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-19T04:03:33-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-the-nuke-to-end-all-nukes-florencio-files-223.md",
       "title": "StarCraft 2 - THE NUKE TO END ALL NUKES | Florencio Files #223",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. He also likes nukes 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
@@ -153,6 +123,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-03-05T22:30:53-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-triple-extractor-trick-kaboom-baby-7.md",
+      "title": "StarCraft 2 - TRIPLE EXTRACTOR TRICK! | Kaboom Baby #7",
+      "excerpt": "Watch booooooooooooooooooom (with 19 Os!) jolt things up in this Zerg versus Protoss StarCraft 2 match.  Check out her twitch: https://www.twitch.tv/booooooooooooooooooom/ -- 🐷 Like my videos? Help support me by being a patron: https://www.patreon.com/PiGSC2 🐖 Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-triple-extractor-trick-kaboom-baby-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-triple-extractor-trick-kaboom-baby-7/",
+      "originalUrl": "https://youtube.com/watch?v=Xg4QNhz-vOo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Xg4QNhz-vOo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M3S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Xg4QNhz-vOo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:47:39-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-vintage-nexus-rush-into-voidray-surprise-florencio-files-199.md",
@@ -275,14 +274,14 @@
       "publishedDateTime": "2018-08-03T18:15:04-07:00"
     },
     {
-      "path": "_games/pig-the-afk-build-rate-my-starcraft-4.md",
-      "title": "THE AFK BUILD | Rate My StarCraft #4",
-      "excerpt": "This submission for Rate My Starcraft features the AFK Build, where you pretend to be AFK to your unsuspecting opponent.  🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your awesome StarCraft plays. Send in your replay to RateMyStarCraft@gmail.com PLUS",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-afk-build-rate-my-starcraft-4/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-afk-build-rate-my-starcraft-4/",
-      "originalUrl": "https://youtube.com/watch?v=8UFZgMif_FU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8UFZgMif_FU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M29S",
+      "path": "_games/pig-two-players-try-their-best-to-throw-the-game-rate-my-starcraft-6.md",
+      "title": "Two players try their best to THROW the game | Rate My StarCraft #6",
+      "excerpt": "Eonblu has been the ICYFAR replay selector for years. This game is so sloppy, like both players trying to throw constantly. Why do you all send me Rate my starcraft replays that make me want to die!  🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-two-players-try-their-best-to-throw-the-game-rate-my-starcraft-6/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-two-players-try-their-best-to-throw-the-game-rate-my-starcraft-6/",
+      "originalUrl": "https://youtube.com/watch?v=FGovCVDFHyQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FGovCVDFHyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M2S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -293,7 +292,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/8UFZgMif_FU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/FGovCVDFHyQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -301,7 +300,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-08-20T21:02:46-07:00"
+      "publishedDateTime": "2021-09-11T20:56:15-07:00"
     },
     {
       "path": "_games/sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s.md",
@@ -849,6 +848,72 @@
       "publishedDateTime": "2019-10-05T04:27:34-07:00"
     },
     {
+      "path": "_games/beastyqtsc2-starcraft-2-15-reactor-barracks-mass-marines.md",
+      "title": "StarCraft 2: 15+ Reactor Barracks MASS Marines!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-15-reactor-barracks-mass-marines/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-15-reactor-barracks-mass-marines/",
+      "originalUrl": "https://youtube.com/watch?v=QRiQXg9s-FQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QRiQXg9s-FQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M49S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QRiQXg9s-FQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-10-08T04:29:20-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-30-marines-vs-1-nukewho-wins-never-attack-to-grandmaster.md",
+      "title": "StarCraft 2: 30+ Marines vs 1 Nuke..Who Wins? 🙄 - Never Attack to Grandmaster",
+      "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-30-marines-vs-1-nukewho-wins-never-attack-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-30-marines-vs-1-nukewho-wins-never-attack-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=UiSHDXVmSg8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UiSHDXVmSg8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M58S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UiSHDXVmSg8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-05-09T05:07:43-07:00"
+    },
+    {
       "path": "_games/beastyqtsc2-starcraft-2-35-command-centers-vs-late-game-zerg.md",
       "title": "StarCraft 2: 35+ Command Centers vs LATE GAME ZERG!",
       "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
@@ -913,72 +978,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-04-04T04:23:50-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-a-viewer-exposed-me-to-the-opponent.md",
-      "title": "StarCraft 2: A Viewer \"EXPOSED\" Me to the Opponent!",
-      "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-a-viewer-exposed-me-to-the-opponent/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-a-viewer-exposed-me-to-the-opponent/",
-      "originalUrl": "https://youtube.com/watch?v=8KWWipGYq78",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8KWWipGYq78\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M14S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8KWWipGYq78/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-01-27T03:53:13-08:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-almost-grandmaster-with-widow-mines-ravens.md",
-      "title": "StarCraft 2: *ALMOST* Grandmaster With Widow Mines & Ravens!",
-      "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-almost-grandmaster-with-widow-mines-ravens/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-almost-grandmaster-with-widow-mines-ravens/",
-      "originalUrl": "https://youtube.com/watch?v=6jLGKxVnfzI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6jLGKxVnfzI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M36S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6jLGKxVnfzI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-02-04T02:57:15-08:00"
     }
   ],
   "nextPage": 20

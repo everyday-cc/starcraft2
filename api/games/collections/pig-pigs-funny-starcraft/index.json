@@ -21238,7 +21238,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 110,
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/0nxkq2kjvdw/maxresdefault.jpg",
@@ -21474,7 +21474,7 @@
       "topics": [
         "StarCraft 2"
       ],
-      "heat": 110,
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/geqlJYBP0m4/maxresdefault.jpg",
@@ -21838,7 +21838,7 @@
         "StarCraft 2",
         "Protoss"
       ],
-      "heat": 50,
+      "heat": 110,
       "tags": [
         "Cheese"
       ],

@@ -4,6 +4,45 @@
   "page": 4,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-scarlett-vs-neeb-best-of-5.md",
+      "title": "StarCraft 2: SCARLETT VS NEEB! (Best-of-5)",
+      "excerpt": "Scarlett versus Neeb in a best-of-5 series of StarCraft 2.   Serral vs Maru: https://youtu.be/h4A8ZTaPBAE  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scarlett-vs-neeb-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarlett-vs-neeb-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=yPXkXTRZgYw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yPXkXTRZgYw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M6S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yPXkXTRZgYw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-09T03:45:25-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-new-rank-1-reynor-vs-dream.md",
       "title": "StarCraft 2: THE NEW RANK #1! (Reynor vs Dream)",
       "excerpt": "Amazing best-of-3 series of StarCraft 2 between the Reynor and Dream. In this series of Zerg versus Terran Reynor decides to use Lurkers against Terran bio, which is a unit that is not commonly used in the matchup. In general a brilliant series between two very highly ranked pro gamers.  Support my work:",
@@ -1118,44 +1157,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-01-28T04:07:12-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-cure-proxy-raxes-dark-twice.md",
-      "title": "StarCraft 2: Cure PROXY RAXES Dark... Twice!",
-      "excerpt": "Professional matches of StarCraft 2 between Dark and Cure. In these games Cure feels particularly cheesy.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cure-proxy-raxes-dark-twice/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cure-proxy-raxes-dark-twice/",
-      "originalUrl": "https://youtube.com/watch?v=bsQZYYFU_hM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bsQZYYFU_hM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M57S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bsQZYYFU_hM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-09T02:13:09-07:00"
     }
   ],
   "nextPage": 5

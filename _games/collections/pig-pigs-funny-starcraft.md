@@ -764,6 +764,7 @@ items:
   - pig-the-sickest-trick-to-defend-cannon-rushes-icyfar-building-blocker-compilation-starcraft-2
   - pig-when-you-both-think-youre-dead-but-youre-just-stupid-santa-claws-5-starcraft-2
   - pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53
+  - pig-starcraft-2-can-mass-lings-actually-beat-mech-rate-my-starcraft-7
 
 topics:
   - StarCraft 2

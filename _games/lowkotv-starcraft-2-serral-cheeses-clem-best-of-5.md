@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-cheeses-c
 type: video
 length: PT58M35S
 publishedDateTime: 2020-11-20T10:21:58Z
-heat: 86
+heat: 84
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6F0UJmOXW3U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "iLxVz9zmNImArK1agi8i1bmyUUFaw6uA1u9BfM8GP6TggUTH3Jk/YnY4NGyoHucRM+oMagC9BaXypOye/qQwaj5InoaRamdFYbq1eqVv3aLpG+VWK8eZh7QRro7hU6k7Xpht/pH6botLDchIMrzQzSYUZ2gFfKmzAIz+lBmazhsplesNfXlypkwVzlGSTtvG9OoZzGOIJGpjHnDbpNfJvsYx8CTXvdx6p/pun/qvsnsvKpNYgRQWlvVUWgHmaSdyDPQZDjCIDrM0P+NlpT/cS3uuNrw8d5T2GBntgHuX9hrd063Q9bS7cvxBZMZVFrySh7NTZ17dXN4rubLgZmWydkDHrtDS+fm/tal9e0cBAcoetaUgBsgAZa51NfmUpNXc1VffJxHU74I5yNbkts3T5TKH67o/e8gqg/A/mncQaTQ3Rb3D8OLJTIyZFZN+OtVi;izz0bH5Q+YrFQfxXDQPo8w=="
+secured: "/+DSY7TX3sL2wFR5dftzPec0sSKGJ06m5YmAdesqc0Wkk/5Wkn18cbtBl7cfERF3D4h6grUetpznYdIx69mFo0kXz2J+wp9bHHgabZuk9nJnm+omoNcJ79DLqAcjMc6/ipH04PrvgZOXzhwsbRARORJ5dr2bLWaDbYy7hIbALfppAvJKxMPqgs+h72It30exVPmrRJlWL3kZFVgWuDOUVL9zaXmvvDf+H6KcHYOSTkR7+I9T+evAh8x4pD5bM8OxfqKsDefx4bP9TrcxtOj15pO2BcvIyI57mtOM6WwUArK8fcClRTQhr+BR3mkU550n2+jbeha4KrRMn2W3JmgkJmLpbM8GEMwfMb+QLLzmGNx7G5hUYumUYOeWQlHUEAwSNZk980/QcQjlwjmltrGUBnghg5IKJL9FPmTknk44wcVuXXpTkxCE/nRB49CvdBGp;aTqO1eK1LBM88nkqw5J89A=="
 ---
 

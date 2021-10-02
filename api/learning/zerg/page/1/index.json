@@ -59,7 +59,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-08-02T23:48:57-07:00",
-          "heat": 58,
+          "heat": 138,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/9af29q6sMg4/maxresdefault.jpg",
@@ -121,7 +121,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-08-12T02:36:45-07:00",
-          "heat": 140,
+          "heat": 60,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/2Wvw27j3NqA/maxresdefault.jpg",
@@ -140,7 +140,7 @@
         }
       ],
       "size": 10,
-      "heat": 168,
+      "heat": 165,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Tr1_8C6CjMQ/maxresdefault.jpg",
@@ -188,23 +188,54 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-4-platinum-league-b2gm.md",
-      "title": "StarCraft 2 - Zerg Bronze to GM #4: Platinum League (B2GM)",
-      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 GAME 1 -- Practice build order along with PiG 13:55 How to check if someone is Searching for Game? 14:30 GAME 2 -- Practice build order along with PiG 28:20 REVIEW: Gold + Plat things to learn 46:53",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-4-platinum-league-b2gm/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-4-platinum-league-b2gm/",
-      "originalUrl": "https://youtube.com/watch?v=2Wvw27j3NqA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2Wvw27j3NqA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H28M21S",
+      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-6-muta-play-in-diamond-2-b2gm.md",
+      "title": "StarCraft 2 - Zerg Bronze to GM #6: Muta Play in Diamond 2 (B2GM)",
+      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 Introducing Muta Ling Bane play to Diamond 2 3:09 Game 1 vs Terran 15:36 How to Muta micro 22:22 Adding more detail to the Muta Ling Bane build 22:18 Game 2 vs Zerg 31:17 Game 3 vs Terran 48:47 Game",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-6-muta-play-in-diamond-2-b2gm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-6-muta-play-in-diamond-2-b2gm/",
+      "originalUrl": "https://youtube.com/watch?v=jJdx9VGt3BE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jJdx9VGt3BE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4H35M",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-08-12T02:36:45-07:00",
-      "heat": 140,
+      "publishedDateTime": "2021-08-27T02:06:59-07:00",
+      "heat": 141,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2Wvw27j3NqA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jJdx9VGt3BE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-2-silver-league-b2gm.md",
+      "title": "StarCraft 2 - Zerg Bronze to GM #2: Silver League (B2GM)",
+      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 -- GAME 1 - Practice your build order along with PiG 0:28 How to introduce scouting to the beginner build order 5:19 How to deal with air units 7:37 Worst thing you can do - reacting to previous",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-2-silver-league-b2gm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-2-silver-league-b2gm/",
+      "originalUrl": "https://youtube.com/watch?v=9af29q6sMg4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9af29q6sMg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H27M11S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-08-02T23:48:57-07:00",
+      "heat": 138,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9af29q6sMg4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -436,37 +467,6 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-6-muta-play-in-diamond-2-b2gm.md",
-      "title": "StarCraft 2 - Zerg Bronze to GM #6: Muta Play in Diamond 2 (B2GM)",
-      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 Introducing Muta Ling Bane play to Diamond 2 3:09 Game 1 vs Terran 15:36 How to Muta micro 22:22 Adding more detail to the Muta Ling Bane build 22:18 Game 2 vs Zerg 31:17 Game 3 vs Terran 48:47 Game",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-6-muta-play-in-diamond-2-b2gm/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-6-muta-play-in-diamond-2-b2gm/",
-      "originalUrl": "https://youtube.com/watch?v=jJdx9VGt3BE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jJdx9VGt3BE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4H35M",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-08-27T02:06:59-07:00",
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jJdx9VGt3BE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/collections/winterstarcraft-starcraft-2-zerg-guides-tutorials.md",
       "title": "Starcraft 2 Zerg Guides & Tutorials",
       "excerpt": "",
@@ -655,23 +655,23 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-2-silver-league-b2gm.md",
-      "title": "StarCraft 2 - Zerg Bronze to GM #2: Silver League (B2GM)",
-      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 -- GAME 1 - Practice your build order along with PiG 0:28 How to introduce scouting to the beginner build order 5:19 How to deal with air units 7:37 Worst thing you can do - reacting to previous",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-2-silver-league-b2gm/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-2-silver-league-b2gm/",
-      "originalUrl": "https://youtube.com/watch?v=9af29q6sMg4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9af29q6sMg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H27M11S",
+      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-4-platinum-league-b2gm.md",
+      "title": "StarCraft 2 - Zerg Bronze to GM #4: Platinum League (B2GM)",
+      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 GAME 1 -- Practice build order along with PiG 13:55 How to check if someone is Searching for Game? 14:30 GAME 2 -- Practice build order along with PiG 28:20 REVIEW: Gold + Plat things to learn 46:53",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-4-platinum-league-b2gm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-4-platinum-league-b2gm/",
+      "originalUrl": "https://youtube.com/watch?v=2Wvw27j3NqA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2Wvw27j3NqA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H28M21S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-08-02T23:48:57-07:00",
-      "heat": 58,
+      "publishedDateTime": "2021-08-12T02:36:45-07:00",
+      "heat": 60,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/9af29q6sMg4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2Wvw27j3NqA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

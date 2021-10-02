@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT26M28S
 publishedDateTime: 2020-09-09T06:33:58Z
-heat: 50
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Hbs2J5L6ry8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "BVQUFu1TyIzH+fSKXZFJrmbuW7ohvoI8fW4HTx8ka8AoGs+nvBCNNTeaKKEbaRYp4f2qcAGoq3dTW112NjuC2hTWJ0SbaYhfIbDNfPdFqIBUsldhJzlNGW/nHTHCzH8T+ZJWaQgde+u80yU7wE/H7QCyCekKdqJrKjoGJjacbz6yrGdc5gHeZpa3kiRJYuQEU4gY9fB9mlk+VGIiADkqXfF40Btf2RG8AlTUt1lQb3RWgHu0ENEAE4hnjFHnEaVoIms5qaBwhdraOvA4UX/+C2hLhEPjUs32h+AJops755rM/7E7c1892ksNpL84KqPnGISG1fvG00NpahhKH57hrGh4JInd7Q9f+iKHbVlih9eeduNeDyaS9GRRxzEXOoNcXJnVW3FMc0FBM9WM1x3Ewe2JQFk1DCTMCoKDXshPs3k=;diB8ENfOXNPEkK+F0nL5ZA=="
+secured: "m56ltYT70J1nYe4nTmRceWx/Z7nk/KV/W0Q2kFC88F9PNVXke61rzL6hHfB/IkeayzpS7VX2ebNE5PrP+ebv9d6fM82cAkyAsMGctRCDraJd5L/plyHFUrEQ1jXwhUCakvAbJHQ6NGGzU0v97M5GB7PJJeNXF9y7njpr++4GUMT8aqO4LDya9Ds05IO2sF193YpW1rNYgWfEtaUP2AiNiUivYv9Vtw9VwH4GSQbIgD94FzBcGx1S6X8U08osh5h5lSxejeBjcucrKNF7fgDuIYU86/Eoe6aiwS7yZbFxemZh1lTm7VpBajROOJkzOFdgjrNJDkt6A07+ft8EClm4ORqp34gs9M7Q1joaM5lNmi4PlDP9WLBf8P10yjSTTVQCwzSMA+euwOwirFoggMHK1Fnhy3tHFk+KSOMrYOvLKJg=;bh82yVAc6D0rKijbNjB9rA=="
 ---
 

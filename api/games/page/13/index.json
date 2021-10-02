@@ -4,154 +4,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-the-colossus-counter-attack.md",
-      "title": "StarCraft 2: THE COLOSSUS COUNTER-ATTACK!",
-      "excerpt": "DnS vs Reynor in a professional game of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More professional StarCraft 2: https://goo.gl/kFUSLt  Colossus are slowly starting to become more and more common in the StarCraft 2 meta. Since players are far more creative with their unit compositions",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-colossus-counter-attack/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-colossus-counter-attack/",
-      "originalUrl": "https://youtube.com/watch?v=DXLv5pY3SlM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DXLv5pY3SlM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M3S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DXLv5pY3SlM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-12-21T03:54:26-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-epic-late-game.md",
-      "title": "StarCraft 2: The Epic Late Game!",
-      "excerpt": "An epic match of professional StarCraft 2 between Bly and Harstem. This is not a series of games, but just a single match that's extremely long. Nearly all Minerals of Triton get completely mined out in the ultimate late game of this Zerg vs Protoss.  Get more videos & support my work: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-epic-late-game/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-epic-late-game/",
-      "originalUrl": "https://youtube.com/watch?v=3Xyfl8EKj2I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3Xyfl8EKj2I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT57M47S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3Xyfl8EKj2I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-09-23T14:04:03-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-gold-rush.md",
-      "title": "StarCraft 2: The Gold Rush!",
-      "excerpt": "Either expand everywhere, or take only your Natural. Subscribe for more videos: http://lowko.tv/youtube Proxy Thor: https://goo.gl/qgLVyt  In this Silver League Zerg vs Protoss the Protoss and the Zerg go for exact opposite strategies. Where as the Zerg decides to expand literally everywhere, the Protoss",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-gold-rush/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-gold-rush/",
-      "originalUrl": "https://youtube.com/watch?v=qdRutIPZzvk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qdRutIPZzvk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M54S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qdRutIPZzvk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-05-26T03:57:31-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-golden-armada-vs-the-death-fleet.md",
-      "title": "StarCraft 2: THE GOLDEN ARMADA vs THE DEATH FLEET!",
-      "excerpt": "The extreme late game of Protoss vs Protoss. Subscribe for more videos: http://lowko.tv/youtube Professional best-of-7: https://goo.gl/cLp2ev  When two players give each other a ton of respect and try to play as defensive as possible, the Protoss versus Protoss can become a little bit funny. In this",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-golden-armada-vs-the-death-fleet/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-golden-armada-vs-the-death-fleet/",
-      "originalUrl": "https://youtube.com/watch?v=16PDvDN4UH0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/16PDvDN4UH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M7S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/16PDvDN4UH0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-10-24T06:19:06-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-legends-free-for-all-mc-nestea-mvp-effort-rain-last.md",
       "title": "StarCraft 2: THE LEGENDS FREE-FOR-ALL! (MC, Nestea, Mvp, Effort, Rain & Last)",
       "excerpt": "Very fun free-for-all in StarCraft 2 in Big Game Hunters between Last, Effort, Rain, Mvp, Nestea and MC. All StarCraft 1 and StarCraft 2 legends.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko",
@@ -833,27 +685,26 @@
       "publishedDateTime": "2021-09-06T22:15:12-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-terran-meltdown-too-many-nukes-to-handle-florencio-files-184.md",
-      "title": "StarCraft 2 - TERRAN MELTDOWN - Too Many Nukes to Handle | Florencio Files #184",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-terran-meltdown-too-many-nukes-to-handle-florencio-files-184/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-terran-meltdown-too-many-nukes-to-handle-florencio-files-184/",
-      "originalUrl": "https://youtube.com/watch?v=-11IYNkmC6c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-11IYNkmC6c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M29S",
+      "path": "_games/pig-starcraft-2-no-expanding-allowed-florencio-files-236.md",
+      "title": "StarCraft 2 - NO EXPANDING ALLOWED | Florencio Files #236",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-no-expanding-allowed-florencio-files-236/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-no-expanding-allowed-florencio-files-236/",
+      "originalUrl": "https://youtube.com/watch?v=-TAhQ4DVjt8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-TAhQ4DVjt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M39S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
-        "Terran"
+        "Protoss"
       ],
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-11IYNkmC6c/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-TAhQ4DVjt8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -861,7 +712,37 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-11-20T15:34:37-08:00"
+      "publishedDateTime": "2021-08-11T03:16:55-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-recall-rush-the-florencio-files-1.md",
+      "title": "StarCraft 2 - Recall Rush | The Florencio Files #1",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-recall-rush-the-florencio-files-1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-recall-rush-the-florencio-files-1/",
+      "originalUrl": "https://youtube.com/watch?v=7hGsrlWElnU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7hGsrlWElnU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M24S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7hGsrlWElnU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-05-24T00:49:07-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-the-birth-of-clemencio-florencio-files-239.md",
@@ -894,14 +775,14 @@
       "publishedDateTime": "2021-09-01T04:09:31-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-why-are-you-hitting-yourself-florencio-files-238.md",
-      "title": "StarCraft 2 - WHY ARE YOU HITTING YOURSELF? | Florencio Files #238",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. And this time he's neural parasiting his poor Protoss opponent 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-why-are-you-hitting-yourself-florencio-files-238/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-why-are-you-hitting-yourself-florencio-files-238/",
-      "originalUrl": "https://youtube.com/watch?v=t6RJhbFPG60",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t6RJhbFPG60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M4S",
+      "path": "_games/pig-starcraft-2-the-worst-recall-of-2021-florencio-files-237.md",
+      "title": "StarCraft 2 - THE WORST RECALL OF 2021 | Florencio Files #237",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-worst-recall-of-2021-florencio-files-237/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-worst-recall-of-2021-florencio-files-237/",
+      "originalUrl": "https://youtube.com/watch?v=_Mv9BLfSiLo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Mv9BLfSiLo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M19S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -913,7 +794,7 @@
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/t6RJhbFPG60/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/_Mv9BLfSiLo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -921,7 +802,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-08-25T06:10:06-07:00"
+      "publishedDateTime": "2021-08-18T04:32:54-07:00"
     },
     {
       "path": "_games/sc2hl-360-starcraft-2-surround-serral-vs-stats.md",
@@ -1116,6 +997,105 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-03-03T15:41:51-08:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-1000-apm-commentating-while-playing-mass-marines.md",
+      "title": "StarCraft 2: 1000 APM Commentating While Playing MASS Marines!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-1000-apm-commentating-while-playing-mass-marines/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-1000-apm-commentating-while-playing-mass-marines/",
+      "originalUrl": "https://youtube.com/watch?v=Iy61JeUJva8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Iy61JeUJva8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M34S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Iy61JeUJva8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-10-05T04:27:34-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-almost-5000-mmr-with-sentries.md",
+      "title": "StarCraft 2: Almost 5000 MMR With Sentries!",
+      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  Here are a few more Mass Sentry games from playing the series on stream.   Feel free to let me know if you have any suggestions for",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-almost-5000-mmr-with-sentries/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-almost-5000-mmr-with-sentries/",
+      "originalUrl": "https://youtube.com/watch?v=_rOubyZPhAA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_rOubyZPhAA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M2S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_rOubyZPhAA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-24T15:55:50-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-basetrading-protoss-with-mass-marinnes.md",
+      "title": "StarCraft 2: Basetrading Protoss With MASS Marinnes!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-basetrading-protoss-with-mass-marinnes/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-basetrading-protoss-with-mass-marinnes/",
+      "originalUrl": "https://youtube.com/watch?v=9wEdT4jXvLY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9wEdT4jXvLY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M30S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9wEdT4jXvLY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-10-08T04:27:50-07:00"
     }
   ],
   "nextPage": 14

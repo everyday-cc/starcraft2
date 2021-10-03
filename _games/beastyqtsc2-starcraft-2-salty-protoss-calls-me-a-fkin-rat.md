@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=Nl6aZY4IR1E
 type: video
 length: PT37M54S
 publishedDateTime: 2020-01-26T12:47:35Z
-heat: 50
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nl6aZY4IR1E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "i0a3Nocl81SC/z7aRW5FdcKJg0I2vIh9/LyDrZoRaDoVtGSTNjR8KoNmxr0qt2btqctwWnMQxQSaNQ+RalqTKBE7D/dacZFetkOr3Sk/N4N60SiTXX7UNt7XtgWpw2kSRpth6QqP8LAit4xcybKSSr/EnOiyfpAu1ms9FKXN5cpChIDbJsjf5n5JYLnrUPidWw2dcl2Pw2W4o4ibZ1YpoxVs/hPf9J22/Z6Bdk/q4HGqD4WV3uDE/ygDM3KPUvAH/rvucStyygZXsJ1mac1yEOYNH1GISpXQ+mVzalc8vnTqcyrDplQqzAUXA86tEmaCIyH48Y1zHJyhAQEH1FlBfcfMaQeMm9DV2Lo6dd+0vOqwG7s06nb+vgKoHfoZp+W4U+HYRl6/JLO5c9uUgLKQlv3seHMj6F3GMZb0vZ2hb7w=;BJJ+3Z5Nw6wUrT2Fatlu3Q=="
+secured: "BQwby4e1dKt1M8bJC4Med/hVyMSurrG0VNy20BEOAeoYDQsmwLoTVG1hyw+8liaNuEVI6PKOrK7nBg76ANLn8/v43MiWhEINiucObnQkqTW1OhNHKvIYnc4aRA/2RGq1EouKWpQPNQPyguuDbPrG4y84aLNXr51BcDe8xO4V8XrpuWEf0fTcOqGZhPsCmbOZwXExrVQ+cYXdr1NWqA2PQA44XlFDp30aUPLvD3bo8YUDjhRRv4+JHHhKwSfza8TPBvRvKz6qXpshQe2E2vQzgeo2B9Cbkw/DKmsZzO58N4eHHv0lUkwDmH8Hfjnjc9vjvU3PLp63W6ZFBzhqGseWuOy+nf0eT+VI21Rxc4HRKX1x4wJjDkaFGtzEoM59eXkWje5Mh7pwfPP0hGAfCWUtVdYVhFWv7vywAbXFMQ+SXUI=;5SPr8quLQb/DK8GhmYnb6w=="
 ---
 

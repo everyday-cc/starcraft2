@@ -4,6 +4,66 @@
   "page": 21,
   "value": [
     {
+      "path": "_learning/videos/quasargamers-minute-micro-episode-3-mine-dodging.md",
+      "title": "Minute Micro - Episode 3: Mine dodging",
+      "excerpt": "Difficulty rating: 3/10  This is the third episode of a series of 1-minute videos explaining how to perform common micro techniques. This episode is on dodging widow mine shots  twitch.tv/Quasarprintf",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-3-mine-dodging/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-3-mine-dodging/",
+      "originalUrl": "https://youtube.com/watch?v=Xv-dQfpZvQw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Xv-dQfpZvQw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M9S",
+      "provider": {
+        "name": "QuasarGamers",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-06-11T19:45:18-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Xv-dQfpZvQw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/quasargamers-minute-micro-episode-30-disruptor-splits.md",
+      "title": "Minute Micro - Episode 30: Disruptor Splits",
+      "excerpt": "Difficulty rating: 9/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on dodging disruptors.  twitch.tv/Quasarprintf",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-30-disruptor-splits/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-30-disruptor-splits/",
+      "originalUrl": "https://youtube.com/watch?v=gDqSPyl0I08",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gDqSPyl0I08\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M9S",
+      "provider": {
+        "name": "QuasarGamers",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-01-07T16:04:37-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gDqSPyl0I08/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/quasargamers-minute-micro-episode-31-splash-target-fire.md",
       "title": "Minute Micro - Episode 31: Splash Target Fire",
       "excerpt": "Difficulty rating: 4/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on maximizing the damage output of splash units.  twitch.tv/Quasarprintf",
@@ -732,36 +792,6 @@
       ]
     },
     {
-      "path": "_learning/videos/winterstarcraft-learn-starcraft-new-players-guide-to-matchmaking.md",
-      "title": "Learn Starcraft! New Player's Guide to Matchmaking",
-      "excerpt": "The top five things new players can be confused about when starting off playing Starcraft 2!",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-new-players-guide-to-matchmaking/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-starcraft-new-players-guide-to-matchmaking/",
-      "originalUrl": "https://youtube.com/watch?v=bhDsd2coZpI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bhDsd2coZpI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M33S",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-11-19T09:05:00-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bhDsd2coZpI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/winterstarcraft-learn-starcraft-protoss-v-zerg-build-order-updated-2018.md",
       "title": "Learn Starcraft - Protoss v Zerg Build Order! (Updated 2018)",
       "excerpt": "A basic build to hold off and then defeat the disgusting Zerg! Meant for lower level players who have little direction, not for high level players looking for the dankest meta :) -- Watch live at https://www.twitch.tv/wintergaming",
@@ -876,36 +906,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ugvyTajOhIg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/winterstarcraft-learn-starcraft-tip-3-stay-in-control.md",
-      "title": "Learn Starcraft Tip #3 - Stay In Control",
-      "excerpt": "I have a very in depth (4 mins) guide on the shift key as well here https://www.youtube.com/watch?v=7x9pHr544oY",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-tip-3-stay-in-control/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-starcraft-tip-3-stay-in-control/",
-      "originalUrl": "https://youtube.com/watch?v=iFl_pEE9WVU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iFl_pEE9WVU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M42S",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-10-24T14:18:42-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iFl_pEE9WVU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

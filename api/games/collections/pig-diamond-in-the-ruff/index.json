@@ -1435,7 +1435,7 @@
         "Terran",
         "Protoss"
       ],
-      "heat": 110,
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/7_s6jfoSjqo/maxresdefault.jpg",
@@ -1586,7 +1586,7 @@
         "Terran",
         "Protoss"
       ],
-      "heat": 108,
+      "heat": 103,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ilVJs5gQrP8/maxresdefault.jpg",

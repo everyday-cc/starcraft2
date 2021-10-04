@@ -765,6 +765,7 @@ items:
   - pig-when-you-both-think-youre-dead-but-youre-just-stupid-santa-claws-5-starcraft-2
   - pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53
   - pig-starcraft-2-can-mass-lings-actually-beat-mech-rate-my-starcraft-7
+  - pig-starcraft-2-when-your-opponent-is-a-compulsive-liar-smurf-detective-6
 
 topics:
   - StarCraft 2

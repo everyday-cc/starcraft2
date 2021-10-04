@@ -110,7 +110,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2021-08-12T02:36:45-07:00",
-      "heat": 144,
+      "heat": 64,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/2Wvw27j3NqA/maxresdefault.jpg",
@@ -203,7 +203,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2021-09-03T20:58:10-07:00",
-      "heat": 140,
+      "heat": 60,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/m0wrhOKMnBs/hqdefault.jpg",

@@ -250,6 +250,7 @@ items:
   - pig-starcraft-2-the-birth-of-clemencio-florencio-files-239
   - pig-starcraft-2-battle-of-the-baboons-florencio-files-240
   - pig-starcraft-2-flos-in-trouble-battlecruiser-edition-florencio-file-241
+  - pig-starcraft-2-the-boom-vs-flo-crossover-episode-florencio-files-244
 
 topics:
   - StarCraft 2

@@ -4,6 +4,99 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-how-to-drop-with-medivacs-starcraft-2-terran-tutorialguidehow-to-2021.md",
+      "title": "How to drop with medivacs | Starcraft 2 Terran Tutorial/Guide/How-To [2021]",
+      "excerpt": "How to drop with medivacs | Starcraft 2 Terran Tutorial/Guide/How-To #Starcraft #Terran #Tutorial  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-how-to-drop-with-medivacs-starcraft-2-terran-tutorialguidehow-to-2021/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-how-to-drop-with-medivacs-starcraft-2-terran-tutorialguidehow-to-2021/",
+      "originalUrl": "https://youtube.com/watch?v=h5SWDtyqA6Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h5SWDtyqA6Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M26S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-06-16T16:02:10-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/h5SWDtyqA6Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-protoss-vs-protoss-build-order-safe-stalker-sentry-opening-starcraft-2-2021.md",
+      "title": "Learn Starcraft 2: Protoss vs Protoss Build Order - Safe Stalker-Sentry Opening [Starcraft 2 2021]",
+      "excerpt": "Today we're looking at a Starcraft 2 protoss vs protoss build order. This week we'll be covering lots of pvp tutorials & guides. But first things first, let's get us into the midgame with a safe opening!  Protoss vs Protoss Build Order - Safe Stalker-Sentry Opening [Starcraft 2 2020] #ProtossVsProtoss",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-protoss-vs-protoss-build-order-safe-stalker-sentry-opening-starcraft-2-2021/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-protoss-vs-protoss-build-order-safe-stalker-sentry-opening-starcraft-2-2021/",
+      "originalUrl": "https://youtube.com/watch?v=PD6PYQBfF6Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PD6PYQBfF6Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M15S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-01-06T20:41:15-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PD6PYQBfF6Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-protoss-vs-protoss-using-the-safe-pvp-build-to-defend-cheese-16-times-in-a-row.md",
+      "title": "Protoss vs Protoss - Using the safe PvP build to Defend cheese... 16 TIMES IN A ROW",
+      "excerpt": "I get cheesed 16 times in a row in Starcraft 2 to help you defend one base attacks in the protoss vs protoss matchup.  Using the safe PvP build to Defend cheese... 16 TIMES IN A ROW #protoss #pvp #starcraft2  Coaching -------------------------------------------------------------------------- Website:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-vs-protoss-using-the-safe-pvp-build-to-defend-cheese-16-times-in-a-row/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-protoss-vs-protoss-using-the-safe-pvp-build-to-defend-cheese-16-times-in-a-row/",
+      "originalUrl": "https://youtube.com/watch?v=Qfgy6uw65uQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Qfgy6uw65uQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H21M57S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-01-09T17:40:31-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Qfgy6uw65uQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-protoss-vs-zerg-chargelot-dt-vs-6000mmr.md",
       "title": "Protoss vs Zerg | Chargelot-DT vs 6000MMR",
       "excerpt": "In today's Starcraft 2 lesson we go through a protoss vs zerg game against a very strong grandmaster \"Ryu\" who is currently about 6000MMR on the north american server. I play a pretty unique 4 gate zealot-dt style which is very close to Zest's 4 gate adept build that is running rampant on the ladder.",
@@ -679,23 +772,23 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-partings-unbeatable-pvt.md",
-      "title": "Parting's Unbeatable PvT",
-      "excerpt": "🔥 I love watching this brain-twisting Korean Protoss work his magic against Terrans right now 🐷 Support PiG: https://www.pigstarcraft.com/support/  🔥 Book of Filth 2.0: https://docs.google.com/document/d/1GbpZ-qjoUQ42ZwVsmk3cYgLZ1WYNcLc9l6KUo-Zuudk/edit?usp=sharing 🔥 GSL game vs Cure in ST 2: https://www.youtube.com/watch?v=qhf_UWUyc0Y&t=351s&ab_channel=AfreecaTVeSports",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-partings-unbeatable-pvt/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-partings-unbeatable-pvt/",
-      "originalUrl": "https://youtube.com/watch?v=2KDnIiqrY1Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2KDnIiqrY1Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M39S",
+      "path": "_learning/videos/pig-how-does-reynor-get-ahead-every-single-zvt.md",
+      "title": "How does REYNOR get ahead EVERY SINGLE ZvT?",
+      "excerpt": "Reynor's ascent in StarCraft in recent years has been startling, culminating in a world champion. I've been very impressed with his early game ZvT, which is just so dominating 🐷 Support PiG: https://www.pigstarcraft.com/support/ -- 🐖 Watch live on https://www.twitch.tv/x5_pig 🎓 For coaching inquiries",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-how-does-reynor-get-ahead-every-single-zvt/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-how-does-reynor-get-ahead-every-single-zvt/",
+      "originalUrl": "https://youtube.com/watch?v=QqdFHEPHCqk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QqdFHEPHCqk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M58S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-03-14T01:37:50-08:00",
+      "publishedDateTime": "2021-03-23T00:58:51-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2KDnIiqrY1Q/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/QqdFHEPHCqk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -706,59 +799,27 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-scarletts-disgusting-protoss-cheeses.md",
-      "title": "SCARLETT’S DISGUSTING PROTOSS CHEESES",
-      "excerpt": "Scarlett just casually making zergs aware of all the latest Protoss dirty cheeses 🎤 More Pro SC2 Casts: https://www.youtube.com/playlist?list=PLFUDU8AOevUetBNFfypOKoKcE3BqgZdbt 🐷 Support PiG: https://www.pigstarcraft.com/support/ -- 🐖 Watch live on https://www.twitch.tv/x5_pig 🎓 For coaching inquiries",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-scarletts-disgusting-protoss-cheeses/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-scarletts-disgusting-protoss-cheeses/",
-      "originalUrl": "https://youtube.com/watch?v=KG5mIx6MJ_8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KG5mIx6MJ_8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-04-14T21:25:03-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KG5mIx6MJ_8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
         "Zerg"
       ]
     },
     {
-      "path": "_learning/videos/pig-the-pig-daily-10-fundamentals-of-starcraft-all-the-most-important-mechanics-and-tips.md",
-      "title": "The PiG Daily #10 - Fundamentals of Starcraft - all the most important mechanics and tips",
-      "excerpt": "Timestamps:  4:00 - Camera Locations and editing hotkeys 11:20 - Personalizing Hotkey Layout 14:24 - (Zerg) Hotkeying Eggs  17:00 - The F2 Key 19:00 - Ctrl Click/Double Click 20:30 - Shift Key Selecting 21:55 - Cloning 23:54 - Map Control  27:40 - Queuing Actions 33:06 - Rapid Fire Spells 36:24 - Control",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-the-pig-daily-10-fundamentals-of-starcraft-all-the-most-important-mechanics-and-tips/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-the-pig-daily-10-fundamentals-of-starcraft-all-the-most-important-mechanics-and-tips/",
-      "originalUrl": "https://youtube.com/watch?v=9EEv2pw94WQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9EEv2pw94WQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H27M13S",
+      "path": "_learning/videos/pig-starcraft-2-coaching-silver-terran-mechanics-macro-cycle-and.md",
+      "title": "StarCraft 2 - Coaching Silver Terran - Mechanics, Macro Cycle and",
+      "excerpt": "I coach a silver 1 terran player on some key mechanics, how to learn a tight macro cycle and how to understand and improve at Starcraft -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-coaching-silver-terran-mechanics-macro-cycle-and/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-coaching-silver-terran-mechanics-macro-cycle-and/",
+      "originalUrl": "https://youtube.com/watch?v=f0chGt6IVBo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f0chGt6IVBo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H10M53S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2016-07-04T00:19:02-07:00",
+      "publishedDateTime": "2017-05-11T02:13:10-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/9EEv2pw94WQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/f0chGt6IVBo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -768,7 +829,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Terran"
       ]
     },
     {
@@ -913,68 +975,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/1wcWMqzUQ2k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-002-training-stage-1.md",
-      "title": "Starcraft 2 Newbie Guide - 002 - Training: Stage 1",
-      "excerpt": "In this episode we take our time in Stage 1 of the Training section of Starcraft 2.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ  Other places to find my stuff: Twitter: http://twitter.com/davidangel64 Twitch: http://twitch.tv/davidangel64",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-002-training-stage-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-002-training-stage-1/",
-      "originalUrl": "https://youtube.com/watch?v=AicbTSn3gjQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AicbTSn3gjQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M11S",
-      "provider": {
-        "name": "davidangel64",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2015-11-27T18:30:10-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AicbTSn3gjQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-003-training-stage-2.md",
-      "title": "Starcraft 2 Newbie Guide - 003 - Training: Stage 2",
-      "excerpt": "In this episode we pick up the pace and explore more advanced units and upgrades.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list...  Other places to find my stuff: Twitter: http://twitter.com/davidangel64 Twitch: http://twitch.tv/davidangel64 Tumblr: http://davidr64.tumblr.com",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-003-training-stage-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-003-training-stage-2/",
-      "originalUrl": "https://youtube.com/watch?v=OX8IeLRjOaU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OX8IeLRjOaU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M47S",
-      "provider": {
-        "name": "davidangel64",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2015-11-29T17:00:09-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OX8IeLRjOaU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

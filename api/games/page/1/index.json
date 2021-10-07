@@ -514,43 +514,6 @@
       "publishedDateTime": "2021-09-25T01:47:28-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-florencio-gets-rushed.md",
-      "title": "StarCraft 2: FLORENCIO Gets Rushed!",
-      "excerpt": "A game of Zerg versus Protoss in StarCraft 2 with some very creative strategies.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-florencio-gets-rushed/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-florencio-gets-rushed/",
-      "originalUrl": "https://youtube.com/watch?v=nB24pHjh_eI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nB24pHjh_eI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M18S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 124,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nB24pHjh_eI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-09-23T04:41:23-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-blys-amazing-proxy-hatcheries-vs-clem.md",
       "title": "StarCraft 2: Bly's AMAZING Proxy Hatcheries Vs Clem!",
       "excerpt": "Bly versus Clem in a best-of-5 series of professional StarCraft 2.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
@@ -586,6 +549,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-12-24T01:43:03-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-gumiho-proxies-all-the-things-best-of-3.md",
+      "title": "StarCraft 2: GuMiho Proxies ALL THE THINGS! (Best-of-3)",
+      "excerpt": "Gumiho is back! After wrapping his military service he has decided to return to pro gaming. In this best-of-3 series of StarCraft 2 between Astrea and Gumiho.   Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumiho-proxies-all-the-things-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumiho-proxies-all-the-things-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=mTimt6bK0Fw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mTimt6bK0Fw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M29S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 120,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mTimt6bK0Fw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-26T04:03:12-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul.md",
@@ -663,6 +664,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-09-08T02:26:21-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-byun-and-classic-lose-their-main-base-best-of-5.md",
+      "title": "StarCraft 2: ByuN and Classic Lose  Their MAIN BASE! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Classic and ByuN.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-and-classic-lose-their-main-base-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-and-classic-lose-their-main-base-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=VIyzVhhHO6I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VIyzVhhHO6I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT51M36S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 115,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VIyzVhhHO6I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-08-25T04:59:01-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-grand-finals-serral-vs-trap-best-of-7.md",
@@ -809,66 +849,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-09-21T04:19:21-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-the-worst-recall-of-2021-florencio-files-237.md",
-      "title": "StarCraft 2 - THE WORST RECALL OF 2021 | Florencio Files #237",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-worst-recall-of-2021-florencio-files-237/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-worst-recall-of-2021-florencio-files-237/",
-      "originalUrl": "https://youtube.com/watch?v=_Mv9BLfSiLo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Mv9BLfSiLo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M19S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_Mv9BLfSiLo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-18T04:32:54-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-grimmys-2-game-shtshow-grim-reaper-20.md",
-      "title": "StarCraft 2 - GRIMMY'S 2 GAME SH*TSHOW | Grim Reaper #20",
-      "excerpt": "Grim Reaper shows us his tricky, cheesy Protoss plays against both Zerg and Terran opponents. We've seen him torture pros, what can he do against lower MMR players?! 🐷 Support PiG: https://www.pigstarcraft.com/support/  The Grim Reaper Playlist: https://www.youtube.com/watch?v=3cLene8nRc8&list=PLFUDU8AOevUcEZxzA83oiBz8LxgwgLeyR",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-grimmys-2-game-shtshow-grim-reaper-20/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-grimmys-2-game-shtshow-grim-reaper-20/",
-      "originalUrl": "https://youtube.com/watch?v=0nxkq2kjvdw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0nxkq2kjvdw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M1S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0nxkq2kjvdw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-17T15:56:30-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-darks-amazing-strategic-variety-best-of-5.md",
@@ -1022,6 +1002,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-05T03:11:34-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-florencio-gets-rushed.md",
+      "title": "StarCraft 2: FLORENCIO Gets Rushed!",
+      "excerpt": "A game of Zerg versus Protoss in StarCraft 2 with some very creative strategies.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-florencio-gets-rushed/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-florencio-gets-rushed/",
+      "originalUrl": "https://youtube.com/watch?v=nB24pHjh_eI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nB24pHjh_eI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M18S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 99,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nB24pHjh_eI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-09-23T04:41:23-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-zerg-mothership.md",

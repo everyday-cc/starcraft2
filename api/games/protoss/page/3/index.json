@@ -341,45 +341,6 @@
       "publishedDateTime": "2018-05-24T00:49:07-07:00"
     },
     {
-      "path": "_games/sc2hl-360-starcraft-2-surround-serral-vs-stats.md",
-      "title": "360° STARCRAFT 2 SURROUND! - Serral vs Stats",
-      "excerpt": "Serral vs Stats in a great and action packed starcraft 2 game, both going for lategame.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Full vod: https://www.twitch.tv/videos/293320065?t=5h1m42s   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-360-starcraft-2-surround-serral-vs-stats/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-360-starcraft-2-surround-serral-vs-stats/",
-      "originalUrl": "https://youtube.com/watch?v=mzGhNZuguII",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mzGhNZuguII\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M1S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mzGhNZuguII/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-10-16T07:21:19-07:00"
-    },
-    {
       "path": "_games/sc2hl-8-minute-mothership-sos-vs-neeb-gsl-vs-the-world.md",
       "title": "8 MINUTE MOTHERSHIP?! - sOs vs Neeb - GSL vs The WORLD",
       "excerpt": "sOs & Neeb in a crazy protoss vs protoss during GSL vs the world. A tournament with the best players from WCS competing with the best players from GSL. sOs quickly goes into a mothership!   ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Watch GSL vs The world: http://bit.ly/GSLVSWORLD   Thank",
@@ -1070,45 +1031,6 @@
       "publishedDateTime": "2018-07-24T03:45:26-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-relentless-terran-aggression-classic-vs-gumiho.md",
-      "title": "StarCraft 2: RELENTLESS Terran Aggression! (Classic vs GuMiho)",
-      "excerpt": "Awesome match of Terran versus Protoss played at the professional level of StarCraft 2. This is the first game I cast featuring Classic, after he came back to StarCraft 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-relentless-terran-aggression-classic-vs-gumiho/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-relentless-terran-aggression-classic-vs-gumiho/",
-      "originalUrl": "https://youtube.com/watch?v=ebWXC3MCPMI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ebWXC3MCPMI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ebWXC3MCPMI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-14T03:54:24-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-professional-cannon-rush-parting-vs-scarlett.md",
       "title": "StarCraft 2: The PROFESSIONAL Cannon Rush! (PartinG vs Scarlett)",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between PartinG and Scarlett. In this series PartinG decides to play everything that is out of the current meta of Zerg versus Protoss currently.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My",
@@ -1146,6 +1068,83 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-25T04:26:03-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-smiling-assassin-is-back-drg-vs-hero.md",
+      "title": "StarCraft 2: The SMILING ASSASSIN Is Back! (DRG vs herO)",
+      "excerpt": "Best-of-3 series of Protoss versus Zerg in StarCraft 2 between herO, who just recently returned to StarCraft as a pro gamer, and DRG.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-smiling-assassin-is-back-drg-vs-hero/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-smiling-assassin-is-back-drg-vs-hero/",
+      "originalUrl": "https://youtube.com/watch?v=Uw4_bnH1f1U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Uw4_bnH1f1U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Uw4_bnH1f1U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-08-04T04:01:41-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-zerg-cheese-vs-protoss-cheese.md",
+      "title": "StarCraft 2: ZERG CHEESE vs PROTOSS CHEESE!",
+      "excerpt": "Proxy Hatcheries, Photon Cannons, Dark Templar and more! Subscribe for more videos: http://lowko.tv/youtube Battlecruiser death ball: https://goo.gl/cQoQgX  A really cool series of games played on the new ladder maps between Goblin and Nerchio in StarCraft 2. In this game both players decide to play",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zerg-cheese-vs-protoss-cheese/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zerg-cheese-vs-protoss-cheese/",
+      "originalUrl": "https://youtube.com/watch?v=pLNja26P-Sc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pLNja26P-Sc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M29S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pLNja26P-Sc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-11-20T10:59:41-08:00"
     }
   ],
   "nextPage": 4

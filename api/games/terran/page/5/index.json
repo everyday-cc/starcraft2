@@ -699,36 +699,6 @@
       "publishedDateTime": "2017-07-07T01:03:19-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-how-to-beat-terrans-1000-mmr-higher-than-you-2-games-grim-reaper-21.md",
-      "title": "StarCraft 2 - How to Beat Terrans 1000 MMR Higher than You (2-games) | Grim Reaper #21",
-      "excerpt": "Grim Reaper shows us his tricky, cheesy Protoss plays. He's now working on a strat to kill Terrans who are up to 1k MMR higher than him... 🐷 Support PiG: https://www.pigstarcraft.com/support/  The Grim Reaper Playlist: https://www.youtube.com/watch?v=3cLene8nRc8&list=PLFUDU8AOevUcEZxzA83oiBz8LxgwgLeyR",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-how-to-beat-terrans-1000-mmr-higher-than-you-2-games-grim-reaper-21/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-how-to-beat-terrans-1000-mmr-higher-than-you-2-games-grim-reaper-21/",
-      "originalUrl": "https://youtube.com/watch?v=rtsUiF8KdwU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rtsUiF8KdwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M13S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rtsUiF8KdwU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-09-06T22:15:12-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-how-to-beat-turtle-terran-the-florencio-files-165.md",
       "title": "StarCraft 2 - How to Beat Turtle Terran! The Florencio Files #165",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
@@ -831,39 +801,6 @@
       "publishedDateTime": "2020-09-23T04:49:52-07:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-15-reactor-barracks-mass-marines.md",
-      "title": "StarCraft 2: 15+ Reactor Barracks MASS Marines!",
-      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-15-reactor-barracks-mass-marines/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-15-reactor-barracks-mass-marines/",
-      "originalUrl": "https://youtube.com/watch?v=QRiQXg9s-FQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QRiQXg9s-FQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M49S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QRiQXg9s-FQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-10-08T04:29:20-07:00"
-    },
-    {
       "path": "_games/beastyqtsc2-starcraft-2-florencio-nexus-rush-vs-marines.md",
       "title": "StarCraft 2: FLORENCIO Nexus Rush vs MARINES?!",
       "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
@@ -928,6 +865,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-05-28T03:50:21-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-it-worked-he-thought-i-was-zerg-.md",
+      "title": "StarCraft 2: IT WORKED! He Thought I Was Zerg 😂",
+      "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  2019 Best Moments video: https://youtu.be/FEAEwkYcUS0  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-it-worked-he-thought-i-was-zerg-/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-it-worked-he-thought-i-was-zerg-/",
+      "originalUrl": "https://youtube.com/watch?v=-vzun_PbNBg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-vzun_PbNBg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M18S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-vzun_PbNBg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-02-01T03:45:27-08:00"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-mass-marines-vs-mass-ultralisks-infestors.md",
@@ -1093,6 +1063,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-02-25T03:46:54-08:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-zerg-admits-his-race-is-easy.md",
+      "title": "StarCraft 2: ZERG ADMITS HIS RACE IS EASY!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-zerg-admits-his-race-is-easy/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-zerg-admits-his-race-is-easy/",
+      "originalUrl": "https://youtube.com/watch?v=tMROwj81_tM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tMROwj81_tM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M50S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tMROwj81_tM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-09-29T01:27:41-07:00"
     }
   ],
   "nextPage": 6

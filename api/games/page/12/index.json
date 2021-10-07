@@ -4,121 +4,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-1000-iq-dark-templar.md",
-      "title": "StarCraft 2: 1000 IQ DARK TEMPLAR!",
-      "excerpt": "A really clever match of Protoss vs Protoss. Subscribe for more videos: http://lowko.tv/youtube Insane Protoss macro: https://goo.gl/kYVEow  Trap vs herO in a professional match of StarCraft 2 with commentary. While Trap gets a great position on his opponent, he didn't anticipate the 1000 IQ Dark Templar",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-1000-iq-dark-templar/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-1000-iq-dark-templar/",
-      "originalUrl": "https://youtube.com/watch?v=u_N23HnyN50",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u_N23HnyN50\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/u_N23HnyN50/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-05T23:33:50-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-beautiful-starcraft-dark-vs-cure.md",
-      "title": "StarCraft 2: BEAUTIFUL STARCRAFT! (Dark vs Cure)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between the current World Champion Dark and the strongest up-and-coming player Cure. A sick series of Zerg versus Terran where both players play what is considered to be a classical style of StarCraft 2 focused around Marine Marauder Medivac and Mutalisks Zerglings",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-beautiful-starcraft-dark-vs-cure/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-beautiful-starcraft-dark-vs-cure/",
-      "originalUrl": "https://youtube.com/watch?v=dk9Lom8nR9Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dk9Lom8nR9Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dk9Lom8nR9Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-01-24T05:07:07-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-byun-vs-solar-best-of-3.md",
-      "title": "StarCraft 2: BYUN vs SOLAR! (Best-of-3)",
-      "excerpt": "ByuN has been steadily climbing through the ranks again in StarCraft 2. In this today's video he's facing off against Solar in a best-of-3 series.  Clem's 9 Barracks Reaper: https://youtu.be/bbJWnH_ooAI  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-vs-solar-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-vs-solar-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=eLWJxqsr7gs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eLWJxqsr7gs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M46S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eLWJxqsr7gs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-11-07T03:35:45-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-byun-with-zero-income.md",
       "title": "StarCraft 2: ByuN With ZERO Income!",
       "excerpt": "Terran versus Protoss match in StarCraft 2 between ByuN and Creator.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
@@ -1148,6 +1033,121 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-09T03:45:25-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serral-masses-ultralisks-vs-zest-zerg-vs-protoss.md",
+      "title": "StarCraft 2: Serral MASSES ULTRALISKS vs Zest?! (Zerg vs Protoss)",
+      "excerpt": "Professional match of StarCraft 2 between Serral and Zest. In this match Zest opens up with what looks like a standard turtle Sky Toss style. However, as he transitions towards a lot of Gateways, Serral is forced to respond and decides to go for Ultralisks. Ultras versus Protoss are incredibly uncommon.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-masses-ultralisks-vs-zest-zerg-vs-protoss/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-masses-ultralisks-vs-zest-zerg-vs-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=eVrNGBt_yeE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eVrNGBt_yeE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M46S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eVrNGBt_yeE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-05-17T03:25:45-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serral-vs-reynor.md",
+      "title": "StarCraft 2: Serral vs Reynor!",
+      "excerpt": "Serral vs Reynor in a best-of-7 series of StarCraft 2. This is the Grand Finals of the World Championship Series Fall.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup I use: https://lowko.tv/setup/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=hQCyM7Y-8TI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hQCyM7Y-8TI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT58M23S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hQCyM7Y-8TI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-09-11T02:17:54-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-simply-outplayed-clem-vs-serral.md",
+      "title": "StarCraft 2: SIMPLY OUTPLAYED! (Clem vs Serral)",
+      "excerpt": "Awesome game of professional Terran versus Zerg in StarCraft 2 between Clem and Serral.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv The",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-simply-outplayed-clem-vs-serral/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-simply-outplayed-clem-vs-serral/",
+      "originalUrl": "https://youtube.com/watch?v=RJV4XR-dvKc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RJV4XR-dvKc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M5S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RJV4XR-dvKc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-21T03:02:50-07:00"
     }
   ],
   "nextPage": 13

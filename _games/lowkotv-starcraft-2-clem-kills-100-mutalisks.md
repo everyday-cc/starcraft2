@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-clem-kills-100-m
 type: video
 length: PT29M3S
 publishedDateTime: 2020-11-30T10:23:15Z
-heat: 54
+heat: 61
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7JmYu75kjkQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "FscU72hgjJA164EzEEEfFfoJ/5j9ELvmv1oAXqsy6tQkm8nSTdTjxgrMOjEC6W3894D0au7+AvwgPgCgpvltWZJ2SGfFmYeKCXfPBQKuZRKIUrgQG2dqyyjP4FFZmozp4BK1QgFFkuYo4FI6WFUnWHLwngYlZflP+sER766fJQ3TYQToRurrCBtx5YWWGcAJ3O9E5Bikv6UqLGEQ+yX+MqJLPM8jMHqWT+Bnl6s6nEpKPYDYB0gdkJr78EIwttC/RvqBntIb/EfetfILE8BRLiZ9xC2viHv4Qc6mvo3TtlgruM5SnF1Q3MkcnXzNt7wv4NuMhQx+6+zIoA6NLkvmCzXW6DonCncW4gRoIBEZ4Jdk6Ag6m7r3savfFSGDTcQwXyfAU3KloH8UhbRim9MHJpKkMJE+7OBYwMiNrxn6o0zOTveqZ0aw1yKJJlKTitB5;AdP5rTE5oSxEyiuv56er+w=="
+secured: "1kHS15MygE9UytMv05HF1KnJUzzbekXxdrpCVQ9iSDq7i3BSrtLI671ZnfKAiOWbL1/AFvMIdiwLbXoGajTlYV1v0GKM6/OpXCMaH/qVrS1Jy5emcQwznZYCQwOrW1bwsCKB87dzUbKsHeotu4UFspAKkc4+YLs0JtNU/YSXtqmqpfJnF+7Sg7rTSFD+y2OMKHNdtFRKEY+mRpcdc7iF/R6ukLyrZd6R8qYXYmuqnw06MUzFnpcflz0EFT+SzRreSpcaN2HQSlw/zj6yc9cXnhFpWsB3IYRHQ/p5sA7x+BsuMexa9WjuQhnNJo48anlz//GF/WTPWXkJETmcXEWJEkeXQ10tpYQ5AcKqMEktBPg8ImTjcOfYwDiIdXLxTQqSs2cc4seIJ3xi4HDUS5vj0e9D6V+aTQa+odC138y1FcP9GDeYY7//hGGn4ZoU96fm;1RZ+78N8Gb7YqfEp7QmZMg=="
 ---
 

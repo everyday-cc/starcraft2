@@ -7,7 +7,7 @@ originalUrl: "https://thehoya.com/console-commentary-the-2004-osl-starcraft-tour
 webUrl: "https://thehoya.com/console-commentary-the-2004-osl-starcraft-tournament-and-the-rise-of-the-bunker-rush/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 720
     height: 300
     isCached: true
+
+related:
+  - title: "Playing StarCraft Makes You Smarter"
+    excerpt: "StarCraft might literally be food for thought. A recent study conducted by researchers at Queen Mary and University College London concluded that playing StarCraft and complex real-time strategy games can help improve brain agility and multitasking."
+    publishedDateTime: 2021-10-07T05:44:00Z
+    webUrl: "https://www.redbull.com/in-en/playing-starcraft-ii-makes-you-smarter"
+    ampWebUrl: "https://amp.redbull.com/in-en/playing-starcraft-ii-makes-you-smarter"
+    cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/in-en/playing-starcraft-ii-makes-you-smarter"
+    type: article
+    provider:
+      name: Red Bull
+      domain: redbull.com
+    quality: 57
+    images:
+      - url: "https://img.redbull.com/images/c_fill,w_480,h_320,g_auto,f_auto,q_auto/redbullcom/2013/09/19/1331612013871_2/wcs-america-season-2-finals-practice"
+        width: 480
+        height: 320
+        isCached: true
 
 secured: "Q/XjJUBfDfJlJqln0Byrzc6LLh01yJ6u4k5tJFYLIhIl3rZr2QdV4VKJR9ecE/nVKHI4BSwkWMhN5bYIcpN4Ns0s1BOYc8EmVGXgozKsAduEb8kCqW0WyZMSgI55JOIKxWF9wqEj8RN47guLf0eS5pa5xTZDx+FqEgcdAwUhTj4I4Xq8dn8qiBgy13PZDtMbMqT+Mdhv+T3s11lg5EGH9s+sMJtBzevnKaImVr6YPsCyzxFq2kg2BYLuOLRpnTuTKXX9wH0QjdKqXG2FAf/HfHoIFvuWkW5J/IwyDudIR2/m4cVKQFRg9wWz2Mw9OKhvOsy7MqZHUS7ro8rw29u/qslEaAzPnZSV9ZSNDsy+kJA=;Cd+jJ2D1xtJMkn93dpXaQA=="
 ---

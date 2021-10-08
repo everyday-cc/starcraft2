@@ -4,6 +4,45 @@
   "page": 5,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-non-stop-protoss-aggression-serral-vs-trap.md",
+      "title": "StarCraft 2: NON-STOP Protoss Aggression! (Serral vs Trap)",
+      "excerpt": "Top level game of Zerg versus Protoss in StarCraft 2 between Serral and Trap. In this match Trap decides to just pile on the pressure with Adepts, Oracles, Archons, 10 Gateways and more.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-non-stop-protoss-aggression-serral-vs-trap/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-non-stop-protoss-aggression-serral-vs-trap/",
+      "originalUrl": "https://youtube.com/watch?v=iEY5iLUuUto",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iEY5iLUuUto\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iEY5iLUuUto/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-05-11T02:59:32-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-probes-snipe-a-hatchery.md",
       "title": "StarCraft 2: PROBES SNIPE A HATCHERY?!",
       "excerpt": "An epic series of Zerg vs Protoss between Zest and Stephano. Subscribe for more videos: http://lowko.tv/youtube Solar vs INnoVation: https://goo.gl/gVzpyJ  Super good series. Both players show very high level of gameplay with engagements going on everywhere. It turns out however, that Probes can snipe",
@@ -1106,45 +1145,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-26T00:41:12-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-queen-drops-vs-battlecruiser-rush.md",
-      "title": "StarCraft 2: QUEEN DROPS vs BATTLECRUISER ‘RUSH'!",
-      "excerpt": "The best viewer game of StarCraft 2 so far? A crazy game of Diamond League Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 viewer games: https://youtu.be/J9NsfQ-g1DM  A ridiculous game of Zerg vs Terran. Even though the Terran player gets reduced to zero SCVs twice,",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-queen-drops-vs-battlecruiser-rush/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-queen-drops-vs-battlecruiser-rush/",
-      "originalUrl": "https://youtube.com/watch?v=doUqVe7vwYU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/doUqVe7vwYU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M35S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/doUqVe7vwYU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-06-10T01:58:32-07:00"
     }
   ],
   "nextPage": 6

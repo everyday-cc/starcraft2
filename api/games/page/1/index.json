@@ -109,6 +109,44 @@
       "publishedDateTime": "2021-10-05T04:51:13-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-serral-cheeses-maxpax-best-of-5.md",
+      "title": "StarCraft 2: Serral CHEESES MaxPax?! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between MaxPax (Protoss) and Serral (Zerg). A variety of games in this series, with a heavy macro focus and some cheese.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-cheeses-maxpax-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-cheeses-maxpax-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=yUq7ZaA5RCY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yUq7ZaA5RCY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H4M58S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 270,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yUq7ZaA5RCY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-10-08T04:57:46-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-clems-terran-vs-zerg-is-insane-solar-vs-clem.md",
       "title": "StarCraft 2: Clem's Terran vs Zerg is INSANE! (Solar vs Clem)",
       "excerpt": "Professional match of StarCraft 2 between Solar and Clem. In this Terran versus Zerg we watch Clem take control of the early game, but Solar managed to stay alive and strikes back in the late game.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -785,25 +823,26 @@
       "publishedDateTime": "2021-07-29T04:34:49-07:00"
     },
     {
-      "path": "_games/pig-the-afk-build-rate-my-starcraft-4.md",
-      "title": "THE AFK BUILD | Rate My StarCraft #4",
-      "excerpt": "This submission for Rate My Starcraft features the AFK Build, where you pretend to be AFK to your unsuspecting opponent.  🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your awesome StarCraft plays. Send in your replay to RateMyStarCraft@gmail.com PLUS",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-afk-build-rate-my-starcraft-4/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-afk-build-rate-my-starcraft-4/",
-      "originalUrl": "https://youtube.com/watch?v=8UFZgMif_FU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8UFZgMif_FU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M29S",
+      "path": "_games/pig-starcraft-2-is-this-protoss-hacking-smurf-detective-4.md",
+      "title": "StarCraft 2 - IS THIS PROTOSS HACKING!? | Smurf Detective #4",
+      "excerpt": "Here we dive into a Smurf Detective submission by a Terran who wonders whether his opponent is either a Starcraft smurf, hacker or both. What do you think?  🔥New Community Submission Series: SMURF DETECTIVE! So you think you have faced a Smurf. Send in your replay to RateMyStarCraft@gmail.com with your",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-is-this-protoss-hacking-smurf-detective-4/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-is-this-protoss-hacking-smurf-detective-4/",
+      "originalUrl": "https://youtube.com/watch?v=lOVoW2XJjik",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lOVoW2XJjik\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M10S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Protoss"
       ],
       "heat": 111,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/8UFZgMif_FU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/lOVoW2XJjik/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -811,7 +850,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-08-20T21:02:46-07:00"
+      "publishedDateTime": "2021-09-01T04:10:25-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-zerg-mothership.md",
@@ -853,27 +892,25 @@
       "publishedDateTime": "2018-01-04T03:39:21-08:00"
     },
     {
-      "path": "_games/pig-starcraft-2-ruffs-creative-solutions-to-protoss-2-games-diamond-in-the-ruff-48.md",
-      "title": "StarCraft 2 - RUFF’S CREATIVE SOLUTIONS TO PROTOSS (2-games) | Diamond in the Ruff #48",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponents? 🐷 Support PiG: https://www.pigstarcraft.com/support/  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-ruffs-creative-solutions-to-protoss-2-games-diamond-in-the-ruff-48/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-ruffs-creative-solutions-to-protoss-2-games-diamond-in-the-ruff-48/",
-      "originalUrl": "https://youtube.com/watch?v=7_s6jfoSjqo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7_s6jfoSjqo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M43S",
+      "path": "_games/pig-how-i-got-stuck-in-a-34-day-subathon-never-underestimate-twitch-chat.md",
+      "title": "How I got stuck in a 34 day Subathon (never underestimate Twitch chat)",
+      "excerpt": "I thought my subathon would last a day or two at most! Twitch chat had other ideas and locked me in for 34 days instead, allowing me to beat Ludwig's 726 hours on day 33.  To everyone who watched and supported, thank you so much! This was a crazy, challenging experience that will be remembered for some",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-i-got-stuck-in-a-34-day-subathon-never-underestimate-twitch-chat/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-i-got-stuck-in-a-34-day-subathon-never-underestimate-twitch-chat/",
+      "originalUrl": "https://youtube.com/watch?v=ZOo4vlMHFbk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZOo4vlMHFbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M2S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
+        "StarCraft 2"
       ],
       "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/7_s6jfoSjqo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZOo4vlMHFbk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -881,7 +918,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-07-21T03:49:23-07:00"
+      "publishedDateTime": "2021-08-17T16:05:01-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-blys-amazing-proxy-hatcheries-vs-clem.md",
@@ -1034,43 +1071,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-09-21T04:19:21-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-florencio-gets-rushed.md",
-      "title": "StarCraft 2: FLORENCIO Gets Rushed!",
-      "excerpt": "A game of Zerg versus Protoss in StarCraft 2 with some very creative strategies.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-florencio-gets-rushed/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-florencio-gets-rushed/",
-      "originalUrl": "https://youtube.com/watch?v=nB24pHjh_eI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nB24pHjh_eI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M18S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 104,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nB24pHjh_eI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-09-23T04:41:23-07:00"
     }
   ],
   "nextPage": 2

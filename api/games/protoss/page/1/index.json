@@ -142,26 +142,35 @@
       "publishedDateTime": "2021-09-14T01:37:27-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-battle-of-the-baboons-florencio-files-240.md",
-      "title": "StarCraft 2 - BATTLE OF THE BABOONS! | Florencio Files #240",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-battle-of-the-baboons-florencio-files-240/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-battle-of-the-baboons-florencio-files-240/",
-      "originalUrl": "https://youtube.com/watch?v=PJNjjLP5140",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PJNjjLP5140\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M58S",
+      "path": "_games/lowkotv-starcraft-2-byun-and-classic-lose-their-main-base-best-of-5.md",
+      "title": "StarCraft 2: ByuN and Classic Lose  Their MAIN BASE! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Classic and ByuN.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-and-classic-lose-their-main-base-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-and-classic-lose-their-main-base-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=VIyzVhhHO6I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VIyzVhhHO6I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT51M36S",
       "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "StarCraft 2",
+        "Terran",
         "Protoss"
       ],
-      "heat": 112,
+      "heat": 115,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/PJNjjLP5140/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/VIyzVhhHO6I/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -169,7 +178,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-09-06T22:09:22-07:00"
+      "publishedDateTime": "2021-08-25T04:59:01-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul.md",
@@ -209,6 +218,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-29T04:34:49-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-florencios-caricature-of-a-macro-zerg-florencio-files-235.md",
+      "title": "StarCraft 2 - FLORENCIO’S CARICATURE OF A MACRO ZERG | Florencio Files #235",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencios-caricature-of-a-macro-zerg-florencio-files-235/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencios-caricature-of-a-macro-zerg-florencio-files-235/",
+      "originalUrl": "https://youtube.com/watch?v=HWM5huj271w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HWM5huj271w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M18S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 111,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HWM5huj271w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-08-04T05:39:46-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-zerg-mothership.md",
@@ -1328,45 +1368,6 @@
       ],
       "content": "\r\n",
       "type": "collection"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-traps-colossus-drop-versus-byun.md",
-      "title": "StarCraft 2: Trap's COLOSSUS DROP Versus ByuN!",
-      "excerpt": "It doesn't get much higher level than ByuN versus Trap when it comes to the Terran versus Protoss matchup in StarCraft 2. In this best-of-3 series we see a variety of strategies and approaches to the game.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-traps-colossus-drop-versus-byun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-traps-colossus-drop-versus-byun/",
-      "originalUrl": "https://youtube.com/watch?v=ISPK_eWX3ls",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ISPK_eWX3ls\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M20S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ISPK_eWX3ls/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-19T03:58:35-08:00"
     }
   ],
   "nextPage": 2

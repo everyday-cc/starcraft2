@@ -62,6 +62,7 @@ items:
   - pig-starcraft-2-the-200iq-comeback-move-diamond-in-the-ruff-51
   - pig-starcraft-2-sneaky-nuke-drops-diamond-in-the-ruff-52
   - pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53
+  - pig-starcraft-2-these-are-the-terran-units-to-worry-about-diamond-in-the-ruff-54
 
 topics:
   - StarCraft 2

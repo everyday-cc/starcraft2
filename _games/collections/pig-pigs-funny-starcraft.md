@@ -708,7 +708,7 @@ items:
   - pig-starcraft-2-triple-extractor-trick-kaboom-baby-7
   - pig-starcraft-2-ridiculous-proxy-spire-kaboom-baby-8
   - pig-the-master-of-proxy-hatcheries-kaboom-baby-9
-  - pig-starcraft-2-did-harstem-smurf-school-bronze-league-smurf-detective-3
+  - pig-starcraft-2-harstem-has-been-accused-of-smurfing-smurf-detective-3
   - pig-can-pig-handle-682k-scoville-byun-vs-parting-bo9-hot-wings-cast
   - pig-starcraft-2-just-a-gathering-of-smooth-brains-having-some-fun
   - pig-starcraft-2-epic-2v2-but-pig-plays-both-accounts-on-two-pcs-reverse-archon
@@ -764,9 +764,10 @@ items:
   - pig-the-sickest-trick-to-defend-cannon-rushes-icyfar-building-blocker-compilation-starcraft-2
   - pig-when-you-both-think-youre-dead-but-youre-just-stupid-santa-claws-5-starcraft-2
   - pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53
-  - pig-starcraft-2-can-mass-lings-actually-beat-mech-rate-my-starcraft-7
+  - pig-starcraft-2-the-superbowl-wants-its-quarterbacks-back-rate-my-starcraft-7
   - pig-starcraft-2-when-your-opponent-is-a-compulsive-liar-smurf-detective-6
   - pig-starcraft-2-the-boom-vs-flo-crossover-episode-florencio-files-244
+  - pig-starcraft-2-these-are-the-terran-units-to-worry-about-diamond-in-the-ruff-54
   - pig-how-to-win-with-people-you-dont-like-jocko-willink
 
 topics:

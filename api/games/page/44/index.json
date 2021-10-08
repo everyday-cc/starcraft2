@@ -856,14 +856,14 @@
       "publishedDateTime": "2020-08-08T14:00:06-07:00"
     },
     {
-      "path": "_games/pig-how-not-to-handle-widow-mines-rate-my-starcraft-3.md",
-      "title": "How NOT to handle Widow Mines | Rate My StarCraft #3",
-      "excerpt": "🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your awesome StarCraft plays. Send in your replay to RateMyStarCraft@gmail.com PLUS why you think it was so good (This is similar to ICYFAR but you choose the topic). Bonus points if you can say why in",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-not-to-handle-widow-mines-rate-my-starcraft-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-not-to-handle-widow-mines-rate-my-starcraft-3/",
-      "originalUrl": "https://youtube.com/watch?v=A_vO9C_ly7k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A_vO9C_ly7k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M10S",
+      "path": "_games/pig-how-i-got-stuck-in-a-34-day-subathon-never-underestimate-twitch-chat.md",
+      "title": "How I got stuck in a 34 day Subathon (never underestimate Twitch chat)",
+      "excerpt": "I thought my subathon would last a day or two at most! Twitch chat had other ideas and locked me in for 34 days instead, allowing me to beat Ludwig's 726 hours on day 33.  To everyone who watched and supported, thank you so much! This was a crazy, challenging experience that will be remembered for some",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-i-got-stuck-in-a-34-day-subathon-never-underestimate-twitch-chat/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-i-got-stuck-in-a-34-day-subathon-never-underestimate-twitch-chat/",
+      "originalUrl": "https://youtube.com/watch?v=ZOo4vlMHFbk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZOo4vlMHFbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M2S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -874,7 +874,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/A_vO9C_ly7k/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZOo4vlMHFbk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -882,7 +882,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-08-17T15:57:54-07:00"
+      "publishedDateTime": "2021-08-17T16:05:01-07:00"
     }
   ],
   "nextPage": 45

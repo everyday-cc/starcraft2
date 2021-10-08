@@ -767,6 +767,7 @@ items:
   - pig-starcraft-2-can-mass-lings-actually-beat-mech-rate-my-starcraft-7
   - pig-starcraft-2-when-your-opponent-is-a-compulsive-liar-smurf-detective-6
   - pig-starcraft-2-the-boom-vs-flo-crossover-episode-florencio-files-244
+  - pig-how-to-win-with-people-you-dont-like-jocko-willink
 
 topics:
   - StarCraft 2

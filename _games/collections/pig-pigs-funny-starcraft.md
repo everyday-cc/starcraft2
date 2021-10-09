@@ -713,8 +713,8 @@ items:
   - pig-starcraft-2-just-a-gathering-of-smooth-brains-having-some-fun
   - pig-starcraft-2-epic-2v2-but-pig-plays-both-accounts-on-two-pcs-reverse-archon
   - pig-the-most-frustrating-builds-in-starcraft-icyfar-blocked-compilation
-  - pig-you-all-need-to-go-back-to-science-school-pig-roasts-3
-  - pig-just-a-2-hour-roast-fest-travesty-pig-roasts-2
+  - pig-starcraft-2-you-all-need-to-go-back-to-science-school-pig-roasts-3
+  - pig-starcraft-2-just-a-2-hour-roast-fest-travesty-pig-roasts-2
   - pig-pig-casts-beast-of-the-hill-ffa-ft-a-lift-off-strat
   - pig-twitch-plays-pig-the-real-version
   - pig-pig-casts-an-epic-4v4-beast-of-the-hill-battle
@@ -769,6 +769,7 @@ items:
   - pig-starcraft-2-the-boom-vs-flo-crossover-episode-florencio-files-244
   - pig-starcraft-2-these-are-the-terran-units-to-worry-about-diamond-in-the-ruff-54
   - pig-how-to-win-with-people-you-dont-like-jocko-willink
+  - pig-how-to-win-without-killing-a-single-worker-icyfar-rules-of-engagement-compilation-starcraft-2
 
 topics:
   - StarCraft 2

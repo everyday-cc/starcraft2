@@ -235,45 +235,6 @@
       "publishedDateTime": "2021-10-01T02:59:54-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-dozens-of-tactical-nukes-cure-vs-solar.md",
-      "title": "StarCraft 2: Dozens of TACTICAL NUKES! (Cure vs Solar)",
-      "excerpt": "Epic game of professional StarCraft 2 between Cure (Terran) and Solar (Zerg). This game features a game of ZvT where the entire map gets mined out.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-dozens-of-tactical-nukes-cure-vs-solar/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-dozens-of-tactical-nukes-cure-vs-solar/",
-      "originalUrl": "https://youtube.com/watch?v=Tt_A6A4ebXY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tt_A6A4ebXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M17S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Tt_A6A4ebXY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-09-03T01:03:24-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-zerg-mothership.md",
       "title": "StarCraft 2: THE ZERG... MOTHERSHIP?!",
       "excerpt": "Turns out Neural Parasite is pretty good... If used correctly. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Protoss: https://goo.gl/qeUdf6  A very fun match of Gold League Zerg versus Protoss. In this game the Zerg player decides to go for a strategy that is a little uncommon. Eventually,",
@@ -311,6 +272,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-01-04T03:39:21-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-floor-is-lurkers-cure-vs-rogue.md",
+      "title": "StarCraft 2: The Floor Is LURKERS! (Cure vs Rogue)",
+      "excerpt": "Best-of-3 series of top-level StarCraft 2 between Rogue and Cure. In this Zerg versus Terran we watch both players execute a variety of strategies as they try to outsmart the opponent.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-floor-is-lurkers-cure-vs-rogue/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-floor-is-lurkers-cure-vs-rogue/",
+      "originalUrl": "https://youtube.com/watch?v=ncRPm1ZpXKQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ncRPm1ZpXKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M44S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 119,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ncRPm1ZpXKQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-08-17T05:00:43-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-ultimate-zerg-protoss-armies-serral-vs-harstem.md",
@@ -930,6 +929,45 @@
       "publishedDateTime": "2021-07-07T03:56:04-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-dozens-of-tactical-nukes-cure-vs-solar.md",
+      "title": "StarCraft 2: Dozens of TACTICAL NUKES! (Cure vs Solar)",
+      "excerpt": "Epic game of professional StarCraft 2 between Cure (Terran) and Solar (Zerg). This game features a game of ZvT where the entire map gets mined out.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-dozens-of-tactical-nukes-cure-vs-solar/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-dozens-of-tactical-nukes-cure-vs-solar/",
+      "originalUrl": "https://youtube.com/watch?v=Tt_A6A4ebXY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tt_A6A4ebXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M17S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 72,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Tt_A6A4ebXY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-09-03T01:03:24-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-top-level-sc2-reynor-vs-clem-best-of-5.md",
       "title": "StarCraft 2: TOP LEVEL SC2 - Reynor vs Clem! (Best-of-5)",
       "excerpt": "Best-of-5 series of professional StarCraft 2 between Reynor and Clem. AT this point I've casted these two facing off against each other dozens of times but these games always deliver.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
@@ -1120,45 +1158,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-25T10:45:48-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-neeb-plays-skytoss-without-carriers-scarlett-vs-neeb.md",
-      "title": "StarCraft 2: Neeb Plays SKYTOSS Without CARRIERS?! (Scarlett vs Neeb)",
-      "excerpt": "SkyToss is very common at the professional level of StarCraft 2. However it usually is played with as many Carriers as possible. In this game of Zerg versus Protoss between Scarlett and Neeb, the Protoss player decides to skip Carriers entirely.  Support my work on Patreon: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-neeb-plays-skytoss-without-carriers-scarlett-vs-neeb/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-neeb-plays-skytoss-without-carriers-scarlett-vs-neeb/",
-      "originalUrl": "https://youtube.com/watch?v=VJVQ1QXtghM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VJVQ1QXtghM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M19S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 67,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VJVQ1QXtghM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-09-13T01:43:40-07:00"
     }
   ],
   "nextPage": 2

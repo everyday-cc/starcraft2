@@ -4,44 +4,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-cheesiest-series-ever-showtime-vs-maxpax.md",
-      "title": "StarCraft 2: Cheesiest Series EVER?! (ShoWTimE vs MaxPax)",
-      "excerpt": "Extremely cheesy series of Protoss versus Protoss in StarCraft 2 between ShoWTimE and MaxPax.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cheesiest-series-ever-showtime-vs-maxpax/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cheesiest-series-ever-showtime-vs-maxpax/",
-      "originalUrl": "https://youtube.com/watch?v=UVEpX2i5668",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UVEpX2i5668\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M51S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UVEpX2i5668/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-12-12T02:43:08-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-cheesing-the-cheeser-bo3.md",
       "title": "StarCraft 2: CHEESING THE CHEESER! (Bo3)",
       "excerpt": "Best-of-3 series of professional Zerg vs Protoss with lots of cheese! Subscribe for more videos: http://lowko.tv/youtube 50+ Tactical Nukes: https://youtu.be/xKYulaEILB0  Elazer versus Has in a really fun series. While normally Has is known for playing the cheesy games, in this series it turns out it",
@@ -1132,6 +1094,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-06-30T03:54:26-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-epic-lurker-wars-serral-vs-reynor.md",
+      "title": "StarCraft 2: EPIC LURKER WARS! (Serral vs Reynor)",
+      "excerpt": "Zerg versus Zerg is one of the most complicated matchups in StarCraft 2. If you miscontrol and mismicro in the first ten minutes of the game, it's pretty much game over right away. In this top-level match of Zerg versus Zerg between Serral and Reynor (in my opinion the best ZvZ players in the world)",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-lurker-wars-serral-vs-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-lurker-wars-serral-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=-qQvITpsMf8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-qQvITpsMf8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M37S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-qQvITpsMf8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-16T05:44:25-08:00"
     }
   ],
   "nextPage": 29

@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-masters-of-micro
 type: video
 length: PT34M50S
 publishedDateTime: 2021-01-28T12:58:20Z
-heat: 52
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hfXPJ22QwSQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "vWkZhBAFLqy8rryx1Y/7xvd5zTrKG/ReZMiFvNyQXOc19fL8fbiLqAKu0BjljDCChlPDYmTZsY1VRqWi8esZrf6PDkG92tg5p4xC90kW2lXWCR2ecVxPp8ip2umK6yNp9TA95+WGcntSp089aO6NsobhyYUGSFmXVx8QYj5v2q5vfooLef8OPyEQpD3is6E1NPl+TRGKG7cvv2ve1tbH3hFE2tkcyWqlLYrluXNL9i2jpKWh19ESPnneNWPg3JX5qDgeOMxIqX+prnW0Um/2PuVKjFlGW6k3LyZOEcPvVsbDwubtrIFRpuY8liXd5ekRmxrzrkip2Rh0z/OGO0cnvP1S/1obScrbjKZrOCmvMOBWHfHaQo0F+xj2/K93iMNxmILF5qaho707IVtWIhV/Q25RU5LCPNJohpIxHyU9TDg=;ObJs1Wf+6Xwyfbu0BneN1A=="
+secured: "Ep+1H4by34bzUfgVckO0eKOif8WfRhfrspENibshdYmubMJ2IfHIII9HzYJeU8Zn76TCq65lV53sMscAk20hCU1QrAGxSK7TURx/ITZX7EM7WdHEF9JVAm7mmh6vKB2eC81Xy1pon4XBeJGfG6Z+nBP8Ujrxtg2/VtY+V6TfIf8mMkbK65/MpCTzJ6524e8YbgJK3DoLQVSbns8RHK3nf0on56AFYqg22yjgkCiFe6K5ETDKyKDhCg/lxMm/ouCwIwBUO8lbEinaWCsrRRPs9BH6l7CIPGPLh8dl4MIaX+fLexiXKx0pMdPmMlF4CZgujeqp9ow+2pVhW3fK06p5Mp7Kk8QqLsFhV+D1zMgLaW5IaqA4qet4I2c5NhGRdQqeC36MaYECexF+xA1Vnaq+zEGHoxG4xJup+/86Zwb46EA=;eGTMORy/WRfYXzuUG3MOJw=="
 ---
 

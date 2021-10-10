@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynor-as-protos
 type: video
 length: PT48M26S
 publishedDateTime: 2020-10-26T11:40:37Z
-heat: 52
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gvbv5On206Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+Imuiq19Vr8eb6RRQmS29MEdEd4Edd2yP5WWYwUBNohgdfmyFd0/9bzburiAWKsnCTPpfsKUtt6AqOFlf3SfvtFIHubyMirHYnT6lIws28BiH/Ob0q5QnmU7qboIcliVc5XDjUTJt+0cbn4zjSu1tupW3UmEcQ7TslM2bulS8Hn10+pXWBlT1ty8BhtKD8MbFAKPRny+NKr0asqytRW4ArKM1PFvgw3klwBr1HlBhsxbDe5nOIGvkIO4fSsrtNXniGPj45yuxDwUTCgrspHgljvLpdaRDVrLhmmG8JzP960MHqpWwvhqQ0G0f1DRhEDhinlHrEDvEQiE/NC1ANrNkfzEOU6Po/34f5MmufD2inGWwCXHTuCkcD5LVqzy2pPf4o+aHFWiYBfSNMzESoXYIds22LCnkISS9McTEL2eCC8DIankPdH9NIiWqsg9kQqe;8UnhiU/sK1FbvE7+HtXuSg=="
+secured: "dUtit/Rj7Oimluf326DELYAmZhaRgxSb9mIbY4oaicVh2zyL+6elcIgvwm62twJlErRFMhat5ehvz3UEYEB0TcFQgKisGzS2OAbGoWemO547B30eiPfR3aYPaxkcvnow0fykRMG2Fu8+SV981jBXGVBR3SeRC2c+www+XpbXvRnACcvksb4zbGXIVnO8DkUXpUjq4XYfU4bpcxA5Eplfap3DUualoq8u23uOcsSyTsysDE6upuiwnHoCN0qxGclIJ4BmQbPcxrRSFO7A3Atd5w/7PwsJUBzbt1MvBD3Pmm+aNI2soP0Y1WPdsLNnxPwVTzY3c/J02Hq+sIU159NmC1qN59yIO2If6hGayt0WhUA26MO2yiIaf7oCdfV+4UZtOBpp2IN4ciUq3X905puWEFhLHAArDqVFeOItU8Zgurg=;x5xYCS6DttRIuePyq9xY8A=="
 ---
 

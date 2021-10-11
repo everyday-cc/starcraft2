@@ -4,67 +4,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_learning/videos/pig-set-plays-and-obsessive-build-refinement-coaching-zvt-plat-1.md",
-      "title": "Set Plays and obsessive build refinement! | Coaching ZvT Plat 1",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-set-plays-and-obsessive-build-refinement-coaching-zvt-plat-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-set-plays-and-obsessive-build-refinement-coaching-zvt-plat-1/",
-      "originalUrl": "https://youtube.com/watch?v=YrIIAgVuB84",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YrIIAgVuB84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H15M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-01-02T09:00:11-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YrIIAgVuB84/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-set-plays-fighting-vs-3-rax-stim-push-coaching-pvt-d1.md",
-      "title": "Set Plays, fighting vs 3-Rax Stim Push - Coaching PvT D1",
-      "excerpt": "Coaching a student on PvT, how to deal with 3 Rax stim! -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-set-plays-fighting-vs-3-rax-stim-push-coaching-pvt-d1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-set-plays-fighting-vs-3-rax-stim-push-coaching-pvt-d1/",
-      "originalUrl": "https://youtube.com/watch?v=Q3x1S31Pu_s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q3x1S31Pu_s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H8S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-01-18T01:35:46-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Q3x1S31Pu_s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-sharp-aggressive-play-2v2-coaching.md",
       "title": "Sharp Aggressive Play | 2v2 Coaching",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -921,6 +860,68 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-the-pig-daily-66-understanding-jargon-ep-1-beginner-basics.md",
+      "title": "The PiG Daily #66 - Understanding Jargon Ep 1. Beginner Basics",
+      "excerpt": "THIS WEEKS ICYFAR: \"Worker Massacre\" - Submit your games with huge numbers of workers dying. Send submissions to eonblu95@gmail.com as attachment. Lastest submission until the second daily of the week (Monday in EU/US, Tuesday in AUS/KR).\r Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-the-pig-daily-66-understanding-jargon-ep-1-beginner-basics/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-the-pig-daily-66-understanding-jargon-ep-1-beginner-basics/",
+      "originalUrl": "https://youtube.com/watch?v=PQ0d7GPivDI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PQ0d7GPivDI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M46S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2016-10-10T02:13:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PQ0d7GPivDI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-the-pig-show-1-tobias-showtime-sieber-is-zerg-still-imba-showtime-talks-lategame-pvz.md",
+      "title": "The PiG Show #1 | Tobias 'Showtime' Sieber - Is Zerg still imba? Showtime talks lategame PvZ",
+      "excerpt": "Be sure to check out Showtimes twitch and social media: https://www.twitch.tv/sc2showtime https://twitter.com/ShoWTimESC2 https://www.instagram.com/showtimesc2/?hl=en  Here is a link to the Neeb vs Serral VOD: https://www.twitch.tv/videos/515417253?t=02h46m28s  Nationwars continues in 4 days (dezember",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-the-pig-show-1-tobias-showtime-sieber-is-zerg-still-imba-showtime-talks-lategame-pvz/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-the-pig-show-1-tobias-showtime-sieber-is-zerg-still-imba-showtime-talks-lategame-pvz/",
+      "originalUrl": "https://youtube.com/watch?v=zIPjBtZiLnA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zIPjBtZiLnA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H37M35S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-12-19T21:06:20-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zIPjBtZiLnA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
       ]
     }
   ],

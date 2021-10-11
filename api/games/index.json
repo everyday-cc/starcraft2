@@ -293,6 +293,44 @@
       "publishedDateTime": "2021-10-09T03:18:53-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-marus-maxed-out-sky-terran-best-of-5.md",
+      "title": "StarCraft 2: Maru's Maxed Out SKY TERRAN! (Best-of-5)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between Maru and HeroMarine. In this series that was played during Dreamhack Masters we see a variety of matches. The macro games in this series go from the 1-1-1 opener, to Marine Tank based compositions, to Terran Mech and eventually Sky Terran.   Support my",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marus-maxed-out-sky-terran-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marus-maxed-out-sky-terran-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=Dsa4Ohr4bfk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Dsa4Ohr4bfk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H12M36S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 167,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Dsa4Ohr4bfk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-21T05:04:43-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-clems-terran-vs-zerg-is-insane-solar-vs-clem.md",
       "title": "StarCraft 2: Clem's Terran vs Zerg is INSANE! (Solar vs Clem)",
       "excerpt": "Professional match of StarCraft 2 between Solar and Clem. In this Terran versus Zerg we watch Clem take control of the early game, but Solar managed to stay alive and strikes back in the late game.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -591,6 +629,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-10-06T06:27:46-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-epic-game-proxy-factory-vs-proxy-stargate-gumiho-vs-hero.md",
+      "title": "StarCraft 2: EPIC GAME - Proxy Factory vs Proxy Stargate! (GuMiho vs herO)",
+      "excerpt": "Professional game of StarCraft 2 between GuMiho (Terran) and herO (Protoss) where both players make lots of questionable decisions which makes it a lot of fun to watch.   Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-game-proxy-factory-vs-proxy-stargate-gumiho-vs-hero/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-proxy-factory-vs-proxy-stargate-gumiho-vs-hero/",
+      "originalUrl": "https://youtube.com/watch?v=6Q-cQMAup78",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6Q-cQMAup78\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 127,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6Q-cQMAup78/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-09-06T04:06:16-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-harstems-40-battlecruiser-fleet.md",
@@ -931,103 +1008,6 @@
       "publishedDateTime": "2021-06-16T03:40:15-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-the-birth-of-clemencio-florencio-files-239.md",
-      "title": "StarCraft 2 - THE BIRTH OF CLEMENCIO | Florencio Files #239",
-      "excerpt": "Witness the birth of Clemencio! I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-birth-of-clemencio-florencio-files-239/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-birth-of-clemencio-florencio-files-239/",
-      "originalUrl": "https://youtube.com/watch?v=zUZZRnsy0r0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zUZZRnsy0r0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M22S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zUZZRnsy0r0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-09-01T04:09:31-07:00"
-    },
-    {
-      "path": "_games/pig-the-afk-build-rate-my-starcraft-4.md",
-      "title": "THE AFK BUILD | Rate My StarCraft #4",
-      "excerpt": "This submission for Rate My Starcraft features the AFK Build, where you pretend to be AFK to your unsuspecting opponent.  🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your awesome StarCraft plays. Send in your replay to RateMyStarCraft@gmail.com PLUS",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-afk-build-rate-my-starcraft-4/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-afk-build-rate-my-starcraft-4/",
-      "originalUrl": "https://youtube.com/watch?v=8UFZgMif_FU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8UFZgMif_FU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8UFZgMif_FU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-20T21:02:46-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-marus-maxed-out-sky-terran-best-of-5.md",
-      "title": "StarCraft 2: Maru's Maxed Out SKY TERRAN! (Best-of-5)",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 between Maru and HeroMarine. In this series that was played during Dreamhack Masters we see a variety of matches. The macro games in this series go from the 1-1-1 opener, to Marine Tank based compositions, to Terran Mech and eventually Sky Terran.   Support my",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marus-maxed-out-sky-terran-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marus-maxed-out-sky-terran-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=Dsa4Ohr4bfk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Dsa4Ohr4bfk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H12M36S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 107,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Dsa4Ohr4bfk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-21T05:04:43-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-grand-finals-serral-vs-trap-best-of-7.md",
       "title": "StarCraft 2: THE GRAND FINALS - Serral vs Trap! (Best-of-7)",
       "excerpt": "Best-of-7 series of professional StarCraft 2 between Serral (Zerg) and Trap (Protoss). This series is the grand finals of the Dreamhack StarCraft 2 Masters 2021 Fall: Season Finals.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
@@ -1065,6 +1045,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-09-14T01:37:27-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-blys-amazing-proxy-hatcheries-vs-clem.md",
+      "title": "StarCraft 2: Bly's AMAZING Proxy Hatcheries Vs Clem!",
+      "excerpt": "Bly versus Clem in a best-of-5 series of professional StarCraft 2.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-blys-amazing-proxy-hatcheries-vs-clem/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-blys-amazing-proxy-hatcheries-vs-clem/",
+      "originalUrl": "https://youtube.com/watch?v=1RpcgiNR9xE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1RpcgiNR9xE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT59M14S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 104,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1RpcgiNR9xE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-12-24T01:43:03-08:00"
     }
   ],
   "nextPage": 2

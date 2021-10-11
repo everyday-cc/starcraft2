@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M35S
 publishedDateTime: 2015-03-12T11:05:28Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qaShuxrNZtg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "gHshIElgs2j/ICBvEXRe7SJGnlpwCX12A3qeBR4MdXWbUTDkqC8IvnEjdJThCNlQ4CxvVnKGpkIxBU28VIq6gnWkQGkeTYWOJGu4VKg7aP/6Z5PW44kdKYuL4LuEse1AqA8RFN3+PYBTuKZhvN+7SnwAykOhGOlpTIEUpEZoGIsJNpiNouspxetY0yEtczJCOOqQH6pAXtrMR4DIwY074VqBEJoLIjxk3skky8F5E+02oylJmqgJlO5qNcqKJAlS6YDN4z2B1fN/tLqSObZ+1saQ7z/2LBt9bfStLwjVDjryj97uYDYZ8r/NqveMY1VXayqWfLtIzJAT9WAmA5g7ZQ7wJBdWZdfMPPcrImP5JGVBiSYbkTfimhZbsPpxJo1zAQS88NxmnGqQH5sHWDxzDQEJ0KtUgrZJaOBYa6Y6fYw=;2MS5+erAMTwXerdEY5tJ2A=="
+secured: "fKKnuNSRTv/JpeXmmhg+XWA1Xzav85t1DN0UTprcMCDdPnd7fZWjplFP9qUDcNSMZ1Jn5c8C6eznzVBSynebwR//x0+XbCCk7GiqgR2KHPGAkD1/Jbf7fBZnQJz5zrRDbLj1EezaCwTSbYneEQ8JmktZxl8AomMczxhE3xwrnwiI8OWzUeWNy0JkdSTLqwR6rgBJEZUDqz2nD8YKmeG8hodGYNybWjNAj0Ipd0qoLSHnrrlzdXgXvvZtEabcCS7km3p2HbGJXQquzTetwE731LtSusAabqmc+6NEpyIwP+XesqVzMbMBoNeY/U4CddEBU0GMEvmKHDW0THjdsNExXWQrIH8ZKO8ZopMSkt9NuGrHnxwV5tpkDPQssOArcsQVodeYb2VLfe9vE2pJDYDmExXfb9X0Kd4+cH5Sy2zQoWs=;icp2vX6nvVxXfhT5GheMnw=="
 ---
 

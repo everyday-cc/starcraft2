@@ -827,6 +827,37 @@
       ]
     },
     {
+      "path": "_learning/videos/pig-choosing-your-race-protoss-welcome-to-starcraft-3.md",
+      "title": "Choosing your Race Protoss - Welcome to Starcraft #3",
+      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-choosing-your-race-protoss-welcome-to-starcraft-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-choosing-your-race-protoss-welcome-to-starcraft-3/",
+      "originalUrl": "https://youtube.com/watch?v=NC7f6BU_Iy0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NC7f6BU_Iy0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-02-21T18:12:48-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NC7f6BU_Iy0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-starcraft-2-zero-micro-pvt-guide.md",
       "title": "StarCraft 2 - ZERO MICRO PvT Guide",
       "excerpt": "This is a solid opening that focuses on extra observers so you have plenty of warning to stop incoming harassment, collosus to stop the stim push, and chargelots and archons to A+Move the Terran 3rd base! … OK admittedly if you mess up the attack on the 3rd base, the game goes longer and you have to",
@@ -919,38 +950,6 @@
         "Zerg",
         "Terran",
         "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-009-protoss-gameplay.md",
-      "title": "Starcraft 2 Newbie Guide - 009 - Protoss Gameplay",
-      "excerpt": "An overview of Protoss gameplay to help newer, interested players get a good view of all three races, and to help round out the guide.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ  Other places to find my stuff: Twitter: http://twitter.com/davidangel64",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-009-protoss-gameplay/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-009-protoss-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=YYLph9dGJ-Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YYLph9dGJ-Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M54S",
-      "provider": {
-        "name": "davidangel64",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2015-12-06T17:00:14-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YYLph9dGJ-Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
       ]
     }
   ],

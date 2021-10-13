@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT20M22S
 publishedDateTime: 2017-05-06T09:01:43Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/76PmBDv7-ww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "d/bOoIwaMbbtdr4Zf58H2jop+XHckzEnkxlb4knUucDrcBURNzaUOPI66pi1lO3HS02XnqDmgYGCUVS9SnmDlI4xG94+Atp2h0lYUSwovKVBetbGhUwAtHzA9HHCC1neODpcL4P7k5EUT1hNdjV05NWOh83OUhKq3SbIxqtBO1mSsHo/NqHP8Ks92+IfagDiqME8vIOmakPGCGTVJJUVKhjlzuqdJgAyN60DnLPbUhBNob09/nOG/hBavFsxCcLM0ozrkV9IiN4lfxo21aocfzHftJ0jdiosQP9gqSTKiid4dZjyGynHWNT6F4mbDtfLekfmNnMdcmKNGAHcgR+TUWDizI8iV4HGbUvqVinPxZ1kNuW+47s+ZCIo+EJTiLc2H5NiZMG97LAPoEtFmTPNU0ZskKKzQJUDgiTr9UbPCLJRPoqo/Rw4+0E55+Hb7FKV;rKkfURpJBKq4Maomgq1JJg=="
+secured: "V/ICDOGSCURo4u+O+01bZQJk30Qyk6KMcG+pakzp8IR0SA2R6S4Lm0AdrTIkDWEIMnH3V8AhlOJ16kGudZKBSVUSR0C10EgPjZVpnTQUaOIj+iOLKU6DtMpVYn4Z8J+SijtFsZs5huqlbSFbLdWSD+dxnpsHzgaE21MdmNawYCqmIz4cP2eLCSy5TpCLcCE9TgOuwfErZfK3HGa8tCMZylQdULxdUbD+tzSY1kG0rfY6o7G/WnQsw16oBKw7Z8i+HTJ66gi+Vjws2CKXZZTL+eN20KhsAWDI1VvmJ4mfMnlnSLosrAhUiegYFcgr2CWIsQtELRehAB5AaJ21X3qQN5LB036/boDgOY1aDv1o5eM35EHCQudKpzPNA+RMqwzCbs1dzCqU2JQGAlbkZOu8OJLMmIr/2dqN1n/CFeKct1ELqhKO60VW5+pTAAPA/HUi;SrO5i1u7mjEkY/0M0Bcq/Q=="
 ---
 

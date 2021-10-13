@@ -390,44 +390,6 @@
       "publishedDateTime": "2021-10-01T02:59:54-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-dark-templar-as-core-units-maxpax-vs-heromarine.md",
-      "title": "StarCraft 2: Dark Templar As CORE UNITS! (MaxPax vs HeroMarine)",
-      "excerpt": "Professional match of StarCraft 2 between HeroMarine and MaxPax, where the Protoss player uses Dark Templar as a core unit in his composition.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-dark-templar-as-core-units-maxpax-vs-heromarine/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-dark-templar-as-core-units-maxpax-vs-heromarine/",
-      "originalUrl": "https://youtube.com/watch?v=0DRrgl4QBRE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0DRrgl4QBRE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M46S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 120,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0DRrgl4QBRE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-03T01:25:44-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-maru-vs-serral-best-of-5.md",
       "title": "StarCraft 2: MARU vs SERRAL! (Best-of-5)",
       "excerpt": "In this best-of-5 series of professional StarCraft 2 we watch Serral face off against Maru in a Zerg versus Terran. This is the best player from South Korea, going up against the best player outside of South Korea.  Serral vs Trap Grand Finals (Dreamhack Fall): https://youtu.be/Bxi7syqMyXI  Support my",
@@ -465,37 +427,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-09-21T04:19:21-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-grim-tortures-zerg-pro-grim-reaper-17.md",
-      "title": "StarCraft 2 - GRIM TORTURES ZERG PRO | Grim Reaper #17",
-      "excerpt": "Grim Reaper shows us his tricky, cheesy plays against 6400 MMR pro player, Cham! 🐷 Support PiG: https://www.pigstarcraft.com/support/  The Grim Reaper Playlist: https://www.youtube.com/watch?v=3cLene8nRc8&list=PLFUDU8AOevUcEZxzA83oiBz8LxgwgLeyR GrimReaper’s stream: https://www.twitch.tv/grimmy_uk --",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-grim-tortures-zerg-pro-grim-reaper-17/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-grim-tortures-zerg-pro-grim-reaper-17/",
-      "originalUrl": "https://youtube.com/watch?v=EF6LnldOmy0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EF6LnldOmy0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M59S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EF6LnldOmy0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-17T16:05:50-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-neeb-vs-reynor-best-of-5.md",
@@ -1150,6 +1081,84 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-20T04:54:57-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-incredible-best-of-5-maru-vs-dark.md",
+      "title": "StarCraft 2: INCREDIBLE BEST-OF-5! (Maru vs Dark)",
+      "excerpt": "Amazing best-of-5 series of top-level professional StarCraft 2. In this Zerg versus Terran between Dark and Maru we watch two of the highest ranked players in the world face off against each other with a variety of strategies and build orders.  Support my work: http://www.patreon.com/lowkotv  My second",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-best-of-5-maru-vs-dark/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-incredible-best-of-5-maru-vs-dark/",
+      "originalUrl": "https://youtube.com/watch?v=uxApFI7wQt4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uxApFI7wQt4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H7M35S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 71,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uxApFI7wQt4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-23T05:16:59-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-late-game-insanity-dark-vs-creator.md",
+      "title": "StarCraft 2: LATE GAME INSANITY! (Dark vs Creator)",
+      "excerpt": "Excellent game of professional Zerg versus Protoss in StarCraft 2. In this game between Dark and Creator we dive into the late game of this matchup and take a glimpse at certain unexplored strategies.   OlimoLeague on Patreon: https://www.patreon.com/olimoley   Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-late-game-insanity-dark-vs-creator/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-late-game-insanity-dark-vs-creator/",
+      "originalUrl": "https://youtube.com/watch?v=ZGBQn1UbR5g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZGBQn1UbR5g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 71,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZGBQn1UbR5g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-02T03:15:03-08:00"
     }
   ],
   "nextPage": 2

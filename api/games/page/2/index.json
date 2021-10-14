@@ -4,14 +4,14 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/pig-are-these-bronze-league-heroes-rate-my-starcraft-5.md",
-      "title": "Are these BRONZE LEAGUE HEROES? | Rate My StarCraft #5",
-      "excerpt": "Subscribe to my other YT channel: PiG Casts https://www.youtube.com/channel/UC0gYU3XhbUOzZJS1mGvzpZw 🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your awesome StarCraft plays. Send in your replay to RateMyStarCraft@gmail.com PLUS why you think it",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-are-these-bronze-league-heroes-rate-my-starcraft-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-are-these-bronze-league-heroes-rate-my-starcraft-5/",
-      "originalUrl": "https://youtube.com/watch?v=blYYfPh4ASY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/blYYfPh4ASY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M12S",
+      "path": "_games/pig-starcraft-2-double-proxy-hatch-brain-breaker-2-games-kaboom-baby-10.md",
+      "title": "StarCraft 2 - DOUBLE PROXY HATCH BRAIN BREAKER (2-games) | Kaboom Baby #10",
+      "excerpt": "Proxy hatches galore! Watch booooooooooooooooooom (with 19 Os!) jolt things up in these Zerg versus Terran StarCraft 2 matches. 🐷 Support PiG: https://www.pigstarcraft.com/support/  Check out her twitch: https://www.twitch.tv/booooooooooooooooooom/ -- 🐖 Watch live on https://www.twitch.tv/x5_pig 🎓",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-double-proxy-hatch-brain-breaker-2-games-kaboom-baby-10/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-double-proxy-hatch-brain-breaker-2-games-kaboom-baby-10/",
+      "originalUrl": "https://youtube.com/watch?v=zP6hW0i9Gug",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zP6hW0i9Gug\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M49S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -22,7 +22,7 @@
       "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/blYYfPh4ASY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/zP6hW0i9Gug/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -30,7 +30,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-09-03T18:44:28-07:00"
+      "publishedDateTime": "2021-08-17T15:58:29-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-blys-amazing-proxy-hatcheries-vs-clem.md",

@@ -759,17 +759,18 @@ items:
   - pig-starcraft-2-battle-of-the-baboons-florencio-files-240
   - pig-starcraft-2-how-to-beat-terrans-1000-mmr-higher-than-you-2-games-grim-reaper-21
   - pig-starcraft-2-this-player-has-been-accused-of-hacking-3-games-smurf-detective-5
-  - pig-two-players-try-their-best-to-throw-the-game-rate-my-starcraft-6
+  - pig-superhuman-throw-allows-impossible-comeback-rate-my-starcraft-6
   - pig-starcraft-2-flos-in-trouble-battlecruiser-edition-florencio-file-241
   - pig-the-sickest-trick-to-defend-cannon-rushes-icyfar-building-blocker-compilation-starcraft-2
   - pig-when-you-both-think-youre-dead-but-youre-just-stupid-santa-claws-5-starcraft-2
-  - pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53
-  - pig-starcraft-2-the-superbowl-wants-its-quarterbacks-back-rate-my-starcraft-7
+  - pig-starcraft-2-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53
+  - pig-when-your-army-is-hard-countered-but-it-still-works-rate-my-starcraft-7
   - pig-starcraft-2-when-your-opponent-is-a-compulsive-liar-smurf-detective-6
   - pig-starcraft-2-the-boom-vs-flo-crossover-episode-florencio-files-244
   - pig-starcraft-2-these-are-the-terran-units-to-worry-about-diamond-in-the-ruff-54
   - pig-how-to-win-with-people-you-dont-like-jocko-willink
-  - pig-how-to-win-without-killing-a-single-worker-icyfar-rules-of-engagement-compilation-starcraft-2
+  - pig-starcraft-2-how-to-win-without-killing-a-single-worker-icyfar-rules-of-engagement-compilation
+  - pig-starcraft-2-florencio-perfectly-executes-a-2-1-1-florencio-files-245
 
 topics:
   - StarCraft 2

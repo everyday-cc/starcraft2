@@ -28,7 +28,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-07-29T18:26:51-07:00",
-          "heat": 155,
+          "heat": 75,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Tr1_8C6CjMQ/maxresdefault.jpg",
@@ -140,7 +140,7 @@
         }
       ],
       "size": 10,
-      "heat": 169,
+      "heat": 90,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Tr1_8C6CjMQ/maxresdefault.jpg",
@@ -786,7 +786,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2020-08-09T14:00:09-07:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/NGVQhJvUXCk/maxresdefault.jpg",
@@ -1182,7 +1182,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2019-04-29T00:51:40-07:00",
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/LQiqiMcbpGA/maxresdefault.jpg",

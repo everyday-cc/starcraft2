@@ -61,8 +61,9 @@ items:
   - pig-starcraft-2-ghost-mech-in-tvz-diamond-in-the-ruff-50
   - pig-starcraft-2-the-200iq-comeback-move-diamond-in-the-ruff-51
   - pig-starcraft-2-sneaky-nuke-drops-diamond-in-the-ruff-52
-  - pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53
+  - pig-starcraft-2-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53
   - pig-starcraft-2-these-are-the-terran-units-to-worry-about-diamond-in-the-ruff-54
+  - pig-starcraft-2-95-workers-to-26-theres-no-way-pig-diamond-in-the-ruff-55
 
 topics:
   - StarCraft 2

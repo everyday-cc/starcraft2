@@ -770,6 +770,7 @@ items:
   - pig-starcraft-2-these-are-the-terran-units-to-worry-about-diamond-in-the-ruff-54
   - pig-how-to-win-with-people-you-dont-like-jocko-willink
   - pig-starcraft-2-how-to-win-without-killing-a-single-worker-icyfar-rules-of-engagement-compilation
+  - pig-starcraft-2-95-workers-to-26-theres-no-way-pig-diamond-in-the-ruff-55
   - pig-starcraft-2-florencio-perfectly-executes-a-2-1-1-florencio-files-245
 
 topics:

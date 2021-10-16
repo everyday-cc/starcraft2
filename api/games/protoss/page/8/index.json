@@ -4,183 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_games/sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s.md",
-      "title": "DARK SHRINE VS DARK SHRINE - sOs vs herO - GSL Code S",
-      "excerpt": "A crazy Best of 3 between sOs vs herO, Both going for Dark shrine rushes in the first game! Some great Cheddar cheese from both players  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s/",
-      "originalUrl": "https://youtube.com/watch?v=4stL2OicyNw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4stL2OicyNw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M48S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4stL2OicyNw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-03-03T15:41:54-08:00"
-    },
-    {
-      "path": "_games/sc2hl-relentless-swarm-hosts-starcraft-2-stats-vs-iasonu.md",
-      "title": "RELENTLESS Swarm Hosts - Starcraft 2: Stats vs iAsonu",
-      "excerpt": "A crazy match Protoss vs Zerg between Stats and iAsonu, going back and forth between the two. Watch IEM Shanghai live at: http://twitch.tv/esl_sc2    ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-relentless-swarm-hosts-starcraft-2-stats-vs-iasonu/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-relentless-swarm-hosts-starcraft-2-stats-vs-iasonu/",
-      "originalUrl": "https://youtube.com/watch?v=-4TQJQ5DS0k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-4TQJQ5DS0k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M58S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-4TQJQ5DS0k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-07-27T09:48:48-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-chad-raying-people-a-beautiful-starcraft-2-life-story.md",
-      "title": "Chad Raying People & a Beautiful StarCraft 2 Life Story",
-      "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-chad-raying-people-a-beautiful-starcraft-2-life-story/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-chad-raying-people-a-beautiful-starcraft-2-life-story/",
-      "originalUrl": "https://youtube.com/watch?v=sK0ESGwOSYs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sK0ESGwOSYs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sK0ESGwOSYs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-12-19T03:51:25-08:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-300-sentries-lost-in-one-game.md",
-      "title": "StarCraft 2: 300+ Sentries LOST in One Game!",
-      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  This incredibly epic game from the Mass Sentries to Grandmaster series pits me against another Protoss player, where I eventually show",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-300-sentries-lost-in-one-game/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-300-sentries-lost-in-one-game/",
-      "originalUrl": "https://youtube.com/watch?v=20sy-CwuA5E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/20sy-CwuA5E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M12S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/20sy-CwuA5E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-07-22T14:46:18-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-60-zealots-crushing-the-terran-army.md",
-      "title": "StarCraft 2: 60+ Zealots Crushing the Terran Army!",
-      "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-60-zealots-crushing-the-terran-army/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-60-zealots-crushing-the-terran-army/",
-      "originalUrl": "https://youtube.com/watch?v=Nb-suB2yKZI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nb-suB2yKZI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M54S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Nb-suB2yKZI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-04T04:23:50-07:00"
-    },
-    {
       "path": "_games/beastyqtsc2-starcraft-2-almost-5000-mmr-with-sentries.md",
       "title": "StarCraft 2: Almost 5000 MMR With Sentries!",
       "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  Here are a few more Mass Sentry games from playing the series on stream.   Feel free to let me know if you have any suggestions for",
@@ -1010,6 +833,172 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-12-22T05:37:06-08:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-i-am-struggling-at-5100-mmr-mass-zealot-phoenix.md",
+      "title": "StarCraft 2: I AM STRUGGLING at 5100 MMR!  - MASS Zealot & Phoenix!",
+      "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-i-am-struggling-at-5100-mmr-mass-zealot-phoenix/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-i-am-struggling-at-5100-mmr-mass-zealot-phoenix/",
+      "originalUrl": "https://youtube.com/watch?v=fmu_ZV5THQ4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fmu_ZV5THQ4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M31S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fmu_ZV5THQ4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-10T05:07:04-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-i-got-mule-dropped-mass-zealot-phoenix.md",
+      "title": "StarCraft 2: I GOT MULE DROPPED! - MASS Zealot & Phoenix!",
+      "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-i-got-mule-dropped-mass-zealot-phoenix/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-i-got-mule-dropped-mass-zealot-phoenix/",
+      "originalUrl": "https://youtube.com/watch?v=qGNGl64HVIc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qGNGl64HVIc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qGNGl64HVIc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-01T01:17:52-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-i-got-planetary-fortress-rushed.md",
+      "title": "StarCraft 2: I Got Planetary Fortress RUSHED!",
+      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  I have three games for you all from the MASS SENTRIES to GRANDMASTER series - one game against each race! The games vs Protoss and Zerg",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-i-got-planetary-fortress-rushed/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-i-got-planetary-fortress-rushed/",
+      "originalUrl": "https://youtube.com/watch?v=e6MKl-zT94o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e6MKl-zT94o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M22S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/e6MKl-zT94o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-29T18:11:08-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-insane-hold-vs-terran-cannon-rushing-to-grandmaster-episode-8.md",
+      "title": "StarCraft 2: INSANE Hold vs Terran! - Cannon Rushing to Grandmaster - Episode 8",
+      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-insane-hold-vs-terran-cannon-rushing-to-grandmaster-episode-8/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-insane-hold-vs-terran-cannon-rushing-to-grandmaster-episode-8/",
+      "originalUrl": "https://youtube.com/watch?v=hwJ801E20UY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hwJ801E20UY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M51S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Cheese",
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hwJ801E20UY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-11-11T04:55:12-08:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-insane-storms-sky-protoss-to-grandmaster-episode-12.md",
+      "title": "StarCraft 2: INSANE STORMS! - Sky Protoss to Grandmaster Episode 12",
+      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-insane-storms-sky-protoss-to-grandmaster-episode-12/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-insane-storms-sky-protoss-to-grandmaster-episode-12/",
+      "originalUrl": "https://youtube.com/watch?v=CRBZyhTLgw8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CRBZyhTLgw8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M56S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CRBZyhTLgw8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-09-24T12:15:42-07:00"
     }
   ],
   "nextPage": 9

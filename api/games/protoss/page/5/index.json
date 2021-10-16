@@ -4,40 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_games/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2.md",
-      "title": "StarCraft 2: Are You Jerking Me...? - Cannon Rushing to Grandmaster - Episode 2",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2/",
-      "originalUrl": "https://youtube.com/watch?v=zKB6EX4t-vM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zKB6EX4t-vM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT51M24S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "tags": [
-        "Cheese",
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zKB6EX4t-vM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-10-26T03:26:41-07:00"
-    },
-    {
       "path": "_games/beastyqtsc2-starcraft-2-cocky-stream-sniper.md",
       "title": "StarCraft 2: Cocky Stream Sniper!",
       "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  Folks in chat on my stream think they can snipe me and get away with it. Not if I have anything to say about!   Feel free to let me",
@@ -594,6 +560,45 @@
       "publishedDateTime": "2020-08-24T02:00:38-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-epic-terran-vs-protoss-bo5.md",
+      "title": "StarCraft 2: EPIC Terran vs Protoss! (Bo5)",
+      "excerpt": "GuMiho vs Stats in an epic Terran versus Protoss. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Protoss: https://goo.gl/qeUdf6  This is a best-of-5 series of professional StarCraft 2. In this match-up, both players play a variety of styles. They open up aggressively and defensive, there",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-terran-vs-protoss-bo5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-terran-vs-protoss-bo5/",
+      "originalUrl": "https://youtube.com/watch?v=LY7W8dG_qDk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LY7W8dG_qDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M8S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LY7W8dG_qDk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-12-23T04:49:29-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-fake-cannon-rush-vs-real-cannon-rush.md",
       "title": "StarCraft 2: FAKE Cannon Rush vs REAL Cannon Rush?!",
       "excerpt": "Awesome best-of-3 series of high level StarCraft 2. In this Protoss versus Protoss between PartinG and MaxPax we see both players constantly trying to outsmart each other with Photon Cannons, proxy Stargates, Dark Templar, army positioning and expansions.  Support my work on Patreon: http://www.patreon.com/lowkotv",
@@ -632,14 +637,14 @@
       "publishedDateTime": "2021-03-22T04:03:32-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-fighting-the-protoss-deathball.md",
-      "title": "StarCraft 2: Fighting The Protoss DEATHBALL!",
-      "excerpt": "ByuL versus Stats in an insane Protoss versus Zerg. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/RZRyOs  This is a cast of a professional match of StarCraft 2. In this match the Protoss player decides to sit back and try his hardest and creating the Protoss",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-fighting-the-protoss-deathball/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-fighting-the-protoss-deathball/",
-      "originalUrl": "https://youtube.com/watch?v=d9krkcF9Qw0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d9krkcF9Qw0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M29S",
+      "path": "_games/lowkotv-starcraft-2-incredible-protoss-vs-terran-bo3.md",
+      "title": "StarCraft 2: INCREDIBLE Protoss vs Terran! (Bo3)",
+      "excerpt": "ByuN vs herO in an incredible series of Protoss vs Terran. Subscribe for more videos: http://lowko.tv/youtube More Starcraft 2 casts: https://goo.gl/NG8qAV  In this video I cast a best of three series between two of the world's very best for their respective races. Both players play their standard style.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-protoss-vs-terran-bo3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-incredible-protoss-vs-terran-bo3/",
+      "originalUrl": "https://youtube.com/watch?v=fzBv-rqYZxg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fzBv-rqYZxg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M38S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -654,12 +659,13 @@
       },
       "topics": [
         "StarCraft 2",
+        "Terran",
         "Protoss"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/d9krkcF9Qw0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/fzBv-rqYZxg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -667,45 +673,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2016-12-30T05:17:09-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-hyper-aggressive-protoss.md",
-      "title": "StarCraft 2: HYPER AGGRESSIVE PROTOSS!",
-      "excerpt": "PartinG vs FanTaSy in a sick match on Dreamcatcher. Subscribe for more videos: http://lowko.tv/youtube Solar vs INnoVation: https://goo.gl/gVzpyJ  Usually the Terran players are the ones in charge of the pace of Terran vs Protoss. However, in this game PartinG takes charge from beginning to the very",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-hyper-aggressive-protoss/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-hyper-aggressive-protoss/",
-      "originalUrl": "https://youtube.com/watch?v=Q6yEz7GBa7k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q6yEz7GBa7k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M49S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Q6yEz7GBa7k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-07-08T12:57:03-07:00"
+      "publishedDateTime": "2017-06-06T04:52:03-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-massive-disruptor-hit-trap-vs-bunny.md",
@@ -900,6 +868,45 @@
       "publishedDateTime": "2021-05-11T02:59:32-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-not-quite-your-normal-protoss-vs-terran.md",
+      "title": "StarCraft 2: Not Quite Your Normal Protoss vs Terran!",
+      "excerpt": "Not quite your standard Protoss versus Terran game. Subscribe for more videos: http://lowko.tv/youtube Insane Proxy Barracks: https://goo.gl/8m0B4g  In this video I cast a Silver League Protoss versus Terran in StarCraft 2. This match turns out to be not quite your regular game of Protoss versus Terran.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-not-quite-your-normal-protoss-vs-terran/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-not-quite-your-normal-protoss-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=-48-CiKI370",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-48-CiKI370\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M16S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-48-CiKI370/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-03-11T01:34:29-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-old-school-strategies-parting-vs-ty.md",
       "title": "StarCraft 2: OLD SCHOOL STRATEGIES! (PartinG vs TY)",
       "excerpt": "Very fun best-of-3 series of top level StarCraft 2. In this series we see a variety of strategies from especially the Terran player. Protoss is forced to respond to cheeky Barracks placements, Thor drops and other aggressive Terran build orders.  Get more videos & support my work: http://www.patreon.com/lowkotv",
@@ -1054,14 +1061,14 @@
       "publishedDateTime": "2019-08-21T00:24:12-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-probe-rush.md",
-      "title": "StarCraft 2: PROBE RUSH!",
-      "excerpt": "After the Drone rush video... It turns out Protoss can do it too! Subscribe for more videos: http://lowko.tv/youtube Drone Rush: https://goo.gl/8EyX2C  Easily one of the craziest matches of StarCraft 2 I have ever casted. In this match, the Protoss decides to go for a Probe rush. However, it doesn't",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-probe-rush/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-probe-rush/",
-      "originalUrl": "https://youtube.com/watch?v=eM3kT7ScShI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eM3kT7ScShI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M56S",
+      "path": "_games/lowkotv-starcraft-2-probes-snipe-a-hatchery.md",
+      "title": "StarCraft 2: PROBES SNIPE A HATCHERY?!",
+      "excerpt": "An epic series of Zerg vs Protoss between Zest and Stephano. Subscribe for more videos: http://lowko.tv/youtube Solar vs INnoVation: https://goo.gl/gVzpyJ  Super good series. Both players show very high level of gameplay with engagements going on everywhere. It turns out however, that Probes can snipe",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-probes-snipe-a-hatchery/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-probes-snipe-a-hatchery/",
+      "originalUrl": "https://youtube.com/watch?v=iRX_BdVl7eA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iRX_BdVl7eA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT50M36S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1076,12 +1083,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Protoss",
+        "Zerg"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/eM3kT7ScShI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/iRX_BdVl7eA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1089,7 +1097,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2017-02-17T03:59:58-08:00"
+      "publishedDateTime": "2018-07-08T13:00:23-07:00"
     }
   ],
   "nextPage": 6

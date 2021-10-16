@@ -66,7 +66,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 335,
+      "heat": 263,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/eo48c_Fc_2Y/maxresdefault.jpg",
@@ -408,45 +408,6 @@
       "publishedDateTime": "2021-03-27T05:29:46-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-zerg-mothership.md",
-      "title": "StarCraft 2: THE ZERG... MOTHERSHIP?!",
-      "excerpt": "Turns out Neural Parasite is pretty good... If used correctly. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Protoss: https://goo.gl/qeUdf6  A very fun match of Gold League Zerg versus Protoss. In this game the Zerg player decides to go for a strategy that is a little uncommon. Eventually,",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-zerg-mothership/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-zerg-mothership/",
-      "originalUrl": "https://youtube.com/watch?v=Age4eNRUMrk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Age4eNRUMrk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M30S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 169,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Age4eNRUMrk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-01-04T03:39:21-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-new-map-nautilus-four-player-maps-in-2021.md",
       "title": "StarCraft 2: New Map \"Nautilus\" - FOUR PLAYER Maps in 2021?!",
       "excerpt": "Three games on a four player map in StarCraft 2. In this video I cast a couple of games on Nautilus, a map that the GSL has been using for a few seasons now. These are games between DRG, ByuN and Creator.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -520,6 +481,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-27T04:35:55-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-zerg-mothership.md",
+      "title": "StarCraft 2: THE ZERG... MOTHERSHIP?!",
+      "excerpt": "Turns out Neural Parasite is pretty good... If used correctly. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Protoss: https://goo.gl/qeUdf6  A very fun match of Gold League Zerg versus Protoss. In this game the Zerg player decides to go for a strategy that is a little uncommon. Eventually,",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-zerg-mothership/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-zerg-mothership/",
+      "originalUrl": "https://youtube.com/watch?v=Age4eNRUMrk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Age4eNRUMrk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M30S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 154,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Age4eNRUMrk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-01-04T03:39:21-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-some-terrible-starcraft-cheeses-viewer-games.md",
@@ -634,6 +634,45 @@
       "publishedDateTime": "2021-09-08T02:26:21-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-dark-vs-zest-ultras-vs-protoss-best-of-5.md",
+      "title": "StarCraft 2: Dark vs Zest - ULTRAS vs Protoss?! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Dark and Zest. In this match we see both players constantly trying to outsmart each other with a variety of tactics, strategies and unit compositions.  Dark vs Zest on Beckett Industries: https://youtu.be/mUG5ryGpiV8  Support my work on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-dark-vs-zest-ultras-vs-protoss-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-dark-vs-zest-ultras-vs-protoss-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=NMlt6yJ-iKk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NMlt6yJ-iKk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H6M21S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 142,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NMlt6yJ-iKk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-22T03:28:09-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-astreas-late-game-cannon-rush.md",
       "title": "StarCraft 2: Astrea's LATE GAME Cannon \"Rush\"!",
       "excerpt": "Solar versus Astrea in a professional match of StarCraft 2. In this Zerg versus Protoss we see a game go the distance. Astrea executes some really cool moves by building a wall close to one of the outer Zerg bases and slowly shooting it down with Disruptors, High Templar and Oracles.  Support my work",
@@ -670,6 +709,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-16T03:40:15-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-has-the-protoss-of-extremes-best-of-5-vs-clem.md",
+      "title": "StarCraft 2: Has, the Protoss Of EXTREMES! (Best-of-5 vs Clem)",
+      "excerpt": "Best-of-5 series between Clem and Has, where Has tries his best to outsmart his Terran opponent with extreme Protoss strategies.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-has-the-protoss-of-extremes-best-of-5-vs-clem/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-has-the-protoss-of-extremes-best-of-5-vs-clem/",
+      "originalUrl": "https://youtube.com/watch?v=tGr3hWN1Xcs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tGr3hWN1Xcs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 135,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tGr3hWN1Xcs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-09-09T04:21:27-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-marinelord-steals-clems-tech-lab.md",
@@ -1014,83 +1091,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-21T05:04:43-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-grand-finals-serral-vs-trap-best-of-7.md",
-      "title": "StarCraft 2: THE GRAND FINALS - Serral vs Trap! (Best-of-7)",
-      "excerpt": "Best-of-7 series of professional StarCraft 2 between Serral (Zerg) and Trap (Protoss). This series is the grand finals of the Dreamhack StarCraft 2 Masters 2021 Fall: Season Finals.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-grand-finals-serral-vs-trap-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-grand-finals-serral-vs-trap-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=Bxi7syqMyXI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bxi7syqMyXI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M46S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 121,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Bxi7syqMyXI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-09-14T01:37:27-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-blys-amazing-zerg-rushes.md",
-      "title": "StarCraft 2: Bly's AMAZING Zerg Rushes!",
-      "excerpt": "Bly is one of the most aggressive Zerg players at the professional level of StarCraft 2. In this best-of-3 series he faces off against Harstem.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-blys-amazing-zerg-rushes/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-blys-amazing-zerg-rushes/",
-      "originalUrl": "https://youtube.com/watch?v=60wtU8hP_mQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/60wtU8hP_mQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M56S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 119,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/60wtU8hP_mQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-02-11T12:06:48-08:00"
     }
   ],
   "nextPage": 2

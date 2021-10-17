@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-mistakes-were-ma
 type: video
 length: PT44M36S
 publishedDateTime: 2020-10-19T10:09:33Z
-heat: 62
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gaBWTfu0Glc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "vnypSXWuNpkmRBuqBLqQJXUYJrOubLmcT0xnr6LJoEo8h/IXzs3gvUWuCHTXQ2psLY8e8Nlkm+2n/oFOvyBNYohQDZ3WChQNc5rYkdIhwtZsfzzFhc9WDjCslg7CuSQzU1BhmXPCpQ7fU4IIxsshq4j8pgdR1p0FGC0MxbPXqni1XEJ4QIrtGMB/63wV2XXhtflKIDLZDtOYUzq56XU0quHafGD7mzanOvL/7NlMt+Ma7HY9xW2VjJVH4IZuysLix7ULUpMDc3Tu4Ch1GCeibW9NhK6grTE/CFd0sq4mq2HJ4ZGs5Pyz4Y9G0AgqeZhz1TuLJYGkDUIQaJYqhEKMAsp4JgY/KjzkW93M+2dijlR+OxC3OmdtEmIY8Ad0rDswsUvQuQEnWV8w4EMObCzPByAGSdw3cve8/8nkm+t5uOXjvMC1S2yJvGMnY54x5T24;rbk0laimogLWyisYopw0Iw=="
+secured: "LtxKgnsCPkhO46LndrHIDlzZgVGrwlTn0t2MprJVYvrkMoULOti+j2F+y9jixD9YFBS3Ah7xzCpjuJqsv+zKFSMJVMt7eAbVxs2nwAsV3/1O87FxGFYfCyV8uT5/6RpKlb8qVd2EEmtvXVrdm6pu718HppPx2JbAdZNVEAe5ktsvc8u2b9ZL2DlNzCDiU4NplcUYgTsxGDG+gGXmIhXGO67sWIFi8ATopnR0af8x3D+4H76xpDFCJWZ3A4XzX45h/u/3NFXF1x/52D+eJB7dMgJvF1bcNZgyVG4C+e9Rzc0QeMQErI59o0EQYWBuHc5bsprnn2dYBaPK2twYEBRw3Uiemih/ha5/HdtAsyWHgalkJAnhONb/sNbKcnn5pvMqkyFl9kK7MQ0ufGP0KSRjUtkzWm4i2UR5D4jfL06Z4GQIqo33f3YXe4BZtkG4yLj/;ouaJIkgKVofK6zAUX5k2Dg=="
 ---
 

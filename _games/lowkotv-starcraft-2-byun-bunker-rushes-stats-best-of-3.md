@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-bunker-rush
 type: video
 length: PT32M9S
 publishedDateTime: 2021-04-12T10:40:08Z
-heat: 52
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G7NRCKZtSI0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "kM4Vu5JsmYK4wcS+GRnfiMyeA/KnfLDIMuDnVaQa6y/oI8ZhpEiPF9msdxj4KFH7HCz9NnkHWNhDOkP9Y7aizQCXN5R0200lF6G9obuO22g9FEPSQNfDt8rxmFXjAGYItyQ8eT3fUjjr/Jd8dZ1JYkS2J5yVvJdw1/0X/nC551NCC0V8uYHTjlGWEY6T4vZ19BNYQ72GBZZFq+QJYcJjdSBDm/OZgjiwLviNkz+c0pS73JawTARriZrSmkpjPtoqjuHPK7i/jD10JIrhn9xYB1EF0iVauKjVCv29vEVukaftWvwvm7+KDYiiYfGHN9e984hYiVWBcnfRR0Zf8LW3w6Fb2KZsMbZJUCnxK8SJsKB/jOIW6fo2PMuZq1A5xQdvvc8CgP3Bn3s7oIzqyD68w5QXbgr5alEsSd6lxgo8xTY=;/uyufpQQh6KOSGyde/RMMA=="
+secured: "OSBQ/sUdHSX5QAHCsF+YnsUIrnHzldLushqvptmDg2MkdmNb9667/FCEUV8DgHfcqRmayruUw+vKoElJzQ4dsqL2zCKXA6HqOvNIuunS6bT7x6x7kivhxfnsGMF+WIIUa68qLDHR6VVWfxCt1P4yUMKch510LyoCmf1jfVoKn/ytxtQg25GvlTmJBOqJR3qoIxH2LG96B6F7r26qa5e35tXkFzYs4Tf9vvA9FNdfndrRKBtRyDxkS5GFgkBjLCMbL5qXF5H04vl7JixFIU2xPaSSBS7knnMpBfLOw0kesdQNGzoRF/iLPenVAJKN11Stu/4pIvsHwo7KepXjGn3mtTeqr1WiLQaRE8VPAMw8pYqMFfTMi0mr7Fkg4d/MjSeJo3i3PLkTjL125DfnVVpAL/TmInLaHd5/puavuQauHyg=;xT88QTOEGEUhCjcPrDqGjA=="
 ---
 

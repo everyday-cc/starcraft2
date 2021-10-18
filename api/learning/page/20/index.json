@@ -4,6 +4,219 @@
   "page": 20,
   "value": [
     {
+      "path": "_learning/videos/pig-whats-in-the-special-sauce-how-to-beat-mass-widow-mine-newbie-stream.md",
+      "title": "What’s in the SPECIAL SAUCE? How to beat mass Widow Mine - Newbie Stream",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-whats-in-the-special-sauce-how-to-beat-mass-widow-mine-newbie-stream/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-whats-in-the-special-sauce-how-to-beat-mass-widow-mine-newbie-stream/",
+      "originalUrl": "https://youtube.com/watch?v=qg86RBGJnjI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qg86RBGJnjI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M23S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-07-20T09:00:11-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qg86RBGJnjI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-when-to-start-dropping-in-zvp-gm-zvp-newbie-stream.md",
+      "title": "“When to Start Dropping in ZvP?” GM ZvP - Newbie Stream",
+      "excerpt": "This is a highlight from my newbie/beginner stream where I analyse a players replay who struggles vs zerg counterattacks   -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-when-to-start-dropping-in-zvp-gm-zvp-newbie-stream/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-when-to-start-dropping-in-zvp-gm-zvp-newbie-stream/",
+      "originalUrl": "https://youtube.com/watch?v=rvFmHIchB78",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rvFmHIchB78\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M1S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:06-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rvFmHIchB78/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-youre-allowed-to-go-over-16-workers-a-base-newbie-stream.md",
+      "title": "You’re allowed to go over 16 workers a base! - Newbie Stream",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-youre-allowed-to-go-over-16-workers-a-base-newbie-stream/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-youre-allowed-to-go-over-16-workers-a-base-newbie-stream/",
+      "originalUrl": "https://youtube.com/watch?v=uv0KZP7fZ_w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uv0KZP7fZ_w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M19S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-11-27T09:00:16-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uv0KZP7fZ_w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-zerg-cheese-coaching-diamond-3.md",
+      "title": "Zerg Cheese Coaching - Diamond 3",
+      "excerpt": "I show a Diamond 3 zergs some very aggressive builds across all 3 matchups. -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-zerg-cheese-coaching-diamond-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-zerg-cheese-coaching-diamond-3/",
+      "originalUrl": "https://youtube.com/watch?v=2wVY769Wvlk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2wVY769Wvlk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M20S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-02-15T19:41:58-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2wVY769Wvlk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-zerg-struggling-vs-mech-newbie-stream.md",
+      "title": "Zerg Struggling vs Mech - Newbie Stream",
+      "excerpt": "This is a highlight from my newbie/beginner stream where I analyse a zerg players’ replay who struggles vsing mech -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-zerg-struggling-vs-mech-newbie-stream/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-zerg-struggling-vs-mech-newbie-stream/",
+      "originalUrl": "https://youtube.com/watch?v=m8bzWAg0HBk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m8bzWAg0HBk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:06-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/m8bzWAg0HBk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-zvp-defending-2-base-pushes-diamond-2.md",
+      "title": "ZvP - defending 2-base pushes - Diamond 2",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-zvp-defending-2-base-pushes-diamond-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-zvp-defending-2-base-pushes-diamond-2/",
+      "originalUrl": "https://youtube.com/watch?v=zIPbQh4eIvs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zIPbQh4eIvs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H5M23S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-07-17T21:16:16-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zIPbQh4eIvs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-zvt-coaching-goldplat-fundamentals-and-general-tips.md",
+      "title": "ZvT Coaching gold/plat - fundamentals and general tips",
+      "excerpt": "I coach a gold/plat zerg on some fundamentals to develop their zvt play  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-zvt-coaching-goldplat-fundamentals-and-general-tips/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-zvt-coaching-goldplat-fundamentals-and-general-tips/",
+      "originalUrl": "https://youtube.com/watch?v=Te5olOzQAfQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Te5olOzQAfQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H5M26S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Te5olOzQAfQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-zvt-coaching-vs-qxc-5k-master-1-zerg.md",
       "title": "ZvT Coaching vs QXC! 5K Master 1 Zerg",
       "excerpt": "A live recorded coaching session where my student practices ZvT vs QXC -- Watch live at https://www.twitch.tv/x5_pig",
@@ -216,37 +429,6 @@
       ]
     },
     {
-      "path": "_learning/videos/quasargamers-minute-micro-episode-1-probe-bodyguards.md",
-      "title": "Minute Micro - Episode 1: probe bodyguards",
-      "excerpt": "Difficulty rating: 5/10  This is the first episode of a series of 1-minute videos explaining how to perform common micro techniques. This episode is on probe/zealot micro  twitch.tv/Quasarprintf",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-1-probe-bodyguards/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-1-probe-bodyguards/",
-      "originalUrl": "https://youtube.com/watch?v=wMr0sbrj7gk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wMr0sbrj7gk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M7S",
-      "provider": {
-        "name": "QuasarGamers",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-06-10T19:39:42-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wMr0sbrj7gk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/quasargamers-minute-micro-episode-10-shift-deselect-kiting.md",
       "title": "Minute Micro - Episode 10: Shift Deselect Kiting",
       "excerpt": "Difficulty rating: 7/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on shift deselect kiting  twitch.tv/Quasarprintf",
@@ -294,36 +476,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/QY-FdFb5I_A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/quasargamers-minute-micro-episode-12-aggressive-stutter-step.md",
-      "title": "Minute Micro - Episode 12: Aggressive Stutter Step",
-      "excerpt": "Difficulty rating: 3/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on aggressive stutter step.  twitch.tv/Quasarprintf",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-12-aggressive-stutter-step/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-12-aggressive-stutter-step/",
-      "originalUrl": "https://youtube.com/watch?v=OmqCgRxWPac",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OmqCgRxWPac\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M9S",
-      "provider": {
-        "name": "QuasarGamers",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-08-13T06:15:19-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OmqCgRxWPac/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -746,157 +898,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/r-ULOxlmt8E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/quasargamers-minute-micro-episode-26-oracle-harass.md",
-      "title": "Minute Micro - Episode 26: Oracle Harass",
-      "excerpt": "Difficulty rating: 7/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on oracle harass.  twitch.tv/Quasarprintf  https://www.reddit.com/r/starcraft/comments/a1o9r4/the_curious_case_of_the_oracles_dps/",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-26-oracle-harass/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-26-oracle-harass/",
-      "originalUrl": "https://youtube.com/watch?v=EeI_Zk359MI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EeI_Zk359MI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M10S",
-      "provider": {
-        "name": "QuasarGamers",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-11-30T11:22:50-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EeI_Zk359MI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/quasargamers-minute-micro-episode-27-advanced-oracle-harass.md",
-      "title": "Minute Micro - Episode 27: Advanced Oracle Harass",
-      "excerpt": "Difficulty rating: 8/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on advanced oracle harass.  https://www.reddit.com/r/starcraft/comments/a1o9r4/the_curious_case_of_the_oracles_dps/  twitch.tv/Quasarprintf",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-27-advanced-oracle-harass/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-27-advanced-oracle-harass/",
-      "originalUrl": "https://youtube.com/watch?v=TOZWsaKCppY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TOZWsaKCppY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M9S",
-      "provider": {
-        "name": "QuasarGamers",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-10T08:41:52-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TOZWsaKCppY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/quasargamers-minute-micro-episode-28-baneling-move.md",
-      "title": "Minute Micro - Episode 28: Baneling Move",
-      "excerpt": "Difficulty rating: 2/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on move commanding banelings.  twitch.tv/Quasarprintf",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-28-baneling-move/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-28-baneling-move/",
-      "originalUrl": "https://youtube.com/watch?v=yI41r-o_Xas",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yI41r-o_Xas\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M10S",
-      "provider": {
-        "name": "QuasarGamers",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-17T08:16:48-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yI41r-o_Xas/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/quasargamers-minute-micro-episode-29-splitting-fire.md",
-      "title": "Minute Micro - Episode 29: Splitting Fire",
-      "excerpt": "Difficulty rating: 10/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on splitting fire to avoid overkill.  twitch.tv/Quasarprintf",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-29-splitting-fire/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-29-splitting-fire/",
-      "originalUrl": "https://youtube.com/watch?v=T2iWrn62mlc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T2iWrn62mlc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M9S",
-      "provider": {
-        "name": "QuasarGamers",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-23T21:33:50-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/T2iWrn62mlc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/quasargamers-minute-micro-episode-3-mine-dodging.md",
-      "title": "Minute Micro - Episode 3: Mine dodging",
-      "excerpt": "Difficulty rating: 3/10  This is the third episode of a series of 1-minute videos explaining how to perform common micro techniques. This episode is on dodging widow mine shots  twitch.tv/Quasarprintf",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-3-mine-dodging/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-3-mine-dodging/",
-      "originalUrl": "https://youtube.com/watch?v=Xv-dQfpZvQw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Xv-dQfpZvQw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M9S",
-      "provider": {
-        "name": "QuasarGamers",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-06-11T19:45:18-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Xv-dQfpZvQw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

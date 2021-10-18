@@ -1,12 +1,12 @@
 ---
 category: news
-title: "StarCraft II world championships to be held in Anaheim Convention Center Arena"
-excerpt: "BlizzCon is expanding into new territory this year. While the StarCraft II tournaments have historically taken place in the convention hall, the StarCraft II WCS Global Finals will now be held in ..."
-publishedDateTime: 2021-10-01T00:01:00Z
-originalUrl: "https://www.engadget.com/2014-09-30-starcraft-ii-world-championships-to-be-held-in-anaheim-conventio.html"
-webUrl: "https://www.engadget.com/2014-09-30-starcraft-ii-world-championships-to-be-held-in-anaheim-conventio.html"
+title: "BlizzCon 2008: Starcraft II lore panel"
+excerpt: "Chris Metzen and Andrew Chambers sat down at BlizzCon to chat about the lore and story behind the universe of Starcraft II. As we saw in the gameplay panel yesterday, Blizzard is aiming to really ..."
+publishedDateTime: 2021-10-12T00:00:00Z
+originalUrl: "https://www.engadget.com/2008-10-12-blizzcon-2008-starcraft-ii-lore-panel.html"
+webUrl: "https://www.engadget.com/2008-10-12-blizzcon-2008-starcraft-ii-lore-panel.html"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 
@@ -22,9 +22,9 @@ topics:
   - StarCraft 2
 
 images:
-  - url: "https://s.yimg.com/uu/api/res/1.2/mxM0Ty0ecJZrDqZ1mog5Cg--~B/aD0yMDY7dz01ODA7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/84c8196abc447d558e5f664649ff1935/200845724/starcraft-tournament-tickets.jpg"
-    width: 580
-    height: 206
+  - url: "https://s.yimg.com/uu/api/res/1.2/TyDBrLfwGhtWFluWXtMoaA--~B/aD0zNjc7dz00OTA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.joystiq.com/media/2008/10/img_1891.jpg"
+    width: 490
+    height: 367
     isCached: true
 
 related:
@@ -58,21 +58,21 @@ related:
         width: 720
         height: 300
         isCached: true
-  - title: "BlizzCon 2008: Starcraft II lore panel"
-    excerpt: "Chris Metzen and Andrew Chambers sat down at BlizzCon to chat about the lore and story behind the universe of Starcraft II. As we saw in the gameplay panel yesterday, Blizzard is aiming to really ..."
-    publishedDateTime: 2021-10-12T00:00:00Z
-    webUrl: "https://www.engadget.com/2008-10-12-blizzcon-2008-starcraft-ii-lore-panel.html"
+  - title: "StarCraft II world championships to be held in Anaheim Convention Center Arena"
+    excerpt: "BlizzCon is expanding into new territory this year. While the StarCraft II tournaments have historically taken place in the convention hall, the StarCraft II WCS Global Finals will now be held in ..."
+    publishedDateTime: 2021-10-01T00:01:00Z
+    webUrl: "https://www.engadget.com/2014-09-30-starcraft-ii-world-championships-to-be-held-in-anaheim-conventio.html"
     type: article
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 37
+    quality: 33
     images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/TyDBrLfwGhtWFluWXtMoaA--~B/aD0zNjc7dz00OTA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.joystiq.com/media/2008/10/img_1891.jpg"
-        width: 490
-        height: 367
+      - url: "https://s.yimg.com/uu/api/res/1.2/mxM0Ty0ecJZrDqZ1mog5Cg--~B/aD0yMDY7dz01ODA7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/84c8196abc447d558e5f664649ff1935/200845724/starcraft-tournament-tickets.jpg"
+        width: 580
+        height: 206
         isCached: true
 
-secured: "QJrYd0iimP/EkgtEjgpIy2xJOZn54bOu34Bkh1fQ65o5J+Q1h8xEXlO6Pw4qHQ3D8CovclDZqJ7hLEI8tTDSjAJR6u5ZH6Z8T7hu6b+LNnYDvAEkJiQiuJfAUqFsSbtLWc+smbSSiy2+E2UT9G9ZFNKjAlkg0M4dGkIpj0OTnsIrdoQWc2mAvAafICy5PR6rX3s5FFO8Dhpk2g+4fbt+HbsE9UzIIIHN2o701qQEq/iF9gdXDeY1NqLjgv0Y5D3uGGp1Fq9V937E7uL54no8E5wXS5DDxUr3tsVuHaUHyT8ApLNbiI8rPcAx+fUNmdLpcq15PEvSW49BPl4efj2zH4SKDGMOfugTkNlmUkuMCkU=;FnnxYHgDxZQTNnoPcSBfDw=="
+secured: "po3R8wn9HxCeoPWfTk58Xryak/myeyMHredvnFX/DC6rEizHJilCbJq1mMJG6vOsw0dOmSELD+s6vxfZJc8fG9vVAzApIHfmE/jPS31YS/Ff7NrqkeKvKjSEE8oc+jewMTnpHzJTQ8LeS++41oCKBGvB7egW5Uv3qL6TF/aKzVaRxnMVZk767FsuEOR5/PU1GxTluuF/3y0FIIsus6UylfFfuYx3HELNI6VK8YTqw8P1xMUpQJAxYKisQrUW2LqtcyuHDpxmrStEv3FLnEuVT1YzaL8XegUw0uLUthaUjKODBHy5cr8zuXuNLQvrG6LBY2WKUrPBei0R8f7UK0OeZ7oXrBjQsZfbV1M1DyYHW+Q=;nXo4vzxRK5aihIEkoHLqkg=="
 ---
 

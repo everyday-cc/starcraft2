@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.redbull.com/in-en/playing-starcraft-ii-makes-you-smarter
 cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/in-en/playing-starcraft-ii-makes-you-smarter"
 type: article
 quality: 57
-heat: 99
+heat: 120
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://static.shareasale.com/image/113278/mia-banner-ad-6.jpg"
         width: 720
         height: 300
+        isCached: true
+  - title: "BlizzCon 2008: Starcraft II lore panel"
+    excerpt: "Chris Metzen and Andrew Chambers sat down at BlizzCon to chat about the lore and story behind the universe of Starcraft II. As we saw in the gameplay panel yesterday, Blizzard is aiming to really ..."
+    publishedDateTime: 2021-10-12T00:00:00Z
+    webUrl: "https://www.engadget.com/2008-10-12-blizzcon-2008-starcraft-ii-lore-panel.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/TyDBrLfwGhtWFluWXtMoaA--~B/aD0zNjc7dz00OTA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.joystiq.com/media/2008/10/img_1891.jpg"
+        width: 490
+        height: 367
         isCached: true
   - title: "StarCraft II world championships to be held in Anaheim Convention Center Arena"
     excerpt: "BlizzCon is expanding into new territory this year. While the StarCraft II tournaments have historically taken place in the convention hall, the StarCraft II WCS Global Finals will now be held in ..."

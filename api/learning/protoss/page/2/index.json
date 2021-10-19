@@ -105,69 +105,6 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-scarletts-disgusting-protoss-cheeses.md",
-      "title": "SCARLETT’S DISGUSTING PROTOSS CHEESES",
-      "excerpt": "Scarlett just casually making zergs aware of all the latest Protoss dirty cheeses 🎤 More Pro SC2 Casts: https://www.youtube.com/playlist?list=PLFUDU8AOevUetBNFfypOKoKcE3BqgZdbt 🐷 Support PiG: https://www.pigstarcraft.com/support/ -- 🐖 Watch live on https://www.twitch.tv/x5_pig 🎓 For coaching inquiries",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-scarletts-disgusting-protoss-cheeses/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-scarletts-disgusting-protoss-cheeses/",
-      "originalUrl": "https://youtube.com/watch?v=KG5mIx6MJ_8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KG5mIx6MJ_8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-04-14T21:25:03-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KG5mIx6MJ_8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-beginner-protoss-opening-the-pig-daily-155.md",
-      "title": "StarCraft 2 - Beginner Protoss Opening | The PiG Daily #155",
-      "excerpt": "THIS WEEKS ICYFAR Challenge: \"Feinting Attacks\" - A feint is where you give the impression of attacking in one place where its fake or just a small distraction from the real thrust of your attack. Examples: Using empty drops or hallucinations to pull your opponent out of position!  Send submissions to",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-beginner-protoss-opening-the-pig-daily-155/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-beginner-protoss-opening-the-pig-daily-155/",
-      "originalUrl": "https://youtube.com/watch?v=ESE_4WaEfMs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ESE_4WaEfMs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M37S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-04-12T21:10:10-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ESE_4WaEfMs/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-starcraft-2-zero-micro-pvt-guide.md",
       "title": "StarCraft 2 - ZERO MICRO PvT Guide",
       "excerpt": "This is a solid opening that focuses on extra observers so you have plenty of warning to stop incoming harassment, collosus to stop the stim push, and chargelots and archons to A+Move the Terran 3rd base! … OK admittedly if you mess up the attack on the 3rd base, the game goes longer and you have to",
@@ -932,6 +869,68 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/XfkTeiZuUGA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-how-to-defend-12-pool-old-version-check-update.md",
+      "title": "Starcraft 2 | How to Defend 12 Pool (old version. check update!)",
+      "excerpt": "https://www.hushangcoaching.com  Want more personalized lessons? HuShang has been coaching SC2 professionally for more than 6 years. You can contact him on discord or by email!  Discord: HuShang#9770 Email: hushangtutorials@outlook.com  Enjoying the content. Want to support HuShang Tutorials directly?https://www.patreon.com/hushangtutorials",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-how-to-defend-12-pool-old-version-check-update/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-how-to-defend-12-pool-old-version-check-update/",
+      "originalUrl": "https://youtube.com/watch?v=7Ezci19D-DY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7Ezci19D-DY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M21S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-05-26T14:13:47-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7Ezci19D-DY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-aggressive-opening-adept-oracle-2021-build-order-guide.md",
+      "title": "Starcraft 2: Protoss vs Protoss | Aggressive Opening! Adept-Oracle [2021 Build Order Guide]",
+      "excerpt": "Starcraft 2: Protoss vs Protoss guide/tutorial. Today we're learning an aggressive pvp opening with 8 adepts + 2 oracles. It hits like a tank and there's pretty much no way for your opponent to defend any damage. The question is more so \"how much damage\" can you do?  Protoss vs Protoss | Aggressive Opening!",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-aggressive-opening-adept-oracle-2021-build-order-guide/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-aggressive-opening-adept-oracle-2021-build-order-guide/",
+      "originalUrl": "https://youtube.com/watch?v=yfRfWt7eUlg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yfRfWt7eUlg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M13S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-01-13T13:57:23-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yfRfWt7eUlg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

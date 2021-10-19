@@ -4,6 +4,156 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/collections/pig-pigs-coaching-pros.md",
+      "title": "PiG's Coaching Pros",
+      "excerpt": "PiG coaches professional StarCraft 2 players",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/collections/pig-pigs-coaching-pros/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/collections/pig-pigs-coaching-pros/",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/pig-terran-mechanics-with-cuddlebear-pro-coaching-1.md",
+          "title": "Terran Mechanics with Cuddlebear | Pro Coaching #1",
+          "excerpt": "Be sure to check out cuddlebears stream! https://www.twitch.tv/imcuddlebear   Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-terran-mechanics-with-cuddlebear-pro-coaching-1/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-terran-mechanics-with-cuddlebear-pro-coaching-1/",
+          "originalUrl": "https://youtube.com/watch?v=5K3fdo1vyfI",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5K3fdo1vyfI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H22M30S",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2019-11-16T09:00:03-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/5K3fdo1vyfI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ]
+        },
+        {
+          "path": "_learning/videos/pig-how-to-a-move-pro-coaching-2-astrea.md",
+          "title": "“How to a-move?” | Pro Coaching #2 Astrea!",
+          "excerpt": "Be sure to follow Astrea! https://www.twitch.tv/zastrea https://twitter.com/SCAstrea  Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-how-to-a-move-pro-coaching-2-astrea/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-how-to-a-move-pro-coaching-2-astrea/",
+          "originalUrl": "https://youtube.com/watch?v=XxBhCi8W6Gk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XxBhCi8W6Gk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H56M38S",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2019-11-22T09:00:15-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/XxBhCi8W6Gk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "StarCraft 2"
+          ]
+        },
+        {
+          "path": "_learning/videos/pig-how-do-i-beat-uthermal-pro-coaching-3-terran-cuddlebear-pt-2.md",
+          "title": "“How do i beat uthermal?” | Pro Coaching #3 Terran Cuddlebear Pt. 2",
+          "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-how-do-i-beat-uthermal-pro-coaching-3-terran-cuddlebear-pt-2/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-how-do-i-beat-uthermal-pro-coaching-3-terran-cuddlebear-pt-2/",
+          "originalUrl": "https://youtube.com/watch?v=qKmlw9Ak0mA",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qKmlw9Ak0mA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H42M6S",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2019-12-07T09:00:12-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/qKmlw9Ak0mA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ]
+        },
+        {
+          "path": "_learning/videos/pig-coaching-astrea-pro-coaching-4-astrea-pt-2.md",
+          "title": "Coaching Astrea | Pro-Coaching #4 Astrea Pt. 2",
+          "excerpt": "Be sure to follow Astrea! https://www.twitch.tv/zastrea https://twitter.com/SCAstrea   Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-astrea-pro-coaching-4-astrea-pt-2/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-astrea-pro-coaching-4-astrea-pt-2/",
+          "originalUrl": "https://youtube.com/watch?v=C5lrukbFQRk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C5lrukbFQRk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H21M33S",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2019-12-12T09:00:04-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/C5lrukbFQRk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "StarCraft 2"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5K3fdo1vyfI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/collections/pig-pigs-live-coaching-sessions.md",
       "title": "PiG's Live Coaching Sessions",
       "excerpt": "Starcraft2 Coaching VODs from my Twitch!",
@@ -429,37 +579,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/OVj-TCAaspo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-4-platinum-league-b2gm.md",
-      "title": "StarCraft 2 - Zerg Bronze to GM #4: Platinum League (B2GM)",
-      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 GAME 1 -- Practice build order along with PiG 13:55 How to check if someone is Searching for Game? 14:30 GAME 2 -- Practice build order along with PiG 28:20 REVIEW: Gold + Plat things to learn 46:53",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-4-platinum-league-b2gm/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-4-platinum-league-b2gm/",
-      "originalUrl": "https://youtube.com/watch?v=2Wvw27j3NqA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2Wvw27j3NqA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H28M21S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-08-12T02:36:45-07:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2Wvw27j3NqA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

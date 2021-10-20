@@ -58,20 +58,6 @@ related:
         width: 720
         height: 300
         isCached: true
-  - title: "StarCraft II world championships to be held in Anaheim Convention Center Arena"
-    excerpt: "BlizzCon is expanding into new territory this year. While the StarCraft II tournaments have historically taken place in the convention hall, the StarCraft II WCS Global Finals will now be held in ..."
-    publishedDateTime: 2021-10-01T00:01:00Z
-    webUrl: "https://www.engadget.com/2014-09-30-starcraft-ii-world-championships-to-be-held-in-anaheim-conventio.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 33
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/mxM0Ty0ecJZrDqZ1mog5Cg--~B/aD0yMDY7dz01ODA7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/84c8196abc447d558e5f664649ff1935/200845724/starcraft-tournament-tickets.jpg"
-        width: 580
-        height: 206
-        isCached: true
 
 secured: "po3R8wn9HxCeoPWfTk58Xryak/myeyMHredvnFX/DC6rEizHJilCbJq1mMJG6vOsw0dOmSELD+s6vxfZJc8fG9vVAzApIHfmE/jPS31YS/Ff7NrqkeKvKjSEE8oc+jewMTnpHzJTQ8LeS++41oCKBGvB7egW5Uv3qL6TF/aKzVaRxnMVZk767FsuEOR5/PU1GxTluuF/3y0FIIsus6UylfFfuYx3HELNI6VK8YTqw8P1xMUpQJAxYKisQrUW2LqtcyuHDpxmrStEv3FLnEuVT1YzaL8XegUw0uLUthaUjKODBHy5cr8zuXuNLQvrG6LBY2WKUrPBei0R8f7UK0OeZ7oXrBjQsZfbV1M1DyYHW+Q=;nXo4vzxRK5aihIEkoHLqkg=="
 ---

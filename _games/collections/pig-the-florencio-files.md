@@ -252,6 +252,7 @@ items:
   - pig-starcraft-2-flos-in-trouble-battlecruiser-edition-florencio-file-241
   - pig-starcraft-2-the-boom-vs-flo-crossover-episode-florencio-files-244
   - pig-starcraft-2-florencio-perfectly-executes-a-2-1-1-florencio-files-245
+  - pig-starcraft-2-salty-licorice-florencio-files-246
 
 topics:
   - StarCraft 2

@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T16:51:00Z
 originalUrl: "https://www.usatoday.com/recalls/automotive/NHTSA-21V787000/"
 webUrl: "https://www.usatoday.com/recalls/automotive/NHTSA-21V787000/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: USA Today

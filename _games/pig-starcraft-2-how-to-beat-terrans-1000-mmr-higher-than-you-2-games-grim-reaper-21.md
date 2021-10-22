@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=rtsUiF8KdwU
 type: video
 length: PT20M13S
 publishedDateTime: 2021-09-07T05:15:12Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rtsUiF8KdwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "YRMxtdumoeKLzzer9TCUDotmP6LcOazqnJHPVXy1krpUzHBuWb/amv6l8phY4l4e2ZU6/fOR0zSzRJn/yOvL37a81eFeVKFZEFpU2NPIT1BeESSleB7bvPgNt58OKB3pC9+u9TBEmtoyEVNPHGAgvG2HT0ZhzFjEWPG7SD1t0BAx1r8/xa3fpwzGfAP1hLg0TomQr+JEJEOkyo33D3F+HQlQVhWzrQlMGLqmA3ljrYhPR6iEEzZA4l8Vi6xnlmm65lVXHVPRhieWtjJVKMnrY6JDlfGTq8g732JvCQ9+21oQ1VfatM5o+TVc0B0Sg/KCV4lhcPLhmiJfUR/zQ9WQ8JoZx+xpuBqCBmRpUqF0Xdjcbw5eFUmOSEYlvt7M6vytdZrejbPiquc2sk1LuZ9LZqolVxZxSxVRkYgozGffuzg=;WBsAm9n/sQcWiYLb47NUyg=="
+secured: "coTeYKsehNskvNqYsq81tdlL5jMi+yDFxguJvRdyfrt5Vyr5JzseO3yN+FGz8KP3TMjsAVpuyKi3kHU06Inde4/e/i821WJKvvXrWQYTSq4syuesCxsRlFVUQwxlpNGNxUUgvdfyApSxFC/sXRRND2y/vy6PrTmnT3vagx9HCGv7GUUvdA3fe1cUbpJ9I6uQ/+hVF9PpvBkgFrqUG3fG0+eqTE8RnTf9l24460NqHFghe77rprGIygAXwsGyrzbg3xXm7qPlcW6gwpuhJj9czzybvl06HwljAO5hqCE0zIqCoWZrqgdu/16ZuroAoUl+UpXjN42EK/vvcAEi0hAUBPy6mgoP844eltzu6+ad7JWkA7gCersDvLp7JAS5zk3SmK4FWB/elibsBVcxpR9Mm6XlJdlevHD0loP3JEmwvYM=;iKQBIR/bVXKupstMS8G/qw=="
 ---
 

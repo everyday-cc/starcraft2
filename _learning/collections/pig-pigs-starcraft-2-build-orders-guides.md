@@ -2,7 +2,7 @@
 title: "PiG's StarCraft 2 Build Orders & Guides"
 excerpt: "Here are my StarCraft 2 build orders & guides. Hopefully they help you with your gameplay and build orders. Let me know what guides you want to see!"
 type: collection
-heat: 61
+heat: 60
 
 provider:
   name: PiG

@@ -4,37 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-defensive-protoss-vs-terran.md",
-      "title": "Mastering Starcraft 2: Defensive Protoss vs Terran",
-      "excerpt": "In today's Starcraft 2 tutorial we look at a high-grandmaster match between myself and Lord Timorus. I'm using a very defensive protoss style with colossus and blink vs a mine drop into 3 rax. Let's master Starcraft 2 together!  #Starcraft #protoss #colossus #sc2 #guide #RTS #realtimestrategy #StarCraft2",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-defensive-protoss-vs-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-defensive-protoss-vs-terran/",
-      "originalUrl": "https://youtube.com/watch?v=YnueSrwKGAc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YnueSrwKGAc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M21S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-14T17:16:10-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YnueSrwKGAc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-protoss-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse.md",
       "title": "Protoss Hotkeys | Life changing tips to setup your keyboard and mouse",
       "excerpt": "Taking a look at my Protoss hotkeys due to popular request. If you want download my hotkeys, you can do so @ https://www.hushangcoaching.com/guides/  #protoss #hotkeys #protosshotkeys Protoss Hotkeys | Life changing tips to setup your keyboard and mouse  Coaching --------------------------------------------------------------------------",
@@ -562,6 +531,37 @@
       ]
     },
     {
+      "path": "_learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft.md",
+      "title": "Beginner Zerg Opening - Welcome to Starcraft",
+      "excerpt": "Sorry for the delay Guys, here's your \"last video\"!    Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos dont appear in your feed and you want to get notified",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft/",
+      "originalUrl": "https://youtube.com/watch?v=LQiqiMcbpGA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LQiqiMcbpGA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M14S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-04-29T00:51:40-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LQiqiMcbpGA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-starcraft-2-beginner-basics-hopping-into-1v1-for-the-first-time-the-pig-daily-16.md",
       "title": "StarCraft 2 - Beginner basics - Hopping into 1v1 for the first time | The PiG Daily #16",
       "excerpt": "Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb\r See the Show notes and more info + ongoing discussion of the show in the Teamliquid thread: http://www.teamliquid.net/forum/starcraft-2/509383-the-pig-daily-thinking-critically-about-sc\r  -- Watch live",
@@ -589,37 +589,6 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-how-to-beat-skytoss-the-chadray-annihilator-zerg-build-order-guide.md",
-      "title": "StarCraft 2 - How to Beat Skytoss: The CHADRAY ANNIHILATOR Zerg Build Order Guide",
-      "excerpt": "Spawning Tool: https://lotv.spawningtool.com/build/139128/. Hope this guide helps some Zerg players out there struggling against pesky Chadrays or Skytoss! If you have guide requests, let me know in this form: https://forms.gle/KhxoYzm4V6EE9ZCh7 -- 🐷 Like my videos? Help support me by being a patron:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-how-to-beat-skytoss-the-chadray-annihilator-zerg-build-order-guide/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-how-to-beat-skytoss-the-chadray-annihilator-zerg-build-order-guide/",
-      "originalUrl": "https://youtube.com/watch?v=pNv4WwhpIFM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pNv4WwhpIFM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M32S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-01-07T20:08:12-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pNv4WwhpIFM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
       ]
     },
     {
@@ -949,6 +918,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/7Ezci19D-DY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-how-to-rapid-fire-warp-in-ultra-fast-technique.md",
+      "title": "Starcraft 2: How to Rapid Fire Warp In (Ultra Fast Technique)",
+      "excerpt": "You may have seen Rapid Fire Warp Ins before, but never THIS fast! This is going to change your protoss macro in starcraft 2 forever. Let's get started!  Starcraft 2: How to Rapid Fire Warp In (Ultra Fast Technique) #Starcraft2 #Protoss #RapidFire  ♦ Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-how-to-rapid-fire-warp-in-ultra-fast-technique/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-how-to-rapid-fire-warp-in-ultra-fast-technique/",
+      "originalUrl": "https://youtube.com/watch?v=-gW8qeKeAIA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-gW8qeKeAIA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M25S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-06-08T20:40:41-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-gW8qeKeAIA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

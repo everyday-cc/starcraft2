@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/beastyqtsc2-proxy-factory-inside-ene
 type: video
 length: PT37M48S
 publishedDateTime: 2020-10-25T14:20:48Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yp5E5IIAemg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "mXn0XiHXu0wRqnOhyyyQf9bVDQ0w/MwrjSkkisU5w0JcTb58lCq8csVWpXT4yb1xz/8s/Zs/KUtO84PdWLSTSuiyodBTLgcrDexHWqIXaA1GaawakALkM6bA1t7BWWxO+PLVzJSgebfZ881ISkg2OsvEagRLDmf2nxttR+OOsyndKOuOsA45hKvg47OR+wvhzJfaVR51EBRoF3jlMmX7sf0MDptrMEW/XK9TvsOBckzpRuOBKCU0TkPZjKMtoJuK2CO+LNsdhPYtCabPXtxD1JipkSCJEWL4I/iU/YXDuxoWZcSbugLu44M4an/0AANuKpOu372YKpyldog0JM/5Iov16H2/6kvmjmCZKwe/6wAc7dc/dhTV2vP9d7AMbKRxg9nMQ7kH8Yy/jAoaOLPyM1Mp819FampsDZ49IQIbpp8=;lhSUMxuZpLAT+RJypvBgNQ=="
+secured: "rdafQnuArb568zyCm7P5ynbnesA+ZlZs+HNCz9NaD7j7oro35cQ0/jPGn2oUVKsrkD/Jvku54uIE1tnA7rLl9eBEqvugzI12nSyrAaJ/XKpz2ZhbBWT+Iz44qqwgUmS/WCl64XIJVlwoTWR09Z96uNmUxTRs6Me1dBL3fnLF7D/qQs2I/pI+GEqSrUTfLnD2p33eBj1GwVj40yI6RwqhR8R0PnBANwWjhUViOpq4gPm+7/a7LvCcYVPJi3ZVUNIZBCTa6syTRXHZc9OKnNTz1g7UwZM/FaqOCf4E7Xou9HNIQMZMoI6SwMigOBJSWnPWlVU5rBL/bcdcTJB24OZJ0Ne6utteFNGDJt84Krj4N0VtuSwYiWWWEOZm+5MNcLHFzr4w5Wy3ziPwAjjGfs4U3R11GKaPOjMWu3UjN4e3F4I=;Y6XcJn4DFXSUQ2jRBK790w=="
 ---
 

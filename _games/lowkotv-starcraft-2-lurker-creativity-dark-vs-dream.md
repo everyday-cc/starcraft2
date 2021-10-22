@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-lurker-creativit
 type: video
 length: PT29M37S
 publishedDateTime: 2020-11-13T11:05:36Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L5qAk3G5CAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "DHfLeu27ntXbNq9YG+vLr3eXkHxZSbZXgtGizcqITVAiAy9Thrm1GiT6VMVfWK4dppKuGFxU6QQf7IBKznyuE9VOWfy7W265v59hyOWFHloRghBCBs5z6RcdVVe4VVDDx43cZN9ciDt9itP2IyMmhw76wGxVKJ8O4N6wvO2x+NpsTkCGeQSDd5+x+acaLc76VFQhXGopvh7R7HH5iBgOgUw06VU24lVAjb16tmPHHmZfN9tjEticPX+XL0rq7IcZomEb7+aSB9AynpSk4fNA5IVaGYiWMkVHV8oysbBQU+fvjXrfFy2i1rlhxY77UAzT6+jrrTzMWG2IlEu2fmK0bE02dm+6FimYpxxinz8BwTWjCdAvHGLk5KnQQIrhZfb+ePBvlyd3gbTokLSgIlyDDrY1SjmI8HzmJUUMIB82USs=;6+59m6VBCT+TuWk3yZWTYA=="
+secured: "L2mHbLZIe+dxClLCjlagejCfVla1w+dV5/dqxp5ih4ekrvUvBjmOzTaFNd4zCvl2rNdCwmOZpQK+tHsGHCn2lIJXiLX74RXak3OFrOzqXjL/ngExcJi+nsxg4Fcyws8qvPSXtkV7dt8vpH0Qa+ArZ2ZRvKDuql/qtSI6DlXKYaeC2qbN2Ip8wTUwhOyH6AEM/+yyxtSds0Hp0mDpNzOZrIcxcw6utx+bIPPk+MaRGUJeuJE4GDnZr8pKOHucgTAUEAh7x+tbm9pxsHoHvuTV2fk9qeo0oPgyuH5Y1Rk9/00unnbffPKvE50DkPG3gJK3gMJ/k47y3MX1uUjbbaTRQCIbHhSAbKYUc/t35uW+6KK+6TZz5J4cRYaDJXR8m2sBlLJKoftcmijqDfhJVgZQPKqD/NIn/FsfCmb2UeVfFUY=;+w77V0//JQxOypXuZgRAbA=="
 ---
 

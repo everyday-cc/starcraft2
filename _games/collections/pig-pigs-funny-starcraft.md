@@ -773,6 +773,7 @@ items:
   - pig-starcraft-2-95-workers-to-26-theres-no-way-pig-diamond-in-the-ruff-55
   - pig-starcraft-2-florencio-perfectly-executes-a-2-1-1-florencio-files-245
   - pig-starcraft-2-if-this-is-uthermal-hes-at-least-4-tequilas-deep-smurf-detective-7
+  - pig-starcraft-2-this-is-why-you-scout-your-main-base-diamond-in-the-ruff-56
   - pig-starcraft-2-salty-licorice-florencio-files-246
 
 topics:

@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/beastyqtsc2-proxy-factory-inside-ene
 type: video
 length: PT37M48S
 publishedDateTime: 2020-10-25T14:20:48Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yp5E5IIAemg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "rdafQnuArb568zyCm7P5ynbnesA+ZlZs+HNCz9NaD7j7oro35cQ0/jPGn2oUVKsrkD/Jvku54uIE1tnA7rLl9eBEqvugzI12nSyrAaJ/XKpz2ZhbBWT+Iz44qqwgUmS/WCl64XIJVlwoTWR09Z96uNmUxTRs6Me1dBL3fnLF7D/qQs2I/pI+GEqSrUTfLnD2p33eBj1GwVj40yI6RwqhR8R0PnBANwWjhUViOpq4gPm+7/a7LvCcYVPJi3ZVUNIZBCTa6syTRXHZc9OKnNTz1g7UwZM/FaqOCf4E7Xou9HNIQMZMoI6SwMigOBJSWnPWlVU5rBL/bcdcTJB24OZJ0Ne6utteFNGDJt84Krj4N0VtuSwYiWWWEOZm+5MNcLHFzr4w5Wy3ziPwAjjGfs4U3R11GKaPOjMWu3UjN4e3F4I=;Y6XcJn4DFXSUQ2jRBK790w=="
+secured: "OoIkR5Ek1N/OQCkOwIGj03j7UAnCq1MYgGy6eVisZ2qceOE6yfJ9H74yL6FMWdUalvanPKM4ug2TV7WYxLNqL/6ynv8qHEoRAx5uVz8dpsiWiObVqhpxBYs4lElB1aTLDtbVQeaKc4if4nNeJGzKRQfZbURQNVVeN7xhGEtBrpmMASnY2n+hOHgiX9hyiGy0866yXXM5KGDiyFCRfM1xLOkcOb2BWj5Lno2R2hvAyVsvfDtLpFNGBel2UgIlpw2odWBtlU1pg2G/n3+My0ypuWU5Upnfx9GiwPmNaf4jKG2mh6wH+6F+cM3sxAYsNXvL7T0d6iJCPGynXQGRhPGxHjMM4MrDWaYiI7+b3C9UA6pQnxDsNV4y/mVvGI3tEdlIurfZGSa21P4hYD232NA3gcIOLLFOVevofqe96GOf7Lw=;m4PU+4sRD9AEWVLY4VL9Qw=="
 ---
 

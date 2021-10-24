@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.redbull.com/in-en/playing-starcraft-ii-makes-you-smarter
 cdnAmpWebUrl: "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/in-en/playing-starcraft-ii-makes-you-smarter"
 type: article
 quality: 57
-heat: 103
+heat: 101
 published: true
 
 provider:

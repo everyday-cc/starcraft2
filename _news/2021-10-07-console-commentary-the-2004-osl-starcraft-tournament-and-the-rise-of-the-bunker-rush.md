@@ -55,6 +55,20 @@ related:
         width: 490
         height: 367
         isCached: true
+  - title: "Blizzard: Use StarCraft 2 trainers 'at your own risk'"
+    excerpt: "Big Blizzard is always watching! Earlier this week, Cheat Happens reported one of its users was banned in StarCraft 2 after utilizing trainers in single player. Blizzard apparently had suspended ..."
+    publishedDateTime: 2021-10-14T00:00:00Z
+    webUrl: "https://www.engadget.com/2010-10-13-blizzard-use-starcraft-2-trainers-at-your-own-risk.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/OhJ8kb8OL0cJsbHw9OMOJw--~B/aD0yOTc7dz01MzA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.joystiq.com/media/2010/10/starcraft2achievements530p.jpg"
+        width: 530
+        height: 297
+        isCached: true
 
 secured: "Q/XjJUBfDfJlJqln0Byrzc6LLh01yJ6u4k5tJFYLIhIl3rZr2QdV4VKJR9ecE/nVKHI4BSwkWMhN5bYIcpN4Ns0s1BOYc8EmVGXgozKsAduEb8kCqW0WyZMSgI55JOIKxWF9wqEj8RN47guLf0eS5pa5xTZDx+FqEgcdAwUhTj4I4Xq8dn8qiBgy13PZDtMbMqT+Mdhv+T3s11lg5EGH9s+sMJtBzevnKaImVr6YPsCyzxFq2kg2BYLuOLRpnTuTKXX9wH0QjdKqXG2FAf/HfHoIFvuWkW5J/IwyDudIR2/m4cVKQFRg9wWz2Mw9OKhvOsy7MqZHUS7ro8rw29u/qslEaAzPnZSV9ZSNDsy+kJA=;Cd+jJ2D1xtJMkn93dpXaQA=="
 ---

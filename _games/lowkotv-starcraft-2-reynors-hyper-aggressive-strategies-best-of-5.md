@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-hyper-ag
 type: video
 length: PT42M56S
 publishedDateTime: 2021-04-14T10:58:39Z
-heat: 70
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sfTbHUSeEGA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Sckm4NAnnbn0uTV8CIh+iOC4NQT2ZRDK3n88K8p5Q2plDu0jsYlQUGBRZntmc8T36UiSxQSa4hvA7ep8uPwx9GEKz5Ef/QCJMfafFSOEnVdTpnDauwwJbz2A4fk7tqhD71+QTJQuzBGx6Hx12mZhlhlUXo+9CRFKTCjYpAhS9J6cwNg9o3EW+WDKiDjfrnyrR6i50Dm0ld4c/h41ESC/eKAQoePI8aWLneywBoSS6xPYvjKlOzNq6AqmMsCDta3gss9KxtWaDEMvhS+wzIM6vHNB2j7mu0BfH0712sgtMj7wJfx+41SNmBe70T01avC2/1S++8E3z2ijbge/c/9e0czBa3bm4aJQoPpr4GzOO/Tbe5mhu0LVnPPYtS3l7far5ObSADgCGflfbWJDGzIB/htVztlnE4vIPliCEytrPxM=;r2QWeu/9fLJt0+2fkBdtNg=="
+secured: "muMfzss5XKz/9ODFJ4fE5f9soi1+xBkmTuS20fkyj4/qagV9MWwvOKyytIkfyq9p8R/l1D/Sfl6WsE5gTBZBHlzkHFJi7pja1uj7ckILYDNBb1lEoAajrUxDogaJ056+6v4JYZWKRZ1/92H46m9nIlDHWDOiL/0KXFW7jeqQRFpRjylRtSUTj2fJFiv610ZgnDpqH74U5CdS59/Ig6n22/7LKA1j2Oteb5bPik1PpoeFgWBasqZml7PuUFdT51NBHadVrZPqkFyde4alx55MDXQaExZkQFp07zTwvDuV23lK1g6FJeJHdbDbqCRzGtfnyGckUPf9nKKj1W1hvwZuyPNgBjeYDG7vI+8/Nqz0Zm9M/9l6jMNPBtHrfliRy+qw+/jVv+oNW969CXNwVKD41MHNFhxIEyctTWbXw2mQW5wLYHDplnJeECpo+u6W727W;+9miyuyfnqL1JfX3LQ/6rA=="
 ---
 

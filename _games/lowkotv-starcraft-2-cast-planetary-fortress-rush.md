@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=6KGmLkFwq6I
 type: video
 length: PT18M46S
 publishedDateTime: 2017-02-09T13:35:29Z
-heat: 61
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6KGmLkFwq6I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "d9RO/SWWICzGNuUsu3Pl1HbeD1i88LKFKxC4iwgwEf1A+K7BMulQ2teIKQF99wPIPTtrJRYFp9qZZ2808GWszDyBPlQhlqbLtWjyqJHN4umWtE3VUoPfhhRMhsrzrQW9N9NIYnWoWjC8i//6KPtIAnpSJX1OsNVEbidnaB8FIJeRl0ASyoGlGjAigJcJyUSCgrcFZ8wiO7+ZqXDq4kzusLgIzrHOvklMB9QNzJTz+KE2XYuHLAAlUct+IQHrvjYTgux+N0OTgMRfQ2Lh66ATsI1kxSB6jMqNZU4aM+gVURg7cSd45GRUf3M5UPsy3i1FxlKeDoHTVhMigMR087C4dgoZf4MoDVmAJtg91lDYu7uCY7CFMyYaXgDASF7TbqvjpPnugNAVXcWaKW2y9DinxlJpBpj2nj95tPA8d/Buo0Y=;Djr1xeob6+pwCSatPThnow=="
+secured: "ERLOhGwehrJUE/XRYtylphyvrxM7l6PoNjPnoUUN50IOj28WNbhR0lobMPRo0pFnf8bO9g//IEQytdOk6+TUJ99H47AfDyWt9pmWn0nEkuU+UoT1UNpealx/XSfAJahjkEd5GZWXfn8i7g0e2ZF332O+l29McXznEycDm3w/vNIlz4kNLzIyS5132tfbVtuCt4OE9orfo1572a4pbOUDPPCFvJvq2F95gjjQKKcOgQp2qnDVeyLCtkjqASajf9FwNsiW1aR1uKAiraqbX1Pat7KyOQ2C8k2MxXOBXszfnR9fD9g9JngFkoXeqpPnLDToI6N+e+5dt1IeBSZPjy1+LwWyarP1v8QZ77dpBitksMNPH2iUfGNkYZR0Vn5iApHDpOgL1wfRBnJ3Zn/puBrMTP7pkfnhRps7ZSOoyYNf7YAk1AVkM5bfsDJ/dTYrlDjz;qOUKz9509TwseLJhchOTxA=="
 ---
 

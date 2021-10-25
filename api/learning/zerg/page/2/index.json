@@ -153,25 +153,25 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-starcraft-2-beginner-zerg-opening-the-pig-daily-152.md",
-      "title": "StarCraft 2 - Beginner Zerg Opening | The PiG Daily #152",
-      "excerpt": "THIS WEEKS ICYFAR Challenge: \"Siege Warfare - Send in your replays with your best siege tactics. Some suggestions: tank-bunker push, a lurker nydus or a pylon-disruptor push. Gl!  Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as title! Latest submission is 24 hours before the show",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-beginner-zerg-opening-the-pig-daily-152/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-beginner-zerg-opening-the-pig-daily-152/",
-      "originalUrl": "https://youtube.com/watch?v=rs4z-xtYdD4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rs4z-xtYdD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M18S",
+      "path": "_learning/videos/pig-all-the-keys-to-improving-zvt-coaching-d3-zerg.md",
+      "title": "All the Keys to improving ZvT | Coaching D3 Zerg",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-all-the-keys-to-improving-zvt-coaching-d3-zerg/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-all-the-keys-to-improving-zvt-coaching-d3-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=Gyfc4SiDOME",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gyfc4SiDOME\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M25S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2017-04-11T16:10:47-07:00",
+      "publishedDateTime": "2020-08-03T09:00:08-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/rs4z-xtYdD4/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/Gyfc4SiDOME/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -184,23 +184,23 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-starcraft-2-how-to-beat-skytoss-the-chadray-annihilator-zerg-build-order-guide.md",
-      "title": "StarCraft 2 - How to Beat Skytoss: The CHADRAY ANNIHILATOR Zerg Build Order Guide",
-      "excerpt": "Spawning Tool: https://lotv.spawningtool.com/build/139128/. Hope this guide helps some Zerg players out there struggling against pesky Chadrays or Skytoss! If you have guide requests, let me know in this form: https://forms.gle/KhxoYzm4V6EE9ZCh7 -- 🐷 Like my videos? Help support me by being a patron:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-how-to-beat-skytoss-the-chadray-annihilator-zerg-build-order-guide/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-how-to-beat-skytoss-the-chadray-annihilator-zerg-build-order-guide/",
-      "originalUrl": "https://youtube.com/watch?v=pNv4WwhpIFM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pNv4WwhpIFM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M32S",
+      "path": "_learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft.md",
+      "title": "Beginner Zerg Opening - Welcome to Starcraft",
+      "excerpt": "Sorry for the delay Guys, here's your \"last video\"!    Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos dont appear in your feed and you want to get notified",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft/",
+      "originalUrl": "https://youtube.com/watch?v=LQiqiMcbpGA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LQiqiMcbpGA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M14S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-01-07T20:08:12-08:00",
+      "publishedDateTime": "2019-04-29T00:51:40-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/pNv4WwhpIFM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/LQiqiMcbpGA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

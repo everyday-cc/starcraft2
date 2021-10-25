@@ -775,6 +775,7 @@ items:
   - pig-starcraft-2-if-this-is-uthermal-hes-at-least-4-tequilas-deep-smurf-detective-7
   - pig-starcraft-2-this-is-why-you-scout-your-main-base-diamond-in-the-ruff-56
   - pig-starcraft-2-salty-licorice-florencio-files-246
+  - pig-starcraft-2-three-basetrades-in-one-game-rocker-vs-ukko-pvz
 
 topics:
   - StarCraft 2

@@ -44,20 +44,6 @@ related:
         width: 480
         height: 320
         isCached: true
-  - title: "CONSOLE COMMENTARY: The 2004 OSL StarCraft Tournament and the Rise of the Bunker Rush"
-    excerpt: "When it comes to displays of skill in competitive video games, no genre has more exciting moments of genius strategic play than real-time strategy games. Referred to colloquially as RTS games, these games are complex and challenging because they require calculated forethought and technical skill to realize tactical goals involved in overcoming opponents."
-    publishedDateTime: 2021-10-07T00:18:00Z
-    webUrl: "https://thehoya.com/console-commentary-the-2004-osl-starcraft-tournament-and-the-rise-of-the-bunker-rush/"
-    type: article
-    provider:
-      name: The Hoya
-      domain: thehoya.com
-    quality: 47
-    images:
-      - url: "https://static.shareasale.com/image/113278/mia-banner-ad-6.jpg"
-        width: 720
-        height: 300
-        isCached: true
   - title: "Blizzard: Use StarCraft 2 trainers 'at your own risk'"
     excerpt: "Big Blizzard is always watching! Earlier this week, Cheat Happens reported one of its users was banned in StarCraft 2 after utilizing trainers in single player. Blizzard apparently had suspended ..."
     publishedDateTime: 2021-10-14T00:00:00Z

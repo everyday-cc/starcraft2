@@ -4,23 +4,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-10-mid-game-timings-in-masters-1-b2gm.md",
-      "title": "StarCraft 2 - Zerg Bronze to GM #10: Mid-game Timings in Masters 1 (B2GM)",
-      "excerpt": "Sub to @PiG Coaching  for Terran B2GM vids 🐷 Support PiG! https://www.patreon.com/PiGSC2  0:00 Game 1 vs Terran. Goal: Solid openings into reactive timing attacks to win the game 14:39 Game 2 vs Zerg 32:54 Game 3 vs Protoss 38:54 Game 4 vs Protoss 1:02:21 Game 5 vs Protoss 1:19:01 Game 6 vs Zerg 1:38:40",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-10-mid-game-timings-in-masters-1-b2gm/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-10-mid-game-timings-in-masters-1-b2gm/",
-      "originalUrl": "https://youtube.com/watch?v=OVj-TCAaspo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OVj-TCAaspo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4H24M58S",
+      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-1-for-those-new-to-starcraft-and-bronze-league-b2gm.md",
+      "title": "StarCraft 2 - Zerg Bronze to GM #1: For those New to Starcraft and Bronze League (B2GM)",
+      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 Intro 0:54 B2GM guide: https://docs.google.com/document/d/1mq1Ke3yK6bAVaQwuGk7rJeq3cXGmuf4V55_3L7sGDH0/edit?usp=sharing |  Zerg Beginner Opening: https://youtu.be/LQiqiMcbpGA 4:17 Settings | PiG's",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-1-for-those-new-to-starcraft-and-bronze-league-b2gm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-1-for-those-new-to-starcraft-and-bronze-league-b2gm/",
+      "originalUrl": "https://youtube.com/watch?v=Tr1_8C6CjMQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tr1_8C6CjMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H34M56S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-09-23T19:14:25-07:00",
-      "heat": 134,
+      "publishedDateTime": "2021-07-29T18:26:51-07:00",
+      "heat": 157,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/OVj-TCAaspo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Tr1_8C6CjMQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -59,7 +59,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-07-29T18:26:51-07:00",
-          "heat": 77,
+          "heat": 157,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Tr1_8C6CjMQ/maxresdefault.jpg",
@@ -182,37 +182,6 @@
       ],
       "content": "\r\n",
       "type": "collection",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-1-for-those-new-to-starcraft-and-bronze-league-b2gm.md",
-      "title": "StarCraft 2 - Zerg Bronze to GM #1: For those New to Starcraft and Bronze League (B2GM)",
-      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 Intro 0:54 B2GM guide: https://docs.google.com/document/d/1mq1Ke3yK6bAVaQwuGk7rJeq3cXGmuf4V55_3L7sGDH0/edit?usp=sharing |  Zerg Beginner Opening: https://youtu.be/LQiqiMcbpGA 4:17 Settings | PiG's",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-1-for-those-new-to-starcraft-and-bronze-league-b2gm/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-1-for-those-new-to-starcraft-and-bronze-league-b2gm/",
-      "originalUrl": "https://youtube.com/watch?v=Tr1_8C6CjMQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tr1_8C6CjMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H34M56S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-07-29T18:26:51-07:00",
-      "heat": 77,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Tr1_8C6CjMQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
       "topics": [
         "StarCraft 2",
         "Zerg"
@@ -734,6 +703,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/5An7RM-NxTk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-10-mid-game-timings-in-masters-1-b2gm.md",
+      "title": "StarCraft 2 - Zerg Bronze to GM #10: Mid-game Timings in Masters 1 (B2GM)",
+      "excerpt": "Sub to @PiG Coaching  for Terran B2GM vids 🐷 Support PiG! https://www.patreon.com/PiGSC2  0:00 Game 1 vs Terran. Goal: Solid openings into reactive timing attacks to win the game 14:39 Game 2 vs Zerg 32:54 Game 3 vs Protoss 38:54 Game 4 vs Protoss 1:02:21 Game 5 vs Protoss 1:19:01 Game 6 vs Zerg 1:38:40",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-10-mid-game-timings-in-masters-1-b2gm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-10-mid-game-timings-in-masters-1-b2gm/",
+      "originalUrl": "https://youtube.com/watch?v=OVj-TCAaspo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OVj-TCAaspo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4H24M58S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-09-23T19:14:25-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OVj-TCAaspo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

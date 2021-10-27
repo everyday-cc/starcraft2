@@ -253,6 +253,7 @@ items:
   - pig-starcraft-2-the-boom-vs-flo-crossover-episode-florencio-files-244
   - pig-starcraft-2-florencio-perfectly-executes-a-2-1-1-florencio-files-245
   - pig-starcraft-2-salty-licorice-florencio-files-246
+  - pig-starcraft-2-florencio-runs-into-an-opponent-with-perfect-execution-florencio-files-247
 
 topics:
   - StarCraft 2

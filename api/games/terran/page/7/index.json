@@ -4,53 +4,14 @@
   "page": 7,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-terran-mech-vs-zerg-swarm.md",
-      "title": "StarCraft 2: TERRAN MECH vs ZERG SWARM!",
-      "excerpt": "Stephano vs DeMusliM in a really cool macro focused Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube Has vs Kelazhur: https://goo.gl/pqA6ws  While Stephano starts this game off thinking that he was going up against a Bio based player, DeMusliM quickly secures 4 bases and starts producing",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-mech-vs-zerg-swarm/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-terran-mech-vs-zerg-swarm/",
-      "originalUrl": "https://youtube.com/watch?v=atDlF8G-PD0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/atDlF8G-PD0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M50S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/atDlF8G-PD0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-07-30T02:52:40-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-terran-vs-terran-insanity.md",
-      "title": "StarCraft 2: Terran vs Terran Insanity!",
-      "excerpt": "An amazing game of Terran versus Terran between FanTaSy and Cure. I think this is my favourite game of TvT I've seen this year. It's really good. This match was played as part of the WardiTV Summer Championships and displays everything from Cheese to Battlecruisers.  Get more videos & support my work:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-vs-terran-insanity/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-terran-vs-terran-insanity/",
-      "originalUrl": "https://youtube.com/watch?v=AH194cvrl0M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AH194cvrl0M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M59S",
+      "path": "_games/lowkotv-starcraft-2-the-flavours-of-terran-cheese.md",
+      "title": "StarCraft 2: THE FLAVOURS OF TERRAN CHEESE!",
+      "excerpt": "Best-of-3 series between uThermal and Stats in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Drone rush vs Drone rush: https://goo.gl/GsDVVk  Lots of Terran cheese in this professional match of StarCraft 2. While uThermal decides to play macro in game 1, he has more cheesy plans for",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-flavours-of-terran-cheese/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-flavours-of-terran-cheese/",
+      "originalUrl": "https://youtube.com/watch?v=l_WHqA3sZ14",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l_WHqA3sZ14\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M1S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -70,7 +31,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/AH194cvrl0M/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/l_WHqA3sZ14/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -78,131 +39,17 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-08-15T07:44:55-07:00"
+      "publishedDateTime": "2018-10-10T01:50:17-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-banshee-hit-squad.md",
-      "title": "StarCraft 2: THE BANSHEE HIT SQUAD!",
-      "excerpt": "Terran Mech is starting to look surprisingly mobile. Subscribe for more videos: http://lowko.tv/youtube Macro Wars: https://goo.gl/1c32tn  In this match of Professional StarCraft 2 I cast a game between Solar and Maru. Terran Mech has quickly been developing over the last few months. It has gone from",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-banshee-hit-squad/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-banshee-hit-squad/",
-      "originalUrl": "https://youtube.com/watch?v=EPBb_6s20E8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EPBb_6s20E8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M18S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EPBb_6s20E8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-03-10T02:56:54-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-battlecruiser-fleet.md",
-      "title": "StarCraft 2: The Battlecruiser Fleet!",
-      "excerpt": "An awesome game of Zerg vs Terran in StarCraft 2 between Reynor and Kelazhur.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv The hardware",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-battlecruiser-fleet/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-battlecruiser-fleet/",
-      "originalUrl": "https://youtube.com/watch?v=wx3AgOTBp-Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wx3AgOTBp-Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M33S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wx3AgOTBp-Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-13T01:57:13-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-cringe-nukes.md",
-      "title": "StarCraft 2: The Cringe NUKES!",
-      "excerpt": "A very strange Terran vs Terran. Subscribe for more videos: http://lowko.tv/youtube Zerg vs Protoss misdirection: https://goo.gl/ByS50z  In this Gold vs Platinum League Terran vs Terran the player in Blue decides to play a bit of a strange style with Tactical Nukes and bad manner Mules.  Support me on",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-cringe-nukes/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-cringe-nukes/",
-      "originalUrl": "https://youtube.com/watch?v=ykgEMS8zuzI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ykgEMS8zuzI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M6S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ykgEMS8zuzI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-04-29T11:57:16-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-hero-banshee.md",
-      "title": "StarCraft 2: THE HERO BANSHEE!",
-      "excerpt": "The story of the hero Banshee. Subscribe for more videos: http://lowko.tv/youtube The Zerg... Mothership?! https://goo.gl/bZtVFG  A really fun match of Gold League Terran versus Terran. In this game, both players open up with odd strategies, allowing us to arrive at a very strange mid-game that is determined",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-hero-banshee/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-hero-banshee/",
-      "originalUrl": "https://youtube.com/watch?v=ubfhupz_9s0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ubfhupz_9s0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M9S",
+      "path": "_games/lowkotv-starcraft-2-the-hero-battlecruiser.md",
+      "title": "StarCraft 2: THE HERO BATTLECRUISER!",
+      "excerpt": "An awesome match of Zerg vs Terran with a Hero Battlecruiser. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Zerg match: https://goo.gl/E9r57B  In this video MarineLorD decides to play a very cool style versus Namshar. While we have seen different versions of Terran Mech, he decides",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-hero-battlecruiser/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-hero-battlecruiser/",
+      "originalUrl": "https://youtube.com/watch?v=79gC4M-udK4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/79gC4M-udK4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M38S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -223,7 +70,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ubfhupz_9s0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/79gC4M-udK4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -231,45 +78,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-03-10T02:53:37-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-tons-of-tanks-neeblet-vs-uthermal.md",
-      "title": "StarCraft 2: TONS OF TANKS! (Neeblet vs uThermal)",
-      "excerpt": "Protoss versus Terran has changed... A lot. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Commentary: https://goo.gl/xhqtzW  In this match between uThermal and Neeblet we see some of the major changes to the PvT matchup come into play. Since the Disruptor got nerfed, their counter",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-tons-of-tanks-neeblet-vs-uthermal/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-tons-of-tanks-neeblet-vs-uthermal/",
-      "originalUrl": "https://youtube.com/watch?v=nphhaf8WfoM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nphhaf8WfoM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nphhaf8WfoM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-11-16T23:35:27-08:00"
+      "publishedDateTime": "2018-11-30T04:14:52-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-top-of-the-line-protoss-vs-terran.md",
@@ -349,14 +158,14 @@
       "publishedDateTime": "2020-01-20T02:01:57-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-what-year-is-it-drg-vs-special.md",
-      "title": "StarCraft 2: WHAT YEAR IS IT?! (DRG vs SpeCial)",
-      "excerpt": "Muta Ling Bane was a popular style in the early days of StarCraft 2. Yet over the year the style kind of fell off. The reason is that Terran players got much better, maps are bigger and most importantly new units got added. In this Terran versus Zerg between SpeCial and DRG, DRG plays like it's either",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-what-year-is-it-drg-vs-special/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-what-year-is-it-drg-vs-special/",
-      "originalUrl": "https://youtube.com/watch?v=gv5OQnfG7Zg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gv5OQnfG7Zg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M53S",
+      "path": "_games/lowkotv-starcraft-2-widow-mine-heroes-clem-vs-showtime.md",
+      "title": "StarCraft 2: WIDOW MINE HEROES! (Clem vs ShoWTimE)",
+      "excerpt": "Clem versus ShoWTimE in a best-of-5 series of professional StarCraft 2. A great series between two of the best pro gamers in SC2. In this series we see a variety of openers from both players. ShoWTimE goes for Stargate, Twilight and Robotics openers. Clem focuses primarily on Marines and Marauders, but",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-widow-mine-heroes-clem-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-widow-mine-heroes-clem-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=844oJOWK09Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/844oJOWK09Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT53M37S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -371,12 +180,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Terran",
+        "Protoss"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/gv5OQnfG7Zg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/844oJOWK09Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -384,7 +194,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-02-17T02:16:39-08:00"
+      "publishedDateTime": "2020-04-09T05:41:29-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-2-starport-raven-is-legit-diamond-in-the-ruff-36.md",
@@ -1031,6 +841,171 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-01T04:20:41-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-my-opponent-wishing-me-all-the-bestor-not.md",
+      "title": "My Opponent Wishing Me ALL the Best!.....or Not",
+      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-my-opponent-wishing-me-all-the-bestor-not/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-my-opponent-wishing-me-all-the-bestor-not/",
+      "originalUrl": "https://youtube.com/watch?v=j9ofiYvK_Kc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j9ofiYvK_Kc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M30S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/j9ofiYvK_Kc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-14T05:47:20-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-new-series-hellions-ghosts-liberators-to-grandmaster.md",
+      "title": "*NEW* Series! Hellions, Ghosts & Liberators to Grandmaster!",
+      "excerpt": "NEW series is here, back to some Terran gameplay! Let me know how you guys are liking this one!  Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-new-series-hellions-ghosts-liberators-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-new-series-hellions-ghosts-liberators-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=6XOOIeuFQHM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6XOOIeuFQHM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M14S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6XOOIeuFQHM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-23T04:49:52-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-prophet-beastyqt-100-prediction-rate.md",
+      "title": "Prophet Beastyqt... 100% Prediction Rate",
+      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-prophet-beastyqt-100-prediction-rate/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-prophet-beastyqt-100-prediction-rate/",
+      "originalUrl": "https://youtube.com/watch?v=maFJ2fB4AB4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/maFJ2fB4AB4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M15S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/maFJ2fB4AB4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-13T04:50:46-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-proxy-factory-inside-enemy-base-in-terran-vs-terran.md",
+      "title": "Proxy Factory Inside Enemy Base in Terran vs Terran?",
+      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-proxy-factory-inside-enemy-base-in-terran-vs-terran/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-proxy-factory-inside-enemy-base-in-terran-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=Yp5E5IIAemg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yp5E5IIAemg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M48S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Yp5E5IIAemg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-25T07:20:48-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-rage-spamming-pause-before-quitting.md",
+      "title": "Rage Spamming PAUSE Before Quitting!",
+      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-rage-spamming-pause-before-quitting/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-rage-spamming-pause-before-quitting/",
+      "originalUrl": "https://youtube.com/watch?v=AGlUHAXXdJs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AGlUHAXXdJs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M36S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AGlUHAXXdJs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-06T05:38:27-07:00"
     }
   ],
   "nextPage": 8

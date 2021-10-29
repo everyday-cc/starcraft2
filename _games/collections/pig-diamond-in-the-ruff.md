@@ -65,6 +65,7 @@ items:
   - pig-starcraft-2-these-are-the-terran-units-to-worry-about-diamond-in-the-ruff-54
   - pig-starcraft-2-95-workers-to-26-theres-no-way-pig-diamond-in-the-ruff-55
   - pig-starcraft-2-this-is-why-you-scout-your-main-base-diamond-in-the-ruff-56
+  - pig-starcraft-2-ruffs-ruthless-tvp-cheese-compilation-3-games-diamond-in-the-ruff-57
 
 topics:
   - StarCraft 2

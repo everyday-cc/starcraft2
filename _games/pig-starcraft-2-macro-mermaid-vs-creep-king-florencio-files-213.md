@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=JdVB9nuwL34
 type: video
 length: PT22M19S
 publishedDateTime: 2021-02-18T03:13:20Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JdVB9nuwL34\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "NlWFW3al0LhGyHHOgsufQPh0YXUnyiio/jhoKR36HE7N9xofXDDRO4Q+6RscHWiAxyH8AfAjvQIEmohhyILuJK9SzLQBssu1WETa7D5zd0P8Yz8SDnFyM7KWnnTL1d5e/8HAZ5lxXjjPtwDj28bs8GDI34rtgzt2K70NOOwaYSqfOHi0MxIeXLe9uKoxcK58oagcwgPKE2nBN56sKlkL4r91sTDMl3OM0K8ixmmIoO1OcGo5cxuRvGLo8wnfu0MMHHNBszUkXu7fkoqnIFJOdVgdm5KUImZ86W8VtxXbFK4eJbrB/3v2mKt9DRXdg63eZc7J03JH0DsQeja6FSblneho07nhIyGfVR8Mknm0ssdA44+EvABi7ZhUXu6tatkFhrRcFaC0HCLLE4eKxVCdbj4/eePuwSyEVr7lNVQvYYk=;Uz3/SQh99II+sRzUTj+tPw=="
+secured: "tsex+Wi5KPvz6/r/BEXpTfYk2eJqAkCFr7s0D1kKyupW66DNgM5oGfEDvjKrQiDvfckqavmGUJXjhTHA1OJM9QBmkrfYvSfjLRzMyI4c4TGsQhjbTbops+rS8ekHiQ+JSfHVT9XZJAhyk3sxXMFDRM4RDmVkWM5fwCeTDrKfOnzJ+9+8OTeFZw9/2/4MDf1OjCozsfIzrQ8ZZzcmMRIeWLLZ1I0UOfIeT3VkGjaPM/zJtfnqI84qS1d2oA2bgnPnw6tH1Ci3ELWBReJR8/ToMnlAo06wqvJytPZcyj0z6Z0nSHfLGdSxsiZYJNtWkEHaqTrAVwWhvaq5xm/Z7bzqOfcW260ljjqddSqB0hY3DSLzsRoAyjo37MJP2DG/n9PugM7wPKRnizTp0MQrmXgPFbvZqG9OEkBqbiVvLWsO+cs=;+WhNF3I4qIlZKmKMwp8BfQ=="
 ---
 

@@ -777,6 +777,7 @@ items:
   - pig-starcraft-2-salty-licorice-florencio-files-246
   - pig-starcraft-2-ruffs-ruthless-tvp-cheese-compilation-3-games-diamond-in-the-ruff-57
   - pig-starcraft-2-the-twists-and-turns-in-this-one-game-pvz
+  - pig-starcraft-2-a-genius-solution-to-an-unfair-challenge-astrea-vs-special-1-game-pvt
 
 topics:
   - StarCraft 2

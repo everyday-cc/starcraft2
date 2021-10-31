@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-the-ma
 type: video
 length: PT45M55S
 publishedDateTime: 2021-05-06T11:15:18Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ftIzX5OlUso\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "19utml4gWS7KXM26PpBY7dTKoWcSU8vXUScLz+QBYdLEhwRe6hVoZE2hljmeqRDwKg4y5vnZiTg5bNlrBxr5Jm2mlQfz+PtgbhjuiL3TCPdf+ybMh4UN5Sapiw8XjOYoOAOu1GzJg5cslPxrYwmHH5ubo90mY++U0Q+SdH8ZT7QzX0KXMwsrfeMFO3IzQuY0hIzPc3JwbRqDq2zNhp/39u+d6OMgKwhjubdtru4z76xyKNjK6GZ3/ncXfwdsbJEZh9djBzED5Az3pJaIZheRfoFLixqo0yiy4FCxcHu8TQIg1XH0T0+LeTjkSrFn8ERJXbmBcCyjkic/I5YOqSkl1KpJ0TP2nT1GroaYWJVFXWu4w9vBJI7lDDukNzGCpUaaMwK1pfq4bfz2lj8IYC35Sa+MbLXwDPFa1SH8fKltcsw=;3xpwur+Pk6QMAH6IVvHGwg=="
+secured: "u8vQPe2kXcnSh9dH+wkrZ9mFI7yL0oU0rbhdPxxaRDXqWCuLeiROq4elVRMO++EyuXy+tkxSP/7prTVDw+ICGSNFGplw9c85lbR3pLSQPiEH+1carEImyl54+UxyqKPjiQTC2afwv+WMsZ/glheOYduoW3NyGTuIPEY+ElwPNbN5swK/V5p+VatD5FgB59+47TrV0oky4hAg8+BmIR+STzgqoaJtKmwnbr6eBbalsgNsA091CZ3f61BshBzY5R/Ybi1MfjIiwWKeDn8IWBeZtSk7kFtgFYzbsmLvHOJR5/nlcyGFRzPn1i269676RpEB/BvNpru3r4QcHxjz1sBvmsbotwUNKMpftAA2Tce90KTI8hbevroKoEFNDk0dw9I0xhWz/JaKvyy0eNBaf/ghJo3rJmWW2zZb1rxUvWWppqc=;KbgQvRz9ApIi0JreZjRtRQ=="
 ---
 

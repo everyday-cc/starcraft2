@@ -776,8 +776,9 @@ items:
   - pig-starcraft-2-this-is-why-you-scout-your-main-base-diamond-in-the-ruff-56
   - pig-starcraft-2-salty-licorice-florencio-files-246
   - pig-starcraft-2-ruffs-ruthless-tvp-cheese-compilation-3-games-diamond-in-the-ruff-57
-  - pig-starcraft-2-the-twists-and-turns-in-this-one-game-pvz
+  - pig-starcraft-2-the-twists-and-turns-in-this-one-game-rocker-vs-ukko-pvz
   - pig-starcraft-2-a-genius-solution-to-an-unfair-challenge-astrea-vs-special-1-game-pvt
+  - pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2
 
 topics:
   - StarCraft 2

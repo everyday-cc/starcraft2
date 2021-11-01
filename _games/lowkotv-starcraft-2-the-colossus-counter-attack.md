@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=DXLv5pY3SlM
 type: video
 length: PT24M3S
 publishedDateTime: 2018-12-21T11:54:26Z
-heat: 53
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DXLv5pY3SlM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "7ChJ0PY1ywnGKI9sVZdZr3mb4SlaDuq9ssJaEKBo617jLG22FkfMnJo8UJOvs38IcrUmeXAwM71fTIVIEXd10M0kT62YYJ0KrsMs9PgCn7VgzYytO0qnaoCeQJyqQMSWxq/CSyulQBYDXr2hAi7Fev8Su8zlhhJDqta6QBY9pil25UKAiMfNdTycyBFH2pBVQptQ1LI1X389VS/aY4KY+p89KCtSI+t9MvLupzBsSZ3deUS9UFqC/rHjWnh0CMZe1Sw2qKJIH+FLQ8wCcO/9LQfJkjkcHo2taJa8HU4lww/KzYrU4Bf2gterzZ365mwKJ55wfsQVupeKSA4S9Ej0ePoH+VLrTi0PO+lKSUznfVGsQoDDC/82E7wFK50UL+OkV9Bi5/wlbkvT9xItMzzAtayFGA8OGfFBEjFtPhKbm/BavTSkMuipOiNxdRJ/daTl;Ow/7GZHMrSkQ4Zed/Sauig=="
+secured: "vC/VbQUD1fBO6v3YvmFbU7ce8yq1Z65upv+ULUcHIQrCHHkI1kOQyX0iUyk9ZS5R02Vcdv4ZDOpFe6x2IR1wCcifI+cgxJOwJ5H7ZDyWRH3amP3kZqjnIZX2FkIEEvAgRoYNCr7DTJKhqJ1uL+HyFSzBwl4yZzgEHPk52Vfweh8fP/38vA/9goHHO6HYezQRld47nDBFZaCpcKE8gItJcMeA6qIWEVnRyn/DbbSuA5t19Bi8xzzadTYHC58EWhb6s/Ard77LrpvUSgcQlrzZnnbJUM5x7QRw1j5XjhvjWNk8uT3zj/w0UeLg8oH24h810MIPB655Jz9qHWoY/4mznQS8WuaeCV5PXrA3GhalGnXyF1OZCMrxOf6xHNkG9zkwK2IEF8Q8YspX0knSDRRxjNKVREIr9bjSaoB1HyTipHckX7irbYL3vPyhiYN9oly/;mOETpE0Ujl1KzsjCyyXAGg=="
 ---
 

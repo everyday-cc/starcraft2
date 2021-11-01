@@ -122,23 +122,23 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-how-does-reynor-get-ahead-every-single-zvt.md",
-      "title": "How does REYNOR get ahead EVERY SINGLE ZvT?",
-      "excerpt": "Reynor's ascent in StarCraft in recent years has been startling, culminating in a world champion. I've been very impressed with his early game ZvT, which is just so dominating 🐷 Support PiG: https://www.pigstarcraft.com/support/ -- 🐖 Watch live on https://www.twitch.tv/x5_pig 🎓 For coaching inquiries",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-how-does-reynor-get-ahead-every-single-zvt/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-how-does-reynor-get-ahead-every-single-zvt/",
-      "originalUrl": "https://youtube.com/watch?v=QqdFHEPHCqk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QqdFHEPHCqk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M58S",
+      "path": "_learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft.md",
+      "title": "Beginner Zerg Opening - Welcome to Starcraft",
+      "excerpt": "Sorry for the delay Guys, here's your \"last video\"!    Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos dont appear in your feed and you want to get notified",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft/",
+      "originalUrl": "https://youtube.com/watch?v=LQiqiMcbpGA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LQiqiMcbpGA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M14S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-03-23T00:58:51-07:00",
+      "publishedDateTime": "2019-04-29T00:51:40-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/QqdFHEPHCqk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/LQiqiMcbpGA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -149,38 +149,6 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-scarletts-disgusting-protoss-cheeses.md",
-      "title": "SCARLETT’S DISGUSTING PROTOSS CHEESES",
-      "excerpt": "Scarlett just casually making zergs aware of all the latest Protoss dirty cheeses 🎤 More Pro SC2 Casts: https://www.youtube.com/playlist?list=PLFUDU8AOevUetBNFfypOKoKcE3BqgZdbt 🐷 Support PiG: https://www.pigstarcraft.com/support/ -- 🐖 Watch live on https://www.twitch.tv/x5_pig 🎓 For coaching inquiries",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-scarletts-disgusting-protoss-cheeses/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-scarletts-disgusting-protoss-cheeses/",
-      "originalUrl": "https://youtube.com/watch?v=KG5mIx6MJ_8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KG5mIx6MJ_8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-04-14T21:25:03-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KG5mIx6MJ_8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
         "Zerg"
       ]
     },
@@ -951,6 +919,37 @@
           "url": "https://i.ytimg.com/vi/ncgfd54a0HY/hqdefault.jpg",
           "width": 480,
           "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-zerg-vs-protoss-adapting-to-stargate-protoss-tips-on-defending-at-the-end.md",
+      "title": "Zerg vs Protoss | Adapting to Stargate [protoss tips on defending at the end]",
+      "excerpt": "In today's zerg vs protoss guide I show you how to scout and adapt your zvp opening to stargate play to get the most out of your economy.  Mastering Starcraft 2: Zerg vs Protoss | Adapting to Stargate [protoss tips on defending at the end] #StarCraft2 #sc2 #zerg #roach #zvp  Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-vs-protoss-adapting-to-stargate-protoss-tips-on-defending-at-the-end/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-zerg-vs-protoss-adapting-to-stargate-protoss-tips-on-defending-at-the-end/",
+      "originalUrl": "https://youtube.com/watch?v=iHxkpjJwrjg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iHxkpjJwrjg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M46S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-24T15:54:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iHxkpjJwrjg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],

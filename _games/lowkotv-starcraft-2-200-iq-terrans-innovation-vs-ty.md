@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=fdfTqlajHGE
 type: video
 length: PT40M50S
 publishedDateTime: 2020-01-04T13:00:26Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fdfTqlajHGE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 360
     isCached: true
 
-secured: "XI8Thr0jRWdT5sV/d7eOrZ6mDOBinct3tSVWmBajMnx7AYfgYglOJsvgFe6ojQ+xlm/BVBBIcwWQXCl1dLuVXrHeMtE75ICy4w5PAjPPeu/P8h2GIalj+w5dmC79i4a2v6GezBQDuPITwk4D5RIXruHIYFlscftCj69yofULDqPrKoDYIPYbazayixXQuK+8fr9wkkWajvIdrQNXXCHXzF/BkXkbvSUNHfDllCGL50YcDUC1/2HMnYfliULfvlnMK2yXi5EujTUuE+OPuWvOXHvfY2Da8crFyj3Y0HP/lngQeQ1ZQpm99CHzp734BqNzLBq4M9CauycK7HfR8+wUuNjAV/OR2vXjm0nFIj6T+LLmoXjS+Z5blKa1kVsfI+oyt4WFR2ArTus5qWT2q4ON0dos79whCTQWH9pnbJXt8DZklJOUKrWc+zSg8hNvqux0;O78/Xx1/NA/0BfIqvYdKSw=="
+secured: "/Incap76VVbRjfxufxdBltt6v2kZ3G3DLbv1THAQ23lqpV7QQIblDVusDdOzZeWc34ImLrEnQaXPM126/E8nFvDgoM4NTMsxr3QFGwMJKiTT8IYcTQNFQWurClir+r+u4OJbS1vmvUiImsOsaOErqTtSCw703dQmfjMPI2zEE3QDvHJLibzwDzNi6njDqmFknv1XUYzPJaI8opkkiLWbgCC+Lh/9mmWlNtT9mIezX2k6JF7A+O9JbwfD5LRw18iwJncTQyvVQPVlIpDHcZNEa0Ghnh8FKo/sBwSUnXAKa9XmRaJF9HUsK4R1r0guEehgo5y8/OMYzbuLBJRUnKaBjgPNx58XNHhYHJDktE2Aaw2kkdjLNRGFndlQntL+XwzifoNVOLxx+Lttb9hwnPuKKRfcW8/IWyyDfa6gMjIXWyncvf8pex3ZNF+si77CqamE;ODIJFxO39IOMt3CvvAT5hQ=="
 ---
 

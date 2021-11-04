@@ -779,6 +779,7 @@ items:
   - pig-starcraft-2-the-twists-and-turns-in-this-one-game-rocker-vs-ukko-pvz
   - pig-starcraft-2-a-genius-solution-to-an-unfair-challenge-astrea-vs-special-1-game-pvt
   - pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2
+  - pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-holdout-challenge
 
 topics:
   - StarCraft 2

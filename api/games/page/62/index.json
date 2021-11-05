@@ -4,6 +4,35 @@
   "page": 62,
   "value": [
     {
+      "path": "_games/pig-starkiller-summons-archimonde-stabby-mcstab-stab-icyfar-g2.md",
+      "title": "STARKILLER Summons Archimonde - Stabby McStab Stab ICYFAR G2",
+      "excerpt": "Hey guys! we are back with a new person in charge of ICYFAR, yes this means that the email for submissions HAS CHANGED!    In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were limited to a maximum of 40 workers!    CURRENT ICYFAR CHALLENGE:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starkiller-summons-archimonde-stabby-mcstab-stab-icyfar-g2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starkiller-summons-archimonde-stabby-mcstab-stab-icyfar-g2/",
+      "originalUrl": "https://youtube.com/watch?v=ZQfJmL28XnE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZQfJmL28XnE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M23S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZQfJmL28XnE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-stephanos-back-baby-blast-from-the-past-icyfar-g1.md",
       "title": "Stephano's Back Baby - Blast from the Past ICYFAR  G1",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to play “old school” builds of broodwar or even SC2 WoL or HotS!  CURRENT ICYFAR CHALLENGE: \"Toddler Tantrums\" - Send in your replays where your ladder opponents act their age! Type !icyfar",
@@ -359,35 +388,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-05T14:00:09-07:00"
-    },
-    {
-      "path": "_games/pig-the-afk-build-rate-my-starcraft-4.md",
-      "title": "THE AFK BUILD | Rate My StarCraft #4",
-      "excerpt": "This submission for Rate My Starcraft features the AFK Build, where you pretend to be AFK to your unsuspecting opponent.  🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your awesome StarCraft plays. Send in your replay to RateMyStarCraft@gmail.com PLUS",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-afk-build-rate-my-starcraft-4/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-afk-build-rate-my-starcraft-4/",
-      "originalUrl": "https://youtube.com/watch?v=8UFZgMif_FU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8UFZgMif_FU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8UFZgMif_FU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-20T21:02:46-07:00"
     },
     {
       "path": "_games/pig-the-biggest-chads-on-the-2v2-ladder-always-prioritise-bm-over-macro-icyfar-g3.md",

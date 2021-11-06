@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zest-vs-maxpax-c
 type: video
 length: PT27M38S
 publishedDateTime: 2021-03-26T11:54:48Z
-heat: 56
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QUw68GwInWQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "j45x31nVtz7ul9Fg2zb2Agl4eTYP/9EslsCXyyO4JrPFR5X9CrjzvGomRJUPjLhWnYQZkiSBonQ3ghal+0nI/7OI71omUH8YI63sU8egHsaXnPTU18E/wTqfDj3PtEBf0yR+AShNPtoBxl945bwnUvfEwt8klU8f7+Zjl+7hWBp+rkQwXqjGkEfUyVXqD+5VJVdeM/mPY0pmzrg6JixlOqDWQLASjjszFwVWdpw/0uJ/XRSLk4P3DNqrzSAMCxQEdD6Tj0NNgnSwaLYRrwJdboJIFQ0RUHva2WMb6lsouH5F4IyKSKGNaEqFuAzvdjIcocdgsfA0dGagjZQXEYVJeiZyoxpKMhCosG0VDMm7qUJPuHNBMvZGqP4UbAR1qfk9eqSyBY5Y5w0yJcQ6cLpmiAI7xNYApyPnUTQpOPAR828=;SdwYH5P5tQz6ZALqR0zSIw=="
+secured: "M19BU0YZ2tKDqUAffDQMlRW+5KB7xaa4WPDUuVu6faJseuKz2gPGeyq7eM5FZfOyWajHz4gwdVh+J7gDLQlLdbtTDwuj+PHtGPgJ+/0Fp9UMsXecKAgQXsWL3hPuDE7YNk/QoxihIT/NZ//yzKfUFFg5pvN63eTc5c0LP39lZZTn8Dq5xraIDdIX6hCP76C3MY/Hxkto9/UB6D7noqQm8poj6zWR5NGBaqfD3aIuga/KACjhIDJQ47ftbahYOY6I8SSM2ev8t38Lxwmn3uKId00JbZs9fcYub+2h8aZwxSTf1BTX/590Ga5cw9XZGU6jfFr6i6mbr2Jp3T2tdqFCdtVvwhYqVU4Na4ek/kjWt9f4dk7gBLy9lXlcf5PE1debY2uVSDcvUJUaZUzBZNz0GzmpS1nAkzfgM8f3rFGuEzE=;9hdGuNxsm9tn9TGnekCV2w=="
 ---
 

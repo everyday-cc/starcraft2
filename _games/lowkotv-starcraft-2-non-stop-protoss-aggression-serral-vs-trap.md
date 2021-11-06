@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-non-stop-protoss
 type: video
 length: PT16M57S
 publishedDateTime: 2021-05-11T09:59:32Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iEY5iLUuUto\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "pKNUCSabupL2e+iedonSDpL9CPr5nnWyo+gxUOL2+K/NZj6g8ROg2YB3Xck4zw0D984f+8jQytZxrJjEti3Me0ZC1otFGGvhXdDu1hPNQDtcHkc0pymXWFdQ2U3ohXQQO4QfePs5kuLRyf8+eCXaVo2YDUJeVBoUVDVWnsFersqCLso/hNTxyUt8kWQA7wTrRuJz0D69Xyn7/wcXudfWn0ZIxb3mEFWCq7WPBVr28KKKQZSFUwKJ0EABjeqat905VQms/3B1LEdLophVD9yYc43aI1ubTiXT65Jd788Rv0C5SUF0JdQ/1U4NI34j2HA2k62N+kkWw+4/zXzNZsIRFItebxaI2hsaS+oS5IvZ5b1HEPeadSijYqXm8EBF1t0BZQniF+hvA8M7i8JSvLHjvIoC37ge+3xYbHpvgp42QYU=;EBUThj06nx6I7iHB5cyMtg=="
+secured: "dgYGGhB1AA2ooa+GoRRivyRba6meGVtEh7BPUoOY9O0dNqa5Sb89EteTH79Lxoj9HHchDr3b4mLsu9f9Ns2UEAYHyCG7o+TSO2vXClgPS+CQBUU1ZmCYE4Rg1bplU8JIrtC5BPWYLEuEdwte+V4xMK/z7CMLwNtjNtwlqnqyxTHWnI+Pq7QLq2W0jBRNqDrt7rgAdHSRBNZqk3eCdbl0dSN9TvyGYuvmfz82nZrlbUX3TqN5mCybm4Y6mvwJKLgHrVMXOIsl4k052nKFxKkAKyDCb4xtl4iRhtzC+MS1vbVyC1cOA2jZaNiQTnUmuP8ahrxgzJRKulBhbW+cgTYI2Rb2PNaMmopfdEkD/m9SJ5J6+SzFD35vxPi6p6aqq8wRnl8c4Xro+vkndfht+zk/PiQKizDhnS4u/wwc6L7eYzE=;IsZPXJemP9FNDYgauf871A=="
 ---
 

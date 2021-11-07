@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-new-highest-
 type: video
 length: PT21M38S
 publishedDateTime: 2021-05-08T11:13:14Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X9M0Q_JXrMw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "7OuIevfkxnMbA9AgenEPO/UfWave3SRXpPxPiyEQa2j4l2M1oBEzqhPD/drWweVLnzeWobknAc6D4hcv11TYaZxJwWksvzYGbQt7IAmR6b7noqtOWHuAwpw0plxs3JYL8/mYdfwhbLwPBbjuRLRwk/Mix51VybhrFmh06T0B7CBzPAhxE+i/FcUM4ofs4rwIBdpJMWK/9aDk0BWJ19/fIvnBb3zqcY1dWc+bI3dset2r0PeqAKRWDoxduURmAsTGKWVel35Pw1LG5nayaS6Aaxm9MZsCHX+1pl/57YKDPDNgo891RSI5+VFO9Tpy3KlBLZ7ogb/w8ib1xuGUuWYK4OeGfIJ4nTsIi10M99e2ETs5x+yAx3ZoevRiwL7Ft+HjsQ6zMb5WmEexvoQIrco5/jxjezZZY5C9C/PAyEexOXw4AaTsyeLsbwgT4x3Hd4Wr;SPjmS/+3QVOWvriYKM0Dkw=="
+secured: "CtUGz6pkIhh0WA1gkj4fPQIv2os56fFB264Q1I2QU+wod5PT5ucPNXqedK5YeGOV0zGJY/m0ySNWTFARfajaA7kVHaGRthQAxUJENRWkp2aoE/DEBeCXImAgg9qg1wI3N7l2o5/EltSLk+4nl/iKUBDvdaYdRZ8tcqEuOUy5+xrE7dr38EzZCLKWPBIG9MQPjSARVIJtCki8/W9JBxZqQesVM5khBSYzpl9dW8F3ioJNlIsNqJV4zd5fSpMPPIJ6XIlFNPXGcwyzwjWMnD9BKQ7miDIXFCA9X7XMCnJzYR/gCpq19BdKGUOD/fS/smV9xJUbY5WMvZp5TFvJJ1V7VxiKx6RFW0bt01zktiGiDTPWmS//HyLP+HiuylE3wGwfJdcoBiFTPT+rRg0F4oF8pFuraTTD7JDqzN67xsCx+5s=;zC4COYNexfIMDHBtLhDkPw=="
 ---
 

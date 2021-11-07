@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/2014-10-24-starcraft-2-and-the-quest-for-
 webUrl: "https://www.engadget.com/2014-10-24-starcraft-2-and-the-quest-for-the-highest-apm.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 530
     height: 256
     isCached: true
+
+related:
+  - title: "Starcraft Universe MMO mod testable through October 30th"
+    excerpt: "You may remember StarCraft Universe, the fan-made MMO mod that received an official Blizzard blessing earlier this year. Development on the project is moving right along, and the mod team has left ..."
+    publishedDateTime: 2021-10-19T00:00:00Z
+    webUrl: "https://www.engadget.com/2011-10-19-starcraft-universe-mmo-mod-testable-through-october-30th.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/6tVaBLGC4yX_lvcOCEQsfw--~B/aD0yOTg7dz01MzA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/massively.joystiq.com/media/2011/10/supvp.jpg"
+        width: 530
+        height: 298
+        isCached: true
 
 secured: "EzKGFN42sf1fgyg/fX9c9Ka3tnXm04nbO2d76obDD0Oj+BHjBF3E/xuXg3bO3Tfy9yzUiTXhuDl7YAeiMW3J/lORulyd604s/B1ymoHdh2nE392G/GcpHBqYlFpn32C5xS4xbWkgSXWScP4Xb5azZB3hTH1LJVrRNooJE9Rj1tQIfCHgV7srXmy6CcKQLYO52yaTWId8TOVKEvs69ZvsHT7W2hmd8Sy5zj+N4k7XncrzY3iyF1qoXQr+JPbZ0Ly8wZW+uqEvMH9idFT4Hi4bygmEQoqOEgdzHuYqzbzZ83lwTeTbD8VM+TK74tVPf6wIYbYDk+CnEnI9LpWTTPwoFuGLOJui2RUlCfccCp+3Tmw=;TJVUUCkxu2J8d1O4Jh7wRA=="
 ---

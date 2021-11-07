@@ -4,190 +4,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_learning/videos/pig-ravager-ling-bane-timing-attack-zvp-coaching-d1.md",
-      "title": "Ravager-Ling-Bane Timing Attack ZvP | Coaching D1",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-ravager-ling-bane-timing-attack-zvp-coaching-d1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-ravager-ling-bane-timing-attack-zvp-coaching-d1/",
-      "originalUrl": "https://youtube.com/watch?v=VS78iYMmXsM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VS78iYMmXsM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H5M18S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-06-07T04:00:12-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VS78iYMmXsM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-reacting-to-terran-aggression-coaching-pvt-masters-2.md",
-      "title": "Reacting to Terran Aggression | Coaching PvT Masters 2",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-reacting-to-terran-aggression-coaching-pvt-masters-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-reacting-to-terran-aggression-coaching-pvt-masters-2/",
-      "originalUrl": "https://youtube.com/watch?v=xIpyT5NOlcU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xIpyT5NOlcU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H14M8S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-09T10:00:17-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xIpyT5NOlcU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-reading-the-fundamentals-of-the-game-and-choosing-where-to-analyse-replays-coaching-tvt-d2.md",
-      "title": "Reading the fundamentals of the game and choosing where to analyse replays | Coaching TvT D2",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-reading-the-fundamentals-of-the-game-and-choosing-where-to-analyse-replays-coaching-tvt-d2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-reading-the-fundamentals-of-the-game-and-choosing-where-to-analyse-replays-coaching-tvt-d2/",
-      "originalUrl": "https://youtube.com/watch?v=Y7PDbjRZUMU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y7PDbjRZUMU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M33S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-04-17T09:00:34-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Y7PDbjRZUMU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-refining-that-zvt-opening-coaching-d3.md",
-      "title": "Refining that ZvT Opening - coaching D3",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-refining-that-zvt-opening-coaching-d3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-refining-that-zvt-opening-coaching-d3/",
-      "originalUrl": "https://youtube.com/watch?v=VKathmyuMFQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VKathmyuMFQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M37S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-10-15T09:00:06-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VKathmyuMFQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-reynors-three-ways-to-kill-voidrays.md",
-      "title": "REYNOR'S three ways to KILL VOIDRAYS",
-      "excerpt": "Reynor's IEM Katowice run included some very interesting ways to kill Voidrays. PiG's Build Notes: https://www.pigstarcraft.com/learn/pigs-build-notes/  🐷 Support PiG: https://www.pigstarcraft.com/support/ -- 🎓 Watch my live coaching sessions on my second youtube channel: https://www.youtube.com/c/PiGRandom",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-reynors-three-ways-to-kill-voidrays/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-reynors-three-ways-to-kill-voidrays/",
-      "originalUrl": "https://youtube.com/watch?v=fIf_kH1933U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fIf_kH1933U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M40S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-03-10T18:57:02-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fIf_kH1933U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-roach-hydra-drop-style-masters-zvp-coaching.md",
-      "title": "Roach Hydra Drop Style! - Masters ZvP Coaching",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos dont appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-roach-hydra-drop-style-masters-zvp-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-roach-hydra-drop-style-masters-zvp-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=d-2EpfBHxKQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d-2EpfBHxKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H7M45S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-06-16T15:15:21-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/d-2EpfBHxKQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-roach-hydra-infestor-vs-battle-mech-d2-coaching.md",
       "title": "Roach-Hydra-Infestor vs Battle Mech - D2 Coaching",
       "excerpt": "Sorry we had some technical issues during this game. For those who don't like or care about the talk, Gameplay starts about 18 mins into the video!  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads?",
@@ -924,6 +740,190 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-staying-decisive-during-a-losing-streak-zvp-m3-coaching.md",
+      "title": "Staying decisive during a Losing Streak | ZvP M3 Coaching",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-staying-decisive-during-a-losing-streak-zvp-m3-coaching/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-staying-decisive-during-a-losing-streak-zvp-m3-coaching/",
+      "originalUrl": "https://youtube.com/watch?v=NmyCUD9ZEXg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NmyCUD9ZEXg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H9M1S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-07-26T09:00:14-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NmyCUD9ZEXg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-stop-doing-busy-work-queue-up-more-units-coaching-terran-d3.md",
+      "title": "Stop doing busy-work! Queue up more units! | Coaching Terran D3",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-stop-doing-busy-work-queue-up-more-units-coaching-terran-d3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-stop-doing-busy-work-queue-up-more-units-coaching-terran-d3/",
+      "originalUrl": "https://youtube.com/watch?v=0H1P_AX0Qy8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0H1P_AX0Qy8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M44S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-12-25T09:00:02-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0H1P_AX0Qy8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-surviving-vs-lair-boys-and-committing-to-tvp-pushes-coaching-masters-2.md",
+      "title": "Surviving vs Lair Boys and Committing to TvP Pushes | Coaching Masters 2",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-surviving-vs-lair-boys-and-committing-to-tvp-pushes-coaching-masters-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-surviving-vs-lair-boys-and-committing-to-tvp-pushes-coaching-masters-2/",
+      "originalUrl": "https://youtube.com/watch?v=1KK6ztdFxNw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1KK6ztdFxNw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H11M46S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-21T14:00:08-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1KK6ztdFxNw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-switching-from-pure-macro-to-micro-play-coaching-protoss-gold-league.md",
+      "title": "Switching from pure macro to micro play - Coaching Protoss Gold League",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-switching-from-pure-macro-to-micro-play-coaching-protoss-gold-league/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-switching-from-pure-macro-to-micro-play-coaching-protoss-gold-league/",
+      "originalUrl": "https://youtube.com/watch?v=ogle8qQmlhk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ogle8qQmlhk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H6M49S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-09-10T09:00:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ogle8qQmlhk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-syncing-up-insane-multiprong-harassment-coaching-terran-plat-1-d3.md",
+      "title": "Syncing up Insane multiprong harassment! Coaching Terran Plat 1-D3",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-syncing-up-insane-multiprong-harassment-coaching-terran-plat-1-d3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-syncing-up-insane-multiprong-harassment-coaching-terran-plat-1-d3/",
+      "originalUrl": "https://youtube.com/watch?v=4e0G-fcIu_k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4e0G-fcIu_k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H9M14S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-04-20T09:00:03-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4e0G-fcIu_k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-systematising-macro-and-zvt-vs-mech-coaching-plat-1-zerg.md",
+      "title": "Systematising Macro and ZvT vs Mech | Coaching Plat 1 Zerg",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-systematising-macro-and-zvt-vs-mech-coaching-plat-1-zerg/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-systematising-macro-and-zvt-vs-mech-coaching-plat-1-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=vObgq-MsE4Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vObgq-MsE4Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H12M44S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-01-27T09:00:14-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vObgq-MsE4Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
       ]
     }
   ],

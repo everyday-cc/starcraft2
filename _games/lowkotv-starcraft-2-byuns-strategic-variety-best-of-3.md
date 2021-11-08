@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-strategic-
 type: video
 length: PT48M10S
 publishedDateTime: 2020-12-17T11:43:14Z
-heat: 57
+heat: 62
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cg-juG9IGPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "0+6rfp6tASsmCXy/cTGZEYHkAodcj9VORrRx1sy4ZISbrKssw8DQcFIsx8/aSj+vMvT/wTY9OR8UJ39lBizZUtprYdpGiEZQF3Ul6uJMzZJUVuUHaazI9Qu/XZO7YgqTNO3eXmu+uWn//3ZHyaLWb/21fwRJsgV85ZDhyTPmSURqZKBaykcLGM4sESJcn6jrS6I6sxx8IPYIkb2sEafcTFBhof9G6M6tHZ73VyCLojxXXUkz1SGH9cYbNqdDOmx9FCDTfIOHCrUUk12uPSgcBffbFo2pnvcs8mH+AUHszPKmT2HmjdBbOmFQkxaKGFHPizd1S2ohXeRs+tBZ2yCcr5mpEmNXp/KTnIFIW4WWBdzTLyTNmcsNG/RQ1IA08ADmywT01v7Erz29CyDWGF8A7ssnCEhHcKa8VF1a8qKgtGUW5nCMAiwLbYaXtP2mS+Ex;ZeRAE3j6HMznAgTK9KCX6A=="
+secured: "PC+pumOaXYPir5AZK3cCK3XCzEflR5nnVVglYf/6lvya0/Penuckd5PPpo5yTHLCHA44z4Fr3EUoWqn6h9z+lvksPOgM9pgQApbp31AtcpU+mdtoVNdxPWOV/7eJ1r8Ep06TTiUBbQik2E7r8bF+ngnbyvkbfsfkJych2QVDH8ZRvtlUdvcyaFCcd9QlApn+0w/zG8GyZDhzBDyPUs3ozARuJelWwSZBpqU9Gpx2MqjFWPcC1c0EJcPxdO60nJEAxWyBPrjHFCPAoRc3j7MTT9U7/75PRHN9+WA7vZ8Ouxiakr+kKmI8Hte30ElVnGAcvVLv9ejCa+lDWiSaiWhOoNUrHeLvJwrkn0Z2yNhaBFROojppLSEn9e/u0GcB0Y4ylGaOMA/PQKlVIuRl0ER4BEoLF5/4vQG1mU5nXheiggP8NW+Utj4bvqt3dy86mj28;2RTigzXhvtyPt+4t4yau9A=="
 ---
 

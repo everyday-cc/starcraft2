@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-florencios-burro
 type: video
 length: PT24M30S
 publishedDateTime: 2021-02-03T12:37:08Z
-heat: 56
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RrMLjBrJmV4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+fClfuCuz4sBhdaTaES8WQsIoe91CAEGxIQ40RMuAVL/YNbw6K7qbvOSUG6QN84ZTmVpqi35ZSaGy7iCqGQ7truwOPA5NwFmPU33HKcp8smrVE+rA1ULwcRVpn0m1AbjM1lZxlFAnUii8QWyoT78LGuXINjag+CMdARgKs99bCiylS65IpYU+52yVBHmGfMA5s1kZ+8Dx1TLJ+cnqmSwPX2i6yvbGEBdO/8kUMlBeyV7aRepwFu6oL17BwAvW/yTqkuMlzEVkGFszu2C2DeW63144+9Uwf17VpkVL6DAu1cuWK3AbgiEQWA8a0bX2NuDr+vzeLbj1DJi965C6mUmWh4IHTOUiba7kWa+/ZW+dLnmtntrdfSVNBOyiKGyqT8oCnxhhBr3KjNRU1/nCjCNnSFgbovYH39Pg9AhBSauIwM=;LADem37g35WRM7vwr3Jfng=="
+secured: "ZRZIvHGmZDqb9OrhsC7ybdOiIgswR7JskXjS8FcKuhC849b/497jMlCZoijmL67e9sopef3bE7UPFDNrbn8UQUB835lPuemLUApJRO168qUsJ3hsWWqBaOo8F1D/3kGswzel6aGG7kMtUNLXXIPT+yZIjaU1kVTd6+eCzo4fUF8U1xa+mKC3BoBVpnrRzIayyri4ixTAi884Cfc2F9v8qUgfzyn9cn1MykAATQTOfslShLFqfcEx0RE5AjuuffZhtzcWN9eCK24587+d1QFpXn0Y3Vj869ZwYWX0VKiowwtcusQh/Nmu649a045wii8bjCjMvUCzpDDbNXeXGuxhMujH7qm7gv4wqG+6upjH+Su2o7xLmg6+e318fxB2ZBHX6TS/KkWOppRA08dwssc7kAfHUwPrvQbAmQWqGAmUYr4=;54cpxTnAJ6hcPGpo8amIgA=="
 ---
 

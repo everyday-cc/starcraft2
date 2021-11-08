@@ -780,6 +780,7 @@ items:
   - pig-starcraft-2-a-genius-solution-to-an-unfair-challenge-astrea-vs-special-1-game-pvt
   - pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2
   - pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-holdout-challenge
+  - pig-starcraft-2-astrea-cheeses-a-no-rush-game-vs-special-lol-1-game-pvt
 
 topics:
   - StarCraft 2

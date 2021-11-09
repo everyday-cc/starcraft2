@@ -1000,37 +1000,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-learning-tvp-from-cure-sc2-2021.md",
-      "title": "Learning TvP From Cure (SC2 2021)",
-      "excerpt": "♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and I have 5+ GM students",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learning-tvp-from-cure-sc2-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learning-tvp-from-cure-sc2-2021/",
-      "originalUrl": "https://youtube.com/watch?v=MMLyTYa-CiU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MMLyTYa-CiU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M15S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-10-25T21:46:28-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MMLyTYa-CiU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-zerg-macro-you-wont-believe-how-many-more-drones-i-got-starcraft-2.md",
       "title": "Zerg Macro | You WONT BELIEVE how many MORE DRONES I got!!! [Starcraft 2]",
       "excerpt": "In this guide we take a DEEP look at the nuances of droning, economy & macro to help you understand where you might be going wrong in your games. How is it that Grand Master's a pros generate so many more drones than you?!? You're about to find out :)  Zerg Macro | You WONT BELIEVE how many MORE DRONES",
@@ -1237,6 +1206,36 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/winterstarcraft-starcraft-2-updated-2018-basic-hotkeys-control-groups-and-production-tutorial.md",
+      "title": "Starcraft 2: Updated 2018 - Basic Hotkeys, Control Groups and Production Tutorial",
+      "excerpt": "Starcraft 2: Legacy of the Void.  I break down what I use hotkeys and control groups for, hopefully you find this video helpful!  Basic Breakdown -  1 - MAIN ARMY 2 - SPECIALTY CASTER (MCORE, QUEEN, DROP) 3 - SPELLCASTERS/FLYERS 4 - BASES 5- PRODUCTION 6 - ETCETC   Watch the highlights playlist (use",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-starcraft-2-updated-2018-basic-hotkeys-control-groups-and-production-tutorial/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-starcraft-2-updated-2018-basic-hotkeys-control-groups-and-production-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=R_NzuIPkq98",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R_NzuIPkq98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M39S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-11-19T09:04:35-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/R_NzuIPkq98/maxresdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
       ]
     }
   ],

@@ -74,45 +74,6 @@
       "publishedDateTime": "2021-11-03T05:12:19-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-blys-brilliant-proxy-hatchery-vs-byun-best-of-3.md",
-      "title": "Starcraft 2: Bly's BRILLIANT Proxy Hatchery vs ByuN! (Best-of-3)",
-      "excerpt": "Bly versus ByuN in a best-of-3 series of professional StarCraft 2. A very fun set of games where Bly feels cheesy against one of the best Terran players in the world.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-blys-brilliant-proxy-hatchery-vs-byun-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-blys-brilliant-proxy-hatchery-vs-byun-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=aoX1Zkd2_fY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aoX1Zkd2_fY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M44S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 218,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aoX1Zkd2_fY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-18T04:14:58-07:00"
-    },
-    {
       "path": "_games/beastyqtsc2-imintrouble-beastyqt-vs-stephano.md",
       "title": "ImInTrouble.... Beastyqt vs Stephano!",
       "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
@@ -144,6 +105,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-19T06:11:52-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-blys-brilliant-proxy-hatchery-vs-byun-best-of-3.md",
+      "title": "Starcraft 2: Bly's BRILLIANT Proxy Hatchery vs ByuN! (Best-of-3)",
+      "excerpt": "Bly versus ByuN in a best-of-3 series of professional StarCraft 2. A very fun set of games where Bly feels cheesy against one of the best Terran players in the world.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-blys-brilliant-proxy-hatchery-vs-byun-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-blys-brilliant-proxy-hatchery-vs-byun-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=aoX1Zkd2_fY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aoX1Zkd2_fY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M44S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 204,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aoX1Zkd2_fY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-10-18T04:14:58-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-byun-and-byul-cant-stop-being-aggressive-featuring-otto-the-overlord.md",
@@ -285,7 +285,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 140,
+      "heat": 132,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/OLR9ijCrbc8/maxresdefault.jpg",
@@ -361,7 +361,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 128,
+      "heat": 126,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/1_8D82u4iNk/maxresdefault.jpg",
@@ -405,14 +405,14 @@
       "publishedDateTime": "2021-11-01T02:28:19-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-dirty-terran-cheeses-masa-vs-namshar.md",
-      "title": "StarCraft 2: DIRTY TERRAN CHEESES! (MaSa vs Namshar)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between MaSa (Terran) and Namshar (Zerg).  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-dirty-terran-cheeses-masa-vs-namshar/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-dirty-terran-cheeses-masa-vs-namshar/",
-      "originalUrl": "https://youtube.com/watch?v=Ha64N5bCYoQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ha64N5bCYoQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M41S",
+      "path": "_games/lowkotv-starcraft-2-the-bulldozer-terran-clem-vs-heromarine.md",
+      "title": "StarCraft 2: The BULLDOZER Terran! (Clem vs HeroMarine)",
+      "excerpt": "Grand Finals of the ESL Open Cup Europe 82. In this best-of-5 series of Terran versus Terran we watch Clem face off against HeroMarine.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-bulldozer-terran-clem-vs-heromarine/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-bulldozer-terran-clem-vs-heromarine/",
+      "originalUrl": "https://youtube.com/watch?v=UfPiJYLsAqE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UfPiJYLsAqE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M36S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -429,10 +429,10 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 113,
+      "heat": 115,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Ha64N5bCYoQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UfPiJYLsAqE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -440,7 +440,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-10-07T02:50:53-07:00"
+      "publishedDateTime": "2021-08-23T03:39:26-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-a-genius-solution-to-an-unfair-challenge-astrea-vs-special-1-game-pvt.md",
@@ -472,6 +472,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-10-30T19:55:23-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-dirty-terran-cheeses-masa-vs-namshar.md",
+      "title": "StarCraft 2: DIRTY TERRAN CHEESES! (MaSa vs Namshar)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between MaSa (Terran) and Namshar (Zerg).  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-dirty-terran-cheeses-masa-vs-namshar/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-dirty-terran-cheeses-masa-vs-namshar/",
+      "originalUrl": "https://youtube.com/watch?v=Ha64N5bCYoQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ha64N5bCYoQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M41S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 108,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Ha64N5bCYoQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-10-07T02:50:53-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-byun-vs-drg-in-an-epic-slugfest.md",
@@ -537,7 +575,7 @@
         "Terran",
         "Protoss"
       ],
-      "heat": 100,
+      "heat": 101,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/inovDFegy6E/maxresdefault.jpg",
@@ -576,7 +614,7 @@
         "Terran",
         "Protoss"
       ],
-      "heat": 99,
+      "heat": 97,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qk3OKS90ckA/maxresdefault.jpg",
@@ -653,7 +691,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 95,
+      "heat": 92,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Dsa4Ohr4bfk/maxresdefault.jpg",
@@ -898,6 +936,45 @@
       "publishedDateTime": "2020-02-27T01:56:03-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-the-grand-finals-match-maru-vs-reynor.md",
+      "title": "StarCraft 2: The GRAND FINALS Match! (Maru vs Reynor)",
+      "excerpt": "Reynor versus Maru in a professional match of StarCraft 2. This is the final game of the Dreamhack StarCraft 2 Masters 2021 Summer Season Finals, the final match of the grand finals of that tournament. In this game Maru decides to play Terran Mech, which is very uncommon. Reynor plays hyper aggressively",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-grand-finals-match-maru-vs-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-grand-finals-match-maru-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=8-NlJB2Lun4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8-NlJB2Lun4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M55S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 77,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8-NlJB2Lun4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-16T04:58:51-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-planetary-fortress-vs-proxy-nexus-crazy-viewer-games.md",
       "title": "StarCraft 2: PLANETARY FORTRESS vs PROXY NEXUS! (Crazy Viewer Games)",
       "excerpt": "Viewer submitted games of StarCraft 2. Some crazy matches that you definitely will never see at the professional level of the game. Proxy Command Centers into Planetary Cheese, Nexus inside the opponents main base and of course the classic Cannon Rush.  Support my work on Patreon: http://www.patreon.com/lowkotv",
@@ -937,6 +1014,44 @@
       "publishedDateTime": "2021-03-07T01:26:01-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-the-worst-terran-build-order-viewer-games.md",
+      "title": "StarCraft 2: The WORST Terran Build Order! (Viewer Games)",
+      "excerpt": "Three viewer submitted games of StarCraft 2 of players in Silver, Gold and Platinum League. Very fun (but very cringy) viewer submitted games.  If you want me to cast your game next, you can submitted your replay to replays@lowko.tv.   Support my work on Patreon: http://www.patreon.com/lowkotv Become",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-worst-terran-build-order-viewer-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-worst-terran-build-order-viewer-games/",
+      "originalUrl": "https://youtube.com/watch?v=NyAr5QsrA7g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NyAr5QsrA7g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M46S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 76,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NyAr5QsrA7g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-22T03:20:22-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-clems-terran-vs-zerg-is-insane-solar-vs-clem.md",
       "title": "StarCraft 2: Clem's Terran vs Zerg is INSANE! (Solar vs Clem)",
       "excerpt": "Professional match of StarCraft 2 between Solar and Clem. In this Terran versus Zerg we watch Clem take control of the early game, but Solar managed to stay alive and strikes back in the late game.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -962,7 +1077,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 75,
+      "heat": 74,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/jOgmyYJJ0Is/maxresdefault.jpg",
@@ -974,44 +1089,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-10-02T03:39:14-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-worst-terran-build-order-viewer-games.md",
-      "title": "StarCraft 2: The WORST Terran Build Order! (Viewer Games)",
-      "excerpt": "Three viewer submitted games of StarCraft 2 of players in Silver, Gold and Platinum League. Very fun (but very cringy) viewer submitted games.  If you want me to cast your game next, you can submitted your replay to replays@lowko.tv.   Support my work on Patreon: http://www.patreon.com/lowkotv Become",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-worst-terran-build-order-viewer-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-worst-terran-build-order-viewer-games/",
-      "originalUrl": "https://youtube.com/watch?v=NyAr5QsrA7g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NyAr5QsrA7g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M46S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 75,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NyAr5QsrA7g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-22T03:20:22-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-full-economy-cheese-serral-vs-ty.md",
@@ -1051,82 +1128,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-25T10:45:48-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-50-tactical-nukes.md",
-      "title": "StarCraft 2: 50+ TACTICAL NUKES!",
-      "excerpt": "What a ridiculous match! So many Tactical Nukes in one game. Subscribe for more videos: http://lowko.tv/youtube More Serral vs INnoVation: https://youtu.be/FzjCKHA3Zc0  In this game between Serral and INnoVation we see basically the whole map of King's Cove mine out. It gets to the point that both players",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-50-tactical-nukes/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-50-tactical-nukes/",
-      "originalUrl": "https://youtube.com/watch?v=xKYulaEILB0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xKYulaEILB0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M28S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xKYulaEILB0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-22T03:12:45-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-byuns-mass-sky-terran.md",
-      "title": "StarCraft 2: ByuN's MASS Sky Terran!",
-      "excerpt": "Amazing game of Terran versus Terran in StarCraft 2 between SpeCial and ByuN.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-mass-sky-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-mass-sky-terran/",
-      "originalUrl": "https://youtube.com/watch?v=LFFZdSmUlY8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LFFZdSmUlY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LFFZdSmUlY8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-11-23T03:28:25-08:00"
     }
   ],
   "nextPage": 2

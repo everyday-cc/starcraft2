@@ -4,14 +4,14 @@
   "page": 40,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-vipers-vs-ravens.md",
-      "title": "StarCraft 2: VIPERS vs RAVENS?!",
-      "excerpt": "An incredible match between Bly and SpeCIaL. Subscribe for more videos: http://lowko.tv/youtube Zest vs aLive: https://goo.gl/fZqtFq  Easily one of the closest macro games between Terran and Zerg in all of StarCraft 2. In this match MajOr (also known as WinDy, Terran, Princess, Britney, Kitty, Memory,",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-vipers-vs-ravens/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-vipers-vs-ravens/",
-      "originalUrl": "https://youtube.com/watch?v=WWYB3hU8InQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WWYB3hU8InQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M33S",
+      "path": "_games/lowkotv-starcraft-2-void-ray-troubles.md",
+      "title": "StarCraft 2: Void Ray Troubles!",
+      "excerpt": "Orbital Commands are clearly overrated.  Subscribe for more videos: http://lowko.tv/youtube How-to NOT Cannon Rush: https://goo.gl/TM36jZ  This is a Platinum League match of Terran versus Protoss where the Terran player decides to play without a real win condition. It's always helpful to play defensive,",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-void-ray-troubles/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-void-ray-troubles/",
+      "originalUrl": "https://youtube.com/watch?v=83oP_an0p6c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/83oP_an0p6c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M30S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -30,7 +30,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/WWYB3hU8InQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/83oP_an0p6c/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -38,44 +38,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2017-06-30T05:28:19-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-void-ray-memes.md",
-      "title": "StarCraft 2: VOID RAY MEMES!",
-      "excerpt": "A very cheesy Protoss vs Protoss in StarCraft 2 Subscribe for more videos: http://lowko.tv/youtube Zergling Rush: https://goo.gl/iWUfxS  What's the best way to counter Void Rays? Void Rays. A very odd game of Gold League Protoss versus Protoss. Both players decide to open up completely differently. In",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-void-ray-memes/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-void-ray-memes/",
-      "originalUrl": "https://youtube.com/watch?v=l1mulH35kdY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l1mulH35kdY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M41S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/l1mulH35kdY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-06-19T04:30:35-07:00"
+      "publishedDateTime": "2017-12-29T06:12:50-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-void-rays-are-good-drg-vs-cyan.md",
@@ -341,45 +304,6 @@
       "publishedDateTime": "2017-07-15T01:58:53-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-world-champion-vs-protoss-cheese-dark-vs-has.md",
-      "title": "StarCraft 2: WORLD CHAMPION vs PROTOSS CHEESE! (Dark vs Has)",
-      "excerpt": "Dark is the current world champion of StarCraft 2. In this best-of-3 series he goes up against Has, one of the trickiest Protoss players to go up against. In this series Has decides to play his regular style, that includes a lot of tricky build orders and strategies. Dark however is ready to counter",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-world-champion-vs-protoss-cheese-dark-vs-has/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-world-champion-vs-protoss-cheese-dark-vs-has/",
-      "originalUrl": "https://youtube.com/watch?v=sGz5Zt86ocQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sGz5Zt86ocQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M48S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sGz5Zt86ocQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-03-18T04:51:46-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-you-dont-base-race-a-terran-innovation-vs-zoun.md",
       "title": "StarCraft 2: YOU DON'T BASE RACE A TERRAN! (INnoVation vs Zoun)",
       "excerpt": "A professional match of StarCraft 2 between INnoVation and Zoun. The game starts off pretty standard, but when both players decide to move out at the same time, and neither scouts the opponent making a move, it quickly spirals into a Base Race, where both players try to end the game and kill all the",
@@ -571,6 +495,44 @@
       "publishedDateTime": "2018-04-07T02:15:04-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-zerg-vs-zerg-cringe.md",
+      "title": "StarCraft 2: ZERG VS ZERG CRINGE!",
+      "excerpt": "What a mess! A Platinum league game of Zerg vs Zerg. Subscribe for more videos: http://lowko.tv/youtube More viewers games: https://goo.gl/HCzUNG  If you have an awesome replay of StarCraft 2 that you think is worth casting, you can send it to replays@lowko.tv.  Check out Lowko merchandise: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zerg-vs-zerg-cringe/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zerg-vs-zerg-cringe/",
+      "originalUrl": "https://youtube.com/watch?v=UiczelO5i1M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UiczelO5i1M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M36S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UiczelO5i1M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-12-17T02:22:27-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-zerg-vs-zerg-insanity.md",
       "title": "StarCraft 2: Zerg vs Zerg INSANITY!",
       "excerpt": "Rogue vs Reynor in an epic Zerg vs Zerg. Subscribe for more videos: http://lowko.tv/youtube Drone rush vs Drone rush: https://goo.gl/GsDVVk  Easily one of the most back-and-forth Zerg vs Zerg games I've ever seen. While both players are significantly ahead at different points in the game, both make the",
@@ -647,14 +609,14 @@
       "publishedDateTime": "2019-07-08T01:53:48-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-zergling-flood.md",
-      "title": "StarCraft 2: ZERGLING FLOOD!",
-      "excerpt": "BeastyQT vs goblin in a nail-biter of a game in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://youtu.be/EQ_JvXQFDEU  Very cool match of high level StarCraft 2. BeastyQT decides to play hyper aggressive and focus on Zergling floods and Baneling busts. Whereas",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zergling-flood/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zergling-flood/",
-      "originalUrl": "https://youtube.com/watch?v=TYVIx0PTiQc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TYVIx0PTiQc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M27S",
+      "path": "_games/lowkotv-starcraft-2-zergling-massacre.md",
+      "title": "StarCraft 2: Zergling MASSACRE!",
+      "excerpt": "A Zergling massacre in Zerg versus Zerg. Subscribe for more videos: http://lowko.tv/youtube Hotkeys and control groups explained: https://goo.gl/E21s9v  In this Zerg versus Zerg match we have two players, one in Silver League and one in Gold League. Both decide to open up reasonably standard, however",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zergling-massacre/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zergling-massacre/",
+      "originalUrl": "https://youtube.com/watch?v=-WHixigCoIM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-WHixigCoIM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M40S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -674,7 +636,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/TYVIx0PTiQc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-WHixigCoIM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -682,7 +644,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-06-18T00:55:11-07:00"
+      "publishedDateTime": "2017-02-15T03:31:46-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-zest-vs-special.md",
@@ -1060,6 +1022,38 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-4-hatch-before-pool-into-lurker-drops-twitch-plays-pig-8.md",
+      "title": "4-HATCH before pool into lurker drops  | Twitch Plays PiG #8",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-4-hatch-before-pool-into-lurker-drops-twitch-plays-pig-8/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-4-hatch-before-pool-into-lurker-drops-twitch-plays-pig-8/",
+      "originalUrl": "https://youtube.com/watch?v=N8wnf4ag4hA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N8wnf4ag4hA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M31S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N8wnf4ag4hA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-23T18:02:05-07:00"
     }
   ],
   "nextPage": 41

@@ -781,6 +781,7 @@ items:
   - pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2
   - pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-holdout-challenge
   - pig-starcraft-2-astrea-cheeses-a-no-rush-game-vs-special-lol-1-game-pvt
+  - pig-a-triple-engi-bay-block-breaks-this-guys-brain-icyfar-halloween-starcraft-2
   - pig-starcraft-2-florencio-abuses-tempest-range-florencio-files-248
   - pig-its-not-me-who-changes-you-its-you-letter-jocko-willink
 

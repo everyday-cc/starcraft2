@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-battle-of-th
 type: video
 length: PT27M30S
 publishedDateTime: 2021-01-23T11:58:27Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/36ZaYu68mi0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Hqc/m7vID2erxJDfhiU8hxoEu0FheJlspcO0ry6sqi7F8j93sui4eDiV4AiRnA6yJtIaTShzFgBjhJ7kModDYC4KvoC4v8PfuxKtlBdCeDclTUGn+rPFf7FPZqBloRE4A1kU+GE1ejFybUuQ7Lxy2aJ0YSKd51jyiMDBt3Xc4eBhfneC8/AYXqVleTUsDGhrSeAvaapEZL3F6SYVW14i/nl4mz/LpuZ6O8flfpre7sckljA2Wzvme2xHteQusY+y7TCd5u/D5LgLDiRndMDOg9eapY/AeBJ6BYWun7m8EzJ9soDASIFq40W95HjJ76LGQbXyYl80duxBbEXmim77Ri/h4+BxsT92niHdXK33XHXXD8DNxHh0uAi7rFGVhG+wDHPMDIbi8P2Fg+loS3EcUJmIDsuqoz7uRGefZtrG898=;uzEMpqKIEX1WGWq5Q/bCeQ=="
+secured: "m18jh77U4scQS4Irby6oASEEFkzPK3X79UZJuznkaTBGFdEIlrAmWKHOryWRgG/WDL8Fsc26/UmvGqR09wpo0pGrDQSAGoCM8ubqBuZ3NscpQm7sOEeduww2pTYGQoU6G9uOJI8FhMYEWQr+5Pk8kFlrLeZ8wLZQ8TaZ4JhtU6faR1EHsxnmk28hPWr82rWg7dOMf3w0+F61Hg8Q1WuhKKQ3pFqvEAeEys50GEa4eZPxkbv5gQT8PUKO8VlD7NQwT/F8eO6ELNV48OTbLgdWvEUcFqWalVIbzz6uZG6FjAgs0RDzU36eH5yTogVvWbSbzRbY9P/ljX0um3jeWKr801g/aMTgjurvcpq3nhpC8M5AO6cXXCGAjAVLYzuFUvrVWNmv/hSi1Tvjpj2r165cNxkbyBU7xZzhVkE2n+hkq9o=;s9VuxeYlFq9GBmrQqgwUoA=="
 ---
 

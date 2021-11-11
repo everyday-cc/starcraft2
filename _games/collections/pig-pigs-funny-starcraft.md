@@ -782,6 +782,7 @@ items:
   - pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-holdout-challenge
   - pig-starcraft-2-astrea-cheeses-a-no-rush-game-vs-special-lol-1-game-pvt
   - pig-starcraft-2-florencio-abuses-tempest-range-florencio-files-248
+  - pig-its-not-me-who-changes-you-its-you-letter-jocko-willink
 
 topics:
   - StarCraft 2

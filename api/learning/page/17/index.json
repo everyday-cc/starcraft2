@@ -4,6 +4,100 @@
   "page": 17,
   "value": [
     {
+      "path": "_learning/videos/pig-pig-plays-low-apm-tvp-newbie-stream.md",
+      "title": "PiG Plays Low APM TvP - Newbie Stream",
+      "excerpt": "This is a highlight from my newbie/beginner stream where I analyse a players replay and answer their question  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-pig-plays-low-apm-tvp-newbie-stream/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-pig-plays-low-apm-tvp-newbie-stream/",
+      "originalUrl": "https://youtube.com/watch?v=1rGoYveIDKk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1rGoYveIDKk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M48S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:06-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1rGoYveIDKk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-pig-plays-mass-bio-tvz-with-low-apm-newbie-stream.md",
+      "title": "PiG Plays Mass Bio TvZ with low APM - Newbie Stream",
+      "excerpt": "This is a highlight from my newbie/beginner stream where I play a TvZ mass bio build, focused on heavy mineral income and minimal APM as well as explaining all the fundamentals -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-pig-plays-mass-bio-tvz-with-low-apm-newbie-stream/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-pig-plays-mass-bio-tvz-with-low-apm-newbie-stream/",
+      "originalUrl": "https://youtube.com/watch?v=m-iSCPG3vB0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m-iSCPG3vB0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M18S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:06-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/m-iSCPG3vB0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-pig-plays-no-micro-pvz-explains-the-secret-to-beating-zerg-for-all-races-newbie-stream.md",
+      "title": "PiG Plays No Micro PvZ + Explains the Secret to Beating Zerg for all races - Newbie Stream",
+      "excerpt": "This is a highlight from my newbie/beginner stream where I analyse a players replay and answer their question -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-pig-plays-no-micro-pvz-explains-the-secret-to-beating-zerg-for-all-races-newbie-stream/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-pig-plays-no-micro-pvz-explains-the-secret-to-beating-zerg-for-all-races-newbie-stream/",
+      "originalUrl": "https://youtube.com/watch?v=bDZSnTxHxv0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bDZSnTxHxv0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M12S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:06-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bDZSnTxHxv0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-pig-shows-a-nydus-rush-talks-zerg-mechanics-newbie-stream.md",
       "title": "PiG Shows a Nydus Rush + Talks Zerg Mechanics - Newbie Stream",
       "excerpt": "This is a highlight from my newbie/beginner stream where I analyse a players replay and answer their question -- Watch live at https://www.twitch.tv/x5_pig",
@@ -837,97 +931,6 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-scouting-and-understanding-what-we-see-in-zvp-d3-coaching.md",
-      "title": "Scouting and understanding what we see in ZvP - D3 coaching",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-scouting-and-understanding-what-we-see-in-zvp-d3-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-scouting-and-understanding-what-we-see-in-zvp-d3-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=lELSMQP5pAs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lELSMQP5pAs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M21S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-08-06T09:00:12-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lELSMQP5pAs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-scouting-understanding-and-reacting-gold-zerg-coaching-highlight.md",
-      "title": "Scouting, understanding and Reacting - Gold Zerg Coaching Highlight",
-      "excerpt": "Interesting part of a coaching vod on scouting -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-scouting-understanding-and-reacting-gold-zerg-coaching-highlight/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-scouting-understanding-and-reacting-gold-zerg-coaching-highlight/",
-      "originalUrl": "https://youtube.com/watch?v=iqujVK6kGKc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iqujVK6kGKc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M37S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-04-24T01:46:01-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iqujVK6kGKc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-set-plays-and-obsessive-build-refinement-coaching-zvt-plat-1.md",
-      "title": "Set Plays and obsessive build refinement! | Coaching ZvT Plat 1",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-set-plays-and-obsessive-build-refinement-coaching-zvt-plat-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-set-plays-and-obsessive-build-refinement-coaching-zvt-plat-1/",
-      "originalUrl": "https://youtube.com/watch?v=YrIIAgVuB84",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YrIIAgVuB84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H15M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-01-02T09:00:11-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YrIIAgVuB84/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
       ]
     }
   ],

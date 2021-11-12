@@ -784,6 +784,7 @@ items:
   - pig-a-triple-engi-bay-block-breaks-this-guys-brain-icyfar-halloween-starcraft-2
   - pig-starcraft-2-florencio-abuses-tempest-range-florencio-files-248
   - pig-its-not-me-who-changes-you-its-you-letter-jocko-willink
+  - pig-starcraft-2-the-two-cheesiest-players-have-a-fondue-party-has-vs-bly-cheesedown-part-14
 
 topics:
   - StarCraft 2

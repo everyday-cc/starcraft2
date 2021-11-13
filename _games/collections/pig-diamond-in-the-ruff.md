@@ -38,10 +38,10 @@ items:
   - pig-starcraft-2-mass-banshee-surprise-diamond-in-the-ruff-27
   - pig-starcraft-2-scouted-my-bc-i-make-more-bc-diamond-in-the-ruff-28
   - pig-proxy-factory-in-their-base-diamond-in-the-ruff-29-starcraft-2
-  - pig-ruffs-creative-rush-diamond-in-the-ruff-31-starcraft-2
   - pig-imaginary-battlecruiser-rush-diamond-in-the-ruff-30-starcraft-2
-  - pig-the-moves-they-never-see-coming-diamond-in-the-ruff-33-double-special-starcraft-2
+  - pig-ruffs-creative-rush-diamond-in-the-ruff-31-starcraft-2
   - pig-40-kill-widow-mine-drop-diamond-in-the-ruff-32-starcraft-2
+  - pig-the-moves-they-never-see-coming-diamond-in-the-ruff-33-double-special-starcraft-2
   - pig-starcraft-2-ruff-shows-how-to-bust-a-wall-diamond-in-the-ruff-34
   - pig-starcraft-2-ruffs-brutal-cheese-compilation-diamond-in-the-ruff-35-starcraft-2
   - pig-starcraft-2-2-starport-raven-is-legit-diamond-in-the-ruff-36
@@ -66,6 +66,7 @@ items:
   - pig-starcraft-2-95-workers-to-26-theres-no-way-pig-diamond-in-the-ruff-55
   - pig-starcraft-2-this-is-why-you-scout-your-main-base-diamond-in-the-ruff-56
   - pig-starcraft-2-ruffs-ruthless-tvp-cheese-compilation-3-games-diamond-in-the-ruff-57
+  - pig-starcraft-2-ruff-the-spire-hunter-diamond-in-the-ruff-58
 
 topics:
   - StarCraft 2

@@ -785,6 +785,7 @@ items:
   - pig-starcraft-2-florencio-abuses-tempest-range-florencio-files-248
   - pig-its-not-me-who-changes-you-its-you-letter-jocko-willink
   - pig-starcraft-2-the-two-cheesiest-players-have-a-fondue-party-has-vs-bly-cheesedown-part-14
+  - pig-starcraft-2-ruff-the-spire-hunter-diamond-in-the-ruff-58
 
 topics:
   - StarCraft 2

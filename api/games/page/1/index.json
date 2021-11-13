@@ -232,7 +232,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 207,
+      "heat": 209,
       "tags": [
         "Live"
       ],
@@ -395,45 +395,6 @@
       "publishedDateTime": "2021-10-18T04:14:58-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-all-of-a-sudden-dark-templar-hero-vs-showtime.md",
-      "title": "StarCraft 2: All Of A Sudden... DARK TEMPLAR! (herO vs ShoWTimE)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between herO (Protoss) and ShoWTimE (Protoss). Especially the second game on 2000 Atmospheres is really good.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-all-of-a-sudden-dark-templar-hero-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-all-of-a-sudden-dark-templar-hero-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=14SofgTIaBY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/14SofgTIaBY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M36S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 177,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/14SofgTIaBY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-06T04:37:03-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-florencio-abuses-tempest-range-florencio-files-248.md",
       "title": "StarCraft 2 - Florencio Abuses Tempest Range | Florencio Files #248",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. This time, he discovers tempest range and abuses the f out of it  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
@@ -500,6 +461,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-08-28T00:58:30-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-all-of-a-sudden-dark-templar-hero-vs-showtime.md",
+      "title": "StarCraft 2: All Of A Sudden... DARK TEMPLAR! (herO vs ShoWTimE)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between herO (Protoss) and ShoWTimE (Protoss). Especially the second game on 2000 Atmospheres is really good.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-all-of-a-sudden-dark-templar-hero-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-all-of-a-sudden-dark-templar-hero-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=14SofgTIaBY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/14SofgTIaBY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M36S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 171,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/14SofgTIaBY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-06T04:37:03-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-and-clem-in-amazing-zerg-vs-terran.md",
@@ -882,35 +882,42 @@
       "publishedDateTime": "2021-07-07T03:56:04-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-astrea-cheeses-a-no-rush-game-vs-special-lol-1-game-pvt.md",
-      "title": "StarCraft 2 - Astrea Cheeses A NO RUSH Game vs Special LOL (1-game PvT)",
-      "excerpt": "Subscribe to @PiG Casts for more Pro videos 🐷LOL Astrea found out how to cheese a no rush 8 min game vs Special 🐷 https://www.patreon.com/PiGSC2 -- 🐖 Watch live at https://www.twitch.tv/x5_pig 👉 PiG’s Discord: https://discord.gg/SkhbzCM  -- #Starcraft2 #PiGStarcraft #PiGCasts #terran #protoss #zerg",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-astrea-cheeses-a-no-rush-game-vs-special-lol-1-game-pvt/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-astrea-cheeses-a-no-rush-game-vs-special-lol-1-game-pvt/",
-      "originalUrl": "https://youtube.com/watch?v=WZcTmhYUbnk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WZcTmhYUbnk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M33S",
+      "path": "_games/lowkotv-starcraft-2-byun-and-byul-cant-stop-being-aggressive-featuring-otto-the-overlord.md",
+      "title": "StarCraft 2: ByuN and ByuL can't stop being AGGRESSIVE! (Featuring Otto the Overlord)",
+      "excerpt": "Fun game of professional StarCraft 2 Terran versus Zerg between ByuN and ByuL where I spend a good couple of minutes just staring an Overlord named Otto.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-and-byul-cant-stop-being-aggressive-featuring-otto-the-overlord/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-and-byul-cant-stop-being-aggressive-featuring-otto-the-overlord/",
+      "originalUrl": "https://youtube.com/watch?v=MOXBfvLRq_k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MOXBfvLRq_k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M1S",
       "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
-        "Protoss"
+        "Terran"
       ],
-      "heat": 121,
+      "heat": 116,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/WZcTmhYUbnk/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/MOXBfvLRq_k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-11-08T03:24:31-08:00"
+      "publishedDateTime": "2021-10-30T03:41:20-07:00"
     },
     {
       "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2.md",
@@ -929,7 +936,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 117,
+      "heat": 116,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hbCcY6BPz5o/maxresdefault.jpg",
@@ -982,25 +989,27 @@
       "publishedDateTime": "2018-01-04T03:39:21-08:00"
     },
     {
-      "path": "_games/pig-its-not-me-who-changes-you-its-you-letter-jocko-willink.md",
-      "title": "It's Not Me Who Changes You. It's You (Letter) - Jocko Willink",
-      "excerpt": "Join the conversation on Twitter/Instagram: @jockowillink @echocharles  Excerpt from JOCKO PODCAST 99.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-its-not-me-who-changes-you-its-you-letter-jocko-willink/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-its-not-me-who-changes-you-its-you-letter-jocko-willink/",
-      "originalUrl": "https://youtube.com/watch?v=SoVu2LmGtSU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SoVu2LmGtSU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M8S",
+      "path": "_games/pig-starcraft-2-astrea-cheeses-a-no-rush-game-vs-special-lol-1-game-pvt.md",
+      "title": "StarCraft 2 - Astrea Cheeses A NO RUSH Game vs Special LOL (1-game PvT)",
+      "excerpt": "Subscribe to @PiG Casts for more Pro videos 🐷LOL Astrea found out how to cheese a no rush 8 min game vs Special 🐷 https://www.patreon.com/PiGSC2 -- 🐖 Watch live at https://www.twitch.tv/x5_pig 👉 PiG’s Discord: https://discord.gg/SkhbzCM  -- #Starcraft2 #PiGStarcraft #PiGCasts #terran #protoss #zerg",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-astrea-cheeses-a-no-rush-game-vs-special-lol-1-game-pvt/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-astrea-cheeses-a-no-rush-game-vs-special-lol-1-game-pvt/",
+      "originalUrl": "https://youtube.com/watch?v=WZcTmhYUbnk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WZcTmhYUbnk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M33S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
       ],
       "heat": 115,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/SoVu2LmGtSU/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/WZcTmhYUbnk/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -1008,7 +1017,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-11-10T21:45:42-08:00"
+      "publishedDateTime": "2021-11-08T03:24:31-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-astreas-late-game-cannon-rush.md",

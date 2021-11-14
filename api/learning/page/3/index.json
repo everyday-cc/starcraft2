@@ -4,37 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft.md",
-      "title": "Beginner Zerg Opening - Welcome to Starcraft",
-      "excerpt": "Sorry for the delay Guys, here's your \"last video\"!    Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos dont appear in your feed and you want to get notified",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft/",
-      "originalUrl": "https://youtube.com/watch?v=LQiqiMcbpGA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LQiqiMcbpGA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M14S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-04-29T00:51:40-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LQiqiMcbpGA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/winterstarcraft-starcraft-2-updated-2018-basic-hotkeys-control-groups-and-production-tutorial.md",
       "title": "Starcraft 2: Updated 2018 - Basic Hotkeys, Control Groups and Production Tutorial",
       "excerpt": "Starcraft 2: Legacy of the Void.  I break down what I use hotkeys and control groups for, hopefully you find this video helpful!  Basic Breakdown -  1 - MAIN ARMY 2 - SPECIALTY CASTER (MCORE, QUEEN, DROP) 3 - SPELLCASTERS/FLYERS 4 - BASES 5- PRODUCTION 6 - ETCETC   Watch the highlights playlist (use",
@@ -357,6 +326,68 @@
         "StarCraft 2",
         "Protoss",
         "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-all-the-keys-to-improving-zvt-coaching-d3-zerg.md",
+      "title": "All the Keys to improving ZvT | Coaching D3 Zerg",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-all-the-keys-to-improving-zvt-coaching-d3-zerg/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-all-the-keys-to-improving-zvt-coaching-d3-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=Gyfc4SiDOME",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gyfc4SiDOME\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M25S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-08-03T09:00:08-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Gyfc4SiDOME/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-beginner-terran-opening-welcome-to-starcraft.md",
+      "title": "Beginner Terran Opening  - Welcome to Starcraft",
+      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g   Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-beginner-terran-opening-welcome-to-starcraft/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-beginner-terran-opening-welcome-to-starcraft/",
+      "originalUrl": "https://youtube.com/watch?v=rYgH0So1tIg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rYgH0So1tIg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-04-14T14:39:54-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rYgH0So1tIg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
       ]
     },
     {
@@ -912,37 +943,6 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-terran-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse.md",
-      "title": "Terran Hotkeys | Life changing tips to setup your keyboard and mouse",
-      "excerpt": "Taking a look at my Terran hotkeys due to popular request. If you want download my hotkeys, you can do so here: https://www.hushangcoaching.com/product/terran-hotkeys/  Terran Hotkeys | Life changing tips to setup your keyboard and mouse #hotkeys #StarCraft2 #Terran   Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-terran-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse/",
-      "originalUrl": "https://youtube.com/watch?v=kljRMVyUlfU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kljRMVyUlfU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M42S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-09-02T20:18:04-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kljRMVyUlfU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
       ]
     }
   ],

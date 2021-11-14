@@ -2,7 +2,7 @@
 title: "PiG's Live Coaching Sessions"
 excerpt: "Starcraft2 Coaching VODs from my Twitch!"
 type: collection
-heat: 60
+heat: 61
 
 provider:
   name: PiG

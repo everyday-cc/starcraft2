@@ -4,6 +4,37 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-terran-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse.md",
+      "title": "Terran Hotkeys | Life changing tips to setup your keyboard and mouse",
+      "excerpt": "Taking a look at my Terran hotkeys due to popular request. If you want download my hotkeys, you can do so here: https://www.hushangcoaching.com/product/terran-hotkeys/  Terran Hotkeys | Life changing tips to setup your keyboard and mouse #hotkeys #StarCraft2 #Terran   Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-terran-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse/",
+      "originalUrl": "https://youtube.com/watch?v=kljRMVyUlfU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kljRMVyUlfU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M42S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-09-02T20:18:04-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kljRMVyUlfU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-terran-vs-protoss-mine-drop-tutorial-into-3-rax.md",
       "title": "Terran vs Protoss | Mine Drop Tutorial (into 3 rax)",
       "excerpt": "Terran vs Protoss | Mine Drop Tutorial (into 3 rax) Learn how to start dominating Protoss players with one of the most standard builds in TvP. In this guide you'll learn how to begin with a mine drop to put on some pressure with the possibility of dealing game ending damage and then transition into a",
@@ -436,23 +467,23 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-beginner-terran-opening-welcome-to-starcraft.md",
-      "title": "Beginner Terran Opening  - Welcome to Starcraft",
-      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g   Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-beginner-terran-opening-welcome-to-starcraft/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-beginner-terran-opening-welcome-to-starcraft/",
-      "originalUrl": "https://youtube.com/watch?v=rYgH0So1tIg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rYgH0So1tIg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M55S",
+      "path": "_learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft.md",
+      "title": "Beginner Zerg Opening - Welcome to Starcraft",
+      "excerpt": "Sorry for the delay Guys, here's your \"last video\"!    Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos dont appear in your feed and you want to get notified",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft/",
+      "originalUrl": "https://youtube.com/watch?v=LQiqiMcbpGA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LQiqiMcbpGA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M14S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2019-04-14T14:39:54-07:00",
+      "publishedDateTime": "2019-04-29T00:51:40-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/rYgH0So1tIg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/LQiqiMcbpGA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -463,7 +494,7 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Zerg"
       ]
     },
     {
@@ -498,6 +529,36 @@
       ]
     },
     {
+      "path": "_learning/videos/pig-its-not-a-sprint-tvt-coaching-masters-3.md",
+      "title": "It’s not a Sprint | TvT Coaching Masters 3",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-its-not-a-sprint-tvt-coaching-masters-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-its-not-a-sprint-tvt-coaching-masters-3/",
+      "originalUrl": "https://youtube.com/watch?v=NGVQhJvUXCk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NGVQhJvUXCk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H9M56S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-08-09T14:00:09-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NGVQhJvUXCk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-micro-tips-and-techniques-welcome-to-starcraft.md",
       "title": "Micro Tips and Techniques - Welcome to Starcraft",
       "excerpt": "*Since this video has been recorded, cyclones once again have been changed to a previous version so the tip at 3:25 no longer applies to cyclones.  Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to",
@@ -528,23 +589,23 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-partings-unbeatable-pvt.md",
-      "title": "Parting's Unbeatable PvT",
-      "excerpt": "🔥 I love watching this brain-twisting Korean Protoss work his magic against Terrans right now 🐷 Support PiG: https://www.pigstarcraft.com/support/  🔥 Book of Filth 2.0: https://docs.google.com/document/d/1GbpZ-qjoUQ42ZwVsmk3cYgLZ1WYNcLc9l6KUo-Zuudk/edit?usp=sharing 🔥 GSL game vs Cure in ST 2: https://www.youtube.com/watch?v=qhf_UWUyc0Y&t=351s&ab_channel=AfreecaTVeSports",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-partings-unbeatable-pvt/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-partings-unbeatable-pvt/",
-      "originalUrl": "https://youtube.com/watch?v=2KDnIiqrY1Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2KDnIiqrY1Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M39S",
+      "path": "_learning/videos/pig-scarletts-disgusting-protoss-cheeses.md",
+      "title": "SCARLETT’S DISGUSTING PROTOSS CHEESES",
+      "excerpt": "Scarlett just casually making zergs aware of all the latest Protoss dirty cheeses 🎤 More Pro SC2 Casts: https://www.youtube.com/playlist?list=PLFUDU8AOevUetBNFfypOKoKcE3BqgZdbt 🐷 Support PiG: https://www.pigstarcraft.com/support/ -- 🐖 Watch live on https://www.twitch.tv/x5_pig 🎓 For coaching inquiries",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-scarletts-disgusting-protoss-cheeses/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-scarletts-disgusting-protoss-cheeses/",
+      "originalUrl": "https://youtube.com/watch?v=KG5mIx6MJ_8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KG5mIx6MJ_8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M35S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-03-14T01:37:50-08:00",
+      "publishedDateTime": "2021-04-14T21:25:03-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2KDnIiqrY1Q/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/KG5mIx6MJ_8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -555,7 +616,8 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Protoss",
+        "Zerg"
       ]
     },
     {
@@ -590,23 +652,23 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-starcraft-2-beginner-terran-opening-the-pig-daily-153.md",
-      "title": "StarCraft 2 - Beginner Terran Opening | The PiG Daily #153",
-      "excerpt": "Use this link to join my Discord Channel and become part of the community: https://discord.gg/0oDzZ8wBPhrdNAOD  See the Show notes and more info + ongoing discussion of the show in the Teamliquid thread: http://www.teamliquid.net/forum/starcraft-2/509383-the-pig-daily-thinking-critically-about-sc   Full",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-beginner-terran-opening-the-pig-daily-153/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-beginner-terran-opening-the-pig-daily-153/",
-      "originalUrl": "https://youtube.com/watch?v=M1QnDKucj3I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M1QnDKucj3I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M16S",
+      "path": "_learning/videos/pig-starcraft-2-beginner-zerg-opening-the-pig-daily-152.md",
+      "title": "StarCraft 2 - Beginner Zerg Opening | The PiG Daily #152",
+      "excerpt": "THIS WEEKS ICYFAR Challenge: \"Siege Warfare - Send in your replays with your best siege tactics. Some suggestions: tank-bunker push, a lurker nydus or a pylon-disruptor push. Gl!  Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as title! Latest submission is 24 hours before the show",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-beginner-zerg-opening-the-pig-daily-152/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-beginner-zerg-opening-the-pig-daily-152/",
+      "originalUrl": "https://youtube.com/watch?v=rs4z-xtYdD4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rs4z-xtYdD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M18S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2017-04-11T16:10:42-07:00",
+      "publishedDateTime": "2017-04-11T16:10:47-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/M1QnDKucj3I/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/rs4z-xtYdD4/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -617,37 +679,7 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-coaching-florencio-the-sewer-archon.md",
-      "title": "StarCraft 2 - Coaching!? Florencio | The Sewer Archon",
-      "excerpt": "This is some brainstorming on playstyles as Florencio intends to play offraces/all races  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank   Got some awesome Florencio fan",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-coaching-florencio-the-sewer-archon/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-coaching-florencio-the-sewer-archon/",
-      "originalUrl": "https://youtube.com/watch?v=hqLiRwNXVi0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hqLiRwNXVi0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H30M59S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-04-27T09:00:09-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hqLiRwNXVi0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
+        "Zerg"
       ]
     },
     {
@@ -944,37 +976,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/MBVsKerZQuI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-008-applying-pressure.md",
-      "title": "Starcraft 2 Newbie Guide - 008 - Applying Pressure",
-      "excerpt": "Constantly scout your opponent, and don't be afraid to apply pressure.  By keeping your opponent pinned, you create opportunities to get further ahead.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ  Other places to find my stuff: Twitter:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-008-applying-pressure/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-008-applying-pressure/",
-      "originalUrl": "https://youtube.com/watch?v=vBbZVqG1q1o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vBbZVqG1q1o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M5S",
-      "provider": {
-        "name": "davidangel64",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2015-12-05T19:30:13-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vBbZVqG1q1o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

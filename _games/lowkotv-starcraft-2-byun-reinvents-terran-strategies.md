@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-reinvents-t
 type: video
 length: PT35M6S
 publishedDateTime: 2020-11-18T10:53:19Z
-heat: 113
+heat: 97
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b223lcwanCs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "QEjgArGLuz4oJqnfpNId0jEPPPs07GGOH0OR1vlJMQVgn1+yxMwpuYdRbQv4MRzuf3ba0YJ+c21rIxvS2qseO4fqr6+qRHnSGfu8Zp4VnuqGYupKT/28tjqFnMbkrAWWS5WOYcQVqxooGfMh+3i7wu/x08FBTSVbrfpVzt/0VM3QNxxiU98/pAGEwQ7CGcTznuQT8O4npwZKTAPmjcr8QEVoJy4gZdWHy8gHLF/Yu/9oufVRivY58rgWnzfie6w5ye9bKYGSTN1CfglfwGqAL6/r6dT/ja8Yg0+d6jxK/cGegyufIba9vIXxRjbjDKokqFlGhz6Pbvu55EYhS7htSzqWbjzDQ+Erks1VzbwCKLIrT7HXRW+30cuihxlRfDvUUM7sGX72UEfz0oYq0AwvEqVuKtE1NagpGX0Cw5/tDQB1vnIWalwZQ0oBuK73PHI5;UaO6JehZrlTONPyXaC3FYg=="
+secured: "mVrNnQ6+dJcvtLq1pMWMzclrbFsVTQSEbwb2ou+iGdUGaTIUMPRYcve2aHLsKV5q4athC5LvZLp/ga6e+gyHzEZ5CbBXK+0neiu25zrphiwtX7BwHCUyzWWN/rvN0lQhagxqNHtpVn1bm6i7HSxcN4DVh+k359lpUW3gq+HoE5YN2HKUcgnOZjGmulDPXqx27fisVHZwPXGirc6cGfnahDPI1DApyfXhB6SEwcIvMDhM/0I2uXITCP3HLT3GLsxbPliJoer0fON1N62NaII9lvqyPB9QX92eOtkLf9sbQOYJLsx6NKxcvLb2gId7kL2smcg1ZLuAMK6dexGa5HGFjhNzcugL1UA7YVUlVx8jxk5ZNVd3FHkcGY9CBmQoG+k2Bfe8NFJpRIea8pHfMx5uzRuHu91KZ6FlnJJOJl1pYGrcL05fi+MdpIjg5FMqvRyc;mFAldHQgTdNOYm3sb8K2kg=="
 ---
 

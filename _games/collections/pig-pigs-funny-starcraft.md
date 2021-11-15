@@ -779,13 +779,14 @@ items:
   - pig-starcraft-2-the-twists-and-turns-in-this-one-game-rocker-vs-ukko-pvz
   - pig-starcraft-2-a-genius-solution-to-an-unfair-challenge-astrea-vs-special-1-game-pvt
   - pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2
-  - pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-holdout-challenge
+  - pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-1-holdout-challenge
   - pig-starcraft-2-astrea-cheeses-a-no-rush-game-vs-special-lol-1-game-pvt
   - pig-a-triple-engi-bay-block-breaks-this-guys-brain-icyfar-halloween-starcraft-2
   - pig-starcraft-2-florencio-abuses-tempest-range-florencio-files-248
   - pig-its-not-me-who-changes-you-its-you-letter-jocko-willink
   - pig-starcraft-2-the-two-cheesiest-players-have-a-fondue-party-has-vs-bly-cheesedown-part-14
   - pig-starcraft-2-ruff-the-spire-hunter-diamond-in-the-ruff-58
+  - pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-2-holdout-challenge
 
 topics:
   - StarCraft 2

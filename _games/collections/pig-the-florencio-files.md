@@ -255,6 +255,7 @@ items:
   - pig-starcraft-2-salty-licorice-florencio-files-246
   - pig-starcraft-2-florencio-runs-into-an-opponent-with-perfect-execution-florencio-files-247
   - pig-starcraft-2-florencio-abuses-tempest-range-florencio-files-248
+  - pig-starcraft-2-the-most-protoss-battle-of-all-protoss-florencio-files-249
 
 topics:
   - StarCraft 2

@@ -79,25 +79,17 @@
       "publishedDateTime": "2020-12-03T02:22:00-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-next-great-protoss-maxpax-vs-gerald.md",
-      "title": "StarCraft 2: The Next GREAT PROTOSS? (MaxPax vs Gerald)",
-      "excerpt": "MaxPax versus Gerald in an awesome match of Protoss versus Protoss at the professional level of StarCraft 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-next-great-protoss-maxpax-vs-gerald/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-next-great-protoss-maxpax-vs-gerald/",
-      "originalUrl": "https://youtube.com/watch?v=9mwjVEHF5qs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9mwjVEHF5qs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M31S",
+      "path": "_games/pig-starcraft-2-florencio-perfectly-executes-a-2-1-1-florencio-files-245.md",
+      "title": "StarCraft 2 - FLORENCIO perfectly executes a 2-1-1! | Florencio Files #245",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.patreon.com/PiGSC2  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-perfectly-executes-a-2-1-1-florencio-files-245/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-perfectly-executes-a-2-1-1-florencio-files-245/",
+      "originalUrl": "https://youtube.com/watch?v=vxbj8rkS_JI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vxbj8rkS_JI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M22S",
       "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "PiG",
+        "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
@@ -106,7 +98,7 @@
       "heat": 113,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/9mwjVEHF5qs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/vxbj8rkS_JI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -114,7 +106,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-09-17T03:17:16-07:00"
+      "publishedDateTime": "2021-10-14T16:14:04-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-and-clem-in-amazing-zerg-vs-terran.md",
@@ -156,14 +148,14 @@
       "publishedDateTime": "2021-11-03T05:12:19-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-if-this-is-uthermal-hes-at-least-4-tequilas-deep-smurf-detective-7.md",
-      "title": "StarCraft 2: “If this is uThermal he’s at least 4 tequilas deep” | Smurf Detective #7",
-      "excerpt": "Submitter: \"While gm is only 2 leagues above me uthermal is 3000 mmr above me if this is him. That said, for being pretty intoxicated I think I held my own well. forgetting glaves was rough though.\"  🔥New Community Submission Series: SMURF DETECTIVE! So you think you have faced a Smurf. Send in your",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-if-this-is-uthermal-hes-at-least-4-tequilas-deep-smurf-detective-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-if-this-is-uthermal-hes-at-least-4-tequilas-deep-smurf-detective-7/",
-      "originalUrl": "https://youtube.com/watch?v=W0Uxcmycubk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W0Uxcmycubk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M49S",
+      "path": "_games/pig-the-afk-build-rate-my-starcraft-4.md",
+      "title": "THE AFK BUILD | Rate My StarCraft #4",
+      "excerpt": "This submission for Rate My Starcraft features the AFK Build, where you pretend to be AFK to your unsuspecting opponent.  🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your awesome StarCraft plays. Send in your replay to RateMyStarCraft@gmail.com PLUS",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-afk-build-rate-my-starcraft-4/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-afk-build-rate-my-starcraft-4/",
+      "originalUrl": "https://youtube.com/watch?v=8UFZgMif_FU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8UFZgMif_FU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M29S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -171,10 +163,10 @@
       "topics": [
         "StarCraft 2"
       ],
-      "heat": 111,
+      "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/W0Uxcmycubk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/8UFZgMif_FU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -182,7 +174,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-10-14T18:40:35-07:00"
+      "publishedDateTime": "2021-08-20T21:02:46-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-cheeses-maxpax-best-of-5.md",

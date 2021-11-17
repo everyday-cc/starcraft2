@@ -4,44 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-queen-rush-in-a-pro-game.md",
-      "title": "StarCraft 2: QUEEN RUSH IN A PRO GAME?!",
-      "excerpt": "Elazer vs puCk in a really cool match of Zerg vs Protoss. Subscribe for more videos: http://lowko.tv/youtube MMA vs aLive: https://goo.gl/GW9L7H  Not quite your standard professional match of StarCraft 2, but quite a regular game for Redshift. In this game, Elazer decides to commit to a relatively cheap",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-queen-rush-in-a-pro-game/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-queen-rush-in-a-pro-game/",
-      "originalUrl": "https://youtube.com/watch?v=0jSgwlZ--9I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0jSgwlZ--9I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M57S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0jSgwlZ--9I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-06-07T04:08:38-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-ridiculous-creativity-has-vs-catz.md",
       "title": "StarCraft 2: RIDICULOUS CREATIVITY! (Has vs CatZ)",
       "excerpt": "An amazing game of professional StarCraft 2 between Has and CatZ. Since both players love playing a style that's different from the StarCraft 2 meta, this game quickly turns into some of the most creative SC2 that I've ever seen.  In this Zerg versus Protoss we have a Proxy Hatchery, Proxy Stargate (with",
@@ -343,6 +305,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-02-14T04:49:08-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-next-great-protoss-maxpax-vs-gerald.md",
+      "title": "StarCraft 2: The Next GREAT PROTOSS? (MaxPax vs Gerald)",
+      "excerpt": "MaxPax versus Gerald in an awesome match of Protoss versus Protoss at the professional level of StarCraft 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-next-great-protoss-maxpax-vs-gerald/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-next-great-protoss-maxpax-vs-gerald/",
+      "originalUrl": "https://youtube.com/watch?v=9mwjVEHF5qs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9mwjVEHF5qs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M31S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9mwjVEHF5qs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-09-17T03:17:16-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-sewer-mermaid.md",
@@ -792,26 +792,26 @@
       "publishedDateTime": "2021-10-14T01:06:37-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-florencio-perfectly-executes-a-2-1-1-florencio-files-245.md",
-      "title": "StarCraft 2 - FLORENCIO perfectly executes a 2-1-1! | Florencio Files #245",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.patreon.com/PiGSC2  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-perfectly-executes-a-2-1-1-florencio-files-245/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-perfectly-executes-a-2-1-1-florencio-files-245/",
-      "originalUrl": "https://youtube.com/watch?v=vxbj8rkS_JI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vxbj8rkS_JI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M22S",
+      "path": "_games/pig-starcraft-2-viking-raids-diamond-in-the-ruff-38.md",
+      "title": "StarCraft 2 - VIKING RAIDS! Diamond in the Ruff #38",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran and Zerg opponents? 🐷 Support PiG: https://www.pigstarcraft.com/support/  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-viking-raids-diamond-in-the-ruff-38/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-viking-raids-diamond-in-the-ruff-38/",
+      "originalUrl": "https://youtube.com/watch?v=yg8cKadG2sw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yg8cKadG2sw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M4S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Terran"
       ],
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/vxbj8rkS_JI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/yg8cKadG2sw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -819,37 +819,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-10-14T16:14:04-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-salty-licorice-florencio-files-246.md",
-      "title": "StarCraft 2 - SALTY LICORICE | Florencio Files #246",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.patreon.com/PiGSC2  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-salty-licorice-florencio-files-246/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-salty-licorice-florencio-files-246/",
-      "originalUrl": "https://youtube.com/watch?v=Me1IqrRGd28",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Me1IqrRGd28\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M24S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Me1IqrRGd28/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-20T03:59:57-07:00"
+      "publishedDateTime": "2021-03-17T05:22:06-07:00"
     },
     {
       "path": "_games/sc2hl-8-player-pro-ffa-starcraft-2-homestory-cup.md",
@@ -1100,6 +1070,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-08-17T00:50:43-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-blanketing-psi-storms-parting-vs-innovation.md",
+      "title": "StarCraft 2: BLANKETING PSI STORMS! (PartinG vs INnoVation)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between PartinG and INnoVation. In this series we see both players take a similiar approach in each game, but a different route in getting there. INnoVation has always been well known for playing a very mechanical and almost robotic style of Terran where he",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-blanketing-psi-storms-parting-vs-innovation/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-blanketing-psi-storms-parting-vs-innovation/",
+      "originalUrl": "https://youtube.com/watch?v=famGs6KHEd8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/famGs6KHEd8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M8S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/famGs6KHEd8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-02-24T04:52:26-08:00"
     }
   ],
   "nextPage": 12

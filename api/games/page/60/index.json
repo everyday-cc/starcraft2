@@ -4,6 +4,66 @@
   "page": 60,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-speed-banshees-vs-nydus-roach-icyfar-g2-social-distancing.md",
+      "title": "StarCraft 2 - SPEED BANSHEES vs NYDUS ROACH | ICYFAR G2 Social Distancing",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they leave at least one empty base between each of your expansions (Social Distancing)! Here’s a fun game of zerg versus terran completing the challenge in humorous fashion.   NEW ICYFAR",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-speed-banshees-vs-nydus-roach-icyfar-g2-social-distancing/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-speed-banshees-vs-nydus-roach-icyfar-g2-social-distancing/",
+      "originalUrl": "https://youtube.com/watch?v=s2b9FY-laFc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s2b9FY-laFc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M57S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/s2b9FY-laFc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-splashgasm-the-florencio-files-60.md",
+      "title": "StarCraft 2 - Splashgasm | The Florencio Files #60",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-splashgasm-the-florencio-files-60/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-splashgasm-the-florencio-files-60/",
+      "originalUrl": "https://youtube.com/watch?v=b-SO5iqxID0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b-SO5iqxID0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M32S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/b-SO5iqxID0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-04-16T17:02:48-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-split-florencio-edition-the-florencio-files-59.md",
       "title": "StarCraft 2 - SPLIT - Florencio Edition | The Florencio Files #59",
       "excerpt": "When do you want to watch Florencio Files?  I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA",
@@ -842,66 +902,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-13T04:26:25-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-the-sweet-lullaby-of-the-sewer-mermaid-the-florencio-files-99.md",
-      "title": "StarCraft 2 - The Sweet Lullaby of the Sewer Mermaid | The Florencio Files #99",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-sweet-lullaby-of-the-sewer-mermaid-the-florencio-files-99/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-sweet-lullaby-of-the-sewer-mermaid-the-florencio-files-99/",
-      "originalUrl": "https://youtube.com/watch?v=x7NOxOeuPcI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x7NOxOeuPcI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/x7NOxOeuPcI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-10T09:00:12-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-the-unholy-trinity-vs-7-armed-archon-florencio-files-211.md",
-      "title": "StarCraft 2 - THE UNHOLY TRINITY vs 7-ARMED ARCHON | Florencio Files #211",
-      "excerpt": "Florencio teams up with Boom and GrimReaper to become the UNHOLY TRINITY in order to take victory back from a 7-armed archon of Sewer Squatters! What Flo-tainted game modes/ideas should we try out next? 🐷 Support PiG: http://paypal.me/PiGSC2 | https://www.patreon.com/PiGSC2 -- 🐖 Watch live on https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-unholy-trinity-vs-7-armed-archon-florencio-files-211/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-unholy-trinity-vs-7-armed-archon-florencio-files-211/",
-      "originalUrl": "https://youtube.com/watch?v=5ywNalJt72Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5ywNalJt72Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M24S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5ywNalJt72Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-02-10T22:14:14-08:00"
     }
   ],
   "nextPage": 61

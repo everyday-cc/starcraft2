@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-early-game-betra
 type: video
 length: PT27M22S
 publishedDateTime: 2020-11-16T11:07:14Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h3E8siepLCU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "PFD7S9ytollmcmTvN3zu6mW7Ikro9o+q5A+F673iiXRttnOHW0eCYi+j6RlH/zUmDJ5e2pKT50IbHI/yoG0FKBllCfKn7928NnVh/ju5iQ3efczupRsO0KrWRApAQFsP6haA5OEZzfXo2wYY1sfNJY3JnHlx5H4CILr0gDhXlphmwGQ76N6JvkaEN0LWJFdKU3W0pCZ6Q86emTuzwUy159xQXoM7wUnuhEbhkvDBmz9G4G1Se2lpcRuXmXOG2Hy3cZgBugUi72LDCssv+lz3u1/sMtO1BUJTAaWLK2r1eJPJRO9/ul9MC3vuxbK29hBapyrBu4f25qviHefQR4y8TSURklDfQhGFIsmOHUoJJzFCqJje4qEB2hyHA5kTngpqUy/PehN18+SNRddcKbodZqW4giuC5N4lcCBr5tk+eBg=;CQ2y/RejIbIZm0CJbt6D8w=="
+secured: "MoHkyOIwrTZNuwTum4FPILJyNPRcsv2TSEBEK1hnFIj8BnVi77QA0n/+ni9X6xdeAATOkfUjD0y1fsGIudWqR80FSNYuWw2bj4msIieSxZwtZgLHVlY9I0D5fYq4uiBVvAqXgsCV0dG8ieABEccKF5X5ryjk0FobrCaoV3abnrNYXT8RX0c4xVW3lEMQB4hP1jCAB93POhL5PM7EaQPmtEb7zhlEPXLzqqrP53GVmYL4htehsWgLXNzRUVqgsuDzPNfDXvqaQ32SDFad3gTCn0/NGzWglsxkzezSdNVrR83fy0+ZNU7EZdLIJZrUg014TJwF+Bo2/uEzP46SJAOG+gYAnsSND9pxH8GPoVeU+ADW5Ive00o0qDKpp8yK0/N5z/WaXjUEkUpbDYWScZ9z78aR+p9oryz5ZB0xheV3OPw=;jURbdyMMry+4PsIzuccuEg=="
 ---
 

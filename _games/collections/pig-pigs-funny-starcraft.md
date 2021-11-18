@@ -788,6 +788,7 @@ items:
   - pig-starcraft-2-ruff-the-spire-hunter-diamond-in-the-ruff-58
   - pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-2-holdout-challenge
   - pig-starcraft-2-the-most-protoss-battle-of-all-protoss-florencio-files-249
+  - pig-we-paid-a-pro-to-do-troll-builds-dance-a-colosuss-in-their-base-twitch-plays-gabe-starcraft-2
 
 topics:
   - StarCraft 2

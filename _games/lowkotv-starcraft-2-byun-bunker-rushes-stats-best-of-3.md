@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-bunker-rush
 type: video
 length: PT32M9S
 publishedDateTime: 2021-04-12T10:40:08Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G7NRCKZtSI0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Y/YQ7QV2SHu7KM+CQv0ftl2ecH71U0j+MPaR8YhXx3CZY3j9Q6VO4qj3I6bTiu7RpBbrt6iPrzCSknvg02WNS/PVAlZM3eU9DND9eqel6SUzYmOK6PlLaCYzHSZImKTnep88k9YtLCGsByx6NRPE7AMFeN+dC8orM+OQNi4vt/aszS/APjpIkzCxVRu5jSPBsaKSWfSVcyZyUYcLl7RFxDCsFGtbm0pPv6yj6pqxlfl4OgJ7BepPPj5Mvl3OuzjboPKjj54UE0HMJr7B0TkJUK1KdtdZuK4XFgqxVH/oIM9Ft+mAD5hJWt/ivsaJt3CeYQbg0QQXQji51Ky8g7/P9t+DaXu/EONpf4K+w9ldn5+zfJpoFhR86I+9kalW39ycBVuUQNGS7v6Bwx/65bq94cWkhnKeWftog67EgouaIJU=;4o+hvu7ZnCLUcLuCTEg7GA=="
+secured: "wI1ZykwIaAHZNotR1zUKbReODcAZD2EtsJWL+OcbIdMR7cPGe0c21kUw3fs6LLlZ5482I2znZHgnNMg/RR03vefS9QN3jB7ZTkSXIS4OoPXD6Uqtb7Z6h9PQ54K/JXcmmnV76dMc/neha+UtcrS4hgxt6QiYrpBtFE5WI5VF4hTSbyfdLCcoYpuJ25exqGv/zEtd4s3rQfajUn+K8rtWF/iWHwG57DIw+ls0G/IwAROc3pZDwwkGuUG8Vw8XW3DjiflBMGbMCTC7W0ObUzEo3QLfNQlxfHCSb+sbLmJpiM+vaM7VTCbOjFuy66scdpPs5mIhGD2I7m7qJJqpjvW8GXWv+TmGq02/xbHBKaVxFwjcHjeCkhhztYHqGAaZEai+nhf8uNgqSF3PWLmZe2tQ3YVliiePtrxLz82e3uSjVag=;H+ZGsfaJcELb6S+XGc+r+g=="
 ---
 

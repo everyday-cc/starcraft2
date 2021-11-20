@@ -4,45 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-easy-protoss-build-order-for-new-players-in-depth.md",
-      "title": "StarCraft 2: EASY Protoss Build Order For New Players! (In Depth!)",
-      "excerpt": "In this video I cover a very easy one base build order for the Protoss race in StarCraft 2: Heart of the Swarm. The build order is very easy to execute for new players, and only requires a little bit of practice before you can go on the ladder and beat your oponnents.  9 Pylon 12 Gateway 14 Gas Geyser",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-protoss-build-order-for-new-players-in-depth/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-easy-protoss-build-order-for-new-players-in-depth/",
-      "originalUrl": "https://youtube.com/watch?v=j5u3cYoDidg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j5u3cYoDidg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M36S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2014-01-13T11:33:21-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/j5u3cYoDidg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/lowkotv-starcraft-2-easy-terran-build-order-guide.md",
       "title": "StarCraft 2: EASY Terran Build Order! (Guide)",
       "excerpt": "StarCraft 2 build order for Terran players. In this video I go over an easy to execute two base build order for Terran versus Protoss that new players and experienced players should be able to pick up quickly. This is a relatively easy build order that focuses on a timing attack, as well as macro.  10",
@@ -964,6 +925,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/2ohfdaz-hDI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-dark-templar-build-order-2020.md",
+      "title": "Dark Templar Build Order [2020]",
+      "excerpt": "You don't want to miss today's dark templar build order strategy guide! We're learning a dark templar build order(dt rush)! This strategy/build is for the Protoss vs Terran matchup and get's your dark templar (DT) out by 4:30 IN YOUR OPPONENTS BASE by using a warp prism which we sneak out across the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-dark-templar-build-order-2020/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-dark-templar-build-order-2020/",
+      "originalUrl": "https://youtube.com/watch?v=HJnbfpLiyo8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HJnbfpLiyo8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M1S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-08-27T14:04:33-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HJnbfpLiyo8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

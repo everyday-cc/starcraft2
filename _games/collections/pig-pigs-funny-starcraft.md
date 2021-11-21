@@ -789,6 +789,7 @@ items:
   - pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-2-holdout-challenge
   - pig-starcraft-2-the-most-protoss-battle-of-all-protoss-florencio-files-249
   - pig-we-paid-a-pro-to-do-troll-builds-dance-a-colosuss-in-their-base-twitch-plays-gabe-starcraft-2
+  - pig-starcraft-2-has-and-blys-cheese-fondue-party-heats-up-cheesedown-part-24
 
 topics:
   - StarCraft 2

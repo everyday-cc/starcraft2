@@ -4,6 +4,80 @@
   "page": 15,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-cheese-vs-cheese.md",
+      "title": "StarCraft 2: CHEESE vs CHEESE!",
+      "excerpt": "I'm starting to really like Battle on the Boardwalk.  Subscribe for more videos: http://lowko.tv/youtube The Double Cheese rush: https://goo.gl/dGUuCF  An awesome match of Protoss versus Protoss. One of the players opens up with a Nexus first at the Gold Base, but also starts off with a Canon Rush. His",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cheese-vs-cheese/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cheese-vs-cheese/",
+      "originalUrl": "https://youtube.com/watch?v=d3pQFMq79tU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d3pQFMq79tU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/d3pQFMq79tU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-12-01T05:25:24-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-cheeser-becomes-the-cheeseth.md",
+      "title": "StarCraft 2: CHEESER BECOMES THE CHEESETH!",
+      "excerpt": "Maru vs Leenock in a best-of-3 series of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Nydus all-in build order: https://youtu.be/Mn3Twb13398  While Maru is known for his macro game, he is not afraid to cheese very regularly. Leenock decides to play him straight up every match, but",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cheeser-becomes-the-cheeseth/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cheeser-becomes-the-cheeseth/",
+      "originalUrl": "https://youtube.com/watch?v=2n7n0-T70CU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2n7n0-T70CU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M37S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2n7n0-T70CU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-03-08T00:42:24-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-disgusting-zerg-rush.md",
       "title": "StarCraft 2: Disgusting Zerg Rush!",
       "excerpt": "A disgusting strategy by Elazer in this game that he recently played versus PtitDrogo at the StarCraft 2 WCS Fall tournament.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup I use: https://lowko.tv/setup/",
@@ -1066,83 +1140,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-04-15T04:53:30-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-nydus-worm-whack-a-mole.md",
-      "title": "StarCraft 2: NYDUS WORM Whack-A-Mole!",
-      "excerpt": "Nydus Worm whack-a-mole at the highest level of play in StarCraft 2. In this game I cast a game of professional StarCraft 2 between the current World Champion Dark and ShoWTimE.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-nydus-worm-whack-a-mole/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-nydus-worm-whack-a-mole/",
-      "originalUrl": "https://youtube.com/watch?v=07-qbBKp9Ks",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/07-qbBKp9Ks\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M44S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/07-qbBKp9Ks/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-26T00:41:12-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-phenomenal-terran-vs-protoss.md",
-      "title": "StarCraft 2: PHENOMENAL Terran vs Protoss!",
-      "excerpt": "A really sick match between MaNa and SpeCial. Subscribe for more videos: http://lowko.tv/youtube MMA vs aLive: https://goo.gl/GW9L7H  In this match of professional Protoss vs Terran we have an intense back-and-forth between both progamers.  Support me on Patreon: http://www.patreon.com/lowkotv Join the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-phenomenal-terran-vs-protoss/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-phenomenal-terran-vs-protoss/",
-      "originalUrl": "https://youtube.com/watch?v=6TUloHyJl98",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6TUloHyJl98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M47S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6TUloHyJl98/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-06-09T05:02:01-07:00"
     }
   ],
   "nextPage": 16

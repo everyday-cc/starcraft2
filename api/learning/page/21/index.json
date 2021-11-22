@@ -4,36 +4,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_learning/videos/quasargamers-minute-micro-episode-26-oracle-harass.md",
-      "title": "Minute Micro - Episode 26: Oracle Harass",
-      "excerpt": "Difficulty rating: 7/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on oracle harass.  twitch.tv/Quasarprintf  https://www.reddit.com/r/starcraft/comments/a1o9r4/the_curious_case_of_the_oracles_dps/",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-26-oracle-harass/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-26-oracle-harass/",
-      "originalUrl": "https://youtube.com/watch?v=EeI_Zk359MI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EeI_Zk359MI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M10S",
-      "provider": {
-        "name": "QuasarGamers",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-11-30T11:22:50-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EeI_Zk359MI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/quasargamers-minute-micro-episode-27-advanced-oracle-harass.md",
       "title": "Minute Micro - Episode 27: Advanced Oracle Harass",
       "excerpt": "Difficulty rating: 8/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on advanced oracle harass.  https://www.reddit.com/r/starcraft/comments/a1o9r4/the_curious_case_of_the_oracles_dps/  twitch.tv/Quasarprintf",
@@ -910,6 +880,36 @@
         "Zerg",
         "Terran",
         "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/winterstarcraft-learn-starcraft-new-players-guide-to-matchmaking.md",
+      "title": "Learn Starcraft! New Player's Guide to Matchmaking",
+      "excerpt": "The top five things new players can be confused about when starting off playing Starcraft 2!",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-new-players-guide-to-matchmaking/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-starcraft-new-players-guide-to-matchmaking/",
+      "originalUrl": "https://youtube.com/watch?v=bhDsd2coZpI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bhDsd2coZpI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M33S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-11-19T09:05:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bhDsd2coZpI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
       ]
     }
   ],

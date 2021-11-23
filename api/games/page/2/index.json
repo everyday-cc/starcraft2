@@ -80,6 +80,36 @@
       "publishedDateTime": "2021-10-14T04:54:06-07:00"
     },
     {
+      "path": "_games/pig-the-sickest-trick-to-defend-cannon-rushes-icyfar-building-blocker-compilation-starcraft-2.md",
+      "title": "The SICKEST Trick To Defend CANNON RUSHES! | ICYFAR \"Building Blocker\" Compilation - StarCraft 2",
+      "excerpt": "🔥NEW ICYFAR CHALLENGE: Rules of Engagement - defeat your opponent without killing any workers, engage only their military and army production. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 2nd October  0:00 Game",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-sickest-trick-to-defend-cannon-rushes-icyfar-building-blocker-compilation-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-sickest-trick-to-defend-cannon-rushes-icyfar-building-blocker-compilation-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=ZECR2idmh1o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZECR2idmh1o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT48M49S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 115,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZECR2idmh1o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-09-19T02:29:28-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-harstems-40-battlecruiser-fleet.md",
       "title": "StarCraft 2: Harstem's 40+ BATTLECRUISER Fleet!",
       "excerpt": "Fun game of Terran versus Terran send over to me by Harstem. In this match he decides to make a \"few\" Battlecruisers.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
@@ -118,25 +148,26 @@
       "publishedDateTime": "2021-09-08T02:26:21-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-this-player-has-been-accused-of-hacking-3-games-smurf-detective-5.md",
-      "title": "StarCraft 2 - THIS PLAYER HAS BEEN ACCUSED OF HACKING (3-games) | Smurf Detective #5",
-      "excerpt": "I put on my (invisible) Smurf Detective hat and investigate whether any of these 3 replays show smurf douchebaggery. First up, a drunk Zerg accuses a Terran of liking the smell of his own farts...  🔥New Community Submission Series: SMURF DETECTIVE! So you think you have faced a Smurf. Send in your replay",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-this-player-has-been-accused-of-hacking-3-games-smurf-detective-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-this-player-has-been-accused-of-hacking-3-games-smurf-detective-5/",
-      "originalUrl": "https://youtube.com/watch?v=0adQJhrsNi4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0adQJhrsNi4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M12S",
+      "path": "_games/pig-starcraft-2-battle-of-the-baboons-florencio-files-240.md",
+      "title": "StarCraft 2 - BATTLE OF THE BABOONS! | Florencio Files #240",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-battle-of-the-baboons-florencio-files-240/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-battle-of-the-baboons-florencio-files-240/",
+      "originalUrl": "https://youtube.com/watch?v=PJNjjLP5140",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PJNjjLP5140\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M58S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Protoss"
       ],
-      "heat": 112,
+      "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/0adQJhrsNi4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/PJNjjLP5140/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -144,7 +175,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-09-09T18:48:13-07:00"
+      "publishedDateTime": "2021-09-06T22:09:22-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-best-games-from-the-rextor-invitational-lowko-rushi.md",
@@ -182,45 +213,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-10-12T03:02:20-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-all-of-a-sudden-dark-templar-hero-vs-showtime.md",
-      "title": "StarCraft 2: All Of A Sudden... DARK TEMPLAR! (herO vs ShoWTimE)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between herO (Protoss) and ShoWTimE (Protoss). Especially the second game on 2000 Atmospheres is really good.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-all-of-a-sudden-dark-templar-hero-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-all-of-a-sudden-dark-templar-hero-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=14SofgTIaBY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/14SofgTIaBY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M36S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 106,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/14SofgTIaBY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-06T04:37:03-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-blys-amazing-proxy-hatcheries-vs-clem.md",
@@ -299,44 +291,6 @@
       "publishedDateTime": "2018-01-04T03:39:21-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-byun-and-byul-cant-stop-being-aggressive-featuring-otto-the-overlord.md",
-      "title": "StarCraft 2: ByuN and ByuL can't stop being AGGRESSIVE! (Featuring Otto the Overlord)",
-      "excerpt": "Fun game of professional StarCraft 2 Terran versus Zerg between ByuN and ByuL where I spend a good couple of minutes just staring an Overlord named Otto.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-and-byul-cant-stop-being-aggressive-featuring-otto-the-overlord/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-and-byul-cant-stop-being-aggressive-featuring-otto-the-overlord/",
-      "originalUrl": "https://youtube.com/watch?v=MOXBfvLRq_k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MOXBfvLRq_k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M1S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 103,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MOXBfvLRq_k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-30T03:41:20-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-a-huge-throw-gumiho-vs-maxpax-best-of-3.md",
       "title": "StarCraft 2: A HUGE THROW?! GuMiho vs MaxPax! (Best-of-3)",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between GuMiho (Terran) and MaxPax (Protoss).  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
@@ -373,6 +327,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-11-09T04:52:33-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-it-is-not-a-draw-zest-wings-of-liberty-tournament-in-2021.md",
+      "title": "StarCraft 2: IT IS NOT A DRAW, ZEST - Wings of Liberty Tournament in 2021?!",
+      "excerpt": "Fun games of professional StarCraft 2 played in Wings of Liberty? In this video I cast a few of the games from the \"FilthyRake's WoL Brawl\" even that took place last weekend.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-it-is-not-a-draw-zest-wings-of-liberty-tournament-in-2021/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-it-is-not-a-draw-zest-wings-of-liberty-tournament-in-2021/",
+      "originalUrl": "https://youtube.com/watch?v=wqHAkxYgZUM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wqHAkxYgZUM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M45S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 102,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wqHAkxYgZUM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-08T03:32:41-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-amazing-match-gumiho-vs-vanya-game-of-the-year.md",
@@ -564,6 +556,45 @@
       "publishedDateTime": "2021-08-19T02:24:57-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-all-of-a-sudden-dark-templar-hero-vs-showtime.md",
+      "title": "StarCraft 2: All Of A Sudden... DARK TEMPLAR! (herO vs ShoWTimE)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between herO (Protoss) and ShoWTimE (Protoss). Especially the second game on 2000 Atmospheres is really good.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-all-of-a-sudden-dark-templar-hero-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-all-of-a-sudden-dark-templar-hero-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=14SofgTIaBY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/14SofgTIaBY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M36S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 99,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/14SofgTIaBY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-06T04:37:03-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-dirty-terran-cheeses-masa-vs-namshar.md",
       "title": "StarCraft 2: DIRTY TERRAN CHEESES! (MaSa vs Namshar)",
       "excerpt": "Best-of-5 series of professional StarCraft 2 between MaSa (Terran) and Namshar (Zerg).  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
@@ -733,6 +764,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-12-03T02:22:00-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-byun-and-byul-cant-stop-being-aggressive-featuring-otto-the-overlord.md",
+      "title": "StarCraft 2: ByuN and ByuL can't stop being AGGRESSIVE! (Featuring Otto the Overlord)",
+      "excerpt": "Fun game of professional StarCraft 2 Terran versus Zerg between ByuN and ByuL where I spend a good couple of minutes just staring an Overlord named Otto.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-and-byul-cant-stop-being-aggressive-featuring-otto-the-overlord/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-and-byul-cant-stop-being-aggressive-featuring-otto-the-overlord/",
+      "originalUrl": "https://youtube.com/watch?v=MOXBfvLRq_k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MOXBfvLRq_k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M1S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 95,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MOXBfvLRq_k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-10-30T03:41:20-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-cure-best-of-5.md",
@@ -1032,74 +1101,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-13T03:43:54-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-zest-vs-rogue-on-all-new-maps-best-of-5.md",
-      "title": "StarCraft 2: Zest vs Rogue on ALL NEW MAPS! (Best-of-5)",
-      "excerpt": "A series of professional StarCraft 2 between Rogue (Zerg) and Zest (Protoss) on all new maps that have recently been added to StarCraft 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zest-vs-rogue-on-all-new-maps-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zest-vs-rogue-on-all-new-maps-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=Iykg4Oirc5o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Iykg4Oirc5o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 87,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Iykg4Oirc5o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-27T09:13:14-07:00"
-    },
-    {
-      "path": "_games/pig-a-triple-engi-bay-block-breaks-this-guys-brain-icyfar-halloween-starcraft-2.md",
-      "title": "A triple engi bay block breaks this guy's brain! | ICYFAR \"Halloween\" - StarCraft 2",
-      "excerpt": "🤯 NEW ICYFAR CHALLENGE: PROXY EVERYTHING: proxy as much of your stuff as you can - try to have as few buildings as possible in your bases. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 30th November -- 🤯 In",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-a-triple-engi-bay-block-breaks-this-guys-brain-icyfar-halloween-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-a-triple-engi-bay-block-breaks-this-guys-brain-icyfar-halloween-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=fpfqUYEdkPg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fpfqUYEdkPg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M13S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 87,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fpfqUYEdkPg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-09T17:23:23-08:00"
     }
   ],
   "nextPage": 3

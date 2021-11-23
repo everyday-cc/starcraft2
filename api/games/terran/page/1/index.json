@@ -28,7 +28,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 265,
+      "heat": 423,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/A5_LxR0yQ6A/maxresdefault.jpg",
@@ -97,7 +97,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 208,
+      "heat": 207,
       "tags": [
         "Live"
       ],
@@ -139,7 +139,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 194,
+      "heat": 176,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/CN7th991sDQ/maxresdefault.jpg",
@@ -383,44 +383,6 @@
       "publishedDateTime": "2021-09-08T02:26:21-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-byun-and-byul-cant-stop-being-aggressive-featuring-otto-the-overlord.md",
-      "title": "StarCraft 2: ByuN and ByuL can't stop being AGGRESSIVE! (Featuring Otto the Overlord)",
-      "excerpt": "Fun game of professional StarCraft 2 Terran versus Zerg between ByuN and ByuL where I spend a good couple of minutes just staring an Overlord named Otto.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-and-byul-cant-stop-being-aggressive-featuring-otto-the-overlord/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-and-byul-cant-stop-being-aggressive-featuring-otto-the-overlord/",
-      "originalUrl": "https://youtube.com/watch?v=MOXBfvLRq_k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MOXBfvLRq_k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M1S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 103,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MOXBfvLRq_k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-30T03:41:20-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-a-huge-throw-gumiho-vs-maxpax-best-of-3.md",
       "title": "StarCraft 2: A HUGE THROW?! GuMiho vs MaxPax! (Best-of-3)",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between GuMiho (Terran) and MaxPax (Protoss).  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
@@ -574,6 +536,44 @@
       "publishedDateTime": "2021-10-07T02:50:53-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-byun-and-byul-cant-stop-being-aggressive-featuring-otto-the-overlord.md",
+      "title": "StarCraft 2: ByuN and ByuL can't stop being AGGRESSIVE! (Featuring Otto the Overlord)",
+      "excerpt": "Fun game of professional StarCraft 2 Terran versus Zerg between ByuN and ByuL where I spend a good couple of minutes just staring an Overlord named Otto.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-and-byul-cant-stop-being-aggressive-featuring-otto-the-overlord/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-and-byul-cant-stop-being-aggressive-featuring-otto-the-overlord/",
+      "originalUrl": "https://youtube.com/watch?v=MOXBfvLRq_k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MOXBfvLRq_k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M1S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 95,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MOXBfvLRq_k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-10-30T03:41:20-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-maru.md",
       "title": "StarCraft 2: SERRAL VS MARU!",
       "excerpt": "It finally happened! Serral versus Maru in a best-of-3 series of StarCraft 2. These two have somehow managed to dodge each other in many tournaments, but today it's finally time to watch them face off against one another.  Lowko's Zerg vs Terran: https://youtu.be/-94UEY2W1oU  Become a YouTube member:",
@@ -652,36 +652,6 @@
       "publishedDateTime": "2021-07-13T03:43:54-07:00"
     },
     {
-      "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2.md",
-      "title": "We paid a Pro to do Troll Builds: Planetary Fortress & Nuke Rush | Twitch Plays Gabe  - StarCraft 2",
-      "excerpt": "We paid Heromarine (Big Gabe) to participate in a Twitch Plays Gabe segment for PiGFest - and he delivered with Planetary Fortress and Nuke Rushes!  https://www.pigstarcraft.com/about/pig-sty-festival/  🐷 https://www.patreon.com/PiGSC2  Heromarine's stream: https://www.twitch.tv/heromarine -- 🐖 Watch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=hbCcY6BPz5o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hbCcY6BPz5o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M19S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 87,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hbCcY6BPz5o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-01T02:28:19-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul.md",
       "title": "StarCraft 2: PROFESSIONAL 2v2?! (Maru & sOs vs MaxPax & souL)",
       "excerpt": "The standard competitive mode in StarCraft 2 is 1v1. However the OlimoLeague recently put on an event where they invited three teams of progamers to face off in a 2v2 (2 vs 2) event. In this video I cast a best-of-5 between Maru and sOs on one team, and MaxPax and souL on the other.  OlimoLeague on Patreon:",
@@ -719,6 +689,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-29T04:34:49-07:00"
+    },
+    {
+      "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2.md",
+      "title": "We paid a Pro to do Troll Builds: Planetary Fortress & Nuke Rush | Twitch Plays Gabe  - StarCraft 2",
+      "excerpt": "We paid Heromarine (Big Gabe) to participate in a Twitch Plays Gabe segment for PiGFest - and he delivered with Planetary Fortress and Nuke Rushes!  https://www.pigstarcraft.com/about/pig-sty-festival/  🐷 https://www.patreon.com/PiGSC2  Heromarine's stream: https://www.twitch.tv/heromarine -- 🐖 Watch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=hbCcY6BPz5o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hbCcY6BPz5o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M19S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 85,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hbCcY6BPz5o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-01T02:28:19-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-incredible-best-of-5-maru-vs-dark.md",

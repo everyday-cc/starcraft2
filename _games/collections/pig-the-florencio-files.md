@@ -256,6 +256,7 @@ items:
   - pig-starcraft-2-florencio-runs-into-an-opponent-with-perfect-execution-florencio-files-247
   - pig-starcraft-2-florencio-abuses-tempest-range-florencio-files-248
   - pig-starcraft-2-the-most-protoss-battle-of-all-protoss-florencio-files-249
+  - pig-starcraft-2-florencios-300-iq-pylon-pathing-trick-2-games-pvt-florencio-files-250
 
 topics:
   - StarCraft 2

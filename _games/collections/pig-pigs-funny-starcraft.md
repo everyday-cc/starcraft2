@@ -792,6 +792,7 @@ items:
   - pig-starcraft-2-has-and-blys-cheese-fondue-party-heats-up-cheesedown-part-24
   - pig-starcraft-2-when-a-ffa-is-both-insane-and-smooth-brained-beast-of-the-hill
   - pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-3-holdout-challenge
+  - pig-starcraft-2-florencios-300-iq-pylon-pathing-trick-2-games-pvt-florencio-files-250
 
 topics:
   - StarCraft 2

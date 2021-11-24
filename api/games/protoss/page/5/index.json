@@ -4,69 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-81-kill-nuke-florencio-files-183.md",
-      "title": "StarCraft 2 - 81 KILL NUKE! | Florencio Files #183",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-81-kill-nuke-florencio-files-183/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-81-kill-nuke-florencio-files-183/",
-      "originalUrl": "https://youtube.com/watch?v=2GsJEFstJ8U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2GsJEFstJ8U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M19S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Terran"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2GsJEFstJ8U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-11-14T09:00:04-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-banshee-plus-liberator-makes-zerg-cry-florencio-files-232.md",
-      "title": "StarCraft 2 - BANSHEE PLUS LIBERATOR MAKES ZERG CRY | Florencio Files #232",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-banshee-plus-liberator-makes-zerg-cry-florencio-files-232/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-banshee-plus-liberator-makes-zerg-cry-florencio-files-232/",
-      "originalUrl": "https://youtube.com/watch?v=B1f9KfZcHFE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B1f9KfZcHFE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M23S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B1f9KfZcHFE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-01T17:27:59-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-chase-your-tail-mate-florencio-files-180.md",
       "title": "StarCraft 2 - CHASE YOUR TAIL MATE! | Florencio Files #180",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
@@ -460,6 +397,44 @@
       "publishedDateTime": "2018-10-25T04:23:00-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-200-worker-kills-showtime-vs-heromarine.md",
+      "title": "StarCraft 2: 200 WORKER KILLS! (ShoWTimE vs HeRoMaRinE)",
+      "excerpt": "An amazing game of professional StarCraft 2 between ShoWTimE and HeRoMaRinE, two German progamers. In this one match of Terran versus Protoss we see over 200 worker kills which is way more than we see in the average match of SC2. An incredible High Templar drop leads to a base race. This is the type",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-200-worker-kills-showtime-vs-heromarine/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-200-worker-kills-showtime-vs-heromarine/",
+      "originalUrl": "https://youtube.com/watch?v=SmimU_MYFmY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SmimU_MYFmY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M33S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SmimU_MYFmY/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-01-16T03:51:29-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-astreas-proxy-nexus-vs-trap.md",
       "title": "StarCraft 2: Astrea's PROXY NEXUS vs Trap?!",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between Astrea and Trap. Probably the cheesiest way to open up versus a Nexus first in Protoss versus Protoss is a Nexus first... In their base!  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My",
@@ -496,6 +471,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-03-03T03:27:45-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-blanketing-psi-storms-parting-vs-innovation.md",
+      "title": "StarCraft 2: BLANKETING PSI STORMS! (PartinG vs INnoVation)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between PartinG and INnoVation. In this series we see both players take a similiar approach in each game, but a different route in getting there. INnoVation has always been well known for playing a very mechanical and almost robotic style of Terran where he",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-blanketing-psi-storms-parting-vs-innovation/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-blanketing-psi-storms-parting-vs-innovation/",
+      "originalUrl": "https://youtube.com/watch?v=famGs6KHEd8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/famGs6KHEd8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M8S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/famGs6KHEd8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-02-24T04:52:26-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-byun-and-classic-lose-their-main-base-best-of-5.md",
@@ -729,14 +743,14 @@
       "publishedDateTime": "2021-02-13T03:48:01-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-highest-level-terran-vs-protoss-maru-vs-stats.md",
-      "title": "StarCraft 2: HIGHEST LEVEL Terran vs Protoss - Maru vs Stats!",
-      "excerpt": "Finally more Maru games! Maru vs Stats in a best-of-3! Subscribe for more videos: http://lowko.tv/youtube Insane game of StarCraft 2: https://goo.gl/HFczUz  In this series of top-level StarCraft 2 I cast a match between Maru and Stats. Both players are likely to be the current best in their respective",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-highest-level-terran-vs-protoss-maru-vs-stats/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-highest-level-terran-vs-protoss-maru-vs-stats/",
-      "originalUrl": "https://youtube.com/watch?v=maMCrrSDEVo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/maMCrrSDEVo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M41S",
+      "path": "_games/lowkotv-starcraft-2-epic-terran-vs-protoss-bo5.md",
+      "title": "StarCraft 2: EPIC Terran vs Protoss! (Bo5)",
+      "excerpt": "GuMiho vs Stats in an epic Terran versus Protoss. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Protoss: https://goo.gl/qeUdf6  This is a best-of-5 series of professional StarCraft 2. In this match-up, both players play a variety of styles. They open up aggressively and defensive, there",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-terran-vs-protoss-bo5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-terran-vs-protoss-bo5/",
+      "originalUrl": "https://youtube.com/watch?v=LY7W8dG_qDk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LY7W8dG_qDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M8S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -757,7 +771,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/maMCrrSDEVo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/LY7W8dG_qDk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -765,7 +779,84 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-12-13T03:47:05-08:00"
+      "publishedDateTime": "2017-12-23T04:49:29-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-extreme-late-game-terran-vs-protoss.md",
+      "title": "StarCraft 2: Extreme Late Game Terran vs Protoss!",
+      "excerpt": "An exciting game of professional Terran versus Protoss between Fantasy and Trap. While generally speaking the late game of Zerg vs Protoss and Terran vs Zerg is quite a bit later, seeing Terran versus Protoss go past the 20 minute mark is unusual and creates some very exciting gameplay.  Get more videos",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-extreme-late-game-terran-vs-protoss/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-extreme-late-game-terran-vs-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=gni4QMsy9eg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gni4QMsy9eg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M19S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gni4QMsy9eg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-08-02T02:56:50-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-fighting-the-protoss-deathball.md",
+      "title": "StarCraft 2: Fighting The Protoss DEATHBALL!",
+      "excerpt": "ByuL versus Stats in an insane Protoss versus Zerg. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/RZRyOs  This is a cast of a professional match of StarCraft 2. In this match the Protoss player decides to sit back and try his hardest and creating the Protoss",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-fighting-the-protoss-deathball/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-fighting-the-protoss-deathball/",
+      "originalUrl": "https://youtube.com/watch?v=d9krkcF9Qw0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d9krkcF9Qw0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M29S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/d9krkcF9Qw0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2016-12-30T05:17:09-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-how-to-not-cannon-rush.md",
@@ -845,14 +936,14 @@
       "publishedDateTime": "2019-12-18T04:48:16-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-incredible-protoss-vs-terran-bo3.md",
-      "title": "StarCraft 2: INCREDIBLE Protoss vs Terran! (Bo3)",
-      "excerpt": "ByuN vs herO in an incredible series of Protoss vs Terran. Subscribe for more videos: http://lowko.tv/youtube More Starcraft 2 casts: https://goo.gl/NG8qAV  In this video I cast a best of three series between two of the world's very best for their respective races. Both players play their standard style.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-protoss-vs-terran-bo3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-incredible-protoss-vs-terran-bo3/",
-      "originalUrl": "https://youtube.com/watch?v=fzBv-rqYZxg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fzBv-rqYZxg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M38S",
+      "path": "_games/lowkotv-starcraft-2-insane-protoss-micro.md",
+      "title": "StarCraft 2: INSANE PROTOSS MICRO!",
+      "excerpt": "Zest vs Impact in StarCraft 2 with some crazy Protoss micro. Subscribe for more videos: http://lowko.tv/youtube Mass Battlecruiser switch: https://goo.gl/ibLRG4  Turns out you can get some pretty great value out of Protoss units and a Warp Prism as long as your control is good enough.   In this game",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-protoss-micro/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-protoss-micro/",
+      "originalUrl": "https://youtube.com/watch?v=1MjtYGBnh-I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1MjtYGBnh-I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M23S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -867,13 +958,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
         "Protoss"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/fzBv-rqYZxg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/1MjtYGBnh-I/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -881,7 +971,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2017-06-06T04:52:03-07:00"
+      "publishedDateTime": "2019-02-18T00:39:12-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-maru-vs-neeb-epic-match.md",
@@ -923,45 +1013,6 @@
       "publishedDateTime": "2019-03-19T04:23:00-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-maxed-out-soo-vs-zest.md",
-      "title": "StarCraft 2: MAXED OUT! (soO vs Zest)",
-      "excerpt": "Stargate styles and maxed out Skytoss have overtaken the ladder over the last few weeks. With the changes made to the Infestor it seems that in a way the tables have turned from Zerg turtling to maxed out Infestors to Protoss turtling to maxed out Skytoss.  In this game of top-level StarCraft 2 between",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxed-out-soo-vs-zest/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxed-out-soo-vs-zest/",
-      "originalUrl": "https://youtube.com/watch?v=TVwOFRe2mss",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TVwOFRe2mss\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M6S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TVwOFRe2mss/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-12-27T06:58:42-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-mining-out-the-map-clem-vs-showtime.md",
       "title": "StarCraft 2: MINING OUT THE MAP?! (Clem vs ShoWTimE)",
       "excerpt": "An amazing game of top-level StarCraft 2 between Clem and ShoWTimE. This has to be one of the longest games of StarCraft 2 that I've ever seen being played at the professional level. In this game we see Clem make the decision to play Terran Mech. Because of that the Protoss player has to play extremely",
@@ -1000,14 +1051,14 @@
       "publishedDateTime": "2020-05-18T05:03:59-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-nexus-rush-vs-cannon-rush.md",
-      "title": "StarCraft 2: NEXUS RUSH vs CANNON RUSH!",
-      "excerpt": "Diamond League Protoss vs Protoss is a matchup! Subscribe for more videos: http://lowko.tv/youtube Rapid Fire explained: https://goo.gl/oxyqNv  Both players decide to play a very strange game. One opens up with a Nexus Rush with Mass Recall, the other player opens up with Cannon Rush.  If you have an",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-nexus-rush-vs-cannon-rush/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-nexus-rush-vs-cannon-rush/",
-      "originalUrl": "https://youtube.com/watch?v=yVNTHwl8kdY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yVNTHwl8kdY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M20S",
+      "path": "_games/lowkotv-starcraft-2-mothership-offensive-recall-has-vs-bly.md",
+      "title": "StarCraft 2: MOTHERSHIP OFFENSIVE RECALL! (Has vs Bly)",
+      "excerpt": "An amazing best-of-3 series of professional StarCraft 2 between Has and Bly. Both pro gamers are well known for playing the crazy strategies and execute their own version of 4D chess by countering and outsmarting each other constantly. Not quite your normal games of Protoss versus Zerg.  Get more videos",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-mothership-offensive-recall-has-vs-bly/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-mothership-offensive-recall-has-vs-bly/",
+      "originalUrl": "https://youtube.com/watch?v=2roPL4WCYvw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2roPL4WCYvw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M50S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1027,7 +1078,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/yVNTHwl8kdY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2roPL4WCYvw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1035,46 +1086,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-07-04T05:18:07-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-parting-vs-maru-best-of-3.md",
-      "title": "StarCraft 2: PARTING vs MARU! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level Protoss versus Terran in StarCraft 2 between PartinG and Maru.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-parting-vs-maru-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-parting-vs-maru-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=Lo6V4bxZQi0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Lo6V4bxZQi0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Lo6V4bxZQi0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-05-21T02:35:15-07:00"
+      "publishedDateTime": "2020-03-13T06:24:32-07:00"
     }
   ],
   "nextPage": 6

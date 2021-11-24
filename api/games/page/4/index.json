@@ -80,14 +80,14 @@
       "publishedDateTime": "2020-08-05T02:12:15-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-bronze-league-heroes.md",
-      "title": "StarCraft 2: Bronze League Heroes!",
-      "excerpt": "An actual Bronze League game of StarCraft 2! In this video I commentate a game between RewaS and Papak. It's time for Bronze League Heroes.  Get exclusive content & support my work: http://www.patreon.com/lowkotv  If you have an awesome replay of StarCraft 2 that you think is worth casting, you can send",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-bronze-league-heroes/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-bronze-league-heroes/",
-      "originalUrl": "https://youtube.com/watch?v=RTK--wxmH4g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RTK--wxmH4g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M22S",
+      "path": "_games/lowkotv-starcraft-2-battle-royale-pro-gamer-free-for-all.md",
+      "title": "StarCraft 2: BATTLE ROYALE! (Pro Gamer Free-For-All)",
+      "excerpt": "StarCraft 2 Battle Royale 6-man free-for-all between Maru, INnoVation, Hurricane, Impact, Solar and Patience. These pro gamers are some of the best players from South Korea. In this video I give commentary to this Battle Royale mod of a series of games that was organised by Crank.  Get more videos &",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-battle-royale-pro-gamer-free-for-all/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-battle-royale-pro-gamer-free-for-all/",
+      "originalUrl": "https://youtube.com/watch?v=hmLp9wr8ASo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hmLp9wr8ASo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT48M19S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -106,7 +106,7 @@
       "heat": 70,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/RTK--wxmH4g/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hmLp9wr8ASo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -114,7 +114,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-08-30T00:30:45-07:00"
+      "publishedDateTime": "2020-02-21T02:41:32-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-clem-kills-100-mutalisks.md",
@@ -265,6 +265,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-02-02T04:37:11-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-very-unusual-zerg-cheese-florencio-is-back.md",
+      "title": "StarCraft 2: Very Unusual Zerg Cheese... (Florencio is back!)",
+      "excerpt": "Florencio is back with a ridiculous Zerg strategy. In this game of StarCraft 2 he decides to Drone, Spine Crawler, Hatchery and Creep Tumor rush. All at once.  Get more videos & support my work: http://www.patreon.com/lowkotv Previous Florencio cheese: https://youtu.be/khgDUwR7Gvo  If you have an awesome",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-very-unusual-zerg-cheese-florencio-is-back/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-very-unusual-zerg-cheese-florencio-is-back/",
+      "originalUrl": "https://youtube.com/watch?v=2lPVk-WGeMQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2lPVk-WGeMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M2S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2lPVk-WGeMQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-02T03:25:02-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-can-mass-lings-actually-beat-mech-rate-my-starcraft-7.md",
@@ -433,14 +471,14 @@
       "publishedDateTime": "2021-10-30T19:55:23-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-cheeky-stargate-strategy.md",
-      "title": "StarCraft 2: CHEEKY STARGATE STRATEGY!",
-      "excerpt": "Florencio is back with another crazy game of StarCraft 2. In this Protoss versus Zerg he goes by the name of Old Greg as he goes up against a Diamond League Zerg player. As expected, this game also gets crazy really quickly as it starts with a Cannon Rush and then transitions towards cheeky Stargate",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cheeky-stargate-strategy/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cheeky-stargate-strategy/",
-      "originalUrl": "https://youtube.com/watch?v=Y18Ff-M83-0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y18Ff-M83-0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M36S",
+      "path": "_games/lowkotv-starcraft-2-evolving-strategies-bo7.md",
+      "title": "StarCraft 2: EVOLVING STRATEGIES! (Bo7)",
+      "excerpt": "Best of 7 series of StarCraft 2 between Gumiho and Serral. Subscribe for more videos: http://lowko.tv/youtube Mass Oracle in a Pro game: https://goo.gl/W65Hvg  This is something new and something I have not uploaded to YouTube before. This is a full best of 7 series in Professional StarCraft 2 between",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-evolving-strategies-bo7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-evolving-strategies-bo7/",
+      "originalUrl": "https://youtube.com/watch?v=88Myy5JvgNY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/88Myy5JvgNY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H26M23S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -459,7 +497,7 @@
       "heat": 67,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Y18Ff-M83-0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/88Myy5JvgNY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -467,7 +505,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-01-29T04:56:23-08:00"
+      "publishedDateTime": "2017-10-03T06:23:43-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-proxy-hatchery-problems-bly-vs-maxpax.md",
@@ -506,43 +544,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-28T04:59:03-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-silver-league-cheese.md",
-      "title": "StarCraft 2: Silver League Cheese!",
-      "excerpt": "A very chaotic match of Terran vs Protoss in Silver League in StarCraft 2. What happens when you're getting cheesed while you're cheesing yourself?  Get more videos & support my work: http://www.patreon.com/lowkotv  If you have an awesome game of StarCraft 2 you would like me to cast, you can submit",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-silver-league-cheese/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-silver-league-cheese/",
-      "originalUrl": "https://youtube.com/watch?v=sjPaRmSolNY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sjPaRmSolNY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M23S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 67,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sjPaRmSolNY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-13T01:57:08-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-command-center-disappeared-viewer-games.md",
@@ -657,6 +658,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-09-27T01:45:20-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-cheeky-stargate-strategy.md",
+      "title": "StarCraft 2: CHEEKY STARGATE STRATEGY!",
+      "excerpt": "Florencio is back with another crazy game of StarCraft 2. In this Protoss versus Zerg he goes by the name of Old Greg as he goes up against a Diamond League Zerg player. As expected, this game also gets crazy really quickly as it starts with a Cannon Rush and then transitions towards cheeky Stargate",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cheeky-stargate-strategy/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cheeky-stargate-strategy/",
+      "originalUrl": "https://youtube.com/watch?v=Y18Ff-M83-0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y18Ff-M83-0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M36S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Y18Ff-M83-0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-01-29T04:56:23-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-epic-archon-mode-serral-reynor-elazer-lambo-vs-clem-kelazhur-soul-harstem.md",
@@ -848,14 +886,14 @@
       "publishedDateTime": "2021-08-23T03:39:26-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-very-unusual-zerg-cheese-florencio-is-back.md",
-      "title": "StarCraft 2: Very Unusual Zerg Cheese... (Florencio is back!)",
-      "excerpt": "Florencio is back with a ridiculous Zerg strategy. In this game of StarCraft 2 he decides to Drone, Spine Crawler, Hatchery and Creep Tumor rush. All at once.  Get more videos & support my work: http://www.patreon.com/lowkotv Previous Florencio cheese: https://youtu.be/khgDUwR7Gvo  If you have an awesome",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-very-unusual-zerg-cheese-florencio-is-back/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-very-unusual-zerg-cheese-florencio-is-back/",
-      "originalUrl": "https://youtube.com/watch?v=2lPVk-WGeMQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2lPVk-WGeMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M2S",
+      "path": "_games/lowkotv-starcraft-2-trash-talking.md",
+      "title": "StarCraft 2: TRASH TALKING!",
+      "excerpt": "Today it's time for a viewer submitted game of StarCraft 2. In this Platinum and Diamond League match of Protoss vs Zerg. One of the cheesiest games you can go watch, as the Protoss decides to go for a few Proxy Gateways on the other side of the map, but it turns out to be one of the worst StarCraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-trash-talking/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-trash-talking/",
+      "originalUrl": "https://youtube.com/watch?v=VouAQJwx9k8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VouAQJwx9k8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M3S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -869,13 +907,12 @@
         ]
       },
       "topics": [
-        "StarCraft 2",
-        "Zerg"
+        "StarCraft 2"
       ],
       "heat": 66,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2lPVk-WGeMQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/VouAQJwx9k8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -883,7 +920,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-12-02T03:25:02-08:00"
+      "publishedDateTime": "2020-01-24T14:28:17-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-the-twists-and-turns-in-this-one-game-pvz.md",
@@ -984,6 +1021,44 @@
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-epic-best-of-5-series-serral-vs-clem.md",
+      "title": "StarCraft 2: EPIC BEST-OF-5 SERIES! (Serral vs Clem)",
+      "excerpt": "An epic best-of-5 series of StarCraft 2 between Serral and Clem. Serral is widely considered to be the strongest SC2 professional gamer in the world. Clem is one of the best Terran players in the world and he's continously getting better. In this video they face off against each other in a series of",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-best-of-5-series-serral-vs-clem/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-best-of-5-series-serral-vs-clem/",
+      "originalUrl": "https://youtube.com/watch?v=NPOu1xBP6qE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NPOu1xBP6qE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H9M52S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NPOu1xBP6qE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-27T05:29:13-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-florencios-favourite.md",
       "title": "StarCraft 2: Florencio's FAVOURITE!",
       "excerpt": "Florencio send over an older game of StarCraft 2 that is one of his personal favourites.  Florencio on Twitch: https://www.twitch.tv/florenciosc  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko",
@@ -1019,80 +1094,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-03-17T05:45:07-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-he-is-pretending-to-be-afk-viewer-games.md",
-      "title": "StarCraft 2: He Is PRETENDING To Be AFK?! (Viewer Games)",
-      "excerpt": "Two games of StarCraft 2. In the first one we watch a match where Florencio gets a taste of his own medicine, and in the second one a Protoss player pretends to go AFK at the beginning of the match while building a Nexus on the other side of the map.  Florencio on Twitch: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-he-is-pretending-to-be-afk-viewer-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-he-is-pretending-to-be-afk-viewer-games/",
-      "originalUrl": "https://youtube.com/watch?v=7TaOd88I95Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7TaOd88I95Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M4S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7TaOd88I95Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-05-25T02:31:15-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-new-world-champion-grand-finals.md",
-      "title": "StarCraft 2: THE NEW WORLD CHAMPION! (Grand Finals)",
-      "excerpt": "Best-of-7 series of top level StarCraft 2 between Zest and Reynor to determine who the new World Champion of StarCraft 2 is.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-new-world-champion-grand-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-new-world-champion-grand-finals/",
-      "originalUrl": "https://youtube.com/watch?v=Qzt-MoPfiL8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Qzt-MoPfiL8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H4M27S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Qzt-MoPfiL8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-01T04:59:54-08:00"
     }
   ],
   "nextPage": 5

@@ -4,23 +4,23 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss.md",
-      "title": "Learn Starcraft - SPEEDRUN TO MASTERS RANDOM | 30 Wins, 0 Losses - Terran, Zerg & Protoss",
-      "excerpt": "Making sure to use safe, solid builds to get an advantage when playing smart! Most build orders I think could be copied to success for platinum/diamond players.  Watch the stream - https://www.twitch.tv/wintergaming Tweeter - https://www.twitter.com/starcraftwinter Patreon - https://www.patreon.com/wintergaming",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss/",
-      "originalUrl": "https://youtube.com/watch?v=XWDpI2r_Ztc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XWDpI2r_Ztc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4H5M11S",
+      "path": "_learning/videos/winterstarcraft-learn-starcraft-protoss-beginner-guide-1-updated-patch-40-free-to-play.md",
+      "title": "Learn Starcraft - Protoss Beginner Guide #1 (Updated Patch 4.0 FREE TO PLAY)",
+      "excerpt": "How to command the incredibly strong forces of the protoss and cover weaknesses against the other inferior races. Updated for patch 4.0! This guide is not intended for COMPLETELY new players, but those who have played several games/campaign missions and grasp the very basics.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-protoss-beginner-guide-1-updated-patch-40-free-to-play/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-starcraft-protoss-beginner-guide-1-updated-patch-40-free-to-play/",
+      "originalUrl": "https://youtube.com/watch?v=x3ZkSX0tJg4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x3ZkSX0tJg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M41S",
       "provider": {
         "name": "WinterStarcraft",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2018-09-21T15:07:07-07:00",
+      "publishedDateTime": "2017-11-26T03:51:55-08:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/XWDpI2r_Ztc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/x3ZkSX0tJg4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -31,8 +31,6 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Zerg",
-        "Terran",
         "Protoss"
       ]
     },
@@ -117,37 +115,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/uL5uZTCwPcs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-climbing-the-ladder-high-grandmaster-protoss-plays-vs-4400-4800-players.md",
-      "title": "Climbing the ladder | High Grandmaster Protoss plays vs 4400-4800 players",
-      "excerpt": "Live high-level protoss ladder play. Unfortunately the footage came out quite choppy at some points and I was considering just not posting today, but I will post it anyways in case a few of you want to watch still. I'm trying to figure out what the cause of the lag is and hopefully I can get some cleaner",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-climbing-the-ladder-high-grandmaster-protoss-plays-vs-4400-4800-players/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-climbing-the-ladder-high-grandmaster-protoss-plays-vs-4400-4800-players/",
-      "originalUrl": "https://youtube.com/watch?v=2ohfdaz-hDI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2ohfdaz-hDI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M42S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-09-05T16:15:55-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2ohfdaz-hDI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -596,23 +563,23 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-protoss-vs-zerg-guide-learn-how-to-stay-safe-starcraft-2.md",
-      "title": "Protoss vs Zerg Guide | Learn HOW to stay SAFE!!! [Starcraft 2]",
-      "excerpt": "In today's Starcraft 2 guide we will be looking at the Protoss vs Zerg (PvZ) matchup.  Let's take a look at a simple tip that will help you win in all of your Protoss vs Zerg (PvZ) matches. This is a strategy I use when playing pvz to easily crush the bugs. Hope you enjoy the guide!  Protoss vs Zerg",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-vs-zerg-guide-learn-how-to-stay-safe-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-protoss-vs-zerg-guide-learn-how-to-stay-safe-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=Nr66-65wDKc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nr66-65wDKc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M14S",
+      "path": "_learning/videos/hushang-tutorials-protoss-vs-zergpvz-scouting-and-early-game-basics-starcraft-2.md",
+      "title": "Protoss vs Zerg(pvz) | Scouting and Early Game Basics [starcraft 2]",
+      "excerpt": "Starcraft 2: Protoss vs Zerg | Scouting and Early Game Basics In this guide we take a look at how to scout in the protoss vs zerg matchup in starcraft 2. What you need to be looking for at certain times and what they mean! Enjoy~  #starcraft #pvz #scouting #protoss #vs zerg #starcraft 2 #sc2  Interested",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-vs-zergpvz-scouting-and-early-game-basics-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-protoss-vs-zergpvz-scouting-and-early-game-basics-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=W3AERGMCp4M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W3AERGMCp4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M17S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-07-04T22:21:45-07:00",
+      "publishedDateTime": "2020-06-11T10:56:07-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Nr66-65wDKc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/W3AERGMCp4M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -923,6 +890,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/J56lfLzHf30/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-submarine-le-walling-guide-pvz.md",
+      "title": "Submarine LE - Walling Guide PvZ",
+      "excerpt": "Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is a website where you can contribute a monthly donation that will help",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-submarine-le-walling-guide-pvz/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-submarine-le-walling-guide-pvz/",
+      "originalUrl": "https://youtube.com/watch?v=B7efzDtgquE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B7efzDtgquE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M23S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-05-29T14:37:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B7efzDtgquE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

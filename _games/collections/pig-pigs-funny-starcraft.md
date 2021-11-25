@@ -793,6 +793,7 @@ items:
   - pig-starcraft-2-when-a-ffa-is-both-insane-and-smooth-brained-beast-of-the-hill
   - pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-3-holdout-challenge
   - pig-starcraft-2-florencios-300-iq-pylon-pathing-trick-2-games-pvt-florencio-files-250
+  - pig-we-paid-a-pro-to-do-troll-builds-sex-panther-1-base-thor-drop-twitch-plays-gabe-starcraft-2
 
 topics:
   - StarCraft 2

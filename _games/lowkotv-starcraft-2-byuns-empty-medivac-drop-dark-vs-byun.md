@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-empty-medi
 type: video
 length: PT42M9S
 publishedDateTime: 2021-05-10T10:55:40Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KqbcrD-4vHk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UlI+Y25klUfOGPcEBsFKRrCzqHTYiJc6LNKV71nRyAVixN35x1jdP6ek/nUspojWdM+8sZbg8+Wr+S6iV7G1CxFaMdFl/fGrdlAMbqdhNrVeeofR9S3nIgtfIitd4ZiS+JFkg5XA27KE6OGiaiiyuZSsqqlZkKxKmGVtTaaaanrpTyANJ8UU7MrsCm428UNNAKfGGNM04Ak7Jltffk0i2byJMJcorzyyy6eWiVfI987l+zU30E/PXDJaSQxdSfT95nnagVod8KmemmdXCt9eXRPYEbMPc/FH3Dndqx5JuG0HQbJXcvYQKe1NZ1RqAO76esewvwPGaMENofebaItER1AaCdOQ5DDzboylsS+MA76H9unsJfVXGGkqnWDltLvnMJKK3vxH51pysJ6Ogy5yTs0oJlT18LOK1PUCopoM68U=;7b4/k+NXd84ccXe4LHShDg=="
+secured: "rggi5Vu8KHOzzOfTyCaRMhKWhHKQowdQ9o3RwFDMmwNztkRCyRmJrZRfG52M63Sriw/cVXUMO6uIp1IVfDqkREEIwSOsUf4LhjGNzIqyEfsSxKVwXqB1HBYk1ZOTPupzw6ovPZ+z82OkodQdT/AbVK3znMOCB9CMlq5bGtXK/HbUBo01urUtnvAoz9tMf5/Korzhx1szm5WngbgxifNXtEkfxA+xkn7hifRMPyzv4ZtN/KPAS3NTme3RUnkykIKWrQ3wmTNKeKHKj8e4kQRVMU6HV0UoLxZoQZ6zgeCO8yz2v2Z0uTzPmcyqmgXDppsbUelGdzKAXv76eOCBgfIo0TvytOASbLexhqQ4n6E9AfP9I9wvAHMBEAQRBSTJYyA+F9xOCBLUsTok+sAlxy/6Wou8aYqRY8VIm9jLsyStUe4=;gOCokJHVIMwGUhh4zOW1iw=="
 ---
 

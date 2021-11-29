@@ -794,6 +794,7 @@ items:
   - pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-3-holdout-challenge
   - pig-starcraft-2-florencios-300-iq-pylon-pathing-trick-2-games-pvt-florencio-files-250
   - pig-we-paid-a-pro-to-do-troll-builds-sex-panther-1-base-thor-drop-twitch-plays-gabe-starcraft-2
+  - pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-44-holdout-challenge
   - pig-starcraft-2-has-and-bly-remember-theyre-cheesers-cheesedown-part-34
 
 topics:

@@ -4,6 +4,43 @@
   "page": 17,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-the-colossus-counter-attack.md",
+      "title": "StarCraft 2: THE COLOSSUS COUNTER-ATTACK!",
+      "excerpt": "DnS vs Reynor in a professional game of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More professional StarCraft 2: https://goo.gl/kFUSLt  Colossus are slowly starting to become more and more common in the StarCraft 2 meta. Since players are far more creative with their unit compositions",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-colossus-counter-attack/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-colossus-counter-attack/",
+      "originalUrl": "https://youtube.com/watch?v=DXLv5pY3SlM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DXLv5pY3SlM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M3S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DXLv5pY3SlM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-12-21T03:54:26-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-command-center-bully.md",
       "title": "StarCraft 2: The Command Center BULLY!",
       "excerpt": "The Command Center bully. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://goo.gl/qUBVXB  In this Silver League match of Terran vs Protoss the Protoss player decides that all he is going to make for the majority of the game is Pylons and Photon Cannons. The Terran player is",
@@ -1079,35 +1116,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-02T17:27:37-07:00"
-    },
-    {
-      "path": "_games/pig-diplomatic-embassy-icyfar-distraction-lul-compilation.md",
-      "title": "DIPLOMATIC EMBASSY | ICYFAR \"Distraction LUL\" Compilation",
-      "excerpt": "🔥NEW ICYFAR CHALLENGE: \"Let me help you with that\" demoralise your opponent by killing one of your own units before each attack. Bonus points for making sure you do it in their vision. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-diplomatic-embassy-icyfar-distraction-lul-compilation/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-diplomatic-embassy-icyfar-distraction-lul-compilation/",
-      "originalUrl": "https://youtube.com/watch?v=BtCgKK3Eors",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BtCgKK3Eors\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M55S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BtCgKK3Eors/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
     }
   ],
   "nextPage": 18

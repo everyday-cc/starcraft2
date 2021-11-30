@@ -66,7 +66,8 @@ items:
   - pig-starcraft-2-95-workers-to-26-theres-no-way-pig-diamond-in-the-ruff-55
   - pig-starcraft-2-this-is-why-you-scout-your-main-base-diamond-in-the-ruff-56
   - pig-starcraft-2-ruffs-ruthless-tvp-cheese-compilation-3-games-diamond-in-the-ruff-57
-  - pig-starcraft-2-ruff-the-spire-hunter-diamond-in-the-ruff-58
+  - pig-starcraft-2-how-to-traumatise-zerg-players-diamond-in-the-ruff-58
+  - pig-starcraft-2-when-scvs-are-the-mvps-in-an-insane-basetrade-diamond-in-the-ruff-59
 
 topics:
   - StarCraft 2

@@ -719,7 +719,7 @@ items:
   - pig-twitch-plays-pig-the-real-version
   - pig-pig-casts-an-epic-4v4-beast-of-the-hill-battle
   - pig-new-show-who-needs-fundamentals-in-starcraft-pig-roasts-1-mega-compilation
-  - pig-starcraft-2-the-search-begins-smooth-brain-auditions-1
+  - pig-starcraft-2-the-search-begins-smooth-brain-auditions-season-1
   - pig-starcraft-2-adrenal-zergling-rush-santa-claws-1
   - pig-starcraft-2-florencios-caricature-of-a-macro-zerg-florencio-files-235
   - pig-starcraft-2-no-expanding-allowed-florencio-files-236
@@ -796,6 +796,7 @@ items:
   - pig-we-paid-a-pro-to-do-troll-builds-sex-panther-1-base-thor-drop-twitch-plays-gabe-starcraft-2
   - pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-44-holdout-challenge
   - pig-starcraft-2-has-and-bly-remember-theyre-cheesers-cheesedown-part-34
+  - pig-starcraft-2-when-scvs-are-the-mvps-in-an-insane-basetrade-diamond-in-the-ruff-59
 
 topics:
   - StarCraft 2

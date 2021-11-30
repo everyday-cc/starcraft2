@@ -4,6 +4,68 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-very-powerful-3-rax-attack-terran-build-order-guide-2021.md",
+      "title": "Very Powerful 3 Rax Attack | Terran Build Order Guide (2021)",
+      "excerpt": "This is a super strong & really fun Starcraft 2 Terran build order that I've been playing in my TvP's almost exclusively. You get right into the action super fast and it's very difficult for protoss to defend your first push never mind the second one. ` Very Powerful 3 Rax Attack | Terran Build Order",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-very-powerful-3-rax-attack-terran-build-order-guide-2021/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-very-powerful-3-rax-attack-terran-build-order-guide-2021/",
+      "originalUrl": "https://youtube.com/watch?v=RhFvVHWc6x8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RhFvVHWc6x8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M3S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-10-20T23:24:37-07:00",
+      "heat": 141,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RhFvVHWc6x8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-very-powerful-fun-build-order-2021.md",
+      "title": "Very Powerful & Fun Build Order (2021)",
+      "excerpt": "This is a super strong & really fun build order that I've been playing in my TvP's almost exclusively. You get right into the action super fast and it's very difficult for protoss to defend your first push never mind the second one. ` Very Powerful & Fun Build Order #Starcraft #SC2 #Terran  ♦ Coaching",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-very-powerful-fun-build-order-2021/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-very-powerful-fun-build-order-2021/",
+      "originalUrl": "https://youtube.com/watch?v=RhFvVHWc6x8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RhFvVHWc6x8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M3S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-10-20T23:24:37-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RhFvVHWc6x8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-why-scientists-wont-settle-for-any-other-build.md",
       "title": "WHY scientists WON'T settle for any other BUILD",
       "excerpt": "In today's lesson we're looking at a terran vs terran gameplan. Was supposed to be the opening but I got a little carried away so you're getting 19 minutes of raw TvT information. Get out your notepads ;)  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
@@ -83,37 +145,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/X1g4O2PTOtQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-very-powerful-3-rax-attack-terran-build-order-guide-2021.md",
-      "title": "Very Powerful 3 Rax Attack | Terran Build Order Guide (2021)",
-      "excerpt": "This is a super strong & really fun Starcraft 2 Terran build order that I've been playing in my TvP's almost exclusively. You get right into the action super fast and it's very difficult for protoss to defend your first push never mind the second one. ` Very Powerful 3 Rax Attack | Terran Build Order",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-very-powerful-3-rax-attack-terran-build-order-guide-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-very-powerful-3-rax-attack-terran-build-order-guide-2021/",
-      "originalUrl": "https://youtube.com/watch?v=RhFvVHWc6x8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RhFvVHWc6x8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M3S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-10-20T23:24:37-07:00",
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RhFvVHWc6x8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -956,37 +987,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/tccZgx9HqXo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-are-you-microing-too-much.md",
-      "title": "Mastering Starcraft 2 | Are you microing too much?",
-      "excerpt": "In this video we take a look at a Terran vs Zerg game and discuss some of the main mistakes Terran players are making. It's super easy to fall into this trap!  Starcraft 2: Mastering Starcraft 2 | Are you microing too much? [Terran vs Zerg TvZ] #StarCraft2 #SC2 #RTS   Coaching - https://www.hushangcoaching.com",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-are-you-microing-too-much/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-are-you-microing-too-much/",
-      "originalUrl": "https://youtube.com/watch?v=Bo61A-koxDE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bo61A-koxDE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M8S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-09T15:48:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Bo61A-koxDE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

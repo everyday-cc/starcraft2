@@ -189,45 +189,6 @@
       "publishedDateTime": "2021-07-22T03:28:09-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-protoss-death-ball-rush-harstem-lambo-vs-solar-drg.md",
-      "title": "StarCraft 2: Protoss DEATH BALL Rush! (Harstem & Lambo vs Solar & DRG)",
-      "excerpt": "A very exciting game of professional StarCraft 2 played in Archon Mode. This is a Zerg versus Protoss played between Solar & DRG and Harstem & Lambo.  ByuN & Dark vs Harstem & Lambo: https://youtu.be/Ev1ZpdlaIjw OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-protoss-death-ball-rush-harstem-lambo-vs-solar-drg/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-protoss-death-ball-rush-harstem-lambo-vs-solar-drg/",
-      "originalUrl": "https://youtube.com/watch?v=ZuHQLkAGcfY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZuHQLkAGcfY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M15S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 114,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZuHQLkAGcfY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-04T04:31:57-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-astreas-late-game-cannon-rush.md",
       "title": "StarCraft 2: Astrea's LATE GAME Cannon \"Rush\"!",
       "excerpt": "Solar versus Astrea in a professional match of StarCraft 2. In this Zerg versus Protoss we see a game go the distance. Astrea executes some really cool moves by building a wall close to one of the outer Zerg bases and slowly shooting it down with Disruptors, High Templar and Oracles.  Support my work",
@@ -264,36 +225,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-16T03:40:15-07:00"
-    },
-    {
-      "path": "_games/pig-the-sickest-trick-to-defend-cannon-rushes-icyfar-building-blocker-compilation-starcraft-2.md",
-      "title": "The SICKEST Trick To Defend CANNON RUSHES! | ICYFAR \"Building Blocker\" Compilation - StarCraft 2",
-      "excerpt": "🔥NEW ICYFAR CHALLENGE: Rules of Engagement - defeat your opponent without killing any workers, engage only their military and army production. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 2nd October  0:00 Game",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-sickest-trick-to-defend-cannon-rushes-icyfar-building-blocker-compilation-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-sickest-trick-to-defend-cannon-rushes-icyfar-building-blocker-compilation-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=ZECR2idmh1o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZECR2idmh1o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M49S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZECR2idmh1o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-09-19T02:29:28-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-has-loves-to-cannon-rush-best-of-3-vs-bly.md",
@@ -1112,6 +1043,84 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-09-24T01:39:41-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-planetary-fortress-vs-proxy-nexus-crazy-viewer-games.md",
+      "title": "StarCraft 2: PLANETARY FORTRESS vs PROXY NEXUS! (Crazy Viewer Games)",
+      "excerpt": "Viewer submitted games of StarCraft 2. Some crazy matches that you definitely will never see at the professional level of the game. Proxy Command Centers into Planetary Cheese, Nexus inside the opponents main base and of course the classic Cannon Rush.  Support my work on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-planetary-fortress-vs-proxy-nexus-crazy-viewer-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-planetary-fortress-vs-proxy-nexus-crazy-viewer-games/",
+      "originalUrl": "https://youtube.com/watch?v=C8EnPv8p1Qc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C8EnPv8p1Qc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M54S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/C8EnPv8p1Qc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-03-07T01:26:01-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-ultimate-late-game-neeb-vs-scarlett.md",
+      "title": "StarCraft 2: THE ULTIMATE LATE GAME! (Neeb vs Scarlett)",
+      "excerpt": "Professional best-of-3 series of StarCraft 2. In this series of games between Neeb and Scarlett we have a variety of strategies. From an epic late game match, to cheesy mind games with Carriers into a Base Race between the Protoss and the Zerg player.  Get more videos & support my work: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-ultimate-late-game-neeb-vs-scarlett/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-ultimate-late-game-neeb-vs-scarlett/",
+      "originalUrl": "https://youtube.com/watch?v=lHTMCIDGfr8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lHTMCIDGfr8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H7M6S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lHTMCIDGfr8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-01T04:20:27-07:00"
     }
   ],
   "nextPage": 2

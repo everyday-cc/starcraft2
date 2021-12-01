@@ -4,44 +4,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-amazing-bio-vs-mech-cure-vs-innovation.md",
-      "title": "StarCraft 2: AMAZING Bio vs Mech! (Cure vs INnoVation)",
-      "excerpt": "Amazing game of top-level StarCraft 2 between Cure and INnoVation. In this professional match Cure decides to take the approach of Marines, Marauders and Medivacs whereas INnoVation decides to focus his unit composition on primarily Siege Tanks and Hellions.  Get more videos & support my work: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-amazing-bio-vs-mech-cure-vs-innovation/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-amazing-bio-vs-mech-cure-vs-innovation/",
-      "originalUrl": "https://youtube.com/watch?v=Hg6no_2xbPs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Hg6no_2xbPs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M30S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Hg6no_2xbPs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-02-18T04:58:57-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-bad-manners.md",
       "title": "StarCraft 2: BAD Manners!",
       "excerpt": "Justice is served. Subscribe for more videos: http://lowko.tv/youtube Insane Proxy Barracks: https://goo.gl/8m0B4g  In this Protoss versus Terran the Terran player decides to show his hand early and tells exactly what strategy he is going for, while being awfully bad mannered to his opponent.  If you",
@@ -1138,6 +1100,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-03-03T03:44:02-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-insane-skills-serral-vs-innovation.md",
+      "title": "StarCraft 2: INSANE SKILLS! (Serral vs INnoVation)",
+      "excerpt": "Serral versus INnoVation in a top-level game of StarCraft 2. In this match between two of the very best in the game we see INnoVation going for a very slow and mechanical army that is based around Siege Tanks, Hellions, Thors and Liberators. Serral on the other hand plays the new style that has become",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-skills-serral-vs-innovation/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-skills-serral-vs-innovation/",
+      "originalUrl": "https://youtube.com/watch?v=c8wagxrGgj0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c8wagxrGgj0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M31S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/c8wagxrGgj0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-10T05:12:22-08:00"
     }
   ],
   "nextPage": 16

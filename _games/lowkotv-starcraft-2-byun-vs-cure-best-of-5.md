@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-vs-cure-bes
 type: video
 length: PT1H1M21S
 publishedDateTime: 2021-01-11T12:22:50Z
-heat: 57
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tTX4nFOYqOA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "74p4UFhHA9rM3acd+FFWTHT7L4pQWPojxyK53GlW2uGKD3kw1TevFvzVw4Rl9F3ov3ORGWDMsAq/htsyYY1dvDSgiN+L6bVOpJUrlUaHt3QZkm8xL+6bu4CjdFnredqoUbXdc0TyOYz2q3yaso5bFRUSwY8geN8tzeXduIVO2l/6Lc8t/Yrafc50NKO03bgVcwEJVuuir7ageRALveI5sQlhj9KH8FaP4kSjc/Aep97/4B+CaFjaUgxP3YO91xhNh0UWZVfow2eqIPU/4mBaLmSAX8DXfm6D1ScxmK9lV2fXNyz7LpDMadAi1Q9K0stkgQeExFGPMi3I9+ryHKOc2PMnUoB+4InGJTPlwVf8LB4L3lwVz7tpQec3tsaz+pD8/ngqYDfwwaFfsQxINB8bLcdjiPaDHRqKtq95dBfnLC4=;F3+8NlpevdFh6O+c4/Zapw=="
+secured: "/sV42lW/dkskLpp+v1Zie8LkCgAMUNWR8wBblmo+P5Us6wJuzkQQ68xOgEtDhIIYRkXvSEBrj+68gJd5uQL+Tm0JJ/diaTP1sJXoaDt9ZkZ6l6obB43NOUjyenpHIpQNU2CQK0cuBplp1gHJr+YqWdKlfkhs/FrcwYtko6a7FfbXDTKhOpL8N9BRYGouf8i10j0gVC0IR0pC42R3xWJksRC+moXF852Ngfa4rl82HEVcuUiuITk0aj6UTAHvnUrhBvi1S2Ec/s5VxaI0z8jxSO29Q7m5RsNYRhG8fh/EB4blumynq3aeEknhp8dOqBlc1EwJoZYv2UXVGarsUe0WGWBIumQ6+h5yx8zGKysEJRanapZ5McB6dXEMbLQrjp10YtnkxXd2x+NIfNBWO2poEx4Jn8pgp1S5aIIzKy1LBDo=;PEEH6cFleSySDARR/bNUYg=="
 ---
 

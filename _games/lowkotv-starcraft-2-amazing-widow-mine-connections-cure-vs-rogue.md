@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-amazing-widow-mi
 type: video
 length: PT1H2M23S
 publishedDateTime: 2020-12-30T18:56:50Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/263YrLQfh9s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "CaUdTUUVlrtHcxXkb8nByCm0mtI/eQsvU5stE19dEmyLwYVldvoL9sA88LYbNs5RPlW2rqzh6hvjWnh9i9LIGBHGAx5rVwLCxeQeEiuE+6n3XEGUpZKzM9z5GBqpGeCFXCuyumohr6gt1s2GtdaZ5f5zP0Ezw3TvExnjWe8JPlsSYTW+1QwUAkMv2pCO5aFKqjgHzP4aiWdhkK4kXeKAVI+GEgHsTARgakeu+5vl4UEnhKivIjg5Paqa85Nh8PS3+C4LEE9XdPYeg0KxLgvL1Q5h1ZMOG5gsIUKAM/xhppkiWvTj/LvytDP5qLQfEW6OBA73AJ6+qya1rSnmL0VM2OQ3/tJvTUoOtSF2SbzeM7ESDRQMXr1ZWuBToLo/TfrvT9Q/0+iCxR/45ugL0OeXoXmHQ3R5H4xgQ47rT7JhrEjssZSx4Lyr9eN0N0UAxn0I;PjHJjd5t5SDgpGuop5hi0A=="
+secured: "r/HrMrmngIiC6HTIqb5F4mgUXGAmzFwNfEpioa1AktYIRm8HZr2UTm5NQIq+WYoaD2dWwRWVpt/LIs6Otc1CCbnN9e0kibKrwI050RwoDAwYscz+sy+1bTUS9bSS8wiJ2n2IDA8Ua6agbACAhG7DydQEyEs5kptSum+uIjynGigbs/Qyfz7o1dKTj9LVCbcRbXFJPjXQNqkEE8diYG54VBJ9Dpf4J9+aOTPq4RVhvE/29pDPGocZzL+PAU0gd/89VW40sdMJQYJSmiabcRXaAzgkCpk/ajW6UwLLW0FejTY88DQkQhb3aXNPwwaDVno25AEWChBvMkPPfBY1+RoXqfdQKMc7o9qKSEGjxAD0cG3WT4XmoIEFoelxRvOuK9e9mxFobNe371GjSav6gfpWW8H9/O9hmavppnn/Ebhw4OSvj2vjkrtQs97IY2rjKe7D;JKhBwOpstGyjHZHt+LPJ/Q=="
 ---
 

@@ -4,6 +4,66 @@
   "page": 59,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-nexus-nuts-the-florencio-files-114.md",
+      "title": "StarCraft 2 - Nexus Nuts | The Florencio Files #114",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-nexus-nuts-the-florencio-files-114/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-nexus-nuts-the-florencio-files-114/",
+      "originalUrl": "https://youtube.com/watch?v=kdpAFyAAhdo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kdpAFyAAhdo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M41S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kdpAFyAAhdo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-01-09T09:00:21-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-nice-yellow-octopus-tries-to-metagame-the-guac-king-the-florencio-files-27.md",
+      "title": "StarCraft 2 - Nice Yellow Octopus Tries to Metagame The Guac King | The Florencio Files #27",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-nice-yellow-octopus-tries-to-metagame-the-guac-king-the-florencio-files-27/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-nice-yellow-octopus-tries-to-metagame-the-guac-king-the-florencio-files-27/",
+      "originalUrl": "https://youtube.com/watch?v=-vYYFVCOAHw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-vYYFVCOAHw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M31S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-vYYFVCOAHw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-09-22T15:06:01-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-nine-spore-crawlers-the-florencio-files-102.md",
       "title": "StarCraft 2 - “NINE SPORE CRAWLERS!?” | The Florencio Files #102",
       "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
@@ -32,36 +92,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-20T09:00:13-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-nuke-rush-tvt-diamond-in-the-ruff-13.md",
-      "title": "StarCraft 2 - NUKE RUSH TvT! | Diamond in the Ruff #13",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Terran opponent?  Check out all episodes of Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13 |",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-nuke-rush-tvt-diamond-in-the-ruff-13/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-nuke-rush-tvt-diamond-in-the-ruff-13/",
-      "originalUrl": "https://youtube.com/watch?v=C2bXtjirhqk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C2bXtjirhqk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M39S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/C2bXtjirhqk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-17T09:00:10-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-offbrand-roomba-cleans-zerg-filth-pretend-proxy-icyfar-g4.md",
@@ -875,36 +905,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-02-10T01:31:52-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-ruff-takes-neuro-to-nuke-town-diamond-in-the-ruff-3.md",
-      "title": "StarCraft 2 - RuFF takes Neuro to NUKE-Town | Diamond in the RuFF #3",
-      "excerpt": "Welcome to our new series, Diamond in the Ruff!  Don't forget to show Ruff some love! Twitter: https://twitter.com/RuFF_SC2 Twitch: https://www.twitch.tv/ruff13 Youtube: https://www.youtube.com/user/WMRuFFKiD Facebook: https://www.facebook.com/RuFF.StarCraft/  Like the content? Then consider to leave",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-ruff-takes-neuro-to-nuke-town-diamond-in-the-ruff-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-ruff-takes-neuro-to-nuke-town-diamond-in-the-ruff-3/",
-      "originalUrl": "https://youtube.com/watch?v=tU_qybMllX0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tU_qybMllX0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M38S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tU_qybMllX0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-07-25T20:04:01-07:00"
     }
   ],
   "nextPage": 60

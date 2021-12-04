@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=P9WkjHqXESI
 type: video
 length: PT37M24S
 publishedDateTime: 2019-09-22T09:10:43Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P9WkjHqXESI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "dxf96GKCIjJlPIwElMpbFeaUHz9eVIRtuHZtBCk9XVavTxMzEbt45NF2u6uHPv0cSJuWp+caIUh/FAztw9tvpQSiKIe6ZaY7ozfcOIZQs+sGN95k9Ybytm2nymsEblbViti5vBEOL1G4TrgiLkOBG/CEbYO8rvfM4aQMyflsViRLLx7vJPfYYxG7gWwPRyqZ4jlTQCC/2lwk5se6WaxTq3y5b573vSupgmDD2RSgdtYKQTo/Fvfb9uKvgAYpJRQCpINCGHBrZtJnnHz3m2fJ991IGBlKLx5R4ZSNBSgAeAHiHRzBKF1kNgnrBbUMqRCa6sgYtMvYZoEZOuyrqIQUbdb8mltWrtD7oPc74JV7jlqmvNVZBD/N/1RPFg3GiEpSf6gMAx3WJBZ3uFxlXEWRlPJ83NHzCLevwYAQ67J8r4s=;IuZ3RSzSLZr+CZ+Cognegg=="
+secured: "TkCYiuywu5jcZ4f0t5zF0B+m0/sQ5BPt1lmjMQGMIYH41FveOoBJw4FqmQuz8FizfGsRrq4dUHOIYj3NNN+F58ZB6foThTTKpFOHB+xQikhFt81mJzZkEbAvGQeSk8hwI1zliAHQpQMFy2qW9xNr2lO7gsQ2p9YqcZxsQDC+d0JUcqLdjXrD1sI+K70ps7MT14FhGOiKKS2hOoao0+CK1AK073FuNJf5DiD3J/bnntJGgf5WvCld2qWnPBCG+P7GeFBWrM5UxbxA0DwYwdaBS4C4G/lB4D81pwzw95cHvikivFzryFgoIVAt8WuO9084gtMgrKv5DV0K0scym9P97MuDc8Xp252iYOjxJkoxCTRKfkNKIhH5xwg0etiHUrD1xdcqBY528Ip/61zujuo2KguUhkMX/fsNlP6HE9/vjTo=;2F6tdbbh4hGwMY5jUXdI1Q=="
 ---
 

@@ -798,6 +798,7 @@ items:
   - pig-we-paid-a-pro-to-do-troll-builds-meming-with-nukes-twitch-plays-gabe-starcraft-2
   - pig-starcraft-2-has-and-bly-remember-theyre-cheesers-cheesedown-part-34
   - pig-starcraft-2-insane-basetrade-diamond-in-the-ruff-59
+  - pig-starcraft-2-the-sloppiest-pro-series-ive-watched-in-a-long-time-hero-vs-special-bo5-pvt
   - pig-when-a-cannon-rush-meets-a-proxy-hatch-in-cheesedown-part-44
 
 topics:

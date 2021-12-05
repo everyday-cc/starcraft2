@@ -18568,7 +18568,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/C2bXtjirhqk/maxresdefault.jpg",
@@ -18688,7 +18688,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/aMEVKgEP1rg/maxresdefault.jpg",
@@ -18778,7 +18778,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/QrCGV_WwXtA/maxresdefault.jpg",
@@ -18898,7 +18898,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ZyBkUc-zIA4/maxresdefault.jpg",
@@ -18929,7 +18929,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/rQy1jxqipXI/maxresdefault.jpg",
@@ -19020,7 +19020,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/iuYOzHDHfeE/maxresdefault.jpg",
@@ -19230,7 +19230,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/LWfgg9mOF6I/maxresdefault.jpg",
@@ -19290,7 +19290,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/yWLXURzFaDA/maxresdefault.jpg",
@@ -19320,7 +19320,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 50,
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/yg8cKadG2sw/maxresdefault.jpg",
@@ -21445,7 +21445,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 56,
+      "heat": 55,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/sh4YeQB7jog/maxresdefault.jpg",
@@ -22137,7 +22137,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/nVvcu9PPP0o/maxresdefault.jpg",
@@ -22760,7 +22760,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 112,
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/432m7JwB08Y/maxresdefault.jpg",
@@ -22881,7 +22881,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 147,
+      "heat": 87,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hpv300poAUE/maxresdefault.jpg",
@@ -23427,6 +23427,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-11-26T14:26:59-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-the-sloppiest-pro-series-ive-watched-in-a-long-time-hero-vs-special-bo5-pvt.md",
+      "title": "StarCraft 2 - The sloppiest pro series I’ve watched in a long time | herO vs Special (Bo5 PvT)",
+      "excerpt": "Subscribe to PiG Casts! 🐷 When you're used to herO and Special playing like such absolute beasts in StarCraft, it is really confusing when they remind you they're still human. This was a TSL qualifying match! -- 🐷 Main Channel: https://www.youtube.com/user/PiGstarcraft 🐷 Second Channel for Learning",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-sloppiest-pro-series-ive-watched-in-a-long-time-hero-vs-special-bo5-pvt/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-sloppiest-pro-series-ive-watched-in-a-long-time-hero-vs-special-bo5-pvt/",
+      "originalUrl": "https://youtube.com/watch?v=vlCzlUB8a5s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vlCzlUB8a5s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT59M49S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 75,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vlCzlUB8a5s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-27T12:05:00-08:00"
     },
     {
       "path": "_games/pig-when-a-cannon-rush-meets-a-proxy-hatch-in-cheesedown-part-44.md",

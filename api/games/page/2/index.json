@@ -793,6 +793,74 @@
       "publishedDateTime": "2021-11-26T19:48:45-08:00"
     },
     {
+      "path": "_games/pig-starcraft-2-when-mass-lings-actually-beat-mech-rate-my-starcraft-7.md",
+      "title": "StarCraft 2 - When Mass Lings ACTUALLY Beat Mech... | Rate My StarCraft #7",
+      "excerpt": "🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your awesome StarCraft plays. Send in your replay to RateMyStarCraft@gmail.com PLUS why you think it was so good (This is similar to ICYFAR but you choose the topic). Bonus points if you can say why in",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-when-mass-lings-actually-beat-mech-rate-my-starcraft-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-when-mass-lings-actually-beat-mech-rate-my-starcraft-7/",
+      "originalUrl": "https://youtube.com/watch?v=_mihzE8PQNU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_mihzE8PQNU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M29S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 89,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_mihzE8PQNU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-09-28T04:46:30-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-all-of-a-sudden-dark-templar-hero-vs-showtime.md",
+      "title": "StarCraft 2: All Of A Sudden... DARK TEMPLAR! (herO vs ShoWTimE)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between herO (Protoss) and ShoWTimE (Protoss). Especially the second game on 2000 Atmospheres is really good.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-all-of-a-sudden-dark-templar-hero-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-all-of-a-sudden-dark-templar-hero-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=14SofgTIaBY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/14SofgTIaBY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M36S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 87,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/14SofgTIaBY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-06T04:37:03-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-insane-basetrade-diamond-in-the-ruff-59.md",
       "title": "StarCraft 2 - INSANE BASETRADE | Diamond in the Ruff #59",
       "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Zerg opponent? Seriously this game started off being a strange TvZ unlike other ones, and then the base trade LOL  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l",
@@ -1005,74 +1073,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-05-14T04:44:40-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-3-holdout-challenge.md",
-      "title": "StarCraft 2 - How Quickly Can SCARLETT Dispose Of Noobs? (PART 3) | Holdout Challenge",
-      "excerpt": "We paid Scarlett to 1v1 noobs. The challenge: the noobs needed to stay in the match as long as possible while Scarlett did her best to cheese the heck out of them. This Holdout Challenge was a part of  PiG Sty Festival 2021.   Holdout Challenge Part 1: https://youtu.be/hpv300poAUE Holdout Challenge Part",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-3-holdout-challenge/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-3-holdout-challenge/",
-      "originalUrl": "https://youtube.com/watch?v=BOqUdp10r9A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BOqUdp10r9A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M5S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 84,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BOqUdp10r9A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-21T21:29:25-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-blys-improved-zerg-rush.md",
-      "title": "StarCraft 2: Bly's IMPROVED Zerg Rush!",
-      "excerpt": "Best-of-3 series of Zerg versus Protoss between Bly and MaNa.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-blys-improved-zerg-rush/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-blys-improved-zerg-rush/",
-      "originalUrl": "https://youtube.com/watch?v=mBP8soYss38",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mBP8soYss38\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M59S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 83,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mBP8soYss38/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-12-04T03:48:36-08:00"
     }
   ],
   "nextPage": 3

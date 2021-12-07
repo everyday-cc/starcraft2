@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=QSOoquKSCzk
 type: video
 length: PT20M12S
 publishedDateTime: 2019-11-13T09:56:24Z
-heat: 57
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QSOoquKSCzk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "wVPI0dZHb8hH3a0cH5H4pJGv5grohg8IuAnP1Ctl7E2B4WCcMsd+U8RhluFhDg6z4ANINVGW1E6IwEIPIcFBJEI5uQe4f+hApTmSbm/bnB7YnyUGUxHYLmePV5q2V/i+AY68v170gYDOPN8Mh9j2tAVBUrHDrS7cgkonIssM0f/alRDGjhCF/jts0gVttKIO/tyLyjRpFNQyi2Pmc2DTY5PZtGs5g1S1adwzLTY0/T+byBdlKpmwjdazKZmTmrNgbNs9mURX9EQNygLA0K4ekWxwCsLF6aYztzMbjDC3ol3LfK3fdo0UjsvfR+bBMxiIHpJ94C1kpdlLdBBhAMnggv1LEJW8SLf49r9sVR97pFXl5aKCwnVC2VjoCQ/5ST+thtvOdd4FwPjzZLf6rITsxQBxh8uiOi9Ih83qk3Jjz7DihR5z6vtFHrUQfhA/HoAX;Sigcg7/tpQOlWRmlF6swBQ=="
+secured: "rnAvqO1y9i6C8dXXyNdQ/WDGBhOBo9SCb8NlihBSlM4OYvIX2ekyBEUZzzq9TdUvLqkGKyN2/osSM1ctZor+i3gmVu15CcY/qmYQsFyTPOVeOvCsFT5KLVd+/DUL75IHXRWMJECslgGfCcoES1SvABjclOW0tVDIzhKZpjf8i+QresrnArMizM/Aye/ILrQxAdNu0wH2KCD7IJebpjPw5mrakZJLS3TxswMw/H9kEau/jmO+Yr8ZtFINbboas1laADKiWLYgWTMhI/niYZZPC0Tv3E067xkizFCxUO3IsK/ux5hkvbuCcOpgGD7CogZjIP3yUS0MfxF8aOLBXvUXx+KLGP0qjxpMai5alY4MWyssr78suOYDbSfGUrpIpdWKQRZPNwiCeY/jof8FthjaYungtRQeVCdSHg73wR4RSApJamOHbbVA/+yTbs2c3iqe;tpeGJ0tu1RSjMVi+328Y5w=="
 ---
 

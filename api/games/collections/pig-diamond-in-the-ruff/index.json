@@ -1495,7 +1495,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/S_1b0F3uV6I/maxresdefault.jpg",
@@ -1586,7 +1586,7 @@
         "Terran",
         "Protoss"
       ],
-      "heat": 51,
+      "heat": 111,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ilVJs5gQrP8/maxresdefault.jpg",
@@ -1737,7 +1737,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 56,
+      "heat": 54,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/9neSUtChASU/maxresdefault.jpg",

@@ -237,7 +237,7 @@ items:
   - pig-starcraft-2-zergling-drops-florencio-files-225
   - pig-starcraft-2-perfectly-stacked-battlecruisers-florencio-files-226
   - pig-starcraft-2-florencio-faces-a-terran-doppleganger-florencio-files-227
-  - pig-starcraft-2-starcraft-2-florencio-power-hour-florencio-files-228
+  - pig-starcraft-2-florencio-power-hour-florencio-files-228
   - pig-early-lotv-zvt-madness-wrigglinium-vs-yturdrd-icyfar-1
   - pig-lurkers-vs-dts-eonblu-vs-llllll-icyfar-2
   - pig-beginner-madness-overlordx-vs-insanation-icyfar-3
@@ -798,6 +798,7 @@ items:
   - pig-we-paid-a-pro-to-do-troll-builds-meming-with-nukes-twitch-plays-gabe-starcraft-2
   - pig-starcraft-2-has-and-bly-remember-theyre-cheesers-cheesedown-part-34
   - pig-starcraft-2-insane-basetrade-diamond-in-the-ruff-59
+  - pig-guess-which-pro-4-pros-play-under-secret-identities-in-our-hidden-name-tournament-starcraft-2
   - pig-starcraft-2-the-sloppiest-pro-series-ive-watched-in-a-long-time-hero-vs-special-bo5-pvt
   - pig-when-a-cannon-rush-meets-a-proxy-hatch-in-cheesedown-part-44
 

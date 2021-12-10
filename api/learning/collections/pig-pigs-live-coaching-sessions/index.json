@@ -1337,7 +1337,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2020-05-17T09:00:31-07:00",
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hqDMlt02qNI/maxresdefault.jpg",
@@ -5197,7 +5197,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2019-04-16T09:00:01-07:00",
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/0kJ1CCcNbMo/maxresdefault.jpg",

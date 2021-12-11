@@ -801,6 +801,7 @@ items:
   - pig-guess-which-pro-4-pros-play-under-secret-identities-in-our-hidden-name-tournament-starcraft-2
   - pig-starcraft-2-the-sloppiest-pro-series-ive-watched-in-a-long-time-hero-vs-special-bo5-pvt
   - pig-when-a-cannon-rush-meets-a-proxy-hatch-in-cheesedown-part-44
+  - pig-fastest-ultra-nydus-ever-has-this-guy-created-a-new-dumb-build-smooth-brain-auditions-season-2-ep1
 
 topics:
   - StarCraft 2

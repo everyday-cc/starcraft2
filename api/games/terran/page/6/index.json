@@ -4,123 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-extreme-late-game-terran-vs-protoss.md",
-      "title": "StarCraft 2: Extreme Late Game Terran vs Protoss!",
-      "excerpt": "An exciting game of professional Terran versus Protoss between Fantasy and Trap. While generally speaking the late game of Zerg vs Protoss and Terran vs Zerg is quite a bit later, seeing Terran versus Protoss go past the 20 minute mark is unusual and creates some very exciting gameplay.  Get more videos",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-extreme-late-game-terran-vs-protoss/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-extreme-late-game-terran-vs-protoss/",
-      "originalUrl": "https://youtube.com/watch?v=gni4QMsy9eg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gni4QMsy9eg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M19S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gni4QMsy9eg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-08-02T02:56:50-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-incredible-zerg-vs-terran-byun-vs-dark-best-of-3.md",
-      "title": "StarCraft 2: INCREDIBLE Zerg vs Terran - ByuN vs Dark! (Best of 3)",
-      "excerpt": "An incredible best of 3 series of StarCraft 2 between ByuN and Dark. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/fi5EXG  ByuN and Dark are arguably the best two players in StarCraft 2. They're well known to be the best in their respective races, and whenever",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-zerg-vs-terran-byun-vs-dark-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-incredible-zerg-vs-terran-byun-vs-dark-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=Tt9ZnMLYqG8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tt9ZnMLYqG8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M28S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Tt9ZnMLYqG8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2016-12-09T05:25:31-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-insane-comeback-ty-vs-trap.md",
-      "title": "StarCraft 2: INSANE COMEBACK! (TY vs Trap)",
-      "excerpt": "Amazing best-of-5 series of Terran versus Protoss in StarCraft 2. This series of top-level TvP shows incredible micro and macro, cheesy build orders and defensive play, but also mistakes and because of that an insane comeback.  New StarCraft 2 ladder maps: https://youtu.be/4I4-5_o7OT4 Get more videos",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-comeback-ty-vs-trap/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-comeback-ty-vs-trap/",
-      "originalUrl": "https://youtube.com/watch?v=FKsRySiTytE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FKsRySiTytE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M23S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FKsRySiTytE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-04T04:09:14-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-maru-the-dangerous-terran-maru-vs-ty.md",
       "title": "StarCraft 2: Maru The DANGEROUS TERRAN! (Maru vs TY)",
       "excerpt": "Awesome game of top level Terran versus Terran in StarCraft 2 between Maru and TY.  Maru vs HeroMarine: https://youtu.be/cBJMOrlebSg  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
@@ -891,36 +774,6 @@
       "publishedDateTime": "2018-01-09T06:12:03-08:00"
     },
     {
-      "path": "_games/pig-imaginary-battlecruiser-rush-diamond-in-the-ruff-30-starcraft-2.md",
-      "title": "IMAGINARY BATTLECRUISER RUSH | Diamond in the Ruff #30 - StarCraft 2",
-      "excerpt": "I cast a funny StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Zerg opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13 | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-imaginary-battlecruiser-rush-diamond-in-the-ruff-30-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-imaginary-battlecruiser-rush-diamond-in-the-ruff-30-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=AVOPRl1OT8Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AVOPRl1OT8Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M7S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AVOPRl1OT8Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-25T14:38:17-08:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-19-minute-tvz-musketeer-transition-the-florencio-files-158.md",
       "title": "StarCraft 2 - 19 Minute TvZ Musketeer Transition | The Florencio Files #158",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. Get ready for a crazy Terran versus Zerg musketeer transition!  Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
@@ -1044,14 +897,14 @@
       "publishedDateTime": "2021-10-14T01:06:37-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-battlecruiser-operational-diamond-in-the-ruff-18.md",
-      "title": "StarCraft 2 - Battlecruiser Operational | Diamond in the Ruff #18",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his protoss opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-battlecruiser-operational-diamond-in-the-ruff-18/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-battlecruiser-operational-diamond-in-the-ruff-18/",
-      "originalUrl": "https://youtube.com/watch?v=coleWWM9p1o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/coleWWM9p1o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M25S",
+      "path": "_games/pig-starcraft-2-divine-intervention-diamond-in-the-ruff-1.md",
+      "title": "StarCraft 2 - Divine Intervention | Diamond in the Ruff #1",
+      "excerpt": "Welcome to our new series, Diamond in the Ruff!  Don't forget to show Ruff some love! Twitter: https://twitter.com/RuFF_SC2 Twitch: https://www.twitch.tv/ruff13 Youtube: https://www.youtube.com/user/WMRuFFKiD Facebook: https://www.facebook.com/RuFF.StarCraft/  Like the content? Then consider to leave",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-divine-intervention-diamond-in-the-ruff-1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-divine-intervention-diamond-in-the-ruff-1/",
+      "originalUrl": "https://youtube.com/watch?v=p_MBnTNLsFY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p_MBnTNLsFY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M17S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -1063,7 +916,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/coleWWM9p1o/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/p_MBnTNLsFY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1071,7 +924,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-10-28T09:00:09-07:00"
+      "publishedDateTime": "2019-07-03T15:59:31-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-florencio-faces-a-terran-doppleganger-florencio-files-227.md",
@@ -1103,6 +956,128 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-05-12T05:32:05-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-florencio-herds-the-terran-into-his-lair-the-florencio-files-72.md",
+      "title": "StarCraft 2 - Florencio herds the Terran into his lair! | The Florencio Files #72",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-herds-the-terran-into-his-lair-the-florencio-files-72/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-herds-the-terran-into-his-lair-the-florencio-files-72/",
+      "originalUrl": "https://youtube.com/watch?v=qK4LouO70G0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qK4LouO70G0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M4S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qK4LouO70G0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-03T16:26:30-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-ghost-mech-tvp-diamond-in-the-ruff-22.md",
+      "title": "StarCraft 2 - GHOST MECH TvP! | Diamond in the Ruff #22",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Terran opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-ghost-mech-tvp-diamond-in-the-ruff-22/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-ghost-mech-tvp-diamond-in-the-ruff-22/",
+      "originalUrl": "https://youtube.com/watch?v=_b5DQnSmzrM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_b5DQnSmzrM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M53S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_b5DQnSmzrM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-12T09:00:19-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-how-to-beat-turtle-terran-the-florencio-files-165.md",
+      "title": "StarCraft 2 - How to Beat Turtle Terran! The Florencio Files #165",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-how-to-beat-turtle-terran-the-florencio-files-165/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-how-to-beat-turtle-terran-the-florencio-files-165/",
+      "originalUrl": "https://youtube.com/watch?v=XwWFfkedI4k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XwWFfkedI4k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M6S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XwWFfkedI4k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-11T09:00:12-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-mass-banshee-surprise-diamond-in-the-ruff-27.md",
+      "title": "StarCraft 2 - MASS BANSHEE SURPRISE! | Diamond in the Ruff #27",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Zerg opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-mass-banshee-surprise-diamond-in-the-ruff-27/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-mass-banshee-surprise-diamond-in-the-ruff-27/",
+      "originalUrl": "https://youtube.com/watch?v=u9TIOcQSBAM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u9TIOcQSBAM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M9S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/u9TIOcQSBAM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-12-27T09:00:32-08:00"
     }
   ],
   "nextPage": 7

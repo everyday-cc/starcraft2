@@ -4,37 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2021.md",
-      "title": "Starcraft 2: EASY Beginner Protoss Build Order Tutorial vs Terran [2021]",
-      "excerpt": "Very powerful protoss build order vs terran. We begin with observers for scouting, blink for helping to defend terran early pressures and then transition into a formidable colossus/chargelot army which should safely get you to the mid-game phase!  0:00 Intro 0:56 Protoss Build Order vs Terran | Opening",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2021/",
-      "originalUrl": "https://youtube.com/watch?v=XvRoGf3SXRo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XvRoGf3SXRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M41S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-10-02T18:54:21-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XvRoGf3SXRo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-starcraft-2-gameplay-cheesing-with-zerg.md",
       "title": "Starcraft 2 Gameplay | Cheesing with Zerg",
       "excerpt": "Showcasing some strong cheeses you can add to your own repertoire in some live ladder games with commentary!   Starcraft 2 Gameplay | Cheesing with Zerg #StarCraft2 #gameplay #zerg #cheese  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
@@ -620,37 +589,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-learning-tvp-from-cure-sc2-2021.md",
-      "title": "Learning TvP From Cure (SC2 2021)",
-      "excerpt": "♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and I have 5+ GM students",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learning-tvp-from-cure-sc2-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learning-tvp-from-cure-sc2-2021/",
-      "originalUrl": "https://youtube.com/watch?v=MMLyTYa-CiU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MMLyTYa-CiU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M15S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-10-25T21:46:28-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MMLyTYa-CiU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-sc2-zerg-guide-where-to-place-your-first-couple-overlords-2021.md",
       "title": "SC2 Zerg Guide | Where to place your first couple overlords [2021]",
       "excerpt": "Let's take a look at some zerg fundamentals! Where to place your overlords at the beginning of the game to defend cheese and also scout your opponent.  SC2 Zerg Guide | Where to place your first couple overlords [2021] #Starcraft2 #Zerg #Guide  0:00 - Overlord placement against Zerg 8:20 - Overlord placement",
@@ -966,6 +904,82 @@
       "topics": [
         "StarCraft 2",
         "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-finally-new-maps-but-are-they-any-good.md",
+      "title": "StarCraft 2: FINALLY New Maps - But Are They Any Good?",
+      "excerpt": "New ladder maps are finally available for StarCraft 2. In this video I give my initial impressions on Berlingrad LE, Curious Minds LE, Glittering Ashes LE, Hardwire LE and Pride of Altaris LE.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-finally-new-maps-but-are-they-any-good/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-finally-new-maps-but-are-they-any-good/",
+      "originalUrl": "https://youtube.com/watch?v=xtCoiyYsatM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xtCoiyYsatM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H10M12S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-10-18T04:57:02-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xtCoiyYsatM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-guide-how-to-micro-mutalisks-magic-box-tutorial.md",
+      "title": "StarCraft 2 Guide: How-to Micro Mutalisks - Magic Box Tutorial!",
+      "excerpt": "Guide on how to Magic Box Mutalisks in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Hotkey & Control groups guide: https://goo.gl/VQQQQ7  In this StarCraft 2 tutorial I go over how to effectively micro your Mutalisks. The Magic Box technique is incredibly important if you're looking",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-guide-how-to-micro-mutalisks-magic-box-tutorial/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-guide-how-to-micro-mutalisks-magic-box-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=raiDzJfQAt0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/raiDzJfQAt0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M16S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-12-02T13:57:50-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/raiDzJfQAt0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
       ]
     }
   ],

@@ -802,6 +802,7 @@ items:
   - pig-starcraft-2-the-sloppiest-pro-series-ive-watched-in-a-long-time-hero-vs-special-bo5-pvt
   - pig-when-a-cannon-rush-meets-a-proxy-hatch-in-cheesedown-part-44
   - pig-fastest-ultra-nydus-ever-has-this-guy-created-a-new-dumb-build-smooth-brain-auditions-season-2-ep1
+  - pig-the-biggest-bbq-of-all-time-was-not-enjoyed-by-all-smooth-brain-auditions-season-2-ep-2
 
 topics:
   - StarCraft 2

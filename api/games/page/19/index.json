@@ -4,35 +4,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_games/pig-new-show-who-needs-fundamentals-in-starcraft-pig-roasts-1-mega-compilation.md",
-      "title": "*New Show* WHO NEEDS FUNDAMENTALS IN STARCRAFT?! | PiG Roasts #1 (mega compilation)",
-      "excerpt": "Here's a new show I finally got to do during the subathon: PiG Roasts! where I roast the ever living sh*t out of people's replays. All in good fun, of course! There were replays in both lower and higher leagues, with some questionable strategies and mechanics no matter what. Hope you guys enjoy :P  🔥",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-new-show-who-needs-fundamentals-in-starcraft-pig-roasts-1-mega-compilation/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-new-show-who-needs-fundamentals-in-starcraft-pig-roasts-1-mega-compilation/",
-      "originalUrl": "https://youtube.com/watch?v=eT0LHtE0z2Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eT0LHtE0z2Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H36M11S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eT0LHtE0z2Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-12T03:30:43-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-100-pure-unbridled-lack-of-sportsmanship-the-florencio-files-24.md",
       "title": "StarCraft 2 - “100% pure, unbridled LACK of sportsmanship” - The Florencio Files #24",
       "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
@@ -93,14 +64,14 @@
       "publishedDateTime": "2021-03-09T00:30:26-08:00"
     },
     {
-      "path": "_games/pig-starcraft-2-6-minute-bc-instant-win-diamond-in-the-ruff-16.md",
-      "title": "StarCraft 2 - 6 minute BC instant win! | Diamond in the Ruff #16",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Zerg opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-6-minute-bc-instant-win-diamond-in-the-ruff-16/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-6-minute-bc-instant-win-diamond-in-the-ruff-16/",
-      "originalUrl": "https://youtube.com/watch?v=RMNkPB6VjGk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RMNkPB6VjGk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M34S",
+      "path": "_games/pig-starcraft-2-3-rushes-in-only-17m32s-diamond-in-the-ruff-42.md",
+      "title": "StarCraft 2 - 3 RUSHES in only 17m32s! | Diamond in the Ruff #42",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his opponents of EACH RACE? 🐷 Support PiG: https://www.pigstarcraft.com/support/  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-3-rushes-in-only-17m32s-diamond-in-the-ruff-42/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-3-rushes-in-only-17m32s-diamond-in-the-ruff-42/",
+      "originalUrl": "https://youtube.com/watch?v=FD1XE76v3Fc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FD1XE76v3Fc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M2S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -112,7 +83,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/RMNkPB6VjGk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/FD1XE76v3Fc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -120,7 +91,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-10-22T14:00:07-07:00"
+      "publishedDateTime": "2021-04-16T03:14:48-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-81-kill-nuke-florencio-files-183.md",
@@ -902,6 +873,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-20T21:26:38-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-florencio-the-mutalisk-hunter-florencio-files-185.md",
+      "title": "StarCraft 2 - FLORENCIO THE MUTALISK HUNTER | Florencio Files #185",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-the-mutalisk-hunter-florencio-files-185/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-the-mutalisk-hunter-florencio-files-185/",
+      "originalUrl": "https://youtube.com/watch?v=-YUfNGwzPAU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-YUfNGwzPAU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M25S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-YUfNGwzPAU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-21T09:00:01-08:00"
     }
   ],
   "nextPage": 20

@@ -236,7 +236,7 @@ items:
   - pig-starcraft-2-zergling-drops-florencio-files-225
   - pig-starcraft-2-perfectly-stacked-battlecruisers-florencio-files-226
   - pig-starcraft-2-florencio-faces-a-terran-doppleganger-florencio-files-227
-  - pig-starcraft-2-starcraft-2-florencio-power-hour-florencio-files-228
+  - pig-starcraft-2-florencio-power-hour-florencio-files-228
   - pig-starcraft-2-pig-eats-hot-wings-and-finally-comprehends-science-florencio-files-229
   - pig-starcraft-2-how-not-to-use-thors-florencio-files-230
   - pig-starcraft-2-sickest-strat-flo-execution-florencio-files-231
@@ -258,6 +258,7 @@ items:
   - pig-starcraft-2-the-most-protoss-battle-of-all-protoss-florencio-files-249
   - pig-starcraft-2-florencios-300-iq-pylon-pathing-trick-2-games-pvt-florencio-files-250
   - pig-starcraft-2-florencio-discovers-the-swarm-host-florencio-files-251
+  - pig-when-your-strategy-is-mint-but-your-opponent-has-300-apm-florencio-files-252-starcraft-2
 
 topics:
   - StarCraft 2

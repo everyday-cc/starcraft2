@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-armanis-nydus-sp
 type: video
 length: PT24M28S
 publishedDateTime: 2020-12-14T11:20:45Z
-heat: 50
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qSwYAyBaXs8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "KuFrPACvX56TY1WdcHl2xCbXHwqmhhnKUHt+QqUlKL1ZDz58tcO+Cb3ePH9z6KsEsKDBwIRifWpi8Jfa1tJCeA/bc9p6U9RvzYSMbei0fChfjabBVmfQRHdpCgj4D9BSkE8P+vyMAzjt7xPFcrk6U1tLDvGErmxXYoestKZLo/obBYXbRIey2n0dbfmLZzSNrQnspQiR3jQwKy7/a7EP9OHuV2E9pfq6X0UieEcQ/Qu+hq6V0DOSAbFoxekxSr4whohTmsMNFPR7AAT/KJ6Ltw1dxVC9oppt5NzE/yJwYZxtHCm9YKus2McWWOCAeK/fBJs6Fse+m/URfzUM/t5dRuw2Nq6c3aXardN+4+GCj+zoKEZAGKvFPqeEVSSPkfYRIc0L7Nt0zHk51N+S/0KsPK+jjYcJl2rWgcNUtDg+WtI=;VRjHdy+qG1RsrQaX1O2YMA=="
+secured: "VEdBpoi9r12+wBzJPwKi5jZzU8KKJJ3FzmI5WKbXgpUqcK/uUXZ/jDpKk2L/DVBIAlFWLJjoSNQ4e7kiIizoxrqAzXFi1cg+8SWZZtWbVHieKbSKmUO/bQNJUjPsj3kiB8ncrkRyStJqdJJIG4hT1BXJg3pevvkM+xX15zTGDr1CKi8z6z50ENTuPz68mSFOReisxACRVXRbuP63f3XbpzZrm8lOPlqzSVhZFI5jK0KDYAvaGN0UdkuHPmvFmLyOwg6GRiBSw+XrFF8jHjm2NlqLcA3Z+d82Wedu3r4HQebHiSDXb7nBWSV3TLUx/P3BUDwuFG06VrSzvGJw9v8hODxdRQBkJbVWlcBlS+JzIOBVD1X1nTzpwyfPT9ERsjSoNxhKeB3JDYBLw1GcSN9eVfZT6tVcaXLv0d1pjvKcbMI=;YC5g3ByxfIjvOIB4KudJwQ=="
 ---
 

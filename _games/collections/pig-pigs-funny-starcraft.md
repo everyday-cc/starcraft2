@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 66
+heat: 63
 
 provider:
   name: PiG

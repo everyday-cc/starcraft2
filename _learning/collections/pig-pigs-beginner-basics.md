@@ -2,7 +2,7 @@
 title: "PiG's Beginner Basics'"
 excerpt: ""
 type: collection
-heat: 61
+heat: 60
 
 provider:
   name: PiG

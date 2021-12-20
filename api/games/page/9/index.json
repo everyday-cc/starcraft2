@@ -4,25 +4,27 @@
   "page": 9,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-has-and-bly-remember-theyre-cheesers-cheesedown-part-34.md",
-      "title": "StarCraft 2 - Has and Bly remember they're Cheesers | CHEESEDOWN Part 3/4",
-      "excerpt": "We invited the cheesiest Protoss, Has, and the cheesiest Zerg, Bly, to have a Cheesedown with us to determine who is the best at serving fondue. In Part three, the players remember that they're known Cheesers and give the fans what they want.  Cheesedown Part 1: https://youtu.be/OI4n4PWs1TI Cheesedown",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-has-and-bly-remember-theyre-cheesers-cheesedown-part-34/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-has-and-bly-remember-theyre-cheesers-cheesedown-part-34/",
-      "originalUrl": "https://youtube.com/watch?v=4BETkqHSwtI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4BETkqHSwtI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M21S",
+      "path": "_games/pig-starcraft-2-how-to-traumatise-zerg-players-diamond-in-the-ruff-58.md",
+      "title": "StarCraft 2 - How to Traumatise Zerg Players | Diamond in the Ruff #58",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. This time he's up against a Zerg player and purposely goes Spire Hunting with his favourite unit the Battle cruiser!  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-how-to-traumatise-zerg-players-diamond-in-the-ruff-58/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-how-to-traumatise-zerg-players-diamond-in-the-ruff-58/",
+      "originalUrl": "https://youtube.com/watch?v=9neSUtChASU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9neSUtChASU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M1S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
       ],
       "heat": 55,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/4BETkqHSwtI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9neSUtChASU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -30,7 +32,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-11-26T19:48:45-08:00"
+      "publishedDateTime": "2021-11-13T01:53:13-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-macro-mermaid-vs-creep-king-florencio-files-213.md",

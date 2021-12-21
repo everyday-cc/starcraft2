@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-mass-brood-lords
 type: video
 length: PT36M18S
 publishedDateTime: 2021-02-16T11:11:54Z
-heat: 54
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ajYUbpK8JtY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "K/7cfR97dPrc6ghVykld1KJPgjDc898NSqYoGaVRq7Krc6GDTmUn5VMTDbv2CRhk4Y6sobk+WO4wm+TprJeLxDGRFDchSMKF4ObdWG8v3pllw2ET2YFYLaRXbak1B6ZKaHi90Fl/PJ+ZoHwvSz8Or+l6ZcsxFci29grjoc9KwJszHzSHIg+KMa+9GfXGG85qYIOuan9HqvMMPv8lP4pcJ8mLcB+UWq7e48DXj0O7EblkTjQsRvV0I1MLml5h1M2vaO6eZaBoK8lD4l1JHQ3AWKTLDqNaMlvqu19pkrmgWtpP3TenHm6/bmoHlf6fArc+7jx+mr9lrBDep3aV1c2a3PJRz+eXrcHObkWaW3RTvtc1ExXwLj+BjUvCY6YmCvYwr7hmYscn5r2UkIrGyKTPBbHcibIkQpvD0kgEQKhFFDsljQDOxWR6NpWQWwlKblxn;1XtUrFam4LXeqb2i1CXqmg=="
+secured: "ggaNND55bdAWfYZ7z4pf4V8YDO8CYgqIlEQKnl4wdwYIiDzIpWUskYVCIZYszcafq+1ZGhUXdOi42+71iuPwoP/Baq9AaFumzgsEAtdUy8soo/xuMU9YOuaGxl305X5DyX1evwYpMduXivChQyhYZJiecJSqjGg37LItan1UA3rOXE/0jNx9lyTJkfi85Y6H53ogi60fO/dZ6sUSS2FoXHj3nG+5Yr5bYG3i1yEX3YTyxt+Oomf3Nw5XuzYicYdVvgTwnqyoVLGaxcQlFueDyu5teyWMIDy694G8lBeagh8vtWAwWDLPnjER70FYJ9Bq2mk1lMoK8HRqopXcBl3jzhr0FDSERr+qExAyi6QOEmQYCx4IFXCdMOa4cdm4/QSAfs7XbjHuZliiK1WLM+qrxbxgc++NDM77GrTdhfSMXu3/amFJRUXfW4DMdeikgGtO;JTaLOj/aY/zxdYtJjUOTfg=="
 ---
 

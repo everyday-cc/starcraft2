@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=OB3767bULqg
 type: video
 length: PT16M19S
 publishedDateTime: 2018-01-22T13:49:10Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OB3767bULqg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "KpEg2sbEl9MbAD//W8t3PIHpSZa6IJr/hUYbuidVUEEo0VSsRyhADEVfGQI0O6D+Oa3nlEI+94GjNwtc4q/2jvlot/OH8828h6PVQMT277xBxyLbY2KDq3L33+HGUiYl6za35J8VEUMhWuYl4fRrSNvEyzLjzNPOqMjJXoF5poW6odxhPJYAOLaV5fttW3dLQAb2NkV5uelk4UJqjnzANH0QXMB8OvDyU+Zx32wuGmIymqUT+3vIHhYFtyPmwjFDrMbuOckh+sXfyZOpYoEL3udNUVAE0p05yCL3GFbk3iMY+ORiA3ODstpcltFU+NI438iQpcS7XmcyEwy4MBJ6y0+M8L3TW3h4zH2U1XJX3DjGbQB4Ouj/wd1iAwIKD22zn5HGIV92hKo60eatZ0TCVEvqV53GcehBgm7iOGraJoQ=;vJlYY2Xr9HRAGJW0r/0iEw=="
+secured: "PSVR/XzXxcp0SyiLsCCgzPKI63J24puOr51Rg72jI2glZjx9/z7obvh8SKFbECW+s3koy8Wcgk4PsINqvU3L53H+qqLOSmMATOlGJP3FAlPY1K/cg3BLPohkjvM41OtJwKBlYSKpM/krqVSEfr6xW90Gz7A8/AOV2Juqex/12gPKxteOLQk1QcI2qABR6Nt2HNMoHRkY1qpVb6MD/rGcemJPdbniEa7sp3iZkvjs//A1rhwHyYwwA2iNW+vukH5yvWEK31k4+Yb7q4rkzbf+Yb919Nw+aF13DpbCzTpM/uv/aITduVCkIT4zMRaC23XCc1W8g+AAGrzyoNs3xYroFcpwi2sSahuwRTzN1z+wUQGzJhKh2y4qSO68qEuHRORxi2f/7y612ZDCJUrH757K+glUVunQOKdNADzmVZKkXbY=;bzRKRdv1SzGTjXw6Vgk+Ng=="
 ---
 

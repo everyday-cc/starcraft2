@@ -259,6 +259,7 @@ items:
   - pig-starcraft-2-florencios-300-iq-pylon-pathing-trick-2-games-pvt-florencio-files-250
   - pig-starcraft-2-florencio-discovers-the-swarm-host-florencio-files-251
   - pig-when-your-strategy-is-mint-but-your-opponent-has-300-apm-florencio-files-252-starcraft-2
+  - pig-starcraft-2-he-tricks-the-zerg-into-expanding-next-to-tempests-lol-florencio-files-253
 
 topics:
   - StarCraft 2

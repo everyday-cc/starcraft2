@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-riskiest-rec
 type: video
 length: PT24M11S
 publishedDateTime: 2021-01-04T11:38:03Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aWvZn-oNiRE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "U5zzSx1uj87ohoAmyBksLh3QOhMZRSDbu1uN28aab9aPp132Eo9LnXzJ1w9R8CBpzKddPcx/NUACJQl7LZgXtjZfo58H44zZZ4sY8v3JgM9xBCXFJbPT3eSV6lyAYj+59RKweW9U3bIrcuwV9D5pq7ry4sEpznYppao1u/poqYgZiSaZWF80oB431UkAr8Inz3oKu0VIrYuggWBHCGk5Lp1ea+X3cAM9mdemYeXG9ATf/4H7C/WsRoBy12rk4RbLYvB1WuG1FcRx1qFcmNrsQwDgQqGei0Mb7aV9sy434zl/rprVYYJDJT9YZtL87GtpTBYi/YzyJwVKrfs9/35FL8N+QivBjLoxoNXe3mzY9cPdOnhfi+w0MoM2n9Sa726TZ3ie7jiU192CwEBoPqn0PQ2YDT0aL7pgq3h9VXvzmsM=;qOD+eOjK7+PURMD5PuAMYg=="
+secured: "zDraYbXbb8yOwSQ4zAF1OfjM6xlKf6EctbYbbounBoUo3LzT5tSzjustkCNLpJaSDwlEwsO1eLMIH0bMp3ZfC94MbQ0/aqgJcDKzH/DGiw/fLnX63UgvE/zqcsACM0RkuIOedkS9sS7jBDZa4wvrNTQsHQd93tEI0eaV8uDSolUh64JFefB4W3kdz0GOodYSoe7eO1b3nZRs5oILIvBq2KnYp955Cqhdf8FNkw8x8lUlresBtFmbBqLygLzh34lzd1CdqudWgVWkf2Jzqtfk8P/UQSOg3wPQxb4sRSOPUbXIHktbUDQVN9/DnYi+R6qjpxCWheDhfNt83TRBNkHxKfjaP7qBvxIKiVrNwRXi3PFz0sU3DWeFDt2cshh15bbpNAheFWo8xfyoREN6XH5YuRPUYBVFYh+Wid51iBGegKQ=;fkSkZwQa7WVWS24JPUewrw=="
 ---
 

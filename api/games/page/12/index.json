@@ -4,120 +4,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-no-minerals-remaining-serral-vs-cure.md",
-      "title": "StarCraft 2: NO MINERALS REMAINING?! (Serral vs Cure)",
-      "excerpt": "Serral versus Cure in an insane game of StarCraft 2. In this match we see Cure focusing on Terran Mech, where as Serral takes the harassment approach where he constantly tries to outmine the Terran.  Maru vs Serral: https://youtu.be/h4A8ZTaPBAE  Become a YouTube member: https://lowko.tv/join Support",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-no-minerals-remaining-serral-vs-cure/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-no-minerals-remaining-serral-vs-cure/",
-      "originalUrl": "https://youtube.com/watch?v=pNhMT3ZndxA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pNhMT3ZndxA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pNhMT3ZndxA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-13T03:11:16-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-non-stop-zerg-cheese-serral-vs-elazer.md",
-      "title": "StarCraft 2: NON-STOP ZERG CHEESE! (Serral vs Elazer)",
-      "excerpt": "Very cheesy series of StarCraft 2 between Serral and Elazer. Zerg rushes, Drone pulls, Zergling cheese, early Spawning Pools and perfect micro in this best-of-5 series.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-non-stop-zerg-cheese-serral-vs-elazer/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-non-stop-zerg-cheese-serral-vs-elazer/",
-      "originalUrl": "https://youtube.com/watch?v=uVVuHUOLjGw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uVVuHUOLjGw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uVVuHUOLjGw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-05-29T00:58:39-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-reynors-crazy-apm-and-multi-tasking.md",
-      "title": "StarCraft 2: Reynor's Crazy APM and Multi Tasking!",
-      "excerpt": "Awesome match of Zerg versus Terran in StarCraft 2 between Reynor and soul.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynors-crazy-apm-and-multi-tasking/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-crazy-apm-and-multi-tasking/",
-      "originalUrl": "https://youtube.com/watch?v=rwkoi2sgjNk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rwkoi2sgjNk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M21S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rwkoi2sgjNk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-22T05:05:05-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-clem-best-of-3.md",
       "title": "StarCraft 2: SERRAL vs CLEM! (Best-of-3)",
       "excerpt": "Best-of-3 series of top level Zerg versus Terran in StarCraft 2 between Clem and Serral.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
@@ -1136,6 +1022,96 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-02-26T09:55:00-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-100-pure-unbridled-lack-of-sportsmanship-the-florencio-files-24.md",
+      "title": "StarCraft 2 - “100% pure, unbridled LACK of sportsmanship” - The Florencio Files #24",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-100-pure-unbridled-lack-of-sportsmanship-the-florencio-files-24/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-100-pure-unbridled-lack-of-sportsmanship-the-florencio-files-24/",
+      "originalUrl": "https://youtube.com/watch?v=ZxBM2ji0SWg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZxBM2ji0SWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M8S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZxBM2ji0SWg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-09-22T15:05:20-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-can-sun-tzus-wisdom-stop-the-sewer-mermaid-the-florencio-files-26.md",
+      "title": "StarCraft 2 - Can Sun Tzu’s Wisdom Stop the Sewer Mermaid? | The Florencio Files #26",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-can-sun-tzus-wisdom-stop-the-sewer-mermaid-the-florencio-files-26/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-can-sun-tzus-wisdom-stop-the-sewer-mermaid-the-florencio-files-26/",
+      "originalUrl": "https://youtube.com/watch?v=VncOxOE-bBg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VncOxOE-bBg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M25S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VncOxOE-bBg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-09-22T15:05:46-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-coaching-florencio-the-sewer-archon.md",
+      "title": "StarCraft 2 - Coaching!? Florencio | The Sewer Archon",
+      "excerpt": "This is some brainstorming on playstyles as Florencio intends to play offraces/all races  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank   Got some awesome Florencio fan",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-coaching-florencio-the-sewer-archon/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-coaching-florencio-the-sewer-archon/",
+      "originalUrl": "https://youtube.com/watch?v=hqLiRwNXVi0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hqLiRwNXVi0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H30M59S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hqLiRwNXVi0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-04-16T16:52:49-07:00"
     }
   ],
   "nextPage": 13

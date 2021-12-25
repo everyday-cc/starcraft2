@@ -4,160 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-tactical-nukes-his-own-base-cure-vs-trap.md",
-      "title": "StarCraft 2: TACTICAL NUKES HIS OWN BASE?! (Cure vs Trap)",
-      "excerpt": "One of the best series of Terran versus Protoss at the top level of StarCraft 2 that I've seen this year. In this best-of-5 we don't see much variety in build orders, but that doesn't take away much of the games. Both players feel comfortable with their strategies and don't need to adjust. They try to",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-tactical-nukes-his-own-base-cure-vs-trap/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-tactical-nukes-his-own-base-cure-vs-trap/",
-      "originalUrl": "https://youtube.com/watch?v=EPOzcrqG3YE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EPOzcrqG3YE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H8M40S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EPOzcrqG3YE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-07-02T05:06:47-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-terran-vs-zerg-insanity-clem-vs-reynor.md",
-      "title": "StarCraft 2: TERRAN VS ZERG INSANITY! (Clem vs Reynor)",
-      "excerpt": "An insane Terran versus Zerg between Clem and Reynor at the professional level of StarCraft 2. This game showcases some of the highest level SC2 with both players constantly trying out to outsmart and outmicro the other. The skill level of the game in general is continously rising and it's noticable,",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-vs-zerg-insanity-clem-vs-reynor/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-terran-vs-zerg-insanity-clem-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=TwXQfT_0DdU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TwXQfT_0DdU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M2S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TwXQfT_0DdU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-23T02:35:20-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-best-terran-players.md",
-      "title": "StarCraft 2: THE BEST TERRAN PLAYERS!",
-      "excerpt": "Maru vs TY in a best-of-5 series of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/bpDV8i  An awesome world-class series of StarCraft 2. In this video I commentate a professional best-of-5 series between Maru and TY, two of the very best Terran",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-best-terran-players/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-best-terran-players/",
-      "originalUrl": "https://youtube.com/watch?v=gUE1eInkbVk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gUE1eInkbVk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gUE1eInkbVk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-01-07T11:42:11-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-mass-battlecruiser-switch.md",
-      "title": "StarCraft 2: THE MASS BATTLECRUISER SWITCH!",
-      "excerpt": "Best-of-3 in professional StarCraft 2 between TaeJa and Scarlett. Subscribe for more videos: http://lowko.tv/youtube TY vs Dark (epic game): https://goo.gl/PGHX1S  An awesome series of games in professional StarCraft 2. In this series TaeJa decides to mix it up. He's very well known for his Marine play.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-mass-battlecruiser-switch/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-mass-battlecruiser-switch/",
-      "originalUrl": "https://youtube.com/watch?v=70Px64OHSi4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/70Px64OHSi4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/70Px64OHSi4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-02-14T04:49:08-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-who-called-in-the-fleet-dark-vs-ty.md",
       "title": "StarCraft 2: WHO CALLED IN THE FLEET? (Dark vs TY)",
       "excerpt": "Dark versus TY in an epic game of StarCraft 2. In this game of top-level StarCraft we see TY play a different approach than most Terrans do at this level. A lot of Terran players enjoy playing a late-game composition based around the Thor at the moment, but TY decides to focus on a Battlecruiser army",
@@ -195,6 +41,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-12-23T02:58:00-08:00"
+    },
+    {
+      "path": "_games/pig-a-triple-engi-bay-block-breaks-this-guys-brain-icyfar-halloween-starcraft-2.md",
+      "title": "A triple engi bay block breaks this guy's brain! | ICYFAR \"Halloween\" - StarCraft 2",
+      "excerpt": "🤯 NEW ICYFAR CHALLENGE: PROXY EVERYTHING: proxy as much of your stuff as you can - try to have as few buildings as possible in your bases. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 30th November -- 🤯 In",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-a-triple-engi-bay-block-breaks-this-guys-brain-icyfar-halloween-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-a-triple-engi-bay-block-breaks-this-guys-brain-icyfar-halloween-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=fpfqUYEdkPg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fpfqUYEdkPg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M13S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fpfqUYEdkPg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-09T17:23:23-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-chase-your-tail-mate-florencio-files-180.md",
@@ -255,36 +130,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-10-23T22:18:43-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-florencio-vs-neuro-insane-match-the-florencio-files-15.md",
-      "title": "StarCraft 2 - Florencio vs Neuro INSANE match | The Florencio Files #15",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-vs-neuro-insane-match-the-florencio-files-15/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-vs-neuro-insane-match-the-florencio-files-15/",
-      "originalUrl": "https://youtube.com/watch?v=pX5ITpSTato",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pX5ITpSTato\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M37S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pX5ITpSTato/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-12-09T04:09:43-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-planetary-prison-florencio-files-186.md",
@@ -348,14 +193,14 @@
       "publishedDateTime": "2020-07-10T04:00:10-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-when-both-players-have-nfi-whats-happening-the-florencio-files-5.md",
-      "title": "StarCraft 2 - When Both Players have NFI what’s happening | The Florencio Files #5",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush\r  -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-when-both-players-have-nfi-whats-happening-the-florencio-files-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-when-both-players-have-nfi-whats-happening-the-florencio-files-5/",
-      "originalUrl": "https://youtube.com/watch?v=MW9ctKzHtcM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MW9ctKzHtcM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M37S",
+      "path": "_games/pig-starcraft-2-your-viewers-werent-ready-for-this-the-best-episode-yet-the-florencio-files-18.md",
+      "title": "StarCraft 2 - “Your viewers weren’t ready for this” | The Best Episode yet?- The Florencio Files #18",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-your-viewers-werent-ready-for-this-the-best-episode-yet-the-florencio-files-18/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-your-viewers-werent-ready-for-this-the-best-episode-yet-the-florencio-files-18/",
+      "originalUrl": "https://youtube.com/watch?v=jU2q4VsPMmQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jU2q4VsPMmQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M31S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -367,7 +212,7 @@
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/MW9ctKzHtcM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jU2q4VsPMmQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -375,7 +220,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-05-24T00:49:07-07:00"
+      "publishedDateTime": "2018-08-03T18:15:04-07:00"
     },
     {
       "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2.md",
@@ -1096,6 +941,157 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-03-11T01:34:29-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-parting-bowls-a-strike-best-of-5-vs-clem.md",
+      "title": "StarCraft 2: PartinG Bowls A STRIKE! (Best-of-5 vs Clem)",
+      "excerpt": "Clem versus PartinG in a best-of-5 series of top level StarCraft 2.   Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-parting-bowls-a-strike-best-of-5-vs-clem/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-parting-bowls-a-strike-best-of-5-vs-clem/",
+      "originalUrl": "https://youtube.com/watch?v=2MktB2LSerY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2MktB2LSerY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H5M40S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2MktB2LSerY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-08-20T03:59:37-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-planetary-fortress-vs-proxy-nexus-crazy-viewer-games.md",
+      "title": "StarCraft 2: PLANETARY FORTRESS vs PROXY NEXUS! (Crazy Viewer Games)",
+      "excerpt": "Viewer submitted games of StarCraft 2. Some crazy matches that you definitely will never see at the professional level of the game. Proxy Command Centers into Planetary Cheese, Nexus inside the opponents main base and of course the classic Cannon Rush.  Support my work on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-planetary-fortress-vs-proxy-nexus-crazy-viewer-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-planetary-fortress-vs-proxy-nexus-crazy-viewer-games/",
+      "originalUrl": "https://youtube.com/watch?v=C8EnPv8p1Qc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C8EnPv8p1Qc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M54S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/C8EnPv8p1Qc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-03-07T01:26:01-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-professional-2v2-team-game.md",
+      "title": "StarCraft 2: PROFESSIONAL 2V2! (Team Game)",
+      "excerpt": "Cure and Trap vs uThermal and Elazer in 2v2 in StarCraft 2! Subscribe for more videos: http://lowko.tv/youtube Epic archon match: https://goo.gl/echvbd  Not something I usually get to cast! In this video I give commentary to a professional team game in StarCraft 2.  Check out Lowko merchandise: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-professional-2v2-team-game/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-professional-2v2-team-game/",
+      "originalUrl": "https://youtube.com/watch?v=QJM7wa9N7-4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QJM7wa9N7-4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M29S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QJM7wa9N7-4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-01-14T04:10:23-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-quadruple-thor-drop.md",
+      "title": "StarCraft 2: QUADRUPLE THOR DROP!",
+      "excerpt": "Aggressive Terran Mech vs the Swarmy Zerg style. Subscribe for more videos: http://lowko.tv/youtube Drone rush vs Drone rush: https://goo.gl/GsDVVk  Gumiho has his own way of playing Terran mech. In this video I cast a game between him and Reynor that was recently played as part of the BTSL Cross Finals.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-quadruple-thor-drop/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-quadruple-thor-drop/",
+      "originalUrl": "https://youtube.com/watch?v=bdiSn0MeczA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bdiSn0MeczA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M21S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bdiSn0MeczA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-10-19T04:39:45-07:00"
     }
   ],
   "nextPage": 10

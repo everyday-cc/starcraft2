@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-very-best-of
 type: video
 length: PT30M54S
 publishedDateTime: 2021-04-13T11:04:30Z
-heat: 58
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UvH2h4bWcfk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "A7x6AzvjJrePtQ9lr0Qf3WhMgBA/IwRifJvzF9Ug76sgXzQzDHxkv1qxiczEN9NiTIAsONEtLmDpreq9xl3wJaB6cHG/H/1kJ/NwtWkBhj5sFsqnhkYp8csIllOoI+E8PF+xT8tfEaTRgWTKaQPhJCKPu9S+lybjYb/NeoOXPtl+DDsHb/DDLK7WJCiTjiAv13FdDXDB0lG66XdMi+7xWllG1EnjX9AGUP3Py/9oycZM94zBpQa40pwTowsAbrb7kwJBgXrrzCFvNfx/xZqLV1sSSyi4H/wMF6CbhAUDoP4WawhD5aylvtr3KiGCTJk9W+6qdmdo4oUv7dm8dVeTpKkekMTlfgp4OrR3KFfn7eyxtnUXgFHwCJqEoU+LVZrG+M7Xo3EnDMYRpnJhtPKaXF8uXcIRjl7TgwFhvkRlyteLXJT0Pzdtuv+yrLo4xpaS;pcSvVfXvtdqcyZQjrn61NQ=="
+secured: "8TLOQdihYGZ2JoWVDnXo8HJrIjF8CJ4aU/wAoX2EkbeuXL94wzAGVEsuwNrVG2ASnIITswdH3aaJLN02VeQptalL2zzLjlIvjCRh52g/6d89pQgyIU+S3jKETMVHybGA7zfi+8oz0FK0jdmci6EIbQDZyPw91V8OkzvEsaXHVsgml1D+5OQtMktsg8NBUq2slinW0dVLkm0MW1J86LKgV5P44GMJSLKHGpp4uULEEdhqLhJPTZXmP+mio2hD5qwEdsh+8ziceGmucq+Ov5ZF2HyWP0sLds8xyM1mkQSAstpSM7nRxQ40zVu4qhICPK8sUyHq/UN5n4jFCbKhixitSbY5WPqlqhXpPRPaY+5DAhr6Q1EaBi0aIRCKeQ3S1Y5vIqtdTqbwxMItCTCjiWVxpJ21HDrXmsEOERSdC8t73/CzmohJUYYkV+83ni2ztQ07;aV94/SyJIlxT81B469kZGA=="
 ---
 

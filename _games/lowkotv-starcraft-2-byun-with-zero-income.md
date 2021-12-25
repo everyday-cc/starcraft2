@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-with-zero-i
 type: video
 length: PT30M8S
 publishedDateTime: 2021-02-12T11:15:32Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ho4ZImrosH4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+7oZ6nAK9XAFSkIyjUQ1B/RhwXBD4mxiuHDJB8FdCLOVdAypM5KqFxn4/cE+34/gXRFOK8g5ffbvxNwQ8H5vn8Of5YrgG/m7teMa6BuA250VZDzeLCVcQJ1/oMZ/2Nccp9+Rq59iKldzXpJ7MqHAf8KlmjZrEsh06OfRaKvj14hEYaKfxt9PBddqlom3H4liMZhRgxZqUkLfKCUN+9+fGK6TS2ZkK3c87k4GOC4xZuV+KJbj4zdDBIHuViCIUBzKoqqV5pcvgt0PQcy4tjua8Kk3oJq5+nu31VQyJSU9p4SMtTFB0kU4HHxHILnpmY+tFWMK2PhDGJlW2q5jsC1z/PdgvExAA+nEiG5fuj9WHlq/g6o280v4HWdecJrp1S1UawNhbR+H83OHa2zQdfd4ncp0NHgWWqbvbMor/gHiEx39+Tgez2n2q2B47O6E2NLM;WAt1oRFQSo1/9hR7Fkd5DQ=="
+secured: "ysQhZAyyj1BK/b8pv/U6JUypHUFlb0GRAUCLdBGOT5FugABHnISBHR8ySu2g6f3YzYkTU/hHuoMhjFOw+lg0jVP1scr4T2OqcaWK/UG0P0VM17SRX9aOC2WGqBm4wLQL4uRTr6XjPFOa/d0bIX/fgjTH36kjsvwXhEcQah9DHUC50FM+H2ftNqQiFbjIHEovU4NxgG2Oxt4psNp0ugrKOOcc5uukmSY2lneyObzIFWnFg3cdgTBlN8fQvYWs70mhbriy+MYq8+FiY1XS74b/eutd+Sz9mmfa+QbTjmH4n8nKRfHy5xilVQkjz0DWqdO688tddAUc0kM88XuZVe577tCaykZnjakSG/DLyMf54gl18NvhFf9Z86H4CRhsjAU0Omc/2+CpOTMQtooLukHvwOs8Q0UzjhZPyZ/qFwrf4A8X1WphxTr7KMMMBNrYZrKv;JsYof4iYECtCaM8yqN8ihQ=="
 ---
 

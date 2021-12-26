@@ -40,6 +40,15 @@ related:
       name: Boats.com
       domain: boats.com
     quality: 17
+  - title: "Starcraft boats for sale in Soldotna, Alaska"
+    excerpt: "With its inspired design, opulent appointments and impeccable fit and finish, Starcraft SX sets the standard that every other pontoon aspires to follow. But this is no show boat – with its standard HMX PR25 Performance Package,"
+    publishedDateTime: 2021-12-26T20:43:00Z
+    webUrl: "https://www.boats.com/boats-for-sale/?make=starcraft&country=united-states&subdivision=alaska&city=soldotna"
+    type: article
+    provider:
+      name: Boats.com
+      domain: boats.com
+    quality: 17
 
 secured: "yrIvh8rhzqrSZAJQhU+EkBpgl/ejlRwHjarQ+RtT+/oq0Ug2LFxAsy/Mq6Kuu/yfI46KwHfGGv9FDLnRM02pvl/yYejy2FBOLruNDOv9QTlq9bkIY943HarxqbWa3bpBVHhs7E7TmsrDLetxGODF12m89n621yUd4GdDUIu/jZN/atKlaP3sEnqb4nV7bub4hEdFjTVulv30xWATvwrprxbJ0xM85Mq4Isv1pheBTDOeaaqxXBA3HySH04HqwfKNJEoit+JOUnWGURHFUL/i0ugsYzJz2ohx2H4GEr5ahQG5LHb5I2WlkfGXe7eF7HPY9UkxcybwSHWWUIFXRELyPPpBXZX0pn+N0uEOljQx924=;DeJ2UmJFm3YTSMI56G3u/Q=="
 ---

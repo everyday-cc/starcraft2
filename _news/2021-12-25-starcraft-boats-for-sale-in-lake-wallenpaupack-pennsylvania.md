@@ -27,6 +27,15 @@ related:
       name: Boats.com
       domain: boats.com
     quality: 34
+  - title: "WoW Moviewatch: Starcraft Evacuation"
+    excerpt: "Starcraft: Evacuation is a short film by Youtuber Peter Stroll about a small Terran mining settlement that is under attack -- the story is relatively straightforward. What's pretty cool about this ..."
+    publishedDateTime: 2021-12-13T00:00:00Z
+    webUrl: "https://www.engadget.com/2014-12-13-wow-moviewatch-starcraft-evacuation.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 17
 
 secured: "JaH5ceTAWleEPuh4Lzgc2XRi4LYr3u7bQYJjpuDMojsof51BTT226HC31sSdaA4TTjDn9ETBD6leKYH3wyhraie3EQ8YbIUL9Zg1W9fd+ooTjj4gyTXnuDEj4zCDk2PtyrP7h3EKmXLKQ1vcOXN7Rs5vZGoiAAM4/2Ss1v22co1+xl64F/a1ErUsSrtUqYeDoFRWLctig0svg3q6u7qyuisly2iGrBC51nhvgsLoViFSr5GbAwj2Ti/ooujmFU9aH5hG3Src78tBusO4CrG8hbGOV77m/kYvpjX4HiVVkF8z9zRTyQsWwB5M/z1lnGXsJBB2O7cePQU1xvxyIbsBrFono9WehxxP8elARKZODa0=;9jdLgGNDV8SAsQrejibg4Q=="
 ---

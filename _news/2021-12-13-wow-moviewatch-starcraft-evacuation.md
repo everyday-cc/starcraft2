@@ -22,22 +22,24 @@ topics:
   - StarCraft 2
 
 related:
-  - title: "2022 Starcraft SVX 210 IO"
-    excerpt: "If Starcraft’s SVX 210 IO looks familiar, it’s because a similar boat already resides in the manufacturer’s lineup. The difference here is that the boat is now available with sterndrive power rather than the previous outboard-only option, meaning ..."
-    publishedDateTime: 2021-12-06T19:21:00Z
-    webUrl: "https://www.boatingmag.com/boats/2022-starcraft-svx-210-io-bbg/"
-    ampWebUrl: "https://www.boatingmag.com/boats/2022-starcraft-svx-210-io-bbg/?amp=1"
-    cdnAmpWebUrl: "https://www-boatingmag-com.cdn.ampproject.org/c/s/www.boatingmag.com/boats/2022-starcraft-svx-210-io-bbg/?amp=1"
+  - title: "Starcraft Storm 176 Sc boats for sale in United States"
+    excerpt: "Starcraft Storm takes the best of our top-of-the-line models and packs it into a more compact footprint that's easy to trailer and even easier to afford."
+    publishedDateTime: 2021-12-20T00:02:00Z
+    webUrl: "https://www.boats.com/boats-for-sale/?make=starcraft&model=storm-176-sc&country=united-states"
     type: article
     provider:
-      name: Boating
-      domain: boatingmag.com
-    quality: 57
-    images:
-      - url: "https://mlclell2icph.i.optimole.com/hp8H5UE.n_9p~52d1/w:auto/h:auto/q:80/https://www.boatingmag.com/wp-content/uploads/sites/16/2021/11/BTGBG22_RUN_Starcraft-SVX-210-IO_02.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
+      name: Boats.com
+      domain: boats.com
+    quality: 34
+  - title: "Starcraft boats for sale in Lake Wallenpaupack, Pennsylvania"
+    excerpt: "With its inspired design, opulent appointments and impeccable fit and finish, Starcraft SX sets the standard that every other pontoon aspires to follow. But this is no show boat – with its standard HMX PR25 Performance Package,"
+    publishedDateTime: 2021-12-24T20:27:00Z
+    webUrl: "https://www.boats.com/boats-for-sale/?make=starcraft&country=united-states&subdivision=pennsylvania&city=lake-wallenpaupack"
+    type: article
+    provider:
+      name: Boats.com
+      domain: boats.com
+    quality: 17
 
 secured: "yrIvh8rhzqrSZAJQhU+EkBpgl/ejlRwHjarQ+RtT+/oq0Ug2LFxAsy/Mq6Kuu/yfI46KwHfGGv9FDLnRM02pvl/yYejy2FBOLruNDOv9QTlq9bkIY943HarxqbWa3bpBVHhs7E7TmsrDLetxGODF12m89n621yUd4GdDUIu/jZN/atKlaP3sEnqb4nV7bub4hEdFjTVulv30xWATvwrprxbJ0xM85Mq4Isv1pheBTDOeaaqxXBA3HySH04HqwfKNJEoit+JOUnWGURHFUL/i0ugsYzJz2ohx2H4GEr5ahQG5LHb5I2WlkfGXe7eF7HPY9UkxcybwSHWWUIFXRELyPPpBXZX0pn+N0uEOljQx924=;DeJ2UmJFm3YTSMI56G3u/Q=="
 ---

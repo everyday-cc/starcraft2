@@ -188,44 +188,6 @@
       "publishedDateTime": "2021-12-24T13:58:31-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-maru-loves-cheesing-cure-best-of-3.md",
-      "title": "StarCraft 2: Maru LOVES CHEESING Cure! (Best-of-3)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between Maru (Terran) and Cure (Terran). Turns out Maru feels particularly cheesy in this series of Terran vs Terran.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maru-loves-cheesing-cure-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maru-loves-cheesing-cure-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=IM7OdVKFW4M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IM7OdVKFW4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 213,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IM7OdVKFW4M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-12-18T04:58:14-08:00"
-    },
-    {
       "path": "_games/beastyqtsc2-imintrouble-beastyqt-vs-stephano.md",
       "title": "ImInTrouble.... Beastyqt vs Stephano!",
       "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
@@ -242,7 +204,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 207,
+      "heat": 211,
       "tags": [
         "Live"
       ],
@@ -288,6 +250,83 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-12-22T22:06:37-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-maru-loves-cheesing-cure-best-of-3.md",
+      "title": "StarCraft 2: Maru LOVES CHEESING Cure! (Best-of-3)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between Maru (Terran) and Cure (Terran). Turns out Maru feels particularly cheesy in this series of Terran vs Terran.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maru-loves-cheesing-cure-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maru-loves-cheesing-cure-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=IM7OdVKFW4M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IM7OdVKFW4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M38S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 196,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IM7OdVKFW4M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-12-18T04:58:14-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-fourth-race-hybrid-vs-protoss-zerg-1v1-multiplayer.md",
+      "title": "StarCraft 2: The Fourth Race - HYBRID vs Protoss & Zerg! (1v1 Multiplayer)",
+      "excerpt": "Two games of StarCraft 2 from \"The Fourth Race Contest\" organised by Alex007. In this video I cast the Hybrid going up against Protoss and the Hybrid versus Zerg.  Alex's YouTube channel: https://www.youtube.com/c/Alex007SC2  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-fourth-race-hybrid-vs-protoss-zerg-1v1-multiplayer/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-fourth-race-hybrid-vs-protoss-zerg-1v1-multiplayer/",
+      "originalUrl": "https://youtube.com/watch?v=6lKZ2g5reX0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6lKZ2g5reX0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M34S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 195,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6lKZ2g5reX0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-11T03:35:31-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-epic-match-clem-vs-dark-best-of-7.md",
@@ -652,7 +691,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 137,
+      "heat": 135,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/HLMd5CcpIz0/maxresdefault.jpg",
@@ -666,14 +705,14 @@
       "publishedDateTime": "2021-12-13T04:23:58-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-fourth-race-hybrid-vs-protoss-zerg-1v1-multiplayer.md",
-      "title": "StarCraft 2: The Fourth Race - HYBRID vs Protoss & Zerg! (1v1 Multiplayer)",
-      "excerpt": "Two games of StarCraft 2 from \"The Fourth Race Contest\" organised by Alex007. In this video I cast the Hybrid going up against Protoss and the Hybrid versus Zerg.  Alex's YouTube channel: https://www.youtube.com/c/Alex007SC2  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-fourth-race-hybrid-vs-protoss-zerg-1v1-multiplayer/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-fourth-race-hybrid-vs-protoss-zerg-1v1-multiplayer/",
-      "originalUrl": "https://youtube.com/watch?v=6lKZ2g5reX0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6lKZ2g5reX0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M34S",
+      "path": "_games/lowkotv-starcraft-2-has-loves-to-cannon-rush-best-of-3-vs-bly.md",
+      "title": "StarCraft 2: Has LOVES to CANNON RUSH! (Best-of-3 vs Bly)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between Has (Protoss) and Bly (Zerg). These two pro players like to play the game differently than pretty much every other progamer.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-has-loves-to-cannon-rush-best-of-3-vs-bly/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-has-loves-to-cannon-rush-best-of-3-vs-bly/",
+      "originalUrl": "https://youtube.com/watch?v=n-RjDOG7lrY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n-RjDOG7lrY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M23S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -688,13 +727,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
-        "Zerg"
+        "Protoss"
       ],
-      "heat": 135,
+      "heat": 133,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6lKZ2g5reX0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/n-RjDOG7lrY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -702,7 +740,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-11-11T03:35:31-08:00"
+      "publishedDateTime": "2021-10-16T00:58:55-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-blys-brilliant-proxy-hatchery-vs-byun-best-of-3.md",
@@ -972,74 +1010,6 @@
       "publishedDateTime": "2021-08-26T04:06:39-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-the-superbowl-wants-its-quarterbacks-back-rate-my-starcraft-7.md",
-      "title": "StarCraft 2 - The Superbowl wants its Quarterbacks back | Rate My StarCraft #7",
-      "excerpt": "🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your awesome StarCraft plays. Send in your replay to RateMyStarCraft@gmail.com PLUS why you think it was so good (This is similar to ICYFAR but you choose the topic). Bonus points if you can say why in",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-superbowl-wants-its-quarterbacks-back-rate-my-starcraft-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-superbowl-wants-its-quarterbacks-back-rate-my-starcraft-7/",
-      "originalUrl": "https://youtube.com/watch?v=_mihzE8PQNU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_mihzE8PQNU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 117,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_mihzE8PQNU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-09-28T04:46:30-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-archon-mode-byun-dark-vs-harstem-lambo-best-of-5.md",
-      "title": "StarCraft 2: ARCHON MODE - ByuN & Dark vs Harstem & Lambo! (Best-of-5)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 in Archon Mode. This series was part of the OlimoLeague Invitational 5. This is ByuN and Dark as Terran, facing off against Lambo and Harstem as Protoss.  OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-archon-mode-byun-dark-vs-harstem-lambo-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-archon-mode-byun-dark-vs-harstem-lambo-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=Ev1ZpdlaIjw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ev1ZpdlaIjw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 114,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ev1ZpdlaIjw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-01T02:59:54-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-astreas-late-game-cannon-rush.md",
       "title": "StarCraft 2: Astrea's LATE GAME Cannon \"Rush\"!",
       "excerpt": "Solar versus Astrea in a professional match of StarCraft 2. In this Zerg versus Protoss we see a game go the distance. Astrea executes some really cool moves by building a wall close to one of the outer Zerg bases and slowly shooting it down with Disruptors, High Templar and Oracles.  Support my work",
@@ -1115,6 +1085,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-01-04T03:39:21-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serral-cheeses-maxpax-best-of-5.md",
+      "title": "StarCraft 2: Serral CHEESES MaxPax?! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between MaxPax (Protoss) and Serral (Zerg). A variety of games in this series, with a heavy macro focus and some cheese.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-cheeses-maxpax-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-cheeses-maxpax-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=yUq7ZaA5RCY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yUq7ZaA5RCY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H4M58S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 102,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yUq7ZaA5RCY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-10-08T04:57:46-07:00"
     }
   ],
   "nextPage": 2

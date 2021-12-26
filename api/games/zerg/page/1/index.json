@@ -189,6 +189,45 @@
       "publishedDateTime": "2021-12-22T22:06:37-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-the-fourth-race-hybrid-vs-protoss-zerg-1v1-multiplayer.md",
+      "title": "StarCraft 2: The Fourth Race - HYBRID vs Protoss & Zerg! (1v1 Multiplayer)",
+      "excerpt": "Two games of StarCraft 2 from \"The Fourth Race Contest\" organised by Alex007. In this video I cast the Hybrid going up against Protoss and the Hybrid versus Zerg.  Alex's YouTube channel: https://www.youtube.com/c/Alex007SC2  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-fourth-race-hybrid-vs-protoss-zerg-1v1-multiplayer/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-fourth-race-hybrid-vs-protoss-zerg-1v1-multiplayer/",
+      "originalUrl": "https://youtube.com/watch?v=6lKZ2g5reX0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6lKZ2g5reX0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M34S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 195,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6lKZ2g5reX0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-11T03:35:31-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-epic-match-clem-vs-dark-best-of-7.md",
       "title": "StarCraft 2: EPIC MATCH - Clem vs Dark! (Best-of-7)",
       "excerpt": "Epic match of professional StarCraft 2 between Clem and Dark. In this best-of-7 series from the TSL 7 we watch two top level pro gamers fight it out in some very clever games. Clem doesn't really lose Terran versus Zerg in Europe anymore, but Dark plays a Korean version of ZvT that's different than what",
@@ -399,7 +438,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 137,
+      "heat": 135,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/HLMd5CcpIz0/maxresdefault.jpg",
@@ -411,45 +450,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-12-13T04:23:58-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-fourth-race-hybrid-vs-protoss-zerg-1v1-multiplayer.md",
-      "title": "StarCraft 2: The Fourth Race - HYBRID vs Protoss & Zerg! (1v1 Multiplayer)",
-      "excerpt": "Two games of StarCraft 2 from \"The Fourth Race Contest\" organised by Alex007. In this video I cast the Hybrid going up against Protoss and the Hybrid versus Zerg.  Alex's YouTube channel: https://www.youtube.com/c/Alex007SC2  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-fourth-race-hybrid-vs-protoss-zerg-1v1-multiplayer/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-fourth-race-hybrid-vs-protoss-zerg-1v1-multiplayer/",
-      "originalUrl": "https://youtube.com/watch?v=6lKZ2g5reX0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6lKZ2g5reX0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 135,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6lKZ2g5reX0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-11T03:35:31-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-blys-brilliant-proxy-hatchery-vs-byun-best-of-3.md",
@@ -605,45 +605,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-21T03:51:32-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-archon-mode-byun-dark-vs-harstem-lambo-best-of-5.md",
-      "title": "StarCraft 2: ARCHON MODE - ByuN & Dark vs Harstem & Lambo! (Best-of-5)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 in Archon Mode. This series was part of the OlimoLeague Invitational 5. This is ByuN and Dark as Terran, facing off against Lambo and Harstem as Protoss.  OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-archon-mode-byun-dark-vs-harstem-lambo-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-archon-mode-byun-dark-vs-harstem-lambo-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=Ev1ZpdlaIjw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ev1ZpdlaIjw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 114,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ev1ZpdlaIjw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-01T02:59:54-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-zerg-mothership.md",
@@ -1144,6 +1105,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-11-02T03:15:03-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serral-cheeses-clem-best-of-5.md",
+      "title": "StarCraft 2: Serral CHEESES Clem! (Best-of-5)",
+      "excerpt": "One of the best series of Zerg versus Terran in StarCraft 2 that I've seen recently. In this match between Serral and Clem, we see Serral going for some very strange build orders that seem to throw Clem off guard.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-cheeses-clem-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-cheeses-clem-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=6F0UJmOXW3U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6F0UJmOXW3U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT58M35S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 71,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6F0UJmOXW3U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-20T02:21:58-08:00"
     }
   ],
   "nextPage": 2

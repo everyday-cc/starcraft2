@@ -4,75 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_games/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53.md",
-      "title": "When the Protoss is Protossing, and you gotta Terran | Diamond in the Ruff #53",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent? 🐷 Support PiG: https://www.patreon.com/PiGSC2  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53/",
-      "originalUrl": "https://youtube.com/watch?v=ilVJs5gQrP8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ilVJs5gQrP8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M53S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ilVJs5gQrP8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-09-24T01:39:41-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-75-lurkers-50-ghosts-reynor-vs-clem.md",
-      "title": "StarCraft 2: 75+ LURKERS & 50+ GHOSTS! (Reynor vs Clem)",
-      "excerpt": "A game of professional StarCraft 2 played at the highest professional level. In this Zerg versus Terran we see an epic game featuring loads of Ghosts and tons of Lurkers.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-75-lurkers-50-ghosts-reynor-vs-clem/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-75-lurkers-50-ghosts-reynor-vs-clem/",
-      "originalUrl": "https://youtube.com/watch?v=TgjmN9X7vJY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TgjmN9X7vJY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M45S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TgjmN9X7vJY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-22T04:42:29-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-darks-amazing-strategic-variety-best-of-5.md",
       "title": "StarCraft 2: Dark's AMAZING Strategic Variety! (Best-of-5)",
       "excerpt": "Dark versus HeroMarine in a best-of-5 series of StarCraft 2. It turns out these two pro gamers are incredibly close in skill level.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
@@ -224,6 +155,155 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-11-13T04:03:46-08:00"
+    },
+    {
+      "path": "_games/collections/pig-the-florencio-files.md",
+      "title": "The Florencio Files",
+      "excerpt": "Welcome to this mystical StarCraft 2 playlist, the one-and-only™ documented archives of the legendary SEWER MERMAID!",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/pig-the-florencio-files/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/collections/pig-the-florencio-files/",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "topItems": [
+        {
+          "path": "_games/pig-starcraft-2-recall-rush-the-florencio-files-1.md",
+          "title": "StarCraft 2 - Recall Rush | The Florencio Files #1",
+          "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-recall-rush-the-florencio-files-1/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-recall-rush-the-florencio-files-1/",
+          "originalUrl": "https://youtube.com/watch?v=7hGsrlWElnU",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7hGsrlWElnU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT10M24S",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/7hGsrlWElnU/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-05-24T00:49:07-07:00"
+        },
+        {
+          "path": "_games/pig-starcraft-2-micro-god-the-florencio-files-2.md",
+          "title": "StarCraft 2 - Micro God | The Florencio Files #2",
+          "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-micro-god-the-florencio-files-2/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-micro-god-the-florencio-files-2/",
+          "originalUrl": "https://youtube.com/watch?v=zwQ1vCzSljQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zwQ1vCzSljQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT18M13S",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/zwQ1vCzSljQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-05-24T00:49:07-07:00"
+        },
+        {
+          "path": "_games/pig-starcraft-2-florencio-vs-weedamins-the-florencio-files-3.md",
+          "title": "StarCraft 2 - Florencio vs Weedamins! | The Florencio Files #3",
+          "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-vs-weedamins-the-florencio-files-3/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-vs-weedamins-the-florencio-files-3/",
+          "originalUrl": "https://youtube.com/watch?v=fuBljqCclWU",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fuBljqCclWU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT4M49S",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/fuBljqCclWU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-05-24T00:49:07-07:00"
+        },
+        {
+          "path": "_games/pig-starcraft-2-florencio-vs-avilo-the-florencio-files-4.md",
+          "title": "StarCraft 2 - Florencio vs Avilo! | The Florencio Files #4",
+          "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush\r  -- Watch live at https://www.twitch.tv/x5_pig",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-vs-avilo-the-florencio-files-4/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-vs-avilo-the-florencio-files-4/",
+          "originalUrl": "https://youtube.com/watch?v=j4dkgFhTyGQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j4dkgFhTyGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT15M13S",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/j4dkgFhTyGQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-05-24T00:49:07-07:00"
+        }
+      ],
+      "size": 251,
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7hGsrlWElnU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection"
     },
     {
       "path": "_games/lowkotv-starcraft-2-proxy-hatchery-problems-bly-vs-maxpax.md",
@@ -467,7 +547,7 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 57,
+          "heat": 58,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/7hGsrlWElnU/hqdefault.jpg",
@@ -497,7 +577,7 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/zwQ1vCzSljQ/hqdefault.jpg",
@@ -527,7 +607,7 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/fuBljqCclWU/maxresdefault.jpg",
@@ -548,155 +628,6 @@
           "url": "https://i.ytimg.com/vi/poLWTQ3bXr8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection"
-    },
-    {
-      "path": "_games/collections/pig-the-florencio-files.md",
-      "title": "The Florencio Files",
-      "excerpt": "Welcome to this mystical StarCraft 2 playlist, the one-and-only™ documented archives of the legendary SEWER MERMAID!",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/pig-the-florencio-files/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/collections/pig-the-florencio-files/",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "topItems": [
-        {
-          "path": "_games/pig-starcraft-2-recall-rush-the-florencio-files-1.md",
-          "title": "StarCraft 2 - Recall Rush | The Florencio Files #1",
-          "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-recall-rush-the-florencio-files-1/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-recall-rush-the-florencio-files-1/",
-          "originalUrl": "https://youtube.com/watch?v=7hGsrlWElnU",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7hGsrlWElnU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT10M24S",
-          "provider": {
-            "name": "PiG",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Protoss"
-          ],
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/7hGsrlWElnU/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2018-05-24T00:49:07-07:00"
-        },
-        {
-          "path": "_games/pig-starcraft-2-micro-god-the-florencio-files-2.md",
-          "title": "StarCraft 2 - Micro God | The Florencio Files #2",
-          "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-micro-god-the-florencio-files-2/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-micro-god-the-florencio-files-2/",
-          "originalUrl": "https://youtube.com/watch?v=zwQ1vCzSljQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zwQ1vCzSljQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT18M13S",
-          "provider": {
-            "name": "PiG",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Protoss"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/zwQ1vCzSljQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2018-05-24T00:49:07-07:00"
-        },
-        {
-          "path": "_games/pig-starcraft-2-florencio-vs-weedamins-the-florencio-files-3.md",
-          "title": "StarCraft 2 - Florencio vs Weedamins! | The Florencio Files #3",
-          "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-vs-weedamins-the-florencio-files-3/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-vs-weedamins-the-florencio-files-3/",
-          "originalUrl": "https://youtube.com/watch?v=fuBljqCclWU",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fuBljqCclWU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT4M49S",
-          "provider": {
-            "name": "PiG",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Protoss"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/fuBljqCclWU/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2018-05-24T00:49:07-07:00"
-        },
-        {
-          "path": "_games/pig-starcraft-2-florencio-vs-avilo-the-florencio-files-4.md",
-          "title": "StarCraft 2 - Florencio vs Avilo! | The Florencio Files #4",
-          "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush\r  -- Watch live at https://www.twitch.tv/x5_pig",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-vs-avilo-the-florencio-files-4/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-vs-avilo-the-florencio-files-4/",
-          "originalUrl": "https://youtube.com/watch?v=j4dkgFhTyGQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j4dkgFhTyGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT15M13S",
-          "provider": {
-            "name": "PiG",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Protoss"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/j4dkgFhTyGQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2018-05-24T00:49:07-07:00"
-        }
-      ],
-      "size": 251,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7hGsrlWElnU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],
@@ -1783,6 +1714,328 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/6XOOIeuFQHM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection"
+    },
+    {
+      "path": "_games/collections/beastyqtsc2-mass-infestors-to-grandmaster.md",
+      "title": "MASS Infestors to Grandmaster",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/beastyqtsc2-mass-infestors-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/collections/beastyqtsc2-mass-infestors-to-grandmaster/",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "topItems": [
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-mass-infestors-to-grandmaster.md",
+          "title": "StarCraft 2: MASS Infestors to Grandmaster!",
+          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  Also, I will soon begin to make videos featuring",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-infestors-to-grandmaster/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-infestors-to-grandmaster/",
+          "originalUrl": "https://youtube.com/watch?v=r4EBNNY_olg",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r4EBNNY_olg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT44M41S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Zerg"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/r4EBNNY_olg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-08-14T02:46:27-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-zerg-siege-tanks.md",
+          "title": "StarCraft 2: ZERG Siege Tanks!",
+          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  When you play against Terran with Mass Infestors,",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-zerg-siege-tanks/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-zerg-siege-tanks/",
+          "originalUrl": "https://youtube.com/watch?v=GqYa9T86FEM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GqYa9T86FEM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT42M59S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Zerg"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/GqYa9T86FEM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-08-15T03:48:50-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-neuraling-opponentsvoice-pack.md",
+          "title": "StarCraft 2: Neuraling Opponents....Voice Pack!",
+          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  In this episode, we learn that when you neural",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-neuraling-opponentsvoice-pack/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-neuraling-opponentsvoice-pack/",
+          "originalUrl": "https://youtube.com/watch?v=PnJM914mfms",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PnJM914mfms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT41M7S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Zerg"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/PnJM914mfms/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-08-15T16:12:44-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-stream-sniper-claims-innocence-from-ep1.md",
+          "title": "StarCraft 2: Stream Sniper Claims Innocence (From Ep1)",
+          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  In this episode we have a long discussion about",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-stream-sniper-claims-innocence-from-ep1/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-stream-sniper-claims-innocence-from-ep1/",
+          "originalUrl": "https://youtube.com/watch?v=efhBjjVEVr4",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/efhBjjVEVr4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT31M52S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Zerg"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/efhBjjVEVr4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-08-19T03:31:08-07:00"
+        }
+      ],
+      "size": 20,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/r4EBNNY_olg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection"
+    },
+    {
+      "path": "_games/collections/beastyqtsc2-mass-marines-to-grandmaster.md",
+      "title": "MASS Marines to Grandmaster!",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/beastyqtsc2-mass-marines-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/collections/beastyqtsc2-mass-marines-to-grandmaster/",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "topItems": [
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster.md",
+          "title": "StarCraft 2: MASS Marines to Grandmaster!",
+          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/",
+          "originalUrl": "https://youtube.com/watch?v=dTWvlG6Lork",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dTWvlG6Lork\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT45M15S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 52,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/dTWvlG6Lork/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-09-14T04:35:04-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-mass-marines-basetrading.md",
+          "title": "StarCraft 2: MASS Marines Basetrading!",
+          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-basetrading/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-basetrading/",
+          "originalUrl": "https://youtube.com/watch?v=51TeNfxbivw",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/51TeNfxbivw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT49M48S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/51TeNfxbivw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-09-15T05:08:13-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-mass-marines-mass-drops.md",
+          "title": "StarCraft 2: MASS Marines MASS Drops!",
+          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-mass-drops/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-mass-drops/",
+          "originalUrl": "https://youtube.com/watch?v=e06Mf8oU41E",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e06Mf8oU41E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT36M11S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/e06Mf8oU41E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-09-18T03:20:11-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-florencio-nexus-rush-vs-marines.md",
+          "title": "StarCraft 2: FLORENCIO Nexus Rush vs MARINES?!",
+          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-florencio-nexus-rush-vs-marines/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-florencio-nexus-rush-vs-marines/",
+          "originalUrl": "https://youtube.com/watch?v=fJOQJIAD9rI",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fJOQJIAD9rI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT34M9S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/fJOQJIAD9rI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-09-21T02:47:54-07:00"
+        }
+      ],
+      "size": 20,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dTWvlG6Lork/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=dAwxby8_M5E
 type: video
 length: PT20M13S
 publishedDateTime: 2021-12-15T09:21:00Z
-heat: 96
+heat: 97
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dAwxby8_M5E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "W0Rd46q2acsR7KrUIYOA3eaUZqbF4HOXamy+T3zdJBK/31tmz+EycVerolaX5jY/yyoj7wEAxZXtb9PsW+FF1adVzt++OUE82ZQWlI4KVwDlvCYLFX6ozXQsKa3BDtNauK4JvZtRPOqZI4530Svn9VioifilIAPsgbq8sPgaQcapJxHOAKdXwUtEQiFIDJ0mSyWExbd7U0ivcxJphtGpec80Izo6Q0vGKwU281ZLcAZi2lyPREUpl2+EC3HXsb+tu6eZsdDMw3nadNXoHG7v/RgOTuNvgjJADQE+rnBysJYrghXfnqIDg68bMFP+35eXbqHrp8o0c5ipAabgLIEaYkmHuvRBBF19oqSl6ClXP4W9IGIUhLrZl1mLM3maDTJ7g1U6ezzfcw23lS9qjbZnr6lQC5EEtw1RefVN/XFGbpI=;q0gYqAIuzUHAMDZ6jWGZvA=="
+secured: "Munyon/zfb2RNVuACq1SId/mjVAREIE9lSE+X7zJz26Q/fIlxekslU6CzvgymRp4uj1YOt+c1iUmSPqy0RVPBRGs8cqZfaeFaAK8TXndjDiTxBt0OVJGqOcQLkx0icX2kN1mRzyo9HBrvTs2zwcWX8Rh37/GtEVVH+kNfwIEnwtPWibjKm5QV9MBuqqlXimovQq/qaNBoqm0GxRxxoAWuWaw8LNQ9YPqBKQ7Y1duhJtU9LGlJDsmV9t+b4PedJ066GMgXzmIAvYuX0joP+CKB6OZ7ofMGaQghzbfOJEsTNHOHDTiJ2tJX6m2gfsmASSNHKm32ddpLVkEgTxFCwfhzf77g7vnMpxDXg57xDxBV+V3hQTzcPRCVEJBIskSGGoFOC5babVinwdf2olX2gvmE2c2oZlWIMimXRcCwD5mzZI=;mCTeCCUWc99JoqE6fAcYXQ=="
 ---
 

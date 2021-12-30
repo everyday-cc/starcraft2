@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M55S
 publishedDateTime: 2019-04-14T21:39:54Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rYgH0So1tIg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "o5/XbknJyT4aF/J9SOXHbGMup3uZqy8D7fM/l2dCuTJPw3fnTk0/VhjIDJT/OEUlG7gqkEH+GtWJlDzKwMU8wX6UZ3xvgxe3p5TUKmlCIgvscAjueLisHHzl7rIndvGVYow8RDBjUl1KtUQ1CrMY8LAFURo8i5Al3UY3YdiWaD+vnIc0+asBjIykB9y9U8AJpzRJATctH0qfBYqrgjfxi+alqL9UEU2XVdoDMEPYWNa1HI3/o8PokPdDcbJtb7jB6aHW8WJW7RhUwq0nJXZAheWhHs4k66fpWgk7PtGC4zv8H8dEEZosHakVxwP/QpgVehQaYIaij6nHnZ0xjrMZg1OUqqcV8CNIIblYJRLtJLT9PmPxr6cWui1X/vIqfPGv+25rAnLlBFlKDrtdpjobSoRPB2w/u3j54mXeg4j1XdU=;LfuveHxi96TSHplnVsbLaw=="
+secured: "QxYEHX94oxa+ct2DV/5cUUuZBM00RxTUSarmw4xEIZNxTZ/IBjZlObL7z/2xQrU/qKa0DRwvRL7rk61qnXlTbNAcg+Eoa3RBUW5/a9Zc0jzPvtMFGp/+B4MVXH5wF67JNiBL28DZLc5ULKlGUV+hyDwCeleKIRHFd9x7zFaTw5Z4OCptu3zN8hQXTS/EpRzA606h2qEiYnF2TtCUhM34egAlTU+I0Hes5VFf2XQOoJNWQbACkym4ZCDdtkKs1feZq6Xa2IPEOYIDzQ7y1chFq2n/I87cCEBbJI2bRYW/Yq8k8PLEsJLney6wDpwVZWfJ/B22v6fBoc2ICuQZlG2uJEL1KnlyNojREw1tsUwVCvP3+yJwnaQz7sxMMJaEFJO1x++YulCF+OYqTY5JotVopKQ7r/ECICgASiJOKJjyVJE=;zRpcTYCxZv59U4UQg9rV/g=="
 ---
 

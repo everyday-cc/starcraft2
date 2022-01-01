@@ -27,15 +27,6 @@ related:
       name: Boats.com
       domain: boats.com
     quality: 34
-  - title: "WoW Moviewatch: Starcraft Evacuation"
-    excerpt: "Starcraft: Evacuation is a short film by Youtuber Peter Stroll about a small Terran mining settlement that is under attack -- the story is relatively straightforward. What's pretty cool about this ..."
-    publishedDateTime: 2021-12-13T00:00:00Z
-    webUrl: "https://www.engadget.com/2014-12-13-wow-moviewatch-starcraft-evacuation.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 17
   - title: "Starcraft boats for sale in Soldotna, Alaska"
     excerpt: "With its inspired design, opulent appointments and impeccable fit and finish, Starcraft SX sets the standard that every other pontoon aspires to follow. But this is no show boat – with its standard HMX PR25 Performance Package,"
     publishedDateTime: 2021-12-26T20:43:00Z

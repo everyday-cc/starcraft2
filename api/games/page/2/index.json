@@ -43,25 +43,33 @@
       "publishedDateTime": "2021-12-17T04:26:22-08:00"
     },
     {
-      "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-sex-panther-1-base-thor-drop-twitch-plays-gabe-starcraft-2.md",
-      "title": "We paid a Pro to do Troll Builds: Sex Panther & 1-Base Thor Drop | Twitch Plays Gabe  - StarCraft 2",
-      "excerpt": "We paid Heromarine (Big Gabe) to participate in a Twitch Plays Gabe segment for PiGFest - and he delivered the Sex Panther build even though he didn't even know what it really was LOL. Also pulled off a fun 1-base Thor drop that was sick!  Heromarine's stream: https://www.twitch.tv/heromarine -- 🐷 Main",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-we-paid-a-pro-to-do-troll-builds-sex-panther-1-base-thor-drop-twitch-plays-gabe-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-we-paid-a-pro-to-do-troll-builds-sex-panther-1-base-thor-drop-twitch-plays-gabe-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=9HLc8gGwctQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9HLc8gGwctQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M11S",
+      "path": "_games/lowkotv-starcraft-2-the-legendary-secondary-back-up-forge-viewer-game.md",
+      "title": "StarCraft  2: The LEGENDARY Secondary Back-up Forge! (Viewer Game)",
+      "excerpt": "Silver league match of Zerg versus Protoss in StarCraft 2. From a Spine Crawler rush into a more macro focused game. If you have an awesome game of StarCraft 2 you want me to cast, you can submit to replays@lowko.tv.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-legendary-secondary-back-up-forge-viewer-game/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-legendary-secondary-back-up-forge-viewer-game/",
+      "originalUrl": "https://youtube.com/watch?v=lIczZa9lyEY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lIczZa9lyEY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M41S",
       "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "StarCraft 2"
       ],
-      "heat": 113,
+      "heat": 116,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/9HLc8gGwctQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/lIczZa9lyEY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -69,36 +77,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-11-24T15:43:19-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-when-a-ffa-is-both-insane-and-smooth-brained-beast-of-the-hill.md",
-      "title": "StarCraft 2 - When a FFA is both INSANE and Smooth Brained | Beast of the Hill",
-      "excerpt": "Beast of the Hill is a mod in Starcraft 2 that was created by Beastyqt where the aim is to occupy the red dot in the centre of the map. For this one, if you hold the middle it is worth 4 bases of mining! This one features our resident Smooth Brain, Santa Claws, and as usual he is up to no good! If you",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-when-a-ffa-is-both-insane-and-smooth-brained-beast-of-the-hill/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-when-a-ffa-is-both-insane-and-smooth-brained-beast-of-the-hill/",
-      "originalUrl": "https://youtube.com/watch?v=V9vkSaeYHLE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V9vkSaeYHLE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M30S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/V9vkSaeYHLE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-20T18:06:26-08:00"
+      "publishedDateTime": "2021-10-14T04:54:06-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-he-tricks-the-zerg-into-expanding-next-to-tempests-lol-florencio-files-253.md",
@@ -130,6 +109,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-12-22T22:06:37-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-if-this-is-uthermal-hes-at-least-4-tequilas-deep-smurf-detective-7.md",
+      "title": "StarCraft 2: “If this is uThermal he’s at least 4 tequilas deep” | Smurf Detective #7",
+      "excerpt": "Submitter: \"While gm is only 2 leagues above me uthermal is 3000 mmr above me if this is him. That said, for being pretty intoxicated I think I held my own well. forgetting glaves was rough though.\"  🔥New Community Submission Series: SMURF DETECTIVE! So you think you have faced a Smurf. Send in your",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-if-this-is-uthermal-hes-at-least-4-tequilas-deep-smurf-detective-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-if-this-is-uthermal-hes-at-least-4-tequilas-deep-smurf-detective-7/",
+      "originalUrl": "https://youtube.com/watch?v=W0Uxcmycubk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W0Uxcmycubk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M49S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/W0Uxcmycubk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-10-14T18:40:35-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-cheeses-maxpax-best-of-5.md",

@@ -807,7 +807,8 @@ items:
   - pig-banshees-in-the-backdoor-bcs-in-the-front-diamond-in-the-ruff-60-starcraft-2
   - pig-starcraft-2-he-tricks-the-zerg-into-expanding-next-to-tempests-lol-florencio-files-253
   - pig-starcraft-2-when-santa-drops-christmas-gifts-no-one-asked-for-icyfar-christmas-special
-  - pig-a-pro-player-underestimates-a-diamond-player-santa-claws-06
+  - pig-when-you-just-want-to-play-starcraft-but-flo-puts-you-in-jail-florencio-files-254
+  - pig-a-pro-player-underestimates-a-diamond-player-santa-claws-6
 
 topics:
   - StarCraft 2

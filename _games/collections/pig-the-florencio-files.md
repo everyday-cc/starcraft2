@@ -2,7 +2,7 @@
 title: "The Florencio Files"
 excerpt: "Welcome to this mystical StarCraft 2 playlist, the one-and-only™ documented archives of the legendary SEWER MERMAID!"
 type: collection
-heat: 63
+heat: 64
 
 provider:
   name: PiG
@@ -260,6 +260,7 @@ items:
   - pig-starcraft-2-florencio-discovers-the-swarm-host-florencio-files-251
   - pig-when-your-strategy-is-mint-but-your-opponent-has-300-apm-florencio-files-252-starcraft-2
   - pig-starcraft-2-he-tricks-the-zerg-into-expanding-next-to-tempests-lol-florencio-files-253
+  - pig-when-you-just-want-to-play-starcraft-but-flo-puts-you-in-jail-florencio-files-254
 
 topics:
   - StarCraft 2

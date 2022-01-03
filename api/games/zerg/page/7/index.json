@@ -4,45 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-storm-disruptor-drops-reynor-vs-harstem.md",
-      "title": "StarCraft 2: STORM & DISRUPTOR DROPS! (Reynor vs Harstem)",
-      "excerpt": "Reynor versus Harstem in a professional match of StarCraft 2. While Reynor mostly plays what we consider to be 'standard' at the pro level, Harstem brings some really cool moves to the game with Disruptor and High Templar Storm Drops.  Get more videos & support my work: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-storm-disruptor-drops-reynor-vs-harstem/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-storm-disruptor-drops-reynor-vs-harstem/",
-      "originalUrl": "https://youtube.com/watch?v=GM4VJo-uN5g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GM4VJo-uN5g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GM4VJo-uN5g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-15T02:06:48-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-swarm-hosts-nydus-worms.md",
       "title": "StarCraft 2: SWARM HOSTS & NYDUS WORMS!",
       "excerpt": "A crazy game of StarCraft 2 between Lambo and PtitDrogo. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://youtu.be/BfikSEkWzao  Three base Nydus Network and Swarm Host play is not a very common strategy. However, after PtitDrogo showed he was going to commit to too much",
@@ -489,6 +450,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-07-22T09:00:14-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-how-to-traumatise-zerg-players-diamond-in-the-ruff-58.md",
+      "title": "StarCraft 2 - How to Traumatise Zerg Players | Diamond in the Ruff #58",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. This time he's up against a Zerg player and purposely goes Spire Hunting with his favourite unit the Battle cruiser!  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-how-to-traumatise-zerg-players-diamond-in-the-ruff-58/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-how-to-traumatise-zerg-players-diamond-in-the-ruff-58/",
+      "originalUrl": "https://youtube.com/watch?v=9neSUtChASU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9neSUtChASU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M1S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9neSUtChASU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-13T01:53:13-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-nuking-every-inch-of-the-zerg-base-florencio-files-173.md",

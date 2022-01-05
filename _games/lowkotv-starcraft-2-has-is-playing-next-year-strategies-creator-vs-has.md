@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-has-is-playing-n
 type: video
 length: PT14M46S
 publishedDateTime: 2021-04-22T11:32:10Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EY33CBhYJIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "RxGJWfUKHKO1KZ9vCKLNCLCEQF2tZVQ7BRQYqdNVkVknqqrRbh8tuF/VHm8z3Gj2AcF3HxK1jWym0T4k/RLMtalxvnzw4kvB1CARL8xY7YB3GZhM3v2aHXtLo2TU8WrtQKRmoYt+xRS6Lq7+VILW2TDsBIMyTROVlVetEcY9NCvDAc8ZnP3gItYWrVFAcHy9Amesvk4yAAp4PKQMlg6ji2iJY3RZeNLgzp1/9RktoxmTFF2Ekc8UxLsMqu6HNXtr0WJDbfnpAHKCC68gyHtLM/LfqFPQhxjMg1r9ADDpnycIZOQX8CgZRR2OA/FFjUISgz4AxQqlifVBPu8PuW3IDJBh1qatmsPRySPHqO2L5C4DZQoPyeUvOGq8l0eyIwUKW7weN5nYSu7jxXpWUFASapcqmxiscLFak3QUZm+ZdKh/8JmmEGuvkc5ZSCpSTzp8;lUBbiUCaWxpspmgYCzQyxw=="
+secured: "mQVcrH2GNOrmgIuBBeXPaFYcqxab0HQw3lHjW55l2yfNR03avTHNN/k3/UCpukNHKiVMLYmNXwWRlUefdru16t6cDbOVObG9hm4c1tg2KMCttpFWxYZHDW/DaK0JOcY3qr3vvYGXu4YKCZ2JnaTsp/8rh++T+b5EcJ55oyRFfGk2sIVFLxN/QvW0HJt61dFgKkIlOX1JiWXYG3h9/beCUueBHFKmO2hGlGnaiVKNi8szZw5gxlnAyO5PzEd6ORZY8qzR2QhLhqAprvQwghA1u801e9eGOYMn/7Z8m4jXXmRMGS1Fj/8e4qVUU2zycDRImiQgLTmLTc73joXoy3BiB4Oi7GywFFZm5FxSTiA/CKoRmKztYDPIuP8leqoWxgeHSKbf+Uv52HvW43QbJmHMw74zMQrp0e/xsBwQGtIwQFokRaL49WeTuzCW2GGmjbF/;JGHweGJy7mbo5l6r3AYGcg=="
 ---
 

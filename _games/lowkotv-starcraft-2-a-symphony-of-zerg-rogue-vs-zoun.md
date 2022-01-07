@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=22xNrXWRNIw
 type: video
 length: PT59M26S
 publishedDateTime: 2021-08-16T10:53:32Z
-heat: 54
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/22xNrXWRNIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UEXvH9ngRI4PClF2XWqU1SxpET990+T+nEs0RxuwenZz2fj2hUvbYKXJTF5tMW4uMCxdwEdk4agbDihAiKScTwSCNDfmgNxAo1TVTKswgYIySu+PKry1MCQsvZ2nvRqJyVeewDtuMCI4pBRf0p3aZX0Zh+sUh25Sy7LDVM2/MeupRqpo3dkQ01T/CdmEsQ7hE8sNazy7FOa/ZC7Act7uzdyuNIC4zW/Lr7dOf3VJSUmmXV3rSYqrfnqmrVNH7mdhYf6XgeSmS8/N9Vc73uhzRY74jLVhjjiyM++xuX+NpgixceE3GckxBgxwWuwHMj/Cx04BorBpOUo+J5EU1orenwEQ5G5uRhDdLSHMrpOTPDfYUA4+knNfBX44BbaAL7DS5wUrp/LBgQmIhQCT7RLFPf5hhZost8cLpJXFqvTDlWw=;wgeNHqNTkVaWjTKnyc8ceQ=="
+secured: "GffrinruEmn+P18+mRXe4cs6OIzJyDfps9a3c2cx3sbnxyvNLoyaUbaszkUawORvLU1UWBIp7D9hDACAode8VjAR79koDRxoeF9syfL/1HFO3Ujod7XIl7p6qEUAjzC6DLUHR8xVXaDziY4pZKPbHYDV4MGHghu2E163fxivHhOeAWQhE7hXYHavauUlbpW9jzo5p8pTtEQWAJ+T1E46ax9+MDcGoBnKB696QdTBXp0SHSzyG9IfxkjH5J3RkWpkU+BXrjiUr/FcgQPqcnA6N3jZvJSU8leGb7F3O3vn4UVtR1qkMy+hMO8QZ5IX6+xGe6XmY1NKL73HofHNiw5527VLs8+to6aRmTacJGWfnvOjrcuaAPsJAiQd3dMLbayjBNkaUsfOvlu68fMr1y7SXo2/5in/28fsWfLy5qMo3V8=;Avzw2e3mK3pt+L8sxc43Tw=="
 ---
 

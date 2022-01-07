@@ -4,6 +4,37 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/videos/pig-coaching-pvz-blocking-lings-and-using-chargelots-plat.md",
+      "title": "Coaching PvZ - Blocking lings and using Chargelots - Plat",
+      "excerpt": "I coach a platinum Protoss on keeping his wall secure and using his chargelot army properly throughout the game. -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-pvz-blocking-lings-and-using-chargelots-plat/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-pvz-blocking-lings-and-using-chargelots-plat/",
+      "originalUrl": "https://youtube.com/watch?v=as-FQHkp4BY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/as-FQHkp4BY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H7M19S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-08-31T03:47:29-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/as-FQHkp4BY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-coaching-pvz-stats-3-oracle-into-immortal-sentry-push-diamond-2-coaching.md",
       "title": "Coaching PvZ Stats’ 3 oracle into immortal sentry push - Diamond 2 coaching",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;)    If you wish to support me please consider supporting my patreon: [https://www.patreon.com/PiGSC2](https://www.patreon.com/PiGSC2)    ### Videos don’t appear in your feed and you want to get notified about new uploads? Press the",
@@ -892,37 +923,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wfFJ9110Zoc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-pvt-overextensions-securing-lategame-econ-and-hitting-hard-timings-coaching-d1.md",
-      "title": "PvT Overextensions, Securing lategame Econ and Hitting Hard Timings -  Coaching D1",
-      "excerpt": "Just a nice, solid Protoss vs Terran Coaching covering important aspects that are sometimes overlooked! ;)  -- Watch live at https://www.twitch.tv/x5_pig My NEW HP: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-pvt-overextensions-securing-lategame-econ-and-hitting-hard-timings-coaching-d1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-pvt-overextensions-securing-lategame-econ-and-hitting-hard-timings-coaching-d1/",
-      "originalUrl": "https://youtube.com/watch?v=kHy04E7Bewc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kHy04E7Bewc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H19M39S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-02-27T15:53:16-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kHy04E7Bewc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

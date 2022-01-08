@@ -4,82 +4,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-blanketing-psi-storms-parting-vs-innovation.md",
-      "title": "StarCraft 2: BLANKETING PSI STORMS! (PartinG vs INnoVation)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between PartinG and INnoVation. In this series we see both players take a similiar approach in each game, but a different route in getting there. INnoVation has always been well known for playing a very mechanical and almost robotic style of Terran where he",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-blanketing-psi-storms-parting-vs-innovation/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-blanketing-psi-storms-parting-vs-innovation/",
-      "originalUrl": "https://youtube.com/watch?v=famGs6KHEd8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/famGs6KHEd8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M8S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/famGs6KHEd8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-02-24T04:52:26-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-bly-cheeses-clem-again.md",
-      "title": "StarCraft 2: Bly CHEESES Clem... (Again)!",
-      "excerpt": "Best-of-3 series of pro level StarCraft 2 between Bly and Clem with some very cheesy Zerg rushes.  Bly vs Clem in a best-of-5: https://youtu.be/1RpcgiNR9xE  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-bly-cheeses-clem-again/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-bly-cheeses-clem-again/",
-      "originalUrl": "https://youtube.com/watch?v=ei4U_Douz18",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ei4U_Douz18\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M59S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ei4U_Douz18/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-24T06:24:31-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-bly-plays-hyper-aggressive-zerg-maxpax-best-of-3.md",
       "title": "StarCraft 2: Bly Plays HYPER AGGRESSIVE Zerg! (MaxPax Best-of-3)",
       "excerpt": "Zerg can't be played much more aggressively than in this best-of-3 series in StarCraft 2. In this StarCraft 2 match I cast a game between Bly and MaxPax.  Bly vs goblin: https://youtu.be/CCpA8GYEl6k  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -1143,6 +1067,83 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-07-24T03:45:26-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-reynor-playing-protoss-bly-vs-reynor.md",
+      "title": "StarCraft 2: REYNOR PLAYING PROTOSS?! (Bly vs Reynor)",
+      "excerpt": "Since there are not a lot of big offline tournaments on the horizon, a few SC2 pro gamers have decided to rank up their offraces over the last week or two in StarCraft 2. In the case of Reynor, one of the best Zerg players in the world, he has been playing a significant amount of Protoss and also Terran.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynor-playing-protoss-bly-vs-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynor-playing-protoss-bly-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=WnOibyHGg00",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WnOibyHGg00\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WnOibyHGg00/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-03T03:13:26-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-reynors-crazy-apm-and-multi-tasking.md",
+      "title": "StarCraft 2: Reynor's Crazy APM and Multi Tasking!",
+      "excerpt": "Awesome match of Zerg versus Terran in StarCraft 2 between Reynor and soul.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynors-crazy-apm-and-multi-tasking/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-crazy-apm-and-multi-tasking/",
+      "originalUrl": "https://youtube.com/watch?v=rwkoi2sgjNk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rwkoi2sgjNk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M21S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rwkoi2sgjNk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-22T05:05:05-08:00"
     }
   ],
   "nextPage": 13

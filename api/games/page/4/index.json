@@ -116,44 +116,6 @@
       "publishedDateTime": "2021-12-09T05:48:56-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-has-loves-to-cannon-rush-best-of-3-vs-bly.md",
-      "title": "StarCraft 2: Has LOVES to CANNON RUSH! (Best-of-3 vs Bly)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between Has (Protoss) and Bly (Zerg). These two pro players like to play the game differently than pretty much every other progamer.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-has-loves-to-cannon-rush-best-of-3-vs-bly/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-has-loves-to-cannon-rush-best-of-3-vs-bly/",
-      "originalUrl": "https://youtube.com/watch?v=n-RjDOG7lrY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n-RjDOG7lrY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M23S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/n-RjDOG7lrY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-16T00:58:55-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-late-game-insanity-dark-vs-creator.md",
       "title": "StarCraft 2: LATE GAME INSANITY! (Dark vs Creator)",
       "excerpt": "Excellent game of professional Zerg versus Protoss in StarCraft 2. In this game between Dark and Creator we dive into the late game of this matchup and take a glimpse at certain unexplored strategies.   OlimoLeague on Patreon: https://www.patreon.com/olimoley   Become a YouTube member: https://lowko.tv/join",
@@ -1215,6 +1177,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-19T03:09:33-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serral-vs-clem-best-of-5.md",
+      "title": "StarCraft 2: SERRAL vs CLEM! (Best-of-5)",
+      "excerpt": "Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup I use: https://lowko.tv/setup/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-clem-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-clem-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=zaBWeiSN4co",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zaBWeiSN4co\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H5M27S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zaBWeiSN4co/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-03-02T05:21:09-08:00"
     }
   ],
   "nextPage": 5

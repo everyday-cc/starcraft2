@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarletts-golden
 type: video
 length: PT35M58S
 publishedDateTime: 2021-04-09T10:52:55Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YGsBtckySA8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1NclQnu+bA4hlU0r4FDRTF6nP0PIsqVMAFKrIXIx0lkFAWYXW9BUgArQxy9SSVodPhIWRgLfDXCrZ3oT8YNYL516Eo8xiPkOJCkIkV2WqHxXtTC78kqCNTYUhkvVGRga2ZGFw4cVEvG8ZjkNThRt9aNY9ekNSvxdAtSows1QDZtH/8I+9z9D4cpr/6AiGshFvfY4rOhjHhTB5Ti28mNxGDAA5Z3M9j1wUz5svQ89v4fKH2ZWL15tb4YIyrQeLHCKmrZdOoMk2431CwTuReZP/gkaEIpJ1/2ivuZc9anRTFzgcQIoTaL1VKFmfn6ObsrcA1SO1IlGxGW1i2vQWddi9a6R6ltn/kgSOiLXH/ws59MFHgoj1ADM/TyE35vn9TNI8w0XE+cdR5Y5s82DH2CZhEyXjka7CgCKrH1OZCX7DWE=;QEF5YxZV/UnjF7WoFFcrQw=="
+secured: "PWyGXOdnJNwSfR7wlB0e1Uam0oVvIHDli/hZJKV66pDP4zGvPCnEcVP9yftSUS0z4mkkbPDNBWEurqdh47/7EfUBFkHp/7CVnVhgUrRLkjiWylCkuGAU43RLHjhnj94r+qoMOl4lvzcBhjXvTAiyyhNp4WGi3xu315rULUX7CiMULVwl8tPVijTt86JZhZXXlTZu4KAeDUmvPOtraS0PCl64kvN+EkptZfqIjqRJQCSqKuADNsTUw3vGhcUMTGdC3PN64hXSJL+DEus/7SRZ1/ENcigk8RKYsAx4Z7YWPyNOlQw+GmTOZLksJc731M1B+KVOc7x1EY5Zd22GYIFQ4l1Rm32xBPkKtKLBl/38+67tMUZYtbjsLfFHsTfaNB22VQau4HeVpTvv/l2rc/kJQUulw06xeYTEynd+C4MkE8E=;ftNq9wsy8K+h/IU0h9hwDA=="
 ---
 

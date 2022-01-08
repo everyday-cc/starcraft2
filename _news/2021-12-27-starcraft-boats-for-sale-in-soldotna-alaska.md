@@ -18,15 +18,6 @@ topics:
   - StarCraft 2
 
 related:
-  - title: "Starcraft Storm 176 Sc boats for sale in United States"
-    excerpt: "Starcraft Storm takes the best of our top-of-the-line models and packs it into a more compact footprint that's easy to trailer and even easier to afford."
-    publishedDateTime: 2021-12-20T00:02:00Z
-    webUrl: "https://www.boats.com/boats-for-sale/?make=starcraft&model=storm-176-sc&country=united-states"
-    type: article
-    provider:
-      name: Boats.com
-      domain: boats.com
-    quality: 34
   - title: "Starcraft boats for sale in Lake Wallenpaupack, Pennsylvania"
     excerpt: "With its inspired design, opulent appointments and impeccable fit and finish, Starcraft SX sets the standard that every other pontoon aspires to follow. But this is no show boat – with its standard HMX PR25 Performance Package,"
     publishedDateTime: 2021-12-24T20:27:00Z

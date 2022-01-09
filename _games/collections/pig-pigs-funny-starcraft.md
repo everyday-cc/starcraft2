@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 64
+heat: 62
 
 provider:
   name: PiG
@@ -809,6 +809,7 @@ items:
   - pig-starcraft-2-when-santa-drops-christmas-gifts-no-one-asked-for-icyfar-christmas-special
   - pig-when-you-just-want-to-play-starcraft-but-flo-puts-you-in-jail-florencio-files-254
   - pig-a-pro-player-underestimates-a-diamond-player-santa-claws-6
+  - pig-when-protoss-squatters-take-terrans-main-base-diamond-in-the-ruff-61
 
 topics:
   - StarCraft 2

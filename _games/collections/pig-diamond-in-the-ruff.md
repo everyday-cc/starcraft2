@@ -69,6 +69,7 @@ items:
   - pig-starcraft-2-how-to-traumatise-zerg-players-diamond-in-the-ruff-58
   - pig-starcraft-2-insane-basetrade-diamond-in-the-ruff-59
   - pig-banshees-in-the-backdoor-bcs-in-the-front-diamond-in-the-ruff-60-starcraft-2
+  - pig-when-protoss-squatters-take-terrans-main-base-diamond-in-the-ruff-61
 
 topics:
   - StarCraft 2

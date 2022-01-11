@@ -4,36 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/winterstarcraft-new-players-guide-to-starcraft-2-beginner-multiplayerchoosing-race.md",
-      "title": "New Player's Guide to Starcraft 2 (Beginner Multiplayer/Choosing Race)",
-      "excerpt": "Starcraft 2 is FREE TO PLAY! I try to show all the things silver league me wishes he had known in 2010!! Important Links (to outside resources): Sc2ReplayStats: https://sc2replaystats.com/ Team Liquid: http://www.teamliquid.net/ Reddit Resources: https://www.reddit.com/r/starcraft/wiki/related_reddits",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-new-players-guide-to-starcraft-2-beginner-multiplayerchoosing-race/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-new-players-guide-to-starcraft-2-beginner-multiplayerchoosing-race/",
-      "originalUrl": "https://youtube.com/watch?v=bLR_DRS8LLU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bLR_DRS8LLU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M53S",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-11-19T09:03:49-08:00",
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bLR_DRS8LLU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/collections/davidangel64-starcraft-2-newbie-guide.md",
       "title": "Starcraft 2 Newbie Guide",
       "excerpt": "",
@@ -1707,6 +1677,37 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-zerg-macro-you-wont-believe-how-many-more-drones-i-got-starcraft-2.md",
+      "title": "Zerg Macro | You WONT BELIEVE how many MORE DRONES I got!!! [Starcraft 2]",
+      "excerpt": "In this guide we take a DEEP look at the nuances of droning, economy & macro to help you understand where you might be going wrong in your games. How is it that Grand Master's a pros generate so many more drones than you?!? You're about to find out :)  Zerg Macro | You WONT BELIEVE how many MORE DRONES",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-macro-you-wont-believe-how-many-more-drones-i-got-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-zerg-macro-you-wont-believe-how-many-more-drones-i-got-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=QmfbJTpcvt8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QmfbJTpcvt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M1S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-08-31T22:12:47-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QmfbJTpcvt8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
       ]
     }
   ],

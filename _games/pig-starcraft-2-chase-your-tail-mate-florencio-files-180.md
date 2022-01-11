@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=iaZWjv43jcg
 type: video
 length: PT30M37S
 publishedDateTime: 2020-11-04T17:00:12Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iaZWjv43jcg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UXs/FejJ/kdDKQCaKCsAK95qU8qZnQUphKH4/RcedaEQM8Nrh69M8VRC5Tk2qXsynQQKllKwkl6DEP5RsGREQSWwutdTiJQPqNXXoB/4fDYSSae1Z7OvyLu5LRUuVzsDtQBWWBPViOwt80SuMhjhrtWaXj6kgFi0r/1SjVvzQ45hDrw691AidsbXN9mAbT1QrAzHLSxNHYbISTlJb5gyp5Wvk7o1d1qo5VTZHYKDV3fkbOz1hQclstrikJXR7K+pGRqid3pPmAGue7WWgoMWC7LB8t109MLplW9/UgyAC5ol3JsfrLdd4ZHrvApdLo1wF9xpfwVtYUbCRPACs1jbT+eXIJiD8V68aEl5288KONmDfIMx0EGhXqN9Wx0Ti7/QoUV9IdaFw9QWdjfTGwpTEl3nYLwlOMRXK+naYJ+DGpM=;RCZgiRjcyo93SPC1Xcg0wQ=="
+secured: "sWIwDRm19+FcgQSb3XslmgOP8I2VTX0CqW68oPJnO+b2MPt7EtkOErQrKClSyZuxjqVNewuUhzteC7kbTcYQeKY33xcEXgcZu+w9UlDMK6d/KfAwePXk07GB9F6QHIURfMkMKqDk0wvsH4bZNV+iahdKbLRl3De4hll0Vh3RnVDRwSBLdC4i+ByERw4XCi2ZLHgku0MGw9iYiRzNMx7fAe0Zhk+WmMDqpmf+zb4FI/YUED4UoWePoRqqP3+En03KO18iolGDmncgu5XsSCetecoaGXOeTBSftWG92+oCfv2YFD5Q3MYLcTgAXKemzk6oCb2HlrmCK9A9ATQGPeldYLrvyVs2wpzTInWNCxKZQjVCDtaxKUPTY7g/ajwTeC05wBH3fDnEDcsURCU2vIine8nzx9EmvFwdKZa1msUPOjc=;bCCoxqEqBTmEaAGrxUe2lQ=="
 ---
 

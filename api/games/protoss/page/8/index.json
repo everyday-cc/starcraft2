@@ -4,6 +4,45 @@
   "page": 8,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-widow-mine-heroes-clem-vs-showtime.md",
+      "title": "StarCraft 2: WIDOW MINE HEROES! (Clem vs ShoWTimE)",
+      "excerpt": "Clem versus ShoWTimE in a best-of-5 series of professional StarCraft 2. A great series between two of the best pro gamers in SC2. In this series we see a variety of openers from both players. ShoWTimE goes for Stargate, Twilight and Robotics openers. Clem focuses primarily on Marines and Marauders, but",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-widow-mine-heroes-clem-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-widow-mine-heroes-clem-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=844oJOWK09Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/844oJOWK09Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT53M37S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/844oJOWK09Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-09T05:41:29-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-zerg-cheese-vs-protoss-cheese.md",
       "title": "StarCraft 2: ZERG CHEESE vs PROTOSS CHEESE!",
       "excerpt": "Proxy Hatcheries, Photon Cannons, Dark Templar and more! Subscribe for more videos: http://lowko.tv/youtube Battlecruiser death ball: https://goo.gl/cQoQgX  A really cool series of games played on the new ladder maps between Goblin and Nerchio in StarCraft 2. In this game both players decide to play",
@@ -785,14 +824,14 @@
       "publishedDateTime": "2021-01-01T13:31:01-08:00"
     },
     {
-      "path": "_games/pig-starcraft-2-dont-let-the-gremlin-steal-your-acorns-the-florencio-files-97.md",
-      "title": "StarCraft 2 - Don't let the gremlin steal your acorns! | The Florencio Files #97",
+      "path": "_games/pig-starcraft-2-dawn-of-the-dumb-the-florencio-files-98.md",
+      "title": "StarCraft 2 - Dawn of the Dumb | The Florencio Files #98",
       "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-dont-let-the-gremlin-steal-your-acorns-the-florencio-files-97/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-dont-let-the-gremlin-steal-your-acorns-the-florencio-files-97/",
-      "originalUrl": "https://youtube.com/watch?v=BLGM1bM8JXg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BLGM1bM8JXg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M31S",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-dawn-of-the-dumb-the-florencio-files-98/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-dawn-of-the-dumb-the-florencio-files-98/",
+      "originalUrl": "https://youtube.com/watch?v=ucrs1N-OgiA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ucrs1N-OgiA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M20S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -804,15 +843,15 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/BLGM1bM8JXg/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/ucrs1N-OgiA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-10-12T09:00:03-07:00"
+      "publishedDateTime": "2019-11-02T10:30:04-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-double-nydus-peekaboo-florencio-files-218.md",
@@ -903,36 +942,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-02-17T05:30:26-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-every-flying-unit-in-the-game-the-florencio-files-132.md",
-      "title": "StarCraft 2 - Every flying unit in the game! | The Florencio Files #132",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVD... Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-every-flying-unit-in-the-game-the-florencio-files-132/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-every-flying-unit-in-the-game-the-florencio-files-132/",
-      "originalUrl": "https://youtube.com/watch?v=CKTimvY_rC8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CKTimvY_rC8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M42S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CKTimvY_rC8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-11T04:00:05-07:00"
     }
   ],
   "nextPage": 9

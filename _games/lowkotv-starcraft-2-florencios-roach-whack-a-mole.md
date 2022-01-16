@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-florencios-roach
 type: video
 length: PT13M26S
 publishedDateTime: 2021-01-27T10:21:07Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ru_HglKItig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "U4D++JAesiAgcqDZNkQfAWhGwc3Z49YgIHhnxlRF46IeFGAj/iTYUdaxSpSJjcHUoM8Ht/m9FOH3Bt/M2QOMdZzsaAC2JlEgNmB48CzPRd4+9sZ9ZuTQ9fIdbi57ni6gVVTzia/ln8lOaacb9xe8PYXTD7rRW5dtzevl5czkEx2sumtyhYRH9lSS40kU1ttgx0KCzLPCX96SlWZ9KqUuBMF5/9OznO96RqgATCk+vBAIknqy3l/WOe0p/0ym2UihKc6uf2qnHbI/vtghaOwwaABSWVf9S0G1e6D2X/dYuBNeanhkZBGI+wtC6lz0eMduhw2oi4+logBl7W5UN8lH0mj37neNWtqPnbXIwJEwhonurXUOXkBICGFWDQ4gGNPP9pEQ0O0Gtsbhb8zQ4JVE7C7rGflJAV3xVchK/E5RhU0=;8hp7EbatVQzBqSDNkfSwag=="
+secured: "ovjSEw3i5GG5i2df3YXp4oXXcSVz5Pm+UswZN+CgZdOQggdMLw0LAh1byAQsckck4nCR4isPtnZ618hbN1Iqv9G94dI/67ekkUZBzS5Zu3SFhYd5ndRgW8MUzll8TKIbNNqAoThV97OhiVVvJw2FkgcMgMutFxkQwERfjnrkh+icB2KSx76YhExuZcKECi5Hw+9tFhE2bwldV6R1WH7prT1Q7SA1SP7RGW8u4IBCQyqmCZUEE35xj0V2s+RCnGSo4JUTCFXsL7cnVmH/ly+CK1+LXw7KYF1xIWLV2WSCUMT6/aBpb6aQ03LizGVi5tOoxj3uazwCTQMVnDm7jWzSV87gTTJhu8pKxXhA6CdVxuqUOAa624IbcUsx5dv4GbGPMEf4qCYYijK4ppci8/oYp+NvSv6D8398acl9nwdIKLo=;yzt5OQ91BTYLYBodSmg7tw=="
 ---
 

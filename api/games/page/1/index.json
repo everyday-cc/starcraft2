@@ -28,7 +28,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 405,
+      "heat": 316,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/tn_jBy_RUxA/maxresdefault.jpg",
@@ -67,7 +67,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 324,
+      "heat": 262,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/zCb-6IXCzNk/maxresdefault.jpg",
@@ -296,6 +296,45 @@
       "publishedDateTime": "2021-12-23T15:35:13-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
+      "title": "StarCraft 2: SERRAL vs MARU! (Best-of-7)",
+      "excerpt": "Merry Christmas everyone! The two best players currently in StarCraft 2 face off in a best-of-7 series. Serral (Zerg) takes on Maru (Terran). This is the Grand Finals of King of Battles 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-maru-best-of-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-maru-best-of-7/",
+      "originalUrl": "https://youtube.com/watch?v=NtD2vnq5rTY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NtD2vnq5rTY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H22M32S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 174,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NtD2vnq5rTY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-12-24T13:58:31-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-epic-match-clem-vs-dark-best-of-7.md",
       "title": "StarCraft 2: EPIC MATCH - Clem vs Dark! (Best-of-7)",
       "excerpt": "Epic match of professional StarCraft 2 between Clem and Dark. In this best-of-7 series from the TSL 7 we watch two top level pro gamers fight it out in some very clever games. Clem doesn't really lose Terran versus Zerg in Europe anymore, but Dark plays a Korean version of ZvT that's different than what",
@@ -332,45 +371,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-02T04:57:54-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
-      "title": "StarCraft 2: SERRAL vs MARU! (Best-of-7)",
-      "excerpt": "Merry Christmas everyone! The two best players currently in StarCraft 2 face off in a best-of-7 series. Serral (Zerg) takes on Maru (Terran). This is the Grand Finals of King of Battles 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-maru-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-maru-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=NtD2vnq5rTY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NtD2vnq5rTY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H22M32S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 171,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NtD2vnq5rTY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-12-24T13:58:31-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-epic-match-the-actual-game-of-the-year-clem-vs-showtime.md",
@@ -669,36 +669,6 @@
       "publishedDateTime": "2021-08-28T00:58:30-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-three-basetrades-in-one-game-rocker-vs-ukko-pvz.md",
-      "title": "StarCraft 2 - THREE BASETRADES IN ONE GAME | Rocker vs Ukko (PvZ)",
-      "excerpt": "These Smooth Brain players, Rocker (P) and Ukko (Z), are very high level GM players. Please enjoy this 40 minute basetrade extravaganza, like a game of musical chairs but for bases 🐷 https://www.patreon.com/PiGSC2  🐖 Watch PiGFest live on https://www.twitch.tv/x5_pig where these players plus 6 more",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-three-basetrades-in-one-game-rocker-vs-ukko-pvz/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-three-basetrades-in-one-game-rocker-vs-ukko-pvz/",
-      "originalUrl": "https://youtube.com/watch?v=1HGdRas4k9o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1HGdRas4k9o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 126,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1HGdRas4k9o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-24T00:21:00-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-battle-royale-pro-gamer-free-for-all.md",
       "title": "StarCraft 2: BATTLE ROYALE! (Pro Gamer Free-For-All)",
       "excerpt": "StarCraft 2 Battle Royale 6-man free-for-all between Maru, INnoVation, Hurricane, Impact, Solar and Patience. These pro gamers are some of the best players from South Korea. In this video I give commentary to this Battle Royale mod of a series of games that was organised by Crank.  Get more videos &",
@@ -775,6 +745,36 @@
       "publishedDateTime": "2021-12-11T02:54:23-08:00"
     },
     {
+      "path": "_games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-1-holdout-challenge.md",
+      "title": "StarCraft 2 - How Quickly Can SCARLETT Dispose Of Noobs? (Part 1) | Holdout Challenge",
+      "excerpt": "We paid Scarlett to 1v1 noobs. The challenge: the noobs needed to stay in the match as long as possible. Scarlett unleashed her cheesy plays to stop the clock. This Holdout Challenge was a part of  PiG Sty Festival 2021 https://www.pigstarcraft.com/about/pig-sty-festival/  🐷 https://www.patreon.com/PiGSC2",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-1-holdout-challenge/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-1-holdout-challenge/",
+      "originalUrl": "https://youtube.com/watch?v=hpv300poAUE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hpv300poAUE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M26S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 121,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hpv300poAUE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-02T00:55:49-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul.md",
       "title": "StarCraft 2: PROFESSIONAL 2v2?! (Maru & sOs vs MaxPax & souL)",
       "excerpt": "The standard competitive mode in StarCraft 2 is 1v1. However the OlimoLeague recently put on an event where they invited three teams of progamers to face off in a 2v2 (2 vs 2) event. In this video I cast a best-of-5 between Maru and sOs on one team, and MaxPax and souL on the other.  OlimoLeague on Patreon:",
@@ -814,14 +814,14 @@
       "publishedDateTime": "2021-07-29T04:34:49-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-florencios-300-iq-pylon-pathing-trick-2-games-pvt-florencio-files-250.md",
-      "title": "StarCraft 2 - FLORENCIO’S 300 IQ PYLON PATHING TRICK (2-games PvT) | Florencio Files #250",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. This time he's torturing Terrans in this 2-game compilation. What do you think of the pylon pathing trick in game 1? 300 IQ, or just standard smooth",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencios-300-iq-pylon-pathing-trick-2-games-pvt-florencio-files-250/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencios-300-iq-pylon-pathing-trick-2-games-pvt-florencio-files-250/",
-      "originalUrl": "https://youtube.com/watch?v=FMlBasuHDVY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FMlBasuHDVY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M18S",
+      "path": "_games/pig-starcraft-2-florencio-discovers-the-swarm-host-florencio-files-251.md",
+      "title": "StarCraft 2 - Florencio discovers the Swarm Host | Florencio Files #251",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, he discovers the Swarm Host and plays against his Daddy  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-discovers-the-swarm-host-florencio-files-251/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-discovers-the-swarm-host-florencio-files-251/",
+      "originalUrl": "https://youtube.com/watch?v=cc44DettCac",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cc44DettCac\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M39S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -833,7 +833,7 @@
       "heat": 118,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/FMlBasuHDVY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/cc44DettCac/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -841,7 +841,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-11-23T17:38:13-08:00"
+      "publishedDateTime": "2021-12-05T12:40:49-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-pro-games-at-extreme-game-speed-clem-vs-bly.md",

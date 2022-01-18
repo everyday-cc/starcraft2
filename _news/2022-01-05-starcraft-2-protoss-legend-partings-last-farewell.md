@@ -7,7 +7,7 @@ originalUrl: "https://www.invenglobal.com/articles/16029/starcraft-2-protoss-leg
 webUrl: "https://www.invenglobal.com/articles/16029/starcraft-2-protoss-legend-partings-last-farewell"
 type: article
 quality: 69
-heat: 89
+heat: 90
 published: true
 
 provider:

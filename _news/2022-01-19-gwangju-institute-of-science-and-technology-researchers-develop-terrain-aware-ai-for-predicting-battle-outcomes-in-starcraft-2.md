@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Gwangju Institute of Science and Technology Researchers Develop Terrain-Aware AI for Predicting Battle Outcomes in StarCraft 2"
-excerpt: "In particular, StarCraft II (SC2), one of the world's most popular and skill-demanding RTS games, has already been the object of a few groundbreaking AI-related studies. In SC2 matches, each player has to build up and command an army of varied units to defeat their opponent using wit and grit."
-publishedDateTime: 2022-01-19T13:42:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-gwangju-institute-science-technology-researchers-develop-terrain-aware-/2022/01/19/9528945.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-gwangju-institute-science-technology-researchers-develop-terrain-aware-/2022/01/19/9528945.htm"
+excerpt: "As the need for more sophisticated artificial intelligences (AIs) grows, the challenges that they must face along the way have to evolve"
+publishedDateTime: 2022-01-19T12:39:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gwangju-institute-of-science-and-technology-researchers-develop-terrain-aware-ai-for-predicting-battle-outcomes/article_3d528004-05de-58c5-a656-1ac01e3e68bf.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gwangju-institute-of-science-and-technology-researchers-develop-terrain-aware-ai-for-predicting-battle-outcomes/article_3d528004-05de-58c5-a656-1ac01e3e68bf.html"
 type: article
-quality: 0
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - StarCraft 2
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/77/4777e47e-07e7-5df3-a42e-1948bd3de3c2/61e8173251699.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "GIST Researchers develop Terrain-Aware AI for predicting battle outcomes in StarCraft 2"
@@ -33,6 +39,6 @@ related:
         height: 394
         isCached: true
 
-secured: "6m8TNGPb4y41WyyZ733zhwdH06R1XOr6mxwBvalDrVl3PZbXlm+K1m1vCWNos9caWzVonWNwbfWmivCSb8SSbOIQK/CrFqcqKdIShWf0ejt6B+y4Y4J+Y44Uv1cZmuJIl7pn9Of7QEp5ccMoR1ZXJly1ZkWUKATQEiwmOr1ZUPpZlIb22US8V1uoCkJV7SGinnXP/copvzzE7H2euYk4x75iX00HfQ/rfU7dNYxz8VcwVBSqXjyGKzCUF1rregT+fAC0R2nS3CVUJ9gvVU8SIZEsv0VXD16PsYzD13IJRbCJJcedRKyxjUy+vIhJoVSXefvLJ1r9lLt4K+ADHYKwPDeuCCG67JTuWfhKQoxNJdk=;75tWSq9xziZavNsvuPBmbg=="
+secured: "aqDEHrGL2b7UcYNVzx+c3PzxzLrWtBUAr8mVmfi8iNGPQ5COwPQirdEj7A1R2/KYeJhKJIjG+1fLOLuBwSk5rHd2ZCzm3YHL6ls2f++TqgT1hwow+cHAucswzlLTICsyw7yv8LlSn6aShjdnSEL09tVY/UOib3rAxiKYYPTI8XhE09rGQ5eiySngEy4JPr3Ozle0banDcAKBlBb35+4z7qQlI1xmsI8z/1hRskAkK+9O1KzQRe77OUBtCjOAajWw97y7xKwMVEogOWRn8eiZ9Slt7AUjv/oa4gbkXNDmo/BtH/ncU+LcyANroxL7sECi0TVHs8ADtOSlfZQ+/1ZUEg+BeDvdo9xrjonGOL1wjDc=;uxjMoECD/rX6L9K5HJkIjA=="
 ---
 

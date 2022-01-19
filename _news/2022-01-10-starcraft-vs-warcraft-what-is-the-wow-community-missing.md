@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "StarCraft 2: Legacy of the Void Sells 1 Million in 24 Hours"
+    excerpt: "Looking further into the future, Blizzard has said StarCraft III could happen, though it will depend on fan feedback. \"What the future holds really depends so much on what we hear back from players."
+    publishedDateTime: 2022-01-14T00:01:00Z
+    webUrl: "https://www.gamespot.com/articles/starcraft-2-legacy-of-the-void-sells-1-million-in-/1100-6432299/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/starcraft-2-legacy-of-the-void-sells-1-million-in-/1100-6432299/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-2-legacy-of-the-void-sells-1-million-in-/1100-6432299/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 97
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/mig/7/8/8/2/2797882-sc2lotv.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Watch New Trailer For Starcraft II: Legacy of the Void"
     excerpt: "Today at Blizzcon, Blizzard Entertainment released a new trailer for Starcraft II: Legacy of the Void, the conclusion in the Starcraft II trilogy, following Wings of Liberty and Heart of the Swarm."
     publishedDateTime: 2022-01-14T00:01:00Z
@@ -59,20 +75,6 @@ related:
       - url: "https://www.pcinvasion.com/wp-content/uploads/2022/01/20220114172852_1.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Star Discord is a StarCraft lookalike optimised for mobile by a one-man team, out now on iOS and Android"
-    excerpt: "Illogical Games has just announced the official release of Star Discord, the one-man indie dev's charming StarCraft lookalike on mobile. Featuring complex commands typical of Real-Time Strategy games revamped and optimised for mobile devices,"
-    publishedDateTime: 2022-01-14T10:32:00Z
-    webUrl: "https://www.pocketgamer.com/star-discord/starcraft-lookalike-optimised-for-mobile/"
-    type: article
-    provider:
-      name: pocketgamer
-      domain: pocketgamer.com
-    quality: 20
-    images:
-      - url: "https://media.pocketgamer.com/artwork/na-33773-1642157777/star-discord-ios-android-launch-cover.jpg"
-        width: 1010
-        height: 505
         isCached: true
 
 secured: "omF7Tl3NawGPujNF8PqYOUhk3Zj+oz/g7xCR25oMOR9GoAuRp+poEvNICIgskypUfOyX9dLDqtYj29lvcGIxLSYSlJfutyuYRAPxl2fQBYW5EvWjg4a9O2tJ9nJD6RJsSNuRj7M6sJaTDuJFmBoazv0LL5qNOLTaKJZN3KjPvxgFJtTfzL585VTFOlbY8XywOJFkMXpmO2VBUjhxMi8q5FzFQOolRHey7xFEqXSNZjDJ1LTtZ5HomVOh+aUBN1qqgB5qcYo5H4YVzpIwcZhTHK/xv8HeSxyvqFtwoovg+P87k0qK18fk43br9oy9f8cMgSTMqSEWhEu8EqntL11aTHb89+SYcyqpsUhjZT/uf+Q=;2OtrqVthvZ8atl5Micjkjw=="

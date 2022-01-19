@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=9wKKflX29tQ
 type: video
 length: PT19M23S
 publishedDateTime: 2019-05-01T20:17:23Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9wKKflX29tQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "B6YH0b/D6fK4k3ekXv3+yfasXv+JN2ybhF/w20AWt3XcVM7HBW7+oBHVO3eMvzbrRb109PYCZd1mp1+Xik7TY0jhf4NolVh4zkiEn47NG6N73H7TpbBp7vgEm200ryOoT+9E8erzo8FvdBIBVrdZCRUbDFV2WRZiZs4e3QtpIw0pAXFqYGPp5MitAPKnjS6xqZhfaN8lI4pJ2wt4GU+kcMmB63yuOcp95K4G5/Zfz1ZvsNyk9Ot766l+/s5sg7ufALSbEOeEL9VcTcHXFHjCOtJSI7eA0sIeWVL716RYpS2NbIVM9nBvI7MTL9fI0qBeMcu0zmy37B1soKZOYj+NDZZOcvTy4SDyh4ceQUF+AO0zKJAn9Cbmo3XXfpSYmqUNIGxiwUQ6JgO8CATa4wsCu4NcbfVfFNuyOtO81q22gkA=;y3QnSMN4Kiq4Ncy9n/Haag=="
+secured: "+hto3p18l8N5iyU/mste4wyPI610pxoiUB1bj0jEdwLSEmMXE04xLLyVwYQRRVv/A+4+Vs/Z3fWTZJ6qThVCIFi5pARCnIj4OwGmNKlbgVWK1/AiBoPs+sRLRYFrDQcukW++9Sah0rINshw/579dMpfRTHR5T+2ePxB/fldywSRrWg4rnrS1ZXii6FDYzGw5S+BxX5AAmA88E2435mb82Sxly+V7Cmrgiyy+XXVXzd6MBgS37sCgtgLULvPVFss234Tt22lrk8uNwsW22sAT4cpzyexJt0PJ0U3zsfqSnH+PiW/KAGLvHtrXPKhvbKsNJHMWOXfp5HGz5tCJuyDgpMW0arSMk/qS5ov3GcO8FeRgHU4HWxAxGTTHHyZgxvInogOz3Le1H/cstop/KfWj33V77EekrPNODv2nYxWJvN8=;jtWgykxt0dNMd+jmhX8xtA=="
 ---
 

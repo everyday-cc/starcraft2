@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Watch New Trailer For Starcraft II: Legacy of the Void"
+    excerpt: "Today at Blizzcon, Blizzard Entertainment released a new trailer for Starcraft II: Legacy of the Void, the conclusion in the Starcraft II trilogy, following Wings of Liberty and Heart of the Swarm."
+    publishedDateTime: 2022-01-14T00:01:00Z
+    webUrl: "https://www.gamespot.com/articles/watch-new-trailer-for-starcraft-ii-legacy-of-the-v/1100-6423451/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/watch-new-trailer-for-starcraft-ii-legacy-of-the-v/1100-6423451/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/watch-new-trailer-for-starcraft-ii-legacy-of-the-v/1100-6423451/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 97
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/536/5360430/2721486-trailer_starcraftii_legacyofthevoidoblivion_20141107.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Crossfire Legion hands-on preview — I can’t believe it’s not StarCraft"
     excerpt: "We had an early chance to try out a very early version of Crossfire Legion, an RTS set in the world of CrossFire."
     publishedDateTime: 2022-01-18T20:00:00Z
@@ -40,19 +56,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "EPT to spice up 2022 for all StarCraft II fans"
-    excerpt: "Starting in May with DreamHack SC2 Masters, the new run of ESL Pro Tour in StarCraft II is set to bring us a full year packed with online tournaments as well as the long awaited return to LAN! With over $1 million USD in prize money up for grabs at the three big stops at DreamHack Summer,"
-    publishedDateTime: 2022-01-12T10:55:00Z
-    webUrl: "https://www.eslgaming.com/article/ept-spice-2022-all-starcraft-ii-fans-4449"
+  - title: "StarCraft vs. Warcraft: What is the WoW community missing?"
+    excerpt: "Don't follow me? Basically, I've just been playing a lot of StarCraft 2 whenever I'm not raiding. Still, being heavily invested in WoW and StarCraft has really felt like living two lives at times ..."
+    publishedDateTime: 2022-01-10T00:00:00Z
+    webUrl: "https://www.engadget.com/2012-01-10-starcraft-vs-warcraft-what-is-the-wow-community-missing.html"
     type: article
     provider:
-      name: ESL Gaming
-      domain: eslgaming.com
+      name: Engadget
+      domain: engadget.com
     quality: 37
     images:
-      - url: "https://www.eslgaming.com/sites/default/files/styles/blog_big/public/2022-23-EPT-Sc2%20%281%29.jpg?itok=lTsNtaTR"
-        width: 705
-        height: 308
+      - url: "https://s.yimg.com/uu/api/res/1.2/s9kQseKPZV5RWV_A0DWE3g--~B/aD0zNTA7dz01ODA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/wow.joystiq.com/media/2012/01/wowandstarcrafthearts.png"
+        width: 580
+        height: 350
         isCached: true
 
 secured: "OL5sQMhtgpqbv5LiJgOGZTq6cl/b1ymBeleVrw9F3aY4nkcINjLGTeSvVgnx+lR71sWmLlYxSrxoPlR16G59ztbH08h6aYl/z5AHR+mEaxpRiGnp0/hXGd2XWu/bxbBcV4PcA9iiY36DEvtk9nWFMAr11kuhVIkMXz5NJxHsb5liobgfZ/lG0UovOfoprA6SUGDVTYyjsi1Be0LOfSOoln8o7F0SEM2h1gxIRKAV2HQJA39OYf92lyZk80fEVISvn9c3Dq1Jyp/d7rrgiHRw5HW8ZPnwyvluiEmByUbcwyEeZV/FKWrop8Wy9QNKsTacBgFRimFYQkX/r3NyvMcA5uI8p8pbGNE6h2W6zPjgzjiRNoP6mzpVg4bSa3Pcs6b50HmbLFHvFYOGObI/iuSkCJ16/5CNAokVckdEYBJfTSbaSOXWUQ/4eGP6VJ7EqCBlc6HWx91RHrj2zVET/8uydOXCS3ihn9yADNnBpZVFF2cQLSFCwBcf/dgaDFE7JJaS9crXkPrW9VrBcO5eljK0Tg==;csCXx/gZRt/ivXqbuvqFzA=="

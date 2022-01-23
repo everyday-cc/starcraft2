@@ -1,0 +1,27 @@
+---
+title: "Mama’s Chads | That Belongs in a Museum ICYFAR G2"
+excerpt: "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they had to use the “rarest” upgrades!   NEW ICYFAR CHALLENGE: \"Inside of You\" - Slide your base into their base. e.g. Floating buildings in, proxy-hatch/Nexus in the main. Send submissions to fluxiorsc@gmail.com"
+originalUrl: https://youtube.com/watch?v=6CxZ5HLwvng
+type: video
+length: PT24M55S
+publishedDateTime: 2021-06-01T12:46:41Z
+heat: 52
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6CxZ5HLwvng\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: PiG
+  domain: youtube.com
+
+topics:
+  - StarCraft 2
+
+images:
+  - url: https://i.ytimg.com/vi/6CxZ5HLwvng/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "gbbm+XDdagQhSjJlc/B9B3ynbyp9z8YfyJq8amiHKzSnynvVP3I6GLyrl0m5oWmH0g1LQluZ2Ou/1EYhaomNmKhktMoUDcSF4wDg7kx8S+QIxAd0h2nBsKnurtfJhAjEaFTRDgetUhvx/g+ROq6WHbwiDokx3DXJ/q9UNs2Gr1FE2QZXNeI4UFtBc8HVOHXrNxpl4JjChVmQvX3luhKxDNNLWW1B3IdNugtVBodptU0HAzXGjS1IU2kuv1/VIQz1ezoPcWfGGngntpQdku6gL5glulcSir+HBE/DoVf2YykbrsXwvXhc2Bmo5fZBhF5inzI1T/tvl12ahbdY3vgIrlaJK4TSf2FquBxJnj0ZqandprUTL+mv2ClqQ4I6VyHIu8Lf7b0mXZ1azQdTFmfhuQ==;ZBR6hOTDhTZVkF27Z6a8RQ=="
+---
+

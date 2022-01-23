@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-22-new-starcraft-game-potentially-teased-by-blizzard-boss.md",
+      "title": "New Starcraft Game Potentially Teased by Blizzard Boss",
+      "excerpt": "A new game in the Starcraft series has potentially been teased by one of the current boss at Blizzard Entertainment. Over the past week, a number of fans have loudly been voicing which franchises belonging to Activision and Blizzard they would like to see make a comeback in the wake of Microsoft's acquisition of both publishers.",
+      "sourceUrl": null,
+      "webUrl": "https://comicbook.com/gaming/news/starcraft-blizzard-new-game-tease/",
+      "originalUrl": "https://comicbook.com/gaming/news/starcraft-blizzard-new-game-tease/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2021/03/18/2a985f10-d6cb-4f52-b1f6-0b9d414be923/playstation-plus-pink-1226515.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/starcraft-blizzard-new-game-tease/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/starcraft-blizzard-new-game-tease/",
+      "publishedDateTime": "2022-01-21T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-starcraft-2-legacy-of-the-void-sells-1-million-in-24-hours.md",
       "title": "StarCraft 2: Legacy of the Void Sells 1 Million in 24 Hours",
       "excerpt": "Looking further into the future, Blizzard has said StarCraft III could happen, though it will depend on fan feedback. \"What the future holds really depends so much on what we hear back from players.",
@@ -10,7 +52,7 @@
       "originalUrl": "https://www.gamespot.com/articles/starcraft-2-legacy-of-the-void-sells-1-million-in-/1100-6432299/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -50,49 +92,6 @@
       ],
       "topics": [
         "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-starcraft-2-protoss-legend-partings-last-farewell.md",
-      "title": "Starcraft 2 Protoss legend, PartinG’s last farewell",
-      "excerpt": "There have been amazing players over the long history of Starcraft 2. Some players have been at the top for a long period of time, some were forgotten before any fans started to really know them. Amon",
-      "sourceUrl": null,
-      "webUrl": "https://www.invenglobal.com/articles/16029/starcraft-2-protoss-legend-partings-last-farewell",
-      "originalUrl": "https://www.invenglobal.com/articles/16029/starcraft-2-protoss-legend-partings-last-farewell",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.invenglobal.com/upload/image/2021/12/27/o1640628722688159.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inven Global",
-        "domain": "invenglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
       ]
     },
     {

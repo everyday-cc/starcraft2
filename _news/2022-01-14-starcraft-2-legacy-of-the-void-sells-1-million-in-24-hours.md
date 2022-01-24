@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/starcraft-2-legacy-of-the-void
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-2-legacy-of-the-void-sells-1-million-in-/1100-6432299/"
 type: article
 quality: 97
-heat: 165
+heat: 166
 published: true
 
 provider:

@@ -4,258 +4,26 @@
   "page": 51,
   "value": [
     {
-      "path": "_games/pig-cheesedown-2-noregret-vs-has-g3-6-interview.md",
-      "title": "CHEESEDOWN #2 - Noregret vs Has G3-6 + Interview",
-      "excerpt": "In their first series Noregret narrowly triumphed over the taiwanese player. Now Has will have to unholster every cannon and proxy dark shrine in his arsenal to bring it back and fight for the title. I’m also bloody curious to see if chronoboost makes up for the lack of a MSC when a match is full on",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-cheesedown-2-noregret-vs-has-g3-6-interview/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-cheesedown-2-noregret-vs-has-g3-6-interview/",
-      "originalUrl": "https://youtube.com/watch?v=NMxrMonhoJ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NMxrMonhoJ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M55S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NMxrMonhoJ0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-02T17:27:28-07:00"
-    },
-    {
-      "path": "_games/pig-cheesedown-3-has-vs-noregret.md",
-      "title": "Cheesedown #3 - Has vs NoRegret",
-      "excerpt": "The cheesiest Protoss fights against the cheesiest zerg in their 3rd best of 7 CHEESEDOWN showmatch . Big thanks to CraywithaK for sponsoring the prize money!  -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-cheesedown-3-has-vs-noregret/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-cheesedown-3-has-vs-noregret/",
-      "originalUrl": "https://youtube.com/watch?v=cSVIEy7CWxs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cSVIEy7CWxs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT52M18S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cSVIEy7CWxs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-02T17:27:37-07:00"
-    },
-    {
-      "path": "_games/pig-cheesedown-has-vs-noregret-g1.md",
-      "title": "CHEESEDOWN! Has vs NoRegreT - G1",
-      "excerpt": "I cast a bo7 $100USD Showmatch between the two craziest players out there, Has and Noregret! Both play wild, aggressive, and all-in styles. They love proxies and 1-base plays and NEVER play standard. This series lived up to the hype as we decide who is the KING OF CHEESE! -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-cheesedown-has-vs-noregret-g1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-cheesedown-has-vs-noregret-g1/",
-      "originalUrl": "https://youtube.com/watch?v=figzGDNCrmo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/figzGDNCrmo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M43S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/figzGDNCrmo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-12-05T01:38:51-08:00"
-    },
-    {
-      "path": "_games/pig-cheesedown-has-vs-noregret-g2.md",
-      "title": "CHEESEDOWN! Has vs NoRegreT - G2",
-      "excerpt": "I cast a bo7 $100USD Showmatch between the two craziest players out there, Has and Noregret! Both play wild, aggressive, and all-in styles. They love proxies and 1-base plays and NEVER play standard. This series lived up to the hype as we decide who is the KING OF CHEESE!\r  -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-cheesedown-has-vs-noregret-g2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-cheesedown-has-vs-noregret-g2/",
-      "originalUrl": "https://youtube.com/watch?v=8KipWb5hipU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8KipWb5hipU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M7S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8KipWb5hipU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-12-05T01:38:51-08:00"
-    },
-    {
-      "path": "_games/pig-cheesedown-has-vs-noregret-g3-4.md",
-      "title": "CHEESEDOWN! Has vs NoRegreT - G3-4",
-      "excerpt": "I cast a bo7 $100USD Showmatch between the two craziest players out there, Has and Noregret! Both play wild, aggressive, and all-in styles. They love proxies and 1-base plays and NEVER play standard. This series lived up to the hype as we decide who is the KING OF CHEESE!\r  -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-cheesedown-has-vs-noregret-g3-4/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-cheesedown-has-vs-noregret-g3-4/",
-      "originalUrl": "https://youtube.com/watch?v=neXClhHGPQ4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/neXClhHGPQ4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M31S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/neXClhHGPQ4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-12-05T01:38:51-08:00"
-    },
-    {
-      "path": "_games/pig-cheesedown-has-vs-noregret-g5-6.md",
-      "title": "CHEESEDOWN! Has vs NoRegreT - G5-6",
-      "excerpt": "I cast a bo7 $100USD Showmatch between the two craziest players out there, Has and Noregret! Both play wild, aggressive, and all-in styles. They love proxies and 1-base plays and NEVER play standard. This series lived up to the hype as we decide who is the KING OF CHEESE!\r  -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-cheesedown-has-vs-noregret-g5-6/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-cheesedown-has-vs-noregret-g5-6/",
-      "originalUrl": "https://youtube.com/watch?v=wkDHsu8uC4Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wkDHsu8uC4Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M1S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wkDHsu8uC4Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-12-05T01:38:51-08:00"
-    },
-    {
-      "path": "_games/pig-cheesedown-has-vs-noregret-g7.md",
-      "title": "CHEESEDOWN! Has vs NoRegreT - G7",
-      "excerpt": "I cast a bo7 $100USD Showmatch between the two craziest players out there, Has and Noregret! Both play wild, aggressive, and all-in styles. They love proxies and 1-base plays and NEVER play standard. This series lived up to the hype as we decide who is the KING OF CHEESE! -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-cheesedown-has-vs-noregret-g7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-cheesedown-has-vs-noregret-g7/",
-      "originalUrl": "https://youtube.com/watch?v=pQzSAf-XvE8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pQzSAf-XvE8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M31S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pQzSAf-XvE8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-12-05T01:39:14-08:00"
-    },
-    {
-      "path": "_games/pig-crimes-against-humanity-about-tree-fiddy-icyfar-g4.md",
-      "title": "Crimes against Humanity | \"About Tree Fiddy\" ICYFAR G4",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they harassed with about 350 minerals worth of units.  NEW ICYFAR CHALLENGE: \"Interpretive Dance\" - type your favourite song or music genre in chat at the start of the game and then show us your",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-crimes-against-humanity-about-tree-fiddy-icyfar-g4/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-crimes-against-humanity-about-tree-fiddy-icyfar-g4/",
-      "originalUrl": "https://youtube.com/watch?v=dOuySPAZ0oo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dOuySPAZ0oo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dOuySPAZ0oo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-crouching-cannon-fainting-minotaur-share-the-load-icyfar-g3.md",
-      "title": "Crouching Cannon, Fainting Minotaur - Share the Load ICYFAR G3",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they used as many drops as possible.  Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-crouching-cannon-fainting-minotaur-share-the-load-icyfar-g3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-crouching-cannon-fainting-minotaur-share-the-load-icyfar-g3/",
-      "originalUrl": "https://youtube.com/watch?v=ZnkmaGeaLM4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZnkmaGeaLM4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M17S",
+      "path": "_games/pig-icyfar-an-ode-to-byun-sick-micro-g1-the-pig-daily-145.md",
+      "title": "ICYFAR - An Ode to Byun - Sick Micro - G1 - The PiG Daily #145",
+      "excerpt": "THIS WEEKS ICYFAR: \"Suprise Motherfucker - Always attack at two locations at once\" - Send submissions to pigrandom88@gmail.com as attachment AND only ICYFAR as title! Latest submission is 24 hours before the show airs on the tuesday (AM/EU) /wednesday (AU) daily.\r  Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-icyfar-an-ode-to-byun-sick-micro-g1-the-pig-daily-145/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-icyfar-an-ode-to-byun-sick-micro-g1-the-pig-daily-145/",
+      "originalUrl": "https://youtube.com/watch?v=T0ZeYbWtfGA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T0ZeYbWtfGA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M45S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Terran"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ZnkmaGeaLM4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/T0ZeYbWtfGA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -266,13 +34,365 @@
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
     },
     {
-      "path": "_games/pig-cyclone-vs-voidray-war-grim-reaper-3-starcraft-2.md",
-      "title": "Cyclone vs Voidray WAR | Grim Reaper #3 - StarCraft 2",
-      "excerpt": "-- 🐷 Want more? Help support me! https://www.patreon.com/PiGSC2 🐖 Watch live at https://www.twitch.tv/x5_pig 🐽 Linktree: https://linktr.ee/PiGStarcraft 👕 Merch: https://teespring.com/stores/pig-sc2 -- 🤯 ICYFAR Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUczdbU-zuY0-vykRSR1YsLC 🧜",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-cyclone-vs-voidray-war-grim-reaper-3-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-cyclone-vs-voidray-war-grim-reaper-3-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=QZmTY9duCFw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QZmTY9duCFw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "path": "_games/pig-icyfar-an-ode-to-byun-sick-micro-g2-the-pig-daily-145.md",
+      "title": "ICYFAR - An Ode to Byun - Sick Micro - G2 - The PiG Daily #145",
+      "excerpt": "THIS WEEKS ICYFAR: \"Suprise Motherfucker - Always attack at two locations at once\" - Send submissions to pigrandom88@gmail.com as attachment AND only ICYFAR as title! Latest submission is 24 hours before the show airs on the tuesday (AM/EU) /wednesday (AU) daily.\r  Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-icyfar-an-ode-to-byun-sick-micro-g2-the-pig-daily-145/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-icyfar-an-ode-to-byun-sick-micro-g2-the-pig-daily-145/",
+      "originalUrl": "https://youtube.com/watch?v=AIWQcyEYTJE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AIWQcyEYTJE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M33S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AIWQcyEYTJE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-icyfar-an-ode-to-byun-sick-micro-g3-the-pig-daily-145.md",
+      "title": "ICYFAR - An Ode to Byun - Sick Micro - G3 - The PiG Daily #145",
+      "excerpt": "THIS WEEKS ICYFAR: \"Suprise Motherfucker - Always attack at two locations at once\" - Send submissions to pigrandom88@gmail.com as attachment AND only ICYFAR as title! Latest submission is 24 hours before the show airs on the tuesday (AM/EU) /wednesday (AU) daily.\r  Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-icyfar-an-ode-to-byun-sick-micro-g3-the-pig-daily-145/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-icyfar-an-ode-to-byun-sick-micro-g3-the-pig-daily-145/",
+      "originalUrl": "https://youtube.com/watch?v=NNnjqxoW5Gg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NNnjqxoW5Gg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M1S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NNnjqxoW5Gg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-icyfar-new-unitsabilities-g1-vibes-burrowed-infestor-tactics-the-pig-daily-96.md",
+      "title": "ICYFAR - New Units/Abilities! G1 - Vibe’s Burrowed-Infestor tactics - The PiG Daily #96",
+      "excerpt": "THIS WEEKS ICYFAR: Send through your replays playing “Knife Fight in a Phone Booth - You can't go above 40 workers ever”. The more back and forth or creative the better! Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as title! Lastest submission until the second daily of the week.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-icyfar-new-unitsabilities-g1-vibes-burrowed-infestor-tactics-the-pig-daily-96/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-icyfar-new-unitsabilities-g1-vibes-burrowed-infestor-tactics-the-pig-daily-96/",
+      "originalUrl": "https://youtube.com/watch?v=C7vAs01GFmI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C7vAs01GFmI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/C7vAs01GFmI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-icyfar-new-unitsabilities-g2-nydus-swarmhost-zvz-the-pig-daily-96.md",
+      "title": "ICYFAR - New Units/Abilities! G2 - Nydus Swarmhost ZvZ - The PiG Daily #96",
+      "excerpt": "THIS WEEKS ICYFAR: Send through your replays playing “Knife Fight in a Phone Booth - You can't go above 40 workers ever”. The more back and forth or creative the better! Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as title! Lastest submission until the second daily of the week.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-icyfar-new-unitsabilities-g2-nydus-swarmhost-zvz-the-pig-daily-96/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-icyfar-new-unitsabilities-g2-nydus-swarmhost-zvz-the-pig-daily-96/",
+      "originalUrl": "https://youtube.com/watch?v=uJTWIBOOu4I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uJTWIBOOu4I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M48S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uJTWIBOOu4I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-icyfar-new-unitsabilities-g3-game-of-the-day-burrowed-infestor-comeback-the-pig-daily-96.md",
+      "title": "ICYFAR - New Units/Abilities! G3 - Game of the Day - Burrowed Infestor comeback! - The PiG Daily #96",
+      "excerpt": "THIS WEEKS ICYFAR: Send through your replays playing “Knife Fight in a Phone Booth - You can't go above 40 workers ever”. The more back and forth or creative the better! Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as title! Lastest submission until the second daily of the week.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-icyfar-new-unitsabilities-g3-game-of-the-day-burrowed-infestor-comeback-the-pig-daily-96/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-icyfar-new-unitsabilities-g3-game-of-the-day-burrowed-infestor-comeback-the-pig-daily-96/",
+      "originalUrl": "https://youtube.com/watch?v=HMs_R2qlnpI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HMs_R2qlnpI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M5S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HMs_R2qlnpI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-ill-never-show-mercy-early-on-strategy-trumps-mechanics-icyfar-g3-4.md",
+      "title": "“I’ll never show mercy early on” - Strategy Trumps Mechanics ICYFAR G3 + 4",
+      "excerpt": "Hey guys! we are back with a new person in charge of ICYFAR, yes this means that the email for submissions HAS CHANGED! In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were trying to play with less than 100 APM!  CURRENT ICYFAR CHALLENGE:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-ill-never-show-mercy-early-on-strategy-trumps-mechanics-icyfar-g3-4/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-ill-never-show-mercy-early-on-strategy-trumps-mechanics-icyfar-g3-4/",
+      "originalUrl": "https://youtube.com/watch?v=D0a2Vjhf7i4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D0a2Vjhf7i4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M59S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/D0a2Vjhf7i4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-illusions-michael-tricks-are-what-a-wh-does-for-money-icyfar-g1.md",
+      "title": "Illusions, Michael | Tricks are what a wh$% does for money ICYFAR G1",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to use spellcasters as creatively as possible.  NEW ICYFAR CHALLENGE: \"Forced Quarantine\" - Stop your opponent expanding and contain them as much as possible! Send submissions to fluxiorsc@gmail.com",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-illusions-michael-tricks-are-what-a-wh-does-for-money-icyfar-g1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-illusions-michael-tricks-are-what-a-wh-does-for-money-icyfar-g1/",
+      "originalUrl": "https://youtube.com/watch?v=48aH7yUTllA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/48aH7yUTllA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M5S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/48aH7yUTllA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-im-a-rotterdam-fanboy-fanatical-fanboy-icyfar-g1.md",
+      "title": "“I’m a Rotterdam Fanboy” | Fanatical Fanboy ICYFAR G1",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they imitated their favorite progamers/StarCraft personality.   CURRENT ICYFAR CHALLANGE: \"You're playing the game wrong!\" - Use a build or style from a different matchup to the one you're playing",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-im-a-rotterdam-fanboy-fanatical-fanboy-icyfar-g1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-im-a-rotterdam-fanboy-fanatical-fanboy-icyfar-g1/",
+      "originalUrl": "https://youtube.com/watch?v=gVn2DwGohD0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gVn2DwGohD0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M4S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gVn2DwGohD0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-im-calling-my-cousins-forced-quarantine-icyfar-g2.md",
+      "title": "\"I’m calling my cousins!\" | Forced Quarantine ICYFAR G2",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to contain their opponent as much as possible.  NEW ICYFAR CHALLENGE: \"Spit Balls\" - Harass your opponent even more than that subsitute teacher you made cry in 5th grade. Send submissions",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-im-calling-my-cousins-forced-quarantine-icyfar-g2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-im-calling-my-cousins-forced-quarantine-icyfar-g2/",
+      "originalUrl": "https://youtube.com/watch?v=KvSqcdI4YFA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KvSqcdI4YFA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M10S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KvSqcdI4YFA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-im-going-to-drop-you-now-just-wait-and-see-fakeout-g1.md",
+      "title": "“I’m going to drop you now, just wait and see” - Fakeout - G1",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players had to show their best Fakeouts - tricking their opponents with fake rushes, drops and tech paths!\r \r THIS WEEKS ICYFAR CHALLENGE: 1A - You arent allowed to micro your units. Interpretation is as always up to you! Send submissions",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-im-going-to-drop-you-now-just-wait-and-see-fakeout-g1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-im-going-to-drop-you-now-just-wait-and-see-fakeout-g1/",
+      "originalUrl": "https://youtube.com/watch?v=AnsNIZjbkvA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AnsNIZjbkvA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M13S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AnsNIZjbkvA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-im-in-ya-base-ka-boom-baby-1.md",
+      "title": "I’m in ya Base! | Ka BOOM Baby! #1",
+      "excerpt": "A New format?!  Check out her twitch:  https://www.twitch.tv/booooooooooooooooooom/   Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-im-in-ya-base-ka-boom-baby-1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-im-in-ya-base-ka-boom-baby-1/",
+      "originalUrl": "https://youtube.com/watch?v=563QVZAQ9GA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/563QVZAQ9GA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M50S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/563QVZAQ9GA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:47:39-07:00"
+    },
+    {
+      "path": "_games/pig-im-sorry-im-just-learning-this-build-spit-balls-harassment-g2.md",
+      "title": "“I’m Sorry, I’m just learning this build” | Spit Balls Harassment G2",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-im-sorry-im-just-learning-this-build-spit-balls-harassment-g2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-im-sorry-im-just-learning-this-build-spit-balls-harassment-g2/",
+      "originalUrl": "https://youtube.com/watch?v=usYf6FQt3b0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/usYf6FQt3b0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M2S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/usYf6FQt3b0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-imaginary-battlecruiser-rush-diamond-in-the-ruff-30-starcraft-2.md",
+      "title": "IMAGINARY BATTLECRUISER RUSH | Diamond in the Ruff #30 - StarCraft 2",
+      "excerpt": "I cast a funny StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Zerg opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13 | https://www.youtube.com/ruff_stuff",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-imaginary-battlecruiser-rush-diamond-in-the-ruff-30-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-imaginary-battlecruiser-rush-diamond-in-the-ruff-30-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=AVOPRl1OT8Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AVOPRl1OT8Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT12M7S",
       "provider": {
         "name": "PiG",
@@ -285,7 +405,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/QZmTY9duCFw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/AVOPRl1OT8Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -293,434 +413,16 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-06-01T05:47:10-07:00"
+      "publishedDateTime": "2021-01-25T14:38:17-08:00"
     },
     {
-      "path": "_games/pig-diplomatic-embassy-icyfar-distraction-lul-compilation.md",
-      "title": "DIPLOMATIC EMBASSY | ICYFAR \"Distraction LUL\" Compilation",
-      "excerpt": "🔥NEW ICYFAR CHALLENGE: \"Let me help you with that\" demoralise your opponent by killing one of your own units before each attack. Bonus points for making sure you do it in their vision. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-diplomatic-embassy-icyfar-distraction-lul-compilation/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-diplomatic-embassy-icyfar-distraction-lul-compilation/",
-      "originalUrl": "https://youtube.com/watch?v=BtCgKK3Eors",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BtCgKK3Eors\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M55S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BtCgKK3Eors/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-disrespectful-stargate-rush-in-their-face-grim-reaper-6-starcraft-2.md",
-      "title": "DISRESPECTFUL STARGATE RUSH IN THEIR FACE | Grim Reaper #6 - StarCraft 2",
-      "excerpt": "The one and only GrimReaper, destroyer of souls and ruining people's will to practice StarCraft 2.  -- 🐷 Like my videos? Help support me by being a patron: https://www.patreon.com/PiGSC2 🐖 Watch live at https://www.twitch.tv/x5_pig 🐽 Linktree: https://linktr.ee/PiGStarcraft 👕 Merch: https://teespring.com/stores/pig-sc2",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-disrespectful-stargate-rush-in-their-face-grim-reaper-6-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-disrespectful-stargate-rush-in-their-face-grim-reaper-6-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=GtW0lHjsC3s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GtW0lHjsC3s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M7S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GtW0lHjsC3s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:47:10-07:00"
-    },
-    {
-      "path": "_games/pig-disruptor-tempest-rush-twitch-plays-pig-9.md",
-      "title": "Disruptor Tempest RUSH  | Twitch Plays PiG #9",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-disruptor-tempest-rush-twitch-plays-pig-9/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-disruptor-tempest-rush-twitch-plays-pig-9/",
-      "originalUrl": "https://youtube.com/watch?v=GDZvMTftArQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GDZvMTftArQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M58S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GDZvMTftArQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-09-30T22:04:11-07:00"
-    },
-    {
-      "path": "_games/pig-distraction-one-two-punch-icyfar-g3.md",
-      "title": "“Distraction!” - One-Two Punch ICYFAR G3",
-      "excerpt": "Hey guys! we are back with a new person in charge of ICYFAR, yes this means that the email for submissions HAS CHANGED! In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were setting 2 (or more) pronged attacks in honor of eonblu!   CURRENT",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-distraction-one-two-punch-icyfar-g3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-distraction-one-two-punch-icyfar-g3/",
-      "originalUrl": "https://youtube.com/watch?v=tO5w23KcvbY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tO5w23KcvbY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M32S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tO5w23KcvbY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-do-you-like-balls-the-unlikely-couple-liquid-reign-icyfar-g3.md",
-      "title": "\"Do you like balls?\" - The Unlikely Couple Liquid Reign ICYFAR G3",
-      "excerpt": "ATTENTION: ICYFAR Schedule has changed!  In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays that had the most unlikely units pair up!  CURRENT ICYFAR CHALLENGE: \"DIversity Hire\" - Use as many different units as possible. Send submissions to eonblu95@gmail.com",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-do-you-like-balls-the-unlikely-couple-liquid-reign-icyfar-g3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-do-you-like-balls-the-unlikely-couple-liquid-reign-icyfar-g3/",
-      "originalUrl": "https://youtube.com/watch?v=OnlSZjQDtDM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OnlSZjQDtDM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M55S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OnlSZjQDtDM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-dont-forget-to-double-bag-it-watching-from-the-shadows-icyfar-g1.md",
-      "title": "Don’t forget to double-bag it - Watching from the Shadows ICYFAR G1",
-      "excerpt": "Hey guys! we are back with a new person in charge of ICYFAR, yes this means that the email for submissions HAS CHANGED!    In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were setting up as much map vision as possible!    CURRENT ICYFAR",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-dont-forget-to-double-bag-it-watching-from-the-shadows-icyfar-g1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-dont-forget-to-double-bag-it-watching-from-the-shadows-icyfar-g1/",
-      "originalUrl": "https://youtube.com/watch?v=NZFyhuBnGgI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NZFyhuBnGgI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M26S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NZFyhuBnGgI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-dont-tinkle-on-my-carpet-blast-from-the-past-icyfar-g2.md",
-      "title": "“Don’t tinkle on my carpet” - Blast from the Past ICYFAR G2",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to play “old school” builds of broodwar or even SC2 WoL or HotS!  CURRENT ICYFAR CHALLENGE: \"Toddler Tantrums\" - Send in your replays where your ladder opponents act their age! Type !icyfar",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-dont-tinkle-on-my-carpet-blast-from-the-past-icyfar-g2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-dont-tinkle-on-my-carpet-blast-from-the-past-icyfar-g2/",
-      "originalUrl": "https://youtube.com/watch?v=-fuMi69QMTk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-fuMi69QMTk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M15S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-fuMi69QMTk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-doomed-drop-no-rush-4-minutes-icyfar-g1.md",
-      "title": "Doomed Drop!? - No Rush 4 minutes ICYFAR G1",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they kept their opponent under “constant” pressure from 4 mins onward!  CURRENT ICYFAR CHALLENGE: \"Observation Baloons\" - Bring as many useless Overlords/Structures to each fight as possible. Let",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-doomed-drop-no-rush-4-minutes-icyfar-g1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-doomed-drop-no-rush-4-minutes-icyfar-g1/",
-      "originalUrl": "https://youtube.com/watch?v=cHoM_HRSy30",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cHoM_HRSy30\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M21S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cHoM_HRSy30/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-double-upgrade-chadray-pvt-twitch-plays-pig-40.md",
-      "title": "Double upgrade Chadray PvT | Twitch Plays PiG #40",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-double-upgrade-chadray-pvt-twitch-plays-pig-40/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-double-upgrade-chadray-pvt-twitch-plays-pig-40/",
-      "originalUrl": "https://youtube.com/watch?v=1L-xGzujlfE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1L-xGzujlfE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M20S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1L-xGzujlfE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-19T04:00:03-07:00"
-    },
-    {
-      "path": "_games/pig-drippy-droppy-madness-icyfar-6.md",
-      "title": "Drippy-Droppy madness! | ICYFAR #6",
-      "excerpt": "\"Blood Sacrifice\" a unit has to die every minute of the game. Submit replays to eonblu95@gmail.com as attachment. Latest submission is before the monday(US/EU) / tuesday(AUS) daily. (Note: You may need to kill one or two of your own workers in the earlygame to appease the gods)\r Full Playlist of Daily",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-drippy-droppy-madness-icyfar-6/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-drippy-droppy-madness-icyfar-6/",
-      "originalUrl": "https://youtube.com/watch?v=VRy1tJOnn0Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VRy1tJOnn0Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M39S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VRy1tJOnn0Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-drone-sashimi-all-your-bases-are-belong-to-us-liquid-reign-icyfar-g3.md",
-      "title": "Drone Sashimi - All Your Bases Are Belong To Us Liquid Reign ICYFAR G3",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their craziest basetrades!  CURRENT LIQUID REIGN ICYFAR CHALLENGE: \"Tale of a Knife and a Telephone booth” - You are not allowed to have more than 40 workers at any point during the game! - During Liquid Reign ICYFARs",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-drone-sashimi-all-your-bases-are-belong-to-us-liquid-reign-icyfar-g3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-drone-sashimi-all-your-bases-are-belong-to-us-liquid-reign-icyfar-g3/",
-      "originalUrl": "https://youtube.com/watch?v=bPeNJAnaZC0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bPeNJAnaZC0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M45S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bPeNJAnaZC0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-dronekanda-forever-corporate-greed-liquid-reign-icyfar-g1.md",
-      "title": "Dronekanda Forever! - Corporate Greed Liquid Reign ICYFAR G1",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays that had at least 100 workers at one point during the game!  CURRENT LIQUID REIGN ICYFAR CHALLENGE:“Extremely Inefficient Weapon” - Beat your opponent in the least efficient way possible! During Liquid",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-dronekanda-forever-corporate-greed-liquid-reign-icyfar-g1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-dronekanda-forever-corporate-greed-liquid-reign-icyfar-g1/",
-      "originalUrl": "https://youtube.com/watch?v=hF6LpzG2Sus",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hF6LpzG2Sus\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M45S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hF6LpzG2Sus/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-drones-vs-marines-the-best-new-zvt-rush-twitch-plays-pig-14.md",
-      "title": "Drones vs MARINES - The best new ZvT RUSH  | Twitch Plays PiG #14",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-drones-vs-marines-the-best-new-zvt-rush-twitch-plays-pig-14/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-drones-vs-marines-the-best-new-zvt-rush-twitch-plays-pig-14/",
-      "originalUrl": "https://youtube.com/watch?v=-VvSgMATX7c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-VvSgMATX7c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-VvSgMATX7c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-08-17T07:07:39-07:00"
-    },
-    {
-      "path": "_games/pig-early-lotv-zvt-madness-wrigglinium-vs-yturdrd-icyfar-1.md",
-      "title": "Early LoTV ZvT madness - Wrigglinium vs Yturdrd | ICYFAR #1",
-      "excerpt": "An incredible first ever submission for my stream segment where I cast crazy viewer replays! Anyone can submit replays see the details on www.twitch.tv/x5_PiG -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-early-lotv-zvt-madness-wrigglinium-vs-yturdrd-icyfar-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-early-lotv-zvt-madness-wrigglinium-vs-yturdrd-icyfar-1/",
-      "originalUrl": "https://youtube.com/watch?v=B-HmRNfq7BQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B-HmRNfq7BQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M37S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B-HmRNfq7BQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-easy-race-slow-gas-diet-icyfar-g1.md",
-      "title": "“Easy Race” | Slow Gas Diet ICYFAR G1",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where their gas mining was limited to one worker per structure!   NEW ICYFAR CHALLENGE: \"Yeah, Nah\" - block your opponents buildings at every turn. This week's ICYFAR powered by AMD. Send submissions",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-easy-race-slow-gas-diet-icyfar-g1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-easy-race-slow-gas-diet-icyfar-g1/",
-      "originalUrl": "https://youtube.com/watch?v=eSwvnEnlGV4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eSwvnEnlGV4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "path": "_games/pig-in-and-out-micro-asserting-dominance-icyfar-g3.md",
+      "title": "In and Out Micro | Asserting Dominance ICYFAR G3",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they announced their strategy to the opponent.   NEW ICYFAR CHALLENGE: \"Down and Dirty\" - You can't go past 35 workers! Send submissions to fluxiorsc@gmail.com as attachment AND only ICYFAR as the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-in-and-out-micro-asserting-dominance-icyfar-g3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-in-and-out-micro-asserting-dominance-icyfar-g3/",
+      "originalUrl": "https://youtube.com/watch?v=VB4ETkmEN0c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VB4ETkmEN0c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT14M55S",
       "provider": {
         "name": "PiG",
@@ -732,7 +434,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/eSwvnEnlGV4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/VB4ETkmEN0c/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -743,26 +445,25 @@
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
     },
     {
-      "path": "_games/pig-endless-tide-of-terran-settlers-invisible-man-g4-icyfar.md",
-      "title": "Endless Tide of Terran Settlers | Invisible Man G4 ICYFAR",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were they may use invisible units to spook their opponents!  NEW ICYFAR CHALLANGE: You will never get this! - Deny your opponents expansions and contain them at all costs. Send submissions",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-endless-tide-of-terran-settlers-invisible-man-g4-icyfar/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-endless-tide-of-terran-settlers-invisible-man-g4-icyfar/",
-      "originalUrl": "https://youtube.com/watch?v=qR-YlRyliQw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qR-YlRyliQw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M30S",
+      "path": "_games/pig-invisible-death-tricks-are-what-a-wh-does-for-money-icyfar-g2.md",
+      "title": "Invisible Death | Tricks are what a wh$% does for money ICYFAR G2",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to use spellcasters as creatively as possible.  NEW ICYFAR CHALLENGE: \"Forced Quarantine\" - Stop your opponent expanding and contain them as much as possible! Send submissions to fluxiorsc@gmail.com",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-invisible-death-tricks-are-what-a-wh-does-for-money-icyfar-g2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-invisible-death-tricks-are-what-a-wh-does-for-money-icyfar-g2/",
+      "originalUrl": "https://youtube.com/watch?v=kFdmfQdqF-Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kFdmfQdqF-Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M47S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
-        "StarCraft 2",
-        "Terran"
+        "StarCraft 2"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/qR-YlRyliQw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/kFdmfQdqF-Y/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -773,14 +474,130 @@
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
     },
     {
-      "path": "_games/pig-endless-waves-of-bio-crashing-into-the-zerg-twitch-plays-pig-18.md",
-      "title": "Endless Waves of Bio crashing into the Zerg! | Twitch Plays PiG #18",
-      "excerpt": "This video are actually 2 games, so enjoy :)   Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-endless-waves-of-bio-crashing-into-the-zerg-twitch-plays-pig-18/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-endless-waves-of-bio-crashing-into-the-zerg-twitch-plays-pig-18/",
-      "originalUrl": "https://youtube.com/watch?v=QTpAgkJzG-Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QTpAgkJzG-Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M20S",
+      "path": "_games/pig-is-this-feardragon-offshore-accounts-icyfar-g4.md",
+      "title": "IS THIS FEARDRAGON!? | Offshore Accounts ICYFAR G4",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to use hidden bases as much as possible!   ICYFAR will be on Hiatus for about 2 weeks whilst PiG is casting IEM Katowice - I'll announce a new topic as soon as I return around March 4th!",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-is-this-feardragon-offshore-accounts-icyfar-g4/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-is-this-feardragon-offshore-accounts-icyfar-g4/",
+      "originalUrl": "https://youtube.com/watch?v=r0qZd5m33jg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r0qZd5m33jg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M30S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/r0qZd5m33jg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-is-this-fun-for-you-mineral-maverick-icyfar-g3-g4.md",
+      "title": "“Is this fun for you?\" | Mineral Maverick ICYFAR G3 & G4",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they “only mined from one gas”.  CURRENT ICYFAR CHALLANGE: Fanatical Fanboy - Type \"I'm a Boxer fan\" in chat at the start of the game and then use your strategy inspired by that player. You can",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-is-this-fun-for-you-mineral-maverick-icyfar-g3-g4/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-is-this-fun-for-you-mineral-maverick-icyfar-g3-g4/",
+      "originalUrl": "https://youtube.com/watch?v=5EmQdKzegoQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5EmQdKzegoQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M38S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5EmQdKzegoQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-jack-sparrow-abducted-by-somali-pirates-carbon-tax-icyfar-g4.md",
+      "title": "Jack Sparrow abducted by Somali pirates! - Carbon Tax ICYFAR G4",
+      "excerpt": "Hey guys! we are back with a new person in charge of ICYFAR, yes this means that the email for submissions HAS CHANGED! In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were Interrupting their opponent's gas mining as much as possible!  NO",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-jack-sparrow-abducted-by-somali-pirates-carbon-tax-icyfar-g4/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-jack-sparrow-abducted-by-somali-pirates-carbon-tax-icyfar-g4/",
+      "originalUrl": "https://youtube.com/watch?v=AQtMFmD7uU8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AQtMFmD7uU8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M45S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AQtMFmD7uU8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-jaedong-style-burrow-ambush-sneaky-sneaky-kaelaris-icyfar-g3.md",
+      "title": "Jaedong Style Burrow Ambush! | Sneaky Sneaky Kaelaris ICYFAR G3",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to utilize cloaked and burrowed units as much as posible!  NEW ICYFAR CHALLENGE: \"Oldschool” - bring out your out-dated strats from last year, HOTS/WOL, Starcraft 1 or a completely different",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-jaedong-style-burrow-ambush-sneaky-sneaky-kaelaris-icyfar-g3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-jaedong-style-burrow-ambush-sneaky-sneaky-kaelaris-icyfar-g3/",
+      "originalUrl": "https://youtube.com/watch?v=F70NqEsIotg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/F70NqEsIotg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M30S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/F70NqEsIotg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-james-bond-roach-all-your-bases-are-belong-to-us-liquid-reign-icyfar-g2.md",
+      "title": "James Bond Roach - All Your Bases Are Belong To Us Liquid Reign ICYFAR G2",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their craziest basetrades!  CURRENT LIQUID REIGN ICYFAR CHALLENGE: \"Tale of a Knife and a Telephone booth” - You are not allowed to have more than 40 workers at any point during the game! - During Liquid Reign ICYFARs",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-james-bond-roach-all-your-bases-are-belong-to-us-liquid-reign-icyfar-g2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-james-bond-roach-all-your-bases-are-belong-to-us-liquid-reign-icyfar-g2/",
+      "originalUrl": "https://youtube.com/watch?v=gqJcbs1y1WE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gqJcbs1y1WE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M53S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -790,41 +607,9 @@
         "Zerg"
       ],
       "heat": 50,
-      "tags": [
-        "Live"
-      ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/QTpAgkJzG-Q/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-09-30T22:04:11-07:00"
-    },
-    {
-      "path": "_games/pig-enraged-blinky-bill-dropbear-edition-smell-of-napalm-icyfar-g3.md",
-      "title": "Enraged Blinky Bill, DropBear edition | Smell of Napalm ICYFAR G3",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to rain down destruction from above!  NEW ICYFAR CHALLENGE: \"Sneaky, Sneaky Kaelaris\" - Use Invisible/burrowed units as much as possible! Send submissions to fluxiorsc@gmail.com as attachment",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-enraged-blinky-bill-dropbear-edition-smell-of-napalm-icyfar-g3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-enraged-blinky-bill-dropbear-edition-smell-of-napalm-icyfar-g3/",
-      "originalUrl": "https://youtube.com/watch?v=8Pvc2Ikgwe0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8Pvc2Ikgwe0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M8S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8Pvc2Ikgwe0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/gqJcbs1y1WE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -835,44 +620,14 @@
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
     },
     {
-      "path": "_games/pig-epic-micro-battle-grim-reaper-2-starcraft-2.md",
-      "title": "EPIC MICRO BATTLE | Grim Reaper #2 - StarCraft 2",
-      "excerpt": "GrimReaper faces off against Golden in this epic micro battle. -- Want more? Help support me! https://www.patreon.com/PiGSC2 Watch live at https://www.twitch.tv/x5_pig Linktree: https://linktr.ee/PiGStarcraft -- Florecenio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-epic-micro-battle-grim-reaper-2-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-epic-micro-battle-grim-reaper-2-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=gqXUnmYIKfo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gqXUnmYIKfo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M43S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gqXUnmYIKfo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:47:10-07:00"
-    },
-    {
-      "path": "_games/pig-esports-tinder-that-belongs-in-a-museum-icyfar-g4.md",
-      "title": "Esports Tinder | That Belongs in a Museum ICYFAR G4",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they had to use the “rarest” upgrades!   NEW ICYFAR CHALLENGE: \"Inside of You\" - Slide your base into their base. e.g. Floating buildings in, proxy-hatch/Nexus in the main. Send submissions to fluxiorsc@gmail.com",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-esports-tinder-that-belongs-in-a-museum-icyfar-g4/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-esports-tinder-that-belongs-in-a-museum-icyfar-g4/",
-      "originalUrl": "https://youtube.com/watch?v=t6yV09BpQwg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t6yV09BpQwg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M25S",
+      "path": "_games/pig-jebaited-icyfar-g1-pig-daily-176.md",
+      "title": "Jebaited - ICYFAR - G1 PiG Daily #176",
+      "excerpt": "In this week’s ICYFAR players had to win whilst showing off their best baits! ICYFAR is a fun weekly challenge where I cast games submitted by viewers of all skill levels.   Follow me on social media to keep up to date: https://twitter.com/x5_PiG https://twitter.com/x5_PiG https://www.instagram.com/pigsc2/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-jebaited-icyfar-g1-pig-daily-176/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-jebaited-icyfar-g1-pig-daily-176/",
+      "originalUrl": "https://youtube.com/watch?v=r1bWR2bU0So",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r1bWR2bU0So\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M37S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -883,7 +638,241 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/t6yV09BpQwg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/r1bWR2bU0So/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-jebaited-icyfar-g2-pig-daily-176.md",
+      "title": "Jebaited - ICYFAR - G2 PiG Daily #176",
+      "excerpt": "In this week’s ICYFAR players had to win whilst showing off their best baits! ICYFAR is a fun weekly challenge where I cast games submitted by viewers of all skill levels.   Follow me on social media to keep up to date: https://twitter.com/x5_PiG https://twitter.com/x5_PiG https://www.instagram.com/pigsc2/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-jebaited-icyfar-g2-pig-daily-176/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-jebaited-icyfar-g2-pig-daily-176/",
+      "originalUrl": "https://youtube.com/watch?v=8_S6RtGEwmU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8_S6RtGEwmU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M13S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8_S6RtGEwmU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-jebaited-icyfar-g3-pig-daily-176.md",
+      "title": "Jebaited - ICYFAR - G3 PiG Daily #176",
+      "excerpt": "In this week’s ICYFAR players had to win whilst showing off their best baits! ICYFAR is a fun weekly challenge where I cast games submitted by viewers of all skill levels.   Follow me on social media to keep up to date: https://twitter.com/x5_PiG https://twitter.com/x5_PiG https://www.instagram.com/pigsc2/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-jebaited-icyfar-g3-pig-daily-176/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-jebaited-icyfar-g3-pig-daily-176/",
+      "originalUrl": "https://youtube.com/watch?v=7HuFtGZCc5E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7HuFtGZCc5E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M24S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7HuFtGZCc5E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-jimmy-carr-roaches-offshore-accounts-icyfar-g1.md",
+      "title": "Jimmy Carr Roaches | Offshore Accounts ICYFAR G1",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to use hidden bases as much as possible!   ICYFAR will be on Hiatus for about 2 weeks whilst PiG is casting IEM Katowice - I'll announce a new topic as soon as I return around March 4th!",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-jimmy-carr-roaches-offshore-accounts-icyfar-g1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-jimmy-carr-roaches-offshore-accounts-icyfar-g1/",
+      "originalUrl": "https://youtube.com/watch?v=AnqSIQb22Ec",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AnqSIQb22Ec\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M24S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AnqSIQb22Ec/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-jump-around-interpretive-dance-icyfar-g5.md",
+      "title": "Jump Around! | Interpretive Dance ICYFAR G5",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they had to play in accordance to their favorite song!  NEW ICYFAR CHALLENGE: \"\"Slow gas diet\" - it's time to get rid of those smelly vespene farts! You're only allowed to mine each geyser with",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-jump-around-interpretive-dance-icyfar-g5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-jump-around-interpretive-dance-icyfar-g5/",
+      "originalUrl": "https://youtube.com/watch?v=9LZkyT_U-8c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9LZkyT_U-8c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M9S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9LZkyT_U-8c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-just-do-it-surgical-warfare-icyfar-g5.md",
+      "title": "Just DO IT! | Surgical Warfare ICYFAR G5",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to cut their loses to a minimum.  \"Tricks are what a wh@\"! does for money\" - Use as many spellcasters in as creative a way as possible! Send submissions to fluxiorsc@gmail.com as attachment",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-just-do-it-surgical-warfare-icyfar-g5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-just-do-it-surgical-warfare-icyfar-g5/",
+      "originalUrl": "https://youtube.com/watch?v=JSAxuwNSXcE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JSAxuwNSXcE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M17S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JSAxuwNSXcE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-karmic-justice-toddler-tantrums-icyfar-g2.md",
+      "title": "Karmic Justice - Toddler Tantrums ICYFAR G2",
+      "excerpt": "This weeks ICYFAR goal was to get your opponent raging!    CURRENT LIQUID REIGN ICYFAR CHALLENGE: \"Peeping Tom\" - Get vision of as much as you can through mapvision, scouting or whatever comes to your mind! During Liquid Reign ICYFARs there is a clear set of rules for submissions! https://pastebin.com/raw/wPHHTMKT",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-karmic-justice-toddler-tantrums-icyfar-g2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-karmic-justice-toddler-tantrums-icyfar-g2/",
+      "originalUrl": "https://youtube.com/watch?v=6eC-HiWZDMQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6eC-HiWZDMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M4S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6eC-HiWZDMQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-ketchup-in-my-cereal-bowl-no-regard-for-personal-space-icyfar-g1.md",
+      "title": "Ketchup in my Cereal Bowl!! - No Regard For Personal Space ICYFAR G1",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays that required expanding close to, and mining from your opponents base!  CURRENT ICYFAR CHALLENGE: My marines are the best marines! - Mass a unit that shouldnt be massed. Send submissions to eonblu95@gmail.com",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-ketchup-in-my-cereal-bowl-no-regard-for-personal-space-icyfar-g1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-ketchup-in-my-cereal-bowl-no-regard-for-personal-space-icyfar-g1/",
+      "originalUrl": "https://youtube.com/watch?v=fXyYOHYcP7c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fXyYOHYcP7c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M30S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fXyYOHYcP7c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-killer-queen-interpretive-dance-icyfar-g4.md",
+      "title": "Killer Queen | Interpretive Dance ICYFAR G4",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they had to play in accordance to their favorite song!  NEW ICYFAR CHALLENGE: \"\"Slow gas diet\" - it's time to get rid of those smelly vespene farts! You're only allowed to mine each geyser with",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-killer-queen-interpretive-dance-icyfar-g4/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-killer-queen-interpretive-dance-icyfar-g4/",
+      "originalUrl": "https://youtube.com/watch?v=zBVXWB8Y4HY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zBVXWB8Y4HY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M36S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zBVXWB8Y4HY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

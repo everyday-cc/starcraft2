@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=47inEM4d_ck
 type: video
 length: PT17M40S
 publishedDateTime: 2021-06-01T12:46:41Z
-heat: 53
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/47inEM4d_ck\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "RnBiaNud+RC9zxGw/0LxrciIXXm3J3amyCvtFQ/P5F1bVU4/7boLrl+cp1CyzFdaOW/WgsrsG7Pt4GYtGnEffahr1c7UaB06naTLPlDRvxR3Dg/x1+UI9r1HQF2g24ADlk5ciC7PI3PZmEOzEpQO6o1dXxUpgKd2W85eEqDXKZmwmFX49PQIIH6lLQsu4afEuZu9iYevNKgEJLOYDuxfAkLndXUrcwQTiug15uVZ5Fu4+YO0+Ox1/usU+XPSpx+5YVTdhdW8hrOmLA9c2APlm43YULoFYruKmyLKlXhVzyj0TmaothkzxI6VyS3wLj+hfoko3G1RGCNwFR22YRtVyO/1ndJGfCPQayAVnmZTsDu4WV4cPDBL49lfA9Y6M/F3YSnCo5KnI39OSPGM6t9y8Q==;CwJ/tzgp45czBKqT8A+lEg=="
+secured: "QsNi7Xs6X4Q1RhGxe4w4ETgtSQGBikkQ2kqPJpc4hZNFZNncPy2h6OpLxKvIDyWm0G4/e0ysv/GaybyqOA11n5O95CRYRESQsa8v+7p0p1YbGA2EUaBO5+VgpOU7igu0qbkrRHTfUpFHeRLddFLupeSBqEjemCmbX6lhWIuUYnR1SaqsrNdWIHXa2Fmbra8n8S09DG1hi6Dsyr1qcLzmYI96MkrjmAUT9lgn6BdcWqEFZSHqfvn7Hq4ljMQEYl28G9OMXBK7c/MCWuhx0xjivHORjWkZ+ABjXKmXWJ4yHElEDKxHkSDgQDxWewu/+AQWgsY2QUJme9Y7QpTOpt5C2byzM0JvCCTrVg3MTiJPy+AJu0k/qRui35EMCplVQvgERgIvEtf0S7STkeRnZ6+wkBnVZ5YtLAlB5no1CNS3kfo=;Pt74nBEXYBap1lFYMhoKhA=="
 ---
 

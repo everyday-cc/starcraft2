@@ -40,6 +40,22 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "StarCraft's revival needs to be a priority for Microsoft, according to Windows Central readers"
+    excerpt: "Readers want StarCraft, more than any other franchise, to be Microsoft's immediate focus following the Activision Blizzard acquisition."
+    publishedDateTime: 2022-01-24T19:15:00Z
+    webUrl: "https://www.windowscentral.com/starcraft-revival-needs-be-microsoft-priority"
+    ampWebUrl: "https://www.windowscentral.com/starcraft-revival-needs-be-microsoft-priority?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/starcraft-revival-needs-be-microsoft-priority?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 45
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/07/starcraft-ii-hero-01.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "OL5sQMhtgpqbv5LiJgOGZTq6cl/b1ymBeleVrw9F3aY4nkcINjLGTeSvVgnx+lR71sWmLlYxSrxoPlR16G59ztbH08h6aYl/z5AHR+mEaxpRiGnp0/hXGd2XWu/bxbBcV4PcA9iiY36DEvtk9nWFMAr11kuhVIkMXz5NJxHsb5liobgfZ/lG0UovOfoprA6SUGDVTYyjsi1Be0LOfSOoln8o7F0SEM2h1gxIRKAV2HQJA39OYf92lyZk80fEVISvn9c3Dq1Jyp/d7rrgiHRw5HW8ZPnwyvluiEmByUbcwyEeZV/FKWrop8Wy9QNKsTacBgFRimFYQkX/r3NyvMcA5uI8p8pbGNE6h2W6zPjgzjiRNoP6mzpVg4bSa3Pcs6b50HmbLFHvFYOGObI/iuSkCJ16/5CNAokVckdEYBJfTSbaSOXWUQ/4eGP6VJ7EqCBlc6HWx91RHrj2zVET/8uydOXCS3ihn9yADNnBpZVFF2cQLSFCwBcf/dgaDFE7JJaS9crXkPrW9VrBcO5eljK0Tg==;csCXx/gZRt/ivXqbuvqFzA=="
 ---

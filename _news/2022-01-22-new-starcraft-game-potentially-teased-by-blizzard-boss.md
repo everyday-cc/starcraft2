@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/starcraft-blizzard-new-game-te
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/starcraft-blizzard-new-game-tease/"
 type: article
 quality: 57
-heat: 79
+heat: 80
 published: true
 
 provider:

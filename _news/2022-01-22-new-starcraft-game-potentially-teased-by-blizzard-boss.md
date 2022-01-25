@@ -9,8 +9,8 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/starcraft-blizzard-new-game-te
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/starcraft-blizzard-new-game-tease/"
 type: article
 quality: 57
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: Comicbook.com
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ex-StarCraft and Warcraft Devs Raise $25 Million to Make an Unreal Engine 5 RTS"
+    excerpt: "Frost Giant Studios, a debut developer formed by ex-Blizzard staff, has raised $25 million to help create a brand new real-time strategy game in Unreal Engine 5."
+    publishedDateTime: 2022-01-25T16:00:00Z
+    webUrl: "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 73
+    images:
+      - url: "https://assets-prd.ignimgs.com/2022/01/21/untitled-2-1642770149082.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "StarCraft's revival needs to be a priority for Microsoft, according to Windows Central readers"
     excerpt: "Readers want StarCraft, more than any other franchise, to be Microsoft's immediate focus following the Activision Blizzard acquisition."
     publishedDateTime: 2022-01-24T19:15:00Z
@@ -56,19 +70,19 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Star Discord is a StarCraft lookalike optimised for mobile by a one-man team, out now on iOS and Android"
-    excerpt: "Illogical Games has just announced the official release of Star Discord, the one-man indie dev's charming StarCraft lookalike on mobile. Featuring complex commands typical of Real-Time Strategy games revamped and optimised for mobile devices,"
-    publishedDateTime: 2022-01-14T10:32:00Z
-    webUrl: "https://www.pocketgamer.com/star-discord/starcraft-lookalike-optimised-for-mobile/"
+  - title: "Gwangju Institute of Science and Technology Researchers Develop Terrain-Aware AI for Predicting Battle Outcomes in StarCraft 2"
+    excerpt: "As the need for more sophisticated artificial intelligences (AIs) grows, the challenges that they must face along the way have to evolve"
+    publishedDateTime: 2022-01-19T12:39:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gwangju-institute-of-science-and-technology-researchers-develop-terrain-aware-ai-for-predicting-battle-outcomes/article_3d528004-05de-58c5-a656-1ac01e3e68bf.html"
     type: article
     provider:
-      name: pocketgamer
-      domain: pocketgamer.com
-    quality: 20
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 9
     images:
-      - url: "https://media.pocketgamer.com/artwork/na-33773-1642157777/star-discord-ios-android-launch-cover.jpg"
-        width: 1010
-        height: 505
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/77/4777e47e-07e7-5df3-a42e-1948bd3de3c2/61e8173251699.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Tuz772cF9lHvia3d99Ct9/+Z8la0URbq1yGdoWwcnE+sx2luEYRBFLKRrnIAJ4SPm/0H0GISPMu0C6koqFplwoozEUZOfeEZ8uNW7dreHm2e/VTwoSFZfD57ruuZnVIpdMrIjQTOJ+3wbdwQGTAPhXa1I0jlpcm5ZmJ/VT9hHi01IALd7xqKyPt3rQ1O7W797se8ia9xVEoBmG6SVd9yXceGOkbx8coOtSX0YPR6G5EeZ696rcPCMBI57dr+iHMehg7gJGB0Xeb3vAsdyWABMuNRX4Rjtu0WZixbxaLsMha4O+UJDU6I5ZTbglsDGw+X9c319F+adkvS2PET8Hb39fj13amSCERtp85+UVDpPcIEIuZJ8voKCZo3A5nZaVQ3rZYyS37yAPHh/cqJzgg2QnFx1jmIARoVz4LqLHBHM+Xh3APEgA/evqWX35sGD1qsTL+wtXpDbus802ad1HnlA0Xb5G2JLgJ3czJPRIz2w3uYLmvGBXaEewF2LO9GNzORFKYw6Jp+Hn+Ny4WJMKTLhw==;sp3iS8b4A64DFgftmYLcqg=="

@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=l7EsakLakQE
 type: video
 length: PT11M25S
 publishedDateTime: 2018-07-08T19:58:22Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l7EsakLakQE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8YhhgvGcGoev93dCT++x52B4vDAxt2AqvxoqgxaXZPSVQ00w1CmV4w85pZp1QXAYYb8E8uVPKQX2tT4m9Xs5ihqUiUXY5Jj1PTqrmbKaaAbgjRO9gdoHt7o+jkHQf2OpoafFDd7H9cus9tgReQMVRIMeYRen5BRK74dZBBLnZrpZmkdVp3LzyLqa+/itDf5AfImf0LyscKS6F8pGl0Rwaqqf6eXJk8czwjsmncjlv6VnrVepafVeRU4qZHDXJxSo3bxc+/p/scR0uzP7bnuHwVENOLnHY5Ifg2rWMFjQceraL5tDyGD6AJDO5wWLcAFfswJDzymO3yoFjEf7INMB2Uz7IyGRA0Zq3kZCl8NAaoxQTn4d2V53M2I5V31JfC9nzS8V/IRdKoC2hGUtvh+9PD/iw8bDQQEH6Xzc3bkNiRo=;PLFFgMeQGwn83XHv9Wdf3A=="
+secured: "rtoTaivsawCBUPUHS93Gbqk7p7fiKWyhvB0AUQyEmhBPqKUJeE9Veg8QDC1u0n7mvCBwvRa3kWHKVtN3/HzVr2rYFLaPUXyZKXXH37xVMe4e+WDw08W7vqFQz80u579z1NtMlp8SVyhKoEbNvukVd7EfWaGCLQZNNPsYK3mbe48JFkYUrbS8RCNI7Xmd6NygqhFYLKr5Sekt5uVk1RobLyjG6+XCcq3wETsDoLo5MbCR2/TCCeWpYGDXr1TmqtxaGOiYiiBFhz0/+lr+lS4B9dBHXwLx+etbCjAUDEWPiy+kn+snu6ag3O3ThMQUhsVxxTL3cn1hAGKQ4pFIcvdNIAXn6cm2apjmnOIeFCoJ1O+0yHgmLTTf12KMKthvDJn1w1MNzEnabnpwyEo8fFrGoTqM77fT4LxT9oAKLLIy4oI=;uc6gCEKOwDX0AMk2dSm1oQ=="
 ---
 

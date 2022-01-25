@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/starcraft-blizzard-new-game-te
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/starcraft-blizzard-new-game-tease/"
 type: article
 quality: 57
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/07/starcraft-ii-hero-01.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Crossfire: Legion aims to fill the gap left by Starcraft and C&C: Red Alert"
+    excerpt: "I argue that in the recent resurgence, we haven’t yet come across an RTS game that offers players an experience comparable to StarCraft or Red Alert,” says game designer Maurice Grela. “We’re hoping to fulfill that gap."
+    publishedDateTime: 2022-01-25T14:31:00Z
+    webUrl: "https://www.rockpapershotgun.com/crossfire-legion-aims-to-fill-the-gap-left-by-starcraft-and-cc-red-alert"
+    type: article
+    provider:
+      name: Rock, Paper, Shotgun
+      domain: rockpapershotgun.com
+    quality: 35
+    images:
+      - url: "https://assets2.rockpapershotgun.com/crossfire-legion-base-defense.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/crossfire-legion-base-defense.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Star Discord is a StarCraft lookalike optimised for mobile by a one-man team, out now on iOS and Android"
     excerpt: "Illogical Games has just announced the official release of Star Discord, the one-man indie dev's charming StarCraft lookalike on mobile. Featuring complex commands typical of Real-Time Strategy games revamped and optimised for mobile devices,"

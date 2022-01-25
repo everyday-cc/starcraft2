@@ -811,6 +811,8 @@ items:
   - pig-a-pro-player-underestimates-a-diamond-player-santa-claws-6
   - pig-sacrificing-units-to-confuse-the-enemy-santa-claws-7
   - pig-when-protoss-squatters-take-terrans-main-base-diamond-in-the-ruff-61
+  - pig-starcraft-2-this-dude-widow-memed-florencio-florencio-files-242
+  - pig-starcraft-2-two-chezers-face-off-florencio-file-243
 
 topics:
   - StarCraft 2

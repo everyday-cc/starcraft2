@@ -70,6 +70,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Ex-Developers of Starcraft and Warcraft Raise $25 Million for New RTS"
+    excerpt: "Real-Time Strategy (RTS) genre has become something of a niche in the modern gaming landscape. Frost Giant Games hopes to change that."
+    publishedDateTime: 2022-01-26T02:12:00Z
+    webUrl: "https://cogconnected.com/2022/01/ex-developers-of-starcraft-warcraft-raise-25-million-new-rts/"
+    type: article
+    provider:
+      name: COGconnected
+      domain: cogconnected.com
+    quality: 37
+    images:
+      - url: "https://cogconnected.com/wp-content/uploads/2017/11/tychus-starcraft-ii-feat-min.jpg"
+        width: 890
+        height: 520
+        isCached: true
   - title: "Gwangju Institute of Science and Technology Researchers Develop Terrain-Aware AI for Predicting Battle Outcomes in StarCraft 2"
     excerpt: "As the need for more sophisticated artificial intelligences (AIs) grows, the challenges that they must face along the way have to evolve"
     publishedDateTime: 2022-01-19T12:39:00Z

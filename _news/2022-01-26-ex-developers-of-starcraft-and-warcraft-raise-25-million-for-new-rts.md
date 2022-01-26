@@ -1,33 +1,43 @@
 ---
 category: news
-title: "Ex-StarCraft and Warcraft Devs Raise $25 Million to Make an Unreal Engine 5 RTS"
-excerpt: "Frost Giant Studios, a debut developer formed by ex-Blizzard staff, has raised $25 million to help create a brand new real-time strategy game in Unreal Engine 5."
-publishedDateTime: 2022-01-25T16:00:00Z
-originalUrl: "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard"
-webUrl: "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard"
+title: "Ex-Developers of Starcraft and Warcraft Raise $25 Million for New RTS"
+excerpt: "Real-Time Strategy (RTS) genre has become something of a niche in the modern gaming landscape. Frost Giant Games hopes to change that."
+publishedDateTime: 2022-01-26T02:12:00Z
+originalUrl: "https://cogconnected.com/2022/01/ex-developers-of-starcraft-warcraft-raise-25-million-new-rts/"
+webUrl: "https://cogconnected.com/2022/01/ex-developers-of-starcraft-warcraft-raise-25-million-new-rts/"
 type: article
-quality: 73
-heat: 175
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: IGN
-  domain: ign.com
-  images:
-    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: COGconnected
+  domain: cogconnected.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://assets-prd.ignimgs.com/2022/01/21/untitled-2-1642770149082.jpg?width=1280"
-    width: 1280
-    height: 720
+  - url: "https://cogconnected.com/wp-content/uploads/2017/11/tychus-starcraft-ii-feat-min.jpg"
+    width: 890
+    height: 520
     isCached: true
 
 related:
+  - title: "Ex-StarCraft and Warcraft Devs Raise $25 Million to Make an Unreal Engine 5 RTS"
+    excerpt: "Frost Giant Studios, a debut developer formed by ex-Blizzard staff, has raised $25 million to help create a brand new real-time strategy game in Unreal Engine 5."
+    publishedDateTime: 2022-01-25T16:00:00Z
+    webUrl: "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 73
+    images:
+      - url: "https://assets-prd.ignimgs.com/2022/01/21/untitled-2-1642770149082.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "New Starcraft Game Potentially Teased by Blizzard Boss"
     excerpt: "A new game in the Starcraft series has potentially been teased by one of the current boss at Blizzard Entertainment. Over the past week, a number of fans have loudly been voicing which franchises belonging to Activision and Blizzard they would like to see make a comeback in the wake of Microsoft's acquisition of both publishers."
     publishedDateTime: 2022-01-21T17:03:00Z
@@ -60,20 +70,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Ex-Developers of Starcraft and Warcraft Raise $25 Million for New RTS"
-    excerpt: "Real-Time Strategy (RTS) genre has become something of a niche in the modern gaming landscape. Frost Giant Games hopes to change that."
-    publishedDateTime: 2022-01-26T02:12:00Z
-    webUrl: "https://cogconnected.com/2022/01/ex-developers-of-starcraft-warcraft-raise-25-million-new-rts/"
-    type: article
-    provider:
-      name: COGconnected
-      domain: cogconnected.com
-    quality: 37
-    images:
-      - url: "https://cogconnected.com/wp-content/uploads/2017/11/tychus-starcraft-ii-feat-min.jpg"
-        width: 890
-        height: 520
-        isCached: true
   - title: "Crossfire: Legion aims to fill the gap left by Starcraft and C&C: Red Alert"
     excerpt: "I argue that in the recent resurgence, we haven’t yet come across an RTS game that offers players an experience comparable to StarCraft or Red Alert,” says game designer Maurice Grela. “We’re hoping to fulfill that gap."
     publishedDateTime: 2022-01-25T14:31:00Z
@@ -103,6 +99,6 @@ related:
         height: 630
         isCached: true
 
-secured: "PJ0Lr5CF1hQqqrcwo5kH59wTtrtEL36YGWZTuPadY+3V/oY6susc07jOBGJ0IZE0gBGPM/UOq0Yhr933KDMWRVhF+FAl8jB08ljIsGbpdUJaN4ydAUYtGPrURFMfgRuxmI/V7FkOYF/hVSZKIIrCKeV1+s2tWwvQ38JUaujBR28d3Gkk8ld1YpKm0rrMIoK/GYAy4BlHsGHWjY55j1G89moBzD4nM2Z8doGPl9H3i2FB81ByCwxUuzHYzd4eXhT/hCAyzNy1pY7Y6iGkJP16vl2/eegEHd21iaMMr6GBVxVtXf3CH++FjRYA2zxHdhWOyz24lWs+yqE7vM0JaGYnsFoSFy2ABa5E8Ui0j2jpJbc=;zElEKYbtsnNCCaYlncCoGA=="
+secured: "5M6NxNmiNIQgteFu+ihmslb1xk5tZ0ejt48ShYUgG4eQZYPhf9mFkpT43EaAeQvTXFJSHAIvMquEz+ny5bW4CJMWngghqhGDPQo3mX7B4GttBwG0l/OdOiC8SdZl5QKKNqkWK2okYF/Y/dydZ5PxbJa9OTYZccmcGEbfsZUnnKO/KlbHRuNTBBswX0cnAcR6PNTuVWGtJ2FpAhUoh+PWCtxzY1v5RBHGd5mgzFwY53I6SWsKTDfl/2eSJsNYLZmIc5btRDCnNveUTdgh8o9OV64bDrXvnlPA2SNtz0VESE+/FkoQnyyZgmHj/fho9Hfw+AWYfZxfeMXb1VpHpZiX7gxT7FHFibGh9ZER2SbMimQ=;pukl1yvszyO5M7s9R4FRVw=="
 ---
 

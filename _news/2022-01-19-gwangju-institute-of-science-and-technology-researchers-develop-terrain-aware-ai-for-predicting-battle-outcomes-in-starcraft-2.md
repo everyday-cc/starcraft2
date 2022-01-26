@@ -70,6 +70,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Ex-Developers of Starcraft and Warcraft Raise $25 Million for New RTS"
+    excerpt: "Real-Time Strategy (RTS) genre has become something of a niche in the modern gaming landscape. Frost Giant Games hopes to change that."
+    publishedDateTime: 2022-01-26T02:12:00Z
+    webUrl: "https://cogconnected.com/2022/01/ex-developers-of-starcraft-warcraft-raise-25-million-new-rts/"
+    type: article
+    provider:
+      name: COGconnected
+      domain: cogconnected.com
+    quality: 37
+    images:
+      - url: "https://cogconnected.com/wp-content/uploads/2017/11/tychus-starcraft-ii-feat-min.jpg"
+        width: 890
+        height: 520
+        isCached: true
   - title: "Crossfire: Legion aims to fill the gap left by Starcraft and C&C: Red Alert"
     excerpt: "I argue that in the recent resurgence, we haven’t yet come across an RTS game that offers players an experience comparable to StarCraft or Red Alert,” says game designer Maurice Grela. “We’re hoping to fulfill that gap."
     publishedDateTime: 2022-01-25T14:31:00Z

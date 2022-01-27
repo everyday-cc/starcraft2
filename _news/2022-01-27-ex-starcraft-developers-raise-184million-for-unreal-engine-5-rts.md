@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Crossfire: Legion aims to fill the gap left by Starcraft and C&C: Red Alert"
-excerpt: "I argue that in the recent resurgence, we haven’t yet come across an RTS game that offers players an experience comparable to StarCraft or Red Alert,” says game designer Maurice Grela. “We’re hoping to fulfill that gap."
-publishedDateTime: 2022-01-25T14:31:00Z
-originalUrl: "https://www.rockpapershotgun.com/crossfire-legion-aims-to-fill-the-gap-left-by-starcraft-and-cc-red-alert"
-webUrl: "https://www.rockpapershotgun.com/crossfire-legion-aims-to-fill-the-gap-left-by-starcraft-and-cc-red-alert"
+title: "Ex-‘StarCraft’ developers raise £18.4million for Unreal Engine 5 RTS"
+excerpt: "Former Blizzard developers have raised £18.4million ($25million USD) to create a real-time strategy (RTS) game built with Unreal Engine 5. The latest round of funding for Frost Giant Studios has raised £18."
+publishedDateTime: 2022-01-27T00:30:00Z
+originalUrl: "https://www.nme.com/en_asia/news/gaming-news/ex-starcraft-developers-raise-18-4million-for-unreal-engine-5-rts-3147493"
+webUrl: "https://www.nme.com/en_asia/news/gaming-news/ex-starcraft-developers-raise-18-4million-for-unreal-engine-5-rts-3147493"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Rock, Paper, Shotgun
-  domain: rockpapershotgun.com
+  name: NME
+  domain: nme.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://assets2.rockpapershotgun.com/crossfire-legion-base-defense.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/crossfire-legion-base-defense.jpg"
-    width: 1600
-    height: 900
+  - url: "https://www.nme.com/wp-content/uploads/2020/10/101620-Starcraft-II-Blizzard-Entertainment.jpg"
+    width: 2000
+    height: 1270
     isCached: true
 
 related:
@@ -98,19 +98,19 @@ related:
         width: 2000
         height: 1270
         isCached: true
-  - title: "Ex-‘StarCraft’ developers raise £18.4million for Unreal Engine 5 RTS"
-    excerpt: "Former Blizzard developers have raised £18.4million ($25million USD) to create a real-time strategy (RTS) game built with Unreal Engine 5. The latest round of funding for Frost Giant Studios has raised £18."
-    publishedDateTime: 2022-01-27T00:30:00Z
-    webUrl: "https://www.nme.com/en_asia/news/gaming-news/ex-starcraft-developers-raise-18-4million-for-unreal-engine-5-rts-3147493"
+  - title: "Crossfire: Legion aims to fill the gap left by Starcraft and C&C: Red Alert"
+    excerpt: "I argue that in the recent resurgence, we haven’t yet come across an RTS game that offers players an experience comparable to StarCraft or Red Alert,” says game designer Maurice Grela. “We’re hoping to fulfill that gap."
+    publishedDateTime: 2022-01-25T14:31:00Z
+    webUrl: "https://www.rockpapershotgun.com/crossfire-legion-aims-to-fill-the-gap-left-by-starcraft-and-cc-red-alert"
     type: article
     provider:
-      name: NME
-      domain: nme.com
-    quality: 37
+      name: Rock, Paper, Shotgun
+      domain: rockpapershotgun.com
+    quality: 35
     images:
-      - url: "https://www.nme.com/wp-content/uploads/2020/10/101620-Starcraft-II-Blizzard-Entertainment.jpg"
-        width: 2000
-        height: 1270
+      - url: "https://assets2.rockpapershotgun.com/crossfire-legion-base-defense.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/crossfire-legion-base-defense.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Gwangju Institute of Science and Technology Researchers Develop Terrain-Aware AI for Predicting Battle Outcomes in StarCraft 2"
     excerpt: "As the need for more sophisticated artificial intelligences (AIs) grows, the challenges that they must face along the way have to evolve"
@@ -127,6 +127,6 @@ related:
         height: 630
         isCached: true
 
-secured: "OnDee2at7uuL90G7L/ovSEmwZM1jvkXracVQZlis9oAggwPaKIfYZ1p908KZ1EGdfq+geJkmvpkrIh5vinNuKS7MSuTy+ckvZYeObjwgGKBf1p7tAXJXMvHptdqK52dVh5TCtn6zcuiPYxlfU3ko9WF+Ga7rAUiEFu1npFJXh2ZUWxpEG2yJI9WOakZCqq8XspXB1MR+pQ671KQHwx7tt45nCid+3Z0FHW7idrw4/AXHRGGvQsNkhuV/hiAp0twNphWMk+DUmgFaR2IWA4lT3S5WBkQGAfDAvFBukbb2iabJZjLLrew7fH2z34q8zLpcWHRMoMIMf1fmj9p3bOIuTl/pfp17ziobz5ONEnxEj+35NIL0tVwCJwAYlCeDW0r+S1mIHsIUbfFGrzwJq6j+kR5ApgNivfYOzN5nE2ZTc4MOYGDhrfWUPNO9xsgKvHkDxBlihdm1q7QOA/rYqYevNtAtn1TjiEVTuFYRjS8NpIYDe4hFRBUIVULcnpjPR62xZJXt1AG3Q4MkC+z9kY69dQ==;fg4oVQJEE9onjSn/PMjF3w=="
+secured: "1p/aa7lb89smKQqnP63IM/MV98C63f0b79kVcC38BabKZ6nr9vgKyvu4yL3B23b6oNhiNAC7lMZ7TsD9f2s7zaRPZDyBpSmmQ0H3gvIR+K08XDdPXW9bMZqJtDl08SGcRIZevmokwMk/TCwP70KhK7LBfMPLCATboI/At/c0080bhFJnh2IW00PpdS/+0pMZutq+CVDC2IAD8jiT/vgoiyDwovw9X9yJf1alJi2MdMC1o2zWfKGQMaCs1f24cPlMSg0bHX71GWN8REgWJ5iNlEENAHkRZ8v8z3Deu654a5M0LgrulReGjVbP4Zg+2PGz6qQMal+qWj0VZ7qEot1EoKYdB7krIonm4/eTtX1daY8=;EpLv/th8MvAsXVBTnC9sJA=="
 ---
 

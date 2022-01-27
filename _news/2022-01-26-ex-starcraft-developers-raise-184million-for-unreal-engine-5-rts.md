@@ -84,6 +84,20 @@ related:
         width: 890
         height: 520
         isCached: true
+  - title: "Ex-‘StarCraft’ developers raise £18.4million for Unreal Engine 5 RTS"
+    excerpt: "Former Blizzard developers have raised £18.4million ($25million USD) to create a real-time strategy (RTS) game built with Unreal Engine 5. The latest round of funding for Frost Giant Studios has raised £18."
+    publishedDateTime: 2022-01-27T00:30:00Z
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/ex-starcraft-developers-raise-18-4million-for-unreal-engine-5-rts-3147493"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 37
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/10/101620-Starcraft-II-Blizzard-Entertainment.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
   - title: "Crossfire: Legion aims to fill the gap left by Starcraft and C&C: Red Alert"
     excerpt: "I argue that in the recent resurgence, we haven’t yet come across an RTS game that offers players an experience comparable to StarCraft or Red Alert,” says game designer Maurice Grela. “We’re hoping to fulfill that gap."
     publishedDateTime: 2022-01-25T14:31:00Z

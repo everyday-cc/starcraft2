@@ -126,6 +126,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "StarCraft 2 and Blizzard Veterans New Studio Raises Money to Create a New RTS"
+    excerpt: "The team is planning for the game to feature a heavy esports component meaning it could become a spiritual successor of sorts to StarCraft. It's also looking to push the genre forward, tech-wise and in terms of approach-ability. \"We absolutely want to make ..."
+    publishedDateTime: 2022-01-27T01:28:00Z
+    webUrl: "https://www.ausgamers.com/news/read/3639009/starcraft-2-and-blizzard-veterans-new-studio-raises-money-to-create-a-new-rts"
+    type: article
+    provider:
+      name: Aus Games
+      domain: ausgamers.com
+    quality: 34
+    images:
+      - url: "http://www.ausgamers.com/gameres/7435/images/695/frost-giant-studios.jpg"
+        width: 695
+        height: 390
+        isCached: true
 
 secured: "V/clYzJsDBZFHVlsg67MBGshxw4dJShOwwbcjLAWH6p0mwWW8uEHCpEApHXoYzpJlbF/8EFbR97Ft9KqdUuZ3+H1LWyby5z9GDZAXvKahV8wgR2xzYsVcAFNQfOL3OCl1q1iPYAUSkFFVvZZUWNMVGhE80/7xxuHdzOVpT04Jto2JTbl8nRZD49EhGS5dBISmpXDKk825fC/pK1620EuKqd75uCW9QXGxLx9MbxZnm4aFq4FRsB635FjUqnOy24Ztt96HnwCs3zo0H95n1J5ajNuswmMkmqbD0yDgU13tAegknGN068x3wPNwFsUybcCikElHiBeof7f8SLpFdJNN5tVoZVdf9zmFWr/5z9UPa9S9dxDSj0QCmJm8q3HYbktuMH1fK1lkKNQObF+1v5fsF3tt+pLeziPvrv3YGj7ZAz8LDZf+gYimRb/jHqmT8pNWRHccM/PhgncNrmfjRAVenR5wbM1Q8VSjuvSNh0UekFnZs4/pUELyuD2W07vkSYXJkYG4kx8y15205zGpAFJpQ==;tMP6c9oTgOn84TVs/aLLQA=="
 ---

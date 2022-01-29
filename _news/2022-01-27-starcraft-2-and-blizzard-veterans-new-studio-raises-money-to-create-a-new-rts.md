@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Ex-‘StarCraft’ developers raise £18.4million for Unreal Engine 5 RTS"
-excerpt: "Former Blizzard developers have raised £18.4million ($25million USD) to create a real-time strategy (RTS) game built with Unreal Engine 5. The latest round of funding for Frost Giant Studios has raised £18."
-publishedDateTime: 2022-01-27T00:30:00Z
-originalUrl: "https://www.nme.com/en_asia/news/gaming-news/ex-starcraft-developers-raise-18-4million-for-unreal-engine-5-rts-3147493"
-webUrl: "https://www.nme.com/en_asia/news/gaming-news/ex-starcraft-developers-raise-18-4million-for-unreal-engine-5-rts-3147493"
+title: "StarCraft 2 and Blizzard Veterans New Studio Raises Money to Create a New RTS"
+excerpt: "The team is planning for the game to feature a heavy esports component meaning it could become a spiritual successor of sorts to StarCraft. It's also looking to push the genre forward, tech-wise and in terms of approach-ability. \"We absolutely want to make ..."
+publishedDateTime: 2022-01-27T01:28:00Z
+originalUrl: "https://www.ausgamers.com/news/read/3639009/starcraft-2-and-blizzard-veterans-new-studio-raises-money-to-create-a-new-rts"
+webUrl: "https://www.ausgamers.com/news/read/3639009/starcraft-2-and-blizzard-veterans-new-studio-raises-money-to-create-a-new-rts"
 type: article
-quality: 37
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: NME
-  domain: nme.com
+  name: Aus Games
+  domain: ausgamers.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.nme.com/wp-content/uploads/2020/10/101620-Starcraft-II-Blizzard-Entertainment.jpg"
-    width: 2000
-    height: 1270
+  - url: "http://www.ausgamers.com/gameres/7435/images/695/frost-giant-studios.jpg"
+    width: 695
+    height: 390
     isCached: true
 
 related:
@@ -98,6 +98,20 @@ related:
         width: 2000
         height: 1270
         isCached: true
+  - title: "Ex-‘StarCraft’ developers raise £18.4million for Unreal Engine 5 RTS"
+    excerpt: "Former Blizzard developers have raised £18.4million ($25million USD) to create a real-time strategy (RTS) game built with Unreal Engine 5. The latest round of funding for Frost Giant Studios has raised £18."
+    publishedDateTime: 2022-01-27T00:30:00Z
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/ex-starcraft-developers-raise-18-4million-for-unreal-engine-5-rts-3147493"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 37
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/10/101620-Starcraft-II-Blizzard-Entertainment.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
   - title: "Crossfire: Legion aims to fill the gap left by Starcraft and C&C: Red Alert"
     excerpt: "I argue that in the recent resurgence, we haven’t yet come across an RTS game that offers players an experience comparable to StarCraft or Red Alert,” says game designer Maurice Grela. “We’re hoping to fulfill that gap."
     publishedDateTime: 2022-01-25T14:31:00Z
@@ -111,20 +125,6 @@ related:
       - url: "https://assets2.rockpapershotgun.com/crossfire-legion-base-defense.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/crossfire-legion-base-defense.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "StarCraft 2 and Blizzard Veterans New Studio Raises Money to Create a New RTS"
-    excerpt: "The team is planning for the game to feature a heavy esports component meaning it could become a spiritual successor of sorts to StarCraft. It's also looking to push the genre forward, tech-wise and in terms of approach-ability. \"We absolutely want to make ..."
-    publishedDateTime: 2022-01-27T01:28:00Z
-    webUrl: "https://www.ausgamers.com/news/read/3639009/starcraft-2-and-blizzard-veterans-new-studio-raises-money-to-create-a-new-rts"
-    type: article
-    provider:
-      name: Aus Games
-      domain: ausgamers.com
-    quality: 34
-    images:
-      - url: "http://www.ausgamers.com/gameres/7435/images/695/frost-giant-studios.jpg"
-        width: 695
-        height: 390
         isCached: true
   - title: "Gwangju Institute of Science and Technology Researchers Develop Terrain-Aware AI for Predicting Battle Outcomes in StarCraft 2"
     excerpt: "As the need for more sophisticated artificial intelligences (AIs) grows, the challenges that they must face along the way have to evolve"
@@ -141,6 +141,6 @@ related:
         height: 630
         isCached: true
 
-secured: "xasYky+gB6AecPLuTKUnWeiu7f+q3S01eO2DoVWyq5paeA3/sMRqzoHTMduzBqSvvESqQ4l5fYIqkeHlJddZ4+yKCG0pnqRn+bF8SobyUC4J8hQViH5fIv9jZoKggiUD8Y63Ykau2BKy16dTjvW5gdql7HGZm8t7LB7ck8r34hV5FodtPMgmGwWX0OOvZ4KLvvEn7IAJ5tsI0a65lXo+UA2zpU4grUjJKZ5+CiaGAWt0SjY+8C543X4+SUh8Znc1lnbbpns1HvVtkalZNSepvcBTSAF92nRLKbuMYhMQeeOpsfIM698KtLpca+K2lIVeGPTInfSH6zIM3sR6fOwFcEIuB3s/tZ29eTW6xeRB5/j24O6VK7yz0U4NFcWnFtWBIJ1CaP+kMLEUyMg/1WYnFu63hfNxxrV9DWE3wLkP8KY/ao0lFji4P7pI2MGHou8WgJrxdjaMhJMCdvYCXu7eFuKg11ykCpmGYdPSnM7LY8WPj5OnklXC9fY+LEfpbKat9dRtMOZxuIPyBfM98tQX3A==;ymsSXA8vW7o1F48oBmA1kQ=="
+secured: "Fjee5/0L6t5PnqFvVikriphlwD37wla3EeEHXVovSobWQBWZBMHMixHezTFvKjxGTbEM5f3KTyElbG6nSjntEbYm2DGjRDoamwLLb3GtT/anMMpgvQBe/FPbBpeq1aXo8t2BMjHq/QfQgWXII+2g0txAf2gQIu9t1Ra0nN45qqWvKq+xYCtCplNwdIwx787Yovb0HgPNs66zG+RDDiDlH8EAub4xD3TzSiKVT3XXOaL2jsuaLsDBLFKKnlcociOP4k9l79Rq0OYjdhkLWE9lRT5SejqtuUA3J7Vka3RkvfAFEM+N7tq5jJkRU0mMWuQzRKgZ+1/0Pz2MRlnPnHjQiRLA83k7G4fNZ7SFfIJ0euM=;PzvmCh8BiZSuV0nZHDV3dQ=="
 ---
 

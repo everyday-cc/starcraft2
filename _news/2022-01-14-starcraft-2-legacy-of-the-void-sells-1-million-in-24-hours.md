@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/starcraft-2-legacy-of-the-void
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-2-legacy-of-the-void-sells-1-million-in-/1100-6432299/"
 type: article
 quality: 97
-heat: 159
+heat: 139
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://www.pcinvasion.com/wp-content/uploads/2022/01/20220114172852_1.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "StarCraft vs. Warcraft: What is the WoW community missing?"
-    excerpt: "Don't follow me? Basically, I've just been playing a lot of StarCraft 2 whenever I'm not raiding. Still, being heavily invested in WoW and StarCraft has really felt like living two lives at times ..."
-    publishedDateTime: 2022-01-10T00:00:00Z
-    webUrl: "https://www.engadget.com/2012-01-10-starcraft-vs-warcraft-what-is-the-wow-community-missing.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/s9kQseKPZV5RWV_A0DWE3g--~B/aD0zNTA7dz01ODA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/wow.joystiq.com/media/2012/01/wowandstarcrafthearts.png"
-        width: 580
-        height: 350
         isCached: true
 
 secured: "HSYaVZPIjCtnkvXZq1h9OijRu3Po/v/VcpC/qF7uMeZaPz67ZVe2H8TUzTdsCIfOb93ZpWdddj57U10SfjzlOnqv3IgsW0zlmniaYD/MUsm7bmA9yEurHU1gUDD+2Dlripam8VkZgE8VpKM5Q80BYLzM5L3EfeeyG9TE2/raQB1vW7R7dV+jJPR3CTREIHNO/BmnTg32IxDd5Mh/S9mVeWEG/WSH/rNqakaClhXVGiYHAjYnXGe+CgIsiPrXP0GvroF9hUcFyqRuuAZt2u0+KoQ03fDj/UZ7FijfD+0tzOlenx1mOwcjG8uqB4jpOVwd769gvJOOylD7q08GueYMSO4iBXfeqFBzjgjsgLKJDtU=;9VE5Kq94cJPD8+n3GbiftQ=="

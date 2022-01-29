@@ -62,20 +62,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "StarCraft vs. Warcraft: What is the WoW community missing?"
-    excerpt: "Don't follow me? Basically, I've just been playing a lot of StarCraft 2 whenever I'm not raiding. Still, being heavily invested in WoW and StarCraft has really felt like living two lives at times ..."
-    publishedDateTime: 2022-01-10T00:00:00Z
-    webUrl: "https://www.engadget.com/2012-01-10-starcraft-vs-warcraft-what-is-the-wow-community-missing.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/s9kQseKPZV5RWV_A0DWE3g--~B/aD0zNTA7dz01ODA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/wow.joystiq.com/media/2012/01/wowandstarcrafthearts.png"
-        width: 580
-        height: 350
-        isCached: true
 
 secured: "ZCMrRKVDf1JZM32ouDkg89M+u/WQRnbA/pdbOK/Epl/D0mEPhzwH3Aq7W2Owv+/cMaXIEMYmppwT7PqiBMHieJaum24YrsUl54P/fZZ7ooeD3raBYxwEJRlKpi3b7hbaM95e9sgupEDI1gjwBHHKCXYwiNAj1pX5QeJhh5PsKPzuN3njt4+Urc9pNNt7A0k0jKvJYukR6vWBYdVDAdwnpTurmIlNAu2MFDF/QtElF9XVmPtpo30EoFlEIoPv6tLJ9qWkhS6kLVuCC6F9Cbd8CmVvOhu5FFkVWp+XtygbkX6wsi+z40xDbSeLmIXozYEvkIEAT/3kXlvvfAZj5LjZXA3wy2QseqmrIfdZIOYVJ+4=;NMUaelsY1T3DUC5/tp2dPQ=="
 ---

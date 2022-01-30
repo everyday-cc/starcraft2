@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-relentless-aggre
 type: video
 length: PT34M22S
 publishedDateTime: 2020-10-22T10:17:44Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/azhpEHcwzMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "68GJhN4KLPUXsxzTzMF0VazLGyFkDJfxSQHAecmQbsjkW8OxEBzUQZemvp2Bq1sV7DYTTgfYf3CFKbenOxlnQmyHgBjJkpMr8AZXgQll3lvYEAV3OH2Y6EaH3iRTcZNUkGcsrIWsUgcEtV5y/9LaSqzZou920Y2mzwuTtdKKrAEKw/+eTMhc4YjGF/Nlp7/e4lb0PkintoYEtdySFxBvO+MZQoVa4LdxCu1tNO3n9fExp1RlQdxsLg44BeQAlEBnCYoQ75cu78SgLNcricwsd60u7s2Ey0dUXkjVPR5GNP/TdLM3s639HlOqVdjQXMiLXT4aszobnPtr8Ba6OCEfwATXDeqnjopX2b0QysBiTpI8Ag1azmVnC8uEsdx+2WyXWg2C3d58fPvE9O2LWhy3evYzW4ISjrBiEjBqXaWiHv78OGTa7hHxi5hpvnEq8n96;Mc3Yr2QWw0omrC5CgjFSYg=="
+secured: "RvDEsfImg5mrYGbtK+fl22jwizxk0ormI4eus9YxkI31O+pSa+8ELdeex/Z0i+CXTtxRcjmRRtDZkJhPisPKOEu4MlpiufzgoL8CudHzsw0mCy1aoapySaxjjL842f1Yo6iov/ZSDODF4IsRBqMxD+kzIRJcAeDmQXioNVT/WWV91aPb9HtMSyjKJizimA3yJNvbazk6Q96Xd57JqJKlH0sKpjZdIetfZMoLhIdlz/2ARMGBPK7AnVu1zknmrkFA5l8xEHW9KpfUNhzYxZMGueqthiHKnOpGGAOPnzUtJ6cT9+rQf3f2aDqUC+k3NoduD84nrw15U4/PineiCwJUijm1KaL31s7mC/Cu83hjYxnQXnYGDOrmB6SXEp8rb7r4DIDB69IqClvgdB9/mWpv1Pq8G+VlNMa7YCDsFkikHWKMt9lFfU5QZeFEXMTRf5/Q;bWpltAwt0OAJog5JFLp1pw=="
 ---
 

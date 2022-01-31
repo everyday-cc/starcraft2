@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=lIczZa9lyEY
 type: video
 length: PT20M41S
 publishedDateTime: 2021-10-14T11:54:06Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lIczZa9lyEY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Spv6yAIIjpvWo2pHTuORSmMsT9pEJolZO2mLdHJ2Z5OwSZKe50xuKVPDB5MpF2bklDx6sAzeg4egNeS6cTyO3oc1npVclkunkf5zIPN/Dn4gdXH2hNFi4KD+oHmh3uzp4F2xMs8ZVk5POzrxFmBft/oNsz6zw2iGqwDG+d2hlgC8kFr1QRsnON5aWmkq9ZWwDIp19JSbAqYOddvsAfe1bM/WOOGjz60QNnrHsxe9KXCh7rhnen8UkU0CGmspk5sGOF5mz0/ExvIYQEmCZNp2/6tbrQlRj5crgZmmq9A2IRCVMNcxMkXxA1p63rabo9O82a6mf5YBrBxwl6PbWTqW5UtgYvRJS9Nht5HX4P0L360+a1PAI4CmH+eTUI3tEYiTCIC1Fv+fbootH+swKbuDTCoTXaENffO68i2Lkcn0MpTgG81rw/UHkslMakutorte;DjqilUtdA1rSHjSvXPO/yQ=="
+secured: "efNcfjH4AeIllsvl7sMX5BKiztLBbvQnnVadjwZthNs/b5kZ1aAGKwSifyj628gLhUNiexgItBvMaaHKBUxh5CvS4gRzYHByO5TdXEeAmK1O/Wf/jBWfnCt5zDvK8mckcN5IvA12rbV8DvXWTWKK6qOMvAfS0upkcyYkNCcQbPDCetJddhc3xjLfp1KzX/OY6CqKJafe9c7oWU6ICDWkOswzHa//O5JWzDsfhh+wznz2nTgBcijPQgd5dXKybmObarjPb6+wUgNlGjzLXGyCsTETj7gg9Pv2CVBRzXCEnHGEDX15/o2W1CizMIkHai6FlKF0rzAxFMklOmZ2G+jCkavPx5qxOccBuUff8cYel99JZeUhHYea6rdjCoL6wo4Y9eiU7qEhqVxu+hoe/ay8KghwfzvgriCQeC52buT9zfA3YKjsekBcBzkd21vNg6xn;3CXybeVu9jsHGIukPqg4Iw=="
 ---
 

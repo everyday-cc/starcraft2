@@ -813,6 +813,7 @@ items:
   - pig-when-protoss-squatters-take-terrans-main-base-diamond-in-the-ruff-61
   - pig-starcraft-2-this-dude-widow-memed-florencio-florencio-files-242
   - pig-starcraft-2-two-chezers-face-off-florencio-file-243
+  - pig-starcraft-2-the-dumbest-ravager-contain-ever-florencio-files-255
 
 topics:
   - StarCraft 2

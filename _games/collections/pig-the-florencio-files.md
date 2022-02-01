@@ -263,6 +263,7 @@ items:
   - pig-when-your-strategy-is-mint-but-your-opponent-has-300-apm-florencio-files-252-starcraft-2
   - pig-starcraft-2-he-tricks-the-zerg-into-expanding-next-to-tempests-lol-florencio-files-253
   - pig-when-you-just-want-to-play-starcraft-but-flo-puts-you-in-jail-florencio-files-254
+  - pig-starcraft-2-the-dumbest-ravager-contain-ever-florencio-files-255
 
 topics:
   - StarCraft 2

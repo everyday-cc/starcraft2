@@ -40,6 +40,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Crossfire Legion hands-on preview — I can’t believe it’s not StarCraft"
+    excerpt: "We had an early chance to try out a very early version of Crossfire Legion, an RTS set in the world of CrossFire."
+    publishedDateTime: 2022-01-18T20:00:00Z
+    webUrl: "https://www.pcinvasion.com/crossfire-legion-hands-on-preview/"
+    ampWebUrl: "https://www.pcinvasion.com/crossfire-legion-hands-on-preview/amp/"
+    cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/crossfire-legion-hands-on-preview/amp/"
+    type: article
+    provider:
+      name: pcinvasion.com
+      domain: pcinvasion.com
+    quality: 57
+    images:
+      - url: "https://www.pcinvasion.com/wp-content/uploads/2022/01/20220114172852_1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "StarCraft's revival needs to be a priority for Microsoft, according to Windows Central readers"
     excerpt: "Readers want StarCraft, more than any other franchise, to be Microsoft's immediate focus following the Activision Blizzard acquisition."
     publishedDateTime: 2022-01-24T19:15:00Z

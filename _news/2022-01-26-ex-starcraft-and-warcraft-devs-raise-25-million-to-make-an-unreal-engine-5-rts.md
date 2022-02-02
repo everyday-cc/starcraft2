@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-fundi
 webUrl: "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard"
 type: article
 quality: 73
-heat: 256
+heat: 276
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://sportshub.cbsistatic.com/i/2021/03/18/2a985f10-d6cb-4f52-b1f6-0b9d414be923/playstation-plus-pink-1226515.jpg?width=568&height=320"
         width: 568
         height: 320
+        isCached: true
+  - title: "Warcraft and StarCraft Veterans Make a PC RTS on Unreal Engine 5"
+    excerpt: "The Frozen Throne expansion have set up a new studio, where they are working on a PC RTS. They have already raised over $34 million for this purpose."
+    publishedDateTime: 2022-01-26T09:12:00Z
+    webUrl: "https://www.gamepressure.com/newsroom/warcraft-and-starcraft-veterans-make-a-pc-rts-on-unreal-engine-5/z03f6a"
+    ampWebUrl: "https://www.gamepressure.com/S013-amp.asp?ID=16234"
+    cdnAmpWebUrl: "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=16234"
+    type: article
+    provider:
+      name: XCOM 2 Game Guide
+      domain: gamepressure.com
+    quality: 57
+    images:
+      - url: "https://cdn.gracza.pl/i_gp/h/22/380880872.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "StarCraft's revival needs to be a priority for Microsoft, according to Windows Central readers"
     excerpt: "Readers want StarCraft, more than any other franchise, to be Microsoft's immediate focus following the Activision Blizzard acquisition."

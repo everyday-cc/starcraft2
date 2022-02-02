@@ -1,28 +1,28 @@
 ---
 category: news
-title: "New Starcraft Game Potentially Teased by Blizzard Boss"
-excerpt: "A new game in the Starcraft series has potentially been teased by one of the current boss at Blizzard Entertainment. Over the past week, a number of fans have loudly been voicing which franchises belonging to Activision and Blizzard they would like to see make a comeback in the wake of Microsoft's acquisition of both publishers."
-publishedDateTime: 2022-01-21T17:03:00Z
-originalUrl: "https://comicbook.com/gaming/news/starcraft-blizzard-new-game-tease/"
-webUrl: "https://comicbook.com/gaming/news/starcraft-blizzard-new-game-tease/"
-ampWebUrl: "https://comicbook.com/gaming/amp/news/starcraft-blizzard-new-game-tease/"
-cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/starcraft-blizzard-new-game-tease/"
+title: "Warcraft and StarCraft Veterans Make a PC RTS on Unreal Engine 5"
+excerpt: "The Frozen Throne expansion have set up a new studio, where they are working on a PC RTS. They have already raised over $34 million for this purpose."
+publishedDateTime: 2022-01-26T09:12:00Z
+originalUrl: "https://www.gamepressure.com/newsroom/warcraft-and-starcraft-veterans-make-a-pc-rts-on-unreal-engine-5/z03f6a"
+webUrl: "https://www.gamepressure.com/newsroom/warcraft-and-starcraft-veterans-make-a-pc-rts-on-unreal-engine-5/z03f6a"
+ampWebUrl: "https://www.gamepressure.com/S013-amp.asp?ID=16234"
+cdnAmpWebUrl: "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=16234"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Comicbook.com
-  domain: comicbook.com
+  name: XCOM 2 Game Guide
+  domain: gamepressure.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://sportshub.cbsistatic.com/i/2021/03/18/2a985f10-d6cb-4f52-b1f6-0b9d414be923/playstation-plus-pink-1226515.jpg?width=568&height=320"
-    width: 568
-    height: 320
+  - url: "https://cdn.gracza.pl/i_gp/h/22/380880872.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -56,21 +56,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Warcraft and StarCraft Veterans Make a PC RTS on Unreal Engine 5"
-    excerpt: "The Frozen Throne expansion have set up a new studio, where they are working on a PC RTS. They have already raised over $34 million for this purpose."
-    publishedDateTime: 2022-01-26T09:12:00Z
-    webUrl: "https://www.gamepressure.com/newsroom/warcraft-and-starcraft-veterans-make-a-pc-rts-on-unreal-engine-5/z03f6a"
-    ampWebUrl: "https://www.gamepressure.com/S013-amp.asp?ID=16234"
-    cdnAmpWebUrl: "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=16234"
+  - title: "New Starcraft Game Potentially Teased by Blizzard Boss"
+    excerpt: "A new game in the Starcraft series has potentially been teased by one of the current boss at Blizzard Entertainment. Over the past week, a number of fans have loudly been voicing which franchises belonging to Activision and Blizzard they would like to see make a comeback in the wake of Microsoft's acquisition of both publishers."
+    publishedDateTime: 2022-01-21T17:03:00Z
+    webUrl: "https://comicbook.com/gaming/news/starcraft-blizzard-new-game-tease/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/starcraft-blizzard-new-game-tease/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/starcraft-blizzard-new-game-tease/"
     type: article
     provider:
-      name: XCOM 2 Game Guide
-      domain: gamepressure.com
+      name: Comicbook.com
+      domain: comicbook.com
     quality: 57
     images:
-      - url: "https://cdn.gracza.pl/i_gp/h/22/380880872.jpg"
-        width: 1280
-        height: 720
+      - url: "https://sportshub.cbsistatic.com/i/2021/03/18/2a985f10-d6cb-4f52-b1f6-0b9d414be923/playstation-plus-pink-1226515.jpg?width=568&height=320"
+        width: 568
+        height: 320
         isCached: true
   - title: "StarCraft's revival needs to be a priority for Microsoft, according to Windows Central readers"
     excerpt: "Readers want StarCraft, more than any other franchise, to be Microsoft's immediate focus following the Activision Blizzard acquisition."
@@ -173,6 +173,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Tuz772cF9lHvia3d99Ct9/+Z8la0URbq1yGdoWwcnE+sx2luEYRBFLKRrnIAJ4SPm/0H0GISPMu0C6koqFplwoozEUZOfeEZ8uNW7dreHm2e/VTwoSFZfD57ruuZnVIpdMrIjQTOJ+3wbdwQGTAPhXa1I0jlpcm5ZmJ/VT9hHi01IALd7xqKyPt3rQ1O7W797se8ia9xVEoBmG6SVd9yXceGOkbx8coOtSX0YPR6G5EeZ696rcPCMBI57dr+iHMehg7gJGB0Xeb3vAsdyWABMuNRX4Rjtu0WZixbxaLsMha4O+UJDU6I5ZTbglsDGw+X9c319F+adkvS2PET8Hb39fj13amSCERtp85+UVDpPcIEIuZJ8voKCZo3A5nZaVQ3rZYyS37yAPHh/cqJzgg2QnFx1jmIARoVz4LqLHBHM+Xh3APEgA/evqWX35sGD1qsTL+wtXpDbus802ad1HnlA0Xb5G2JLgJ3czJPRIz2w3uYLmvGBXaEewF2LO9GNzORFKYw6Jp+Hn+Ny4WJMKTLhw==;sp3iS8b4A64DFgftmYLcqg=="
+secured: "nozjq3Hd3qiggylMHK0A7YW2b16SD8LMFft0HmfjEcUbFs9rqLsogFvaaOulZzz5XZ30DUu+UQhzg0HCO82o2I7GMsjj/HcASn9cW/zXjz/RKfiealHQazTPWM8DlRd2WCIqAdKw8eVneHYYv4wxzUPF3b3vvh8dTwqC9lPXXUjeK04rd6kSEzFT65DM1axWYox4HtCcR4cldJtg9fHm8IrEmi8ijhrGRuQ2K9zR2NkVVpXrnAaZR1VmGFTwE/GTJKs+/tXSgYsev7zxQnltWBBbHcrfMGS/vt9wEWb3QxVLYs8wu5sjx0psSBhGL/h4SN0YAG+WlqNBqf4zqjCNKuIgIt00ej+offZbvpwIIaU=;OAYnoXkve/jr3VZOgEOdVA=="
 ---
 

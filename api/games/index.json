@@ -256,7 +256,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 238,
+      "heat": 213,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/eg-pJBUPug0/maxresdefault.jpg",
@@ -906,14 +906,14 @@
       "publishedDateTime": "2021-08-26T04:06:39-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-sneaky-fungals-serral-vs-heromarine.md",
-      "title": "StarCraft 2: SNEAKY FUNGALS - Serral vs HeroMarine!",
-      "excerpt": "Epic match of professional StarCraft 2 between HeroMarine (Terran) and Serral (Zerg).   Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-sneaky-fungals-serral-vs-heromarine/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-sneaky-fungals-serral-vs-heromarine/",
-      "originalUrl": "https://youtube.com/watch?v=0RouXS77vbg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0RouXS77vbg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M31S",
+      "path": "_games/lowkotv-starcraft-2-very-strange-terran-strategies-serral-vs-gumiho.md",
+      "title": "StarCraft 2: Very STRANGE Terran Strategies! (Serral vs GuMiho)",
+      "excerpt": "A fun best-of-3 series of professional StarCraft 2 between Serral (Zerg) and GuMiho (Terran). At this point I am fairly certain that GuMiho plays a different strategy in every game he plays. In this best-of-3 series he decides to play Mech, cheesy Marines and a very strange Bio based opener.   Vanya",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-very-strange-terran-strategies-serral-vs-gumiho/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-very-strange-terran-strategies-serral-vs-gumiho/",
+      "originalUrl": "https://youtube.com/watch?v=wz06FeEcy_s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wz06FeEcy_s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M14S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -928,12 +928,13 @@
       },
       "topics": [
         "StarCraft 2",
+        "Terran",
         "Zerg"
       ],
-      "heat": 112,
+      "heat": 117,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/0RouXS77vbg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wz06FeEcy_s/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -941,17 +942,17 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-12-08T03:20:28-08:00"
+      "publishedDateTime": "2021-11-13T04:03:46-08:00"
     },
     {
-      "path": "_games/pig-starcraft-2-has-and-blys-cheese-fondue-party-heats-up-cheesedown-part-24.md",
-      "title": "StarCraft 2 - Has and Bly's Cheese Fondue Party Heats Up | CHEESEDOWN Part 2/4",
-      "excerpt": "We invited the cheesiest Protoss, Has, and the cheesiest Zerg, Bly, to have a Cheesedown with us to determine who is the best at serving fondue. Part one wasn't cheesy enough. In Part two, things start heating up! Cheesedown Part 1: https://youtu.be/OI4n4PWs1TI -- 🐷 Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-has-and-blys-cheese-fondue-party-heats-up-cheesedown-part-24/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-has-and-blys-cheese-fondue-party-heats-up-cheesedown-part-24/",
-      "originalUrl": "https://youtube.com/watch?v=yvvgXC3C-zo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yvvgXC3C-zo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M13S",
+      "path": "_games/pig-sacrificing-units-to-confuse-the-enemy-santa-claws-7.md",
+      "title": "Sacrificing units to confuse the enemy! | Santa Claws #7",
+      "excerpt": "🎅 Santa Claws impressed in his Starcraft Smooth Brain audition and has been granted an opportunity to be the next Smooth Brain. Will he impress or will his brain prove too wrinkled?   🎅 Santa Claws Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh -- 🐷 Second Channel",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-sacrificing-units-to-confuse-the-enemy-santa-claws-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-sacrificing-units-to-confuse-the-enemy-santa-claws-7/",
+      "originalUrl": "https://youtube.com/watch?v=bFuOQvTjXrg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bFuOQvTjXrg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M15S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -959,10 +960,10 @@
       "topics": [
         "StarCraft 2"
       ],
-      "heat": 110,
+      "heat": 117,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/yvvgXC3C-zo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/bFuOQvTjXrg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -970,7 +971,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-11-20T16:04:59-08:00"
+      "publishedDateTime": "2021-12-27T14:40:13-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul.md",

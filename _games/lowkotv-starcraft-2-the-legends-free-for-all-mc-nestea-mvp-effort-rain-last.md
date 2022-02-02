@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-legends-free
 type: video
 length: PT18M13S
 publishedDateTime: 2021-02-23T17:23:49Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NOcA0Q-gjBE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -30,6 +30,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+5LBfuENT15H49Mvmg1IuRWF2DRgkA80EW55NII2CNwJeEQWsxyzjMZWaEuenZIUDju8dluwc/wdUWNJvqqYMBnzZxzT11WOnqgKTSxEQpJKTxriFuJRX63cdv9dAgS8BEk7VfMbnqO+/Vna7Ljci/IZ+XzC/emvIsEY74oAMuTwaknyPh4BJQ86IYA25mGfFBS7lyPMzII6HWv8aFu0vmJTT2RCsqAk2QBtNQDDxmGfQRpC587gt7PJIt+Y5x+2sPeHtlagc8fylttVIsOoXLpvkB46pIycX/K/5nefWbTM4mSBfNfMzqByrytPjFPp/KR0CeGd+8Iiq/3jBOzhPFc5r2CmaIHnfYOaxxCSJ0WGS19B2NtZP0tNZqiIgWGeUS6s2PcotNJC55jdNBCrf3OYN//sfZ7KWhpuNcpUgok=;Sv2gk8bAnuVC0QnKhaUdTw=="
+secured: "vu0F1QUXuW5++U3Xu7PH4k0H3J+6U/PitrIf1C7tCyCXmOINn+Kq85oalcXjoCWCua9QIRhPx/D2ICoQJ9kWGlnI68Wee/BFE6XLpioq6EIu2TVEP7c60LcaJKXF87Bq0KJupGKyWATO4jQ3Ow4Up3rWhqPeh2mgfiXt4QFzi84jnILLX4AAWvS3qtlhEtGUQpGRUOw3BCIn1cQ5TMTUEFu6VM9/loab1trMBTvxSq0v2Ip4wDIUZIFKd8DGDc8aAfboCTQA2oIaTQBG3ZJpe6PgAWpbStW+kyEzGT3HESHsi/bvb48nFDZnsHrkAWQpT4Y2M+GVi+fcFumDIg5+aJyk/hZzkVFDHG8lMV83EGobJhgJvoa6EO5mgPUs4r+EN2z1bv61cPfKF+lrX6AftS5WELfcC8BiSskI1+oRT4s=;+yEKovPY+ZElpKG+4JYzpA=="
 ---
 

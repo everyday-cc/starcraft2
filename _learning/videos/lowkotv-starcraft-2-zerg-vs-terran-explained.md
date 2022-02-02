@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT18M34S
 publishedDateTime: 2021-04-28T09:19:50Z
-heat: 55
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rGa7TwyZa_4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -30,6 +30,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ywkudROr+zGFZGtqs6MrURzACtRJ0SEs0JMQybP3TPKue5mBULHvRlIz1xapmaA1Le4rvN9UwaegofASKtFt6QTOki3hVhZ43WwQBtKsvzpMt8fq9Va9EHqYxkneblF2rjo9u9yOmI6Ao79bkkCfIhtyPLsw2xuAN3ikmBBbBiy8s2bBDtZcQB8VQTsCL4VL4B30zXaXyzbu0h0HTLcZXP46mgtre9iN/zt5RC+yhpb20w+HwRVkgd8CTMgKGAn/Z3mPrE8VjO8y3kUaq3S+YhV+2PupT78qc4BSh1vUKMTB74SBy1RY+uVWqyA1OwLXgSJovxfMQIM5TobYb5cypypgto6s55R9RZqAzqeAD+hp+2YT7Z37P3pXcLd2UReuGrvYVz2XNxKmCyXbBI6eW2BPUhSOh8ljGB/ZY9hTpno=;qBnpM4XfsmNYOWN3mazlaQ=="
+secured: "RVBOLTIn+Ee1wMsFPJkmTtbh38e5F6Lvki8TvgDJDYkWPMSJ8C2dbWrbn+G1tE9LcFPSczJ9JUvIvZBWklo0zCJ+ZZAj7EXTcWBj1WzVDzw8Z6SkStWCN6KZyDoeXPNH15TiDFL9wDcQM7kPsmMwikcymzEBFrYrswUaQ9ZlBlcpfqWxsN0q/9gCsMm5kDzeBwMmdFLEht/kZ6oNUj0oMWXjkApihQpGvNChJXFQxL30SsH65xY6tkR2HLC8QuX/dNvMrewHZMkRw6KJ5n/SArtn/Rv5ppaO5bJgD4KwDsHLzEtcqeGNMnetui1VBofV5VmwyPLnzy9H/QIDHqJTkD6bIPt4FMySeYeGp42/N5KkMmYxJjMdfmd6/P1dQi71CtTqXe6lfJgUHSEOnQY20Aak4E7Njo4qmy8gJMHDfbA=;f007h1bjkQCRqQAai6Sl1w=="
 ---
 

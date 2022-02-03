@@ -70,6 +70,7 @@ items:
   - pig-starcraft-2-insane-basetrade-diamond-in-the-ruff-59
   - pig-banshees-in-the-backdoor-bcs-in-the-front-diamond-in-the-ruff-60-starcraft-2
   - pig-when-protoss-squatters-take-terrans-main-base-diamond-in-the-ruff-61
+  - pig-starcraft-2-when-mass-ghosts-are-so-imba-they-call-for-mommy-diamond-in-the-ruff-62
 
 topics:
   - StarCraft 2

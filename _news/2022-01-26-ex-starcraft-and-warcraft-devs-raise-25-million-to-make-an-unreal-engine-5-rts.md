@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-fundi
 webUrl: "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard"
 type: article
 quality: 73
-heat: 273
+heat: 275
 published: true
 
 provider:

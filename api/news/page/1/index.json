@@ -53,6 +53,57 @@
       ]
     },
     {
+      "path": "_news/2022-01-14-free-prologue-missions-for-starcraft-2-legacy-of-void-available-now.md",
+      "title": "Free Prologue Missions for StarCraft 2: Legacy of Void Available Now",
+      "excerpt": "Patch 3.0 for StarCraft 2 opens up access to \"Whispers of Oblivion,\" which let players \"witness the beginning of the end through the eyes of Zeratul as he searches the galaxy in an effort to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamespot.com/articles/free-prologue-missions-for-starcraft-2-legacy-of-v/1100-6431212/",
+      "originalUrl": "https://www.gamespot.com/articles/free-prologue-missions-for-starcraft-2-legacy-of-v/1100-6431212/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1197/11970954/2888805-e32015-youtube--video-template.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/free-prologue-missions-for-starcraft-2-legacy-of-v/1100-6431212/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/free-prologue-missions-for-starcraft-2-legacy-of-v/1100-6431212/",
+      "publishedDateTime": "2022-01-13T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-starcraft-2-legacy-of-the-void-sells-1-million-in-24-hours.md",
       "title": "StarCraft 2: Legacy of the Void Sells 1 Million in 24 Hours",
       "excerpt": "Looking further into the future, Blizzard has said StarCraft III could happen, though it will depend on fan feedback. \"What the future holds really depends so much on what we hear back from players.",
@@ -1085,49 +1136,6 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing.md",
-      "title": "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing",
-      "excerpt": "Video game fans pretty much have tiny museums on their shelves at any given time. Preserving history, having a shrine dedicated to a single franchise, it’s all par for the course.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timeslive.co.za/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/",
-      "originalUrl": "https://www.timeslive.co.za/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/TL9Fq3WQKxkWrsdO7Ooqilhk0xbOxtP9aHMNEKXIQLwVyivVXsftUp4s30PIiGXa0bjPTkLLLEWxXE5zAfmqUlB0QfvPfmI-_yw=s1000",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timeslive.co.za/amp/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/",
-      "cdnAmpWebUrl": "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/",
-      "publishedDateTime": "2021-03-29T00:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times LIVE",
-        "domain": "timeslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
       ]
     }
   ],

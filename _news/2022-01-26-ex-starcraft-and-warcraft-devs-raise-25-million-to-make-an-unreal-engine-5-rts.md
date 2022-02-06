@@ -1,13 +1,15 @@
 ---
 category: news
 title: "Ex-StarCraft and Warcraft Devs Raise $25 Million to Make an Unreal Engine 5 RTS"
-excerpt: "Frost Giant Studios, a debut developer formed by ex-Blizzard staff, has raised $25 million to help create a brand new real-time strategy game in Unreal Engine 5."
-publishedDateTime: 2022-01-25T16:00:00Z
+excerpt: "Frost Giant – which was founded by Tim Morten (production director on StarCraft 2) and Tim Campbell (lead campaign designer on WarCraft 3: The Frozen Throne) – was founded in 2020 with the ..."
+publishedDateTime: 2022-01-25T19:18:00Z
 originalUrl: "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard"
 webUrl: "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard"
+ampWebUrl: "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard"
+cdnAmpWebUrl: "https://www-ign-com.cdn.ampproject.org/c/s/www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard"
 type: article
-quality: 73
-heat: 273
+quality: 93
+heat: 295
 published: true
 
 provider:
@@ -177,6 +179,6 @@ related:
         height: 630
         isCached: true
 
-secured: "A61dq+ol1MZdPnGwoGUg5M6EH8GiV/AdqA8yVQlMSJwXbKSnqVgAWl6SCKeOCIG2rEUVTGrGFSOFneJUDjOuveLvO8dR+ZJ2JL5AdrAl7t5O5eID5tIilLgXPzgySY3pDKDFgQBRfI2u8Bc/Do6YrY5uN2tdT7Nd55ewnXEELv4RUbNRtZxP0pIlZlc24xwtpOG+2DPjj3fJ6WOlu9Fh0tBBU77swcaeWp3VBg5EkZcFV04MjujPrkU3I6RCyqdyS0hGduklllQiOIt+5c9x6AyY2dfazmY9bsWemUB2lpfvU1PpKcV3K9nf9M5sJwsZr9VVmrQQ5+0KaV0bU48coXkMaU2le8GFzaYdW1vSQjuVucc+fAZvSWS1fBrXacIsDAKstKqvz5ghpZUFjVJockqGHhbIeKr72OxP8JxvPGwNmUfqbt7xs1xz5OF0J/bU1tOGoWko2khm+45EPvsgJj/g9t4xu/Jx8npIHo4tCA3e0Q+6AIjDnCx1gJssgpx7Q98U3egq6D5KTdycyVYNjw==;IxxRDs2GMBZBaDXpdhBYWg=="
+secured: "MbzMV6sLXVZ+vGCHNA3R5TJAFj+8bSA70cdgIeg7MO73DseIugbJG3lGICEoDaNf81OBXOcFt70bQYDr0yIDxfexf1kgWsc63X5SZt8RCNNrpkkdZN74Db77joQA76m0yvEt//RhwfvaQw8ar5tqz844knHjDyrFM6oMJWMaoyUejnFmhJ1BWbMo35AeL3cEKTWs+NNnyaQshXXfObDVWT43oM+N+34GLvHk8D46zC1II4ot6H6uOkCg3xmtbKbKQuzlDyvlagXaC+EGXJEW+J6WFnLQrAt0StNgGcUpwZ35QAtiWBYGB4pm5Hs2TBtYDhKZeZ9sWQhNAO+DL/ekjFieqD8Q+7XHwIgSCcH6rgY=;dnQX6QsbcWg8og7E5CZ45w=="
 ---
 

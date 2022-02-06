@@ -192,35 +192,6 @@
       "publishedDateTime": "2021-10-20T04:05:54-07:00"
     },
     {
-      "path": "_games/pig-guess-which-pro-4-pros-play-under-secret-identities-in-our-hidden-name-tournament-starcraft-2.md",
-      "title": "Guess which Pro! 4 pros play under secret identities in our Hidden Name Tournament - StarCraft 2",
-      "excerpt": "WHO ARE THEY? In this Hidden Name Tournament, we have 4 StarCraft pro players competing against each other but they don't know who their opponents are. They are playing for a prize pool so there is a need to be competitive, however, if no other player can guess who they are they earn extra prize money!",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-guess-which-pro-4-pros-play-under-secret-identities-in-our-hidden-name-tournament-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-guess-which-pro-4-pros-play-under-secret-identities-in-our-hidden-name-tournament-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=vilcf9UuR9g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vilcf9UuR9g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H32M57S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vilcf9UuR9g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-27T02:37:52-08:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-who-can-survive-the-sewers-florencio-files-200.md",
       "title": "StarCraft 2 - WHO CAN SURVIVE THE SEWERS? | Florencio Files #200",
       "excerpt": "To celebrate Episode 200 of Florencio Files, we did a special \"Who Can Survive the Sewers\" where Florenciphiles faced up against the sewer mermaid himself. I judged each encounter based on how much dignity they retained afterwards. Happy Holidays everyone!  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
@@ -1123,6 +1094,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-10-18T04:12:46-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-swarming-as-terran.md",
+      "title": "StarCraft 2: SWARMING AS TERRAN?!",
+      "excerpt": "A ridiculous game of Zerg vs Terran in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Professional 2v2: https://www.youtube.com/watch?v=QJM7wa9N7-4  In this match between uThermal and Solar, Terran has his mind set on swarming the Zerg, trading inefficiently and expanding all over the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-swarming-as-terran/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-swarming-as-terran/",
+      "originalUrl": "https://youtube.com/watch?v=_pAQFBJmBXQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_pAQFBJmBXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_pAQFBJmBXQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-01-15T05:01:59-08:00"
     }
   ],
   "nextPage": 9

@@ -157,46 +157,6 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-darks-flexible-zerg-vs-terran-strategy.md",
-      "title": "StarCraft 2: Dark's FLEXIBLE Zerg vs Terran Strategy!",
-      "excerpt": "In this Starcraft 2 video I play Zerg and analyse Dark's Zerg versus Terran build order and strategy.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: https://youtube.com/morelowko Lowko Merch: http://lowko.tv/merch  Be part",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-darks-flexible-zerg-vs-terran-strategy/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-darks-flexible-zerg-vs-terran-strategy/",
-      "originalUrl": "https://youtube.com/watch?v=u_tvr7u6YW4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u_tvr7u6YW4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M8S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-01-04T04:57:57-08:00",
-      "heat": 141,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/u_tvr7u6YW4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-2-silver-league-b2gm.md",
       "title": "StarCraft 2 - Zerg Bronze to GM #2: Silver League (B2GM)",
       "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 -- GAME 1 - Practice your build order along with PiG 0:28 How to introduce scouting to the beginner build order 5:19 How to deal with air units 7:37 Worst thing you can do - reacting to previous",
@@ -565,6 +525,46 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-darks-flexible-zerg-vs-terran-strategy.md",
+      "title": "StarCraft 2: Dark's FLEXIBLE Zerg vs Terran Strategy!",
+      "excerpt": "In this Starcraft 2 video I play Zerg and analyse Dark's Zerg versus Terran build order and strategy.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: https://youtube.com/morelowko Lowko Merch: http://lowko.tv/merch  Be part",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-darks-flexible-zerg-vs-terran-strategy/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-darks-flexible-zerg-vs-terran-strategy/",
+      "originalUrl": "https://youtube.com/watch?v=u_tvr7u6YW4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u_tvr7u6YW4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M8S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-01-04T04:57:57-08:00",
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/u_tvr7u6YW4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
         "Zerg"
       ]
     },

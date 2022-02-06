@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=pLNja26P-Sc
 type: video
 length: PT33M29S
 publishedDateTime: 2018-11-20T18:59:41Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pLNja26P-Sc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "IYjLuo7j4ATBH3km0lU9k+Q/btYgSTH+0CRdMVHhfUiHdS4/F2CZXZMEvCymLPImexlC7Cj55WL++Wo5kLKizQ+fr8C2SMpMkBaOVHcq3O018yICu5jmvTrXW9h5HuuK+vypBc+tJNfyhhIS9DHKsD2j1RrgVuINojKJq6Ogfi8LCxTEzXSLIE8FgjMcW8H2Alft+Uz9Rn4G4Vhbu30FJ1Yurb5YLwO2tQmhqU8szmMMEVKprZF7K+V7RCQ8dkg2+2fbIAs96n2XMEB6QzS5srn+k61u0oQR4XnETN9BzsDUn0DULTrCC9l3ayMuNw9o8Tca3gmDCMZDtVekDmIVh4y0t/WwUWAUaI9XuHTQAB5D9y7JoxYRUCYMkx3r4PoszWX+f6pjGB2VCkXknDetyMup3snJBr3v26TwqEdmL8q0Jq0O+T8A3LdTNiJosgas;4tCPldlwQguCP55AOCR+OQ=="
+secured: "ZJ1rmUH62N59jvUkt845sdHXILiD53Mm1aULncfy1vzyzs8cWdesEdEyjPb/DGjk9taOBGcpm957is7BI/2KqAxFACpjVo7lS0z+UUxlmkrpxZZzrTPVvzOmn+vqRlIY2oBTqWtViqvQNiXwhi+Hc+nDv8G2A/otvao8LYicNF1cSXu4dYIWENWGRwtHDX1NZtCHH+7bU6ldw6F2uC55clbERJKkz5qzJPvY0XV9GjCrMcrOR29VVlT0to8yrhl3VVEDjlcQ6Hj4j5v9jeIwCHvO0WXyGBtfQUhDUKpFRV2xVzrJRMxUC2F2qRw4dEYVsJfaWwwde2edT0mFoDMTAtJ7G/C3xQ/+BZvrVSmrp4Tsn8APOSbR6Mp4rl35Jzmm+uOmJqyI00dGrajJffkpxU96+ZeycHRvASx1LNmyN//2NTTHndO+X29VeDkAbCaR;OnK8Ol4zpCMW27DIYaz8Gg=="
 ---
 

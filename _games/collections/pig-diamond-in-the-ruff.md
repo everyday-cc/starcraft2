@@ -71,6 +71,7 @@ items:
   - pig-banshees-in-the-backdoor-bcs-in-the-front-diamond-in-the-ruff-60-starcraft-2
   - pig-when-protoss-squatters-take-terrans-main-base-diamond-in-the-ruff-61
   - pig-starcraft-2-when-mass-ghosts-are-so-imba-they-call-for-mommy-diamond-in-the-ruff-62
+  - pig-when-you-get-mind-controlled-by-the-mother-of-all-neural-parasites-diamond-in-the-ruff-63
 
 topics:
   - StarCraft 2

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding
 cdnAmpWebUrl: "https://www-ign-com.cdn.ampproject.org/c/s/www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard"
 type: article
 quality: 93
-heat: 296
+heat: 276
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Crossfire Legion hands-on preview — I can’t believe it’s not StarCraft"
-    excerpt: "We had an early chance to try out a very early version of Crossfire Legion, an RTS set in the world of CrossFire."
-    publishedDateTime: 2022-01-18T20:00:00Z
-    webUrl: "https://www.pcinvasion.com/crossfire-legion-hands-on-preview/"
-    ampWebUrl: "https://www.pcinvasion.com/crossfire-legion-hands-on-preview/amp/"
-    cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/crossfire-legion-hands-on-preview/amp/"
-    type: article
-    provider:
-      name: pcinvasion.com
-      domain: pcinvasion.com
-    quality: 57
-    images:
-      - url: "https://www.pcinvasion.com/wp-content/uploads/2022/01/20220114172852_1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "New Starcraft Game Potentially Teased by Blizzard Boss"
     excerpt: "A new game in the Starcraft series has potentially been teased by one of the current boss at Blizzard Entertainment. Over the past week, a number of fans have loudly been voicing which franchises belonging to Activision and Blizzard they would like to see make a comeback in the wake of Microsoft's acquisition of both publishers."
     publishedDateTime: 2022-01-21T17:03:00Z
@@ -179,6 +163,6 @@ related:
         height: 630
         isCached: true
 
-secured: "WDaYIeb8POI4vQ5uaO08JmaFvlKZF0ZPtmopzLKMoh/rB8RguuN+VMmFLOckjOryXg2jVpU54+eqb9tvZw7GgFSU8KchNOXkUIZQSYb0B1rHibroBW4fLhkKaZ/D076bm3kXdilDs+qluofhj5xNp7xSgPPLMqD1FaxkLMjSPQZbL8WshdDBsm4R7/ZYzfJJkdoszNMKrEEqpA7q5TD5J0lqMhvRIV1BSr+odDmYdVZpWgwO67NsXWPqslkZZyC2nnWkfCOp2tGxDpXBQJEOTsWj0XAvDEHd0P7CDsBhx82oNFw00iL/IFWq9KMpnMTxuMwZXXMGR2pWOfjlBfYm2uTmpnXUxJ54RqqkbDNGgzk=;rFPBHHngsYkquBVM3jeP3Q=="
+secured: "PL358GL5K4ff7Qi6D2zvSgVjmHVIVw8jNEfYTMN9Vy0BmRO/kUX3BFQdy5XHEl/1P5kZyBzKfr0gnySLz7IGcK8ME6+VJSEFO2j7tN4ZCkCzEliG7HDJqzW8Oul0LS+0T9naUSjd60eGFFDdIjAybJdcx2h+/i8t9AQWwYU5DIN8ZPwH2LMnj9oG3hFqp+9bWMwqEBb+3eu2l9k6EIf9lS7dFpvuzY50v4qoRVvJbXzM10iBa8cvfFKgButxsudCxRiBz4dGBzCU5CHW6z61AjtdIpcCbNZyTOv3o7PPkaAe847lEAmqM1EN56v7fPI2NbOi8ehtcuEc9Mo3V0ityzSeB05A5fLqQlIHw8SSZCE=;eFB3Q1ILv08iDCqMuvgrJA=="
 ---
 

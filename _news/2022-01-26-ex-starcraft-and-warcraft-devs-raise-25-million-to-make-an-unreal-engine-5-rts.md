@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding
 cdnAmpWebUrl: "https://www-ign-com.cdn.ampproject.org/c/s/www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard"
 type: article
 quality: 93
-heat: 295
+heat: 296
 published: true
 
 provider:
@@ -179,6 +179,6 @@ related:
         height: 630
         isCached: true
 
-secured: "DV7N29TSZZe3Yj0nOsKA+z6MoVQTcV+y3YyXc6DJry79ppfb61YQmsNpBGEhIHLLm3UxcuqS/WIu1CLJUoFWsCFPgIuVjO6vc/7pGBize5DpdxGjsL9VDFZ8ubIa3R8Msh/NG5M6bsQas8AaNYetVMuzr+mNWJzyKeFnqXCoadUg1F2jbbiEV8oRDiTWKpPrDhWfabtbvsO4z2Hdy8C/zBZn3rctMFeGNDYCrIIWKhr537iCmsCsnJD6yjF6P6YtCfQcQcCIn0wzFxlc2W96PCB/MQVIHHPZrCmxKjgwWD0hSCdrv+6HAzgHE2Gh6TxofGcJCyHqD9RerHh5zSzKZyFHiFNil1AURKmdLGfifMc=;pi13Ph5sMwc2bT7jAKVg0A=="
+secured: "rzK15fswtFBFjc646ShVUhTcVgI+XM6C7HBTrHfISdPfqogntiTHTEOLWWZ61giN/8cl9NCZqfh/quRAVhpyWxt+Uer2RlccAQh9+Y0K9gUhoM12xm2lSYlDv4DC8bJVhCq4HHFAX2bocvMjH6mBv/6nRxTLjJVWzSrunVfWdC54jpO57WCywi7hpu/eIxzIRVs/BcxE7RFvG28m/ZhU2ohE0i579FioxcQdzUjkyLA33QitYbm218Ew5OqgbOr2iTQNEAx/SAGnhKfOhpKMITQM8OTG1z0gD6x5PFKmTBQU9thZ8sHjz8oBE7xpXRZGyKQpqJ7PRmG36mi/s8iMGdRPrflDM7WPFDT8XW4ZrOk=;YrkWvOjCfU0OmTstyyVp0w=="
 ---
 

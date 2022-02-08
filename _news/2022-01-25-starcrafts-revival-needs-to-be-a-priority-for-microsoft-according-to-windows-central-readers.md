@@ -144,20 +144,6 @@ related:
         width: 695
         height: 390
         isCached: true
-  - title: "Gwangju Institute of Science and Technology Researchers Develop Terrain-Aware AI for Predicting Battle Outcomes in StarCraft 2"
-    excerpt: "As the need for more sophisticated artificial intelligences (AIs) grows, the challenges that they must face along the way have to evolve"
-    publishedDateTime: 2022-01-19T12:39:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gwangju-institute-of-science-and-technology-researchers-develop-terrain-aware-ai-for-predicting-battle-outcomes/article_3d528004-05de-58c5-a656-1ac01e3e68bf.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 9
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/77/4777e47e-07e7-5df3-a42e-1948bd3de3c2/61e8173251699.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "EmSZBjc/fGFg098lYZI2/H1c58r/CmPnjZeLs14tVK/nALC+OXZquWbSnessljJv9Cilg6NEwRecsNptXv3n55MACqhUhQaHUIbBeiymSUE8+xUkzP2HXMcuvL3YjKFJlLx9s/X9zscfOUgyykFk/25kZQeFB4YR33phDX0H+NnyPCBEEj81U4pLTfS98NTQBPOKXp1vyBevvqlymhnv0rgkcKAcOjEBgpER/vRxHr83c/oueeEBFnLeRHgUG0P3Hyu0A4aRlK4W3zbHbUVGQq7AayL7B5HiPiK+A2WaDa/yb2HWKm18P9B1DiEXVQW9imR2e74T68C6/djyaLYPna0bYEOe6wd76rFJ8oAoRQW7bBvXY2PU5ysnVu/dmuQdZcL2+13ll30Qx1ZBv/g7tHRszC6+vJBdpBY2MAOP8l/EvKJF+3voGscd8NHwt5loPvoQgGd58MWECsHZSbi6gK+wtmVQ2j30gWAUV9lhis0qAjdU8098JjA3MYmJzM68uy3ujcQkycBLyMUgoMR9jQ==;RtxoOrfohesr93keLYlG+w=="
 ---

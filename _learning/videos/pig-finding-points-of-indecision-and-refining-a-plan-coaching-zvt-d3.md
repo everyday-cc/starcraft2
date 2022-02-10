@@ -18,11 +18,11 @@ topics:
   - StarCraft 2
 
 images:
-  - url: https://i.ytimg.com/vi/-57KegRazYY/maxresdefault.jpg
-    width: 1280
-    height: 720
+  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
+    width: 1200
+    height: 800
     isCached: true
 
-secured: "LYD1zjWueGUrtLCtjFuUHJMiTEEB65ZChcQWdnT3+mvpBSnjnIhKq4FTAwDs9HL6T5E9OC1VxMKv3J6WawkWgcd4143My2UqiJFy7bQwvsonB1F0/TIlspT6mAt3oQf0b63LwrQmUS5GrTDusvyObWfmPirMwP9sVJXvxfLIPb4OwoojGH9faWskQ4YaPStEaR04998cdItGrMWxy2YbXuyxXhpMYqavuI3j/TxKFv3+qr5c6kAaeZ7ucmO6cJLkaXKj0Zte8hKXP3ggRAXS5sRWkZBoGzwuW0WiqiLpACXjudfc/uW335fiTmRzyC6Vo1frx1eAiCkGbOztbDE0na0tILz/au/KF4sdaygsP+9Wc7fyd7N5JsClPk8HKdkXdSiuWbwJTtZT7xoHkGsAEg==;PmSvszIIImDBYgKUbrzfjQ=="
+secured: "6aX91R8xHxqNq/7IVHbQn3/9wi/RT4XxlzomA+08NxHTKpSj4CrEWe/H8P+Dt+q1c3aQiWVt2Y1+f2YfBlrEBWY+uIY1BqqeUZhdPb4TSb4SMQ8TdIb1Sr1NDQZvH0lGJ2UvLPCPxPGBt49Qong7SEeNPAN1FWPeYYmi2iJzDN8Mj0eSjjfU3ci8seY8E+rmz/UknCcsShYR4vnouBUjlSg41cBcTrjlhne3CwZt/ZpoS70/t9MqZw20cnCZoGcdU+JtIGz81LiqKpBMcIuxXI2n9ZeIgDvJgcZVDPmiJRYYBHa/EmqsqZ8+OwdUff+SalbN4gSWd4FfgYIcmvyibZZJdYM5BAXXvSa4/zckj3Vz2A+fJ0H73V47em44Z/I1SkBG9AD02vFJNJZzixXxBg==;k9Fl+XnMpx6hKzoMSHFkew=="
 ---
 

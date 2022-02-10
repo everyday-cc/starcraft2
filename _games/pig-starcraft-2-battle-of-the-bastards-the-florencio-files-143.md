@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=2wTNZLb0wU8
 type: video
 length: PT30M35S
 publishedDateTime: 2020-06-12T11:00:02Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2wTNZLb0wU8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "10Lmzl/CesqoC53u7PbWLrhAjebMO8ckSToqJKK3W2lDuUAqV0E6kHP2JjaCiw5mmZspcCFHTz8zG0EWjbPTZGbEbn5+CKyPD0ilypqUPxbOsHKXjm80oFmjlJJjRecXbyBhhKYLJSSmmaYcieS+i3y15jn2dnK/ufIegyPEuiKu1RIHP75r4czp6MvR0BLygu7zPUuwpSsvGtM0oYrNoHMgpotkFUIUpS5DUQhZRDsFd3kM+LtOj2GlcJUlwjBhF+2xO8q2EvdlN8YVnOFyUyy9s1BA4pn7phm3FBno6HMNiGrG5fpOPEdVcj+McDVbOsS8S92jbh5aOV3qHIyl8xuhc01eLPROvY79XVIEuRhWoh5RMZC8SNuUKnjLCi4k4SHZ1G9goJrIu1ALbC41spZjf2QmhVf2rcBe9AhlvIU=;9qVcMBLXgGoWosMnkKH5Tw=="
+secured: "Kuis+5613s+5WR/0amSG+JVsz1xLMtG4iq6+rutJ5K3vcQD/sjCHYLBZUnhyOfpfzrJnBroaQzSJ3wZuzKW1HRUtqkQ+/2Lp0k7hrX1K93fW5mpfQ2OwBIcSNMF9PMiGN3Zwf5Oc8mcAa09pN1z1erMU1axI6XTMJxgrEHatjYYG+cDdLsqkrHtvIis9tm8LwNgnVGEX9Qj0c/8Wwsrsg8a/v93Z2wuhZtOXm8UmZYBa29lvFlh1eGjaeRjmdFvo8L0Rn+f2ECokd3mNJ2RZpLO477UKJf19kidvdRiLQMWMUZ1bkozhlHUrugbd3rsP7xZCxo8gR8yDOUgg5oHMPSSOYiRF3zOjkpwUDoI6ukOkjmGapFkRPO87+HoU1LCEITjd73pe3l6dA467McjCdEK+HM6kyudznRybiAatedI=;heXbNAAF94479JLud7Rg9Q=="
 ---
 

@@ -2,14 +2,13 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 61
+heat: 63
 
 provider:
   name: PiG
   domain: youtube.com
 
 items:
-  - pig-starcraft-charades
   - pig-starcraft-2-recall-rush-the-florencio-files-1
   - pig-starcraft-2-micro-god-the-florencio-files-2
   - pig-starcraft-2-florencio-vs-weedamins-the-florencio-files-3
@@ -424,6 +423,7 @@ items:
   - pig-thiccc-hypnotic-booty-one-man-army-icyfar-g-2
   - pig-planetary-ambush-one-man-army-icyfar-g3
   - pig-proxy-sensor-tower-nuke-drop-one-man-army-icyfar-g4
+  - pig-starcraft-charades
   - pig-300-iq-gas-block-carbon-tax-icyfar-g1
   - pig-only-room-for-one-gas-baron-on-this-planet-carbon-tax-icyfar-g2
   - pig-the-d-head-duo-break-a-protoss-brain-carbon-tax-icyfar-g3
@@ -780,7 +780,7 @@ items:
   - pig-starcraft-2-a-genius-solution-to-an-unfair-challenge-astrea-vs-special-1-game-pvt
   - pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2
   - pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-1-holdout-challenge
-  - pig-starcraft-2-astrea-cheeses-a-no-rush-game-vs-special-lol-1-game-pvt
+  - pig-starcraft-2-how-to-cheese-a-no-rush-game-astrea-vs-special-1-game-pvt
   - pig-a-triple-engi-bay-block-breaks-this-guys-brain-icyfar-halloween-starcraft-2
   - pig-starcraft-2-florencio-abuses-tempest-range-florencio-files-248
   - pig-its-not-me-who-changes-you-its-you-letter-jocko-willink
@@ -815,14 +815,15 @@ items:
   - pig-starcraft-2-two-chezers-face-off-florencio-file-243
   - pig-starcraft-2-when-mass-ghosts-are-so-imba-they-call-for-mommy-diamond-in-the-ruff-62
   - pig-starcraft-2-the-dumbest-ravager-contain-ever-florencio-files-255
+  - pig-starcraft-2-florencios-bizarre-version-of-a-macro-game-florencio-files-256
 
 topics:
   - StarCraft 2
 
 images:
-  - url: https://i.ytimg.com/vi/poLWTQ3bXr8/maxresdefault.jpg
-    width: 1280
-    height: 720
+  - url: https://i.ytimg.com/vi/7hGsrlWElnU/hqdefault.jpg
+    width: 480
+    height: 360
     isCached: true
 
 secured: "lLttfFhNTeP6/LYrHPd749w5XAoFrM8WfJBz/Dv7KaUmYM6dBzpkC5wmtwSE5zQLiel1t452LzCRtPZCp0ltF5k9o8hOUImYoLJqBW+ElRFr8ZUBnZaBMXIOZ0TdgR5BMjMJbsihMMULyOe4Vbp18+I1d0iT3KH9QP35F2IqSq1WRx9zVKt+lyyttAi1YsJds3wsd8jI2MYFb2/VSAXyhBa+EU0MxbbY/2QkF9ZxlSCQIJVJ1UZCO827r/eJD1JtvJRzBQm6FLFSB2cqy4/3Nt9F4ukaoIHp1G/+z/jQzohCr2cSlHVGEGJiLbhVobA7L3t5qfjiI6HY01NQgKjiYai1vDxDJ0Cy12IvBDOY0G0=;I9oUKiRB3rX3yJGXMkrTcA=="

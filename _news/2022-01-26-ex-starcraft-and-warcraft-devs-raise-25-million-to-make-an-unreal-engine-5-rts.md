@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding
 cdnAmpWebUrl: "https://www-ign-com.cdn.ampproject.org/c/s/www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard"
 type: article
 quality: 93
-heat: 233
+heat: 234
 published: true
 
 provider:

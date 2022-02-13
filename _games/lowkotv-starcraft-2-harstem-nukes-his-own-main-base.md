@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-harstem-nukes-hi
 type: video
 length: PT31M53S
 publishedDateTime: 2021-02-20T11:20:21Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VmM4wPKyXKo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "a0+RLT5Lc+oNFJj7KyZEjOil2SxQl0RmjPr4l+ETCH9Q60aRw1z5hml2yAXGd6Bf3jfT6zvNQ6r2PplcBBOc74sR71SHyJvborhiXT3X0TPuBJQYQJPOyg9+GOazB0rjQIPa3K3z+MEmm+ccer/B2/RRo9d8J3+OyTmS8npxsn3VDfWp6NG2hu7HscEyiCO1A43N+SxNalnDkxkENc9v/8zDlr6kTw4fo4SmNAQDidSXgpV2dR3v5P77Iv/HGg/BWhec0JFD9d5EBH9lF6f4/WstgoI80I4V2NY072noswNqzTdPBWmMjJXhSOS5viIyGNfJbbTl3M0ZNy8s1P0yxONDGOJRdnzdRW6fmyBdd7gTvaX/3eoKLrjjC7Xnkr/BdhaHETyY9wS6ys4YGeXbTz615G6QXrJYixNYb9cLXcM=;NY5M8FNFd1Eo7vOuNBfqhQ=="
+secured: "bET/KW7etTz1lRKStGfPIHwAkskGYXv9HGKf1pAevNJvFhTe5kNj6kWQOzb5H9AUxWkSIPXuAguimaNQGP/U4wMeME19lbF+76vxyV3mCRBYHJZrK0SWfqdoteCCywm8majhePnPBEUHHkH6yOBDoEpll2w3epllPTVJNXmxfdA82mkHA1CneZyczhwtmBBOcxIb0DHTCcf49RFVse9cy4aeLbMyIC8XYixHYaS9JVxCqD9KrBdrRP5M6eeS5aztWmPqi1CwkXztViT2l0bvMjtV5arNfDdBaHrIIienzediD32dNFe+0TFun39PDtLDKqCHAQoi+bX5Yp4jlK5E+xwoSE1WaHEA8+WYG1Wc2zkMItiGsW+zwLmXWkNNsdszW/wrYaaJGoHiDQzslWJTXtLKB3OP1NkxUQbigl7pBCM=;4IJkkWjCdV/xBm/sNEpjnQ=="
 ---
 

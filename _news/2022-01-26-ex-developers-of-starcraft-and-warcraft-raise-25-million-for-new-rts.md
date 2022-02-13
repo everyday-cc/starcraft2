@@ -56,22 +56,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "StarCraft's revival needs to be a priority for Microsoft, according to Windows Central readers"
-    excerpt: "Readers want StarCraft, more than any other franchise, to be Microsoft's immediate focus following the Activision Blizzard acquisition."
-    publishedDateTime: 2022-01-24T19:15:00Z
-    webUrl: "https://www.windowscentral.com/starcraft-revival-needs-be-microsoft-priority"
-    ampWebUrl: "https://www.windowscentral.com/starcraft-revival-needs-be-microsoft-priority?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/starcraft-revival-needs-be-microsoft-priority?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 45
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/07/starcraft-ii-hero-01.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Ex-‘StarCraft’ developers raise £18.4million for Unreal Engine 5 RTS"
     excerpt: "Former Blizzard developers have raised £18.4million ($25million USD) to create a real-time strategy (RTS) game built with Unreal Engine 5. The latest round of funding for Frost Giant Studios has raised £18."
     publishedDateTime: 2022-01-26T11:54:00Z

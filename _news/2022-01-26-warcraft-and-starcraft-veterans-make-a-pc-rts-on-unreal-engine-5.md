@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gamepressure.com/S013-amp.asp?ID=16234"
 cdnAmpWebUrl: "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=16234"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: XCOM 2 Game Guide
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-StarCraft and Warcraft Devs Raise $25 Million to Make an Unreal Engine 5 RTS"
-    excerpt: "Frost Giant – which was founded by Tim Morten (production director on StarCraft 2) and Tim Campbell (lead campaign designer on WarCraft 3: The Frozen Throne) – was founded in 2020 with the ..."
-    publishedDateTime: 2022-01-25T19:18:00Z
-    webUrl: "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard"
-    ampWebUrl: "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard"
-    cdnAmpWebUrl: "https://www-ign-com.cdn.ampproject.org/c/s/www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 93
-    images:
-      - url: "https://assets-prd.ignimgs.com/2022/01/21/untitled-2-1642770149082.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Ex-Developers of Starcraft and Warcraft Raise $25 Million for New RTS"
     excerpt: "Real-Time Strategy (RTS) genre has become something of a niche in the modern gaming landscape. Frost Giant Games hopes to change that."
     publishedDateTime: 2022-01-26T02:12:00Z

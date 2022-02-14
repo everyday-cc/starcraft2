@@ -98,20 +98,6 @@ related:
         width: 2000
         height: 1270
         isCached: true
-  - title: "Crossfire: Legion aims to fill the gap left by Starcraft and C&C: Red Alert"
-    excerpt: "I argue that in the recent resurgence, we haven’t yet come across an RTS game that offers players an experience comparable to StarCraft or Red Alert,” says game designer Maurice Grela. “We’re hoping to fulfill that gap."
-    publishedDateTime: 2022-01-25T14:31:00Z
-    webUrl: "https://www.rockpapershotgun.com/crossfire-legion-aims-to-fill-the-gap-left-by-starcraft-and-cc-red-alert"
-    type: article
-    provider:
-      name: Rock, Paper, Shotgun
-      domain: rockpapershotgun.com
-    quality: 35
-    images:
-      - url: "https://assets2.rockpapershotgun.com/crossfire-legion-base-defense.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/crossfire-legion-base-defense.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "Fjee5/0L6t5PnqFvVikriphlwD37wla3EeEHXVovSobWQBWZBMHMixHezTFvKjxGTbEM5f3KTyElbG6nSjntEbYm2DGjRDoamwLLb3GtT/anMMpgvQBe/FPbBpeq1aXo8t2BMjHq/QfQgWXII+2g0txAf2gQIu9t1Ra0nN45qqWvKq+xYCtCplNwdIwx787Yovb0HgPNs66zG+RDDiDlH8EAub4xD3TzSiKVT3XXOaL2jsuaLsDBLFKKnlcociOP4k9l79Rq0OYjdhkLWE9lRT5SejqtuUA3J7Vka3RkvfAFEM+N7tq5jJkRU0mMWuQzRKgZ+1/0Pz2MRlnPnHjQiRLA83k7G4fNZ7SFfIJ0euM=;PzvmCh8BiZSuV0nZHDV3dQ=="
 ---

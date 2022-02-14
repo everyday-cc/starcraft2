@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding
 cdnAmpWebUrl: "https://www-ign-com.cdn.ampproject.org/c/s/www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard"
 type: article
 quality: 93
-heat: 213
+heat: 193
 published: true
 
 provider:
@@ -87,20 +87,6 @@ related:
       - url: "https://www.nme.com/wp-content/uploads/2020/10/101620-Starcraft-II-Blizzard-Entertainment.jpg"
         width: 2000
         height: 1270
-        isCached: true
-  - title: "Crossfire: Legion aims to fill the gap left by Starcraft and C&C: Red Alert"
-    excerpt: "I argue that in the recent resurgence, we haven’t yet come across an RTS game that offers players an experience comparable to StarCraft or Red Alert,” says game designer Maurice Grela. “We’re hoping to fulfill that gap."
-    publishedDateTime: 2022-01-25T14:31:00Z
-    webUrl: "https://www.rockpapershotgun.com/crossfire-legion-aims-to-fill-the-gap-left-by-starcraft-and-cc-red-alert"
-    type: article
-    provider:
-      name: Rock, Paper, Shotgun
-      domain: rockpapershotgun.com
-    quality: 35
-    images:
-      - url: "https://assets2.rockpapershotgun.com/crossfire-legion-base-defense.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/crossfire-legion-base-defense.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "StarCraft 2 and Blizzard Veterans New Studio Raises Money to Create a New RTS"
     excerpt: "The team is planning for the game to feature a heavy esports component meaning it could become a spiritual successor of sorts to StarCraft. It's also looking to push the genre forward, tech-wise and in terms of approach-ability. \"We absolutely want to make ..."

@@ -26,20 +26,6 @@ images:
 related:
   - title: "Ex-‘StarCraft’ developers raise £18.4million for Unreal Engine 5 RTS"
     excerpt: "Former Blizzard developers have raised £18.4million ($25million USD) to create a real-time strategy (RTS) game built with Unreal Engine 5. The latest round of funding for Frost Giant Studios has raised £18."
-    publishedDateTime: 2022-01-26T11:54:00Z
-    webUrl: "https://www.nme.com/news/gaming-news/ex-starcraft-developers-raise-18-4million-for-unreal-engine-5-rts-3146722"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 37
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2020/10/101620-Starcraft-II-Blizzard-Entertainment.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
-  - title: "Ex-‘StarCraft’ developers raise £18.4million for Unreal Engine 5 RTS"
-    excerpt: "Former Blizzard developers have raised £18.4million ($25million USD) to create a real-time strategy (RTS) game built with Unreal Engine 5. The latest round of funding for Frost Giant Studios has raised £18."
     publishedDateTime: 2022-01-27T00:30:00Z
     webUrl: "https://www.nme.com/en_asia/news/gaming-news/ex-starcraft-developers-raise-18-4million-for-unreal-engine-5-rts-3147493"
     type: article

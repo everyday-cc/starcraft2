@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Warcraft and StarCraft Veterans Make a PC RTS on Unreal Engine 5"
-    excerpt: "The Frozen Throne expansion have set up a new studio, where they are working on a PC RTS. They have already raised over $34 million for this purpose."
-    publishedDateTime: 2022-01-26T09:12:00Z
-    webUrl: "https://www.gamepressure.com/newsroom/warcraft-and-starcraft-veterans-make-a-pc-rts-on-unreal-engine-5/z03f6a"
-    ampWebUrl: "https://www.gamepressure.com/S013-amp.asp?ID=16234"
-    cdnAmpWebUrl: "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=16234"
-    type: article
-    provider:
-      name: XCOM 2 Game Guide
-      domain: gamepressure.com
-    quality: 57
-    images:
-      - url: "https://cdn.gracza.pl/i_gp/h/22/380880872.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Ex-‘StarCraft’ developers raise £18.4million for Unreal Engine 5 RTS"
     excerpt: "Former Blizzard developers have raised £18.4million ($25million USD) to create a real-time strategy (RTS) game built with Unreal Engine 5. The latest round of funding for Frost Giant Studios has raised £18."
     publishedDateTime: 2022-01-26T11:54:00Z

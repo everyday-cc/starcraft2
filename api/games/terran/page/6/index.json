@@ -1116,14 +1116,14 @@
       "publishedDateTime": "2021-01-29T18:01:31-08:00"
     },
     {
-      "path": "_games/pig-proxy-factory-in-their-base-diamond-in-the-ruff-29-starcraft-2.md",
-      "title": "PROXY FACTORY IN THEIR BASE! | Diamond in the Ruff #29 - StarCraft 2",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Protoss opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-proxy-factory-in-their-base-diamond-in-the-ruff-29-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-proxy-factory-in-their-base-diamond-in-the-ruff-29-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=4FuIjP8sAcM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4FuIjP8sAcM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M28S",
+      "path": "_games/pig-banshees-in-the-backdoor-bcs-in-the-front-diamond-in-the-ruff-60-starcraft-2.md",
+      "title": "BANSHEES IN THE BACKDOOR, BCs IN THE FRONT! | Diamond in the Ruff #60 - StarCraft 2",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-banshees-in-the-backdoor-bcs-in-the-front-diamond-in-the-ruff-60-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-banshees-in-the-backdoor-bcs-in-the-front-diamond-in-the-ruff-60-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=ZpN1ZtDiI04",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpN1ZtDiI04\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M5S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -1135,7 +1135,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/4FuIjP8sAcM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZpN1ZtDiI04/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1143,7 +1143,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-01-24T02:37:55-08:00"
+      "publishedDateTime": "2021-12-16T05:43:17-08:00"
     }
   ],
   "nextPage": 7

@@ -379,6 +379,36 @@
       "publishedDateTime": "2021-01-29T18:01:31-08:00"
     },
     {
+      "path": "_games/pig-banshees-in-the-backdoor-bcs-in-the-front-diamond-in-the-ruff-60-starcraft-2.md",
+      "title": "BANSHEES IN THE BACKDOOR, BCs IN THE FRONT! | Diamond in the Ruff #60 - StarCraft 2",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-banshees-in-the-backdoor-bcs-in-the-front-diamond-in-the-ruff-60-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-banshees-in-the-backdoor-bcs-in-the-front-diamond-in-the-ruff-60-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=ZpN1ZtDiI04",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpN1ZtDiI04\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M5S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZpN1ZtDiI04/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-12-16T05:43:17-08:00"
+    },
+    {
       "path": "_games/pig-proxy-factory-in-their-base-diamond-in-the-ruff-29-starcraft-2.md",
       "title": "PROXY FACTORY IN THEIR BASE! | Diamond in the Ruff #29 - StarCraft 2",
       "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Protoss opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
@@ -949,36 +979,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-11-27T13:25:24-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-crazed-eagle-the-florencio-files-118-119.md",
-      "title": "StarCraft 2 - Crazed Eagle | The Florencio Files #118 & #119",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-crazed-eagle-the-florencio-files-118-119/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-crazed-eagle-the-florencio-files-118-119/",
-      "originalUrl": "https://youtube.com/watch?v=X8zzBoC6OUM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X8zzBoC6OUM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M13S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/X8zzBoC6OUM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-01-31T09:00:10-08:00"
     }
   ],
   "nextPage": 19

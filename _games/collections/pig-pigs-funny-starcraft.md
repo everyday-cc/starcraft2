@@ -816,7 +816,8 @@ items:
   - pig-starcraft-2-when-mass-ghosts-are-so-imba-they-call-for-mommy-diamond-in-the-ruff-62
   - pig-starcraft-2-the-dumbest-ravager-contain-ever-florencio-files-255
   - pig-starcraft-2-florencios-bizarre-version-of-a-macro-game-florencio-files-256
-  - pig-the-legend-of-chadstrea-thundershaft-twitch-plays-astrea-1
+  - pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1-starcraft-2
+  - pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-rush-twitch-plays-astrea-2-starcraft-2
 
 topics:
   - StarCraft 2

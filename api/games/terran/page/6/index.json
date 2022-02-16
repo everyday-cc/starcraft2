@@ -4,6 +4,44 @@
   "page": 6,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-carriers-tempests-vs-battlecruisers-vikings-soul-vs-gungfubanda.md",
+      "title": "StarCraft 2: Carriers & Tempests vs Battlecruisers & Vikings! (souL vs GunGFuBanDa)",
+      "excerpt": "Professional match of StarCraft 2 between souL and GunGFuBanDa with a lot of flying units (Sky Toss and Sky Terran) on both sides.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-carriers-tempests-vs-battlecruisers-vikings-soul-vs-gungfubanda/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-carriers-tempests-vs-battlecruisers-vikings-soul-vs-gungfubanda/",
+      "originalUrl": "https://youtube.com/watch?v=ULQUhsFn7p4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ULQUhsFn7p4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M6S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ULQUhsFn7p4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-08-21T02:32:26-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-caught-off-guard-ty-vs-trap.md",
       "title": "StarCraft 2: CAUGHT OFF GUARD! (TY vs Trap)",
       "excerpt": "TY versus Trap in a top-level match of professional StarCraft 2 of Terran versus Protoss. TY decides  to open up with a 1-1-1 and transition towards Terran Mech. Mech has quickly been gaining popularity again after the new multiplayer balance patch. Trap decides to transition towards Carriers and Sky",
@@ -1118,45 +1156,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-01-20T02:01:57-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-widow-mine-heroes-clem-vs-showtime.md",
-      "title": "StarCraft 2: WIDOW MINE HEROES! (Clem vs ShoWTimE)",
-      "excerpt": "Clem versus ShoWTimE in a best-of-5 series of professional StarCraft 2. A great series between two of the best pro gamers in SC2. In this series we see a variety of openers from both players. ShoWTimE goes for Stargate, Twilight and Robotics openers. Clem focuses primarily on Marines and Marauders, but",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-widow-mine-heroes-clem-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-widow-mine-heroes-clem-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=844oJOWK09Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/844oJOWK09Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53M37S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/844oJOWK09Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-09T05:41:29-07:00"
     }
   ],
   "nextPage": 7

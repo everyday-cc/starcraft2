@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=BLGM1bM8JXg
 type: video
 length: PT25M31S
 publishedDateTime: 2019-10-12T16:00:03Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BLGM1bM8JXg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "flhWcOKOfjrrOZfwFKX2zAdVuu1iIJ3fzu1FIeS6uEzMEzoHOS/AyhlS4v0KXIhnwgIwBKkWhhuTbhVAEAih9Ox54csXq6s/2wiEBcZhdHry6PaQtcNXf1rfAmyF3Yjp/0xP7+BV+4NpbRtriTQvBGI/0QjGjWPgSPVjZmnhtaqetPgvwHBdC6rEW/mreelBpqYhyl8r+cyhgyU5ZkeFf8WqFThjf9xwEr3kEZ+JNFU5pevW9z4nBwWynIlmsvh4VnpM4FRt14Bvw068gPx+AeauWL/J4uvrU9bHikoBPro6fmUUIyTaVh199K2gls3osBpybBFMvoWxbPdk6AllKPJ08IYidsA+ZKAwyBxwbCXKguNkbDsjRbD2SC+9nHYse1rIOzsDHoxLbkHtFgMJKBcvIv02PZ2wpe+GlICg0pY=;BchPYc9G6ZXUmaL+nryLaw=="
+secured: "yfUJMjvx5GVB0gaIGynXMJkEa845KZYvz9bqoUvnxE3dnUFe4uSwZn1QDvBIGVcLA/gkmb02MLBpZaBl2Rbj8Kntr+qUBD9TYJPzpezS2S57mxedjjHMV8ddnxMIt6Nd9Ejc2/ocXx7h6KZr8vQ7HA71kApXkGeIee0BahEeiyYpAsZQU1Oob7e4K0PV4vKQXYs43cjf+cuERK6Wfwec/CJcd6QIcNTvq5oeCCZboZhEhX8MsqFHrvcVN9mnJ0gn9sIG47cR9VKCMsF6EyGm+lIVF49Ow5/ZtMnUUroVL2NKkkynd3uUItUZR3QEYVU5GQ0sbV9UQx4tNliZ/SBwRcPmiDZXKTP2ourMoPtHjkek53akvcfO9XUTKVoDhLoGZX+SFuuiD2GIyzlyAQEcIaAyFkffk/Sp6M4tXmIBRbQ=;6IjSYFMaKpsWa9MF9fZ5QA=="
 ---
 

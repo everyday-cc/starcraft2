@@ -817,6 +817,7 @@ items:
   - pig-starcraft-2-the-dumbest-ravager-contain-ever-florencio-files-255
   - pig-starcraft-2-florencios-bizarre-version-of-a-macro-game-florencio-files-256
   - pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1-starcraft-2
+  - pig-starcraft-2-someone-walled-flo-in-florencio-files-257
   - pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-rush-twitch-plays-astrea-2-starcraft-2
 
 topics:

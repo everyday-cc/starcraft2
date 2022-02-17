@@ -265,6 +265,7 @@ items:
   - pig-when-you-just-want-to-play-starcraft-but-flo-puts-you-in-jail-florencio-files-254
   - pig-starcraft-2-the-dumbest-ravager-contain-ever-florencio-files-255
   - pig-starcraft-2-florencios-bizarre-version-of-a-macro-game-florencio-files-256
+  - pig-starcraft-2-someone-walled-flo-in-florencio-files-257
 
 topics:
   - StarCraft 2

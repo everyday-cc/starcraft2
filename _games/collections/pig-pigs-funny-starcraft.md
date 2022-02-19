@@ -819,6 +819,7 @@ items:
   - pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1-starcraft-2
   - pig-starcraft-2-someone-walled-flo-in-florencio-files-257
   - pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-rush-twitch-plays-astrea-2-starcraft-2
+  - pig-starcraft-2-ruff-brings-fried-pork-to-the-drone-bbq-and-bcs-for-dessert-diamond-in-the-ruff-64
 
 topics:
   - StarCraft 2

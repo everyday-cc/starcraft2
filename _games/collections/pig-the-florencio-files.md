@@ -266,6 +266,7 @@ items:
   - pig-starcraft-2-the-dumbest-ravager-contain-ever-florencio-files-255
   - pig-starcraft-2-florencios-bizarre-version-of-a-macro-game-florencio-files-256
   - pig-starcraft-2-someone-walled-flo-in-florencio-files-257
+  - pig-starcraft-2-did-this-guys-brain-break-with-a-double-cannon-rush-florencio-files-258
 
 topics:
   - StarCraft 2

@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=6KGmLkFwq6I
 type: video
 length: PT18M46S
 publishedDateTime: 2017-02-09T13:35:29Z
-heat: 58
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6KGmLkFwq6I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "wI063eW7G0dHlyS1ra3EO9qCS3o2ykqXJaR0BziCYOx+D2yJ1aUowwQ6i8dSMbsXm9+qUpABGbml8Fj5gnBQm42XFhTxY2wvVPNFQ/IbERVEmVWKvE72/S+QEJ7anqVPf9nA9LbHvUNVCvU3dR1QOAkNRh3cMgmM3d0cwjnovlKs1dPcT+wsdVfVe9+QUKyp0reVTfZxIIKjSwR7moIrPs6kr8mQe+6qF2f9auEbNS8AP1DXMXPMrAZVF3wyLR669Nim62R2khvxGpcL08icVawc48qRdpP58Cv8cblfntzPhItFmIVc3hxu7hBFNtyDxE9ixfONuMsLY0lD9CgogeSn6a+GcMSw/rowKElCIDrCStdkV2S/P93yC2I2kecGz6gxpM8zmWQXYGYwyGmAVjrC7D3JNS1vXaPhQnO/RVrj0sQSPK0O/W/8KD/ZeGEL;EelMFpkKh3hWqNo72yaeew=="
+secured: "luNQnfZtzwqtNWHAS2QHUR2nNi2iMY6LLVhCG3fGTDs/rykDfTeVeHHroOciqh2DFbf2Ow8VVcsQDUB+KABqb4qXsMw75J3ucz7imttqDTmZUf1yB77C0UYOyr70j/6gUAw5Xc74KeCmpblprrQl8QzLykjANKhd8+cwNuAo2SN6Ge0Vniupq4pydtyjNq2ME9mYBcyOM0QPfjShxU/307gypZLmx5SH24kmJe8psiBEeBry++L0WYBYNOORWLmFcTvCb/tOWB5vzzgbFQspTRrtdWLtdryHGtTq88EQsk0RIXKASyP4ONxHaUfSdkRrxdBFe/e2nzvHyNUUfRGnH58v3an8XmWXjjRDXmZyWvcwQ0qC0ymPPZUyfPu+t2g1G1oiXfD6/UB41j6dJDzW2goLdgTkd3PQ7C78Jx+o9bx4TnheF0UwzBAjRuTEm50s;llBCT83VUl84OZLF2JAAgg=="
 ---
 

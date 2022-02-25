@@ -78,6 +78,44 @@
       "publishedDateTime": "2022-02-22T04:58:03-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-uthermals-super-slow-terran-push.md",
+      "title": "StarCraft 2: uThermal's SUPER SLOW Terran Push!",
+      "excerpt": "Stargazers managed to take fourth place at the most recent StarCraft 2 Map Contest (TLMC 16). There's a good chance that this map will be used in future SC2 tournaments. In this video I cast two pro matches on the new map.  00:00 uThermal vs Rattata 12:33 MaxPax vs Bly  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-uthermals-super-slow-terran-push/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-uthermals-super-slow-terran-push/",
+      "originalUrl": "https://youtube.com/watch?v=wfZplb-woy0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wfZplb-woy0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M27S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 278,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-02-25T09:22:23-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-winner-of-the-new-map-contest-mana-vs-elazer.md",
       "title": "StarCraft 2: The WINNER of the NEW Map Contest! (MaNa vs Elazer)",
       "excerpt": "MaNa versus Elazer in StarCraft 2 on the map \"Waterfall\". Waterfall is the winner of the TLMC 16 (Team Liquid Map Contest 16) and will more than likely be included in a future ladder and tournament map pool in StarCraft 2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
@@ -155,45 +193,6 @@
       "publishedDateTime": "2021-12-27T04:58:41-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-esl-open-cup-grand-finals-gumiho-vs-zest.md",
-      "title": "StarCraft 2: ESL Open Cup Grand Finals! (GuMiho vs Zest)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between GuMiho and Zest. This series of Protoss versus Terran is the Grand Finals of the ESL Open Cup 110 Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-esl-open-cup-grand-finals-gumiho-vs-zest/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-esl-open-cup-grand-finals-gumiho-vs-zest/",
-      "originalUrl": "https://youtube.com/watch?v=Ak3cmc56gLY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ak3cmc56gLY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M12S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 198,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-02-18T04:51:45-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-extreme-zerg-patience-vs-sky-toss-prince-vs-byul.md",
       "title": "StarCraft 2: EXTREME Zerg Patience vs Sky Toss! (Prince vs ByuL)",
       "excerpt": "Not quite your regular passive game of Zerg versus Protoss in StarCraft 2. While the first half of this game is as we see it regularly in the current meta, the second half of this match is not what I expected it to be.  OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon:",
@@ -260,6 +259,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-12-23T15:35:13-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-esl-open-cup-grand-finals-gumiho-vs-zest.md",
+      "title": "StarCraft 2: ESL Open Cup Grand Finals! (GuMiho vs Zest)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between GuMiho and Zest. This series of Protoss versus Terran is the Grand Finals of the ESL Open Cup 110 Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-esl-open-cup-grand-finals-gumiho-vs-zest/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-esl-open-cup-grand-finals-gumiho-vs-zest/",
+      "originalUrl": "https://youtube.com/watch?v=Ak3cmc56gLY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ak3cmc56gLY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M12S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 162,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-02-18T04:51:45-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-did-this-guys-brain-break-with-a-double-cannon-rush-florencio-files-258.md",
@@ -763,6 +801,43 @@
       "publishedDateTime": "2021-10-28T04:10:01-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-the-official-viewer-tournament-2.md",
+      "title": "StarCraft 2: The OFFICIAL Viewer Tournament #2!",
+      "excerpt": "All the best games from the second official viewer StarCraft 2 tournament!  00:00:00 Viewer tournament 00:02:52 Game 1 (OoObernOOb vs MrBones) 00:15:31 Game 2 (Iba vs Perseus) 00:28:21 Game 3 (Shren vs TheTobster) 00:43:15 Game 4 (Urono vs Leifur) 00:56:45 Game 5 (Shren vs OoObernOOb) 01:08:30 Game 6",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-official-viewer-tournament-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-official-viewer-tournament-2/",
+      "originalUrl": "https://youtube.com/watch?v=P0B8DB2jwyY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P0B8DB2jwyY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H29M28S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 116,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/P0B8DB2jwyY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-01-31T00:59:12-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-official-viewer-tournament.md",
       "title": "StarCraft 2: The OFFICIAL Viewer Tournament!",
       "excerpt": "The best games from the first viewer tournament! This video features all the best matches of StarCraft 2 that were played during the \"LowkoTV Viewer Tournament #1\".  00:00:00 Introduction 00:07:32 Game 1 00:17:02 Game 2 00:30:39 Game 3 00:47:38 Game 4 01:00:16 Game 5  01:33:26 Game 6 01:48:26 Game 7",
@@ -798,45 +873,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-08-26T04:06:39-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-battlecruiser-openers-are-back-heromarine-vs-reynor.md",
-      "title": "StarCraft 2: BATTLECRUISER Openers Are Back! (HeroMarine vs Reynor)",
-      "excerpt": "For almost a year we didn't really see any Battlecruiser openers at the professional level of StarCraft 2. Recently we've seen it more regularly again, from the best players in the world.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-battlecruiser-openers-are-back-heromarine-vs-reynor/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-battlecruiser-openers-are-back-heromarine-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=VtxWVC-WrDk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VtxWVC-WrDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M44S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 115,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VtxWVC-WrDk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-02-01T04:32:01-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-marus-mass-mech-strategy-best-of-3-vs-ragnarok.md",
@@ -915,45 +951,6 @@
       "publishedDateTime": "2021-08-03T01:25:44-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-epic-match-byun-vs-rogue.md",
-      "title": "StarCraft 2: EPIC MATCH - ByuN vs Rogue!",
-      "excerpt": "Epic game of professional StarCraft 2 between ByuN (Terran) and Rogue (Zerg). This game starts off with a Ravager rush but quickly transforms into a great macro game.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-match-byun-vs-rogue/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-match-byun-vs-rogue/",
-      "originalUrl": "https://youtube.com/watch?v=B_EtFVaMuKg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B_EtFVaMuKg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M55S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 113,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B_EtFVaMuKg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-12-28T03:20:46-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-blys-new-zerg-cheese-vs-lambo-best-of-3.md",
       "title": "StarCraft 2: Bly's NEW Zerg Cheese vs Lambo! (Best-of-3)",
       "excerpt": "Very fun best-of-3 series of professional StarCraft 2 between Lambo and Bly. It turns out that Bly has got some spicy new builds for the Zerg versus Zerg match up.  Bly's YouTube channel: https://www.youtube.com/c/BlyOnFire Lambo's YouTube channel: https://www.youtube.com/c/LamboSC2  Support my work",
@@ -1030,26 +1027,55 @@
       "publishedDateTime": "2021-11-18T04:37:23-08:00"
     },
     {
-      "path": "_games/pig-starcraft-2-when-santa-drops-christmas-gifts-no-one-asked-for-icyfar-christmas-special.md",
-      "title": "StarCraft 2 - When Santa drops Christmas gifts no one asked for | ICYFAR (Christmas Special)",
-      "excerpt": "🤯 NEW ICYFAR CHALLENGE: No new challenge yet.  -- 🤯 In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they Drop GIFTS all over your opponent (CHRISTMAS SPECIAL) -- 🤯 ICYFAR Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUczdbU-zuY0-vykRSR1YsLC",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-when-santa-drops-christmas-gifts-no-one-asked-for-icyfar-christmas-special/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-when-santa-drops-christmas-gifts-no-one-asked-for-icyfar-christmas-special/",
-      "originalUrl": "https://youtube.com/watch?v=xxWFXTSxVRk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xxWFXTSxVRk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M13S",
+      "path": "_games/pig-fastest-ultra-nydus-ever-has-this-guy-created-a-new-dumb-build-smooth-brain-auditions-season-2-ep1.md",
+      "title": "Fastest Ultra Nydus Ever: Has this guy created a new dumb build? Smooth Brain Auditions Season 2 Ep1",
+      "excerpt": "In Season 1 of Smooth Brain Auditions, we found Santa Claws who wowed us with such smooth noggin' moves that we started a YT series just for him. In Season 2, the competition heats up and the auditions are getting even better! Who will be our next Smooth Brain?  0:00 Audition 1 13:14 Audition 2 21:45",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-fastest-ultra-nydus-ever-has-this-guy-created-a-new-dumb-build-smooth-brain-auditions-season-2-ep1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-fastest-ultra-nydus-ever-has-this-guy-created-a-new-dumb-build-smooth-brain-auditions-season-2-ep1/",
+      "originalUrl": "https://youtube.com/watch?v=WbqwxDJy4Xw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WbqwxDJy4Xw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M34S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WbqwxDJy4Xw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-12-10T11:15:40-08:00"
+    },
+    {
+      "path": "_games/pig-when-a-cannon-rush-meets-a-proxy-hatch-in-cheesedown-part-44.md",
+      "title": "When a Cannon Rush meets a Proxy Hatch in CHEESEDOWN Part 4/4!",
+      "excerpt": "We invited the cheesiest Protoss, Has, and the cheesiest Zerg, Bly, to have a Cheesedown with us to determine who is the best at serving fondue. In Part four, the fondue party comes to an end. Who will take the Cheesedown crown?  Cheesedown Part 1: https://youtu.be/OI4n4PWs1TI Cheesedown Part 2: https://youtu.be/yvvgXC3C-zo",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-a-cannon-rush-meets-a-proxy-hatch-in-cheesedown-part-44/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-a-cannon-rush-meets-a-proxy-hatch-in-cheesedown-part-44/",
+      "originalUrl": "https://youtube.com/watch?v=2oPGEX50fm0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2oPGEX50fm0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M23S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Protoss"
       ],
       "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/xxWFXTSxVRk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2oPGEX50fm0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1057,44 +1083,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-12-23T15:28:21-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-nices-crazy-strategies-vs-clem-best-of-5.md",
-      "title": "StarCraft 2: Nice's CRAZY STRATEGIES vs Clem! (Best-of-5)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 with some crazy strategies. In this Terran versus Protoss we watch Clem defend a variety of cheeses that Nice is throwing at him.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-nices-crazy-strategies-vs-clem-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-nices-crazy-strategies-vs-clem-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=fKPtPtpV7qY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fKPtPtpV7qY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M39S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 109,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fKPtPtpV7qY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-02-03T05:15:44-08:00"
+      "publishedDateTime": "2021-11-29T08:25:52-08:00"
     }
   ],
   "nextPage": 2

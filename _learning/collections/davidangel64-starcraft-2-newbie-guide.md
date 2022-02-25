@@ -2,7 +2,7 @@
 title: "Starcraft 2 Newbie Guide"
 excerpt: ""
 type: collection
-heat: 61
+heat: 60
 
 provider:
   name: davidangel64

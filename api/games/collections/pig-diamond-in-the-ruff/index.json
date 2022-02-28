@@ -1555,7 +1555,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/12OazcAaNoM/maxresdefault.jpg",
@@ -1919,7 +1919,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 83,
+      "heat": 80,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",

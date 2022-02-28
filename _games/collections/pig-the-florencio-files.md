@@ -267,6 +267,7 @@ items:
   - pig-starcraft-2-florencios-bizarre-version-of-a-macro-game-florencio-files-256
   - pig-starcraft-2-someone-walled-flo-in-florencio-files-257
   - pig-starcraft-2-did-this-guys-brain-break-with-a-double-cannon-rush-florencio-files-258
+  - pig-starcraft-2-flos-sick-counter-to-battlecruisers-florencio-files-259
 
 topics:
   - StarCraft 2

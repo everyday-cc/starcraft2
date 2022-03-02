@@ -823,6 +823,7 @@ items:
   - pig-starcraft-2-did-this-guys-brain-break-with-a-double-cannon-rush-florencio-files-258
   - pig-starcraft-2-flos-sick-counter-to-battlecruisers-florencio-files-259
   - pig-starcraft-2-ruff-brings-fried-pork-to-the-drone-bbq-and-bcs-for-dessert-diamond-in-the-ruff-64
+  - pig-we-paid-a-pro-to-do-troll-builds-mothership-rush-afk-build-twitch-plays-astrea-4-starcraft-2
 
 topics:
   - StarCraft 2

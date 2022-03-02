@@ -23592,7 +23592,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 110,
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ZpN1ZtDiI04/maxresdefault.jpg",
@@ -23653,7 +23653,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 50,
+      "heat": 110,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/xxWFXTSxVRk/maxresdefault.jpg",
@@ -24101,7 +24101,7 @@
         "Protoss",
         "Terran"
       ],
-      "heat": 190,
+      "heat": 165,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -24132,7 +24132,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 79,
+      "heat": 54,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",

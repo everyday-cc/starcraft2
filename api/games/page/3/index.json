@@ -4,6 +4,35 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-tempest-rush-twitch-plays-astrea-3-starcraft-2.md",
+      "title": "We paid a Pro to do Troll Builds: Tempest Rush! | Twitch Plays Astrea #3 - StarCraft 2",
+      "excerpt": "We paid Astrea to do some Troll builds on ladder. Like the Thundershaft that he is, he used his Rank 1 account and wowed us all with his skills - this time doing a tempest rush  Follow Astrea's Twitch: https://www.twitch.tv/zastrea -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-we-paid-a-pro-to-do-troll-builds-tempest-rush-twitch-plays-astrea-3-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-we-paid-a-pro-to-do-troll-builds-tempest-rush-twitch-plays-astrea-3-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=yHEqhhfFLnY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yHEqhhfFLnY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M35S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-02-14T23:05:57-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-florencios-200-iq-cannon-rush.md",
       "title": "StarCraft 2: FLORENCIO'S 200 IQ CANNON RUSH!",
       "excerpt": "Generally speaking, the higher you climb on the ladder, the worse the 'classic' Cannon Rush becomes in StarCraft 2. Since players get better at responding quickly and making the correct moves, it becomes more difficult to win with Protoss cheese. In this video Florencio introduce a new 'flavour' of Cannon",
@@ -892,45 +921,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-10-20T03:00:18-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-rogue-vs-classic-on-old-school-maps-best-of-7.md",
-      "title": "StarCraft 2: Rogue vs Classic on OLD SCHOOL MAPS! (Best-of-7)",
-      "excerpt": "Best-of-7 series of professional StarCraft 2 between Rogue (Zerg) and Classic (Protoss). This series is the Grand Finals of the OlimoLeague Invitational 9, and all games take place on old maps that were mostly played in Wings of Liberty and Heart of the Swarm. The map pool for this even is: Daybreak,",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-rogue-vs-classic-on-old-school-maps-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-rogue-vs-classic-on-old-school-maps-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=wD6OYL8vd1U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wD6OYL8vd1U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H16M23S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wD6OYL8vd1U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-01-27T05:10:45-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serrals-proxy-hatchery-serral-vs-soul.md",

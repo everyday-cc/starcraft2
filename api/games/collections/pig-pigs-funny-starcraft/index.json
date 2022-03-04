@@ -23772,7 +23772,7 @@
         "Terran",
         "Protoss"
       ],
-      "heat": 50,
+      "heat": 110,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/UA64vCg2HLk/maxresdefault.jpg",
@@ -24101,7 +24101,7 @@
         "Protoss",
         "Terran"
       ],
-      "heat": 110,
+      "heat": 100,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",

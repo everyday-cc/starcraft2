@@ -4,39 +4,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_games/beastyqtsc2-starcraft-2-cannon-rushing-thecannon-rusher-mass-zealot-phoenix.md",
-      "title": "StarCraft 2: Cannon Rushing the.....Cannon Rusher? - MASS Zealot & Phoenix!",
-      "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-cannon-rushing-thecannon-rusher-mass-zealot-phoenix/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-cannon-rushing-thecannon-rusher-mass-zealot-phoenix/",
-      "originalUrl": "https://youtube.com/watch?v=MOHf9JkDRCU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MOHf9JkDRCU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M19S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MOHf9JkDRCU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-11T03:48:11-07:00"
-    },
-    {
       "path": "_games/beastyqtsc2-starcraft-2-cannon-rushing-vs-mass-marines.md",
       "title": "StarCraft 2: Cannon Rushing vs MASS Marines?",
       "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
@@ -992,6 +959,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-12-22T05:37:06-08:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-i-am-struggling-at-5100-mmr-mass-zealot-phoenix.md",
+      "title": "StarCraft 2: I AM STRUGGLING at 5100 MMR!  - MASS Zealot & Phoenix!",
+      "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-i-am-struggling-at-5100-mmr-mass-zealot-phoenix/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-i-am-struggling-at-5100-mmr-mass-zealot-phoenix/",
+      "originalUrl": "https://youtube.com/watch?v=fmu_ZV5THQ4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fmu_ZV5THQ4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M31S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fmu_ZV5THQ4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-10T05:07:04-07:00"
     }
   ],
   "nextPage": 22

@@ -826,6 +826,7 @@ items:
   - pig-we-paid-a-pro-to-do-troll-builds-mothership-rush-afk-build-twitch-plays-astrea-4-starcraft-2
   - pig-when-you-think-its-a-tvz-but-you-3-rax-a-terran-instead-diamond-in-the-ruff-65-starcraft-2
   - pig-when-youre-so-tilted-you-think-a-mirror-matchup-is-imbalanced-salt-mines-1-sc2
+  - pig-we-paid-a-pro-to-do-troll-builds-but-he-joined-a-clan-instead-twitch-plays-astrea-5-starcraft-2
 
 topics:
   - StarCraft 2

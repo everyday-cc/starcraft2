@@ -2,15 +2,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-03-08-starctaft-ii-509-ptr-patch-notes.md",
-      "title": "StarCtaft II 5.0.9 PTR Patch Notes",
+      "path": "_news/2022-03-08-starcraft-ii-509-ptr-patch-notes.md",
+      "title": "StarCraft II 5.0.9 PTR Patch Notes",
       "excerpt": "We&amp;#39;ve been working with community members and tournament organizers to put together a Balance Patch. You can check it out on the PTR now!",
       "sourceUrl": null,
-      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23774006/starctaft-ii-5-0-9-ptr-patch-notes",
-      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23774006/starctaft-ii-5-0-9-ptr-patch-notes",
+      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23774006/starcraft-ii-5-0-9-ptr-patch-notes",
+      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23774006/starcraft-ii-5-0-9-ptr-patch-notes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-08T10:25:44-08:00",
+      "publishedDateTime": "2022-03-08T10:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Blizzard",

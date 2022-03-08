@@ -268,6 +268,7 @@ items:
   - pig-starcraft-2-someone-walled-flo-in-florencio-files-257
   - pig-starcraft-2-did-this-guys-brain-break-with-a-double-cannon-rush-florencio-files-258
   - pig-starcraft-2-flos-sick-counter-to-battlecruisers-florencio-files-259
+  - pig-starcraft-2-florencio-serves-7-course-meal-of-tvz-bs-florencio-files-260
 
 topics:
   - StarCraft 2

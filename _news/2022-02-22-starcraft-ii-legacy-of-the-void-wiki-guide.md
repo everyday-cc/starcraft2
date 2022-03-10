@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/wikis/starcraft-2/deadendpages"
 webUrl: "https://www.ign.com/wikis/starcraft-2/deadendpages"
 type: article
 quality: 77
-heat: 78
+heat: 77
 published: true
 
 provider:

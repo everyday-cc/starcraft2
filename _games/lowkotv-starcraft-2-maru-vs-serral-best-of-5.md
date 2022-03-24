@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maru-vs-serral-b
 type: video
 length: PT51M40S
 publishedDateTime: 2021-09-21T11:19:21Z
-heat: 58
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bDK8Ps8UAOE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Q1zbQ72/Rs6Kyr5qIt/vGjQ9qnB9YqyxFq2DBIHCbAzQm3yHueq9XoRPe2S9ZX3FxOmoX3322PtCyyTz7j6frcwY3rayXrP/i+VDVEzXCnf1YOf12KRXt9ovgY4CKVSxfzRcYKhr+K2Ii4tK/1VC4ZYWWhFQwa3s7aDymIHz30wkTtMEiIUYvMUfFanQBK+C1MQpe9E2LM5ZpV0CPXmBC936l9rG68YAs48MsJYYMdIJVCJKYEQk/4AWps7O0oFQGPGNuoiIMENG1vRUXvQTlfNOrbPTRzoDu0slICy+bhSuALJzhCMnf7Atq2uiVJppFX6gNSEBVXZdC02puHwdtpMeOzc17IwKFUUZ/F+mu6BUwqf8K4ql5kOf/P68e+LfAbMFI33SJq0qOQ6/DPXSKgTxW1fF288jaVgJQYOnVPqs5lPeMrHifqOKA1hMVpnL;htu0uwel4D3U8rO7WiHeqA=="
+secured: "+h3pnPIp227olqv3RuPo0IUlmjaKxFdV6wHV+rptAko7S6XNKNY+szAkefEu3CNLoDwgEp7pb+ULV9pRoPbyR2qgi1yMqQW7r1W1ryuIRSXYxDksSxwZDC08ViJdJUFiNoe80LeUOtK4tDg/9BYJEKUTzNens+U1YRw20FhSv0KznE1QE4P1EAcI42294xvEQSkVKCeTIlaji865e4R1l2NUaO4RDZLirHDK2D9e1bHdg7CKXMix4M7xBwIFfkLcegWygMI1DEyPQtwkoWbZw+Iv2ZTTorj9TCIvdHTTHa5oP7eg985uj6B/Xbd0gKVQ4zIaTT1t6/OOmU5lGrryNtcwTAyhFbuorZHxaMPLXViazxk7sXRFcakNHMdg3dq8LOGQfEEJJYyGaM3JyubOfVi/IaS4+IqP0zzFZhl9FgFKsXR/AVNUYpBMUs0EfUTG;5+n3o5D2vlrR0cDObM0l+Q=="
 ---
 

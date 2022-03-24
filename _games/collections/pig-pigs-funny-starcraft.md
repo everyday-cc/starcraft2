@@ -824,10 +824,13 @@ items:
   - pig-starcraft-2-flos-sick-counter-to-battlecruisers-florencio-files-259
   - pig-starcraft-2-ruff-brings-fried-pork-to-the-drone-bbq-and-bcs-for-dessert-diamond-in-the-ruff-64
   - pig-we-paid-a-pro-to-do-troll-builds-mothership-rush-afk-build-twitch-plays-astrea-4-starcraft-2
-  - pig-when-you-think-its-a-tvz-but-you-3-rax-a-terran-instead-diamond-in-the-ruff-65-starcraft-2
-  - pig-when-youre-so-tilted-you-think-a-mirror-matchup-is-imbalanced-salt-mines-1-sc2
+  - pig-terran-player-3-raxes-vs-the-wrong-race-diamond-in-the-ruff-65-starcraft-2
+  - pig-this-starcraft-player-has-lost-his-mind-salt-mines-1-sc2
   - pig-we-paid-a-pro-to-do-troll-builds-but-he-joined-a-clan-instead-twitch-plays-astrea-5-starcraft-2
   - pig-starcraft-2-florencio-serves-7-course-meal-of-tvz-bs-florencio-files-260
+  - pig-terran-experiment-confuses-zerg-opponent-2-tvz-games-diamond-in-the-ruff-66-starcraft-2
+  - pig-fans-trash-talking-ufc-fighters
+  - pig-starcraft-2-thors-widow-mines-sad-protoss-3-games-diamond-in-the-ruff-67
 
 topics:
   - StarCraft 2

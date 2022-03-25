@@ -831,6 +831,7 @@ items:
   - pig-terran-experiment-confuses-zerg-opponent-2-tvz-games-diamond-in-the-ruff-66-starcraft-2
   - pig-fans-trash-talking-ufc-fighters
   - pig-starcraft-2-thors-widow-mines-sad-protoss-3-games-diamond-in-the-ruff-67
+  - pig-starcraft-2-i-am-sorry-to-diamond-players-everwhere-guess-the-mmr-1
   - pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261
 
 topics:

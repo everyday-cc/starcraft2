@@ -22,11 +22,11 @@ topics:
   - Terran
 
 images:
-  - url: https://i.ytimg.com/vi/xKYulaEILB0/maxresdefault.jpg
-    width: 1280
-    height: 720
+  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
+    width: 1200
+    height: 800
     isCached: true
 
-secured: "MWDLl8uNzwON0fRxf1TDjfYNvhMSX1FfOiByfHeJeo3EEs0VKNoZ8QO69n0HwDI2if0X/JwhpYpuM4z8taqqoKUvZx6wfJF+4eXvInRRmIFQ+4MF3LMz2GfRJLG+6oJceEi8UjCeMFWoKrJbAU4uJIGBAJQBNwBxKPQbJq49hIF6Z2+zDmGCNk2kMg8bY4KIXd7xfcVKs/8xEHgx/Pk8sZbGSHzmJBnSwsP7VEBengNTzE4+MW/T6oLdUqdsMNiW8pl5PDkuerUpfz1a7Zeaxxby5BA4mZCaYNqfoTnbwMcr6umqwl/eIaBKbriDaI8K9nSiXDwwnTiz3TdMe+4Fa4xJXls1+8KYDocpzXpN3s5uDXTFiU2jId9R9u9VrGDCp3K/afxqTq9O5In5DZ0JLQ==;mezRdA/zilfnpVnTeT7VZA=="
+secured: "5y1V7Cq+f+Ii250kWNuKtHMPub8VpGzhIr+SjHAfOLghYsfkPAA5lDWH3xVoI1MdeYmVmfWuXnhwy5R1awgY7q3pleKUdUr3joYedjwWLEtqHXoXAX+Qq+vfCGNnfwXvP7aBHrmA3JEM5TAkzHgfIkc29pKPXNt7z4hJt4mN8r/+aEnywwQu8+nSJ+XsI1Vtafl97LYL1ghCrCkV6XXHjPkL6XCJMDd9lGK+F5WLo+RWJjzmHt9T/r2pVdlfC3DDvJ+yYqHZHtKVno1nrUTYqd8aNTUiDFqly8bw6dyUKgxe8IVfqo2lXQtKNgjeqCZw1Gr4e/3ouoWAwDNkVcklQs9k375eya10nYgXJG4ws56Gj1sfHnkc6BbZ80R6p/B3mLyTesOeeh59fewLWGfLwA==;f02kmIem6UMG6dmCRJdT0A=="
 ---
 

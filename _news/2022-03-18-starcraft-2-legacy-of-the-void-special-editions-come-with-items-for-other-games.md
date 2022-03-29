@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/starcraft-2-legacy-of-the-void
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-2-legacy-of-the-void-special-editions-co/1100-6428926/"
 type: article
 quality: 109
-heat: 115
+heat: 114
 published: true
 
 provider:

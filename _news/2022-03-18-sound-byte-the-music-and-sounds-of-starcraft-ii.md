@@ -7,7 +7,7 @@ originalUrl: "https://www.gamespot.com/articles/sound-byte-the-music-and-sounds-
 webUrl: "https://www.gamespot.com/articles/sound-byte-the-music-and-sounds-of-starcraft-ii/1100-6273407/"
 type: article
 quality: 77
-heat: 83
+heat: 82
 published: true
 
 provider:

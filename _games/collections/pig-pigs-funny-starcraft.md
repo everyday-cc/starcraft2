@@ -834,6 +834,7 @@ items:
   - pig-starcraft-2-i-am-sorry-to-diamond-players-everwhere-guess-the-mmr-1
   - pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261
   - pig-when-they-think-youre-a-smurf-thanks-to-an-icyfar-challenge-harassment-3-games-starcraft-2
+  - pig-the-crazy-strat-that-beat-a-starcraft-champion-diamond-in-the-ruff-68-vs-true
 
 topics:
   - StarCraft 2

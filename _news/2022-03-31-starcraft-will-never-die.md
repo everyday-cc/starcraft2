@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/videos/starcraft-will-never-die"
 webUrl: "https://www.ign.com/videos/starcraft-will-never-die"
 type: article
 quality: 77
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         height: 900
         isCached: true
 
-secured: "lqiDm/STuuJ5gCB6cOaJJYAZP1C9zOROtuKEn1EPwEJftchp5vxO5Icp5/C5/5IXNeuzL/40l8P3Abs189ajp7YcNovPW7FrAdJp0/5z7fQ5cJMqHvmZuFm8LCTBmvZqve4tgsScDrCOCf+rQMh5XBn97KaMWfmgyWazHyVjtK1Dnxqp824ZdQIQC2B35G7prABWZU935rVYlQ9WwyQmJekLGx0v82bTm8jORfokqQltvayBF5g7mHdccDC2v/bf3znRTT1hzUMHYu19LPcYoE2AAcoWP6cCZyhrTcZemkolhJR+vB88nNfiKsjRH1odNCWnI4vTJP0j3qlH0kw4eCN1RFA/ajafkAWeyS4HjYA=;fYaR0T/woMbkazd+ZRtXkQ=="
+secured: "XIeEuh7GGbi1D9S4S8q3oVHijYuCQ3RsczvqbCbQC5UIr+pn3M9TpMzxpWZHuqJEDOpNwQwYhJeX+I3WqaoXZO0ITnZ0T4UUDoKbBFm7RXOBWLH5YYd938ZTqFc8vGghnrDE8MlFGHGKorRL5YHMYFpF9Oh+u6yCeg4xX4JgxiEEVPeCSEvGPyd3LRvG2IEECaHxh6cqb/cRk5W5ZvlmJHCF6RoYwj7H7YAj+Zj98N3QatwTclj2l/y7LTFlqmlmHJGyrYhl3yVlCeDNxPrSkaALb6DouXfTlH1uf+h2VviCY7sX8djBDrMGWR/1Q3GeHJVMMtH/6Z2blNoRtu2nRj531OwfXEfmJTjWYtdsiw5SN2Xm1n1El5pUXz9Hha4hlnfxzAz7EauEpO5bDFL+uVE76iqDiDrAXZVNAD8rpx8gjtwhO0CC8047pvZUHc88IfYJCAdIB59q0bRbkLXRg8lM+2RyfaLQJAsAuoARyDzrnFzSwbMIkjwWsNvEBDKbAWFVt9ba50O73OKASCYAWA==;FNsiAiYfp1zqt8k+ce4Z2w=="
 ---
 

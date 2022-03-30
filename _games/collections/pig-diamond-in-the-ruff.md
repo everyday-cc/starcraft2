@@ -76,6 +76,7 @@ items:
   - pig-terran-player-3-raxes-vs-the-wrong-race-diamond-in-the-ruff-65-starcraft-2
   - pig-terran-experiment-confuses-zerg-opponent-2-tvz-games-diamond-in-the-ruff-66-starcraft-2
   - pig-starcraft-2-thors-widow-mines-sad-protoss-3-games-diamond-in-the-ruff-67
+  - pig-the-crazy-strat-that-beat-a-starcraft-champion-diamond-in-the-ruff-68-vs-true
 
 topics:
   - StarCraft 2

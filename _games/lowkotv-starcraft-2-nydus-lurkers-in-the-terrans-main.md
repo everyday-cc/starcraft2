@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-nydus-lurkers-in
 type: video
 length: PT32M52S
 publishedDateTime: 2020-12-22T18:21:45Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K3QnoQEfNS4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "bOJiSPPNMaODiIxoa0sK2a+MBdhLGLxocAZ8HFE0JM7cAJxeTtL1zLro2FViIKRq3rg8MclcQUf/jENZ5/+T+TMi9VKvacrK3Gcw9LHf1/bmateSNgYZ8hfRQWHembsac5io3qOp7hPSdszXZuTAmogI+OmjPYmPcT69VEFBkMVl3NOVjO5GzFcPA6U/hnh7n2nF+XM7nYoBCQGWZBPJgDwF7ZiW0ZJquIAwxK3psf2WAucRD4Jx1Atdp4vy6O2ZpKm24GbhVDURW0O6J5PmKikcOq9lxc7V3M6LC8rAopFArDUBtVh1LhGZ8bbR87lD+9kDw4LbYdSoMnSKMbzvw+oxwNvUmAAnmS3amPDk7wR6YwNxPCBJaWfYvpOyxFu73LabAgiKFxHJtfQm4A0JUG60V7zt4Gs3nhY+v+OaSCc=;9MvLd4OhteByu5sNjd+WWg=="
+secured: "0yvEjZNGBsJo5CGDilG04ohttjS/Gk/Obj9tEa1aOvOPOIXpvDGudocgj1yqUwcbqgHHTcpKyWy+la4saf7UnePj0vhvnbMmT9dFeQ4STNTgzkEAqN399Q1pyhek+asN8e7jjacaN/xOYU0Ah6NMfvtluZFlB0bcrTRoXb/7BPkHwRj9IsCRhIAvWJ5BL6xd1S/SDUsUceR5Fx7kuZ/r70+MsjbX61Wras5RDllg02ud5AiSqt1LQT7lnZy4wb6lhEFEn239XztuW8Ma7+8vLZ6uI0RIi5vQFkQKgbR70JfXfhwZOhzdOkTIRvBw+KY/pFj59T0a6zESNH7BXCY+fzK4JwmWL43argyyLRpSaaWbnFu3DC3k43IhtlGMkdTdrIXseZxw+4fDVCVi/x1qEQbt2MkjQ7dE89ycfwJ+yTdqGzHFyAWW0lRTI+3El4lw;/15ye4GvLzLnhvlQGUIi/A=="
 ---
 

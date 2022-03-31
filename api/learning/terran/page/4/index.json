@@ -694,6 +694,37 @@
       ]
     },
     {
+      "path": "_learning/videos/pig-starcraft-2-beginner-terran-opening-the-pig-daily-153.md",
+      "title": "StarCraft 2 - Beginner Terran Opening | The PiG Daily #153",
+      "excerpt": "Use this link to join my Discord Channel and become part of the community: https://discord.gg/0oDzZ8wBPhrdNAOD  See the Show notes and more info + ongoing discussion of the show in the Teamliquid thread: http://www.teamliquid.net/forum/starcraft-2/509383-the-pig-daily-thinking-critically-about-sc   Full",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-beginner-terran-opening-the-pig-daily-153/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-beginner-terran-opening-the-pig-daily-153/",
+      "originalUrl": "https://youtube.com/watch?v=M1QnDKucj3I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M1QnDKucj3I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M16S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-04-11T16:10:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M1QnDKucj3I/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-starcraft-2-coaching-silver-terran-mechanics-macro-cycle-and.md",
       "title": "StarCraft 2 - Coaching Silver Terran - Mechanics, Macro Cycle and",
       "excerpt": "I coach a silver 1 terran player on some key mechanics, how to learn a tight macro cycle and how to understand and improve at Starcraft -- Watch live at https://www.twitch.tv/x5_pig",
@@ -899,37 +930,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/mbbQPDjgs30/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-tvp-how-to-force-fights-and-engage-2-1-1-into-2-base-tank-liberator-push-coaching-session.md",
-      "title": "TvP - How to force fights and engage - 2-1-1 into 2-base tank liberator push - coaching session",
-      "excerpt": "I coach a diamond 1 terran on his TvP he’s been struggling with with a focus on a decisive 2-base push as a great way to focus improvement and how to execute pushes to force the protoss into a bad fight  -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-tvp-how-to-force-fights-and-engage-2-1-1-into-2-base-tank-liberator-push-coaching-session/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-tvp-how-to-force-fights-and-engage-2-1-1-into-2-base-tank-liberator-push-coaching-session/",
-      "originalUrl": "https://youtube.com/watch?v=WZG8B-0rXMw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WZG8B-0rXMw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:44:33-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WZG8B-0rXMw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-very-best-of
 type: video
 length: PT30M54S
 publishedDateTime: 2021-04-13T11:04:30Z
-heat: 61
+heat: 68
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UvH2h4bWcfk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "w6SlPYO/wvb+esCOZ5F7DH88qXd8J8AxIz2oLPNURXCJFxBcQZzgshhOVh/97q8RzHPaQj6MP8MxvOgNOrcMfGanz8FPSWjRpK0c/A4wpT/kyHtm+hI6Sd3jwUL5YF0TsVPXvotTOTIZKE4ko1+n7JJGtUudHHl3i441+WMIOK3UhNzbXVW5XlqVbujbg2CoaS0f/9I35Hz+C9qk5QMBamWkpekJgL2wuGO+NZHr4EatptDkYe57hsl8+9dVJJ0YQNTPTCHsAQwGVJ5ruJVYplpvAySDQN4OCe3udjW8wtDf8qngoUlAUu33pn08mVo7kt4HZaa6pWwbGrUzNdAiZgydX7KK1+/MOo2eGt6oyCqfT0eOaIcmxsrWypjWEt7Ga6pxuQSciYBgAlYwJ+Se9OWwFQdWhmXXiLngktXgbldNsepxVS1ZFqKVZPi6MqsZ;DXzfceY86+VnGPEw/FgLig=="
+secured: "dE43O3sHkEf9g2D9JfNT3jC7Wp3wvx839LtLkQEfZ+vqhEUMW7ksokecqgpqppES/swJOnWnUcgbyVHWCd6vi2UtdV2IDx6n992geB1bfDHo39oizCxCRk18fg5d/Y53eJXn9VpEplxyMCypYMKL7dTJTmsTVrSNAafiyAdlmJPI130c5MyIYpdGoPUhQ6l24GI7e2s8xeo4b548/oUTO1uRuG2hivRVWr5ps+r++FNDn2+4Vka5lJIAiiAEJW3GFQttpII1OAKB5VoJhRYdxJ3Z63+IWG2AqfHYAil7XtQs/Hiywgc0+f2wyhCm5ZOpfdwDGIrbbWKMWh12cEerAVlHnwFWTsjdckzReKV8JpBYPwg4vTGHMlSSGffgVVUpeDbilgG0QSAWZAX4qbacNrAArZB5uFvi7M5/Ab7wTdwuz0PpK/SW2RW1rT+w3WtN;LHSaLNnkn+oMEeFXAadI5Q=="
 ---
 

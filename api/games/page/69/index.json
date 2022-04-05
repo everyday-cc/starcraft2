@@ -4,6 +4,35 @@
   "page": 69,
   "value": [
     {
+      "path": "_games/pig-vikivac-drops-best-strat-the-unlikely-couple-liquid-reign-icyfar-g2.md",
+      "title": "VikiVac Drops Best Strat - The Unlikely Couple Liquid Reign ICYFAR G2",
+      "excerpt": "Funfact: the Odin came before the thors.   ATTENTION: ICYFAR Schedule has changed!  In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays that had the most unlikely units pair up!  CURRENT ICYFAR CHALLENGE: \"DIversity Hire\" - Use as many different units",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-vikivac-drops-best-strat-the-unlikely-couple-liquid-reign-icyfar-g2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-vikivac-drops-best-strat-the-unlikely-couple-liquid-reign-icyfar-g2/",
+      "originalUrl": "https://youtube.com/watch?v=w7ZDqg0psl0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/w7ZDqg0psl0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M46S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/w7ZDqg0psl0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-war-boys-vs-perverlords-peeping-tom-liquid-reign-icyfar-g1.md",
       "title": "War Boys vs Perverlords - Peeping Tom Liquid Reign ICYFAR G1",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to gain world domination! UH, i mean, as much map vision as possible!  CURRENT LIQUID REIGN ICYFAR CHALLENGE: \"All your bases are belong to us” - Send in your best basetrades! - During",
@@ -857,35 +886,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-07-03T15:59:09-07:00"
-    },
-    {
-      "path": "_games/pig-why-is-there-a-sensor-tower-here-watching-from-the-shadows-g3.md",
-      "title": "Why is there a sensor tower here!? - Watching from the Shadows G3",
-      "excerpt": "Hey guys! we are back with a new person in charge of ICYFAR, yes this means that the email for submissions HAS CHANGED! In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were setting up as much map vision as possible!  CURRENT ICYFAR CHALLENGE:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-why-is-there-a-sensor-tower-here-watching-from-the-shadows-g3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-why-is-there-a-sensor-tower-here-watching-from-the-shadows-g3/",
-      "originalUrl": "https://youtube.com/watch?v=-phuWnsMdYA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-phuWnsMdYA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M30S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-phuWnsMdYA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
     }
   ],
   "nextPage": 70

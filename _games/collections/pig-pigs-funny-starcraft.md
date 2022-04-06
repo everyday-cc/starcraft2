@@ -835,6 +835,7 @@ items:
   - pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261
   - pig-when-they-think-youre-a-smurf-thanks-to-an-icyfar-challenge-harassment-3-games-starcraft-2
   - pig-the-crazy-strat-that-beat-a-starcraft-champion-diamond-in-the-ruff-68-vs-true
+  - pig-starcraft-2-chaotic-cheese-compilation-diamond-in-the-ruff-69
   - pig-starcraft-2-the-sewer-mermaid-has-evolved-florencio-files-262
   - pig-starcraft-2-cocky-starcraft-player-gets-justice-salt-mines-2
 

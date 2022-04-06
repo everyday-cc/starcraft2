@@ -77,6 +77,7 @@ items:
   - pig-terran-experiment-confuses-zerg-opponent-2-tvz-games-diamond-in-the-ruff-66-starcraft-2
   - pig-starcraft-2-thors-widow-mines-sad-protoss-3-games-diamond-in-the-ruff-67
   - pig-the-crazy-strat-that-beat-a-starcraft-champion-diamond-in-the-ruff-68-vs-true
+  - pig-starcraft-2-chaotic-cheese-compilation-diamond-in-the-ruff-69
 
 topics:
   - StarCraft 2

@@ -838,6 +838,7 @@ items:
   - pig-starcraft-2-chaotic-cheese-compilation-diamond-in-the-ruff-69
   - pig-starcraft-2-the-sewer-mermaid-has-evolved-florencio-files-262
   - pig-starcraft-2-cocky-starcraft-player-gets-justice-salt-mines-2
+  - pig-starcraft-2-flo-sits-on-his-balls-ouch-florencio-files-263
 
 topics:
   - StarCraft 2

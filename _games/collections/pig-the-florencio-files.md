@@ -271,6 +271,7 @@ items:
   - pig-starcraft-2-florencio-serves-7-course-meal-of-tvz-bs-florencio-files-260
   - pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261
   - pig-starcraft-2-the-sewer-mermaid-has-evolved-florencio-files-262
+  - pig-starcraft-2-flo-sits-on-his-balls-ouch-florencio-files-263
 
 topics:
   - StarCraft 2

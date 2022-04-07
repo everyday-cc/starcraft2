@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=mzGhNZuguII
 type: video
 length: PT12M1S
 publishedDateTime: 2018-10-16T14:21:19Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mzGhNZuguII\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "mlQGEUh4RSVGgR60GGsL6LG8SRS41ajVwFLWeSErzQryEGRghz+39Zs02b+pLBYdEadBZbQD+rwXx2ntEs+6Q1y1zdtkQCvxpbCKz0p2aMexo3d22z/ddpNmE/ZrsshtsNl+pPQg23KzX8PfmhJpAhaxYh8T70G7a0M77ontynzm5iQizsvNvMuws2tG9cBjtNz29ZkAhz0lt+VVW0fx+Hxet1vcscV7vIma8Q35Mq+XpIW7pgRt17bmUyNWurSkeg12StLHRriDzwW/gng3P42rK9XOV2iyy2rMBBl044/qXXDWNBXH5NxTJzQ6k6fW4ibmURLd7Xr+GqhyJJt2G19VuvYPTkkoAUe9UW0IgmXuvf2skpXr0KPwbphrTIjaBPb1MEH/513ePGpayr7JHgFdVmdXMcCKV5GO/m73G4tizKd/eMZ8wFfiorc4AWlP;L4YsnZQsyDGLd1x5xLIjiA=="
+secured: "tpia34M0lvRg5Z5PWreMlavlQ1shc8kglSm0cqIdowK45PWA1JojrfLaTcEVkHadBuuH3o5dzcWHSEsYn6ZAJmqXzm2rE/ZC4CsIVUW6hykI3gQw6tugGMJkoItqEDEUiZb6/snesHML/t018j8abA29kzt/4oB2ywNd9dUOiA2Wk4xFx38dhr8xI4e+2vLwYpxONgda+rD3LPeQdVwKr9+A3EPHdRlOCiFzdtZH8MTMhxbuynlDV9H6gGnqNAPXjn2AwgaArdJLMuGgmtjaVJ45d0NfZrmg1jOmWmi+PHsKI+DqWqzH7XC63tw0BdG0vjg3ePlPzIyp+TAqCjYEOb9bjP/+PH/MpbsWMIPR8Cn72b+UvtSfQBo+fH5AvaPx8DIi8TmFm94hiXG6Kic9IHEVfuD680KLPx6zN0/72+u+b/HYHymyJD93MhfUKOS6;ZYlNWWJHuuDXhRYCBSe+zA=="
 ---
 

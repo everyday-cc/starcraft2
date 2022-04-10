@@ -4,84 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-how-to-defend-cannon-rushes-guide.md",
-      "title": "StarCraft 2: How-To Defend Cannon Rushes! (Guide)",
-      "excerpt": "Tutorial on how to defend Cannon Rushes in Zerg versus Protoss. Every now and then you will have a Protoss opening up with a Forge and going for the blind Cannon rush. In this video I explain the approach you should take when defending this all-in. It does require a substantial amount of micro and you",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-how-to-defend-cannon-rushes-guide/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-how-to-defend-cannon-rushes-guide/",
-      "originalUrl": "https://youtube.com/watch?v=ri5KCdEdyMg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ri5KCdEdyMg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M35S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2015-03-23T07:55:25-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ri5KCdEdyMg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-nydus-worm-all-in-zerg-build-order-guide.md",
-      "title": "StarCraft 2: NYDUS WORM ALL-IN! (Zerg Build Order Guide)",
-      "excerpt": "Zerg vs Protoss Nydus all-in build order video! Subscribe for more videos: http://lowko.tv/youtube Zerg vs Terran all-in build order: https://goo.gl/kRXijf  In this video I go over how to execute a Nydus Worm all-in in the Zerg vs Protoss matchup. I show a game from a professional gamer called Leenock,",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-nydus-worm-all-in-zerg-build-order-guide/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-nydus-worm-all-in-zerg-build-order-guide/",
-      "originalUrl": "https://youtube.com/watch?v=Mn3Twb13398",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mn3Twb13398\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M54S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-03-08T00:26:03-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Mn3Twb13398/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/lowkotv-starcraft-2-serrals-zerg-vs-terran-build-orders.md",
       "title": "StarCraft 2: Serral's Zerg vs Terran Build Orders!",
       "excerpt": "Zerg versus Terran build orders. In this video I go over three games that Serral recently played versus HeroMarine and have an in depth look at the build orders that plays to achieve the macro game.  Get more videos & support my work: http://www.patreon.com/lowkotv Zerg vs Terran build order notes: https://pastebin.com/vZisrAuM",
@@ -780,6 +702,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-how-to-defeat-skytoss-learning-from-reynor.md",
+      "title": "How To Defeat Skytoss - Learning From Reynor",
+      "excerpt": "♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and I have 5+ GM students",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-how-to-defeat-skytoss-learning-from-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-how-to-defeat-skytoss-learning-from-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=YHOYoJ1upfw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YHOYoJ1upfw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M33S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2022-02-27T10:23:54-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-how-to-drop-with-medivacs-starcraft-2-terran-tutorialguidehow-to-2021.md",
       "title": "How to drop with medivacs | Starcraft 2 Terran Tutorial/Guide/How-To [2021]",
       "excerpt": "How to drop with medivacs | Starcraft 2 Terran Tutorial/Guide/How-To #Starcraft #Terran #Tutorial  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help",
@@ -963,6 +916,37 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-protoss-vs-protoss-build-order-safe-stalker-sentry-opening-starcraft-2-2021.md",
+      "title": "Learn Starcraft 2: Protoss vs Protoss Build Order - Safe Stalker-Sentry Opening [Starcraft 2 2021]",
+      "excerpt": "Today we're looking at a Starcraft 2 protoss vs protoss build order. This week we'll be covering lots of pvp tutorials & guides. But first things first, let's get us into the midgame with a safe opening!  Protoss vs Protoss Build Order - Safe Stalker-Sentry Opening [Starcraft 2 2020] #ProtossVsProtoss",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-protoss-vs-protoss-build-order-safe-stalker-sentry-opening-starcraft-2-2021/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-protoss-vs-protoss-build-order-safe-stalker-sentry-opening-starcraft-2-2021/",
+      "originalUrl": "https://youtube.com/watch?v=PD6PYQBfF6Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PD6PYQBfF6Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M15S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-01-06T20:41:15-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PD6PYQBfF6Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
       ]
     }
   ],

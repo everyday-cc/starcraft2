@@ -839,6 +839,7 @@ items:
   - pig-starcraft-2-the-sewer-mermaid-has-evolved-florencio-files-262
   - pig-starcraft-2-cocky-starcraft-player-gets-justice-salt-mines-2
   - pig-starcraft-2-flo-sits-on-his-balls-ouch-florencio-files-263
+  - pig-pig-im-a-baboon-i-know-nothing-about-starcraft-guess-the-mmr-2
 
 topics:
   - StarCraft 2

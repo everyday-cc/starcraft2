@@ -40,6 +40,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Blizzard is remastering Starcraft and making it free to play in 4K"
+    excerpt: "Starcraft fans everywhere will be thrilled to hear that Blizzard will make their favorite real-time strategy game in the universe great again. Launched in 1998 and seen as one of the best RTS ..."
+    publishedDateTime: 2022-03-27T00:00:00Z
+    webUrl: "https://bgr.com/tech/starcraft-remastered-release-date-and-trailer/"
+    ampWebUrl: "https://bgr.com/tech/starcraft-remastered-release-date-and-trailer/amp/"
+    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/starcraft-remastered-release-date-and-trailer/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 57
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2017/03/starcraft-remastered-release-date-trailer.jpg?quality=82&strip=all"
+        width: 1110
+        height: 780
+        isCached: true
 
 secured: "i10ecMvbdSkoxzuXU7DS+32OWQy8XxwwAu0MwvS1S9I8j5XDgPTSRY/urdCmHRCyJKnHw00YmWi05p5eceS9pOJIAY3RPblmJnkcpHS/R6SptKevccqBP7SuRG2hZuZ51LwYl/0g0xL7KlRwpHD1BgBNfLdSZSW5dGe+veI4tKYWuzgiD7PThXAiV3Qj3SEz2RNAreWAOX8/8BSv1n6z8XBL89DFn3tMhZ3dTDxaKNE6VO9fzy3Q39izqFA1z62nKOGWGu8FZrU9jENOa9V8wcIbcXU8piMl18cLOj5FKSfGiXq+m87w7jR8iAk56bfRybSss9BG0Eu69AgzCMS2IFazrVmO631EkvL+1FAjdWyt0cUyT3/2K1XdzmmdxcrsQFwhrHDMi8JPQJZHc35vMQSyi0iRgQc3WUq2W8l9fEh1g5iHdXQkKZQdlfZQkSulqeYgkXk+NleKu+d5To8dszYysdqIzUv8UhV7Ol+8FeQk7KLkqGGl2i2947UXZnSGt7yxN7FpV/yr7W/HAuaA7w==;1OkcWIfxCsEcNgzUBLeThQ=="
 ---

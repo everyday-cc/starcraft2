@@ -840,6 +840,7 @@ items:
   - pig-starcraft-2-cocky-starcraft-player-gets-justice-salt-mines-2
   - pig-starcraft-2-flo-sits-on-his-balls-ouch-florencio-files-263
   - pig-pig-im-a-baboon-i-know-nothing-about-starcraft-guess-the-mmr-2
+  - pig-starcraft-2-can-marubyun-fend-off-the-na-clowns-in-an-epic-2v2-pig-reacts
 
 topics:
   - StarCraft 2

@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/videos/starcraft-will-never-die"
 webUrl: "https://www.ign.com/videos/starcraft-will-never-die"
 type: article
 quality: 77
-heat: 126
+heat: 124
 published: true
 
 provider:

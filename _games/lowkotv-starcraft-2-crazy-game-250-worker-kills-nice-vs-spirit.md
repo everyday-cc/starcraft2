@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=RK4XbHMvfy0
 type: video
 length: PT32M16S
 publishedDateTime: 2022-03-01T12:09:27Z
-heat: 62
+heat: 61
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RK4XbHMvfy0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "+gj2hCn3WNps8syMWUqsTgP7/5Ly+sElkN3diZQHA8C4NHJ5yNgGWWRFY4blgOdiGiCuOHL2rf+5SkmUXnMJ6Nqguh4j45Izd+shm0q3K22T2qrg9cvI0rOBN+NStW79xaKb+LmtiMePT1lra4U1zh52UUNhMf93GRbTW3wK7WU7Ijjr992eRgnY3Y/GtMPNBlgP13WqZ0YtQFfA6q3L+EFkG11ABpqWTlU/+n3VcQKXTPWujWKilwS5lIFdA73CZGtJmtE3zbKO7g5HEjvrCO1nYurTHrNhafhTi3Z8RDOGT+oJesp/j2wFv5VF7mMk5vl2qo6caLmqPxbanIWcHJf5s30mXFpEFfxzbrDwqdoAvpmQzkq2qW8Pq51eSUjN8d7LMMrMqKjcpDYcmw25bWI6cZGK+h3va73oqaw+IRE=;gtz9uTjO/tmdf/qH/CVDNA=="
+secured: "0QCRWd6UNmCf3BAuu/yp+fDZTX42kfsJPL5n8y56SMtlZ8vTIisj39Ls8l1OlqG3JL5KtR6yV2WgebiVcGnKiJamii7JC6sZRFIvo91I5pCM5+OJBACtoMX7iKSKp62UfYRmicfrxw+lr9vxn9RSW8SJ+bZGSqVuSKgN7z4sCSBnoAZUqZxTPHZznWvrbwOCbMA/G8AcL6ytcNYK4cYf+t2ppQX0C11ogxTHEg8jM37gx5Xlb4tGI7/T/TFFuWSlJTwNQLAigs3Pt4T6NNDN9LOf16SLsARyZapUDsD+WF/1Ogj7Brpqfd/ZZqyNGktOl9tx0NIY1qGjj226TeUUSg7PJrOev6D31SbeUzu5J+I96GYyiJtuNdh2/MYXB+xBp0CKknUxpW6MyIPakri8f4JQkC+3Ofk8HBqXgGC6xHM=;RpHNBAdsdukdNZsic5vc7Q=="
 ---
 

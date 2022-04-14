@@ -841,6 +841,7 @@ items:
   - pig-starcraft-2-flo-sits-on-his-balls-ouch-florencio-files-263
   - pig-pig-im-a-baboon-i-know-nothing-about-starcraft-guess-the-mmr-2
   - pig-starcraft-2-can-marubyun-fend-off-the-na-clowns-in-an-epic-2v2-pig-reacts
+  - pig-starcraft-2-stuck-between-a-tempest-and-a-cannon-place-florencio-files-264
 
 topics:
   - StarCraft 2

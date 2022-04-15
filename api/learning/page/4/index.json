@@ -4,45 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-zerg-cheese-build-order.md",
-      "title": "StarCraft 2: ZERG CHEESE Build Order!",
-      "excerpt": "A very easy build order with a solid win rate in Zerg vs Zerg. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 guides: https://goo.gl/Njw8ay  The strength of the 15 Hatchery, 14 Extractor and 14 Spawning Pool is the fact that it makes your build order look very \"normal\". Your opponent",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-zerg-cheese-build-order/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-zerg-cheese-build-order/",
-      "originalUrl": "https://youtube.com/watch?v=EFGJKS69qz0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EFGJKS69qz0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-05-11T06:23:54-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EFGJKS69qz0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-choosing-your-race-protoss-welcome-to-starcraft-3.md",
       "title": "Choosing your Race Protoss - Welcome to Starcraft #3",
       "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
@@ -924,6 +885,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/2ohfdaz-hDI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-dark-templar-build-order-2020.md",
+      "title": "Dark Templar Build Order [2020]",
+      "excerpt": "You don't want to miss today's dark templar build order strategy guide! We're learning a dark templar build order(dt rush)! This strategy/build is for the Protoss vs Terran matchup and get's your dark templar (DT) out by 4:30 IN YOUR OPPONENTS BASE by using a warp prism which we sneak out across the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-dark-templar-build-order-2020/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-dark-templar-build-order-2020/",
+      "originalUrl": "https://youtube.com/watch?v=HJnbfpLiyo8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HJnbfpLiyo8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M1S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-08-27T14:04:33-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HJnbfpLiyo8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

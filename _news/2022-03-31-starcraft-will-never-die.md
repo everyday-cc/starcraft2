@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/videos/starcraft-will-never-die"
 webUrl: "https://www.ign.com/videos/starcraft-will-never-die"
 type: article
 quality: 77
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Blizzard is remastering Starcraft and making it free to play in 4K"
-    excerpt: "Starcraft fans everywhere will be thrilled to hear that Blizzard will make their favorite real-time strategy game in the universe great again. Launched in 1998 and seen as one of the best RTS ..."
-    publishedDateTime: 2022-03-27T00:00:00Z
-    webUrl: "https://bgr.com/tech/starcraft-remastered-release-date-and-trailer/"
-    ampWebUrl: "https://bgr.com/tech/starcraft-remastered-release-date-and-trailer/amp/"
-    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/starcraft-remastered-release-date-and-trailer/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 57
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2017/03/starcraft-remastered-release-date-trailer.jpg?quality=82&strip=all"
-        width: 1110
-        height: 780
-        isCached: true
   - title: "Amazon confirm WoW & Starcraft Prime Gaming rewards are in the works"
     excerpt: "As Amazon Prime Gaming adds Overwatch and Hearthstone to its ranks, the company has confirmed that further rewards for World of Warcraft are coming to gift WoW players free loot. As the months go by,"
     publishedDateTime: 2022-03-30T15:18:00Z

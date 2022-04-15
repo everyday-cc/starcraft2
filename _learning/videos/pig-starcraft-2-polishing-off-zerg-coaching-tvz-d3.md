@@ -1,0 +1,30 @@
+---
+title: "StarCraft 2 - Polishing Off Zerg | Coaching TvZ D3"
+excerpt: "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig"
+originalUrl: https://youtube.com/watch?v=5FRW8_EjDgc
+type: video
+price: Free
+length: PT1H6M1S
+publishedDateTime: 2020-06-08T21:00:02Z
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5FRW8_EjDgc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: PiG
+  domain: youtube.com
+
+topics:
+  - StarCraft 2
+  - Terran
+  - Zerg
+
+images:
+  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "vbwwIjVKEmyTisY9Huk7J9fAyyJXb5DPBiHiIiXqQszea7Xd0KB91svjmN+UW8toNG81gAhVlmKapGIp/Dk1V0dMvzXP7N4/LxJv7iMsaTeZngN2yM+yOfmsPsY8Y1VWtZ8yHzd2GfOP3TeUCxXR5v8ysSzohgwNcFg1o5rTEaG4/DwZ+VNP78fBUfHal6c1HfD8ZrLBTwMG+jK0+KOPLMHYyM53LJmLFfv342ejhed3rMIOAU44ZHyyp4vVrVpfcdPlCCD82Y+WGlZZW92V5KuWElt48YjMMK71cIxrWEy6dmLbu/8oNz/sIIkxCFjLwTpCUWk5OrRNStdJPr3QNgIT+D3r9nqKFkNbVWGQDe2uqOIAAlNFARRJU6pcFYLvTrB7RyyzK4FqY0Z8LrWaBg==;vhgLwmB4Fkha8q5aXYbBSQ=="
+---
+

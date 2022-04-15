@@ -59,7 +59,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-08-02T23:48:57-07:00",
-          "heat": 75,
+          "heat": 74,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/9af29q6sMg4/maxresdefault.jpg",
@@ -90,7 +90,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-08-05T22:43:17-07:00",
-          "heat": 71,
+          "heat": 67,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/sSHIv0ihLjw/maxresdefault.jpg",
@@ -121,7 +121,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-08-12T02:36:45-07:00",
-          "heat": 73,
+          "heat": 70,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/2Wvw27j3NqA/maxresdefault.jpg",
@@ -140,7 +140,7 @@
         }
       ],
       "size": 10,
-      "heat": 90,
+      "heat": 88,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Tr1_8C6CjMQ/maxresdefault.jpg",
@@ -637,7 +637,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2016-06-27T22:13:59-07:00",
-          "heat": 53,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/iMBgp-OA9Jc/maxresdefault.jpg",
@@ -775,11 +775,11 @@
       },
       "topItems": [
         {
-          "path": "_learning/videos/pig-terran-mechanics-with-cuddlebear-pro-coaching-1.md",
-          "title": "Terran Mechanics with Cuddlebear | Pro Coaching #1",
+          "path": "_learning/videos/pig-starcraft-2-terran-mechanics-with-cuddlebear-pro-coaching-1.md",
+          "title": "StarCraft 2 - Terran Mechanics with Cuddlebear | Pro Coaching #1",
           "excerpt": "Be sure to check out cuddlebears stream! https://www.twitch.tv/imcuddlebear   Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-terran-mechanics-with-cuddlebear-pro-coaching-1/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-terran-mechanics-with-cuddlebear-pro-coaching-1/",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-terran-mechanics-with-cuddlebear-pro-coaching-1/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-terran-mechanics-with-cuddlebear-pro-coaching-1/",
           "originalUrl": "https://youtube.com/watch?v=5K3fdo1vyfI",
           "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5K3fdo1vyfI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
           "length": "PT1H22M30S",
@@ -791,9 +791,9 @@
           "heat": 50,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/5K3fdo1vyfI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+              "width": 1200,
+              "height": 800,
               "isCached": true
             }
           ],
@@ -806,11 +806,11 @@
           ]
         },
         {
-          "path": "_learning/videos/pig-how-to-a-move-pro-coaching-2-astrea.md",
-          "title": "“How to a-move?” | Pro Coaching #2 Astrea!",
+          "path": "_learning/videos/pig-starcraft-2-how-to-a-move-pro-coaching-2-astrea.md",
+          "title": "StarCraft 2 - “How to a-move?” | Pro Coaching #2 Astrea!",
           "excerpt": "Be sure to follow Astrea! https://www.twitch.tv/zastrea https://twitter.com/SCAstrea  Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-how-to-a-move-pro-coaching-2-astrea/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-how-to-a-move-pro-coaching-2-astrea/",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-how-to-a-move-pro-coaching-2-astrea/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-how-to-a-move-pro-coaching-2-astrea/",
           "originalUrl": "https://youtube.com/watch?v=XxBhCi8W6Gk",
           "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XxBhCi8W6Gk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
           "length": "PT1H56M38S",
@@ -822,9 +822,9 @@
           "heat": 50,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/XxBhCi8W6Gk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+              "width": 1200,
+              "height": 800,
               "isCached": true
             }
           ],
@@ -836,11 +836,11 @@
           ]
         },
         {
-          "path": "_learning/videos/pig-how-do-i-beat-uthermal-pro-coaching-3-terran-cuddlebear-pt-2.md",
-          "title": "“How do i beat uthermal?” | Pro Coaching #3 Terran Cuddlebear Pt. 2",
+          "path": "_learning/videos/pig-starcraft-2-how-do-i-beat-uthermal-pro-coaching-3-terran-cuddlebear-pt-2.md",
+          "title": "StarCraft 2 - “How do i beat uthermal?” | Pro Coaching #3 Terran Cuddlebear Pt. 2",
           "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-how-do-i-beat-uthermal-pro-coaching-3-terran-cuddlebear-pt-2/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-how-do-i-beat-uthermal-pro-coaching-3-terran-cuddlebear-pt-2/",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-how-do-i-beat-uthermal-pro-coaching-3-terran-cuddlebear-pt-2/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-how-do-i-beat-uthermal-pro-coaching-3-terran-cuddlebear-pt-2/",
           "originalUrl": "https://youtube.com/watch?v=qKmlw9Ak0mA",
           "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qKmlw9Ak0mA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
           "length": "PT1H42M6S",
@@ -852,9 +852,9 @@
           "heat": 50,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/qKmlw9Ak0mA/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+              "width": 1200,
+              "height": 800,
               "isCached": true
             }
           ],
@@ -867,11 +867,11 @@
           ]
         },
         {
-          "path": "_learning/videos/pig-coaching-astrea-pro-coaching-4-astrea-pt-2.md",
-          "title": "Coaching Astrea | Pro-Coaching #4 Astrea Pt. 2",
+          "path": "_learning/videos/pig-starcraft-2-coaching-astrea-pro-coaching-4-astrea-pt-2.md",
+          "title": "StarCraft 2 - Coaching Astrea | Pro-Coaching #4 Astrea Pt. 2",
           "excerpt": "Be sure to follow Astrea! https://www.twitch.tv/zastrea https://twitter.com/SCAstrea   Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-astrea-pro-coaching-4-astrea-pt-2/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-astrea-pro-coaching-4-astrea-pt-2/",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-coaching-astrea-pro-coaching-4-astrea-pt-2/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-coaching-astrea-pro-coaching-4-astrea-pt-2/",
           "originalUrl": "https://youtube.com/watch?v=C5lrukbFQRk",
           "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C5lrukbFQRk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
           "length": "PT1H21M33S",
@@ -883,9 +883,9 @@
           "heat": 50,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/C5lrukbFQRk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+              "width": 1200,
+              "height": 800,
               "isCached": true
             }
           ],
@@ -901,9 +901,9 @@
       "heat": 60,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/5K3fdo1vyfI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
@@ -925,11 +925,11 @@
       },
       "topItems": [
         {
-          "path": "_learning/videos/pig-its-not-a-sprint-tvt-coaching-masters-3.md",
-          "title": "It’s not a Sprint | TvT Coaching Masters 3",
+          "path": "_learning/videos/pig-starcraft-2-its-not-a-sprint-tvt-coaching-masters-3.md",
+          "title": "StarCraft 2 - It’s not a Sprint | TvT Coaching Masters 3",
           "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-its-not-a-sprint-tvt-coaching-masters-3/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-its-not-a-sprint-tvt-coaching-masters-3/",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-its-not-a-sprint-tvt-coaching-masters-3/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-its-not-a-sprint-tvt-coaching-masters-3/",
           "originalUrl": "https://youtube.com/watch?v=NGVQhJvUXCk",
           "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NGVQhJvUXCk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
           "length": "PT1H9M56S",
@@ -941,9 +941,9 @@
           "heat": 50,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/NGVQhJvUXCk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+              "width": 1200,
+              "height": 800,
               "isCached": true
             }
           ],
@@ -955,11 +955,11 @@
           ]
         },
         {
-          "path": "_learning/videos/pig-all-the-keys-to-improving-zvt-coaching-d3-zerg.md",
-          "title": "All the Keys to improving ZvT | Coaching D3 Zerg",
+          "path": "_learning/videos/pig-starcraft-2-all-the-keys-to-improving-zvt-coaching-d3-zerg.md",
+          "title": "StarCraft 2 - All the Keys to improving ZvT | Coaching D3 Zerg",
           "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-all-the-keys-to-improving-zvt-coaching-d3-zerg/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-all-the-keys-to-improving-zvt-coaching-d3-zerg/",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-all-the-keys-to-improving-zvt-coaching-d3-zerg/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-all-the-keys-to-improving-zvt-coaching-d3-zerg/",
           "originalUrl": "https://youtube.com/watch?v=Gyfc4SiDOME",
           "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gyfc4SiDOME\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
           "length": "PT1H2M25S",
@@ -971,9 +971,9 @@
           "heat": 50,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/Gyfc4SiDOME/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+              "width": 1200,
+              "height": 800,
               "isCached": true
             }
           ],
@@ -986,11 +986,11 @@
           ]
         },
         {
-          "path": "_learning/videos/pig-solid-ravager-bane-zvp-masters-1-coaching.md",
-          "title": "Solid Ravager-Bane ZvP | Masters 1 Coaching",
+          "path": "_learning/videos/pig-starcraft-2-solid-ravager-bane-zvp-masters-1-coaching.md",
+          "title": "StarCraft 2 - Solid Ravager-Bane ZvP | Masters 1 Coaching",
           "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-solid-ravager-bane-zvp-masters-1-coaching/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-solid-ravager-bane-zvp-masters-1-coaching/",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-solid-ravager-bane-zvp-masters-1-coaching/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-solid-ravager-bane-zvp-masters-1-coaching/",
           "originalUrl": "https://youtube.com/watch?v=KU8CAwBvLa8",
           "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KU8CAwBvLa8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
           "length": "PT1H9M55S",
@@ -1002,9 +1002,9 @@
           "heat": 50,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/KU8CAwBvLa8/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+              "width": 1200,
+              "height": 800,
               "isCached": true
             }
           ],
@@ -1016,11 +1016,11 @@
           ]
         },
         {
-          "path": "_learning/videos/pig-adepts-into-colossus-vs-zerg-coaching-plat-3-pvz.md",
-          "title": "Adepts into Colossus vs Zerg | Coaching Plat 3 PvZ",
+          "path": "_learning/videos/pig-starcraft-2-adepts-into-colossus-vs-zerg-coaching-plat-3-pvz.md",
+          "title": "StarCraft 2 - Adepts into Colossus vs Zerg | Coaching Plat 3 PvZ",
           "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-adepts-into-colossus-vs-zerg-coaching-plat-3-pvz/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-adepts-into-colossus-vs-zerg-coaching-plat-3-pvz/",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-adepts-into-colossus-vs-zerg-coaching-plat-3-pvz/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-adepts-into-colossus-vs-zerg-coaching-plat-3-pvz/",
           "originalUrl": "https://youtube.com/watch?v=k3HjQ4iQVWI",
           "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/k3HjQ4iQVWI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
           "length": "PT1H10M17S",
@@ -1032,9 +1032,9 @@
           "heat": 50,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/k3HjQ4iQVWI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+              "width": 1200,
+              "height": 800,
               "isCached": true
             }
           ],
@@ -1052,9 +1052,9 @@
       "heat": 60,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/NGVQhJvUXCk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
@@ -1182,7 +1182,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-01-07T20:08:12-08:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/pNv4WwhpIFM/maxresdefault.jpg",

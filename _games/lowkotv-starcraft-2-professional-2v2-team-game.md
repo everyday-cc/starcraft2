@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=QJM7wa9N7-4
 type: video
 length: PT18M29S
 publishedDateTime: 2019-01-14T12:10:23Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QJM7wa9N7-4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "7GrIHXhtbC+YK5T5cfmwO2xA8nQFtBgrjBoh4zWOGwTY6dkgk8Z4o+Z2Z9qYefqfbobORghtpPULts/XzSPEwKxqeXenaTfw6uzrqd+pegzZ1LpR9iIwRguW4UDsB5pnf52Mgt+pgbvqtrC9z6/ZUlFnJMw/LLy3orkHobdAiWUeyAOPw19OGly6b5ec7H5OlsqOUDIbdrdHNe3A3LdkFE2cEfZfDpwFmxzDQuIMC1X+XwgYGuqXNKX+ay0vYwDAZXPmvE4Nh0OwMviIHAM0aQ166Vke1+cxJyBtbC5BRNfgd6j8kfjPDqKOkya4vOw998lpQ6yFs0GQ/qeJ36563lgPr70t/d6CuY9vUM5KAqdgpFj45RPXmMKtR0+dVtLkJ35EDCN664tse0dVr6elSODqHHBnjvi3iyKcVs8qpWQZGo4mdamSPFEWaS2iyxGQ;/OIEL+HYPnSfzC57NIgOMw=="
+secured: "KpQnJkPkUIM4GztPRD9JFx7iRUs0J6F36GpGO30tP0VZPQDGcFiPCpaOnH9sR0hBPeSnJk3RS86w9fI3KRrmc0ykpO/jTbvjOxfV8/abARn4ko7Z77z3RsMzMvd/4iAUvPVF+3qHDDGvwIlHG4xvq3yRPxgcKp3/cpUw8vMLOG3ZPdnR2vJyZTj/Rq8eKTE/eS3IZHzOWV27RHzf8pHWLNfS5gEVrbpkn6Fpdj73dm7oyfEF1DEPz1nm7inihqb+/gDNLr98ISkn0w+0UrMwDHMKWKR0XsY4nLZjJGHfqjFOayvlFMq3tm+J9KNDmeJxiYX8J2CPCLB4dBgZotBgWfg4B1puNXtfXsw8ujZFUTOEAQDfBM8mmnk+Yrr0POiYAVF8oTelWTlhvemcB1Cx6FZRKd+fOXAd0dwoqSOgBBEJKqezc5yThHIsJRxUF6TO;lp5uw8Ih6Z6uDqRq82e4xw=="
 ---
 

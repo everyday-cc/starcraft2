@@ -4,7 +4,7 @@ excerpt: "A coaching session going over my ZvZ guide: http://www.teamliquid.net/
 originalUrl: https://youtube.com/watch?v=EuEa82570Gc
 type: video
 price: Free
-length: PT57M21S
+length: PT57M20S
 publishedDateTime: 2017-02-07T05:14:07Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "SgK2pFt3tZdp3a/TkPuR/ajcbwobEkAOeBNwJAsUgCDFhbn/cEwk1rEcfr1oeUXDl6Qv7E8yFleANpbnDF14N/AKGDAGTGPa6E2fl6qQOPudM13kQP62kMUKD0nuaGcG9mGlwkQTqJ83i+b/2IIO2uZkdUnwhY8Fooa+UI+PTBUC+0G8q/5bZUvvabN+YV660hdbUI6xOabDc0iDFv+8QdR7CTbOWhljvq24Vw56FiqSGZVvp5nGRwgJW/SWA5EJF3E7UFOQ6owHaQeJwNBcShSQY0ZuTGr3erQ8/QPKLzqeOfLB0Y/Os5At8HXA20qv+hWfvrs39Idam98ufUXaXnjO/DgpluYdeNeGV3zMDqYAoH6QaSLndA49VfxhVn/XQXzqBvQlxOA0aTqr8cmJNGbNnQMmMCF1GAUp/etSOx8=;WANRxo+0swS6j5ODPCZWrg=="
+secured: "Blwzho758NUEhhWpX4aOB9Ui4shSlXP62CKHYcTM+6uyBFfZay0J3KgUwnxIf8BlkqIeHJsxthcLgrwXeH73ehyUlDc9nbodvmeuP1VMf9OxFtTdGX2SWgTD5ursR2FZwg/kCr5F9v0MVkREMt4o3/hPMymf1SctOF7a0ywBatSailkZyX1d6yDH11olcHDdrHqQOysAjoyLrhlj6bQOmHlXOCQzP7fTdVF+bjveHmJwGmwA+wvW1G0QeJUa40osoEZ/FMuDC1sAcD7ZdziRnljLhWCoB2FOW993NpeDyVO7jNonzz1oeCt7bgtsIr4eo5wTZN9ZGwptTp+y5bHCbaV2o1MNa7fty6blyd+V2AiHonkKPLMo8Yog4B00t2gq03dPiF4wmYxPsdmrg4uVqadnIsgEYar5K49iAlZUvLk=;1CXAZzjHCIsNglILMhGrRg=="
 ---
 

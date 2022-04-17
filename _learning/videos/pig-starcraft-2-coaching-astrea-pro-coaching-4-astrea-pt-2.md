@@ -4,7 +4,7 @@ excerpt: "Be sure to follow Astrea! https://www.twitch.tv/zastrea https://twitte
 originalUrl: https://youtube.com/watch?v=C5lrukbFQRk
 type: video
 price: Free
-length: PT1H21M33S
+length: PT1H35M44S
 publishedDateTime: 2019-12-12T17:00:04Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "yrpZq+ZP/JrPjcn6903BGKVnGP2IODYeay3i1R6OhmZVt2flfE7nK88oTuz9l5idiJUZ5PB3NQLmCakJE6b9WJjww6HVjonqiZYwkGkCej+XYPjgz9r9oRXHD87Np/fOpQjG6/Dv8a+kP7BKRbnNNwZUYQoLaKqZiVKCksWzkQPo/9LisNKiG23e8bCAQhxzAAmjeNR2IPhci/4/do9xBKCWICFdvQC0FTfsK190sEparK8qpoi8wUNp0Uum7+C8L1Aurr3/6fJevrRpjiRaq9iz+VobbnhJVKIS8J7IYp2aSGrMHsm13GEzbbsc+apiQ7pXzDhvQbHGqucDPLXof2qidti5NtikMXLtKtskBLubanX1TchTyCFLDxJAMx+LLR7FOp4WX3SSlEeWZR83ATxe+pvTyfqsNChsA19Jx24=;iBXWE+j5wUowHzULf/iV7A=="
+secured: "8gK3lChVTAuWPyrInGmRaxPMae7EI9jx/Iv0KOnKxHWx17g+ZJNajCFgG9h/Gc4zQz3LejyD3Z6CN4PeSuo87fIB8yiu6I4cTaU+3hhQWSSMWzADSVlVeSetKOE4f14ba8Y9qWBtaNEyh/APNidjTbZxEgZo6jOhCCdq+qOenr9xGECFCMvQ7WmJ2ATI70ADurs91t0gqM+Oyq0BhXiDwzNE6/0rXH/ZTfbK8SbH5e9o+VuDncLOVMPYqasqFzsl9l9lxZtVO6sruYC3YhrT1BeNf7kFEDXm5AzrgAxH5iKHbRiPaQ59YP0FOAqA+1kjlyeSNSSa+jILvXocvf9fSdcCjXtr9NIL0l7rV2fM+VK0x8BvPm0nQc9/ZKhrZnUBq+sf/O3t8z3TGsIxXH+IQ1kF5rS0aIDE9k6DdJ6zi8M=;8yKqNKKldP7VcX9F7uvtEA=="
 ---
 

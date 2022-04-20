@@ -4,66 +4,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_games/pig-no-country-for-old-probes-unused-upgrades-the-odd-one-liquid-reign-icyfar-g2.md",
-      "title": "No Country for Old Probes - Unused Upgrades? The Odd One Liquid Reign ICYFAR G2",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays that had the least used upgrades!   CURRENT LIQUID REIGN ICYFAR CHALLENGE: “Crash course” - Show us your most stupid and hilarious allins! During Liquid Reign ICYFARs there is a clear set of rules for",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-no-country-for-old-probes-unused-upgrades-the-odd-one-liquid-reign-icyfar-g2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-no-country-for-old-probes-unused-upgrades-the-odd-one-liquid-reign-icyfar-g2/",
-      "originalUrl": "https://youtube.com/watch?v=ieMkdTeQpmA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ieMkdTeQpmA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M30S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ieMkdTeQpmA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-parting-sends-his-regards-from-2012-oldschool-icyfar-g5.md",
-      "title": "“Parting sends his regards from 2012” | Oldschool ICYFAR G5",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they played outdated strats!  NEW ICYFAR CHALLENGE: \"About Tree fiddy” - You can only harass with units totalling 350 minerals e.g. 1 medivac with 5 marines in it or 7 banelings. Or 3 units and",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-parting-sends-his-regards-from-2012-oldschool-icyfar-g5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-parting-sends-his-regards-from-2012-oldschool-icyfar-g5/",
-      "originalUrl": "https://youtube.com/watch?v=u_rdLXmACxc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u_rdLXmACxc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M19S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/u_rdLXmACxc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-phoenix-dt-twitch-plays-pig-43.md",
       "title": "Phoenix DT | Twitch Plays PiG #43",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -434,6 +374,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-04-09T03:23:30-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-a-genius-solution-to-an-unfair-challenge-astrea-vs-special-1-game-pvt.md",
+      "title": "StarCraft 2 - A Genius Solution to an Unfair Challenge | Astrea vs Special (1-game PvT)",
+      "excerpt": "I thought making 2 pro players make just 1 gas all game would give Terran the advantage because they have pretty good basic units, the Marine, but Astrea had other plans! This was played during PiGFest https://www.pigstarcraft.com/about/pig-sty-festival/  -- 🐷 Second Channel for Learning Resources:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-a-genius-solution-to-an-unfair-challenge-astrea-vs-special-1-game-pvt/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-a-genius-solution-to-an-unfair-challenge-astrea-vs-special-1-game-pvt/",
+      "originalUrl": "https://youtube.com/watch?v=yAaRFP55u0w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yAaRFP55u0w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M38S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yAaRFP55u0w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-10-30T19:55:23-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-a-whole-new-world-the-florencio-files-20.md",
@@ -917,6 +888,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-29T09:00:14-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-brood-war-pvz-in-sc2-icyfar-g3-boomer-builds.md",
+      "title": "StarCraft 2 - BROOD WAR PvZ IN SC2! | ICYFAR G3 Boomer Builds",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they bring back strats from yesteryear (Boomer Builds)! Here’s a fun game of protoss versus zerg completing the challenge in humorous fashion.   NEW ICYFAR CHALLENGE: One-Two Punch.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-brood-war-pvz-in-sc2-icyfar-g3-boomer-builds/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-brood-war-pvz-in-sc2-icyfar-g3-boomer-builds/",
+      "originalUrl": "https://youtube.com/watch?v=_HxEEkQn3tA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_HxEEkQn3tA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M28S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_HxEEkQn3tA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
     }
   ],
   "nextPage": 17

@@ -50,7 +50,7 @@
             "StarCraft 2",
             "Zerg"
           ],
-          "heat": 55,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/ut6nCoAXiP4/maxresdefault.jpg",
@@ -89,7 +89,7 @@
             "Terran",
             "Protoss"
           ],
-          "heat": 59,
+          "heat": 57,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/iHS8M4VUwrI/maxresdefault.jpg",
@@ -180,7 +180,7 @@
         }
       ],
       "size": 32,
-      "heat": 66,
+      "heat": 64,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ut6nCoAXiP4/maxresdefault.jpg",
@@ -224,7 +224,7 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 51,
+          "heat": 50,
           "tags": [
             "Cheese",
             "Live"
@@ -292,7 +292,7 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 51,
+          "heat": 50,
           "tags": [
             "Cheese",
             "Live"
@@ -345,7 +345,7 @@
         }
       ],
       "size": 12,
-      "heat": 61,
+      "heat": 60,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Gg-KYV9GWyc/maxresdefault.jpg",
@@ -872,7 +872,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 52,
+          "heat": 51,
           "tags": [
             "Live"
           ],
@@ -1355,7 +1355,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 51,
+          "heat": 50,
           "tags": [
             "Live"
           ],
@@ -1676,7 +1676,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 51,
+          "heat": 50,
           "tags": [
             "Live"
           ],

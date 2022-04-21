@@ -723,14 +723,14 @@
       "publishedDateTime": "2018-07-08T14:50:43-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-planetary-frustrations.md",
-      "title": "StarCraft 2: PLANETARY FRUSTRATIONS!",
-      "excerpt": "An awesome match of Platinum League Terran vs Zerg! Subscribe for more videos: http://lowko.tv/youtube Welcome to Aiur: https://goo.gl/1giyV2  Easily one of the most frustration games of this level of play. While the first ~10 minutes or so are very strong, the followup, after the Plantery Fortress rush",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-planetary-frustrations/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-planetary-frustrations/",
-      "originalUrl": "https://youtube.com/watch?v=2eOkMHi03bk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2eOkMHi03bk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M18S",
+      "path": "_games/lowkotv-starcraft-2-planetary-fortress-cringe.md",
+      "title": "StarCraft 2: PLANETARY FORTRESS CRINGE!",
+      "excerpt": "A very strange game of Silver League Terran vs Terran Subscribe for more videos: http://lowko.tv/youtube The Spine Crawler contain: https://goo.gl/PBczwg  If you have an awesome replay of StarCraft 2 that you think is worth casting, you can send it to replays@lowko.tv.  Support me on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-planetary-fortress-cringe/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-planetary-fortress-cringe/",
+      "originalUrl": "https://youtube.com/watch?v=OsRsnUyNMOE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OsRsnUyNMOE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M55S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -750,7 +750,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2eOkMHi03bk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OsRsnUyNMOE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -758,7 +758,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-07-06T04:04:57-07:00"
+      "publishedDateTime": "2018-10-24T02:03:07-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-plantetary-fortress-push.md",
@@ -988,44 +988,6 @@
       "publishedDateTime": "2020-10-08T03:17:43-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-probe-rush.md",
-      "title": "StarCraft 2: PROBE RUSH!",
-      "excerpt": "After the Drone rush video... It turns out Protoss can do it too! Subscribe for more videos: http://lowko.tv/youtube Drone Rush: https://goo.gl/8EyX2C  Easily one of the craziest matches of StarCraft 2 I have ever casted. In this match, the Protoss decides to go for a Probe rush. However, it doesn't",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-probe-rush/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-probe-rush/",
-      "originalUrl": "https://youtube.com/watch?v=eM3kT7ScShI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eM3kT7ScShI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M56S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eM3kT7ScShI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-02-17T03:59:58-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-probes-snipe-a-hatchery.md",
       "title": "StarCraft 2: PROBES SNIPE A HATCHERY?!",
       "excerpt": "An epic series of Zerg vs Protoss between Zest and Stephano. Subscribe for more videos: http://lowko.tv/youtube Solar vs INnoVation: https://goo.gl/gVzpyJ  Super good series. Both players show very high level of gameplay with engagements going on everywhere. It turns out however, that Probes can snipe",
@@ -1138,6 +1100,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-04-12T04:09:11-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-professional-cheese-cannon-rush-vs-proxy-void-rays-stats-vs-zest.md",
+      "title": "StarCraft 2: PROFESSIONAL CHEESE - Cannon Rush vs Proxy Void Rays! (Stats vs Zest)",
+      "excerpt": "After some great games of Zerg versus Zerg and Terran versus Terran, it is time for Protoss versus Protoss. This is one of the craziest games of high level StarCraft 2 I've seen recently.  Dark vs Serral: https://youtu.be/vD6JmIVTOXo Cure vs ByuN: https://youtu.be/tTX4nFOYqOA  Support my work on Patreon:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-professional-cheese-cannon-rush-vs-proxy-void-rays-stats-vs-zest/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-professional-cheese-cannon-rush-vs-proxy-void-rays-stats-vs-zest/",
+      "originalUrl": "https://youtube.com/watch?v=c07FjaDtY2E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c07FjaDtY2E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/c07FjaDtY2E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-12T02:12:37-08:00"
     }
   ],
   "nextPage": 35

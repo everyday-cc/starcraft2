@@ -4,13 +4,13 @@
   "page": 19,
   "value": [
     {
-      "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2.md",
-      "title": "We paid a Pro to do Troll Builds: Planetary Fortress & Nuke Rush | Twitch Plays Gabe  - StarCraft 2",
-      "excerpt": "We paid Heromarine (Big Gabe) to participate in a Twitch Plays Gabe segment for PiGFest - and he delivered with Planetary Fortress and Nuke Rushes!  https://www.pigstarcraft.com/about/pig-sty-festival/  🐷 https://www.patreon.com/PiGSC2  Heromarine's stream: https://www.twitch.tv/heromarine -- 🐖 Watch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=hbCcY6BPz5o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hbCcY6BPz5o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-meming-with-nukes-twitch-plays-gabe-starcraft-2.md",
+      "title": "We paid a Pro to do Troll Builds: Meming with NUKES | Twitch Plays Gabe  - StarCraft 2",
+      "excerpt": "We paid Heromarine (Big Gabe) to participate in a Twitch Plays Gabe segment for PiGFest - and he delivered NUKES. LOTS OF NUKES.  Heromarine's stream: https://www.twitch.tv/heromarine Vod of this game: https://www.twitch.tv/videos/1188471532?t=08h04m12s -- 🐷 Main Channel: https://www.youtube.com/user/PiGstarcraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-we-paid-a-pro-to-do-troll-builds-meming-with-nukes-twitch-plays-gabe-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-we-paid-a-pro-to-do-troll-builds-meming-with-nukes-twitch-plays-gabe-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=m4WMvTHQQ2Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m4WMvTHQQ2Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT20M19S",
       "provider": {
         "name": "PiG",
@@ -23,7 +23,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hbCcY6BPz5o/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/m4WMvTHQQ2Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -31,7 +31,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-11-01T02:28:19-07:00"
+      "publishedDateTime": "2021-11-26T02:34:02-08:00"
     },
     {
       "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-rush-twitch-plays-astrea-2-starcraft-2.md",
@@ -126,36 +126,6 @@
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
     },
     {
-      "path": "_games/pig-when-you-get-mind-controlled-by-the-mother-of-all-neural-parasites-diamond-in-the-ruff-63.md",
-      "title": "When you get mind controlled by the mother of all Neural Parasites! | Diamond in the Ruff #63",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Zerg opponent when they land the SICKEST neural parasite on all his battle cruisers?!  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-you-get-mind-controlled-by-the-mother-of-all-neural-parasites-diamond-in-the-ruff-63/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-you-get-mind-controlled-by-the-mother-of-all-neural-parasites-diamond-in-the-ruff-63/",
-      "originalUrl": "https://youtube.com/watch?v=_TcT4UccJhk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_TcT4UccJhk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M10S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_TcT4UccJhk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-02-03T11:29:35-08:00"
-    },
-    {
       "path": "_games/pig-wizzing-on-the-church-of-terran-forced-quarantine-icyfar-g4.md",
       "title": "Wizzing on the church of Terran | Forced Quarantine ICYFAR G4",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to contain their opponent as much as possible.  NEW ICYFAR CHALLENGE: \"Spit Balls\" - Harass your opponent even more than that subsitute teacher you made cry in 5th grade. Send submissions",
@@ -184,6 +154,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/sc2hl-banelings-vs-planetary-fortress-maru-vs-leenock-starcraft-2.md",
+      "title": "Banelings vs Planetary Fortress?! - Maru vs Leenock - Starcraft 2",
+      "excerpt": "Maru vs Leenock in an epic Starcraft 2 Terran vs Zerg during the GSL Code S (스타2 ) ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Full VOD: https://www.youtube.com/watch?v=Qm0E2onezc0   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-banelings-vs-planetary-fortress-maru-vs-leenock-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-banelings-vs-planetary-fortress-maru-vs-leenock-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=Ef8dZ7JOMGs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ef8dZ7JOMGs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M25S",
+      "provider": {
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Ef8dZ7JOMGs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-03-06T07:05:01-08:00"
     },
     {
       "path": "_games/sc2hl-battlecruiser-flank-starcraft-2-8-player-ffa.md",
@@ -222,6 +231,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
+    },
+    {
+      "path": "_games/sc2hl-battlecruiser-operational-maru-vs-ty-starcraft-2.md",
+      "title": "BATTLECRUISER OPERATIONAL - Maru vs TY - Starcraft 2",
+      "excerpt": "A great game between Maru and TY, showing some of the highest level terran vs terran gameplay ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload other content, such as trailers & montages.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-battlecruiser-operational-maru-vs-ty-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-battlecruiser-operational-maru-vs-ty-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=EKHhBVON3zY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EKHhBVON3zY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M3S",
+      "provider": {
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EKHhBVON3zY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-10-16T07:21:19-07:00"
     },
     {
       "path": "_games/sc2hl-epic-tvz-firecake-vs-masa-dreamhack-open.md",
@@ -292,44 +339,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/xhIlzNTADhs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-06T07:05:01-08:00"
-    },
-    {
-      "path": "_games/sc2hl-planetary-rush-8-player-starcraft-2-ffa.md",
-      "title": "PLANETARY RUSH?! - 8 PLAYER STARCRAFT 2 FFA",
-      "excerpt": "► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL ► Submit your REPLAYS! - http://bit.ly/SC2HLsubmit   ► SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe   A crazy description   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-planetary-rush-8-player-starcraft-2-ffa/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-planetary-rush-8-player-starcraft-2-ffa/",
-      "originalUrl": "https://youtube.com/watch?v=epCLNMIMbUY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/epCLNMIMbUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M38S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/epCLNMIMbUY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

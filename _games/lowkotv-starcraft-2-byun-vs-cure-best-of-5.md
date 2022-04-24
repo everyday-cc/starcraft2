@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-vs-cure-bes
 type: video
 length: PT1H1M21S
 publishedDateTime: 2021-01-11T12:22:50Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tTX4nFOYqOA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "vIbgcsbJBrCJ9zAKpq4VkGXWfykLZMLhu2FzBke4uOuB4RwoIS/eSI1IkUTFRQqHO3lCu29yUrb8QaqEXYnPtFhQjOr6/6cKKl6GQ8QqjZoULjVOXvbze6vco8xRIAeK4rjAxyvZ2Ra+54P4B4YPMoyeff3wSCmlhYoW8dNSWfW9aRPjTXBqgnDLcb1B9jmqgGbNQ+VsshPN+zGU28vDAUEVIYPOhaYRlsi2AL8ir39E8LSZZmpmOZ7iZgfS6vrkYI3MqXS7RMnIv9ZaZOUJfGTAbqMTQheIUYeMHE+cnXB1bA5izJsmscRF3vKsp8dC7BDQsxbB1ddaBEwCMylyA055GKMhFhIy8yj5ZscgCWX06birS2nVI6hP7Pa55ZRRewHRBT5VbU2YTRc+Fo80lA1/sd5XB8C2cbA4JBFvuBk=;33dhkD/4kenP2ZeRG8PKzw=="
+secured: "kmMy6gv5aRjj1LPTzPUo2/S9pCXIl0vWu8+uG/3WdKcfgoXLtimGag7tj0sQOHz17H09mGMixjhhStwxCR9p9RcDa3EfxAB+aD84VJXHkxXOdgFX1+IG/j9edIP7UVvkl1HIJBfZOvOIBPOPjua/LJtQ25WkFhyx6CBa0I/YMwSdB4fIlSaJwT6D2vmxFg9kPI2RkvPYWKhryFM01Krc9OuDwuuvHbwJJT/DwGoSGbFV4ysNdvWWDb3o4rA+c8TjwnTySMOCzEDNrT7BUE+KkjGs9eqhduEl+XkWg8Q9YakqVjKFO9wjO6eca8MqqLxirLf2ZhjDvH5Ay/gVqZLdN/prxkyP6gsmYEaLPmpoaoOKTKw3lbMIe/cTLlD1UGSyBkc63aQylRyF6LHpa+BdHSieTI74+BaShxPUQ4VAjb0=;xF3WlW4W4ywSvN6C7jJOrA=="
 ---
 

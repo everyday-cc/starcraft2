@@ -828,7 +828,7 @@ items:
   - pig-this-starcraft-player-has-lost-his-mind-salt-mines-1-sc2
   - pig-we-paid-a-pro-to-do-troll-builds-but-he-joined-a-clan-instead-twitch-plays-astrea-5-starcraft-2
   - pig-starcraft-2-florencio-serves-7-course-meal-of-tvz-bs-florencio-files-260
-  - pig-terran-experiment-confuses-zerg-opponent-2-tvz-games-diamond-in-the-ruff-66-starcraft-2
+  - pig-when-the-terran-build-confuses-the-zerg-player-2-tvz-games-diamond-in-the-ruff-66-starcraft-2
   - pig-fans-trash-talking-ufc-fighters
   - pig-starcraft-2-thors-widow-mines-sad-protoss-3-games-diamond-in-the-ruff-67
   - pig-starcraft-2-i-am-sorry-to-diamond-players-everwhere-guess-the-mmr-1
@@ -842,7 +842,8 @@ items:
   - pig-pig-im-a-baboon-i-know-nothing-about-starcraft-guess-the-mmr-2
   - pig-when-you-face-the-chaos-lord-of-na-ladder-mayhem-ensues-diamond-in-the-ruff-70-starcraft-2
   - pig-starcraft-2-can-marubyun-fend-off-the-na-clowns-in-an-epic-2v2-pig-reacts
-  - pig-starcraft-2-stuck-between-a-tempest-and-a-cannon-place-florencio-files-264
+  - pig-starcraft-2-flo-pushes-the-limits-of-one-base-play-florencio-files-264
+  - pig-starcraft-2-flo-maxes-out-ground-attack-for-his-skytoss-facepalm-florencio-files-265
 
 topics:
   - StarCraft 2

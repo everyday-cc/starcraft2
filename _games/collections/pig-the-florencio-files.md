@@ -272,7 +272,8 @@ items:
   - pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261
   - pig-starcraft-2-the-sewer-mermaid-has-evolved-florencio-files-262
   - pig-starcraft-2-flo-sits-on-his-balls-ouch-florencio-files-263
-  - pig-starcraft-2-stuck-between-a-tempest-and-a-cannon-place-florencio-files-264
+  - pig-starcraft-2-flo-pushes-the-limits-of-one-base-play-florencio-files-264
+  - pig-starcraft-2-flo-maxes-out-ground-attack-for-his-skytoss-facepalm-florencio-files-265
 
 topics:
   - StarCraft 2

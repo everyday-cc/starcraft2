@@ -275,14 +275,14 @@
       "publishedDateTime": "2022-04-12T02:27:10-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-new-patch-is-live-zerg-vs-protoss-is-good-hero-vs-rogue.md",
-      "title": "StarCraft 2: NEW PATCH IS LIVE - Zerg vs Protoss is GOOD?! (herO vs Rogue)",
-      "excerpt": "The new multiplayer balance patch is finally live in StarCraft 2. In this best-of-5 series I cast a Zerg versus Protoss between herO and Rogue. The new patch primarily addresses this ZvP matchup, nerfing Shield Batteries, Dark Templar, Queens, Lurkers, Void Rays and buffing the Nydus Worm slightly.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-patch-is-live-zerg-vs-protoss-is-good-hero-vs-rogue/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-patch-is-live-zerg-vs-protoss-is-good-hero-vs-rogue/",
-      "originalUrl": "https://youtube.com/watch?v=MPrpq-p0EM8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MPrpq-p0EM8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M4S",
+      "path": "_games/lowkotv-starcraft-2-astreas-amazing-protoss-build-orders-best-of-3-vs-lambo.md",
+      "title": "StarCraft 2: Astrea's AMAZING Protoss Build Orders! (Best-of-3 vs Lambo)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between Astrea (Protoss) and Lambo (Zerg). Astrea has been playing some crazy Protoss strategies, and this series is no different.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-astreas-amazing-protoss-build-orders-best-of-3-vs-lambo/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-astreas-amazing-protoss-build-orders-best-of-3-vs-lambo/",
+      "originalUrl": "https://youtube.com/watch?v=Avb3qbMZEXg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Avb3qbMZEXg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M44S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -297,10 +297,9 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
-        "Zerg"
+        "Protoss"
       ],
-      "heat": 121,
+      "heat": 123,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -311,7 +310,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-03-21T05:40:18-07:00"
+      "publishedDateTime": "2022-03-08T02:14:55-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-epic-match-the-actual-game-of-the-year-clem-vs-showtime.md",
@@ -582,7 +581,7 @@
         "Protoss",
         "Zerg"
       ],
-      "heat": 84,
+      "heat": 79,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -620,7 +619,7 @@
         "StarCraft 2",
         "Protoss"
       ],
-      "heat": 83,
+      "heat": 75,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -658,7 +657,7 @@
         "StarCraft 2",
         "Protoss"
       ],
-      "heat": 76,
+      "heat": 75,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -911,44 +910,6 @@
       "publishedDateTime": "2021-09-24T01:39:41-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-astreas-amazing-protoss-build-orders-best-of-3-vs-lambo.md",
-      "title": "StarCraft 2: Astrea's AMAZING Protoss Build Orders! (Best-of-3 vs Lambo)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between Astrea (Protoss) and Lambo (Zerg). Astrea has been playing some crazy Protoss strategies, and this series is no different.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-astreas-amazing-protoss-build-orders-best-of-3-vs-lambo/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-astreas-amazing-protoss-build-orders-best-of-3-vs-lambo/",
-      "originalUrl": "https://youtube.com/watch?v=Avb3qbMZEXg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Avb3qbMZEXg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M44S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-03-08T02:14:55-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-zerg-mothership.md",
       "title": "StarCraft 2: THE ZERG... MOTHERSHIP?!",
       "excerpt": "Turns out Neural Parasite is pretty good... If used correctly. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Protoss: https://goo.gl/qeUdf6  A very fun match of Gold League Zerg versus Protoss. In this game the Zerg player decides to go for a strategy that is a little uncommon. Eventually,",
@@ -986,6 +947,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-01-04T03:39:21-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-new-patch-is-live-zerg-vs-protoss-is-good-hero-vs-rogue.md",
+      "title": "StarCraft 2: NEW PATCH IS LIVE - Zerg vs Protoss is GOOD?! (herO vs Rogue)",
+      "excerpt": "The new multiplayer balance patch is finally live in StarCraft 2. In this best-of-5 series I cast a Zerg versus Protoss between herO and Rogue. The new patch primarily addresses this ZvP matchup, nerfing Shield Batteries, Dark Templar, Queens, Lurkers, Void Rays and buffing the Nydus Worm slightly.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-patch-is-live-zerg-vs-protoss-is-good-hero-vs-rogue/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-patch-is-live-zerg-vs-protoss-is-good-hero-vs-rogue/",
+      "originalUrl": "https://youtube.com/watch?v=MPrpq-p0EM8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MPrpq-p0EM8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M4S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-03-21T05:40:18-07:00"
     },
     {
       "path": "_games/collections/beastyqtsc2-cannon-rushing-to-grandmaster-series.md",

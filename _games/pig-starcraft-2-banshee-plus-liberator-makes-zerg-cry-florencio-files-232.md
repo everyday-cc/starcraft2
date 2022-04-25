@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=B1f9KfZcHFE
 type: video
 length: PT22M23S
 publishedDateTime: 2021-08-02T00:27:59Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B1f9KfZcHFE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "H9HKhKvhWWGUz73oXs+xf+nJ14u62F3KvsneN+5Td8JkZvB+TB0NXHjEHOQ++pRJnUrlpBQk1R3UBpp3CM2zdvS8n5m1ho8Mb7Bp38+P7xxj9jzoQ4k1a16XzlVTaRPn2vMZoV1RAa0IwEoWojWyjfpjxldUqOTyAt7XqCHShWCcD3DU1Z2EaVJcogKrnq1YsOfTdUFgNPmbw86o1ZsTQpjVIsuakQTPn94nQtuP4nGBRdz6qQMGh9JiPRRgLuw13UxtTqIanPXCrAG5VI6FMuq5MLYl9/acDaq/D6CzEWEVz+wT5hrHBlx7g9/kfvfArw6UbL6U46JxKL8Lzzc2JKFaslnRRNv0IsSKYflvfYE61AYBbZ8M6IQlQ0n3vKEzl6YYxrHyG/L2zcNC+MyAEX+Ztew4IwdFGhPfyV1NAyQ=;qvxrDgWIXm23nnseX/VAXA=="
+secured: "KX0trq64itQhOxg11iyYXB82sCR4HzJuCfpMVcOALd5h1Fv7kIVtCFiBUSKLdGH1OcshUStUwBzdUwu5lCuEGA9raF3vCdPKFk/jReq80QqWR9aVki8uHBOKhb10QZClqzjGKfwAPqTuBatSrVdU2YP3HUBlRepx5P8cprAsrZL+tEY5/xDLIIw7hu2DSOaKR4rSP1M3CO2ARmQNdvXZ+ftCC1MM+G76rZGoYov1/KOL6wvOQAXaQR+Z4x048zanzvUE+CwK/gRUQnsVT/J+3VYQaiWz8g3vtq1FKdbI/8u9YXtCU6fdtJwwTVSPq7VVlDojn/zdVe+UDsOrTt8owqlxXOmlMg1XiGqkxOgHwvOCWWIAnrYc5bCKSiXa4yGveiVt8up/X9qHEH+UOVRcsgBSh1Gqm62X6V9Y2AnZtI0=;ZIrC3qjSJYZ3fi5sslfdgg=="
 ---
 

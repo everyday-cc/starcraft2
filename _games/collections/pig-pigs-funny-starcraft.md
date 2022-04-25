@@ -844,6 +844,7 @@ items:
   - pig-starcraft-2-can-marubyun-fend-off-the-na-clowns-in-an-epic-2v2-pig-reacts
   - pig-starcraft-2-flo-pushes-the-limits-of-one-base-play-florencio-files-264
   - pig-starcraft-2-flo-maxes-out-ground-attack-for-his-skytoss-facepalm-florencio-files-265
+  - pig-starcraft-2-mass-ghosts-are-imba-against-f2-zergs-diamond-in-the-ruff-71
 
 topics:
   - StarCraft 2

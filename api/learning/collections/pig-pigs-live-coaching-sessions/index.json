@@ -1121,7 +1121,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2020-06-05T14:00:03-07:00",
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -1245,7 +1245,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2020-05-30T04:00:21-07:00",
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",

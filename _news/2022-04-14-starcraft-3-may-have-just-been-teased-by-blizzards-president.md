@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dexerto.com/gaming/starcraft-3-may-have-just-been-teased
 cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/gaming/starcraft-3-may-have-just-been-teased-by-blizzards-president-1804536/?amp"
 type: article
 quality: 57
-heat: 82
+heat: 83
 published: true
 
 provider:

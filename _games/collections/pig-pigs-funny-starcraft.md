@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 63
+heat: 61
 
 provider:
   name: PiG
@@ -846,6 +846,7 @@ items:
   - pig-starcraft-2-flo-maxes-out-ground-attack-for-his-skytoss-facepalm-florencio-files-265
   - pig-starcraft-2-mass-ghosts-are-imba-against-f2-zergs-diamond-in-the-ruff-71
   - pig-creative-insults-in-starcraft-salt-mines-3
+  - pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-seige-tactics-g1
 
 topics:
   - StarCraft 2

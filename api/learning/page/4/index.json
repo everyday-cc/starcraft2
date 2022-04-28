@@ -4,6 +4,36 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/videos/pig-the-pig-daily-32-learning-how-to-scout-beginner-basics.md",
+      "title": "The PiG Daily #32 - Learning How to Scout - Beginner Basics",
+      "excerpt": "\"Blood Sacrifice\" a unit has to die every minute of the game. Submit replays to eonblu95@gmail.com as attachment. Latest submission is before the monday(US/EU) / tuesday(AUS) daily. (Note: You may need to kill one or two of your own workers in the earlygame to appease the gods)\r Full Playlist of Daily",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-the-pig-daily-32-learning-how-to-scout-beginner-basics/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-the-pig-daily-32-learning-how-to-scout-beginner-basics/",
+      "originalUrl": "https://youtube.com/watch?v=_Q4U56OaKGs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Q4U56OaKGs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT53M35S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2016-07-04T00:18:46-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_Q4U56OaKGs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/winterstarcraft-learn-starcraft-tip-2-camera-hotkeys.md",
       "title": "Learn Starcraft Tip #2 - Camera Hotkeys",
       "excerpt": "Useful for all races almost all of the time :) More detailed guides/tutorials under the learn to play starcraft playlist.",
@@ -888,37 +918,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Bo61A-koxDE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-easy-micro-techniques-mostly-to-wreck-zergs.md",
-      "title": "Mastering Starcraft 2: Easy micro techniques (mostly) to WRECK zergs",
-      "excerpt": "In this episode of the mini-series Hyper-Aggressive TvZ we take a look at some micro techniques you can use in your own games to significantly improve the performance of your army. Just don't forget to macro xD  Mastering Starcraft 2: Easy micro techniques (mostly) to WRECK zergs #StarCraft2 #Terran",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-easy-micro-techniques-mostly-to-wreck-zergs/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-easy-micro-techniques-mostly-to-wreck-zergs/",
-      "originalUrl": "https://youtube.com/watch?v=bnT1opNwMQQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bnT1opNwMQQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M24S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-20T19:06:02-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bnT1opNwMQQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

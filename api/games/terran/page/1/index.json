@@ -197,14 +197,14 @@
       "publishedDateTime": "2021-12-24T13:58:31-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-unexpected-zerg-unit-switches-armani-vs-gumiho.md",
-      "title": "StarCraft 2: UNEXPECTED Zerg Unit Switches! (Armani vs GuMiho)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between Armani (Zerg) and GuMiho (Terran).  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips: https://www.youtube.com/lowkoclips  Be part of the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-unexpected-zerg-unit-switches-armani-vs-gumiho/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-unexpected-zerg-unit-switches-armani-vs-gumiho/",
-      "originalUrl": "https://youtube.com/watch?v=K9b9SnM_6A8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K9b9SnM_6A8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M19S",
+      "path": "_games/lowkotv-starcraft-2-marus-plays-tactical-nukes-vs-zoun.md",
+      "title": "StarCraft 2: Maru's Plays TACTICAL NUKES vs Zoun!",
+      "excerpt": "Professional match of StarCraft 2 from IEM Katowice between Maru (Terran) and Zoun (Protoss).  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips: https://www.youtube.com/lowkoclips  Be part",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marus-plays-tactical-nukes-vs-zoun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marus-plays-tactical-nukes-vs-zoun/",
+      "originalUrl": "https://youtube.com/watch?v=E3bnrkBwddw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E3bnrkBwddw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M19S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -219,10 +219,9 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
-        "Zerg"
+        "Terran"
       ],
-      "heat": 111,
+      "heat": 113,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -233,7 +232,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-02-09T08:08:23-08:00"
+      "publishedDateTime": "2022-03-10T03:56:04-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-mass-ghosts-are-imba-against-f2-zergs-diamond-in-the-ruff-71.md",
@@ -336,6 +335,44 @@
       "publishedDateTime": "2022-03-03T19:13:33-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-byuns-mass-battlecruiser-vs-nightmare.md",
+      "title": "StarCraft 2: ByuN's MASS BATTLECRUISER vs NightMare!",
+      "excerpt": "Professional match of StarCraft 2 between ByuN (Terran) and NightMare (Protoss). Both players make mistakes in this game, and because of that the game goes the distance. Allowing the Protoss to get maxed on Sky Toss and Terran on Sky Terran.  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-mass-battlecruiser-vs-nightmare/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-mass-battlecruiser-vs-nightmare/",
+      "originalUrl": "https://youtube.com/watch?v=8M7a3-duzyQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8M7a3-duzyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 79,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-04-11T02:20:32-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-innovation.md",
       "title": "StarCraft 2: Serral vs INnoVation!",
       "excerpt": "Who is the greatest StarCraft 2 player of all time? In the beginning of this game between Serral and INnoVation I discuss the players that are in my opinion up for the title of being the Greatest Of All Time.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community",
@@ -373,44 +410,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-08-19T04:11:17-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-byuns-mass-battlecruiser-vs-nightmare.md",
-      "title": "StarCraft 2: ByuN's MASS BATTLECRUISER vs NightMare!",
-      "excerpt": "Professional match of StarCraft 2 between ByuN (Terran) and NightMare (Protoss). Both players make mistakes in this game, and because of that the game goes the distance. Allowing the Protoss to get maxed on Sky Toss and Terran on Sky Terran.  Support my work on Patreon: https://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-mass-battlecruiser-vs-nightmare/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-mass-battlecruiser-vs-nightmare/",
-      "originalUrl": "https://youtube.com/watch?v=8M7a3-duzyQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8M7a3-duzyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 77,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-04-11T02:20:32-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul.md",

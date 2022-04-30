@@ -3,7 +3,7 @@ title: "THE MOVES THEY NEVER SEE COMING | Diamond in the Ruff #33 Double Special
 excerpt: "How will he ruff up his Protoss opponent? 🐷 Support PiG: https://www.patreon.com/PiGSC2  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13 | https://www.youtube.com/ruff_stuff -- 🐖 Watch"
 originalUrl: https://youtube.com/watch?v=q1GJkA5ii_I
 type: video
-length: PT17M26S
+length: PT18M58S
 publishedDateTime: 2021-01-25T23:03:23Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "d+yqHk+BW38/vtm1VjPdnguhzyokEvceZAwYcQaJFTUO1C6WRiZ9nKdiC72nJTsLth+HYcji8ZaAnhD10zPr1leVPNttqFEG3OopOdYlVdVejAN6TEkk1N/B+2yTXE49kc95EdpI3oVMsDTaM7bTDahhS1HPC6sjDuMINUf5ukp2suvuAMv/WW0h2r32pwr4hpy6ZrvWrRNdFtvKSoowWfXK0wjYvUXXqEUPxSQ7u4E1hDQxFPjajSs6mngFmrZbV214b0/3rZ6JkRhxAuu5o4zD/mgoj4goow4pZpRJrINsQn4SdsOOdpbJ1p6TVQhxtc8xWPkfHDwP2H7RcqFrkAAzAF4alls+q48H7FPuQIO4YIcJoORNzYd/FGU7oKUEX9s/Zxvno4DDYh8nd1EL3GZudGmUGh4sBk15hb5D6T0=;0Hb4Lda+Tx2olgRdYgX0KA=="
+secured: "hTqGbbbMNexBEnIVXoxO5VG6+XB/bF4lgX2LvsUKwpi+8UmAFgUjuV2Xrdry6wlynUUewAhbqG30u45cgJ/M3SuDjgv5nJ8ELUpZsgRPCpjHDT6+d8rJnEa9LB8nAFWDibvy39+SvE+vLQ4CNCN9BWXU4MfcwpfZ1ifHib+zH1h+mSSBn+t6XJFent67SV5hSq6+MlrYbzgJLcCtJNebv4/lWEuLG0VqBNommD1P+E9HZzu3/x+Be1DM1crSQkubw6EN57otgvTsmL80VN5aWuFMdoUpsXltOtWhTooO91mOTCcHiiM0GS7zV67hkLk5TmMnO1lx/Jhe73UxvmkiOOTmbJVq/rof0fZErLPCa09JZeD+f3IV6HKD4dCleXsUF3X8fDABfprhhCs/gPJhUCMNFSR2NL20zpMUO6punJk=;1abckKNUQy3vHP6+ocL69Q=="
 ---
 

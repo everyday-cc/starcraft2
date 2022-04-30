@@ -3,9 +3,9 @@ title: "StarCraft 2 - RUFF SHOWS HOW TO BUST A WALL | Diamond in the Ruff #34"
 excerpt: "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran opponent? 🐷 Support PiG: http://paypal.me/PiGSC2 | https://www.patreon.com/PiGSC2  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l"
 originalUrl: https://youtube.com/watch?v=qcEz4epaeXI
 type: video
-length: PT5M25S
+length: PT6M47S
 publishedDateTime: 2021-02-10T09:31:52Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qcEz4epaeXI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "4qCSxIZUsWPyTyy2djY76ROoLt4Gs6WgxZrHOZlylXxbUymG2HNL03YIPGyv7cBKC337Bcipw5A6xiXkdJt5GaTijgI9XEwqmtOYWasGSBJ7bNhqTyKBcRbO3zbET6ZVKav6X/8Fp6iohzRsncB+g1c28Z6MqhQcjKml+Hc4g45aaUNQwt9dYBaLxnobEQPCuyST3sqoN50vqnqUb8k06a6jYQzf2XPiARs2DQ3fU3L/LEsZMGwVCILkcfEZ7MaV2oxSp2F2zMp4vzkrnupqwDnYLz1KO4sYjDqrehe8HbWRxDcFmG+GM99Ln0/JrE/El6+DGYKHH1B/92eF/ZEcwgyxEZRbyjjtxv5Iz6NQoCu6CFWRLhFKphqfjLdCYexkdxzuxjzopgpO4SMP8LOgKDXXbLKwr765Z47fMEquuV8=;UPYdVFWXd0P+jXOEMkTB4Q=="
+secured: "MRx3csvzHtcMHjYuYUOaaNpXssXMrktF/NULheur2qJjfvw3u3dr2nul+aXpdmFfAMjj0ByYRYRXpm2mwi0Pr41JvIXt+gZ5VCSl6x9rTfQ8KLbN8/N7CzxQxPwlHbfUjycwaEUgC9ESZ5YxEt8w5FHinJVhyK4O2rj0vdCnHZdeTSJZVyvkW2nXqW3PU3EGutEf08cSYFt42rCCjKwJlvSn+eq4lWG8RNB0CEGk3U0+spiIldYlMfi4Noe2CV3F8Y3pt81AUFQ/a3snqfzyktuTeq6FFG8gDXTYXTXZxHaoZELANXgCOsdOwKGWHhboqJPhH6M+eqqYRZd5o5TUo++5PZQer0xrgk/bCmrF5n1iJPOyfC39MP+/Z5MlmpOn1YumQk4sYC21cgVfLRT17Mau07a8XN5NtfKb/tt1iCg=;b0ywCaAX6Jnzp4uhyquqnA=="
 ---
 

@@ -274,6 +274,7 @@ items:
   - pig-starcraft-2-flo-sits-on-his-balls-ouch-florencio-files-263
   - pig-starcraft-2-flo-pushes-the-limits-of-one-base-play-florencio-files-264
   - pig-starcraft-2-flo-maxes-out-ground-attack-for-his-skytoss-facepalm-florencio-files-265
+  - pig-starcraft-2-flo-discovers-mass-cyclones-florencio-files-266
 
 topics:
   - StarCraft 2

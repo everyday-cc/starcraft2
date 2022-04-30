@@ -847,6 +847,7 @@ items:
   - pig-creative-insults-in-starcraft-salt-mines-3
   - pig-starcraft-2-proxy-hatch-and-burrow-is-this-a-new-dumb-zvt-build-icyfar-siege-tactics-g2
   - pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-siege-tactics-g1
+  - pig-starcraft-2-flo-discovers-mass-cyclones-florencio-files-266
 
 topics:
   - StarCraft 2

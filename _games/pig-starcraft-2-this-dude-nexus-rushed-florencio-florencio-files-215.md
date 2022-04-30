@@ -3,9 +3,9 @@ title: "StarCraft 2 - THIS DUDE NEXUS RUSHED FLORENCIO! | Florencio Files #215"
 excerpt: "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk"
 originalUrl: https://youtube.com/watch?v=MyD5W7sZaJ8
 type: video
-length: PT32M39S
+length: PT32M50S
 publishedDateTime: 2021-03-06T06:30:53Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MyD5W7sZaJ8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Yme/sGY1m4KFYA1CTyA+n7aqzZj1m5W9irRrenmW+gm4UzPjlQ/2UkBj5ztcP09bHCbFqfkJwo2i6/ciSo+5hAD0fg3bgN2OTBGoekYebWyl3fW20uf2tJU4tShQTM7WLsfM3IWYqQ+WHJRt5Nu7xJeFBJwROAJEKD4JIMoeQuGHIAWyLGfNXpAngRU1KMc3Tok2kVI2psb5bIRemIPobovt+s2KzbxLapbGpS34vbZdH362rf53qMZ84uozvMTAj9AI3GcypsIEbuhFQxhVxhAYiqeCLvQUg2bPAXsarTrIXAymYzmT1E0Hcj70Q066flF4iDBbQnZvINZVL6wYTRNLIFX/9VF3MjuUCpo2qytOo3kBoUwN/+bWSijmtzsI2N5kOeI8OsLIQ0N6w3nJZME6jknbOGrM32W51ORzufo=;9DlUF/6h+0vIuEuf3cU52w=="
+secured: "s5vd0G08m6/VM2UtgDZwUfWvA1mY3VmNuugVo0U74EL9FNQmfWpwlI9F8IFhr/wW0Z0ByO0g4bwXkFi4G4r0ladhdH2WAD6cCKHJBlDexusTjjHbaWrNd8K+Nng9J6eQXk5g9s0PJhao24EAFELjTNy8KQA930xQzc7gdBUamdEgG/v4OZUdOpIRs2lscfHZOIbgLIWBYwJl9ASfnvHkELKhlNyYR/htQsU1qUWXeJc8/JCp82La2uLzCsg2l3pOcllvMWDAmL8AcbN1IHATDVjz0nR0FLJJqWsS5XTdS9igwnJ2YxWSGXVr1SOzebDnnfWrnoAQf52laGh7QiV+vgLFcmq6/M1sQxRzjD6BCQOCWpgqVX87Kt14yTRlQKzkKoSQMFV7iB6WfYfNQpQosoNMbMWE7H1hvJs+8JxLq2g=;9qp1XpnOYTLM2EW+O6U9uQ=="
 ---
 

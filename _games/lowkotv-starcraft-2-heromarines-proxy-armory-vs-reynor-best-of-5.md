@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=7R1fp3_7pUo
 type: video
 length: PT35M53S
 publishedDateTime: 2021-06-21T10:26:02Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7R1fp3_7pUo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1xcQyzDwMuryiuzVJsMZprfSbqtwL3IHMfRHulOSv88EU4wV561pJlaAMeaH5z+t8bN+fXi0l9kA7OtHPkqC7BVkjKiHpdSgOvTm9024Pc9J1LiZs8Jx2x03ip/9+xdAA/Zaxl5KCaoXNFl9EHCUZrpElRmSwXxBmL0cTDhxLNFviovINQTDosZAgu3lRQKQsdzvdKcR13tpsP/MQGr46PHsBeLCqX2Gx5zZKBkJ/rIqqIToWlJ+I1G3Azbv5ax3XHGxdylHfyx93sgMcAP6ikuJ1nXm4RC5hicXkj9B2LuzQJ3kSFEdOAY934obxUjjf813cZXae86zEPWok2ONyEfaoGqxEHBNdOO0YW6Mpxf2kz3thRnZ+4fisiejuKhkJKn8Q8548Yk6ZsohUm84Suslwh13fIP/X2Q1rQbPWnSTk0UlyXnKcRLDMvLPde84;pED7h4718oGfaAxmOWdi9Q=="
+secured: "A/Nejdy+hGWkpwAw7EFmCMstwkc399woLds2UZVaXJ2EkWTwagP9bIzmr6lGhw0dKNBJYtXCekcOOgidM7tEd87uYzpxUlbKHG+CByYbkaw1tHY1ljYGcFRSA6ceptJqpOMCwx2NkgSsxh4R5dG838txswhfWB7Qucay3fgIiv6YDEteCRLzNvWyBItBaFTYAovoYn1OKKGD0YpJqUH69cUv2mMAryp1N/z5nj4JuiynAnykDurHdJE9dZxG2mIIh6/t6jyVUgorY0z9L38QsF+iEYmZqcerjOtZ4rcJuCFWvrbcuwFeA8WhUVdVLs2BKBMJHijRW0g+S+ncoLY1gjOLBS5c7yVHy/iQxlOixJ9HYFuvsHLkRqo+VBf3r/eVhBgENaBI1Uu60oWNWvH3E8WBgFwj9xmZxfIkgzEbrLWUQBwP4Z8OwNzR3mWI7DoF;+ZiOfWNpy+gZdr7bQUP3Tw=="
 ---
 

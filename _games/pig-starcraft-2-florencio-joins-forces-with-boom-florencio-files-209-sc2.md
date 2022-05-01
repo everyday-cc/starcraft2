@@ -3,9 +3,9 @@ title: "StarCraft 2 - FLORENCIO JOINS FORCES WITH BOOM | Florencio Files #209 - 
 excerpt: "Florencio struggled to win back the Sewers from the Squatters, so he enlisted BOOM'S help. With their forces combined they battled against 5 Sewer Squatters at once, then another 3 of them in a ridiculous All Races Mod map that hurt my smooth brain to cast. We played this out live on stream against fans"
 originalUrl: https://youtube.com/watch?v=W-EbwlbZ2pY
 type: video
-length: PT32M19S
+length: PT32M45S
 publishedDateTime: 2021-02-05T03:14:52Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W-EbwlbZ2pY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "S9/jQmNcahoBX/yTnbwYZ9jPVSytyqVv0cVEAnje9xtWvHY9O08lAmCX8KRKuGmKihQUJaarw2MD+aW8ZD63EgN/WZex/GI97lLMbRCjXoL2u6bbws3lPzU1JtOiz8NPQ7K9W4AE1WDbcx4A2Cg+eo87b582Ob1IPs3sLUAMEtbEmQhrDcrjpxEgnZ4uVntz08GLGc5pDkaF5PATi9ZgcfUDCB7ZyqINofc1Qf9paMeo8Smb7xtWu2kggjAAesKXzB5hZcUecBOfSuD/Jmu2FZ7bKBSHO9gTrhrA/3yqGY+T3lX6icmArXW4N/rSIQNTyS6ximNKR+/dvy5zRCb5ztqOXo178sqO3EB0CKqunxPIH0dL30LlSK+BosRhuoyXHZ4ehV4KHtXDLREmXOEmGIIOKTcWE7+JKfWxN4gOBW0=;Jadva3CPMTzYJ2Y3imY1lQ=="
+secured: "sm0JTD3qOALpU6uCP9eH4ai5lm+u4Ryn9/LnYlJdYy9UUqFi44WmsTmj4F9j7b0zjh+Iqb8BDmPLpTtiis5uTdn+rEroE/qKdyqxnhmpvEz0SDWxeOAN8huFlzTyr5Dv8Wrtm3kGZ98HbOb4IzRmNM7hx/nRnNM0l09rJ5LWcpdicuHKkqsWPJz8ZJgMuNB5qs7LLCIUkYA+76sOU2zYnRKTHFN2uqZBTEX8ShApjwKRTX2oZzeE40r08tZqcgJI0LJNjJZjewXRkVKiFBvvQAYq3VCbh48NUFc6lKJ9bpspQNcSGT1pN4SRnRFEPfgvgLcV1IDwWHX1UG++cE3fY2HzQZNL+lZiR5Tqx+3lookB8zCVLREbVNCWxsHc4Urbhece4gDkJlOzMLvruonNfgy84az0rIiGEl3YpOTTd6E=;vntUBNX6aEliP6OBcIQRgA=="
 ---
 

@@ -842,11 +842,12 @@ items:
   - pig-when-you-face-the-chaos-lord-of-na-ladder-mayhem-ensues-diamond-in-the-ruff-70-starcraft-2
   - pig-starcraft-2-can-marubyun-fend-off-the-na-clowns-in-an-epic-2v2-pig-reacts
   - pig-starcraft-2-flo-pushes-the-limits-of-one-base-play-florencio-files-264
-  - pig-starcraft-2-flo-maxes-out-ground-attack-for-his-skytoss-facepalm-florencio-files-265
+  - pig-starcraft-2-flo-maxed-out-upgrades-for-the-wrong-units-florencio-files-265
   - pig-starcraft-2-mass-ghosts-are-imba-against-f2-zergs-diamond-in-the-ruff-71
   - pig-creative-insults-in-starcraft-salt-mines-3
   - pig-starcraft-2-proxy-hatch-and-burrow-is-this-a-new-dumb-zvt-build-icyfar-siege-tactics-g2
   - pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-siege-tactics-g1
+  - pig-starcraft-2-lowko-is-an-f2-zerg-350-apm-0-control-groups
   - pig-starcraft-2-flo-discovers-mass-cyclones-florencio-files-266
 
 topics:

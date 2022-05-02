@@ -4,6 +4,66 @@
   "page": 16,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-just-do-this-build-and-win-100-the-florencio-files-21.md",
+      "title": "StarCraft 2 - “Just do this build and win 100%” | The Florencio Files #21",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-just-do-this-build-and-win-100-the-florencio-files-21/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-just-do-this-build-and-win-100-the-florencio-files-21/",
+      "originalUrl": "https://youtube.com/watch?v=OZLRSehKPzo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OZLRSehKPzo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M17S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OZLRSehKPzo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-09-22T15:04:40-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-mass-battlecruiser-diamond-in-the-ruff-17.md",
+      "title": "StarCraft 2 - Mass Battlecruiser! | Diamond in the Ruff #17",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. His Protoss opponent gets a bit... mad.  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13 | https://www.youtube.com/ruff_stuff",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-mass-battlecruiser-diamond-in-the-ruff-17/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-mass-battlecruiser-diamond-in-the-ruff-17/",
+      "originalUrl": "https://youtube.com/watch?v=aMEVKgEP1rg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aMEVKgEP1rg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M37S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aMEVKgEP1rg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-23T09:00:01-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-massive-splash-damage-the-florencio-files-159.md",
       "title": "StarCraft 2 - MASSIVE SPLASH DAMAGE | The Florencio Files #159",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
@@ -575,37 +635,6 @@
       "publishedDateTime": "2021-09-09T18:48:13-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-thors-widow-mines-sad-protoss-3-games-diamond-in-the-ruff-67.md",
-      "title": "StarCraft 2 - Thors + Widow Mines = SAD PROTOSS (3-games) | Diamond in the Ruff #67",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran opponent? With thors and widow mines  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-thors-widow-mines-sad-protoss-3-games-diamond-in-the-ruff-67/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-thors-widow-mines-sad-protoss-3-games-diamond-in-the-ruff-67/",
-      "originalUrl": "https://youtube.com/watch?v=jWtrQTtCR5w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jWtrQTtCR5w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M17S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-03-21T00:01:41-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-unbelievable-battlecruiser-vs-skytoss-war-diamond-in-the-ruff-37.md",
       "title": "StarCraft 2 - Unbelievable Battlecruiser vs Skytoss WAR! | Diamond in the Ruff #37",
       "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent? 🐷 Support PiG: https://www.pigstarcraft.com/support/  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow",
@@ -875,36 +904,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-09-11T20:56:15-07:00"
-    },
-    {
-      "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-rush-twitch-plays-astrea-2-starcraft-2.md",
-      "title": "We paid a Pro to do Troll Builds: Planetary Fortress Rush | Twitch Plays Astrea #2 - StarCraft 2",
-      "excerpt": "We paid Astrea to do some Troll builds on ladder, this time a Planetary Fortress Rush - everyone's favourite request! Like the Thundershaft that he is, he used his Rank 1 account and wowed us all with his skills  Follow Astrea's Twitch: https://www.twitch.tv/zastrea -- 🐷 Second Channel for Learning",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-rush-twitch-plays-astrea-2-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-rush-twitch-plays-astrea-2-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=E3vEXfMFMyI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E3vEXfMFMyI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M40S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-02-14T20:07:43-08:00"
     }
   ],
   "nextPage": 17

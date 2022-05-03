@@ -80,6 +80,7 @@ items:
   - pig-starcraft-2-chaotic-cheese-compilation-diamond-in-the-ruff-69
   - pig-when-you-face-the-chaos-lord-of-na-ladder-mayhem-ensues-diamond-in-the-ruff-70-starcraft-2
   - pig-starcraft-2-mass-ghosts-are-imba-against-f2-zergs-diamond-in-the-ruff-71
+  - pig-starcraft-2-when-troll-strats-ruin-your-economy-diamond-in-the-ruff-72
 
 topics:
   - StarCraft 2

@@ -1,0 +1,28 @@
+---
+title: "StarCraft 2 - When TROLL STRATS ruin your economy | Diamond in the Ruff #72"
+excerpt: "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Zerg opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff"
+originalUrl: https://youtube.com/watch?v=4A01Z-xwidQ
+type: video
+length: PT18M39S
+publishedDateTime: 2022-05-03T01:51:47Z
+heat: 144
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4A01Z-xwidQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: PiG
+  domain: youtube.com
+
+topics:
+  - StarCraft 2
+  - Terran
+
+images:
+  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "cxf6u0npwZAwS77Ye4BAjS3rJ9D1LcfSF1e1Kf9oywVsnyKJ20c59nZ5EH7KN8cWWnsrSJW+/LL0AhhY3WPOx7MREctl7IyCs6PEKj2qG1DwVYeXMcTe1XGlgQlZDCzjaOzsMiaSxo6cBxFpRbKe+bCHL/wBPWGMcyJ+mI5IUikavRcjfxXmiZatKEsU4rtVWe+TvTOpqEGNECnw2Y7ZV1eKAJJ+7dSKCMAXrZJb5UOIlURP1M7oIeuHVqbCFU54srVkOTWbxD8+/7psTYmjYD1oFwv8Ryr7Gi9WvzD00QTtdYecGleGMZS67S/+jEQ5NAAgDN37cxl4HTUOseSqLEqdkWaxOefFaKruiQ8xS3TlAyeZ/PTkTwA+bpAsysifRhDCTSfSSz6YpKaxzYaWBg==;+JuEYBHIWnK4EkIWJo9p4w=="
+---
+

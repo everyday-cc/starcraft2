@@ -849,6 +849,7 @@ items:
   - pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-siege-tactics-g1
   - pig-starcraft-2-lowko-is-an-f2-zerg-350-apm-0-control-groups
   - pig-starcraft-2-flo-discovers-mass-cyclones-florencio-files-266
+  - pig-starcraft-2-when-troll-strats-ruin-your-economy-diamond-in-the-ruff-72
 
 topics:
   - StarCraft 2

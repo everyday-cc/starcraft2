@@ -27,7 +27,7 @@
       "topics": [
         "StarCraft 2"
       ],
-      "heat": 438,
+      "heat": 372,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -455,45 +455,6 @@
       "publishedDateTime": "2021-12-24T13:58:31-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-honorable-macro-protoss-reynor-vs-showtime.md",
-      "title": "StarCraft 2: The Honorable MACRO PROTOSS! (Reynor vs ShoWTimE)",
-      "excerpt": "Best-of-5 series of top level European StarCraft 2 between Reynor (Zerg) and ShoWTimE (Protoss). The new patch has made Zerg versus Protoss a far more interesting matchup. Reynor has always been mid-game focused, but how does ShoWTimE deal with the change in the meta?  ShoWTimE on Twitter: https://twitter.com/showtimesc2",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-honorable-macro-protoss-reynor-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-honorable-macro-protoss-reynor-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=OxvysgnKW68",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OxvysgnKW68\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M14S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 145,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-04-26T03:00:16-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-holdout-challenge.md",
       "title": "StarCraft 2 - How Quickly Can SCARLETT Dispose Of Noobs? | Holdout Challenge",
       "excerpt": "We paid Scarlett to 1v1 noobs. The challenge: the noobs needed to stay in the match as long as possible. Scarlett unleashed her cheesy plays to stop the clock. This Holdout Challenge was a part of  PiG Sty Festival 2021 https://www.pigstarcraft.com/about/pig-sty-festival/  🐷 https://www.patreon.com/PiGSC2",
@@ -627,6 +588,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-02T04:57:54-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-honorable-macro-protoss-reynor-vs-showtime.md",
+      "title": "StarCraft 2: The Honorable MACRO PROTOSS! (Reynor vs ShoWTimE)",
+      "excerpt": "Best-of-5 series of top level European StarCraft 2 between Reynor (Zerg) and ShoWTimE (Protoss). The new patch has made Zerg versus Protoss a far more interesting matchup. Reynor has always been mid-game focused, but how does ShoWTimE deal with the change in the meta?  ShoWTimE on Twitter: https://twitter.com/showtimesc2",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-honorable-macro-protoss-reynor-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-honorable-macro-protoss-reynor-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=OxvysgnKW68",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OxvysgnKW68\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M14S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 138,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-04-26T03:00:16-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-scarletts-protoss-offrace-scarlett-vs-pig.md",
@@ -907,14 +907,45 @@
       "publishedDateTime": "2022-04-25T04:56:01-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-empty-medivac-aggression-byun-vs-zest.md",
-      "title": "StarCraft 2: EMPTY Medivac Aggression?! (ByuN vs Zest)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between ByuN (Terran) and Zest (Protoss).  TLMC 16 Map Contest: https://youtu.be/Od0SQYvNdJU  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-empty-medivac-aggression-byun-vs-zest/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-empty-medivac-aggression-byun-vs-zest/",
-      "originalUrl": "https://youtube.com/watch?v=M2317u4k2Gc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M2317u4k2Gc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M14S",
+      "path": "_games/pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261.md",
+      "title": "StarCraft 2 - Flo Locks Them Out With A Mass Widow Mine Drop! | Florencio Files #261",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261/",
+      "originalUrl": "https://youtube.com/watch?v=WrILME9CWO8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WrILME9CWO8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M48S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran"
+      ],
+      "heat": 115,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-03-23T19:12:36-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-zests-spicy-stargate-variety-best-of-5-vs-solar.md",
+      "title": "StarCraft 2: Zest's SPICY Stargate Variety! (Best-of-5 vs Solar)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Solar (Zerg) and Zest (Protoss). In this match Zest decides to play a vareity of Stargate openers, from Void Rays to Tempests and Phoenixes. This series is the grand finals of the ESL Open Cup 108 Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zests-spicy-stargate-variety-best-of-5-vs-solar/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zests-spicy-stargate-variety-best-of-5-vs-solar/",
+      "originalUrl": "https://youtube.com/watch?v=IKvNLBeao60",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IKvNLBeao60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M49S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -929,21 +960,21 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
-        "Protoss"
+        "Protoss",
+        "Zerg"
       ],
-      "heat": 113,
+      "heat": 112,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/M2317u4k2Gc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-02-07T11:02:25-08:00"
+      "publishedDateTime": "2022-02-12T05:00:07-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-official-viewer-tournament.md",
@@ -981,35 +1012,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-08-26T04:06:39-07:00"
-    },
-    {
-      "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1-starcraft-2.md",
-      "title": "We paid a Pro to do Troll builds and it was LEGENDARY | Twitch Plays Astrea #1 - StarCraft 2",
-      "excerpt": "It is rumoured that a Legend is born when immortals save the world from destruction. A being so powerful rises from the clutches of near death and is then known to the world as CHADSTREA THUNDERSHAFT. Here is his origin story.  Follow Astrea's Twitch: https://www.twitch.tv/zastrea -- 🐷 Second Channel",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=SariYo8-VNI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SariYo8-VNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M5S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-02-10T17:37:20-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-reynor-vs-mana-in-an-absolute-banger-of-zerg-vs-protoss.md",

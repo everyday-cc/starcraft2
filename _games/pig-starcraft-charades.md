@@ -3,7 +3,7 @@ title: "Starcraft Charades!"
 excerpt: "WHO IS THE BEST STARCRAFT CHARADER? Dot came up with this idea of Starcraft Charades and it turned out to be a blast! THE RULES: At certain points during a 1v1 we pause the game so that the players can play charades, with PiG as their guesser. The one with the least points is punished by the Wheel of"
 originalUrl: https://youtube.com/watch?v=poLWTQ3bXr8
 type: video
-length: PT2H17M35S
+length: PT2H40M47S
 publishedDateTime: 2021-06-01T12:45:23Z
 heat: 50
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "9hgjtv0gxl9GMo70efOmNZNExWiV0xwcViOnugwv0NV9Q9phNWqQPjUH3HkrduVSX7tlJVx4aGZTuyVd2nvvlxpThXaTDg4IsnHNYq2F0XZdpwpYyGoAMiD3GXUHjFMXb//ehKBziN6FBu9+gF7Y7pu1XYivWZAra8igw0NT0gn7Q0e7bN3XVxGRaPCokHchZPytxmim/CKdh1JtsxCqNZnRT7QoQJ6NTDYjJA6uwSt3csXn2X/SPByjKhlmS19HI1vF4+6qxs+MwI+LEEhECD7abQ9SpModIZbJrVPAsN8GSTghY3FfHIz6Gofm/QjX90n/kRP82eg16fMJi23vrLMN//YlFxTtMoh2+yBhmVf322QagP6eOaeaLFRBh8WyThqatKFzgNTT54t0lQp0Ufp2uo2BdLtiGdQvSjKemdc=;BauR3WoAYEIBZa4igQQGcg=="
+secured: "jZ/EAwhSurKrg2VW2BoruZ4uJgpWHCzUTOMYq1aacD210RWY+NgAes+pCuFYtWAlQdWyspvEcgoWFNs93itKlJX9KCKRtctdaAAJe7vgXCsnuNtvMKVApntk8/cnvV0QYTCfuhnlyh5TZbDkdtXWPcHzVBMKCHCmxdiJLSdr8wQdifPGCvzqOMMbrPCiR0vpIJYMN112qBzqV/yQBjAXJTZ5sOGrvm96cfIhZpCg/4Oj0kws/8KxYic4n1eDCJtOOtYUJpnJ8Xj63eaP9lDIzIhxt/Kqw4c1/+by5nNEuk+HjmCzs221PSDWdc6qMBjdBugNSgmTWWP1n0jJfQcmReJmJ7bd7fAgas3mIXc0OIjos/Ny4vMzubTtIJTOE9aebtUhJA1LWS9Kw6I9KJFmk0O4yIyJqRSHODOqbZZzp+s=;ufStpkCdlYN6A82dXUYdug=="
 ---
 

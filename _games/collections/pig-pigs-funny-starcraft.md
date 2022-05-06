@@ -829,6 +829,7 @@ items:
   - pig-we-paid-a-pro-to-do-troll-builds-but-he-joined-a-clan-instead-twitch-plays-astrea-5-starcraft-2
   - pig-starcraft-2-florencio-serves-7-course-meal-of-tvz-bs-florencio-files-260
   - pig-when-the-terran-build-confuses-the-zerg-player-2-tvz-games-diamond-in-the-ruff-66-starcraft-2
+  - pig-fans-trash-talking-ufc-fighters
   - pig-starcraft-2-thors-widow-mines-sad-protoss-3-games-diamond-in-the-ruff-67
   - pig-starcraft-2-i-am-sorry-to-diamond-players-everwhere-guess-the-mmr-1
   - pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261
@@ -849,7 +850,7 @@ items:
   - pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-siege-tactics-g1
   - pig-starcraft-2-lowko-is-an-f2-zerg-350-apm-0-control-groups
   - pig-starcraft-2-flo-discovers-mass-cyclones-florencio-files-266
-  - pig-starcraft-2-when-troll-strats-ruin-your-economy-diamond-in-the-ruff-72
+  - pig-starcraft-2-when-the-zerg-is-zerging-so-you-gotta-terran-diamond-in-the-ruff-72
 
 topics:
   - StarCraft 2

@@ -273,8 +273,9 @@ items:
   - pig-starcraft-2-the-sewer-mermaid-has-evolved-florencio-files-262
   - pig-starcraft-2-flo-sits-on-his-balls-ouch-florencio-files-263
   - pig-starcraft-2-flo-pushes-the-limits-of-one-base-play-florencio-files-264
-  - pig-starcraft-2-flo-maxes-out-ground-attack-for-his-skytoss-facepalm-florencio-files-265
+  - pig-starcraft-2-flo-maxed-out-upgrades-for-the-wrong-units-florencio-files-265
   - pig-starcraft-2-flo-discovers-mass-cyclones-florencio-files-266
+  - pig-starcraft-2-when-you-nydus-their-main-but-its-a-trap-florencio-files-267
 
 topics:
   - StarCraft 2

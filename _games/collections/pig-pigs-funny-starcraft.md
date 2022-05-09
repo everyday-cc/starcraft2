@@ -852,6 +852,7 @@ items:
   - pig-starcraft-2-flo-discovers-mass-cyclones-florencio-files-266
   - pig-starcraft-2-when-the-zerg-is-zerging-so-you-gotta-terran-diamond-in-the-ruff-72
   - pig-starcraft-2-when-you-nydus-their-main-but-its-a-trap-florencio-files-267
+  - pig-starcraft-2-did-you-know-that-thors-should-beat-battlecruisers-diamond-in-the-ruff-73
 
 topics:
   - StarCraft 2

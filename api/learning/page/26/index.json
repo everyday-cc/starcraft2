@@ -4,25 +4,25 @@
   "page": 26,
   "value": [
     {
-      "path": "_learning/videos/pig-starcraft-2-tvz-mech-coaching-m3.md",
-      "title": "StarCraft 2 - TvZ mech coaching - M3",
-      "excerpt": "sorry guys, cut a few mins at the start bc of some sound issues, and i didn't want you dying from an oversensitive mic or something ;)  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-tvz-mech-coaching-m3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-tvz-mech-coaching-m3/",
-      "originalUrl": "https://youtube.com/watch?v=dkbUk5icrBk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dkbUk5icrBk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H5M32S",
+      "path": "_learning/videos/pig-starcraft-2-zero-micro-pvt-guide.md",
+      "title": "StarCraft 2 - ZERO MICRO PvT Guide",
+      "excerpt": "This is a solid opening that focuses on extra observers so you have plenty of warning to stop incoming harassment, collosus to stop the stim push, and chargelots and archons to A+Move the Terran 3rd base! … OK admittedly if you mess up the attack on the 3rd base, the game goes longer and you have to",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zero-micro-pvt-guide/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zero-micro-pvt-guide/",
+      "originalUrl": "https://youtube.com/watch?v=WOUnsHxU2pI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WOUnsHxU2pI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M34S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2019-07-03T16:16:47-07:00",
+      "publishedDateTime": "2020-09-26T17:56:56-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
+          "url": "https://i.ytimg.com/vi/WOUnsHxU2pI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -31,132 +31,7 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-tvz-mech-style-coaching-d3.md",
-      "title": "StarCraft 2 - TvZ Mech Style - Coaching D3",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-tvz-mech-style-coaching-d3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-tvz-mech-style-coaching-d3/",
-      "originalUrl": "https://youtube.com/watch?v=33HPyKp_rlA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/33HPyKp_rlA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H6M57S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-08-23T09:00:01-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-underlying-good-habits-and-mechanics-as-a-foundation-coaching-terran-gold-3.md",
-      "title": "StarCraft 2 - Underlying Good Habits and Mechanics as a foundation - Coaching Terran Gold 3",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;)    If you wish to support me please consider supporting my patreon: [https://www.patreon.com/PiGSC2](https://www.patreon.com/PiGSC2)    ### Videos don’t appear in your feed and you want to get notified about new uploads? Press the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-underlying-good-habits-and-mechanics-as-a-foundation-coaching-terran-gold-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-underlying-good-habits-and-mechanics-as-a-foundation-coaching-terran-gold-3/",
-      "originalUrl": "https://youtube.com/watch?v=uboHamJQMGs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uboHamJQMGs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M51S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-09-15T09:00:11-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-unlearning-f2-learning-hotkeys-and-3-rax-tvp-masters-coaching.md",
-      "title": "StarCraft 2 - Unlearning F2, learning hotkeys and 3-rax TvP - Masters Coaching",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-unlearning-f2-learning-hotkeys-and-3-rax-tvp-masters-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-unlearning-f2-learning-hotkeys-and-3-rax-tvp-masters-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=LnSEPq8o20k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LnSEPq8o20k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H15M10S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-07-14T19:16:14-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-zerg-cheese-coaching-diamond-3.md",
-      "title": "StarCraft 2 - Zerg Cheese Coaching - Diamond 3",
-      "excerpt": "I show a Diamond 3 zergs some very aggressive builds across all 3 matchups. -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-cheese-coaching-diamond-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-cheese-coaching-diamond-3/",
-      "originalUrl": "https://youtube.com/watch?v=2wVY769Wvlk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2wVY769Wvlk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M20S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-02-15T19:41:58-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
+        "Protoss"
       ]
     },
     {
@@ -831,6 +706,36 @@
       ]
     },
     {
+      "path": "_learning/videos/pig-the-pig-daily-10-fundamentals-of-starcraft-all-the-most-important-mechanics-and-tips.md",
+      "title": "The PiG Daily #10 - Fundamentals of Starcraft - all the most important mechanics and tips",
+      "excerpt": "Timestamps:  4:00 - Camera Locations and editing hotkeys 11:20 - Personalizing Hotkey Layout 14:24 - (Zerg) Hotkeying Eggs  17:00 - The F2 Key 19:00 - Ctrl Click/Double Click 20:30 - Shift Key Selecting 21:55 - Cloning 23:54 - Map Control  27:40 - Queuing Actions 33:06 - Rapid Fire Spells 36:24 - Control",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-the-pig-daily-10-fundamentals-of-starcraft-all-the-most-important-mechanics-and-tips/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-the-pig-daily-10-fundamentals-of-starcraft-all-the-most-important-mechanics-and-tips/",
+      "originalUrl": "https://youtube.com/watch?v=9EEv2pw94WQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9EEv2pw94WQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H27M13S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2016-07-04T00:19:02-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9EEv2pw94WQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-the-pig-daily-28-beginner-basics-the-art-of-defence.md",
       "title": "The PiG Daily #28 - Beginner Basics - The art of Defence",
       "excerpt": "Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb\r See the Show notes and more info + ongoing discussion of the show in the Teamliquid thread: http://www.teamliquid.net/forum/starcraft-2/509383-the-pig-daily-thinking-critically-about-sc -- Watch live",
@@ -908,6 +813,98 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/4jpzruecOdo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-the-pig-daily-66-understanding-jargon-ep-1-beginner-basics.md",
+      "title": "The PiG Daily #66 - Understanding Jargon Ep 1. Beginner Basics",
+      "excerpt": "THIS WEEKS ICYFAR: \"Worker Massacre\" - Submit your games with huge numbers of workers dying. Send submissions to eonblu95@gmail.com as attachment. Lastest submission until the second daily of the week (Monday in EU/US, Tuesday in AUS/KR).\r Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-the-pig-daily-66-understanding-jargon-ep-1-beginner-basics/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-the-pig-daily-66-understanding-jargon-ep-1-beginner-basics/",
+      "originalUrl": "https://youtube.com/watch?v=PQ0d7GPivDI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PQ0d7GPivDI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M46S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2016-10-10T02:13:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PQ0d7GPivDI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-the-pig-show-1-tobias-showtime-sieber-is-zerg-still-imba-showtime-talks-lategame-pvz.md",
+      "title": "The PiG Show #1 | Tobias 'Showtime' Sieber - Is Zerg still imba? Showtime talks lategame PvZ",
+      "excerpt": "Be sure to check out Showtimes twitch and social media: https://www.twitch.tv/sc2showtime https://twitter.com/ShoWTimESC2 https://www.instagram.com/showtimesc2/?hl=en  Here is a link to the Neeb vs Serral VOD: https://www.twitch.tv/videos/515417253?t=02h46m28s  Nationwars continues in 4 days (dezember",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-the-pig-show-1-tobias-showtime-sieber-is-zerg-still-imba-showtime-talks-lategame-pvz/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-the-pig-show-1-tobias-showtime-sieber-is-zerg-still-imba-showtime-talks-lategame-pvz/",
+      "originalUrl": "https://youtube.com/watch?v=zIPjBtZiLnA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zIPjBtZiLnA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H37M35S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-12-19T21:06:20-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zIPjBtZiLnA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-the-zvp-conundrum-organising-our-scouting-at-gm-level.md",
+      "title": "The ZvP Conundrum - Organising our scouting at GM level",
+      "excerpt": "Sometimes GMs need help too!  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-the-zvp-conundrum-organising-our-scouting-at-gm-level/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-the-zvp-conundrum-organising-our-scouting-at-gm-level/",
+      "originalUrl": "https://youtube.com/watch?v=U-Iz9EJq6XY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/U-Iz9EJq6XY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H11M27S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-07-18T04:00:14-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/U-Iz9EJq6XY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

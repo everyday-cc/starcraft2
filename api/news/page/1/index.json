@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-27-heroes-of-the-storm-starcraft-nova-terra-7-inch-scale-action-figure-series-1.md",
+      "title": "Heroes of the Storm Starcraft Nova Terra 7 Inch Scale Action Figure Series 1",
+      "excerpt": "“A ghosts first and best weapon is her mind. Everything else is supplemental.” NECA is proud to present our first series of 7″ scale action figures from Heroes of the Storm, the upcoming online team brawler filled with favorite characters from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.board-game.co.uk/product/heroes-of-the-storm-starcraft-nova-terra-7-inch-scale-action-figure-series-1/",
+      "originalUrl": "https://www.board-game.co.uk/product/heroes-of-the-storm-starcraft-nova-terra-7-inch-scale-action-figure-series-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.board-game.co.uk/wp-content/uploads/2022/04/Heroes-of-the-Storm-Starcraft-Nova-Terra-7-Inch-Scale-Action-Figure-Series-1.jpg",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "board-game.co.uk",
+        "domain": "board-game.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-starcraft-3-may-have-just-been-teased-by-blizzards-president.md",
       "title": "StarCraft 3 may have just been teased by Blizzard’s President",
       "excerpt": "Fans think Blizzard President Mike Ybarra just teased a revival of the StarCraft franchise with a cryptic post.",
@@ -1144,48 +1187,6 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-starcraft-rv-recalls-various-travel-trailers-and-fifth-wheels.md",
-      "title": "Starcraft RV recalls various travel trailers and fifth wheels",
-      "excerpt": "StarCraft RV is recalling 11,853 of the following travel trailers and fifth wheels with a Winntec model 6020 two-stage propane regulator: model year",
-      "sourceUrl": null,
-      "webUrl": "https://www.consumeraffairs.com/recalls/starcraft-rv-recalls-various-travel-trailers-and-fifth-wheels-071321.html",
-      "originalUrl": "https://www.consumeraffairs.com/recalls/starcraft-rv-recalls-various-travel-trailers-and-fifth-wheels-071321.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.consumeraffairs.com/files/news/Autumn_Ridge_Starcraft.jpg",
-          "width": 600,
-          "height": 303,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.consumeraffairs.com/amp/recalls/starcraft-rv-recalls-various-travel-trailers-and-fifth-wheels-071321.html",
-      "cdnAmpWebUrl": "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/recalls/starcraft-rv-recalls-various-travel-trailers-and-fifth-wheels-071321.html",
-      "publishedDateTime": "2021-07-13T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ConsumerAffairs",
-        "domain": "consumeraffairs.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
       ]
     }
   ],

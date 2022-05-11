@@ -7,7 +7,7 @@ originalUrl: "https://www.board-game.co.uk/product/heroes-of-the-storm-starcraft
 webUrl: "https://www.board-game.co.uk/product/heroes-of-the-storm-starcraft-nova-terra-7-inch-scale-action-figure-series-1/"
 type: article
 quality: 66
-heat: 86
+heat: 89
 published: true
 
 provider:

@@ -3,7 +3,7 @@ title: "StarCraft 2 - CHAD ROACHES TAKE ON AN ENTIRE BASE | Florencio Files #216
 excerpt: "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk"
 originalUrl: https://youtube.com/watch?v=NHo8_k7s94I
 type: video
-length: PT17M17S
+length: PT17M9S
 publishedDateTime: 2021-03-06T06:32:20Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UQqsLBYgWdRBP0Y5wAb9di43Zk7geMitk/iGn92PWFdILWURxkyxHWsREnvAIRdxFavwwop3L+X8OMs4EfZc6UIDBgRoWqQnmDZ6Wt3J5Svb2NmIFtKjbLoPmV/OKAx0klfuAbpgvoAxzzVrTlOrNV+sXYFmE9LnKGX1hvzb5NICcdQBYo3q47smK0JV+SBM0jMbxHEC32LY6rnPGZ7a9Ga5FoHSSCiPjpoDxiAsHRxHhTzaSfD6xDi2GJuNbIvcNJpAvCjNR2BjblIAv97R0n6F3tGdMkoHNUVBAdhGRA4cGCEdYPyn4OzZMydzMuhQMVrWWIdHQOcLU178MnPQ+g68oLyOrdkF45LJh4uHi7PdFDewEj8hfuKAL7L0o9RtzVik6/Tim0M/q2jPm2oiRQ++/YDa5oXxw4D/X9rbTY0=;W+Hd6kj4wQLrW55OTKD4tQ=="
+secured: "LZoceQLfKm0YSq9wGUxXjxhHQfQOkoVfiQaDQcnQKqHMZ+cpWXfoivmV1jd1bbH4p7q8F5LSxBQjr/RNT/X6Q6mXSt5vj73Pit9PtWGMaU7MpaxK65VBImvvuP3RU0zbajTgjOG43CRg+q02lrmSm7yY308fJ3kSOHVq2uLMiA6ZMmZtFFYBBAnzObrMrwBhGzfM6NXMXVwTwpRr2Jxb9rD5f5jvOvNimvNt/0KW/Z4ucQ81pWuEhT0LFHdyweTxNKVqhwEaofY9Q58/77WXijIDdGiTH73gV2ibhB9iwJXZPLsi8COPLavtPpzLqs4QGQnnG9F/WI3t1lHsUEpoQS2aEyiDBf29f3UR3yTuLbw9Dg2wf92VEahHrKkLmfUxaNl3TrfKty63ZQvWGuBrxtRfeeupn+4vPT4T/GeO90U=;DlPVuyuZ2eMvzWOUgxN3FA=="
 ---
 

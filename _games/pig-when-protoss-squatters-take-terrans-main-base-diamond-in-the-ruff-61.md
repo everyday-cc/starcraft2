@@ -3,7 +3,7 @@ title: "When Protoss squatters take Terran’s main base | Diamond in the Ruff #
 excerpt: "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff"
 originalUrl: https://youtube.com/watch?v=UA64vCg2HLk
 type: video
-length: PT23M39S
+length: PT22M37S
 publishedDateTime: 2021-12-27T22:45:26Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "tVPo+B5Ic4xkgI0NLOX5OMg9VYP2LctUlORNR3gw6ulgalfX98ejRx//jsEx7YicmnL0glqsbdTuo5FCIxpHt8YJOjryR12Pg6icg+rPSSI800WdTsR3XzkKaHauqD9vn0YWS9vBUxMUWclY8Z2Ls8FIJ1eD3MTNQoLH8Rvo5IwQVEI4qvCKFXd8bFhxYvWX54TJoBCLgVRpLqWK66yfBrLndpxdA31AMGuTTMQCTH5uPJl2fp1OdL31Jh76Ju0YTkbOYGGu/rdh/UVBzbSf5bjqIvirEtgxw2gMzljN73Pu12EpsIU8ZWVOEffJUQoMOM4X0YlaUbRy+bZms+3LBqN3ZxSK7p/kT/2kGC/WK86oXTYGj4V6fc3aIFsCoGbMmJPS1im3Z0SuYzRhFhwLjK9fOiPYZpD1P8xDkFOulT0=;4jsgxKrRKPAltWqOW5sa3Q=="
+secured: "lqXtTUs0JR0MP+y3Vmb7vRzHX+5Cnwdvybb3+AIOMgLIrlaV3y5Wh3zXOrISog2XjZaVId22NH4R+IquATVqRuJr7qmll7mDVcvZElCZ+nCSnEeGMHkJIy1GJFI1hN3Nw+GV4WchgY2sZyQxVCr9V6C49l3yx+/syl+0UzBlX8zdkWI/Rc6/y/6NnXc5bj6/0Wg+QiBcX81L763Df2wK2Gp7w0IUe2OQu3E0IX6SaGc2lH/sCl9rn5evJiFWIYZvqafAMkp36qL5CPkZWCIfrLjOV86m4RH+Aq1IMr4uZVSMtGEuyfKZAlFdUSwGG2OG6Aba14MlrJGRVgCzZqQxFFfTP89UX0+P+uT1wCZifXqZ8oHwNfO26OU4IBI4uHVcoXzNILgF7b2qKbtL8FCoCp/bM0Kj0dI4nnQnGeuxttY=;jFKYd+pioWSBqQ6yVgF1nA=="
 ---
 

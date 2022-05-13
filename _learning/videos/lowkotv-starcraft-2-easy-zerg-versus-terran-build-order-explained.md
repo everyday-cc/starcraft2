@@ -4,7 +4,7 @@ excerpt: "This is a Zerg versus Terran build order for Zerg players in StarCraft
 originalUrl: https://youtube.com/watch?v=ZOMj6X5_eHw
 type: video
 price: Free
-length: PT12M4S
+length: PT12M3S
 publishedDateTime: 2014-05-11T19:57:09Z
 heat: 50
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "9AhZPHvKLhllzVV9upn9Sl1vY+D1ckjL01iYOyHJqYZxhbBpfkzkbrTejzikGf5nOW+iXl+NQM7KtWLtMlhVtuaxwxZY4VhCAOdTuXNzjXjdyAo10DiV58riP9SSUMp8SlIs0uYW4ul7HjeGVKBi1b9sbwGrfwlhgbbu3vQsgRMipn8e3RVMZYUIheUGnzVy6h/QHY7xNe5C0cQY7m/Q8HKeMnGi1xqQeVbn2Jn1Ln928mxb5C8pNiwEsZPy4I+jOU+cohtgOSCwfz11JsG5lO64Sz0DXKeCcNXYeY+TIkRCmw1ZTSUiVKi5GTiDYYqOiqskFuKpINRpqKAJZ9NAkDvILciE2epEyhQi3IeHsZMyLQndR7bFSAz4Wz7fcm88n37xaoNqjZXAaJJkWJdqetDht4dsAV0Ktx5WMV3GAMM=;c9lFATNpnjnJUs/qXoYe2A=="
+secured: "t19De7Kw/uGiL04etu+sad6VAUK8VxTwFw5uD5EtK+PvC2SOvQppEestT1M4jRJjPCHKmhtwt4JbUjKt/qnhP8nIaSnQTQ4iXtXEY9hiKaAuLsNBx9PyQyVTXGz0faagB/2yubslBs3fensfB287UqcO4Ad/qFdurM2lKyif7uqYv42nZ5kto4IXdXNcAVskL0ABN5RxNhrT5nBBTfI8221cc3TKMJWV6GD1VtRfNdyVadimJaFMX7BNUTec1nnF+F6xwx+JTEKTItvLBFvT7iN0xlynBffSy/75geubQofq5T7WgKg1iEvQHqWSbjJj9+kDjKsJzWyt4KA49FTSQoMPWTXO70XrdnRRnk3MY/bw92ycs9LS94TOwL0vvPVI316DAtrpc1T2wy5efsulYlhoeX5hOigyaYx4QlGmCV4=;2lz9OKcSPVayvOlCzz32Bw=="
 ---
 

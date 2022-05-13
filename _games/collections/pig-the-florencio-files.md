@@ -276,6 +276,7 @@ items:
   - pig-starcraft-2-flo-maxed-out-upgrades-for-the-wrong-units-florencio-files-265
   - pig-starcraft-2-flo-discovers-mass-cyclones-florencio-files-266
   - pig-starcraft-2-when-you-nydus-their-main-but-its-a-trap-florencio-files-267
+  - pig-starcraft-2-240apm-but-cant-spot-a-nuke-for-the-life-of-them-florencio-files-268
 
 topics:
   - StarCraft 2

@@ -82,38 +82,6 @@
       "publishedDateTime": "2022-05-10T03:03:07-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-240apm-but-cant-spot-a-nuke-for-the-life-of-them-florencio-files-268.md",
-      "title": "StarCraft 2 - 240APM but can’t spot a nuke for the life of them! | Florencio Files #268",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-240apm-but-cant-spot-a-nuke-for-the-life-of-them-florencio-files-268/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-240apm-but-cant-spot-a-nuke-for-the-life-of-them-florencio-files-268/",
-      "originalUrl": "https://youtube.com/watch?v=4K-9pdYAlIs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4K-9pdYAlIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M56S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 215,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-05-11T20:17:42-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-tired-of-the-ladder-maps-zest-vs-armani.md",
       "title": "StarCraft 2: Tired of the Ladder Maps... (Zest vs Armani)",
       "excerpt": "Five games of professional StarCraft 2 between Zest and Armani. In this series we don't see them play on the standard ladder maps, but instead they play on Nautilus II, Roughneck and Golden Wall. Nautilus II and Roughneck are currently being played in the GSL Code S tournament. Golden Wall is one of",
@@ -449,6 +417,38 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-04T04:56:34-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-240apm-but-cant-spot-a-nuke-for-the-life-of-them-florencio-files-268.md",
+      "title": "StarCraft 2 - 240APM but can’t spot a nuke for the life of them! | Florencio Files #268",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-240apm-but-cant-spot-a-nuke-for-the-life-of-them-florencio-files-268/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-240apm-but-cant-spot-a-nuke-for-the-life-of-them-florencio-files-268/",
+      "originalUrl": "https://youtube.com/watch?v=4K-9pdYAlIs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4K-9pdYAlIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M56S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 181,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-11T20:17:42-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serrals-impeccable-defence-rogue-vs-serral.md",
@@ -806,14 +806,14 @@
       "publishedDateTime": "2022-05-02T18:51:47-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-uthermals-super-slow-terran-push.md",
-      "title": "StarCraft 2: uThermal's SUPER SLOW Terran Push!",
-      "excerpt": "Stargazers managed to take fourth place at the most recent StarCraft 2 Map Contest (TLMC 16). There's a good chance that this map will be used in future SC2 tournaments. In this video I cast two pro matches on the new map.  00:00 uThermal vs Rattata 12:33 MaxPax vs Bly  Support my work on Patreon: https://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-uthermals-super-slow-terran-push/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-uthermals-super-slow-terran-push/",
-      "originalUrl": "https://youtube.com/watch?v=wfZplb-woy0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wfZplb-woy0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M27S",
+      "path": "_games/lowkotv-starcraft-2-questionable-decision-making-viewer-games.md",
+      "title": "StarCraft 2: QUESTIONABLE Decision Making! (Viewer Games)",
+      "excerpt": "Two games of StarCraft 2 between players in Platinum League. If yo uhave an awesome game of SC2, you can submit it to replays@lowko.tv.  00:00 Game 1 - Terran vs Protoss 23:24 Game 2 - Protoss vs Protoss  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-questionable-decision-making-viewer-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-questionable-decision-making-viewer-games/",
+      "originalUrl": "https://youtube.com/watch?v=1rNTkLAloIw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1rNTkLAloIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M51S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -827,10 +827,9 @@
         ]
       },
       "topics": [
-        "StarCraft 2",
-        "Terran"
+        "StarCraft 2"
       ],
-      "heat": 112,
+      "heat": 114,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -841,17 +840,17 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-02-25T09:22:23-08:00"
+      "publishedDateTime": "2022-03-26T05:57:21-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-chaotic-cheese-compilation-diamond-in-the-ruff-69.md",
-      "title": "StarCraft 2 - CHAOTIC CHEESE COMPILATION | Diamond in the Ruff #69",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his  opponents? With some delicious cheese  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-chaotic-cheese-compilation-diamond-in-the-ruff-69/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-chaotic-cheese-compilation-diamond-in-the-ruff-69/",
-      "originalUrl": "https://youtube.com/watch?v=rQiLnerbeVw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rQiLnerbeVw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M49S",
+      "path": "_games/pig-starcraft-2-can-marubyun-fend-off-the-na-clowns-in-an-epic-2v2-pig-reacts.md",
+      "title": "StarCraft 2: Can Maru/Byun fend off the NA Clowns in an EPIC 2v2? | PiG Reacts",
+      "excerpt": "I was going to cast this as an FPV vid, but listening and reacting to Special+Astrea playing 2v2 against Maru+Byun was just too funny. Great match, great reactions from Special, really fun series. This best of 5 series was played as a precursor to Nation Wars 2022.  Follow Special on Twitch! https://www.twitch.tv/special_",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-can-marubyun-fend-off-the-na-clowns-in-an-epic-2v2-pig-reacts/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-can-marubyun-fend-off-the-na-clowns-in-an-epic-2v2-pig-reacts/",
+      "originalUrl": "https://youtube.com/watch?v=9JKlE1L4hfE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9JKlE1L4hfE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H11M4S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -871,7 +870,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-03-30T20:53:51-07:00"
+      "publishedDateTime": "2022-04-11T17:33:43-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-seige-tactics-g1.md",

@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/starcraft-zerg-brood-lord-statue-dark
 webUrl: "https://www.ign.com/articles/starcraft-zerg-brood-lord-statue-dark-horse-direct"
 type: article
 quality: 124
-heat: 128
+heat: 148
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1023
     height: 575
     isCached: true
+
+related:
+  - title: "The Zerg Brood Lord Replica is the next ship in Dark Horse Direct’s Starcraft line"
+    excerpt: "Evolved to rule the skies, the Swarm’s aerial siege unit is making its way to your gaming den, brought to you exclusively by Blizzard Entertainment and Dark Horse Direct! The Zerg have arrived with the StarCraft: Zerg Brood Lord Replica."
+    publishedDateTime: 2022-05-16T02:00:00Z
+    webUrl: "https://graphicpolicy.com/2022/05/15/the-zerg-brood-lord-replica-is-the-next-ship-in-dark-horse-directs-starcraft-line/"
+    type: article
+    provider:
+      name: graphicpolicy.com
+      domain: graphicpolicy.com
+    quality: 78
+    images:
+      - url: "https://i0.wp.com/graphicpolicy.com/wp-content/uploads/2022/05/StarCraft-Zerg-Brood-Lord-Replica.png?fit=1024%2C1024&#038;ssl=1"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "PEWa4fs+MZCf/LIiQLq3kQW1JTj/ozSwQURdtXJE5gB5xQNeRqqKVmBJKxfaGtfQ9MifjFv+nQMSQGQQNUtKGo0dskjFBVPJK1be0QxB1kARXxADamFrSZFFRhfjD3J7cXOiyfzL2zUDMEXBflTAx+webuXVsr5GP3/46ap/zJeYvKtjOs/Nbh4AoByYFZ5SLwAvPYEUI2QPI03QL8xcSeowoiwyClcWT2Z2x67Gsrj0UpQh5AQKCWEaSlg2HoA+7jG9/lj3U4T0zkF4cSYKKE4Pym/pwtflTQVvkVBS/x/ES3x6ZTdsVmWi3iZTcPQDmXxQ4s6XP8dvNLj8/bD4V39M1mee0wBNsS3ddJyzcTc=;gGDFfJcpWeGE1yg4pSmX+Q=="
 ---

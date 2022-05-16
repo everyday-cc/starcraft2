@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 63
+heat: 62
 
 provider:
   name: PiG
@@ -854,6 +854,7 @@ items:
   - pig-starcraft-2-when-you-nydus-their-main-but-its-a-trap-florencio-files-267
   - pig-starcraft-2-did-you-know-that-thors-should-beat-battlecruisers-diamond-in-the-ruff-73
   - pig-starcraft-2-240apm-but-cant-spot-a-nuke-for-the-life-of-them-florencio-files-268
+  - pig-ridiculous-bc-timing-spawns-a-fantastic-game-diamond-in-the-ruff-74-starcraft-2
 
 topics:
   - StarCraft 2

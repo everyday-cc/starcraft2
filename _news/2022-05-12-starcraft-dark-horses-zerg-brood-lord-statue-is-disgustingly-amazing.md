@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/starcraft-zerg-brood-lord-statue-dark
 webUrl: "https://www.ign.com/articles/starcraft-zerg-brood-lord-statue-dark-horse-direct"
 type: article
 quality: 124
-heat: 127
+heat: 128
 published: true
 
 provider:

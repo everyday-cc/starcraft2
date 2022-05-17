@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/starcraft-zerg-brood-lord-statue-dark
 webUrl: "https://www.ign.com/articles/starcraft-zerg-brood-lord-statue-dark-horse-direct"
 type: article
 quality: 124
-heat: 150
+heat: 170
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dark Horse Reveals Latest Ship In STARCRAFT Line: The Zerg Brood Lord"
+    excerpt: "Dark Horse has released their latest ship replica from their StarCraft line: the Zerg Brood Lord. Evolved to dominate the skies, the Brood Lord replica measures 15 inches long by 15 inches wide and stands 10 inches tall."
+    publishedDateTime: 2022-05-17T08:00:00Z
+    webUrl: "https://geektyrant.com/news/dark-horse-reveals-latest-ship-in-starcraft-line-the-zerg-brood-lord"
+    type: article
+    provider:
+      name: GeekTyrant
+      domain: geektyrant.com
+    quality: 84
+    images:
+      - url: "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/627ead1003a8f81f57e9ac8d/1652774428761/ZergBroodLordReplica.jpg?format=1500w"
+        width: 1500
+        height: 845
+        isCached: true
   - title: "The Zerg Brood Lord Replica is the next ship in Dark Horse Direct’s Starcraft line"
     excerpt: "Evolved to rule the skies, the Swarm’s aerial siege unit is making its way to your gaming den, brought to you exclusively by Blizzard Entertainment and Dark Horse Direct! The Zerg have arrived with the StarCraft: Zerg Brood Lord Replica."
     publishedDateTime: 2022-05-16T02:00:00Z

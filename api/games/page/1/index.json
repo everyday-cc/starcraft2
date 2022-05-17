@@ -846,14 +846,14 @@
       "publishedDateTime": "2022-04-29T04:15:35-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-brood-lords-ultralisks-vs-late-game-protoss-rogue-vs-classic.md",
-      "title": "StarCraft 2: Brood Lords & Ultralisks vs Late Game Protoss! (Rogue vs Classic)",
-      "excerpt": "Classic (Protoss) versus Rogue (Zerg) in a great game of Zerg versus Protoss in StarCraft 2. Protoss vs Zerg has been rapidly developing over the course of the last month, since the new patch went live.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-brood-lords-ultralisks-vs-late-game-protoss-rogue-vs-classic/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-brood-lords-ultralisks-vs-late-game-protoss-rogue-vs-classic/",
-      "originalUrl": "https://youtube.com/watch?v=hS25f2G6270",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hS25f2G6270\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M52S",
+      "path": "_games/lowkotv-starcraft-2-lower-than-bronze-league-heroes-viewer-games.md",
+      "title": "StarCraft 2: Lower than BRONZE LEAGUE Heroes! (Viewer Games)",
+      "excerpt": "Viewer submitted games of StarCraft 2 between players in and below Bronze League. If you have a great game of SC2, submit it to replays@lowko.tv.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-lower-than-bronze-league-heroes-viewer-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-lower-than-bronze-league-heroes-viewer-games/",
+      "originalUrl": "https://youtube.com/watch?v=_T7pI3zR8Ug",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_T7pI3zR8Ug\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M27S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -867,9 +867,7 @@
         ]
       },
       "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
+        "StarCraft 2"
       ],
       "heat": 120,
       "images": [
@@ -882,27 +880,33 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-04-12T02:27:10-07:00"
+      "publishedDateTime": "2022-02-26T09:06:12-08:00"
     },
     {
-      "path": "_games/pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261.md",
-      "title": "StarCraft 2 - Flo Locks Them Out With A Mass Widow Mine Drop! | Florencio Files #261",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261/",
-      "originalUrl": "https://youtube.com/watch?v=WrILME9CWO8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WrILME9CWO8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M48S",
+      "path": "_games/lowkotv-starcraft-2-my-final-starcraft-video-clem-vs-astrea.md",
+      "title": "StarCraft 2: My FINAL StarCraft Video? (Clem vs Astrea)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between Clem (Terran) and Astrea (Protoss). Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips: https://www.youtube.com/lowkoclips  Be part of the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-my-final-starcraft-video-clem-vs-astrea/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-my-final-starcraft-video-clem-vs-astrea/",
+      "originalUrl": "https://youtube.com/watch?v=34O6ljRyXdg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/34O6ljRyXdg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M51S",
       "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Terran"
+        "StarCraft 2"
       ],
-      "heat": 113,
+      "heat": 112,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -913,7 +917,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-03-23T19:12:36-07:00"
+      "publishedDateTime": "2022-04-01T10:42:47-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-seige-tactics-g1.md",

@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=432m7JwB08Y
 type: video
 length: PT22M1S
 publishedDateTime: 2021-10-24T05:25:56Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/432m7JwB08Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "r5iIsJ++/miaFU6Ha74f6qJ5Ajso17LCeQnsDxtv64rLS6LsU3sU/hUPxEld/uZHCAZp/0oMugpe37BeJ+5QaPV4OU1P5Wg9cwj03Tejmj84HTi7jq/yHlxPdFCXdfG7cGkUKKzonmEMH0NWdYxeRz9oTQe+NuKx6SalE6UGBafDnbpk+VPF9B7IVbfI4FmrOiKUMGpwxUGSpsjPL032acYLzg9U/MflhfvR63V5NFndyRCxs7ChqRr2KSRYNKw7Bf6b7EUKdaylq8sHtVEFqST72vE1fW9MuUrPyO0TQ70CdArifwciDXvEczQqiHZX2bH7OBr2pLAghd+PdnrCYmsAkM9SwHt3BWd5boDLogkICgDI4BLkunPvnVS41G98BGqAIlIgGRN5zY8HB1ilZoN05bJzHEf2SW6Y+UWtgac=;Yd7aLh3IolR2zn1VdYsuBg=="
+secured: "Phys7iRn6j5BBKcb1+Cye1/j3gHLj1ug5foHWNKExft3it+WT+oLhvO56QcBAbhbw99HmCchLU5cT//8uL0MLKXkYotsxrwyjs1SYHgVS3oApJ1Hv+1VgYyQMYXxokisSaCg+ZQmR/kv08EEq2p4BjjEdZqcRBMidbDnj8kBErmoJGBnZIfHVIh0koWfHURNZ2GZOiAgZgdbPqGHH49zskCRrP+l4el54d/5DakPDk5tAR3VkGY9kc6sY4nWPXg4yGfwVO1e8uSMIBPy8iaElZyVUjyEoPeUPgNgYgGTvuND8oHq+okCUUhPTD6YYoKW0gkG0tESLPXmwFYzbQMXFrPx1Bi0H0yXcMBNz4egBurnRzKW55g5WazDb2tZYsdC1P/2OimiggwSa1r5mupERnlvio79ULn+1zyduWdC9mA=;vrE/ExFDB+ta4gripfp7Sw=="
 ---
 

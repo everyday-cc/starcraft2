@@ -19,6 +19,7 @@ items:
   - videos/pig-starcraft-2-zerg-bronze-to-gm-8-aggressive-builds-in-masters-3-b2gm
   - videos/pig-starcraft-2-zerg-bronze-to-gm-9-spellcasters-in-masters-2-b2gm
   - videos/pig-starcraft-2-zerg-bronze-to-gm-10-mid-game-timings-in-masters-1-b2gm
+  - videos/pig-how-i-beat-gms-with-bronze-builds-from-pigs-b2gm-starcraft-2
 
 topics:
   - StarCraft 2

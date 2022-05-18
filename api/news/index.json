@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-18-seo-tossgirl-ji-soo-is-the-best-female-esports-player-in-starcraft-history.md",
+      "title": "Seo ToSsGirL Ji-soo is the best female eSports player in StarCraft history",
+      "excerpt": "Seo ToSsGirl Ji-soo is one of the most successful female eSports players in the world and was once considered the best female StarCraft player. She's had many notable victories and grand titles. She not only played in women's leagues but in men's too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomasia.net/blog/seo-tossgirl-ji-soo-is-the-best-female-esports-player-in-starcraft-history/",
+      "originalUrl": "https://www.telecomasia.net/blog/seo-tossgirl-ji-soo-is-the-best-female-esports-player-in-starcraft-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telecomasia.net/upload/iblock/bb0/bb010d4b1564f75f67a30f4060871b47.jpg",
+          "width": 660,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomasia.net/amp/blog/seo-tossgirl-ji-soo-is-the-best-female-esports-player-in-starcraft-history/",
+      "cdnAmpWebUrl": "https://www-telecomasia-net.cdn.ampproject.org/c/s/www.telecomasia.net/amp/blog/seo-tossgirl-ji-soo-is-the-best-female-esports-player-in-starcraft-history/",
+      "publishedDateTime": "2022-05-18T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecomasia.net",
+        "domain": "telecomasia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-starcraft-dark-horses-zerg-brood-lord-statue-is-disgustingly-amazing.md",
       "title": "StarCraft: Dark Horse's Zerg Brood Lord Statue is Disgustingly Amazing",
       "excerpt": "Dark Horse Direct continues to release new statues inspired by the ships of Blizzard's StarCraft universe. Their latest StarCraft replica depicts one of the most imposing and disgusting ships in the series - the Zerg Brood Lord. This statue features a ...",
@@ -1143,48 +1186,6 @@
       "provider": {
         "name": "Forward",
         "domain": "portforward.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-starcraft-iis-extended-launch-trailer-revealed.md",
-      "title": "StarCraft II’s Extended Launch Trailer Revealed",
-      "excerpt": "You may remember that a month ago, Blizzard released a most excellent trailer for StarCraft II to coincide with the NBA finals (of all things): Now, just days before StarCraft II‘s world debut ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.themarysue.com/starcraft-ii-extended-launch-trailer/",
-      "originalUrl": "https://www.themarysue.com/starcraft-ii-extended-launch-trailer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.themarysue.com/wp-content/uploads/2020/12/themarysue-defult-social.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.themarysue.com/starcraft-ii-extended-launch-trailer/amp/",
-      "cdnAmpWebUrl": "https://www-themarysue-com.cdn.ampproject.org/c/s/www.themarysue.com/starcraft-ii-extended-launch-trailer/amp/",
-      "publishedDateTime": "2021-07-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mary Sue",
-        "domain": "themarysue.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -854,6 +854,7 @@ items:
   - pig-starcraft-2-did-you-know-that-thors-should-beat-battlecruisers-diamond-in-the-ruff-73
   - pig-starcraft-2-240apm-but-cant-spot-a-nuke-for-the-life-of-them-florencio-files-268
   - pig-ridiculous-bc-timing-spawns-a-fantastic-game-diamond-in-the-ruff-74-starcraft-2
+  - pig-starcraft-2-flo-tortures-them-with-just-1-factory-florencio-files-269
 
 topics:
   - StarCraft 2

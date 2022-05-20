@@ -3,7 +3,7 @@ title: "StarCraft 2: NAIL-BITING Protoss vs Protoss! (Zest vs Creator)"
 excerpt: "An extremely close Protoss versus Protoss in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/fi5EXG  Zest and Creator are two of the best Protoss players in the world. While Zest may be more accomplished overall, Creator has always been an extremely"
 originalUrl: https://youtube.com/watch?v=xrA9x6UFwM4
 type: video
-length: PT23M16S
+length: PT23M15S
 publishedDateTime: 2016-12-15T14:17:45Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Dv2qrtgIGr1m8qI6prmj8CYPlUlsLTMfEfniASpHU4CixDNc/qQaRVyc8kbzL+Xpkolb/gSPJSLiuNetx9BsVBiSGibSnex2eL+VPYutgAmE2okJIDxub2mpQK3rnCdhPpsSdyU+Ifs9yL3WWYIvT5+wtAa3HR+axnvWrDLrD+sLdWvu3MYbofFzccG5fkfHhSTriyzaxB0bG0yN8DdTefnOO+TuJSRbItVCOGPkVTcTz6SXO+j3+CCvZZ1qcWoJNDRM3bf53lYXU6kMlzJwjpIOuYzjj79lpR9YvL0KNSewE5rQXGuu4czE0Y8kOk68DRhKnT2TB1nTbDkqTEEdyUuKw53plA60Dm5n5atek8rLd7bioFikM6k5mA7HaHWXQFjQxzwcc8TADVbhXyf1myC8a8JzdDxZOAj+Pg9R1UdTnD//Jrpc/aBelMaK4F4Q;ViNZdGIVBTVAE6fbM0fKtQ=="
+secured: "Alc2GC+rAj7zXdd3EujBp763RmVJd2aMN9DqfdfdMr4XY90m1GkBVKLMqsUhSPejod9tepJBB6phW+KogsIn9cPd01jSzn+fLTCKSVl95EG33Wq31yn2TzE1f9EVJSAx6qHBbsdiBQuRvNgSaCF8h6q1BWdNyDTFqi/DFW+zQSr2eMnmsA2DD9/PIM/SI8y3z02M2LnhUJxTVctGnUgCN2w2YVd6Ey35vgR+QqZ3owpDVobaCziVI56mNuhz4AXqZRJ5R2O1eO5u4GVyLHeKk8GYp7aFk6/CJ2ZmAF0v7UxIqFAN3vUsE4MWxNQ/AzawnbFbnCelyM0EmIqZhqR5vj3ui0tMY+1Oy/TDdbpsMja1hPk0Jm1VGZafbKdBhk2G1aeY0Wyg8E74Rj3qq22tCroDZYTJ0s9U0kDg1eW02dG4/98dyOxatvQ4ncVvHQgL;CElKkU7xNS68DgPM3DlXNQ=="
 ---
 

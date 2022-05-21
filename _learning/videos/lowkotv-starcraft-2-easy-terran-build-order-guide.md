@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M21S
 publishedDateTime: 2015-03-09T15:12:42Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1haIHmlSusA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "jTXajX3SonaKpI9KpwChEKyxQYzMRNUclvuAy8HNWaUFKMvkykLVX7BQg/5noawFTJot1yfVXWu1bVFEsBfze7uSNT+i/s4DeZnFgJz7rf48TI7kGWCUHdgfFWoAl3NGosooGzgvBnwz3Sf36HHou9chWsdRwuYXavVOTKzp9E9f98gd3uKluJkc0GP4GZLro41W/Ad4BsyVMe+4+ZnB7edQh9tyQEhhKJfEmPYVNBKati74IicXyzasWZ6S1LgW8bdgHegF45qQK/oAgpgyZRPWEymR0rPVtvgkuAvl0JQtPuyREVWB9DP1sGefum6DcG6HLp3w8Fx/4pWirlqXAWlIdbufWMOrdBL/jTkxWHJo5Ao5SFBWmB7/+UMYO1SO4ASVUYwhYO0h+PYv0F9qAd1qp0zhlcc9Ytok9W8Dho0zsd8iNpQjJDorj7C+OQ+U;0eHExJXBkD98qsKcEOWqhw=="
+secured: "gMC+N1JPyclqNrnpEij6c2fyLEEwuxy1fQRln5DIlx7n0RMeU/jHs+viz61dp4hfbwVwy2PKEcV5OnCC/bPLGl9nqOpSG8Zw6wVDNs1H8/2qJ6EVZpO44a/Tx4Xvx8uu9ac1HNglygw4qjTYfWngrS5unIjitbfS02sOkjt//5aTiwnOsrwUQnecXCoxY8/jZL1ZZUbIPOlR+JAJjw+kPox2jC/BtkS/aIs8GsyGQDc2RTyx5o0xoQ4TrpHY0yvu4JrK2sNtAKxv6gB1dkUzhVVOALCh+M/R1y7l4MAdhQ+5A/UujlAWDznqYQz0gzUcRvPn92xAnmN/SwBiYk0ZaY7OtyrmRE8SYauj/PWKY6XZ43TjgG7M8tzz1wqwAWPw+A5cTjtDCYOSBZMMkvgc82t2JC1RYr69Fl7kIufqGs3E72NLWhgHkQ5B3efTQ6gH;rKzBkYWGEdjy73PZP/lKVQ=="
 ---
 

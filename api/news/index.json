@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-20-starcraft-ii-pro-gamer-stephano-suspended-and-fined-for-sexual-comments.md",
+      "title": "StarCraft II pro gamer Stephano suspended and fined for sexual comments",
+      "excerpt": "French StarCraft II superstar Ilyes “Stephano” Satouri, who recently signed a new deal with the prominent Evil Geniuses organization one month ago, has been suspended by his team without pay ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamespot.com/articles/starcraft-ii-pro-gamer-stephano-suspended-and-fined-for-sexual-comments/1100-6398219/",
+      "originalUrl": "https://www.gamespot.com/articles/starcraft-ii-pro-gamer-stephano-suspended-and-fined-for-sexual-comments/1100-6398219/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/mig/2/3/2/5/2122325-169_egstephanosuspended_gsnews_10152012.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/starcraft-ii-pro-gamer-stephano-suspended-and-fined-for-sexual-comments/1100-6398219/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-ii-pro-gamer-stephano-suspended-and-fined-for-sexual-comments/1100-6398219/",
+      "publishedDateTime": "2022-05-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-seo-tossgirl-ji-soo-is-the-best-female-esports-player-in-starcraft-history.md",
       "title": "Seo ToSsGirL Ji-soo is the best female eSports player in StarCraft history",
       "excerpt": "Seo ToSsGirl Ji-soo is one of the most successful female eSports players in the world and was once considered the best female StarCraft player. She's had many notable victories and grand titles. She not only played in women's leagues but in men's too.",
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.ign.com/articles/starcraft-zerg-brood-lord-statue-dark-horse-direct",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1145,48 +1197,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-starcraft-2-heart-of-the-swarm-walkthrough-skygeirr-3-phantoms-of-the-void.md",
-      "title": "Starcraft 2: Heart of the Swarm Walkthrough Skygeirr 3: Phantoms of the Void",
-      "excerpt": "When the virophage starts constructing, you will get some reinforcements and 2 spine crawlers. Starcraft 2: Heart of the Swarm Walkthrough - Starcraft 2-Heart-of-the-Swarm 788 There are 3 strategies i can think of. First one, the one i use, is mass ultralisks.",
-      "sourceUrl": null,
-      "webUrl": "https://portforward.com/games/walkthroughs/Starcraft-2-Heart-of-the-Swarm/Skygeirr-3-Phantoms-of-the-Void.htm",
-      "originalUrl": "https://portforward.com/games/walkthroughs/Starcraft-2-Heart-of-the-Swarm/Skygeirr-3-Phantoms-of-the-Void.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://portforward.com/games/walkthroughs/Starcraft-2-Heart-of-the-Swarm/default.webp",
-          "width": 1100,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forward",
-        "domain": "portforward.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

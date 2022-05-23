@@ -4,7 +4,7 @@ excerpt: "This is currently one of the best build orders in StarCraft II: Heart 
 originalUrl: https://youtube.com/watch?v=sq7Yj3kSm5Y
 type: video
 price: Free
-length: PT4M53S
+length: PT4M54S
 publishedDateTime: 2013-06-08T13:46:29Z
 heat: 50
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "sZR8CiwhKcCjkTF6+ZcLXjFHmwRdW/YlmJXbdR18+fQbpSQthTB502ndyxfTOAPJCpYgqBOlg1WOiWj++ztBCah10Z/CHe47j05zJOm0E/cEUUYaWeqqcY0FILEsihQd7ckmz3VASfJOmALnASlftsdP8zJAQ1ZDdGZG++dsoE4/PtyN/xLejv02FmpDJDvdYtwkEgI/D9TS7RUZJbUdVyoM2ldWFQ5f/v/n/9GJ2jKjn3XwCD8BghFWguLRto3vHOAY/0VHZC/JYm9slnjXfVuT/KuZHVy5jmcunWRrwR03mmTs/a5jfUC9v3hFkYM/immYYYGIwj58my49m+YdQdgH31EX2mpKb5crZRk+GT+XPkR8fNF23qXC2wCCsIXBPtUVhOTHBObx3lqokosc29TAucMNr5gcCUSywUfsMDc=;2rcDl6JcyMZy0pHxEE2z3Q=="
+secured: "0h0o4Cdhkjp0R196+7+qUgq0ak0s3qJ63fetu8NiTpO2GEa//2IeE9jE7JwiTuXItcVbf2zdJOL9/DHCtO7dEI/NmGHFklYHlhTjRu1RV+GvS/mQUj0PlVQiTrH+t8xkIcBcwd87cArM1bOQxkcmXGMw3YaCXUgMvQv0Bhkq7YM41Tr3dGEvzneIA0vwqCOjRFVY7Ecz04uVF9/rjSpcOOEjTIjtUGO27W/v/cPc4SlBH3yW5ilYL4+f8aF0waTCOLmk8GOz9usBDtmv0RnfQhl8VaJGizy87/W56OZzXrbC/lBrx6b++aFjvxCB8VdUBseQN0EGhHSXn0AP1XB56uB5WSEh2jzLq4O+WdvDQhwk1DQ6abZ1FO4uoOsyLNATeJGTl41hgQqrycuDGuDo52W3yc7DDSEjCsQWWj37vE4=;MYgUp8JrX3TbktsXW26h4Q=="
 ---
 

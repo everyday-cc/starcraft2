@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=SariYo8-VNI
 type: video
 length: PT12M5S
 publishedDateTime: 2022-02-11T01:37:20Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SariYo8-VNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ images:
     height: 800
     isCached: true
 
-secured: "4mfGsQLVIHfSfkws5jcb3kQsf0qbg6NoTfPN4vo37fu9OUnn1JshH8Ggl0WuzkBOR8qEX8UaM/kSGHr/QHS9owLRTA0PAZz/1rEPphaJtBu/ZRXrsjkJ1NQh5l9NIh1+P5owSQkut1hVx78vGOmbi+ZuwpgGoiCPbPVVq1+YrNk+sOV3WxQmkWqis6Mt3HST3fXUWDObl++x2pvQmRseqBL8Pmxy0aAJ3TuvRKL1FjbDBN2VIrolyJn3WzTZgM2WBw+5GqDY/4gO3Qw5A2W8bMjTIZrhT6xFEZigqLbpdKiE6waAiGAFKd0tp0me25Fj/aA7RDNxXbSo5Oo+kcrsKtsrZVcOA5SEfRVEFS95XxIBsxiFM8y0xLE8PhU+kWlGH6odGS/rEFFa6dvzoG826oQnUkWQpHfjFsSpK97TUxc=;iVjdfrSbhEy4aeApdQQcQg=="
+secured: "HighFun1Kn7dPvAdilCfHDYQ3jWmr1Z9vf9/zLIaxOH1FRnZ4zaPLIH5JEZhLXaNyW2N1MmSyZRqflyyyeGffIvPzgb26Allwlo/UH5R8Z7xV4eXvNbFqM6ZjUuqZvT6XWbej1KUhucDbZ3xRv1dlIfgr/wrH8cGvtZc78bJNf6zxfVrg9ZE2BNOEpSALfB4W2OSC2U6vifhcVuJxwdNeCLH6Mkj6N5zdG/1pIymO68d0vz5A/UmYNFNJyPWj8ucgDrAFArLcMXog0bS8swM42WNEK1rrO0b4KkpyHZyovSqvkefI9dB1wn5fufJJ+QtgIUxU7ZObL3VP+XuCQKthlXbfDcIY109iVrDZ2o3olvHt7lK4Zlm3oeYlMLdyw91VhnlPCEBTKAekPr+H5pN4yXEEx/iHbx2nAm++eX+r1I=;YACni39pyKXtxzPttdDvQw=="
 ---
 

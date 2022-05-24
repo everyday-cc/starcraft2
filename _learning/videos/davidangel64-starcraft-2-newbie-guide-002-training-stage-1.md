@@ -4,7 +4,7 @@ excerpt: "In this episode we take our time in Stage 1 of the Training section of
 originalUrl: https://youtube.com/watch?v=AicbTSn3gjQ
 type: video
 price: Free
-length: PT30M11S
+length: PT30M10S
 publishedDateTime: 2015-11-28T02:30:10Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "AtBFWWA/gk1QNjBjmQXWppDdVyPvkO1joCOWCkiFRc3IPQpOrBXjcOwDi2iyXjXtWx4hwpA9Szw8ytltt6uunmxIwXHR97NzYnzttr+57Qpi5be1cO6G4FAxCTBmLmu94H8YxoU9/8EX8N6zEFbfa7zLcmp3IlYaI6+eRspWhefO0pK6Vl3M021smNJNmFo0PVel82AE10VSLW12mVREiz2Lurcwy21gwLVkTrWglZzKGN1jwZO1XdjwYnG7GAvzc/hT4w0TZHpAfW5GMj2LqDAxTZ+MIjSxnAJJSlznz+ADa+JO90vv72h6Y+Jx8VPetNfP4lOhGkO6ExrL6+sWUB5G5X8Sg2hM4KNPqTBKiP9MFdUqQ5fz6ysJseWpMEfbQw1Kh8xRGXm7J5sPLBdfRsVpLmOb+jv50lxwFqavGjY=;mVDsE48gjij0sPakNskafQ=="
+secured: "ccE04DQcPIaW6aMb4EkoRM9K5f19R9Akh49Q80KcKe+nHHZLhpCzWu/tRJyb73elQ9VLehmJjord+KbfcnwFCVZkzAVP8iTiwuB2CYYhe3R0NgMyooJfMjaOcESKOZuE63LL9FdWWoQ33rIEfBg2l0NW3II0YGfeu8OY3aPq5+wCaIFdsKxf8Z2sVTa9UnytcRsq49Ai0xMGJeKqey7QhICb25Hurx68gnd6mWFUVAmNrB+UXycD7+GqK/LjAGBT06k/RNfduAHkmJjVFBN3oZ1n8qR51qCOH1zl7aTNStCNGiQpx/KhwrcZeRkQFcHbY4hUb/v3bFZtoGY4XPfy7afRcbOombaVYp08SP4eJ9Pcp4Vp5bRBu4pYttIlAuZiI5fa6G/aFOw/MS5D3X2ySBbjnBgoV863ACqPdSY202o=;si6ug7WvRcxr2m8lTla2lQ=="
 ---
 

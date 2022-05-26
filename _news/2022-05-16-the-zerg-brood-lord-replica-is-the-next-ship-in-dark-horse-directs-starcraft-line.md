@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "StarCraft: Dark Horse's Zerg Brood Lord Statue is Disgustingly Amazing"
-    excerpt: "Dark Horse Direct continues to release new statues inspired by the ships of Blizzard's StarCraft universe. Their latest StarCraft replica depicts one of the most imposing and disgusting ships in the series - the Zerg Brood Lord. This statue features a ..."
-    publishedDateTime: 2022-05-12T11:00:00Z
-    webUrl: "https://www.ign.com/articles/starcraft-zerg-brood-lord-statue-dark-horse-direct"
+    excerpt: "Dark Horse Direct continues to release new statues inspired by the ships of Blizzard's StarCraft universe. Their latest StarCraft replica depicts one of the most imposing and disgusting ships in the series - the Zerg Brood Lord."
+    publishedDateTime: 2022-05-12T14:25:00Z
+    webUrl: "https://me.ign.com/en/comics/197570/news/starcraft-dark-horses-zerg-brood-lord-statue-is-disgustingly-amazing"
     type: article
     provider:
       name: IGN
       domain: ign.com
     quality: 124
     images:
-      - url: "https://assets-prd.ignimgs.com/2022/05/12/starcraft-brood-lord-replica-13-1652327482170.png?width=1280"
+      - url: "https://sm.ign.com/t/ign_me/news/s/starcraft-/starcraft-dark-horses-zerg-brood-lord-statue-is-disgustingly_x6n7.1200.jpg"
         width: 1023
         height: 575
         isCached: true

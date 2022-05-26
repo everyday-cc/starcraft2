@@ -1,10 +1,10 @@
 ---
 category: news
 title: "StarCraft: Dark Horse's Zerg Brood Lord Statue is Disgustingly Amazing"
-excerpt: "Dark Horse Direct continues to release new statues inspired by the ships of Blizzard's StarCraft universe. Their latest StarCraft replica depicts one of the most imposing and disgusting ships in the series - the Zerg Brood Lord. This statue features a ..."
-publishedDateTime: 2022-05-12T11:00:00Z
-originalUrl: "https://www.ign.com/articles/starcraft-zerg-brood-lord-statue-dark-horse-direct"
-webUrl: "https://www.ign.com/articles/starcraft-zerg-brood-lord-statue-dark-horse-direct"
+excerpt: "Dark Horse Direct continues to release new statues inspired by the ships of Blizzard's StarCraft universe. Their latest StarCraft replica depicts one of the most imposing and disgusting ships in the series - the Zerg Brood Lord."
+publishedDateTime: 2022-05-12T14:25:00Z
+originalUrl: "https://me.ign.com/en/comics/197570/news/starcraft-dark-horses-zerg-brood-lord-statue-is-disgustingly-amazing"
+webUrl: "https://me.ign.com/en/comics/197570/news/starcraft-dark-horses-zerg-brood-lord-statue-is-disgustingly-amazing"
 type: article
 quality: 124
 heat: 164
@@ -23,7 +23,7 @@ topics:
   - Zerg
 
 images:
-  - url: "https://assets-prd.ignimgs.com/2022/05/12/starcraft-brood-lord-replica-13-1652327482170.png?width=1280"
+  - url: "https://sm.ign.com/t/ign_me/news/s/starcraft-/starcraft-dark-horses-zerg-brood-lord-statue-is-disgustingly_x6n7.1200.jpg"
     width: 1023
     height: 575
     isCached: true
@@ -58,6 +58,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "PEWa4fs+MZCf/LIiQLq3kQW1JTj/ozSwQURdtXJE5gB5xQNeRqqKVmBJKxfaGtfQ9MifjFv+nQMSQGQQNUtKGo0dskjFBVPJK1be0QxB1kARXxADamFrSZFFRhfjD3J7cXOiyfzL2zUDMEXBflTAx+webuXVsr5GP3/46ap/zJeYvKtjOs/Nbh4AoByYFZ5SLwAvPYEUI2QPI03QL8xcSeowoiwyClcWT2Z2x67Gsrj0UpQh5AQKCWEaSlg2HoA+7jG9/lj3U4T0zkF4cSYKKE4Pym/pwtflTQVvkVBS/x/ES3x6ZTdsVmWi3iZTcPQDmXxQ4s6XP8dvNLj8/bD4V39M1mee0wBNsS3ddJyzcTc=;gGDFfJcpWeGE1yg4pSmX+Q=="
+secured: "KMOE7oZ+bXvjZUIMUf0ut7S/niubZodekKIPtwwRS7sEo7B2A7jetI2F5YV0o7xB20gqDyLWEO+YhByW8dkqBLtyLAay86qgxDJl5r3EpbKu8+b/ah+DqnejCJedKBMgAFVsIpbUnoYmxikJTTkXlVtQ2kcfZhXe54JEgMhnMbaf/XwZc5QJ/fcmGSR/MXh3gDzIpCT3CrnscZC9qILzbm7cadojl8FLMI39rhFekjcOID6oeFMLitcK/rC2N3j7iwrdQ+nx1kbRhtfevhAJwK2qU7J9T0tYmsKpMY+eFQgGpmEV+jY0Q0pFCOEMGRGdcHnQ7T5URxSJdRm64ZHw/d9VDkEQmZZuFZTcs5tihrI=;dkn4PeJVMk6i5CAaeNkq6g=="
 ---
 

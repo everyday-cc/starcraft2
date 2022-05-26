@@ -4,6 +4,68 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/videos/pig-zerg-struggling-vs-mech-newbie-stream.md",
+      "title": "Zerg Struggling vs Mech - Newbie Stream",
+      "excerpt": "This is a highlight from my newbie/beginner stream where I analyse a zerg players’ replay who struggles vsing mech -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-zerg-struggling-vs-mech-newbie-stream/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-zerg-struggling-vs-mech-newbie-stream/",
+      "originalUrl": "https://youtube.com/watch?v=m8bzWAg0HBk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m8bzWAg0HBk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:06-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/m8bzWAg0HBk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-zvt-coaching-vs-qxc-5k-master-1-zerg.md",
+      "title": "ZvT Coaching vs QXC! 5K Master 1 Zerg",
+      "excerpt": "A live recorded coaching session where my student practices ZvT vs QXC -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-zvt-coaching-vs-qxc-5k-master-1-zerg/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-zvt-coaching-vs-qxc-5k-master-1-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=-WvZb26zuEM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-WvZb26zuEM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H15M9S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-03-01T03:14:39-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-WvZb26zuEM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-zvt-rule-of-1-gas-coaching-diamond-zerg.md",
       "title": "ZvT Rule of 1-gas Coaching - Diamond Zerg",
       "excerpt": "Coaching a (still very solid) Zerg build!   -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to my Discord: https://discordapp.com/invite/SkhbzCM",
@@ -416,37 +478,6 @@
       ]
     },
     {
-      "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-beginner-guide-1-updated-2017.md",
-      "title": "Learn to play Starcraft - Zerg Beginner Guide #1 - Updated (2017)",
-      "excerpt": "We go over the basic mechanics of zerg and show the importance of understanding at least some of what your opponent is doing.  This guide is meant for players with an understanding of the objectives of starcraft but without any strong direction or gameplan, especially for each specific race! -- Watch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-beginner-guide-1-updated-2017/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-beginner-guide-1-updated-2017/",
-      "originalUrl": "https://youtube.com/watch?v=UdFTRsXMG7w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UdFTRsXMG7w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M23S",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-11-19T09:09:08-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UdFTRsXMG7w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-starter-guide-2-build-order-updated-2017-lotv.md",
       "title": "Learn to play Starcraft: Zerg Starter Guide #2 [BUILD ORDER] (Updated 2017 LOTV)",
       "excerpt": "We go over a very basic Zerg build order designed to get you into the midgame with a good economy and options. These guides are in no particular order, nor are they meant for COMPLETELY NEW (less than 10 games) players, instead are all meant to help improve generally!",
@@ -526,45 +557,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/9niBzw9Wk6Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-easy-zerg-build-order-in-depth.md",
-      "title": "StarCraft 2: EASY Zerg Build Order! (In Depth!)",
-      "excerpt": "In this video I cover a relatively easy build order for new or returning Zerg players for StarCraft 2: Heart of the Swarm. This build order is relatively easy to execute after a few hours of practice and will allow you to beat your opponents.  14 Spawning Pool 15 Hatchery 15 Queen 17 Overlord 2x Zerglings",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-zerg-build-order-in-depth/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-easy-zerg-build-order-in-depth/",
-      "originalUrl": "https://youtube.com/watch?v=ScyK_2okKZE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ScyK_2okKZE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M33S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2014-01-06T07:05:30-08:00",
-      "heat": 49,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ScyK_2okKZE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

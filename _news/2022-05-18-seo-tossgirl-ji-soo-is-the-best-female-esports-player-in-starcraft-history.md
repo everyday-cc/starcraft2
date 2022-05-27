@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telecomasia.net/amp/blog/seo-tossgirl-ji-soo-is-the-best
 cdnAmpWebUrl: "https://www-telecomasia-net.cdn.ampproject.org/c/s/www.telecomasia.net/amp/blog/seo-tossgirl-ji-soo-is-the-best-female-esports-player-in-starcraft-history/"
 type: article
 quality: 72
-heat: 95
+heat: 94
 published: true
 
 provider:

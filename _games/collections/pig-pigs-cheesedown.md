@@ -18,6 +18,10 @@ items:
   - pig-cheesedown-3-has-vs-noregret
   - pig-cheesedown-2-noregret-vs-has-g1-2
   - pig-has-vs-noregret-bo9-cheesedown-4
+  - pig-starcraft-2-the-two-cheesiest-players-have-a-fondue-party-has-vs-bly-cheesedown-part-14
+  - pig-starcraft-2-has-and-blys-cheese-fondue-party-heats-up-cheesedown-part-24
+  - pig-starcraft-2-has-and-bly-remember-theyre-cheesers-cheesedown-part-34
+  - pig-when-a-cannon-rush-meets-a-proxy-hatch-in-cheesedown-part-44
 
 topics:
   - StarCraft 2

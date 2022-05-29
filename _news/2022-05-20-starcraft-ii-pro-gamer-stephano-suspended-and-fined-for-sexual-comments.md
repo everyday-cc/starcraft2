@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/starcraft-ii-pro-gamer-stephan
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-ii-pro-gamer-stephano-suspended-and-fined-for-sexual-comments/1100-6398219/"
 type: article
 quality: 114
-heat: 119
+heat: 118
 published: true
 
 provider:

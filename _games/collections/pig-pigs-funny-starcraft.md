@@ -857,7 +857,8 @@ items:
   - pig-starcraft-2-flo-tortures-them-with-just-1-factory-florencio-files-269
   - pig-zerg-abuses-the-supply-cap-that-everyones-forgotten-about-diamond-in-the-ruff-75-starcraft-2
   - pig-gold-league-player-has-artosis-meltdown-salt-mines-4-starcraft-2
-  - pig-noob-outsmarts-reynor-in-the-holdout-challenge-starcraft-2
+  - pig-how-quickly-can-reynor-dispose-of-noobs-holdout-challenge-starcraft-2
+  - pig-6-times-sc2-pros-failed
 
 topics:
   - StarCraft 2

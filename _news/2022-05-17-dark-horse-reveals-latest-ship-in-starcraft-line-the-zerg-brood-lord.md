@@ -7,8 +7,8 @@ originalUrl: "https://geektyrant.com/news/dark-horse-reveals-latest-ship-in-star
 webUrl: "https://geektyrant.com/news/dark-horse-reveals-latest-ship-in-starcraft-line-the-zerg-brood-lord"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: GeekTyrant
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "StarCraft: Dark Horse's Zerg Brood Lord Statue is Disgustingly Amazing"
-    excerpt: "Dark Horse Direct continues to release new statues inspired by the ships of Blizzard's StarCraft universe. Their latest StarCraft replica depicts one of the most imposing and disgusting ships in ..."
-    publishedDateTime: 2022-05-12T16:47:00Z
-    webUrl: "https://www.ign.com/articles/starcraft-zerg-brood-lord-statue-dark-horse-direct"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 124
-    images:
-      - url: "https://assets-prd.ignimgs.com/2022/05/12/starcraft-brood-lord-replica-13-1652327482170.png?width=1280"
-        width: 1023
-        height: 575
-        isCached: true
   - title: "The Zerg Brood Lord Replica is the next ship in Dark Horse Direct’s Starcraft line"
     excerpt: "Evolved to rule the skies, the Swarm’s aerial siege unit is making its way to your gaming den, brought to you exclusively by Blizzard Entertainment and Dark Horse Direct! The Zerg have arrived with the StarCraft: Zerg Brood Lord Replica."
     publishedDateTime: 2022-05-16T02:00:00Z
@@ -52,6 +38,22 @@ related:
       - url: "https://i0.wp.com/graphicpolicy.com/wp-content/uploads/2022/05/StarCraft-Zerg-Brood-Lord-Replica.png?fit=1024%2C1024&#038;ssl=1"
         width: 1024
         height: 1024
+        isCached: true
+  - title: "Expert Starcraft players employ more efficient gaze control abilities than low skill players, study finds"
+    excerpt: "Research shows action video game players have improved cognitive function such as better task-switching (i.e., quickly alternating between multiple separate tasks) ability and visual processing compared to non-players."
+    publishedDateTime: 2022-05-20T17:05:00Z
+    webUrl: "https://www.psypost.org/2022/05/expert-starcraft-players-employ-more-efficient-gaze-control-abilities-than-low-skill-players-study-finds-63180"
+    ampWebUrl: "https://www.psypost.org/2022/05/expert-starcraft-players-employ-more-efficient-gaze-control-abilities-than-low-skill-players-study-finds-63180?amp=1"
+    cdnAmpWebUrl: "https://www-psypost-org.cdn.ampproject.org/c/s/www.psypost.org/2022/05/expert-starcraft-players-employ-more-efficient-gaze-control-abilities-than-low-skill-players-study-finds-63180?amp=1"
+    type: article
+    provider:
+      name: PsyPost
+      domain: psypost.org
+    quality: 40
+    images:
+      - url: "https://www.psypost.org/wp-content/uploads/2022/05/gamer-playing-in-front-of-computer-screen.jpg"
+        width: 1140
+        height: 570
         isCached: true
 
 secured: "8AbYpvmjkhRMY3TZXz1UbNTuk/7P8R9ebxBwIhXqMNRzJKhSTpJAVZovFhdnIAwtzToKpi5c4HzgXXyneGZibGwLauVtuD4xrr7q6bBP8wnjuj3W/M3RYVkoUGj7cObXZdrrTTyPxQueyzwWEomcm2sLLeBcI1Ss9Q7bGg6p2uIoyOIDS/+9q+x/olJ4e+tsjCmg5c1qoZ9n9LeGLvqXDhP3bIP1YTO5KazFBLCg5GJu08kdCSHELp2kYfHVU6VNa0aeC3Pms7lWgRJj3M96Tyo9QCSvNj88j4TQA6VOnQ+unPbWxFP5JzaGSpJHQDRqqbuoqnqoQyZfYaKIf+5u/u3gV+Z1TBg1K3WapZlfKNj59e3PYELJnIquxYccvoYT85YpWR1bPhjniaOhR2tMOQ3m2BgwJKegK7s/s7xDDOCdRe0ElXUGhdnmoToYc6r4W3nE/Fsel8tvKTWW0xKNCPE+URzZlM1oBMSKxvUSnJ4RPg43UP05/e7Icc/owcYmuqDxDmjct4tguIdWpf5NOw==;RPxvfwtRN0fgVSfVUnQ9uQ=="

@@ -3,7 +3,7 @@ title: "Surprise Mofo! - Attacking 2+ Places at Once - ICYFAR - G3 - The PiG Dai
 excerpt: "THIS WEEKS ICYFAR Challenge: \"Siege Warfare - Send in your replays with your best siege tactics. Some suggestions: tank-bunker push, a lurker nydus or a pylon-disruptor push. Gl!\r \r Send submissions to pigrandom88@gmail.com as attachment AND only ICYFAR as title! Latest submission is 24 hours before"
 originalUrl: https://youtube.com/watch?v=UKl8omNA0BM
 type: video
-length: PT16M28S
+length: PT16M29S
 publishedDateTime: 2021-06-01T12:46:41Z
 heat: 50
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "LPioGqvCBWhTxxVOZhB7fzk5qwxXmqmyT7VrIEbQkmOOSiL0ehGxAbQ3n9Z0yp3FtBteXkF2neiWH1sMcICY5ktzRXGMdnfy5BK38lATWagOIgT9/tbSCpdFiO9UpsSlQSvxLh0Qkji+QPCYB1/bLDysOBP75On+AIiJbV/LqY9G1g0yNlx53uk1XOWkI8zESMJdPTcnN1IEzhyfS06enu2x70FHfmr4IeQn++bR8AJXy43UOohsM5KpWr/1CSG7FCFE27IBHQW2Hq4bLG2agHegKbrheec4SeJexVppjHv/1V/YPBw0IdBkCNCuvKbGXFwXUQh+AXgt7YUSVZFO7mwoUgtF79IvdGyBBf6cMbPwwm5a7L5bDxzZGclolrbtF5czeDiW5gLjQt4I44x/Bkj0zfQVReJIyXPgcmb27Jc=;FwTefslqQupjCtAk9tkW6w=="
+secured: "ajF94uALu5REHjmaFHuFOtY1h+sVUzwabsQHHFY3BztXAZcrv6mRaqybVGnBUda42k63RPRJh1bg/QvO98aBOo6926/nHF+F3TD7rcJglZQICYrglGBBgi0jOSTKAgqkfp70QVKSBynj2JjVgo0q6llRif7YkEQw3pAZjo3MX010J2eT+JqQcI0g2MXFcMIpO57vemGiVNkGbph9BznmgBGjHtXS48FsAtyEP1JFM0c1gZWtL093Zr7fsnYZs0/ZGuPLu9gK7Gj3yy3K9cvarVu+92VMdHthA0+66lgNrBqiV30Nh5fKXnQM330J9LaEUQPcNkvwrYv+RCIP3gLeobpzHZtvptGPikiW0BT9fj85CZxQUl9Xjq42e4JIoRKA7YWXQrtXIV6YHRdHZBGhoMIXVTWKUzGFKBi+DRIWrVk=;k3sNyNnRizHhm8h5BQc0Vw=="
 ---
 

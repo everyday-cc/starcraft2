@@ -25091,7 +25091,7 @@
         "StarCraft 2",
         "Protoss"
       ],
-      "heat": 100,
+      "heat": 75,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -25122,7 +25122,7 @@
         "Zerg",
         "Terran"
       ],
-      "heat": 142,
+      "heat": 117,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",

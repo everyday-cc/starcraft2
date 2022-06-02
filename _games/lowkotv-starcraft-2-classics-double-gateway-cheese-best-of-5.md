@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=jwtXY3vum04
 type: video
 length: PT44M6S
 publishedDateTime: 2022-03-30T16:32:19Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jwtXY3vum04\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 800
     isCached: true
 
-secured: "jeD5KlQA3TwgaAKuk6/lrVEHujAf/O9O/f87m7PwwQg1/afLb3VI0saJyFpsjtMxGrEn17QLqcE2724DGWNbAZP90UxquumcetRmuCWDWSAvW/1Zeuf8ExbG+HX1sMFgklQ0NutP95ZtF8fNyLbROood3M/l16p7v396BHNqOx++BuYSj8j9bPzkS0VmFg68dyOGYO0mr1Ja8uX/Os4UqtslwJiAHxp/ZnO45m4a2o3hza93XNfACm27CnW4AEobFQzf3jjgM5ukQNzTUMzzCUhrbRz6TCX1RH9U+ZiUGd/6SYMXG9JmMKidBX9d7bBEZnDf9Q+9ij8tzINxIMbpjgIxjX4+7DgTJ2FfO5ifspe5nyKtaQvmw35DfN11CliC9TZ3ItOApgkfDfpvhJ8dCB4ZDSm7N+CCheCrhz875LM=;5I5CgP18ZutY3xuyrzobvw=="
+secured: "Gta+Z74+h1tIvqTC8IbAqgP2vy/7Q9ci6SukJHtmDuK3TevyDOTxCWfE12XQ3OTEjNidbVhfkC9h6HwaYxRqfz12adavOUj4EvnnG8huyrEmOhSVS63Lq4rJBQdxGSlYgS95pIcomKsyDejxT2byZkxiDnNsIT7QxOqQznwOhOkzTP5XGQZdVtgqTWJucn/xfeazI9hAwZD0TYsdkMA1axo2aXPP97ln//008dOnR9CiKS0pXRDjOs2ixWqIfdWzBjw+jFwAde3cNsjgqLK51X1dGloQOvX661lARRup5bc5w+roNfmlc6sCvqlg2cjEP3FBeAT5QjAod//kDn7UzYom+P1lAauxFzDhSenTK7ANypSuc4+N3EFjbdOesFBJpXH46nCnOs7AXANY/5ThcFySXJ2wOWj6z3Vp4/9BRfM=;wS0S5aDRy9w9RfV/CXP2Fw=="
 ---
 

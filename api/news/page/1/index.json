@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-02-is-starcraft-2-dead.md",
+      "title": "Is StarCraft 2 Dead?",
+      "excerpt": "So is StarCraft 2 dead or dying? ➤ We look at South Korea's favourite RTS with the stats ✔ numbers ✔ and viewers",
+      "sourceUrl": null,
+      "webUrl": "https://www.esports.net/news/is-starcraft-2-dead/",
+      "originalUrl": "https://www.esports.net/news/is-starcraft-2-dead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.esports.net/wp-content/uploads/2022/05/StarCraft-2-Tournament.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.esports.net/news/is-starcraft-2-dead/?amp",
+      "cdnAmpWebUrl": "https://www-esports-net.cdn.ampproject.org/c/s/www.esports.net/news/is-starcraft-2-dead/?amp",
+      "publishedDateTime": "2022-06-02T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "esports",
+        "domain": "esports.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2022-05-20-starcraft-ii-pro-gamer-stephano-suspended-and-fined-for-sexual-comments.md",
       "title": "StarCraft II pro gamer Stephano suspended and fined for sexual comments",
       "excerpt": "French StarCraft II superstar Ilyes “Stephano” Satouri, who recently signed a new deal with the prominent Evil Geniuses organization one month ago, has been suspended by his team without pay ...",
@@ -1137,48 +1179,6 @@
       "provider": {
         "name": "denoticias.es",
         "domain": "denoticias.es",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-share-starcraft-ii-beta-with-your-buddies.md",
-      "title": "Share StarCraft II Beta With Your Buddies",
-      "excerpt": "We’ve all been waiting over a decade. But Blizzard is finally releasing a few more StarCraft 2: Wings of Liberty multiplayer beta keys for the original testers to share with their friends ...",
-      "sourceUrl": null,
-      "webUrl": "https://heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with-your-buddies/",
-      "originalUrl": "https://heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with-your-buddies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://heavy.com/wp-content/uploads/2010/03/1269025106_star-craft-2.jpg?quality=65&strip=all",
-          "width": 600,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with-your-buddies/amp/",
-      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/2010/03/share-starcraft-ii-beta-with-your-buddies/amp/",
-      "publishedDateTime": "2021-08-18T17:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Heavy.com",
-        "domain": "heavy.com",
         "images": null,
         "publishers": null,
         "authors": null

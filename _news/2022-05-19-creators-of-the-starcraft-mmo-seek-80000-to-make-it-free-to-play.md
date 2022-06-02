@@ -9,7 +9,7 @@ ampWebUrl: "https://kotaku.com/creators-of-the-starcraft-mmo-seek-80-000-to-make
 cdnAmpWebUrl: "https://kotaku-com.cdn.ampproject.org/c/s/kotaku.com/creators-of-the-starcraft-mmo-seek-80-000-to-make-it-1121606136/amp"
 type: article
 quality: 77
-heat: 78
+heat: 77
 published: true
 
 provider:

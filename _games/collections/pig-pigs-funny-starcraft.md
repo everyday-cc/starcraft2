@@ -859,7 +859,8 @@ items:
   - pig-gold-league-player-has-artosis-meltdown-salt-mines-4-starcraft-2
   - pig-how-quickly-can-reynor-dispose-of-noobs-holdout-challenge-starcraft-2
   - pig-6-times-sc2-pros-failed-including-the-goat-serral-starcraft-2
-  - pig-is-this-the-worst-game-of-starcraft-ever
+  - pig-did-2-bcs-break-this-guys-brain-starcraft-2
+  - pig-this-is-why-you-clear-buildings-from-the-first-cannon-rush-icyfar-one-base-openers-starcraft-2
 
 topics:
   - StarCraft 2

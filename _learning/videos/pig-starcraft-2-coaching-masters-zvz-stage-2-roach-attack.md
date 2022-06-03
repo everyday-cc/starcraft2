@@ -4,7 +4,7 @@ excerpt: "I coach a masters 1 zerg player on how to develop into stage 2 of the 
 originalUrl: https://youtube.com/watch?v=8N3JNCric-I
 type: video
 price: Free
-length: PT1H29M31S
+length: PT1H29M30S
 publishedDateTime: 2018-12-21T08:42:45Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "H+Fhss2yVD8umztLYVPXCArLiCxs+zmyH/UF6vXLISx9o7R3QULkNObDKOfFuL+bIFdbigwWWO9xdk+ySvvzlAHZVZWN1Of4FAUsjcNvqVrHw+4QH9au0kAKbo+8fAaBF+vIqCwWzAZf1qIrsfnuGdrhF2YXetY7cnTw+hneHFVRkD9TRYfA0H99waiPBNK710F+AzHnYmKZx5GhwVvMfjAvezNqNqWOmTw3ibi0gpYGEfGQwuysV5yXqOh+6OVQjgG85XkF6M+Qe215nZIKQVXSGaXFPBy+Y9hquPFuzZTbC5Kwb5U0R3V2t6iUU1lsUMZKYuK27XTj4gVbZkx2TkHkjX7bbLXUp0GmajWPA6B2nubmaHHtdO0KEVabtmMBPIr5wRypGl1Oz/fJnRuQAU6w0VnBsqNCLOOEgj9RcP8=;WJGeyBoLm1qXJvdgOJXFrA=="
+secured: "POqof8qijAxTjvF/ZhTfiQtGuvIyzgRKiwTx6KclVIEY0YRJQB/7rjlHReN6tr1W3wULbfBHgg7rWHPJK99JC5+fF9I2nQ58L6kg9YQiuHc3qASGxcy1TSk9ElkIIfroMnEdzco+bauIpCwotmP6mXHo5axYuMFb7mDXyI/zTh5a9I8vGMlwSskJyzhCt2I5wYGwYK2Z5ZA9DEHgGCvXnmy7SnTZdQXtK+wEvop7na1DAgirz3R/ilgVdscYkXIntGvxWPFD6A3OepiWNdB85hM/IQ3GiD0mgVFpl1xDZx5H+7fRW5KW7CoKnYGgZhltW/8ghfO9N0WCAFy2BfwfiYphA0524wZnux0PdUBeRbtEQ4mGSviHAsgObacaI+T6vAnaAiyn85J7/+h0ScTJHMj8gfiRWPsO4g8DPm84ZcU=;uB4dj9K2n3cvW/+91i8SIQ=="
 ---
 

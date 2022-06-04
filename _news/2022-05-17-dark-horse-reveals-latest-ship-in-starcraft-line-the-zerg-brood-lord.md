@@ -7,7 +7,7 @@ originalUrl: "https://geektyrant.com/news/dark-horse-reveals-latest-ship-in-star
 webUrl: "https://geektyrant.com/news/dark-horse-reveals-latest-ship-in-starcraft-line-the-zerg-brood-lord"
 type: article
 quality: 84
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Zerg Brood Lord Replica is the next ship in Dark Horse Direct’s Starcraft line"
-    excerpt: "Evolved to rule the skies, the Swarm’s aerial siege unit is making its way to your gaming den, brought to you exclusively by Blizzard Entertainment and Dark Horse Direct! The Zerg have arrived with the StarCraft: Zerg Brood Lord Replica."
-    publishedDateTime: 2022-05-16T02:00:00Z
-    webUrl: "https://graphicpolicy.com/2022/05/15/the-zerg-brood-lord-replica-is-the-next-ship-in-dark-horse-directs-starcraft-line/"
-    type: article
-    provider:
-      name: graphicpolicy.com
-      domain: graphicpolicy.com
-    quality: 78
-    images:
-      - url: "https://i0.wp.com/graphicpolicy.com/wp-content/uploads/2022/05/StarCraft-Zerg-Brood-Lord-Replica.png?fit=1024%2C1024&#038;ssl=1"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "Expert Starcraft players employ more efficient gaze control abilities than low skill players, study finds"
     excerpt: "Research shows action video game players have improved cognitive function such as better task-switching (i.e., quickly alternating between multiple separate tasks) ability and visual processing compared to non-players."
     publishedDateTime: 2022-05-20T17:05:00Z

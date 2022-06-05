@@ -4,6 +4,66 @@
   "page": 16,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-can-sun-tzus-wisdom-stop-the-sewer-mermaid-the-florencio-files-26.md",
+      "title": "StarCraft 2 - Can Sun Tzu’s Wisdom Stop the Sewer Mermaid? | The Florencio Files #26",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-can-sun-tzus-wisdom-stop-the-sewer-mermaid-the-florencio-files-26/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-can-sun-tzus-wisdom-stop-the-sewer-mermaid-the-florencio-files-26/",
+      "originalUrl": "https://youtube.com/watch?v=VncOxOE-bBg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VncOxOE-bBg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M25S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VncOxOE-bBg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-09-22T15:05:46-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-captain-america-polt-takes-on-ruff-diamond-in-the-ruff-4.md",
+      "title": "StarCraft 2 - Captain AMERICA (Polt) takes on RuFF | Diamond in the Ruff #4",
+      "excerpt": "Welcome to our new series, Diamond in the Ruff! Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-captain-america-polt-takes-on-ruff-diamond-in-the-ruff-4/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-captain-america-polt-takes-on-ruff-diamond-in-the-ruff-4/",
+      "originalUrl": "https://youtube.com/watch?v=cQ9mRIk4xJQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cQ9mRIk4xJQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M49S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cQ9mRIk4xJQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-08-18T07:19:22-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-chonkiest-medivac-ever-made-the-florencio-files-101.md",
       "title": "StarCraft 2 - Chonkiest medivac ever made | The Florencio Files #101",
       "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
@@ -846,66 +906,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-05-22T14:00:06-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-just-do-this-build-and-win-100-the-florencio-files-21.md",
-      "title": "StarCraft 2 - “Just do this build and win 100%” | The Florencio Files #21",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-just-do-this-build-and-win-100-the-florencio-files-21/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-just-do-this-build-and-win-100-the-florencio-files-21/",
-      "originalUrl": "https://youtube.com/watch?v=OZLRSehKPzo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OZLRSehKPzo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M17S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OZLRSehKPzo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-09-22T15:04:40-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-lets-take-the-kids-to-six-flags-the-florencio-files-62.md",
-      "title": "StarCraft 2 - Let's take the kids to Six Flags | The Florencio Files #62",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-lets-take-the-kids-to-six-flags-the-florencio-files-62/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-lets-take-the-kids-to-six-flags-the-florencio-files-62/",
-      "originalUrl": "https://youtube.com/watch?v=INuNeJ1ZHGc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/INuNeJ1ZHGc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M5S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/INuNeJ1ZHGc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-05-01T13:04:29-07:00"
     }
   ],
   "nextPage": 17

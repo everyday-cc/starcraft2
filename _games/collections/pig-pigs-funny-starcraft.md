@@ -861,6 +861,7 @@ items:
   - pig-how-quickly-can-reynor-dispose-of-noobs-part-1-holdout-challenge-starcraft-2
   - pig-6-times-sc2-pros-failed-including-the-goat-serral-starcraft-2
   - pig-did-2-bcs-break-this-guys-brain-starcraft-2
+  - pig-i-dont-want-to-make-generalizations-of-skytoss-players-diamond-in-the-ruff-76-starcraft-2
   - pig-this-is-why-you-clear-buildings-from-the-first-cannon-rush-icyfar-one-base-openers-starcraft-2
   - pig-how-quickly-can-reynor-dispose-of-noobs-part-2-holdout-challenge-starcraft-2
 

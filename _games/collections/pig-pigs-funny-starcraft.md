@@ -864,6 +864,7 @@ items:
   - pig-i-dont-want-to-make-generalizations-of-skytoss-players-diamond-in-the-ruff-76-starcraft-2
   - pig-this-is-why-you-clear-buildings-from-the-first-cannon-rush-icyfar-one-base-openers-starcraft-2
   - pig-when-silver-players-try-to-do-flo-strats-icyfar-one-base-openers-g2-starcraft-2
+  - pig-this-player-malds-so-much-they-own-themself-salt-mines-5-starcraft-2
   - pig-how-quickly-can-reynor-dispose-of-noobs-part-2-holdout-challenge-starcraft-2
 
 topics:

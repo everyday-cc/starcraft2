@@ -862,6 +862,7 @@ items:
   - pig-6-times-sc2-pros-failed-including-the-goat-serral-starcraft-2
   - pig-did-2-bcs-break-this-guys-brain-starcraft-2
   - pig-i-dont-want-to-make-generalizations-of-skytoss-players-diamond-in-the-ruff-76-starcraft-2
+  - pig-when-zerg-cant-expand-til-5-minutes-its-time-to-icyfar-one-base-openers-starcraft-2
   - pig-this-is-why-you-clear-buildings-from-the-first-cannon-rush-icyfar-one-base-openers-starcraft-2
   - pig-when-silver-players-try-to-do-flo-strats-icyfar-one-base-openers-g2-starcraft-2
   - pig-this-player-malds-so-much-they-own-themself-salt-mines-5-starcraft-2

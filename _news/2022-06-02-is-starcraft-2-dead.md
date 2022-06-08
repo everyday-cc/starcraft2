@@ -9,7 +9,7 @@ ampWebUrl: "https://www.esports.net/news/is-starcraft-2-dead/?amp"
 cdnAmpWebUrl: "https://www-esports-net.cdn.ampproject.org/c/s/www.esports.net/news/is-starcraft-2-dead/?amp"
 type: article
 quality: 57
-heat: 77
+heat: 81
 published: true
 
 provider:

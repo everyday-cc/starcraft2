@@ -4,6 +4,68 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-build-order-tutorial-zouns-disruptor-into-colossus-all-in.md",
+      "title": "Starcraft 2: Build Order Tutorial | Zoun's Disruptor into Colossus All In",
+      "excerpt": "Starcraft 2 Build Order Tutorial. Did you see Zoun's insane performance in GSL?! Let's learn the build order he used vs soO: a disruptor colossus all in. Enjoy the Starcraft 2 tutorial!  #Zoun #Build #Order #tutorial #starcraft2 #sc2  0:00 Intro 1:59 Build Order Tutorial Begins 10:02 Like + Subscribe",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-build-order-tutorial-zouns-disruptor-into-colossus-all-in/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-build-order-tutorial-zouns-disruptor-into-colossus-all-in/",
+      "originalUrl": "https://youtube.com/watch?v=KzjT3CaXtHI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KzjT3CaXtHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M37S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-09-17T22:51:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KzjT3CaXtHI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-defending-mutalisks-terran-vs-zerg.md",
+      "title": "Starcraft 2: Defending Mutalisks [Terran vs Zerg]",
+      "excerpt": "In today's Terran Starcraft 2 lesson we are looking at how to defend mutalisks in Terran vs Zerg  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-defending-mutalisks-terran-vs-zerg/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-defending-mutalisks-terran-vs-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=WPLvSCJNvkM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WPLvSCJNvkM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M25S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-11-08T12:36:07-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WPLvSCJNvkM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-starcraft-2-gameplay-protoss-vs-zerg-dark-templar-drop.md",
       "title": "Starcraft 2 Gameplay | Protoss vs Zerg Dark Templar Drop",
       "excerpt": "In today's Starcraft 2 guide/tutorial/gameplay we are looking at a protoss vs zerg match against pig. I utilize one of my favourite builds: the dark templar drop and it works like a charm. Check it out :)  Starcraft 2 Gameplay | Protoss vs Zerg Dark Templar Drop #starcraft2 #gameplay #ProtossVsZerg #guide",
@@ -858,68 +920,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/pRdYiYcVzX4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-terran-vs-zerg-tvz-scouting-master-the-early-game-starcraft-2.md",
-      "title": "Terran vs Zerg (tvz) scouting | Master the Early Game! (Starcraft 2)",
-      "excerpt": "Starcraft 2: Terran vs Zerg (tvz) Scouting | Master the Early Game!  Are you a terran having trouble with Terran vs Zerg(TvZ)? In this guide we cover the 3 periods of early game Terran vs Zerg (TvZ) scouting in Starcraft 2. If you follow these tips you should have a great idea of your opponents intentions",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-vs-zerg-tvz-scouting-master-the-early-game-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-terran-vs-zerg-tvz-scouting-master-the-early-game-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=PY8q4IGyz3s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PY8q4IGyz3s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M26S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-06-27T16:32:06-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PY8q4IGyz3s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-this-is-how-to-strike-at-the-right-time-in-terran-vs-terran.md",
-      "title": "This is how to STRIKE at the right time in Terran vs Terran",
-      "excerpt": "In today's video we are taking a look at a terran vs terran game I played that showcases some patience and how I like to calculate when it's the correct time to attack!  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-this-is-how-to-strike-at-the-right-time-in-terran-vs-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-this-is-how-to-strike-at-the-right-time-in-terran-vs-terran/",
-      "originalUrl": "https://youtube.com/watch?v=1DAhj_ExS-c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1DAhj_ExS-c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M38S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-11-29T19:09:32-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1DAhj_ExS-c/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

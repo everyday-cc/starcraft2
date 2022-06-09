@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=J15eFNuRquo
 type: video
 length: PT15M8S
 publishedDateTime: 2022-05-29T11:41:48Z
-heat: 109
+heat: 103
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J15eFNuRquo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "O/nBVFrPwRsuhDGC628KDaD9U5fxnkrGe1fptXCxBUKkNyv0ja6LoUc+xCP6L73SnJ+OPRuNdkfcwp6lXbJvBrKIH51ef0D9rhatUvo+TZQKUHz4xrheQEaE93b7Ocsei5FOprEXchQjoG8hFQoiuu6mQsNnSr++LoNVIbeEAS+H0rqbpMDYEBs8k4zymCeG2squf55vauFGl5YFPb1U2HRwgPw7g55tVFadnLBFHnAkKvqBEqFCiSVveQIAoZIxBE+nBuxh2FVc4296SAfWe8yGtURa7oReNxusLJJBuLaw2wx7LS2oSMobmKzlv6O8ORC9OHIoRbkBD+6/5didgbEhj5YgubKw6DBspzIjso8qM8JqH0R14rSG/aQjJ6okgT1qTrfVPSaKTWLkK8GhHhax8Y0ax9basluXEPbIqFM=;0wr5LJtNwkGPBrMaCDh26Q=="
+secured: "meUZIkPuttQGuM49bguI9uA0E5XP8IYCj17i6oeQjFZhp51KeNhk0nzwlHpO+w30QeduANTd8o8Tpq86dn/CZ0nrflw5Cbzmc15qeN36jY7DAHwmdUSelJGJyRGdSRy3YEyfvYupvqHgqnAHxviEnyi5ZTxdqcL5SRpni+QNrpQKgFNkaQKHtQ/infcDsHgR0yu0hagP5QnUuWZVGSVnGFQlm9Su2xhvJyf9opGPzSRf9UcWybIZaFOZlyvu9u3lLn58bsGvJCP6UOc7aCxW95yQ6lks80g/F3BM9oM5RNayfmyY9Vb4VSMBdTijNhcdPFUxMGhB/XaLvqj/Tld0U2EEJfMuMFT/NCYeDK1vdz55GSy8tcNnKjPqnleCpvYHHJIsmpOR3C0We9pWt2HqP3/lCnDYFpRwJ339cOe4uJc=;wAuK1r/p+2M1LVr540ogKg=="
 ---
 

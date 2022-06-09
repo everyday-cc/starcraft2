@@ -1,43 +1,33 @@
 ---
 category: news
-title: "‘Stormgate’ is a free real-time strategy game by ex-‘Starcraft’ developers"
-excerpt: "Revealed during Summer Game Fest 2022, Stormgate is a free-to-play RTS title created by some of the leading developers behind Blizzard Entertainment‘s Starcraft 2. Stormgate is being created in Unreal Engine 5, which Frost Giant Studios says will allow ..."
-publishedDateTime: 2022-06-09T18:50:00Z
-originalUrl: "https://www.nme.com/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3243387"
-webUrl: "https://www.nme.com/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3243387"
+title: "StarCraft 2's veterans left Blizzard to make Stormgate, the co-op RTS of their dreams"
+excerpt: "Bizarro Blizzard decided that StarCraft 2, one of the finest real-time strategy games ever made, was worthy of a sequel pronto, and this preview in Bizarro PC Gamer would be about StarCraft 3 instead. But in our real world, the key minds behind StarCraft 2 ..."
+publishedDateTime: 2022-06-09T18:51:00Z
+originalUrl: "https://www.pcgamer.com/starcraft-2s-veterans-left-blizzard-to-make-stormgate-the-co-op-rts-of-their-dreams/"
+webUrl: "https://www.pcgamer.com/starcraft-2s-veterans-left-blizzard-to-make-stormgate-the-co-op-rts-of-their-dreams/"
 type: article
-quality: 35
-heat: -1
-published: false
+quality: 70
+heat: 170
+published: true
 
 provider:
-  name: NME
-  domain: nme.com
+  name: PC Gamer
+  domain: pcgamer.com
+  images:
+    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/pcgamer.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.nme.com/wp-content/uploads/2022/06/Stormgate-art-2000x1270-1.jpg"
-    width: 2000
-    height: 1270
+  - url: "https://cdn.mos.cms.futurecdn.net/5dteRedGhfkFjrWrhdACSB-1200-80.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
-  - title: "StarCraft 2's veterans left Blizzard to make Stormgate, the co-op RTS of their dreams"
-    excerpt: "Bizarro Blizzard decided that StarCraft 2, one of the finest real-time strategy games ever made, was worthy of a sequel pronto, and this preview in Bizarro PC Gamer would be about StarCraft 3 instead. But in our real world, the key minds behind StarCraft 2 ..."
-    publishedDateTime: 2022-06-09T18:51:00Z
-    webUrl: "https://www.pcgamer.com/starcraft-2s-veterans-left-blizzard-to-make-stormgate-the-co-op-rts-of-their-dreams/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 70
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/5dteRedGhfkFjrWrhdACSB-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Stormgate is an RTS by veteran StarCraft developers"
     excerpt: "Stormgate was revealed at Summer Game Fest 2022, giving players a look at a cinematic from the upcoming RTS title by veteran Warcraft and StarCraft developers. The team at Frost Giant Studios are releasing Stormgate as a free-to-play title with an beta coming out in 2023."
     publishedDateTime: 2022-06-09T18:59:00Z
@@ -96,7 +86,21 @@ related:
         width: 1432
         height: 697
         isCached: true
+  - title: "‘Stormgate’ is a free real-time strategy game by ex-‘Starcraft’ developers"
+    excerpt: "Revealed during Summer Game Fest 2022, Stormgate is a free-to-play RTS title created by some of the leading developers behind Blizzard Entertainment‘s Starcraft 2. Stormgate is being created in Unreal Engine 5, which Frost Giant Studios says will allow ..."
+    publishedDateTime: 2022-06-09T18:50:00Z
+    webUrl: "https://www.nme.com/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3243387"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 35
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2022/06/Stormgate-art-2000x1270-1.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
 
-secured: "GU+QMF9p+1+k/QXBN2MrPtbBah81r2mzFDLx50QK0OyidhledfiT5C9fZorP3KNcBfuxL1xCUPsSed52qWCiRas+YUgoDzZU4oAWXHqRf6PBI4DVa7KNqjNga4DoXs5YJ2zGXHIfrZmdlLDShfIKIYPo+bUlPU/5EOKlFzhpWOlAgROT/KLVAcn/xRqgdEAoXbtQ0/Jp4rH/lVAEe4jxp6sXADKz8kiV0Lor27TJ3kH4g1pAxd6DzFGGaBbxzBbeLN8BtJtWy3NvkXYlBzCdWinoU9ZQDzWsIaRzdAM1h93tyYjmN2uS2jSNG8gdkWoVuLbvmg7EdLJx/bn4gYbLK5T/WsnndwplabLdL0NM/n2Qhy2Ol/XiO3ioC87mjwhZyqhrX9dyF+wAL1sZHJ7TPu9KTjPy1+ckV8I8ozMv+lddcfd5gaO9pVKOxb/EG9Nvo7btWqwtdAbVgEUI40QOJLEq+DzxG6jlktOfhPyjHiB76GpG4lqFe1/JRV5DIxjNW9hUBmsHPgehyUFkAwkMaA==;boiUkDZdibec2+kDD0BQow=="
+secured: "ebyPmEziSUo5/Ug8JSeVL2yzhwnvuA0UTcMi0/8scnVWtsrsbs8TyQTyORQTsMT1v4zTBmILj9UCmieKYJWBn44WycdHDyxxhkB2OaDCoLJxjeVN3g/YWj+7yTmXC1CEmxNs3HH2orPX1AF2G4kgeK+H8aS2qWzio2/UsJvtw3xpOAhYeWa14T76Y8DMoNEcUkCps7aO7t1v76mFS2A+OXBwVpX7kOWwBFCXzmPtUY4LCrWo2Dcsu0GI0rbSe0QFPCSBseb1A90MHORNQr+i6ce9Z1kn4yvDV1VspzZ2Rh+tJagMqtIVcE2iNCjvhahftIbKeLMdcjEPB3qSwpGMJ6m6XBAfL2ud2HwljUb2LmA=;eETtw3FE88oFG7qVMHMdvg=="
 ---
 

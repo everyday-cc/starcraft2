@@ -1,26 +1,30 @@
 ---
 category: news
-title: "‘Stormgate’ is a free real-time strategy game by ex-‘Starcraft’ developers"
-excerpt: "Revealed during Summer Game Fest 2022, Stormgate is a free-to-play RTS title created by some of the leading developers behind Blizzard Entertainment‘s Starcraft 2. Stormgate is being created in Unreal Engine 5, which Frost Giant Studios says will allow ..."
-publishedDateTime: 2022-06-09T18:50:00Z
-originalUrl: "https://www.nme.com/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3243387"
-webUrl: "https://www.nme.com/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3243387"
+title: "'Stormgate' is a new free-to-play RTS from the director of 'Starcraft 2'"
+excerpt: "Game Fest, we got our first look at \"Stormgate,\" a new free-to-play real-time strategy game that runs on Unreal Engine 5.."
+publishedDateTime: 2022-06-09T19:51:00Z
+originalUrl: "https://www.engadget.com/stormgate-announced-191711884.html?src=rss"
+webUrl: "https://www.engadget.com/stormgate-announced-191711884.html?src=rss"
 type: article
-quality: 35
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: NME
-  domain: nme.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/engadget.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.nme.com/wp-content/uploads/2022/06/Stormgate-art-2000x1270-1.jpg"
-    width: 2000
-    height: 1270
+  - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-06/f1b15480-e824-11ec-8fdd-93ce2299adfa"
+    width: 1432
+    height: 697
     isCached: true
 
 related:
@@ -82,21 +86,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "'Stormgate' is a new free-to-play RTS from the director of 'Starcraft 2'"
-    excerpt: "Game Fest, we got our first look at \"Stormgate,\" a new free-to-play real-time strategy game that runs on Unreal Engine 5.."
-    publishedDateTime: 2022-06-09T19:51:00Z
-    webUrl: "https://www.engadget.com/stormgate-announced-191711884.html?src=rss"
+  - title: "‘Stormgate’ is a free real-time strategy game by ex-‘Starcraft’ developers"
+    excerpt: "Revealed during Summer Game Fest 2022, Stormgate is a free-to-play RTS title created by some of the leading developers behind Blizzard Entertainment‘s Starcraft 2. Stormgate is being created in Unreal Engine 5, which Frost Giant Studios says will allow ..."
+    publishedDateTime: 2022-06-09T18:50:00Z
+    webUrl: "https://www.nme.com/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3243387"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 36
+      name: NME
+      domain: nme.com
+    quality: 35
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-06/f1b15480-e824-11ec-8fdd-93ce2299adfa"
-        width: 1432
-        height: 697
+      - url: "https://www.nme.com/wp-content/uploads/2022/06/Stormgate-art-2000x1270-1.jpg"
+        width: 2000
+        height: 1270
         isCached: true
 
-secured: "GU+QMF9p+1+k/QXBN2MrPtbBah81r2mzFDLx50QK0OyidhledfiT5C9fZorP3KNcBfuxL1xCUPsSed52qWCiRas+YUgoDzZU4oAWXHqRf6PBI4DVa7KNqjNga4DoXs5YJ2zGXHIfrZmdlLDShfIKIYPo+bUlPU/5EOKlFzhpWOlAgROT/KLVAcn/xRqgdEAoXbtQ0/Jp4rH/lVAEe4jxp6sXADKz8kiV0Lor27TJ3kH4g1pAxd6DzFGGaBbxzBbeLN8BtJtWy3NvkXYlBzCdWinoU9ZQDzWsIaRzdAM1h93tyYjmN2uS2jSNG8gdkWoVuLbvmg7EdLJx/bn4gYbLK5T/WsnndwplabLdL0NM/n2Qhy2Ol/XiO3ioC87mjwhZyqhrX9dyF+wAL1sZHJ7TPu9KTjPy1+ckV8I8ozMv+lddcfd5gaO9pVKOxb/EG9Nvo7btWqwtdAbVgEUI40QOJLEq+DzxG6jlktOfhPyjHiB76GpG4lqFe1/JRV5DIxjNW9hUBmsHPgehyUFkAwkMaA==;boiUkDZdibec2+kDD0BQow=="
+secured: "m67ctk3drqBvGtCtp9XUbAHhPuUGzsRkhiKK0xFeO+7N9neF3TQU/XWDT8SwyI2U01vG7YNPxhFBRDyD3HUYeh0QpRsBvhegvFdkNTCtcrYFrUKWBOLJiJRNtB29G/bW3enUoU+4fgOM9boqS+cKpl8qowgFnaRcdjr/H39fbRi5IUgII4p52nOnjRUcrSaD3qH6DvliTdUn5amsKLVQM3D3lEZLYHiI/n/2z85KiA5NnrMXciYzkYefZTS/wG3n/fbG9WsWtCK3XnPL5AqAgiGi3PAW79AuI6Vgo5QPp3P+lyShXLj66Ekm2o9GprDaBWJ2rpL0HVQj4qVrhlDcmuLxRzYMDNm7r0cQxnt48wY=;NgHOWZ4KPBBebsuzqL+u+A=="
 ---
 

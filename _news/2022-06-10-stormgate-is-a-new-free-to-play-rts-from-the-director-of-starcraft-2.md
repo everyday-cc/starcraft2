@@ -100,7 +100,18 @@ related:
         width: 2000
         height: 1270
         isCached: true
+  - title: "Frost Giant Studios, ex-StarCraft II alumni, announce the next big RTS with Stormgate"
+    excerpt: "Frost Giant Studios, a crack team of some of the minds behind StarCraft II but otherwise unknown studio, have announced what they hope is the next big RTS at Summer Game Fest. Stormgate is a traditional-sounding RTS,"
+    publishedDateTime: 2022-06-09T21:53:00Z
+    webUrl: "https://www.news.com.au/technology/gaming/frost-giant-studios-exstarcraft-ii-alumni-announce-the-next-big-rts-with-stormgate/news-story/11911032c223cb727da76d3e9679a3e1"
+    ampWebUrl: "https://www.news.com.au/technology/gaming/frost-giant-studios-exstarcraft-ii-alumni-announce-the-next-big-rts-with-stormgate/news-story/11911032c223cb727da76d3e9679a3e1?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/gaming/frost-giant-studios-exstarcraft-ii-alumni-announce-the-next-big-rts-with-stormgate/news-story/11911032c223cb727da76d3e9679a3e1?amp"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 30
 
-secured: "m67ctk3drqBvGtCtp9XUbAHhPuUGzsRkhiKK0xFeO+7N9neF3TQU/XWDT8SwyI2U01vG7YNPxhFBRDyD3HUYeh0QpRsBvhegvFdkNTCtcrYFrUKWBOLJiJRNtB29G/bW3enUoU+4fgOM9boqS+cKpl8qowgFnaRcdjr/H39fbRi5IUgII4p52nOnjRUcrSaD3qH6DvliTdUn5amsKLVQM3D3lEZLYHiI/n/2z85KiA5NnrMXciYzkYefZTS/wG3n/fbG9WsWtCK3XnPL5AqAgiGi3PAW79AuI6Vgo5QPp3P+lyShXLj66Ekm2o9GprDaBWJ2rpL0HVQj4qVrhlDcmuLxRzYMDNm7r0cQxnt48wY=;NgHOWZ4KPBBebsuzqL+u+A=="
+secured: "Glvn0cYIwW42sqYp5Edb3itKXk9JNgFuhHctVaKhM5UTROYFOHFpUOkhyxVYYcWVmJ0ATImZx1loko8ZOo7aLXEux7GCfPbKfRMEpkRWwj7KqaXBRiIaoVEJBEMTUNT81wJvrJbSqdeDU3JsUmu6dEGGuTeQk2QeNhuuSZcm8zzb5qJXh1AkZXOusZmddfTN7xBjuiU8dhZgjUyM/hrIyC0J9mhWVp0m684PW4DmtEDZFNYJPvhM41RsiyoZeyvoVf1VukXiEEg+Iy1umaee9GXYEuUKgZutdRIi0nciMIA5kVfX1RDbuF86/3yuqgYwZLiCfTPTEvNx+d4+vAuCvHOOLFXfPEVxlw4i+71Mb4zvCvuT6JzKmfhG618JaWCb5QeuIjC8Go/kTmz9UzSTeBi1HkbdqpFdorgVBMFkm9vrKERWYqTJRr+2MmW0luqzSvuRWIePRUsnKUyHxVMOvnwLwob+VEJ9XbTXtMVFoqa8rDQAib8IFlXwbHVGcJqcRAZcdcj/7nFHoCMA7kq0Hg==;WnWXxyQPRb8M/A9PYfOIkw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/starcraft-2s-veterans-left-blizzard-to-mak
 webUrl: "https://www.pcgamer.com/starcraft-2s-veterans-left-blizzard-to-make-stormgate-the-co-op-rts-of-their-dreams/"
 type: article
 quality: 70
-heat: 170
+heat: 191
 published: true
 
 provider:
@@ -100,6 +100,17 @@ related:
         width: 2000
         height: 1270
         isCached: true
+  - title: "Frost Giant Studios, ex-StarCraft II alumni, announce the next big RTS with Stormgate"
+    excerpt: "Frost Giant Studios, a crack team of some of the minds behind StarCraft II but otherwise unknown studio, have announced what they hope is the next big RTS at Summer Game Fest. Stormgate is a traditional-sounding RTS,"
+    publishedDateTime: 2022-06-09T21:53:00Z
+    webUrl: "https://www.news.com.au/technology/gaming/frost-giant-studios-exstarcraft-ii-alumni-announce-the-next-big-rts-with-stormgate/news-story/11911032c223cb727da76d3e9679a3e1"
+    ampWebUrl: "https://www.news.com.au/technology/gaming/frost-giant-studios-exstarcraft-ii-alumni-announce-the-next-big-rts-with-stormgate/news-story/11911032c223cb727da76d3e9679a3e1?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/gaming/frost-giant-studios-exstarcraft-ii-alumni-announce-the-next-big-rts-with-stormgate/news-story/11911032c223cb727da76d3e9679a3e1?amp"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 30
 
 secured: "ebyPmEziSUo5/Ug8JSeVL2yzhwnvuA0UTcMi0/8scnVWtsrsbs8TyQTyORQTsMT1v4zTBmILj9UCmieKYJWBn44WycdHDyxxhkB2OaDCoLJxjeVN3g/YWj+7yTmXC1CEmxNs3HH2orPX1AF2G4kgeK+H8aS2qWzio2/UsJvtw3xpOAhYeWa14T76Y8DMoNEcUkCps7aO7t1v76mFS2A+OXBwVpX7kOWwBFCXzmPtUY4LCrWo2Dcsu0GI0rbSe0QFPCSBseb1A90MHORNQr+i6ce9Z1kn4yvDV1VspzZ2Rh+tJagMqtIVcE2iNCjvhahftIbKeLMdcjEPB3qSwpGMJ6m6XBAfL2ud2HwljUb2LmA=;eETtw3FE88oFG7qVMHMdvg=="
 ---

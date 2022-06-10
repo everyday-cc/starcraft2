@@ -4,36 +4,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_learning/videos/pig-drippy-dropping-and-tightening-up-the-opening-coaching-tvp-and-tvt-gold-2.md",
-      "title": "Drippy Dropping and tightening up the opening - Coaching TvP and TvT Gold 2!",
-      "excerpt": "Sorry for the weird cut offs but i just thought the clips at the start and end were too funny to leave out.    And yes, that is TripleHelix nuking his teammate fluxior (by accident bc neither of them was looking lol).    Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-drippy-dropping-and-tightening-up-the-opening-coaching-tvp-and-tvt-gold-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-drippy-dropping-and-tightening-up-the-opening-coaching-tvp-and-tvt-gold-2/",
-      "originalUrl": "https://youtube.com/watch?v=Ll53uKuXOQ8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ll53uKuXOQ8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H12M5S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-10-23T09:00:06-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ll53uKuXOQ8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-dt-archon-drop-into-blink-attack-pvz-coaching-diamond-2.md",
       "title": "DT Archon Drop into Blink Attack PvZ | Coaching Diamond 2",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -906,6 +876,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Mm2rhSJOdTs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-how-the-hell-to-play-tvp-coaching-d1.md",
+      "title": "How the Hell to play TvP? Coaching D1",
+      "excerpt": "Coaching on how to play TvP, keep in mind that if you're too tilted towards a matchup it can also make you lose :)  Enjoy the super sexy outtro song! :P   -- Watch live at https://www.twitch.tv/x5_pig My NEW HP: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-how-the-hell-to-play-tvp-coaching-d1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-how-the-hell-to-play-tvp-coaching-d1/",
+      "originalUrl": "https://youtube.com/watch?v=_yx3qOlD_Cc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_yx3qOlD_Cc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H6M17S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-02-27T10:43:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_yx3qOlD_Cc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

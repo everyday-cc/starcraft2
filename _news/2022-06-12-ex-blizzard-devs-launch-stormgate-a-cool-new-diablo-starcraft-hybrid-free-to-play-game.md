@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Stormgate is an RTS by veteran StarCraft developers"
-excerpt: "Stormgate was revealed at Summer Game Fest 2022, giving players a look at a cinematic from the upcoming RTS title by veteran Warcraft and StarCraft developers. The team at Frost Giant Studios are releasing Stormgate as a free-to-play title with an beta coming out in 2023."
-publishedDateTime: 2022-06-09T18:59:00Z
-originalUrl: "https://www.shacknews.com/article/130799/stormgate-free-to-play-rts-revealed"
-webUrl: "https://www.shacknews.com/article/130799/stormgate-free-to-play-rts-revealed"
-ampWebUrl: "https://www.shacknews.com/article/130799/stormgate-free-to-play-rts-revealed?amphtml=1"
-cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/130799/stormgate-free-to-play-rts-revealed?amphtml=1"
+title: "Ex-Blizzard Devs Launch Stormgate, A Cool New Diablo Starcraft Hybrid Free-To-Play Game"
+excerpt: "One of the things that made Blizzard's past titles so popular, particularly Warcraft and Starcraft, was the inclusion of a powerful editor that allowed players to create their own scenarios."
+publishedDateTime: 2022-06-11T18:56:00Z
+originalUrl: "https://hothardware.com/news/stormgate-a-cool-new-diablo-meets-starcraft-free-to-play-game"
+webUrl: "https://hothardware.com/news/stormgate-a-cool-new-diablo-meets-starcraft-free-to-play-game"
+ampWebUrl: "https://amp.hothardware.com/news/stormgate-a-cool-new-diablo-meets-starcraft-free-to-play-game"
+cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/stormgate-a-cool-new-diablo-meets-starcraft-free-to-play-game"
 type: article
-quality: 57
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Shacknews
-  domain: shacknews.com
+  name: HotHardware
+  domain: hothardware.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/06/09/stormgate-is-an-rts-by-veteran-starcraft-developers_feature.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://images.hothardware.com/contentimages/newsitem/58811/content/small_stormgate-screenshot-1.jpg"
+    width: 708
+    height: 450
     isCached: true
 
 related:
@@ -40,21 +40,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Ex-Blizzard Devs Launch Stormgate, A Cool New Diablo Starcraft Hybrid Free-To-Play Game"
-    excerpt: "One of the things that made Blizzard's past titles so popular, particularly Warcraft and Starcraft, was the inclusion of a powerful editor that allowed players to create their own scenarios."
-    publishedDateTime: 2022-06-11T18:56:00Z
-    webUrl: "https://hothardware.com/news/stormgate-a-cool-new-diablo-meets-starcraft-free-to-play-game"
-    ampWebUrl: "https://amp.hothardware.com/news/stormgate-a-cool-new-diablo-meets-starcraft-free-to-play-game"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/stormgate-a-cool-new-diablo-meets-starcraft-free-to-play-game"
+  - title: "Stormgate is an RTS by veteran StarCraft developers"
+    excerpt: "Stormgate was revealed at Summer Game Fest 2022, giving players a look at a cinematic from the upcoming RTS title by veteran Warcraft and StarCraft developers. The team at Frost Giant Studios are releasing Stormgate as a free-to-play title with an beta coming out in 2023."
+    publishedDateTime: 2022-06-09T18:59:00Z
+    webUrl: "https://www.shacknews.com/article/130799/stormgate-free-to-play-rts-revealed"
+    ampWebUrl: "https://www.shacknews.com/article/130799/stormgate-free-to-play-rts-revealed?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/130799/stormgate-free-to-play-rts-revealed?amphtml=1"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 49
+      name: Shacknews
+      domain: shacknews.com
+    quality: 57
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/58811/content/small_stormgate-screenshot-1.jpg"
-        width: 708
-        height: 450
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/06/09/stormgate-is-an-rts-by-veteran-starcraft-developers_feature.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Ex-Starcraft devs reveal new RTS Stormgate"
     excerpt: "Stormgate, a new RTS developed by ex-Starcraft developers has been announced. Frost Giant Studios, which consists of ex-Blizzard employees, revealed the game along with a new trailer. Stormgate will enter beta in 2023,"
@@ -124,6 +124,6 @@ related:
       domain: news.com.au
     quality: 30
 
-secured: "kp76xb/hxCjlEsWX/xLLUaWAj+yY9thUHRwfJ1TP9DPS2H3AMGc0e71FIQbhDf6NHCMJgDEYxC/+pPfeFTJ39NPkSdcj2DCc4+IeBz3J60RZIOKvrcQKoYn0IOpxlIpWIVQQma5GbvRc6LX7JtAjBZmAhLHOFua6FU330H8HtbIT631iV3SKu2cTBBtpR3oRI8XVtPdKPm5y5ce3aESmKjTFdMAjgo8lGGWp+QZodCBXFUoQ89jl1uieHYW3bJoMmRqsxPlD98TRdrjRdyaPkHGx0YeejusN+x/yTmD1QQXZpqMpnw9NHdEyvzRYiKFXC/OqR2bBT9qCrzj0ZfmQZLJae0XuAcEgOa+9pFuBowaNQWNUJ1y92rfvWEJMbS2vtUTo3W3/+gzJM17INFEsCVQuplaR3z24+UkjhbT6GO/nwKGK3eJWbyBdLlNMZKrJosqCEpr3gk8cNEci04lbkYyLnVVqE8zMS8X4h0McASjK8AYWuxZ8GmMQ+J09IREAMaHBQ+yM6f8qUfoiaYOT0A==;R88kqo9zbmhJ+2o8btb02A=="
+secured: "ZdtOh8DKb0G1Oos2+PfkqDcNgZWi8IOLRmiEUfiaARpEfExfN8aQkSW6PfgVH4/aNz19cXcxeRl9UrTgGWu0TzT/OEz1F4fZZWMLQMrccvaiCALPKuOs5ULIBZWBvXMwPm5QlxY0eRqDz0ZOn5RKNaZFUqgTRk4ChHmdVlxU86ISsx74jbhw3larCgmgqk1rMcTfee6y1QjxDOC2vO7+RRmCRl0VUv+vSBgGNI6srHClSwKSYl+f/NUxIosGv1MDJDtaCnGh1JhaPqtz9QZsh7CLlv6wPNfKrt2iJ+1jNwzqo3ymT/NBzWP9ehMqrH61wmPIo5Gi6Kfba0Gdi0wy9Nwu+kZiMKgD6jW9TrlFfGg=;P2FQFroY4tXvrCXy9b+SUw=="
 ---
 

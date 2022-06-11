@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=qU5HmyLz6xA
 type: video
 length: PT56M26S
 publishedDateTime: 2020-05-13T12:03:46Z
-heat: 62
+heat: 64
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qU5HmyLz6xA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "sVEQRvU1YosMUOAXrmqpirnxwHqTxrwDAjjrUc4lkIR+vn32tV1YjfWZgGuGNcVozD2kgUqJN1eFzXikvCdk3hKsOLtEE25WRcoJshl3gp8uHkHXDeN2l+bXpqjbRDXbPMQY82+2OQHB2/TwKDz+mbG+a1Tz9+WqvFsO1CKa96IbT0hmeysWxwT4ete4gmOts6NTpRl71kbmBOWuSZ7djoERR0tWgJXUdNGdswkHqEg1+KeB79EuOb1Edti7vW+twwfPwPUBCRbRtuhw6okn9wEl9ryj2B2uPADVaete93/yCuegyOeQeXTB7O6vf9WFSMMxeyGfH/4UD0UTJ+LOxp/Pe1zTc9v6auFNML9xMFFVS5dIbCBHgOFyvvCfGm7cPlA1D2wzSprcvWxoQf1X9uPk6BcgZgn5t2Qw67dV9nmv0dYRenFiseficZHEEJwJ;n8Ln2NYvcPmW4A3HmDcYUA=="
+secured: "10dvye5HQTIMRDgSLChIrIW13uvzVu7+nSFgTfdf14LSuhic+qGjXC9on1B81thjJ9LgbCcPMq10W1KKSlrjX7ffAQD3eKjX8iYzThtqMmp2mRIQu6gjGAKNGXY5jOiv4MoEryx6kvA91JawzBgH3ZRfpa/xFogSevir+Tv1hZE2uMtoa/Zm3iobFxzH7MaHIQ64Sarb8Djqy0aMl+JeX0blMPi9HfubWb0DrrUWg1bPwkmJ/rGZ8osni1dThXgpTiSHuXlsDEgzpY5+jcTeFp8bkxWID1EhalDV1nsCGAV2san1SaXXzVAQ0ffH3G82HSiKqc6q/7LhE0gDE+noZvRcSNxB6hyoh+aUQP4uJETUkpcIYP/G8BWwEkXIaEecZMpqsTPnim6PlixtMPDAoMzSadBPdxKHus9PymT+e44=;gYGNHpQXk69omo17tpgmMg=="
 ---
 

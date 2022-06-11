@@ -868,6 +868,7 @@ items:
   - pig-this-player-malds-so-much-they-own-themself-salt-mines-5-starcraft-2
   - pig-how-quickly-can-reynor-dispose-of-noobs-part-2-holdout-challenge-starcraft-2
   - pig-how-quickly-can-reynor-dispose-of-noobs-part-3-holdout-challenge-starcraft-2
+  - pig-the-1v7-insane-ai-challenge-is-impossible-starcraft-2
 
 topics:
   - StarCraft 2

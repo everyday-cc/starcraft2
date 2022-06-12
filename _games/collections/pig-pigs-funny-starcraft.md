@@ -864,11 +864,12 @@ items:
   - pig-i-dont-want-to-make-generalizations-of-skytoss-players-diamond-in-the-ruff-76-starcraft-2
   - pig-when-zerg-cant-expand-til-5-minutes-its-time-to-icyfar-one-base-openers-starcraft-2
   - pig-this-is-why-you-clear-buildings-from-the-first-cannon-rush-icyfar-one-base-openers-starcraft-2
-  - pig-when-silver-players-try-to-do-flo-strats-icyfar-one-base-openers-g2-starcraft-2
+  - pig-when-bronze-league-heroes-crosses-with-flo-files-icyfar-one-base-openers-g2-starcraft-2
   - pig-this-player-malds-so-much-they-own-themself-salt-mines-5-starcraft-2
   - pig-how-quickly-can-reynor-dispose-of-noobs-part-2-holdout-challenge-starcraft-2
   - pig-how-quickly-can-reynor-dispose-of-noobs-part-3-holdout-challenge-starcraft-2
-  - pig-the-1v7-insane-ai-challenge-is-impossible-starcraft-2
+  - pig-the-1v7-insane-ai-challenge-is-impossible-no-beastyqt-has-not-done-it-starcraft-2
+  - pig-what-happens-when-pros-have-maphacks-no-fog-of-war-mod-special-vs-cham-bo3-tvz-starcraft-2
 
 topics:
   - StarCraft 2

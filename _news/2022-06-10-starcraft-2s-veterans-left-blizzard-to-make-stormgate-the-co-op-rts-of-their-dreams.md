@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/starcraft-2s-veterans-left-blizzard-to-mak
 webUrl: "https://www.pcgamer.com/starcraft-2s-veterans-left-blizzard-to-make-stormgate-the-co-op-rts-of-their-dreams/"
 type: article
 quality: 70
-heat: 210
+heat: 212
 published: true
 
 provider:

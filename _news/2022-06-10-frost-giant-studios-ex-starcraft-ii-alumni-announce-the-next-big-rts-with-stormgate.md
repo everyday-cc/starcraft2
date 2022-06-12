@@ -20,6 +20,20 @@ topics:
   - StarCraft 2
 
 related:
+  - title: "Here's one of StarCraft 2's key developers talking about upcoming RTS Stormgate"
+    excerpt: "Stormgate, a new RTS from former Blizzard devs who worked on some little old games like Warcraft 3 and StarCraft 2, is one of those games that makes me want to"
+    publishedDateTime: 2022-06-12T20:55:00Z
+    webUrl: "https://www.pcgamer.com/heres-one-of-starcraft-2s-key-developers-talking-about-upcoming-rts-stormgate/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 73
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ZNEPpjz27DAhTMBPD6dkB5-1200-80.jpg"
+        width: 1200
+        height: 668
+        isCached: true
   - title: "StarCraft 2's veterans left Blizzard to make Stormgate, the co-op RTS of their dreams"
     excerpt: "Bizarro Blizzard decided that StarCraft 2, one of the finest real-time strategy games ever made, was worthy of a sequel pronto, and this preview in Bizarro PC Gamer would be about StarCraft 3 instead. But in our real world, the key minds behind StarCraft 2 ..."
     publishedDateTime: 2022-06-09T18:51:00Z

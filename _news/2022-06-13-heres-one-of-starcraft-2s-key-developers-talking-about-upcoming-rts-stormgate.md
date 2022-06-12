@@ -1,43 +1,33 @@
 ---
 category: news
-title: "‘Stormgate’ is a free real-time strategy game by ex-‘Starcraft’ developers"
-excerpt: "Revealed during Summer Game Fest 2022, Stormgate is a free-to-play RTS title created by some of the leading developers behind Blizzard Entertainment‘s Starcraft 2. Stormgate is being created in Unreal Engine 5, which Frost Giant Studios says will allow ..."
-publishedDateTime: 2022-06-09T18:50:00Z
-originalUrl: "https://www.nme.com/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3243387"
-webUrl: "https://www.nme.com/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3243387"
+title: "Here's one of StarCraft 2's key developers talking about upcoming RTS Stormgate"
+excerpt: "Stormgate, a new RTS from former Blizzard devs who worked on some little old games like Warcraft 3 and StarCraft 2, is one of those games that makes me want to"
+publishedDateTime: 2022-06-12T20:55:00Z
+originalUrl: "https://www.pcgamer.com/heres-one-of-starcraft-2s-key-developers-talking-about-upcoming-rts-stormgate/"
+webUrl: "https://www.pcgamer.com/heres-one-of-starcraft-2s-key-developers-talking-about-upcoming-rts-stormgate/"
 type: article
-quality: 35
-heat: -1
-published: false
+quality: 73
+heat: 233
+published: true
 
 provider:
-  name: NME
-  domain: nme.com
+  name: PC Gamer
+  domain: pcgamer.com
+  images:
+    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/pcgamer.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.nme.com/wp-content/uploads/2022/06/Stormgate-art-2000x1270-1.jpg"
-    width: 2000
-    height: 1270
+  - url: "https://cdn.mos.cms.futurecdn.net/ZNEPpjz27DAhTMBPD6dkB5-1200-80.jpg"
+    width: 1200
+    height: 668
     isCached: true
 
 related:
-  - title: "Here's one of StarCraft 2's key developers talking about upcoming RTS Stormgate"
-    excerpt: "Stormgate, a new RTS from former Blizzard devs who worked on some little old games like Warcraft 3 and StarCraft 2, is one of those games that makes me want to"
-    publishedDateTime: 2022-06-12T20:55:00Z
-    webUrl: "https://www.pcgamer.com/heres-one-of-starcraft-2s-key-developers-talking-about-upcoming-rts-stormgate/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 73
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ZNEPpjz27DAhTMBPD6dkB5-1200-80.jpg"
-        width: 1200
-        height: 668
-        isCached: true
   - title: "StarCraft 2's veterans left Blizzard to make Stormgate, the co-op RTS of their dreams"
     excerpt: "Bizarro Blizzard decided that StarCraft 2, one of the finest real-time strategy games ever made, was worthy of a sequel pronto, and this preview in Bizarro PC Gamer would be about StarCraft 3 instead. But in our real world, the key minds behind StarCraft 2 ..."
     publishedDateTime: 2022-06-09T18:51:00Z
@@ -126,6 +116,20 @@ related:
         width: 1432
         height: 697
         isCached: true
+  - title: "‘Stormgate’ is a free real-time strategy game by ex-‘Starcraft’ developers"
+    excerpt: "Revealed during Summer Game Fest 2022, Stormgate is a free-to-play RTS title created by some of the leading developers behind Blizzard Entertainment‘s Starcraft 2. Stormgate is being created in Unreal Engine 5, which Frost Giant Studios says will allow ..."
+    publishedDateTime: 2022-06-09T18:50:00Z
+    webUrl: "https://www.nme.com/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3243387"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 35
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2022/06/Stormgate-art-2000x1270-1.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
   - title: "Frost Giant Studios, ex-StarCraft II alumni, announce the next big RTS with Stormgate"
     excerpt: "Frost Giant Studios, a crack team of some of the minds behind StarCraft II but otherwise unknown studio, have announced what they hope is the next big RTS at Summer Game Fest. Stormgate is a traditional-sounding RTS,"
     publishedDateTime: 2022-06-09T21:53:00Z
@@ -138,6 +142,6 @@ related:
       domain: news.com.au
     quality: 30
 
-secured: "GU+QMF9p+1+k/QXBN2MrPtbBah81r2mzFDLx50QK0OyidhledfiT5C9fZorP3KNcBfuxL1xCUPsSed52qWCiRas+YUgoDzZU4oAWXHqRf6PBI4DVa7KNqjNga4DoXs5YJ2zGXHIfrZmdlLDShfIKIYPo+bUlPU/5EOKlFzhpWOlAgROT/KLVAcn/xRqgdEAoXbtQ0/Jp4rH/lVAEe4jxp6sXADKz8kiV0Lor27TJ3kH4g1pAxd6DzFGGaBbxzBbeLN8BtJtWy3NvkXYlBzCdWinoU9ZQDzWsIaRzdAM1h93tyYjmN2uS2jSNG8gdkWoVuLbvmg7EdLJx/bn4gYbLK5T/WsnndwplabLdL0NM/n2Qhy2Ol/XiO3ioC87mjwhZyqhrX9dyF+wAL1sZHJ7TPu9KTjPy1+ckV8I8ozMv+lddcfd5gaO9pVKOxb/EG9Nvo7btWqwtdAbVgEUI40QOJLEq+DzxG6jlktOfhPyjHiB76GpG4lqFe1/JRV5DIxjNW9hUBmsHPgehyUFkAwkMaA==;boiUkDZdibec2+kDD0BQow=="
+secured: "ysEKHCJ8/hTpWhsBBjvEOf6r8MPXX/SjOfSYWjYSOmO1UODxMb0my62t5aVLYuNvlni/zStkxxG5g6qC4yh2iAYMrvdQ0EPIo2E6uhRkcj9SKHjTsFWkh9c6XbAHO0yq4e4IWamQn/8C6X9RoFfBUJeaqKLgH6oEDgKHgQv2wYngXpzpZVUW1bdt6VvDP85BjxV0mjLrSizcOkk1E078ycc85H69/5xSSsWop7Pk3h2i0hxsMU2ncqlwdDxRGSSwva8ADOho9/lBqNg+EMNfotJG2rp9vv5YJMIeWaNU86Gin3zE0OWOjDW5aefgDDNq700e13w4cs47bfUEWQgFCzSlIagPNopBpUCPBC95wTc=;yOvGe3Xx4OrajmRly+s7Mw=="
 ---
 

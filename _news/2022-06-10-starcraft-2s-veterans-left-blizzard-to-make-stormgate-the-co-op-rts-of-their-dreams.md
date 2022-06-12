@@ -7,8 +7,8 @@ originalUrl: "https://www.pcgamer.com/starcraft-2s-veterans-left-blizzard-to-mak
 webUrl: "https://www.pcgamer.com/starcraft-2s-veterans-left-blizzard-to-make-stormgate-the-co-op-rts-of-their-dreams/"
 type: article
 quality: 70
-heat: 214
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Gamer
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Here's one of StarCraft 2's key developers talking about upcoming RTS Stormgate"
+    excerpt: "Stormgate, a new RTS from former Blizzard devs who worked on some little old games like Warcraft 3 and StarCraft 2, is one of those games that makes me want to"
+    publishedDateTime: 2022-06-12T20:55:00Z
+    webUrl: "https://www.pcgamer.com/heres-one-of-starcraft-2s-key-developers-talking-about-upcoming-rts-stormgate/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 73
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ZNEPpjz27DAhTMBPD6dkB5-1200-80.jpg"
+        width: 1200
+        height: 668
+        isCached: true
   - title: "Stormgate is an RTS by veteran StarCraft developers"
     excerpt: "Stormgate was revealed at Summer Game Fest 2022, giving players a look at a cinematic from the upcoming RTS title by veteran Warcraft and StarCraft developers. The team at Frost Giant Studios are releasing Stormgate as a free-to-play title with an beta coming out in 2023."
     publishedDateTime: 2022-06-09T18:59:00Z

@@ -1,26 +1,30 @@
 ---
 category: news
-title: "‘Stormgate’ is a free real-time strategy game by ex-‘Starcraft’ developers"
-excerpt: "Revealed during Summer Game Fest 2022, Stormgate is a free-to-play RTS title created by some of the leading developers behind Blizzard Entertainment‘s Starcraft 2. Stormgate is being created in ..."
-publishedDateTime: 2022-06-10T01:20:00Z
-originalUrl: "https://www.nme.com/en_asia/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3244178"
-webUrl: "https://www.nme.com/en_asia/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3244178"
+title: "Here’s a fresh look at Stormgate, the free-to-play RTS from ex-StarCraft devs"
+excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the “next evolution” of the RTS genre,"
+publishedDateTime: 2022-06-12T20:56:00Z
+originalUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+webUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
 type: article
-quality: 35
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: NME
-  domain: nme.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.nme.com/wp-content/uploads/2022/06/Stormgate-art-2000x1270-1.jpg"
-    width: 2000
-    height: 1270
+  - url: "https://cdn.mos.cms.futurecdn.net/wKeNGgwcBSfXmXudvQQuwb-1200-80.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -140,19 +144,19 @@ related:
         width: 1432
         height: 697
         isCached: true
-  - title: "Here’s a fresh look at Stormgate, the free-to-play RTS from ex-StarCraft devs"
-    excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the “next evolution” of the RTS genre,"
-    publishedDateTime: 2022-06-12T20:56:00Z
-    webUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+  - title: "‘Stormgate’ is a free real-time strategy game by ex-‘Starcraft’ developers"
+    excerpt: "Revealed during Summer Game Fest 2022, Stormgate is a free-to-play RTS title created by some of the leading developers behind Blizzard Entertainment‘s Starcraft 2. Stormgate is being created in ..."
+    publishedDateTime: 2022-06-10T01:20:00Z
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3244178"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 34
+      name: NME
+      domain: nme.com
+    quality: 35
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/wKeNGgwcBSfXmXudvQQuwb-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.nme.com/wp-content/uploads/2022/06/Stormgate-art-2000x1270-1.jpg"
+        width: 2000
+        height: 1270
         isCached: true
   - title: "Ex-Starcraft & Warcraft Devs Unveil New RTS ‘Stormgate’ At Summer Game Fest 2022"
     excerpt: "The RTS genre is about to get one new addition in the form of Frost Giant Studios' Stormgate, which was revealed at Summer Game Fest 2020."
@@ -180,6 +184,6 @@ related:
       domain: news.com.au
     quality: 30
 
-secured: "eDIuF4a47ZhT9yul1RjClQFZ2345TfLoYuTs69A9TejpPjOxdk9BO2KBtYIHa7hyiOBo/bIYNzHRSwkKSvF3V4xzrt6ffnw1GwTOpsdLSqCywzYTM3sa9aL/Ry9qIfnY3jDYla+MKTopWvB7Hfkd+HguKM5lczcMTGAojNHdkcj6jmTYPx57ayPFhmAYqsBkvaW4P3BeioZRulbqhadX7lpjzOrl6AJCWr/sawN7zmJtO/2cd8Jj2ir1ayecp3j2t1JeRW7V4QU7zTTGBYnjhdSjdYCkeIcaD+758OP9iLYYOGS3D7Doml3I6xL/7UDHcF6XJ4Ktdflr/ROaS4A2lYf1MMBKllAt9R9wjl/w9e8=;pxXvUca5QhMFDqWfoJmfEg=="
+secured: "imrwuecoP4HDxQuQtMScebeZtb5KLyZx4L7vuRU6pj2S3M5VOMrp+wxBHB5WLgQyuQMpQ6Wl1XzdxxjynsAMWqANlMBr6wDDy+OKSRmDS+XIk/VolTPDI/68aP3lwtmSCvuKJxhv+2Jl34Auf7ZsPssON/wOt1peYYyL64zcF3VAWG3MBBK+stB/lsmzM71GUtiKRWdWsp1kfWZh359XqTabbatn9LvTxNlf8CgHcQsMI+D5V5oNNXkiNhS4nvxpDlDa5GvzLlB9117PC9BM0v3kofGz4ULLu9nCZ0CkRghRgM59FFORdsFL/dvQQ3GOLYUwdeW96wgvOdAa2sBC7Su5XcJXvsyTEry9R1xx3Mg=;Sg+JBDOKFwMc1DVnSGKBlA=="
 ---
 

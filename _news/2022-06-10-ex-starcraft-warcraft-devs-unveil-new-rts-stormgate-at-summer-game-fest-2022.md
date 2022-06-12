@@ -1,26 +1,26 @@
 ---
 category: news
-title: "‘Stormgate’ is a free real-time strategy game by ex-‘Starcraft’ developers"
-excerpt: "Revealed during Summer Game Fest 2022, Stormgate is a free-to-play RTS title created by some of the leading developers behind Blizzard Entertainment‘s Starcraft 2. Stormgate is being created in ..."
-publishedDateTime: 2022-06-10T01:20:00Z
-originalUrl: "https://www.nme.com/en_asia/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3244178"
-webUrl: "https://www.nme.com/en_asia/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3244178"
+title: "Ex-Starcraft & Warcraft Devs Unveil New RTS ‘Stormgate’ At Summer Game Fest 2022"
+excerpt: "The RTS genre is about to get one new addition in the form of Frost Giant Studios' Stormgate, which was revealed at Summer Game Fest 2020."
+publishedDateTime: 2022-06-10T10:10:00Z
+originalUrl: "https://geekculture.co/ex-starcraft-warcraft-devs-unveil-new-rts-stormgate-at-summer-game-fest-2022/"
+webUrl: "https://geekculture.co/ex-starcraft-warcraft-devs-unveil-new-rts-stormgate-at-summer-game-fest-2022/"
 type: article
-quality: 35
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: NME
-  domain: nme.com
+  name: LEGO
+  domain: geekculture.co
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.nme.com/wp-content/uploads/2022/06/Stormgate-art-2000x1270-1.jpg"
-    width: 2000
-    height: 1270
+  - url: "https://geekculture.co/wp-content/uploads/2022/06/Former-Starcraft-Warcraft-Devs-Unveil-New-RTS-Stormgate-At-Summer-Game-Fest-2022-1.jpg"
+    width: 1200
+    height: 500
     isCached: true
 
 related:
@@ -140,6 +140,20 @@ related:
         width: 1432
         height: 697
         isCached: true
+  - title: "‘Stormgate’ is a free real-time strategy game by ex-‘Starcraft’ developers"
+    excerpt: "Revealed during Summer Game Fest 2022, Stormgate is a free-to-play RTS title created by some of the leading developers behind Blizzard Entertainment‘s Starcraft 2. Stormgate is being created in ..."
+    publishedDateTime: 2022-06-10T01:20:00Z
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3244178"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 35
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2022/06/Stormgate-art-2000x1270-1.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
   - title: "Here’s a fresh look at Stormgate, the free-to-play RTS from ex-StarCraft devs"
     excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the “next evolution” of the RTS genre,"
     publishedDateTime: 2022-06-12T20:56:00Z
@@ -154,20 +168,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Ex-Starcraft & Warcraft Devs Unveil New RTS ‘Stormgate’ At Summer Game Fest 2022"
-    excerpt: "The RTS genre is about to get one new addition in the form of Frost Giant Studios' Stormgate, which was revealed at Summer Game Fest 2020."
-    publishedDateTime: 2022-06-10T10:10:00Z
-    webUrl: "https://geekculture.co/ex-starcraft-warcraft-devs-unveil-new-rts-stormgate-at-summer-game-fest-2022/"
-    type: article
-    provider:
-      name: LEGO
-      domain: geekculture.co
-    quality: 32
-    images:
-      - url: "https://geekculture.co/wp-content/uploads/2022/06/Former-Starcraft-Warcraft-Devs-Unveil-New-RTS-Stormgate-At-Summer-Game-Fest-2022-1.jpg"
-        width: 1200
-        height: 500
-        isCached: true
   - title: "Frost Giant Studios, ex-StarCraft II alumni, announce the next big RTS with Stormgate"
     excerpt: "Frost Giant Studios, a crack team of some of the minds behind StarCraft II but otherwise unknown studio, have announced what they hope is the next big RTS at Summer Game Fest. Stormgate is a traditional-sounding RTS,"
     publishedDateTime: 2022-06-09T21:53:00Z
@@ -180,6 +180,6 @@ related:
       domain: news.com.au
     quality: 30
 
-secured: "eDIuF4a47ZhT9yul1RjClQFZ2345TfLoYuTs69A9TejpPjOxdk9BO2KBtYIHa7hyiOBo/bIYNzHRSwkKSvF3V4xzrt6ffnw1GwTOpsdLSqCywzYTM3sa9aL/Ry9qIfnY3jDYla+MKTopWvB7Hfkd+HguKM5lczcMTGAojNHdkcj6jmTYPx57ayPFhmAYqsBkvaW4P3BeioZRulbqhadX7lpjzOrl6AJCWr/sawN7zmJtO/2cd8Jj2ir1ayecp3j2t1JeRW7V4QU7zTTGBYnjhdSjdYCkeIcaD+758OP9iLYYOGS3D7Doml3I6xL/7UDHcF6XJ4Ktdflr/ROaS4A2lYf1MMBKllAt9R9wjl/w9e8=;pxXvUca5QhMFDqWfoJmfEg=="
+secured: "lw3gH8hJmk7aJtuOg1RhF6LAv3biqxifrWxTWmm3KWfH/4/NUL5hT8PBiypqizlPZX9/ERc3anB2vhcW6rfzmNWiGy3ErxZC/oZI5097S7aDr8hKgHCmgA3yl+Eyjl1C10qKAxqO3WGJRhM8aWwSzOXepghkq37YYE6bBe3cuTdGRxjunqakGkv8zlGJuPnjQuHGbawdnKV+S5jkdsjg8FZUE8MoH851P7+6PTexiWUCyPz2yV/qREi9yDI31Ho0kiE5cMwTWGxet3ZmEq2nQb2Bmv07s/jcj04XXy4b9RjJkq47NIHnrNT5/w8iV7WxLRpwFwL7NTD7QkC+io2ixeqs1pjGvMTCttER1L+AS4U=;iYfr8o47ZqLuJoBxL9sKLA=="
 ---
 

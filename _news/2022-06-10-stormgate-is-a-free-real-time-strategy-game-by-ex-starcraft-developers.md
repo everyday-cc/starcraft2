@@ -2,9 +2,9 @@
 category: news
 title: "‘Stormgate’ is a free real-time strategy game by ex-‘Starcraft’ developers"
 excerpt: "Revealed during Summer Game Fest 2022, Stormgate is a free-to-play RTS title created by some of the leading developers behind Blizzard Entertainment‘s Starcraft 2. Stormgate is being created in ..."
-publishedDateTime: 2022-06-10T01:20:00Z
-originalUrl: "https://www.nme.com/en_asia/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3244178"
-webUrl: "https://www.nme.com/en_asia/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3244178"
+publishedDateTime: 2022-06-09T18:50:00Z
+originalUrl: "https://www.nme.com/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3243387"
+webUrl: "https://www.nme.com/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3243387"
 type: article
 quality: 35
 heat: -1
@@ -180,6 +180,6 @@ related:
       domain: news.com.au
     quality: 30
 
-secured: "eDIuF4a47ZhT9yul1RjClQFZ2345TfLoYuTs69A9TejpPjOxdk9BO2KBtYIHa7hyiOBo/bIYNzHRSwkKSvF3V4xzrt6ffnw1GwTOpsdLSqCywzYTM3sa9aL/Ry9qIfnY3jDYla+MKTopWvB7Hfkd+HguKM5lczcMTGAojNHdkcj6jmTYPx57ayPFhmAYqsBkvaW4P3BeioZRulbqhadX7lpjzOrl6AJCWr/sawN7zmJtO/2cd8Jj2ir1ayecp3j2t1JeRW7V4QU7zTTGBYnjhdSjdYCkeIcaD+758OP9iLYYOGS3D7Doml3I6xL/7UDHcF6XJ4Ktdflr/ROaS4A2lYf1MMBKllAt9R9wjl/w9e8=;pxXvUca5QhMFDqWfoJmfEg=="
+secured: "3znPQ9GXoT53QuL9f8+9uSiaGRPT1ry6hVqQPMdIbutGo4qXPY85bklsUx4TmgyC56JKAYGVrsrG6G79duQ27aDGhSpANig7pA7njgrTYf2+ShOdISF4HoQekBHkFUxiIqzJ7YBx8FjvKx61trtIzDkfwONsBFOv/Tr3gx9IKalFBl40l3gPGuQB3yy1zEWou3XkR9TiHdB64mzW/+J5z4xw3EMREP03XS2KO588uU2GopHYZVnwbdvHmvEnqhtW/7BN4Hht9cdE/Mw+YIekvaBtGjzSd1cc7SZDB++kIix5y3yc0DK5S7IUg5Y+FzdFjFojMvLiLvvW0XX5xRo23Kj9UkAXT79C22gYHpk96dM=;B3Rsg6uT24Cd3vsp8/Jd2Q=="
 ---
 

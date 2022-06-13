@@ -870,6 +870,7 @@ items:
   - pig-how-quickly-can-reynor-dispose-of-noobs-part-3-holdout-challenge-starcraft-2
   - pig-the-1v7-insane-ai-challenge-is-impossible-no-beastyqt-has-not-done-it-starcraft-2
   - pig-what-happens-when-pros-have-maphacks-no-fog-of-war-mod-special-vs-cham-bo3-tvz-starcraft-2
+  - pig-pig-and-lowko-team-up-in-2v2s-dont-remind-him-i-called-him-insane-once-p-starcraft-2
 
 topics:
   - StarCraft 2

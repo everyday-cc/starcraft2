@@ -1,10 +1,10 @@
 ---
 category: news
 title: "StarCraft 2's veterans left Blizzard to make Stormgate, the co-op RTS of their dreams"
-excerpt: "Bizarro Blizzard decided that StarCraft 2, one of the finest real-time strategy games ever made, was worthy of a sequel pronto, and this preview in Bizarro PC Gamer would be about StarCraft 3 instead."
-publishedDateTime: 2022-06-09T20:02:00Z
-originalUrl: "https://www.pcgamer.com/au/starcraft-2s-veterans-left-blizzard-to-make-stormgate-the-co-op-rts-of-their-dreams/"
-webUrl: "https://www.pcgamer.com/au/starcraft-2s-veterans-left-blizzard-to-make-stormgate-the-co-op-rts-of-their-dreams/"
+excerpt: "In that world, Blizzard never merged with Activision or discovered just how lucrative Overwatch's loot boxes could be. Bizarro Blizzard decided that StarCraft 2, one of the finest real-time strategy games ever made,"
+publishedDateTime: 2022-06-09T18:48:00Z
+originalUrl: "https://www.pcgamer.com/starcraft-2s-veterans-left-blizzard-to-make-stormgate-the-co-op-rts-of-their-dreams/"
+webUrl: "https://www.pcgamer.com/starcraft-2s-veterans-left-blizzard-to-make-stormgate-the-co-op-rts-of-their-dreams/"
 type: article
 quality: 70
 heat: -1
@@ -118,6 +118,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Stormgate is the new real-time strategy from former Starcraft devs"
+    excerpt: "Stormgate is the new real-time strategy game from Frost Giant Studios, made up of former Starcraft 2, Diablo 4 and Warcraft 3 developers. The world premiere was revealed at the Summer Game Fest ..."
+    publishedDateTime: 2022-06-09T19:17:00Z
+    webUrl: "https://www.techradar.com/news/stormgate-is-the-new-real-time-strategy-from-former-starcraft-devs"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/piXjtXJH8tV7sUGxL43D99-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Stormgate gameplay revealed by ex-Starcraft developers"
     excerpt: "Having announced the F2P RTS Stormgate during the opening Summer Game Fest showcase, the team of ex-Blizzard and Starcraft developers at Frost Giant"
     publishedDateTime: 2022-06-12T21:11:00Z
@@ -200,6 +214,6 @@ related:
       domain: news.com.au
     quality: 30
 
-secured: "kFxTUN+d9hghcFpghgOanXBOcDEHD2Q3dWxMdz8t+jfUL4huquqnVu5na2F4paRQDRlmtlm+Ce6potY6QeETFO1YFW3sx6cvAefaQeDT+n3uTsVC7ciZUp/+t134CLCe1S5XQ8It/as93KoUPspdM5PNRUE8S2MY+oIDWKIZwGC1OmRlhI7Of53OOQI3/rL+VSkG4GxMqkLpIrxhLVFZ3q/GoSNChSeRxA3jxKT9xRZMvaFnYfn2Uanl/rES4EsXN2gx89VhRQYLzSVnoow0x4xmj2047kjur7TwOTB/fzuCoxSvvpqxIy8sFlYf+XBiD+hN92r83kDStSzvMhMeD6oUMLrj1x0QPrleq9DZWaI=;y43GfqB3/DtNATsUmexQAw=="
+secured: "csDWCgmbDGEdHrN1RuMPdiWSHiBGBpPaocHs5KEdbeR8nnzuMbZTc5AGl4BA7H06rvF0yXMIshIR7beUCCKjRRlfQWCJFB6tXXqe1rjKIqEoA1ATJGJ7I3eMhTobPCrVrCyoZ+ygI262wDnj83ZnTAW9LV1OPR50EIalekM9LDZA1Ib86HNm0QnhPKn1ybAalRL3oubbV0h0Y0ltbVmCIOzOMX3IHxlNxMaKGCQiwTF3ym2wVZr74l55BMWg+dcaJ6GNIp3Ax5Tcf6y+gFnXhyYF9ncBH1Ie5Q/wBkNu3NC/NamjxBeZFQdpKHJcPkfNp5wU0uWrhc1TqZHBFmO6sAuwnXRJOJtmc54ZJw09rpQ=;ymF3oxT/5A5Sv8HjQeX1pg=="
 ---
 

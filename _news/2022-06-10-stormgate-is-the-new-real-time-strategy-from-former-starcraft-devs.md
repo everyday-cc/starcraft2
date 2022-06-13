@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Ex-StarCraft 2 devs reveal their new RTS, Stormgate"
-excerpt: "Frost Giant Studios, a team composed of many former Blizzard Entertainment developers who worked on games like StarCraft 2 and Warcraft 3, revealed its debut game on Thursday at Summer Game Fest."
-publishedDateTime: 2022-06-09T20:58:00Z
-originalUrl: "https://www.polygon.com/23161319/stormgate-frost-giant-studios-rts"
-webUrl: "https://www.polygon.com/23161319/stormgate-frost-giant-studios-rts"
-ampWebUrl: "https://www.polygon.com/platform/amp/23161319/stormgate-frost-giant-studios-rts"
-cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23161319/stormgate-frost-giant-studios-rts"
+title: "Stormgate is the new real-time strategy from former Starcraft devs"
+excerpt: "Stormgate is the new real-time strategy game from Frost Giant Studios, made up of former Starcraft 2, Diablo 4 and Warcraft 3 developers. The world premiere was revealed at the Summer Game Fest ..."
+publishedDateTime: 2022-06-09T19:17:00Z
+originalUrl: "https://www.techradar.com/news/stormgate-is-the-new-real-time-strategy-from-former-starcraft-devs"
+webUrl: "https://www.techradar.com/news/stormgate-is-the-new-real-time-strategy-from-former-starcraft-devs"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Polygon
-  domain: polygon.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://cdn.vox-cdn.com/thumbor/fRhdErm88BbryVeTH8k16IoML7U=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70960671/ss_f408e92f779d0d86c25fae92a1f8555ad7216121.0.jpeg"
-    width: 1400
-    height: 933
+  - url: "https://cdn.mos.cms.futurecdn.net/piXjtXJH8tV7sUGxL43D99-1200-80.png"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -53,6 +55,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/5dteRedGhfkFjrWrhdACSB-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Ex-StarCraft 2 devs reveal their new RTS, Stormgate"
+    excerpt: "Frost Giant Studios, a team composed of many former Blizzard Entertainment developers who worked on games like StarCraft 2 and Warcraft 3, revealed its debut game on Thursday at Summer Game Fest."
+    publishedDateTime: 2022-06-09T20:58:00Z
+    webUrl: "https://www.polygon.com/23161319/stormgate-frost-giant-studios-rts"
+    ampWebUrl: "https://www.polygon.com/platform/amp/23161319/stormgate-frost-giant-studios-rts"
+    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23161319/stormgate-frost-giant-studios-rts"
+    type: article
+    provider:
+      name: Polygon
+      domain: polygon.com
+    quality: 57
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/fRhdErm88BbryVeTH8k16IoML7U=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70960671/ss_f408e92f779d0d86c25fae92a1f8555ad7216121.0.jpeg"
+        width: 1400
+        height: 933
         isCached: true
   - title: "Stormgate is an RTS by veteran StarCraft developers"
     excerpt: "Stormgate was revealed at Summer Game Fest 2022, giving players a look at a cinematic from the upcoming RTS title by veteran Warcraft and StarCraft developers. The team at Frost Giant Studios are releasing Stormgate as a free-to-play title with an beta coming out in 2023."
@@ -113,20 +131,6 @@ related:
       - url: "https://www.pcgamesn.com/wp-content/uploads/2022/06/stormgate-rts.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Stormgate is the new real-time strategy from former Starcraft devs"
-    excerpt: "Stormgate is the new real-time strategy game from Frost Giant Studios, made up of former Starcraft 2, Diablo 4 and Warcraft 3 developers. The world premiere was revealed at the Summer Game Fest ..."
-    publishedDateTime: 2022-06-09T19:17:00Z
-    webUrl: "https://www.techradar.com/news/stormgate-is-the-new-real-time-strategy-from-former-starcraft-devs"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/piXjtXJH8tV7sUGxL43D99-1200-80.png"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Stormgate gameplay revealed by ex-Starcraft developers"
     excerpt: "Having announced the F2P RTS Stormgate during the opening Summer Game Fest showcase, the team of ex-Blizzard and Starcraft developers at Frost Giant"
@@ -210,6 +214,6 @@ related:
       domain: news.com.au
     quality: 30
 
-secured: "gQtQR+RMmH+98DI7DjkJq91sSljvRO7GoXHkiklpo9V5tihUxrRbflxz9IHzA63VDd2KuM3BbFwss0jRWhOGhRZtDSaRMBN1CfB7zOl2inEEMNTHAuT2UDn07d3WghJjEcdJzDElq2MXaw8JEfKiR8B6H1G4cvw99IqNTdwkB1tJdr+fmhFfGemwad4p1OqIE57YBTSe9RFmevGaavGMblFOZdeJZ4s0QrG/8k126rIUe/jJrEIHRJRJHV5A9rnZzSahjhIiJ59UNJ6PUm5AfkdwtZ1RqBAbt6ePaSzt4aMJdda2SgahXHUaZW3zFhSaJBxAQXeR/AHyZxJYQjYHjNuhICOR+eEYNbssAXMR+Xk=;uMsLkfIEkrvlgccL6NINew=="
+secured: "PeghhVgeeNYNzUUv/9zimjFzYjHtiSnJsvLwl1kuh+QHZxzJsucKhsnQq8fbMg668g7YJiXQFjjn26ZOE+LeqfN+9RH1g7iKWwHrdf9FbatJJXdfEiiezmuxdfEnsZLSmi7o0ryQuaWEp4ZXZ1MREbbi9pqugl9rE5YhIZ1VpV3A3FeE97MVadSw1SVKI7LDVwY8RL4wYeiYl1wkCpXzM+TwcgV7XccrCYGPK6YDB6aPzAuDnv9ua7HDVpEgo8M0RXai+AbRHUfPDGcZjAROTek04uspZErChq85jLEsTxDa6O5uPv219Oi4C0DYmPg+RwwA8Sg4RTgnU7nl8pi+eeQHIQUzNs9IjWen7JNsqEI=;BA8z3BffqAbV3E2ov8YsOQ=="
 ---
 

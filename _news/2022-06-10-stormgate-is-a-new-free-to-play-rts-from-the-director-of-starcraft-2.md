@@ -43,9 +43,9 @@ related:
         height: 668
         isCached: true
   - title: "StarCraft 2's veterans left Blizzard to make Stormgate, the co-op RTS of their dreams"
-    excerpt: "Bizarro Blizzard decided that StarCraft 2, one of the finest real-time strategy games ever made, was worthy of a sequel pronto, and this preview in Bizarro PC Gamer would be about StarCraft 3 instead. But in our real world, the key minds behind StarCraft 2 ..."
-    publishedDateTime: 2022-06-09T18:51:00Z
-    webUrl: "https://www.pcgamer.com/starcraft-2s-veterans-left-blizzard-to-make-stormgate-the-co-op-rts-of-their-dreams/"
+    excerpt: "Bizarro Blizzard decided that StarCraft 2, one of the finest real-time strategy games ever made, was worthy of a sequel pronto, and this preview in Bizarro PC Gamer would be about StarCraft 3 instead."
+    publishedDateTime: 2022-06-09T20:02:00Z
+    webUrl: "https://www.pcgamer.com/au/starcraft-2s-veterans-left-blizzard-to-make-stormgate-the-co-op-rts-of-their-dreams/"
     type: article
     provider:
       name: PC Gamer

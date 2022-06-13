@@ -1,10 +1,10 @@
 ---
 category: news
 title: "StarCraft 2's veterans left Blizzard to make Stormgate, the co-op RTS of their dreams"
-excerpt: "Bizarro Blizzard decided that StarCraft 2, one of the finest real-time strategy games ever made, was worthy of a sequel pronto, and this preview in Bizarro PC Gamer would be about StarCraft 3 instead. But in our real world, the key minds behind StarCraft 2 ..."
-publishedDateTime: 2022-06-09T18:51:00Z
-originalUrl: "https://www.pcgamer.com/starcraft-2s-veterans-left-blizzard-to-make-stormgate-the-co-op-rts-of-their-dreams/"
-webUrl: "https://www.pcgamer.com/starcraft-2s-veterans-left-blizzard-to-make-stormgate-the-co-op-rts-of-their-dreams/"
+excerpt: "Bizarro Blizzard decided that StarCraft 2, one of the finest real-time strategy games ever made, was worthy of a sequel pronto, and this preview in Bizarro PC Gamer would be about StarCraft 3 instead."
+publishedDateTime: 2022-06-09T20:02:00Z
+originalUrl: "https://www.pcgamer.com/au/starcraft-2s-veterans-left-blizzard-to-make-stormgate-the-co-op-rts-of-their-dreams/"
+webUrl: "https://www.pcgamer.com/au/starcraft-2s-veterans-left-blizzard-to-make-stormgate-the-co-op-rts-of-their-dreams/"
 type: article
 quality: 70
 heat: -1
@@ -200,6 +200,6 @@ related:
       domain: news.com.au
     quality: 30
 
-secured: "x3vikxUNWRabweBjZUuVDWjYV/3jS4exJzktHE9Uwt4ipwx7bgxgWt3MlvmT82D6hIGv0AxuLNuYD0O4fFSU+h8k6/ZQTLjjQFPjtvy1zjD3a8YXFODwFfvL/D2gbQQxzgIgevwMDuiy39B3t2JdSN7+cNxKKI038Nzg3tYpDmfMu2Irx52IM/JGHAEQdIw/Lh6/bExsF5RE9JiLFh4E9nzuZ/DbhaEiD2gPmbESAY9JfDOZB2Ea0H9ad/OP835HxqRcrMA+0rgz4rPAUI1Ltx63DDrgWw6Qy7sQa1atCLkGY0b/ZfQr6IFEwCKIyvi52EthqMf10bxBCMzottFJOnZvXZ0Tim/Fe2JUxEm8yevV5uQicwezhOFLQxsniCrAe8U1z1IwrQwLuvRYRVG/ax8q6FpveOK1qbalJnNdGzcoUpS6AOgVqKYJ4S/F7m9m/v8xj/tT0QZ/LgVVeokr9RhTjKhBCfPot4kdDLhAvwAsA3LBZJ7fS0743CTKM7MkYgyHxxmfSs4q01VHhj0bew==;Z7ES+3pSO6zhISsrI1QrCA=="
+secured: "kFxTUN+d9hghcFpghgOanXBOcDEHD2Q3dWxMdz8t+jfUL4huquqnVu5na2F4paRQDRlmtlm+Ce6potY6QeETFO1YFW3sx6cvAefaQeDT+n3uTsVC7ciZUp/+t134CLCe1S5XQ8It/as93KoUPspdM5PNRUE8S2MY+oIDWKIZwGC1OmRlhI7Of53OOQI3/rL+VSkG4GxMqkLpIrxhLVFZ3q/GoSNChSeRxA3jxKT9xRZMvaFnYfn2Uanl/rES4EsXN2gx89VhRQYLzSVnoow0x4xmj2047kjur7TwOTB/fzuCoxSvvpqxIy8sFlYf+XBiD+hN92r83kDStSzvMhMeD6oUMLrj1x0QPrleq9DZWaI=;y43GfqB3/DtNATsUmexQAw=="
 ---
 

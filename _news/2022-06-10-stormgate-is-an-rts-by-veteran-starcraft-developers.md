@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Ex-StarCraft 2 devs reveal their new RTS, Stormgate"
+    excerpt: "Frost Giant Studios, a team composed of many former Blizzard Entertainment developers who worked on games like StarCraft 2 and Warcraft 3, revealed its debut game on Thursday at Summer Game Fest."
+    publishedDateTime: 2022-06-09T20:58:00Z
+    webUrl: "https://www.polygon.com/23161319/stormgate-frost-giant-studios-rts"
+    ampWebUrl: "https://www.polygon.com/platform/amp/23161319/stormgate-frost-giant-studios-rts"
+    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23161319/stormgate-frost-giant-studios-rts"
+    type: article
+    provider:
+      name: Polygon
+      domain: polygon.com
+    quality: 57
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/fRhdErm88BbryVeTH8k16IoML7U=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70960671/ss_f408e92f779d0d86c25fae92a1f8555ad7216121.0.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Ex-Blizzard Devs Launch Stormgate, A Cool New Diablo Starcraft Hybrid Free-To-Play Game"
     excerpt: "One of the things that made Blizzard's past titles so popular, particularly Warcraft and Starcraft, was the inclusion of a powerful editor that allowed players to create their own scenarios."
     publishedDateTime: 2022-06-11T18:56:00Z

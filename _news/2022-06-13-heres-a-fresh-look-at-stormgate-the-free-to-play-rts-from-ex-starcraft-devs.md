@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Here’s a fresh look at Stormgate, the free-to-play RTS from ex-StarCraft devs"
-excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the “next evolution” of the RTS genre,"
-publishedDateTime: 2022-06-12T20:56:00Z
-originalUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
-webUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the ..."
+publishedDateTime: 2022-06-12T20:58:00Z
+originalUrl: "https://www.techradar.com/in/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+webUrl: "https://www.techradar.com/in/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
 type: article
 quality: 34
 heat: -1
@@ -216,6 +216,6 @@ related:
       domain: news.com.au
     quality: 30
 
-secured: "Z7oH55Rs+Oeyr+caBoCGW/pFUlS6DIXT70MWlP+LoFPz/PmE9SM5SorsLUPoeo0htXR8OOxg09dBovI7VbrH9PmyNul6UUX27uSzAw15C6D/ftNAPwGkKRFJ+mqNhwfLGdj998/1UXY+kQ4poWP3tDq1r6lvCt6Q+saRkqhFVyZUuA+wn/nzbfnJpqPcC5+42JKLtj7hG8VUFYYlw6wr3YH1VonSdj1EGp03n8NqwIyCSQLINnFc/dyuV0eLB+shYkdKBgtAVwmrSqsAbRYvwtdc8ZCUSVkZL/woRHXwEUmSDQWcP1ruMqYkCRuIUlcdciUwFunkklJOqfoJEI80Xz3kY0UMQFq9cgWQrJURnNqPOnQbm59fNld5qiXVrcCLSrbNBGVsMncFV3fN/jo+OFHNxWKtdcOCAmcPjeost5yLbRlZtywPqSKBAsCzeWT8F6W/yf2xb1prNHNLAXkvrgqYq6lH+d1PXFGZs9DAf3a/5FLYiFtrJw9LYBQaQULBX2fof1Qaulx0w73ibo7yxw==;TaR/MQDdIWuP5dZZzQh/0A=="
+secured: "NVEpEYN7WJhgn09xxXUxLxC403ern764ayNgpfuHRq7z66oHPuAlH5ZPe0GFzQ7EdLaX2nk/ua/RjUkvevUm6vU6u7agriKsmStqz7ZrYSErGV/pgTwSmQwnxqoYrYAeOIisf49mJA2MkdzbXo1IonBoSJ5Y+py7Iyu49PZqZnZ6aYOzbQNNyAHRJJeIOFaH7mxKV2uUlFyZb4ZuhfuGiiBJUGfQx7ZCUAOVaY/XaLcZxSS3Ux5drXf8nZfPxHRgCE/gXi39i5sbicdNVTGFBQ3FifZgfrLrf9a6IfOBBmAmeSqpPa0oVdG6aIzOSNOsrWOy9bhwpYeHArl3qr0NWatUvcocGvuKE5MLJ1mU/KQ=;jL8KRMYU5qdB27e+6anakA=="
 ---
 

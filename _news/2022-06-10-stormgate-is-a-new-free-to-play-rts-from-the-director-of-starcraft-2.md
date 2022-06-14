@@ -1,12 +1,14 @@
 ---
 category: news
 title: "'Stormgate' is a new free-to-play RTS from the director of 'Starcraft 2'"
-excerpt: "Game Fest, we got our first look at \"Stormgate,\" a new free-to-play real-time strategy game that runs on Unreal Engine 5.."
-publishedDateTime: 2022-06-09T19:51:00Z
-originalUrl: "https://www.engadget.com/stormgate-announced-191711884.html?src=rss"
-webUrl: "https://www.engadget.com/stormgate-announced-191711884.html?src=rss"
+excerpt: "In 2020, Starcraft 2 production director Tim Morten left Blizzard to start Frost Giant Studios. At Summer Game Fest, he finally showed off what he and his team have been working on for the past ..."
+publishedDateTime: 2022-06-09T20:01:00Z
+originalUrl: "https://www.engadget.com/stormgate-announced-191711884.html"
+webUrl: "https://www.engadget.com/stormgate-announced-191711884.html"
+ampWebUrl: "https://www.engadget.com/amp/stormgate-announced-191711884.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/stormgate-announced-191711884.html"
 type: article
-quality: 36
+quality: 56
 heat: -1
 published: false
 
@@ -214,6 +216,6 @@ related:
       domain: news.com.au
     quality: 30
 
-secured: "Glvn0cYIwW42sqYp5Edb3itKXk9JNgFuhHctVaKhM5UTROYFOHFpUOkhyxVYYcWVmJ0ATImZx1loko8ZOo7aLXEux7GCfPbKfRMEpkRWwj7KqaXBRiIaoVEJBEMTUNT81wJvrJbSqdeDU3JsUmu6dEGGuTeQk2QeNhuuSZcm8zzb5qJXh1AkZXOusZmddfTN7xBjuiU8dhZgjUyM/hrIyC0J9mhWVp0m684PW4DmtEDZFNYJPvhM41RsiyoZeyvoVf1VukXiEEg+Iy1umaee9GXYEuUKgZutdRIi0nciMIA5kVfX1RDbuF86/3yuqgYwZLiCfTPTEvNx+d4+vAuCvHOOLFXfPEVxlw4i+71Mb4zvCvuT6JzKmfhG618JaWCb5QeuIjC8Go/kTmz9UzSTeBi1HkbdqpFdorgVBMFkm9vrKERWYqTJRr+2MmW0luqzSvuRWIePRUsnKUyHxVMOvnwLwob+VEJ9XbTXtMVFoqa8rDQAib8IFlXwbHVGcJqcRAZcdcj/7nFHoCMA7kq0Hg==;WnWXxyQPRb8M/A9PYfOIkw=="
+secured: "ctAoM1WBL7V2AXKQsLkgGZ9EPm2Z4f3E2Tn9OcIcKI2BJcyQc7MDyD1Q1z9cKibNrtZgWcNDlwIG+zUQgWRk08oberf43qkHR8QVF/FNHDdVHsx99auVHXTSrMryvwA23U4edWhGmhUgszjvoEXVv/tDXSKcSC0l5s37tlV4NFK95I+4cXcAg+Tk9W3rZmLOkDjG1K76t8hhS4MbkMxBinn81TH+ZRhSXw46A9x+s9jpsFcSVu4IgrekJDBVvwzo9+xwZwWawiAalOEuU3SV6MSIm6U3DlBA7hBwcFbPsgIB4nutNl8M3Ksqd0pdIrtlGbS2rUOjOX1ln4K0Ki85nyvg4rZt7C9n9gG2LpcqFLQ=;1+p6gvhDAWdSc0rBbZptlw=="
 ---
 

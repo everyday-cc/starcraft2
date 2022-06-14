@@ -1,14 +1,12 @@
 ---
 category: news
 title: "'Stormgate' is a new free-to-play RTS from the director of 'Starcraft 2'"
-excerpt: "In 2020, Starcraft 2 production director Tim Morten left Blizzard to start Frost Giant Studios. At Summer Game Fest, he finally showed off what he and his team have been working on for the past ..."
-publishedDateTime: 2022-06-09T20:01:00Z
-originalUrl: "https://www.engadget.com/stormgate-announced-191711884.html"
-webUrl: "https://www.engadget.com/stormgate-announced-191711884.html"
-ampWebUrl: "https://www.engadget.com/amp/stormgate-announced-191711884.html"
-cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/stormgate-announced-191711884.html"
+excerpt: "Game Fest, we got our first look at \"Stormgate,\" a new free-to-play real-time strategy game that runs on Unreal Engine 5.."
+publishedDateTime: 2022-06-09T19:51:00Z
+originalUrl: "https://www.engadget.com/stormgate-announced-191711884.html?src=rss"
+webUrl: "https://www.engadget.com/stormgate-announced-191711884.html?src=rss"
 type: article
-quality: 56
+quality: 36
 heat: -1
 published: false
 
@@ -177,9 +175,9 @@ related:
         height: 1270
         isCached: true
   - title: "Here’s a fresh look at Stormgate, the free-to-play RTS from ex-StarCraft devs"
-    excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the ..."
-    publishedDateTime: 2022-06-12T20:58:00Z
-    webUrl: "https://www.techradar.com/in/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+    excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the “next evolution” of the RTS genre,"
+    publishedDateTime: 2022-06-12T20:56:00Z
+    webUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
     type: article
     provider:
       name: TechRadar
@@ -216,6 +214,6 @@ related:
       domain: news.com.au
     quality: 30
 
-secured: "ZItMgFzE3P9F/wIrgW22cerEq/o3Fy75IaDqhT9TYg+TLlaORCx6OKWeLUZNIuZc0YgB3/Zkr+f2Jvvl8s9lqEnESwklOgt0SWZR80DTnumRNOCWlB95xJp9GBoHjecnzG6arSgn/Iqy/QMaI9C8tYkH+TVOvZCljkm66GPEDA/ru86sckw9HCasdPju/jhOmLYQLwCdqD6dQgzmiwP8whwtDZN2A/z8/NdifaFOee1QReHGgySY8hA/GKedDQBIihl9vLczNBdEOVEXaKsw6T878E3LLldZQWgxahZPP62CGpfUmpoy2GMLfKqliF2WfpavupnLbl0Io/ssZBeDYFN54maXAZ8t4Idrb84Kl8Y=;QXBDV/wDuRW06L5wbCb80A=="
+secured: "bnlnqDYujqFUb3n0lGzV+FcR1FHiC/nfTx8D4HBpgBb0qa6Lot8py8uE+KjE5j3jfe2PpW/9Bbr6zSlwFTGwwBBh+SX/34T5d+x8gsaSFBiuQy7NAs7+Jr/UZS3O/8I2oQY8Zf+J5B77oYhofQtRgHu0VJ2kePvhmbAzDx6iaFsbOHMu1xp9Ak3+WQm5VsdCKYY3YvrJSdjHjiYTWtukHzDYswfaCLOY8mORrZhe+2blDOCd55eshjySJ93mvEUKd5lucsK0BhMjRrvOolBomRiBzrV3nESUU7xjGHzQhwoWjKAMPWlhYe4TKeA2UJajFtg6K0qRZxnwdRdtI48PCGP4cFHvt0gWqZn1fPIfDb8=;9Vi3qf8M0ItEcT/kmTqi8w=="
 ---
 

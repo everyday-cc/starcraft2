@@ -4,6 +4,44 @@
   "page": 4,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-byuns-epic-micro-vs-cure-best-of-7.md",
+      "title": "StarCraft 2: ByuN's EPIC Micro vs Cure! (Best-of-7)",
+      "excerpt": "Best-of-7 series of professional StarCraft 2 between ByuN and Cure. In this Terran versus Terran we see a variety of strategies. From hyper aggressive early game Terran cheese from both sides, to an awesome macro game.  OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-epic-micro-vs-cure-best-of-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-epic-micro-vs-cure-best-of-7/",
+      "originalUrl": "https://youtube.com/watch?v=L8foAzbYXlY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L8foAzbYXlY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M21S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/L8foAzbYXlY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-02-04T05:20:54-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-byuns-mass-battlecruiser-vs-nightmare.md",
       "title": "StarCraft 2: ByuN's MASS BATTLECRUISER vs NightMare!",
       "excerpt": "Professional match of StarCraft 2 between ByuN (Terran) and NightMare (Protoss). Both players make mistakes in this game, and because of that the game goes the distance. Allowing the Protoss to get maxed on Sky Toss and Terran on Sky Terran.  Support my work on Patreon: https://www.patreon.com/lowkotv",
@@ -418,36 +456,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-11T09:00:12-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-unbelievable-battlecruiser-vs-skytoss-war-diamond-in-the-ruff-37.md",
-      "title": "StarCraft 2 - Unbelievable Battlecruiser vs Skytoss WAR! | Diamond in the Ruff #37",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent? 🐷 Support PiG: https://www.pigstarcraft.com/support/  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-unbelievable-battlecruiser-vs-skytoss-war-diamond-in-the-ruff-37/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-unbelievable-battlecruiser-vs-skytoss-war-diamond-in-the-ruff-37/",
-      "originalUrl": "https://youtube.com/watch?v=yWLXURzFaDA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yWLXURzFaDA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M39S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yWLXURzFaDA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-10T20:48:41-08:00"
     },
     {
       "path": "_games/sc2hl-banelings-vs-planetary-fortress-maru-vs-leenock-starcraft-2.md",
@@ -1107,14 +1115,14 @@
       "publishedDateTime": "2022-02-25T09:22:23-08:00"
     },
     {
-      "path": "_games/pig-starcraft-2-can-marubyun-fend-off-the-na-clowns-in-an-epic-2v2-pig-reacts.md",
-      "title": "StarCraft 2: Can Maru/Byun fend off the NA Clowns in an EPIC 2v2? | PiG Reacts",
-      "excerpt": "I was going to cast this as an FPV vid, but listening and reacting to Special+Astrea playing 2v2 against Maru+Byun was just too funny. Great match, great reactions from Special, really fun series. This best of 5 series was played as a precursor to Nation Wars 2022.  Follow Special on Twitch! https://www.twitch.tv/special_",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-can-marubyun-fend-off-the-na-clowns-in-an-epic-2v2-pig-reacts/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-can-marubyun-fend-off-the-na-clowns-in-an-epic-2v2-pig-reacts/",
-      "originalUrl": "https://youtube.com/watch?v=9JKlE1L4hfE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9JKlE1L4hfE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H11M4S",
+      "path": "_games/pig-40-kill-widow-mine-drop-diamond-in-the-ruff-32-starcraft-2.md",
+      "title": "40 KILL WIDOW MINE DROP! | Diamond in the Ruff #32 - StarCraft 2",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13 | https://www.youtube.com/ruff_stuff",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-40-kill-widow-mine-drop-diamond-in-the-ruff-32-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-40-kill-widow-mine-drop-diamond-in-the-ruff-32-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=8Q-s8MsDrd4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8Q-s8MsDrd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M59S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -1126,15 +1134,15 @@
       "heat": 52,
       "images": [
         {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
+          "url": "https://i.ytimg.com/vi/8Q-s8MsDrd4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-04-11T17:33:43-07:00"
+      "publishedDateTime": "2021-01-29T18:01:31-08:00"
     }
   ],
   "nextPage": 5

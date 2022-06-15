@@ -1,14 +1,12 @@
 ---
 category: news
 title: "'Stormgate' is a new free-to-play RTS from the director of 'Starcraft 2'"
-excerpt: "In 2020, Starcraft 2 production director Tim Morten left Blizzard to start Frost Giant Studios. At Summer Game Fest, he finally showed off what he and his team have been working on for the past ..."
-publishedDateTime: 2022-06-09T20:01:00Z
-originalUrl: "https://www.engadget.com/stormgate-announced-191711884.html"
-webUrl: "https://www.engadget.com/stormgate-announced-191711884.html"
-ampWebUrl: "https://www.engadget.com/amp/stormgate-announced-191711884.html"
-cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/stormgate-announced-191711884.html"
+excerpt: "Game Fest, we got our first look at \"Stormgate,\" a new free-to-play real-time strategy game that runs on Unreal Engine 5.."
+publishedDateTime: 2022-06-09T19:51:00Z
+originalUrl: "https://www.engadget.com/stormgate-announced-191711884.html?src=rss"
+webUrl: "https://www.engadget.com/stormgate-announced-191711884.html?src=rss"
 type: article
-quality: 56
+quality: 36
 heat: -1
 published: false
 
@@ -230,6 +228,6 @@ related:
       domain: news.com.au
     quality: 30
 
-secured: "iWyvPvYjLBFmIPq2Bo9nJBlvpl59H/p8swQPUXEQl5Xkwlt1RgLxdjxeT8zazJYlhMkByoJYKbfnIeHmUPs0Qz/e6wsYm/rThs3EA3IybuFMC+ns2Zk1R5kCJdnmOW8DVzkqmtm6ZCDkJn72kQFSwYlQR6zgpdb2OSEFZX6vkFLURV70w8VuKclH+N0uec5219HAc2WZJ3lbYjk+y5SCCQOtM0SwiPThwJXSaJ2mJyFrh/n7ggYL0xN4sz/vV87XQjRmEOVtCsOXIt48Kssbi1jsgWSy8dzLx7jWFqBw248zG73Umf9df79YU6t8atWOyxOAjJIbVDej/UlDH6zMf6uQ0VFIxt6/yN1tYLZambk=;yifrNDqgDu807OSwCuWzoQ=="
+secured: "z1gNecciL1sU25lgohUaFSs4nsinHPxIIzF31ofKySc4iyWDh06tqJEA7EheSxmuED3mZPSbswljQt747oB7MUeiTMB71fnHKJILNZW2sqpL9NPvpolyOxnvhIZo5OdqE2UiP192IuwoHwlHk2vV7QOuI9UOv1kzW5ra2kaCu3WEHaHivCwfqL+t3oVcwvZekJUm0niGwZqGhWBkT/UIs9FtaFtJOFUJrV9/dh/9Rrw48zp1uEf0vCAVUd+Z+OTq0aQsZSqddeYJAmQTVaCiQoXEJtUdOqkjReOQ10Wr02NXdPk1nwdbBaDRnvQkCWftKFqIxGOIb5/fYxy2Xxb5sajXtXs36YX0km31+em8uRg=;V5c3Ezd20uisvqCRiVcPEA=="
 ---
 

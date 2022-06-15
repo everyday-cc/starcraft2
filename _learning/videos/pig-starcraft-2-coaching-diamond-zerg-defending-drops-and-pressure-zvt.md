@@ -18,6 +18,12 @@ topics:
   - StarCraft 2
   - Zerg
 
-secured: "orwqQJKn7iW63bJX9TepRDxqCM5o07XRrndnUK2pSoFyCLEKA6CKuftta9twouEtD0tLFFy2bZvvK7QmDUwIYQpaZ94Oc+6I7WPt0RyPrD2VTfj8iW9iMDvnlnN4h5CqpDdZAIoHahjawmrrb4wd6SyEqvkakfV3plY/mYR+u6nvrB9MoilB6pRB4K/8KsjLAie1Ai8p0DMfQxEH1bbbPg+lCUuPYW1v1k4jSrl8fMrbJnm+GFzQC79BQGCcScmLtHVhYNnmy0eDVfkK50xQgihdA8jAnEGowll1Oo1tBc2+GIC4sicRQ0UF1m/lR1EHGHmzGabFWxt5U+jD+ANky9FjiTdSlmNgsoZ/UagOUUVyiSFLN6JvZtLW5vFDCksh4xnxw7mCPLoiWt/Wq6g2MQ==;lFx5CHBhV57xQD0OeJLVhg=="
+images:
+  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "pvL3Ql3g5dRS//9YmsF1g2iNfiLLDvXq3Qv2OHFoYNhug4QF3QCPz+RIwD6SmOft3PfZHW4WgUsZ6R15cvB9ANurlIfUJX2Cv2uCr0+OKR0Bo+qOx3tQbmb6Q6oGKj6MdjY9wnE2Hfkl377A4dUzWEma0VssPUKU+0FRyRT9ATJTbK9nvHZVIUe5Uj01JFO9BcU+q/YDW1NT+Yi0NsdDABOuxncwlk7OowoYKGg1Q5AY2asMkkOXcLyu+P3SBtGJ3a2AlsQ00XkPl+h4N24sj8tdSqsylrdeK8wMovOSwD6XbxCxGEI+4V4kWIwlqlqO082NLNt+to4p8hMLSHdCfin9HClD8x61u6vZt3nVOzNduYfQKNGu8AkwYUxwK+LQsZROX2v6JmZfISuy+el9Uw==;1WjsCbiB+YWT84De1RCkDA=="
 ---
 

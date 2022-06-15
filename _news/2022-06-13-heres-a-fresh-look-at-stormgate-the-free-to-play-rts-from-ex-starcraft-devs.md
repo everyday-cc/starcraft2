@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Here’s a fresh look at Stormgate, the free-to-play RTS from ex-StarCraft devs"
-excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the “next evolution” of the RTS genre,"
-publishedDateTime: 2022-06-12T20:56:00Z
-originalUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
-webUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the ..."
+publishedDateTime: 2022-06-12T21:25:00Z
+originalUrl: "https://www.techradar.com/nz/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+webUrl: "https://www.techradar.com/nz/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
 type: article
 quality: 34
 heat: -1
@@ -176,8 +176,8 @@ related:
         isCached: true
   - title: "‘Stormgate’ is a free real-time strategy game by ex-‘Starcraft’ developers"
     excerpt: "Revealed during Summer Game Fest 2022, Stormgate is a free-to-play RTS title created by some of the leading developers behind Blizzard Entertainment‘s Starcraft 2. Stormgate is being created in ..."
-    publishedDateTime: 2022-06-10T01:20:00Z
-    webUrl: "https://www.nme.com/en_asia/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3244178"
+    publishedDateTime: 2022-06-09T18:50:00Z
+    webUrl: "https://www.nme.com/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3243387"
     type: article
     provider:
       name: NME
@@ -214,6 +214,6 @@ related:
       domain: news.com.au
     quality: 30
 
-secured: "DyO5zN6RC8Js1lD5PYDUip2JxfxUWZc+aoqBzeXbfcWoFeK+fgSY9lPqriXd4AI1VdfVvSYgs7aIn5Np+dkeu0xUvfpiCcGCfOmvbQpOKkO4n2MwTAmwPCDvQFKOTgnNgS/Fsq+NejIr5yWtZMj7nyE9gnTHebFKjrJ5X/nkzgCs3jKzRzFtZG7quciSUZ0wVRow/phlMW5xE0N3oVPLwjZ3TYrsVFYqWVzxUFZ3f3OM8bQXWbVc4YF+STIQ2epFMIpKl9+v6+r37dQ0b/EP1e9UjFWnu4eqrVmW/MihK0ekVlI2MY5KtDiUPzK7IKgr+KmF3Lx9a/ZJKBkmbweb3N6UX0YgBOUX/BXike4CImq98vdjGLqWaEA3Vz3wkoS1AWKOe5RLvozPp8LoSJRhwRTj6ZX9CYrnQABPzj409c+8xu4Ar4WA2P51mfwafyiLA0nhOiRwK1slahtQkvvbkhhPJGZLqTAgtgVOduSB1tOWRyU9XPSFktB39X13XFhyU8dq89Ht8NsGV9EKQ6yLbg==;divXrOOPTmm9e09OCYj/dw=="
+secured: "M5Peb8EYHtNau3hQJH22A0Yl6Jz3NgKt/GuHKqICB6MWrHiHazTqp4kZgoIa30XBhh9471xIf7a+Cev0LZpb0mME14YfzpbBkL/27bVZ3gW8HsdZkZdvXtpUqpKCauqdh//3FxdtC+Ia5F+Um5WASQm0s3fXabmVFbGoT+w+tm/h1wObgcGBxokAzj+yp1UCRROlu2Wt9JNp493iZFDrlLj0inX17QnI0gMjVZ9HRt4RxQ07IVfuqAu7yiSuKike/O9Qx3jYksXqxK37RxIXBseEA0Wai5fhl74MqIrKpiaUygpwJh+6sDRjLDo88tCOvnlpbuuDyANpWUpAEAxMcHUoAwi7bv9zXAgfCQh8gRs=;51q3AFO1MyxKyDT2AyJ76Q=="
 ---
 

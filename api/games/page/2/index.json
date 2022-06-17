@@ -4,64 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1.md",
-      "title": "We paid a Pro to do Troll builds and it was LEGENDARY | Twitch Plays Astrea #1",
-      "excerpt": "It is rumoured that a Legend is born when immortals save the world from destruction. A being so powerful rises from the clutches of near death and is then known to the world as CHADSTREA THUNDERSHAFT. Here is his origin story.  Follow Astrea's Twitch: https://www.twitch.tv/zastrea -- 🐷 Second Channel",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1/",
-      "originalUrl": "https://youtube.com/watch?v=SariYo8-VNI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SariYo8-VNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M5S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 140,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-02-10T17:37:20-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-proxy-hatch-and-burrow-is-this-a-new-dumb-zvt-build-icyfar-siege-tactics-g1.md",
-      "title": "StarCraft 2 - Proxy Hatch AND Burrow: Is this a new dumb ZvT build? | ICYFAR \"Siege Tactics\" G1",
-      "excerpt": "🤯 NEW ICYFAR CHALLENGE: One Base Openers - You're not allowed to start building an expansion until after 5:00. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 21st May. -- 🤯 In this week’s episode of I Cast Your",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-proxy-hatch-and-burrow-is-this-a-new-dumb-zvt-build-icyfar-siege-tactics-g1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-proxy-hatch-and-burrow-is-this-a-new-dumb-zvt-build-icyfar-siege-tactics-g1/",
-      "originalUrl": "https://youtube.com/watch?v=Baz9vdNuB9Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Baz9vdNuB9Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M36S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 136,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-04-27T19:49:36-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-incredible-game-reynor-vs-byun.md",
       "title": "StarCraft 2: INCREDIBLE GAME - Reynor vs ByuN!",
       "excerpt": "One of the best games of StarCraft 2 I've seen so far this year. Some might even refer to it as one of the games of the year but I would never say such a thing. This is a Terran versus Zerg between ByuN and Reynor where practically the entire map mines out of Minerals and Vespene Gas.  Support my work",
@@ -131,6 +73,35 @@
       "publishedDateTime": "2021-11-15T01:42:53-08:00"
     },
     {
+      "path": "_games/pig-the-1v7-insane-ai-challenge-is-impossible-no-beastyqt-has-not-done-it-starcraft-2.md",
+      "title": "The 1v7 INSANE AI Challenge is impossible (no, Beastyqt has not done it) - StarCraft 2",
+      "excerpt": "I have challenged StarCraft 2 Pros to take on 7 INSANE Cheater AIs at once! Serral has said it is impossible unless maybe they're all Zergs. The first person brave enough to try it is Spirit (Soul), a Terran player. He takes on 7 Random insane AIs all on Any Build. Then he tried 7 Zergs. Then he tries",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-1v7-insane-ai-challenge-is-impossible-no-beastyqt-has-not-done-it-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-1v7-insane-ai-challenge-is-impossible-no-beastyqt-has-not-done-it-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=CcFX72zESgU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CcFX72zESgU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M27S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 124,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-10T16:30:09-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-epic-game-marus-hero-battlecruisers.md",
       "title": "StarCraft 2: EPIC GAME - Maru's Hero Battlecruisers!",
       "excerpt": "Maru versus Cure in an epic game of professional StarCraft 2. In this Terran versus Terran we have the game go the distance, as both players decide to go for a wildly different strategy. Easily one of the best games of top-level South Korean TvT that has been played.  Support my work on Patreon: https://www.patreon.com/lowkotv",
@@ -168,6 +139,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-16T04:51:29-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-heros-disruptor-rush-solar-vs-hero.md",
+      "title": "StarCraft 2: herO's DISRUPTOR Rush! (Solar vs herO)",
+      "excerpt": "In this professional series of StarCraft 2 we watch herO experiment with a variety of openers. It seems that the Disruptor rush is currently one of this favourites. In this best-of-5 series he faces off against Solar.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-disruptor-rush-solar-vs-hero/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-disruptor-rush-solar-vs-hero/",
+      "originalUrl": "https://youtube.com/watch?v=T7KHYnrAvFY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T7KHYnrAvFY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M35S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 122,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-03-25T05:57:47-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul.md",
@@ -495,44 +505,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-01-18T04:54:46-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-new-maps-tired-of-the-ladder-maps-zest-vs-armani.md",
-      "title": "StarCraft 2: NEW MAPS - Tired of the Ladder Maps... (Zest vs Armani)",
-      "excerpt": "Five games of professional StarCraft 2 between Zest and Armani. In this series we don't see them play on the standard ladder maps, but instead they play on Nautilus II, Roughneck and Golden Wall. Nautilus II and Roughneck are currently being played in the GSL Code S tournament. Golden Wall is one of",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-maps-tired-of-the-ladder-maps-zest-vs-armani/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-maps-tired-of-the-ladder-maps-zest-vs-armani/",
-      "originalUrl": "https://youtube.com/watch?v=fh9EGzEi-nM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fh9EGzEi-nM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT57M58S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-04-14T04:56:30-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-cheeses-maxpax-best-of-5.md",
@@ -994,35 +966,6 @@
       "publishedDateTime": "2022-06-02T13:23:09-07:00"
     },
     {
-      "path": "_games/pig-the-1v7-insane-ai-challenge-is-impossible-starcraft-2.md",
-      "title": "The 1v7 INSANE AI Challenge is impossible - StarCraft 2",
-      "excerpt": "I have challenged StarCraft 2 Pros to take on 7 INSANE Cheater AIs at once! Serral has said it is impossible unless maybe they're all Zergs. The first person brave enough to try it is Spirit (Soul), a Terran player. He takes on 7 Random insane AIs all on Any Build. Then he tried 7 Zergs. Then he tries",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-1v7-insane-ai-challenge-is-impossible-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-1v7-insane-ai-challenge-is-impossible-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=CcFX72zESgU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CcFX72zESgU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M27S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 100,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-10T16:30:09-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-reynor-as-terran-vs-clem-as-zerg-best-of-5.md",
       "title": "StarCraft 2: Reynor as TERRAN vs Clem as ZERG! (Best-of-5)",
       "excerpt": "Best-of-5 series of professional StarCraft 2 where Reynor plays as Terran, and Clem plays as the Zerg. This is the first of a series of SC2 pro matches that I am hosting.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: https://youtube.com/morelowko",
@@ -1089,6 +1032,74 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-10-09T03:18:53-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-44-holdout-challenge.md",
+      "title": "StarCraft 2 - How Quickly Can SCARLETT Dispose Of Noobs? (PART 4/4) | Holdout Challenge",
+      "excerpt": "We paid Scarlett to 1v1 noobs. The challenge: the noobs needed to stay in the match as long as possible while Scarlett did her best to cheese the heck out of them. We ended this challenge by putting her up against a GM player! This Holdout Challenge was a part of  PiG Sty Festival 2021.   Holdout Challenge",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-44-holdout-challenge/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-44-holdout-challenge/",
+      "originalUrl": "https://youtube.com/watch?v=Xmx0hpmH2hY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Xmx0hpmH2hY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M7S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 99,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Xmx0hpmH2hY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-26T00:42:45-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-soos-proxy-hatchery-ravager-all-in.md",
+      "title": "StarCraft 2: soO's PROXY HATCHERY Ravager All-in!",
+      "excerpt": "A best-of-5 series of professional StarCraft 2 between two South Korean pro gamers. soO (Zerg) goes up against ByuN (Terran) as they both try to outplay each other with very clever micro and macro games.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-soos-proxy-hatchery-ravager-all-in/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-soos-proxy-hatchery-ravager-all-in/",
+      "originalUrl": "https://youtube.com/watch?v=LbpOjjHZaa4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LbpOjjHZaa4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 98,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-31T04:54:47-07:00"
     }
   ],
   "nextPage": 3

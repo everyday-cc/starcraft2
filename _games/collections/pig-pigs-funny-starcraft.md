@@ -873,6 +873,7 @@ items:
   - pig-pig-and-lowko-team-up-in-2v2s-dont-remind-him-i-called-him-insane-once-p-starcraft-2
   - pig-a-genius-strategy-to-a-dumb-challenge-mouse-only-special-vs-cham-1-game-tvz-starcraft-2
   - pig-rank-1-is-no-match-for-zerg-cheese-starlords-filthy-adventures-14-starcraft-2
+  - pig-terran-player-gets-so-angry-he-breaks-his-own-brain-salt-mines-6-starcraft-2
 
 topics:
   - StarCraft 2

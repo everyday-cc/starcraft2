@@ -88,6 +88,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "'Stormgate' is a new free-to-play RTS from the director of 'Starcraft 2'"
+    excerpt: "In 2020, Starcraft 2 production director Tim Morten left Blizzard to start Frost Giant Studios. At Summer Game Fest, he finally showed off what he and his team have been working on for the past ..."
+    publishedDateTime: 2022-06-13T11:49:00Z
+    webUrl: "https://www.engadget.com/stormgate-announced-191711884.html"
+    ampWebUrl: "https://www.engadget.com/amp/stormgate-announced-191711884.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/stormgate-announced-191711884.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 56
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-06/f1b15480-e824-11ec-8fdd-93ce2299adfa"
+        width: 1432
+        height: 697
+        isCached: true
   - title: "Ex-Blizzard Devs Launch Stormgate, A Cool New Diablo Starcraft Hybrid Free-To-Play Game"
     excerpt: "One of the things that made Blizzard's past titles so popular, particularly Warcraft and Starcraft, was the inclusion of a powerful editor that allowed players to create their own scenarios."
     publishedDateTime: 2022-06-11T18:56:00Z

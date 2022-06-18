@@ -118,81 +118,6 @@
       "publishedDateTime": "2021-04-22T04:32:10-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-has-new-eco-cheese-best-of-3.md",
-      "title": "StarCraft 2: Has' New ECO CHEESE! (Best-of-3)",
-      "excerpt": "Best-of-3 series of Protoss versus Terran between Has and Dream in StarCraft 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-has-new-eco-cheese-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-has-new-eco-cheese-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=GgXjz-3wFVA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GgXjz-3wFVA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M1S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GgXjz-3wFVA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-09T02:55:57-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-has-the-protoss-of-extremes-best-of-5-vs-clem.md",
-      "title": "StarCraft 2: Has, the Protoss Of EXTREMES! (Best-of-5 vs Clem)",
-      "excerpt": "Best-of-5 series between Clem and Has, where Has tries his best to outsmart his Terran opponent with extreme Protoss strategies.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-has-the-protoss-of-extremes-best-of-5-vs-clem/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-has-the-protoss-of-extremes-best-of-5-vs-clem/",
-      "originalUrl": "https://youtube.com/watch?v=tGr3hWN1Xcs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tGr3hWN1Xcs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tGr3hWN1Xcs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-09-09T04:21:27-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-he-changed-his-mind.md",
       "title": "StarCraft 2: He Changed His Mind?!",
       "excerpt": "Just your regulr good old Protoss versus Protoss. Subscribe for more videos: http://lowko.tv/youtube Insane Proxy Barracks: https://goo.gl/8m0B4g  Okay not really. This is a crazy match of Protoss versus Protoss between a Silver League and a Gold League level player. While both players try to establish",
@@ -267,6 +192,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-02-25T02:45:18-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-hidden-fusion-core.md",
+      "title": "StarCraft 2: HIDDEN Fusion Core!",
+      "excerpt": "Epic match of Zerg vs Terran between Serral and Kelazhur. Subscribe for more videos: http://lowko.tv/youtube Professional best-of-7: https://goo.gl/cLp2ev  There are many ways a Terran can try to slow down the Zerg's economy, however the Fusion Core is a rather uncommon option. Not only does it open",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-hidden-fusion-core/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-hidden-fusion-core/",
+      "originalUrl": "https://youtube.com/watch?v=2VbXa5nJLRU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2VbXa5nJLRU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M35S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2VbXa5nJLRU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-10-17T05:08:42-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-hiding-in-plain-sight.md",
@@ -609,45 +571,6 @@
       "publishedDateTime": "2017-07-05T01:38:19-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-hyper-aggressive-zerg-vs-terran-bo5.md",
-      "title": "StarCraft 2: HYPER AGGRESSIVE Zerg vs Terran! (Bo5)",
-      "excerpt": "Bly vs Gumiho in a best of 5 series in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More Starcraft 2 casts: https://goo.gl/NG8qAV  In this series of Zerg vs Terran the Zerg player decides to play quite unorthodox. Instead of focusing on the more standard macro focused strategys, Bly",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-hyper-aggressive-zerg-vs-terran-bo5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-hyper-aggressive-zerg-vs-terran-bo5/",
-      "originalUrl": "https://youtube.com/watch?v=VnfFmXp7wK8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VnfFmXp7wK8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M57S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VnfFmXp7wK8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-05-23T14:19:06-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-identical-strategies-dream-vs-bunny.md",
       "title": "StarCraft 2: IDENTICAL STRATEGIES?! (Dream vs Bunny)",
       "excerpt": "An odd situation in this pro match of StarCraft 2. In this Terran versus Terran we see both players go for near identical build orders and somehow it stays that way  for most of the match.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second",
@@ -954,14 +877,14 @@
       "publishedDateTime": "2017-06-14T04:58:03-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-insane-game-professional-cheese-into-base-race.md",
-      "title": "StarCraft 2: INSANE GAME - Professional Cheese into Base Race!",
-      "excerpt": "An incredible professional game of StarCraft 2. TIME vs Has. Subscribe for more videos: http://lowko.tv/youtube TIME vs Stephano: https://goo.gl/f6EuwE  Not the game I expected at all, then again, Has is known to bring with him some crazy strategies. In this game, Has opens up relatively cheesy, but",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-game-professional-cheese-into-base-race/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-game-professional-cheese-into-base-race/",
-      "originalUrl": "https://youtube.com/watch?v=8CCOhr8bKoA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8CCOhr8bKoA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M35S",
+      "path": "_games/lowkotv-starcraft-2-innovations-final-tournament.md",
+      "title": "StarCraft 2: INnoVation's FINAL Tournament?!",
+      "excerpt": "In this video I cast a best-of-3 series between INnoVation and Nice in StarCraft 2, a Terran versus Protoss. INnoVation will be starting his mandatory military service soon. He mentioned that because of his age he will likely not be coming back to StarCraft 2.  Support my work on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-innovations-final-tournament/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-innovations-final-tournament/",
+      "originalUrl": "https://youtube.com/watch?v=97iiA5eH_DY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/97iiA5eH_DY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M12S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -975,12 +898,13 @@
         ]
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Terran"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/8CCOhr8bKoA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/97iiA5eH_DY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -988,7 +912,46 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-09-15T05:20:10-07:00"
+      "publishedDateTime": "2021-07-19T02:10:24-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-insane-comeback-ty-vs-trap.md",
+      "title": "StarCraft 2: INSANE COMEBACK! (TY vs Trap)",
+      "excerpt": "Amazing best-of-5 series of Terran versus Protoss in StarCraft 2. This series of top-level TvP shows incredible micro and macro, cheesy build orders and defensive play, but also mistakes and because of that an insane comeback.  New StarCraft 2 ladder maps: https://youtu.be/4I4-5_o7OT4 Get more videos",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-comeback-ty-vs-trap/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-comeback-ty-vs-trap/",
+      "originalUrl": "https://youtube.com/watch?v=FKsRySiTytE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FKsRySiTytE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M23S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FKsRySiTytE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-04T04:09:14-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-insane-game-proxy-hatcheries-base-races.md",
@@ -1138,6 +1101,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-02-18T00:39:12-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-insane-proxy-barracks.md",
+      "title": "StarCraft 2: INSANE Proxy Barracks!",
+      "excerpt": "An insane match of Terran versus Terran. Subscribe for more videos: http://lowko.tv/youtube Expanding in your opponents Natural: https://goo.gl/wtejwN  In this Platinum level game of StarCraft 2, two Terran players both decide to go for cheese... At the same time. Both decide to build Barracks on the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-proxy-barracks/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-proxy-barracks/",
+      "originalUrl": "https://youtube.com/watch?v=qQgzmhoa0uk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qQgzmhoa0uk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M19S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qQgzmhoa0uk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-03-03T03:44:02-08:00"
     }
   ],
   "nextPage": 37

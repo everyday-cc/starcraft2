@@ -874,6 +874,7 @@ items:
   - pig-a-genius-strategy-to-a-dumb-challenge-mouse-only-special-vs-cham-1-game-tvz-starcraft-2
   - pig-rank-1-is-no-match-for-zerg-cheese-starlords-filthy-adventures-14-starcraft-2
   - pig-terran-player-gets-so-angry-he-breaks-his-own-brain-salt-mines-6-starcraft-2
+  - pig-how-to-beat-the-1v7-insane-ai-challenge-starcraft-2
 
 topics:
   - StarCraft 2

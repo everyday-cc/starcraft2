@@ -4,6 +4,36 @@
   "page": 16,
   "value": [
     {
+      "path": "_learning/videos/pig-i-defend-immortal-all-ins-now-but-just-die-later-coaching-zvp-d1.md",
+      "title": "\"I defend immortal all-ins now, but just die later\" | Coaching ZvP D1",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-i-defend-immortal-all-ins-now-but-just-die-later-coaching-zvp-d1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-i-defend-immortal-all-ins-now-but-just-die-later-coaching-zvp-d1/",
+      "originalUrl": "https://youtube.com/watch?v=CJHqcHfYhYc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CJHqcHfYhYc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H9M49S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-12-18T09:00:05-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CJHqcHfYhYc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-i-keep-falling-behind-and-getting-overwhelmed-in-tvz-newbie-stream.md",
       "title": "“I Keep falling behind and getting overwhelmed in TvZ” - Newbie Stream",
       "excerpt": "This is a section from my newbie/beginner stream where I analyse a players replay and answer their question  -- Watch live at https://www.twitch.tv/x5_pig",
@@ -883,36 +913,6 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-newbie-stream-lotv-unit-tester-micro-engages-and-even-teaching-pig-some-stuff.md",
-      "title": "Newbie Stream - LotV unit tester Micro, engages and even teaching PiG some stuff!",
-      "excerpt": "So this is part of the Newbie stream (which went for 9 hours and if you guys really want i can upload that as a huge block) and the map we play on is \"LOTV Unit Tester\", if you go to custom - arcade just search for it.  Shoutout to Bulya and TripleHelix (thats me btw haha) for setting this up and microing/showcasing",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-newbie-stream-lotv-unit-tester-micro-engages-and-even-teaching-pig-some-stuff/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-newbie-stream-lotv-unit-tester-micro-engages-and-even-teaching-pig-some-stuff/",
-      "originalUrl": "https://youtube.com/watch?v=8l69_iy3bTM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8l69_iy3bTM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H12M18S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-05-10T09:00:04-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8l69_iy3bTM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
       ]
     }
   ],

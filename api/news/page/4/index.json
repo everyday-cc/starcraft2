@@ -2,57 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-08-11-new-short-story-operation-blind-devil.md",
-      "title": "New Short Story: Operation Blind Devil",
-      "excerpt": "Separated from the Swarm, a lone zergling must fight to overcome his own nature to defeat his sinister captors. Check out this excerpt, then download Operation Blind Devil by Cassandra Clarke, the final entry in a new series of StarCraft II short stories to celebrate the game&amp;#39;s 10th anniversary.",
-      "sourceUrl": null,
-      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23497932/new-short-story-operation-blind-devil",
-      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23497932/new-short-story-operation-blind-devil",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/t0/T05P901CO3Z91597166504415.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-11T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_news/2020-08-06-balance-update-august-6-2020.md",
       "title": "Balance Update - August 6, 2020",
       "excerpt": "We’d like to update you all on our thoughts on the state of the game since our last balance patch.",
@@ -1251,6 +1200,57 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-10T10:46:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-2020-season-1-map-preview.md",
+      "title": "2020 Season 1 Map Preview",
+      "excerpt": "2020 Ladder Season 1 brings new 1v1 and Team maps to ladder!",
+      "sourceUrl": null,
+      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23323116/2020-season-1-map-preview",
+      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23323116/2020-season-1-map-preview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/r9/R996CE3UYMAW1582655222554.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-25T10:39:28-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Blizzard",

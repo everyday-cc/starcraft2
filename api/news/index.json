@@ -53,48 +53,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-02-is-starcraft-2-dead.md",
-      "title": "Is StarCraft 2 Dead?",
-      "excerpt": "So is StarCraft 2 dead or dying? ➤ We look at South Korea's favourite RTS with the stats ✔ numbers ✔ and viewers",
-      "sourceUrl": null,
-      "webUrl": "https://www.esports.net/news/is-starcraft-2-dead/",
-      "originalUrl": "https://www.esports.net/news/is-starcraft-2-dead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.esports.net/wp-content/uploads/2022/05/StarCraft-2-Tournament.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.esports.net/news/is-starcraft-2-dead/?amp",
-      "cdnAmpWebUrl": "https://www-esports-net.cdn.ampproject.org/c/s/www.esports.net/news/is-starcraft-2-dead/?amp",
-      "publishedDateTime": "2022-06-02T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "esports",
-        "domain": "esports.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_news/2022-05-20-starcraft-ii-pro-gamer-stephano-suspended-and-fined-for-sexual-comments.md",
       "title": "StarCraft II pro gamer Stephano suspended and fined for sexual comments",
       "excerpt": "French StarCraft II superstar Ilyes “Stephano” Satouri, who recently signed a new deal with the prominent Evil Geniuses organization one month ago, has been suspended by his team without pay ...",
@@ -1189,6 +1147,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-starcraft-ii-heart-of-the-swarm-dlc-battlenet-key-global.md",
+      "title": "Starcraft II: Heart Of The Swarm (DLC) Battle.net Key GLOBAL",
+      "excerpt": "Battle.net Key GLOBAL. Starcraft II: Heart of the Swarm is the second expansion to a competitive sci-fi RTS game Starcraft II. The expansion",
+      "sourceUrl": null,
+      "webUrl": "https://www.denoticias.es/us/products/starcraft-ii-heart-of-the-swarm-dlc-battlenet-key-global.html",
+      "originalUrl": "https://www.denoticias.es/us/products/starcraft-ii-heart-of-the-swarm-dlc-battlenet-key-global.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-products.eneba.com/resized-products/lekqpzoikgzinjtpsc5k_390x400_1x-0.jpg",
+          "width": 390,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.denoticias.es/us/amp/products/starcraft-ii-heart-of-the-swarm-dlc-battlenet-key-global.html",
+      "cdnAmpWebUrl": "https://www-denoticias-es.cdn.ampproject.org/c/s/www.denoticias.es/us/amp/products/starcraft-ii-heart-of-the-swarm-dlc-battlenet-key-global.html",
+      "publishedDateTime": "2021-08-23T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "denoticias.es",
+        "domain": "denoticias.es",
+        "images": null,
         "publishers": null,
         "authors": null
       },

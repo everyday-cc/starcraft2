@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-big-brain-baneli
 type: video
 length: PT33M34S
 publishedDateTime: 2020-11-03T11:17:18Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Hfq3RQydmQI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "21njhF4NF0yOvSZilBIHE/S9xlheyqDCf28MjQPOFVpOMyh94o0pgMiQwtg8wyu890mTQsrJDWcpneGYxd0LBiIOUCAx5edvfjAN5ZmCnjJg119+9kLmyGC19BxKsuRW1G/eMo5e5RA406ym6ve3X3B5VOjVXbDECztsjSL7M4a+f0RR+sEwEDC0nAZZnlXIRnomN8U/5e/Krqj+UMV4gdTqOVgOg6KNDG8H3pAlFcvg8eqPJskORTM1kut6VbHLktyY1EA01vWPT5onQI4Iptk5OMUVDCuEQ4+JxQ7Y9TF0iHkAOQMHusjN4lF2G8CHyRGMOYpQ8T2MClKtLxEIZx7xiuVzV3VGWpIBwz/hdCX05bZrDwhypd8UHTg5LQf4zPJzhW0JoFB9xaIM3fmZW8PE3G3rqTmtlcXa9r1CVzRToK1u1gk8F2uQG/WE858w;iWGjRFTJ9k09vnnJSwkuog=="
+secured: "ZbsoHMZRCHaA8SrGhRcs4G2uTao7izcfcA9mCsVmNFU/Um/EsvIpwJY0fUk+vAaqrGeYY+wO8FnMHpHTG0JmgVuGn75FW62WFtX6Nd9luz5kMtqjBfYW9xTpg15Vp4Vywh4+w4XsoeIiFJ6R+CSao74wjQ/VEaPKibNOuBZcXXUju4CTwUk3W9cGamrAJ+legmd2tMRyphakXkStUHdYaPJI5gSDVGGA7e+JpUreCnyKf9F8GhtZoxIGfiMPLSTaxjjLN+CYNglD5nsxneT6/T6x5kMWnp5yqBqKKLK+FOJgGndhcUkS8hW/zeGReSbswa3e7cJ4/4iuQwISONOeAqeLREenKA9eymMGrRTwqbLJIf+rQW/5rIlbIMCiNr/dX5aTE5K5g9boSEKG6RHjouASCh5VmY4uYupWVCovU20=;L0fiCpKyH2lHy1YuydFWuw=="
 ---
 

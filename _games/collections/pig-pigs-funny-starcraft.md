@@ -868,13 +868,14 @@ items:
   - pig-this-player-malds-so-much-they-own-themself-salt-mines-5-starcraft-2
   - pig-how-quickly-can-reynor-dispose-of-noobs-part-2-holdout-challenge-starcraft-2
   - pig-how-quickly-can-reynor-dispose-of-noobs-part-3-holdout-challenge-starcraft-2
-  - pig-the-1v7-insane-ai-challenge-is-impossible-no-beastyqt-has-not-done-it-starcraft-2
+  - pig-how-quickly-can-reynor-dispose-of-noobs-part-44-holdout-challenge-starcraft-2
+  - pig-is-beating-1v7-insane-ai-even-possible-no-beastyqt-has-not-done-it-starcraft-2
   - pig-what-happens-when-pros-have-maphacks-no-fog-of-war-mod-special-vs-cham-bo3-tvz-starcraft-2
   - pig-pig-and-lowko-team-up-in-2v2s-dont-remind-him-i-called-him-insane-once-p-starcraft-2
   - pig-a-genius-strategy-to-a-dumb-challenge-mouse-only-special-vs-cham-1-game-tvz-starcraft-2
   - pig-rank-1-is-no-match-for-zerg-cheese-starlords-filthy-adventures-14-starcraft-2
   - pig-terran-player-gets-so-angry-he-breaks-his-own-brain-salt-mines-6-starcraft-2
-  - pig-how-to-beat-the-1v7-insane-ai-challenge-starcraft-2
+  - pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-starcraft-2
 
 topics:
   - StarCraft 2

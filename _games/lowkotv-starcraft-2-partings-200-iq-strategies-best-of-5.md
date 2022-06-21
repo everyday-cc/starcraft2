@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-partings-200-iq-
 type: video
 length: PT50M42S
 publishedDateTime: 2020-12-07T18:08:47Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7V_xet9gA-c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ijY6aqXde5f/g6C8k5AmUPe7TewRDEH+RaFDFlug3eq+NEp2Vnx0Bn2kMegqiIjFcWzxb5n0PncoWWriy8LdJKZaNAq0Xcrr9oODNdn6FpqyKj+rwqf01YUcmeKckq/TeweLdRiEpP2dr/JmRDlLRgPBj5a0Z8EoEkFY7NlxcV2z44VTdmLpNb/sIkSpWe6qOPl1wFGl8MTd+adFDmOrBdEJcTbEOVsOIEKRl/9cuYJPOPh8jFiUqnazOdynEM7x29PhgLsMJKQTzxkaQPVHYxvL4vrYy+kTBtpeeM6L3j+OOwEHzG7oh1/Cc7RaIXplmGJ4HtcZmuVsfs7gdQ4lhNnwcK1O5zqsyE0BUwwXrDeVEfKilBCJXyLU9Szk6Lcb7fpSophNC3ERkvMfrNDFCo8auTARKas7tYoZ5tX4HoiWnVrJAsQr+7aCH/eY4eKg;ux5EOL3/QT/h+5h0iyJ8/g=="
+secured: "9aCDfuUPcUi3ItgN8e5RVOGHB2swpsNNbIAHiEsSArBW5BnAkv6pouFoHaDbJObyzrr6cOsMhaX88C2UblQnYtrKdEK/FamVrPAv52mMLEnaW/bZFLE9/9mqgZv94PuFT88PlfF/OHMk8YXKTPd2qbMWmKiYVZa4Vvu0Fw+a1LC5NhyJ9j5Jgss7te0ZsbSemvsE3UwSIgDunJ/A/3QvICbtJWNkEWsQGffdqk/md3sQFOinWCv7BsD5YZkvAUpzG3VtQuBP6w+a8OaFonWEfXqna/BWHBT9UO6hWkLGNQWTYIO9MbWxZR48Y4D2GGQDt7LGxTTA04Ag11lefesRM1j+P9gnG1pic4zhywK8ZQuFjI7uhnzpxGooq9oPBO9vI/a+X7DbZZjjr2z2mhbtxitxRSLW5fGhjkXSvQRFfC11gohBIPGtXQ3n9Z3h5k7v;1OQfZ6IeNYlhZt69YWjdCg=="
 ---
 

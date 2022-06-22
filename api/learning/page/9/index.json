@@ -4,6 +4,45 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-sticking-to-the-basics-terran-tutorial.md",
+      "title": "StarCraft 2: Legacy of the Void - Sticking to the Basics! (Terran Tutorial)",
+      "excerpt": "In this StarCraft 2: Legacy of the Void video I go over how to play a defensive style with the Terran. Sticking to the basics is very important in order to improve long term. Often times it is easy to get caught up and to try and finish the game off immediately, where as in many situations it is much",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-sticking-to-the-basics-terran-tutorial/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-sticking-to-the-basics-terran-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=DKOX-eRmtJY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DKOX-eRmtJY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M33S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-04-05T09:06:28-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DKOX-eRmtJY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-timing-attacks.md",
       "title": "StarCraft 2: Legacy of the Void - Timing Attacks!",
       "excerpt": "Zerg vs Terran build order: https://www.youtube.com/watch?v=SUOhXtYRl0o  Timing attacks are one of the most important subjects when it comes to StarCraft 2: Legacy of the Void. If you're looking to improve, you need to make sure you push out at the correct timing. However, in a lot of scenarios it is",
@@ -1125,46 +1164,6 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-zerg-versus-protoss-early-game-starcraft-ii-study.md",
-      "title": "Zerg versus Protoss Early Game - StarCraft II Study",
-      "excerpt": "So you want to win versus Protoss? Today we discuss the Zerg versus Protoss matchup in it's very basics. You need to be hitting between 40 and 44 supply at the 5:50 mark. Why? Because it's possible and it's relatively easy. Loads of StarCraft II players hit only about 30-35 supply, which is a difference",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-zerg-versus-protoss-early-game-starcraft-ii-study/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-zerg-versus-protoss-early-game-starcraft-ii-study/",
-      "originalUrl": "https://youtube.com/watch?v=x3V1KPQ6RVY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x3V1KPQ6RVY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M8S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2013-04-26T05:26:02-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/x3V1KPQ6RVY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
         "Zerg"
       ]
     }

@@ -4,6 +4,36 @@
   "page": 20,
   "value": [
     {
+      "path": "_learning/videos/pig-starcraft-2-coaching-gm-random-on-setting-up-and-performing-at-lan.md",
+      "title": "StarCraft 2 - Coaching GM Random on Setting up and Performing at LAN",
+      "excerpt": "I coach a GM Random player on how to play the best possible at a LAN including getting his settings and hotkeys right and then -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-coaching-gm-random-on-setting-up-and-performing-at-lan/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-coaching-gm-random-on-setting-up-and-performing-at-lan/",
+      "originalUrl": "https://youtube.com/watch?v=YuNlzbmcD0M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YuNlzbmcD0M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M49S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-05-11T02:13:22-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-starcraft-2-coaching-gm-random-on-zvp-hydra-ling-bane.md",
       "title": "StarCraft 2 - Coaching GM Random on ZvP Hydra-ling-bane",
       "excerpt": "I coach a GM Random player on how to improve his Hydra-ling-bane ZvP -- Watch live at https://www.twitch.tv/x5_pig",
@@ -892,36 +922,6 @@
       "topics": [
         "StarCraft 2",
         "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-coaching-tvp-diamond-league.md",
-      "title": "StarCraft 2 - Coaching TvP Diamond League",
-      "excerpt": "I coach a Diamond Terran on TvP -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-coaching-tvp-diamond-league/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-coaching-tvp-diamond-league/",
-      "originalUrl": "https://youtube.com/watch?v=Zw9nWKgSe_U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zw9nWKgSe_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H6M13S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-05-07T22:14:13-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
       ]
     }
   ],

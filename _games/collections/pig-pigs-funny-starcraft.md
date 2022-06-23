@@ -877,6 +877,7 @@ items:
   - pig-terran-player-gets-so-angry-he-breaks-his-own-brain-salt-mines-6-starcraft-2
   - pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-starcraft-2
   - pig-this-is-why-sc2-isnt-played-on-50-hit-points-starcraft-2
+  - pig-who-wins-a-low-gas-challenge-starcraft-2
 
 topics:
   - StarCraft 2

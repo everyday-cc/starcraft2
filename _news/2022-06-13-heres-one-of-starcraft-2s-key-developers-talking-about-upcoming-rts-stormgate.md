@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/heres-one-of-starcraft-2s-key-developers-t
 webUrl: "https://www.pcgamer.com/heres-one-of-starcraft-2s-key-developers-talking-about-upcoming-rts-stormgate/"
 type: article
 quality: 73
-heat: 374
+heat: 373
 published: true
 
 provider:

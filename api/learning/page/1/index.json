@@ -257,37 +257,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-advanced-terran-when-to-attack-protoss-with-a-3-1-1-opening.md",
-      "title": "[Advanced Terran] When To Attack Protoss? (with a 3-1-1 opening)",
-      "excerpt": "[Advanced] When To Attack Protoss? (with a 3-1-1 opening) #Terran #Starcraft #SC2  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-advanced-terran-when-to-attack-protoss-with-a-3-1-1-opening/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-advanced-terran-when-to-attack-protoss-with-a-3-1-1-opening/",
-      "originalUrl": "https://youtube.com/watch?v=UhyYaKFvkuo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UhyYaKFvkuo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M45S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2022-06-17T16:52:50-07:00",
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-4-platinum-league-b2gm.md",
       "title": "StarCraft 2 - Zerg Bronze to GM #4: Platinum League (B2GM)",
       "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 GAME 1 -- Practice build order along with PiG 13:55 How to check if someone is Searching for Game? 14:30 GAME 2 -- Practice build order along with PiG 28:20 REVIEW: Gold + Plat things to learn 46:53",
@@ -555,6 +524,37 @@
           "url": "https://i.ytimg.com/vi/X1g4O2PTOtQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-advanced-terran-when-to-attack-protoss-with-a-3-1-1-opening.md",
+      "title": "[Advanced Terran] When To Attack Protoss? (with a 3-1-1 opening)",
+      "excerpt": "[Advanced] When To Attack Protoss? (with a 3-1-1 opening) #Terran #Starcraft #SC2  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-advanced-terran-when-to-attack-protoss-with-a-3-1-1-opening/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-advanced-terran-when-to-attack-protoss-with-a-3-1-1-opening/",
+      "originalUrl": "https://youtube.com/watch?v=UhyYaKFvkuo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UhyYaKFvkuo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M45S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2022-06-17T16:52:50-07:00",
+      "heat": 83,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],

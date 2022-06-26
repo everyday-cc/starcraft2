@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Here’s a fresh look at Stormgate, the free-to-play RTS from ex-StarCraft devs"
-excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the “next evolution” of the RTS genre,"
-publishedDateTime: 2022-06-12T20:56:00Z
+excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the ..."
+publishedDateTime: 2022-06-13T00:23:00Z
 originalUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
 webUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
 type: article
@@ -244,6 +244,6 @@ related:
       domain: news.com.au
     quality: 30
 
-secured: "9gOIh1Z4t6oO2xi6CTz7XVBFxvjZ3Z+YSEPag2qBqar9uUpuMekwdE/DU4TBdi+kKEI6vGXtfQ6M5m1YNbaxRLc5r3/5G6F3bkp6pUWBrBa8RK+tj3T0sjcZAq3dIvRWvTruTXUAbpgVBxMDf7pH4CYTTHM/mR+6NL4BjKL8XyXKA1cFOrEjnigsCUy8Cj8Tb8yMwwl407hI4oMgkOXUVagVaRmntJow5GuHUYtsrVqBTyhv1KTKMirS6zkcA71bKjxyWzTa6UO2QOkgxrjRMyElHr+hRJEGtsBrtZMz+8KDQV6R/6A4YH+LczGpxE5/u0b4GGk0XSeQdxWiFuEckzZHbjmlTZ0YwLDlX2Mf4NLE5GR3EdNFAL9PttOCAbtQgkOA4AEu1lYlNaHjC0vXGe9n3hJV+sDVFHlyg3lxQVX05omsrkxt2djTFYCy1StsWO0oevu6KMrHkpLL3O9ZTiTFkR7NEn6oCOMZubwrjMGa4LIRKG0e38xhQjLlGX4ums/0D9rIXI74lmLY7I5GSA==;LqZhAFRC53M2zHFPzoXdlg=="
+secured: "VsSQqw5NxNqgxcmo7raj5LMNOaGyXl6i3SWtzZsMg9Y8V2PW8TFFr+8aRmllmuAcUv5SVGB+YsMwApKOu5RerYVhhMP+45c2Q1O9xztK06ErBjg0YyoqATri8iYGnVspySYngrtdW1joyhQRY9xRDl4p6FEkE0UGDP44GL/WGOzx9tDOp1ax+B0lqKiueqV9lBulP9Tkz9qkS0xAf1opBTjvqRhCkhnOLQB9AyjSKI6MRZmbKmFrgWbhLdnKPM4sGvCbAePcU1rD5NokHHmLNnoCe6NITSLKRl/TyTu2m8I5SXYPg76PJMpXNQ6aaJ3oVmro+ei5CWtu5ymX7cYzU3LLCRDP+aEKLEgoSqbcaLg=;iSAXSEW23AFP212/LB7idA=="
 ---
 

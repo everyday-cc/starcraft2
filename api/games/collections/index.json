@@ -327,7 +327,7 @@
           "publishedDateTime": "2018-05-24T00:49:07-07:00"
         }
       ],
-      "size": 870,
+      "size": 871,
       "heat": 64,
       "images": [
         {
@@ -773,7 +773,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/cQ9mRIk4xJQ/maxresdefault.jpg",

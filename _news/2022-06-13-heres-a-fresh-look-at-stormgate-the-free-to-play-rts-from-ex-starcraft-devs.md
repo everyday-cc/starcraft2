@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Here’s a fresh look at Stormgate, the free-to-play RTS from ex-StarCraft devs"
-excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the “next evolution” of the RTS genre,"
-publishedDateTime: 2022-06-12T20:56:00Z
-originalUrl: "https://www.techradar.com/uk/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
-webUrl: "https://www.techradar.com/uk/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the ..."
+publishedDateTime: 2022-06-13T00:23:00Z
+originalUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+webUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
 type: article
 quality: 34
 heat: -1
@@ -244,6 +244,6 @@ related:
       domain: news.com.au
     quality: 30
 
-secured: "fyCw0tyAaICbDCoKYnQP6ekhrjIT7tLoCb8HkGwpxZklNSaRdhrR1zk3l7VvIzNl+XcPqqvG3XMfSFRy7fFDj2BQyfNg1KZJ8XDaDjDugUky9ELTO00loWzSMOPAlW+2X1vgqEorrfwTTYi7sKtEXTjTmBjx9dTmbkCvZFmaqpQQrtzIrJPvLFy6R9EWxyJJL++XwaT3GmsYEwDCWh40mev3f0ODx3q0isOhjfPoCK/wYBN9cv8Mm0hYVFn5lMzw0TPSTpl+a6cfl+4cylaboabPWSsDRjmgvVoKmsvE7hfZOM+iKzwWijLkEs4HnNxvjg5WfLU+QPI/j5D6EJs3bxdu6J+M8Yvi6GfEvf0ViEA=;AwCwVSLAqx7CIt97gRKbcw=="
+secured: "B96DgfHsA8t1CSCBiaw/7jDppABqkfRMd0qc201JqsonR7p4MVU9gpEKXF7GoMgCShajC5SQFLsoeetmXu0cnPyNUSnwMaSGGy/lWQKqu9k+r1CDdKWNbkpC3wBI4p0cfOWinCXPqYNTGULYF5+GjPgNQl5LOc8lhIseYlsbuTIUt4oIeuLBi9fDWkCEYaz9WDLknoOZrqtsbGL6CK5ZyOAmmvBponEnqC2ZaSpFU+So1qL+J6V5eKZMHmNj4qEzAFiY7Yzks1Khc1fG7qBxVj4qalG7V8CANRfzE59ZE77nQwGOgv/RqQnvEwX4xGs7aSRVCrCh4yQXiNzm0MtMnJ+lrs7LRr5WUqi2k46EDms=;7rdzsRTTT0saPY1pID8D+Q=="
 ---
 

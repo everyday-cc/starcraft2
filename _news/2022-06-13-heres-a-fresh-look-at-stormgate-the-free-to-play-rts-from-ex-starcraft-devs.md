@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Here’s a fresh look at Stormgate, the free-to-play RTS from ex-StarCraft devs"
-excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the ..."
-publishedDateTime: 2022-06-13T00:23:00Z
-originalUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
-webUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the “next evolution” of the RTS genre,"
+publishedDateTime: 2022-06-12T20:56:00Z
+originalUrl: "https://www.techradar.com/uk/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+webUrl: "https://www.techradar.com/uk/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
 type: article
 quality: 34
 heat: -1
@@ -244,6 +244,6 @@ related:
       domain: news.com.au
     quality: 30
 
-secured: "Ynv6ffca5kLMqEtpc5QmWGhs9QwwRh5sjqakXLpJpn5PGDVKBtQ2S5u/+z1xaS93QPCnwmA8mlzrqAMNFKuH0VlcROA3BoSmuXkeh/lPjVkLGQ0pIT1LNmB+trmnSLVL7LpR9Pu8H03+xbhtpCWh0ZWqOuDDUZ7Ce6j5n5BazkspCg8RuoGGCEUSj6vOcAP1xf9NnxX8KiEMG9S/jHpk8RzLGc8D4Iab04FEV0Rw6aMYOhx8arLkF1CpDaGQCvAeBlNGGW2e+cfeTvLRqEfDKJeoIh2gjGs//IBFvQCNnMQ9HbuVakvaDmBNXSPMZDm4KKYvKA0ZXT8vPWD2EB9flZULSl81zVxUNxvwLW87myE=;EKRJ6fmVxzMtmrrJ9x0ZGg=="
+secured: "gqUsGSFfb+c1NG20CI1VgDjsHTx47p+5nS93mneZNKy4MWyh1X33eVqhUQANSGRIUCEEjL8AYPSBNOg9kKwuBfVX6L5yo4fR6eIzh0XaC10qPRayK6sm53eS1DK7d2cZdeqSqsl4dwGNAllGVEO0ahMylFDprPAOSDzBdgjktZyG9kvzkWF0kshthHoODcRAdJKqvs+o4Gt6KcLD8hABuxVAw8IspRWvxv1Wm43PhkEbyYIzo4vCrMgm/U+vdAyXGxBKOhQ13BYPC7WP8z6blh3lomLr3QHT1y5SgeQoSy6gpOA6p09+8oyBBNFkUbgrzWvwVuvB0GdKF7I0jWaoAhQg737XQ4IV96rjA6l6+tg=;apUGV9PnUiCr1J1FiHDm6Q=="
 ---
 

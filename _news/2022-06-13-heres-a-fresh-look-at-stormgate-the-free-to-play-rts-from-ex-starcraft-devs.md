@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Here’s a fresh look at Stormgate, the free-to-play RTS from ex-StarCraft devs"
-excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the “next evolution” of the RTS genre,"
-publishedDateTime: 2022-06-12T20:56:00Z
-originalUrl: "https://www.techradar.com/uk/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
-webUrl: "https://www.techradar.com/uk/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the ..."
+publishedDateTime: 2022-06-13T00:23:00Z
+originalUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+webUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
 type: article
 quality: 34
 heat: -1
@@ -244,6 +244,6 @@ related:
       domain: news.com.au
     quality: 30
 
-secured: "Gmqlhs82/+X8rsUt6w4t/jjZtmnN23R8Q2PDNFixsZYPEKm7LbOuLyehXz8l38F3I6XGldhA7203Klu7yEiiKQTAtSagQZtvWuy9k39AsnrbIipuzET7AbQcsTRvRBan+65myaLEI/sEHj5vkDvfwsTxDHF2JtGJPKIvdY8lTbDjzruTuPLCl9XloVM8iRTwH8FqOHR9sz2tNujdU5dkXj3jwfx2KEf9KUq5/Bw5HjXBBbIUeNp2W5dIF4f7TgzBSB6Hk036rzJy5IrfLuFzbI7m2VyjJXqATDvnSldUbBmq7BQMBYfSRee/7jJqRFJS7WdyKO+7mrst/srT85ERjLwD6rWjB5JdRw2kB6iOy1A=;wtK5dghGTZ3oJiiaxK5SJw=="
+secured: "trTCmDLSUm6zUvJ6AYmPC8/ahq5eRiQVsU368O/PPD6V1UWErOZtmmQNX9WEybvmu+zsmfZWMC+PJULv0ndvcI/EKGhq0jMAV0k2c+BfX27qaFCKBCZDW9RGINDmhycUqBKnWyY3mvHwjQq2uCnq875ZJPkUW6awRX2kp6oI/eOYBvhGYRoVFYl7ZcYSzx8ZRn1NHKRgq+8Vkj2W8U4su2ibNWyMIBJ8tCeQnqXVLIR3wz8Cdx2lglt2UxlXsnjApKTbRD9LTPg7gvMVRlkDImm0jOXfnGe7vSyVMDg8oCE5CyaF4pPTt77UQMyCUgx5zX6XIJy7UlHS6pMpPz0xsvZBU8ZEMc4akBR85qcldp8=;3AxVGVT4f6/mUxEB49yFIQ=="
 ---
 

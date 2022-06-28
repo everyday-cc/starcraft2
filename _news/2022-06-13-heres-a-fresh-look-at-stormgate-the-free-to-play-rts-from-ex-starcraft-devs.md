@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Here’s a fresh look at Stormgate, the free-to-play RTS from ex-StarCraft devs"
-excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the “next evolution” of the RTS genre,"
-publishedDateTime: 2022-06-12T20:56:00Z
-originalUrl: "https://www.techradar.com/uk/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
-webUrl: "https://www.techradar.com/uk/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the ..."
+publishedDateTime: 2022-06-13T00:23:00Z
+originalUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+webUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
 type: article
 quality: 34
 heat: -1
@@ -244,6 +244,6 @@ related:
       domain: news.com.au
     quality: 30
 
-secured: "+5WrEH13cfXzqtTslXiaHsDa5GvSY89gXFYXgFp3CosbEOkIQKXNNDhRfr4iKRs7/JF2hanfD9xuUneMfbfQlRr1c9BefjH09ROcrnnkVy4pdGFR7iG+VNRsVkgrKNT/fo8fkEqf0kONuiCJ+mc+m2GfAkA98qWMH+IZuOKd5yYEHllFf6lYWF/TtGEaqDeGiey2NI3Y8AICTnLOYZIRHWOoi/sOnY8SmnxZeP0upY+1Okw9u6Ngqa6NJj/V2RIBgn9Crp+wk9gU5G93+5cbyRoy6BmgLLySfrtAZhLomq23WiibvCXZ0cZDlOQ+Y5Ww6/sTz/M2WeBsqcRuWo0DCPG2li+eVXVqlzCUlD+5VtU=;OehuRJnRw6Mvu+FWvK3LlA=="
+secured: "V3IXC6+JriV8lWlKpSPPsVixwgKbk9XEVkWANPB9uwu9aIB3kIut/IxOwkqMXlp2fRhVS415nA6PFEghbOxPtTps9e6kVE0Eq3hJ47qswLuPjCkxIElTHBb462697CSWpXN4JMek/H6iZvdnalgRmaBvuikuMNMNQPxMXsa0FJ6Xv4LlFkRv/E5uoHyNooHwEqQgIcD0kdHCqJ25vx+PiaWotUTe8wJCPgRsF3MCta6cnbvqtb62FeMomnzPkRm1MshCnrg1bKkU0IxOR2Ao49Kv7h8N+AqRh9J87mj4yWanfOUkbJ9mdlOjjrXBkKMmTYDpD1Uzgm8AyR73tz3JadelE5r9fkhFnuFJdpVmNXQ=;qPMRGba7Ud/b2f+x8k35og=="
 ---
 

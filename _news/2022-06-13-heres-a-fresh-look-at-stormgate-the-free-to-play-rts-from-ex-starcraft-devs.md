@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Here’s a fresh look at Stormgate, the free-to-play RTS from ex-StarCraft devs"
-excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the ..."
-publishedDateTime: 2022-06-13T00:23:00Z
-originalUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
-webUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the “next evolution” of the RTS genre,"
+publishedDateTime: 2022-06-12T20:56:00Z
+originalUrl: "https://www.techradar.com/uk/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+webUrl: "https://www.techradar.com/uk/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
 type: article
 quality: 34
 heat: -1
@@ -117,6 +117,6 @@ related:
         height: 500
         isCached: true
 
-secured: "K5Rps5hlDd6QaW3s58p2vq3FMzhr9UuMmIiC+CjltQPbCHUi4EIadk7oWMefVr8ewfd0h2s/PPnZkwsgXQppHDCN5rlxUwlhG6XAd/wghkSBeI3nnWKf5XbwyUCXZ2ZYMHG7u+bL5wiRTHMvaCdmupzRKYWKot4eHjWqHok+YyAB1OkfELGaQ4pNeIEmjn/OIv0FC/Q0M013GGcZ4Lgm0mOqq0n6HzLVUCaGBHSVZ8jAhWwYFDBIMJF5FDx+lI/ZXTcVfxa0A8qvlPn31UbkBJNRyipvWhH/ycDAnpyxKrktcuwA+5yMMNNpbfA3gGV0r5IlLSHRRq2KOrX9B2Dk4xtyF084KFZ61Rzf9S6YOaM=;xFT3pwt51XdG6BMSN1gfGw=="
+secured: "hFE+6P+gmiycpHOWoreS8b3zpTPUVj9cbl15AOHKvC7g0rAiO1unNieAfnB/FiB9f7JrrjyGJl25BqFycwo4jlG11iSeb313b1EmEPpbvOTU/uEhlvM/0E8QPGl20HofEo4hE8mXL93Sjt/tC2yMcHqguX7blMGy/KUDuR27rbKBhszsPF2zIGHnj7wrBhCOPiF0GZv0r9DCmayVO06NHYFBGvzQoacz13Eo3F8JQZ2ymtKdNGndRo+44s/OEUi4xdiG7DxPhtJ3LzzE1lY9VJNBgZAsKFVdeuYM8JyOuZ9WY/lip2EeW1wLiJlinDuH29KmWCdvtxLr+HyXRAdDxFOxhaqfbSv3Ugp9vFO36oM=;S3hb4kNhTqXm+oKIlIciMg=="
 ---
 

@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 668
         isCached: true
-  - title: "Ex-StarCraft 2 devs reveal their new RTS, Stormgate"
-    excerpt: "Frost Giant Studios, a team composed of many former Blizzard Entertainment developers who worked on games like StarCraft 2 and Warcraft 3, revealed its debut game on Thursday at Summer Game Fest."
-    publishedDateTime: 2022-06-09T20:58:00Z
-    webUrl: "https://www.polygon.com/23161319/stormgate-frost-giant-studios-rts"
-    ampWebUrl: "https://www.polygon.com/platform/amp/23161319/stormgate-frost-giant-studios-rts"
-    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23161319/stormgate-frost-giant-studios-rts"
-    type: article
-    provider:
-      name: Polygon
-      domain: polygon.com
-    quality: 57
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/fRhdErm88BbryVeTH8k16IoML7U=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70960671/ss_f408e92f779d0d86c25fae92a1f8555ad7216121.0.jpeg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "'Stormgate' is a new free-to-play RTS from the director of 'Starcraft 2'"
     excerpt: "In 2020, Starcraft 2 production director Tim Morten left Blizzard to start Frost Giant Studios. At Summer Game Fest, he finally showed off what he and his team have been working on for the past ..."
     publishedDateTime: 2022-06-13T11:49:00Z
@@ -128,17 +112,6 @@ related:
         width: 1200
         height: 500
         isCached: true
-  - title: "Frost Giant Studios, ex-StarCraft II alumni, announce the next big RTS with Stormgate"
-    excerpt: "Frost Giant Studios, a crack team of some of the minds behind StarCraft II but otherwise unknown studio, have announced what they hope is the next big RTS at Summer Game Fest. Stormgate is a traditional-sounding RTS,"
-    publishedDateTime: 2022-06-09T21:53:00Z
-    webUrl: "https://www.news.com.au/technology/gaming/frost-giant-studios-exstarcraft-ii-alumni-announce-the-next-big-rts-with-stormgate/news-story/11911032c223cb727da76d3e9679a3e1"
-    ampWebUrl: "https://www.news.com.au/technology/gaming/frost-giant-studios-exstarcraft-ii-alumni-announce-the-next-big-rts-with-stormgate/news-story/11911032c223cb727da76d3e9679a3e1?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/gaming/frost-giant-studios-exstarcraft-ii-alumni-announce-the-next-big-rts-with-stormgate/news-story/11911032c223cb727da76d3e9679a3e1?amp"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 30
 
 secured: "bNzK2XNineBlwhOi2vF7p+tUu8eQRX1L3hwaoai1wow7oA6TjwUk4pTnMonMipYFdNrudvK9MAAQUSP+EVNDr+KH+b9b2xtu0ddDnpY0jPD00IqH1pbdhEERZD/rnyGZCBXOhb1sywFQ/6EjikayoVFekkFPyM8BW8VX2WMjEH5XAe4PuHeyyGqHDoJTmrrx7qxcjO5VjudfnSPppsPgw0l+Y1uyWfseSpq9YjYUi7NVHu5DQ0pKkxFKKzInVt2+2tN5EWfx2ZSfIH9vy7YLP5TYiKhO9keAA2gWa8vo/nuCjd3YiRAbz5xCIvOarXFGJSdwqjGLKBG5avWrdNMmI7ZXScMDeEd7zwd4pUkOVFJ9TJz0zwZtYYEicS1pTgN9fFAEUF68WyTweZBLOGa6hgm3celHpQPbUJw4K6tzVpipIdlKprAz/WtWrH1Ml6qhI1B3kUot8WhMc726F+6EjQrkPwua96P4PToDeIuY+1X62IT7Zo1c58/iuIeiy0t8o+bm0rvlkm7T3TjWr/uqEQ==;HCZmKnet6Yycn1i1pFWqaA=="
 ---

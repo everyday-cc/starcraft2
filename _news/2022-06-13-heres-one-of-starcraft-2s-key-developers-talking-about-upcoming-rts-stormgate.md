@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/heres-one-of-starcraft-2s-key-developers-t
 webUrl: "https://www.pcgamer.com/heres-one-of-starcraft-2s-key-developers-talking-about-upcoming-rts-stormgate/"
 type: article
 quality: 73
-heat: 233
+heat: 193
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-StarCraft 2 devs reveal their new RTS, Stormgate"
-    excerpt: "Frost Giant Studios, a team composed of many former Blizzard Entertainment developers who worked on games like StarCraft 2 and Warcraft 3, revealed its debut game on Thursday at Summer Game Fest."
-    publishedDateTime: 2022-06-09T20:58:00Z
-    webUrl: "https://www.polygon.com/23161319/stormgate-frost-giant-studios-rts"
-    ampWebUrl: "https://www.polygon.com/platform/amp/23161319/stormgate-frost-giant-studios-rts"
-    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23161319/stormgate-frost-giant-studios-rts"
-    type: article
-    provider:
-      name: Polygon
-      domain: polygon.com
-    quality: 57
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/fRhdErm88BbryVeTH8k16IoML7U=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70960671/ss_f408e92f779d0d86c25fae92a1f8555ad7216121.0.jpeg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "'Stormgate' is a new free-to-play RTS from the director of 'Starcraft 2'"
     excerpt: "In 2020, Starcraft 2 production director Tim Morten left Blizzard to start Frost Giant Studios. At Summer Game Fest, he finally showed off what he and his team have been working on for the past ..."
     publishedDateTime: 2022-06-13T11:49:00Z
@@ -132,17 +116,6 @@ related:
         width: 1200
         height: 500
         isCached: true
-  - title: "Frost Giant Studios, ex-StarCraft II alumni, announce the next big RTS with Stormgate"
-    excerpt: "Frost Giant Studios, a crack team of some of the minds behind StarCraft II but otherwise unknown studio, have announced what they hope is the next big RTS at Summer Game Fest. Stormgate is a traditional-sounding RTS,"
-    publishedDateTime: 2022-06-09T21:53:00Z
-    webUrl: "https://www.news.com.au/technology/gaming/frost-giant-studios-exstarcraft-ii-alumni-announce-the-next-big-rts-with-stormgate/news-story/11911032c223cb727da76d3e9679a3e1"
-    ampWebUrl: "https://www.news.com.au/technology/gaming/frost-giant-studios-exstarcraft-ii-alumni-announce-the-next-big-rts-with-stormgate/news-story/11911032c223cb727da76d3e9679a3e1?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/gaming/frost-giant-studios-exstarcraft-ii-alumni-announce-the-next-big-rts-with-stormgate/news-story/11911032c223cb727da76d3e9679a3e1?amp"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 30
 
 secured: "YpN92ekpHUu0g3KtERAA4WD8E37QfAeMxFkXA1YTuRxyQ0HpUYTfG0Qzn9T+njBazACaLV+7tX0vY9eZYi6F6Nfq708v9pbO2QAP9Q13GHLbdpZKRYRi2pvzX8HXsYBw2roK0Kc+zuKJfkLCPr7tKcJa3ojxsmx4gb8/EYolmw9gq7RD2KNFwfMqNkh6z8ZrQwdaav22Tc1YMtN/QK61/HfYU1eyVTJ0UreI0JoFoNUxdsAAvMKdDlgvrCAFz63siOTio3RSnUXCL/r6pCpBjaG0uSM4YCituMwUa3Qm8zjDxmNTopJYK4MwOoq6WZg5vDkmhNLIhBn64M6Rj8MIjG7Z7i3usfDyOJ4IVG+/LpQZGxyNlo/L0MNr6aWaqJCERN05hw+ALvlmAkvBN1ubC6q/HnAfN//fo65/riK1ugr+4Ce5ptxoXZAPbazitTnLGIXj+PQIoEtdIHFvGwA9GoFfIWP9cbQ7uKB9UxiC6B6uQlr1J+swek3DOxK4pW+3/8A282kbKxJnEAQoLyM3/w==;bJz+TrSSiBtlV9X8Lv8fzw=="
 ---

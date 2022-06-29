@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Here’s a fresh look at Stormgate, the free-to-play RTS from ex-StarCraft devs"
-excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the ..."
-publishedDateTime: 2022-06-13T00:23:00Z
-originalUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
-webUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the “next evolution” of the RTS genre,"
+publishedDateTime: 2022-06-12T20:56:00Z
+originalUrl: "https://www.techradar.com/uk/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+webUrl: "https://www.techradar.com/uk/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
 type: article
 quality: 34
 heat: -1
@@ -244,6 +244,6 @@ related:
       domain: news.com.au
     quality: 30
 
-secured: "V3IXC6+JriV8lWlKpSPPsVixwgKbk9XEVkWANPB9uwu9aIB3kIut/IxOwkqMXlp2fRhVS415nA6PFEghbOxPtTps9e6kVE0Eq3hJ47qswLuPjCkxIElTHBb462697CSWpXN4JMek/H6iZvdnalgRmaBvuikuMNMNQPxMXsa0FJ6Xv4LlFkRv/E5uoHyNooHwEqQgIcD0kdHCqJ25vx+PiaWotUTe8wJCPgRsF3MCta6cnbvqtb62FeMomnzPkRm1MshCnrg1bKkU0IxOR2Ao49Kv7h8N+AqRh9J87mj4yWanfOUkbJ9mdlOjjrXBkKMmTYDpD1Uzgm8AyR73tz3JadelE5r9fkhFnuFJdpVmNXQ=;qPMRGba7Ud/b2f+x8k35og=="
+secured: "BFdfW0YvCbpSTKsqrpyVVI64JJV7Fcw38b/jiDWwffMGEqA339ISkuOP819WiQkguV4vl50v6rRequQeo83fx/z9jNSHRqOYKVOEJnjxg+0bm2fbS1jxGfXWI5RuMPO+orbCXZLcSHQiaF5GDH51xpNElJ+4dd7Q19aSBfJQKUybNnwK0gnrDJCUuOiuqc7iZMJu8KqL9MvwTeo8YOuw9kKuNVrxacYpFEryZkFCMRDyObOXQLM0ZEpc6AW8LJp49R0o8UluahG00xzEAQW9tuktar+HatW/G/hWlyLhw/3H6EWd3/FilGx9yYcSew0rfIKqQSIO0h1hDTU2Ss8lQweoK95Fn9pzczUA/u4P3tU=;pKw/ioD1SyXfBBbXZ/nedw=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Here’s a fresh look at Stormgate, the free-to-play RTS from ex-StarCraft devs"
-excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the “next evolution” of the RTS genre,"
-publishedDateTime: 2022-06-12T20:56:00Z
-originalUrl: "https://www.techradar.com/uk/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
-webUrl: "https://www.techradar.com/uk/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the ..."
+publishedDateTime: 2022-06-13T00:23:00Z
+originalUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+webUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
 type: article
 quality: 34
 heat: -1
@@ -117,6 +117,6 @@ related:
         height: 500
         isCached: true
 
-secured: "0x866rApW9lsHDTxiZEO579q5gFvf+iTAajDGI0pw/+DAJMB4ufhBR7TqFSLmOlpGKPO/stLX80KSYlFcai836uwLy1PU0yBr/QogDAcDib70b9psf5Mh5i6xwxBTAU9+wQMLOb2uPEDdjwst+bH7tQVOnaiSlyXzsfIt95IMdCKmaHykBqwpnxrsFp81/FG063wlVnWLtBSFenA53x4v3yD7g/8G0OxrVlfg54fEBl65D3Dz0QvZ3YxR5yJCqhGG4EMantct95LzYNO3wKHcWEFqWN86gSSkxLxnTkFiodFLSuXQm5IhgNQtFz7XrSYPLPw84A6Qq1V8Qe3c6t1nf//bhKV2NYG4jw01UTEXvM=;du9re59WTigLVn481gFEWw=="
+secured: "K5Rps5hlDd6QaW3s58p2vq3FMzhr9UuMmIiC+CjltQPbCHUi4EIadk7oWMefVr8ewfd0h2s/PPnZkwsgXQppHDCN5rlxUwlhG6XAd/wghkSBeI3nnWKf5XbwyUCXZ2ZYMHG7u+bL5wiRTHMvaCdmupzRKYWKot4eHjWqHok+YyAB1OkfELGaQ4pNeIEmjn/OIv0FC/Q0M013GGcZ4Lgm0mOqq0n6HzLVUCaGBHSVZ8jAhWwYFDBIMJF5FDx+lI/ZXTcVfxa0A8qvlPn31UbkBJNRyipvWhH/ycDAnpyxKrktcuwA+5yMMNNpbfA3gGV0r5IlLSHRRq2KOrX9B2Dk4xtyF084KFZ61Rzf9S6YOaM=;xFT3pwt51XdG6BMSN1gfGw=="
 ---
 

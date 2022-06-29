@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 668
         isCached: true
-  - title: "StarCraft 2's veterans left Blizzard to make Stormgate, the co-op RTS of their dreams"
-    excerpt: "In that world, Blizzard never merged with Activision or discovered just how lucrative Overwatch's loot boxes could be. Bizarro Blizzard decided that StarCraft 2, one of the finest real-time strategy games ever made,"
-    publishedDateTime: 2022-06-09T18:48:00Z
-    webUrl: "https://www.pcgamer.com/starcraft-2s-veterans-left-blizzard-to-make-stormgate-the-co-op-rts-of-their-dreams/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 70
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/5dteRedGhfkFjrWrhdACSB-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Ex-StarCraft 2 devs reveal their new RTS, Stormgate"
     excerpt: "Frost Giant Studios, a team composed of many former Blizzard Entertainment developers who worked on games like StarCraft 2 and Warcraft 3, revealed its debut game on Thursday at Summer Game Fest."
     publishedDateTime: 2022-06-09T20:58:00Z
@@ -73,22 +59,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/fRhdErm88BbryVeTH8k16IoML7U=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70960671/ss_f408e92f779d0d86c25fae92a1f8555ad7216121.0.jpeg"
         width: 1400
         height: 933
-        isCached: true
-  - title: "Stormgate is an RTS by veteran StarCraft developers"
-    excerpt: "Stormgate was revealed at Summer Game Fest 2022, giving players a look at a cinematic from the upcoming RTS title by veteran Warcraft and StarCraft developers. The team at Frost Giant Studios are releasing Stormgate as a free-to-play title with an beta coming out in 2023."
-    publishedDateTime: 2022-06-09T18:59:00Z
-    webUrl: "https://www.shacknews.com/article/130799/stormgate-free-to-play-rts-revealed"
-    ampWebUrl: "https://www.shacknews.com/article/130799/stormgate-free-to-play-rts-revealed?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/130799/stormgate-free-to-play-rts-revealed?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 57
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/06/09/stormgate-is-an-rts-by-veteran-starcraft-developers_feature.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Ex-Blizzard Devs Launch Stormgate, A Cool New Diablo Starcraft Hybrid Free-To-Play Game"
     excerpt: "One of the things that made Blizzard's past titles so popular, particularly Warcraft and Starcraft, was the inclusion of a powerful editor that allowed players to create their own scenarios."
@@ -106,48 +76,6 @@ related:
         width: 708
         height: 450
         isCached: true
-  - title: "Ex-Starcraft devs reveal new RTS Stormgate"
-    excerpt: "Stormgate, a new RTS developed by ex-Starcraft developers has been announced. Frost Giant Studios, which consists of ex-Blizzard employees, revealed the game along with a new trailer. Stormgate will enter beta in 2023,"
-    publishedDateTime: 2022-06-09T19:31:00Z
-    webUrl: "https://www.videogameschronicle.com/news/ex-starcraft-devs-reveal-new-rts-stormgate/"
-    type: article
-    provider:
-      name: Video Games Chronicle
-      domain: videogameschronicle.com
-    quality: 37
-    images:
-      - url: "https://www.videogameschronicle.com/files/2022/06/maxresdefault-2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Stormgate is a new RTS game from ex Blizzard and StarCraft devs"
-    excerpt: "Stormgate is a new RTS game from ex Blizzard and StarCraft devs that aims to push the genre into new directions while pleasing long-time fans of the genre"
-    publishedDateTime: 2022-06-09T19:03:00Z
-    webUrl: "https://www.pcgamesn.com/stormgate/reveal-trailer"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 37
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/06/stormgate-rts.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Stormgate is the new real-time strategy from former Starcraft devs"
-    excerpt: "Stormgate is the new real-time strategy game from Frost Giant Studios, made up of former Starcraft 2, Diablo 4 and Warcraft 3 developers. The world premiere was revealed at the Summer Game Fest ..."
-    publishedDateTime: 2022-06-09T19:17:00Z
-    webUrl: "https://www.techradar.com/news/stormgate-is-the-new-real-time-strategy-from-former-starcraft-devs"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/piXjtXJH8tV7sUGxL43D99-1200-80.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Stormgate gameplay revealed by ex-Starcraft developers"
     excerpt: "Having announced the F2P RTS Stormgate during the opening Summer Game Fest showcase, the team of ex-Blizzard and Starcraft developers at Frost Giant"
     publishedDateTime: 2022-06-12T21:11:00Z
@@ -161,34 +89,6 @@ related:
       - url: "https://www.thesixthaxis.com/wp-content/uploads/2022/06/Stormgate-RTS-Hero500.jpg"
         width: 1260
         height: 500
-        isCached: true
-  - title: "'Stormgate' is a new free-to-play RTS from the director of 'Starcraft 2'"
-    excerpt: "Game Fest, we got our first look at \"Stormgate,\" a new free-to-play real-time strategy game that runs on Unreal Engine 5.."
-    publishedDateTime: 2022-06-09T19:51:00Z
-    webUrl: "https://www.engadget.com/stormgate-announced-191711884.html?src=rss"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 36
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-06/f1b15480-e824-11ec-8fdd-93ce2299adfa"
-        width: 1432
-        height: 697
-        isCached: true
-  - title: "‘Stormgate’ is a free real-time strategy game by ex-‘Starcraft’ developers"
-    excerpt: "Revealed during Summer Game Fest 2022, Stormgate is a free-to-play RTS title created by some of the leading developers behind Blizzard Entertainment‘s Starcraft 2. Stormgate is being created in ..."
-    publishedDateTime: 2022-06-09T18:50:00Z
-    webUrl: "https://www.nme.com/news/gaming-news/stormgate-is-a-free-real-time-strategy-game-by-ex-starcraft-developers-3243387"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 35
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2022/06/Stormgate-art-2000x1270-1.jpg"
-        width: 2000
-        height: 1270
         isCached: true
   - title: "‘Stormgate’ is a free real-time strategy game by ex-‘Starcraft’ developers"
     excerpt: "Revealed during Summer Game Fest 2022, Stormgate is a free-to-play RTS title created by some of the leading developers behind Blizzard Entertainment‘s Starcraft 2. Stormgate is being created in ..."

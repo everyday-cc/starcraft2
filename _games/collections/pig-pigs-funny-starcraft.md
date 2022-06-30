@@ -879,6 +879,7 @@ items:
   - pig-this-is-why-sc2-isnt-played-on-50-hit-points-starcraft-2
   - pig-who-wins-a-low-gas-challenge-starcraft-2
   - pig-bm-player-gets-instant-karma-salt-mines-7-starcraft-2
+  - pig-this-is-why-sc2-isnt-played-on-50-hit-points-part-2-starcraft-2
   - pig-beating-the-1v7-insane-ai-challenge-best-attempt-yet-3-starcraft-2
   - pig-how-quickly-can-hero-dispose-of-a-noob-me-ept-na-holdout-challenge-bo3-pvz-starcraft-2
 

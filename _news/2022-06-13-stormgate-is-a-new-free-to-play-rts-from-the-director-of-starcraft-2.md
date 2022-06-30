@@ -102,20 +102,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Ex-Starcraft & Warcraft Devs Unveil New RTS ‘Stormgate’ At Summer Game Fest 2022"
-    excerpt: "The RTS genre is about to get one new addition in the form of Frost Giant Studios' Stormgate, which was revealed at Summer Game Fest 2020."
-    publishedDateTime: 2022-06-10T10:10:00Z
-    webUrl: "https://geekculture.co/ex-starcraft-warcraft-devs-unveil-new-rts-stormgate-at-summer-game-fest-2022/"
-    type: article
-    provider:
-      name: LEGO
-      domain: geekculture.co
-    quality: 32
-    images:
-      - url: "https://geekculture.co/wp-content/uploads/2022/06/Former-Starcraft-Warcraft-Devs-Unveil-New-RTS-Stormgate-At-Summer-Game-Fest-2022-1.jpg"
-        width: 1200
-        height: 500
-        isCached: true
 
 secured: "pCeraQW98YrX1WupVz2iz/pvAvU1fYg2ScU0/Dt1EfMwzeUCzVTCGWSFzuNBAHzN4BsPMYcdARq0ZOJ34vcOA9iVe+txDb/oTKkC7oThwPitSMW5OELJ4ssAs2NZRwD8QpvaGX4+xyN3fWTH3I4G04O88bOMVU0hmlQf2RChjnNkFAVwkwt78CdNOzGu2pl3cwKB5ACuLsNTF/Ps7+uTdH3e48ACRs+NCNhVJwlQid51oR1XtYWKmRhO8Mu73O0gM9aK3D71LkU8pZPX6dGrsiSg5DCvGtEK9C7MMquD9Kp5U4sxq3qOWI1gGEc9g9m5GOr8KBdpoEQXWf9zCwGBQh7OQcPSomC3gLJIFQh1oA0=;FlxweMjs7FGl+g2V+SxutQ=="
 ---

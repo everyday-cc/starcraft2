@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/heres-one-of-starcraft-2s-key-developers-t
 webUrl: "https://www.pcgamer.com/heres-one-of-starcraft-2s-key-developers-talking-about-upcoming-rts-stormgate/"
 type: article
 quality: 73
-heat: 193
+heat: 173
 published: true
 
 provider:
@@ -101,20 +101,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/wKeNGgwcBSfXmXudvQQuwb-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Ex-Starcraft & Warcraft Devs Unveil New RTS ‘Stormgate’ At Summer Game Fest 2022"
-    excerpt: "The RTS genre is about to get one new addition in the form of Frost Giant Studios' Stormgate, which was revealed at Summer Game Fest 2020."
-    publishedDateTime: 2022-06-10T10:10:00Z
-    webUrl: "https://geekculture.co/ex-starcraft-warcraft-devs-unveil-new-rts-stormgate-at-summer-game-fest-2022/"
-    type: article
-    provider:
-      name: LEGO
-      domain: geekculture.co
-    quality: 32
-    images:
-      - url: "https://geekculture.co/wp-content/uploads/2022/06/Former-Starcraft-Warcraft-Devs-Unveil-New-RTS-Stormgate-At-Summer-Game-Fest-2022-1.jpg"
-        width: 1200
-        height: 500
         isCached: true
 
 secured: "YpN92ekpHUu0g3KtERAA4WD8E37QfAeMxFkXA1YTuRxyQ0HpUYTfG0Qzn9T+njBazACaLV+7tX0vY9eZYi6F6Nfq708v9pbO2QAP9Q13GHLbdpZKRYRi2pvzX8HXsYBw2roK0Kc+zuKJfkLCPr7tKcJa3ojxsmx4gb8/EYolmw9gq7RD2KNFwfMqNkh6z8ZrQwdaav22Tc1YMtN/QK61/HfYU1eyVTJ0UreI0JoFoNUxdsAAvMKdDlgvrCAFz63siOTio3RSnUXCL/r6pCpBjaG0uSM4YCituMwUa3Qm8zjDxmNTopJYK4MwOoq6WZg5vDkmhNLIhBn64M6Rj8MIjG7Z7i3usfDyOJ4IVG+/LpQZGxyNlo/L0MNr6aWaqJCERN05hw+ALvlmAkvBN1ubC6q/HnAfN//fo65/riK1ugr+4Ce5ptxoXZAPbazitTnLGIXj+PQIoEtdIHFvGwA9GoFfIWP9cbQ7uKB9UxiC6B6uQlr1J+swek3DOxK4pW+3/8A282kbKxJnEAQoLyM3/w==;bJz+TrSSiBtlV9X8Lv8fzw=="

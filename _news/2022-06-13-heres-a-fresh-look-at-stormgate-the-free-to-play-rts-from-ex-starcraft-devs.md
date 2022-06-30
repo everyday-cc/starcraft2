@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Here’s a fresh look at Stormgate, the free-to-play RTS from ex-StarCraft devs"
-excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the “next evolution” of the RTS genre,"
-publishedDateTime: 2022-06-12T20:56:00Z
-originalUrl: "https://www.techradar.com/uk/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
-webUrl: "https://www.techradar.com/uk/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the ..."
+publishedDateTime: 2022-06-13T00:23:00Z
+originalUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
+webUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
 type: article
 quality: 34
 heat: -1
@@ -89,6 +89,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Zsz6h35Mh28wW0rI+oTA4NLdSCjgpFOsH77Gi1SNFgb+xIJ1hm8LDLUmax4LJOQyiicYD52PdFNsqxSm3urx1xZDJIuhIWYFC7dJ6nvyt01L67B0Gale0FrcZapUVII353T/I8pqmoRgz9x6xWSeSoEp3m45vFSy8xKPPG44aaViK/1qGszLl8w7XLwEWvdEROmCkUIN1HuIhgtFDM4er24PK+UyMxQqEa+gLQxK4jX4816D2bwB0k2pfTaV2yPkZlqw+gvaTAm1r90ijtHcXtSA36MONIYuuw0PlhP3bH6MXkSxgFXU5ANX0PZP2gk8Hz+cG3XRZJShaeTRwGm/UohdNXNwteD4ryELV+Q0sVw=;PUX96qqcnyNJ20psfQgo6Q=="
+secured: "DhlgdSJLDI3lbaGThqcowBuT243pvonxUEiq5m6xf3OFZU4vxywVqVsa62N/ozo9Md/lVwZUzdRs9CcyCxuNSO//RbMUC6rWxCveU0Fc/f2N5edvwwB4otsi+7o01lF8wr1XN8mQEEXhNyZK4uJag8SpUG5vWaOUZqBvMmtTNeKO1J3eW7oiYUpZxlw+R3NX4iiUvZdJ1i9Jn6gf67B94tnpEAX2HtDc3DohQ4i2/CsUhmey4z/8HtteAkTc77DBYNvYNvVGA80omzvhbdOJujQWbmGBhXl6ZVJEF92aMNKc1vGHqh4T/u2JKS/dTU4Nwa+nzMmcyxW/vWHcXZr7dT5S2UyFG1IWiynG76ozmpE=;uewCpTDv2dVw49nGG/dNuw=="
 ---
 

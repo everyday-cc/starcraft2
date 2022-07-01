@@ -54,22 +54,6 @@ related:
         width: 1432
         height: 697
         isCached: true
-  - title: "Ex-Blizzard Devs Launch Stormgate, A Cool New Diablo Starcraft Hybrid Free-To-Play Game"
-    excerpt: "One of the things that made Blizzard's past titles so popular, particularly Warcraft and Starcraft, was the inclusion of a powerful editor that allowed players to create their own scenarios."
-    publishedDateTime: 2022-06-11T18:56:00Z
-    webUrl: "https://hothardware.com/news/stormgate-a-cool-new-diablo-meets-starcraft-free-to-play-game"
-    ampWebUrl: "https://amp.hothardware.com/news/stormgate-a-cool-new-diablo-meets-starcraft-free-to-play-game"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/stormgate-a-cool-new-diablo-meets-starcraft-free-to-play-game"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 49
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/58811/content/small_stormgate-screenshot-1.jpg"
-        width: 708
-        height: 450
-        isCached: true
   - title: "Here’s a fresh look at Stormgate, the free-to-play RTS from ex-StarCraft devs"
     excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the ..."
     publishedDateTime: 2022-06-13T00:23:00Z

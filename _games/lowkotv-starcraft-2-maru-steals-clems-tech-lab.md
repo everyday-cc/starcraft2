@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maru-steals-clem
 type: video
 length: PT21M34S
 publishedDateTime: 2020-11-17T11:05:58Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BZZosGja3cg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "SkRt7XpyuJhqRdGLH2T+I5SRwGWF3LfcUy/MhMUIqMONzc0onQHYH0PbCi4g2dGzDw2BWA93Jm0bI1N4rthivHzWEOJbz7ZtH17cnhIa4ubkjmhGEDOVEN925elNrfFu1GBSqiy5yX2ife30SezeubLgfkK+4p7UhowsSz1hLFAihoInmKY5awzWf1OD9q4Vna9qKuHQikkQw/dCO92lN3ntjF/k3WRkCVnr/rXuP1as2VMceG8h25FNnOevMUH1ZGX1Lr8LQ8VgjzBNdBVN+4P4M+7eRubaMp9UEKhDsNQiPzTGL6PJ87DjJ3ikde0lRubWseLtSVWmSu8rhQgdPzxz9qXqX3x0Jck5ggXTTFPKthgR2keZnQTSwbFCw3WsknrtbIw1Q/ePuqd+JMKVtcLw+YkB8WgZyOjLfS5LErUeh2Ciorn9RoDAPVy4PGEX;IOJ1Dv3sFDUDkNI9BmRVFQ=="
+secured: "Os5BgCHonZJURLmk6kMRoIiAUWSXzAfIYxybDxyU5IzbJTXYsUCJvkOKrGx9IThk7uM9An2iOY8n7dpswpRCBCJiK1xEbMBlVQqbAWe8RDGvERiMwTAlvQQLcHmNnM9VuLLzjHL6UwYjZUh202kM3CwZ7BgQz1YlqP1U/Tz01MiuhXnw9FUtjBErYMzfG8buXKtlLduShZdqNh9c6rYMivMy8fU+xH3pN9ia+ULj7jtBxQ4sOvdC6Blv6MF7ppf43/kbT6RBtUJ2TYGEEEeDzf0p0kPTiXQ4KL3WyD3hPZoqDKw9nOIoC4/AiLxylMDestEPmBZx6n2Pj7cE3Ecikj4h4iTo44jncWtG1LftKhEto/yVfqdH9WQV+K5Jd99QHzSkEYr9U7ZksG2z2heKOrKqZx8Pan5ZfrYRttI44vDLdJKWPc3nDAGneAlLTa6k;WBf6yvSZFmpXTRPwN+vnaQ=="
 ---
 

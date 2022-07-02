@@ -9,8 +9,8 @@ ampWebUrl: "https://www.engadget.com/amp/stormgate-announced-191711884.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/stormgate-announced-191711884.html"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 56
+published: false
 
 provider:
   name: Engadget
@@ -28,22 +28,6 @@ images:
     width: 1432
     height: 697
     isCached: true
-
-related:
-  - title: "Here’s a fresh look at Stormgate, the free-to-play RTS from ex-StarCraft devs"
-    excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the ..."
-    publishedDateTime: 2022-06-13T00:23:00Z
-    webUrl: "https://www.techradar.com/news/heres-a-fresh-look-at-stormgate-the-free-to-play-rts-from-ex-starcraft-devs"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 34
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/wKeNGgwcBSfXmXudvQQuwb-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "pCeraQW98YrX1WupVz2iz/pvAvU1fYg2ScU0/Dt1EfMwzeUCzVTCGWSFzuNBAHzN4BsPMYcdARq0ZOJ34vcOA9iVe+txDb/oTKkC7oThwPitSMW5OELJ4ssAs2NZRwD8QpvaGX4+xyN3fWTH3I4G04O88bOMVU0hmlQf2RChjnNkFAVwkwt78CdNOzGu2pl3cwKB5ACuLsNTF/Ps7+uTdH3e48ACRs+NCNhVJwlQid51oR1XtYWKmRhO8Mu73O0gM9aK3D71LkU8pZPX6dGrsiSg5DCvGtEK9C7MMquD9Kp5U4sxq3qOWI1gGEc9g9m5GOr8KBdpoEQXWf9zCwGBQh7OQcPSomC3gLJIFQh1oA0=;FlxweMjs7FGl+g2V+SxutQ=="
 ---

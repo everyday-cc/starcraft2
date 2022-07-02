@@ -2,57 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-06-13-stormgate-is-a-new-free-to-play-rts-from-the-director-of-starcraft-2.md",
-      "title": "'Stormgate' is a new free-to-play RTS from the director of 'Starcraft 2'",
-      "excerpt": "In 2020, Starcraft 2 production director Tim Morten left Blizzard to start Frost Giant Studios. At Summer Game Fest, he finally showed off what he and his team have been working on for the past ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/stormgate-announced-191711884.html",
-      "originalUrl": "https://www.engadget.com/stormgate-announced-191711884.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-06/f1b15480-e824-11ec-8fdd-93ce2299adfa",
-          "width": 1432,
-          "height": 697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/stormgate-announced-191711884.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/stormgate-announced-191711884.html",
-      "publishedDateTime": "2022-06-13T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_news/2022-06-13-heres-one-of-starcraft-2s-key-developers-talking-about-upcoming-rts-stormgate.md",
       "title": "Here's one of StarCraft 2's key developers talking about upcoming RTS Stormgate",
       "excerpt": "Stormgate, a new RTS from former Blizzard devs who worked on some little old games like Warcraft 3 and StarCraft 2, is one of those games that makes me want to",
@@ -1198,6 +1147,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-starcraft-ii-heart-of-the-swarm-dlc-battlenet-key-global.md",
+      "title": "Starcraft II: Heart Of The Swarm (DLC) Battle.net Key GLOBAL",
+      "excerpt": "Battle.net Key GLOBAL. Starcraft II: Heart of the Swarm is the second expansion to a competitive sci-fi RTS game Starcraft II. The expansion",
+      "sourceUrl": null,
+      "webUrl": "https://www.denoticias.es/us/products/starcraft-ii-heart-of-the-swarm-dlc-battlenet-key-global.html",
+      "originalUrl": "https://www.denoticias.es/us/products/starcraft-ii-heart-of-the-swarm-dlc-battlenet-key-global.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-products.eneba.com/resized-products/lekqpzoikgzinjtpsc5k_390x400_1x-0.jpg",
+          "width": 390,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.denoticias.es/us/amp/products/starcraft-ii-heart-of-the-swarm-dlc-battlenet-key-global.html",
+      "cdnAmpWebUrl": "https://www-denoticias-es.cdn.ampproject.org/c/s/www.denoticias.es/us/amp/products/starcraft-ii-heart-of-the-swarm-dlc-battlenet-key-global.html",
+      "publishedDateTime": "2021-08-23T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "denoticias.es",
+        "domain": "denoticias.es",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.engadget.com/amp/stormgate-announced-191711884.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/stormgate-announced-191711884.html"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Engadget
@@ -30,34 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here's one of StarCraft 2's key developers talking about upcoming RTS Stormgate"
-    excerpt: "Stormgate, a new RTS from former Blizzard devs who worked on some little old games like Warcraft 3 and StarCraft 2, is one of those games that makes me want to"
-    publishedDateTime: 2022-06-12T20:55:00Z
-    webUrl: "https://www.pcgamer.com/heres-one-of-starcraft-2s-key-developers-talking-about-upcoming-rts-stormgate/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 73
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ZNEPpjz27DAhTMBPD6dkB5-1200-80.jpg"
-        width: 1200
-        height: 668
-        isCached: true
-  - title: "Stormgate gameplay revealed by ex-Starcraft developers"
-    excerpt: "Having announced the F2P RTS Stormgate during the opening Summer Game Fest showcase, the team of ex-Blizzard and Starcraft developers at Frost Giant"
-    publishedDateTime: 2022-06-12T21:11:00Z
-    webUrl: "https://www.thesixthaxis.com/2022/06/12/stormgate-gameplay-revealed-by-ex-starcraft-developers/"
-    type: article
-    provider:
-      name: The Sixth Axis
-      domain: thesixthaxis.com
-    quality: 37
-    images:
-      - url: "https://www.thesixthaxis.com/wp-content/uploads/2022/06/Stormgate-RTS-Hero500.jpg"
-        width: 1260
-        height: 500
-        isCached: true
   - title: "Here’s a fresh look at Stormgate, the free-to-play RTS from ex-StarCraft devs"
     excerpt: "We’ve got a fresh look at Stormgate, the upcoming free-to-play RTS from a team of ex-StarCraft 2 veterans, as developer Frost Giant has released its first update on the game. Billed as the ..."
     publishedDateTime: 2022-06-13T00:23:00Z

@@ -313,14 +313,14 @@
       "publishedDateTime": "2022-06-04T05:05:19-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-epic-game-marus-hero-battlecruisers.md",
-      "title": "StarCraft 2: EPIC GAME - Maru's Hero Battlecruisers!",
-      "excerpt": "Maru versus Cure in an epic game of professional StarCraft 2. In this Terran versus Terran we have the game go the distance, as both players decide to go for a wildly different strategy. Easily one of the best games of top-level South Korean TvT that has been played.  Support my work on Patreon: https://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-game-marus-hero-battlecruisers/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-marus-hero-battlecruisers/",
-      "originalUrl": "https://youtube.com/watch?v=Tdt5qmONNoc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tdt5qmONNoc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M25S",
+      "path": "_games/lowkotv-starcraft-2-the-new-rank-1-protoss-best-of-3.md",
+      "title": "StarCraft 2: The NEW Rank 1 Protoss! (Best-of-3)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between herO (Protoss) and Dark (Zerg). herO just recently overtook Zest for the highest ranked Protoss player in the world.   Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  Thumbnail picture of",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-new-rank-1-protoss-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-new-rank-1-protoss-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=FHH48M74Vc8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FHH48M74Vc8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M9S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -335,10 +335,9 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
         "Protoss"
       ],
-      "heat": 136,
+      "heat": 138,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -349,37 +348,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-05-16T04:51:29-07:00"
-    },
-    {
-      "path": "_games/pig-how-quickly-can-hero-dispose-of-a-noob-me-ept-na-holdout-challenge-bo3-pvz-starcraft-2.md",
-      "title": "How quickly can HERO dispose of a noob (ME)? | EPT NA Holdout Challenge (Bo3 PvZ) - StarCraft 2",
-      "excerpt": "PiG faced the best protoss in the world right now, herO, in EPT NA. Lets see how long PiG held on for in this unofficial Holdout Challenge. This series was a best of 3 -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for daily Pro Casts: https://www.youtube.com/c/PiGCasts",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-hero-dispose-of-a-noob-me-ept-na-holdout-challenge-bo3-pvz-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-hero-dispose-of-a-noob-me-ept-na-holdout-challenge-bo3-pvz-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=qz0Fun6MHVM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qz0Fun6MHVM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M2S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 122,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-25T17:24:20-07:00"
+      "publishedDateTime": "2022-04-18T02:06:36-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-reynors-100-probe-economy-skillous-vs-reynor.md",
@@ -419,6 +388,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-23T02:04:48-07:00"
+    },
+    {
+      "path": "_games/pig-how-quickly-can-hero-dispose-of-a-noob-me-ept-na-holdout-challenge-bo3-pvz-starcraft-2.md",
+      "title": "How quickly can HERO dispose of a noob (ME)? | EPT NA Holdout Challenge (Bo3 PvZ) - StarCraft 2",
+      "excerpt": "PiG faced the best protoss in the world right now, herO, in EPT NA. Lets see how long PiG held on for in this unofficial Holdout Challenge. This series was a best of 3 -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for daily Pro Casts: https://www.youtube.com/c/PiGCasts",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-hero-dispose-of-a-noob-me-ept-na-holdout-challenge-bo3-pvz-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-hero-dispose-of-a-noob-me-ept-na-holdout-challenge-bo3-pvz-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=qz0Fun6MHVM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qz0Fun6MHVM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M2S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 107,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-25T17:24:20-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",
@@ -761,14 +760,14 @@
       "publishedDateTime": "2022-06-06T04:09:00-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-new-rank-1-protoss-best-of-3.md",
-      "title": "StarCraft 2: The NEW Rank 1 Protoss! (Best-of-3)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between herO (Protoss) and Dark (Zerg). herO just recently overtook Zest for the highest ranked Protoss player in the world.   Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  Thumbnail picture of",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-new-rank-1-protoss-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-new-rank-1-protoss-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=FHH48M74Vc8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FHH48M74Vc8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M9S",
+      "path": "_games/lowkotv-starcraft-2-epic-game-marus-hero-battlecruisers.md",
+      "title": "StarCraft 2: EPIC GAME - Maru's Hero Battlecruisers!",
+      "excerpt": "Maru versus Cure in an epic game of professional StarCraft 2. In this Terran versus Terran we have the game go the distance, as both players decide to go for a wildly different strategy. Easily one of the best games of top-level South Korean TvT that has been played.  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-game-marus-hero-battlecruisers/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-marus-hero-battlecruisers/",
+      "originalUrl": "https://youtube.com/watch?v=Tdt5qmONNoc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tdt5qmONNoc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M25S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -783,9 +782,10 @@
       },
       "topics": [
         "StarCraft 2",
+        "Terran",
         "Protoss"
       ],
-      "heat": 78,
+      "heat": 76,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -796,7 +796,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-04-18T02:06:36-07:00"
+      "publishedDateTime": "2022-05-16T04:51:29-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-flo-maxes-out-ground-attack-for-his-skytoss-facepalm-florencio-files-265.md",

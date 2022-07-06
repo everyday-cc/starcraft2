@@ -4,44 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-the-ultimate-late-game-of-zerg-vs-zerg-dark-vs-reynor.md",
-      "title": "StarCraft 2: The ULTIMATE LATE GAME of Zerg vs Zerg! (Dark vs Reynor)",
-      "excerpt": "One long macro game of StarCraft 2 between Dark and Reynor. While most Zerg versus Zerg games end within a few minutes, this one goes well beyond the Zergling Baneling, Roach Ravager and even the Hydra Lurker stage.  Dark vs Zest: https://www.youtube.com/watch?v=mUG5ryGpiV8  Support my work on Patreon:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-ultimate-late-game-of-zerg-vs-zerg-dark-vs-reynor/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-ultimate-late-game-of-zerg-vs-zerg-dark-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=3FPvICJgx30",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3FPvICJgx30\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M55S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3FPvICJgx30/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-30T11:49:34-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-unexpected-zerg-unit-switches-armani-vs-gumiho.md",
       "title": "StarCraft 2: UNEXPECTED Zerg Unit Switches! (Armani vs GuMiho)",
       "excerpt": "Best-of-5 series of professional StarCraft 2 between Armani (Zerg) and GuMiho (Terran).  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips: https://www.youtube.com/lowkoclips  Be part of the",
@@ -1153,6 +1115,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-01-25T03:50:28-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-zest-vs-rogue-on-all-new-maps-best-of-5.md",
+      "title": "StarCraft 2: Zest vs Rogue on ALL NEW MAPS! (Best-of-5)",
+      "excerpt": "A series of professional StarCraft 2 between Rogue (Zerg) and Zest (Protoss) on all new maps that have recently been added to StarCraft 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zest-vs-rogue-on-all-new-maps-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zest-vs-rogue-on-all-new-maps-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=Iykg4Oirc5o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Iykg4Oirc5o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M25S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Iykg4Oirc5o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-10-27T09:13:14-07:00"
     }
   ],
   "nextPage": 6

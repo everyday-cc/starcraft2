@@ -4,45 +4,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-marus-mass-command-center-strategy-reynor-vs-maru.md",
-      "title": "StarCraft 2: Maru's Mass COMMAND CENTER Strategy! (Reynor vs Maru)",
-      "excerpt": "Professional match of StarCraft 2 between Maru (Terran) and Reynor (Zerg). This match is a very high level game of Zerg versus Terran.   Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marus-mass-command-center-strategy-reynor-vs-maru/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marus-mass-command-center-strategy-reynor-vs-maru/",
-      "originalUrl": "https://youtube.com/watch?v=dnRMCwdGUVM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dnRMCwdGUVM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dnRMCwdGUVM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-12-11T02:54:23-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-mass-brood-lords-vs-ghosts-elazer-vs-clem.md",
       "title": "StarCraft 2: MASS Brood Lords vs Ghosts! (Elazer vs Clem)",
       "excerpt": "Awesome game of StarCraft 2 between Elazer and Clem. This is one of the longest games of professional SC2 that I've casted recently. It really comes down to the final resources.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
@@ -1140,6 +1101,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-07-02T05:06:47-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-terran-vs-protoss-cringe.md",
+      "title": "StarCraft 2: Terran vs Protoss CRINGE!",
+      "excerpt": "Why macro when you can control the two units you do have? Subscribe for more videos: http://lowko.tv/youtube More viewer games: https://goo.gl/TSZ62L  In this Silver League match of Terran versus Protoss, both players decide to go for some odd build strategies. The Protoss decides to go for a Cannon",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-vs-protoss-cringe/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-terran-vs-protoss-cringe/",
+      "originalUrl": "https://youtube.com/watch?v=6805Mmlg_E4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6805Mmlg_E4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6805Mmlg_E4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-04-09T04:26:51-07:00"
     }
   ],
   "nextPage": 17

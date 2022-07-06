@@ -883,6 +883,7 @@ items:
   - pig-beating-the-1v7-insane-ai-challenge-best-attempt-yet-3-starcraft-2
   - pig-how-quickly-can-hero-dispose-of-a-noob-me-ept-na-holdout-challenge-bo3-pvz-starcraft-2
   - pig-this-challenge-should-be-unfair-for-protoss-starcraft-2
+  - pig-the-highest-compliment-you-can-get-salt-mines-8-starcraft-2
 
 topics:
   - StarCraft 2

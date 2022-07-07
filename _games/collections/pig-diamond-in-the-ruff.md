@@ -2,7 +2,7 @@
 title: "Diamond in the Ruff"
 excerpt: "Welcome to the creative StarCraft 2 gameplay of our Terran extroadinaire, Ruff."
 type: collection
-heat: 60
+heat: 61
 
 provider:
   name: PiG

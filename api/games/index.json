@@ -28,7 +28,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 427,
+      "heat": 402,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -709,35 +709,6 @@
       "publishedDateTime": "2022-06-04T05:05:19-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-proxy-hatch-and-burrow-is-this-a-new-dumb-zvt-build-icyfar-siege-tactics-g1.md",
-      "title": "StarCraft 2 - Proxy Hatch AND Burrow: Is this a new dumb ZvT build? | ICYFAR \"Siege Tactics\" G1",
-      "excerpt": "🤯 NEW ICYFAR CHALLENGE: One Base Openers - You're not allowed to start building an expansion until after 5:00. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 21st May. -- 🤯 In this week’s episode of I Cast Your",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-proxy-hatch-and-burrow-is-this-a-new-dumb-zvt-build-icyfar-siege-tactics-g1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-proxy-hatch-and-burrow-is-this-a-new-dumb-zvt-build-icyfar-siege-tactics-g1/",
-      "originalUrl": "https://youtube.com/watch?v=Baz9vdNuB9Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Baz9vdNuB9Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M36S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 136,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-04-27T19:49:36-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-new-maps-scarlett-vs-byun-best-of-3.md",
       "title": "StarCraft 2: NEW MAPS - Scarlett vs ByuN! (Best-of-3)",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between Scarlett (Zerg) versus ByuN (Terran). These games are played on the new maps that were recently announced for SC2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
@@ -950,14 +921,14 @@
       "publishedDateTime": "2022-06-19T01:16:44-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-defensive-mothership-keen-vs-dns.md",
-      "title": "StarCraft 2: The Defensive MOTHERSHIP? (KeeN vs DnS)",
-      "excerpt": "Macro game of professional StarCraft 2 between DnS (Protoss) versus KeeN (Terran). This game comes down to both players making their ultimate armies.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-defensive-mothership-keen-vs-dns/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-defensive-mothership-keen-vs-dns/",
-      "originalUrl": "https://youtube.com/watch?v=_ia7v1fltrU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_ia7v1fltrU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M35S",
+      "path": "_games/lowkotv-starcraft-2-new-maps-tired-of-the-ladder-maps-zest-vs-armani.md",
+      "title": "StarCraft 2: NEW MAPS - Tired of the Ladder Maps... (Zest vs Armani)",
+      "excerpt": "Five games of professional StarCraft 2 between Zest and Armani. In this series we don't see them play on the standard ladder maps, but instead they play on Nautilus II, Roughneck and Golden Wall. Nautilus II and Roughneck are currently being played in the GSL Code S tournament. Golden Wall is one of",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-maps-tired-of-the-ladder-maps-zest-vs-armani/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-maps-tired-of-the-ladder-maps-zest-vs-armani/",
+      "originalUrl": "https://youtube.com/watch?v=fh9EGzEi-nM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fh9EGzEi-nM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M58S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -974,7 +945,7 @@
         "StarCraft 2",
         "Protoss"
       ],
-      "heat": 117,
+      "heat": 112,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -985,7 +956,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-05-21T02:12:05-07:00"
+      "publishedDateTime": "2022-04-14T04:56:30-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-zests-final-tournament-match-best-of-3.md",
@@ -1053,6 +1024,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-27T23:30:12-07:00"
+    },
+    {
+      "path": "_games/pig-6-times-sc2-pros-failed-including-the-goat-serral-starcraft-2.md",
+      "title": "6 times SC2 Pros FAILED (including the GOAT Serral!) - StarCraft 2",
+      "excerpt": "We often think of our StarCraft 2 pros as being gods of skill, but once in a while they prove they're still human and have fails - even players like Serral, Dark, Clem and Zest! They prove they're still one of us one of us one us one of us... -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-6-times-sc2-pros-failed-including-the-goat-serral-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-6-times-sc2-pros-failed-including-the-goat-serral-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=J15eFNuRquo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J15eFNuRquo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M8S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 111,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-29T04:41:48-07:00"
     }
   ],
   "nextPage": 2

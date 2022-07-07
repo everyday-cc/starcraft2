@@ -462,44 +462,6 @@
       "publishedDateTime": "2020-10-19T03:09:33-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-new-maps-tired-of-the-ladder-maps-zest-vs-armani.md",
-      "title": "StarCraft 2: NEW MAPS - Tired of the Ladder Maps... (Zest vs Armani)",
-      "excerpt": "Five games of professional StarCraft 2 between Zest and Armani. In this series we don't see them play on the standard ladder maps, but instead they play on Nautilus II, Roughneck and Golden Wall. Nautilus II and Roughneck are currently being played in the GSL Code S tournament. Golden Wall is one of",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-maps-tired-of-the-ladder-maps-zest-vs-armani/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-maps-tired-of-the-ladder-maps-zest-vs-armani/",
-      "originalUrl": "https://youtube.com/watch?v=fh9EGzEi-nM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fh9EGzEi-nM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT57M58S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-04-14T04:56:30-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-return-of-the-king-byun-vs-solar.md",
       "title": "StarCraft 2: RETURN OF THE KING! (ByuN vs Solar)",
       "excerpt": "ByuN is one of the most succesful StarCraft 2 pro gamers. He recently returned to the game and in this series he's going up against one of the strongest Zerg players in the world Solar.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second",
@@ -1140,6 +1102,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-12-03T02:22:00-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-winner-of-the-new-map-contest-mana-vs-elazer.md",
+      "title": "StarCraft 2: The WINNER of the NEW Map Contest! (MaNa vs Elazer)",
+      "excerpt": "MaNa versus Elazer in StarCraft 2 on the map \"Waterfall\". Waterfall is the winner of the TLMC 16 (Team Liquid Map Contest 16) and will more than likely be included in a future ladder and tournament map pool in StarCraft 2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-winner-of-the-new-map-contest-mana-vs-elazer/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-winner-of-the-new-map-contest-mana-vs-elazer/",
+      "originalUrl": "https://youtube.com/watch?v=4BxSF3zboD0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4BxSF3zboD0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M29S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-02-21T04:35:13-08:00"
     }
   ],
   "nextPage": 13

@@ -4,66 +4,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-micro-god-the-florencio-files-2.md",
-      "title": "StarCraft 2 - Micro God | The Florencio Files #2",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-micro-god-the-florencio-files-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-micro-god-the-florencio-files-2/",
-      "originalUrl": "https://youtube.com/watch?v=zwQ1vCzSljQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zwQ1vCzSljQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M13S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zwQ1vCzSljQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-05-24T00:49:07-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-oops-i-forgot-to-cancel-the-florencio-files-8.md",
-      "title": "StarCraft 2 - “Oops I Forgot to Cancel” | The Florencio Files #8",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-oops-i-forgot-to-cancel-the-florencio-files-8/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-oops-i-forgot-to-cancel-the-florencio-files-8/",
-      "originalUrl": "https://youtube.com/watch?v=6I_3E1igho0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6I_3E1igho0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M7S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6I_3E1igho0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-05-24T00:49:07-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-pig-eats-hot-wings-and-finally-comprehends-science-florencio-files-229.md",
       "title": "StarCraft 2 - PiG EATS HOT WINGS AND FINALLY COMPREHENDS SCIENCE | Florencio Files #229",
       "excerpt": "What happens when you combine Florencio Files with a Hot Wings challenge and a No Swearing (Sesame Street-friendly) challenge all in one?  0:00 Intro 2:22 Game 1 28:40 Game 2 45:01 Game 3  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio:",
@@ -1006,6 +946,81 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-12-14T03:41:46-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-a-tale-of-spine-crawlers.md",
+      "title": "StarCraft 2: A Tale Of Spine Crawlers!",
+      "excerpt": "A very cringy game of Zerg vs Zerg in Silver League. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/D6Qj6z  In this match of Silver League Zerg vs Zerg both players decide to play a bit of a weird game. Gunslinger and Marklongwide take the entire map of Odyssey",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-a-tale-of-spine-crawlers/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-a-tale-of-spine-crawlers/",
+      "originalUrl": "https://youtube.com/watch?v=hNdjeQSbwv8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hNdjeQSbwv8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M31S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hNdjeQSbwv8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-08-05T05:09:19-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-actual-immortals-trap-vs-armani.md",
+      "title": "StarCraft 2: ACTUAL IMMORTALS?! (Trap vs Armani)",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 between Trap and Armani. In this Protoss versus Zerg we see a variety of build orders from both players, and surprisingly enough... No Void Rays!  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-actual-immortals-trap-vs-armani/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-actual-immortals-trap-vs-armani/",
+      "originalUrl": "https://youtube.com/watch?v=kVcMwAi0uds",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVcMwAi0uds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M52S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kVcMwAi0uds/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-27T04:13:20-07:00"
     }
   ],
   "nextPage": 15

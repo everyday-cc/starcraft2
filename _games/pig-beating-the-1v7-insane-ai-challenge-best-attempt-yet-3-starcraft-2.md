@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=eU2FWrLbpP0
 type: video
 length: PT1H14M47S
 publishedDateTime: 2022-06-25T23:38:18Z
-heat: 128
+heat: 122
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eU2FWrLbpP0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ images:
     height: 800
     isCached: true
 
-secured: "3aSukYLiMne0HKFOnjxbQUN5JMc+0sBGp3k6UAxu5mE+FL20bOOIYa4a4aiE9hI+yAMC+QrvPloCEdI9NN5SU9Vkl8nX8SIPplHBinVOQk9xfkoEyMZccBx+Rh87VO+xbVJrlojaan3V7GimGt+uuQ0pkiNOyekKV4D5UWm+6tPEuYR9cSvngAMsSLXBsaHRoypmblAmneb+LKRby+ScLGWXD1b6aEDSIEd6q0V5IhtnJYgs87Q8l+2BiDfMbdguxisy1Hx5mhcajTcS6GANHl67L0Ka6/mAOHJNTwJOYAXwy0riA+E/Ue9xk71U2U1MFT1f7i/dmtXLQP+o0O9GoTs6WDQGAOSfVM1l7hQ0P5pZN8D51V9knB04tpY9ofSJK8NxYz2xLqEm6jb0T4qIIpqAdwrbk9n/8BW4qX2hoEQ=;Bna7jiTPpu2tLjxx1/ESGA=="
+secured: "Jj68LWr4C7hkx6hJZrbkGt2WaKxF3A66fbzDMtyU71xb6sK9znFZ6R/hQC8aYaU5k7YUP5IWI9Mqlmbshs7cNdWdEHT4+Kkmx7tAB94w/IjNb/aDafJgIJxk6uECOfIPIalcrVdA1wL3MGFPZIRZGYACE3xedTS23y0ZHjnaRmroYX1bNTyVAO4E6GTrxgwyWOzDybRcAe90vVwLtc5nrz77zJcYXFcETlQ9i6R0mldrvGCeRfhE7B1UqWa4mGtEYNIVZTq/HPq0+zQgjHmiCh3Jk4a/6wMd4CnsBJSsDW66keJ7cyW1BwOXFKrNQqxaDlqtr/PJ8z1VzUlWkK6che00VNv7vqbXxsJTY0qZttMDGakLojXDkT0x+5E/Cpqwr48qe8T8RaC4KgSdyDWqbELhn6LRV6ZlYJb3i1GIRU4=;Wg0B+pKsKXVbHVQ/VfK/Cg=="
 ---
 

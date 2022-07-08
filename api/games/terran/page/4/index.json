@@ -4,44 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-byun-vs-drg-in-an-epic-slugfest.md",
-      "title": "StarCraft 2: ByuN vs DRG in an EPIC Slugfest!",
-      "excerpt": "ByuN (Terran) and DRG (Zerg) face off against each other in an epic game of professional StarCraft 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-vs-drg-in-an-epic-slugfest/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-vs-drg-in-an-epic-slugfest/",
-      "originalUrl": "https://youtube.com/watch?v=eo48c_Fc_2Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eo48c_Fc_2Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M46S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eo48c_Fc_2Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-12T03:07:16-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-byuns-epic-micro-vs-cure-best-of-7.md",
       "title": "StarCraft 2: ByuN's EPIC Micro vs Cure! (Best-of-7)",
       "excerpt": "Best-of-7 series of professional StarCraft 2 between ByuN and Cure. In this Terran versus Terran we see a variety of strategies. From hyper aggressive early game Terran cheese from both sides, to an awesome macro game.  OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon:",
@@ -881,6 +843,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-11T17:33:43-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-did-you-know-that-thors-should-beat-battlecruisers-diamond-in-the-ruff-73.md",
+      "title": "StarCraft 2 - Did you know that Thors should beat Battlecruisers? | Diamond in the Ruff #73",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-did-you-know-that-thors-should-beat-battlecruisers-diamond-in-the-ruff-73/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-did-you-know-that-thors-should-beat-battlecruisers-diamond-in-the-ruff-73/",
+      "originalUrl": "https://youtube.com/watch?v=JTWfS7F1_7U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JTWfS7F1_7U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M49S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-04T18:15:22-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-divine-intervention-diamond-in-the-ruff-1.md",

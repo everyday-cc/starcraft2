@@ -4,6 +4,81 @@
   "page": 32,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-cast-crumbling-under-the-pressure.md",
+      "title": "StarCraft 2 Cast: CRUMBLING Under The Pressure!",
+      "excerpt": "An incredible macro focused Zerg versus Terran series. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/QPyS3B  In this best of three series of StarCraft 2, the majority of the games are focused on macro. Both Snute and Jjakji have a style based around getting",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-crumbling-under-the-pressure/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cast-crumbling-under-the-pressure/",
+      "originalUrl": "https://youtube.com/watch?v=1LuP0F6ETOU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1LuP0F6ETOU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1LuP0F6ETOU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-02-18T00:57:07-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-cast-cyclones-ravens-hellions-losira-vs-gumiho.md",
+      "title": "StarCraft 2 Cast: Cyclones, Ravens & Hellions?! (Losira vs GuMiho)",
+      "excerpt": "An incredible best of three between Losira and GuMiho in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/fi5EXG  The new patch is live in StarCraft 2, and with that the entire metagame has shifted significantly. In this Terran versus Zerg video I",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-cyclones-ravens-hellions-losira-vs-gumiho/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cast-cyclones-ravens-hellions-losira-vs-gumiho/",
+      "originalUrl": "https://youtube.com/watch?v=X68GkbnuHig",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X68GkbnuHig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/X68GkbnuHig/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2016-11-26T06:56:06-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-cast-diamond-zerg-vs-zerg.md",
       "title": "StarCraft 2 Cast: DIAMOND Zerg vs Zerg!",
       "excerpt": "Diamond League Zerg versus Zerg. Subscribe for more videos: http://lowko.tv/youtube Insane Proxy Barracks: https://goo.gl/8m0B4g  Both players start off rather aggressive but quickly tech up towards Mutalisks and fight Mutalisks versus Mutalisks. After that, an hilarious base trade scenario ensues.",
@@ -382,43 +457,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-02-28T04:45:57-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-cast-mass-overlord-drops.md",
-      "title": "StarCraft 2 Cast: MASS Overlord Drops!",
-      "excerpt": "An awesome match of Zerg versus Terran between KeeN and True. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/LsmBuQ  In this professional match of Zerg versus Terran in StarCraft 2, the Terran player decides to go for a Mech based strategy. However, instead",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-mass-overlord-drops/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cast-mass-overlord-drops/",
-      "originalUrl": "https://youtube.com/watch?v=7zTvbb4hn4c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7zTvbb4hn4c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M51S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7zTvbb4hn4c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-02-24T06:44:25-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-cast-my-favourite-players-protoss-zerg.md",
@@ -1101,44 +1139,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-08-12T03:18:20-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-cheeky-roach-run-by-snute-vs-serral.md",
-      "title": "StarCraft 2: CHEEKY ROACH RUN-BY! (Snute vs Serral)",
-      "excerpt": "Snute versus Serral in a professional match of ZvZ in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Professional best-of-7: https://goo.gl/cLp2ev  An awesome match of high level Zerg vs Zerg. Zerg vs Zerg is often times considered to be one the hardest match-ups in the game. A slight",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cheeky-roach-run-by-snute-vs-serral/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cheeky-roach-run-by-snute-vs-serral/",
-      "originalUrl": "https://youtube.com/watch?v=ZbM8gDddhgw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZbM8gDddhgw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M55S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZbM8gDddhgw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-10-09T06:41:44-07:00"
     }
   ],
   "nextPage": 33

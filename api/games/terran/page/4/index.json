@@ -4,6 +4,108 @@
   "page": 4,
   "value": [
     {
+      "path": "_games/pig-when-you-face-the-chaos-lord-of-na-ladder-mayhem-ensues-diamond-in-the-ruff-70-starcraft-2.md",
+      "title": "When you face the Chaos Lord of NA Ladder, mayhem ensues! | Diamond in the Ruff #70 StarCraft 2",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Zerg opponents when the game is total chaos?!?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-you-face-the-chaos-lord-of-na-ladder-mayhem-ensues-diamond-in-the-ruff-70-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-you-face-the-chaos-lord-of-na-ladder-mayhem-ensues-diamond-in-the-ruff-70-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=WacMTZPqm3s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WacMTZPqm3s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-04-06T21:48:24-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series.md",
+      "title": "StarCraft 2: Never Attack to Grandmaster.....With Nukes! - NEW SERIES!",
+      "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series/",
+      "originalUrl": "https://youtube.com/watch?v=dxFmLI_uM9s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dxFmLI_uM9s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M8S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 52,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dxFmLI_uM9s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-24T05:02:15-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-80-supply-widow-mine-drop-ty-vs-soo.md",
+      "title": "StarCraft 2: ~80 SUPPLY WIDOW MINE DROP! (TY vs soO)",
+      "excerpt": "This game of StarCraft 2 includes the biggest Widow Mine drop I've ever seen at the professional level in SC2. Roughly 80 supply worth of Brood Lords and Corruptors goes up in a matter of seconds as TY comes in from the side with a massive Medivac flank. In this video I cast a long drawn out macro game",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-80-supply-widow-mine-drop-ty-vs-soo/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-80-supply-widow-mine-drop-ty-vs-soo/",
+      "originalUrl": "https://youtube.com/watch?v=qt6A7OeKhrQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qt6A7OeKhrQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M19S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qt6A7OeKhrQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-01-28T05:06:43-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-a-huge-throw-gumiho-vs-maxpax-best-of-3.md",
       "title": "StarCraft 2: A HUGE THROW?! GuMiho vs MaxPax! (Best-of-3)",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between GuMiho (Terran) and MaxPax (Protoss).  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
@@ -274,44 +376,6 @@
       "publishedDateTime": "2022-02-18T04:51:45-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-innovation-what-are-you-doing.md",
-      "title": "StarCraft 2: INnoVation... What are you doing?!",
-      "excerpt": "INnoVation, who are you and what have you done to INnoVation? Subscribe for more videos: http://lowko.tv/youtube Solar vs INnoVation: https://goo.gl/gVzpyJ  A very cheeky best-of-5 series of top-level StarCraft 2 between Rogue (the current world champion) and INnoVation. While game 1 is a standard match,",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-innovation-what-are-you-doing/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-innovation-what-are-you-doing/",
-      "originalUrl": "https://youtube.com/watch?v=GbTdrfG3fzo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GbTdrfG3fzo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M48S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GbTdrfG3fzo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-06-28T06:40:03-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-marus-mass-mech-strategy-best-of-3-vs-ragnarok.md",
       "title": "StarCraft 2: Maru's MASS MECH Strategy! (Best-of-3 vs Ragnarok)",
       "excerpt": "Best-of-3 series of professional StarCraft 2, featuring the best player in the world currently, Maru (Terran), going up against Ragnarok (Zerg).  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: https://youtube.com/morelowko",
@@ -387,6 +451,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-03-04T04:51:27-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-mass-siege-tank-vs-protoss.md",
+      "title": "StarCraft 2: Mass Siege Tank vs Protoss!",
+      "excerpt": "A best-of-5 series of professional StarCraft 2 between uThermal and Harstem, the two best pro gamers from the Netherlands.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup I use: https://lowko.tv/setup/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-mass-siege-tank-vs-protoss/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-mass-siege-tank-vs-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=iXO2XbL7ESE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iXO2XbL7ESE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT52M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iXO2XbL7ESE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-09-03T03:51:47-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-progamer-free-for-all-maru-innovation-solar-impact-hurricane-patience.md",
@@ -698,14 +801,14 @@
       "publishedDateTime": "2021-01-18T04:06:10-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-planetary-fortress-contain.md",
-      "title": "StarCraft 2: THE PLANETARY FORTRESS CONTAIN!",
-      "excerpt": "An awesome match of Silver League Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube The Zerg... Mothership? https://goo.gl/BvZU5A  While the ending of this match is a little slow, the early game is awesome. In this match the Terran player decides to focus on a Planetary Fortress contain.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-planetary-fortress-contain/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-planetary-fortress-contain/",
-      "originalUrl": "https://youtube.com/watch?v=2KJv_9IbrZ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2KJv_9IbrZ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M19S",
+      "path": "_games/lowkotv-starcraft-2-then-suddenly-battlecruisers.md",
+      "title": "StarCraft 2: THEN SUDDENLY... BATTLECRUISERS!",
+      "excerpt": "An awesome match of Terran vs Terran in Master League. Subscribe for more videos: http://lowko.tv/youtube MMA vs aLive: https://goo.gl/GW9L7H  Not quite your regular game of StarCraft 2. While this match starts off relatively normal, one of the players have got a trick up their sleeve. All of a sudden...",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-then-suddenly-battlecruisers/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-then-suddenly-battlecruisers/",
+      "originalUrl": "https://youtube.com/watch?v=SXOQ8AP_KuU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SXOQ8AP_KuU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M47S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -725,7 +828,7 @@
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2KJv_9IbrZ0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/SXOQ8AP_KuU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -733,45 +836,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-01-05T13:16:38-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-tons-of-nukes-in-a-pro-game.md",
-      "title": "StarCraft 2: TONS OF NUKES IN A PRO GAME!",
-      "excerpt": "An incredible match between soO and INnoVation. Subscribe for more videos: http://lowko.tv/youtube Macro Wars: https://goo.gl/1c32tn  Tactical Nukes were usually considered to be mostly a unique mechanic. These days however, it gets used more and more in professional games and in this one... Tactical",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-tons-of-nukes-in-a-pro-game/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-tons-of-nukes-in-a-pro-game/",
-      "originalUrl": "https://youtube.com/watch?v=FcnhekTNHPg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FcnhekTNHPg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M39S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FcnhekTNHPg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-03-06T01:32:40-08:00"
+      "publishedDateTime": "2018-06-01T01:38:27-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-traps-colossus-drop-versus-byun.md",
@@ -852,6 +917,36 @@
       "publishedDateTime": "2022-02-09T08:08:23-08:00"
     },
     {
+      "path": "_games/pig-40-kill-widow-mine-drop-diamond-in-the-ruff-32-starcraft-2.md",
+      "title": "40 KILL WIDOW MINE DROP! | Diamond in the Ruff #32 - StarCraft 2",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13 | https://www.youtube.com/ruff_stuff",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-40-kill-widow-mine-drop-diamond-in-the-ruff-32-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-40-kill-widow-mine-drop-diamond-in-the-ruff-32-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=8Q-s8MsDrd4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8Q-s8MsDrd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M59S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8Q-s8MsDrd4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-29T18:01:31-08:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-can-marubyun-fend-off-the-na-clowns-in-an-epic-2v2-pig-reacts.md",
       "title": "StarCraft 2: Can Maru/Byun fend off the NA Clowns in an EPIC 2v2? | PiG Reacts",
       "excerpt": "I was going to cast this as an FPV vid, but listening and reacting to Special+Astrea playing 2v2 against Maru+Byun was just too funny. Great match, great reactions from Special, really fun series. This best of 5 series was played as a precursor to Nation Wars 2022.  Follow Special on Twitch! https://www.twitch.tv/special_",
@@ -880,36 +975,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-11T17:33:43-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-divine-intervention-diamond-in-the-ruff-1.md",
-      "title": "StarCraft 2 - Divine Intervention | Diamond in the Ruff #1",
-      "excerpt": "Welcome to our new series, Diamond in the Ruff!  Don't forget to show Ruff some love! Twitter: https://twitter.com/RuFF_SC2 Twitch: https://www.twitch.tv/ruff13 Youtube: https://www.youtube.com/user/WMRuFFKiD Facebook: https://www.facebook.com/RuFF.StarCraft/  Like the content? Then consider to leave",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-divine-intervention-diamond-in-the-ruff-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-divine-intervention-diamond-in-the-ruff-1/",
-      "originalUrl": "https://youtube.com/watch?v=p_MBnTNLsFY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p_MBnTNLsFY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M17S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/p_MBnTNLsFY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-07-03T15:59:31-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-florencio-serves-7-course-meal-of-tvz-bs-florencio-files-260.md",
@@ -1005,56 +1070,17 @@
       "publishedDateTime": "2020-11-22T09:00:15-08:00"
     },
     {
-      "path": "_games/pig-starcraft-2-when-the-zerg-is-zerging-so-you-gotta-terran-diamond-in-the-ruff-72.md",
-      "title": "StarCraft 2 - When the Zerg is Zerging, so you gotta Terran | Diamond in the Ruff #72",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Zerg opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-when-the-zerg-is-zerging-so-you-gotta-terran-diamond-in-the-ruff-72/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-when-the-zerg-is-zerging-so-you-gotta-terran-diamond-in-the-ruff-72/",
-      "originalUrl": "https://youtube.com/watch?v=4A01Z-xwidQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4A01Z-xwidQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M39S",
+      "path": "_games/pig-starcraft-2-ruffs-brutal-cheese-compilation-diamond-in-the-ruff-35-starcraft-2.md",
+      "title": "StarCraft 2 - RUFF'S BRUTAL CHEESE COMPILATION | Diamond in the Ruff #35 - StarCraft 2",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran opponent? 🐷 Support PiG: http://paypal.me/PiGSC2 | https://www.patreon.com/PiGSC2  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-ruffs-brutal-cheese-compilation-diamond-in-the-ruff-35-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-ruffs-brutal-cheese-compilation-diamond-in-the-ruff-35-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=LWfgg9mOF6I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LWfgg9mOF6I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M28S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-05-02T18:51:47-07:00"
-    },
-    {
-      "path": "_games/sc2hl-planetary-rush-8-player-starcraft-2-ffa.md",
-      "title": "PLANETARY RUSH?! - 8 PLAYER STARCRAFT 2 FFA",
-      "excerpt": "► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL ► Submit your REPLAYS! - http://bit.ly/SC2HLsubmit   ► SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe   A crazy description   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-planetary-rush-8-player-starcraft-2-ffa/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-planetary-rush-8-player-starcraft-2-ffa/",
-      "originalUrl": "https://youtube.com/watch?v=epCLNMIMbUY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/epCLNMIMbUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M38S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
       },
       "topics": [
         "StarCraft 2",
@@ -1063,7 +1089,7 @@
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/epCLNMIMbUY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/LWfgg9mOF6I/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1071,46 +1097,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-03-06T07:05:01-08:00"
-    },
-    {
-      "path": "_games/sc2hl-zoning-nukes-maru-vs-stats-starcraft-2-iem-katowice-2018.md",
-      "title": "ZONING NUKES?! - Maru vs Stats - Starcraft 2 IEM Katowice 2018",
-      "excerpt": "A crazy game between Maru and Stats in the Starcraft 2 tournament at IEM Katowice 2018! Nukes, Carriers, Tempest, Ghosts, this game has it all!  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-zoning-nukes-maru-vs-stats-starcraft-2-iem-katowice-2018/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-zoning-nukes-maru-vs-stats-starcraft-2-iem-katowice-2018/",
-      "originalUrl": "https://youtube.com/watch?v=B2DMR8u3p5s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B2DMR8u3p5s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M14S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B2DMR8u3p5s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-03-03T15:41:51-08:00"
+      "publishedDateTime": "2021-02-17T19:44:36-08:00"
     }
   ],
   "nextPage": 5

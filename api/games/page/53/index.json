@@ -33,6 +33,35 @@
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
     },
     {
+      "path": "_games/pig-fastest-ultra-nydus-ever-has-this-guy-created-a-new-dumb-build-smooth-brain-auditions-season-2-ep1.md",
+      "title": "Fastest Ultra Nydus Ever: Has this guy created a new dumb build? Smooth Brain Auditions Season 2 Ep1",
+      "excerpt": "In Season 1 of Smooth Brain Auditions, we found Santa Claws who wowed us with such smooth noggin' moves that we started a YT series just for him. In Season 2, the competition heats up and the auditions are getting even better! Who will be our next Smooth Brain?  0:00 Audition 1 13:14 Audition 2 21:45",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-fastest-ultra-nydus-ever-has-this-guy-created-a-new-dumb-build-smooth-brain-auditions-season-2-ep1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-fastest-ultra-nydus-ever-has-this-guy-created-a-new-dumb-build-smooth-brain-auditions-season-2-ep1/",
+      "originalUrl": "https://youtube.com/watch?v=WbqwxDJy4Xw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WbqwxDJy4Xw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M34S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WbqwxDJy4Xw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-12-10T11:15:40-08:00"
+    },
+    {
       "path": "_games/pig-feinting-attacks-icyfar-g1-the-pig-daily-158.md",
       "title": "Feinting Attacks - ICYFAR - G1 - The PiG Daily #158",
       "excerpt": "In today’s I Cast Your Freakin Awesome Replays players sent in replays of their best Feinting Attacks! Distracting in one area and hitting in another, there’re some great games!\r Follow me on social media to keep up to date: https://twitter.com/x5_PiG https://twitter.com/x5_PiG https://www.instagram.com/pigsc2/",
@@ -853,35 +882,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-08-17T16:05:01-07:00"
-    },
-    {
-      "path": "_games/pig-how-not-to-handle-widow-mines-rate-my-starcraft-3.md",
-      "title": "How NOT to handle Widow Mines | Rate My StarCraft #3",
-      "excerpt": "🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your awesome StarCraft plays. Send in your replay to RateMyStarCraft@gmail.com PLUS why you think it was so good (This is similar to ICYFAR but you choose the topic). Bonus points if you can say why in",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-not-to-handle-widow-mines-rate-my-starcraft-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-not-to-handle-widow-mines-rate-my-starcraft-3/",
-      "originalUrl": "https://youtube.com/watch?v=A_vO9C_ly7k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A_vO9C_ly7k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M10S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/A_vO9C_ly7k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-17T15:57:54-07:00"
     }
   ],
   "nextPage": 54

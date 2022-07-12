@@ -17,6 +17,7 @@ items:
   - videos/pig-starcraft-2-pvz-guide-dt-drop-vs-3-base-roach-ravager
   - videos/pig-starcraft-2-scarletts-savage-zvp
   - videos/pig-scarletts-disgusting-protoss-cheeses
+  - videos/pig-5-reasons-youre-not-improving-at-starcraft-2-and-how-to-fix-it
 
 topics:
   - StarCraft 2

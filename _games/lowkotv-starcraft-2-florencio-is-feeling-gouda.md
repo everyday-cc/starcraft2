@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-florencio-is-fee
 type: video
 length: PT44M6S
 publishedDateTime: 2021-05-04T11:18:24Z
-heat: 51
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AGZZFwqTjBg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ZiTaC8U0an2LJykoIIhG1DaOMUOCRtnUNYcyE7amc5cm5YUvGSz2QoY5oRTooOg9rfu9CjTNR3KVysSD4JtXkPE/ekgl3pEJmKz1yJu0Dwez3qE1jqOgJmKuwP1euhxifyO+UBGiPwUEOBcJUUZ5EbkrPEw6DVt/51QPpnUQf7cDdyG9BDP5ZtKhCn889mrYZ1x09iy/5b617O2LRrHwDCXoB84Z/58jHsxkB35UvdLs/Sfp3LDQOKC63RAOACdgDlTJ2jzwdOCOqgU5pf8aXhk9B2qbNF3mCGtgrenQFn8o/nKTzFtdtSNmJDZhqPDvc6zKhdciVSvKRW44GEj91DaKL3/JNlkC0590MSfZ/lDtdjcQA3eEueWyOZPbu/vlKtg5QU4G2YhupqF3SOli3H0R4bKo9FRhRpXXx0V7MbQ3xWyNRhbJKYdpQerBadH/;NUkpPVO2ENy0mSWGehpJOA=="
+secured: "4UQGD4EzHrmGOK+/mVxY1q0AXpqA25pozsbja/tm+8+chwiJxbEY4fi8MuSn649UZoVmZCupFZTbQYEYA4u6e7yuVpdTX7oFDfGp4e/msgBH39gZRWgbqta6jd/gjzeBBO/TQER1erj+D0vsNJp5czxW7klHv8QdoxRbMKe2ZW1q9NhtQ/4ULCqnVVqmNrcKTJEGVYTjlXlp8dWcsqOEjMlfBxf37kpgP8Zud9RbWNuU9loBa/Co25+DAUwsUuxnJYeE32H+dkcQb1aw5O18lZ5r3khQMuKMjSurGfPed1+zpViZCqIJnB6jAFjwwkNNH0bE/ny37G8SOIbRfDbY0bl6i1xqiIi7ONt6YQzFQ5i5yQu/mNpsM6ymODUJ9J7AQ2OTAItclkm4snEBA6L+twLhyAo4SMzpN4XZMck0lgHEf/Rz4rKvH2I0yc4/Qt4p;GNNEiuxfeJjH1YEL9UBE+w=="
 ---
 

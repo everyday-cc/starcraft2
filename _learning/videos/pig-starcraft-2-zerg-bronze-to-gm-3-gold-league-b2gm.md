@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT1H23M47S
 publishedDateTime: 2021-08-06T05:43:17Z
-heat: 79
+heat: 75
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sSHIv0ihLjw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1xWGWNwLrxJVPnmSbm4pc4oBpBzzHS0NDP2wWaujxBZhutzG+2w9UWdAaJ5nleOWY6rmPYdCThr3p0kW6RQtx7QXTvBEh+YIbPGBXmD1rpcAB3ZC6SkAKa4vhIouNVgv5g4Df0XmY6ND5ctc1Sr3FsiheIuT1VZQB68pJw66e2a+gtcw0nEw60lFnerMLyOQyQ/yHYWR92V26Cs+N7RCR2XkCQFeFHwPuNIdi+8pdevD27gaaZgdPrhAGxk+w/2ym3dxknxxd4H1Njp88i/4bhnmmOoaD5Inv9TSnSPrF1TGgDmdU3I9mlnC0su1Kl1gXnVEiF8AkMIFqbMj/U3y4W++2SHaiHBIYN8JjMn+RSnhYhzlyrBIgrd39kxkpU+gH67JSgB8u2CfLfHMksAJMHpQtryn7iGVaXnZJnnvL7s=;Ng9pk2753r85P/Wyv6/bPQ=="
+secured: "Eu19tujsko+Im6t0jJrFcWlYwScJpP352Mh69JlhBEQzrSk0banAMBwD4W/+a4gBNlqHhR3hlSuItpdmF16TdMqT/JRhwjYgV25cZhGUAgBDdbZwEmukJz1UP0rTqq8GFriPMMb1IBVZlOPv+iRad2Yy1YHbtTGKVnj/Y7tYCLxe4LQ15gBnMlOUC9JL50wy1L0Nzh3GgUzQDuQSoNzcn03O0z73SRXbVfIc9u6ZC+8CKAQr80NWrvqdgMyd/qITm3QpyQx2jFhHGw0hW1uQm7OAd13D/Kuex6bAV4CLRqDqy0dC7vYTaamYuUxLcdSUawy3Gsx0hnIf98j9JpWRqAdfdae0lI5cg/GNRB9E2B6r0TTuhKnhHr8CdZqh6IJV5REw1S4iQKwcobUDzmYO6yVMJF7A0mFKvV0W3BbW02s=;6GDnNCB0pWJB8ZIylex9Nw=="
 ---
 

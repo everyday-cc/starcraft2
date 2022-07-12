@@ -4,36 +4,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_games/pig-straddling-the-train-to-disk-town-split-like-maru-icyfar-g2.md",
-      "title": "Straddling the Train to Disk-Town | Split Like Maru ICYFAR G2",
-      "excerpt": "There apparently was an awesome observer snipe in this game but it was miscommunicated and therefore PiG looked for it in the NEXT series xD  In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were they “microed like never before”.   CURRENT",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-straddling-the-train-to-disk-town-split-like-maru-icyfar-g2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-straddling-the-train-to-disk-town-split-like-maru-icyfar-g2/",
-      "originalUrl": "https://youtube.com/watch?v=Di55yjXGxzY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Di55yjXGxzY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M23S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Di55yjXGxzY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-terran-colonists-vs-zerg-and-their-pointy-sticks-cloak-icyfar-g2.md",
       "title": "Terran Colonists vs Zerg and their Pointy Sticks - Cloak ICYFAR G2",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players showed off their best cloaked and invisible unit plays.\r THIS WEEKS ICYFAR CHALLENGE: “One Geyser to Rule Them All” - You may only mine from one gas geyser for the entire game. Send submissions to eonblu95@gmail.com as attachment",
@@ -93,6 +63,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-the-crazy-strat-that-beat-a-starcraft-champion-diamond-in-the-ruff-68-vs-true.md",
+      "title": "The Crazy Strat That BEAT a Starcraft Champion | Diamond in the Ruff #68 vs True",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up True, a Zerg Starcraft Champion?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-crazy-strat-that-beat-a-starcraft-champion-diamond-in-the-ruff-68-vs-true/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-crazy-strat-that-beat-a-starcraft-champion-diamond-in-the-ruff-68-vs-true/",
+      "originalUrl": "https://youtube.com/watch?v=_tQJJEhFgvA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_tQJJEhFgvA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M2S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-03-23T20:28:24-07:00"
     },
     {
       "path": "_games/pig-the-filthiest-cheeses-the-grim-reaper-9-starcraft-2.md",
@@ -282,6 +282,37 @@
       "publishedDateTime": "2021-11-26T02:34:02-08:00"
     },
     {
+      "path": "_games/pig-when-protoss-squatters-take-terrans-main-base-diamond-in-the-ruff-61.md",
+      "title": "When Protoss squatters take Terran’s main base | Diamond in the Ruff #61",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-protoss-squatters-take-terrans-main-base-diamond-in-the-ruff-61/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-protoss-squatters-take-terrans-main-base-diamond-in-the-ruff-61/",
+      "originalUrl": "https://youtube.com/watch?v=UA64vCg2HLk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UA64vCg2HLk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M37S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UA64vCg2HLk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-12-27T14:45:26-08:00"
+    },
+    {
       "path": "_games/pig-when-terran-zergs-the-zerg-out-of-gas-g1-the-pig-daily-196.md",
       "title": "\"When Terran Zergs the Zerg\" Out of Gas  - G1 - The PiG Daily #196",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players had to win without taking any gas outside their main base!\r \r NEW ICYFAR Challenge: \"Skirmishes\" - You're only allowed to fight with 24 units or less at a time. (Bonus for no T3 units!) Send submissions to eonblu95@gmail.com",
@@ -311,37 +342,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-when-the-terran-build-confuses-the-zerg-player-2-tvz-games-diamond-in-the-ruff-66-starcraft-2.md",
-      "title": "When the Terran Build Confuses the Zerg Player (2 TvZ games) | Diamond in the Ruff #66 - StarCraft 2",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-the-terran-build-confuses-the-zerg-player-2-tvz-games-diamond-in-the-ruff-66-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-the-terran-build-confuses-the-zerg-player-2-tvz-games-diamond-in-the-ruff-66-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=RxpSjmptAuM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RxpSjmptAuM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-03-09T17:38:59-08:00"
     },
     {
       "path": "_games/pig-wizzing-on-the-church-of-terran-forced-quarantine-icyfar-g4.md",

@@ -686,18 +686,18 @@ items:
   - pig-starcraft-2-the-most-annoying-cheesers-face-off-the-grim-reaper-15
   - pig-psychological-warfare-rate-my-starcraft-1
   - pig-nydus-affairs-2-part-rate-my-starcraft-2
-  - pig-whose-ball-is-it-anyway-the-king-of-cannons-1
-  - pig-motorboating-immortal-king-of-cannons-2
-  - pig-but-what-if-they-blind-counter-me-king-of-cannons-ep3
-  - pig-the-king-channels-is-his-inner-sewer-mermaid-the-king-of-cannons-4-5-6
-  - pig-i-swear-this-has-never-happened-before-depot-dysfunction-the-king-of-cannons-7
-  - pig-call-the-militia-the-king-of-cannons-8-9
-  - pig-i-will-be-inside-of-you-the-king-of-cannons-10
+  - pig-whose-ball-is-it-anyway-the-king-of-cannons-1-starcraft-2
+  - pig-motorboating-immortal-king-of-cannons-2-starcraft-2
+  - pig-but-what-if-they-blind-counter-me-king-of-cannons-ep3-starcraft-2
+  - pig-the-king-channels-is-his-inner-sewer-mermaid-the-king-of-cannons-4-5-6-starcraft-2
+  - pig-i-swear-this-has-never-happened-before-depot-dysfunction-the-king-of-cannons-7-starcraft-2
+  - pig-call-the-militia-the-king-of-cannons-8-9-starcraft-2
+  - pig-i-will-be-inside-of-you-the-king-of-cannons-10-starcraft-2
   - pig-starcraft-2-showtimes-perfect-cannon-rush-defence-king-of-cannons-11
   - pig-starcraft-2-1-base-carrier-king-of-cannons-12
   - pig-3-cheeses-in-16-minutes-24-seconds-king-of-cannons-13-starcraft-2
-  - pig-never-expand-never-surrender-king-of-cannons-14
-  - pig-protoss-on-protoss-crime-king-of-cannons-15
+  - pig-never-expand-never-surrender-king-of-cannons-14-starcraft-2
+  - pig-protoss-on-protoss-crime-king-of-cannons-15-starcraft-2
   - pig-the-stuff-zerg-nightmares-are-made-of-kings-of-cannons-16
   - pig-im-in-ya-base-ka-boom-baby-1
   - pig-starcraft-2-an-even-larger-brain-than-florencio-ka-boom-baby-2
@@ -886,6 +886,7 @@ items:
   - pig-this-challenge-should-be-unfair-for-protoss-starcraft-2
   - pig-the-highest-compliment-you-can-get-salt-mines-8-starcraft-2
   - pig-the-best-and-worst-smooth-brain-auditions-season-3-starcraft-2
+  - pig-pros-suck-at-defending-cannon-rushes-starcraft-2
 
 topics:
   - StarCraft 2

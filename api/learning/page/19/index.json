@@ -4,6 +4,36 @@
   "page": 19,
   "value": [
     {
+      "path": "_learning/videos/pig-starcraft-2-analysing-replays-refining-play-rather-than-changing-strategy-coaching-session.md",
+      "title": "StarCraft 2 - Analysing Replays - Refining play rather than changing strategy - coaching session",
+      "excerpt": "I coach a zerg player on analysing replays and looking for ways to refine play rather than adjust strategy -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-analysing-replays-refining-play-rather-than-changing-strategy-coaching-session/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-analysing-replays-refining-play-rather-than-changing-strategy-coaching-session/",
+      "originalUrl": "https://youtube.com/watch?v=Yy6FtJWvAKY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yy6FtJWvAKY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M18S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-starcraft-2-angry-coaching-thingy-with-wintersc-pigs-pov.md",
       "title": "StarCraft 2 - Angry Coaching thingy with WinterSC! (PiGs POV)",
       "excerpt": "Hello there!  This video is actually a few weeks old by now, though i figured you guys might still enjoy it, so there you go!!  Like the content? Then consider to leave a thumbs up and subscribe! ;) Love the content a lot? Then please consider becoming a member ;) https://www.youtube.com/channel/UC9OluGthYmZo0vsF9IjicFg/join",
@@ -888,36 +918,6 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-coaching-gm-zvp-and-zvt-vision-clear-plans-and-decisive-rules.md",
-      "title": "StarCraft 2 - Coaching GM ZvP and ZvT - Vision, Clear Plans and decisive Rules",
-      "excerpt": "Coaching Tambi on some ZvP and ZvT!  -- Watch live at https://www.twitch.tv/x5_pig My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to my Discord: https://discordapp.com/invite/SkhbzCM  My Affiliate Link for the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-coaching-gm-zvp-and-zvt-vision-clear-plans-and-decisive-rules/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-coaching-gm-zvp-and-zvt-vision-clear-plans-and-decisive-rules/",
-      "originalUrl": "https://youtube.com/watch?v=5nnZbuO0eUM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5nnZbuO0eUM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M9S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-02-04T09:00:12-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
       ]
     }
   ],

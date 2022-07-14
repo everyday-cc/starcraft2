@@ -4,6 +4,37 @@
   "page": 25,
   "value": [
     {
+      "path": "_learning/videos/pig-starcraft-2-scarletts-savage-zvp.md",
+      "title": "StarCraft 2 - Scarlett’s Savage ZvP",
+      "excerpt": "Here is a lesson from Scarlett on how to dominate ZvP. -- 🐷 Want more? Help support me! https://www.patreon.com/PiGSC2 🐖 Watch live at https://www.twitch.tv/x5_pig 🐽 Linktree: https://linktr.ee/PiGStarcraft 👕 Merch: https://teespring.com/stores/pig-sc2  -- 🧜 Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-scarletts-savage-zvp/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-scarletts-savage-zvp/",
+      "originalUrl": "https://youtube.com/watch?v=FB9R1_JuktY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FB9R1_JuktY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M20S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-04-14T21:24:03-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FB9R1_JuktY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-starcraft-2-scouting-and-reacting-to-1-base-and-pvt-vs-mech-coaching-plat-1-protoss.md",
       "title": "StarCraft 2 - Scouting and reacting to 1-base and PvT vs Mech | Coaching Plat 1 Protoss",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -891,36 +922,6 @@
       "topics": [
         "StarCraft 2",
         "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-tvt-mass-reactor-hellion-mine-style-m3-coaching.md",
-      "title": "StarCraft 2 - TvT Mass Reactor Hellion Mine Style - M3 Coaching",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos dont appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-tvt-mass-reactor-hellion-mine-style-m3-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-tvt-mass-reactor-hellion-mine-style-m3-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=dbwHBmTIrVA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dbwHBmTIrVA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H9M10S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-06-21T07:34:26-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
       ]
     }
   ],

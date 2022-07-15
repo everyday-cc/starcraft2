@@ -1,13 +1,13 @@
 ---
 title: "StarCraft 2: SERRAL vs CLEM! (Best-of-3)"
-excerpt: "Top level series of professional StarCraft 2 between Serral (Zerg) and Clem (Terran). It seems that Serral has recently found a love for Roaches versus Terran, as he's playing it far more frequently than he used to in the past.   Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube"
-originalUrl: https://youtube.com/watch?v=v8tWTbZBmII
+excerpt: "Best-of-3 series of top level Zerg versus Terran in StarCraft 2 between Clem and Serral.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community"
+originalUrl: https://youtube.com/watch?v=LAHWtJfZXQQ
 type: video
-length: PT32M20S
-publishedDateTime: 2022-05-13T09:27:54Z
-heat: 158
+length: PT34M1S
+publishedDateTime: 2021-05-27T10:31:39Z
+heat: 76
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v8tWTbZBmII\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LAHWtJfZXQQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: LowkoTV
@@ -27,6 +27,6 @@ images:
     height: 800
     isCached: true
 
-secured: "uBTbxirwU9KOk5a1vh8XDIvEoUnnpmpjJlu0ryTlOUecJWt7azCv62RJ4nsjfv5uVGcjoLDpulW+mzO3NH/hTNjRauMp6wGa1hPV5GFZBBSxi0Iujz3Cs4gDdoBgkmSw4S9R//jaltsr9FH8hjcrRfQpOepU2kZg7A8WTFt8cNRz7yUu+/ffqLfAPoXwT0o9P5izSJViZ/ql/vJXD7sUvlh37xvkappuuCttVJqErZWa/5TVqTTz6IVYxz/g2Y87SlINye4rmbhQbhWYRenC1idFUteys9OGI20D8IEQqVRUGgIwsSxojsbXotTbt2jaA/KM+R7cugg4G/TeE0/HHvHzy5Q5sN88Ej/VQ5YR1V5iaJqITuoieWxwNjGzmjfNfUip/vp0ssB+JP7tcSWB9g==;DDVVil5VqrBVhskH1mVaag=="
+secured: "xD2nLS0XDr3UJKMietRsm7etwExziCP4wkIuzF+CVluIWMSr54MTykgTnHZ6t/aLf8wmb9oq4J8AnBLP1wLv8YnL/8Mo48zlEql3BgkGYEmWM8bYDn/MxkJOYWuGvZOxEp6iZ58vLTDuISjgeWxlyyR1qsc0rNFbNWXkrVdsgthVC+85tZ/xvjbdaRjYjvKOyU7dNBmgiaXemJ4zo5Vy5nxPDQgQ99YPi6/FAbr61DSEaUp3y0wxnjKYBm9W4Lgzkt1bqzTkcMWnac8lCqdIgT1VL9lslwpQzVhRntzMH2o/ECCYtDMG+k2eOhuOv38rWAU7aUOLmnYNq9196+v+uTq5Tyqvk/ByZlK9H7XS3w83Ja0BfDKDni0hQGS45m6iiEy9dNST8OPwV16mMbMqLA==;3IAL1s9eMyKsC1mS/UVWBQ=="
 ---
 

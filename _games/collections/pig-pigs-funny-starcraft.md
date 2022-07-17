@@ -886,6 +886,7 @@ items:
   - pig-this-challenge-should-be-unfair-for-protoss-starcraft-2
   - pig-the-highest-compliment-you-can-get-salt-mines-8-starcraft-2
   - pig-the-best-and-worst-smooth-brain-auditions-season-3-starcraft-2
+  - pig-what-happens-when-pros-have-maphacks-to-prove-a-point-no-fog-of-war-mod-starcraft-2
   - pig-pros-suck-at-defending-cannon-rushes-starcraft-2
 
 topics:

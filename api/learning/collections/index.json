@@ -363,7 +363,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2019-02-21T18:13:08-08:00",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/CDHMGtYQxxQ/maxresdefault.jpg",
@@ -425,7 +425,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2019-04-29T00:51:40-07:00",
-          "heat": 55,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/LQiqiMcbpGA/maxresdefault.jpg",
@@ -1241,7 +1241,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2018-06-10T19:39:42-07:00",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/wMr0sbrj7gk/maxresdefault.jpg",

@@ -888,6 +888,7 @@ items:
   - pig-the-best-and-worst-smooth-brain-auditions-season-3-starcraft-2
   - pig-what-happens-when-pros-have-maphacks-to-prove-a-point-no-fog-of-war-mod-starcraft-2
   - pig-pros-suck-at-defending-cannon-rushes-starcraft-2
+  - pig-why-are-there-two-gates-in-the-terran-mineral-line-king-of-cannons-18-starcraft-2
 
 topics:
   - StarCraft 2

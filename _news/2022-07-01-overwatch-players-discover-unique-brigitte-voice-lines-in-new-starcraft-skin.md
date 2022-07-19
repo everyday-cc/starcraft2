@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dexerto.com/overwatch/overwatch-brigitte-medic-starcraft
 cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/overwatch/overwatch-brigitte-medic-starcraft-skin-unique-voice-lines-1860993/amp"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 54
+published: false
 
 provider:
   name: Dexerto.com
@@ -24,22 +24,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Overwatch Medic Brigitte skin: get the StarCraft-themed skin"
-    excerpt: "As an extra bit of fun, the Brigitte skin appears to be based on the StarCraft 2 medic units. It’s not pointed out in any of the marketing materials, but the resemblance is certainly uncanny."
-    publishedDateTime: 2022-06-29T15:23:00Z
-    webUrl: "https://www.techradar.com/how-to/overwatch-medic-brigitte-skin-get-the-starcraft-themed-skin"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/4XdyJYfiyHg573D9f3NQnE-1200-80.jpg"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "ltmXuluLAzCuSbfVYjn6b5xxrVutqQKIPU8E1A+0F5QqC5Hkzh9Td4GhVfjoxR8aciZichhYXH4Dz1AJuDuHMD0k2W1J8GA125AxqN4m7cOgmJ+AAEFWEyLFnVD8cLdvJ6LFYvkTIXrUFQvgOOqAX/IAWoLM92fMFUNF0QQioLCVar4Pf5PIreujvhjUNzPBgMVLtezovxZQ2/VwMqJbnp4mbTjiuN9qzL2ME7jZOoW1v3MLfCmIa8ufHE43Ian3fHmWcz4lnN5Cbmmbka64nmlCMXwmsvDsQaq1r8zzgoWNEwv7KNfqhZTmJnLziqTbvXBe4BBV6Sovivw9fPP4xfWo64mcVqKmPPeoPCDPWiCcWwqGnbjLGmR7pR+3HTYwv2xXw2bOzxVoi0gZeU7LRlq2Nr0JL78nbKYYLMopRavGDMi9NoBWuBfuOlnGqPiN0ihz5wN8vFoX2kSPkeFl/atJGOCjuxZVXTqHf4ZCZ6CL+fB3iYZqw2V8jbI7t2EjekPDhZd+WSso4sAoT15s1A==;jwPRfStUcq8cWuIhZAirLw=="
 ---

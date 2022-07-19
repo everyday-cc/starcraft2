@@ -18,7 +18,6 @@ items:
   - videos/winterstarcraft-learn-to-play-starcraft-zerg-starter-guide-2-build-order-updated-2017-lotv
   - videos/winterstarcraft-learn-to-play-starcraft-zerg-beginner-guide-1-updated-2017
   - videos/winterstarcraft-learn-to-play-starcraft-basic-guide-for-all-races-updated-2017-2
-  - videos/winterstarcraft-starcraft-2-zerg-vs-zerg-tech-switches-build-order-and-postgame-breakdown
 
 topics:
   - StarCraft 2

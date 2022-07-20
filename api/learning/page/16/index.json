@@ -4,38 +4,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_learning/videos/pig-i-keep-falling-behind-and-getting-overwhelmed-in-tvz-newbie-stream.md",
-      "title": "“I Keep falling behind and getting overwhelmed in TvZ” - Newbie Stream",
-      "excerpt": "This is a section from my newbie/beginner stream where I analyse a players replay and answer their question  -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-i-keep-falling-behind-and-getting-overwhelmed-in-tvz-newbie-stream/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-i-keep-falling-behind-and-getting-overwhelmed-in-tvz-newbie-stream/",
-      "originalUrl": "https://youtube.com/watch?v=IZq54Vshl4s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IZq54Vshl4s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M55S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:44:33-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IZq54Vshl4s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-importance-of-3rd-base-defending-bcs-and-spreading-creep-coaching-d1-zvt.md",
       "title": "Importance of 3rd base, defending BCs and spreading creep - Coaching D1 ZvT",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -913,6 +881,37 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-opening-phoenix-in-pvp-coaching-diamond.md",
+      "title": "Opening Phoenix in PvP - Coaching Diamond",
+      "excerpt": "I coach a diamond protoss on refining their phoenix opening in PvP - with a focus on recognising and reacting differently to air or ground play from the enemy.  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-opening-phoenix-in-pvp-coaching-diamond/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-opening-phoenix-in-pvp-coaching-diamond/",
+      "originalUrl": "https://youtube.com/watch?v=LczC6Jw5q8k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LczC6Jw5q8k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M7S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LczC6Jw5q8k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
       ]
     }
   ],

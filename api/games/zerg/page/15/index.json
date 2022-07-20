@@ -4,66 +4,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_games/pig-2300-zerglings-make-broodwar-great-again-icyfar-g2.md",
-      "title": "“2300 zerglings!?” | Make Broodwar Great Again ICYFAR G2",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were they may only take 1 gas at each base, no warpgate, no reactors and no queens.  Invisible Man - Use cloaked units to spook your opponent. Send submissions to fluxiorsc@gmail.com as attachment",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-2300-zerglings-make-broodwar-great-again-icyfar-g2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-2300-zerglings-make-broodwar-great-again-icyfar-g2/",
-      "originalUrl": "https://youtube.com/watch?v=BU8axA8yf18",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BU8axA8yf18\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M53S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BU8axA8yf18/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-27-kill-zergling-duo-icyfar-i-do-what-i-want-sc2-compilation.md",
-      "title": "27 KILL ZERGLING DUO! | ICYFAR \"I Do What I Want\" SC2 Compilation",
-      "excerpt": "🔥NEW ICYFAR CHALLENGE: \"Zero Cardio\" - You aren't allowed to go past 30 workers. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 6th February.  In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR)",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-27-kill-zergling-duo-icyfar-i-do-what-i-want-sc2-compilation/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-27-kill-zergling-duo-icyfar-i-do-what-i-want-sc2-compilation/",
-      "originalUrl": "https://youtube.com/watch?v=V3s1dzgTowg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V3s1dzgTowg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT58M58S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/V3s1dzgTowg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-50-shades-of-corruptors-blood-sacrifice-icyfar-g4.md",
       "title": "50 Shades of Corruptors | Blood Sacrifice ICYFAR G4",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they had to “sacrifice” a unit every minute.   NEW ICYFAR CHALLENGE: \"Pretend Proxy\" - Proxy your buildings but only to trick your opponent! Hide your production but just do a macro build, Show",
@@ -744,6 +684,36 @@
       "publishedDateTime": "2020-02-12T08:38:10-08:00"
     },
     {
+      "path": "_games/pig-noob-outsmarts-reynor-in-the-holdout-challenge-starcraft-2.md",
+      "title": "Noob OUTSMARTS Reynor in the Holdout Challenge! - StarCraft 2",
+      "excerpt": "We paid Reynor to 1v1 noobs in StarCraft 2. The challenge: the noobs needed to stay in the match for as long as possible. How did they fare against an actual Zerg Championship player?  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j  Holdout Scoresheet:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-noob-outsmarts-reynor-in-the-holdout-challenge-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-noob-outsmarts-reynor-in-the-holdout-challenge-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=s-B2c4N1SpU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s-B2c4N1SpU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M7S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-19T22:08:52-07:00"
+    },
+    {
       "path": "_games/pig-only-mines-hellbats-and-liberators-tvz-twitch-plays-pig-11.md",
       "title": "Only Mines, Hellbats and Liberators TvZ?  | Twitch Plays PiG #11",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My",
@@ -932,6 +902,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-26T14:00:11-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-6-marines-get-revenge-on-cheesy-zerg-icyfar-g2-drop-em-good.md",
+      "title": "StarCraft 2 - 6 Marines Get REVENGE on Cheesy Zerg | ICYFAR G2 - Drop em good!",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they drop their opponents to oblivion (Drop em good!)! Here’s a fun game of protoss versus terran completing the challenge in humorous fashion.   NEW ICYFAR CHALLENGE: \"Cheeky Perv\"",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-6-marines-get-revenge-on-cheesy-zerg-icyfar-g2-drop-em-good/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-6-marines-get-revenge-on-cheesy-zerg-icyfar-g2-drop-em-good/",
+      "originalUrl": "https://youtube.com/watch?v=ErjU6fxXvUY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ErjU6fxXvUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M23S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ErjU6fxXvUY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
     }
   ],
   "nextPage": 16

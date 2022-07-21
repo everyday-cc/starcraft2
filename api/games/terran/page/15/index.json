@@ -4,6 +4,120 @@
   "page": 15,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-terran-cheese-vs-terran-cheese.md",
+      "title": "StarCraft 2: TERRAN CHEESE vs TERRAN CHEESE!",
+      "excerpt": "A short but sweet game between TIME and Gumiho. Subscribe for more videos: http://lowko.tv/youtube Massive Neural Parasite: https://goo.gl/yX3tHx  What happens when you play a Terran vs Terran in StarCraft 2 and both professional players decide to do cheese?  Support me on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-cheese-vs-terran-cheese/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-terran-cheese-vs-terran-cheese/",
+      "originalUrl": "https://youtube.com/watch?v=E2z5rSnN0VI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E2z5rSnN0VI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M39S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/E2z5rSnN0VI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-10-26T09:28:44-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-terran-hide-and-seek.md",
+      "title": "StarCraft 2: Terran HIDE-AND-SEEK!",
+      "excerpt": "Gold League Terran vs Terran in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube A tale of Spine Crawlers: https://goo.gl/3b4T1M  When both players move out right around the same time, and the both manage to shut down each others economy, it all comes down to the amount of army that's",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-hide-and-seek/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-terran-hide-and-seek/",
+      "originalUrl": "https://youtube.com/watch?v=BhxdH4VWvLo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BhxdH4VWvLo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BhxdH4VWvLo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-08-11T04:58:45-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-terran-mech-aggression.md",
+      "title": "StarCraft 2: TERRAN MECH AGGRESSION!",
+      "excerpt": "Sometimes Terran harass can get out of control. Subscribe for more videos: http://lowko.tv/youtube Golden Armada vs Death Fleet: https://youtu.be/16PDvDN4UH0  This is a cast of a professional match of Terran versus Zerg. In this game of Optimus versus Snute, Optimus decides to focus on a heavy harass",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-mech-aggression/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-terran-mech-aggression/",
+      "originalUrl": "https://youtube.com/watch?v=ZqdZ1hG35iw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZqdZ1hG35iw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M9S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZqdZ1hG35iw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-10-24T06:20:09-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-terran-mech-vs-zerg-swarm.md",
       "title": "StarCraft 2: TERRAN MECH vs ZERG SWARM!",
       "excerpt": "Stephano vs DeMusliM in a really cool macro focused Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube Has vs Kelazhur: https://goo.gl/pqA6ws  While Stephano starts this game off thinking that he was going up against a Bio based player, DeMusliM quickly secures 4 bases and starts producing",
@@ -82,14 +196,14 @@
       "publishedDateTime": "2021-12-27T04:58:41-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-banshee-hit-squad.md",
-      "title": "StarCraft 2: THE BANSHEE HIT SQUAD!",
-      "excerpt": "Terran Mech is starting to look surprisingly mobile. Subscribe for more videos: http://lowko.tv/youtube Macro Wars: https://goo.gl/1c32tn  In this match of Professional StarCraft 2 I cast a game between Solar and Maru. Terran Mech has quickly been developing over the last few months. It has gone from",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-banshee-hit-squad/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-banshee-hit-squad/",
-      "originalUrl": "https://youtube.com/watch?v=EPBb_6s20E8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EPBb_6s20E8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M18S",
+      "path": "_games/lowkotv-starcraft-2-terran-vs-terran-insanity.md",
+      "title": "StarCraft 2: Terran vs Terran Insanity!",
+      "excerpt": "An amazing game of Terran versus Terran between FanTaSy and Cure. I think this is my favourite game of TvT I've seen this year. It's really good. This match was played as part of the WardiTV Summer Championships and displays everything from Cheese to Battlecruisers.  Get more videos & support my work:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-vs-terran-insanity/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-terran-vs-terran-insanity/",
+      "originalUrl": "https://youtube.com/watch?v=AH194cvrl0M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AH194cvrl0M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M59S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -109,7 +223,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/EPBb_6s20E8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/AH194cvrl0M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -117,7 +231,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-03-10T02:56:54-08:00"
+      "publishedDateTime": "2019-08-15T07:44:55-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-battlecruiser-base-race.md",
@@ -232,44 +346,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-02-27T02:46:15-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-best-terran-players.md",
-      "title": "StarCraft 2: THE BEST TERRAN PLAYERS!",
-      "excerpt": "Maru vs TY in a best-of-5 series of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/bpDV8i  An awesome world-class series of StarCraft 2. In this video I commentate a professional best-of-5 series between Maru and TY, two of the very best Terran",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-best-terran-players/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-best-terran-players/",
-      "originalUrl": "https://youtube.com/watch?v=gUE1eInkbVk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gUE1eInkbVk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gUE1eInkbVk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-01-07T11:42:11-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-blind-terran-army.md",
@@ -424,45 +500,6 @@
       "publishedDateTime": "2019-06-26T11:09:40-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-hero-banshee.md",
-      "title": "StarCraft 2: THE HERO BANSHEE!",
-      "excerpt": "The story of the hero Banshee. Subscribe for more videos: http://lowko.tv/youtube The Zerg... Mothership?! https://goo.gl/bZtVFG  A really fun match of Gold League Terran versus Terran. In this game, both players open up with odd strategies, allowing us to arrive at a very strange mid-game that is determined",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-hero-banshee/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-hero-banshee/",
-      "originalUrl": "https://youtube.com/watch?v=ubfhupz_9s0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ubfhupz_9s0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M9S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ubfhupz_9s0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-03-10T02:53:37-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-hero-battlecruiser.md",
       "title": "StarCraft 2: THE HERO BATTLECRUISER!",
       "excerpt": "An awesome match of Zerg vs Terran with a Hero Battlecruiser. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Zerg match: https://goo.gl/E9r57B  In this video MarineLorD decides to play a very cool style versus Namshar. While we have seen different versions of Terran Mech, he decides",
@@ -577,44 +614,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-10-11T03:18:51-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-mass-battlecruiser-switch.md",
-      "title": "StarCraft 2: THE MASS BATTLECRUISER SWITCH!",
-      "excerpt": "Best-of-3 in professional StarCraft 2 between TaeJa and Scarlett. Subscribe for more videos: http://lowko.tv/youtube TY vs Dark (epic game): https://goo.gl/PGHX1S  An awesome series of games in professional StarCraft 2. In this series TaeJa decides to mix it up. He's very well known for his Marine play.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-mass-battlecruiser-switch/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-mass-battlecruiser-switch/",
-      "originalUrl": "https://youtube.com/watch?v=70Px64OHSi4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/70Px64OHSi4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/70Px64OHSi4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-02-14T04:49:08-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-mysterious-terran-parting-vs-time.md",

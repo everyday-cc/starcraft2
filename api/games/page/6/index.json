@@ -830,6 +830,44 @@
       "publishedDateTime": "2020-08-18T11:25:36-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-proxy-gateway-vs-proxy-barracks-maxpax-vs-byun.md",
+      "title": "StarCraft 2: PROXY Gateway vs PROXY Barracks! (MaxPax vs ByuN)",
+      "excerpt": "Best-of-3 series of StarCraft 2 between ByuN (Terran) and MaxPax (Protoss). This series starts off very aggressively as both players decide to proxy their first production structures in the middle of the map.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-gateway-vs-proxy-barracks-maxpax-vs-byun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-proxy-gateway-vs-proxy-barracks-maxpax-vs-byun/",
+      "originalUrl": "https://youtube.com/watch?v=y74gdQ8YVL0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y74gdQ8YVL0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M20S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-04-27T06:51:25-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-soos-proxy-hatchery-ravager-all-in.md",
       "title": "StarCraft 2: soO's PROXY HATCHERY Ravager All-in!",
       "excerpt": "A best-of-5 series of professional StarCraft 2 between two South Korean pro gamers. soO (Zerg) goes up against ByuN (Terran) as they both try to outplay each other with very clever micro and macro games.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -1428,45 +1466,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-05-25T02:31:15-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-marus-incredible-terran-mech-reynor-vs-maru.md",
-      "title": "StarCraft 2: Maru's INCREDIBLE Terran Mech! (Reynor vs Maru)",
-      "excerpt": "Top level game of professional StarCraft 2 between Maru (Terran) and Reynor (Zerg). Reynor decides to go for a Brood Lord timing attack versus Maru's passive Terran Mech style. While most players would just lose the game rigth then and there, Maru somehow manages to stabilize and counter attack.  Support",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marus-incredible-terran-mech-reynor-vs-maru/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marus-incredible-terran-mech-reynor-vs-maru/",
-      "originalUrl": "https://youtube.com/watch?v=QLKQbQZLUlQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QLKQbQZLUlQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-03-07T03:03:39-08:00"
     }
   ],
   "nextPage": 7

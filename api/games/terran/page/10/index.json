@@ -4,6 +4,122 @@
   "page": 10,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-80-supply-widow-mine-drop-ty-vs-soo.md",
+      "title": "StarCraft 2: ~80 SUPPLY WIDOW MINE DROP! (TY vs soO)",
+      "excerpt": "This game of StarCraft 2 includes the biggest Widow Mine drop I've ever seen at the professional level in SC2. Roughly 80 supply worth of Brood Lords and Corruptors goes up in a matter of seconds as TY comes in from the side with a massive Medivac flank. In this video I cast a long drawn out macro game",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-80-supply-widow-mine-drop-ty-vs-soo/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-80-supply-widow-mine-drop-ty-vs-soo/",
+      "originalUrl": "https://youtube.com/watch?v=qt6A7OeKhrQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qt6A7OeKhrQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M19S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qt6A7OeKhrQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-01-28T05:06:43-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-a-huge-throw-gumiho-vs-maxpax-best-of-3.md",
+      "title": "StarCraft 2: A HUGE THROW?! GuMiho vs MaxPax! (Best-of-3)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between GuMiho (Terran) and MaxPax (Protoss).  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-a-huge-throw-gumiho-vs-maxpax-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-a-huge-throw-gumiho-vs-maxpax-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=qO52NrtbE1s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qO52NrtbE1s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M49S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qO52NrtbE1s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-09T04:52:33-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-action-packed-protoss-vs-terran.md",
+      "title": "StarCraft 2: ACTION-PACKED Protoss vs Terran!",
+      "excerpt": "An awesome match of Protoss vs Terran in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/C1yp8c  Both players are off-racing in this match. Essentially meaning that while they have a decent understanding of the game, their expertise may not be specifically",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-action-packed-protoss-vs-terran/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-action-packed-protoss-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=pVdzuhJV_U8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pVdzuhJV_U8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pVdzuhJV_U8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-09-20T06:39:52-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-amazing-match-gumiho-vs-vanya-game-of-the-year.md",
       "title": "StarCraft 2: AMAZING MATCH - GuMiho vs Vanya! (Game of the Year?)",
       "excerpt": "One of the best games of professional StarCraft 2 of 2021 for sure. In this epic game of Zerg versus Terran between Vanya and GuMiho, we watch a game that begins as every game does, but quickly spirals out of control.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member:",
@@ -1038,121 +1154,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-15T06:24:18-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-byuns-empty-medivac-drop-dark-vs-byun.md",
-      "title": "StarCraft 2: ByuN's EMPTY Medivac Drop?! (Dark vs ByuN)",
-      "excerpt": "Best-of-5 series of StarCraft 2 between ByuN and Dark, two previous world champions of StarCraft 2.  OlimoLeague on Patreon: https://www.patreon.com/olimoley Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-empty-medivac-drop-dark-vs-byun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-empty-medivac-drop-dark-vs-byun/",
-      "originalUrl": "https://youtube.com/watch?v=KqbcrD-4vHk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KqbcrD-4vHk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M9S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KqbcrD-4vHk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-05-10T03:55:40-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-byuns-epic-micro-vs-cure-best-of-7.md",
-      "title": "StarCraft 2: ByuN's EPIC Micro vs Cure! (Best-of-7)",
-      "excerpt": "Best-of-7 series of professional StarCraft 2 between ByuN and Cure. In this Terran versus Terran we see a variety of strategies. From hyper aggressive early game Terran cheese from both sides, to an awesome macro game.  OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-epic-micro-vs-cure-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-epic-micro-vs-cure-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=L8foAzbYXlY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L8foAzbYXlY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M21S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/L8foAzbYXlY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-02-04T05:20:54-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-byuns-ridiculous-unit-control.md",
-      "title": "StarCraft 2: ByuN's RIDICULOUS Unit Control!",
-      "excerpt": "A match of professional StarCraft 2 between DRG and ByuN. While ByuN is behind almost the entire game economically, he somehow someway makes a game of out it.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-ridiculous-unit-control/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-ridiculous-unit-control/",
-      "originalUrl": "https://youtube.com/watch?v=eLsxa7TnXvo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eLsxa7TnXvo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M4S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eLsxa7TnXvo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-25T05:59:08-07:00"
     }
   ],
   "nextPage": 11

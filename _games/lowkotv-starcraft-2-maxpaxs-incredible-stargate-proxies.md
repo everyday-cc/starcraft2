@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpaxs-incredib
 type: video
 length: PT56M28S
 publishedDateTime: 2021-02-02T12:37:11Z
-heat: 62
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TT64gcEXKZA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Krw9KviChpXZAsLEvHxIuZFsY2ZgPG87RnvSNSWxlgOYXNfNgvNdMpJsN19NMsMSnuZjQOwkvTWphcjxMK3W5gtd+an/aoRe7J2R8JdgAuESmSjxdRsjGabnglroXHGecOrhtfzIGgfuBUC9rXU8qxbbotaHEqaAUZPossMIHG+e07gfDzBTHP5jtS6+Vi32JonOBx/KDZOs9kHc1Nl0ig9qSzp5tsQNB8paen0a5DVXzm1K8j3bdBVLKc8HQMCW7DFDOmJRPRd4IfH4JNcPsOTZgEV05mw/dso+LsUJaqKPbYB2VPJZOmsVXlYavt80ElYrzXDoQuACGAczU05J3GtyHAW03tG0UsHjnEKF9KI9ny1A6X5dSDa71JasyIP9JBwJVnTYK5ohOWbunmjXweeBiXrbCMDWXyPyqLKEep3eff2mDwjB3SANxGdQDuAH;G4eGLoQNmQK/VRioueNHCQ=="
+secured: "A8txBztXdz492vIFy/T/NBg2qnHhWXF+9Hjl/jlp/9LAuY7/MdtPZKEgoWIuiIn4w+qNhS0OMPqW8s0yEufMDzM3Sl6RiUiIJrJGosYoCylPcgXYw4hSy0GM6TR7DvJeeg731Fjwg31w/kjAkw5EZVJ8C1arN+bFAAdYV8mrkk4yho32zuNJPxRaZzPmbXGuYfJ3mn9MZiD0X0Q1eTieDJvA1hrRZ8saMd6ckPgm4kD8RTpA5/1buEPN6xNyu4v5E0q/OBQOQFD6Y64SkU15Q8WHQfwNHe73KiUguS9j8clkwNXBKTmcPm9JPKj/ydbcrBjTkEKeQt1V5OINKaWYCtJ11TNkKxbpPb3giMYb1NalMnHkEH6R/NdFOPvuHrvywz5cehDdcR6wpGoyqcvIYpwynhg4eyQR/i2EhK+EfYB60xzNA9u88NIhx48aZ7i8;c6rZDVLzs27XLaOYtxk5hw=="
 ---
 

@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-10-starcraft-ii-heart-of-the-swarm-dlc-battlenet-key-global.md",
+      "title": "Starcraft II: Heart Of The Swarm (DLC) Battle.net Key GLOBAL",
+      "excerpt": "Battle.net Key GLOBAL. Starcraft II: Heart of the Swarm is the second expansion to a competitive sci-fi RTS game Starcraft II. The expansion",
+      "sourceUrl": null,
+      "webUrl": "https://www.denoticias.es/us/products/starcraft-ii-heart-of-the-swarm-dlc-battle-net-key-global.html",
+      "originalUrl": "https://www.denoticias.es/us/products/starcraft-ii-heart-of-the-swarm-dlc-battle-net-key-global.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-products.eneba.com/resized-products/lekqpzoikgzinjtpsc5k_390x400_1x-0.jpg",
+          "width": 390,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.denoticias.es/us/amp/products/starcraft-ii-heart-of-the-swarm-dlc-battle-net-key-global.html",
+      "cdnAmpWebUrl": "https://www-denoticias-es.cdn.ampproject.org/c/s/www.denoticias.es/us/amp/products/starcraft-ii-heart-of-the-swarm-dlc-battle-net-key-global.html",
+      "publishedDateTime": "2021-02-09T20:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "denoticias.es",
+        "domain": "denoticias.es",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-starcraft-queen-of-blades-funko-pop-vinyl.md",
       "title": "Starcraft Queen Of Blades Funko Pop! Vinyl",
       "excerpt": "Starcraft Queen Of Blades Funko Pop! Vinyl. From the StarCraft real-time strategy series from Blizzard, Sarah Kerrigan has been given the Pop! Vinyl treatment with this StarCraft",
@@ -1068,57 +1110,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-08-24T12:29:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-balance-update-august-13-2020.md",
-      "title": "Balance Update - August 13, 2020",
-      "excerpt": "Here are some small adjustments we’d like to make to our initial proposals.",
-      "sourceUrl": null,
-      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23492549/balance-update-august-13-2020",
-      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23492549/balance-update-august-13-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T12:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Blizzard",

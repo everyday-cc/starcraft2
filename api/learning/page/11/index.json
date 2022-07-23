@@ -4,100 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/videos/pig-cheesy-terran-learns-macro-tvz-coaching-d2.md",
-      "title": "Cheesy Terran learns macro TvZ - Coaching D2",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-cheesy-terran-learns-macro-tvz-coaching-d2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-cheesy-terran-learns-macro-tvz-coaching-d2/",
-      "originalUrl": "https://youtube.com/watch?v=uTFq0TFVs_k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uTFq0TFVs_k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H14M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-06-12T06:36:21-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uTFq0TFVs_k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-choosing-your-race-protoss-welcome-to-starcraft-3.md",
-      "title": "Choosing your Race Protoss - Welcome to Starcraft #3",
-      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-choosing-your-race-protoss-welcome-to-starcraft-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-choosing-your-race-protoss-welcome-to-starcraft-3/",
-      "originalUrl": "https://youtube.com/watch?v=NC7f6BU_Iy0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NC7f6BU_Iy0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-02-21T18:12:48-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NC7f6BU_Iy0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-choosing-your-race-terran-welcome-to-starcraft-2.md",
-      "title": "Choosing your Race Terran  - Welcome to Starcraft #2",
-      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-choosing-your-race-terran-welcome-to-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-choosing-your-race-terran-welcome-to-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=CDHMGtYQxxQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CDHMGtYQxxQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M23S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-02-21T18:13:08-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CDHMGtYQxxQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-coaching-2-base-muta-zvt-defending-hellbat-timing.md",
       "title": "Coaching 2-base muta ZvT + Defending Hellbat timing",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Love the content a lot? Then please consider becoming a member ;) https://www.youtube.com/channel/UC9OluGthYmZo0vsF9IjicFg/join -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
@@ -915,6 +821,98 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/-_rXVijNETM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-pvp-1-base-all-in-plat.md",
+      "title": "Coaching PvP - 1 base all-in - Plat",
+      "excerpt": "I coach Barnuckle on how to punish greedy expands in PvP, refining his 1-base all-in -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-pvp-1-base-all-in-plat/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-pvp-1-base-all-in-plat/",
+      "originalUrl": "https://youtube.com/watch?v=lqpVwQ0XOt8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lqpVwQ0XOt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT59M31S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-09-21T03:54:35-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lqpVwQ0XOt8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-pvz-blocking-lings-and-using-chargelots-plat.md",
+      "title": "Coaching PvZ - Blocking lings and using Chargelots - Plat",
+      "excerpt": "I coach a platinum Protoss on keeping his wall secure and using his chargelot army properly throughout the game. -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-pvz-blocking-lings-and-using-chargelots-plat/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-pvz-blocking-lings-and-using-chargelots-plat/",
+      "originalUrl": "https://youtube.com/watch?v=as-FQHkp4BY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/as-FQHkp4BY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H7M19S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-08-31T03:47:29-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/as-FQHkp4BY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-pvz-stats-3-oracle-into-immortal-sentry-push-diamond-2-coaching.md",
+      "title": "Coaching PvZ Stats’ 3 oracle into immortal sentry push - Diamond 2 coaching",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;)    If you wish to support me please consider supporting my patreon: [https://www.patreon.com/PiGSC2](https://www.patreon.com/PiGSC2)    ### Videos don’t appear in your feed and you want to get notified about new uploads? Press the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-pvz-stats-3-oracle-into-immortal-sentry-push-diamond-2-coaching/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-pvz-stats-3-oracle-into-immortal-sentry-push-diamond-2-coaching/",
+      "originalUrl": "https://youtube.com/watch?v=IiepTwljOCQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IiepTwljOCQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H18M35S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-09-19T09:00:05-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IiepTwljOCQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

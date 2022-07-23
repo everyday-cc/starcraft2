@@ -4,160 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/videos/pig-adepts-into-colossus-vs-zerg-coaching-plat-3-pvz.md",
-      "title": "Adepts into Colossus vs Zerg | Coaching Plat 3 PvZ",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-adepts-into-colossus-vs-zerg-coaching-plat-3-pvz/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-adepts-into-colossus-vs-zerg-coaching-plat-3-pvz/",
-      "originalUrl": "https://youtube.com/watch?v=k3HjQ4iQVWI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/k3HjQ4iQVWI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M17S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-07-31T09:00:16-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/k3HjQ4iQVWI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-adjusting-mouse-keyboard-and-ingame-settings.md",
-      "title": "Adjusting Mouse, Keyboard and Ingame Settings",
-      "excerpt": "This is a highlight from my newbie/beginner stream -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-adjusting-mouse-keyboard-and-ingame-settings/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-adjusting-mouse-keyboard-and-ingame-settings/",
-      "originalUrl": "https://youtube.com/watch?v=lzPKahqhpo4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lzPKahqhpo4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M1S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:42:45-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lzPKahqhpo4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-after-dealing-damage-how-do-i-defend-the-counterattack-gold-tvz-newbie-stream.md",
-      "title": "“After Dealing Damage how do I defend the counterattack?” Gold TvZ - Newbie Stream",
-      "excerpt": "This is a highlight from my newbie/beginner stream where I analyse a players replay who struggles vs zerg counterattacks -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-after-dealing-damage-how-do-i-defend-the-counterattack-gold-tvz-newbie-stream/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-after-dealing-damage-how-do-i-defend-the-counterattack-gold-tvz-newbie-stream/",
-      "originalUrl": "https://youtube.com/watch?v=dcMzIvmuNHI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dcMzIvmuNHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M55S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:44:06-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dcMzIvmuNHI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-after-defending-go-and-smack-a-b-newbie-stream.md",
-      "title": "After Defending - Go and Smack a B!#$! - Newbie Stream",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-after-defending-go-and-smack-a-b-newbie-stream/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-after-defending-go-and-smack-a-b-newbie-stream/",
-      "originalUrl": "https://youtube.com/watch?v=LHgQlktWR9s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LHgQlktWR9s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M9S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-11-17T09:00:04-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LHgQlktWR9s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-aggression-is-still-the-key-coaching-masters-zvz-coaching.md",
-      "title": "Aggression is STILL the key - Coaching Masters ZvZ | Coaching",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-aggression-is-still-the-key-coaching-masters-zvz-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-aggression-is-still-the-key-coaching-masters-zvz-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=eRyMZBCwx1A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eRyMZBCwx1A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H11M27S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-05-06T04:00:21-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eRyMZBCwx1A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-aggressive-pvt-opening-branches-and-transitions.md",
       "title": "Aggressive PvT Opening - Branches and Transitions",
       "excerpt": "-- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to my Discord: https://discordapp.com/invite/SkhbzCM  The Book of FILTH: https://docs.google.com/document/d/17IX0S9Lu4ALiaOq0J0xkeBu4ZCZzXhH9ePtbmYUHQ0U/edit#heading=h.jut01of6fy4j",
@@ -617,6 +463,36 @@
       ]
     },
     {
+      "path": "_learning/videos/pig-beginner-mechanics-welcome-to-starcraft.md",
+      "title": "Beginner Mechanics - Welcome to Starcraft",
+      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;)  -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-beginner-mechanics-welcome-to-starcraft/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-beginner-mechanics-welcome-to-starcraft/",
+      "originalUrl": "https://youtube.com/watch?v=hX6D3CWAHC8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hX6D3CWAHC8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M29S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-04-14T14:39:44-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hX6D3CWAHC8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-beginner-scouting-welcome-to-starcraft.md",
       "title": "Beginner Scouting  - Welcome to Starcraft",
       "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/",
@@ -918,6 +794,131 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-cheesy-terran-learns-macro-tvz-coaching-d2.md",
+      "title": "Cheesy Terran learns macro TvZ - Coaching D2",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-cheesy-terran-learns-macro-tvz-coaching-d2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-cheesy-terran-learns-macro-tvz-coaching-d2/",
+      "originalUrl": "https://youtube.com/watch?v=uTFq0TFVs_k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uTFq0TFVs_k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H14M3S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-06-12T06:36:21-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uTFq0TFVs_k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-choosing-your-race-protoss-welcome-to-starcraft-3.md",
+      "title": "Choosing your Race Protoss - Welcome to Starcraft #3",
+      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-choosing-your-race-protoss-welcome-to-starcraft-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-choosing-your-race-protoss-welcome-to-starcraft-3/",
+      "originalUrl": "https://youtube.com/watch?v=NC7f6BU_Iy0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NC7f6BU_Iy0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-02-21T18:12:48-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NC7f6BU_Iy0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-choosing-your-race-terran-welcome-to-starcraft-2.md",
+      "title": "Choosing your Race Terran  - Welcome to Starcraft #2",
+      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-choosing-your-race-terran-welcome-to-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-choosing-your-race-terran-welcome-to-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=CDHMGtYQxxQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CDHMGtYQxxQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M23S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-02-21T18:13:08-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CDHMGtYQxxQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-choosing-your-race-zerg-welcome-to-starcraft-1.md",
+      "title": "Choosing your Race Zerg  - Welcome to Starcraft #1",
+      "excerpt": "Full Playlist(All Videos may not be released yet): https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-choosing-your-race-zerg-welcome-to-starcraft-1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-choosing-your-race-zerg-welcome-to-starcraft-1/",
+      "originalUrl": "https://youtube.com/watch?v=u2ILu6MTyYY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u2ILu6MTyYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M45S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-02-21T18:12:55-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/u2ILu6MTyYY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
       ]
     }
   ],

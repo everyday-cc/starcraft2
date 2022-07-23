@@ -4,158 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/videos/pig-beginner-mechanics-welcome-to-starcraft.md",
-      "title": "Beginner Mechanics - Welcome to Starcraft",
-      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;)  -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-beginner-mechanics-welcome-to-starcraft/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-beginner-mechanics-welcome-to-starcraft/",
-      "originalUrl": "https://youtube.com/watch?v=hX6D3CWAHC8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hX6D3CWAHC8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-04-14T14:39:44-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hX6D3CWAHC8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-choosing-your-race-zerg-welcome-to-starcraft-1.md",
-      "title": "Choosing your Race Zerg  - Welcome to Starcraft #1",
-      "excerpt": "Full Playlist(All Videos may not be released yet): https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-choosing-your-race-zerg-welcome-to-starcraft-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-choosing-your-race-zerg-welcome-to-starcraft-1/",
-      "originalUrl": "https://youtube.com/watch?v=u2ILu6MTyYY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u2ILu6MTyYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M45S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-02-21T18:12:55-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/u2ILu6MTyYY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-common-mistakes-vs-rushes-welcome-to-starcraft.md",
-      "title": "Common Mistakes vs Rushes  - Welcome to Starcraft",
-      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;)  -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-common-mistakes-vs-rushes-welcome-to-starcraft/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-common-mistakes-vs-rushes-welcome-to-starcraft/",
-      "originalUrl": "https://youtube.com/watch?v=UY4T6LmIDm8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UY4T6LmIDm8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M34S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-04-14T14:39:35-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UY4T6LmIDm8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-getting-started-in-versus-welcome-to-starcraft.md",
-      "title": "Getting Started in Versus - Welcome to Starcraft",
-      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-getting-started-in-versus-welcome-to-starcraft/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-getting-started-in-versus-welcome-to-starcraft/",
-      "originalUrl": "https://youtube.com/watch?v=0cO_ly9C6gk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0cO_ly9C6gk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-04-14T14:39:49-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0cO_ly9C6gk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-how-does-reynor-get-ahead-every-single-zvt.md",
-      "title": "How does REYNOR get ahead EVERY SINGLE ZvT?",
-      "excerpt": "Reynor's ascent in StarCraft in recent years has been startling, culminating in a world champion. I've been very impressed with his early game ZvT, which is just so dominating 🐷 Support PiG: https://www.pigstarcraft.com/support/ -- 🐖 Watch live on https://www.twitch.tv/x5_pig 🎓 For coaching inquiries",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-how-does-reynor-get-ahead-every-single-zvt/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-how-does-reynor-get-ahead-every-single-zvt/",
-      "originalUrl": "https://youtube.com/watch?v=QqdFHEPHCqk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QqdFHEPHCqk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M58S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-03-23T00:58:51-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QqdFHEPHCqk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-starcraft-2-beginner-protoss-opening-the-pig-daily-155.md",
       "title": "StarCraft 2 - Beginner Protoss Opening | The PiG Daily #155",
       "excerpt": "THIS WEEKS ICYFAR Challenge: \"Feinting Attacks\" - A feint is where you give the impression of attacking in one place where its fake or just a small distraction from the real thrust of your attack. Examples: Using empty drops or hallucinations to pull your opponent out of position!  Send submissions to",
@@ -929,6 +777,161 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-protoss-vs-protoss-build-order-safe-stalker-sentry-opening-starcraft-2-2021.md",
+      "title": "Learn Starcraft 2: Protoss vs Protoss Build Order - Safe Stalker-Sentry Opening [Starcraft 2 2021]",
+      "excerpt": "Today we're looking at a Starcraft 2 protoss vs protoss build order. This week we'll be covering lots of pvp tutorials & guides. But first things first, let's get us into the midgame with a safe opening!  Protoss vs Protoss Build Order - Safe Stalker-Sentry Opening [Starcraft 2 2020] #ProtossVsProtoss",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-protoss-vs-protoss-build-order-safe-stalker-sentry-opening-starcraft-2-2021/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-protoss-vs-protoss-build-order-safe-stalker-sentry-opening-starcraft-2-2021/",
+      "originalUrl": "https://youtube.com/watch?v=PD6PYQBfF6Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PD6PYQBfF6Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M15S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-01-06T20:41:15-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PD6PYQBfF6Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020.md",
+      "title": "Learn Starcraft 2: Terran Build Order - EASY & SAFE [Starcraft 2 2020]",
+      "excerpt": "In today's guide/lesson we're looking at how to execute a terran vs terran (tvt) build order. Was supposed to be just the opening but I got a little carried away so you're getting 19 minutes of raw TvT information. Get out your notepads ;)  #BuildOrder #TerranVsTerran #TvT Terran vs Terran(TvT) Build",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020/",
+      "originalUrl": "https://youtube.com/watch?v=CupNHJotqmQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CupNHJotqmQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M42S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-12-08T18:09:09-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CupNHJotqmQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-learning-tvp-from-cure-sc2-2021.md",
+      "title": "Learning TvP From Cure (SC2 2021)",
+      "excerpt": "♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and I have 5+ GM students",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learning-tvp-from-cure-sc2-2021/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learning-tvp-from-cure-sc2-2021/",
+      "originalUrl": "https://youtube.com/watch?v=MMLyTYa-CiU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MMLyTYa-CiU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M15S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-10-25T21:46:28-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MMLyTYa-CiU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-are-you-microing-too-much.md",
+      "title": "Mastering Starcraft 2 | Are you microing too much?",
+      "excerpt": "In this video we take a look at a Terran vs Zerg game and discuss some of the main mistakes Terran players are making. It's super easy to fall into this trap!  Starcraft 2: Mastering Starcraft 2 | Are you microing too much? [Terran vs Zerg TvZ] #StarCraft2 #SC2 #RTS   Coaching - https://www.hushangcoaching.com",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-are-you-microing-too-much/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-are-you-microing-too-much/",
+      "originalUrl": "https://youtube.com/watch?v=Bo61A-koxDE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bo61A-koxDE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M8S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-09T15:48:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Bo61A-koxDE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-easy-micro-techniques-mostly-to-wreck-zergs.md",
+      "title": "Mastering Starcraft 2: Easy micro techniques (mostly) to WRECK zergs",
+      "excerpt": "In this episode of the mini-series Hyper-Aggressive TvZ we take a look at some micro techniques you can use in your own games to significantly improve the performance of your army. Just don't forget to macro xD  Mastering Starcraft 2: Easy micro techniques (mostly) to WRECK zergs #StarCraft2 #Terran",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-easy-micro-techniques-mostly-to-wreck-zergs/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-easy-micro-techniques-mostly-to-wreck-zergs/",
+      "originalUrl": "https://youtube.com/watch?v=bnT1opNwMQQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bnT1opNwMQQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M24S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-20T19:06:02-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bnT1opNwMQQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
       ]
     }
   ],

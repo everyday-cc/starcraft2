@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=kVcMwAi0uds
 type: video
 length: PT36M52S
 publishedDateTime: 2020-10-27T11:13:20Z
-heat: 54
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVcMwAi0uds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "NSMz7MSzWSqp7suMTINt3ulBq/O4e1x/wZ+p1U5oBKRZhdZ4QxlFitW/wLbONkpyDOX5QeY1xF6UXDsRgHc4naczWemmkCBhCpBJV2gCF4CJjDJqo2gLUopjZ1Iy+JCEaurF5ZgBawdLh7igFdV4x5z/Xe4DSCUu6VYMv3hHgCUONw3QMsb/LBpTpGOGVl5CNxn+npSzcLPofTN9i0TEfRIuox01YDgcxOmlJMOEf7wc3L6cyMoXC4j9KQbBCm7EI7HOv91iqAV5+FSd7sW5NwWu1WDnv8vqQDPzedTrKpb1aJLv3wr7sMMCzpZ7+w7DekX1pWJ3bzkNd6yVzuQQWK5ZzgYhrm0DzrjUzjw71yue6Jxmqaq8OOgdgy3DDulfDxpuEpBQVIca/3Q0vsSaDHLMZAfquL2AfNY0bc+8iiLtwatxUUrV4oFHOUa8hsla;u7JkwvxHDZ05QccPN0of9w=="
+secured: "Vw+nMLLU0vIP2hDIJTw4RKc9Tvr16cYASDPLsXZEMOyFgcuiNosGksTDaQcg8rfTwEvTVjOlwy7GF7cmEivkETDR5coGeqnky1KiVda+xikadDsrQ02MFxo7SEhQYuzFYMza6N48caa0QEHXiHhtdhqHgiw9Ebr3+uymh5MfEWMg9oYK3v/ZnOgDnEyDSyeQzymLb1lRG+judb4TtY4RxuzdR6yjrkujW3BwRuXl4jO1gULhPy9+dFFU+zmzNHstoNhG3tseRHwMgYuyueDgzuhbxKP/Pao+f6ZCGsNQLJvkr+U4h066AP+PN+YIb1USg7BDGWdCurIA7EKdBAXu4hOb7bU5/Rcep64AjeTdQL9gcXsxrtvBmXlHAkkzDzJVmHNSIf+WZ8he3x6R7Px6DSdATAG/4gyUhvy7h9Dnz56srm6zoK/r4UclqZsgvABH;ftWJRZ9M975FNp15xqM/EA=="
 ---
 

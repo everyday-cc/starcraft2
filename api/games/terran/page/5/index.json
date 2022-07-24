@@ -4,6 +4,83 @@
   "page": 5,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-maru-loves-cheesing-cure-best-of-3.md",
+      "title": "StarCraft 2: Maru LOVES CHEESING Cure! (Best-of-3)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between Maru (Terran) and Cure (Terran). Turns out Maru feels particularly cheesy in this series of Terran vs Terran.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maru-loves-cheesing-cure-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maru-loves-cheesing-cure-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=IM7OdVKFW4M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IM7OdVKFW4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M38S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IM7OdVKFW4M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-12-18T04:58:14-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-maru-vs-rogue-best-of-5.md",
+      "title": "StarCraft 2: MARU vs ROGUE! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Maru and Rogue. Both of these pro gamers are at the highest possible level of SC2. Maru is widely considered to be strongest Terran player in the world. Determining the best Zerg player in the world is harder to do as there are other top-level Zerg",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maru-vs-rogue-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maru-vs-rogue-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=7dhl059n7SU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7dhl059n7SU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H1M55S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7dhl059n7SU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-03-06T04:32:44-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-maru-vs-serral-best-of-5.md",
       "title": "StarCraft 2: MARU vs SERRAL! (Best-of-5)",
       "excerpt": "In this best-of-5 series of professional StarCraft 2 we watch Serral face off against Maru in a Zerg versus Terran. This is the best player from South Korea, going up against the best player outside of South Korea.  Serral vs Trap Grand Finals (Dreamhack Fall): https://youtu.be/Bxi7syqMyXI  Support my",
@@ -41,6 +118,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-09-21T04:19:21-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-marus-mass-mech-strategy-best-of-3-vs-ragnarok.md",
+      "title": "StarCraft 2: Maru's MASS MECH Strategy! (Best-of-3 vs Ragnarok)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2, featuring the best player in the world currently, Maru (Terran), going up against Ragnarok (Zerg).  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marus-mass-mech-strategy-best-of-3-vs-ragnarok/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marus-mass-mech-strategy-best-of-3-vs-ragnarok/",
+      "originalUrl": "https://youtube.com/watch?v=eg-pJBUPug0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eg-pJBUPug0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eg-pJBUPug0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-01-26T02:54:22-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-marus-plays-tactical-nukes-vs-zoun.md",
@@ -389,45 +504,6 @@
       "publishedDateTime": "2020-02-14T05:17:50-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-serral-and-clem-in-amazing-zerg-vs-terran.md",
-      "title": "StarCraft 2: Serral and Clem in AMAZING Zerg vs Terran!",
-      "excerpt": "Two games from the Grand Finals of the StayAtHome Story Cup 4 between Serral (Zerg) and Clem (Terran).  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-and-clem-in-amazing-zerg-vs-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-and-clem-in-amazing-zerg-vs-terran/",
-      "originalUrl": "https://youtube.com/watch?v=ydpPwmE0QFQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ydpPwmE0QFQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M48S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ydpPwmE0QFQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-03T05:12:19-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-so-many-tactical-nukes-elazer-vs-soul.md",
       "title": "StarCraft 2: SO. MANY. TACTICAL. NUKES! (Elazer vs souL)",
       "excerpt": "Fun professional match of Zerg versus Terran between Elazer and souL. This late game focused Zerg versus Terran has tons of Tactical Nukes.  ByuN versus Lurkers: https://youtu.be/eLWJxqsr7gs  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My",
@@ -464,44 +540,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-11-11T03:23:12-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-still-planetary-fortress-rushing-in-2022-viewer-games.md",
-      "title": "StarCraft 2: Still PLANETARY FORTRESS RUSHING in 2022…? (Viewer Games)",
-      "excerpt": "Two games of StarCraft 2 submitted to me by viewers. If you want to me make fun of your SC2 games as well, make sure to send your best replays to replays@lowko.tv.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-still-planetary-fortress-rushing-in-2022-viewer-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-still-planetary-fortress-rushing-in-2022-viewer-games/",
-      "originalUrl": "https://youtube.com/watch?v=W6LVBNdjwkk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W6LVBNdjwkk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M18S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-02-14T02:35:43-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-swarming-as-terran.md",
@@ -581,14 +619,14 @@
       "publishedDateTime": "2018-04-09T04:26:51-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-terrible-terran-rushes-viewer-games.md",
-      "title": "StarCraft 2: TERRIBLE Terran Rushes! (Viewer Games)",
-      "excerpt": "Try NordVPN with a significant discount: https://nordvpn.com/lowkotv In this video I cast two viewer submitted games in StarCraft 2. If you have an awesome game that you would like me to cast, you can submit it to replays@lowko.tv.  00:00 Thanks to NordVPN 00:54 Silver League Terran vs Protoss 15:10",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-terrible-terran-rushes-viewer-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-terrible-terran-rushes-viewer-games/",
-      "originalUrl": "https://youtube.com/watch?v=Ygkn0N9OH0U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ygkn0N9OH0U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M45S",
+      "path": "_games/lowkotv-starcraft-2-the-grand-finals-match-maru-vs-reynor.md",
+      "title": "StarCraft 2: The GRAND FINALS Match! (Maru vs Reynor)",
+      "excerpt": "Reynor versus Maru in a professional match of StarCraft 2. This is the final game of the Dreamhack StarCraft 2 Masters 2021 Summer Season Finals, the final match of the grand finals of that tournament. In this game Maru decides to play Terran Mech, which is very uncommon. Reynor plays hyper aggressively",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-grand-finals-match-maru-vs-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-grand-finals-match-maru-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=8-NlJB2Lun4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8-NlJB2Lun4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M55S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -603,20 +641,21 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Terran",
+        "Zerg"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
+          "url": "https://i.ytimg.com/vi/8-NlJB2Lun4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-04-23T02:58:51-07:00"
+      "publishedDateTime": "2021-07-16T04:58:51-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-mass-battlecruiser-switch.md",
@@ -811,14 +850,14 @@
       "publishedDateTime": "2021-01-19T03:58:35-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-very-strange-terran-strategies-serral-vs-gumiho.md",
-      "title": "StarCraft 2: Very STRANGE Terran Strategies! (Serral vs GuMiho)",
-      "excerpt": "A fun best-of-3 series of professional StarCraft 2 between Serral (Zerg) and GuMiho (Terran). At this point I am fairly certain that GuMiho plays a different strategy in every game he plays. In this best-of-3 series he decides to play Mech, cheesy Marines and a very strange Bio based opener.   Vanya",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-very-strange-terran-strategies-serral-vs-gumiho/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-very-strange-terran-strategies-serral-vs-gumiho/",
-      "originalUrl": "https://youtube.com/watch?v=wz06FeEcy_s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wz06FeEcy_s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M14S",
+      "path": "_games/lowkotv-starcraft-2-unexpected-zerg-unit-switches-armani-vs-gumiho.md",
+      "title": "StarCraft 2: UNEXPECTED Zerg Unit Switches! (Armani vs GuMiho)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Armani (Zerg) and GuMiho (Terran).  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips: https://www.youtube.com/lowkoclips  Be part of the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-unexpected-zerg-unit-switches-armani-vs-gumiho/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-unexpected-zerg-unit-switches-armani-vs-gumiho/",
+      "originalUrl": "https://youtube.com/watch?v=K9b9SnM_6A8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K9b9SnM_6A8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M19S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -839,53 +878,15 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/wz06FeEcy_s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-11-13T04:03:46-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-whos-the-best-terran-currently-maru-vs-clem.md",
-      "title": "StarCraft 2: Who's The BEST TERRAN Currently?! (Maru vs Clem)",
-      "excerpt": "Maru versus Clem in a best-of-3 series of professional StarCraft 2. Maru is the best Terran player from South Korea, and Clem is the best Terran player outside of South Korea... But who's the best?  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-whos-the-best-terran-currently-maru-vs-clem/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-whos-the-best-terran-currently-maru-vs-clem/",
-      "originalUrl": "https://youtube.com/watch?v=vx8x0joFXXs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vx8x0joFXXs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M3S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vx8x0joFXXs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-09-27T01:45:20-07:00"
+      "publishedDateTime": "2022-02-09T08:08:23-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-zerg-cheese-vs-terran.md",

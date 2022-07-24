@@ -4,45 +4,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-the-hero-banshee.md",
-      "title": "StarCraft 2: THE HERO BANSHEE!",
-      "excerpt": "The story of the hero Banshee. Subscribe for more videos: http://lowko.tv/youtube The Zerg... Mothership?! https://goo.gl/bZtVFG  A really fun match of Gold League Terran versus Terran. In this game, both players open up with odd strategies, allowing us to arrive at a very strange mid-game that is determined",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-hero-banshee/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-hero-banshee/",
-      "originalUrl": "https://youtube.com/watch?v=ubfhupz_9s0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ubfhupz_9s0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M9S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ubfhupz_9s0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-03-10T02:53:37-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-hero-battlecruiser.md",
       "title": "StarCraft 2: THE HERO BATTLECRUISER!",
       "excerpt": "An awesome match of Zerg vs Terran with a Hero Battlecruiser. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Zerg match: https://goo.gl/E9r57B  In this video MarineLorD decides to play a very cool style versus Namshar. While we have seen different versions of Terran Mech, he decides",
@@ -660,45 +621,6 @@
       "publishedDateTime": "2020-01-20T02:01:57-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-unexpected-zerg-unit-switches-armani-vs-gumiho.md",
-      "title": "StarCraft 2: UNEXPECTED Zerg Unit Switches! (Armani vs GuMiho)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between Armani (Zerg) and GuMiho (Terran).  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips: https://www.youtube.com/lowkoclips  Be part of the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-unexpected-zerg-unit-switches-armani-vs-gumiho/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-unexpected-zerg-unit-switches-armani-vs-gumiho/",
-      "originalUrl": "https://youtube.com/watch?v=K9b9SnM_6A8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K9b9SnM_6A8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M19S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-02-09T08:08:23-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-uthermal-vs-ptitdrogo-terran-vs-protoss.md",
       "title": "StarCraft 2: uThermal vs PtitDrogo! (Terran vs Protoss)",
       "excerpt": "A professional match of Protoss vs Terran in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Neeblet vs Snute: https://goo.gl/8paMLW  A very close defense in this game turns the tides in favour of one of the players. However, it's easy to make a mistake and give your opponent the upperhand.",
@@ -813,6 +735,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-02-17T02:16:39-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-whos-the-best-terran-currently-maru-vs-clem.md",
+      "title": "StarCraft 2: Who's The BEST TERRAN Currently?! (Maru vs Clem)",
+      "excerpt": "Maru versus Clem in a best-of-3 series of professional StarCraft 2. Maru is the best Terran player from South Korea, and Clem is the best Terran player outside of South Korea... But who's the best?  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-whos-the-best-terran-currently-maru-vs-clem/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-whos-the-best-terran-currently-maru-vs-clem/",
+      "originalUrl": "https://youtube.com/watch?v=vx8x0joFXXs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vx8x0joFXXs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M3S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vx8x0joFXXs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-09-27T01:45:20-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-widow-mine-heroes-clem-vs-showtime.md",
@@ -1118,6 +1078,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-12-16T05:43:17-08:00"
+    },
+    {
+      "path": "_games/pig-blink-dt-charge-surround-grim-reaper-5-starcraft-2.md",
+      "title": "BLINK DT CHARGE SURROUND! | Grim Reaper #5 - StarCraft 2",
+      "excerpt": "Here's Grimmy against a Terran player! -- 🐷 Like my videos? Help support me by being a patron: https://www.patreon.com/PiGSC2 🐖 Watch live at https://www.twitch.tv/x5_pig 🐽 Linktree: https://linktr.ee/PiGStarcraft 👕 Merch: https://teespring.com/stores/pig-sc2 -- 🤯 ICYFAR Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUczdbU-zuY0-vykRSR1YsLC",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-blink-dt-charge-surround-grim-reaper-5-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-blink-dt-charge-surround-grim-reaper-5-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=B_nj7PzQeAc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B_nj7PzQeAc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M36S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B_nj7PzQeAc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:47:10-07:00"
     }
   ],
   "nextPage": 16

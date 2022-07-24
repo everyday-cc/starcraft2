@@ -771,45 +771,6 @@
       "publishedDateTime": "2022-07-18T17:12:58-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
-      "title": "StarCraft 2: SERRAL vs MARU! (Best-of-7)",
-      "excerpt": "Merry Christmas everyone! The two best players currently in StarCraft 2 face off in a best-of-7 series. Serral (Zerg) takes on Maru (Terran). This is the Grand Finals of King of Battles 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-maru-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-maru-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=NtD2vnq5rTY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NtD2vnq5rTY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H22M32S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 134,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NtD2vnq5rTY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-12-24T13:58:31-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-rexs-zergling-rush-vs-hero-best-of-3.md",
       "title": "StarCraft 2: Rex's ZERGLING RUSH vs herO! (Best-of-3)",
       "excerpt": "Best-of-3 series between Rex (Zerg) and herO (Protoss). In this series Rex decides to play an aggressive set of games against the highest ranked Protoss in the world.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
@@ -835,7 +796,7 @@
         "Protoss",
         "Zerg"
       ],
-      "heat": 124,
+      "heat": 130,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -849,14 +810,14 @@
       "publishedDateTime": "2022-07-11T02:55:05-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5.md",
-      "title": "StarCraft 2: GREAT SERIES - Serral vs Maru! (Best-of-5)",
-      "excerpt": "A best-of-5 series between the best players that StarCraft 2 has to offer. In this video I cast a Zerg versus Terran in SC2 between Serral, the current World Champion of StarCraft, and Maru, the most succesful player from South Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=CpV_kNyL-vI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CpV_kNyL-vI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H5M38S",
+      "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
+      "title": "StarCraft 2: SERRAL vs MARU! (Best-of-7)",
+      "excerpt": "Merry Christmas everyone! The two best players currently in StarCraft 2 face off in a best-of-7 series. Serral (Zerg) takes on Maru (Terran). This is the Grand Finals of King of Battles 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-maru-best-of-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-maru-best-of-7/",
+      "originalUrl": "https://youtube.com/watch?v=NtD2vnq5rTY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NtD2vnq5rTY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H22M32S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -874,7 +835,45 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 123,
+      "heat": 129,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NtD2vnq5rTY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-12-24T13:58:31-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serrals-impeccable-defence-rogue-vs-serral.md",
+      "title": "StarCraft 2: Serral's IMPECCABLE Defence! (Rogue vs Serral)",
+      "excerpt": "Professional match of StarCraft 2 between Rogue and Serral. Two of the very best Zerg players face off against each other in a very high level game of Zerg versus Zerg.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serrals-impeccable-defence-rogue-vs-serral/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serrals-impeccable-defence-rogue-vs-serral/",
+      "originalUrl": "https://youtube.com/watch?v=iI8P-dfb_6g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iI8P-dfb_6g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M52S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 120,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -885,7 +884,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-05-04T04:56:34-07:00"
+      "publishedDateTime": "2022-05-07T02:54:23-07:00"
     },
     {
       "path": "_games/pig-pros-suck-at-defending-cannon-rushes-starcraft-2.md",
@@ -904,7 +903,7 @@
         "StarCraft 2",
         "Protoss"
       ],
-      "heat": 123,
+      "heat": 120,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -1023,14 +1022,14 @@
       "publishedDateTime": "2022-06-30T02:43:21-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-one-of-the-all-time-best-pros-is-back.md",
-      "title": "StarCraft 2: One of the ALL-TIME BEST PROS is Back!",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between herO (Protoss) and soO (Zerg). soO just finished his military service in South Korea and has decided to return to professional gaming.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-one-of-the-all-time-best-pros-is-back/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-one-of-the-all-time-best-pros-is-back/",
-      "originalUrl": "https://youtube.com/watch?v=lSXvF5X6mDs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lSXvF5X6mDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M17S",
+      "path": "_games/lowkotv-starcraft-2-back-to-back-battlecruiser-battles-maru-vs-dark.md",
+      "title": "StarCraft 2: Back-to-back BATTLECRUISER BATTLES! (Maru vs Dark)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Maru (Terran) and Dark (Zerg). Amazing gameplay of top-level StarCraft 2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: https://youtube.com/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-back-to-back-battlecruiser-battles-maru-vs-dark/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-back-to-back-battlecruiser-battles-maru-vs-dark/",
+      "originalUrl": "https://youtube.com/watch?v=sMDTPvO4faY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sMDTPvO4faY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H8M49S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1044,20 +1043,22 @@
         ]
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
       ],
-      "heat": 116,
+      "heat": 115,
       "images": [
         {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
+          "url": "https://i.ytimg.com/vi/sMDTPvO4faY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-04-30T04:47:16-07:00"
+      "publishedDateTime": "2022-01-18T04:54:46-08:00"
     }
   ],
   "nextPage": 2

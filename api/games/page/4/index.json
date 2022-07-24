@@ -4,6 +4,64 @@
   "page": 4,
   "value": [
     {
+      "path": "_games/pig-fans-trash-talking-ufc-fighters.md",
+      "title": "Fans Trash Talking UFC Fighters",
+      "excerpt": "When Fans Trash Talk UFC Fighters. Funniest fan fighter interactions. Featuring Conor Mcgregor fan vs eddie alvarez, chael sonnen real talk and serenade, michael bisping vs heckler cm punk vs fan  subscribe for more",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-fans-trash-talking-ufc-fighters/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-fans-trash-talking-ufc-fighters/",
+      "originalUrl": "https://youtube.com/watch?v=viyFlAp-q8c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/viyFlAp-q8c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M58S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-03-11T21:29:02-08:00"
+    },
+    {
+      "path": "_games/pig-how-to-win-with-people-you-dont-like-jocko-willink.md",
+      "title": "How To Win With People You Don't Like - Jocko Willink",
+      "excerpt": "Join the conversation on Twitter/Instagram: @jockowillink @echocharles    Excerpt from JOCKOPODCAST 131",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-to-win-with-people-you-dont-like-jocko-willink/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-to-win-with-people-you-dont-like-jocko-willink/",
+      "originalUrl": "https://youtube.com/watch?v=7c3edYWFqVA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7c3edYWFqVA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M9S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7c3edYWFqVA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-10-08T02:24:11-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-the-twists-and-turns-in-this-one-game-pvz.md",
       "title": "StarCraft 2 - The Twists and Turns in this One Game! (PvZ)",
       "excerpt": "These Smooth Brain players, Rocker (P) and Ukko (Z), are very high level GM players. Please enjoy this 40 minute basetrade extravaganza, like a game of musical chairs but for bases 🐷 https://www.patreon.com/PiGSC2  🐖 Watch PiGFest live on https://www.twitch.tv/x5_pig where these players plus 6 more",
@@ -62,45 +120,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-10-24T00:21:00-07:00"
-    },
-    {
-      "path": "_games/sc2hl-epic-starcraft-2-game-1-hour-long-protoss-vs-terran-creator-vs-ty.md",
-      "title": "EPIC STARCRAFT 2 GAME - 1 HOUR LONG Protoss vs Terran - Creator vs TY",
-      "excerpt": "One of the most epic starcraft games of the year, between Classic and TY During the RO16 of GSL Super Tournament. A crazy Protoss vs Terran.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-epic-starcraft-2-game-1-hour-long-protoss-vs-terran-creator-vs-ty/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-epic-starcraft-2-game-1-hour-long-protoss-vs-terran-creator-vs-ty/",
-      "originalUrl": "https://youtube.com/watch?v=iHS8M4VUwrI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iHS8M4VUwrI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M15S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iHS8M4VUwrI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-10-16T07:21:19-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-clem-vs-reynor-best-of-5.md",
@@ -219,6 +238,44 @@
       "publishedDateTime": "2018-01-04T03:39:21-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-the-zergs-command-center-viewer-game.md",
+      "title": "StarCraft 2: The ZERG's Command Center! (Viewer Game)",
+      "excerpt": "A viewer submitted game of StarCraft 2 where the Zerg manages to win the game two minutes in, but for some reason doesn't go in for the kill. He decides to sit around and toy with his opponents units untill he can make his own Terran army using the Infestor and Neural Parasite.  Support my work on Patreon:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-zergs-command-center-viewer-game/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-zergs-command-center-viewer-game/",
+      "originalUrl": "https://youtube.com/watch?v=hDNl73-e2OI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hDNl73-e2OI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M40S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-11T01:18:00-07:00"
+    },
+    {
       "path": "_games/pig-beating-the-1v7-insane-ai-challenge-best-attempt-yet-3-starcraft-2.md",
       "title": "Beating the 1v7 INSANE AI Challenge (BEST ATTEMPT YET!) #3 - StarCraft 2",
       "excerpt": "I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! Even Serral said it is impossible unless maybe they're all Zergs. Spirit failed completely in ep 1, then Pili kinda succeeded but only because he broke the AI on an island map. In episode 3, Xayad (a Master League player) takes",
@@ -246,6 +303,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-25T16:38:18-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-cocky-starcraft-player-gets-justice-salt-mines-2.md",
+      "title": "StarCraft 2 - Cocky Starcraft Player gets JUSTICE | Salt Mines #2",
+      "excerpt": "*NEW SHOW* The Salt Mines: Everyone has encountered a salty opponent on the ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty. -- 🐷 Second Channel for",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-cocky-starcraft-player-gets-justice-salt-mines-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-cocky-starcraft-player-gets-justice-salt-mines-2/",
+      "originalUrl": "https://youtube.com/watch?v=3oJWEAnOt_M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3oJWEAnOt_M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M11S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-04-04T19:17:29-07:00"
     },
     {
       "path": "_games/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53.md",
@@ -279,20 +365,20 @@
       "publishedDateTime": "2021-09-24T01:39:41-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-new-maps-scarlett-vs-byun-best-of-3.md",
-      "title": "StarCraft 2: NEW MAPS - Scarlett vs ByuN! (Best-of-3)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between Scarlett (Zerg) versus ByuN (Terran). These games are played on the new maps that were recently announced for SC2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-maps-scarlett-vs-byun-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-maps-scarlett-vs-byun-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=idETJODPt-A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/idETJODPt-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M37S",
+      "path": "_games/sc2hl-epic-starcraft-2-game-1-hour-long-protoss-vs-terran-creator-vs-ty.md",
+      "title": "EPIC STARCRAFT 2 GAME - 1 HOUR LONG Protoss vs Terran - Creator vs TY",
+      "excerpt": "One of the most epic starcraft games of the year, between Classic and TY During the RO16 of GSL Super Tournament. A crazy Protoss vs Terran.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-epic-starcraft-2-game-1-hour-long-protoss-vs-terran-creator-vs-ty/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-epic-starcraft-2-game-1-hour-long-protoss-vs-terran-creator-vs-ty/",
+      "originalUrl": "https://youtube.com/watch?v=iHS8M4VUwrI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iHS8M4VUwrI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M15S",
       "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -302,30 +388,30 @@
       "topics": [
         "StarCraft 2",
         "Terran",
-        "Zerg"
+        "Protoss"
       ],
-      "heat": 64,
+      "heat": 65,
       "images": [
         {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
+          "url": "https://i.ytimg.com/vi/iHS8M4VUwrI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-06-24T02:48:55-07:00"
+      "publishedDateTime": "2018-10-16T07:21:19-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-fourth-race-hybrid-vs-protoss-zerg-1v1-multiplayer.md",
-      "title": "StarCraft 2: The Fourth Race - HYBRID vs Protoss & Zerg! (1v1 Multiplayer)",
-      "excerpt": "Two games of StarCraft 2 from \"The Fourth Race Contest\" organised by Alex007. In this video I cast the Hybrid going up against Protoss and the Hybrid versus Zerg.  Alex's YouTube channel: https://www.youtube.com/c/Alex007SC2  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-fourth-race-hybrid-vs-protoss-zerg-1v1-multiplayer/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-fourth-race-hybrid-vs-protoss-zerg-1v1-multiplayer/",
-      "originalUrl": "https://youtube.com/watch?v=6lKZ2g5reX0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6lKZ2g5reX0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M34S",
+      "path": "_games/lowkotv-starcraft-2-the-honorable-macro-protoss-reynor-vs-showtime.md",
+      "title": "StarCraft 2: The Honorable MACRO PROTOSS! (Reynor vs ShoWTimE)",
+      "excerpt": "Best-of-5 series of top level European StarCraft 2 between Reynor (Zerg) and ShoWTimE (Protoss). The new patch has made Zerg versus Protoss a far more interesting matchup. Reynor has always been mid-game focused, but how does ShoWTimE deal with the change in the meta?  ShoWTimE on Twitter: https://twitter.com/showtimesc2",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-honorable-macro-protoss-reynor-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-honorable-macro-protoss-reynor-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=OxvysgnKW68",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OxvysgnKW68\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M14S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -346,35 +432,6 @@
       "heat": 64,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6lKZ2g5reX0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-11T03:35:31-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-cocky-starcraft-player-gets-justice-salt-mines-2.md",
-      "title": "StarCraft 2 - Cocky Starcraft Player gets JUSTICE | Salt Mines #2",
-      "excerpt": "*NEW SHOW* The Salt Mines: Everyone has encountered a salty opponent on the ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty. -- 🐷 Second Channel for",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-cocky-starcraft-player-gets-justice-salt-mines-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-cocky-starcraft-player-gets-justice-salt-mines-2/",
-      "originalUrl": "https://youtube.com/watch?v=3oJWEAnOt_M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3oJWEAnOt_M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M11S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 64,
-      "images": [
-        {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
           "width": 1200,
           "height": 800,
@@ -383,7 +440,45 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-04-04T19:17:29-07:00"
+      "publishedDateTime": "2022-04-26T03:00:16-07:00"
+    },
+    {
+      "path": "_games/sc2hl-111-banelings-in-a-professional-starcraft-2-match.md",
+      "title": "111 BANELINGS In a Professional StarCraft 2 Match",
+      "excerpt": "Dark going for a massive massive amount of banelings vs Alive in a Terran vs Zerg  ► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL ► Submit your REPLAYS! - http://bit.ly/SC2HLsubmit   ► SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe   A crazy description   Thank you for watching",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-111-banelings-in-a-professional-starcraft-2-match/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-111-banelings-in-a-professional-starcraft-2-match/",
+      "originalUrl": "https://youtube.com/watch?v=ut6nCoAXiP4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ut6nCoAXiP4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M14S",
+      "provider": {
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ut6nCoAXiP4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-03-06T07:05:01-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-battle-royale-pro-gamer-free-for-all.md",
@@ -421,171 +516,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-02-21T02:41:32-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-zests-spicy-stargate-variety-best-of-5-vs-solar.md",
-      "title": "StarCraft 2: Zest's SPICY Stargate Variety! (Best-of-5 vs Solar)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between Solar (Zerg) and Zest (Protoss). In this match Zest decides to play a vareity of Stargate openers, from Void Rays to Tempests and Phoenixes. This series is the grand finals of the ESL Open Cup 108 Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zests-spicy-stargate-variety-best-of-5-vs-solar/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zests-spicy-stargate-variety-best-of-5-vs-solar/",
-      "originalUrl": "https://youtube.com/watch?v=IKvNLBeao60",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IKvNLBeao60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M49S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-02-12T05:00:07-08:00"
-    },
-    {
-      "path": "_games/pig-creative-insults-in-starcraft-salt-mines-3.md",
-      "title": "Creative Insults in StarCraft | Salt Mines #3",
-      "excerpt": "*NEW SHOW* The Salt Mines: Everyone has encountered a salty opponent on the ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty. -- 🐷 Second Channel for",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-creative-insults-in-starcraft-salt-mines-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-creative-insults-in-starcraft-salt-mines-3/",
-      "originalUrl": "https://youtube.com/watch?v=O-bSLmrqzf8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O-bSLmrqzf8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M56S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-04-20T19:43:33-07:00"
-    },
-    {
-      "path": "_games/pig-this-starcraft-player-has-lost-his-mind-salt-mines-1-sc2.md",
-      "title": "This Starcraft player has lost his mind | Salt Mines #1 - SC2",
-      "excerpt": "*NEW SHOW* The Salt Mines: Everyone has encountered a salty opponent on the ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty. -- 🐷 Second Channel for",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-starcraft-player-has-lost-his-mind-salt-mines-1-sc2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-starcraft-player-has-lost-his-mind-salt-mines-1-sc2/",
-      "originalUrl": "https://youtube.com/watch?v=1vjvR4nEJr8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1vjvR4nEJr8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M38S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-03-03T19:58:36-08:00"
-    },
-    {
-      "path": "_games/pig-who-wins-a-low-gas-challenge-starcraft-2.md",
-      "title": "Who wins a Low Gas Challenge? - StarCraft 2",
-      "excerpt": "Rule: you can only take the two gases in your main! I hosted this tournament during Subathon 2.0 and we had a lot of Terran and Protoss players take part. Who wins a low gas challenge? -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-who-wins-a-low-gas-challenge-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-who-wins-a-low-gas-challenge-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=WD6aMNtIyQk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WD6aMNtIyQk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M5S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-23T00:18:09-07:00"
-    },
-    {
-      "path": "_games/sc2hl-does-he-see-the-nuke-starcraft-2-maru-vs-soo.md",
-      "title": "Does he see the Nuke!? - Starcraft 2: Maru vs soO",
-      "excerpt": "Maru vs soO in an intense Terran vs Zerg, featuring some Nukes on the Terran side! Playing during the GSL vs the World.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Full VOD: https://www.youtube.com/watch?v=Mw98Mg8pE4M  Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-does-he-see-the-nuke-starcraft-2-maru-vs-soo/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-does-he-see-the-nuke-starcraft-2-maru-vs-soo/",
-      "originalUrl": "https://youtube.com/watch?v=Jj-qIw_NMW0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jj-qIw_NMW0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M39S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Jj-qIw_NMW0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-06T07:05:01-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-epic-game-marus-hero-battlecruisers.md",
@@ -627,14 +557,14 @@
       "publishedDateTime": "2022-05-16T04:51:29-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-battle-for-the-final-minerals-scarlett-vs-clem.md",
-      "title": "StarCraft 2: The Battle for the FINAL MINERALS! (Scarlett vs Clem)",
-      "excerpt": "Professional match of StarCraft 2 between Scarlett (Zerg) and Clem (Terran). This match comes down to the absolute final minerals on Hardwire.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-battle-for-the-final-minerals-scarlett-vs-clem/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-battle-for-the-final-minerals-scarlett-vs-clem/",
-      "originalUrl": "https://youtube.com/watch?v=O14jux5xxnQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O14jux5xxnQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M17S",
+      "path": "_games/lowkotv-starcraft-2-marus-maxed-out-sky-terran-best-of-5.md",
+      "title": "StarCraft 2: Maru's Maxed Out SKY TERRAN! (Best-of-5)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between Maru and HeroMarine. In this series that was played during Dreamhack Masters we see a variety of matches. The macro games in this series go from the 1-1-1 opener, to Marine Tank based compositions, to Terran Mech and eventually Sky Terran.   Support my",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marus-maxed-out-sky-terran-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marus-maxed-out-sky-terran-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=Dsa4Ohr4bfk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Dsa4Ohr4bfk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H12M36S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -649,41 +579,40 @@
       },
       "topics": [
         "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-03-02T04:22:03-08:00"
-    },
-    {
-      "path": "_games/pig-terran-player-gets-so-angry-he-breaks-his-own-brain-salt-mines-6-starcraft-2.md",
-      "title": "Terran player gets so ANGRY he breaks his own brain | Salt Mines #6 - StarCraft 2",
-      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty. -- 🐷 Second Channel",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-terran-player-gets-so-angry-he-breaks-his-own-brain-salt-mines-6-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-terran-player-gets-so-angry-he-breaks-his-own-brain-salt-mines-6-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=_r7e4cSYy18",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_r7e4cSYy18\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M38S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
         "Terran"
       ],
       "heat": 62,
       "images": [
         {
+          "url": "https://i.ytimg.com/vi/Dsa4Ohr4bfk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-21T05:04:43-07:00"
+    },
+    {
+      "path": "_games/pig-this-starcraft-player-has-lost-his-mind-salt-mines-1-sc2.md",
+      "title": "This Starcraft player has lost his mind | Salt Mines #1 - SC2",
+      "excerpt": "*NEW SHOW* The Salt Mines: Everyone has encountered a salty opponent on the ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty. -- 🐷 Second Channel for",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-starcraft-player-has-lost-his-mind-salt-mines-1-sc2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-starcraft-player-has-lost-his-mind-salt-mines-1-sc2/",
+      "originalUrl": "https://youtube.com/watch?v=1vjvR4nEJr8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1vjvR4nEJr8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M38S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 62,
+      "images": [
+        {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
           "width": 1200,
           "height": 800,
@@ -692,7 +621,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-06-17T03:57:27-07:00"
+      "publishedDateTime": "2022-03-03T19:58:36-08:00"
     },
     {
       "path": "_games/collections/pig-pigs-funny-starcraft.md",
@@ -992,6 +921,45 @@
       "type": "collection"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-heros-disruptor-rush-solar-vs-hero.md",
+      "title": "StarCraft 2: herO's DISRUPTOR Rush! (Solar vs herO)",
+      "excerpt": "In this professional series of StarCraft 2 we watch herO experiment with a variety of openers. It seems that the Disruptor rush is currently one of this favourites. In this best-of-5 series he faces off against Solar.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-disruptor-rush-solar-vs-hero/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-disruptor-rush-solar-vs-hero/",
+      "originalUrl": "https://youtube.com/watch?v=T7KHYnrAvFY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T7KHYnrAvFY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M35S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-03-25T05:57:47-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-reynor-plays-protoss-vs-serral.md",
       "title": "StarCraft 2: Reynor Plays PROTOSS vs Serral?!",
       "excerpt": "Professional game of StarCraft 2 where Reynor plays Protoss versus Serral, the current World Champion who plays Zerg. This game was send to me by Reynor himself because apparently I only ever cast losses.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -1031,14 +999,14 @@
       "publishedDateTime": "2022-05-17T04:02:26-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-new-rank-1-protoss-best-of-3.md",
-      "title": "StarCraft 2: The NEW Rank 1 Protoss! (Best-of-3)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between herO (Protoss) and Dark (Zerg). herO just recently overtook Zest for the highest ranked Protoss player in the world.   Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  Thumbnail picture of",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-new-rank-1-protoss-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-new-rank-1-protoss-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=FHH48M74Vc8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FHH48M74Vc8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M9S",
+      "path": "_games/lowkotv-starcraft-2-trap-walls-the-middle-of-the-map-trap-vs-time.md",
+      "title": "StarCraft 2: Trap walls the MIDDLE OF THE MAP! (Trap vs TIME)",
+      "excerpt": "Professional match of StarCraft 2 between TIME (Terran) and Trap (Protoss). In this game TIME decides to play a very laid back style where he masses up in the way that Maru likes to. Trap tries to fight at many opportunities but can't properly break the Terran turtle.  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-trap-walls-the-middle-of-the-map-trap-vs-time/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-trap-walls-the-middle-of-the-map-trap-vs-time/",
+      "originalUrl": "https://youtube.com/watch?v=i32zsuJxptU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i32zsuJxptU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M13S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1066,46 +1034,17 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-04-18T02:06:36-07:00"
+      "publishedDateTime": "2022-06-02T02:38:25-07:00"
     },
     {
-      "path": "_games/pig-the-highest-compliment-you-can-get-salt-mines-8-starcraft-2.md",
-      "title": "The highest compliment you can get! | Salt Mines #8 - StarCraft 2",
-      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty. -- 🐷 Second Channel",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-highest-compliment-you-can-get-salt-mines-8-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-highest-compliment-you-can-get-salt-mines-8-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=0oQs7vC2uFE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0oQs7vC2uFE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M32S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-27T20:57:08-07:00"
-    },
-    {
-      "path": "_games/sc2hl-111-banelings-in-a-professional-starcraft-2-match.md",
-      "title": "111 BANELINGS In a Professional StarCraft 2 Match",
-      "excerpt": "Dark going for a massive massive amount of banelings vs Alive in a Terran vs Zerg  ► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL ► Submit your REPLAYS! - http://bit.ly/SC2HLsubmit   ► SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe   A crazy description   Thank you for watching",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-111-banelings-in-a-professional-starcraft-2-match/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-111-banelings-in-a-professional-starcraft-2-match/",
-      "originalUrl": "https://youtube.com/watch?v=ut6nCoAXiP4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ut6nCoAXiP4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M14S",
+      "path": "_games/sc2hl-does-he-see-the-nuke-starcraft-2-maru-vs-soo.md",
+      "title": "Does he see the Nuke!? - Starcraft 2: Maru vs soO",
+      "excerpt": "Maru vs soO in an intense Terran vs Zerg, featuring some Nukes on the Terran side! Playing during the GSL vs the World.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Full VOD: https://www.youtube.com/watch?v=Mw98Mg8pE4M  Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-does-he-see-the-nuke-starcraft-2-maru-vs-soo/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-does-he-see-the-nuke-starcraft-2-maru-vs-soo/",
+      "originalUrl": "https://youtube.com/watch?v=Jj-qIw_NMW0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jj-qIw_NMW0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M39S",
       "provider": {
         "name": "SC2HL",
         "domain": "sc2hl.com",
@@ -1120,12 +1059,13 @@
       },
       "topics": [
         "StarCraft 2",
+        "Terran",
         "Zerg"
       ],
       "heat": 61,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ut6nCoAXiP4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Jj-qIw_NMW0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1175,77 +1115,45 @@
       "publishedDateTime": "2017-07-24T03:19:50-07:00"
     },
     {
-      "path": "_games/collections/beastyqtsc2-mass-marines-to-grandmaster.md",
-      "title": "MASS Marines to Grandmaster!",
+      "path": "_games/collections/beastyqtsc2-cannon-rushing-to-grandmaster-series.md",
+      "title": "Cannon Rushing to Grandmaster Series!",
       "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/beastyqtsc2-mass-marines-to-grandmaster/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/collections/beastyqtsc2-mass-marines-to-grandmaster/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/beastyqtsc2-cannon-rushing-to-grandmaster-series/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/collections/beastyqtsc2-cannon-rushing-to-grandmaster-series/",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Protoss"
       ],
       "topItems": [
         {
-          "path": "_games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster.md",
-          "title": "StarCraft 2: MASS Marines to Grandmaster!",
-          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/",
-          "originalUrl": "https://youtube.com/watch?v=dTWvlG6Lork",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dTWvlG6Lork\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT45M15S",
+          "path": "_games/beastyqtsc2-starcraft-2-the-most-salt-inducing-series-yet-cannon-rushing-to-grandmaster-episode-1.md",
+          "title": "StarCraft 2: The Most SALT Inducing Series Yet! - Cannon Rushing to Grandmaster - Episode 1",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-the-most-salt-inducing-series-yet-cannon-rushing-to-grandmaster-episode-1/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-the-most-salt-inducing-series-yet-cannon-rushing-to-grandmaster-episode-1/",
+          "originalUrl": "https://youtube.com/watch?v=Gg-KYV9GWyc",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gg-KYV9GWyc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT54M18S",
           "provider": {
             "name": "BeastyqtSC2",
             "domain": "youtube.com"
           },
           "topics": [
             "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 53,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/dTWvlG6Lork/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2019-09-14T04:35:04-07:00"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-mass-marines-basetrading.md",
-          "title": "StarCraft 2: MASS Marines Basetrading!",
-          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-basetrading/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-basetrading/",
-          "originalUrl": "https://youtube.com/watch?v=51TeNfxbivw",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/51TeNfxbivw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT49M48S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
+            "Protoss"
           ],
           "heat": 51,
           "tags": [
+            "Cheese",
             "Live"
           ],
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/51TeNfxbivw/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/Gg-KYV9GWyc/maxresdefault.jpg",
               "width": 1280,
               "height": 720,
               "isCached": true
@@ -1253,32 +1161,33 @@
           ],
           "content": "\r\n",
           "type": "video",
-          "publishedDateTime": "2019-09-15T05:08:13-07:00"
+          "publishedDateTime": "2018-10-25T04:23:00-07:00"
         },
         {
-          "path": "_games/beastyqtsc2-starcraft-2-mass-marines-mass-drops.md",
-          "title": "StarCraft 2: MASS Marines MASS Drops!",
-          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-mass-drops/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-mass-drops/",
-          "originalUrl": "https://youtube.com/watch?v=e06Mf8oU41E",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e06Mf8oU41E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT36M11S",
+          "path": "_games/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2.md",
+          "title": "StarCraft 2: Are You Jerking Me...? - Cannon Rushing to Grandmaster - Episode 2",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2/",
+          "originalUrl": "https://youtube.com/watch?v=zKB6EX4t-vM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zKB6EX4t-vM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT51M24S",
           "provider": {
             "name": "BeastyqtSC2",
             "domain": "youtube.com"
           },
           "topics": [
             "StarCraft 2",
-            "Terran"
+            "Protoss"
           ],
-          "heat": 50,
+          "heat": 51,
           "tags": [
+            "Cheese",
             "Live"
           ],
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/e06Mf8oU41E/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/zKB6EX4t-vM/maxresdefault.jpg",
               "width": 1280,
               "height": 720,
               "isCached": true
@@ -1286,32 +1195,33 @@
           ],
           "content": "\r\n",
           "type": "video",
-          "publishedDateTime": "2019-09-18T03:20:11-07:00"
+          "publishedDateTime": "2018-10-26T03:26:41-07:00"
         },
         {
-          "path": "_games/beastyqtsc2-starcraft-2-florencio-nexus-rush-vs-marines.md",
-          "title": "StarCraft 2: FLORENCIO Nexus Rush vs MARINES?!",
-          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-florencio-nexus-rush-vs-marines/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-florencio-nexus-rush-vs-marines/",
-          "originalUrl": "https://youtube.com/watch?v=fJOQJIAD9rI",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fJOQJIAD9rI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT34M9S",
+          "path": "_games/beastyqtsc2-starcraft-2-proxy-nexus-warp-in-cannon-rushing-to-grandmaster-episode-3.md",
+          "title": "StarCraft 2: Proxy Nexus Warp-in! - Cannon Rushing to Grandmaster - Episode 3",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-proxy-nexus-warp-in-cannon-rushing-to-grandmaster-episode-3/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-proxy-nexus-warp-in-cannon-rushing-to-grandmaster-episode-3/",
+          "originalUrl": "https://youtube.com/watch?v=XUESn0DFMEk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XUESn0DFMEk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT45M29S",
           "provider": {
             "name": "BeastyqtSC2",
             "domain": "youtube.com"
           },
           "topics": [
             "StarCraft 2",
-            "Terran"
+            "Protoss"
           ],
           "heat": 50,
           "tags": [
+            "Cheese",
             "Live"
           ],
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/fJOQJIAD9rI/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/XUESn0DFMEk/maxresdefault.jpg",
               "width": 1280,
               "height": 720,
               "isCached": true
@@ -1319,14 +1229,48 @@
           ],
           "content": "\r\n",
           "type": "video",
-          "publishedDateTime": "2019-09-21T02:47:54-07:00"
+          "publishedDateTime": "2018-10-29T05:14:09-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-failing-vs-terranor-am-i-cannon-rushing-to-grandmaster-episode-4.md",
+          "title": "StarCraft 2: Failing vs Terran....OR AM I 🤔🤔🤔 - Cannon Rushing to Grandmaster - Episode 4",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-failing-vs-terranor-am-i-cannon-rushing-to-grandmaster-episode-4/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-failing-vs-terranor-am-i-cannon-rushing-to-grandmaster-episode-4/",
+          "originalUrl": "https://youtube.com/watch?v=unPM0CaiIEA",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/unPM0CaiIEA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT47M6S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "tags": [
+            "Cheese",
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/unPM0CaiIEA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-10-30T03:07:51-07:00"
         }
       ],
-      "size": 20,
+      "size": 12,
       "heat": 61,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/dTWvlG6Lork/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Gg-KYV9GWyc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1366,7 +1310,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 52,
+          "heat": 51,
           "tags": [
             "Live"
           ],
@@ -1430,7 +1374,7 @@
           "topics": [
             "StarCraft 2"
           ],
-          "heat": 50,
+          "heat": 51,
           "tags": [
             "Live"
           ],
@@ -1493,14 +1437,175 @@
       "type": "collection"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-crazy-games-1v1-with-co-op-commanders.md",
-      "title": "StarCraft 2: CRAZY GAMES - 1v1 with Co-op Commanders!",
-      "excerpt": "Two fun games of StarCraft 2 played in the \"All stars: Co-op PvP mod by KingCobra\". In these two games we see players playing with Stukov, Zagara, Fenix and Zeratul in 1v1 matches.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-crazy-games-1v1-with-co-op-commanders/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-crazy-games-1v1-with-co-op-commanders/",
-      "originalUrl": "https://youtube.com/watch?v=5e1u8svyvYQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5e1u8svyvYQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M15S",
+      "path": "_games/collections/pig-the-king-of-cannons.md",
+      "title": "The King of Cannons",
+      "excerpt": "It's much better when you're watching someone else get cannoned in StarCraft 2, isn't it?",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/pig-the-king-of-cannons/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/collections/pig-the-king-of-cannons/",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "topItems": [
+        {
+          "path": "_games/pig-whose-ball-is-it-anyway-the-king-of-cannons-1-starcraft-2.md",
+          "title": "Whose Ball is it Anyway!? | The King of Cannons #1 - StarCraft 2",
+          "excerpt": "Seems like we got ANOTHER new series bois(n girls), The King of Cannons!  be sure to follow him on: Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng  Like the content? Then consider to leave a thumbs",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-whose-ball-is-it-anyway-the-king-of-cannons-1-starcraft-2/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/pig-whose-ball-is-it-anyway-the-king-of-cannons-1-starcraft-2/",
+          "originalUrl": "https://youtube.com/watch?v=6LShnUyxhUc",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6LShnUyxhUc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT20M31S",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 51,
+          "tags": [
+            "Cheese"
+          ],
+          "images": [
+            {
+              "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+              "width": 1200,
+              "height": 800,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-07-03T15:59:09-07:00"
+        },
+        {
+          "path": "_games/pig-motorboating-immortal-king-of-cannons-2-starcraft-2.md",
+          "title": "Motorboating immortal! | King of Cannons #2 - StarCraft 2",
+          "excerpt": "Seems like we got ANOTHER new series bois(n girls), The King of Cannons!  be sure to follow him on, Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng  Like the content? Then consider to leave a thumbs",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-motorboating-immortal-king-of-cannons-2-starcraft-2/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/pig-motorboating-immortal-king-of-cannons-2-starcraft-2/",
+          "originalUrl": "https://youtube.com/watch?v=tH89RWEr_wY",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tH89RWEr_wY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT9M43S",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "tags": [
+            "Cheese"
+          ],
+          "images": [
+            {
+              "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+              "width": 1200,
+              "height": 800,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-07-14T23:13:16-07:00"
+        },
+        {
+          "path": "_games/pig-but-what-if-they-blind-counter-me-king-of-cannons-ep3-starcraft-2.md",
+          "title": "But what if they blind counter me? | King of Cannons Ep#3  - StarCraft 2",
+          "excerpt": "Seems like we got ANOTHER new series bois(n girls), The King of Cannons!  be sure to follow him on, Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng  Like the content? Then consider to leave a thumbs",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-but-what-if-they-blind-counter-me-king-of-cannons-ep3-starcraft-2/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/pig-but-what-if-they-blind-counter-me-king-of-cannons-ep3-starcraft-2/",
+          "originalUrl": "https://youtube.com/watch?v=XVdi96aXRes",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XVdi96aXRes\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT13M",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "tags": [
+            "Cheese"
+          ],
+          "images": [
+            {
+              "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+              "width": 1200,
+              "height": 800,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-07-14T23:16:31-07:00"
+        },
+        {
+          "path": "_games/pig-the-king-channels-is-his-inner-sewer-mermaid-the-king-of-cannons-4-5-6-starcraft-2.md",
+          "title": "The King channels is his inner sewer mermaid - The King of Cannons #4, 5 & 6 - StarCraft 2",
+          "excerpt": "The King of Cannons! Be sure to follow him on: Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQ...  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-king-channels-is-his-inner-sewer-mermaid-the-king-of-cannons-4-5-6-starcraft-2/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/pig-the-king-channels-is-his-inner-sewer-mermaid-the-king-of-cannons-4-5-6-starcraft-2/",
+          "originalUrl": "https://youtube.com/watch?v=kZLh08S2kyo",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kZLh08S2kyo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT34M10S",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 52,
+          "tags": [
+            "Cheese"
+          ],
+          "images": [
+            {
+              "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+              "width": 1200,
+              "height": 800,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-01-02T21:00:34-08:00"
+        }
+      ],
+      "size": 15,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-epic-game-specials-triple-starport-opener-byun-vs-special.md",
+      "title": "StarCraft 2: EPIC GAME - SpeCial's Triple Starport Opener! (ByuN vs SpeCial)",
+      "excerpt": "Amazing game of StarCraft 2 between SpeCial versus  ByuN. In this Terran versus Terran SpeCial decides to play a Starport focused playstyle, where he rushes out a second Starport and tries to get aggressive with Viking Siege Tank. As a followup he decides to add on a third Starport and transitions towards",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-game-specials-triple-starport-opener-byun-vs-special/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-specials-triple-starport-opener-byun-vs-special/",
+      "originalUrl": "https://youtube.com/watch?v=Q8LBAIc-fpo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q8LBAIc-fpo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M44S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1514,20 +1619,60 @@
         ]
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Terran"
       ],
       "heat": 60,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/5e1u8svyvYQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-11-29T02:14:59-08:00"
+      "publishedDateTime": "2022-06-03T03:24:10-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-new-maps-scarlett-vs-byun-best-of-3.md",
+      "title": "StarCraft 2: NEW MAPS - Scarlett vs ByuN! (Best-of-3)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between Scarlett (Zerg) versus ByuN (Terran). These games are played on the new maps that were recently announced for SC2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-maps-scarlett-vs-byun-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-maps-scarlett-vs-byun-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=idETJODPt-A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/idETJODPt-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M37S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-24T02:48:55-07:00"
     }
   ],
   "nextPage": 5

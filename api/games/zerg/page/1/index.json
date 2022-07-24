@@ -29,7 +29,7 @@
         "Protoss",
         "Zerg"
       ],
-      "heat": 402,
+      "heat": 318,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -243,7 +243,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 171,
+      "heat": 158,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -480,6 +480,36 @@
       "publishedDateTime": "2022-07-12T02:03:51-07:00"
     },
     {
+      "path": "_games/pig-how-quickly-can-reynor-dispose-of-noobs-part-44-holdout-challenge-starcraft-2.md",
+      "title": "How quickly can REYNOR dispose of noobs? (Part 4/4) | Holdout Challenge - StarCraft 2",
+      "excerpt": "We paid Reynor to 1v1 noobs in StarCraft 2. The challenge: the noobs needed to stay in the match for as long as possible. How did they fare against an actual Zerg Championship player? This is Part 4 out of 4  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-reynor-dispose-of-noobs-part-44-holdout-challenge-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-reynor-dispose-of-noobs-part-44-holdout-challenge-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=VYvf5zAPIQY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VYvf5zAPIQY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M11S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 114,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-03T15:29:45-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-epic-match-clem-vs-dark-best-of-7.md",
       "title": "StarCraft 2: EPIC MATCH - Clem vs Dark! (Best-of-7)",
       "excerpt": "Epic match of professional StarCraft 2 between Clem and Dark. In this best-of-7 series from the TSL 7 we watch two top level pro gamers fight it out in some very clever games. Clem doesn't really lose Terran versus Zerg in Europe anymore, but Dark plays a Korean version of ZvT that's different than what",
@@ -555,44 +585,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-06T04:58:06-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-swarm-host-troubles-viewer-games.md",
-      "title": "StarCraft 2: Swarm Host TROUBLES! (Viewer Games)",
-      "excerpt": "Viewer submitted games in StarCraft 2. In this video I cast two games of SC2 that were submitted to replays@lowko.tv.   00:00 Terrible cheese 19:51 Swarm Host troubles  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-swarm-host-troubles-viewer-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-swarm-host-troubles-viewer-games/",
-      "originalUrl": "https://youtube.com/watch?v=BYudrw0Lkho",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BYudrw0Lkho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M37S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 108,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-07-08T03:50:20-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-baneling-busts-maru-best-of-5.md",
@@ -748,6 +740,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-05T03:11:34-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-swarm-host-troubles-viewer-games.md",
+      "title": "StarCraft 2: Swarm Host TROUBLES! (Viewer Games)",
+      "excerpt": "Viewer submitted games in StarCraft 2. In this video I cast two games of SC2 that were submitted to replays@lowko.tv.   00:00 Terrible cheese 19:51 Swarm Host troubles  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-swarm-host-troubles-viewer-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-swarm-host-troubles-viewer-games/",
+      "originalUrl": "https://youtube.com/watch?v=BYudrw0Lkho",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BYudrw0Lkho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M37S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 102,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-08T03:50:20-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-my-biggest-baneling-hit-ever-zerg-live-games.md",
@@ -1088,44 +1118,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-01-20T03:02:04-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-clem-best-of-3.md",
-      "title": "StarCraft 2: SERRAL vs CLEM! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level Zerg versus Terran in StarCraft 2 between Clem and Serral.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-clem-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-clem-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=LAHWtJfZXQQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LAHWtJfZXQQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M1S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 76,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-05-27T03:31:39-07:00"
     }
   ],
   "nextPage": 2

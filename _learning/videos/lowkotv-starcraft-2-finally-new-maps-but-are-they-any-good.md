@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT1H10M12S
 publishedDateTime: 2021-10-18T11:57:02Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xtCoiyYsatM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "SY4bKr0n0dND9ErPRUoM3kMUIdfhnuT3DV0Yt+LM/kSI9mKkR0gduKDqSCFjOLgCEgI8roAuZe8JC5EQvfUvIYrcHsLiK8o/zqgcgnimbemlgCBSvl2TlsfUaRdfE12GDwFcBt99vF6JTO4hc80X1eX+PvDAgIJ3t8n6+Njw8AHLLrB26R2e2OZnxTv3V7HQ7JBg17FIrYh4PptEO0rmJXjXw6XK8FiMR+eLjDn5IedMIr18PFwU5I5/DLo6iLsuTeee0Sa3yzmmtqjFJ42dKsj0TtrqzmkmLu8Azm1GydD3mmF87+pTb3lXE9zJyAbso/x+gxkhQwI1MTVHNv48M51r1XvOUKxuUSA9CX4mgo/vG9UAp7R6sY5noFQtgQR/EgQ0GiMBXvm5DyUKTGhH7pc7xyQADpkL7bmIWNb0yH8=;dcsqX0i57wHQvlKQk6wpdA=="
+secured: "Dovei+LHw0u3lmtg9gfNGCM5sCKs3sKf9kZ0CYdDlhewsJsCNouILgTU6DlhquzfIfGo3Y853VSTDZ8eTBt/IvzxPB63d1NNpT7hx7nY4X5bkKtUgp07MtBZu9s13bGBrH/Uyy6d3ABQTcWE/Rv+/XutoqOoKECaT1loCjWfcfpGuAL/dtc3BOVS5LFC03bfz0bx2jE1CLRfVYqOdUwdmurT1spxCVT5nmgXO5GdfWpAh8eDffNqE+1lGWfebq4sAPLtIy32GNtWxXXx9d2gmYWlZCLdlK1eJYxuJIh9bUngiaX2HaC7//zbSQdUE87cP9Lz2BtZTNZny0AtgXIeynke+GGeapOssrEzKF/SdBcPx4mU0TMvmUsTwpxCE24KIdAkY/LMYQPOXDiHIbmgF3FpHnzNy5lMhGWCgLCxz+4=;pVy8zx/FBTx/qIfGCu0RhQ=="
 ---
 

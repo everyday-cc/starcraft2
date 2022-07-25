@@ -892,6 +892,7 @@ items:
   - pig-the-most-confusing-salt-ever-salt-mines-9-starcraft-2
   - pig-the-rare-upgrade-that-guarantees-chaos-icyfar-ruthless-growth-starcraft-2
   - pig-what-happens-when-you-let-them-choose-macro-or-cheese-1-starcraft-2
+  - pig-the-fastest-map-possible-is-ridiculous-esp-with-bw-units-starcraft-2
 
 topics:
   - StarCraft 2

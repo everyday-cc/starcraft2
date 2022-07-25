@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=jwtXY3vum04
 type: video
 length: PT44M6S
 publishedDateTime: 2022-03-30T16:32:19Z
-heat: 52
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jwtXY3vum04\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 800
     isCached: true
 
-secured: "fXCT2D/zmVhLr3DG/AzJ1/MnqcbT0QiR7WbE64bfPUe+3xZJEFluCr450TkK3a0qzg+WScHsygtWJ8ibGHCgPntzkVsLoUZ90IEgF/9NMtmBrvFa7pcuZR4zbFmrnKm+7fIguoum+jwY288bQG2a37ycsxdbshci55XhRYDtDtTUO664VpLP0zKQwMrYEV1CJXJfHkz4qKqahoZlIu1Wdk/3XdoOQ0uCYosy8ZlljfZVsVzLYTl3bZBHGwA1xQbi4ibH4pAeytgSFVp2SF9xa6WwlGsla2UVL5YDdSeRehVzRMSHjt5J2atiIes94RYueAUo6vVdqc9ph0E5/mMN1ZC3HQqqujH/l3Y52uanL1sYUkbHLg71WTMLbNc3bg9xZ0k+xLK5PeXU/KuO65OFyBfqZAr9rlFUdQ8oExlSAKs=;zLbL15UojR0vHi/jqoz4lQ=="
+secured: "pneusMjzkAIyPdQVAnEviIfJh9pNcWgA+rspN8iGyKknIvn20rTgH1fmDYNv16RJ6dDSymvx1CuwSZz7hjAyZAzImet+00lJ+vYVkd6wqKNGyYkhkAaB5C41AUby1Z1AHk+PqRvFc6F2rq+kkuDzwQhfpVZASk7x3cT32Vu3HWXPMSVNBW7KFgW5odVn5fYd/r1NEmNjP/y/VuAd9xHCAMlFQyGtegQ8bOiwYIS2X/WCNP5kIT1GrmyPOT83VqJbbYV/T1uESiOxT6/JX3gEIhZkXT/MuZHh+qhYTPud7OvSKHP9wmY8EAhskcWjoZJbAY6FLN6x+KaQp0v+fNjvkPYMZD1kNHld8ELOGd2ZfSmDJbN13rdo/BHu253W0eAPB0D3HFKW6aDov+Yna30di7iIexFmn18SzMDE9zA0RPM=;iSp0W2M3j/svC7FNmQK5LA=="
 ---
 

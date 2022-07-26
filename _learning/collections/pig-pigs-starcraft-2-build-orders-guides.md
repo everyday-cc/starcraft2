@@ -18,6 +18,7 @@ items:
   - videos/pig-starcraft-2-scarletts-savage-zvp
   - videos/pig-scarletts-disgusting-protoss-cheeses
   - videos/pig-5-reasons-youre-not-improving-at-starcraft-2-and-how-to-fix-it
+  - videos/pig-how-to-deal-with-ladder-anxiety-in-starcraft-2
 
 topics:
   - StarCraft 2

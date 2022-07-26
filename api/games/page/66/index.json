@@ -4,6 +4,67 @@
   "page": 66,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-how-to-crush-a-cannon-battery-cheese-diamond-in-the-ruff-26.md",
+      "title": "StarCraft 2 - How to Crush a CANNON BATTERY CHEESE | Diamond in the Ruff #26",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Protoss opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-how-to-crush-a-cannon-battery-cheese-diamond-in-the-ruff-26/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-how-to-crush-a-cannon-battery-cheese-diamond-in-the-ruff-26/",
+      "originalUrl": "https://youtube.com/watch?v=X0yrS1oZIn8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X0yrS1oZIn8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M38S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/X0yrS1oZIn8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-12-26T09:00:24-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-how-to-shut-down-cheese-4-games-diamond-in-the-ruff-49.md",
+      "title": "StarCraft 2 - HOW TO SHUT DOWN CHEESE (4-games) | Diamond in the Ruff #49",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran, Zerg and Protoss opponents? 🐷 Support PiG: https://www.pigstarcraft.com/support/  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-how-to-shut-down-cheese-4-games-diamond-in-the-ruff-49/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-how-to-shut-down-cheese-4-games-diamond-in-the-ruff-49/",
+      "originalUrl": "https://youtube.com/watch?v=sh4YeQB7jog",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sh4YeQB7jog\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M56S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sh4YeQB7jog/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-25T03:55:49-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-how-to-shut-down-cheese-in-style-diamond-in-the-ruff-41.md",
       "title": "StarCraft 2 - HOW TO SHUT DOWN CHEESE IN STYLE | Diamond in the Ruff #41",
       "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent? 🐷 Support PiG: https://www.pigstarcraft.com/support/  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow",
@@ -543,6 +604,36 @@
       "publishedDateTime": "2021-08-17T16:05:21-07:00"
     },
     {
+      "path": "_games/pig-starcraft-2-is-this-protoss-hacking-smurf-detective-4.md",
+      "title": "StarCraft 2 - IS THIS PROTOSS HACKING!? | Smurf Detective #4",
+      "excerpt": "Here we dive into a Smurf Detective submission by a Terran who wonders whether his opponent is either a Starcraft smurf, hacker or both. What do you think?  🔥New Community Submission Series: SMURF DETECTIVE! So you think you have faced a Smurf. Send in your replay to RateMyStarCraft@gmail.com with your",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-is-this-protoss-hacking-smurf-detective-4/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-is-this-protoss-hacking-smurf-detective-4/",
+      "originalUrl": "https://youtube.com/watch?v=lOVoW2XJjik",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lOVoW2XJjik\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M10S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lOVoW2XJjik/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-09-01T04:10:25-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-janice-wont-share-her-bandaids-the-florencio-files-139.md",
       "title": "StarCraft 2 - Janice won’t share her Bandaids | The Florencio Files #139",
       "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
@@ -808,96 +899,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-macro-king-florencio-the-florencio-files-116.md",
-      "title": "StarCraft 2 - Macro King Florencio!? | The Florencio Files #116",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-macro-king-florencio-the-florencio-files-116/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-macro-king-florencio-the-florencio-files-116/",
-      "originalUrl": "https://youtube.com/watch?v=BueeU0O8NuU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BueeU0O8NuU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M37S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BueeU0O8NuU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-01T11:28:35-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-macro-mermaid-vs-creep-king-florencio-files-213.md",
-      "title": "StarCraft 2 - MACRO MERMAID vs CREEP KING | Florencio Files #213",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: http://paypal.me/PiGSC2 | https://www.patreon.com/PiGSC2  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-macro-mermaid-vs-creep-king-florencio-files-213/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-macro-mermaid-vs-creep-king-florencio-files-213/",
-      "originalUrl": "https://youtube.com/watch?v=JdVB9nuwL34",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JdVB9nuwL34\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M19S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JdVB9nuwL34/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-02-17T19:13:20-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-mass-banshee-surprise-diamond-in-the-ruff-27.md",
-      "title": "StarCraft 2 - MASS BANSHEE SURPRISE! | Diamond in the Ruff #27",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Zerg opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-mass-banshee-surprise-diamond-in-the-ruff-27/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-mass-banshee-surprise-diamond-in-the-ruff-27/",
-      "originalUrl": "https://youtube.com/watch?v=u9TIOcQSBAM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u9TIOcQSBAM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M9S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/u9TIOcQSBAM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-12-27T09:00:32-08:00"
     }
   ],
   "nextPage": 67

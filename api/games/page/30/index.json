@@ -4,43 +4,6 @@
   "page": 30,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-abducting-maxed-out-skytoss.md",
-      "title": "StarCraft 2: ABDUCTING Maxed Out Skytoss!",
-      "excerpt": "Reynor versus Zest in a top-level match of Zerg versus Protoss in StarCraft 2. In this video I discuss the new late game of this matchup and my main concerns.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-abducting-maxed-out-skytoss/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-abducting-maxed-out-skytoss/",
-      "originalUrl": "https://youtube.com/watch?v=izDAMjeG2aQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/izDAMjeG2aQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/izDAMjeG2aQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-12-04T04:52:17-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-action-packed-protoss-vs-terran.md",
       "title": "StarCraft 2: ACTION-PACKED Protoss vs Terran!",
       "excerpt": "An awesome match of Protoss vs Terran in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/C1yp8c  Both players are off-racing in this match. Essentially meaning that while they have a decent understanding of the game, their expertise may not be specifically",
@@ -231,6 +194,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-02-18T04:58:57-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-amazing-match-gumiho-vs-vanya-game-of-the-year.md",
+      "title": "StarCraft 2: AMAZING MATCH - GuMiho vs Vanya! (Game of the Year?)",
+      "excerpt": "One of the best games of professional StarCraft 2 of 2021 for sure. In this epic game of Zerg versus Terran between Vanya and GuMiho, we watch a game that begins as every game does, but quickly spirals out of control.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-amazing-match-gumiho-vs-vanya-game-of-the-year/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-amazing-match-gumiho-vs-vanya-game-of-the-year/",
+      "originalUrl": "https://youtube.com/watch?v=1_8D82u4iNk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1_8D82u4iNk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M4S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1_8D82u4iNk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-10-14T00:56:42-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-amazing-widow-mine-connections-cure-vs-rogue.md",

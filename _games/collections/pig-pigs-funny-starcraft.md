@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 61
+heat: 60
 
 provider:
   name: PiG
@@ -845,7 +845,7 @@ items:
   - pig-starcraft-2-flo-pushes-the-limits-of-one-base-play-florencio-files-264
   - pig-starcraft-2-flo-maxed-out-upgrades-for-the-wrong-units-florencio-files-265
   - pig-starcraft-2-mass-ghosts-are-imba-against-f2-zergs-diamond-in-the-ruff-71
-  - pig-creative-insults-in-starcraft-salt-mines-3
+  - pig-creative-insults-in-starcraft-salt-mines-3-starcraft-2
   - pig-starcraft-2-proxy-hatch-and-burrow-is-this-a-new-dumb-zvt-build-icyfar-siege-tactics-g2
   - pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-siege-tactics-g1
   - pig-starcraft-2-lowko-is-an-f2-zerg-350-apm-0-control-groups
@@ -893,6 +893,7 @@ items:
   - pig-the-rare-upgrade-that-guarantees-chaos-icyfar-ruthless-growth-starcraft-2
   - pig-what-happens-when-you-let-them-choose-macro-or-cheese-1-starcraft-2
   - pig-the-fastest-map-possible-is-ridiculous-esp-with-bw-units-starcraft-2
+  - pig-toss-is-mad-even-after-they-did-what-he-asked-salt-mines-10-starcraft-2
 
 topics:
   - StarCraft 2

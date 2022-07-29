@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/28/prime-gaming-adds-starcraft-and-z
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/prime-gaming-adds-starcraft-and-zak-mckracken-to-august-games-lineup/amp/"
 type: article
 quality: 57
-heat: 78
+heat: 98
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.pcgamesn.com/wp-content/uploads/2022/07/starcraft-remastered-prime-gaming-august-protoss.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Amazon Prime is giving away Starcraft: Remastered this month"
+    excerpt: "After giving members of its subscription service 30 free games during Prime Day, Amazon is now handing them StarCraft: Remastered. Announced in a blog post (opens in new tab), Pri"
+    publishedDateTime: 2022-07-29T16:00:00Z
+    webUrl: "https://www.techradar.com/news/amazon-prime-is-giving-away-starcraft-remastered-this-month"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/XUxVQ8bwEkU9hDZXnXbRRa-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "GXl/o1HmnkpsMu0d3v+93Wm2ouyyKQzpRQU8YUasXuBA1u1pE2n6RoYjRdJOsfGdRNXitlpch45cPkrfMtO5P2sL4u+WMB14CAtae4QdZhxANQ3kmZ5labYz7FFa7eIzFi2WuusMG6zTk+bjwwhiBBibLPbLyVFoIuPUrMjKEE4RON+eO/loZcehNsyeY4MTJncTEAR8+xtfTHa1s9fwvqJHPRIp7NQu3CFWPI/BQ2DGBbMJBT8kUVEohW4WTRBlnvuV50qeNnRN9vQgLi7cWAZ8p6uenJNrLPEe/f2ZAiAoeQ2uTEQgwkK3M4JUUnAZfocaArx87RacBAHwTitPa12sGPmVyumdfQDSvpRlfLR2HWlYDLE9Wo80CU5uZAZPQdXPxFX/zkNeSZW7xwPTy9b6wKKRA0k60uCBQhPnM08x02qclZK9zQJ00FQyfcNoNOHjin4rG8i2VLNDfU8R6MxXTXwpGLHS0uj4LGAZfFZr8QquLc7nb1u2GeCUDxtnMK0nut+AzyciCwe/iEPvVA==;YAOZWEbmCnIQakTOPxx4lQ=="

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon Prime is giving away Starcraft: Remastered this month"
+    excerpt: "After giving members of its subscription service 30 free games during Prime Day, Amazon is now handing them StarCraft: Remastered. Announced in a blog post (opens in new tab), Pri"
+    publishedDateTime: 2022-07-29T16:00:00Z
+    webUrl: "https://www.techradar.com/news/amazon-prime-is-giving-away-starcraft-remastered-this-month"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/XUxVQ8bwEkU9hDZXnXbRRa-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "cHUeyajJ6KHQuLaCWJuVm9zq/t+Sb0KSwgLTD0iyOXT0ZDF6vhCbkJ6eX8EbKqj4YCBEex0/N/7Gg5h6Q/KylY8YxiT6yJiOmhPLCz8KNetPhtP7TYGuQCc+B3o6d16tDmtkO4L6HxxTLRUGfsVsEKKNE3HX9AyKnvu3T2KlPce0zAG4hTlYxycpJlhATvlpitoq7shM49B8OficyoQjLOT/XdB5Kd4D5GlPEaWWuJVUH1MRUSDqE6/7ATJCJZBoivWJxXCNHs9G/zYanZj4qZz3EluRyt8uFEbaOIWFKEc+NHCKAjGZCF1egq1NyJel3JpOdej8tN4EzaVlXgeT/52ykPJvGuE983/swlc6yxf3vwhGQhnlNnluKap/mM+k5WkMCU+6uwn1gPzdH1Rd4VNBJ56ASdj9ZrCAdT0G+FL7bYIsLbOgub4scPFPrHG9dXhMeMwnu/r9ouYN4mnLx+QQCGCd/fdkx/qau2HMDrkvko7PxnWT6mCIBJc2Hx/4pe+ibExEsTYKf4H2SLtZXA==;PtWCS8IfKTSGInxX1PNZkQ=="
 ---

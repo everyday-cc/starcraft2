@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=oGCQ-DxIDhc
 type: video
 length: PT29M30S
 publishedDateTime: 2022-06-30T09:43:21Z
-heat: 114
+heat: 104
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oGCQ-DxIDhc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 800
     isCached: true
 
-secured: "MbNsHFnzMXnH5rjfE8hstSlVFGvJ5nIyLV/fzNGTjiFv5Q3TAUhsPfb+jA72xhl7CAjH6XqSarM1rUBlRSYmdT4YW7oiyQrdLg/+3YL4pv+G8v1Y8EdAKBLI7ihncl8KooEGSsxZ1dYpyrReirDULKgFmnuwOcalKolmIf6MUb204m3Melnqwvc/ouCKg7A1uX5027RXV1K66dvnSrHexogSclsA6YkHA6DVnLu+kw3gbLDH2a8p8RopIFQFGB1ZBpnPI/h0STqkCNtL2ye5L5K4690vWvZOFtvuxMaN3HAFbllxWi3cNDv5qAcsICq96LuEEDthjUyPAJPHAJrGJs0ca8VdNb+nkhfzPLz2hLGA5/AQ6deM9X+XxeEj5ch9CxM7J07xtnNeyVlt72tOupaK/Qxhiw3zwPNxWBHiuk8=;tkyj3l+tYTYCL3bNvHpU7g=="
+secured: "LAWSd1g/0gFI4NkmtZg+eMWHP0cwSYeQ4mUE7GaMV710sTma+k6hPKJj4aKkewNB1QorQ9nCfeyaoXCEcXCANgu6weXZB6v0MqlQMAY5tH89md5T7QVnHvO/wCOJQJa/q0+0IFRKMrb3oIV51+ologyrQXElz5WLcJMsZZpbsnLp3kPEyc9bN5aVUDrD+xpK5fZXS5uK2hhyAujotvsyqICDnAbI950QMKPJlpfg3LM7yV6SSkaJi2yQqUdCGlAsvwpQDO5YQdC7iz6gkBPDodvojgISyg5D7I02p8bdiU2adE1E2aC07svA5LVqBvvXmWb+7m8gJUeMNXPM+Ry6wcgVAT1i5/lUkSXw2h513YYn+VBGACJh/UDcfqYl1RZcDsqLEVn1Zfu51Q0wcubL0SU03HSidIOppk6hBp5UlN8=;YAmM9lMbSFdyVpTiDhEfPg=="
 ---
 

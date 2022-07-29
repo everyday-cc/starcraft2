@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-11-sd-times-github-project-of-the-week-starcraft.md",
+      "title": "SD Times GitHub Project of the Week: StarCraft",
+      "excerpt": "Tetris and more. We’ve even heard of DOOM on an Intellivision. Now there’s another big step in porting games: StarCraft for HTML5. Created by Ryuta, StarCraft is exactly what it looks like ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/black-screen/sd-times-github-project-of-the-week-starcraft/",
+      "originalUrl": "https://sdtimes.com/black-screen/sd-times-github-project-of-the-week-starcraft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2015/09/0910.sdt-github.jpg",
+          "width": 1092,
+          "height": 1013,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2021-08-30-coming-soon-starcraft-2-controlled-with-your-iphone.md",
       "title": "Coming soon: StarCraft 2 controlled with your iPhone",
       "excerpt": "I like this idea a lot -- developer Daniel Hellerman is working on an app for the App Store that will interface with a Windows client to control Blizzard's StarCraft 2 real-time strategy game.",
@@ -1049,48 +1100,6 @@
       "provider": {
         "name": "entertainment.ie",
         "domain": "entertainment.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-starcraft-shopify-enters-esports-with-shopify-rebellion.md",
-      "title": "StarCraft: Shopify Enters Esports With Shopify Rebellion",
-      "excerpt": "The ecommerce giant enters esports with their own Starcraft 2 roster. Canadian ecommerce giant Shopify announced their interest in",
-      "sourceUrl": null,
-      "webUrl": "https://estnn.com/starcraft-shopify-enters-esports-with-shopify-rebellion/",
-      "originalUrl": "https://estnn.com/starcraft-shopify-enters-esports-with-shopify-rebellion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://estnn.com/wp-content/uploads/2021/02/shopifyft.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://estnn.com/starcraft-shopify-enters-esports-with-shopify-rebellion/amp/",
-      "cdnAmpWebUrl": "https://estnn-com.cdn.ampproject.org/c/s/estnn.com/starcraft-shopify-enters-esports-with-shopify-rebellion/amp/",
-      "publishedDateTime": "2021-02-20T05:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ESTNN Esports",
-        "domain": "estnn.com",
         "images": null,
         "publishers": null,
         "authors": null

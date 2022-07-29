@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-24-starcraft-ii-503-patch-notes.md",
+      "title": "StarCraft II 5.0.3 Patch Notes",
+      "excerpt": "Patch 5.0.3 has arrived. Check out the detail!",
+      "sourceUrl": null,
+      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23492556/starcraft-ii-5-0-3-patch-notes",
+      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23492556/starcraft-ii-5-0-3-patch-notes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-24T12:29:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-balance-update-august-13-2020.md",
       "title": "Balance Update - August 13, 2020",
       "excerpt": "Here are some small adjustments we’d like to make to our initial proposals.",
@@ -1200,57 +1251,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-20T14:33:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-interviewing-insidious-champion-of-the-tlnet-map-contest-14.md",
-      "title": "Interviewing Insidious, champion of the TLnet Map Contest #14",
-      "excerpt": "We reached out to Alexander “Insidious” Hallmann, an experienced submitter but first-time finalist, to chronicle the origin story of his 1st-place action-packed rush map, Blackburn.",
-      "sourceUrl": null,
-      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23320226/interviewing-insidious-champion-of-the-tlnet-map-contest-14",
-      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23320226/interviewing-insidious-champion-of-the-tlnet-map-contest-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ts/TSGPO7WP48GY1584477622085.png",
-          "width": 880,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T13:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Blizzard",

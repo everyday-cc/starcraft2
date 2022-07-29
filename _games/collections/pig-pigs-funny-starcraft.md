@@ -884,7 +884,7 @@ items:
   - pig-how-quickly-can-hero-dispose-of-a-noob-me-ept-na-holdout-challenge-bo3-pvz-starcraft-2
   - pig-can-you-guess-mmr-better-than-a-gm-guess-the-mmr-3-starcraft-2
   - pig-this-challenge-should-be-unfair-for-protoss-starcraft-2
-  - pig-the-highest-compliment-you-can-get-salt-mines-8-starcraft-2
+  - pig-this-is-why-you-dont-get-cocky-too-early-salt-mines-8-starcraft-2
   - pig-the-best-and-worst-smooth-brain-auditions-season-3-starcraft-2
   - pig-what-happens-when-pros-have-maphacks-to-prove-a-point-no-fog-of-war-mod-starcraft-2
   - pig-pros-suck-at-defending-cannon-rushes-starcraft-2
@@ -894,6 +894,7 @@ items:
   - pig-what-happens-when-you-let-them-choose-macro-or-cheese-1-starcraft-2
   - pig-the-fastest-map-possible-is-ridiculous-esp-with-bw-units-starcraft-2
   - pig-toss-is-mad-even-after-they-did-what-he-asked-salt-mines-10-starcraft-2
+  - pig-what-happens-when-they-refuse-to-choose-macro-or-cheese-2-starcraft-2
 
 topics:
   - StarCraft 2

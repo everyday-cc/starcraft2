@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Zak McKracken and Starcraft are added to Prime Gaming’s August gaming roster"
+    excerpt: "Poisonous Promises, Starcraft: Remastered, and Beasts of Maravilla Island are all included in Prime Gaming’s free game library. It’s a diverse selection, with something for everyone. A number of cloud-based games,"
+    publishedDateTime: 2022-07-29T18:00:00Z
+    webUrl: "https://bestgamingpro.com/zak-mckracken-and-starcraft-are-added-to-prime-gamings-august-gaming-roster/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 34
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Prime-Gaming-adds-Starcraft-and-Zak-McKracken-to-August-games-lineup.png"
+        width: 600
+        height: 365
+        isCached: true
 
 secured: "cHUeyajJ6KHQuLaCWJuVm9zq/t+Sb0KSwgLTD0iyOXT0ZDF6vhCbkJ6eX8EbKqj4YCBEex0/N/7Gg5h6Q/KylY8YxiT6yJiOmhPLCz8KNetPhtP7TYGuQCc+B3o6d16tDmtkO4L6HxxTLRUGfsVsEKKNE3HX9AyKnvu3T2KlPce0zAG4hTlYxycpJlhATvlpitoq7shM49B8OficyoQjLOT/XdB5Kd4D5GlPEaWWuJVUH1MRUSDqE6/7ATJCJZBoivWJxXCNHs9G/zYanZj4qZz3EluRyt8uFEbaOIWFKEc+NHCKAjGZCF1egq1NyJel3JpOdej8tN4EzaVlXgeT/52ykPJvGuE983/swlc6yxf3vwhGQhnlNnluKap/mM+k5WkMCU+6uwn1gPzdH1Rd4VNBJ56ASdj9ZrCAdT0G+FL7bYIsLbOgub4scPFPrHG9dXhMeMwnu/r9ouYN4mnLx+QQCGCd/fdkx/qau2HMDrkvko7PxnWT6mCIBJc2Hx/4pe+ibExEsTYKf4H2SLtZXA==;PtWCS8IfKTSGInxX1PNZkQ=="
 ---

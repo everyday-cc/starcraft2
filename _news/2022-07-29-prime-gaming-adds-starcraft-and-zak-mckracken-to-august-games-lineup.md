@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/28/prime-gaming-adds-starcraft-and-z
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/prime-gaming-adds-starcraft-and-zak-mckracken-to-august-games-lineup/amp/"
 type: article
 quality: 57
-heat: 117
+heat: 120
 published: true
 
 provider:

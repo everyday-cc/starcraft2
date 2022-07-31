@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/23826546/starcraft-ii-5
 webUrl: "https://news.blizzard.com/en-us/starcraft2/23826546/starcraft-ii-5-0-10-patch-notes"
 type: article
 quality: 177
-heat: 177
+heat: 181
 published: true
 
 provider:

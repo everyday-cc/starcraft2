@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/28/prime-gaming-adds-starcraft-and-z
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/prime-gaming-adds-starcraft-and-zak-mckracken-to-august-games-lineup/amp/"
 type: article
 quality: 57
-heat: 120
+heat: 141
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/XUxVQ8bwEkU9hDZXnXbRRa-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Will StarCraft II Redefine the Real-Time Strategy Video Game Genre Again"
+    excerpt: "It has been 12 years since the debut of the PC-based, sci-fi strategy game StarCraft, which has sold more than 11 million copies, captured critical acclaim (widely cited in industry lists for being one of the top games of all time) and created an impressive long tail of gameplay from its fans."
+    publishedDateTime: 2022-07-21T13:14:00Z
+    webUrl: "https://www.nielsen.com/insights/2010/will-starcraft-ii-redefine-the-real-time-strategy-video-game-genre-again/"
+    type: article
+    provider:
+      name: Nielsen
+      domain: nielsen.com
+    quality: 36
+    images:
+      - url: "https://www.nielsen.com/wp-content/uploads/sites/2/2019/04/starcraft.png"
+        width: 500
+        height: 300
         isCached: true
   - title: "Zak McKracken and Starcraft are added to Prime Gaming’s August gaming roster"
     excerpt: "Poisonous Promises, Starcraft: Remastered, and Beasts of Maravilla Island are all included in Prime Gaming’s free game library. It’s a diverse selection, with something for everyone. A number of cloud-based games,"

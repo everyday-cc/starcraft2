@@ -517,45 +517,6 @@
       "publishedDateTime": "2022-01-18T04:54:46-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-new-maps-scarlett-vs-byun-best-of-3.md",
-      "title": "StarCraft 2: NEW MAPS - Scarlett vs ByuN! (Best-of-3)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between Scarlett (Zerg) versus ByuN (Terran). These games are played on the new maps that were recently announced for SC2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-maps-scarlett-vs-byun-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-maps-scarlett-vs-byun-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=idETJODPt-A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/idETJODPt-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M37S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 121,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-24T02:48:55-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5.md",
       "title": "StarCraft 2: GREAT SERIES - Serral vs Maru! (Best-of-5)",
       "excerpt": "A best-of-5 series between the best players that StarCraft 2 has to offer. In this video I cast a Zerg versus Terran in SC2 between Serral, the current World Champion of StarCraft, and Maru, the most succesful player from South Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
@@ -593,6 +554,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-04T04:56:34-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-amazing-game-mass-oracle-vs-queen-drop-hero-vs-reynor.md",
+      "title": "StarCraft 2: AMAZING GAME - Mass Oracle vs Queen Drop! (herO vs Reynor)",
+      "excerpt": "An amazing game of top level StarCraft 2 between herO and Reynor. This Protoss versus Zerg starts off with excellent mind games from both players, as they try to outsmart each other on Pride of Altaris. Reynor opts to go for the Gold base early, whereas herO decides to go double Stargate Oracle.   Support",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-amazing-game-mass-oracle-vs-queen-drop-hero-vs-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-amazing-game-mass-oracle-vs-queen-drop-hero-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=fa-5gB6uczc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fa-5gB6uczc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M25S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 114,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-18T05:00:50-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",

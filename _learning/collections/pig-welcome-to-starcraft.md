@@ -2,7 +2,7 @@
 title: "WELCOME TO STARCRAFT"
 excerpt: "Welcome to my 'Welcome to StarCraft' Series!"
 type: collection
-heat: 61
+heat: 62
 
 provider:
   name: PiG

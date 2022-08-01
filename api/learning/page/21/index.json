@@ -4,36 +4,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_learning/videos/pig-starcraft-2-coaching-tvp-solid-tvp-plat-3.md",
-      "title": "StarCraft 2 - Coaching TvP - Solid TvP - Plat 3",
-      "excerpt": "I coach a plat 3 Terran on a solid TvP Build and how to improve, here's the build link: http://lotv.spawningtool.com/build/42910/ -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-coaching-tvp-solid-tvp-plat-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-coaching-tvp-solid-tvp-plat-3/",
-      "originalUrl": "https://youtube.com/watch?v=xhNF3KzPzt0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xhNF3KzPzt0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M55S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-09-21T03:54:15-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-starcraft-2-coaching-tvptvz-solving-problems-and-adapting-to-weird-situations.md",
       "title": "StarCraft 2 - Coaching TvP/TvZ Solving Problems and adapting to weird situations",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos dont appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
@@ -921,6 +891,37 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-defending-cannon-rushes-in-zvp-coaching-diamond-1.md",
+      "title": "StarCraft 2 - Defending Cannon Rushes in ZvP - Coaching Diamond 1",
+      "excerpt": "I coach a diamond zerg on defending cannon rushes. We don’t get to cover every variation but talk through many of the key details  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-defending-cannon-rushes-in-zvp-coaching-diamond-1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-defending-cannon-rushes-in-zvp-coaching-diamond-1/",
+      "originalUrl": "https://youtube.com/watch?v=NvpPcyzZ2Uw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NvpPcyzZ2Uw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H3M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
       ]
     }
   ],

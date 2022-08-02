@@ -82,6 +82,20 @@ related:
         width: 500
         height: 300
         isCached: true
+  - title: "Amazon Prime is giving away StarCraft: Remastered and five other games for August 2022"
+    excerpt: "It’s been a challenging year for everyone. While some months are easier than others, at least there are always free video games every so often to (slightly) make up for rough patches. Starting A ..."
+    publishedDateTime: 2022-07-29T09:09:00Z
+    webUrl: "https://ftw.usatoday.com/2022/07/prime-gaming-free-august-2022"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 29
+    images:
+      - url: "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/11/SkyrimSpecialEditionRiverwood_1465779535_bmp_jpgcopy.jpg?w=1000"
+        width: 1000
+        height: 562
+        isCached: true
 
 secured: "oLKPywQmeVqSSW2euHpklhd8P4XGBlCexXIEhYVR/xIZir827FODX8v9BhdK/klkj+R5M0PxsG3hCDNBn9f882isuERiIieTFiWGQMMJChiPuqp6O3EJtZNQxaJdZ/AkaPMB1lyWEfJ+eZ8XrQ43O+7/1rvwXHO6HOiqLS6b5BJ1LUCVGQBFm+1+r6AGtZ3RYCGj18bXo5NzRa8XnpETbj1OiTnIbd6nPWant59gpgYjf5bzrMo/Q0lXL8/FiIy5AdE2bfByM7uwHlIsd8hW8P7iEQ6T/v+wAhXYQXR9SCWV+NXK3TR72prBHGBuSjUysiAswtkPTqDK534B9kVS8lYhtlettP9aePyZtrurjiUV8Gkoe5Bg+zoPizjV3BmAeb6QZ2vxdO43l+9ztQ73CISHYBXWLjhvKnpQkv4C/2gT6LEO99ZlvUF4YiYrB3X28/s4IsVOBpTsUxyA2fA6siu410I9EA5qQgH+mW/KyeI5JiRrLQ8Ei0R0bS+GTDApldpGEuEILPR+cY5m2/HEEQ==;DwCinUjdwhIYG9y0gyDhig=="
 ---

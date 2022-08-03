@@ -889,6 +889,7 @@ items:
   - pig-what-happens-when-pros-have-maphacks-to-prove-a-point-no-fog-of-war-mod-starcraft-2
   - pig-pros-suck-at-defending-cannon-rushes-starcraft-2
   - pig-why-are-there-two-gates-in-the-terran-mineral-line-king-of-cannons-18-starcraft-2
+  - pig-the-genius-way-of-dealing-with-cannon-rushers-king-of-cannons-19-starcraft-2
   - pig-the-most-confusing-salt-ever-salt-mines-9-starcraft-2
   - pig-the-rare-upgrade-that-guarantees-chaos-icyfar-ruthless-growth-starcraft-2
   - pig-what-happens-when-you-let-them-choose-macro-or-cheese-1-starcraft-2

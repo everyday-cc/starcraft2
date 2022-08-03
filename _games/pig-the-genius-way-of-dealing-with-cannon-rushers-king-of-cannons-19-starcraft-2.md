@@ -16,6 +16,8 @@ provider:
 topics:
   - StarCraft 2
   - Protoss
+tags:
+  - Cheese
 
 images:
   - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png

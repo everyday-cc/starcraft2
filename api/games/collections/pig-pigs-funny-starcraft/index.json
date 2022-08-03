@@ -25596,7 +25596,7 @@
       "topics": [
         "StarCraft 2"
       ],
-      "heat": 51,
+      "heat": 111,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -26103,6 +26103,9 @@
         "Protoss"
       ],
       "heat": 50,
+      "tags": [
+        "Cheese"
+      ],
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -26276,7 +26279,7 @@
       "topics": [
         "StarCraft 2"
       ],
-      "heat": 171,
+      "heat": 160,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",

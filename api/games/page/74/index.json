@@ -4,93 +4,6 @@
   "page": 74,
   "value": [
     {
-      "path": "_games/pig-the-oh-sh-ruse-icyfar-let-me-help-you-there.md",
-      "title": "THE \"OH SH*#\" RUSE | ICYFAR \"Let Me Help You There\"",
-      "excerpt": "🔥NEW ICYFAR CHALLENGE: \"Low Gas\" - You're only allowed to take the gases in your main base! Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 27th of March.  🔥New Community Submission Series: RATE MY STARCRAFT!",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-oh-sh-ruse-icyfar-let-me-help-you-there/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-oh-sh-ruse-icyfar-let-me-help-you-there/",
-      "originalUrl": "https://youtube.com/watch?v=6iF0BXgql8o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6iF0BXgql8o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M1S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6iF0BXgql8o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-the-pig-daily-45-confusion-icyfar-11.md",
-      "title": "The PiG Daily #45 | Confusion ICYFAR #11",
-      "excerpt": "This weeks ICYFAR topic: Blink DTs n stuff - Send in your best games from the testmap. You can see the changes and start it from here http://us.battle.net/sc2/en/blog/20241475/major-balance-changes-test-map-now-available-8-16-2016. Send submissions to eonblu95@gmail.com as attachment. Lastest submission",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-pig-daily-45-confusion-icyfar-11/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-pig-daily-45-confusion-icyfar-11/",
-      "originalUrl": "https://youtube.com/watch?v=-6uVDlFewG4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-6uVDlFewG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M22S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-6uVDlFewG4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-the-pig-daily-53-angry-boys-bm-icyfar-12-part-1.md",
-      "title": "The PiG Daily #53 | Angry Boys! - BM ICYFAR #12 (Part 1)",
-      "excerpt": "THIS WEEKS ICYFAR: \"Striking from the Shadows\" - Submit your games using cloaked, burrowed or invisible units! Send submissions to eonblu95@gmail.com as attachment. Lastest submission until the second daily of the week (Monday in EU/US, Tuesday in AUS/KR). Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-pig-daily-53-angry-boys-bm-icyfar-12-part-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-pig-daily-53-angry-boys-bm-icyfar-12-part-1/",
-      "originalUrl": "https://youtube.com/watch?v=wrZJQl-G-bw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wrZJQl-G-bw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M45S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wrZJQl-G-bw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-the-pig-daily-53-angry-boys-bm-icyfar-12-part-2.md",
       "title": "The PiG Daily #53 | Angry Boys! - BM ICYFAR #12 (Part 2)",
       "excerpt": "THIS WEEKS ICYFAR: \"Striking from the Shadows\" - Submit your games using cloaked, burrowed or invisible units! Send submissions to eonblu95@gmail.com as attachment. Lastest submission until the second daily of the week (Monday in EU/US, Tuesday in AUS/KR). Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb",
@@ -892,6 +805,100 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-05-18T05:15:17-07:00"
+    },
+    {
+      "path": "_games/pig-twitch-vs-avilo-bunker-rush-into-battle-mech-into-mass-thor-twitch-plays-pig-25.md",
+      "title": "Twitch Vs Avilo!? Bunker rush into Battle Mech into Mass Thor | Twitch Plays PiG #25",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-twitch-vs-avilo-bunker-rush-into-battle-mech-into-mass-thor-twitch-plays-pig-25/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-twitch-vs-avilo-bunker-rush-into-battle-mech-into-mass-thor-twitch-plays-pig-25/",
+      "originalUrl": "https://youtube.com/watch?v=-xWPp-P5sbQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-xWPp-P5sbQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M46S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-xWPp-P5sbQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-10-09T09:00:00-07:00"
+    },
+    {
+      "path": "_games/pig-u-kno-those-voids-were-halluc-right-bait-icyfar-g2.md",
+      "title": "“U kno those Voids were Halluc, right?” | Bait ICYFAR G2",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to bait their opponents out of position!   NEW ICYFAR CHALLENGE: \"Hit and Run\" - avoid head on fights and backstab, run by and basetrade your way to victory. Send submissions to fluxiorsc@gmail.com",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-u-kno-those-voids-were-halluc-right-bait-icyfar-g2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-u-kno-those-voids-were-halluc-right-bait-icyfar-g2/",
+      "originalUrl": "https://youtube.com/watch?v=AXQSn3kTshg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AXQSn3kTshg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M13S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AXQSn3kTshg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-ultra-rush-zvt-twitch-plays-pig-24.md",
+      "title": "Ultra rush ZvT | Twitch Plays PiG #24",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-ultra-rush-zvt-twitch-plays-pig-24/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-ultra-rush-zvt-twitch-plays-pig-24/",
+      "originalUrl": "https://youtube.com/watch?v=l2Jy8dtCx1I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l2Jy8dtCx1I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M41S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/l2Jy8dtCx1I/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-10-01T09:00:08-07:00"
     }
   ],
   "nextPage": 75

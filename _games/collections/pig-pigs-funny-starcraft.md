@@ -826,6 +826,7 @@ items:
   - pig-we-paid-a-pro-to-do-troll-builds-mothership-rush-afk-build-twitch-plays-astrea-4-starcraft-2
   - pig-terran-player-3-raxes-vs-the-wrong-race-diamond-in-the-ruff-65-starcraft-2
   - pig-this-starcraft-player-has-lost-his-mind-salt-mines-1-sc2
+  - pig-we-paid-a-pro-to-do-troll-builds-proxy-nexus-rush-twitch-plays-astrea-6-starcraft-2
   - pig-we-paid-a-pro-to-do-troll-builds-but-he-joined-a-clan-instead-twitch-plays-astrea-5-starcraft-2
   - pig-starcraft-2-florencio-serves-7-course-meal-of-tvz-bs-florencio-files-260
   - pig-when-the-terran-build-confuses-the-zerg-player-2-tvz-games-diamond-in-the-ruff-66-starcraft-2

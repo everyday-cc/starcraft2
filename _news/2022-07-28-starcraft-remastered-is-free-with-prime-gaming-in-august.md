@@ -41,9 +41,9 @@ related:
         height: 675
         isCached: true
   - title: "Amazon Prime is giving away Starcraft: Remastered this month"
-    excerpt: "Revamping the game with ultra HD visuals, improved audio, and full multiplayer matchmaking, this remaster is the best way to play StarCraft on modern hardware. The core gameplay is almost ..."
-    publishedDateTime: 2022-07-29T16:21:00Z
-    webUrl: "https://www.techradar.com/nz/news/amazon-prime-is-giving-away-starcraft-remastered-this-month"
+    excerpt: "After giving members of its subscription service 30 free games during Prime Day, Amazon is now handing them StarCraft: Remastered. Announced in a blog post (opens in new tab), Pri"
+    publishedDateTime: 2022-07-29T16:00:00Z
+    webUrl: "https://www.techradar.com/news/amazon-prime-is-giving-away-starcraft-remastered-this-month"
     type: article
     provider:
       name: TechRadar

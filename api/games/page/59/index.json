@@ -4,6 +4,97 @@
   "page": 59,
   "value": [
     {
+      "path": "_games/pig-pig-plays-wings-strats-attempting-icyfar-blast-from-the-past.md",
+      "title": "PiG Plays Wings Strats! | Attempting ICYFAR- Blast from the Past",
+      "excerpt": "As always I tried to attempt the ICYFAR before casting it(upload out of order, whoops!)  In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to play “old school” builds of broodwar or even SC2 WoL or HotS!  CURRENT ICYFAR CHALLENGE: \"Toddler",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-pig-plays-wings-strats-attempting-icyfar-blast-from-the-past/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-pig-plays-wings-strats-attempting-icyfar-blast-from-the-past/",
+      "originalUrl": "https://youtube.com/watch?v=ugG-xrLEG4w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ugG-xrLEG4w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M42S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ugG-xrLEG4w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-pig-vs-futures-dreaded-2-1-1-twitch-plays-pig-28.md",
+      "title": "PiG vs Future’s Dreaded 2-1-1  | Twitch Plays PiG #28",
+      "excerpt": "Twitch Plays PiG playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfzFasU_rN_YKBDhbGlIaOe  Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-pig-vs-futures-dreaded-2-1-1-twitch-plays-pig-28/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-pig-vs-futures-dreaded-2-1-1-twitch-plays-pig-28/",
+      "originalUrl": "https://youtube.com/watch?v=cPq3X51sxtg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cPq3X51sxtg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M42S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cPq3X51sxtg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-10-28T10:00:06-07:00"
+    },
+    {
+      "path": "_games/pig-planetary-ambush-one-man-army-icyfar-g3.md",
+      "title": "Planetary AMBUSH! - One-Man Army ICYFAR G3",
+      "excerpt": "Hey guys! we are back with a new person in charge of ICYFAR, yes this means that the email for submissions HAS CHANGED! In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were intimidate their opponent with individual units wherever possible",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-planetary-ambush-one-man-army-icyfar-g3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-planetary-ambush-one-man-army-icyfar-g3/",
+      "originalUrl": "https://youtube.com/watch?v=XX1ftM7B4lA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XX1ftM7B4lA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M25S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XX1ftM7B4lA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-please-mr-protoss-san-dont-hurt-me-ghost-town-icyfar-g1.md",
       "title": "“please Mr Protoss San - don’t hurt me” - Ghost Town ICYFAR G1",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays that had them destroy enemy units while leaving buildings mostly unharmed.  CURRENT ICYFAR CHALLENGE: “Snake” - Every building needs to touch another building (Creep Tumors count) Hatches/CCs/Nexus can",
@@ -707,36 +798,6 @@
       "publishedDateTime": "2019-09-30T22:04:11-07:00"
     },
     {
-      "path": "_games/pig-rank-1-is-no-match-for-zerg-cheese-starlords-filthy-adventures-14-starcraft-2.md",
-      "title": "RANK 1 is no match for ZERG CHEESE | Starlord's Filthy Adventures #14 - StarCraft 2",
-      "excerpt": "Starlord is BACK! This time we fight STUPID with STUPID (game 1 vs Stephen) then go on to troll RANK 1 on ladder with pure lings (game 2 vs Trigger) 0:00 Fighting stupid with stupid 11:54 Stealing Rank 1 MMR -- The Book of Filth: https://www.pigstarcraft.com/learn/book-of-filth/ The Book of Filth 2.0:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-rank-1-is-no-match-for-zerg-cheese-starlords-filthy-adventures-14-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-rank-1-is-no-match-for-zerg-cheese-starlords-filthy-adventures-14-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=L97LBhzAPeE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L97LBhzAPeE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M43S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-14T17:36:59-07:00"
-    },
-    {
       "path": "_games/pig-refusing-to-give-in-to-skytoss-icyfar-g3-backstab-butcher.md",
       "title": "REFUSING TO GIVE IN TO SKYTOSS! | ICYFAR G3 Backstab Butcher",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they backstab and harass their opponent as much as possible (Backstab Butcher)! Here’s a fun game of protoss versus protoss completing the challenge in humorous fashion.  Soo vs Fantasy:",
@@ -851,65 +912,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-restricted-units-icyfar-games-3-4-the-pig-daily-120.md",
-      "title": "Restricted Units! - ICYFAR - Games 3-4 The PiG Daily #120",
-      "excerpt": "THIS WEEKS ICYFAR: Basetrade! Send in your best matches involving basetrades!- Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as title! Latest submission until second daily of the week. 20/2/2017\r  Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-restricted-units-icyfar-games-3-4-the-pig-daily-120/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-restricted-units-icyfar-games-3-4-the-pig-daily-120/",
-      "originalUrl": "https://youtube.com/watch?v=zZZAihI-EPs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zZZAihI-EPs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M37S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zZZAihI-EPs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-ridiculous-bc-timing-spawns-a-fantastic-game-diamond-in-the-ruff-74-starcraft-2.md",
-      "title": "Ridiculous BC timing spawns a FANTASTIC game | Diamond in the Ruff #74 - StarCraft 2",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his insane Korean Zerg opponent, Golden?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-ridiculous-bc-timing-spawns-a-fantastic-game-diamond-in-the-ruff-74-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-ridiculous-bc-timing-spawns-a-fantastic-game-diamond-in-the-ruff-74-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=v6VKPujT_6o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v6VKPujT_6o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M16S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-05-11T20:27:49-07:00"
     }
   ],
   "nextPage": 60

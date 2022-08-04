@@ -898,6 +898,7 @@ items:
   - pig-what-if-sc-was-played-with-actual-commanders-commander-mode-1-starcraft-2
   - pig-toss-is-mad-even-after-they-did-what-he-asked-salt-mines-10-starcraft-2
   - pig-what-happens-when-they-refuse-to-choose-macro-or-cheese-2-starcraft-2
+  - pig-how-quickly-can-pig-dispose-of-noobs-holdout-challenge-starcraft-2
 
 topics:
   - StarCraft 2

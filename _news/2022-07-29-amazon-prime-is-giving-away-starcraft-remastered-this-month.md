@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Amazon Prime is giving away Starcraft: Remastered this month"
-excerpt: "After giving members of its subscription service 30 free games during Prime Day, Amazon is now handing them StarCraft: Remastered. Announced in a blog post (opens in new tab), Pri"
-publishedDateTime: 2022-07-29T16:00:00Z
-originalUrl: "https://www.techradar.com/news/amazon-prime-is-giving-away-starcraft-remastered-this-month"
-webUrl: "https://www.techradar.com/news/amazon-prime-is-giving-away-starcraft-remastered-this-month"
+excerpt: "Revamping the game with ultra HD visuals, improved audio, and full multiplayer matchmaking, this remaster is the best way to play StarCraft on modern hardware. The core gameplay is almost ..."
+publishedDateTime: 2022-07-29T16:21:00Z
+originalUrl: "https://www.techradar.com/nz/news/amazon-prime-is-giving-away-starcraft-remastered-this-month"
+webUrl: "https://www.techradar.com/nz/news/amazon-prime-is-giving-away-starcraft-remastered-this-month"
 type: article
 quality: 37
 heat: -1
@@ -101,6 +101,6 @@ related:
         height: 562
         isCached: true
 
-secured: "oF8y9RpzoQUHvp+cxcLO5smhKb53gOHRsL0bRKDY0ob13YnDyamkrYQAhAM17vR1VG3yBjoGrEok4Q9CtuQbD6C+dHpx5Gths2GsQy2t3Fb01JLXM3ddWfeEi0IO0v+jlemRFEsmW0ghRWgm8SdpLCEMek1kQxojMBogPe769Yv5tT0NMQw+cVkJ2JcmwE5VAz4KtOQe5x7kpW0eOCjTLOjp7VEsMO9ApSeWw3sFPMvsGGzmDSnCHHYbGM2uIkplzb7C2l9AqYY+X+zb7q57IDNb/y63GZ/VUo1Qel1idaJI2gsk/Ma3Pll7LqDDHAQ6we1uQSO/sccfUb9BFy9dPubObmAZumAKIM7jYlA5eR4R80hghu8E7CjBCXmOOCtDB24pyIXIeEfU8MmOuf7twXVaqfK6Lv9d5q2fpiyumK8HEqaq35y+AUrfRPB3LTeL6cI4stw21g9u94vIInHyNRFWiW8VlO64vEFypjZl5SCY5V5SL6Q/JH3VXiZr+pBjI6Qzs8SEgvOt7vzBohnk1w==;zsZNU3Qh8kLs5bRiWXRKcA=="
+secured: "NVIsfmgcwZHdDtBlUAlVuNKn+DeJmfUO7d64MyA7vsxcqrBl19i0A3Wk4JylNf0Z6udCgwAVrhsoBEYBWYLVLtRWTkS8lbIaJsxGeKe9NxRpvucdok59K/H83QzTfICmOdavwpyDGh2GTq4fC/gR5BGBVZo8LpbD4wFi9WgwLqD6jzNgIcaTT7b8UsXil1BM3l7SuBrk+E91L959q4M8Bq1+isn+r8NKMUQTF3wtrMv3cngK7pUU+iTb6bySuDGQHvlscCHEkpupfj6vQFs71nNB4j1y6SDpL66Dw3ljfuk3djJ3zlR6Ww9UIBVdTjKINEhR1ZmNKEqNWaAehM+rfrTprOwD2rKLEMRRc40XKLo=;mmWpULPtImohBhJWPNFdeg=="
 ---
 

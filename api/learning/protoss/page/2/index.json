@@ -4,68 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-death-aura-le-walling-guide-pvt.md",
-      "title": "Death Aura LE - Walling Guide PvT",
-      "excerpt": "Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is a website where you can contribute a monthly donation that will help",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-death-aura-le-walling-guide-pvt/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-death-aura-le-walling-guide-pvt/",
-      "originalUrl": "https://youtube.com/watch?v=vKfhpDEDO5o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vKfhpDEDO5o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M22S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-05-28T09:14:48-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vKfhpDEDO5o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-death-aura-le-walling-guide-pvz.md",
-      "title": "Death Aura LE - Walling Guide PvZ",
-      "excerpt": "Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is a website where you can contribute a monthly donation that will help",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-death-aura-le-walling-guide-pvz/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-death-aura-le-walling-guide-pvz/",
-      "originalUrl": "https://youtube.com/watch?v=gntIHZ8kSqY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gntIHZ8kSqY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M17S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-05-28T09:53:42-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gntIHZ8kSqY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-ice-and-chrome-le-walling-guide-pvt.md",
       "title": "Ice and Chrome LE - Walling Guide PvT",
       "excerpt": "Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is a website where you can contribute a monthly donation that will help",
@@ -331,37 +269,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/YhmpwiCGw5c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-protoss-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse.md",
-      "title": "Protoss Hotkeys | Life changing tips to setup your keyboard and mouse",
-      "excerpt": "Taking a look at my Protoss hotkeys due to popular request. If you want download my hotkeys, you can do so @ https://www.hushangcoaching.com/guides/  #protoss #hotkeys #protosshotkeys Protoss Hotkeys | Life changing tips to setup your keyboard and mouse  Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-protoss-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse/",
-      "originalUrl": "https://youtube.com/watch?v=scB6uE4jFuM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/scB6uE4jFuM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M41S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-09-04T16:07:56-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/scB6uE4jFuM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -717,6 +624,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-build-order-partings-adept-twister.md",
+      "title": "Starcraft 2: Protoss Build Order | Parting's Adept Twister",
+      "excerpt": "Starcraft 2: Protoss Build Order | Parting's Adept Twister #Starcraft2 #ProtossBuildOrder #Parting  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-protoss-build-order-partings-adept-twister/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-build-order-partings-adept-twister/",
+      "originalUrl": "https://youtube.com/watch?v=JgVw6AsTL9c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JgVw6AsTL9c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M14S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-03-05T22:55:05-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JgVw6AsTL9c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-ladder-commentary-2020-gameplay.md",
       "title": "Starcraft 2 Protoss Ladder | Commentary [2020 Gameplay]",
       "excerpt": "In today's Starcraft 2 gameplay video we're jumping back to playing Protoss! We'll be doing some ladder commentary and hopefully you guys pick up some helpful tips along the way.   Starcraft 2 Protoss Ladder | Commentary [2020] #StarCraft2 #Protoss #Ladder  0:00 - Intro 0:38 - Match 1 - Protoss vs Zerg",
@@ -841,6 +779,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-starcraft-ii-protoss-gameplay-ladder-2020.md",
+      "title": "Starcraft II: Protoss Gameplay - Ladder [2020]",
+      "excerpt": "Hey guys, today we're going to doing some Starcraft II protoss ladder gameplay. The starcraft 2 protoss gameplay is in the 4400MMR range as I level up a new main account. Hope you enjoy!  Starcraft II: Protoss Gameplay - Ladder [2020] #StarCraftII #Protoss #Gameplay   Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-ii-protoss-gameplay-ladder-2020/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-ii-protoss-gameplay-ladder-2020/",
+      "originalUrl": "https://youtube.com/watch?v=Hbs2J5L6ry8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Hbs2J5L6ry8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M28S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-09-08T23:33:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Hbs2J5L6ry8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-submarine-le-walling-guide-pvt.md",
       "title": "Submarine LE - Walling Guide PvT",
       "excerpt": "Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is a website where you can contribute a monthly donation that will help",
@@ -920,6 +889,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/6Aq1oBZWDTc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-zest-glaives-vs-a-progamer-i-got-owned-maybe-.md",
+      "title": "Zest Glaives vs a PROGAMER?! I got OWNED... maybe ;)",
+      "excerpt": "Zest Glaives vs a PROGAMER?! I got OWNED... maybe... In this Starcraft 2 guide we take a look at an example replay of the build we learned yesterday! I had a hard time finding a good opponent to show you guys an example but after dieing to cannon rushes many time, I found one: previous progamer golden.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-zest-glaives-vs-a-progamer-i-got-owned-maybe-/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-zest-glaives-vs-a-progamer-i-got-owned-maybe-/",
+      "originalUrl": "https://youtube.com/watch?v=78iQDZqODDE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/78iQDZqODDE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M40S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-06-06T17:20:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/78iQDZqODDE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=dQj7r8x4Khc
 type: video
 length: PT30M19S
 publishedDateTime: 2022-08-04T05:39:18Z
-heat: 321
+heat: 226
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dQj7r8x4Khc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ images:
     height: 800
     isCached: true
 
-secured: "Xgfgv2HOB6iq+wNRj4aqKpX7F42faEbLw6agnJZkUKf71OgSW0FGzLnqqkb1+IiMPu+Z4v1WbN9LmnYchbN/1lF4fLJWYfMaZ/BmfpVsWt0hwYquxklXEIEpn9Ts/B+l95XdpY84W0pJUTPUbN3PQvlp+2Lg8qW6MScSlE1iJyn0W1KKB5NAIXuldrfXSllaSvhO40RMnSGEMZWBoK6VuXZ/8nyz9rjlu74JYzIGa83WapbVJxwjak62+SxIlh6tyqjnciOS05+exFRMlwbRLHTqgWAv0BKM5L6hXgsbteGWgp9zgcFYNJGRRrSsN/C9O0Wcga+F21vo/RpADIwRLIBpooe1TOmWdsDaIp0pCs2X43gpGh6u1curdGk0wyYToH9DBx+sD9bY37POUkt7/xyLEY4keXTVF1R6VxMe67k=;Ms+LawDVDOeIQ6OB2aVfVg=="
+secured: "n/knzEluLLq02bVr6XQQ09IO0Aa4E8jWZ9NuRTcpDrTj8ghtflGByiVhHIJt3XedvrH5XMN1ouLyYa5f/yAuCbUJmFC7DIh5iO4cM07REWkfR/zvAn2Tb4I6DEetRx/gLnA03tUUpzsS6GCCMv86tbN3i9eeCyZLrEYISRNKLFi/kkVqSmq4fLa8C8ZdHg3I6ONLLqQZdRGXoSKhUQT6ftkw95ar/pY7XmabumjmBu3rmnj1Ro0QWQ1ynCkWrTFFpyqFwwmDQtjvdHaoeMK87Fj+w3Zf/joa/vPHPTpCbppfbdy6xkeOSBvTviEuBE2OaEWbtBxGAEpOVCQxSxmZWFQhVdKrIDwa9Azn7ecwkyv/J/YfEuqvdbJjx00Zu11AY8+H7NOv3okt7WL3j9D0SqVsdX3vchy44JeBFMvYIvo=;ASgqhc5e26fFkE71zHukuA=="
 ---
 

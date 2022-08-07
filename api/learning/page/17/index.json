@@ -4,67 +4,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_learning/videos/pig-newbie-stream-dealing-with-phoenix-defending-drops-and-setting-up-pushes.md",
-      "title": "Newbie Stream - Dealing with Phoenix, Defending Drops and Setting up Pushes",
-      "excerpt": "This is a section from my newbie/beginner stream where I analyse a players replay and answer their question -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-newbie-stream-dealing-with-phoenix-defending-drops-and-setting-up-pushes/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-newbie-stream-dealing-with-phoenix-defending-drops-and-setting-up-pushes/",
-      "originalUrl": "https://youtube.com/watch?v=Qvq9QzHfXas",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Qvq9QzHfXas\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M22S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:44:33-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Qvq9QzHfXas/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-newbie-stream-lotv-unit-tester-micro-engages-and-even-teaching-pig-some-stuff.md",
-      "title": "Newbie Stream - LotV unit tester Micro, engages and even teaching PiG some stuff!",
-      "excerpt": "So this is part of the Newbie stream (which went for 9 hours and if you guys really want i can upload that as a huge block) and the map we play on is \"LOTV Unit Tester\", if you go to custom - arcade just search for it.  Shoutout to Bulya and TripleHelix (thats me btw haha) for setting this up and microing/showcasing",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-newbie-stream-lotv-unit-tester-micro-engages-and-even-teaching-pig-some-stuff/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-newbie-stream-lotv-unit-tester-micro-engages-and-even-teaching-pig-some-stuff/",
-      "originalUrl": "https://youtube.com/watch?v=8l69_iy3bTM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8l69_iy3bTM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H12M18S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-05-10T09:00:04-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8l69_iy3bTM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-opening-phoenix-in-pvp-coaching-diamond.md",
       "title": "Opening Phoenix in PvP - Coaching Diamond",
       "excerpt": "I coach a diamond protoss on refining their phoenix opening in PvP - with a focus on recognising and reacting differently to air or ground play from the enemy.  -- Watch live at https://www.twitch.tv/x5_pig",
@@ -928,6 +867,68 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-reynors-three-ways-to-kill-voidrays.md",
+      "title": "REYNOR'S three ways to KILL VOIDRAYS",
+      "excerpt": "Reynor's IEM Katowice run included some very interesting ways to kill Voidrays. PiG's Build Notes: https://www.pigstarcraft.com/learn/pigs-build-notes/  🐷 Support PiG: https://www.pigstarcraft.com/support/ -- 🎓 Watch my live coaching sessions on my second youtube channel: https://www.youtube.com/c/PiGRandom",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-reynors-three-ways-to-kill-voidrays/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-reynors-three-ways-to-kill-voidrays/",
+      "originalUrl": "https://youtube.com/watch?v=fIf_kH1933U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fIf_kH1933U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M40S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-03-10T18:57:02-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fIf_kH1933U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-roach-hydra-drop-style-masters-zvp-coaching.md",
+      "title": "Roach Hydra Drop Style! - Masters ZvP Coaching",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos dont appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-roach-hydra-drop-style-masters-zvp-coaching/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-roach-hydra-drop-style-masters-zvp-coaching/",
+      "originalUrl": "https://youtube.com/watch?v=d-2EpfBHxKQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d-2EpfBHxKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H7M45S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-06-16T15:15:21-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/d-2EpfBHxKQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
       ]
     }
   ],

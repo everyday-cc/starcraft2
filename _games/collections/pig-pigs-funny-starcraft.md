@@ -892,13 +892,14 @@ items:
   - pig-why-are-there-two-gates-in-the-terran-mineral-line-king-of-cannons-18-starcraft-2
   - pig-the-genius-way-of-dealing-with-cannon-rushers-king-of-cannons-19-starcraft-2
   - pig-the-most-confusing-salt-ever-salt-mines-9-starcraft-2
+  - pig-this-replay-is-impossible-to-guess-the-mmr-of-guess-the-mmr-4-starcraft-2
   - pig-the-rare-upgrade-that-guarantees-chaos-icyfar-ruthless-growth-starcraft-2
   - pig-what-happens-when-you-let-them-choose-macro-or-cheese-1-starcraft-2
   - pig-the-fastest-map-possible-is-ridiculous-esp-with-bw-units-starcraft-2
   - pig-what-if-sc-was-played-with-actual-commanders-commander-mode-1-starcraft-2
   - pig-toss-is-mad-even-after-they-did-what-he-asked-salt-mines-10-starcraft-2
   - pig-what-happens-when-they-refuse-to-choose-macro-or-cheese-2-starcraft-2
-  - pig-turns-out-mass-stasis-traps-is-sick-for-unexpected-reasons-starcraft-2
+  - pig-stasis-disruptor-combo-is-disgustingly-sick-starcraft-2
   - pig-how-quickly-can-pig-dispose-of-noobs-holdout-challenge-starcraft-2
 
 topics:

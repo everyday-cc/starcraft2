@@ -720,10 +720,10 @@ items:
   - pig-pig-casts-an-epic-4v4-beast-of-the-hill-battle
   - pig-new-show-who-needs-fundamentals-in-starcraft-pig-roasts-1-mega-compilation
   - pig-starcraft-2-the-search-begins-smooth-brain-auditions-season-1
-  - pig-starcraft-2-adrenal-zergling-rush-santa-claws-1
+  - pig-starcraft-2-adrenal-zergling-rush-smooth-brain-santa-claws-1
   - pig-starcraft-2-florencios-caricature-of-a-macro-zerg-florencio-files-235
   - pig-starcraft-2-no-expanding-allowed-florencio-files-236
-  - pig-starcraft-2-the-most-wholesome-opponent-on-the-ladder-santa-claws-3
+  - pig-starcraft-2-the-most-wholesome-opponent-on-the-ladder-smooth-brain-santa-claws-3
   - pig-starcraft-2-grimmys-2-game-shtshow-grim-reaper-20
   - pig-starcraft-2-epic-swarmhost-drops-and-burrowed-infestor-harass-kaboom-baby-11
   - pig-starcraft-2-grim-cheeses-pro-players-2-games-grim-reaper-19
@@ -732,7 +732,7 @@ items:
   - pig-starcraft-2-2-drones-in-a-trenchcoat-icyfar-queue-it-up-baby-compilation
   - pig-starcraft-2-the-cheeser-becomes-the-cheesed-florencio-files-234
   - pig-starcraft-2-how-to-shut-down-cheese-4-games-diamond-in-the-ruff-49
-  - pig-starcraft-2-hidden-base-vs-hidden-base-santa-claws-2
+  - pig-starcraft-2-hidden-base-vs-hidden-base-smooth-brain-santa-claws-2
   - pig-starcraft-2-ruffs-creative-solutions-to-protoss-2-games-diamond-in-the-ruff-48
   - pig-starcraft-2-triple-cheese-combo-3-games-grim-reaper-18
   - pig-starcraft-2-cyclone-widow-mine-all-in-florencio-files-233
@@ -752,7 +752,7 @@ items:
   - pig-starcraft-2-why-are-you-hitting-yourself-florencio-files-238
   - pig-starcraft-2-the-birth-of-clemencio-florencio-files-239
   - pig-bronze-league-heroes-makes-pig-start-malding-icyfar-3-units-to-rule-them-all-compilation
-  - pig-starcraft-2-3-warp-prisms-6-disruptors-pure-stupidity-santa-claws-4
+  - pig-starcraft-2-3-warp-prisms-6-disruptors-pure-stupidity-smooth-brain-santa-claws-4
   - pig-starcraft-2-is-this-protoss-hacking-smurf-detective-4
   - pig-starcraft-2-the-200iq-comeback-move-diamond-in-the-ruff-51
   - pig-are-these-bronze-league-heroes-rate-my-starcraft-5
@@ -762,7 +762,7 @@ items:
   - pig-superhuman-throw-allows-impossible-comeback-rate-my-starcraft-6
   - pig-starcraft-2-flos-in-trouble-battlecruiser-edition-florencio-file-241
   - pig-the-sickest-trick-to-defend-cannon-rushes-icyfar-building-blocker-compilation-starcraft-2
-  - pig-when-you-both-think-youre-dead-but-youre-just-stupid-santa-claws-5-starcraft-2
+  - pig-when-you-both-think-youre-dead-but-youre-just-stupid-smooth-brain-santa-claws-5-starcraft-2
   - pig-starcraft-2-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53
   - pig-when-your-army-is-hard-countered-but-it-still-works-rate-my-starcraft-7
   - pig-starcraft-2-when-your-opponent-is-a-compulsive-liar-smurf-detective-6
@@ -808,8 +808,8 @@ items:
   - pig-starcraft-2-he-tricks-the-zerg-into-expanding-next-to-tempests-lol-florencio-files-253
   - pig-starcraft-2-when-santa-drops-christmas-gifts-no-one-asked-for-icyfar-christmas-special
   - pig-when-you-just-want-to-play-starcraft-but-flo-puts-you-in-jail-florencio-files-254
-  - pig-a-pro-player-underestimates-a-diamond-player-santa-claws-6
-  - pig-sacrificing-units-to-confuse-the-enemy-santa-claws-7
+  - pig-a-pro-player-underestimates-a-diamond-player-smooth-brain-santa-claws-6
+  - pig-sacrificing-units-to-confuse-the-enemy-smooth-brain-santa-claws-7
   - pig-when-protoss-squatters-take-terrans-main-base-diamond-in-the-ruff-61
   - pig-starcraft-2-this-dude-widow-memed-florencio-florencio-files-242
   - pig-starcraft-2-two-chezers-face-off-florencio-file-243
@@ -898,9 +898,10 @@ items:
   - pig-the-fastest-map-possible-is-ridiculous-esp-with-bw-units-starcraft-2
   - pig-what-if-sc-was-played-with-actual-commanders-commander-mode-1-starcraft-2
   - pig-toss-is-mad-even-after-they-did-what-he-asked-salt-mines-10-starcraft-2
-  - pig-what-happens-when-they-refuse-to-choose-macro-or-cheese-2-starcraft-2
+  - pig-what-happens-when-they-refuse-to-choose-mac-or-cheese-2-starcraft-2
   - pig-stasis-disruptor-combo-is-disgustingly-sick-starcraft-2
   - pig-how-quickly-can-pig-dispose-of-noobs-holdout-challenge-starcraft-2
+  - pig-he-got-salty-and-refused-the-rematch-most-annoying-player-ever-1-starcraft-2
 
 topics:
   - StarCraft 2

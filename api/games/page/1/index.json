@@ -228,45 +228,6 @@
       "publishedDateTime": "2022-05-19T22:08:52-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-its-confirmed-hero-is-the-best-protoss-byun-vs-hero.md",
-      "title": "StarCraft 2: IT'S CONFIRMED - herO is the BEST Protoss! (ByuN vs herO)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between herO and ByuN. herO just won the GSL Code S, securing him as the best Protoss player in StarCraft 2 at the moment.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-its-confirmed-hero-is-the-best-protoss-byun-vs-hero/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-its-confirmed-hero-is-the-best-protoss-byun-vs-hero/",
-      "originalUrl": "https://youtube.com/watch?v=ts0fPdwlmwg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ts0fPdwlmwg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 215,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-01T02:58:45-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-tired-of-the-ladder-maps-zest-vs-armani.md",
       "title": "StarCraft 2: Tired of the Ladder Maps... (Zest vs Armani)",
       "excerpt": "Five games of professional StarCraft 2 between Zest and Armani. In this series we don't see them play on the standard ladder maps, but instead they play on Nautilus II, Roughneck and Golden Wall. Nautilus II and Roughneck are currently being played in the GSL Code S tournament. Golden Wall is one of",
@@ -484,6 +445,45 @@
       "publishedDateTime": "2022-05-10T03:03:07-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-its-confirmed-hero-is-the-best-protoss-byun-vs-hero.md",
+      "title": "StarCraft 2: IT'S CONFIRMED - herO is the BEST Protoss! (ByuN vs herO)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between herO and ByuN. herO just won the GSL Code S, securing him as the best Protoss player in StarCraft 2 at the moment.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-its-confirmed-hero-is-the-best-protoss-byun-vs-hero/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-its-confirmed-hero-is-the-best-protoss-byun-vs-hero/",
+      "originalUrl": "https://youtube.com/watch?v=ts0fPdwlmwg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ts0fPdwlmwg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 190,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-08-01T02:58:45-07:00"
+    },
+    {
       "path": "_games/pig-a-pro-player-underestimates-a-diamond-player-santa-claws-06.md",
       "title": "A Pro player underestimates a Diamond player! | Santa Claws #06",
       "excerpt": "🎅 Santa Claws impressed in his Starcraft Smooth Brain audition and has been granted an opportunity to be the next Smooth Brain. Will he impress or will his brain prove too wrinkled?   🎅 Santa Claws Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh -- 🐷 Second Channel",
@@ -587,35 +587,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-29T03:30:19-07:00"
-    },
-    {
-      "path": "_games/pig-how-quickly-can-pig-dispose-of-noobs-holdout-challenge-starcraft-2.md",
-      "title": "How quickly can PIG dispose of noobs? | Holdout Challenge - StarCraft 2",
-      "excerpt": "Alright it's my turn to have a Holdout Challenge! Let's see how I go against these \"Noobs\", ranging from Gold to Masters league. I'm playing Random which I think gives me a slight advantage hehe  If you want to see Holdout Challenges by actual good players (like Scarlett and Reynor), see the playlist",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-pig-dispose-of-noobs-holdout-challenge-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-pig-dispose-of-noobs-holdout-challenge-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=dQj7r8x4Khc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dQj7r8x4Khc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M19S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 174,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-03T22:39:18-07:00"
     },
     {
       "path": "_games/pig-how-to-beat-the-1v7-insane-ai-challenge-starcraft-2.md",
@@ -750,6 +721,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-04T01:54:23-07:00"
+    },
+    {
+      "path": "_games/pig-how-quickly-can-pig-dispose-of-noobs-holdout-challenge-starcraft-2.md",
+      "title": "How quickly can PIG dispose of noobs? | Holdout Challenge - StarCraft 2",
+      "excerpt": "Alright it's my turn to have a Holdout Challenge! Let's see how I go against these \"Noobs\", ranging from Gold to Masters league. I'm playing Random which I think gives me a slight advantage hehe  If you want to see Holdout Challenges by actual good players (like Scarlett and Reynor), see the playlist",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-pig-dispose-of-noobs-holdout-challenge-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-pig-dispose-of-noobs-holdout-challenge-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=dQj7r8x4Khc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dQj7r8x4Khc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M19S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 147,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-08-03T22:39:18-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-top-game-the-ultimate-deathballs-maru-vs-reynor.md",
@@ -965,14 +965,14 @@
       "publishedDateTime": "2021-12-24T13:58:31-08:00"
     },
     {
-      "path": "_games/pig-beating-the-1v7-insane-ai-challenge-best-attempt-yet-3-starcraft-2.md",
-      "title": "Beating the 1v7 INSANE AI Challenge (BEST ATTEMPT YET!) #3 - StarCraft 2",
-      "excerpt": "I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! Even Serral said it is impossible unless maybe they're all Zergs. Spirit failed completely in ep 1, then Pili kinda succeeded but only because he broke the AI on an island map. In episode 3, Xayad (a Master League player) takes",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-beating-the-1v7-insane-ai-challenge-best-attempt-yet-3-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-beating-the-1v7-insane-ai-challenge-best-attempt-yet-3-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=eU2FWrLbpP0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eU2FWrLbpP0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H14M47S",
+      "path": "_games/pig-this-player-malds-so-much-they-own-themself-salt-mines-5-starcraft-2.md",
+      "title": "This player MALDS so much they own themself | Salt Mines #5 - StarCraft 2",
+      "excerpt": "The Salt Mines: Everyone has encountered a salty opponent on the StarCraft ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty. -- 🐷 Second Channel for",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-player-malds-so-much-they-own-themself-salt-mines-5-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-player-malds-so-much-they-own-themself-salt-mines-5-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=lKSt3D_-NNg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lKSt3D_-NNg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M43S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -980,7 +980,7 @@
       "topics": [
         "StarCraft 2"
       ],
-      "heat": 119,
+      "heat": 122,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -991,7 +991,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-06-25T16:38:18-07:00"
+      "publishedDateTime": "2022-06-02T01:59:07-07:00"
     },
     {
       "path": "_games/pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-starcraft-2.md",

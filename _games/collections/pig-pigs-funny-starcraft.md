@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 63
+heat: 62
 
 provider:
   name: PiG
@@ -897,6 +897,7 @@ items:
   - pig-what-happens-when-you-let-them-choose-macro-or-cheese-1-starcraft-2
   - pig-the-fastest-map-possible-is-ridiculous-esp-with-bw-units-starcraft-2
   - pig-what-if-sc-was-played-with-actual-commanders-commander-mode-1-starcraft-2
+  - pig-did-zergs-forget-how-powerful-burrow-is-smooth-brain-stephen-1-starcraft-2
   - pig-toss-is-mad-even-after-they-did-what-he-asked-salt-mines-10-starcraft-2
   - pig-what-happens-when-they-refuse-to-choose-mac-or-cheese-2-starcraft-2
   - pig-stasis-disruptor-combo-is-disgustingly-sick-starcraft-2

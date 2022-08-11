@@ -1,45 +1,35 @@
 ---
 category: news
-title: "Zak McKracken and Starcraft are added to Prime Gaming’s August gaming roster"
-excerpt: "Poisonous Promises, Starcraft: Remastered, and Beasts of Maravilla Island are all included in Prime Gaming’s free game library. It’s a diverse selection, with something for everyone. A number of cloud-based games,"
-publishedDateTime: 2022-07-29T18:00:00Z
-originalUrl: "https://bestgamingpro.com/zak-mckracken-and-starcraft-are-added-to-prime-gamings-august-gaming-roster/"
-webUrl: "https://bestgamingpro.com/zak-mckracken-and-starcraft-are-added-to-prime-gamings-august-gaming-roster/"
+title: "Prime Gaming adds Starcraft and Zak McKracken to August games lineup"
+excerpt: "Prime Gaming subs get several titles, including Starcraft: Remastered. The Prime Gaming Luna channel, which is free for subscribers, gets gameslike Control and Myst. All launch on the service on ..."
+publishedDateTime: 2022-07-28T11:38:00Z
+originalUrl: "https://venturebeat.com/games/prime-gaming-adds-starcraft-and-zak-mckracken-to-august-games-lineup/"
+webUrl: "https://venturebeat.com/games/prime-gaming-adds-starcraft-and-zak-mckracken-to-august-games-lineup/"
+ampWebUrl: "https://venturebeat.com/games/prime-gaming-adds-starcraft-and-zak-mckracken-to-august-games-lineup/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/prime-gaming-adds-starcraft-and-zak-mckracken-to-august-games-lineup/amp/"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 57
+heat: 157
+published: true
 
 provider:
-  name: Bestgamingpro
-  domain: bestgamingpro.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Prime-Gaming-adds-Starcraft-and-Zak-McKracken-to-August-games-lineup.png"
-    width: 600
-    height: 365
+  - url: "https://venturebeat.com/wp-content/uploads/2022/07/Untitled.jpg?w=1200&strip=all"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
-  - title: "Prime Gaming adds Starcraft and Zak McKracken to August games lineup"
-    excerpt: "Prime Gaming subs get several titles, including Starcraft: Remastered. The Prime Gaming Luna channel, which is free for subscribers, gets gameslike Control and Myst. All launch on the service on ..."
-    publishedDateTime: 2022-07-28T11:38:00Z
-    webUrl: "https://venturebeat.com/games/prime-gaming-adds-starcraft-and-zak-mckracken-to-august-games-lineup/"
-    ampWebUrl: "https://venturebeat.com/games/prime-gaming-adds-starcraft-and-zak-mckracken-to-august-games-lineup/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/prime-gaming-adds-starcraft-and-zak-mckracken-to-august-games-lineup/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 57
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/Untitled.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Prime Gaming adds Starcraft and Zak McKracken to August games lineup"
     excerpt: "Prime Gaming has revealed its August lineup, both in its free games for subs, and the games free to stream on its Luna channel."
     publishedDateTime: 2022-07-28T18:38:00Z
@@ -84,6 +74,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Zak McKracken and Starcraft are added to Prime Gaming’s August gaming roster"
+    excerpt: "Poisonous Promises, Starcraft: Remastered, and Beasts of Maravilla Island are all included in Prime Gaming’s free game library. It’s a diverse selection, with something for everyone. A number of cloud-based games,"
+    publishedDateTime: 2022-07-29T18:00:00Z
+    webUrl: "https://bestgamingpro.com/zak-mckracken-and-starcraft-are-added-to-prime-gamings-august-gaming-roster/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 34
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Prime-Gaming-adds-Starcraft-and-Zak-McKracken-to-August-games-lineup.png"
+        width: 600
+        height: 365
+        isCached: true
   - title: "Amazon Prime is giving away StarCraft: Remastered and five other games for August 2022"
     excerpt: "It’s been a challenging year for everyone. While some months are easier than others, at least there are always free video games every so often to (slightly) make up for rough patches. Starting A ..."
     publishedDateTime: 2022-07-29T09:09:00Z
@@ -99,6 +103,6 @@ related:
         height: 562
         isCached: true
 
-secured: "oLKPywQmeVqSSW2euHpklhd8P4XGBlCexXIEhYVR/xIZir827FODX8v9BhdK/klkj+R5M0PxsG3hCDNBn9f882isuERiIieTFiWGQMMJChiPuqp6O3EJtZNQxaJdZ/AkaPMB1lyWEfJ+eZ8XrQ43O+7/1rvwXHO6HOiqLS6b5BJ1LUCVGQBFm+1+r6AGtZ3RYCGj18bXo5NzRa8XnpETbj1OiTnIbd6nPWant59gpgYjf5bzrMo/Q0lXL8/FiIy5AdE2bfByM7uwHlIsd8hW8P7iEQ6T/v+wAhXYQXR9SCWV+NXK3TR72prBHGBuSjUysiAswtkPTqDK534B9kVS8lYhtlettP9aePyZtrurjiUV8Gkoe5Bg+zoPizjV3BmAeb6QZ2vxdO43l+9ztQ73CISHYBXWLjhvKnpQkv4C/2gT6LEO99ZlvUF4YiYrB3X28/s4IsVOBpTsUxyA2fA6siu410I9EA5qQgH+mW/KyeI5JiRrLQ8Ei0R0bS+GTDApldpGEuEILPR+cY5m2/HEEQ==;DwCinUjdwhIYG9y0gyDhig=="
+secured: "b1R4NfdL2crvNDzSIgQVkD4eRT+ObqJTXbvDOpy5ILyb85Txfa9dN4qKR2Wwm066gBAK2m1vxSCczsK/fB70U5KI2yKTNcXvxYaaXVt0LN0fToIBx8oQxvtkFxAo/SdIn5yU8UOEaWj9i5erZNpjr/FgbTf59tkZGvi6mvcOvrWtX43bBj0YDaaJdyqNU1napoR3/dUkVoGUyMz21WhYlV2IiR8wMqatX/yxfPxJcWVNKTYU5GZEE/Kk8qwh0AX1C0lt5shpsQKV8H3+apmP3lTqMJUhPNGf5NrwWuAHImrz+vPdvyhRSgRn3A6DhmruNLcXrjRJNHGdppXyZfwfiB5jTMdYo4T7+DgC20ynoIA=;wfmhGlGh/QYHoNria/M2mQ=="
 ---
 

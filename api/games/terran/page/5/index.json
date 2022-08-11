@@ -4,14 +4,14 @@
   "page": 5,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-terran-vs-protoss-cringe.md",
-      "title": "StarCraft 2: Terran vs Protoss CRINGE!",
-      "excerpt": "Why macro when you can control the two units you do have? Subscribe for more videos: http://lowko.tv/youtube More viewer games: https://goo.gl/TSZ62L  In this Silver League match of Terran versus Protoss, both players decide to go for some odd build strategies. The Protoss decides to go for a Cannon",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-vs-protoss-cringe/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-terran-vs-protoss-cringe/",
-      "originalUrl": "https://youtube.com/watch?v=6805Mmlg_E4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6805Mmlg_E4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M24S",
+      "path": "_games/lowkotv-starcraft-2-relentless-aggression-byun-vs-trap.md",
+      "title": "StarCraft 2: RELENTLESS AGGRESSION! (ByuN vs Trap)",
+      "excerpt": "Trap versus ByuN in a best-of-5 series of professional StarCraft 2. After having a look at ByuN's Terran versus Zerg a few days ago, today we have a look at the current state of his Terran versus Protoss.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-relentless-aggression-byun-vs-trap/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-relentless-aggression-byun-vs-trap/",
+      "originalUrl": "https://youtube.com/watch?v=azhpEHcwzMQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/azhpEHcwzMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M22S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -32,7 +32,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6805Mmlg_E4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/azhpEHcwzMQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -40,7 +40,84 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-04-09T04:26:51-07:00"
+      "publishedDateTime": "2020-10-22T03:17:44-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serral-and-clem-in-amazing-zerg-vs-terran.md",
+      "title": "StarCraft 2: Serral and Clem in AMAZING Zerg vs Terran!",
+      "excerpt": "Two games from the Grand Finals of the StayAtHome Story Cup 4 between Serral (Zerg) and Clem (Terran).  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-and-clem-in-amazing-zerg-vs-terran/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-and-clem-in-amazing-zerg-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=ydpPwmE0QFQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ydpPwmE0QFQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ydpPwmE0QFQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-03T05:12:19-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-so-many-tactical-nukes-elazer-vs-soul.md",
+      "title": "StarCraft 2: SO. MANY. TACTICAL. NUKES! (Elazer vs souL)",
+      "excerpt": "Fun professional match of Zerg versus Terran between Elazer and souL. This late game focused Zerg versus Terran has tons of Tactical Nukes.  ByuN versus Lurkers: https://youtu.be/eLWJxqsr7gs  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-so-many-tactical-nukes-elazer-vs-soul/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-so-many-tactical-nukes-elazer-vs-soul/",
+      "originalUrl": "https://youtube.com/watch?v=x900enTWliI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x900enTWliI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/x900enTWliI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-11T03:23:12-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-terran-vs-zerg-insanity-clem-vs-reynor.md",
@@ -80,6 +157,122 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-04-23T02:35:20-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-flavours-of-terran-cheese.md",
+      "title": "StarCraft 2: THE FLAVOURS OF TERRAN CHEESE!",
+      "excerpt": "Best-of-3 series between uThermal and Stats in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Drone rush vs Drone rush: https://goo.gl/GsDVVk  Lots of Terran cheese in this professional match of StarCraft 2. While uThermal decides to play macro in game 1, he has more cheesy plans for",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-flavours-of-terran-cheese/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-flavours-of-terran-cheese/",
+      "originalUrl": "https://youtube.com/watch?v=l_WHqA3sZ14",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l_WHqA3sZ14\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M1S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/l_WHqA3sZ14/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-10-10T01:50:17-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-hero-banshee.md",
+      "title": "StarCraft 2: THE HERO BANSHEE!",
+      "excerpt": "The story of the hero Banshee. Subscribe for more videos: http://lowko.tv/youtube The Zerg... Mothership?! https://goo.gl/bZtVFG  A really fun match of Gold League Terran versus Terran. In this game, both players open up with odd strategies, allowing us to arrive at a very strange mid-game that is determined",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-hero-banshee/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-hero-banshee/",
+      "originalUrl": "https://youtube.com/watch?v=ubfhupz_9s0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ubfhupz_9s0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M9S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ubfhupz_9s0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-03-10T02:53:37-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-hero-widow-mine.md",
+      "title": "StarCraft 2: THE HERO WIDOW MINE!",
+      "excerpt": "Platinum League Terran vs Gold League Protoss in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/cgiE8V  If you have an awesome replay of StarCraft 2 that you think is worth casting, you can send it to replays@lowko.tv.  Check out Lowko merchandise:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-hero-widow-mine/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-hero-widow-mine/",
+      "originalUrl": "https://youtube.com/watch?v=rQMflTegTQ4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rQMflTegTQ4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M7S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rQMflTegTQ4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-02-19T02:41:06-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-legends-free-for-all-mc-nestea-mvp-effort-rain-last.md",
@@ -122,6 +315,83 @@
       "publishedDateTime": "2021-02-23T09:23:49-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-the-mass-battlecruiser-switch.md",
+      "title": "StarCraft 2: THE MASS BATTLECRUISER SWITCH!",
+      "excerpt": "Best-of-3 in professional StarCraft 2 between TaeJa and Scarlett. Subscribe for more videos: http://lowko.tv/youtube TY vs Dark (epic game): https://goo.gl/PGHX1S  An awesome series of games in professional StarCraft 2. In this series TaeJa decides to mix it up. He's very well known for his Marine play.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-mass-battlecruiser-switch/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-mass-battlecruiser-switch/",
+      "originalUrl": "https://youtube.com/watch?v=70Px64OHSi4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/70Px64OHSi4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M53S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/70Px64OHSi4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-02-14T04:49:08-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-mid-game-bunker-rush-parting-vs-cure.md",
+      "title": "StarCraft 2: THE MID-GAME BUNKER \"RUSH\"! (PartinG vs Cure)",
+      "excerpt": "A really fun series of professional StarCraft 2 between PartinG and Cure. In this best-of-3 we see a variety of openers from both players and in two of them, Cure goes for a timing attack where he's building structures like Bunkers on his opponent's side of the map.  Support my work: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-mid-game-bunker-rush-parting-vs-cure/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-mid-game-bunker-rush-parting-vs-cure/",
+      "originalUrl": "https://youtube.com/watch?v=bWYd0T8I6Ts",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bWYd0T8I6Ts\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M7S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bWYd0T8I6Ts/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-28T03:02:55-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-nuke-dream-viewer-games.md",
       "title": "StarCraft 2: THE NUKE DREAM! (Viewer Games)",
       "excerpt": "Three viewer submitted games of StarCraft 2 with some of the best/worst Nukes in games I've seen. This video includes a Platinum League match of Protoss versus Protoss, a Gold League match of 2v2 and a Silver League game of Terran versus Terran.  Submit your own games (please only submit your best) to",
@@ -160,14 +430,14 @@
       "publishedDateTime": "2021-01-18T04:06:10-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-then-suddenly-battlecruisers.md",
-      "title": "StarCraft 2: THEN SUDDENLY... BATTLECRUISERS!",
-      "excerpt": "An awesome match of Terran vs Terran in Master League. Subscribe for more videos: http://lowko.tv/youtube MMA vs aLive: https://goo.gl/GW9L7H  Not quite your regular game of StarCraft 2. While this match starts off relatively normal, one of the players have got a trick up their sleeve. All of a sudden...",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-then-suddenly-battlecruisers/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-then-suddenly-battlecruisers/",
-      "originalUrl": "https://youtube.com/watch?v=SXOQ8AP_KuU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SXOQ8AP_KuU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M47S",
+      "path": "_games/lowkotv-starcraft-2-the-planetary-fortress-contain.md",
+      "title": "StarCraft 2: THE PLANETARY FORTRESS CONTAIN!",
+      "excerpt": "An awesome match of Silver League Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube The Zerg... Mothership? https://goo.gl/BvZU5A  While the ending of this match is a little slow, the early game is awesome. In this match the Terran player decides to focus on a Planetary Fortress contain.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-planetary-fortress-contain/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-planetary-fortress-contain/",
+      "originalUrl": "https://youtube.com/watch?v=2KJv_9IbrZ0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2KJv_9IbrZ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M19S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -187,7 +457,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/SXOQ8AP_KuU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2KJv_9IbrZ0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -195,7 +465,46 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-06-01T01:38:27-07:00"
+      "publishedDateTime": "2018-01-05T13:16:38-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-top-of-the-line-protoss-vs-terran.md",
+      "title": "StarCraft 2: TOP-OF-THE-LINE Protoss vs Terran!",
+      "excerpt": "A solid best-of-5 series between INnoVation and herO. Subscribe for more videos: http://lowko.tv/youtube Intense Zerg vs Protoss: https://goo.gl/D6Qj6z  In this series there is a clash between two titans. Both players are the statistical rank 1 for their respective races. herO is known as the best Protoss",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-of-the-line-protoss-vs-terran/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-of-the-line-protoss-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=9DpFrmdyarU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9DpFrmdyarU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M15S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9DpFrmdyarU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-08-05T05:10:07-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-unexpected-zerg-unit-switches-armani-vs-gumiho.md",
@@ -237,14 +546,14 @@
       "publishedDateTime": "2022-02-09T08:08:23-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-zerg-vs-terran-insanity.md",
-      "title": "StarCraft 2: Zerg vs Terran INSANITY!",
-      "excerpt": "An incredible best-of-3 series between ByuN and Reynor. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Protoss: https://goo.gl/qeUdf6  Late game Zerg versus Terran is still being figured out. ByuN apparently knows more than others, as he decides to focus heavily on Ghosts in this match-up.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zerg-vs-terran-insanity/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zerg-vs-terran-insanity/",
-      "originalUrl": "https://youtube.com/watch?v=YpCHlPQRX1c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YpCHlPQRX1c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M24S",
+      "path": "_games/lowkotv-starcraft-2-zerg-vs-terran-cringe.md",
+      "title": "StarCraft 2: Zerg vs Terran CRINGE!",
+      "excerpt": "Silver League Zerg versus Terran cringe. Subscribe for more videos: http://lowko.tv/youtube Intense micro battles: https://goo.gl/8ofWqN  While the game seems over early on into the match, the Terran does not quite scout where his opponent's final base is located fast enough.  If you have an awesome",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zerg-vs-terran-cringe/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zerg-vs-terran-cringe/",
+      "originalUrl": "https://youtube.com/watch?v=r7laPMA3jKQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r7laPMA3jKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M13S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -265,7 +574,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/YpCHlPQRX1c/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/r7laPMA3jKQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -273,7 +582,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-01-09T06:12:03-08:00"
+      "publishedDateTime": "2017-07-07T01:03:19-07:00"
     },
     {
       "path": "_games/pig-40-kill-widow-mine-drop-diamond-in-the-ruff-32-starcraft-2.md",
@@ -733,264 +1042,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-11-20T15:34:37-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-thors-widow-mines-sad-protoss-3-games-diamond-in-the-ruff-67.md",
-      "title": "StarCraft 2 - Thors + Widow Mines = SAD PROTOSS (3-games) | Diamond in the Ruff #67",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran opponent? With thors and widow mines  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-thors-widow-mines-sad-protoss-3-games-diamond-in-the-ruff-67/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-thors-widow-mines-sad-protoss-3-games-diamond-in-the-ruff-67/",
-      "originalUrl": "https://youtube.com/watch?v=jWtrQTtCR5w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jWtrQTtCR5w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M17S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-03-21T00:01:41-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-when-mass-ghosts-are-so-imba-they-call-for-mommy-diamond-in-the-ruff-62.md",
-      "title": "StarCraft 2 - When Mass Ghosts are so IMBA, they call for Mommy | Diamond in the Ruff #62",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent? Using Mass Ghosts!  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-when-mass-ghosts-are-so-imba-they-call-for-mommy-diamond-in-the-ruff-62/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-when-mass-ghosts-are-so-imba-they-call-for-mommy-diamond-in-the-ruff-62/",
-      "originalUrl": "https://youtube.com/watch?v=fzKSqERWhq4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fzKSqERWhq4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M41S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fzKSqERWhq4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-01-31T19:50:15-08:00"
-    },
-    {
-      "path": "_games/pig-the-crazy-strat-that-beat-a-starcraft-champion-diamond-in-the-ruff-68-vs-true.md",
-      "title": "The Crazy Strat That BEAT a Starcraft Champion | Diamond in the Ruff #68 vs True",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up True, a Zerg Starcraft Champion?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-crazy-strat-that-beat-a-starcraft-champion-diamond-in-the-ruff-68-vs-true/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-crazy-strat-that-beat-a-starcraft-champion-diamond-in-the-ruff-68-vs-true/",
-      "originalUrl": "https://youtube.com/watch?v=_tQJJEhFgvA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_tQJJEhFgvA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M2S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-03-23T20:28:24-07:00"
-    },
-    {
-      "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2.md",
-      "title": "We paid a Pro to do Troll Builds: Planetary Fortress & Nuke Rush | Twitch Plays Gabe  - StarCraft 2",
-      "excerpt": "We paid Heromarine (Big Gabe) to participate in a Twitch Plays Gabe segment for PiGFest - and he delivered with Planetary Fortress and Nuke Rushes!  https://www.pigstarcraft.com/about/pig-sty-festival/  🐷 https://www.patreon.com/PiGSC2  Heromarine's stream: https://www.twitch.tv/heromarine -- 🐖 Watch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=hbCcY6BPz5o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hbCcY6BPz5o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M19S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hbCcY6BPz5o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-01T02:28:19-07:00"
-    },
-    {
-      "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-rush-twitch-plays-astrea-2-starcraft-2.md",
-      "title": "We paid a Pro to do Troll Builds: Planetary Fortress Rush | Twitch Plays Astrea #2 - StarCraft 2",
-      "excerpt": "We paid Astrea to do some Troll builds on ladder, this time a Planetary Fortress Rush - everyone's favourite request! Like the Thundershaft that he is, he used his Rank 1 account and wowed us all with his skills  Follow Astrea's Twitch: https://www.twitch.tv/zastrea -- 🐷 Second Channel for Learning",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-rush-twitch-plays-astrea-2-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-rush-twitch-plays-astrea-2-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=E3vEXfMFMyI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E3vEXfMFMyI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M40S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-02-14T20:07:43-08:00"
-    },
-    {
-      "path": "_games/pig-when-you-face-the-chaos-lord-of-na-ladder-mayhem-ensues-diamond-in-the-ruff-70-starcraft-2.md",
-      "title": "When you face the Chaos Lord of NA Ladder, mayhem ensues! | Diamond in the Ruff #70 StarCraft 2",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Zerg opponents when the game is total chaos?!?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-you-face-the-chaos-lord-of-na-ladder-mayhem-ensues-diamond-in-the-ruff-70-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-you-face-the-chaos-lord-of-na-ladder-mayhem-ensues-diamond-in-the-ruff-70-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=WacMTZPqm3s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WacMTZPqm3s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-04-06T21:48:24-07:00"
-    },
-    {
-      "path": "_games/sc2hl-maru-on-7-bases-starcraft-2-iem-maru-vs-dark.md",
-      "title": "Maru on 7 BASES?! - Starcraft 2 IEM: Maru vs Dark",
-      "excerpt": "Maru vs Dark during IEM Katowice, Maru showing off his crazy macro vs the killer zerg Dark.  ► SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe   A crazy description   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload other content, such",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-maru-on-7-bases-starcraft-2-iem-maru-vs-dark/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-maru-on-7-bases-starcraft-2-iem-maru-vs-dark/",
-      "originalUrl": "https://youtube.com/watch?v=xhIlzNTADhs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xhIlzNTADhs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M27S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xhIlzNTADhs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-06T07:05:01-08:00"
-    },
-    {
-      "path": "_games/sc2hl-planetary-rush-8-player-starcraft-2-ffa.md",
-      "title": "PLANETARY RUSH?! - 8 PLAYER STARCRAFT 2 FFA",
-      "excerpt": "► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL ► Submit your REPLAYS! - http://bit.ly/SC2HLsubmit   ► SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe   A crazy description   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-planetary-rush-8-player-starcraft-2-ffa/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-planetary-rush-8-player-starcraft-2-ffa/",
-      "originalUrl": "https://youtube.com/watch?v=epCLNMIMbUY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/epCLNMIMbUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M38S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/epCLNMIMbUY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-06T07:05:01-08:00"
     }
   ],
   "nextPage": 6

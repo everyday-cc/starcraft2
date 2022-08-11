@@ -904,6 +904,7 @@ items:
   - pig-this-is-the-stupidest-build-ive-ever-invented-mac-or-cheese-3-starcraft-2
   - pig-how-quickly-can-pig-dispose-of-noobs-holdout-challenge-starcraft-2
   - pig-he-got-salty-and-refused-the-rematch-most-annoying-player-ever-1-starcraft-2
+  - pig-will-team-pig-be-punished-for-playing-greedy-af-commander-mode-2-starcraft-2
 
 topics:
   - StarCraft 2

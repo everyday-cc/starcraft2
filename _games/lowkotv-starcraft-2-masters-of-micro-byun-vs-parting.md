@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-masters-of-micro
 type: video
 length: PT34M50S
 publishedDateTime: 2021-01-28T12:58:20Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hfXPJ22QwSQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "4y0LFqn1kCV7d6Jh0r1SpXNCHRD/3MV8kP9GaivtJOkjI0+k2M9dStnz9tB6eE+47sjVRQnko85kkgs3zxaD+2txrZEiAAYxxLRwXCtV7Zsc6m3fvITyrBeTbQCze2SuCw69+TzBRqq5IVFD9QFir5w8AyjomFGzowEKJVuym9wCBHLmJ8f/9oGMUdknm4yQazp33bcf6n5PevU0ugXkdSP72oEOXvVpJY9QSERkJ2plBLrye2Or/JGw2yo3vXxJLBrGqzmex0hqLG8MNrbKlyZ03JyJSuiu0ET1MPXVp9miXPvi5EsPNAQN2LtHQMdyMQ66/UXJJiaWyKgmSfuuDiBiaDuRRG0+Tk3+0KZBP56f0C2ioHMxQsyPxX84GD/6zZ4lysr60O9AYtRhB/PKpGr8btZ5RlseftnzhYOpxKvva/BzpNKaePfxlgmjDkyv;9ccwVeOBUGUfuyk5Ztl/Vw=="
+secured: "2dEZiiu+EGYFpJkt1/yRh70VD99339QYmVt7Bh9z8ptqKOuXQpptXAkURFPY85IwEBX/1fvgqNgS0UxxWv3XNophcTyiJPh1icq3sI4ZKgX/sVLvsu2zJlppLGcwM9r5BpL2FdR1/yrCqHXHGdwlZLxNnJHHOdyPxvpDA1ZN0mxoNvoKjhMbcmayVmq3rIH0Ega55l+m34fMVAc1XqUsZjL3HK3d3TOeKxT+olC5cfcIF+BUz2fTiS+fGKfpbAEwyDAvWltJ3EIMMFsytdtPVPSCvtZ3uw9O536UQ32JOiFPKyV7wycYoe85fa4IhKcezC1k6i2Lj/aVq9GoN4EOpWjJRrGcUuvkG42rnm2bRln7J9efHzti1bf/OMZ0xAWHqStIHL/dM0942X5sVpHStoSz53TboI5kI3Q6vEG13jNkMaVDoYNzeoD9Hj8K0US0;oRBk9FtKmn4baLRMg7Zuug=="
 ---
 

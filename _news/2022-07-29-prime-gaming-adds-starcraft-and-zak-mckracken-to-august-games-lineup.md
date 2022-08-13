@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Blizzard Talks StarCraft Remastered, And Why It Deserves A Re-release After 20 Years"
+    excerpt: "Grant Davies: I think StarCraft has been such a huge and influential game over the years and it lives large in so many people's memories that after 20 years, the time felt right to circle back to ..."
+    publishedDateTime: 2022-07-29T00:00:00Z
+    webUrl: "https://www.gamespot.com/articles/blizzard-talks-starcraft-remastered-and-why-it-des/1100-6451524/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/blizzard-talks-starcraft-remastered-and-why-it-des/1100-6451524/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/blizzard-talks-starcraft-remastered-and-why-it-des/1100-6451524/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 90
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3214057-thelobby_starcraft_032917_site.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Prime Gaming adds Starcraft and Zak McKracken to August games lineup"
     excerpt: "Prime Gaming subs get several titles, including Starcraft: Remastered. The Prime Gaming Luna channel, which is free for subscribers, gets gameslike Control and Myst. All launch on the service on ..."
     publishedDateTime: 2022-07-28T11:38:00Z

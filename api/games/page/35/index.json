@@ -4,6 +4,44 @@
   "page": 35,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-fake-cannon-rush-vs-real-cannon-rush.md",
+      "title": "StarCraft 2: FAKE Cannon Rush vs REAL Cannon Rush?!",
+      "excerpt": "Awesome best-of-3 series of high level StarCraft 2. In this Protoss versus Protoss between PartinG and MaxPax we see both players constantly trying to outsmart each other with Photon Cannons, proxy Stargates, Dark Templar, army positioning and expansions.  Support my work on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-fake-cannon-rush-vs-real-cannon-rush/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-fake-cannon-rush-vs-real-cannon-rush/",
+      "originalUrl": "https://youtube.com/watch?v=Gp-O9TRhIBA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gp-O9TRhIBA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M58S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Gp-O9TRhIBA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-03-22T04:03:32-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-fan-favourites.md",
       "title": "StarCraft 2: FAN FAVOURITES!",
       "excerpt": "A back-and-forth match between Neeblet and Snute. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Terran: https://goo.gl/GJuLSh  Two fan favourites, Snute and Neeblet, in an epic match of Zerg versus Protoss. Both players try to deal massive amounts of damage to each other, but in the",
@@ -1093,45 +1131,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-04-17T03:27:23-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-high-templar-drops-ty-vs-zest.md",
-      "title": "StarCraft 2: HIGH TEMPLAR DROPS! (TY vs Zest)",
-      "excerpt": "Best of 3 between TY and Zest in professional StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Professional best-of-7: https://goo.gl/cLp2ev  A super high level series of Terran versus Protoss in StarCraft 2. In this series of games we see different strategies from both players. Both decide",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-high-templar-drops-ty-vs-zest/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-high-templar-drops-ty-vs-zest/",
-      "originalUrl": "https://youtube.com/watch?v=GxFqUo75WPc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GxFqUo75WPc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GxFqUo75WPc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-10-12T06:40:40-07:00"
     }
   ],
   "nextPage": 36

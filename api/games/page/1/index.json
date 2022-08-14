@@ -81,6 +81,44 @@
       "publishedDateTime": "2022-08-11T04:11:18-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-reynors-mid-series-race-switch-best-of-5.md",
+      "title": "StarCraft 2: Reynor's Mid-Series RACE SWITCH?! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Reynor and Elazer. This is from the playoffs from HomeStory Cup 21.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips: https://www.youtube.com/lowkoclips",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynors-mid-series-race-switch-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-mid-series-race-switch-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=ARkwEedgHG4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ARkwEedgHG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT53M20S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 294,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-08-14T08:30:57-07:00"
+    },
+    {
       "path": "_games/pig-when-you-build-only-marines-and-they-freak-out-starcraft-2.md",
       "title": "When you Build ONLY Marines and they FREAK OUT - StarCraft 2",
       "excerpt": "I gave myself a challenge: to make marines - and no other unit. Let's see how it does on the StarCraft 2 ladder -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig",
@@ -900,17 +938,25 @@
       "publishedDateTime": "2022-02-10T17:37:20-08:00"
     },
     {
-      "path": "_games/pig-when-silver-players-try-to-do-flo-strats-icyfar-one-base-openers-g2-starcraft-2.md",
-      "title": "When Silver players try to do Flo strats | ICYFAR \"One Base Openers\" G2 - StarCraft 2",
-      "excerpt": "🤯 NEW ICYFAR CHALLENGE: Ruthless Growth - Each time you expand, you have to attack! Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 21st June. -- 🤯 In this week’s episode of I Cast Your Freakin Awesome Replays",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-silver-players-try-to-do-flo-strats-icyfar-one-base-openers-g2-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-silver-players-try-to-do-flo-strats-icyfar-one-base-openers-g2-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=nbX8KP5pbc8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nbX8KP5pbc8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M51S",
+      "path": "_games/lowkotv-starcraft-2-ghosts-only-to-grandmaster-league.md",
+      "title": "StarCraft 2: GHOSTS ONLY to Grandmaster League!",
+      "excerpt": "Two games from uThermal's StarCraft 2 series \"Ghosts to Grandmaster\". The rules for this SC2 challenge are simple. Only Ghosts as attacking units until Grandmaster League.  Ghost to Grandmasters: https://www.youtube.com/playlist?list=PLhaCXeA_nfD0WplNJSlqY3q_qTP9-dMfY  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-ghosts-only-to-grandmaster-league/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-ghosts-only-to-grandmaster-league/",
+      "originalUrl": "https://youtube.com/watch?v=2hHIglbtw1k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2hHIglbtw1k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M33S",
       "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "StarCraft 2"
@@ -926,7 +972,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-06-01T23:45:11-07:00"
+      "publishedDateTime": "2022-07-09T03:54:41-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-clems-50-viking-army-showtime-vs-clem.md",
@@ -1033,35 +1079,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-03T21:23:51-07:00"
-    },
-    {
-      "path": "_games/pig-will-team-pig-be-punished-for-playing-greedy-af-commander-mode-2-starcraft-2.md",
-      "title": "Will Team PiG be punished for playing GREEDY AF? | Commander Mode #2 - StarCraft 2",
-      "excerpt": "What is Commander Mode? It is Archon Mode vs another streamer/player where we are the Commanders of our squadron of noobs but we can't actively control anything ourselves, we can only command them what to do!  -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-will-team-pig-be-punished-for-playing-greedy-af-commander-mode-2-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-will-team-pig-be-punished-for-playing-greedy-af-commander-mode-2-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=5zY8OXu9_MY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5zY8OXu9_MY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M45S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-07T18:44:00-07:00"
     }
   ],
   "nextPage": 2

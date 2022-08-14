@@ -903,6 +903,7 @@ items:
   - pig-stasis-disruptor-combo-is-disgustingly-sick-starcraft-2
   - pig-this-is-the-stupidest-build-ive-ever-invented-mac-or-cheese-3-starcraft-2
   - pig-how-quickly-can-pig-dispose-of-noobs-holdout-challenge-starcraft-2
+  - pig-its-an-8-player-ffa-but-i-had-to-1v3-the-whole-time-starcraft-2
   - pig-he-got-salty-and-refused-the-rematch-most-annoying-player-ever-1-starcraft-2
   - pig-will-team-pig-be-punished-for-playing-greedy-af-commander-mode-2-starcraft-2
   - pig-when-you-build-only-marines-and-they-freak-out-starcraft-2

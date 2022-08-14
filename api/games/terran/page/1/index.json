@@ -146,7 +146,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 180,
+      "heat": 181,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -185,7 +185,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 158,
+      "heat": 156,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -866,7 +866,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 67,
+      "heat": 68,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",

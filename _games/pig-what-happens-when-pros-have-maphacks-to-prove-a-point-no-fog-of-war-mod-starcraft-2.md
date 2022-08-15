@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=dwjRc4jjCNU
 type: video
 length: PT26M39S
 publishedDateTime: 2022-07-10T08:20:09Z
-heat: 60
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dwjRc4jjCNU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ images:
     height: 800
     isCached: true
 
-secured: "ZDSQa9WzvcaWnXpRNEimhSyyt3nvRURJxQv7wPPgfqCIx3wsSjbtLofKAeHKRUARsVC/fWA53p9h/IzbnImF758f79JrxXVJHcXUhKrylsE3jNApoA35iIzqEiLLLBl9WMYz0PzroOlvs8vXJzhSfS35n5oTndeLjcXGwqPzokCdymcAyribRHlg94qtK7ZviEOanwH3D3j9Q1GYXq5slD7zC9grZyZvFpgvaCPYTJEQSxgUTH4LJ35j8m27Q7UZKuHyd1R6ycUykAShephRWk/2rr+fS00pAzRoxhFZ3aufcrDTDLKKcEYB2cBCY8kV9H36x4yFxEPDewMDlf0J+QAdK0qOJmBLZMKu3mA4P3rLtvB/F5hUivZ8oKnmyoRb644f01RA74Nq+gV0WwMIc8FG+BNRhqZxMG9ZTh6ZCcU=;uLLS+MLTAoVi7XfroIjEfQ=="
+secured: "GSrugb/esN4ntmjDBnlZ80JjbSHjd0Fx6cqLOedl6dltv3n+FZxJrIxA2k6NOvCMjkqRv+tzaFlqqLRBhacdQTtjzL7zKPSWV4B/C01VAPVvUWp90zFLYz7C/K2bdF4unAc4LetMJfOwfh/vXdBWuZQnEb9pqIzvZeflHPn4tSab36ibpZfJze+CBRrDFEAmi5CwaydwlcPm43rz/gOtqeizVVfOSMjg3guf9WqY1TJAoIIVrIa13DIESfw/1b2wuu8xe27+dlOxP5PhT4Hvvx0P4WmVb2MS6pPTSLFS9Vn8tsCmOjfQiv3pZHf/0uCZUIv0GVZS1+Xgr2JTm5a+tXXOCi2QDFz7VWtcLn/O5LA4ZH13ubymM8FHjpE0OvedgpjId3I3EtjSw8rP3essV02/uMCf11ZZkp1iDDPBuzk=;G+LhMjaVwjsUCv/VH+nGbg=="
 ---
 

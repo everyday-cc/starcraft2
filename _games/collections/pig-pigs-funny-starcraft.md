@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 62
+heat: 63
 
 provider:
   name: PiG
@@ -902,6 +902,7 @@ items:
   - pig-what-happens-when-they-refuse-to-choose-mac-or-cheese-2-starcraft-2
   - pig-stasis-disruptor-combo-is-disgustingly-sick-starcraft-2
   - pig-this-is-the-stupidest-build-ive-ever-invented-mac-or-cheese-3-starcraft-2
+  - pig-hero-drone-lets-me-get-away-with-3-hatch-before-pool-mac-or-cheese-4-starcraft-2
   - pig-how-quickly-can-pig-dispose-of-noobs-holdout-challenge-starcraft-2
   - pig-its-an-8-player-ffa-but-i-had-to-1v3-the-whole-time-starcraft-2
   - pig-he-got-salty-and-refused-the-rematch-most-annoying-player-ever-1-starcraft-2

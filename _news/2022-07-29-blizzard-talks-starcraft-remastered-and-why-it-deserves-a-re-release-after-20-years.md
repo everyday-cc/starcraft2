@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/blizzard-talks-starcraft-remas
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/blizzard-talks-starcraft-remastered-and-why-it-des/1100-6451524/"
 type: article
 quality: 90
-heat: 214
+heat: 216
 published: true
 
 provider:

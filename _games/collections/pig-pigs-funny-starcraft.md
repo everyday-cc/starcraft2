@@ -907,6 +907,7 @@ items:
   - pig-he-got-salty-and-refused-the-rematch-most-annoying-player-ever-1-starcraft-2
   - pig-will-team-pig-be-punished-for-playing-greedy-af-commander-mode-2-starcraft-2
   - pig-when-you-build-only-marines-and-they-freak-out-starcraft-2
+  - pig-did-cannon-rushing-break-both-these-players-brains-smooth-brain-boanaan-1-starcraft-2
 
 topics:
   - StarCraft 2

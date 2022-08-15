@@ -4,35 +4,6 @@
   "page": 74,
   "value": [
     {
-      "path": "_games/pig-the-1v7-insane-ai-challenge-is-impossible-starcraft-2.md",
-      "title": "The 1v7 INSANE AI Challenge is impossible - StarCraft 2",
-      "excerpt": "I have challenged StarCraft 2 Pros to take on 7 INSANE Cheater AIs at once! Serral has said it is impossible unless maybe they're all Zergs. The first person brave enough to try it is Spirit (Soul), a Terran player. He takes on 7 Random insane AIs all on Any Build. Then he tried 7 Zergs. Then he tries",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-1v7-insane-ai-challenge-is-impossible-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-1v7-insane-ai-challenge-is-impossible-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=CcFX72zESgU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CcFX72zESgU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M27S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-10T16:30:09-07:00"
-    },
-    {
       "path": "_games/pig-the-afk-build-rate-my-starcraft-4.md",
       "title": "THE AFK BUILD | Rate My StarCraft #4",
       "excerpt": "This submission for Rate My Starcraft features the AFK Build, where you pretend to be AFK to your unsuspecting opponent.  🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your awesome StarCraft plays. Send in your replay to RateMyStarCraft@gmail.com PLUS",
@@ -895,6 +866,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-08-15T04:34:14-07:00"
+    },
+    {
+      "path": "_games/pig-the-ted-bundy-of-starcraft-mineralthief-one-geyser-to-rule-them-all-g3.md",
+      "title": "The Ted Bundy of Starcraft - MineralThief - One Geyser to Rule Them All - G3",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players were only allowed to mine from one gas!\r \r THIS WEEKS ICYFAR CHALLENGE: \"Fakeout - Trick Your opponent with fake rushes, attacks and tech paths\". Examples: Fake cannon/bunker rush, empty drops, proxy tech that you show on",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-ted-bundy-of-starcraft-mineralthief-one-geyser-to-rule-them-all-g3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-ted-bundy-of-starcraft-mineralthief-one-geyser-to-rule-them-all-g3/",
+      "originalUrl": "https://youtube.com/watch?v=ttbDCE8i6DQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ttbDCE8i6DQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M13S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ttbDCE8i6DQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
     }
   ],
   "nextPage": 75

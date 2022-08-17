@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Blizzard Talks StarCraft Remastered, And Why It Deserves A Re-release After 20 Years"
-    excerpt: "Grant Davies: I think StarCraft has been such a huge and influential game over the years and it lives large in so many people's memories that after 20 years, the time felt right to circle back to ..."
-    publishedDateTime: 2022-07-29T00:00:00Z
-    webUrl: "https://www.gamespot.com/articles/blizzard-talks-starcraft-remastered-and-why-it-des/1100-6451524/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/blizzard-talks-starcraft-remastered-and-why-it-des/1100-6451524/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/blizzard-talks-starcraft-remastered-and-why-it-des/1100-6451524/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 90
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3214057-thelobby_starcraft_032917_site.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Amazon Prime is giving away Starcraft: Remastered this month"
     excerpt: "After giving members of its subscription service 30 free games during Prime Day, Amazon is now handing them StarCraft: Remastered. Announced in a blog post (opens in new tab), Pri"
     publishedDateTime: 2022-07-29T16:00:00Z
@@ -68,6 +52,15 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Grab ‘StarCraft: Remastered’ and Other Hidden Gems Free With Amazon Prime"
+    excerpt: "Amazon Prime is offering free games with a Prime subscription, including StarCraft: Remastered and some other games which flew under the radar."
+    publishedDateTime: 2022-08-08T13:30:00Z
+    webUrl: "https://www.belloflostsouls.net/2022/08/grab-starcraft-remastered-and-other-hidden-gems-free-with-amazon-prime.html"
+    type: article
+    provider:
+      name: Bell of Lost Souls
+      domain: belloflostsouls.net
+    quality: 16
 
 secured: "oLKPywQmeVqSSW2euHpklhd8P4XGBlCexXIEhYVR/xIZir827FODX8v9BhdK/klkj+R5M0PxsG3hCDNBn9f882isuERiIieTFiWGQMMJChiPuqp6O3EJtZNQxaJdZ/AkaPMB1lyWEfJ+eZ8XrQ43O+7/1rvwXHO6HOiqLS6b5BJ1LUCVGQBFm+1+r6AGtZ3RYCGj18bXo5NzRa8XnpETbj1OiTnIbd6nPWant59gpgYjf5bzrMo/Q0lXL8/FiIy5AdE2bfByM7uwHlIsd8hW8P7iEQ6T/v+wAhXYQXR9SCWV+NXK3TR72prBHGBuSjUysiAswtkPTqDK534B9kVS8lYhtlettP9aePyZtrurjiUV8Gkoe5Bg+zoPizjV3BmAeb6QZ2vxdO43l+9ztQ73CISHYBXWLjhvKnpQkv4C/2gT6LEO99ZlvUF4YiYrB3X28/s4IsVOBpTsUxyA2fA6siu410I9EA5qQgH+mW/KyeI5JiRrLQ8Ei0R0bS+GTDApldpGEuEILPR+cY5m2/HEEQ==;DwCinUjdwhIYG9y0gyDhig=="
 ---

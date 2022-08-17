@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Blizzard Talks StarCraft Remastered, And Why It Deserves A Re-release After 20 Years"
-    excerpt: "Grant Davies: I think StarCraft has been such a huge and influential game over the years and it lives large in so many people's memories that after 20 years, the time felt right to circle back to ..."
-    publishedDateTime: 2022-07-29T00:00:00Z
-    webUrl: "https://www.gamespot.com/articles/blizzard-talks-starcraft-remastered-and-why-it-des/1100-6451524/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/blizzard-talks-starcraft-remastered-and-why-it-des/1100-6451524/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/blizzard-talks-starcraft-remastered-and-why-it-des/1100-6451524/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 90
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3214057-thelobby_starcraft_032917_site.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Amazon Prime is giving away Starcraft: Remastered this month"
     excerpt: "After giving members of its subscription service 30 free games during Prime Day, Amazon is now handing them StarCraft: Remastered. Announced in a blog post (opens in new tab), Pri"
     publishedDateTime: 2022-07-29T16:00:00Z
@@ -68,6 +52,15 @@ related:
         width: 600
         height: 365
         isCached: true
+  - title: "Grab ‘StarCraft: Remastered’ and Other Hidden Gems Free With Amazon Prime"
+    excerpt: "Amazon Prime is offering free games with a Prime subscription, including StarCraft: Remastered and some other games which flew under the radar."
+    publishedDateTime: 2022-08-08T13:30:00Z
+    webUrl: "https://www.belloflostsouls.net/2022/08/grab-starcraft-remastered-and-other-hidden-gems-free-with-amazon-prime.html"
+    type: article
+    provider:
+      name: Bell of Lost Souls
+      domain: belloflostsouls.net
+    quality: 16
 
 secured: "BlZcUDf6IX1QoxrPICJYKbHrQtvGpfnhEnvnYhF3YdhMMQkgq6jDfklWuZjzGuy4g2NYc292SRB236EAwvWtZLXtlLhcS9aNGZiLB1Wktr7tou1p6KHhNMaX5bzDAW1/G4xzCoRtR310njZnIaohgdFmNmKbia8H+VD5JChkB7RDEzfXFM6fUzccqf4+VK8m1mbOYpzYIocDmbLgZJnWGRVJmVYBOQyMFQKzG9TOISK0+FyRMQttEWPnSZJ6yRL31qISEJMRoREG4Pf7kgu0bRDtejRyHU3OYJmH7/CNnuq330oS63lGlrUmTTJfjJ6hpnZjDfIWfWJsGw9y4Om6V5pBoggsLZlF3gJN3hsBX1k=;7tBiYMra8YlChwZupTCPDQ=="
 ---

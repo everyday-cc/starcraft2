@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/amazon-prime-is-giving-away-starcra
 webUrl: "https://www.techradar.com/news/amazon-prime-is-giving-away-starcraft-remastered-this-month"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Blizzard Talks StarCraft Remastered, And Why It Deserves A Re-release After 20 Years"
-    excerpt: "Grant Davies: I think StarCraft has been such a huge and influential game over the years and it lives large in so many people's memories that after 20 years, the time felt right to circle back to ..."
-    publishedDateTime: 2022-07-29T00:00:00Z
-    webUrl: "https://www.gamespot.com/articles/blizzard-talks-starcraft-remastered-and-why-it-des/1100-6451524/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/blizzard-talks-starcraft-remastered-and-why-it-des/1100-6451524/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/blizzard-talks-starcraft-remastered-and-why-it-des/1100-6451524/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 90
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3214057-thelobby_starcraft_032917_site.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Zak McKracken and Starcraft are added to Prime Gaming’s August gaming roster"
     excerpt: "Poisonous Promises, Starcraft: Remastered, and Beasts of Maravilla Island are all included in Prime Gaming’s free game library. It’s a diverse selection, with something for everyone. A number of cloud-based games,"
     publishedDateTime: 2022-07-29T18:00:00Z
@@ -72,6 +56,15 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Grab ‘StarCraft: Remastered’ and Other Hidden Gems Free With Amazon Prime"
+    excerpt: "Amazon Prime is offering free games with a Prime subscription, including StarCraft: Remastered and some other games which flew under the radar."
+    publishedDateTime: 2022-08-08T13:30:00Z
+    webUrl: "https://www.belloflostsouls.net/2022/08/grab-starcraft-remastered-and-other-hidden-gems-free-with-amazon-prime.html"
+    type: article
+    provider:
+      name: Bell of Lost Souls
+      domain: belloflostsouls.net
+    quality: 16
 
 secured: "yobedlPIkbpHCaW0W+ckG2Is2YBMnq2+Xt7NJ5XcINuPyKeh8zLVpY/uRi89QxKfeamjRo4tLYltVMh2foJlFP+AgubM21XOq36rJAojbOY5NEicEipyLQph6JNHUZBi+r12QEPSYAeJuW3T5E68vUjQ6Tgja5ZpEno8AcUDWtFP9ci6AKlG4P1K6co5woFPppLWVOb17ENHTiwYh3pFXhO0cTIU9sfKf/3XaZTnxqfQGLJRe6It44c5+UZ343ZblzELYo7Ov28mL7MXcOZAsT6wInNymkLQN1LH5HUR1G8PJnqS30cXUplqVmAjzxMtt7QVlP3RLeSo10UVQvOPyqYtXyOCDbEBCFPWfnMYEOGSRg/Gxwnxh9UQIDiWGCPKX/keRJNGGF5vYV7XaFdfZpNqWGDx0B3Olb5FlxZx0YhfveUzaQcq4uqrljvL8B+FQj3mKqE2l7fZPGAE1oj5U4JoVtuUrcamQIJXFpICyGF4cx6Wjax/crHM9MtCmpkRB7d1Bko93+y4lpRcLezX7g==;NQOngv6zumLEiG3ZMkYmIQ=="
 ---

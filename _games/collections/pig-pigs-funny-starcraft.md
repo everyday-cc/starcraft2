@@ -900,6 +900,7 @@ items:
   - pig-did-zergs-forget-how-powerful-burrow-is-smooth-brain-stephen-1-starcraft-2
   - pig-toss-is-mad-even-after-they-did-what-he-asked-salt-mines-10-starcraft-2
   - pig-what-happens-when-they-refuse-to-choose-mac-or-cheese-2-starcraft-2
+  - pig-how-quickly-can-dark-solar-dispose-of-a-noob-me-ept-na-holdout-challenge-starcraft-2
   - pig-stasis-disruptor-combo-is-disgustingly-sick-starcraft-2
   - pig-this-is-the-stupidest-build-ive-ever-invented-mac-or-cheese-3-starcraft-2
   - pig-hero-drone-lets-me-get-away-with-3-hatch-before-pool-mac-or-cheese-4-starcraft-2

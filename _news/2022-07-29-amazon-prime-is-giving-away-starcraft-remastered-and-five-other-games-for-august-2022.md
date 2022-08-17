@@ -41,22 +41,6 @@ related:
         height: 360
         isCached: true
   - title: "Prime Gaming adds Starcraft and Zak McKracken to August games lineup"
-    excerpt: "Prime Gaming subs get several titles, including Starcraft: Remastered. The Prime Gaming Luna channel, which is free for subscribers, gets gameslike Control and Myst. All launch on the service on ..."
-    publishedDateTime: 2022-07-28T11:38:00Z
-    webUrl: "https://venturebeat.com/games/prime-gaming-adds-starcraft-and-zak-mckracken-to-august-games-lineup/"
-    ampWebUrl: "https://venturebeat.com/games/prime-gaming-adds-starcraft-and-zak-mckracken-to-august-games-lineup/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/prime-gaming-adds-starcraft-and-zak-mckracken-to-august-games-lineup/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 57
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/Untitled.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Prime Gaming adds Starcraft and Zak McKracken to August games lineup"
     excerpt: "Prime Gaming has revealed its August lineup, both in its free games for subs, and the games free to stream on its Luna channel."
     publishedDateTime: 2022-07-28T18:38:00Z
     webUrl: "https://venturebeat.com/2022/07/28/prime-gaming-adds-starcraft-and-zak-mckracken-to-august-games-lineup/"

@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=v_1asbwEOk4
 type: video
 length: PT37M44S
 publishedDateTime: 2021-07-07T07:21:36Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v_1asbwEOk4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "4xaGCPLX+xOldmGeqYl/cJoNwTx7sjvyO5z0v8mrXIUvrmOrik/2MCJaCfkHZWm+WRthHjUukNEWYqOgVQQKCmIARZQnxvwAFmIjLCFtuSbegFCtuzQD7zzFosGAEd0dwGBe+vFskBAbHyhEjxBm7Se2jCnl0jMKT74x7fyJwtGL0h+/U9dbWSO/XBPFNw8oFxfv7kZRufA9jbqZPcpVPaF+AA/FZ4HGoqoy90bnX+LgXiyp7hbxvokxa0vcc3HzjDDstjfRRlwZ9sTYmHG4ZOeJuxcXKcBCZo8iX5fh8SUOBG87VVhkosvaFF/XuKld5gpXS3J3OE0Eei4yzSMjUFZmZDjrUvUZ5YMo8PBwINzZ2Zss1ugZu9SYFe+vIotH/yfYl1hLxAZCnwrz12XoUMmeeZHfNHCxw8h9IMALPmY=;3/TMYr3zTSeLGcyghceU9A=="
+secured: "NhcpldTaX/mzkZXEapt7JRWMAx7QPu2E0gWKq3zCelsCl3iFd1UyCI+KClx3DXOElr7NTkn/4Gbo9DqiVKax+lOZDld45lLtpNApkJbb7Doj5h8yS9guZlnGTBKgtbPAu7lwkWNPtD1bsrKFTsP7tiDRvKqb+6j5S8/sNQOQ0y+gvu9tNQloZVgYJLHZZ5zjBwa0Ci4e+iX2wIUNghz3QcgcQvMwHQQMXRVDbRikUwsdSUJCYo1qXM1MsBkHKWwKKXA/NoOA8xucu1anbVQnikgTHB+jUOZomybo6y8GumbyVOtsvm83QRuw+17fCMsYrYXTJUyZv6nkOeutA1IcHPdJTHUB7Bvyc+2+A8OzPnc0uZiujd/poK1gSx0VSa7tB8sKJMWIOgjgI9ebxwo6jS1DNx6GqiXitJUpHq4OZQo=;E5ODwyTi3gqnLLAJiWNuHA=="
 ---
 

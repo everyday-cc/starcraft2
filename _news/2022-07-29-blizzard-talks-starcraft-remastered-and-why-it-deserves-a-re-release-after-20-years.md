@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/blizzard-talks-starcraft-remas
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/blizzard-talks-starcraft-remastered-and-why-it-des/1100-6451524/"
 type: article
 quality: 90
-heat: 190
+heat: 170
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/07/Untitled.jpg?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "StarCraft: Remastered is free with Prime Gaming in August"
-    excerpt: "It’s been a hot summer in many parts of the world, but Amazon Prime members will have a chance to cool off in August with another round of games and in-game content, including the classic sci-fi RTS game StarCraft: Remastered, free with their membership."
-    publishedDateTime: 2022-07-28T15:00:00Z
-    webUrl: "https://www.pcgamesn.com/starcraft-remastered/prime-gaming-free-games-august-2022"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 37
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/07/starcraft-remastered-prime-gaming-august-protoss.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Amazon Prime is giving away Starcraft: Remastered this month"
     excerpt: "After giving members of its subscription service 30 free games during Prime Day, Amazon is now handing them StarCraft: Remastered. Announced in a blog post (opens in new tab), Pri"

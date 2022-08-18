@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-very-best-of
 type: video
 length: PT19M24S
 publishedDateTime: 2020-12-03T10:22:00Z
-heat: 55
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jdhzJmvrC2Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "2KExLt+ouG19fdhNXh8ivdYAKui+uRrkqSJQMg4tCdUozmj4zDEA5xD6viULDnLWxgu+TbV1OyGjR2oCgVC7SAmBuwcy2UkLJ6VXK5AV3vQn1mC/HCAl+GMaZONXtRlQk6gZ7PSx0TSvU+r6WNBKmHT0Z+JiCNVnKQDKSLOU3iUgMX8tiK/OF7oBsLH7LsJrOho3uyewI2x1AJ81KKAGsziO3wV2ctAmbqj23dnSCOr7OzkXn0WkRAgbxpo5l6sXWFdp4OMNCnoGfoU9gRoE7ph6otY3ob4L4LnpjItC9WBEzF3ahbZQqSGzJkhw134H/vEd+eDHUbuvvQQXzK2+4ZJAflao6wtoxkD4ljvK4P98zyZjeONRekMVJ6ap1QOGCzgtHmpNG3r4uEgzBRMpA6LQ9CMDtgwWSLMvpvipBsRCLmBTn+ZV2itQbvPrYkIf;jxVaDqs3kqAq+rWIffBy3Q=="
+secured: "P4mkMXLAGxpTvVUwKOV5+/dCK9SK/3DR5SiJXX/zqjHV4y4HZOMJTAR6vhHq8OMf039e29LRXmJUg2Pey2sNov437unXhi55LAQ9fUX47bCOpC1PgpD2sY7LjaSAoUyLoSbVMhYMWN5VurN5AI7cjODhlitzmdCWIxhpk6FE/Mz2JV70SQIzLobFqRQRSWfmam7THFIXhsrFTO/k5NzJoy7BzyKXkHAze/p5WvKhMUr7BtASCo4Q+Dfv3uAXmKGvj8MEwLtWMWl+eDJxGaup1mOWcY20GThVn1K6cMFFYwXmxGXLe+DjvDlygfv9iWus/TNizuP54qFikoUTrDelY8xgOMjay+KCqTvUzIbf/MlMiJJbcsDbN1LxKCNpEWo++XTYYl/3aPISepVZQ8+z2wVgvWUt3cYYES4la5ANsPTAsuPc2bEF+T1/y0pNziV5;olO2fbYosrXJ16RSI8P9fw=="
 ---
 

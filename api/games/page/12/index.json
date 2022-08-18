@@ -4,82 +4,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-best-game-of-2020-byun-vs-serral.md",
-      "title": "StarCraft 2: BEST Game Of 2020?! (ByuN vs Serral)",
-      "excerpt": "One of the best games of the year in StarCraft 2. An epic match of Zerg versus Terran between Serral and ByuN. Two previous world champions of the game.   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-game-of-2020-byun-vs-serral/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-game-of-2020-byun-vs-serral/",
-      "originalUrl": "https://youtube.com/watch?v=VZeBQi3WXlk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VZeBQi3WXlk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M58S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VZeBQi3WXlk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-12-01T02:38:35-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-blys-amazing-proxy-hatcheries-vs-clem.md",
-      "title": "StarCraft 2: Bly's AMAZING Proxy Hatcheries Vs Clem!",
-      "excerpt": "Bly versus Clem in a best-of-5 series of professional StarCraft 2.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-blys-amazing-proxy-hatcheries-vs-clem/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-blys-amazing-proxy-hatcheries-vs-clem/",
-      "originalUrl": "https://youtube.com/watch?v=1RpcgiNR9xE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1RpcgiNR9xE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT59M14S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1RpcgiNR9xE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-12-24T01:43:03-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-blys-amazing-zerg-rushes.md",
       "title": "StarCraft 2: Bly's AMAZING Zerg Rushes!",
       "excerpt": "Bly is one of the most aggressive Zerg players at the professional level of StarCraft 2. In this best-of-3 series he faces off against Harstem.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko",
@@ -1144,6 +1068,82 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-04-09T03:52:55-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serrals-fresh-new-queen-drop-vs-classic-best-of-3.md",
+      "title": "StarCraft 2: Serral's FRESH NEW Queen Drop vs Classic! (Best-of-3)",
+      "excerpt": "Serral has gotten more aggressive lately in StarCraft 2. In this best-of-3 series versus Classic, the World Champion decides to go for a Queen drop using an Overlord to harass the Probes inside of Classic's bases.  Thumbnail picture by Marco Wutz: https://www.flickr.com/photos/detriplem/45180648705/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serrals-fresh-new-queen-drop-vs-classic-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serrals-fresh-new-queen-drop-vs-classic-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=v6uPpt37W8U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v6uPpt37W8U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-14T03:24:21-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-silver-league-cheese.md",
+      "title": "StarCraft 2: Silver League Cheese!",
+      "excerpt": "A very chaotic match of Terran vs Protoss in Silver League in StarCraft 2. What happens when you're getting cheesed while you're cheesing yourself?  Get more videos & support my work: http://www.patreon.com/lowkotv  If you have an awesome game of StarCraft 2 you would like me to cast, you can submit",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-silver-league-cheese/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-silver-league-cheese/",
+      "originalUrl": "https://youtube.com/watch?v=sjPaRmSolNY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sjPaRmSolNY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M23S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sjPaRmSolNY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-13T01:57:08-08:00"
     }
   ],
   "nextPage": 13

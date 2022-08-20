@@ -4,37 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/videos/pig-how-do-i-defend-battlecruisers-zvt-newbie-stream.md",
-      "title": "“How do I defend Battlecruisers?” - ZvT - Newbie Stream",
-      "excerpt": "This is a section from my newbie/beginner stream where I analyse a players replay and answer their question. Notes that are shown on screen at some points: https://docs.google.com/document/d/1C87ZA4Zmsx9gaEdbYcDOmJZKe22XzORWQIlZN4AClpI/edit?usp=sharing  -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-how-do-i-defend-battlecruisers-zvt-newbie-stream/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-how-do-i-defend-battlecruisers-zvt-newbie-stream/",
-      "originalUrl": "https://youtube.com/watch?v=fefPVib7OjU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fefPVib7OjU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M16S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:44:33-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fefPVib7OjU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-micro-tips-and-techniques-welcome-to-starcraft.md",
       "title": "Micro Tips and Techniques - Welcome to Starcraft",
       "excerpt": "*Since this video has been recorded, cyclones once again have been changed to a previous version so the tip at 3:25 no longer applies to cyclones.  Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to",
@@ -930,6 +899,37 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-vs-protoss-2020.md",
+      "title": "Learn Starcraft 2: EASY Beginner Zerg Build Order Guide vs Protoss [2020]",
+      "excerpt": "Learn Starcraft 2: EASY Beginner Zerg Build Order Guide vs Protoss [2020]  In this Starcraft 2 zerg build order guide we will take a look at a very safe and standard way to open in the zerg vs protoss matchup. We will be using a roach composition that is easy to make and tends to be more forgiving if",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-vs-protoss-2020/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-vs-protoss-2020/",
+      "originalUrl": "https://youtube.com/watch?v=5MwuNRUcLtg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5MwuNRUcLtg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M48S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-06-08T12:45:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5MwuNRUcLtg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
       ]
     }
   ],

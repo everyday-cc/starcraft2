@@ -907,9 +907,10 @@ items:
   - pig-how-quickly-can-pig-dispose-of-noobs-holdout-challenge-starcraft-2
   - pig-its-an-8-player-ffa-but-i-had-to-1v3-the-whole-time-starcraft-2
   - pig-he-got-salty-and-refused-the-rematch-most-annoying-player-ever-1-starcraft-2
-  - pig-will-team-pig-be-punished-for-playing-greedy-af-commander-mode-2-starcraft-2
+  - pig-what-if-sc-was-played-with-actual-commanders-commander-mode-2-starcraft-2
   - pig-when-you-build-only-marines-and-they-freak-out-starcraft-2
   - pig-did-cannon-rushing-break-both-these-players-brains-smooth-brain-boanaan-1-starcraft-2
+  - pig-how-did-a-game-that-was-over-at-8-min-go-for-50min-pig-vs-kiwian-showmatch-part-1-sc2
 
 topics:
   - StarCraft 2

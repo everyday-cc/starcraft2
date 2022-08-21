@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpax-keeps-che
 type: video
 length: PT39M31S
 publishedDateTime: 2021-01-21T12:30:51Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-XQ8rgIM-gM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "nsCXirlDHWwAnS5dIXW+tEjAxrkywSp5+bnEl4+Z2tXeqZfZ060Pz5cpDyJhNdSV5+fCk5jlyek5ofj/4RCDZxgGkba3eP+sXlKy3RKBfyf8tGU/FNXkInttGY4a+AlqbPQ0zISd9k+ckjOEsD7HxP+vQ8OP+C9QE+5vPtob+cQaFmrQYDZLmtQoZ6RrWEx/Pb0o7dryLyRtRimeBPtYyfTBplj8m1LeqaYPVKznCT/LzjiWkeXDqbFSstSDKz/UfP01vF+Ca677H9+4+SZ0shKZc6jE5lpxBD6B7m5Kh87vzuH6/S0wPul/u7dfFJYOSiRT08JSQi+Syr2RqTdkithLYP2MNQS3YwGt915vCJMrgWP/5/vQO5lbxIReFbBx0ZahFYpskln4Y+YX1pCZVF2O4pyNV76wdCWZpqGcoIHu5F+Itk/xEuXKzYc/VHuV;j7nwN6+k7UU+zQxfbTutGQ=="
+secured: "sVZ04GjHJw1IsM9L79GAT6lhak5onYEge4tjBRM6NDjVqU7KqjEGSljjyk9YUWffT2AFGO2QOqJ4zUQTXYRYAEraAAPlyYTsM+aBr6nEinSBCTXbiVBUN/YH/cjOJyOzdvGN5dMprVy+3HHUET+yBF/IALYCM1zCH34YZ8x5qgJvB3ABRd7aOoo7JgJ0Zg6ZPgIEYZKqGSeeamv31W1ZJJviPGdxoo5nrzly+mR1tsM8lmSvsKMnbBzYsPi48QAswh5Sp5ja1YmiYx2raV8oYb+0miZ6QQfQ10VP42teiyKm89X1HpF/Tk59ABPAG/ErtYlZAPhh9anuRnNzR3QcS0lmaxGgSKi3+6+K8vO+0l8LDVO7xGqldgyJi6ptB5mRJb3WlTPHmybLTwzj244MgX6q7Ro9DBcFns4AFGGPzl3itKgciMdkh/YufbUs6vzT;f1McnsXNeMZTnf+ltags2A=="
 ---
 

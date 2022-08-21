@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 62
+heat: 63
 
 provider:
   name: PiG
@@ -911,6 +911,7 @@ items:
   - pig-when-you-build-only-marines-and-they-freak-out-starcraft-2
   - pig-did-cannon-rushing-break-both-these-players-brains-smooth-brain-boanaan-1-starcraft-2
   - pig-how-did-a-game-that-was-over-at-8-min-go-for-50min-pig-vs-kiwian-showmatch-part-1-sc2
+  - pig-his-bcs-induce-salty-rage-from-me-pig-vs-kiwian-showmatch-part-2-starcraft-2
 
 topics:
   - StarCraft 2

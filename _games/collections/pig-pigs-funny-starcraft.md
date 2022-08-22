@@ -910,8 +910,9 @@ items:
   - pig-what-if-sc-was-played-with-actual-commanders-commander-mode-2-starcraft-2
   - pig-when-you-build-only-marines-and-they-freak-out-starcraft-2
   - pig-did-cannon-rushing-break-both-these-players-brains-smooth-brain-boanaan-1-starcraft-2
-  - pig-how-did-a-game-that-was-over-at-8-min-go-for-50min-pig-vs-kiwian-showmatch-part-1-sc2
-  - pig-his-bcs-induce-salty-rage-from-me-pig-vs-kiwian-showmatch-part-2-starcraft-2
+  - pig-how-did-a-game-that-was-over-at-8-min-go-for-50min-pig-vs-kiwian-zvt-showmatch-part-1-sc2
+  - pig-his-bcs-induce-salty-rage-from-me-pig-vs-kiwian-zvt-showmatch-part-2-starcraft-2
+  - pig-when-youre-losing-and-tilting-hard-its-time-to-channel-serral-pig-vs-kiwian-part-3-sc2
 
 topics:
   - StarCraft 2

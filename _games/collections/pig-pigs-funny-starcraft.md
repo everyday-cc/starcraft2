@@ -903,7 +903,7 @@ items:
   - pig-how-quickly-can-dark-solar-dispose-of-a-noob-me-ept-na-holdout-challenge-starcraft-2
   - pig-stasis-disruptor-combo-is-disgustingly-sick-starcraft-2
   - pig-this-is-the-stupidest-build-ive-ever-invented-mac-or-cheese-3-starcraft-2
-  - pig-hero-drone-lets-me-get-away-with-3-hatch-before-pool-mac-or-cheese-4-starcraft-2
+  - pig-taunted-him-with-my-drone-and-got-away-with-omega-greed-lol-mac-or-cheese-4-starcraft-2
   - pig-how-quickly-can-pig-dispose-of-noobs-holdout-challenge-starcraft-2
   - pig-its-an-8-player-ffa-but-i-had-to-1v3-the-whole-time-starcraft-2
   - pig-he-got-salty-and-refused-the-rematch-most-annoying-player-ever-1-starcraft-2
@@ -913,6 +913,7 @@ items:
   - pig-how-did-a-game-that-was-over-at-8-min-go-for-50min-pig-vs-kiwian-zvt-showmatch-part-1-sc2
   - pig-his-bcs-induce-salty-rage-from-me-pig-vs-kiwian-zvt-showmatch-part-2-starcraft-2
   - pig-when-youre-losing-and-tilting-hard-its-time-to-channel-serral-pig-vs-kiwian-part-3-sc2
+  - pig-how-quickly-can-dark-dispose-of-noobs-part-1-holdout-challenge-starcraft-2
 
 topics:
   - StarCraft 2

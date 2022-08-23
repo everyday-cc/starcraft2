@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-03-starcraft-2-sells-1m-day-one-15m-in-first-48-hours-roughly-620k-in-the-us.md",
+      "title": "StarCraft 2 sells 1m day-one, 1.5m in first 48 hours, roughly 620K in the US",
+      "excerpt": "Blizzard just trumpeted the sales numbers for StarCraft 2: Wings of Liberty, the first installment in its long-time-coming sequel to the strategy classic. The numbers: \"a day-one sales milestone ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2010-08-03-starcraft-2-sells-1m-day-one-1-5m-in-first-48-hours-roughly-62.html",
+      "originalUrl": "https://www.engadget.com/2010-08-03-starcraft-2-sells-1m-day-one-1-5m-in-first-48-hours-roughly-62.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/NJfJ2Tn1tczkVro26FX6NA--~B/aD0zNTA7dz01MzA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.joystiq.com/media/2010/07/starcraft2raynor530.jpg",
+          "width": 530,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-blizzard-talks-starcraft-remastered-and-why-it-deserves-a-re-release-after-20-years.md",
       "title": "Blizzard Talks StarCraft Remastered, And Why It Deserves A Re-release After 20 Years",
       "excerpt": "Grant Davies: I think StarCraft has been such a huge and influential game over the years and it lives large in so many people's memories that after 20 years, the time felt right to circle back to ...",
@@ -1157,57 +1208,6 @@
         "name": "Boating",
         "domain": "boatingmag.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-blizzcon-2008-starcraft-ii-gameplay-panel-notes.md",
-      "title": "BlizzCon 2008: Starcraft II gameplay panel notes",
-      "excerpt": "Rob Pardo and Chris Metzen hosted the Starcraft II gameplay panel here in Anaheim this afternoon at BlizzCon 2008 -- they showed off, for the first time in public, some of the adventure-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2008-10-10-blizzcon-2008-starcraft-ii-gameplay-panel-notes.html",
-      "originalUrl": "https://www.engadget.com/2008-10-10-blizzcon-2008-starcraft-ii-gameplay-panel-notes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/yvZTiISbAxjfSrZCtHNNcg--~B/aD0zNjc7dz00OTA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.joystiq.com/media/2008/10/kerrigansdream.jpg",
-          "width": 490,
-          "height": 367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

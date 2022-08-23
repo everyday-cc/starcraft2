@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-25-dreamhaven-studios-how-the-new-game-studio-is-linked-to-dd-starcraft.md",
+      "title": "Dreamhaven Studios: How the New Game Studio Is Linked to D&D & StarCraft",
+      "excerpt": "Mike Morhaime announced the opening of Dreamhaven, a publisher with two in-house studios full of talent from Blizzard and other big name franchises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbr.com/dreamhaven-game-studio-dungeons-dragons-starcraft/",
+      "originalUrl": "https://www.cbr.com/dreamhaven-game-studio-dungeons-dragons-starcraft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static2.cbrimages.com/wordpress/wp-content/uploads/2020/09/Dreamhaven-Dungeons-and-Dragons-1.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbr.com/dreamhaven-game-studio-dungeons-dragons-starcraft/amp/",
+      "cdnAmpWebUrl": "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/dreamhaven-game-studio-dungeons-dragons-starcraft/amp/",
+      "publishedDateTime": "2020-09-24T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBR",
+        "domain": "cbr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-3d-printed-baneling-from-starcraft-is-a-menacing-glow-in-the-dark-other-worldly-monster.md",
       "title": "3D Printed Baneling From StarCraft is a Menacing, Glow-in-the-Dark Other-Worldly Monster",
       "excerpt": "A curated collection of industry and product deep-dives. I think we can all agree that, so far, this year has been incredibly taxing and confusing for us all. Some of us have had their working ...",
@@ -1192,57 +1234,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-07T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-03-21-stronger-together-all-co-op-commanders-free-to-play-for-a-limited-time.md",
-      "title": "Stronger Together: All Co-op Commanders Free to Play for a Limited Time",
-      "excerpt": "With so many around the world staying safe indoors right now, we wanted to make it a little easier for everyone to connect with each other through StarCraft II.",
-      "sourceUrl": null,
-      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23357709/stronger-together-all-co-op-commanders-free-to-play-for-a-limited-time",
-      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23357709/stronger-together-all-co-op-commanders-free-to-play-for-a-limited-time",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/xj/XJD384E0ODIU1584731009137.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T18:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Blizzard",

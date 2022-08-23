@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-11-blizzcon-2008-starcraft-ii-gameplay-panel-notes.md",
+      "title": "BlizzCon 2008: Starcraft II gameplay panel notes",
+      "excerpt": "Rob Pardo and Chris Metzen hosted the Starcraft II gameplay panel here in Anaheim this afternoon at BlizzCon 2008 -- they showed off, for the first time in public, some of the adventure-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2008-10-10-blizzcon-2008-starcraft-ii-gameplay-panel-notes.html",
+      "originalUrl": "https://www.engadget.com/2008-10-10-blizzcon-2008-starcraft-ii-gameplay-panel-notes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/yvZTiISbAxjfSrZCtHNNcg--~B/aD0zNjc7dz00OTA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.joystiq.com/media/2008/10/kerrigansdream.jpg",
+          "width": 490,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-playing-starcraft-makes-you-smarter.md",
       "title": "Playing StarCraft Makes You Smarter",
       "excerpt": "StarCraft might literally be food for thought. A recent study conducted by researchers at Queen Mary and University College London concluded that playing StarCraft and complex real-time strategy games can help improve brain agility and multitasking.",
@@ -1050,57 +1101,6 @@
         "name": "denoticias.es",
         "domain": "denoticias.es",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-former-starcraft-modders-launch-kickstarter-for-new-strategy-game.md",
-      "title": "Former StarCraft Modders Launch Kickstarter for New Strategy Game",
-      "excerpt": "Sunspear Games, a studio formed by former StarCraft modders, has launched a Kickstarter campaign for its own real-time strategy game. Titled Immortal: Gates of Pyre, the campaign has surpassed its ...",
-      "sourceUrl": null,
-      "webUrl": "https://in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/former-starcraft-modders-launch-kickstarter-for-new-strategy-game",
-      "originalUrl": "https://in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/former-starcraft-modders-launch-kickstarter-for-new-strategy-game",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.ign.com/t/ign_in/screenshot/default/gamecover-art_nka4.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/former-starcraft-modders-launch-kickstarter-for-new-strategy-game?amp=1",
-      "cdnAmpWebUrl": "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/former-starcraft-modders-launch-kickstarter-for-new-strategy-game?amp=1",
-      "publishedDateTime": "2021-03-15T23:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

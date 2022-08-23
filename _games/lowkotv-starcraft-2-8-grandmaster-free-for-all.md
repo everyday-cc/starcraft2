@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=vTsbVP5fpt8
 type: video
 length: PT1H42M22S
 publishedDateTime: 2019-09-16T11:41:25Z
-heat: 69
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vTsbVP5fpt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "2dPy5jZPMjE/YIuP12SwQz87MgCkIBP6mXRbcpJYam5gaTecEQemtZQSonUndDE+jGkt094CXC4w4CiTi/YhvgMTXiy1ZCwxt84FNDoBcablsL653EfqbkXLtOfoa26I8HR0OfoCMpPoKt7NvMVpqogmck9cjQO06qDuEinb4n529WmyGWdatAYJIPCcAlajy0egNKbdHjY1g06iNLGB4bfuY4uEwgvperoB/kD2c4nCQPanWpsscIIG3QBn7ZJUk01z5ztHb27rtWQZ/f7xAY1c90Tvi1L49YPc2jg00ja3gD4olLJWdDhUrzjRSOPY1Kx8QF0gTDXIwWzIZqMTLvTFylFiuGlBOxKpQeflQPTMJRiN6qJdyeiF8MXoysdGsd5VvlDWgpDSoNVgW2rSPFbRrPj/U/85VsNMYZdRNlhFS80+0mrGKrhTuumTVNcY;epFvm6Gq4p3VmtB/WesNAg=="
+secured: "joO0pdMd9lJlfdlQbfqzIxL07Zp3J00r5BTjDw4S6DMAJNBd9pqg+hZ1OOVKAbgYH/ImT1fkkPS12V1ww3JqPVJeY9sbxkWSLDztW5V9DCPM8DFj1Tm+HEQkl5c0NGLs5zcM3YXzW78SGxOCrjtPygiAGpwoKw/OYocvxoiX7x0xGJHPCwTxqImjjwSGxytth0QFdew1rPRO22sOEzg94olaCqgJNbDSF2fc0ce6OIMk74BJVr5n0Wpldmn5K3VUJQ6SZtdatxOGvnrzumzUGr5TgZtgbtexoaDJu1CYUFfuVoWZpiwsKJWmkEe6Ic1YUUSGoqfEhupfAil5jSM5mGx2nYjFWu8aM+GmPTaUA2G70ruewivmFW3S9vqQERADa2CQXi5JdUFbKkLp3H8VPAYBF3aXqHB7OHS+JpWlW8Z1WQ4IGZpqsMqhsKI6ZLx6;n9SmkULJEqCeX227zcsVYQ=="
 ---
 

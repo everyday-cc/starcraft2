@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT18M2S
 publishedDateTime: 2018-02-02T12:44:42Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R2zN8eEaztM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "WpWkYr80R12MVctCoC3OP1STu/FJ9TdBAkPC8ok8vrMo/BPRvippKb/ob4DcrSMrelv5+88Oxi3IQ9rQOOj7yeA1kpdTioDZT5+aN/NOXExQBjkY0MVAPXh3wa6IdJvPcSuo3RAbN6fgxfbSpOBrO6tC1PavGkPEOmFfdG6B9vHVnDZe5ya8UR1uf3+azy3Wb7hxUihTOSm7fNsf4V1+DK0RSb2n+RKk+kykrNyyNIcCjiHZfUBLOIfDrBMGtkQxXXySmm9uVMWvyqJEdi4Q5sKKN9jLjCwNI7tn3bTGtptbmf9ABv/9Nl/xN9hLEdf1jhcz4/mUvFOT1ZRrbspcRNpNFYOL7LyZFwQcjSYMDVSNvETyEQaOq6NBQxUnWA9gJuORvGugKiUoE+54VkrhH+Vkrh9Hhi1o9oFJP5HcwGNPsjxfvvWZvnDzgJFXQNAW;/pwJ0OiLFpYCNeEMX/siag=="
+secured: "NXjvNBm4fRHEhIbpNLMpi2+nuBwC+kdIj2cjbEh4pzlO1PITnVNN/Fxa2jczbwXpEYpl25y8jcClhAlua0ZYHd2lVpRKM/PImvAz+aSl8UX8A58mD9Dz/U/Y+JW7mfO1cuoKp3dK/1VLbM0OJgEFLtUWwsfXsXaUmpYV7s0gCexxJzBY/RMDVY0NqV6legRCed8r6AZ2GAq82BvGcITInsDj2zXAPhE0K3KYxvv2AsHMcOpTT9IOpJbEs+A/pCnjNytJi8WsdaszefIN/bcAzwAsbhfHEvwDMMA1vvGAoBgOuIq6W8+0Jrt4icbCjWH7UxppTWRYaNZ8DJtRM1x3S+3ODvy5oWEPjILwRy9yUwByAfx5ph3rP0Q9ioybyPz2nJNymfyfWb1AEOFf1OkFsr66u/CLMCYgSDfpmDDa10puzfUBMipHSgwdDeLdnz1y;4uFQrZBT5JHT8JXtnMePMQ=="
 ---
 

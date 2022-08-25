@@ -116,6 +116,44 @@
       "publishedDateTime": "2018-09-18T03:23:39-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-the-best-terran-players.md",
+      "title": "StarCraft 2: THE BEST TERRAN PLAYERS!",
+      "excerpt": "Maru vs TY in a best-of-5 series of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/bpDV8i  An awesome world-class series of StarCraft 2. In this video I commentate a professional best-of-5 series between Maru and TY, two of the very best Terran",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-best-terran-players/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-best-terran-players/",
+      "originalUrl": "https://youtube.com/watch?v=gUE1eInkbVk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gUE1eInkbVk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H1M38S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gUE1eInkbVk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-01-07T11:42:11-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-blind-terran-army.md",
       "title": "StarCraft 2: The BLIND Terran Army!",
       "excerpt": "All those Terran units need to be fired. Or glasses. One of the two. Subscribe for more videos: http://lowko.tv/youtube Intense micro battles: https://goo.gl/8ofWqN  In this Protoss versus Terran we get quickly into a base trade scenario. The Terran player tries to close out the game as quickly as he",
@@ -227,80 +265,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-08-23T03:39:26-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-colossus-counter-attack.md",
-      "title": "StarCraft 2: THE COLOSSUS COUNTER-ATTACK!",
-      "excerpt": "DnS vs Reynor in a professional game of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More professional StarCraft 2: https://goo.gl/kFUSLt  Colossus are slowly starting to become more and more common in the StarCraft 2 meta. Since players are far more creative with their unit compositions",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-colossus-counter-attack/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-colossus-counter-attack/",
-      "originalUrl": "https://youtube.com/watch?v=DXLv5pY3SlM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DXLv5pY3SlM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M3S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DXLv5pY3SlM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-12-21T03:54:26-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-command-center-bully.md",
-      "title": "StarCraft 2: The Command Center BULLY!",
-      "excerpt": "The Command Center bully. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://goo.gl/qUBVXB  In this Silver League match of Terran vs Protoss the Protoss player decides that all he is going to make for the majority of the game is Pylons and Photon Cannons. The Terran player is",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-command-center-bully/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-command-center-bully/",
-      "originalUrl": "https://youtube.com/watch?v=V8OGm8f3zsg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V8OGm8f3zsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M31S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/V8OGm8f3zsg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-09-13T03:54:51-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-command-center-scout.md",
@@ -451,6 +415,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-09-09T03:10:58-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-crescent-moon-rush.md",
+      "title": "StarCraft 2: THE CRESCENT MOON RUSH!",
+      "excerpt": "Why build two cannons when you can build six? Subscribe for more videos: http://lowko.tv/youtube Four Stargate Proxy: https://goo.gl/8YTKIv  Just your regular Silver League Protoss vs Terran. In this Protoss decides to open up with Cannons and Dark Templar. While Terran gets very far ahead in supply",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-crescent-moon-rush/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-crescent-moon-rush/",
+      "originalUrl": "https://youtube.com/watch?v=Eg0yb4X2t5o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Eg0yb4X2t5o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M11S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Eg0yb4X2t5o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-04-13T02:01:26-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-cringe-nukes.md",
@@ -640,6 +641,43 @@
       "publishedDateTime": "2017-07-18T13:34:32-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-the-epic-late-game.md",
+      "title": "StarCraft 2: The Epic Late Game!",
+      "excerpt": "An epic match of professional StarCraft 2 between Bly and Harstem. This is not a series of games, but just a single match that's extremely long. Nearly all Minerals of Triton get completely mined out in the ultimate late game of this Zerg vs Protoss.  Get more videos & support my work: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-epic-late-game/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-epic-late-game/",
+      "originalUrl": "https://youtube.com/watch?v=3Xyfl8EKj2I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3Xyfl8EKj2I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M47S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3Xyfl8EKj2I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-09-23T14:04:03-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-final-units-clem-vs-showtime.md",
       "title": "StarCraft 2: THE FINAL UNITS! (Clem vs ShoWTimE)",
       "excerpt": "Excellent game of StarCraft 2 between Clem and ShoWTimE. In this Terran versus Protoss at the professional level we see an extremely close match betweenn some of the highest ranked players in Europe.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
@@ -789,43 +827,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-05-29T03:42:48-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-gold-rush.md",
-      "title": "StarCraft 2: The Gold Rush!",
-      "excerpt": "Either expand everywhere, or take only your Natural. Subscribe for more videos: http://lowko.tv/youtube Proxy Thor: https://goo.gl/qgLVyt  In this Silver League Zerg vs Protoss the Protoss and the Zerg go for exact opposite strategies. Where as the Zerg decides to expand literally everywhere, the Protoss",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-gold-rush/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-gold-rush/",
-      "originalUrl": "https://youtube.com/watch?v=qdRutIPZzvk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qdRutIPZzvk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M54S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qdRutIPZzvk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-05-26T03:57:31-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-golden-armada-vs-the-death-fleet.md",

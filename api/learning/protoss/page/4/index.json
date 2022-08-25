@@ -4,6 +4,99 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/videos/pig-coaching-pvz-stats-3-oracle-into-immortal-sentry-push-diamond-2-coaching.md",
+      "title": "Coaching PvZ Stats’ 3 oracle into immortal sentry push - Diamond 2 coaching",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;)    If you wish to support me please consider supporting my patreon: [https://www.patreon.com/PiGSC2](https://www.patreon.com/PiGSC2)    ### Videos don’t appear in your feed and you want to get notified about new uploads? Press the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-pvz-stats-3-oracle-into-immortal-sentry-push-diamond-2-coaching/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-pvz-stats-3-oracle-into-immortal-sentry-push-diamond-2-coaching/",
+      "originalUrl": "https://youtube.com/watch?v=IiepTwljOCQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IiepTwljOCQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H18M35S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-09-19T09:00:05-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IiepTwljOCQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-zvp-vs-cannon-rush.md",
+      "title": "Coaching ZvP vs Cannon Rush",
+      "excerpt": "I coach my student on having a smooth reaction in ZvP to pylons blocking your natural and cannon rushes. -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-zvp-vs-cannon-rush/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-zvp-vs-cannon-rush/",
+      "originalUrl": "https://youtube.com/watch?v=orYHRXhML7Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/orYHRXhML7Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M13S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:42:45-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/orYHRXhML7Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-decent-fundamentals-but-no-gameplan-pvz-newbie-stream.md",
+      "title": "Decent fundamentals, but no gameplan - Pvz - Newbie Stream",
+      "excerpt": "This is a section from my newbie/beginner stream where I analyse a players replay and answer their question. Notes that are shown on screen at some points: https://docs.google.com/document/d/1C87ZA4Zmsx9gaEdbYcDOmJZKe22XzORWQIlZN4AClpI/edit?usp=sharing  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-decent-fundamentals-but-no-gameplan-pvz-newbie-stream/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-decent-fundamentals-but-no-gameplan-pvz-newbie-stream/",
+      "originalUrl": "https://youtube.com/watch?v=qVKbEx7FsMs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qVKbEx7FsMs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M25S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qVKbEx7FsMs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-defending-12-pool-hatch-block-pvz-newbie-stream.md",
       "title": "Defending 12 pool + Hatch Block PvZ - Newbie Stream",
       "excerpt": "This is a section from my newbie/beginner stream where I analyse a players replay and answer their question -- Watch live at https://www.twitch.tv/x5_pig",
@@ -625,37 +718,6 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-partings-unbeatable-pvt.md",
-      "title": "Parting's Unbeatable PvT",
-      "excerpt": "🔥 I love watching this brain-twisting Korean Protoss work his magic against Terrans right now 🐷 Support PiG: https://www.pigstarcraft.com/support/  🔥 Book of Filth 2.0: https://docs.google.com/document/d/1GbpZ-qjoUQ42ZwVsmk3cYgLZ1WYNcLc9l6KUo-Zuudk/edit?usp=sharing 🔥 GSL game vs Cure in ST 2: https://www.youtube.com/watch?v=qhf_UWUyc0Y&t=351s&ab_channel=AfreecaTVeSports",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-partings-unbeatable-pvt/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-partings-unbeatable-pvt/",
-      "originalUrl": "https://youtube.com/watch?v=2KDnIiqrY1Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2KDnIiqrY1Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M39S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-03-14T01:37:50-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2KDnIiqrY1Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-phoenix-expand-diamond-3-pvp-coaching.md",
       "title": "Phoenix Expand  - Diamond 3 PvP Coaching!",
       "excerpt": "I heard you guys like coaching ;)   -- Watch live at https://www.twitch.tv/x5_pig My NEW HP: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to my Discord: https://discordapp.com/invite/SkhbzCM",
@@ -735,38 +797,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/bDZSnTxHxv0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-pig-shows-how-to-deal-with-widow-mines-as-zerg-and-protoss-newbie-stream.md",
-      "title": "PiG Shows how to deal with widow mines as Zerg and Protoss - Newbie Stream",
-      "excerpt": "This is a section from my newbie/beginner stream where I analyse a players replay and answer their question. Notes that are shown on screen at some points: https://docs.google.com/document/d/1C87ZA4Zmsx9gaEdbYcDOmJZKe22XzORWQIlZN4AClpI/edit?usp=sharing  -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-pig-shows-how-to-deal-with-widow-mines-as-zerg-and-protoss-newbie-stream/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-pig-shows-how-to-deal-with-widow-mines-as-zerg-and-protoss-newbie-stream/",
-      "originalUrl": "https://youtube.com/watch?v=nFigmzM_8Zk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nFigmzM_8Zk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M17S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:44:33-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nFigmzM_8Zk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -904,37 +934,6 @@
         "StarCraft 2",
         "Protoss",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-pvz-dt-archon-drop-coaching-master-3.md",
-      "title": "PvZ DT Archon Drop - Coaching Master 3",
-      "excerpt": "Coaching a protoss on some dirty, dirty DOUBLE prism dt/archon drops!  -- Watch live at https://www.twitch.tv/x5_pig My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to my Discord: https://discordapp.com/invite/SkhbzCM",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-pvz-dt-archon-drop-coaching-master-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-pvz-dt-archon-drop-coaching-master-3/",
-      "originalUrl": "https://youtube.com/watch?v=jgkcldQzowM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jgkcldQzowM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H20M41S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-02-08T09:00:37-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jgkcldQzowM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
       ]
     }
   ],

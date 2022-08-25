@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-brood-war-6-legend
 type: video
 length: PT32M28S
 publishedDateTime: 2021-02-26T17:55:00Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FQkwt8r0C8k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "3L9K9C6F0JbNhI1JtKCaUM05uHGT5ZWuEwa1QBfRIi94Oe+RpP2jNjqNpwNDBjDh5vPjM2k4I8f6d/Gt2yUYfC7ef5fnVKmIMQ/bz4928YwE2dAWfPmBsUqXdhHbZHlXKEIRAhr033AIBU/Gtwl0s2WWIzHE5+JmQV2ICoQmEodI8f3g71DOI+Ar2lU1r48CxuMdtdnNxh+FLl3VoqJ7QT+pKJzOMR1Xc8docxfRSdqTKRKqaiPrIDtWPND4LF24e20XEM4XhaqMPkhgeK5NtGRo/zzQhfHOpnj7zkm2tECCveYf7Q6E6RUSzaBROMMOP7Le1nR66dgkt9RCOSqTsSFKVI+ZazohASkLs+TNsDk896rNLBVGGwaGMCUNA7eCMVuHdloSRhfJA1lheNntyS/RQJe0luwJqoXc2nNSi38=;jEMzm9baNYHL2tFu23jqfw=="
+secured: "8c9Qe/zzPJBCyBuItBOtoWaq3Sam4GBRaMPlz6MZpaRG0VRj7c+4Wd7II585QZ6JhpuEHV+XDUSm2sk1gwH9U9HOYbRoEwNmlzsg3A8YSI9I4SGd4wZR2e5EARTCK8DmJa1nvmiDjhiGY2jq4Gv4Dxm0aN9Yh4PO6HVYhgWeLRJSOh1ucMXTiYQr6z7CX0b5+Dn9vqnMCOBF8PFdpiFcGcEK4OE7T/MYgcemiK89IjKhFlru37ywm4q1kOYKIK6mm2KntF9PgqDSbncQx9fBoElH7+7A2Wd2cSBwFbSnwPjEfhFvVFiyFp4B2+Yfnu4pXdjzEIcE74jleG400pPJha4a8vFE3FznK4drFeJqICwUoKrRiqv6JseMyeqrO9vbrSQBCqIOacpr9Y7FRqYFFHlFY+NDtr14kTYe0wRUXLA=;V9aRdRlTQVkGbnjcqyY4ww=="
 ---
 

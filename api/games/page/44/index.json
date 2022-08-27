@@ -4,45 +4,6 @@
   "page": 44,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-solar-vs-ty.md",
-      "title": "StarCraft 2: SOLAR vs TY!",
-      "excerpt": "A top-level match of Terran versus Zerg. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Protoss: https://goo.gl/qeUdf6  This is a match of professional StarCraft 2 with commentary between Solar and TY. Both players are at the top-of-the-line for their respective races and are extremely",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-solar-vs-ty/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-solar-vs-ty/",
-      "originalUrl": "https://youtube.com/watch?v=l5J-L9gn1oM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l5J-L9gn1oM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M35S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/l5J-L9gn1oM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-12-22T13:12:25-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-special-strategies.md",
       "title": "StarCraft 2: SPECIAL Strategies!",
       "excerpt": "Not quite your usual match of Zerg vs Zerg. Subscribe for more videos: http://lowko.tv/youtube Mittens & Diamonds: https://goo.gl/aGB2dc  An awesome match of Platinum League Zerg vs Zerg. While the game opens up rather passively, it quickly becomes very unorthodox as one of the players decides to go",
@@ -380,6 +341,43 @@
       "publishedDateTime": "2020-01-27T03:48:22-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-stinky-cheese.md",
+      "title": "StarCraft 2: STINKY CHEESE!",
+      "excerpt": "Cheese countered by... More cheese? A viewer match! Subscribe for more videos: http://lowko.tv/youtube Welcome to Aiur: https://goo.gl/1giyV2  In this match of Platinum League Terran vs Terran both players decide to play very odd...  If you have an awesome replay of StarCraft 2 that you think is worth",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-stinky-cheese/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-stinky-cheese/",
+      "originalUrl": "https://youtube.com/watch?v=gPzCbMYnRtw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gPzCbMYnRtw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M51S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gPzCbMYnRtw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-08-07T07:18:48-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-storm-disruptor-drops-reynor-vs-harstem.md",
       "title": "StarCraft 2: STORM & DISRUPTOR DROPS! (Reynor vs Harstem)",
       "excerpt": "Reynor versus Harstem in a professional match of StarCraft 2. While Reynor mostly plays what we consider to be 'standard' at the pro level, Harstem brings some really cool moves to the game with Disruptor and High Templar Storm Drops.  Get more videos & support my work: http://www.patreon.com/lowkotv",
@@ -417,6 +415,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-15T02:06:48-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-storm-drops-mana-vs-special.md",
+      "title": "StarCraft 2: STORM DROPS! (MaNa vs SpeCial)",
+      "excerpt": "Amazing game of professional Terran versus Protoss in StarCraft 2. This game is a constant back-and-forth between some of the best players outside of South Korea. One of the highlights are multiple storm drops that the Protoss player executes with a Warp Prism and several High Templar with Psionic Storm.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-storm-drops-mana-vs-special/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-storm-drops-mana-vs-special/",
+      "originalUrl": "https://youtube.com/watch?v=uWV0UC7SjkI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uWV0UC7SjkI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M14S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uWV0UC7SjkI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-27T10:07:42-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-strange-build-orders-serral-vs-neeb.md",
@@ -987,45 +1024,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-19T03:14:36-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-tactical-nukes-his-own-base-cure-vs-trap.md",
-      "title": "StarCraft 2: TACTICAL NUKES HIS OWN BASE?! (Cure vs Trap)",
-      "excerpt": "One of the best series of Terran versus Protoss at the top level of StarCraft 2 that I've seen this year. In this best-of-5 we don't see much variety in build orders, but that doesn't take away much of the games. Both players feel comfortable with their strategies and don't need to adjust. They try to",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-tactical-nukes-his-own-base-cure-vs-trap/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-tactical-nukes-his-own-base-cure-vs-trap/",
-      "originalUrl": "https://youtube.com/watch?v=EPOzcrqG3YE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EPOzcrqG3YE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H8M40S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EPOzcrqG3YE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-07-02T05:06:47-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-tempest-trouble.md",

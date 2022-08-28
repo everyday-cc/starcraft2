@@ -23,17 +23,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Grab ‘StarCraft: Remastered’ and Other Hidden Gems Free With Amazon Prime"
-    excerpt: "Amazon Prime is offering free games with a Prime subscription, including StarCraft: Remastered and some other games which flew under the radar."
-    publishedDateTime: 2022-08-08T13:30:00Z
-    webUrl: "https://www.belloflostsouls.net/2022/08/grab-starcraft-remastered-and-other-hidden-gems-free-with-amazon-prime.html"
-    type: article
-    provider:
-      name: Bell of Lost Souls
-      domain: belloflostsouls.net
-    quality: 16
-
 secured: "NSzd7y4lhFpRwpbKC7DIR87C0l1ioufmyQShZbWadsxhY9SH9u/IIrKqFs/QV38M9sawwXTw3D5PiJHj09a5leTNUKbmmfTVcxy7xmox7ygodTCkm4vySAIOwPQ7gK6Qszm9ymMwx7sns4otVQkkKoJzn1WyaH8cxW/Gga2A8+/lU1qCxW0wFbaZhyEQgPY4r5wWle3WYYzrMwLynX8Y0D4FxDJo5ppcob73tnSqCO+fXyP9aMMfLbMke8AQweiIdaDnbxfwsa/QxHwG0q5Zi0h3EdCa/wJcYD7wJV1eeWEeVWwMLymRS5/taNiLqi5hQc+NSnLQbLsgcURhGhQxQlSIe9EobBAZ/i3FEgMtMw0=;Ajuie+jypMW0SAYbcxfMUw=="
 ---
 

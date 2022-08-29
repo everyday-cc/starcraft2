@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=nB24pHjh_eI
 type: video
 length: PT31M18S
 publishedDateTime: 2021-09-23T11:41:23Z
-heat: 55
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nB24pHjh_eI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "/4h7lXuk19lPMyEo20hhlTcspCL9kJzTcJH4gXpVI/Fy4rdbZn3Vg0AQQOu9F+6h4qFnSbucZNMj955AQyfJEPCEq/45vluerTh8txtu2Bv9vtJtSjR7glZFrDO824MhHZ24YWNelKWxJXDKQ5W61PCr3W6b/longoTVb4I7Ca4nIQxzODZdneociXSAdgQjuvtH0an1eKDIoBZOr6EGSOSHPxSkmdFe3zO4UH2RVhRNXeCy/vbT0d56uUk+VwRXaPP6enDg4gPOuPxc+k5Yze1vZnNJJ2SuiMTzjaNn8VmTGtk3GHHKpPB31/53lLgXCsQLZqzbwfduQ16RLNWxh7ls96vhDlpiTPNGmGEE2vHjbNe92oBAU3E5QVni85Qdw8sqSoXLSwakBLupgusFoPBc0fHSI0IOa2rQtxsgK6M=;g4SfWBQHlmA59/sMf7EIGA=="
+secured: "Yikoa369/a8fk8Yt73qhiW/1Cl8CmHMVQsda6jG0O2rBYjwo+1ANHMgJDWKQN+AsgbFkZ7gO8GEuzEdtr9b2hekKl4pMN5hPpelfE2WKbM4r+EpeBMkpLQ8QOeuKCPjdAaimF08EPoqz3VwMmj6iimJ+YqAjqb/hQfjEuoQKcv5VhlZ8XJib6cTrWTBymusqIccwomvcjr6iVvw3K3NKvJSgxb3+F6hr35cD1L1uboEbNF8qyB7jCj8EDXeCZp8bpzljJBSqOV1lbG2s0N3qiK82/R2v02JqGyb17QWsSGv9lNVn8JIFTlwiTAyT1J1D7OHwN85hFvz8IIdFye2p3mkpbuqf6ARH/4ywvmZF65ePPOUhlgU9XBVj0G2xMZVi6cw9YiBrA4OTTqlsMwKu+cIPA2rgO3BhO0uDr8RroLI=;tPQvjW6aiKrt+Ct12AZyAg=="
 ---
 

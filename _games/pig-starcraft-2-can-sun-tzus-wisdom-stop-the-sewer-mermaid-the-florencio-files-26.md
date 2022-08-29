@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=VncOxOE-bBg
 type: video
 length: PT27M25S
 publishedDateTime: 2018-09-22T22:05:46Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VncOxOE-bBg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "S0X0QT2/6z6RvDRk4m/ZzpJDfRdEpi6foR1CSwM7s5KM+RLgBzm/NjFDSUdcCs1SHi96fGtXstx4x/Ms4hEdwBVzrvnc41y3fh0pVbFmLUqVuxxBih9dF8hDJit0mOMAWnraPOckm3fUodAI1n4VHPIc5uPlxsdstDsTdac7BNQj5EE1s51uR7whJqPMoIh2BnHayLJcElg6c+6+hMqOEghQcyxj1evpKg6Wz9nsvuyzhUJ/hBIGwPdKN/k3DScgoChefO2kbSSqka8msdsjwEFVgk2gVfN4mSfQFPdAlstRveygoLQF7lgDd/Gqmpr7E1m6VO7EaUE2mQc3rdjgdbumOjZ1dCZCJkk8lvUcb0RdKIpW7+8WIPVoYdFHpnttTKIiJYsblTdbZSHHrJi9qV/z4hxphsFpx9/r5dlr3PA=;o1WSaslfCarli/hh2ERnVw=="
+secured: "lcQo2u5z6U9FyTY+f0Az7NlztDPnOPiTnEuJMdTBeSIJn1q9w3npa3QKuH1HwTMAS+9uBp3KEWneHa9gjkcQqgfP4S6uEnq5c7nZqagFaTMw7URlzMCFW6us+5bCdBkJGNDqhjGmJAFsmvy6tHTFwcv3YlaEOuYBpA3vZ1T4oZqwpuysxTW1JkTOMXntRoKBf38duUXLrfIeoaJ7kcwBXXy0xD4/iEVpZpJdH+IHQeEFh/jqTezKwU/qjsWOv3KhcsvpnxJaXZbOYOVOaQRnwWbqVQ9dLkFxiRmTzi3P7T1K49yeJsxVVLYO5A9giUo8wBw33wjEOnkfh+j2gcxLy109qGdYCTgSNZdzxfDDfK/Q7zRwx5tT/BZLBlieFT5M8AaGsBt8fEjilgf4cXzj+B62vu6oxEbipjDyKACD4Mc=;GZWg83loWhSZuG2B6/x30Q=="
 ---
 

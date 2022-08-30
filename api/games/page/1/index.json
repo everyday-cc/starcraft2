@@ -1035,14 +1035,14 @@
       "publishedDateTime": "2022-04-29T04:15:35-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
-      "title": "StarCraft 2: SERRAL vs MARU! (Best-of-7)",
-      "excerpt": "Merry Christmas everyone! The two best players currently in StarCraft 2 face off in a best-of-7 series. Serral (Zerg) takes on Maru (Terran). This is the Grand Finals of King of Battles 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-maru-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-maru-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=NtD2vnq5rTY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NtD2vnq5rTY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H22M32S",
+      "path": "_games/lowkotv-starcraft-2-beautiful-defense-reynor-plays-protoss-in-a-premier-tournament-solar-vs-reynor.md",
+      "title": "StarCraft 2: BEAUTIFUL DEFENSE - Reynor plays Protoss in a Premier Tournament! (Solar vs Reynor)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between Reynor (ProtosS) and Solar (Zerg). In this tournament match from Dreamhack Valencia Reynor decides to pick Protoss rather than Zerg.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-beautiful-defense-reynor-plays-protoss-in-a-premier-tournament-solar-vs-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-beautiful-defense-reynor-plays-protoss-in-a-premier-tournament-solar-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=zanGzafIf8g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zanGzafIf8g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M54S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1057,21 +1057,21 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
+        "Protoss",
         "Zerg"
       ],
-      "heat": 118,
+      "heat": 122,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/NtD2vnq5rTY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-12-24T13:58:31-08:00"
+      "publishedDateTime": "2022-07-14T03:00:13-07:00"
     }
   ],
   "nextPage": 2

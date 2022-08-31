@@ -4,6 +4,83 @@
   "page": 16,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-top-of-the-line-protoss-vs-terran.md",
+      "title": "StarCraft 2: TOP-OF-THE-LINE Protoss vs Terran!",
+      "excerpt": "A solid best-of-5 series between INnoVation and herO. Subscribe for more videos: http://lowko.tv/youtube Intense Zerg vs Protoss: https://goo.gl/D6Qj6z  In this series there is a clash between two titans. Both players are the statistical rank 1 for their respective races. herO is known as the best Protoss",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-of-the-line-protoss-vs-terran/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-of-the-line-protoss-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=9DpFrmdyarU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9DpFrmdyarU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M15S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9DpFrmdyarU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-08-05T05:10:07-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-top-tier-terrans-maru-vs-time.md",
+      "title": "StarCraft 2: TOP-TIER TERRANS! (Maru vs TIME)",
+      "excerpt": "Incredible match of top-level Terran versus Terran in StarCraft 2. In this professional match between Maru and TIME, both players take very few early game commitments and play an epic macro game.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-tier-terrans-maru-vs-time/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-tier-terrans-maru-vs-time/",
+      "originalUrl": "https://youtube.com/watch?v=jIeP5C-RRxE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jIeP5C-RRxE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M3S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jIeP5C-RRxE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-26T00:40:53-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-ultimate-slow-push-polt-vs-bly.md",
       "title": "StarCraft 2: ULTIMATE Slow Push! (Polt vs Bly)",
       "excerpt": "Professional match of StarCraft 2 between Polt and Bly. Polt was one of the most popular progamers in the early days of StarCraft 2. He has won many tournaments throughout his career and recently decided to return to professional gaming. Polt in this Zerg versus Terran decides to go for the slowest of",
@@ -388,84 +465,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-03-23T07:24:24-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-zerg-vs-terran-cringe.md",
-      "title": "StarCraft 2: Zerg vs Terran CRINGE!",
-      "excerpt": "Silver League Zerg versus Terran cringe. Subscribe for more videos: http://lowko.tv/youtube Intense micro battles: https://goo.gl/8ofWqN  While the game seems over early on into the match, the Terran does not quite scout where his opponent's final base is located fast enough.  If you have an awesome",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zerg-vs-terran-cringe/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zerg-vs-terran-cringe/",
-      "originalUrl": "https://youtube.com/watch?v=r7laPMA3jKQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r7laPMA3jKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/r7laPMA3jKQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-07-07T01:03:19-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-zerg-vs-terran-insanity.md",
-      "title": "StarCraft 2: Zerg vs Terran INSANITY!",
-      "excerpt": "An incredible best-of-3 series between ByuN and Reynor. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Protoss: https://goo.gl/qeUdf6  Late game Zerg versus Terran is still being figured out. ByuN apparently knows more than others, as he decides to focus heavily on Ghosts in this match-up.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zerg-vs-terran-insanity/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zerg-vs-terran-insanity/",
-      "originalUrl": "https://youtube.com/watch?v=YpCHlPQRX1c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YpCHlPQRX1c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YpCHlPQRX1c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-01-09T06:12:03-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-zest-vs-special.md",

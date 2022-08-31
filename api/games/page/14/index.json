@@ -4,6 +4,313 @@
   "page": 14,
   "value": [
     {
+      "path": "_games/pig-3-cheeses-in-16-minutes-24-seconds-king-of-cannons-13-starcraft-2.md",
+      "title": "3 CHEESES IN 16 MINUTES 24 SECONDS!? | King of Cannons #13 - StarCraft 2",
+      "excerpt": "PrintF does not disappoint with this trio of cheeses for each match up! Chapters: 0:00 Game 1 6:04 Game 2 15:22 Game 3  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf -- 🐷 Like my videos?",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-3-cheeses-in-16-minutes-24-seconds-king-of-cannons-13-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-3-cheeses-in-16-minutes-24-seconds-king-of-cannons-13-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=dblK383xEk0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dblK383xEk0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M6S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 52,
+      "tags": [
+        "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dblK383xEk0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-05T00:41:13-08:00"
+    },
+    {
+      "path": "_games/pig-fastest-ultra-nydus-ever-has-this-guy-created-a-new-dumb-build-smooth-brain-auditions-season-2-ep1.md",
+      "title": "Fastest Ultra Nydus Ever: Has this guy created a new dumb build? Smooth Brain Auditions Season 2 Ep1",
+      "excerpt": "In Season 1 of Smooth Brain Auditions, we found Santa Claws who wowed us with such smooth noggin' moves that we started a YT series just for him. In Season 2, the competition heats up and the auditions are getting even better! Who will be our next Smooth Brain?  0:00 Audition 1 13:14 Audition 2 21:45",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-fastest-ultra-nydus-ever-has-this-guy-created-a-new-dumb-build-smooth-brain-auditions-season-2-ep1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-fastest-ultra-nydus-ever-has-this-guy-created-a-new-dumb-build-smooth-brain-auditions-season-2-ep1/",
+      "originalUrl": "https://youtube.com/watch?v=WbqwxDJy4Xw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WbqwxDJy4Xw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M34S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WbqwxDJy4Xw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-12-10T11:15:40-08:00"
+    },
+    {
+      "path": "_games/pig-how-quickly-can-reynor-dispose-of-noobs-part-44-holdout-challenge-starcraft-2.md",
+      "title": "How quickly can REYNOR dispose of noobs? (Part 4/4) | Holdout Challenge - StarCraft 2",
+      "excerpt": "We paid Reynor to 1v1 noobs in StarCraft 2. The challenge: the noobs needed to stay in the match for as long as possible. How did they fare against an actual Zerg Championship player? This is Part 4 out of 4  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-reynor-dispose-of-noobs-part-44-holdout-challenge-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-reynor-dispose-of-noobs-part-44-holdout-challenge-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=VYvf5zAPIQY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VYvf5zAPIQY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M11S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-03T15:29:45-07:00"
+    },
+    {
+      "path": "_games/pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-2-starcraft-2.md",
+      "title": "How to beat the 1v7 INSANE AI Challenge (no, Beastyqt has not done it) #2 - StarCraft 2",
+      "excerpt": "I have challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! Serral has said it is impossible unless maybe they're all Zergs. After Spirit (Soul) tried it first, the next person brave enough to try it is PiLiPiLi, a Protoss player. He took on 7 Random insane AIs all on Any Build.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-2-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-2-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=nHr02rPDOMo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nHr02rPDOMo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M11S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-19T01:16:44-07:00"
+    },
+    {
+      "path": "_games/pig-never-expand-never-surrender-king-of-cannons-14-starcraft-2.md",
+      "title": "NEVER EXPAND, NEVER SURRENDER | King of Cannons #14 - StarCraft 2",
+      "excerpt": "Cannon rushes all day erry day! 🐷 Support PiG: http://paypal.me/PiGSC2 | https://www.patreon.com/PiGSC2  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf -- 🐖 Watch live on https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-never-expand-never-surrender-king-of-cannons-14-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-never-expand-never-surrender-king-of-cannons-14-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=KuSOt7QCrlc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KuSOt7QCrlc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M51S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 52,
+      "tags": [
+        "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-02-19T15:36:52-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-240apm-but-cant-spot-a-nuke-for-the-life-of-them-florencio-files-268.md",
+      "title": "StarCraft 2 - 240APM but can’t spot a nuke for the life of them! | Florencio Files #268",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-240apm-but-cant-spot-a-nuke-for-the-life-of-them-florencio-files-268/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-240apm-but-cant-spot-a-nuke-for-the-life-of-them-florencio-files-268/",
+      "originalUrl": "https://youtube.com/watch?v=4K-9pdYAlIs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4K-9pdYAlIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M56S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-11T20:17:42-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-did-this-guys-brain-break-with-a-double-cannon-rush-florencio-files-258.md",
+      "title": "StarCraft 2 - Did this guy's brain break with a Double Cannon Rush? | Florencio Files #258",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this game he cannon rushes a Zerg player  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-did-this-guys-brain-break-with-a-double-cannon-rush-florencio-files-258/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-did-this-guys-brain-break-with-a-double-cannon-rush-florencio-files-258/",
+      "originalUrl": "https://youtube.com/watch?v=9pqdt6yi99Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9pqdt6yi99Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M28S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-02-16T17:49:07-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261.md",
+      "title": "StarCraft 2 - Flo Locks Them Out With A Mass Widow Mine Drop! | Florencio Files #261",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261/",
+      "originalUrl": "https://youtube.com/watch?v=WrILME9CWO8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WrILME9CWO8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M48S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-03-23T19:12:36-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-florencio-hands-neeb-the-controller-the-florencio-files-10.md",
+      "title": "StarCraft 2 - Florencio Hands Neeb the Controller | The Florencio Files #10",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-hands-neeb-the-controller-the-florencio-files-10/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-hands-neeb-the-controller-the-florencio-files-10/",
+      "originalUrl": "https://youtube.com/watch?v=CrBJ6N7z0Hk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CrBJ6N7z0Hk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M19S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CrBJ6N7z0Hk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-05-24T00:49:07-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-florencio-joins-forces-with-boom-florencio-files-209-sc2.md",
+      "title": "StarCraft 2 - FLORENCIO JOINS FORCES WITH BOOM | Florencio Files #209 - SC2",
+      "excerpt": "Florencio struggled to win back the Sewers from the Squatters, so he enlisted BOOM'S help. With their forces combined they battled against 5 Sewer Squatters at once, then another 3 of them in a ridiculous All Races Mod map that hurt my smooth brain to cast. We played this out live on stream against fans",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-joins-forces-with-boom-florencio-files-209-sc2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-joins-forces-with-boom-florencio-files-209-sc2/",
+      "originalUrl": "https://youtube.com/watch?v=W-EbwlbZ2pY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W-EbwlbZ2pY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M19S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/W-EbwlbZ2pY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-02-04T19:14:52-08:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-florencio-the-mutalisk-hunter-florencio-files-185.md",
       "title": "StarCraft 2 - FLORENCIO THE MUTALISK HUNTER | Florencio Files #185",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
@@ -601,347 +908,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-10T01:20:09-07:00"
-    },
-    {
-      "path": "_games/pig-what-if-sc-was-played-with-actual-commanders-commander-mode-2-starcraft-2.md",
-      "title": "What if SC was played with actual Commanders? | Commander Mode #2 - StarCraft 2",
-      "excerpt": "What is Commander Mode? It is Archon Mode vs another streamer/player where we are the Commanders of our squadron of noobs but we can't actively control anything ourselves, we can only command them what to do!  -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-what-if-sc-was-played-with-actual-commanders-commander-mode-2-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-what-if-sc-was-played-with-actual-commanders-commander-mode-2-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=5zY8OXu9_MY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5zY8OXu9_MY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M45S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-07T18:44:00-07:00"
-    },
-    {
-      "path": "_games/pig-when-they-think-youre-a-smurf-thanks-to-an-icyfar-challenge-harassment-3-games-starcraft-2.md",
-      "title": "When they think you're a Smurf thanks to an ICYFAR challenge | Harassment (3-games) - StarCraft 2",
-      "excerpt": "🤯 NEW ICYFAR CHALLENGE: Siege Tactics! Use offensive static and siege units to contain and steadily crush your opponent out of the game. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 16th April. -- 🤯 In this",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-they-think-youre-a-smurf-thanks-to-an-icyfar-challenge-harassment-3-games-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-they-think-youre-a-smurf-thanks-to-an-icyfar-challenge-harassment-3-games-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=CLzjwdK6IRg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CLzjwdK6IRg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M48S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-03-23T20:10:46-07:00"
-    },
-    {
-      "path": "_games/pig-when-your-strategy-is-mint-but-your-opponent-has-300-apm-florencio-files-252-starcraft-2.md",
-      "title": "When your strategy is mint but your opponent has 300 APM | Florencio Files #252 - StarCraft 2",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, he faces an opponent with very high APM.   🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-your-strategy-is-mint-but-your-opponent-has-300-apm-florencio-files-252-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-your-strategy-is-mint-but-your-opponent-has-300-apm-florencio-files-252-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=dAwxby8_M5E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dAwxby8_M5E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M13S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dAwxby8_M5E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-12-15T01:21:00-08:00"
-    },
-    {
-      "path": "_games/pig-when-zerg-cant-expand-til-5-minutes-its-time-to-icyfar-one-base-openers-starcraft-2.md",
-      "title": "When Zerg can’t expand til 5 minutes, it's time to... | ICYFAR “One Base Openers” - StarCraft 2",
-      "excerpt": "Its time to 12 pool! 🤯 NEW ICYFAR CHALLENGE: Ruthless Growth - Each time you expand, you have to attack! Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 21st June. -- 🤯 In this week’s episode of I Cast Your Freakin",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-zerg-cant-expand-til-5-minutes-its-time-to-icyfar-one-base-openers-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-zerg-cant-expand-til-5-minutes-its-time-to-icyfar-one-base-openers-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=OX62jgU-8TA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OX62jgU-8TA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M47S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-01T23:39:33-07:00"
-    },
-    {
-      "path": "_games/pig-who-wins-a-low-gas-challenge-starcraft-2.md",
-      "title": "Who wins a Low Gas Challenge? - StarCraft 2",
-      "excerpt": "Rule: you can only take the two gases in your main! I hosted this tournament during Subathon 2.0 and we had a lot of Terran and Protoss players take part. Who wins a low gas challenge? -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-who-wins-a-low-gas-challenge-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-who-wins-a-low-gas-challenge-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=WD6aMNtIyQk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WD6aMNtIyQk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M5S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-23T00:18:09-07:00"
-    },
-    {
-      "path": "_games/sc2hl-360-starcraft-2-surround-serral-vs-stats.md",
-      "title": "360° STARCRAFT 2 SURROUND! - Serral vs Stats",
-      "excerpt": "Serral vs Stats in a great and action packed starcraft 2 game, both going for lategame.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Full vod: https://www.twitch.tv/videos/293320065?t=5h1m42s   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-360-starcraft-2-surround-serral-vs-stats/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-360-starcraft-2-surround-serral-vs-stats/",
-      "originalUrl": "https://youtube.com/watch?v=mzGhNZuguII",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mzGhNZuguII\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M1S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mzGhNZuguII/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-10-16T07:21:19-07:00"
-    },
-    {
-      "path": "_games/sc2hl-8-minute-mothership-sos-vs-neeb-gsl-vs-the-world.md",
-      "title": "8 MINUTE MOTHERSHIP?! - sOs vs Neeb - GSL vs The WORLD",
-      "excerpt": "sOs & Neeb in a crazy protoss vs protoss during GSL vs the world. A tournament with the best players from WCS competing with the best players from GSL. sOs quickly goes into a mothership!   ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Watch GSL vs The world: http://bit.ly/GSLVSWORLD   Thank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-8-minute-mothership-sos-vs-neeb-gsl-vs-the-world/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-8-minute-mothership-sos-vs-neeb-gsl-vs-the-world/",
-      "originalUrl": "https://youtube.com/watch?v=CNP0nxOQznE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CNP0nxOQznE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M28S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CNP0nxOQznE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-08-04T12:34:48-07:00"
-    },
-    {
-      "path": "_games/sc2hl-banelings-vs-planetary-fortress-maru-vs-leenock-starcraft-2.md",
-      "title": "Banelings vs Planetary Fortress?! - Maru vs Leenock - Starcraft 2",
-      "excerpt": "Maru vs Leenock in an epic Starcraft 2 Terran vs Zerg during the GSL Code S (스타2 ) ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Full VOD: https://www.youtube.com/watch?v=Qm0E2onezc0   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-banelings-vs-planetary-fortress-maru-vs-leenock-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-banelings-vs-planetary-fortress-maru-vs-leenock-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=Ef8dZ7JOMGs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ef8dZ7JOMGs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M25S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ef8dZ7JOMGs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-06T07:05:01-08:00"
-    },
-    {
-      "path": "_games/sc2hl-neebs-defense-vs-mass-nydus-worm-starcraft-2-neeb-vs-lambo.md",
-      "title": "Neeb's Defense vs Mass Nydus Worm - Starcraft 2: Neeb vs Lambo",
-      "excerpt": "Neeb's crazy defense against Lambos mass nydus worm during IEM Katowice 2019. With a bonus clip from the hilarious analysis from Incontrol.  ► SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe   A crazy description   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-neebs-defense-vs-mass-nydus-worm-starcraft-2-neeb-vs-lambo/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-neebs-defense-vs-mass-nydus-worm-starcraft-2-neeb-vs-lambo/",
-      "originalUrl": "https://youtube.com/watch?v=DGi04zT4LuU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DGi04zT4LuU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M4S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DGi04zT4LuU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-06T07:05:01-08:00"
-    },
-    {
-      "path": "_games/sc2hl-neural-parasite-engagements-serral-vs-trap-starcraft-2.md",
-      "title": "NEURAL PARASITE ENGAGEMENTS 😵 - Serral vs Trap - Starcraft 2",
-      "excerpt": "A crazy Starcraft 2 game between Serral and Trap during IEM Katowice 2018!  Watch Intel extreme masters now: http://intelextrememasters.com/ ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-neural-parasite-engagements-serral-vs-trap-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-neural-parasite-engagements-serral-vs-trap-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=aSyZuQWWSZY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aSyZuQWWSZY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M13S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aSyZuQWWSZY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-03-03T15:41:43-08:00"
     }
   ],
   "nextPage": 15

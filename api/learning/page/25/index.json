@@ -4,130 +4,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_learning/videos/pig-starcraft-2-roach-hydra-drop-style-masters-zvp-coaching.md",
-      "title": "StarCraft 2 - Roach Hydra Drop Style! - Masters ZvP Coaching",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos dont appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-roach-hydra-drop-style-masters-zvp-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-roach-hydra-drop-style-masters-zvp-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=d-2EpfBHxKQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d-2EpfBHxKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H7M45S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-06-16T15:15:21-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-roach-hydra-infestor-vs-battle-mech-d2-coaching.md",
-      "title": "StarCraft 2 - Roach-Hydra-Infestor vs Battle Mech - D2 Coaching",
-      "excerpt": "Sorry we had some technical issues during this game. For those who don't like or care about the talk, Gameplay starts about 18 mins into the video!  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads?",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-roach-hydra-infestor-vs-battle-mech-d2-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-roach-hydra-infestor-vs-battle-mech-d2-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=HHo2cNW1H5Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HHo2cNW1H5Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H18M48S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-07-09T15:15:08-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-roach-ling-muta-zvp-coaching-d1.md",
-      "title": "StarCraft 2 - Roach-ling muta ZvP - Coaching D1",
-      "excerpt": "I coach a diamond 1 Zerg on a dynamic, aggressive style of ZvP -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-roach-ling-muta-zvp-coaching-d1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-roach-ling-muta-zvp-coaching-d1/",
-      "originalUrl": "https://youtube.com/watch?v=mbQWBZirKXY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mbQWBZirKXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H3M30S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:44:33-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-rules-of-zerg-vs-zerg-zvz-diamond-2-coaching.md",
-      "title": "StarCraft 2  - Rules of Zerg vs Zerg | ZvZ Diamond 2 coaching",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-rules-of-zerg-vs-zerg-zvz-diamond-2-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-rules-of-zerg-vs-zerg-zvz-diamond-2-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=qMKRtCzTEyk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qMKRtCzTEyk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H11M32S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-24T15:00:15-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-starcraft-2-scarletts-savage-zvp.md",
       "title": "StarCraft 2 - Scarlett’s Savage ZvP",
       "excerpt": "Here is a lesson from Scarlett on how to dominate ZvP. -- 🐷 Want more? Help support me! https://www.patreon.com/PiGSC2 🐖 Watch live at https://www.twitch.tv/x5_pig 🐽 Linktree: https://linktr.ee/PiGStarcraft 👕 Merch: https://teespring.com/stores/pig-sc2  -- 🧜 Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
@@ -924,6 +800,128 @@
         "StarCraft 2",
         "Terran",
         "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-tvp-coaching-range-liberator-style.md",
+      "title": "StarCraft 2 - TvP Coaching - Range Liberator style",
+      "excerpt": "I coach a student on using a TvP style that revolves around range liberators -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-tvp-coaching-range-liberator-style/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-tvp-coaching-range-liberator-style/",
+      "originalUrl": "https://youtube.com/watch?v=ywP47iFbaBY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ywP47iFbaBY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M53S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-tvp-coaching-struggling-terran-learns-decisive-gameplan-3-rax-style.md",
+      "title": "StarCraft 2 - TvP Coaching - Struggling Terran learns Decisive Gameplan (3-rax Style)",
+      "excerpt": "I coach a terran who's lost all confidence in his TvP - and help him back onto the right track -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-tvp-coaching-struggling-terran-learns-decisive-gameplan-3-rax-style/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-tvp-coaching-struggling-terran-learns-decisive-gameplan-3-rax-style/",
+      "originalUrl": "https://youtube.com/watch?v=mbbQPDjgs30",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mbbQPDjgs30\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H6M43S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-tvp-define-and-refine-coaching-d3.md",
+      "title": "StarCraft 2 - TvP Define and Refine - Coaching D3",
+      "excerpt": "I coach a diamond terran on better defining and refining his play -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-tvp-define-and-refine-coaching-d3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-tvp-define-and-refine-coaching-d3/",
+      "originalUrl": "https://youtube.com/watch?v=LxNcoKfDT_E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LxNcoKfDT_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H7M45S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-tvp-how-to-force-fights-and-engage-2-1-1-into-2-base-tank-liberator-push.md",
+      "title": "StarCraft 2 - TvP - How to force fights and engage - 2-1-1 into 2-base tank liberator push",
+      "excerpt": "I coach a diamond 1 terran on his TvP he’s been struggling with with a focus on a decisive 2-base push as a great way to focus improvement and how to execute pushes to force the protoss into a bad fight  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-tvp-how-to-force-fights-and-engage-2-1-1-into-2-base-tank-liberator-push/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-tvp-how-to-force-fights-and-engage-2-1-1-into-2-base-tank-liberator-push/",
+      "originalUrl": "https://youtube.com/watch?v=WZG8B-0rXMw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WZG8B-0rXMw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M35S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
       ]
     }
   ],

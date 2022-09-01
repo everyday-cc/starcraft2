@@ -278,6 +278,7 @@ items:
   - pig-starcraft-2-when-you-nydus-their-main-but-its-a-trap-florencio-files-267
   - pig-starcraft-2-240apm-but-cant-spot-a-nuke-for-the-life-of-them-florencio-files-268
   - pig-starcraft-2-flo-tortures-them-with-just-1-factory-florencio-files-269
+  - pig-flos-genius-burrow-rush-trick-florencio-files-270-starcraft-2
 
 topics:
   - StarCraft 2

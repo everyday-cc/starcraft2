@@ -915,6 +915,7 @@ items:
   - pig-when-youre-losing-and-tilting-hard-its-time-to-channel-serral-pig-vs-kiwian-part-3-sc2
   - pig-how-quickly-can-dark-dispose-of-noobs-part-1-holdout-challenge-starcraft-2
   - pig-how-quickly-can-dark-dispose-of-noobs-part-2-holdout-challenge-starcraft-2
+  - pig-i-made-them-feel-bad-with-my-protoss-shenanigans-s-most-annoying-player-ever-3-starcraft-2
   - pig-this-is-why-you-stop-queuing-when-youre-malding-most-annoying-player-ever-2-starcraft-2
   - pig-flos-genius-burrow-rush-trick-florencio-files-270-starcraft-2
   - pig-when-theyre-so-bad-that-everyone-else-is-a-cheater-salt-mines-11-starcraft-2

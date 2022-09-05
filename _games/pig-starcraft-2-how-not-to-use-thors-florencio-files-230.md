@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=v_1asbwEOk4
 type: video
 length: PT37M44S
 publishedDateTime: 2021-07-07T07:21:36Z
-heat: 50
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v_1asbwEOk4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "7+aQeoLF0h9XaeeRrdckuYmMLB3zAm0pKRVV+Ks9+8YEaUv3cgZ5Ls5tlBtoI6hcCylGZZ/Xnfe62fA9vrr5b40GysG8uhi3g69SZXjhsJNBBcb2Jo/2gIP6E5VX1zWX8ZWXdpxQ9cQH8DoQEh+Livk1rE5s3kuS3qSiM9mUvpQLvmgXKrNf5pp5kJ90+PGyA+76vvP8r1bsqF8vdMhI/fycNbVI5msrRczntKKwaS8N8K9oNSgdrIFA+QoM5/6M7s+QT/fcK/E03w/GNEMp6ihAAwPA1K736v/4DdawXQycr17UIs+/xuONRU15R71FIwXIT9YVQnC4+RP76MAIOOmXzzpWsyjZFVzFUk0pUFPQBiaJl+L8Jqa2sVM9EdLRmP+rLyv4mIkETwZdjR3DaSNc9eEoukwjCEceHEJVRlI=;q+Ufo/DunnI5MV0Xx/h/DQ=="
+secured: "5+hEIoW37vHMnoxYdKbtWX6PPau0P+gfitFdOV0fK88hrO7RlF5kkSCRFTq3Qz+ZnCF+BphuBpCJPIBsMaRbdIEY+3hPWz6mxOH0Zr3iqcXaRZDPxbhbLz5YQDr5LO5HmsAWesLT50E0IaxP2/d4KOhwVNFZKUc/ZzGYzeBqIrWoiBvM5uwEWNKTlkqX/TeI4beM26+CHV2kVkxdvJEP7/PZQPigLnOFHqNjmfZO5xZd3SPW0yp01Zx6OP86P/udWVbpHSQR88tqiTjSVulddSKvVtw86kgcjZj3r8x6+A1KCN3H7AqeYzcwrQ2dn6urMpMZKd0hJ0kVAm+uTrruDoQGlr8sPkgCG7s13CFAdtNq41/3mUpOJLr5DeKW1w0w6tPrrxOhvQ9fVjXaldVE7nlb1i3kmfvpHonx8CcRrcE=;lhv4vCtp+Ni3vELi4f3tuQ=="
 ---
 

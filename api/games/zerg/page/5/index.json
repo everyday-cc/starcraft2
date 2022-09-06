@@ -349,6 +349,44 @@
       "publishedDateTime": "2018-10-16T07:22:02-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-15-year-old-vs-scarlett-best-of-3.md",
+      "title": "StarCraft 2: 15 YEAR OLD vs SCARLETT! (Best-of-3)",
+      "excerpt": "Arrogfire is the most succesful player from the Junior Championships in StarCraft 2. In this SC2 cast he's facing off against Scarlett. How does the rookie do versus the veteran?  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-15-year-old-vs-scarlett-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-15-year-old-vs-scarlett-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=Ck84x_9YN2U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ck84x_9YN2U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M18S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-12T02:03:51-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-9-rax-reaper-rush-clem-vs-reynor.md",
       "title": "StarCraft 2: 9 RAX REAPER RUSH! (Clem vs Reynor)",
       "excerpt": "Best-of-5 series of professional StarCraft 2 between Clem and Reynor. This is already a classic rivalry between two of the best European pro gamers.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
@@ -887,44 +925,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-24T02:48:55-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-proxy-hatchery-problems-bly-vs-maxpax.md",
-      "title": "StarCraft 2: PROXY HATCHERY PROBLEMS! (Bly vs MaxPax)",
-      "excerpt": "Really fun series of professional StarCraft 2 between Bly and MaxPax. Every game brings something new on an already crazy build order: The Proxy Hatchery. In this Zerg versus Protoss we see two progamers face off an exciting best-of-3 series of SC2.  Become a YouTube member: https://lowko.tv/join Support",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-hatchery-problems-bly-vs-maxpax/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-proxy-hatchery-problems-bly-vs-maxpax/",
-      "originalUrl": "https://youtube.com/watch?v=QNnmCRQpwWc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QNnmCRQpwWc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QNnmCRQpwWc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-28T04:59:03-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-reynor-as-protoss-again-kelazhur-vs-reynor.md",

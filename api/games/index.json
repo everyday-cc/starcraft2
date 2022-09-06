@@ -43,44 +43,6 @@
       "publishedDateTime": "2022-09-02T04:48:57-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-serrals-sneaky-zergling-all-in-vs-dark-best-of-5.md",
-      "title": "StarCraft 2: Serral's SNEAKY ZERGLING ALL-IN vs Dark! (Best-of-5)",
-      "excerpt": "Top level series of professional StarCraft 2 between Serral (Zerg) and Dark (Zerg). Both of these players are looking very good currently and represent some of the best players in all of SC2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serrals-sneaky-zergling-all-in-vs-dark-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serrals-sneaky-zergling-all-in-vs-dark-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=pQojL_cRMB8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pQojL_cRMB8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT50M59S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 309,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-01T04:12:22-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime.md",
       "title": "StarCraft 2: BEST PRO Game of 2022 - Serral vs ShoWTimE!",
       "excerpt": "Professional match of top level StarCraft 2 between Serral (Zerg) and ShoWTimE (Protoss). This is in my opinion the best pro game of SC2 of 2022 so far. Ridiculously close game between two of the best European pro gamers.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
@@ -118,6 +80,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-05T04:02:46-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serrals-sneaky-zergling-all-in-vs-dark-best-of-5.md",
+      "title": "StarCraft 2: Serral's SNEAKY ZERGLING ALL-IN vs Dark! (Best-of-5)",
+      "excerpt": "Top level series of professional StarCraft 2 between Serral (Zerg) and Dark (Zerg). Both of these players are looking very good currently and represent some of the best players in all of SC2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serrals-sneaky-zergling-all-in-vs-dark-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serrals-sneaky-zergling-all-in-vs-dark-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=pQojL_cRMB8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pQojL_cRMB8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT50M59S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 267,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-01T04:12:22-07:00"
     },
     {
       "path": "_games/pig-i-made-them-feel-bad-with-my-protoss-shenanigans-s-most-annoying-player-ever-3-starcraft-2.md",
@@ -636,44 +636,6 @@
       "publishedDateTime": "2022-08-31T18:59:06-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-dark-spine-crawler-rushes-reynor.md",
-      "title": "StarCraft 2: Dark SPINE CRAWLER RUSHES Reynor!",
-      "excerpt": "Dark decides to cheese Reynor in this pro match of StarCraft 2. Rather than letting the Italian Protoss player sit back and macro, he continuously attacks. In this SC2 game he starts off with an aggressive Spine Crawler Nydus Network rush.  Support my work on Patreon: https://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-dark-spine-crawler-rushes-reynor/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-dark-spine-crawler-rushes-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=4ucnp75Ln5s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4ucnp75Ln5s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M6S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 184,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-24T06:20:19-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-winters-game-of-the-year-clem-vs-showtime.md",
       "title": "StarCraft 2: Winter's \"GAME OF THE YEAR?\"! (Clem vs ShoWTimE)",
       "excerpt": "Amazing game of professional StarCraft 2 between Clem (Terran) and ShoWTimE (Protoss). In this match we watch two players constantly trying to outsmart and outpace the opponent, by attacking in as many different areas all at once.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a",
@@ -748,6 +710,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-25T02:38:06-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-dark-spine-crawler-rushes-reynor.md",
+      "title": "StarCraft 2: Dark SPINE CRAWLER RUSHES Reynor!",
+      "excerpt": "Dark decides to cheese Reynor in this pro match of StarCraft 2. Rather than letting the Italian Protoss player sit back and macro, he continuously attacks. In this SC2 game he starts off with an aggressive Spine Crawler Nydus Network rush.  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-dark-spine-crawler-rushes-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-dark-spine-crawler-rushes-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=4ucnp75Ln5s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4ucnp75Ln5s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M6S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 175,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-08-24T06:20:19-07:00"
     },
     {
       "path": "_games/pig-how-quickly-can-dark-dispose-of-noobs-part-1-holdout-challenge-starcraft-2.md",
@@ -838,43 +838,6 @@
       "publishedDateTime": "2022-08-09T01:02:14-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-insane-combos-professional-team-games.md",
-      "title": "StarCraft 2: INSANE COMBOS - Professional Team Games!",
-      "excerpt": "Most of the pro games in StarCraft 2 are played in 1v1. In this video we watch professional gamers face off against each other in 2v2 instead.  00:00 Serral & Mixu vs Spirit & Elazer 25:20 Serral & Mixu vs Rattata vs Skillous  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-combos-professional-team-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-combos-professional-team-games/",
-      "originalUrl": "https://youtube.com/watch?v=UQVwQBKllXg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UQVwQBKllXg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M47S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 155,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-07-26T03:04:13-07:00"
-    },
-    {
       "path": "_games/pig-when-you-go-mass-ling-drops-but-theyve-got-skytoss-starcraft-2.md",
       "title": "When you go mass ling drops, but they've got SKYTOSS! - StarCraft 2",
       "excerpt": "I gave myself a challenge: to do mass zerg drops. LOTS OF DROPS. Let's see how it does on the StarCraft 2 ladder -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig",
@@ -940,45 +903,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-26T04:56:26-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-no-recall-heros-huge-overextension-vs-reynor.md",
-      "title": "StarCraft 2: NO RECALL?! herO's HUGE Overextension vs Reynor!",
-      "excerpt": "Professional match of StarCraft 2 between Reynor and herO. In this macro game of Zerg versus Protoss we see Reynor constantly sending out Zergling runbys, while herO makes his ultimate Sky Toss army.   Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-no-recall-heros-huge-overextension-vs-reynor/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-no-recall-heros-huge-overextension-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=PPPrcODpgc8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PPPrcODpgc8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M44S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 149,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-30T01:40:44-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-zesty-mind-games-vs-rogue-best-of-5.md",
@@ -1047,6 +971,73 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-11-02T00:55:49-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-extremely-tricky-gumiho-plays-himself-best-of-5.md",
+      "title": "StarCraft 2: EXTREMELY Tricky - GuMiho Plays HIMSELF?! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between GuMiho (Terran) and Solar (Zerg). This match is the Grand Finals of the ESL Open cup 137 Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-extremely-tricky-gumiho-plays-himself-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-extremely-tricky-gumiho-plays-himself-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=1pu2cQNaotk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1pu2cQNaotk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M47S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 143,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-08-22T04:56:55-07:00"
+    },
+    {
+      "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1.md",
+      "title": "We paid a Pro to do Troll builds and it was LEGENDARY | Twitch Plays Astrea #1",
+      "excerpt": "It is rumoured that a Legend is born when immortals save the world from destruction. A being so powerful rises from the clutches of near death and is then known to the world as CHADSTREA THUNDERSHAFT. Here is his origin story.  Follow Astrea's Twitch: https://www.twitch.tv/zastrea -- 🐷 Second Channel",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1/",
+      "originalUrl": "https://youtube.com/watch?v=SariYo8-VNI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SariYo8-VNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M5S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 140,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-02-10T17:37:20-08:00"
     }
   ],
   "nextPage": 2

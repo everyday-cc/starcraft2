@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=r46WQNpgvyA
 type: video
 length: PT20M30S
 publishedDateTime: 2020-06-08T11:02:21Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r46WQNpgvyA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "fdkvPy9db26FyFz8AYyNPZ0hURgPEh6kB1MRJykI6Z+Y/YdRzwf7K4U6dnaBFpDfGBjlTJu7QIsWi8aiSYiDwg2JnnkVMOQvzKV2itI3pZI71oCzz6DDRguXGQPug/p5ynjFM269JV9NlrOFya+t2LGFSCUkTcoWwDrCPFRS3iERFr39zTzE+uahKteVSSBtRM+vzNMUf0IH1XgyvUleIT8t4KQbXnrmo5pHQqFenaby9oC0cF7fIxxc8CPxIBce1uq+a4kva2sJzas9Qvk5Wqef0GHzshZ9zQWAUIlcaUDN//n8mv8ESfMKVHuusBn3mi0cr4K6wRSG3WxLuIFEExvhOpEedozMSd5dJxMOTv6wUU3VsYZwXOB4LDTJITplN68sK4lK/AkLkHGqtB/SvsXSwAPm7fxPXrje7CCB/ozTGzxa7zyvMETXC/Oy8qyQ;Z8pZeaQnFLw7a9+ZEHTrpg=="
+secured: "+O26K706bVhWAfFbL1FZ6D67aDCv2YrrJcLci0dr/ZI1qrh8O76AB5sjZxwrFeg1AKdOHenQ4PPKu5zvXOGUYhAlGCY5Ariqd1xHbYCSTgQ8Rf8bYYVltMipIUz2L9GnSWbDIYMYcYIQnvA7PlR4jOQ0Ad/LtTzRcrKt1w6KPxeLmwyk1Ck4uq/b/VSOwj40Z30JXU4SvfRcoq8H/9zzqxNR/lXe9S0SWhrDxUH6xhKC4eUFzFc/5/57hzRmEzDdpfIzzrEauWyk34nBASQtNTOpiDEKQehFn1UvPnK50revfy2wuFvpcSOlJ4YFRcA/4RmJeLGWH3/88btLBHxsRbxMRoYpDwP009qFVD9+4SfpReRubYp/TwSOLbkgYzt2qfRjtmXlnWDq6RC862hkDvnLDCWsZglASVJLiALMYeW8LDM9CQpsxX2lHlf80JtR;8NOWei8oYUsIKtHaQoDq0A=="
 ---
 

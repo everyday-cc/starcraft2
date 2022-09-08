@@ -921,6 +921,7 @@ items:
   - pig-the-double-drone-rush-to-piss-off-protosses-everywhere-smooth-brain-stephen-2-starcraft-2
   - pig-when-theyre-so-bad-that-everyone-else-is-a-cheater-salt-mines-11-starcraft-2
   - pig-pig-reacts-uthermals-1-vs-7-insane-zerg-ai-world-record-starcraft-2
+  - pig-dbag-tries-to-bully-his-way-to-victory-salt-mines-12-starcraft-2
 
 topics:
   - StarCraft 2

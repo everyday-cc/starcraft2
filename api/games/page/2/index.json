@@ -33,35 +33,6 @@
       "publishedDateTime": "2022-08-31T20:42:30-07:00"
     },
     {
-      "path": "_games/pig-what-happens-when-they-refuse-to-choose-macro-or-cheese-2-starcraft-2.md",
-      "title": "What happens when they REFUSE to choose? | Macro or Cheese #2 - StarCraft 2",
-      "excerpt": "NEW SHOW! I secretly played a few games on a dirty barcode account and offered my StarCraft 2 opponents a choice: Macro or Cheese? How the game plays out is up to them! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-what-happens-when-they-refuse-to-choose-macro-or-cheese-2-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-what-happens-when-they-refuse-to-choose-macro-or-cheese-2-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=RCpAeztvCi0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RCpAeztvCi0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M20S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 124,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-07-28T17:05:04-07:00"
-    },
-    {
       "path": "_games/pig-flos-genius-burrow-rush-trick-florencio-files-270-starcraft-2.md",
       "title": "Flo’s GENIUS Burrow Rush Trick | Florencio Files #270 - StarCraft 2",
       "excerpt": "Florencio Files is BACK! I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. I can't remember which episode first featued this burrow rush trick, but here's a link to another one where he does it: https://youtu.be/LOFfVLqbyWc",
@@ -119,6 +90,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-19T01:16:44-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-pro-gamers-using-maphacks.md",
+      "title": "StarCraft 2: Pro Gamers Using MAPHACKS!",
+      "excerpt": "Best-of-3 series of StarCraft 2 in the Unfair Mod between Harstem, also known as theCowboy, and Spirit. In this match we have a variety of modifiers added to the games... Such as maphacks, damage modifiers, no hotkeys and Cyclones with Blink.  00:00 Golden Minerals in the Main 10:28 Marines with Blink",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-gamers-using-maphacks/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-pro-gamers-using-maphacks/",
+      "originalUrl": "https://youtube.com/watch?v=ys7XrIKIs14",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ys7XrIKIs14\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 117,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-04T01:55:37-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-dark-spine-crawler-rushes-reynor.md",
@@ -265,20 +273,22 @@
       "publishedDateTime": "2022-04-27T23:30:12-07:00"
     },
     {
-      "path": "_games/pig-this-is-why-sc2-isnt-played-on-50-hit-points-part-2-starcraft-2.md",
-      "title": "This is why SC2 isn’t played on 50% hit points (PART 2) - StarCraft 2",
-      "excerpt": "As part of PiG's Laboratory, I challenged StarCraft 2 pros to play with only 50% hit points - on everything! We get to witness how quickly everything dies. This time it is Special and Astrea playing in the challenge -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-is-why-sc2-isnt-played-on-50-hit-points-part-2-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-is-why-sc2-isnt-played-on-50-hit-points-part-2-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=Fr4sXNKqhBI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Fr4sXNKqhBI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M33S",
+      "path": "_games/pig-a-genius-strategy-to-a-dumb-challenge-mouse-only-special-vs-cham-1-game-tvz-starcraft-2.md",
+      "title": "A Genius Strategy to a Dumb Challenge (Mouse ONLY) | Special vs Cham (1-game TvZ) - StarCraft 2",
+      "excerpt": "As part of PiG's Laboratory, I challenged pros to play with their mouse only (no keyboards!) to see what a pro StarCraft 2 game looks like with such a ridiculous rule. Here's Special (Terran) facing Cham (Zerg) trying it out! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-a-genius-strategy-to-a-dumb-challenge-mouse-only-special-vs-cham-1-game-tvz-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-a-genius-strategy-to-a-dumb-challenge-mouse-only-special-vs-cham-1-game-tvz-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=oBL0AwQhmdk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oBL0AwQhmdk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M53S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
       ],
       "heat": 111,
       "images": [
@@ -291,7 +301,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-06-23T17:55:59-07:00"
+      "publishedDateTime": "2022-06-13T19:57:43-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-no-recall-heros-huge-overextension-vs-reynor.md",

@@ -4,45 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-gumihos-never-ending-all-in-vs-dark.md",
-      "title": "StarCraft 2: GuMiho's NEVER-ENDING ALL-IN vs Dark!",
-      "excerpt": "GuMiho decides to play very aggressively in this game of StarCraft 2. After Dark opens up with a quick Spawning Pool and catches his Terran opponent off guard with Zerglings, GuMiho decides to return the favour by never making a fourth Command Center and going for a never-ending all-in.  Support my work",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumihos-never-ending-all-in-vs-dark/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumihos-never-ending-all-in-vs-dark/",
-      "originalUrl": "https://youtube.com/watch?v=WE8iRrXGxz4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WE8iRrXGxz4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M44S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-05-28T01:55:26-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-home-is-where-the-command-center-is-viewer-games.md",
       "title": "StarCraft 2: Home is where the Command Center is... (Viewer Games)",
       "excerpt": "Two amazing viewer submitted games of StarCraft 2. If you have a game of StarCraft that you would like me to cast on the YouTube channel, feel free to submit it to replays@lowko.tv and I might cast your game in the future.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member:",
@@ -1057,6 +1018,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-20T21:22:31-07:00"
+    },
+    {
+      "path": "_games/pig-what-happens-when-pros-have-maphacks-no-fog-of-war-mod-special-vs-cham-bo3-tvz-starcraft-2.md",
+      "title": "What happens when Pros have Maphacks? (No fog of war mod!) | Special vs Cham (Bo3 TvZ) - StarCraft 2",
+      "excerpt": "We paid Special and Cham to play on the No fog of war mod, basically giving them maphacks! What happens when pros can see everything? -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-what-happens-when-pros-have-maphacks-no-fog-of-war-mod-special-vs-cham-bo3-tvz-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-what-happens-when-pros-have-maphacks-no-fog-of-war-mod-special-vs-cham-bo3-tvz-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=u73es6uSqhw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u73es6uSqhw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M35S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-10T19:40:59-07:00"
     }
   ],
   "nextPage": 11

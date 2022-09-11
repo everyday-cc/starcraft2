@@ -871,23 +871,23 @@ items:
   - pig-how-quickly-can-reynor-dispose-of-noobs-part-3-holdout-challenge-starcraft-2
   - pig-how-quickly-can-reynor-dispose-of-noobs-part-44-holdout-challenge-starcraft-2
   - pig-is-beating-1v7-insane-ai-even-possible-no-beastyqt-has-not-done-it-1-starcraft-2
-  - pig-what-happens-when-pros-have-maphacks-no-fog-of-war-mod-special-vs-cham-bo3-tvz-starcraft-2
+  - pig-what-happens-when-pros-have-maphacks-no-fog-of-war-mod-pigs-lab-starcraft-2
   - pig-pig-and-lowko-team-up-in-2v2s-dont-remind-him-i-called-him-insane-once-p-starcraft-2
-  - pig-a-genius-strategy-to-a-dumb-challenge-mouse-only-special-vs-cham-1-game-tvz-starcraft-2
+  - pig-a-genius-strategy-to-a-dumb-challenge-mouse-only-pigs-lab-starcraft-2
   - pig-rank-1-is-no-match-for-zerg-cheese-starlords-filthy-adventures-14-starcraft-2
   - pig-terran-player-gets-so-angry-he-breaks-his-own-brain-salt-mines-6-starcraft-2
   - pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-2-starcraft-2
-  - pig-this-is-why-sc2-isnt-played-on-50-hit-points-starcraft-2
+  - pig-this-is-why-sc2-isnt-played-on-50-hit-points-pigs-lab-starcraft-2
   - pig-who-wins-a-low-gas-challenge-starcraft-2
   - pig-bm-player-gets-instant-karma-salt-mines-7-starcraft-2
-  - pig-this-is-why-sc2-isnt-played-on-50-hit-points-part-2-starcraft-2
+  - pig-this-is-why-sc2-isnt-played-on-50-hit-points-part-2-pigs-lab-starcraft-2
   - pig-1v7-insane-ai-challenge-best-attempt-yet-3-starcraft-2
   - pig-how-quickly-can-hero-dispose-of-a-noob-me-ept-na-holdout-challenge-bo3-pvz-starcraft-2
   - pig-can-you-guess-mmr-better-than-a-gm-guess-the-mmr-3-starcraft-2
   - pig-this-challenge-should-be-unfair-for-protoss-starcraft-2
   - pig-this-is-why-you-dont-get-cocky-too-early-salt-mines-8-starcraft-2
   - pig-the-best-and-worst-smooth-brain-auditions-season-3-starcraft-2
-  - pig-what-happens-when-pros-have-maphacks-to-prove-a-point-no-fog-of-war-mod-starcraft-2
+  - pig-what-happens-when-pros-have-maphacks-to-prove-a-point-no-fog-of-war-mod-pigs-lab-starcraft-2
   - pig-pros-suck-at-defending-cannon-rushes-starcraft-2
   - pig-why-are-there-two-gates-in-the-terran-mineral-line-king-of-cannons-18-starcraft-2
   - pig-the-genius-way-of-dealing-with-cannon-rushers-king-of-cannons-19-starcraft-2
@@ -895,7 +895,7 @@ items:
   - pig-this-replay-is-impossible-to-guess-the-mmr-of-guess-the-mmr-4-starcraft-2
   - pig-the-rare-upgrade-that-guarantees-chaos-icyfar-ruthless-growth-starcraft-2
   - pig-what-happens-when-you-let-them-choose-macro-or-cheese-1-starcraft-2
-  - pig-the-fastest-map-possible-is-ridiculous-esp-with-bw-units-starcraft-2
+  - pig-the-fastest-map-possible-is-ridiculous-esp-with-bw-units-pigs-lab-starcraft-2
   - pig-what-if-sc-was-played-with-actual-commanders-commander-mode-1-starcraft-2
   - pig-did-zergs-forget-how-powerful-burrow-is-smooth-brain-stephen-1-starcraft-2
   - pig-toss-is-mad-even-after-they-did-what-he-asked-salt-mines-10-starcraft-2
@@ -920,6 +920,7 @@ items:
   - pig-flos-genius-burrow-rush-trick-florencio-files-270-starcraft-2
   - pig-the-double-drone-rush-to-piss-off-protosses-everywhere-smooth-brain-stephen-2-starcraft-2
   - pig-when-theyre-so-bad-that-everyone-else-is-a-cheater-salt-mines-11-starcraft-2
+  - pig-protoss-played-the-dirtiest-mind-game-mac-or-cheese-5-starcraft-2
   - pig-pig-reacts-uthermals-1-vs-7-insane-zerg-ai-world-record-starcraft-2
   - pig-dbag-tries-to-bully-his-way-to-victory-salt-mines-12-starcraft-2
   - pig-new-world-record-1-terran-vs-7-insane-random-ai-by-heromarine-pig-reacts-starcraft-2

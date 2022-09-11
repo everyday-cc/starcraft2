@@ -4,14 +4,14 @@
   "page": 19,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-flos-in-trouble-battlecruiser-edition-florencio-file-241.md",
-      "title": "StarCraft 2 - FLO’S IN TROUBLE: Battlecruiser Edition | Florencio File #241",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. This time it's Mass Battlecruisers 🐷 Support PiG: https://www.patreon.com/PiGSC2  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-flos-in-trouble-battlecruiser-edition-florencio-file-241/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-flos-in-trouble-battlecruiser-edition-florencio-file-241/",
-      "originalUrl": "https://youtube.com/watch?v=5xnWPCepsfE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5xnWPCepsfE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M19S",
+      "path": "_games/pig-starcraft-2-how-to-beat-turtle-terran-the-florencio-files-165.md",
+      "title": "StarCraft 2 - How to Beat Turtle Terran! The Florencio Files #165",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-how-to-beat-turtle-terran-the-florencio-files-165/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-how-to-beat-turtle-terran-the-florencio-files-165/",
+      "originalUrl": "https://youtube.com/watch?v=XwWFfkedI4k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XwWFfkedI4k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M6S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -24,7 +24,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/5xnWPCepsfE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/XwWFfkedI4k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -32,158 +32,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-09-14T02:26:22-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-frozen-poopsicles-the-florencio-files-33.md",
-      "title": "StarCraft 2 - Frozen Poopsicles | The Florencio Files #33",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  Florencios twitch: https://www.twitch.tv/flol2encio Florencios youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-frozen-poopsicles-the-florencio-files-33/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-frozen-poopsicles-the-florencio-files-33/",
-      "originalUrl": "https://youtube.com/watch?v=3qhG0Mtb2u8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3qhG0Mtb2u8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M42S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3qhG0Mtb2u8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-12-26T23:47:43-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-game-breaking-recall-exploit-the-florencio-files-28.md",
-      "title": "StarCraft 2 - Game-Breaking Recall Exploit | The Florencio Files #28",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-game-breaking-recall-exploit-the-florencio-files-28/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-game-breaking-recall-exploit-the-florencio-files-28/",
-      "originalUrl": "https://youtube.com/watch?v=Omgj0jGRQ1Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Omgj0jGRQ1Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Omgj0jGRQ1Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-10-13T16:35:08-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-gg-please-stop-the-florencio-files-65.md",
-      "title": "StarCraft 2 - “GG, please stop” | The Florencio Files #65",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-gg-please-stop-the-florencio-files-65/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-gg-please-stop-the-florencio-files-65/",
-      "originalUrl": "https://youtube.com/watch?v=3XCILYwWlmw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3XCILYwWlmw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M43S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3XCILYwWlmw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-07-03T16:26:30-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-he-tricks-the-zerg-into-expanding-next-to-tempests-lol-florencio-files-253.md",
-      "title": "StarCraft 2 - He tricks the zerg into expanding next to tempests LOL | Florencio Files #253",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-he-tricks-the-zerg-into-expanding-next-to-tempests-lol-florencio-files-253/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-he-tricks-the-zerg-into-expanding-next-to-tempests-lol-florencio-files-253/",
-      "originalUrl": "https://youtube.com/watch?v=EylAJlRGBFI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EylAJlRGBFI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M27S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EylAJlRGBFI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-12-22T22:06:37-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-hide-and-seek-the-florencio-files-148.md",
-      "title": "StarCraft 2 - Hide and Seek | The Florencio Files #148",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-hide-and-seek-the-florencio-files-148/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-hide-and-seek-the-florencio-files-148/",
-      "originalUrl": "https://youtube.com/watch?v=OE7RA3QrW5k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OE7RA3QrW5k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M9S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OE7RA3QrW5k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-29T09:00:16-07:00"
+      "publishedDateTime": "2020-09-11T09:00:12-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-i-am-sorry-to-diamond-players-everwhere-guess-the-mmr-1.md",
@@ -245,14 +94,14 @@
       "publishedDateTime": "2020-06-25T09:00:31-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-i-made-too-much-mistake-florencio-files-177.md",
-      "title": "StarCraft 2 -  \"I MADE TOO MUCH MISTAKE\" | Florencio Files #177",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜 Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-i-made-too-much-mistake-florencio-files-177/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-i-made-too-much-mistake-florencio-files-177/",
-      "originalUrl": "https://youtube.com/watch?v=vPOB1dGausA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vPOB1dGausA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M57S",
+      "path": "_games/pig-starcraft-2-i-like-to-welcome-thieves-into-my-property-the-florencio-files-64.md",
+      "title": "StarCraft 2 - \"I like to welcome thieves into my property\" | The Florencio Files #64",
+      "excerpt": "YES that is indeed Florencio in the Thumbnail!  I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-i-like-to-welcome-thieves-into-my-property-the-florencio-files-64/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-i-like-to-welcome-thieves-into-my-property-the-florencio-files-64/",
+      "originalUrl": "https://youtube.com/watch?v=Y7jpp4xCa7k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y7jpp4xCa7k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M30S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -264,15 +113,15 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/vPOB1dGausA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/Y7jpp4xCa7k/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-10-21T09:00:16-07:00"
+      "publishedDateTime": "2019-05-15T14:48:03-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-is-this-protoss-hacking-smurf-detective-4.md",
@@ -305,14 +154,14 @@
       "publishedDateTime": "2021-09-01T04:10:25-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-lasers-florencio-files-224.md",
-      "title": "StarCraft 2 - LASERS | Florencio Files #224",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-lasers-florencio-files-224/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-lasers-florencio-files-224/",
-      "originalUrl": "https://youtube.com/watch?v=oi9Rc9CV7R8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oi9Rc9CV7R8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M12S",
+      "path": "_games/pig-starcraft-2-less-apm-than-a-pocket-watch-the-florencio-files-106.md",
+      "title": "StarCraft 2 - \"Less APM than a pocket watch” | The Florencio Files #106",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-less-apm-than-a-pocket-watch-the-florencio-files-106/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-less-apm-than-a-pocket-watch-the-florencio-files-106/",
+      "originalUrl": "https://youtube.com/watch?v=r83Jo_9ZOb0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r83Jo_9ZOb0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M47S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -324,7 +173,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/oi9Rc9CV7R8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/r83Jo_9ZOb0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -332,7 +181,37 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-04-18T02:55:47-07:00"
+      "publishedDateTime": "2019-12-05T09:00:23-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-lets-take-the-kids-to-six-flags-the-florencio-files-62.md",
+      "title": "StarCraft 2 - Let's take the kids to Six Flags | The Florencio Files #62",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-lets-take-the-kids-to-six-flags-the-florencio-files-62/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-lets-take-the-kids-to-six-flags-the-florencio-files-62/",
+      "originalUrl": "https://youtube.com/watch?v=INuNeJ1ZHGc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/INuNeJ1ZHGc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M5S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/INuNeJ1ZHGc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-05-01T13:04:29-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-like-lambs-to-the-slaughter-the-florencio-files-145.md",
@@ -365,27 +244,26 @@
       "publishedDateTime": "2020-06-12T20:20:09-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-mass-banshee-widow-mine-onslaught-florencio-files-204-starcraft-2.md",
-      "title": "StarCraft 2 - MASS BANSHEE WIDOW MINE ONSLAUGHT | Florencio Files #204 - StarCraft 2",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-mass-banshee-widow-mine-onslaught-florencio-files-204-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-mass-banshee-widow-mine-onslaught-florencio-files-204-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=sSFV7SO-DZw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sSFV7SO-DZw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M7S",
+      "path": "_games/pig-starcraft-2-massive-splash-damage-the-florencio-files-159.md",
+      "title": "StarCraft 2 - MASSIVE SPLASH DAMAGE | The Florencio Files #159",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-massive-splash-damage-the-florencio-files-159/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-massive-splash-damage-the-florencio-files-159/",
+      "originalUrl": "https://youtube.com/watch?v=X5MLXJojjlQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X5MLXJojjlQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M15S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
-        "Terran"
+        "Protoss"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/sSFV7SO-DZw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/X5MLXJojjlQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -393,7 +271,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-01-20T19:36:54-08:00"
+      "publishedDateTime": "2020-09-01T14:00:15-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-micro-god-the-florencio-files-2.md",
@@ -426,6 +304,36 @@
       "publishedDateTime": "2018-05-24T00:49:07-07:00"
     },
     {
+      "path": "_games/pig-starcraft-2-neeb-hogs-the-xbox-controller-the-florencio-files-53.md",
+      "title": "StarCraft 2 - Neeb hogs the Xbox Controller | The Florencio Files #53",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-neeb-hogs-the-xbox-controller-the-florencio-files-53/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-neeb-hogs-the-xbox-controller-the-florencio-files-53/",
+      "originalUrl": "https://youtube.com/watch?v=-3WYobcKX1g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-3WYobcKX1g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M39S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-3WYobcKX1g/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-03-08T03:33:41-08:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-neebencio-half-top-pro-half-sewer-mermaid-the-florencio-files-17.md",
       "title": "StarCraft 2 - Neebencio: Half Top Pro, Half Sewer-Mermaid | The Florencio Files #17",
       "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
@@ -456,14 +364,14 @@
       "publishedDateTime": "2018-08-08T22:01:27-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-next-evolution-of-the-sewer-mermaid-florencio-files-176.md",
-      "title": "StarCraft 2 - Next Evolution of the SEWER MERMAID | Florencio Files #176",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow 🧜 Florencio: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-next-evolution-of-the-sewer-mermaid-florencio-files-176/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-next-evolution-of-the-sewer-mermaid-florencio-files-176/",
-      "originalUrl": "https://youtube.com/watch?v=ZjOqQ6h6VH4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZjOqQ6h6VH4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M11S",
+      "path": "_games/pig-starcraft-2-neebs-proudest-day-as-a-micro-dad-the-florencio-files-75.md",
+      "title": "StarCraft 2 - Neeb’s proudest day as a micro dad | The Florencio Files #75",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-neebs-proudest-day-as-a-micro-dad-the-florencio-files-75/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-neebs-proudest-day-as-a-micro-dad-the-florencio-files-75/",
+      "originalUrl": "https://youtube.com/watch?v=ei84yrG51CU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ei84yrG51CU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M44S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -475,15 +383,15 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ZjOqQ6h6VH4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/ei84yrG51CU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-10-18T09:00:09-07:00"
+      "publishedDateTime": "2019-07-03T16:20:00-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-nice-yellow-octopus-tries-to-metagame-the-guac-king-the-florencio-files-27.md",
@@ -516,6 +424,36 @@
       "publishedDateTime": "2018-09-22T15:06:01-07:00"
     },
     {
+      "path": "_games/pig-starcraft-2-nuclear-bbq-florencio-files-179.md",
+      "title": "StarCraft 2 - NUCLEAR BBQ | Florencio Files #179",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-nuclear-bbq-florencio-files-179/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-nuclear-bbq-florencio-files-179/",
+      "originalUrl": "https://youtube.com/watch?v=K8qPi-kCFaE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K8qPi-kCFaE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M39S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/K8qPi-kCFaE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-27T09:00:05-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-oops-i-forgot-to-cancel-the-florencio-files-8.md",
       "title": "StarCraft 2 - “Oops I Forgot to Cancel” | The Florencio Files #8",
       "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  -- Watch live at https://www.twitch.tv/x5_pig",
@@ -546,45 +484,14 @@
       "publishedDateTime": "2018-05-24T00:49:07-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-perfectly-stacked-battlecruisers-florencio-files-226.md",
-      "title": "StarCraft 2 - PERFECTLY STACKED BATTLECRUISERS! | Florencio Files #226",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-perfectly-stacked-battlecruisers-florencio-files-226/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-perfectly-stacked-battlecruisers-florencio-files-226/",
-      "originalUrl": "https://youtube.com/watch?v=sfoX7qLhcJg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sfoX7qLhcJg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M49S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sfoX7qLhcJg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-05-02T02:32:35-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-planetaries-for-pennies-florencio-files-194.md",
-      "title": "StarCraft 2 - PLANETARIES FOR PENNIES | Florencio Files #194",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-planetaries-for-pennies-florencio-files-194/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-planetaries-for-pennies-florencio-files-194/",
-      "originalUrl": "https://youtube.com/watch?v=MCGP6-IddQU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MCGP6-IddQU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M39S",
+      "path": "_games/pig-starcraft-2-photo-finish-the-florencio-files-157.md",
+      "title": "StarCraft 2 - Photo Finish | The Florencio Files #157",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-photo-finish-the-florencio-files-157/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-photo-finish-the-florencio-files-157/",
+      "originalUrl": "https://youtube.com/watch?v=or0IYqtswdQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/or0IYqtswdQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M17S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -596,7 +503,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/MCGP6-IddQU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/or0IYqtswdQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -604,7 +511,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-12-13T09:00:07-08:00"
+      "publishedDateTime": "2020-08-24T14:00:20-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-planetary-prison-florencio-files-186.md",
@@ -636,36 +543,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-11-22T09:00:15-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-please-unload-here-the-florencio-files-126.md",
-      "title": "StarCraft 2 - Please Unload Here | The Florencio Files #126",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-please-unload-here-the-florencio-files-126/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-please-unload-here-the-florencio-files-126/",
-      "originalUrl": "https://youtube.com/watch?v=OwBqjo3Ljps",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OwBqjo3Ljps\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OwBqjo3Ljps/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-03-06T09:00:07-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-proxy-hatch-and-burrow-is-this-a-new-dumb-zvt-build-icyfar-siege-tactics-g2.md",
@@ -787,56 +664,27 @@
       "publishedDateTime": "2018-10-13T16:35:08-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-saltus-interruptus-the-florencio-files-94.md",
-      "title": "StarCraft 2 - Saltus Interruptus | The Florencio Files #94",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-saltus-interruptus-the-florencio-files-94/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-saltus-interruptus-the-florencio-files-94/",
-      "originalUrl": "https://youtube.com/watch?v=InhzjDmpcTs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/InhzjDmpcTs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M16S",
+      "path": "_games/pig-starcraft-2-ridiculous-widow-mine-bait-florencio-files-168.md",
+      "title": "StarCraft 2 - RIDICULOUS WIDOW MINE BAIT | Florencio Files #168",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-ridiculous-widow-mine-bait-florencio-files-168/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-ridiculous-widow-mine-bait-florencio-files-168/",
+      "originalUrl": "https://youtube.com/watch?v=Ht46o0jpprU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ht46o0jpprU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M26S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Protoss",
+        "Terran"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/InhzjDmpcTs/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-09-29T09:00:03-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-salty-licorice-florencio-files-246.md",
-      "title": "StarCraft 2 - SALTY LICORICE | Florencio Files #246",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.patreon.com/PiGSC2  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-salty-licorice-florencio-files-246/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-salty-licorice-florencio-files-246/",
-      "originalUrl": "https://youtube.com/watch?v=Me1IqrRGd28",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Me1IqrRGd28\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M24S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Me1IqrRGd28/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Ht46o0jpprU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -844,17 +692,17 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-10-20T03:59:57-07:00"
+      "publishedDateTime": "2020-09-18T09:00:13-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-secret-cannon-rush-florencio-files-206-starcraft-2.md",
-      "title": "StarCraft 2 - SECRET CANNON RUSH | Florencio Files #206 - StarCraft 2",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-secret-cannon-rush-florencio-files-206-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-secret-cannon-rush-florencio-files-206-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=0dYb005TZ9U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0dYb005TZ9U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M25S",
+      "path": "_games/pig-starcraft-2-sewer-mermaid-gets-revenge-the-florencio-files-160.md",
+      "title": "StarCraft 2 - Sewer Mermaid Gets REVENGE! | The Florencio Files #160",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-sewer-mermaid-gets-revenge-the-florencio-files-160/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-sewer-mermaid-gets-revenge-the-florencio-files-160/",
+      "originalUrl": "https://youtube.com/watch?v=HB72wjkfee4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HB72wjkfee4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M31S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -866,7 +714,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/0dYb005TZ9U/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/HB72wjkfee4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -874,16 +722,79 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-01-14T16:01:08-08:00"
+      "publishedDateTime": "2020-09-03T14:00:03-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-sickest-strat-flo-execution-florencio-files-231.md",
-      "title": "StarCraft 2 - SICKEST STRAT, FLO EXECUTION | Florencio Files #231",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-sickest-strat-flo-execution-florencio-files-231/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-sickest-strat-flo-execution-florencio-files-231/",
-      "originalUrl": "https://youtube.com/watch?v=-U1ljQFpEqg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-U1ljQFpEqg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "path": "_games/pig-starcraft-2-sewer-mermaids-epic-minefields-florencio-files-172.md",
+      "title": "StarCraft 2 - SEWER MERMAID'S EPIC MINEFIELDS | Florencio Files #172",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-sewer-mermaids-epic-minefields-florencio-files-172/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-sewer-mermaids-epic-minefields-florencio-files-172/",
+      "originalUrl": "https://youtube.com/watch?v=JZRBAOQ4ik4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JZRBAOQ4ik4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M49S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JZRBAOQ4ik4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-26T09:00:04-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-simcity-wars-2-games-king-of-cannons-17.md",
+      "title": "StarCraft 2 - SIMCITY WARS (2-games) | King of Cannons #17",
+      "excerpt": "Cannon rushes all day erry day! 🐷 Support PiG: https://www.pigstarcraft.com/support/  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf -- 🐖 Watch live on https://www.twitch.tv/x5_pig 🎓",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-simcity-wars-2-games-king-of-cannons-17/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-simcity-wars-2-games-king-of-cannons-17/",
+      "originalUrl": "https://youtube.com/watch?v=1qDn_YgxIaM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1qDn_YgxIaM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M5S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "tags": [
+        "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1qDn_YgxIaM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-07T00:23:39-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-sloppy-joes-starcraft-the-florencio-files-149.md",
+      "title": "StarCraft 2 - Sloppy Joes Starcraft | The Florencio Files #149",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-sloppy-joes-starcraft-the-florencio-files-149/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-sloppy-joes-starcraft-the-florencio-files-149/",
+      "originalUrl": "https://youtube.com/watch?v=G0odXC3f_Mk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G0odXC3f_Mk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT15M55S",
       "provider": {
         "name": "PiG",
@@ -896,7 +807,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-U1ljQFpEqg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/G0odXC3f_Mk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -904,7 +815,98 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-08-01T17:27:38-07:00"
+      "publishedDateTime": "2020-07-10T04:00:10-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-slowest-pitching-of-a-tent-ever-the-florencio-files-double-trouble-58.md",
+      "title": "StarCraft 2 - Slowest Pitching of a Tent EVER | The Florencio Files Double Trouble #58",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-slowest-pitching-of-a-tent-ever-the-florencio-files-double-trouble-58/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-slowest-pitching-of-a-tent-ever-the-florencio-files-double-trouble-58/",
+      "originalUrl": "https://youtube.com/watch?v=naIU5g8f7fY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/naIU5g8f7fY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M50S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/naIU5g8f7fY/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-04-03T12:50:23-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-sneaky-burrowed-swarm-hosts-florencio-files-174.md",
+      "title": "StarCraft 2 - SNEAKY BURROWED SWARM HOSTS! | Florencio Files #174",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-sneaky-burrowed-swarm-hosts-florencio-files-174/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-sneaky-burrowed-swarm-hosts-florencio-files-174/",
+      "originalUrl": "https://youtube.com/watch?v=3us1amMK0eU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3us1amMK0eU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M1S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3us1amMK0eU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-08T08:00:04-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-so-salty-the-ocean-gets-jealous-the-florencio-files-129.md",
+      "title": "StarCraft 2 - So Salty the ocean gets jealous | The Florencio Files #129",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-so-salty-the-ocean-gets-jealous-the-florencio-files-129/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-so-salty-the-ocean-gets-jealous-the-florencio-files-129/",
+      "originalUrl": "https://youtube.com/watch?v=8ooAeFNAl9Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8ooAeFNAl9Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M53S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8ooAeFNAl9Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-03-26T10:00:07-07:00"
     }
   ],
   "nextPage": 20

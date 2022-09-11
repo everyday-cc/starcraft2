@@ -211,40 +211,6 @@
       "publishedDateTime": "2022-07-21T02:25:51-07:00"
     },
     {
-      "path": "_games/pig-the-stuff-zerg-nightmares-are-made-of-kings-of-cannons-16.md",
-      "title": "THE STUFF ZERG NIGHTMARES ARE MADE OF | Kings of Cannons #16",
-      "excerpt": "Cannon rushes all day erry day! 🐷 Support PiG: https://www.pigstarcraft.com/support/  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf -- 🐖 Watch live on https://www.twitch.tv/x5_pig 🎓",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-stuff-zerg-nightmares-are-made-of-kings-of-cannons-16/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-stuff-zerg-nightmares-are-made-of-kings-of-cannons-16/",
-      "originalUrl": "https://youtube.com/watch?v=f-mXdbarmN0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f-mXdbarmN0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M6S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "tags": [
-        "Cheese"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/f-mXdbarmN0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-27T17:33:08-07:00"
-    },
-    {
       "path": "_games/pig-the-ted-bundy-of-starcraft-mineralthief-one-geyser-to-rule-them-all-g3.md",
       "title": "The Ted Bundy of Starcraft - MineralThief - One Geyser to Rule Them All - G3",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players were only allowed to mine from one gas!\r \r THIS WEEKS ICYFAR CHALLENGE: \"Fakeout - Trick Your opponent with fake rushes, attacks and tech paths\". Examples: Fake cannon/bunker rush, empty drops, proxy tech that you show on",
@@ -893,6 +859,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-05-18T05:15:17-07:00"
+    },
+    {
+      "path": "_games/pig-twitch-vs-avilo-bunker-rush-into-battle-mech-into-mass-thor-twitch-plays-pig-25.md",
+      "title": "Twitch Vs Avilo!? Bunker rush into Battle Mech into Mass Thor | Twitch Plays PiG #25",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-twitch-vs-avilo-bunker-rush-into-battle-mech-into-mass-thor-twitch-plays-pig-25/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-twitch-vs-avilo-bunker-rush-into-battle-mech-into-mass-thor-twitch-plays-pig-25/",
+      "originalUrl": "https://youtube.com/watch?v=-xWPp-P5sbQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-xWPp-P5sbQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M46S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-xWPp-P5sbQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-10-09T09:00:00-07:00"
     }
   ],
   "nextPage": 77

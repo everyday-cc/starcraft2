@@ -107,7 +107,7 @@
         "Terran",
         "Protoss"
       ],
-      "heat": 261,
+      "heat": 232,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -469,14 +469,14 @@
       "publishedDateTime": "2022-08-29T03:17:44-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-lowko-maneuver-in-a-pro-match-neeb-vs-lambo.md",
-      "title": "StarCraft 2: The LOWKO MANEUVER in a Pro Match! (Neeb vs Lambo)",
-      "excerpt": "Professional match of StarCraft 2 between Neeb (Protoss) and Lambo (Zerg). This match of SC2 is a relatively passive one, until Neeb gets his Mothership out, at which he points he starts Mass Recalling around the map.  herO vs Rogue: https://youtu.be/rqFbx1bdKgA  Support my work on Patreon: https://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-lowko-maneuver-in-a-pro-match-neeb-vs-lambo/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-lowko-maneuver-in-a-pro-match-neeb-vs-lambo/",
-      "originalUrl": "https://youtube.com/watch?v=PsEkzvMuiTQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PsEkzvMuiTQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M9S",
+      "path": "_games/lowkotv-starcraft-2-darks-queen-walk-vs-neeb-grand-finals-best-of-5.md",
+      "title": "StarCraft 2: Dark's QUEEN WALK vs Neeb! (Grand Finals Best-of-5)",
+      "excerpt": "Best-of-5 series of StarCraft 2 between Dark and Neeb. This series of Zerg versus Protoss is the Grand Finals of the ESL Open Cup Americas 134.  Dark vs Maru: https://youtu.be/_HUE_txgIrA Dark vs ByuN: https://youtu.be/_Ys59kDdrXg  Support my work on Patreon: https://www.patreon.com/lowkotv Become a",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-queen-walk-vs-neeb-grand-finals-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-queen-walk-vs-neeb-grand-finals-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=QDPJBGJlM00",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QDPJBGJlM00\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M16S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -491,9 +491,10 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Protoss",
+        "Zerg"
       ],
-      "heat": 115,
+      "heat": 121,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -504,7 +505,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-06-30T05:00:35-07:00"
+      "publishedDateTime": "2022-08-08T03:33:57-07:00"
     },
     {
       "path": "_games/pig-flos-genius-burrow-rush-trick-florencio-files-270-starcraft-2.md",

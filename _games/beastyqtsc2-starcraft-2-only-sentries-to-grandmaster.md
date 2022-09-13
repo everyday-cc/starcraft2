@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=afB5F1bvx90
 type: video
 length: PT41M53S
 publishedDateTime: 2019-07-17T20:38:31Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/afB5F1bvx90\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "lzgXF37Ebtfgh0Jz2SHyk7N3hTy0CJdL/roxIwEKQKXhnS2HFFHqvYZ0zemMVSO1XIP6N/HOkuRkuTQV+K2PoCfafWHu3/fwT8KhTVSfPE2JrOqN2N0doy16t2yLghTkfb+0qVTw6lSZStD3XpAFrmx2mfCDO3GVfyA+qeqgJ9j9424ZvWlcokeC5HV++gLqW40JdlPiafWL5zYPefT82Xm+6XB/rRrcGdtqfksW3bEoaLCVcLjmAdGPWgox30VnI7F8giCXEvSZxRT9J48/8CPkrfq6IwauDsF0JqSWT8lzCrve4Pb2e2gC+XP+ZZNcadRGD4Rd9ppTwARS99K+3BsmD68dhUj8Ib2TXvOsTKfniCthnPKLDXYoriIPB5HiN8t1e7wuPeIIKvqY0umJtK2WAvg//yfHzlmD2OILRuw=;T8NGfnNE6nk6IJR69pLefQ=="
+secured: "OAbiboyPspKQMMmfzSu9p7yJogOYNcLeypN4wWMe6rA3fVWzjNI7XpRaBE5EkTxDBZKhoBgBfLhBDx7+ajS2xjIw677hI5R2uOlkzf4g2+RNzUvXjvEwgX+xfKzt7bqz9txy3639XZvCbBW7GeUoeUpsKSeDFASqVn0YSKWhNyqzIccfpAqYuXARHyZA0Xsp4/iOmyEsSnQa9aPO5O6BilPyNpxGPbD72t5FtlpB0o2sPDugjX6q6kQiyUARvaj0C/zpsh2xGrEp5yhoJkATLm+DbxBAZDQR147CWJecZaM67sti0KrxG7njjVBNjxn+uQN5y2jzFQ0aFp/ij0UUVHopMZrxNBcYMB7RzqkxT7PgikTRTG79Qakui9obTrIGNehIe7Brd6IWXA++0Uy0XcMtZtfks2bNOmfROOw2Fps=;i9Rq95r54dk6UwsfvXq0+Q=="
 ---
 

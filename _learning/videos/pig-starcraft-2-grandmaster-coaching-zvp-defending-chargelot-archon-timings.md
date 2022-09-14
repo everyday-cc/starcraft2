@@ -4,7 +4,7 @@ excerpt: "I coach a GM Zerg on ZvP with a focus on defending 2-base chargelot ar
 originalUrl: https://youtube.com/watch?v=tXaR67fiHz8
 type: video
 price: Free
-length: PT46M7S
+length: PT46M6S
 publishedDateTime: 2018-12-21T08:42:45Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "JnmDPr/u+W/ABJwQhZ7+uvqnhkbWySbLeCigFuZGs8ie8XxeEDNaHP+eLtWCFBD7a5WspMcgCSF9Fbe1ULbt1w/CrgLZ4eHyoPQ+X/JANgogkXRH5+uUEnIre3O4oVff7Z++moyLgdCDL9SUkCGXUk7yCef/jXUydfsCIoJSWEAgvacZKNwbHDUz0iHPzam7olvnd35CoQcK5G1iayBssOjzHfZgr0FJAmOlJy057neVZ6T92opdUW45lDJyUnAGLtfy9pa3ZkMUTH5L+J34lC2yoqyruOjjt69b5wFvsUZJK++wJLr0b7YBjCbUr/G2jBLnc8xSUs++cSCn5rj85jM8gglkyVq5rC1ffmnW9OXX8yLRCpcSJSEkdW+ntE2XVf+WRF3D6VRbFToxKXOrosiVlnqiLgOfvif3IcX3aRU=;OwEttrx0CHFZ5/yAdbo9Dg=="
+secured: "vrDLMvcKCW4LdyAQSxs3i0V/YU8Z5RRHcCWNYTyMIIb9FeQUBASQA3agEvf1fD9U0WJUkASjCeRuUNpaJrktNse+yi1NH+uSBY7ioRLjYM52NvN90e72MD2M8b+GhB0FLa3Rg/mGCUvmgW16xR3iOlXlSa4DMU6/5jz0NIF68VLXleLKWBDxyr32w53iQiwR4s8mPQNok3QL1TYBq18FPxh5v89fBXrr1JxpeOmJI0Gn8qDrTjoxSdCnqkf9hucBkwFvPouF/xOgdlNUn0oOwnS57Q+h3Os0rFSc8joKQjNcR6iXJQeXZ4Wd4FYppsGtKRCslUymrOpb3US2B124CX024OgBntF8Es5hnV48nSCCTgDnIspjnmASNKPXb2i/uuPN1BYEjyTRLOj1/zQH/CJoL/UiXmxrtQ76fzopnec=;0ch8feeGq3fO/MML2lUvCA=="
 ---
 

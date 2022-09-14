@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 66
+heat: 64
 
 provider:
   name: PiG
@@ -926,6 +926,7 @@ items:
   - pig-new-world-record-1-terran-vs-7-insane-random-ai-by-heromarine-pig-reacts-starcraft-2
   - pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starcraft-2
   - pig-300-movement-speed-is-bonkers-pigs-laboratory-starcraft-2
+  - pig-protoss-thinks-zerg-is-the-maphack-race-no-fog-of-war-mod-pigs-laboratory-starcraft-2
 
 topics:
   - StarCraft 2

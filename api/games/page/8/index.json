@@ -4,6 +4,44 @@
   "page": 8,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-uthermals-extreme-aggression-vs-reynor-best-of-3.md",
+      "title": "StarCraft 2: uThermal's EXTREME Aggression vs Reynor! (Best-of-3)",
+      "excerpt": "uThermal decides to play a very aggressive set of games versus Reynor in StarCraft 2 with a variety of build orders and strategies.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  uThermal on Twitch: https://twitch.tv/uthermalsc2 Reynor on",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-uthermals-extreme-aggression-vs-reynor-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-uthermals-extreme-aggression-vs-reynor-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=qfD2tmhk3hQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qfD2tmhk3hQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-04-19T04:42:23-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-the-sewer-mermaid-has-evolved-florencio-files-262.md",
       "title": "StarCraft 2 - The Sewer Mermaid Has EVOLVED | Florencio Files #262",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
@@ -357,6 +395,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-21T05:40:18-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-pro-gamers-using-maphacks.md",
+      "title": "StarCraft 2: Pro Gamers Using MAPHACKS!",
+      "excerpt": "Best-of-3 series of StarCraft 2 in the Unfair Mod between Harstem, also known as theCowboy, and Spirit. In this match we have a variety of modifiers added to the games... Such as maphacks, damage modifiers, no hotkeys and Cyclones with Blink.  00:00 Golden Minerals in the Main 10:28 Marines with Blink",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-gamers-using-maphacks/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-pro-gamers-using-maphacks/",
+      "originalUrl": "https://youtube.com/watch?v=ys7XrIKIs14",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ys7XrIKIs14\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-04T01:55:37-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-reaper-surprises-professional-2v2-maru-byun-vs-solar-ryung.md",
@@ -982,82 +1057,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-30T09:32:19-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-cure-is-now-incredibly-strong-scarlett-vs-cure.md",
-      "title": "StarCraft 2: Cure Is Now INCREDIBLY STRONG! (Scarlett vs Cure)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between Cure (Terran), who just won the GSL Code S, and Scarlett (Zerg).  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cure-is-now-incredibly-strong-scarlett-vs-cure/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cure-is-now-incredibly-strong-scarlett-vs-cure/",
-      "originalUrl": "https://youtube.com/watch?v=CxZ2qI3gwjU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CxZ2qI3gwjU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M39S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CxZ2qI3gwjU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-24T04:55:11-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-drgs-ravager-rush-at-300-minutes-vs-byun-best-of-5.md",
-      "title": "StarCraft 2: DRG's RAVAGER RUSH at 3:00 Minutes vs ByuN! (Best-of-5)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between ByuN (Terran) and DRG (Zerg). Some solid macro games, and some cheesy matches and plenty of mistakes.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-drgs-ravager-rush-at-300-minutes-vs-byun-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-drgs-ravager-rush-at-300-minutes-vs-byun-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=bCPZpjETRRo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bCPZpjETRRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-04-05T03:02:33-07:00"
     }
   ],
   "nextPage": 9

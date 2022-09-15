@@ -924,9 +924,10 @@ items:
   - pig-pig-reacts-uthermals-1-vs-7-insane-zerg-ai-world-record-starcraft-2
   - pig-dbag-tries-to-bully-his-way-to-victory-salt-mines-12-starcraft-2
   - pig-new-world-record-1-terran-vs-7-insane-random-ai-by-heromarine-pig-reacts-starcraft-2
-  - pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starcraft-2
+  - pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starlords-filthy-adventures-15-starcraft-2
   - pig-300-movement-speed-is-bonkers-pigs-laboratory-starcraft-2
   - pig-protoss-thinks-zerg-is-the-maphack-race-no-fog-of-war-mod-pigs-laboratory-starcraft-2
+  - pig-failed-cannon-rusher-has-crazy-meltdown-salt-mines-13-starcraft-2
 
 topics:
   - StarCraft 2

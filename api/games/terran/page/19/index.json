@@ -4,96 +4,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-hug-the-planetary-icyfar-g3-did-you-hear-that.md",
-      "title": "StarCraft 2 - HUG THE PLANETARY! ICYFAR G3 Did you hear that?",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they use invisible and burrowed units as much as possible (Did you hear that?)! Here’s a fun game of zerg versus terran completing the challenge in humorous fashion.   NEW ICYFAR CHALLENGE:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-hug-the-planetary-icyfar-g3-did-you-hear-that/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-hug-the-planetary-icyfar-g3-did-you-hear-that/",
-      "originalUrl": "https://youtube.com/watch?v=Q7aVFRktoL0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q7aVFRktoL0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M45S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Q7aVFRktoL0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-insane-basetrade-diamond-in-the-ruff-59.md",
-      "title": "StarCraft 2 - INSANE BASETRADE | Diamond in the Ruff #59",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Zerg opponent? Seriously this game started off being a strange TvZ unlike other ones, and then the base trade LOL  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-insane-basetrade-diamond-in-the-ruff-59/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-insane-basetrade-diamond-in-the-ruff-59/",
-      "originalUrl": "https://youtube.com/watch?v=cbVpft5QGNE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cbVpft5QGNE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cbVpft5QGNE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-26T14:26:59-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-kick-to-ovaries-diamond-in-the-ruff-7.md",
-      "title": "StarCraft 2 - Kick to Ovaries | Diamond in the RuFF #7",
-      "excerpt": "Please check out this link and consider helping RuFF: https://www.gofundme.com/f/ruff-factory-home?utm_source=twitter&utm_medium=social&utm_campaign=p_cf+share-flow-1  Don't forget to show Ruff some love! Twitter: https://twitter.com/RuFF_SC2 Twitch: https://www.twitch.tv/ruff13 Youtube: https://www.youtube.com/user/WMRuFFKiD",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-kick-to-ovaries-diamond-in-the-ruff-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-kick-to-ovaries-diamond-in-the-ruff-7/",
-      "originalUrl": "https://youtube.com/watch?v=2OvuHNAl968",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2OvuHNAl968\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M36S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2OvuHNAl968/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-16T09:00:04-08:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-lift-to-the-gold-base-diamond-in-the-ruff-23.md",
       "title": "StarCraft 2 - LIFT TO THE GOLD BASE | Diamond in the Ruff #23",
       "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Zerg opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
@@ -183,36 +93,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-23T09:00:01-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-mass-ghosts-are-imba-against-f2-zergs-diamond-in-the-ruff-71.md",
-      "title": "StarCraft 2 - Mass Ghosts are IMBA against F2 Zergs | Diamond in the Ruff #71",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Zerg opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-mass-ghosts-are-imba-against-f2-zergs-diamond-in-the-ruff-71/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-mass-ghosts-are-imba-against-f2-zergs-diamond-in-the-ruff-71/",
-      "originalUrl": "https://youtube.com/watch?v=Da3mcHZAC_w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Da3mcHZAC_w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M48S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-04-20T18:29:58-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-never-give-up-never-surrender-diamond-in-the-ruff-43.md",
@@ -459,37 +339,6 @@
       "publishedDateTime": "2020-09-18T09:00:13-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-ruff-brings-fried-pork-to-the-drone-bbq-and-bcs-for-dessert-diamond-in-the-ruff-64.md",
-      "title": "StarCraft 2 - Ruff brings Fried Pork to the Drone BBQ and BCs for dessert | Diamond in the Ruff #64",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent?   💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-ruff-brings-fried-pork-to-the-drone-bbq-and-bcs-for-dessert-diamond-in-the-ruff-64/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-ruff-brings-fried-pork-to-the-drone-bbq-and-bcs-for-dessert-diamond-in-the-ruff-64/",
-      "originalUrl": "https://youtube.com/watch?v=KBPqUY9Q_gw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KBPqUY9Q_gw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M38S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-02-16T19:22:29-08:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-ruff-shows-how-to-bust-a-wall-diamond-in-the-ruff-34.md",
       "title": "StarCraft 2 - RUFF SHOWS HOW TO BUST A WALL | Diamond in the Ruff #34",
       "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran opponent? 🐷 Support PiG: http://paypal.me/PiGSC2 | https://www.patreon.com/PiGSC2  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l",
@@ -580,36 +429,6 @@
       "publishedDateTime": "2021-07-10T19:39:56-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-ruffs-brutal-cheese-compilation-diamond-in-the-ruff-35-starcraft-2.md",
-      "title": "StarCraft 2 - RUFF'S BRUTAL CHEESE COMPILATION | Diamond in the Ruff #35 - StarCraft 2",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran opponent? 🐷 Support PiG: http://paypal.me/PiGSC2 | https://www.patreon.com/PiGSC2  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-ruffs-brutal-cheese-compilation-diamond-in-the-ruff-35-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-ruffs-brutal-cheese-compilation-diamond-in-the-ruff-35-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=LWfgg9mOF6I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LWfgg9mOF6I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M28S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LWfgg9mOF6I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-02-17T19:44:36-08:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-ruffs-creative-solutions-to-protoss-2-games-diamond-in-the-ruff-48.md",
       "title": "StarCraft 2 - RUFF’S CREATIVE SOLUTIONS TO PROTOSS (2-games) | Diamond in the Ruff #48",
       "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponents? 🐷 Support PiG: https://www.pigstarcraft.com/support/  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow",
@@ -639,6 +458,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-21T03:49:23-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-ruffs-ruthless-tvp-cheese-compilation-3-games-diamond-in-the-ruff-57.md",
+      "title": "StarCraft 2 - Ruff's Ruthless TvP Cheese Compilation (3-games) | Diamond in the Ruff #57",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponents? 🐷 Support PiG: https://www.patreon.com/PiGSC2  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-ruffs-ruthless-tvp-cheese-compilation-3-games-diamond-in-the-ruff-57/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-ruffs-ruthless-tvp-cheese-compilation-3-games-diamond-in-the-ruff-57/",
+      "originalUrl": "https://youtube.com/watch?v=432m7JwB08Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/432m7JwB08Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M1S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/432m7JwB08Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-10-23T22:25:56-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-salting-the-wounds-florencios-goes-terran-the-florencio-files-67.md",
@@ -912,6 +761,159 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-30T01:24:31-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-the-engineering-bay-zergs-dont-want-you-to-find-out-about-diamond-in-the-ruff-2.md",
+      "title": "StarCraft 2 - The Engineering Bay Zerg’s don’t want you to find out about! | Diamond in the Ruff #2",
+      "excerpt": "Welcome to our new series, Diamond in the Ruff!  Don't forget to show Ruff some love! Twitter: https://twitter.com/RuFF_SC2 Twitch: https://www.twitch.tv/ruff13 Youtube: https://www.youtube.com/user/WMRuFFKiD Facebook: https://www.facebook.com/RuFF.StarCraft/  Like the content? Then consider to leave",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-engineering-bay-zergs-dont-want-you-to-find-out-about-diamond-in-the-ruff-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-engineering-bay-zergs-dont-want-you-to-find-out-about-diamond-in-the-ruff-2/",
+      "originalUrl": "https://youtube.com/watch?v=-AWdJevz1jc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-AWdJevz1jc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M29S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-AWdJevz1jc/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-08-10T20:05:51-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-the-merry-go-round-of-terran-sorrow-the-florencio-files-66.md",
+      "title": "StarCraft 2 - The Merry Go Round of Terran Sorrow | The Florencio Files #66",
+      "excerpt": "I really wanted this video to be named \"T4 - Sewer Tier\" but PiG wouldn't listen, can you guys please all tweet at him and tell him that TripleHelix has the better name for Florencio Files?    I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-merry-go-round-of-terran-sorrow-the-florencio-files-66/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-merry-go-round-of-terran-sorrow-the-florencio-files-66/",
+      "originalUrl": "https://youtube.com/watch?v=OTnKy5WfIv0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OTnKy5WfIv0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M52S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OTnKy5WfIv0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-06-05T18:59:28-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-the-most-annoying-cheesers-face-off-the-grim-reaper-15.md",
+      "title": "StarCraft 2 - THE MOST ANNOYING CHEESERS FACE OFF | The Grim Reaper #15",
+      "excerpt": "Grim Reaper shows us his tricky, cheesy plays. 🐷 Support PiG: https://www.pigstarcraft.com/support/  The Grim Reaper Playlist: https://www.youtube.com/watch?v=3cLene8nRc8&list=PLFUDU8AOevUcEZxzA83oiBz8LxgwgLeyR GrimReaper’s stream: https://www.twitch.tv/grimmy_uk -- 🐖 Watch live on https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-most-annoying-cheesers-face-off-the-grim-reaper-15/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-most-annoying-cheesers-face-off-the-grim-reaper-15/",
+      "originalUrl": "https://youtube.com/watch?v=xIh5Dc4PneU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xIh5Dc4PneU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M31S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xIh5Dc4PneU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:47:10-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-the-nuke-to-end-all-nukes-florencio-files-223.md",
+      "title": "StarCraft 2 - THE NUKE TO END ALL NUKES | Florencio Files #223",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. He also likes nukes 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-nuke-to-end-all-nukes-florencio-files-223/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-nuke-to-end-all-nukes-florencio-files-223/",
+      "originalUrl": "https://youtube.com/watch?v=ZrnbqJyV3Nc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZrnbqJyV3Nc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M16S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZrnbqJyV3Nc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-04-12T21:17:01-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-the-nukes-to-end-all-nukes-fighting-retreat-icyfar-g1.md",
+      "title": "StarCraft 2 - THE NUKES TO END ALL NUKES | Fighting Retreat ICYFAR G1",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they lured their opponents into a fighting retreat! Here’s a fun game of terran versus terran completing the challenge in humorous fashion.  NEW ICYFAR CHALLENGE: \"It Takes Two to Tango\"",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-nukes-to-end-all-nukes-fighting-retreat-icyfar-g1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-nukes-to-end-all-nukes-fighting-retreat-icyfar-g1/",
+      "originalUrl": "https://youtube.com/watch?v=Lm7TYOmzKl4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Lm7TYOmzKl4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M51S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Lm7TYOmzKl4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
     }
   ],
   "nextPage": 20

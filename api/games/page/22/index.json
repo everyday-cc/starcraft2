@@ -4,69 +4,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-showtimes-perfect-cannon-rush-defence-king-of-cannons-11.md",
-      "title": "StarCraft 2 - SHOWTIME'S PERFECT CANNON RUSH DEFENCE! King of Cannons #11",
-      "excerpt": "Printf does what he does best. ShoWTimE's response is perfect!  -- Want more? Help support me! https://www.patreon.com/PiGSC2 Watch live at https://www.twitch.tv/x5_pig Linktree: https://linktr.ee/PiGStarcraft Merch: https://teespring.com/stores/pig-sc2  -- Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-showtimes-perfect-cannon-rush-defence-king-of-cannons-11/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-showtimes-perfect-cannon-rush-defence-king-of-cannons-11/",
-      "originalUrl": "https://youtube.com/watch?v=1jNnXb7o3-w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1jNnXb7o3-w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M57S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "tags": [
-        "Cheese"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1jNnXb7o3-w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-26T12:00:03-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-sloppy-joes-starcraft-the-florencio-files-149.md",
-      "title": "StarCraft 2 - Sloppy Joes Starcraft | The Florencio Files #149",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-sloppy-joes-starcraft-the-florencio-files-149/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-sloppy-joes-starcraft-the-florencio-files-149/",
-      "originalUrl": "https://youtube.com/watch?v=G0odXC3f_Mk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G0odXC3f_Mk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M55S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/G0odXC3f_Mk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-07-10T04:00:10-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-surprise-double-prong-explosion-the-florencio-files-91.md",
       "title": "StarCraft 2 - Surprise \"Double Prong\" Explosion | The Florencio Files #91",
       "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
@@ -279,34 +216,35 @@
       "publishedDateTime": "2021-08-18T04:32:54-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-this-is-why-you-scout-your-main-base-diamond-in-the-ruff-56.md",
-      "title": "StarCraft 2 - This is Why You Scout Your Main Base | Diamond in the Ruff #56",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran opponent? 🐷 Support PiG: https://www.patreon.com/PiGSC2  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff_stuff_tv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-this-is-why-you-scout-your-main-base-diamond-in-the-ruff-56/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-this-is-why-you-scout-your-main-base-diamond-in-the-ruff-56/",
-      "originalUrl": "https://youtube.com/watch?v=hZzvFZdwXCg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hZzvFZdwXCg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M39S",
+      "path": "_games/pig-starcraft-2-thors-widow-mines-sad-protoss-3-games-diamond-in-the-ruff-67.md",
+      "title": "StarCraft 2 - Thors + Widow Mines = SAD PROTOSS (3-games) | Diamond in the Ruff #67",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran opponent? With thors and widow mines  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-thors-widow-mines-sad-protoss-3-games-diamond-in-the-ruff-67/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-thors-widow-mines-sad-protoss-3-games-diamond-in-the-ruff-67/",
+      "originalUrl": "https://youtube.com/watch?v=jWtrQTtCR5w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jWtrQTtCR5w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M17S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Terran",
+        "Protoss"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hZzvFZdwXCg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-10-18T23:34:54-07:00"
+      "publishedDateTime": "2022-03-21T00:01:41-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-too-many-disco-balls-no-such-thing-the-florencio-files-30.md",
@@ -339,36 +277,6 @@
       "publishedDateTime": "2018-10-13T16:35:08-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-triple-cheese-combo-3-games-grim-reaper-18.md",
-      "title": "StarCraft 2 - TRIPLE CHEESE COMBO (3-games) | Grim Reaper #18",
-      "excerpt": "Grim Reaper shows us his tricky, cheesy plays. 🐷 Support PiG: https://www.pigstarcraft.com/support/  The Grim Reaper Playlist: https://www.youtube.com/watch?v=3cLene8nRc8&list=PLFUDU8AOevUcEZxzA83oiBz8LxgwgLeyR GrimReaper’s stream: https://www.twitch.tv/grimmy_uk -- 🐖 Watch live on https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-triple-cheese-combo-3-games-grim-reaper-18/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-triple-cheese-combo-3-games-grim-reaper-18/",
-      "originalUrl": "https://youtube.com/watch?v=Bivwx8u1jlA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bivwx8u1jlA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M7S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Bivwx8u1jlA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-17T16:02:24-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-unbelievable-battlecruiser-vs-skytoss-war-diamond-in-the-ruff-37.md",
       "title": "StarCraft 2 - Unbelievable Battlecruiser vs Skytoss WAR! | Diamond in the Ruff #37",
       "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent? 🐷 Support PiG: https://www.pigstarcraft.com/support/  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow",
@@ -397,36 +305,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-03-10T20:48:41-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-viking-raids-diamond-in-the-ruff-38.md",
-      "title": "StarCraft 2 - VIKING RAIDS! Diamond in the Ruff #38",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran and Zerg opponents? 🐷 Support PiG: https://www.pigstarcraft.com/support/  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-viking-raids-diamond-in-the-ruff-38/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-viking-raids-diamond-in-the-ruff-38/",
-      "originalUrl": "https://youtube.com/watch?v=yg8cKadG2sw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yg8cKadG2sw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M4S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yg8cKadG2sw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-17T05:22:06-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-vintage-nexus-rush-into-voidray-surprise-florencio-files-199.md",
@@ -486,126 +364,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-11-20T18:06:26-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53.md",
-      "title": "StarCraft 2 - When the Protoss is Protossing, and you gotta Terran | Diamond in the Ruff #53",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent? 🐷 Support PiG: https://www.patreon.com/PiGSC2  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53/",
-      "originalUrl": "https://youtube.com/watch?v=ilVJs5gQrP8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ilVJs5gQrP8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M53S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ilVJs5gQrP8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-09-24T01:39:41-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-when-the-zerg-is-zerging-so-you-gotta-terran-diamond-in-the-ruff-72.md",
-      "title": "StarCraft 2 - When the Zerg is Zerging, so you gotta Terran | Diamond in the Ruff #72",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Zerg opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-when-the-zerg-is-zerging-so-you-gotta-terran-diamond-in-the-ruff-72/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-when-the-zerg-is-zerging-so-you-gotta-terran-diamond-in-the-ruff-72/",
-      "originalUrl": "https://youtube.com/watch?v=4A01Z-xwidQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4A01Z-xwidQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M39S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-05-02T18:51:47-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-siege-tactics-g1.md",
-      "title": "StarCraft 2 - When You Build a Base In Their Base... | ICYFAR \"Siege Tactics\" G1",
-      "excerpt": "🤯 NEW ICYFAR CHALLENGE: One Base Openers - You're not allowed to start building an expansion until after 5:00. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 21st May. -- 🤯 In this week’s episode of I Cast Your",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-siege-tactics-g1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-siege-tactics-g1/",
-      "originalUrl": "https://youtube.com/watch?v=e4q2aK8jjW0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e4q2aK8jjW0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M45S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-04-27T23:30:12-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-when-your-opponent-is-a-compulsive-liar-smurf-detective-6.md",
-      "title": "StarCraft 2 - When your opponent is a Compulsive Liar | Smurf Detective #6",
-      "excerpt": "SUBMITTER: \"EMPhammer, Gold 3-2ish, NA. I'm fairly new to the game, about 4-5ish months of experience, and my main account \"Wariosniper\" is a Gold 3 Terran currently on NA but I almost always play unranked due to ladder anxiety and I actually think I'd probably be in Plat-ish if I laddered more often.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-when-your-opponent-is-a-compulsive-liar-smurf-detective-6/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-when-your-opponent-is-a-compulsive-liar-smurf-detective-6/",
-      "originalUrl": "https://youtube.com/watch?v=Daa6k_sr908",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Daa6k_sr908\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M14S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Daa6k_sr908/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-04T04:51:22-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-you-dont-need-to-show-your-d-mole-to-your-friends-dad-the-florencio-files-85.md",
@@ -668,14 +426,14 @@
       "publishedDateTime": "2018-10-13T16:35:08-07:00"
     },
     {
-      "path": "_games/pig-the-rare-upgrade-that-guarantees-chaos-icyfar-ruthless-growth-starcraft-2.md",
-      "title": "The rare upgrade that guarantees CHAOS | ICYFAR \"Ruthless Growth\" - StarCraft 2",
-      "excerpt": "🤯 NEW ICYFAR CHALLENGE: Blood Sacrifice - One unit must die at least every minute of the game. Self-sacrifice encouraged. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 15th August -- 🤯 In this week’s episode",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-rare-upgrade-that-guarantees-chaos-icyfar-ruthless-growth-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-rare-upgrade-that-guarantees-chaos-icyfar-ruthless-growth-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=Wq9glwCgYVk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Wq9glwCgYVk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M25S",
+      "path": "_games/pig-stasis-disruptor-combo-is-disgustingly-sick-starcraft-2.md",
+      "title": "Stasis Disruptor Combo is Disgustingly SICK - StarCraft 2",
+      "excerpt": "I gave myself a challenge to set as many stasis traps as possible. Did not expect to accidentally do another challenge while I did this haha DISRUPTOR BALLS FOR THE WIN! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-stasis-disruptor-combo-is-disgustingly-sick-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-stasis-disruptor-combo-is-disgustingly-sick-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=eyiVBFua1ms",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eyiVBFua1ms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M13S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -694,7 +452,67 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-07-21T02:25:51-07:00"
+      "publishedDateTime": "2022-08-03T17:41:30-07:00"
+    },
+    {
+      "path": "_games/pig-the-crazy-strat-that-beat-a-starcraft-champion-diamond-in-the-ruff-68-vs-true.md",
+      "title": "The Crazy Strat That BEAT a Starcraft Champion | Diamond in the Ruff #68 vs True",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up True, a Zerg Starcraft Champion?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-crazy-strat-that-beat-a-starcraft-champion-diamond-in-the-ruff-68-vs-true/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-crazy-strat-that-beat-a-starcraft-champion-diamond-in-the-ruff-68-vs-true/",
+      "originalUrl": "https://youtube.com/watch?v=_tQJJEhFgvA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_tQJJEhFgvA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M2S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-03-23T20:28:24-07:00"
+    },
+    {
+      "path": "_games/pig-this-challenge-should-be-unfair-for-protoss-starcraft-2.md",
+      "title": "This challenge should be unfair for Protoss - StarCraft 2",
+      "excerpt": "Rule: you can only take the two gases in your main! I hosted this tournament during Subathon 2.0 and we had a lot of Terran and Protoss players take part. You would think that MAN WITH GUN wins this but is Neeb a god? Neeb vs BattleB | Low Gas Tournament (Bo5 PvT) -- 🐷 Second Channel for Learning StarCraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-challenge-should-be-unfair-for-protoss-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-challenge-should-be-unfair-for-protoss-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=FazABdnRJcc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FazABdnRJcc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M43S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-27T20:52:10-07:00"
     },
     {
       "path": "_games/pig-this-is-why-sc2-isnt-played-on-50-hit-points-part-2-starcraft-2.md",
@@ -726,6 +544,36 @@
       "publishedDateTime": "2022-06-23T17:55:59-07:00"
     },
     {
+      "path": "_games/pig-this-is-why-you-clear-buildings-from-the-first-cannon-rush-icyfar-one-base-openers-starcraft-2.md",
+      "title": "This is why you clear buildings from the first cannon rush | ICYFAR \"One Base Openers\" - StarCraft 2",
+      "excerpt": "🤯 NEW ICYFAR CHALLENGE: Ruthless Growth - Each time you expand, you have to attack! Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 21st June. -- 🤯 In this week’s episode of I Cast Your Freakin Awesome Replays",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-is-why-you-clear-buildings-from-the-first-cannon-rush-icyfar-one-base-openers-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-is-why-you-clear-buildings-from-the-first-cannon-rush-icyfar-one-base-openers-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=PgUxu0cV0s8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PgUxu0cV0s8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M47S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-01T23:44:11-07:00"
+    },
+    {
       "path": "_games/pig-two-players-try-their-best-to-throw-the-game-rate-my-starcraft-6.md",
       "title": "Two players try their best to THROW the game | Rate My StarCraft #6",
       "excerpt": "Eonblu has been the ICYFAR replay selector for years. This game is so sloppy, like both players trying to throw constantly. Why do you all send me Rate my starcraft replays that make me want to die!  🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your",
@@ -755,25 +603,26 @@
       "publishedDateTime": "2021-09-11T20:56:15-07:00"
     },
     {
-      "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-sex-panther-1-base-thor-drop-twitch-plays-gabe-starcraft-2.md",
-      "title": "We paid a Pro to do Troll Builds: Sex Panther & 1-Base Thor Drop | Twitch Plays Gabe  - StarCraft 2",
-      "excerpt": "We paid Heromarine (Big Gabe) to participate in a Twitch Plays Gabe segment for PiGFest - and he delivered the Sex Panther build even though he didn't even know what it really was LOL. Also pulled off a fun 1-base Thor drop that was sick!  Heromarine's stream: https://www.twitch.tv/heromarine -- 🐷 Main",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-we-paid-a-pro-to-do-troll-builds-sex-panther-1-base-thor-drop-twitch-plays-gabe-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-we-paid-a-pro-to-do-troll-builds-sex-panther-1-base-thor-drop-twitch-plays-gabe-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=9HLc8gGwctQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9HLc8gGwctQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M11S",
+      "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2.md",
+      "title": "We paid a Pro to do Troll Builds: Planetary Fortress & Nuke Rush | Twitch Plays Gabe  - StarCraft 2",
+      "excerpt": "We paid Heromarine (Big Gabe) to participate in a Twitch Plays Gabe segment for PiGFest - and he delivered with Planetary Fortress and Nuke Rushes!  https://www.pigstarcraft.com/about/pig-sty-festival/  🐷 https://www.patreon.com/PiGSC2  Heromarine's stream: https://www.twitch.tv/heromarine -- 🐖 Watch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-we-paid-a-pro-to-do-troll-builds-planetary-fortress-nuke-rush-twitch-plays-gabe-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=hbCcY6BPz5o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hbCcY6BPz5o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M19S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Terran"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/9HLc8gGwctQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hbCcY6BPz5o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -781,7 +630,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-11-24T15:43:19-08:00"
+      "publishedDateTime": "2021-11-01T02:28:19-07:00"
     },
     {
       "path": "_games/pig-what-happens-when-pros-have-maphacks-to-prove-a-point-no-fog-of-war-mod-starcraft-2.md",
@@ -843,35 +692,33 @@
       "publishedDateTime": "2021-11-29T08:25:52-08:00"
     },
     {
-      "path": "_games/pig-when-protoss-squatters-take-terrans-main-base-diamond-in-the-ruff-61.md",
-      "title": "When Protoss squatters take Terran’s main base | Diamond in the Ruff #61",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-protoss-squatters-take-terrans-main-base-diamond-in-the-ruff-61/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-protoss-squatters-take-terrans-main-base-diamond-in-the-ruff-61/",
-      "originalUrl": "https://youtube.com/watch?v=UA64vCg2HLk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UA64vCg2HLk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M37S",
+      "path": "_games/pig-when-bronze-league-heroes-crosses-with-flo-files-icyfar-one-base-openers-g2-starcraft-2.md",
+      "title": "When Bronze League Heroes crosses with Flo Files | ICYFAR \"One Base Openers\" G2 - StarCraft 2",
+      "excerpt": "🤯 NEW ICYFAR CHALLENGE: Ruthless Growth - Each time you expand, you have to attack! Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 21st June. -- 🤯 In this week’s episode of I Cast Your Freakin Awesome Replays",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-bronze-league-heroes-crosses-with-flo-files-icyfar-one-base-openers-g2-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-bronze-league-heroes-crosses-with-flo-files-icyfar-one-base-openers-g2-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=nbX8KP5pbc8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nbX8KP5pbc8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M51S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
+        "StarCraft 2"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/UA64vCg2HLk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-12-27T14:45:26-08:00"
+      "publishedDateTime": "2022-06-01T23:45:11-07:00"
     },
     {
       "path": "_games/pig-when-the-terran-build-confuses-the-zerg-player-2-tvz-games-diamond-in-the-ruff-66-starcraft-2.md",
@@ -903,6 +750,161 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-09T17:38:59-08:00"
+    },
+    {
+      "path": "_games/pig-when-you-both-think-youre-dead-but-youre-just-stupid-smooth-brain-santa-claws-5-starcraft-2.md",
+      "title": "When you both think You’re Dead but you’re just Stupid | Smooth Brain Santa Claws #5 - StarCraft 2",
+      "excerpt": "Santa Claws starts off flirting with his Terran Opponent before the game goes full Smooth Brain, with both sides thinking they're dead at some point. Santa Claws impressed in his Starcraft Smooth Brain audition and has been granted an opportunity to be the next Smooth Brain. Will he impress or will his",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-you-both-think-youre-dead-but-youre-just-stupid-smooth-brain-santa-claws-5-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-you-both-think-youre-dead-but-youre-just-stupid-smooth-brain-santa-claws-5-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=fcN17KQ1liY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fcN17KQ1liY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-09-23T22:01:42-07:00"
+    },
+    {
+      "path": "_games/pig-when-you-face-the-chaos-lord-of-na-ladder-mayhem-ensues-diamond-in-the-ruff-70-starcraft-2.md",
+      "title": "When you face the Chaos Lord of NA Ladder, mayhem ensues! | Diamond in the Ruff #70 StarCraft 2",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Zerg opponents when the game is total chaos?!?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-you-face-the-chaos-lord-of-na-ladder-mayhem-ensues-diamond-in-the-ruff-70-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-you-face-the-chaos-lord-of-na-ladder-mayhem-ensues-diamond-in-the-ruff-70-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=WacMTZPqm3s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WacMTZPqm3s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-04-06T21:48:24-07:00"
+    },
+    {
+      "path": "_games/pig-when-you-get-mind-controlled-by-the-mother-of-all-neural-parasites-diamond-in-the-ruff-63.md",
+      "title": "When you get mind controlled by the mother of all Neural Parasites! | Diamond in the Ruff #63",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Zerg opponent when they land the SICKEST neural parasite on all his battle cruisers?!  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-you-get-mind-controlled-by-the-mother-of-all-neural-parasites-diamond-in-the-ruff-63/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-you-get-mind-controlled-by-the-mother-of-all-neural-parasites-diamond-in-the-ruff-63/",
+      "originalUrl": "https://youtube.com/watch?v=_TcT4UccJhk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_TcT4UccJhk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M10S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_TcT4UccJhk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-02-03T11:29:35-08:00"
+    },
+    {
+      "path": "_games/pig-whose-ball-is-it-anyway-the-king-of-cannons-1-starcraft-2.md",
+      "title": "Whose Ball is it Anyway!? | The King of Cannons #1 - StarCraft 2",
+      "excerpt": "Seems like we got ANOTHER new series bois(n girls), The King of Cannons!  be sure to follow him on: Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng  Like the content? Then consider to leave a thumbs",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-whose-ball-is-it-anyway-the-king-of-cannons-1-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-whose-ball-is-it-anyway-the-king-of-cannons-1-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=6LShnUyxhUc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6LShnUyxhUc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M31S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "tags": [
+        "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-03T15:59:09-07:00"
+    },
+    {
+      "path": "_games/pig-whose-ball-is-it-anyway-the-king-of-cannons-1.md",
+      "title": "Whose Ball is it Anyway!? | The King of Cannons #1",
+      "excerpt": "Seems like we got ANOTHER new series bois(n girls), The King of Cannons!  be sure to follow him on: Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng  Like the content? Then consider to leave a thumbs",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-whose-ball-is-it-anyway-the-king-of-cannons-1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-whose-ball-is-it-anyway-the-king-of-cannons-1/",
+      "originalUrl": "https://youtube.com/watch?v=6LShnUyxhUc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6LShnUyxhUc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M31S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "tags": [
+        "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6LShnUyxhUc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-03T15:59:09-07:00"
     }
   ],
   "nextPage": 23

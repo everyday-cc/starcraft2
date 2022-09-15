@@ -4,44 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-cast-swarm-hosts-vs-mech.md",
-      "title": "StarCraft 2 Cast: SWARM HOSTS vs MECH!",
-      "excerpt": "A best of three between Snute and Gumiho. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/S1lJbH  In this series between Snute and Gumiho, Gumiho decides to play a rather interesting Mech based style. He focuses on Banshees, Hellions and Cyclones while not making",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-swarm-hosts-vs-mech/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cast-swarm-hosts-vs-mech/",
-      "originalUrl": "https://youtube.com/watch?v=k_smrtdOC6w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/k_smrtdOC6w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M36S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/k_smrtdOC6w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-01-07T04:45:35-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-cast-terran-mech-versus-zerg.md",
       "title": "StarCraft 2 Cast: TERRAN MECH versus Zerg!",
       "excerpt": "INnoVation versus Dark in an epic Zerg versus Terran. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/RZRyOs  In this match INnoVation decides to play Mech. This means that he bases his army around Factory units such as early game Hellions, Hellbats and Cyclones",
@@ -849,6 +811,44 @@
       "publishedDateTime": "2021-01-08T04:18:07-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-epic-game-the-map-is-completely-mined-out-dark-vs-zoun.md",
+      "title": "StarCraft 2: EPIC GAME - The Map Is COMPLETELY Mined Out! (Dark vs Zoun)",
+      "excerpt": "Awesome game of Zerg versus Protoss in StarCraft 2 between Dark and Zoun.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-game-the-map-is-completely-mined-out-dark-vs-zoun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-the-map-is-completely-mined-out-dark-vs-zoun/",
+      "originalUrl": "https://youtube.com/watch?v=ftIzX5OlUso",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ftIzX5OlUso\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M55S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ftIzX5OlUso/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-05-06T04:15:18-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-epic-lurker-wars-serral-vs-reynor.md",
       "title": "StarCraft 2: EPIC LURKER WARS! (Serral vs Reynor)",
       "excerpt": "Zerg versus Zerg is one of the most complicated matchups in StarCraft 2. If you miscontrol and mismicro in the first ten minutes of the game, it's pretty much game over right away. In this top-level match of Zerg versus Zerg between Serral and Reynor (in my opinion the best ZvZ players in the world)",
@@ -1082,44 +1082,6 @@
       "publishedDateTime": "2017-11-29T01:36:31-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-esl-open-cup-grand-finals-solar-vs-astrea-best-of-5.md",
-      "title": "StarCraft 2: ESL Open Cup GRAND FINALS - Solar vs Astrea! (Best-of-5)",
-      "excerpt": "The Grand Finals of the ESL Open Cup 68 North America. In this best-of-5 series of professional StarCraft 2 I cast Astrea versus Solar, a Protoss versus Zerg.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-esl-open-cup-grand-finals-solar-vs-astrea-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-esl-open-cup-grand-finals-solar-vs-astrea-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=OG1AeAYrnWY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OG1AeAYrnWY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OG1AeAYrnWY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-05-03T04:59:35-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-exceptional-zerg-vs-terran.md",
       "title": "StarCraft 2: EXCEPTIONAL Zerg vs Terran!",
       "excerpt": "The skill level of these games is becoming absolutely exceptional. Subscribe for more videos: http://lowko.tv/youtube How-to Nydus Rush: https://goo.gl/MEV5Vn  An awesome match of Zerg versus Terran. The game starts up very normally but quickly becomes an intense match that's essentially a battle between",
@@ -1157,6 +1119,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-02-09T01:45:39-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-extreme-zerg-vs-terran.md",
+      "title": "StarCraft 2: EXTREME Zerg vs Terran!",
+      "excerpt": "ByuN vs Impact in StarCraft 2. An epic Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube Stats vs INnoVation: https://goo.gl/nzunjC  An extremely close match of Zerg vs Terran. Impact decides to open up very aggressive and try to close the match early. However, he's forced to play macro",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-extreme-zerg-vs-terran/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-extreme-zerg-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=HBenUz78xuA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HBenUz78xuA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M18S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HBenUz78xuA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-06-24T01:43:31-07:00"
     }
   ],
   "nextPage": 11

@@ -4,6 +4,44 @@
   "page": 42,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-photon-cannon-vs-spine-crawler-rush.md",
+      "title": "StarCraft 2: Photon Cannon vs Spine Crawler Rush!",
+      "excerpt": "Revenge is a dish best served cold! A viewer game of Platinum League Zerg versus Protoss.  Get exclusive content & support my work: http://www.patreon.com/lowkotv  If you have an awesome replay of StarCraft 2 that you think is worth casting, you can send it to replays@lowko.tv.  Be part of the community",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-photon-cannon-vs-spine-crawler-rush/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-photon-cannon-vs-spine-crawler-rush/",
+      "originalUrl": "https://youtube.com/watch?v=LWnK3bF7tLs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LWnK3bF7tLs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M40S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LWnK3bF7tLs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-08-21T00:24:12-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-photon-cannons-vs-photon-cannons-parting-vs-zest.md",
       "title": "StarCraft 2: PHOTON CANNONS vs PHOTON CANNONS! (PartinG vs Zest)",
       "excerpt": "Best-of-5 series of Protoss versus Protoss between PartinG and Zest, with some very cheeky build orders.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part",
@@ -533,6 +571,44 @@
       "publishedDateTime": "2019-01-14T04:10:23-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-professional-bronze-league-heroes-clem-vs-creator.md",
+      "title": "StarCraft 2: PROFESSIONAL Bronze League Heroes?! (Clem vs Creator)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between Creator (Protoss) and Clem (Terran). Creator feels sneaky and decides to proxy Dark Shrines. Can Clem find them in time?  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-professional-bronze-league-heroes-clem-vs-creator/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-professional-bronze-league-heroes-clem-vs-creator/",
+      "originalUrl": "https://youtube.com/watch?v=HUI8SQtrmyI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HUI8SQtrmyI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M16S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-09T12:04:58-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-professional-cannon-rush.md",
       "title": "StarCraft 2: PROFESSIONAL Cannon Rush!",
       "excerpt": "PartinG vs Dear in a best-of-5 series of Protoss vs Protoss. Subscribe for more videos: http://lowko.tv/youtube Maru vs TY: https://www.youtube.com/watch?v=gUE1eInkbVk  Check out Lowko merchandise: http://lowko.tv/merch Support me on Patreon: http://www.patreon.com/lowkotv Join the community on discord:",
@@ -606,44 +682,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-04-12T04:09:11-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-professional-cheese-cannon-rush-vs-proxy-void-rays-stats-vs-zest.md",
-      "title": "StarCraft 2: PROFESSIONAL CHEESE - Cannon Rush vs Proxy Void Rays! (Stats vs Zest)",
-      "excerpt": "After some great games of Zerg versus Zerg and Terran versus Terran, it is time for Protoss versus Protoss. This is one of the craziest games of high level StarCraft 2 I've seen recently.  Dark vs Serral: https://youtu.be/vD6JmIVTOXo Cure vs ByuN: https://youtu.be/tTX4nFOYqOA  Support my work on Patreon:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-professional-cheese-cannon-rush-vs-proxy-void-rays-stats-vs-zest/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-professional-cheese-cannon-rush-vs-proxy-void-rays-stats-vs-zest/",
-      "originalUrl": "https://youtube.com/watch?v=c07FjaDtY2E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c07FjaDtY2E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/c07FjaDtY2E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-12T02:12:37-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-professional-cheese.md",
@@ -1102,44 +1140,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-28T04:59:03-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-proxy-nexus-cheese.md",
-      "title": "StarCraft 2: Proxy Nexus CHEESE?!",
-      "excerpt": "Florencio comes up with insane strategies, and somehow makes them work on the StarCraft 2 ladder. In this game I cast a match of Protoss versus Terran with a Proxy Nexus inside the main base of the Terran.  Get more videos & support my work: http://www.patreon.com/lowkotv  The 2019 balance update: https://youtu.be/N20YNAnyyA0",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-nexus-cheese/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-proxy-nexus-cheese/",
-      "originalUrl": "https://youtube.com/watch?v=khgDUwR7Gvo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/khgDUwR7Gvo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M19S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/khgDUwR7Gvo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-13T01:54:46-08:00"
     }
   ],
   "nextPage": 43

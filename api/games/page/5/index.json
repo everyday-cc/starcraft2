@@ -4,66 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-the-twists-and-turns-in-this-one-game-pvz.md",
-      "title": "StarCraft 2 - The Twists and Turns in this One Game! (PvZ)",
-      "excerpt": "These Smooth Brain players, Rocker (P) and Ukko (Z), are very high level GM players. Please enjoy this 40 minute basetrade extravaganza, like a game of musical chairs but for bases 🐷 https://www.patreon.com/PiGSC2  🐖 Watch PiGFest live on https://www.twitch.tv/x5_pig where these players plus 6 more",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-twists-and-turns-in-this-one-game-pvz/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-twists-and-turns-in-this-one-game-pvz/",
-      "originalUrl": "https://youtube.com/watch?v=1HGdRas4k9o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1HGdRas4k9o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1HGdRas4k9o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-24T00:21:00-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-three-basetrades-in-one-game-rocker-vs-ukko-pvz.md",
-      "title": "StarCraft 2 - THREE BASETRADES IN ONE GAME | Rocker vs Ukko (PvZ)",
-      "excerpt": "These Smooth Brain players, Rocker (P) and Ukko (Z), are very high level GM players. Please enjoy this 40 minute basetrade extravaganza, like a game of musical chairs but for bases 🐷 https://www.patreon.com/PiGSC2  🐖 Watch PiGFest live on https://www.twitch.tv/x5_pig where these players plus 6 more",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-three-basetrades-in-one-game-rocker-vs-ukko-pvz/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-three-basetrades-in-one-game-rocker-vs-ukko-pvz/",
-      "originalUrl": "https://youtube.com/watch?v=1HGdRas4k9o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1HGdRas4k9o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1HGdRas4k9o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-24T00:21:00-07:00"
-    },
-    {
       "path": "_games/collections/pig-pigs-funny-starcraft.md",
       "title": "PiG's FUNNY STARCRAFT",
       "excerpt": "",
@@ -361,234 +301,6 @@
       "type": "collection"
     },
     {
-      "path": "_games/collections/sc2hl-epic-starcraft-2-games-collected-by-sc2hl.md",
-      "title": "EPIC Starcraft 2 Games collected by SC2HL",
-      "excerpt": "Highlights from some of the best Starcraft 2 games. Coming from the GSL, SSL, WCS and many other tournaments.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/sc2hl-epic-starcraft-2-games-collected-by-sc2hl/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/collections/sc2hl-epic-starcraft-2-games-collected-by-sc2hl/",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "topItems": [
-        {
-          "path": "_games/sc2hl-111-banelings-in-a-professional-starcraft-2-match.md",
-          "title": "111 BANELINGS In a Professional StarCraft 2 Match",
-          "excerpt": "Dark going for a massive massive amount of banelings vs Alive in a Terran vs Zerg  ► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL ► Submit your REPLAYS! - http://bit.ly/SC2HLsubmit   ► SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe   A crazy description   Thank you for watching",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-111-banelings-in-a-professional-starcraft-2-match/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-111-banelings-in-a-professional-starcraft-2-match/",
-          "originalUrl": "https://youtube.com/watch?v=ut6nCoAXiP4",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ut6nCoAXiP4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT10M14S",
-          "provider": {
-            "name": "SC2HL",
-            "domain": "sc2hl.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "topics": [
-            "StarCraft 2",
-            "Zerg"
-          ],
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/ut6nCoAXiP4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2019-03-06T07:05:01-08:00"
-        },
-        {
-          "path": "_games/sc2hl-epic-starcraft-2-game-1-hour-long-protoss-vs-terran-creator-vs-ty.md",
-          "title": "EPIC STARCRAFT 2 GAME - 1 HOUR LONG Protoss vs Terran - Creator vs TY",
-          "excerpt": "One of the most epic starcraft games of the year, between Classic and TY During the RO16 of GSL Super Tournament. A crazy Protoss vs Terran.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-epic-starcraft-2-game-1-hour-long-protoss-vs-terran-creator-vs-ty/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-epic-starcraft-2-game-1-hour-long-protoss-vs-terran-creator-vs-ty/",
-          "originalUrl": "https://youtube.com/watch?v=iHS8M4VUwrI",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iHS8M4VUwrI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT22M15S",
-          "provider": {
-            "name": "SC2HL",
-            "domain": "sc2hl.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran",
-            "Protoss"
-          ],
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/iHS8M4VUwrI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2018-10-16T07:21:19-07:00"
-        },
-        {
-          "path": "_games/sc2hl-speed-banshees-vs-swarm-hosts-starcraft-2-maru-vs-solar.md",
-          "title": "Speed BANSHEES vs SWARM HOSTS - StarCraft 2 - Maru vs Solar",
-          "excerpt": "An epic game between Maru & Solar during the Starcraft 2 GSL Code S. Mech, speed banshees, swarm hosts, ravens & an epic conclusion.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-speed-banshees-vs-swarm-hosts-starcraft-2-maru-vs-solar/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-speed-banshees-vs-swarm-hosts-starcraft-2-maru-vs-solar/",
-          "originalUrl": "https://youtube.com/watch?v=ZX1dmv6aTAE",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZX1dmv6aTAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT14M32S",
-          "provider": {
-            "name": "SC2HL",
-            "domain": "sc2hl.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran",
-            "Zerg"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/ZX1dmv6aTAE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2017-07-24T03:19:50-07:00"
-        },
-        {
-          "path": "_games/sc2hl-8-player-pro-ffa-starcraft-2-homestory-cup.md",
-          "title": "8 PLAYER PRO FFA! - StarCraft 2 HomeStory Cup",
-          "excerpt": "Highlights of a very funny Free for All that happened during Homestory Cup 16.  The Starcraft 2 FFA featured Neeb, Stats, Elazer and many more!  You can watch the full match here: https://www.twitch.tv/videos/200541935?t=05h13m44s   ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-8-player-pro-ffa-starcraft-2-homestory-cup/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-8-player-pro-ffa-starcraft-2-homestory-cup/",
-          "originalUrl": "https://youtube.com/watch?v=SYWvv-tpqG0",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SYWvv-tpqG0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT16M37S",
-          "provider": {
-            "name": "SC2HL",
-            "domain": "sc2hl.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "topics": [
-            "StarCraft 2"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/SYWvv-tpqG0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2018-10-16T07:21:19-07:00"
-        }
-      ],
-      "size": 32,
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ut6nCoAXiP4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serral-baneling-busts-maru-best-of-5.md",
-      "title": "StarCraft 2: Serral BANELING BUSTS Maru! (Best-of-5)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between Serral (Zerg) and Maru (Terran). These two are considered the best players in StarCraft 2 currently.  Swarm Host Mutalisk in Bronze League: https://youtu.be/Y4S6yaWWmJg  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-baneling-busts-maru-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-baneling-busts-maru-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=l0fKwYapXXM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l0fKwYapXXM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M40S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-03-17T05:37:16-07:00"
-    },
-    {
       "path": "_games/pig-i-made-them-feel-bad-with-my-protoss-shenanigans-s-most-annoying-player-ever-3-starcraft-2.md",
       "title": "I made them feel bad with my Protoss shenanigans :S | Most Annoying Player Ever #3 - StarCraft 2",
       "excerpt": "Let's see how annoying I can be :D -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2 🐷 PiG’s Discord:",
@@ -650,37 +362,42 @@
       "publishedDateTime": "2021-09-24T01:39:41-07:00"
     },
     {
-      "path": "_games/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series.md",
-      "title": "Best Nukes of Never Attack to Grandmaster Series!",
-      "excerpt": "Welcome to a fan-made supercut of all of Beastyqt's Nukes! Enjoy this Nuke Reel!  Check out Black Fire's channel who edited this video: https://www.youtube.com/channel/UCT2zCxLrL91NILOBHcRAELA/featured?  #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series/",
-      "originalUrl": "https://youtube.com/watch?v=-HaQ_9HnPkw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-HaQ_9HnPkw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M30S",
+      "path": "_games/lowkotv-starcraft-2-crazy-series-gumihos-proxy-battlecruisers-best-of-3.md",
+      "title": "StarCraft 2: CRAZY SERIES - GuMiho's Proxy Battlecruisers! (Best-of-3)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between Nina and GuMiho. Both players decide to go for a variety of strategies, from Proxy Battlecruisers to a Tempest Rush. All games in this match of SC2 are played on new maps.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-crazy-series-gumihos-proxy-battlecruisers-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-crazy-series-gumihos-proxy-battlecruisers-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=8qBtHxGyppA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8qBtHxGyppA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M45S",
       "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "StarCraft 2",
         "Terran"
       ],
       "heat": 64,
-      "tags": [
-        "Live"
-      ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-HaQ_9HnPkw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-06-27T05:37:31-07:00"
+      "publishedDateTime": "2022-06-29T02:16:49-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-gumiho-proxies-every-game-vs-hero-best-of-5.md",
@@ -751,6 +468,35 @@
       "publishedDateTime": "2022-06-27T20:57:08-07:00"
     },
     {
+      "path": "_games/pig-this-is-why-you-stop-queuing-when-youre-malding-most-annoying-player-ever-2-starcraft-2.md",
+      "title": "This is why you stop queuing when you’re MALDING | Most Annoying Player Ever #2 - StarCraft 2",
+      "excerpt": "Let's see how annoying I can be :D In this episode, my opponent cannot deal with the ping and starts malding non stop. Malding = being so mad you start to go bald -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-is-why-you-stop-queuing-when-youre-malding-most-annoying-player-ever-2-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-is-why-you-stop-queuing-when-youre-malding-most-annoying-player-ever-2-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=1wqTkd6WDE4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1wqTkd6WDE4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-08-24T23:36:00-07:00"
+    },
+    {
       "path": "_games/pig-what-happens-when-they-refuse-to-choose-macro-or-cheese-2-starcraft-2.md",
       "title": "What happens when they REFUSE to choose? | Macro or Cheese #2 - StarCraft 2",
       "excerpt": "NEW SHOW! I secretly played a few games on a dirty barcode account and offered my StarCraft 2 opponents a choice: Macro or Cheese? How the game plays out is up to them! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
@@ -780,14 +526,47 @@
       "publishedDateTime": "2022-07-28T17:05:04-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-cure-is-now-incredibly-strong-scarlett-vs-cure.md",
-      "title": "StarCraft 2: Cure Is Now INCREDIBLY STRONG! (Scarlett vs Cure)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between Cure (Terran), who just won the GSL Code S, and Scarlett (Zerg).  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cure-is-now-incredibly-strong-scarlett-vs-cure/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cure-is-now-incredibly-strong-scarlett-vs-cure/",
-      "originalUrl": "https://youtube.com/watch?v=CxZ2qI3gwjU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CxZ2qI3gwjU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M39S",
+      "path": "_games/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series.md",
+      "title": "Best Nukes of Never Attack to Grandmaster Series!",
+      "excerpt": "Welcome to a fan-made supercut of all of Beastyqt's Nukes! Enjoy this Nuke Reel!  Check out Black Fire's channel who edited this video: https://www.youtube.com/channel/UCT2zCxLrL91NILOBHcRAELA/featured?  #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series/",
+      "originalUrl": "https://youtube.com/watch?v=-HaQ_9HnPkw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-HaQ_9HnPkw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M30S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 63,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-HaQ_9HnPkw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-27T05:37:31-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-heros-overpowered-mass-gateway-protoss-vs-zerg-best-of-5.md",
+      "title": "StarCraft 2: herO's OVERPOWERED(?) Mass Gateway Protoss vs Zerg! (Best-of-5)",
+      "excerpt": "A best-of-5 series of professional StarCraft 2 between herO (Protoss) and soO (Zerg). Recently in the Protoss versus Zerg matchup, we have seen a lot of changes. This is the current Zerg versus Protoss StarCraft 2 meta. From a turtling Sky Toss based approach, we now see a very heavy focus on Gateway",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-overpowered-mass-gateway-protoss-vs-zerg-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-overpowered-mass-gateway-protoss-vs-zerg-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=2zo2sKZ0OUI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2zo2sKZ0OUI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M38S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -802,30 +581,31 @@
       },
       "topics": [
         "StarCraft 2",
+        "Protoss",
         "Zerg"
       ],
       "heat": 63,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/CxZ2qI3gwjU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-11-24T04:55:11-08:00"
+      "publishedDateTime": "2022-06-04T05:05:19-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-reynor-as-terran-vs-clem-as-zerg-best-of-5.md",
-      "title": "StarCraft 2: Reynor as TERRAN vs Clem as ZERG! (Best-of-5)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 where Reynor plays as Terran, and Clem plays as the Zerg. This is the first of a series of SC2 pro matches that I am hosting.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynor-as-terran-vs-clem-as-zerg-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynor-as-terran-vs-clem-as-zerg-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=N5aU8GxnBh4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N5aU8GxnBh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H16M12S",
+      "path": "_games/lowkotv-starcraft-2-top-game-the-ultimate-deathballs-maru-vs-reynor.md",
+      "title": "StarCraft 2: TOP GAME - The ULTIMATE Deathballs! (Maru vs Reynor)",
+      "excerpt": "Amazing game of StarCraft 2 between Maru and Reynor. Maru starts off this game with a Blue Flame Hellion push into speedy Widow Mine drops. The game however doesn't end there and it goes the distance, as both players macro up.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-game-the-ultimate-deathballs-maru-vs-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-game-the-ultimate-deathballs-maru-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=cnIqUaraWOQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cnIqUaraWOQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M25S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -846,44 +626,6 @@
       "heat": 63,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/N5aU8GxnBh4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-01-11T04:22:54-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-crazy-series-gumihos-proxy-battlecruisers-best-of-3.md",
-      "title": "StarCraft 2: CRAZY SERIES - GuMiho's Proxy Battlecruisers! (Best-of-3)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between Nina and GuMiho. Both players decide to go for a variety of strategies, from Proxy Battlecruisers to a Tempest Rush. All games in this match of SC2 are played on new maps.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-crazy-series-gumihos-proxy-battlecruisers-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-crazy-series-gumihos-proxy-battlecruisers-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=8qBtHxGyppA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8qBtHxGyppA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M45S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 62,
-      "images": [
-        {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
           "width": 1200,
           "height": 800,
@@ -892,7 +634,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-06-29T02:16:49-07:00"
+      "publishedDateTime": "2022-07-20T04:54:49-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-darks-queen-walk-vs-neeb-grand-finals-best-of-5.md",
@@ -934,6 +676,119 @@
       "publishedDateTime": "2022-08-08T03:33:57-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-the-world-championship-grand-finals-best-of-7.md",
+      "title": "StarCraft 2: The World Championship GRAND FINALS! (Best-of-7)",
+      "excerpt": "Serral versus Reynor in a best-of-7 series of top level StarCraft 2. This series is the Grand Finals of IEM Katowice, and with that the finals of the World Championships. The winner of this match is the current World Champion of StarCraft 2.  IEM Katowice 2022 on Liquipedia: https://liquipedia.net/starcraft2/IEM_Katowice/2022",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-world-championship-grand-finals-best-of-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-world-championship-grand-finals-best-of-7/",
+      "originalUrl": "https://youtube.com/watch?v=8-cm3k0Ll3Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8-cm3k0Ll3Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H12M33S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-02-28T05:21:53-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-crazy-games-1v1-with-co-op-commanders.md",
+      "title": "StarCraft 2: CRAZY GAMES - 1v1 with Co-op Commanders!",
+      "excerpt": "Two fun games of StarCraft 2 played in the \"All stars: Co-op PvP mod by KingCobra\". In these two games we see players playing with Stukov, Zagara, Fenix and Zeratul in 1v1 matches.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-crazy-games-1v1-with-co-op-commanders/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-crazy-games-1v1-with-co-op-commanders/",
+      "originalUrl": "https://youtube.com/watch?v=5e1u8svyvYQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5e1u8svyvYQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M15S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5e1u8svyvYQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-29T02:14:59-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-incredible-game-reynor-vs-byun.md",
+      "title": "StarCraft 2: INCREDIBLE GAME - Reynor vs ByuN!",
+      "excerpt": "One of the best games of StarCraft 2 I've seen so far this year. Some might even refer to it as one of the games of the year but I would never say such a thing. This is a Terran versus Zerg between ByuN and Reynor where practically the entire map mines out of Minerals and Vespene Gas.  Support my work",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-game-reynor-vs-byun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-incredible-game-reynor-vs-byun/",
+      "originalUrl": "https://youtube.com/watch?v=J8l-jzgIOuY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J8l-jzgIOuY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M30S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-06T04:58:06-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-maru.md",
       "title": "StarCraft 2: SERRAL VS MARU!",
       "excerpt": "It finally happened! Serral versus Maru in a best-of-3 series of StarCraft 2. These two have somehow managed to dodge each other in many tournaments, but today it's finally time to watch them face off against one another.  Lowko's Zerg vs Terran: https://youtu.be/-94UEY2W1oU  Become a YouTube member:",
@@ -959,7 +814,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 62,
+      "heat": 61,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/h4A8ZTaPBAE/maxresdefault.jpg",
@@ -971,177 +826,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-05T03:11:34-07:00"
-    },
-    {
-      "path": "_games/pig-its-not-me-who-changes-you-its-you-letter-jocko-willink.md",
-      "title": "It's Not Me Who Changes You. It's You (Letter) - Jocko Willink",
-      "excerpt": "Join the conversation on Twitter/Instagram: @jockowillink @echocharles  Excerpt from JOCKO PODCAST 99.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-its-not-me-who-changes-you-its-you-letter-jocko-willink/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-its-not-me-who-changes-you-its-you-letter-jocko-willink/",
-      "originalUrl": "https://youtube.com/watch?v=SoVu2LmGtSU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SoVu2LmGtSU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M8S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SoVu2LmGtSU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-10T21:45:42-08:00"
-    },
-    {
-      "path": "_games/pig-taunted-him-with-my-drone-and-got-away-with-omega-greed-lol-mac-or-cheese-4-starcraft-2.md",
-      "title": "Taunted him with my Drone and got away with omega greed lol! | Mac or Cheese #4 - StarCraft 2",
-      "excerpt": "NEW SHOW! I secretly played a few games on a dirty barcode account and offered my StarCraft 2 opponents a choice: Macro or Cheese? How the game plays out is up to them!  Watch the Full Playlist: https://youtube.com/playlist?list=PLFUDU8AOevUfPxBiGAdbbg9sRfRF9ZV28 -- 🐷 Second Channel for Learning StarCraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-taunted-him-with-my-drone-and-got-away-with-omega-greed-lol-mac-or-cheese-4-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-taunted-him-with-my-drone-and-got-away-with-omega-greed-lol-mac-or-cheese-4-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=1p5nCTvqFJU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1p5nCTvqFJU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M26S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-03T21:25:26-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-ghosts-only-to-grandmaster-league.md",
-      "title": "StarCraft 2: GHOSTS ONLY to Grandmaster League!",
-      "excerpt": "Two games from uThermal's StarCraft 2 series \"Ghosts to Grandmaster\". The rules for this SC2 challenge are simple. Only Ghosts as attacking units until Grandmaster League.  Ghost to Grandmasters: https://www.youtube.com/playlist?list=PLhaCXeA_nfD0WplNJSlqY3q_qTP9-dMfY  Support my work on Patreon: https://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-ghosts-only-to-grandmaster-league/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-ghosts-only-to-grandmaster-league/",
-      "originalUrl": "https://youtube.com/watch?v=2hHIglbtw1k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2hHIglbtw1k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M33S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-07-09T03:54:41-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-insane-combos-professional-team-games.md",
-      "title": "StarCraft 2: INSANE COMBOS - Professional Team Games!",
-      "excerpt": "Most of the pro games in StarCraft 2 are played in 1v1. In this video we watch professional gamers face off against each other in 2v2 instead.  00:00 Serral & Mixu vs Spirit & Elazer 25:20 Serral & Mixu vs Rattata vs Skillous  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-combos-professional-team-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-combos-professional-team-games/",
-      "originalUrl": "https://youtube.com/watch?v=UQVwQBKllXg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UQVwQBKllXg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M47S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-07-26T03:04:13-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serral-cheeses-maxpax-best-of-5.md",
-      "title": "StarCraft 2: Serral CHEESES MaxPax?! (Best-of-5)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between MaxPax (Protoss) and Serral (Zerg). A variety of games in this series, with a heavy macro focus and some cheese.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-cheeses-maxpax-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-cheeses-maxpax-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=yUq7ZaA5RCY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yUq7ZaA5RCY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H4M58S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yUq7ZaA5RCY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-08T04:57:46-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-zerg-mothership.md",
@@ -1183,6 +867,36 @@
       "publishedDateTime": "2018-01-04T03:39:21-08:00"
     },
     {
+      "path": "_games/pig-taunted-him-with-my-drone-and-got-away-with-omega-greed-lol-mac-or-cheese-4-starcraft-2.md",
+      "title": "Taunted him with my Drone and got away with omega greed lol! | Mac or Cheese #4 - StarCraft 2",
+      "excerpt": "NEW SHOW! I secretly played a few games on a dirty barcode account and offered my StarCraft 2 opponents a choice: Macro or Cheese? How the game plays out is up to them!  Watch the Full Playlist: https://youtube.com/playlist?list=PLFUDU8AOevUfPxBiGAdbbg9sRfRF9ZV28 -- 🐷 Second Channel for Learning StarCraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-taunted-him-with-my-drone-and-got-away-with-omega-greed-lol-mac-or-cheese-4-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-taunted-him-with-my-drone-and-got-away-with-omega-greed-lol-mac-or-cheese-4-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=1p5nCTvqFJU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1p5nCTvqFJU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M26S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-08-03T21:25:26-07:00"
+    },
+    {
       "path": "_games/pig-this-is-why-sc2-isnt-played-on-50-hit-points-pigs-lab-starcraft-2.md",
       "title": "This is why SC2 isn’t played on 50% hit points | PiG's Lab - StarCraft 2",
       "excerpt": "As part of PiG's Laboratory, I challenged StarCraft 2 pros to play with only 50% hit points - on everything! We get to witness how quickly everything dies. And best of all, Astrea and Cham have some clever solutions to this challenge! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom",
@@ -1212,51 +926,175 @@
       "publishedDateTime": "2022-06-21T03:05:23-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-crazy-games-1v1-with-co-op-commanders.md",
-      "title": "StarCraft 2: CRAZY GAMES - 1v1 with Co-op Commanders!",
-      "excerpt": "Two fun games of StarCraft 2 played in the \"All stars: Co-op PvP mod by KingCobra\". In these two games we see players playing with Stukov, Zagara, Fenix and Zeratul in 1v1 matches.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-crazy-games-1v1-with-co-op-commanders/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-crazy-games-1v1-with-co-op-commanders/",
-      "originalUrl": "https://youtube.com/watch?v=5e1u8svyvYQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5e1u8svyvYQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M15S",
+      "path": "_games/collections/beastyqtsc2-mass-marines-to-grandmaster.md",
+      "title": "MASS Marines to Grandmaster!",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/beastyqtsc2-mass-marines-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/collections/beastyqtsc2-mass-marines-to-grandmaster/",
       "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Terran"
       ],
-      "heat": 60,
+      "topItems": [
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster.md",
+          "title": "StarCraft 2: MASS Marines to Grandmaster!",
+          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/",
+          "originalUrl": "https://youtube.com/watch?v=dTWvlG6Lork",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dTWvlG6Lork\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT45M15S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 54,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/dTWvlG6Lork/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-09-14T04:35:04-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-mass-marines-basetrading.md",
+          "title": "StarCraft 2: MASS Marines Basetrading!",
+          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-basetrading/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-basetrading/",
+          "originalUrl": "https://youtube.com/watch?v=51TeNfxbivw",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/51TeNfxbivw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT49M48S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 51,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/51TeNfxbivw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-09-15T05:08:13-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-mass-marines-mass-drops.md",
+          "title": "StarCraft 2: MASS Marines MASS Drops!",
+          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-mass-drops/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-mass-drops/",
+          "originalUrl": "https://youtube.com/watch?v=e06Mf8oU41E",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e06Mf8oU41E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT36M11S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/e06Mf8oU41E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-09-18T03:20:11-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-florencio-nexus-rush-vs-marines.md",
+          "title": "StarCraft 2: FLORENCIO Nexus Rush vs MARINES?!",
+          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-florencio-nexus-rush-vs-marines/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-florencio-nexus-rush-vs-marines/",
+          "originalUrl": "https://youtube.com/watch?v=fJOQJIAD9rI",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fJOQJIAD9rI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT34M9S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/fJOQJIAD9rI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-09-21T02:47:54-07:00"
+        }
+      ],
+      "size": 20,
+      "heat": 61,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/5e1u8svyvYQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/dTWvlG6Lork/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-29T02:14:59-08:00"
+      "type": "collection"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-epic-game-super-long-action-packed-pro-match-elazer-vs-nice.md",
-      "title": "StarCraft 2: EPIC GAME - Super Long Action-Packed Pro Match! (Elazer vs Nice)",
-      "excerpt": "One of the longest games of professional StarCraft 2 that I've seen. In this match of Zerg versus Protoss between Elazer and Nice we have a very active match all things considered. Most long games of pro SC2 are two players sitting back, but that is not the case between these two progamers at all.  World",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-game-super-long-action-packed-pro-match-elazer-vs-nice/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-super-long-action-packed-pro-match-elazer-vs-nice/",
-      "originalUrl": "https://youtube.com/watch?v=Bwekf_fC59g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bwekf_fC59g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT59M22S",
+      "path": "_games/lowkotv-starcraft-2-insane-combos-professional-team-games.md",
+      "title": "StarCraft 2: INSANE COMBOS - Professional Team Games!",
+      "excerpt": "Most of the pro games in StarCraft 2 are played in 1v1. In this video we watch professional gamers face off against each other in 2v2 instead.  00:00 Serral & Mixu vs Spirit & Elazer 25:20 Serral & Mixu vs Rattata vs Skillous  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-combos-professional-team-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-combos-professional-team-games/",
+      "originalUrl": "https://youtube.com/watch?v=UQVwQBKllXg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UQVwQBKllXg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M47S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1283,120 +1121,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-06-07T13:34:49-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-insane-fight-clem-throws-the-game-clem-vs-reynor.md",
-      "title": "StarCraft 2: INSANE FIGHT - Clem THROWS the Game?! (Clem vs Reynor)",
-      "excerpt": "Top level game of StarCraft 2 between Reynor (Zerg) and Clem (Terran). This is a match from the Dreamhack Valencia European Grand Finals.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-fight-clem-throws-the-game-clem-vs-reynor/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-fight-clem-throws-the-game-clem-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=cUEaPnpO2fQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cUEaPnpO2fQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-07-30T05:00:35-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-nices-crazy-strategies-vs-clem-best-of-5.md",
-      "title": "StarCraft 2: Nice's CRAZY STRATEGIES vs Clem! (Best-of-5)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 with some crazy strategies. In this Terran versus Protoss we watch Clem defend a variety of cheeses that Nice is throwing at him.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-nices-crazy-strategies-vs-clem-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-nices-crazy-strategies-vs-clem-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=fKPtPtpV7qY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fKPtPtpV7qY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M39S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fKPtPtpV7qY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-02-03T05:15:44-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serrals-extreme-zerg-swarm.md",
-      "title": "StarCraft 2: Serral's EXTREME Zerg Swarm!",
-      "excerpt": "Serral versus Cure in a professional match of StarCraft 2. Cure decides to start this game off aggressively with Marine Siege Tank pushes, but Serral holds and forces the macro game.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serrals-extreme-zerg-swarm/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serrals-extreme-zerg-swarm/",
-      "originalUrl": "https://youtube.com/watch?v=K8-8wgpXl3Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K8-8wgpXl3Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M27S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-07-08T04:10:23-07:00"
+      "publishedDateTime": "2022-07-26T03:04:13-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-ultimate-late-game-neeb-vs-scarlett.md",
@@ -1436,6 +1161,874 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-01T04:20:27-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-ruff-the-spire-hunter-diamond-in-the-ruff-58.md",
+      "title": "StarCraft 2 - RUFF THE SPIRE HUNTER! | Diamond in the Ruff #58",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. This time he's up against a Zerg player and purposely goes Spire Hunting with his favourite unit the Battle cruiser!  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-ruff-the-spire-hunter-diamond-in-the-ruff-58/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-ruff-the-spire-hunter-diamond-in-the-ruff-58/",
+      "originalUrl": "https://youtube.com/watch?v=9neSUtChASU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9neSUtChASU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M1S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9neSUtChASU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-13T01:53:13-08:00"
+    },
+    {
+      "path": "_games/pig-this-is-why-sc2-isnt-played-on-50-hit-points-starcraft-2.md",
+      "title": "This is why SC2 isn’t played on 50% hit points - StarCraft 2",
+      "excerpt": "As part of PiG's Laboratory, I challenged StarCraft 2 pros to play with only 50% hit points - on everything! We get to witness how quickly everything dies. And best of all, Astrea and Cham have some clever solutions to this challenge! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-is-why-sc2-isnt-played-on-50-hit-points-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-is-why-sc2-isnt-played-on-50-hit-points-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=kjLbAH2UwP8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kjLbAH2UwP8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M30S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-21T03:05:23-07:00"
+    },
+    {
+      "path": "_games/collections/beastyqtsc2-cannon-rushing-to-grandmaster-series.md",
+      "title": "Cannon Rushing to Grandmaster Series!",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/beastyqtsc2-cannon-rushing-to-grandmaster-series/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/collections/beastyqtsc2-cannon-rushing-to-grandmaster-series/",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "topItems": [
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-the-most-salt-inducing-series-yet-cannon-rushing-to-grandmaster-episode-1.md",
+          "title": "StarCraft 2: The Most SALT Inducing Series Yet! - Cannon Rushing to Grandmaster - Episode 1",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-the-most-salt-inducing-series-yet-cannon-rushing-to-grandmaster-episode-1/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-the-most-salt-inducing-series-yet-cannon-rushing-to-grandmaster-episode-1/",
+          "originalUrl": "https://youtube.com/watch?v=Gg-KYV9GWyc",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gg-KYV9GWyc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT54M18S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 52,
+          "tags": [
+            "Cheese",
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/Gg-KYV9GWyc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-10-25T04:23:00-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2.md",
+          "title": "StarCraft 2: Are You Jerking Me...? - Cannon Rushing to Grandmaster - Episode 2",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2/",
+          "originalUrl": "https://youtube.com/watch?v=zKB6EX4t-vM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zKB6EX4t-vM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT51M24S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "tags": [
+            "Cheese",
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/zKB6EX4t-vM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-10-26T03:26:41-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-proxy-nexus-warp-in-cannon-rushing-to-grandmaster-episode-3.md",
+          "title": "StarCraft 2: Proxy Nexus Warp-in! - Cannon Rushing to Grandmaster - Episode 3",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-proxy-nexus-warp-in-cannon-rushing-to-grandmaster-episode-3/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-proxy-nexus-warp-in-cannon-rushing-to-grandmaster-episode-3/",
+          "originalUrl": "https://youtube.com/watch?v=XUESn0DFMEk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XUESn0DFMEk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT45M29S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "tags": [
+            "Cheese",
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/XUESn0DFMEk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-10-29T05:14:09-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-failing-vs-terranor-am-i-cannon-rushing-to-grandmaster-episode-4.md",
+          "title": "StarCraft 2: Failing vs Terran....OR AM I 🤔🤔🤔 - Cannon Rushing to Grandmaster - Episode 4",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-failing-vs-terranor-am-i-cannon-rushing-to-grandmaster-episode-4/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-failing-vs-terranor-am-i-cannon-rushing-to-grandmaster-episode-4/",
+          "originalUrl": "https://youtube.com/watch?v=unPM0CaiIEA",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/unPM0CaiIEA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT47M6S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "tags": [
+            "Cheese",
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/unPM0CaiIEA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-10-30T03:07:51-07:00"
+        }
+      ],
+      "size": 12,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Gg-KYV9GWyc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection"
+    },
+    {
+      "path": "_games/collections/beastyqtsc2-disruptors-to-grandmaster-series.md",
+      "title": "Disruptors to Grandmaster Series",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/beastyqtsc2-disruptors-to-grandmaster-series/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/collections/beastyqtsc2-disruptors-to-grandmaster-series/",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "topItems": [
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-placements-disruptors-to-grandmaster-episode-1.md",
+          "title": "StarCraft 2: PLACEMENTS! - Disruptors to Grandmaster Episode 1",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-placements-disruptors-to-grandmaster-episode-1/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-placements-disruptors-to-grandmaster-episode-1/",
+          "originalUrl": "https://youtube.com/watch?v=hwYy9S_wx30",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hwYy9S_wx30\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT42M22S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/hwYy9S_wx30/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2017-09-24T12:23:24-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-please-no-pvp-disruptors-to-grandmaster-episode-2.md",
+          "title": "StarCraft 2: PLEASE NO PvP! :( - Disruptors to Grandmaster Episode 2",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-please-no-pvp-disruptors-to-grandmaster-episode-2/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-please-no-pvp-disruptors-to-grandmaster-episode-2/",
+          "originalUrl": "https://youtube.com/watch?v=YsULuFd1cuw",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YsULuFd1cuw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT42M56S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/YsULuFd1cuw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2017-09-24T12:23:24-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-potato-gaming-right-here-disruptors-to-grandmaster-episode-3.md",
+          "title": "StarCraft 2: POTATO GAMING RIGHT HERE - Disruptors to Grandmaster Episode 3",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-potato-gaming-right-here-disruptors-to-grandmaster-episode-3/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-potato-gaming-right-here-disruptors-to-grandmaster-episode-3/",
+          "originalUrl": "https://youtube.com/watch?v=JTS1fMzrOfg",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JTS1fMzrOfg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT57M36S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/JTS1fMzrOfg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2017-09-24T12:23:24-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-potato-gaming-no-more-disruptors-to-grandmaster-episode-4.md",
+          "title": "StarCraft 2: POTATO GAMING NO MORE?! - Disruptors to Grandmaster Episode 4",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-potato-gaming-no-more-disruptors-to-grandmaster-episode-4/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-potato-gaming-no-more-disruptors-to-grandmaster-episode-4/",
+          "originalUrl": "https://youtube.com/watch?v=Slt6B5sgNvA",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Slt6B5sgNvA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H39M9S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/Slt6B5sgNvA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2017-09-24T12:23:24-07:00"
+        }
+      ],
+      "size": 6,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hwYy9S_wx30/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection"
+    },
+    {
+      "path": "_games/collections/beastyqtsc2-hellbatghostliberator-to-grandmaster.md",
+      "title": "Hellbat/Ghost/Liberator to Grandmaster!",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/beastyqtsc2-hellbatghostliberator-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/collections/beastyqtsc2-hellbatghostliberator-to-grandmaster/",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "topItems": [
+        {
+          "path": "_games/beastyqtsc2-new-series-hellions-ghosts-liberators-to-grandmaster.md",
+          "title": "*NEW* Series! Hellions, Ghosts & Liberators to Grandmaster!",
+          "excerpt": "NEW series is here, back to some Terran gameplay! Let me know how you guys are liking this one!  Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-new-series-hellions-ghosts-liberators-to-grandmaster/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-new-series-hellions-ghosts-liberators-to-grandmaster/",
+          "originalUrl": "https://youtube.com/watch?v=6XOOIeuFQHM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6XOOIeuFQHM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT24M14S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/6XOOIeuFQHM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-09-23T04:49:52-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-the-anti-terran-salt-miner-build.md",
+          "title": "The Anti-Terran Salt Miner Build!",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-the-anti-terran-salt-miner-build/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-the-anti-terran-salt-miner-build/",
+          "originalUrl": "https://youtube.com/watch?v=YB5vFvdnW6Y",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YB5vFvdnW6Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT26M6S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/YB5vFvdnW6Y/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-09-24T05:15:38-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-version-of-fbi-open-up.md",
+          "title": "StarCraft 2 Version of...... FBI OPEN UP!",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-version-of-fbi-open-up/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-version-of-fbi-open-up/",
+          "originalUrl": "https://youtube.com/watch?v=2IivE_pJimk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2IivE_pJimk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT31M13S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/2IivE_pJimk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-09-25T05:24:52-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-giving-my-opponent-the-final-warning.md",
+          "title": "GIVING MY OPPONENT THE FINAL WARNING!",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-giving-my-opponent-the-final-warning/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-giving-my-opponent-the-final-warning/",
+          "originalUrl": "https://youtube.com/watch?v=7XMfyJNVVEk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7XMfyJNVVEk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT20M54S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/7XMfyJNVVEk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-09-26T04:25:22-07:00"
+        }
+      ],
+      "size": 19,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6XOOIeuFQHM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection"
+    },
+    {
+      "path": "_games/collections/beastyqtsc2-mass-infestors-to-grandmaster.md",
+      "title": "MASS Infestors to Grandmaster",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/beastyqtsc2-mass-infestors-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/collections/beastyqtsc2-mass-infestors-to-grandmaster/",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "topItems": [
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-mass-infestors-to-grandmaster.md",
+          "title": "StarCraft 2: MASS Infestors to Grandmaster!",
+          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  Also, I will soon begin to make videos featuring",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-infestors-to-grandmaster/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-infestors-to-grandmaster/",
+          "originalUrl": "https://youtube.com/watch?v=r4EBNNY_olg",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r4EBNNY_olg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT44M41S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Zerg"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/r4EBNNY_olg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-08-14T02:46:27-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-zerg-siege-tanks.md",
+          "title": "StarCraft 2: ZERG Siege Tanks!",
+          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  When you play against Terran with Mass Infestors,",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-zerg-siege-tanks/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-zerg-siege-tanks/",
+          "originalUrl": "https://youtube.com/watch?v=GqYa9T86FEM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GqYa9T86FEM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT42M59S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Zerg"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/GqYa9T86FEM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-08-15T03:48:50-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-neuraling-opponentsvoice-pack.md",
+          "title": "StarCraft 2: Neuraling Opponents....Voice Pack!",
+          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  In this episode, we learn that when you neural",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-neuraling-opponentsvoice-pack/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-neuraling-opponentsvoice-pack/",
+          "originalUrl": "https://youtube.com/watch?v=PnJM914mfms",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PnJM914mfms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT41M7S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Zerg"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/PnJM914mfms/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-08-15T16:12:44-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-stream-sniper-claims-innocence-from-ep1.md",
+          "title": "StarCraft 2: Stream Sniper Claims Innocence (From Ep1)",
+          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  In this episode we have a long discussion about",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-stream-sniper-claims-innocence-from-ep1/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-stream-sniper-claims-innocence-from-ep1/",
+          "originalUrl": "https://youtube.com/watch?v=efhBjjVEVr4",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/efhBjjVEVr4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT31M52S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Zerg"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/efhBjjVEVr4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-08-19T03:31:08-07:00"
+        }
+      ],
+      "size": 20,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/r4EBNNY_olg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection"
+    },
+    {
+      "path": "_games/collections/beastyqtsc2-mass-phoenix-zealots.md",
+      "title": "MASS Phoenix & Zealots!",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/beastyqtsc2-mass-phoenix-zealots/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/collections/beastyqtsc2-mass-phoenix-zealots/",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "topItems": [
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-new-series-mass-zealots-phoenix.md",
+          "title": "StarCraft 2: *NEW* Series! MASS Zealots & Phoenix!",
+          "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-new-series-mass-zealots-phoenix/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-new-series-mass-zealots-phoenix/",
+          "originalUrl": "https://youtube.com/watch?v=HjX_DXPgf_k",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HjX_DXPgf_k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT32M",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/HjX_DXPgf_k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-03-20T04:37:09-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-this-terran-gamer-isangry-mass-zealots-phoenix.md",
+          "title": "StarCraft 2: This Terran Gamer is....ANGRY! - MASS Zealots & Phoenix",
+          "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-this-terran-gamer-isangry-mass-zealots-phoenix/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-this-terran-gamer-isangry-mass-zealots-phoenix/",
+          "originalUrl": "https://youtube.com/watch?v=1Mt9_TWRkaM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1Mt9_TWRkaM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT26M6S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/1Mt9_TWRkaM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-03-20T04:47:41-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-taking-a-cheeky-gold-base-with-mass-zealot-phoenix.md",
+          "title": "StarCraft 2: Taking a Cheeky Gold Base With MASS Zealot & Phoenix!",
+          "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-taking-a-cheeky-gold-base-with-mass-zealot-phoenix/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-taking-a-cheeky-gold-base-with-mass-zealot-phoenix/",
+          "originalUrl": "https://youtube.com/watch?v=ScGddJ0LA_w",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ScGddJ0LA_w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT26M38S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/ScGddJ0LA_w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-03-21T06:21:39-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-random-slow-zealot-timing.md",
+          "title": "StarCraft 2: Random SLOW Zealot Timing!",
+          "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-random-slow-zealot-timing/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-random-slow-zealot-timing/",
+          "originalUrl": "https://youtube.com/watch?v=D9DCekKqP7w",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D9DCekKqP7w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT19M35S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/D9DCekKqP7w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-03-23T01:51:26-07:00"
+        }
+      ],
+      "size": 25,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HjX_DXPgf_k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection"
     }
   ],
   "nextPage": 6

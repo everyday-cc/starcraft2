@@ -927,6 +927,7 @@ items:
   - pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starlords-filthy-adventures-15-starcraft-2
   - pig-300-movement-speed-is-bonkers-pigs-laboratory-starcraft-2
   - pig-protoss-thinks-zerg-is-the-maphack-race-no-fog-of-war-mod-pigs-laboratory-starcraft-2
+  - pig-this-is-why-you-scout-your-main-base-most-annoying-player-ever-4-starcraft-2
   - pig-failed-cannon-rusher-has-crazy-meltdown-salt-mines-13-starcraft-2
 
 topics:

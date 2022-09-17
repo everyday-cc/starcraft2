@@ -506,36 +506,6 @@
       "publishedDateTime": "2022-09-05T04:02:46-07:00"
     },
     {
-      "path": "_games/pig-new-world-record-1-terran-vs-7-insane-random-ai-by-heromarine-pig-reacts-starcraft-2.md",
-      "title": "NEW WORLD RECORD! 1 Terran vs 7 Insane Random AI by HeroMarine (PiG Reacts) - StarCraft 2",
-      "excerpt": "I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! uThermal broke the world record last week with his 1 Terran vs 7 Insane Zerg AI video. Now @HeroMarine  has stepped up with 1 Terran vs 7 Insane Random AIs! Incredible!  Check out Heromarine's World Record here: https://www.youtube.com/watch?v=nCmrf55k_Gk&ab_channel=HeroMarine",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-new-world-record-1-terran-vs-7-insane-random-ai-by-heromarine-pig-reacts-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-new-world-record-1-terran-vs-7-insane-random-ai-by-heromarine-pig-reacts-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=9-J4ciSIE60",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9-J4ciSIE60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H13M40S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 208,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-09T19:41:29-07:00"
-    },
-    {
       "path": "_games/pig-6-times-sc2-pros-failed-including-the-goat-serral.md",
       "title": "6 times SC2 Pros FAILED (including the GOAT Serral!)",
       "excerpt": "We often think of our StarCraft 2 pros as being gods of skill, but once in a while they prove they're still human and have fails - even players like Serral, Dark, Clem and Zest! They prove they're still one of us one of us one us one of us... -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom",
@@ -564,45 +534,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-29T04:41:48-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-super-high-apm-serrals-first-person-camera-vs-gumiho.md",
-      "title": "StarCraft 2: SUPER HIGH APM - Serral's First Person Camera vs GuMiho!",
-      "excerpt": "Professional match of StarCraft 2 between Serral and GuMiho. I do this cast completely from Serral's point of view, allowing us to have a look at what he sees during a match of SC2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-super-high-apm-serrals-first-person-camera-vs-gumiho/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-super-high-apm-serrals-first-person-camera-vs-gumiho/",
-      "originalUrl": "https://youtube.com/watch?v=UaAp2XDY-MM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UaAp2XDY-MM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 204,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-08T03:08:29-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-insane-macro-showtimes-400-zealots-vs-maru.md",
@@ -644,6 +575,75 @@
       "publishedDateTime": "2022-09-06T02:38:32-07:00"
     },
     {
+      "path": "_games/pig-new-world-record-1-terran-vs-7-insane-random-ai-by-heromarine-pig-reacts-starcraft-2.md",
+      "title": "NEW WORLD RECORD! 1 Terran vs 7 Insane Random AI by HeroMarine (PiG Reacts) - StarCraft 2",
+      "excerpt": "I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! uThermal broke the world record last week with his 1 Terran vs 7 Insane Zerg AI video. Now @HeroMarine  has stepped up with 1 Terran vs 7 Insane Random AIs! Incredible!  Check out Heromarine's World Record here: https://www.youtube.com/watch?v=nCmrf55k_Gk&ab_channel=HeroMarine",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-new-world-record-1-terran-vs-7-insane-random-ai-by-heromarine-pig-reacts-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-new-world-record-1-terran-vs-7-insane-random-ai-by-heromarine-pig-reacts-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=9-J4ciSIE60",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9-J4ciSIE60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H13M40S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 203,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-09T19:41:29-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-super-high-apm-serrals-first-person-camera-vs-gumiho.md",
+      "title": "StarCraft 2: SUPER HIGH APM - Serral's First Person Camera vs GuMiho!",
+      "excerpt": "Professional match of StarCraft 2 between Serral and GuMiho. I do this cast completely from Serral's point of view, allowing us to have a look at what he sees during a match of SC2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-super-high-apm-serrals-first-person-camera-vs-gumiho/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-super-high-apm-serrals-first-person-camera-vs-gumiho/",
+      "originalUrl": "https://youtube.com/watch?v=UaAp2XDY-MM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UaAp2XDY-MM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 202,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-08T03:08:29-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-serrals-unexpected-swarm-hosts.md",
       "title": "StarCraft 2: Serral's UNEXPECTED Swarm Hosts!",
       "excerpt": "Professional match of StarCraft 2 between Serral and Cure. In this Zerg versus Terran Serral starts off with Mutalisks, Zerglings and Banelings against Terran Mech. However as soon as he takes full control of the map, he decides to make a uncommon transition into Swarm Hosts.  Support my work on Patreon:",
@@ -668,7 +668,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 199,
+      "heat": 200,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -797,21 +797,30 @@
       "publishedDateTime": "2022-09-07T02:52:01-07:00"
     },
     {
-      "path": "_games/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starlords-filthy-adventures-15-starcraft-2.md",
-      "title": "Inflicting the Fastest Nydus Swarm Hosts EVER on GMs | Starlord's Filthy Adventures #15 -StarCraft 2",
-      "excerpt": "Subscribe to PiG Casts! 🐷 I said I would inflict this pain onto others - and it worked better than I thought it would! Protoss especially have a lot of trouble dealing with my version of the Fastest Nydus Swarm Hosts build. If you want my notes they're in The Book of Filth 2.0: https://docs.google.com/document/d/1GbpZ-qjoUQ42ZwVsmk3cYgLZ1WYNcLc9l6KUo-Zuudk/edit?usp=sharing",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starlords-filthy-adventures-15-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starlords-filthy-adventures-15-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=FH8HSBuhhM4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FH8HSBuhhM4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M11S",
+      "path": "_games/lowkotv-starcraft-2-rank-1-terran-vs-rank-1-protoss-maru-vs-hero.md",
+      "title": "StarCraft 2: Rank 1 TERRAN vs Rank 1 PROTOSS! (Maru vs herO)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between Maru (Terran) and herO (Protoss). These two players are the current best Terran and Protoss players in the world.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-rank-1-terran-vs-rank-1-protoss-maru-vs-hero/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-rank-1-terran-vs-rank-1-protoss-maru-vs-hero/",
+      "originalUrl": "https://youtube.com/watch?v=lRhMs6bNnCk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lRhMs6bNnCk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H26S",
       "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "StarCraft 2",
-        "Zerg"
+        "Terran",
+        "Protoss"
       ],
       "heat": 187,
       "images": [
@@ -824,7 +833,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-09-11T05:45:43-07:00"
+      "publishedDateTime": "2022-09-10T01:29:33-07:00"
     },
     {
       "path": "_games/pig-a-pro-player-underestimates-a-diamond-player-santa-claws-06.md",
@@ -854,45 +863,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-12-23T15:35:13-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-rank-1-terran-vs-rank-1-protoss-maru-vs-hero.md",
-      "title": "StarCraft 2: Rank 1 TERRAN vs Rank 1 PROTOSS! (Maru vs herO)",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 between Maru (Terran) and herO (Protoss). These two players are the current best Terran and Protoss players in the world.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-rank-1-terran-vs-rank-1-protoss-maru-vs-hero/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-rank-1-terran-vs-rank-1-protoss-maru-vs-hero/",
-      "originalUrl": "https://youtube.com/watch?v=lRhMs6bNnCk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lRhMs6bNnCk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 177,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-10T01:29:33-07:00"
     },
     {
       "path": "_games/pig-how-to-beat-the-1v7-insane-ai-challenge-starcraft-2.md",
@@ -949,7 +919,7 @@
         "Protoss",
         "Zerg"
       ],
-      "heat": 170,
+      "heat": 171,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -961,6 +931,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-10T03:39:16-07:00"
+    },
+    {
+      "path": "_games/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starlords-filthy-adventures-15-starcraft-2.md",
+      "title": "Inflicting the Fastest Nydus Swarm Hosts EVER on GMs | Starlord's Filthy Adventures #15 -StarCraft 2",
+      "excerpt": "Subscribe to PiG Casts! 🐷 I said I would inflict this pain onto others - and it worked better than I thought it would! Protoss especially have a lot of trouble dealing with my version of the Fastest Nydus Swarm Hosts build. If you want my notes they're in The Book of Filth 2.0: https://docs.google.com/document/d/1GbpZ-qjoUQ42ZwVsmk3cYgLZ1WYNcLc9l6KUo-Zuudk/edit?usp=sharing",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starlords-filthy-adventures-15-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starlords-filthy-adventures-15-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=FH8HSBuhhM4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FH8HSBuhhM4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M11S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 167,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-11T05:45:43-07:00"
     },
     {
       "path": "_games/pig-dbag-tries-to-bully-his-way-to-victory-salt-mines-12-starcraft-2.md",

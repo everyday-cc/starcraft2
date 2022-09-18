@@ -196,37 +196,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021.md",
-      "title": "Starcraft 2: Terran vs Protoss Gameplay with Commentary [2021]",
-      "excerpt": "In today's video we're looking at some Starcraft 2: Terran vs Protoss gameplay. We'll be covering TvP all week. Let's get to it!  0:00 - Intro/Cinematic 1:12 - SC2 Terran Gameplay  19:00 - Like/Share/Subscribe!  #terran #gameplay #Starcraft2 #ladder #commentary Starcraft 2: Terran vs Protoss Gameplay",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021/",
-      "originalUrl": "https://youtube.com/watch?v=YS3zcgrN5IE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YS3zcgrN5IE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M56S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-01-15T18:18:51-08:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YS3zcgrN5IE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-10-mid-game-timings-in-masters-1-b2gm.md",
       "title": "StarCraft 2 - Zerg Bronze to GM #10: Mid-game Timings in Masters 1 (B2GM)",
       "excerpt": "Sub to @PiG Coaching  for Terran B2GM vids 🐷 Support PiG! https://www.patreon.com/PiGSC2  0:00 Game 1 vs Terran. Goal: Solid openings into reactive timing attacks to win the game 14:39 Game 2 vs Zerg 32:54 Game 3 vs Protoss 38:54 Game 4 vs Protoss 1:02:21 Game 5 vs Protoss 1:19:01 Game 6 vs Zerg 1:38:40",
@@ -317,6 +286,37 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021.md",
+      "title": "Starcraft 2: Terran vs Protoss Gameplay with Commentary [2021]",
+      "excerpt": "In today's video we're looking at some Starcraft 2: Terran vs Protoss gameplay. We'll be covering TvP all week. Let's get to it!  0:00 - Intro/Cinematic 1:12 - SC2 Terran Gameplay  19:00 - Like/Share/Subscribe!  #terran #gameplay #Starcraft2 #ladder #commentary Starcraft 2: Terran vs Protoss Gameplay",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021/",
+      "originalUrl": "https://youtube.com/watch?v=YS3zcgrN5IE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YS3zcgrN5IE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M56S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-01-15T18:18:51-08:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YS3zcgrN5IE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
       ]
     },
     {

@@ -4,33 +4,25 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-void-ray-lurker-nerfs-the-official-balance-patch.md",
-      "title": "StarCraft 2: VOID RAY & LURKER NERFS - The OFFICIAL Balance Patch!",
-      "excerpt": "New balance changes were just announced for StarCraft 2. These are my very first impressions of the patch. This patch includes changes to the Shield Battery, Dark Templar, Void Ray, Queen, Widow Mine, Lurker and Nydus Worm.  Link to the patch notes: https://news.blizzard.com/en-us/starcraft2/23774006/starctaft-ii-5-0-9-ptr-patch-notes",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-void-ray-lurker-nerfs-the-official-balance-patch/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-void-ray-lurker-nerfs-the-official-balance-patch/",
-      "originalUrl": "https://youtube.com/watch?v=1EBjQsq6kPQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1EBjQsq6kPQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M43S",
+      "path": "_learning/videos/pig-beginner-protoss-opening-welcome-to-starcraft.md",
+      "title": "Beginner Protoss Opening  - Welcome to Starcraft",
+      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-beginner-protoss-opening-welcome-to-starcraft/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-beginner-protoss-opening-welcome-to-starcraft/",
+      "originalUrl": "https://youtube.com/watch?v=Fj71QdOWUdY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Fj71QdOWUdY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M38S",
       "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "PiG",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2022-03-08T12:05:20-08:00",
+      "publishedDateTime": "2019-04-14T14:37:25-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
+          "url": "https://i.ytimg.com/vi/Fj71QdOWUdY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -38,57 +30,28 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Protoss"
       ]
     },
     {
-      "path": "_learning/videos/pig-5-reasons-youre-not-improving-at-starcraft-2-and-how-to-fix-it.md",
-      "title": "5 reasons you're NOT improving at StarCraft 2 (and how to fix it)",
-      "excerpt": "Here are 5 reasons you're not improving at StarCraft 2! I get asked \"how I do improve\" every single day so I figured it's time to make a video that gives some good answers for it. Hopefully this is useful to you! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-5-reasons-youre-not-improving-at-starcraft-2-and-how-to-fix-it/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-5-reasons-youre-not-improving-at-starcraft-2-and-how-to-fix-it/",
-      "originalUrl": "https://youtube.com/watch?v=czQpGmd65JQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/czQpGmd65JQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M55S",
+      "path": "_learning/videos/pig-beginner-scouting-welcome-to-starcraft.md",
+      "title": "Beginner Scouting  - Welcome to Starcraft",
+      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-beginner-scouting-welcome-to-starcraft/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-beginner-scouting-welcome-to-starcraft/",
+      "originalUrl": "https://youtube.com/watch?v=r3O-rd8Pk4g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r3O-rd8Pk4g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M17S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2022-07-09T21:06:06-07:00",
+      "publishedDateTime": "2019-04-14T14:39:40-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-adjusting-mouse-keyboard-and-ingame-settings.md",
-      "title": "Adjusting Mouse, Keyboard and Ingame Settings",
-      "excerpt": "This is a highlight from my newbie/beginner stream -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-adjusting-mouse-keyboard-and-ingame-settings/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-adjusting-mouse-keyboard-and-ingame-settings/",
-      "originalUrl": "https://youtube.com/watch?v=lzPKahqhpo4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lzPKahqhpo4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M1S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:42:45-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lzPKahqhpo4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/r3O-rd8Pk4g/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -99,6 +62,37 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-can-you-beat-grandmasters-with-bronze-builds-from-pigs-b2gm-starcraft-2.md",
+      "title": "Can you beat Grandmasters with Bronze Builds? (from PiG’s B2GM) - StarCraft 2",
+      "excerpt": "Some people think B2GM Bronze or Silver builds don't work, so I used them in Grandmaster games to show just how effective they can be! Watch the Bronze to GM Playlists: Zerg B2GM : https://youtube.com/playlist?list=PLFUDU8AOevUd6ej64SOB429mHyuRL-XC9 Terran B2GM: https://www.youtube.com/playlist?list=PLOrKQEirgvjC6wYzKFAYaIBI5kaIS9NX5",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-can-you-beat-grandmasters-with-bronze-builds-from-pigs-b2gm-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-can-you-beat-grandmasters-with-bronze-builds-from-pigs-b2gm-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=7OnKLUBf35U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7OnKLUBf35U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M46S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-05-18T03:20:43-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
       ]
     },
     {
@@ -164,54 +158,23 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-choosing-your-race-zerg-welcome-to-starcraft-1.md",
-      "title": "Choosing your Race Zerg  - Welcome to Starcraft #1",
-      "excerpt": "Full Playlist(All Videos may not be released yet): https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-choosing-your-race-zerg-welcome-to-starcraft-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-choosing-your-race-zerg-welcome-to-starcraft-1/",
-      "originalUrl": "https://youtube.com/watch?v=u2ILu6MTyYY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u2ILu6MTyYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M45S",
+      "path": "_learning/videos/pig-common-mistakes-vs-rushes-welcome-to-starcraft.md",
+      "title": "Common Mistakes vs Rushes  - Welcome to Starcraft",
+      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;)  -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-common-mistakes-vs-rushes-welcome-to-starcraft/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-common-mistakes-vs-rushes-welcome-to-starcraft/",
+      "originalUrl": "https://youtube.com/watch?v=UY4T6LmIDm8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UY4T6LmIDm8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M34S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2019-02-21T18:12:55-08:00",
+      "publishedDateTime": "2019-04-14T14:39:35-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/u2ILu6MTyYY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-getting-started-in-versus-welcome-to-starcraft.md",
-      "title": "Getting Started in Versus - Welcome to Starcraft",
-      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-getting-started-in-versus-welcome-to-starcraft/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-getting-started-in-versus-welcome-to-starcraft/",
-      "originalUrl": "https://youtube.com/watch?v=0cO_ly9C6gk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0cO_ly9C6gk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-04-14T14:39:49-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0cO_ly9C6gk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UY4T6LmIDm8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -222,37 +185,6 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-how-does-reynor-get-ahead-every-single-zvt.md",
-      "title": "How does REYNOR get ahead EVERY SINGLE ZvT?",
-      "excerpt": "Reynor's ascent in StarCraft in recent years has been startling, culminating in a world champion. I've been very impressed with his early game ZvT, which is just so dominating 🐷 Support PiG: https://www.pigstarcraft.com/support/ -- 🐖 Watch live on https://www.twitch.tv/x5_pig 🎓 For coaching inquiries",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-how-does-reynor-get-ahead-every-single-zvt/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-how-does-reynor-get-ahead-every-single-zvt/",
-      "originalUrl": "https://youtube.com/watch?v=QqdFHEPHCqk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QqdFHEPHCqk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M58S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-03-23T00:58:51-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QqdFHEPHCqk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
       ]
     },
     {
@@ -286,117 +218,23 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-partings-unbeatable-pvt.md",
-      "title": "Parting's Unbeatable PvT",
-      "excerpt": "🔥 I love watching this brain-twisting Korean Protoss work his magic against Terrans right now 🐷 Support PiG: https://www.pigstarcraft.com/support/  🔥 Book of Filth 2.0: https://docs.google.com/document/d/1GbpZ-qjoUQ42ZwVsmk3cYgLZ1WYNcLc9l6KUo-Zuudk/edit?usp=sharing 🔥 GSL game vs Cure in ST 2: https://www.youtube.com/watch?v=qhf_UWUyc0Y&t=351s&ab_channel=AfreecaTVeSports",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-partings-unbeatable-pvt/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-partings-unbeatable-pvt/",
-      "originalUrl": "https://youtube.com/watch?v=2KDnIiqrY1Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2KDnIiqrY1Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M39S",
+      "path": "_learning/videos/pig-managing-economy-welcome-to-starcraft.md",
+      "title": "Managing Economy  - Welcome to Starcraft",
+      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-managing-economy-welcome-to-starcraft/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-managing-economy-welcome-to-starcraft/",
+      "originalUrl": "https://youtube.com/watch?v=uh6vN94fg0o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uh6vN94fg0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M49S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-03-14T01:37:50-08:00",
+      "publishedDateTime": "2019-04-14T14:39:17-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2KDnIiqrY1Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-scarletts-disgusting-protoss-cheeses.md",
-      "title": "SCARLETT’S DISGUSTING PROTOSS CHEESES",
-      "excerpt": "Scarlett just casually making zergs aware of all the latest Protoss dirty cheeses 🎤 More Pro SC2 Casts: https://www.youtube.com/playlist?list=PLFUDU8AOevUetBNFfypOKoKcE3BqgZdbt 🐷 Support PiG: https://www.pigstarcraft.com/support/ -- 🐖 Watch live on https://www.twitch.tv/x5_pig 🎓 For coaching inquiries",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-scarletts-disgusting-protoss-cheeses/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-scarletts-disgusting-protoss-cheeses/",
-      "originalUrl": "https://youtube.com/watch?v=KG5mIx6MJ_8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KG5mIx6MJ_8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-04-14T21:25:03-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KG5mIx6MJ_8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-zero-micro-pvt-guide.md",
-      "title": "StarCraft 2 - ZERO MICRO PvT Guide",
-      "excerpt": "This is a solid opening that focuses on extra observers so you have plenty of warning to stop incoming harassment, collosus to stop the stim push, and chargelots and archons to A+Move the Terran 3rd base! … OK admittedly if you mess up the attack on the 3rd base, the game goes longer and you have to",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zero-micro-pvt-guide/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zero-micro-pvt-guide/",
-      "originalUrl": "https://youtube.com/watch?v=WOUnsHxU2pI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WOUnsHxU2pI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M34S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-09-26T17:56:56-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WOUnsHxU2pI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/winterstarcraft-learn-starcraft-tip-2-camera-hotkeys.md",
-      "title": "Learn Starcraft Tip #2 - Camera Hotkeys",
-      "excerpt": "Useful for all races almost all of the time :) More detailed guides/tutorials under the learn to play starcraft playlist.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-tip-2-camera-hotkeys/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-starcraft-tip-2-camera-hotkeys/",
-      "originalUrl": "https://youtube.com/watch?v=t4Ml0nAWcig",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t4Ml0nAWcig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M56S",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-10-23T11:17:42-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/t4Ml0nAWcig/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/uh6vN94fg0o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -410,25 +248,25 @@
       ]
     },
     {
-      "path": "_learning/videos/winterstarcraft-pig-coaches-winter-learning-starcraft-pro-coaches-grandmaster.md",
-      "title": "Pig Coaches Winter! Learning Starcraft (Pro Coaches Grandmaster)",
-      "excerpt": "Pig is a former professional player who now streams regularly and is one of the top 50 Grandmaster players on NA as random, and is still one of the best zergs in the world. Check him out:  https://www.youtube.com/user/PiGstarcraft https://www.twitch.tv/x5_pig https://twitter.com/x5_PiG",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-pig-coaches-winter-learning-starcraft-pro-coaches-grandmaster/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-pig-coaches-winter-learning-starcraft-pro-coaches-grandmaster/",
-      "originalUrl": "https://youtube.com/watch?v=5EIBqtNrsuA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5EIBqtNrsuA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H21M40S",
+      "path": "_learning/videos/pig-starcraft-2-beginner-zerg-opening-the-pig-daily-152.md",
+      "title": "StarCraft 2 - Beginner Zerg Opening | The PiG Daily #152",
+      "excerpt": "THIS WEEKS ICYFAR Challenge: \"Siege Warfare - Send in your replays with your best siege tactics. Some suggestions: tank-bunker push, a lurker nydus or a pylon-disruptor push. Gl!  Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as title! Latest submission is 24 hours before the show",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-beginner-zerg-opening-the-pig-daily-152/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-beginner-zerg-opening-the-pig-daily-152/",
+      "originalUrl": "https://youtube.com/watch?v=rs4z-xtYdD4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rs4z-xtYdD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M18S",
       "provider": {
-        "name": "WinterStarcraft",
+        "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2018-09-21T15:07:18-07:00",
+      "publishedDateTime": "2017-04-11T16:10:47-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/5EIBqtNrsuA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/rs4z-xtYdD4/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -441,23 +279,23 @@
       ]
     },
     {
-      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-001-tutorial.md",
-      "title": "Starcraft 2 Newbie Guide - 001 - Tutorial",
-      "excerpt": "A newbie guide for Starcraft 2 multiplayer!  In this first episode, we'll cover the game's very first introductory missions—the Tutorial missions—which are designed specifically for players who have never touched Starcraft before.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-001-tutorial/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-001-tutorial/",
-      "originalUrl": "https://youtube.com/watch?v=1wcWMqzUQ2k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1wcWMqzUQ2k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M31S",
+      "path": "_learning/videos/winterstarcraft-learn-starcraft-protoss-beginner-guide-1-updated-patch-40-free-to-play.md",
+      "title": "Learn Starcraft - Protoss Beginner Guide #1 (Updated Patch 4.0 FREE TO PLAY)",
+      "excerpt": "How to command the incredibly strong forces of the protoss and cover weaknesses against the other inferior races. Updated for patch 4.0! This guide is not intended for COMPLETELY new players, but those who have played several games/campaign missions and grasp the very basics.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-protoss-beginner-guide-1-updated-patch-40-free-to-play/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-starcraft-protoss-beginner-guide-1-updated-patch-40-free-to-play/",
+      "originalUrl": "https://youtube.com/watch?v=x3ZkSX0tJg4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x3ZkSX0tJg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M41S",
       "provider": {
-        "name": "davidangel64",
+        "name": "WinterStarcraft",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2015-11-26T17:00:09-08:00",
-      "heat": 50,
+      "publishedDateTime": "2017-11-26T03:51:55-08:00",
+      "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/1wcWMqzUQ2k/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/x3ZkSX0tJg4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -468,7 +306,37 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Zerg"
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/winterstarcraft-starcraft-2-updated-2018-basic-hotkeys-control-groups-and-production-tutorial.md",
+      "title": "Starcraft 2: Updated 2018 - Basic Hotkeys, Control Groups and Production Tutorial",
+      "excerpt": "Starcraft 2: Legacy of the Void.  I break down what I use hotkeys and control groups for, hopefully you find this video helpful!  Basic Breakdown -  1 - MAIN ARMY 2 - SPECIALTY CASTER (MCORE, QUEEN, DROP) 3 - SPELLCASTERS/FLYERS 4 - BASES 5- PRODUCTION 6 - ETCETC   Watch the highlights playlist (use",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-starcraft-2-updated-2018-basic-hotkeys-control-groups-and-production-tutorial/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-starcraft-2-updated-2018-basic-hotkeys-control-groups-and-production-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=R_NzuIPkq98",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R_NzuIPkq98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M39S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-11-19T09:04:35-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/R_NzuIPkq98/maxresdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
       ]
     },
     {
@@ -924,6 +792,130 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/gntIHZ8kSqY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-defending-terran-all-ins-early-attacks-starcraft-2-tutorial.md",
+      "title": "Defending Terran All Ins & Early Attacks [Starcraft 2 Tutorial]",
+      "excerpt": "In this Starcraft 2 protoss guide/tutorial we learn how to defend early Terran attacks. After watching this how-to, you'll feel very confident against aggressive terran players!  Starcraft 2: Protoss vs Terran | Defending Attacks  Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-defending-terran-all-ins-early-attacks-starcraft-2-tutorial/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-defending-terran-all-ins-early-attacks-starcraft-2-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=GV9e9WOG4dE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GV9e9WOG4dE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M16S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-06-15T19:10:50-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GV9e9WOG4dE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-hellion-liberator-build-order-guide-tvz.md",
+      "title": "Hellion-Liberator | Build Order Guide TvZ",
+      "excerpt": "Build Order Document: https://drive.google.com/file/d/1p498T52iQWahcCZs5tKGG1mxBqwqIXZO/view?usp=sharing  https://www.hushangcoaching.com Find personal one on one lessons, guides, community & more -------------------------------------------------------------------------------------------------------",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-hellion-liberator-build-order-guide-tvz/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-hellion-liberator-build-order-guide-tvz/",
+      "originalUrl": "https://youtube.com/watch?v=zNnrd1-eWPo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zNnrd1-eWPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M2S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-05-30T17:18:13-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zNnrd1-eWPo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-how-to-defeat-skytoss-learning-from-reynor.md",
+      "title": "How To Defeat Skytoss - Learning From Reynor",
+      "excerpt": "♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and I have 5+ GM students",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-how-to-defeat-skytoss-learning-from-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-how-to-defeat-skytoss-learning-from-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=YHOYoJ1upfw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YHOYoJ1upfw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M33S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2022-02-27T10:23:54-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-how-to-defend-12-pool-starcraft-2-protoss-tutorial.md",
+      "title": "How to defend 12 pool | Starcraft 2: Protoss Tutorial",
+      "excerpt": "Protoss vs Zerg Guide / Tutorial  In today's video we're looking at an EXTREMELY detailed guide on how to defend 12 pool in the protoss vs zerg matchup. If you lose after watching the full guide, Ill have to ban you.  #Protoss #sc2 #guide #tutorial #Starcraft2 #ProtossVsZerg  Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-how-to-defend-12-pool-starcraft-2-protoss-tutorial/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-how-to-defend-12-pool-starcraft-2-protoss-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=lUWSahGFjJE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lUWSahGFjJE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M50S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-02-14T21:49:06-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lUWSahGFjJE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -4,6 +4,36 @@
   "page": 30,
   "value": [
     {
+      "path": "_learning/videos/quasargamers-minute-micro-meta-episode-cosmetic-update.md",
+      "title": "Minute Micro - Meta Episode: Cosmetic Update",
+      "excerpt": "Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode highlights a major update to the practice map  twitch.tv/Quasarprintf",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-meta-episode-cosmetic-update/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-meta-episode-cosmetic-update/",
+      "originalUrl": "https://youtube.com/watch?v=PhvD17l8FmM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PhvD17l8FmM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M9S",
+      "provider": {
+        "name": "QuasarGamers",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-27T13:49:54-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PhvD17l8FmM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/quasargamers-minute-micro-meta-episode-practice-map.md",
       "title": "Minute Micro - Meta Episode: Practice Map",
       "excerpt": "Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode marks the release of an arcade map for practicing these techniques  twitch.tv/Quasarprintf",
@@ -219,37 +249,6 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/winterstarcraft-learn-starcraft-protoss-beginner-guide-1-updated-patch-40-free-to-play.md",
-      "title": "Learn Starcraft - Protoss Beginner Guide #1 (Updated Patch 4.0 FREE TO PLAY)",
-      "excerpt": "How to command the incredibly strong forces of the protoss and cover weaknesses against the other inferior races. Updated for patch 4.0! This guide is not intended for COMPLETELY new players, but those who have played several games/campaign missions and grasp the very basics.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-protoss-beginner-guide-1-updated-patch-40-free-to-play/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-starcraft-protoss-beginner-guide-1-updated-patch-40-free-to-play/",
-      "originalUrl": "https://youtube.com/watch?v=x3ZkSX0tJg4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x3ZkSX0tJg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M41S",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-11-26T03:51:55-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/x3ZkSX0tJg4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
       ]
     },
     {
@@ -777,6 +776,37 @@
       ]
     },
     {
+      "path": "_learning/videos/winterstarcraft-pig-coaches-winter-learning-starcraft-pro-coaches-grandmaster.md",
+      "title": "Pig Coaches Winter! Learning Starcraft (Pro Coaches Grandmaster)",
+      "excerpt": "Pig is a former professional player who now streams regularly and is one of the top 50 Grandmaster players on NA as random, and is still one of the best zergs in the world. Check him out:  https://www.youtube.com/user/PiGstarcraft https://www.twitch.tv/x5_pig https://twitter.com/x5_PiG",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-pig-coaches-winter-learning-starcraft-pro-coaches-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-pig-coaches-winter-learning-starcraft-pro-coaches-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=5EIBqtNrsuA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5EIBqtNrsuA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H21M40S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-09-21T15:07:18-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5EIBqtNrsuA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/winterstarcraft-starcraft-2-beginner-guides-multiplayer-gameplay-settings-guide-and-recommendations-updated.md",
       "title": "Starcraft 2: Beginner Guides - Multiplayer Gameplay Settings Guide and Recommendations (Updated)",
       "excerpt": "Starcraft 2: Legacy of the Void. An updated version of the gameplay/controls and region settings guide for Legacy of the Void, going over the changes and reiterating my recommended settings, as well as the settings I use as a Grandmaster player.  Thanks for watching and hope you enjoy!  I am a Grandmasters",
@@ -794,36 +824,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/rsznBIWVVW0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/winterstarcraft-starcraft-2-updated-2018-basic-hotkeys-control-groups-and-production-tutorial.md",
-      "title": "Starcraft 2: Updated 2018 - Basic Hotkeys, Control Groups and Production Tutorial",
-      "excerpt": "Starcraft 2: Legacy of the Void.  I break down what I use hotkeys and control groups for, hopefully you find this video helpful!  Basic Breakdown -  1 - MAIN ARMY 2 - SPECIALTY CASTER (MCORE, QUEEN, DROP) 3 - SPELLCASTERS/FLYERS 4 - BASES 5- PRODUCTION 6 - ETCETC   Watch the highlights playlist (use",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-starcraft-2-updated-2018-basic-hotkeys-control-groups-and-production-tutorial/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-starcraft-2-updated-2018-basic-hotkeys-control-groups-and-production-tutorial/",
-      "originalUrl": "https://youtube.com/watch?v=R_NzuIPkq98",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R_NzuIPkq98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M39S",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-11-19T09:04:35-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/R_NzuIPkq98/maxresdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true

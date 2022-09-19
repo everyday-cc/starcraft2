@@ -4,68 +4,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_learning/videos/pig-coaching-noregretz-vs-darkz-newbie-stream.md",
-      "title": "\"Coaching\" Noregret(Z) VS Dark(Z)!? - Newbie Stream!",
-      "excerpt": "This time a Pro Gamer submitted a replay asking for some help, instead we are going to analys how good Darks defense was! :P   Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :)",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-noregretz-vs-darkz-newbie-stream/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-noregretz-vs-darkz-newbie-stream/",
-      "originalUrl": "https://youtube.com/watch?v=vFpe6xqXQQU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vFpe6xqXQQU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M30S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-05-17T09:00:15-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vFpe6xqXQQU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-plat-league-maru-coaching-plat-terran.md",
-      "title": "Coaching Plat League Maru | Coaching Plat Terran",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-plat-league-maru-coaching-plat-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-plat-league-maru-coaching-plat-terran/",
-      "originalUrl": "https://youtube.com/watch?v=mFIKSt6dyUE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mFIKSt6dyUE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H18M41S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-05-29T09:00:35-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mFIKSt6dyUE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-coaching-plat-tvp-bouncing-between-micromacro.md",
       "title": "Coaching Plat TvP - Bouncing between Micro/Macro",
       "excerpt": "I coach a Plat Terran on his tvp opening and bouncing between micro and macro -- Watch live at https://www.twitch.tv/x5_pig",
@@ -909,6 +847,67 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/GmhzZTRzvMQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-zvp-roach-hydra-lurker-style-diamond-2.md",
+      "title": "Coaching ZvP Roach Hydra Lurker Style - Diamond 2",
+      "excerpt": "Coaching Grabbentime on some solid ZvP play.  -- Watch live at https://www.twitch.tv/x5_pig My NEW HP: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to my Discord: https://discordapp.com/invite/SkhbzCM",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-zvp-roach-hydra-lurker-style-diamond-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-zvp-roach-hydra-lurker-style-diamond-2/",
+      "originalUrl": "https://youtube.com/watch?v=oTc-eMf1J74",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oTc-eMf1J74\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H23M9S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-03-23T06:34:40-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oTc-eMf1J74/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-zvp-solid-build-and-defending-immortal-attacks-coaching-d3.md",
+      "title": "Coaching ZvP Solid Build and defending Immortal attacks - coaching D3",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;)    If you wish to support me please consider supporting my patreon: [https://www.patreon.com/PiGSC2](https://www.patreon.com/PiGSC2)    ### Videos don’t appear in your feed and you want to get notified about new uploads? Press the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-zvp-solid-build-and-defending-immortal-attacks-coaching-d3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-zvp-solid-build-and-defending-immortal-attacks-coaching-d3/",
+      "originalUrl": "https://youtube.com/watch?v=Pim5f4vOrZM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Pim5f4vOrZM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H7M46S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-09-24T09:00:05-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Pim5f4vOrZM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

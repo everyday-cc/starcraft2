@@ -4,7 +4,7 @@ excerpt: "I coach Tambi, a 5300MMR Zerg on his ZvT, focusing on refining his roa
 originalUrl: https://youtube.com/watch?v=H4_KOYJDI_k
 type: video
 price: Free
-length: PT56M19S
+length: PT56M18S
 publishedDateTime: 2017-06-08T10:56:17Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "aUVdybX2OpW8JtijYSURvWikxSOfQ7/+72iRE77I8l49rFG5uN2Om3Of760M3M89fOYOr7fK0tuySgjR9YU//NWK+0zkox7/6DO0CvopgNoM3gXKADE+2/s7LneOzP9ioKycXEM4Hu5GJcNt5ILog5q83DDs1751WJg6qYcAfjbHBeIfucqWdVBRCpZzyrseMTPEjaAANocETSvP5o0xLxahV9xf8SKAzfQSi6oLPrQAqphHl5mSvLpmO/11b9+GnX4fg6gSrPORnfCigAzJ9C80Z02BPXDcHDE0+xGjP3JhB5KCjjeEuGKikWjpqm09DJZI13lmLDvUd2SCb7SBKlm9s8KQBdtqDM8J9F9jkyaWJnJLz82ShU1RAJj3qG+8pULTNXPj+eZRPp/BQ+PdoQBFApyE/tBjqO7LVlRW51E=;ZbLKejf9Hv8dZNGVht8Iog=="
+secured: "oyCxeoCm+FpS1Vuy9lITt5fphaecBI3UEo6D6RQti8WO7SpDDiz+WWsLpkDVY6vypyDmuFbQxf75QSWGeO0mBxpJe+lnHJqOlKfETiJkBNx6YFvzIoS2AvFlJeVBJkRpfMvMDpgZHgBeAED9rWtHwSHjU1qda87LT20zI8CAmOhVyRbkLWqZeHlmITXnzhSl9PAeIV4VgF7nh15OoPU+E/QnKmf+j6MDjaOPfOrURXfSGaJQ3hoff5egbeJ9AJ0d5UNuVdpt9M2HUrV6l8W/WGQm3r9f2PDokgGI9JLh6/uySFr2g1Ms8iM7pHgcEIW39MC40/q9ypCj+WINQaufQ5n0sFZWwOGItbz111FzbHK4j6M6dMALKtPNJNjtPgob7d9dASRr4ljM5kl9Uxfoj7nV4hyeLU0vO9SxAP/pzSw=;VyIF6XRAju+eJDJN9tepXQ=="
 ---
 

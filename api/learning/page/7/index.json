@@ -4,37 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-terran-vs-protosstvp-scouting-early-game-basics-starcraft-2.md",
-      "title": "Terran vs Protoss(tvp) | Scouting & Early Game Basics [Starcraft 2]",
-      "excerpt": "Terran vs Protoss | Scouting & Early Game Basics In this video we take a look at everything you need to know about the early game in the Terran vs Protoss matchup including: what you need to be identifying with your scout, how to get the tech structure scout consistently, how to deal with the very aggressive",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-vs-protosstvp-scouting-early-game-basics-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-terran-vs-protosstvp-scouting-early-game-basics-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=GW0w2tUHauA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GW0w2tUHauA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M10S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-06-10T00:11:07-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GW0w2tUHauA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-terran-vs-terran-strategy-guide-learn-this-one-weird-trick-to-macro-like-a-gm.md",
       "title": "Terran vs Terran Strategy Guide | Learn this one weird trick to macro like a GM",
       "excerpt": "In today's terran vs terran strategy guide we talk about how you can continue to improve your macro into diamond and masters, where everyone is already making scv's consistently. What more could there be right? Let's take a look!  Terran vs Terran Guide | Learn this one weird trick to macro like a GM",
@@ -1032,6 +1001,45 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-build-order-lifes-aggressive-zerg-versus-zerg-heart-of-the-swarm.md",
+      "title": "StarCraft 2 Build Order: Life's Aggressive Zerg versus Zerg (Heart of the Swarm)",
+      "excerpt": "In this video of StarCraft 2: Heart of the Swarm we take a look at Life's aggressive response to a game that he recently played versus Jaedong. Right after scouting that EGJaedong goes for a gasless opener, STLife decides to flip the switch an go for a very awesome build order in Zerg versus Zerg and",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-build-order-lifes-aggressive-zerg-versus-zerg-heart-of-the-swarm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-build-order-lifes-aggressive-zerg-versus-zerg-heart-of-the-swarm/",
+      "originalUrl": "https://youtube.com/watch?v=RqHOY3cyIdU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RqHOY3cyIdU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M41S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2014-02-06T11:10:42-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RqHOY3cyIdU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
       ]
     }
   ],

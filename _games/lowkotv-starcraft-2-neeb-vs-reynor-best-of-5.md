@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-neeb-vs-reynor-b
 type: video
 length: PT1H6M46S
 publishedDateTime: 2021-02-17T12:39:22Z
-heat: 59
+heat: 62
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-W21W1MlUgA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "mtH1FDztk7YR5mIY1mcVcyPBwppElBNd75hH/EEFL9f6v0jKeM4786Hhk062YD/adWm2wVk3gipCH35UAxorBeAqZnrZeC0iY2rN8EFvzuWxedQVEZ8tjFTCjSa1mhDX/KMd01AA3x1StE8HNoVMgk1C553Ax/AK74Dr3ycsVWsvhz3YOVB3566++UwhlodN94z9Yf2bIBelCFjzqT7xbuI47H3sChO+7jSfH9uPIoUQGOstuz49cDNltzfeFJJqD72eEw6GO/BSwDcxjjiOvA4L5lF3GXh92J0z8t/+QO4l8P5OAsyrMN7HiWsmdXPXOyf7Ijsoz4LMSncvi9YaSjgav10vJIjZzJgdYGHVEG/iZly4uY9See3Cc7dBZ3o3CgWXIK4D3LjKJdEaVFqWxtQa7bPJv0Q+R2PBgvw3E9RfndERyUKgBBSRwCh7GzEu;HJBnTozQ1bKqTbjMcHA3wA=="
+secured: "57XJdLotvfGXKsH8rzxgvUAhJs7voeXHZLnHS0awEt97Vx8XVa4HnwBKImcJctZYPQvCIvxVjtkmhDb3IoQtenbue2wjyLfvKnjd+YbxIQJl9iouqvSnq7JFO6BhL++Idc8zlVRbp4IyIGblJZq4pf+XQKOl4JtwwPAZDR+fdq/vpdnSG5ZgPmszYk8pfrFRgX1Qfa95fMW+6HzG1w/2yfkjZoIrFbl0GGXl86ct2MzmrLUCKft57w60/C0zo5E+O5bnrRq7s0oFSKZKRn/SdHlcqFljT5vWBlNpy77V1wHr1Qg4IcUwgMs7KbTaMeE1HBH31H4WV3K6hq3XqengTg70B/ecki/r99lglQ63tjIpLjFZZQ2Lja0RZOU1nPX4jFg4kMgw7CiT11rU3WyO8yYu9J1iBxNOb/iCrEam7WA=;riRXpOu1SOZB1yLJvL/EnQ=="
 ---
 

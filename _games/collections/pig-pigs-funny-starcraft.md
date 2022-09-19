@@ -930,6 +930,7 @@ items:
   - pig-this-is-why-you-scout-your-main-base-most-annoying-player-ever-4-starcraft-2
   - pig-failed-cannon-rusher-has-crazy-meltdown-salt-mines-13-starcraft-2
   - pig-zergs-sneaky-strategy-to-catch-terran-out-icyfar-blood-sacrifice-starcraft-2
+  - pig-is-this-the-cheesiest-series-of-all-time-starcraft-2
 
 topics:
   - StarCraft 2

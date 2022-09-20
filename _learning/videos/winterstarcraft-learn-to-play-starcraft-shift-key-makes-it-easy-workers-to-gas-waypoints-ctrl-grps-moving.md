@@ -4,7 +4,7 @@ excerpt: "impromptu guide on the utility of the shift hotkey for a bit of everyt
 originalUrl: https://youtube.com/watch?v=7x9pHr544oY
 type: video
 price: Free
-length: PT4M21S
+length: PT4M20S
 publishedDateTime: 2017-11-19T17:05:30Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "SLLsOv0bHboUOu+xJl/tQy8MWhS282+hqPHnM1vwHrfhKGoZN4n/TAVYAu8m5EGhNbTvuaRkwpBr8RXxvmyGh6MfW2tJ1ia/LvQlhRj1OMPMuDoGZ5RjIwwCH5GKILq8I2sYLCtKzPE4CDqoOAwXtt/69C0c/jwNoteSOYB1j/SuRIdRvHA+E4WxVFc71in314eKjAd0doMoEr6fA2vMOhIfB3rN3LXZCX+OvJ425ACePqvUqKWHZZwtyNy9jWQkOpC7C3ELA3CViom1/1EbMflr+zXTOf54CD2Qg6RTuCu239TPO0E/PdV+sFHkoLaKUFpM7gA0EwxVf9aYWiHkUub0kU/JtVsKoGpA9v2rtUkrEIIir5Qpyrgr05gObCDBSzFWO/1fuhPIuKXBJcnLymNHw6FYObXt8ZwWbrZdv58=;vxOwVRObbsa3tCQDzoUPog=="
+secured: "zqWpNDVaY8HPtY6OXn6P9VqVd8447U4IZudZx1vYUFMYWHV8a+NiXGJ6AHumJlGGnilrPciCfkqRdqtrROMUkQG0VG0e7gNZhWyFEuAHi/GdPhgXe3ZDdBWOb/yAQvIqB2Scr/Si7ysiWkN0DB8BKi5Dko/RvkSSM7erTq9bA4oX4YztMRKlQU7EIZoPnHsN8Pl8gwip9gTdK1FAZHO2PErWDNXLGGz1OC/664nD6aywTzdW0HBTyCWSRHKSwXF9tPoJ9EEhXSRomN/bwieSlnCxKy4qqxSqkWiDvc6qIvnWzZMGf1AtB4RUqJp9O1CMx1ftjkEhBGJVK5vBDgkyp3A+S1pgxwANeRtU6vlzqQFnmQz8h4c5HxVNokUDfPUNqOPHIP2OgPfJvGMYycM0S9p8pL9hPZSxlyvR5k0NPV4=;Xo+zUiw+x0vVjUS4Xdhblw=="
 ---
 

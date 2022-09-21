@@ -4,82 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-new-map-features-purple-gas-slowing-fields-mineral-paths.md",
-      "title": "StarCraft 2: NEW MAP FEATURES - Purple Gas, Slowing Fields & Mineral Paths!",
-      "excerpt": "High Yield Vespene Geysers, Inhibitor Slow Generators and Reduced Mineral Fields. Lots of new features in the next StarCraft 2 map pool! Subscribe for more videos: http://lowko.tv/youtube  New StarCraft 2 maps: https://starcraft2.com/en-us/news/22938943  Check out Lowko merchandise: http://lowko.tv/merch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-new-map-features-purple-gas-slowing-fields-mineral-paths/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-new-map-features-purple-gas-slowing-fields-mineral-paths/",
-      "originalUrl": "https://youtube.com/watch?v=qOxDEALdW9o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qOxDEALdW9o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M6S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-05-11T01:09:14-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qOxDEALdW9o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-new-tournament-maps.md",
-      "title": "StarCraft 2: NEW Tournament Maps!",
-      "excerpt": "New maps have been announced for StarCraft 2. These maps will be used in both tournaments as well as on the ladder. In this video I review Jagannatha LE, Lightshade LE, Oxide LE and Romanticide LE.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-new-tournament-maps/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-new-tournament-maps/",
-      "originalUrl": "https://youtube.com/watch?v=uLw-YVtBtn4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uLw-YVtBtn4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M44S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-19T01:08:03-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uLw-YVtBtn4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/lowkotv-starcraft-2-nydus-worm-all-in-zerg-build-order-guide.md",
       "title": "StarCraft 2: NYDUS WORM ALL-IN! (Zerg Build Order Guide)",
       "excerpt": "Zerg vs Protoss Nydus all-in build order video! Subscribe for more videos: http://lowko.tv/youtube Zerg vs Terran all-in build order: https://goo.gl/kRXijf  In this video I go over how to execute a Nydus Worm all-in in the Zerg vs Protoss matchup. I show a game from a professional gamer called Leenock,",
@@ -233,46 +157,6 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-serrals-zerg-vs-terran-build-orders.md",
-      "title": "StarCraft 2: Serral's Zerg vs Terran Build Orders!",
-      "excerpt": "Zerg versus Terran build orders. In this video I go over three games that Serral recently played versus HeroMarine and have an in depth look at the build orders that plays to achieve the macro game.  Get more videos & support my work: http://www.patreon.com/lowkotv Zerg vs Terran build order notes: https://pastebin.com/vZisrAuM",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-serrals-zerg-vs-terran-build-orders/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-serrals-zerg-vs-terran-build-orders/",
-      "originalUrl": "https://youtube.com/watch?v=ZOY5ctizPK0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZOY5ctizPK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H23M46S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-17T01:59:58-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZOY5ctizPK0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
         "Zerg"
       ]
     },
@@ -1134,6 +1018,98 @@
       "topics": [
         "StarCraft 2",
         "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-4-gate-chargelot-dts-pvz-coaching.md",
+      "title": "4 Gate Chargelot DTs! PvZ Coaching",
+      "excerpt": "Bunch of scheduling/lobby stuff i cut from this vid, hope you like the end though! :) Here is the reddit post from the start of the coaching if you are curious: https://www.reddit.com/r/allthingsprotoss/comments/a7dlpo/build_of_the_week_pvz_traps_4gate_chargelotdt/  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-4-gate-chargelot-dts-pvz-coaching/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-4-gate-chargelot-dts-pvz-coaching/",
+      "originalUrl": "https://youtube.com/watch?v=YCvMROEJTL4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YCvMROEJTL4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H40S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-02-19T16:46:37-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YCvMROEJTL4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-5-reasons-youre-not-improving-at-starcraft-2-and-how-to-fix-it.md",
+      "title": "5 reasons you're NOT improving at StarCraft 2 (and how to fix it)",
+      "excerpt": "Here are 5 reasons you're not improving at StarCraft 2! I get asked \"how I do improve\" every single day so I figured it's time to make a video that gives some good answers for it. Hopefully this is useful to you! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-5-reasons-youre-not-improving-at-starcraft-2-and-how-to-fix-it/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-5-reasons-youre-not-improving-at-starcraft-2-and-how-to-fix-it/",
+      "originalUrl": "https://youtube.com/watch?v=czQpGmd65JQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/czQpGmd65JQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-07-09T21:06:06-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-66-drone-hydra-bane-smash-coaching-zvp-m3.md",
+      "title": "66 drone hydra-bane SMASH | Coaching ZvP M3",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-66-drone-hydra-bane-smash-coaching-zvp-m3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-66-drone-hydra-bane-smash-coaching-zvp-m3/",
+      "originalUrl": "https://youtube.com/watch?v=Dw53SlsBBqs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Dw53SlsBBqs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M54S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-08T04:00:17-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Dw53SlsBBqs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
       ]
     }
   ],

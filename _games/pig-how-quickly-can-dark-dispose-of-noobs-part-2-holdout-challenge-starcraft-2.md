@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=0QyNvRXWCmw
 type: video
 length: PT26M30S
 publishedDateTime: 2022-08-23T06:46:10Z
-heat: 67
+heat: 66
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0QyNvRXWCmw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "GvheU0wQUkMVogamvGjlkXRiCJOdSlNcABwac8y7OHvQmWkRwjYobIb0I2nwqJc0/SyiptVNB/xCuUDNmElRun4S8KjUzOz/YGbninfLkPNcmI87OzMCg3IOWLyTrr8Ogwj+4tj4kMBxUGqWRej+13OfItMIJhXRyuaOTVW2bUKF1Zsy9JFuSXPZoEWXSFUxPbFUTguY0X2fREtBZ5tgQqZAiMjb/nGdRZRNwayyLpawXGhPl+odtoNaGEVDA0pwn+JAjluTbCn7Qc/BTSRqLaR1u9ljrdhnDeZOhKc2XBEiiwgKj6P3rtyGi6ywdnXJAoN9bzhS9rupCOPS48hgFuKC2ik8qAJoqMcStBOg0QKkGf+Ntx0PHPp5aNJoCqs1ij1TtEt4bqClTrvK/lZRVx2h22On7SikRkS2BPrwKUo=;9kRz7BQPV1HWNEa/Vw/tvA=="
+secured: "0cNp/keGkeKxBB4LTGCX6bgM6W4p7sKDJF/c0OkajbL+XEY8Su7DdcH649PPkCj2L7QDk5iX9Dd5uz3WgRTMJ9aR7cY2/5+8C9hDjwBWk4NJslhmLdRcj8n8oVcbpsRCuQR/PtcgfRjHjYATflgP59PJbfmUHvuNdIpG/EB38gDtFm9G0k1iH71iQTm8q6QcexoIxw0KTIe493ieZuwoV9IAMQe/60Y2cVs8SEro1pWiZMP1fnl8Vrd0cE9GMpD8UYbnyCB0Ho2I6oVFGuCQ4yjxLNUEu/DL4ZDram3x1Qo6tazq5yowU0Wna5RtLce46pQYFbP1573gOIka3Zzs/xePZeKysAqQQwuLMdHSGXlEg8jdNWSs149+wcteU3fjuVdIEgOIzZnZ6l7FiBu7fk7UGriWML8cl974wILI1D8=;hcWL8LxSGeYoBBmfLXGjEQ=="
 ---
 

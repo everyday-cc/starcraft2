@@ -4,7 +4,7 @@ excerpt: "I coach a Terran player on how to micro his marine-medivac, with a foc
 originalUrl: https://youtube.com/watch?v=zCyHG1RBbag
 type: video
 price: Free
-length: PT36M25S
+length: PT36M24S
 publishedDateTime: 2017-08-15T10:29:54Z
 heat: 50
 
@@ -25,6 +25,6 @@ images:
     height: 800
     isCached: true
 
-secured: "tHjDffSWhhary7cQmBm9esSOtp0nhC7yqzGctVCktsJY20SasKXN/3YeHALGul/5FGVsHU+RX7vbMLkyPosfj5/97lO69U+Qk+aM+p0D+I5TdAjnsmd9rAAINblMZrti3auwvpNvi49mi3qBe1BoAEJ31VoajimZBiSmo6/rmlDXzOQfuBMRj+sL5V6fMlFdSkJgNx8834srms9Jb/bKgn0mUkLW8+D1Sf6SOxXPzRJuCSeant/ZBy/dSra80ym8sN7O8UhcylKv8RtlbHqP0p75JBDUrIZVGVzNeVlaCYAWRf57NOhjhVzv+jmcXOJzpeozT0l2tsIg3eIRoEWAY1QIHtSr6MgH4RflAQ7xSX4ZmE+B9S/LCquQb9vOkff995YiRDmcIIdnSdopB9F+WzCNWfoAeoJJKr5mhQgT4C8=;RIWwQN+L/vQuMBP6FFuHdA=="
+secured: "dHBAggXVt1O+1GvzA6OJJLEfJoRF5eOpWAdyeOP9oWhlQganMJByccgONhC4sUHbrhc/X/WJ3vSrt7/bDcEunxbJKKZhwR9Uc1HUVdvO0rRwJ/ztjGm8kv+7sPo1C6hfN2nJTqF8EsP2kvD6VNFk/ZKJ01IbCGrM2LzfCSX2NeFuv1YdVP7mTS/z4upk1hU99NAh3kPO+guFfl3kLv4L7lwJdeKmfNcGW9K49lZh3WMH0Fe/YvvarTCA897jqCxsfo0RA/yBFaJoOq2x/Bwax5vZ+QRlT5z8njNW5MWUhPA2WwL1iF4ZArlIc8+8WejLlHlJklxryg/wBX5Y9sPlOqPNiRXaEAXzwPegj43nAs+Bp3j9y/eEoRNAGI5OppCTONGTCCCElHk+kw7pUB1JoAW5BgB3pCFAmrZgvACo20A=;FSrq0G1jJP9kvMcmuhWp4w=="
 ---
 

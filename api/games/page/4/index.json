@@ -617,35 +617,6 @@
       "publishedDateTime": "2021-09-28T04:46:30-07:00"
     },
     {
-      "path": "_games/pig-this-is-why-you-dont-get-cocky-too-early-salt-mines-8-starcraft-2.md",
-      "title": "This is why you don't get cocky too early | Salt Mines #8 - StarCraft 2",
-      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty. -- 🐷 Second Channel",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-is-why-you-dont-get-cocky-too-early-salt-mines-8-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-is-why-you-dont-get-cocky-too-early-salt-mines-8-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=0oQs7vC2uFE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0oQs7vC2uFE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M32S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 69,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-27T20:57:08-07:00"
-    },
-    {
       "path": "_games/pig-when-you-build-only-marines-and-they-freak-out-starcraft-2.md",
       "title": "When you Build ONLY Marines and they FREAK OUT - StarCraft 2",
       "excerpt": "I gave myself a challenge: to make marines - and no other unit. Let's see how it does on the StarCraft 2 ladder -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig",
@@ -1016,6 +987,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-24T23:27:31-07:00"
+    },
+    {
+      "path": "_games/pig-rank-1-is-no-match-for-zerg-cheese-pigs-filthy-adventures-14-starcraft-2.md",
+      "title": "RANK 1 is no match for ZERG CHEESE | PiG's Filthy Adventures #14 - StarCraft 2",
+      "excerpt": "Starlord is BACK! This time we fight STUPID with STUPID (game 1 vs Stephen) then go on to troll RANK 1 on ladder with pure lings (game 2 vs Trigger) 0:00 Fighting stupid with stupid 11:54 Stealing Rank 1 MMR -- The Book of Filth: https://www.pigstarcraft.com/learn/book-of-filth/ The Book of Filth 2.0:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-rank-1-is-no-match-for-zerg-cheese-pigs-filthy-adventures-14-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-rank-1-is-no-match-for-zerg-cheese-pigs-filthy-adventures-14-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=L97LBhzAPeE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L97LBhzAPeE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M43S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-14T17:36:59-07:00"
     }
   ],
   "nextPage": 5

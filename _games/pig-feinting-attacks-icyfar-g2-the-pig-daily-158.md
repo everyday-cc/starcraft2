@@ -3,7 +3,7 @@ title: "Feinting Attacks - ICYFAR - G2 - The PiG Daily #158"
 excerpt: "In today’s I Cast Your Freakin Awesome Replays players sent in replays of their best Feinting Attacks! Distracting in one area and hitting in another, there’re some great games!\r Follow me on social media to keep up to date: https://twitter.com/x5_PiG https://twitter.com/x5_PiG https://www.instagram.com/pigsc2/"
 originalUrl: https://youtube.com/watch?v=IvQCq5Kdaiw
 type: video
-length: PT19M57S
+length: PT19M56S
 publishedDateTime: 2021-06-01T12:46:41Z
 heat: 50
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "HLgIwcNHFY1/fc6Wcw5d1Bxj/tmfRTnkixyzrLRxSwBTzPrX9eppsWlVJ2BpDUC1A4B/XMv8WUYmisGSuj2YDllehKZeSRzTFOvGcNVHfIVeoerTaqD4Ap4vFV3WJOGQlmnHEbEjTJ186oONLnXdT6Q5IUKcKQheNnQJq0j65ehd8yw0Z9VJAP8kVqS7wCSkcrCEDJftww5yfN/MEKFSR6FvV8Aa5LjzeHPbqMvNOILPQxkEYIEu4jRohY6PIt0Po9jxROHAfEhoB8QVm9P8qKPRQjNQg7/suROkg07PjUWFzis6lMl7Q9pwZC39GPi1K4qU45EXRp1TawVp6tUn2QG2T1XaViWlenL5T76Vus6i+3sqNvi2euk5Lrv9kctH9zsXNBrycmPEAq1g8KH6l6lCMf6FoTcAX0eVci//s98=;Crkqt0yjS2OKtJnFb1hPKg=="
+secured: "m6iNLxL6aNbguSBOT/jDichDAsPExOM0qH18zDtsvkGxqa0Ypt5c0EZCvJgWvbxIPDgQYaQKOIPY9lp50XntMD+Y93E9Xd1cNIs4FeUs4lU9wBb1BXME89zs4R5NPxhYfoHXvGn9ydKUHPxuL5cbiF5P+/sxblejY4SHPYWxGf80n0CyEAZnGtymVdgATBmhueGn0FDoAs/DZzHpWHTl5omTA717C+EzCh5o+uORpu2zWVKgT9QUy6LwXovme44lWC1sk8wZJ+Wrbq3aj0pF94QS31WHYm1WcSQvNBWYwrtGYyPpR7De8X+C5iftBwrayjTQruM4VJGq+RGMkRivrJ6g3baOuLHLLe51OX5OD0AVNvqmWa7/h/cZrsJDs8xf9wcX6OWfCXSSbzuv0KgP54vuCnY9/IhyJU8E6sbbjAw=;B3ZxUp4XcChHrhPZlKVxJg=="
 ---
 

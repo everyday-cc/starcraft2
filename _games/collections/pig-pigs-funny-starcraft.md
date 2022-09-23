@@ -926,6 +926,7 @@ items:
   - pig-new-world-record-1-terran-vs-7-insane-random-ai-by-heromarine-pig-reacts-starcraft-2
   - pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-pigs-filthy-adventures-15-starcraft-2
   - pig-300-movement-speed-is-bonkers-pigs-laboratory-starcraft-2
+  - pig-this-is-why-sc2-isnt-played-on-200-hit-points-pigs-laboratory-starcraft-2
   - pig-protoss-thinks-zerg-is-the-maphack-race-no-fog-of-war-mod-pigs-laboratory-starcraft-2
   - pig-this-is-why-you-scout-your-main-base-most-annoying-player-ever-4-starcraft-2
   - pig-failed-cannon-rusher-has-crazy-meltdown-salt-mines-13-starcraft-2

@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-neeb-vs-reynor-b
 type: video
 length: PT1H6M46S
 publishedDateTime: 2021-02-17T12:39:22Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-W21W1MlUgA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UBn+Tb3feYSAzIIT3IaYI3epEXQo/BgBS9OdPnSIqEjAsfIsNpzy5cETGeRZsLhsmEIrhRRCx3V6Gm8mDfPMifZtpG3tzJHgCQ0exFP9PvGQbUNHv15mhO8vMJ+aJwhm4ovel8DU+zhpjnmrXwYWJDwxT8uyipI9jLn5uW5W4O/V/9/rsgcT5YillFxJ48JeFcbo8mXi/2JEkMtu/7LiAssaB6p7fg7kpRlTrZfZf7UjoxU3mrQ7+8M9qADGH0XiiaTYpQ7CuLEX6dsZgCdpZlcSkewFaA7uRPAqU1in9uyxFhstP5Py84xmGgDh5p8bASAgajOUuAb4kRuAwpWaY8Q5eyKXaBl/ZrvbArunVRN9N5mDwDO5wDu7LhXjZsAPACt1p6p7wmMw6rWAdru+0vCrF1V0nvtKHtFEuUWwGwTkLQmNby7ckgN09SOhFzaM;GT7+tnG32zaMqMjwWZdzqA=="
+secured: "DNloE25FI6Fny67K0Mbj6OwzGhYURX/PYdN3hgPNAO1s9VkbqHURP3ywG3wN0UaxSLxzYnygiu7KVjhpIp+Nq5E35KylFlzNDqWjdrwfT4Fg8bu0kYhzNMPR8f0Ntscahx6/3G3ivK01zyHbZkijwpWZ5Rt8ZynnXxBzIAvp39odaECDXK6sCdbm3SzBK6sOsfmnDy2nO5/qN++4CENIZUOp9A0b0RhGTAsLraCiritGKJb6yHqQJtREoX9SNllsPBWANZCt3hwB/1cGw0kR5EgKAAA0QDVULXn2r3SmqnNtufQhZ9PlRmzyHQtdE9XZPxWOi1tCYaPQr2sQpbruNNmwx8olcGycSdGlIORWYUlKOFMHt4N5tCQh1tLC2okp4tgPrHlF1kOR+1XSMQistSHOETNMUpZ2Ev5RLfFCLKLGaXLFoUOBvWQtZfvhEVel;WqkF1aR8zOCt4bnS7jcjqA=="
 ---
 

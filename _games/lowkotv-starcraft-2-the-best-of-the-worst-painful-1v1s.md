@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=j0nsqRqasHY
 type: video
 length: PT31M36S
 publishedDateTime: 2022-04-16T11:04:55Z
-heat: 54
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j0nsqRqasHY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "9RAhCIbtYZq/anJctxczGyMnXcSpacUqsjj028PHoMdJ6PJ/yfEKRWNl5xDkwdSLqrZRrC9uLiUHcYYaKvO5wy76QLkJTBV8fAupQemOZzpFxzrvS/rLYy4FS/DbHm3mihxoetoiR0xLgqeZ28ZZKdQP0AjwHb5BNbIXbDdL2eVbsSVuDEBkTTWH4GNYP7MMy1DUxlphEE31yaKBp65qts3iPz5hgztdPfD/BaL+ItJzx2Bek3DzKVRtUCQRqShvh/lP8hlYLDO1XfI48jBo73QQBYMvPrpB+Vj1iQcVD5SP53tvFNa+SDPRaFJPX/1VgC9DhcPjR6yc+AOkzE1dGzSwrmZPWl5LcuclD0LTGzIlOcdgbsmuu4/18p8AoyZnd/28CfCpax9IO7wJvKYlOuYm/T22l6hqre2wGpH7xFE=;y6joOz65Utmt2SrG+mMO/A=="
+secured: "xs/5786yz3gKJdirbAL8amjav4kjANo3Er6YSJuddDuIfmzxFvsKcso5IHDRGw7xnQNNPYfNI286zLeGWKeYupuBUxZzhW6vnlvU9TQArXsefmc4tk+n0pHFSA49P8C7KjpJdWpsSHAGdcVHXkVK1S6bYNzT6XDRP1XLd00UBC2KsrrEY78+ZQXq0IyEmtU7fR0prMPZRMk1nyOdg9dnPKiQB3i1eoO71bq2Cd+2dhbepQWmI215ESFLnFStXbFXDD2TrBE8ZK1oJ2F6uDBOyTFqmtzCKPVF6HOYpFXUCp+hNJHAc11WAn9WIcrt0GmjZLZOXGtJRxt6HhVZlE9IfgJKvh6LKzsAYmFAnuuqkK9kv41Xb2m/qecnYkisR4myOIGj8pY0VhFvIO/OB3weGA72CwTYPujanTYvyhgOtxY=;4HEGP88j/D6hTO15qsF0mA=="
 ---
 

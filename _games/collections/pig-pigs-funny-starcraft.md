@@ -871,16 +871,16 @@ items:
   - pig-how-quickly-can-reynor-dispose-of-noobs-part-3-holdout-challenge-starcraft-2
   - pig-how-quickly-can-reynor-dispose-of-noobs-part-44-holdout-challenge-starcraft-2
   - pig-is-beating-1v7-insane-ai-even-possible-no-beastyqt-has-not-done-it-1-starcraft-2
-  - pig-what-happens-when-pros-have-maphacks-no-fog-of-war-mod-pigs-lab-starcraft-2
+  - pig-what-happens-when-pros-have-maphacks-no-fog-of-war-mod-pigs-laboratory-starcraft-2
   - pig-pig-and-lowko-team-up-in-2v2s-dont-remind-him-i-called-him-insane-once-p-starcraft-2
-  - pig-a-genius-strategy-to-a-dumb-challenge-mouse-only-pigs-lab-starcraft-2
+  - pig-a-genius-strategy-to-a-dumb-challenge-mouse-only-pigs-laboratory-starcraft-2
   - pig-rank-1-is-no-match-for-zerg-cheese-pigs-filthy-adventures-14-starcraft-2
   - pig-terran-player-gets-so-angry-he-breaks-his-own-brain-salt-mines-6-starcraft-2
   - pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-2-starcraft-2
-  - pig-this-is-why-sc2-isnt-played-on-50-hit-points-pigs-lab-starcraft-2
+  - pig-this-is-why-sc2-isnt-played-on-50-hit-points-pigs-laboratory-starcraft-2
   - pig-who-wins-a-low-gas-challenge-starcraft-2
   - pig-bm-player-gets-instant-karma-salt-mines-7-starcraft-2
-  - pig-this-is-why-sc2-isnt-played-on-50-hit-points-part-2-pigs-lab-starcraft-2
+  - pig-this-is-why-sc2-isnt-played-on-50-hit-points-part-2-pigs-laboratory-starcraft-2
   - pig-1v7-insane-ai-challenge-best-attempt-yet-3-starcraft-2
   - pig-how-quickly-can-hero-dispose-of-a-noob-me-ept-na-holdout-challenge-bo3-pvz-starcraft-2
   - pig-can-you-guess-mmr-better-than-a-gm-guess-the-mmr-3-starcraft-2
@@ -895,7 +895,7 @@ items:
   - pig-this-replay-is-impossible-to-guess-the-mmr-of-guess-the-mmr-4-starcraft-2
   - pig-the-rare-upgrade-that-guarantees-chaos-icyfar-ruthless-growth-starcraft-2
   - pig-what-happens-when-you-let-them-choose-macro-or-cheese-1-starcraft-2
-  - pig-the-fastest-map-possible-is-ridiculous-esp-with-bw-units-pigs-lab-starcraft-2
+  - pig-the-fastest-map-possible-is-ridiculous-esp-with-bw-units-pigs-laboratory-starcraft-2
   - pig-what-if-sc-was-played-with-actual-commanders-commander-mode-1-starcraft-2
   - pig-did-zergs-forget-how-powerful-burrow-is-smooth-brain-stephen-1-starcraft-2
   - pig-toss-is-mad-even-after-they-did-what-he-asked-salt-mines-10-starcraft-2
@@ -934,7 +934,8 @@ items:
   - pig-is-this-the-cheesiest-series-of-all-time-starcraft-2
   - pig-i-challenged-myself-to-do-the-fastest-bcs-ever-pigs-filthy-adventures-16-starcraft-2
   - pig-why-does-cheese-bring-out-so-much-delicious-rage-salt-mines-14-starcraft-2
-  - pig-the-almost-perfect-defensive-nukes-florencio-files-271-starcraft-2
+  - pig-the-sewer-mermaid-nukes-himself-for-science-florencio-files-271-starcraft-2
+  - pig-i-made-upgrades-in-their-base-lol-most-annoying-player-ever-5-starcraft-2
 
 topics:
   - StarCraft 2

@@ -870,13 +870,13 @@ items:
   - pig-how-quickly-can-reynor-dispose-of-noobs-part-2-holdout-challenge-starcraft-2
   - pig-how-quickly-can-reynor-dispose-of-noobs-part-3-holdout-challenge-starcraft-2
   - pig-how-quickly-can-reynor-dispose-of-noobs-part-44-holdout-challenge-starcraft-2
-  - pig-is-beating-1v7-insane-ai-even-possible-no-beastyqt-has-not-done-it-1-starcraft-2
+  - pig-is-beating-1v7-insane-ai-even-possible-1-starcraft-2
   - pig-what-happens-when-pros-have-maphacks-no-fog-of-war-mod-pigs-laboratory-starcraft-2
   - pig-pig-and-lowko-team-up-in-2v2s-dont-remind-him-i-called-him-insane-once-p-starcraft-2
   - pig-a-genius-strategy-to-a-dumb-challenge-mouse-only-pigs-laboratory-starcraft-2
   - pig-rank-1-is-no-match-for-zerg-cheese-pigs-filthy-adventures-14-starcraft-2
   - pig-terran-player-gets-so-angry-he-breaks-his-own-brain-salt-mines-6-starcraft-2
-  - pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-2-starcraft-2
+  - pig-how-to-beat-the-1v7-insane-ai-challenge-2-starcraft-2
   - pig-this-is-why-sc2-isnt-played-on-50-hit-points-pigs-laboratory-starcraft-2
   - pig-who-wins-a-low-gas-challenge-starcraft-2
   - pig-bm-player-gets-instant-karma-salt-mines-7-starcraft-2
@@ -936,6 +936,7 @@ items:
   - pig-why-does-cheese-bring-out-so-much-delicious-rage-salt-mines-14-starcraft-2
   - pig-the-sewer-mermaid-nukes-himself-for-science-florencio-files-271-starcraft-2
   - pig-i-made-upgrades-in-their-base-lol-most-annoying-player-ever-5-starcraft-2
+  - pig-world-record-uthermals-1-terran-v-7-insane-terran-ai-pig-reacts-starcraft-2
 
 topics:
   - StarCraft 2

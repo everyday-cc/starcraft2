@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=8zNTHlQcR4Y
 type: video
 length: PT40M33S
 publishedDateTime: 2022-08-09T11:56:34Z
-heat: 58
+heat: 60
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8zNTHlQcR4Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 800
     isCached: true
 
-secured: "Ktk0LJ2BTWTs2HlbLKgf79S+YUHL2CCkjiGdqvwvA5lQIX78gy4m9MY0K0EJCMdTwIf41B/coOh39KTVoN+d2NQJgSW6dsR23tzdMzqUsoVSG3VPkTBrXAyvsMO41sEFtjsf/oOvRvQibfbomYPL76v6esXxDmxV/bexDcLp7xBAUaVK7kEreGgrE29MJje2nFIPOSGfQM2vrToSDvsFPNfskmCUAh4MHAV75h/kFeYvlBLL0GNsG+o0NR9hjJREgQVnBxvb8JBGY8vmR8G0mJxZtyoj8gfJVmBX67k0ypNuC9TNHlhT+F9W8irbNLeeYZb6ORNmQIUrN4A/95jd7yS5qorSQKLtGdRgHKZGNxA1AiRFFRpiXQEgJln+nrFBaWSWTpsdiTQCrUunmgqXaWWWm0PqgXIXK9V3VDqGVIk=;s+Hco4zmeTPL+NYWi+F/PA=="
+secured: "iwGC3t9lbam48gdw828itTZ+PNCqHD7892kiBVYG54vqHF+w+Y5IRb7JZXvNrhLv36mVA+41oGamGMcmwDvgttnHwts/2RyvsCtndjfa+55YlKb+dx+j4Pdr9/M9yxYmGfrXv9OOBqd1XbiZS83S+7Pl52KTdYSOVvCTHv3wpSF6dKLf5WKwztXASAXV10BGfrnUcMWw0v9Zl/GOCdiWCYhgD89lDsUOn3gcZ34rnPN+x+x+qloIPlgZiLTMk537bH5ciFYGytxC1HYZsBgbCdsl3On2HSFYgQ/JBtROGFJ+MmZBKgq5S5manUp2Az2xxEjt1xQmruEPMXCNGzNHQIfcc0Ua7TRqEuyuTy3lthWvaC0kz3gkcRvH5XyO/jZrITSdp0YQFpmefqmpSWsZjRWlWNjHWxsGUexJkBOllmM=;Qv5qsgcJPoiL1QVNDvfHxg=="
 ---
 

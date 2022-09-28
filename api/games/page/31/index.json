@@ -4,44 +4,6 @@
   "page": 31,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-a-ridiculous-zerg-vs-zerg.md",
-      "title": "StarCraft 2: A RIDICULOUS ZERG VS ZERG!",
-      "excerpt": "One of the longest games I've seen of Zerg vs Zerg. Subscribe for more videos: http://lowko.tv/youtube Insane Protoss macro: https://goo.gl/kYVEow  Denver versus Namshar in a really epic match of Zerg vs Zerg. While Denver decides to open up very defensively, he quickly piles on the aggression in the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-a-ridiculous-zerg-vs-zerg/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-a-ridiculous-zerg-vs-zerg/",
-      "originalUrl": "https://youtube.com/watch?v=blr5eNFKU9A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/blr5eNFKU9A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/blr5eNFKU9A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-01T05:09:18-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-a-tale-of-spine-crawlers.md",
       "title": "StarCraft 2: A Tale Of Spine Crawlers!",
       "excerpt": "A very cringy game of Zerg vs Zerg in Silver League. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/D6Qj6z  In this match of Silver League Zerg vs Zerg both players decide to play a bit of a weird game. Gunslinger and Marklongwide take the entire map of Odyssey",
@@ -1135,6 +1097,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-19T03:32:42-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-battlecruiser-mind-games.md",
+      "title": "StarCraft 2: Battlecruiser Mind Games!",
+      "excerpt": "Who called in the fleet? An awesome match of professional StarCraft 2 between Cham and MarineLorD. MarineLorD goes for some very clever moves, anticipating the decisions his opponent is making and then completely blindsighting him with multiple Battlecruisers.  Get more videos & support my work: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-battlecruiser-mind-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-battlecruiser-mind-games/",
+      "originalUrl": "https://youtube.com/watch?v=FXyWEP1zDak",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FXyWEP1zDak\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M8S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FXyWEP1zDak/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-24T00:27:26-07:00"
     }
   ],
   "nextPage": 32

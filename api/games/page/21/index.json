@@ -4,6 +4,36 @@
   "page": 21,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-nice-yellow-octopus-tries-to-metagame-the-guac-king-the-florencio-files-27.md",
+      "title": "StarCraft 2 - Nice Yellow Octopus Tries to Metagame The Guac King | The Florencio Files #27",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-nice-yellow-octopus-tries-to-metagame-the-guac-king-the-florencio-files-27/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-nice-yellow-octopus-tries-to-metagame-the-guac-king-the-florencio-files-27/",
+      "originalUrl": "https://youtube.com/watch?v=-vYYFVCOAHw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-vYYFVCOAHw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M31S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-vYYFVCOAHw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-09-22T15:06:01-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-open-for-business-the-florencio-files-135.md",
       "title": "StarCraft 2 - Open for Business | The Florencio Files #135",
       "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
@@ -94,36 +124,6 @@
       "publishedDateTime": "2021-06-25T04:49:59-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-probius-maximus-the-florencio-files-49.md",
-      "title": "StarCraft 2 - Probius Maximus | The Florencio Files #49",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  As you probably already noticed, this game was cast on Valentines Day :)  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-probius-maximus-the-florencio-files-49/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-probius-maximus-the-florencio-files-49/",
-      "originalUrl": "https://youtube.com/watch?v=FgWMs5es7ps",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FgWMs5es7ps\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M9S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FgWMs5es7ps/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-12T10:00:18-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-proxy-hatch-burrow-cheese-the-florencio-files-167.md",
       "title": "StarCraft 2 - PROXY HATCH BURROW CHEESE | The Florencio Files #167",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
@@ -154,27 +154,26 @@
       "publishedDateTime": "2020-09-13T09:00:06-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-rat-king-zergling-style-the-florencio-files-48.md",
-      "title": "StarCraft 2 - Rat King, Zergling Style | The Florencio Files #48",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  As you probably already noticed, this game was cast on Valentines Day :)  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-rat-king-zergling-style-the-florencio-files-48/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-rat-king-zergling-style-the-florencio-files-48/",
-      "originalUrl": "https://youtube.com/watch?v=a66dx6rdVaY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a66dx6rdVaY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M39S",
+      "path": "_games/pig-starcraft-2-psyche-the-florencio-files-32.md",
+      "title": "StarCraft 2 - “Psyche!” | The Florencio Files #32",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  Florencios twitch: https://www.twitch.tv/flol2encio Florencios youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-psyche-the-florencio-files-32/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-psyche-the-florencio-files-32/",
+      "originalUrl": "https://youtube.com/watch?v=yk1gSVZTlEM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yk1gSVZTlEM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M29S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
-        "Zerg"
+        "Protoss"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/a66dx6rdVaY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/yk1gSVZTlEM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -182,29 +181,29 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-05-01T12:45:01-07:00"
+      "publishedDateTime": "2018-12-26T23:47:48-08:00"
     },
     {
-      "path": "_games/pig-starcraft-2-ruffs-brutal-cheese-compilation-diamond-in-the-ruff-35-starcraft-2.md",
-      "title": "StarCraft 2 - RUFF'S BRUTAL CHEESE COMPILATION | Diamond in the Ruff #35 - StarCraft 2",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran opponent? 🐷 Support PiG: http://paypal.me/PiGSC2 | https://www.patreon.com/PiGSC2  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-ruffs-brutal-cheese-compilation-diamond-in-the-ruff-35-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-ruffs-brutal-cheese-compilation-diamond-in-the-ruff-35-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=LWfgg9mOF6I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LWfgg9mOF6I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M28S",
+      "path": "_games/pig-starcraft-2-recall-is-the-new-manner-mule-the-florencio-files-29.md",
+      "title": "StarCraft 2 - Recall is the new manner MULE? | The Florencio Files #29",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-recall-is-the-new-manner-mule-the-florencio-files-29/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-recall-is-the-new-manner-mule-the-florencio-files-29/",
+      "originalUrl": "https://youtube.com/watch?v=o86Yao_QKwU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o86Yao_QKwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M48S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Protoss"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/LWfgg9mOF6I/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/o86Yao_QKwU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -212,7 +211,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-02-17T19:44:36-08:00"
+      "publishedDateTime": "2018-10-13T16:35:08-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-salt-in-the-wind-the-florencio-files-109.md",
@@ -522,6 +521,36 @@
       "publishedDateTime": "2019-06-05T18:59:28-07:00"
     },
     {
+      "path": "_games/pig-starcraft-2-the-probe-in-its-natural-habitat-the-florencio-files-37.md",
+      "title": "StarCraft 2 - The Probe in it’s natural habitat | The Florencio Files #37",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  Florencios twitch: https://www.twitch.tv/flol2encio Florencios youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-probe-in-its-natural-habitat-the-florencio-files-37/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-probe-in-its-natural-habitat-the-florencio-files-37/",
+      "originalUrl": "https://youtube.com/watch?v=coefulEtQMw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/coefulEtQMw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M40S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/coefulEtQMw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-11-17T20:14:18-08:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-the-search-begins-smooth-brain-auditions-season-1.md",
       "title": "StarCraft 2 - THE SEARCH BEGINS! | Smooth Brain Auditions Season 1",
       "excerpt": "PiG has commenced the search for the next Smooth Brain to feature on youtube. Will we unearth the next Florencio, Boom, PrintF etc? Or are these brains wrinkly AF?  🔥 Are you the next SMOOTH BRAIN? Send your replay to RateMyStarcraft@gmail.com to audition. Add title (\"Smooth Brain Audition\") and to",
@@ -549,35 +578,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-13T04:26:25-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-the-two-cheesiest-players-have-a-fondue-party-has-vs-bly-cheesedown-part-14.md",
-      "title": "StarCraft 2 - The Two Cheesiest Players have a Fondue Party! | Has vs Bly CHEESEDOWN Part 1/4",
-      "excerpt": "We invited the cheesiest Protoss, Has, and the cheesiest Zerg, Bly, to have a Cheesedown with us to determine who is the best at serving fondue. PiG Sty Festival 2021 https://www.pigstarcraft.com/about/pig-sty-festival/  -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-two-cheesiest-players-have-a-fondue-party-has-vs-bly-cheesedown-part-14/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-two-cheesiest-players-have-a-fondue-party-has-vs-bly-cheesedown-part-14/",
-      "originalUrl": "https://youtube.com/watch?v=OI4n4PWs1TI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OI4n4PWs1TI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M16S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OI4n4PWs1TI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-12T01:01:29-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-the-ultimate-turkey-slap-the-florencio-files-19.md",
@@ -790,14 +790,14 @@
       "publishedDateTime": "2022-01-24T22:49:35-08:00"
     },
     {
-      "path": "_games/pig-starcraft-2-unbelievable-battlecruiser-vs-skytoss-war-diamond-in-the-ruff-37.md",
-      "title": "StarCraft 2 - Unbelievable Battlecruiser vs Skytoss WAR! | Diamond in the Ruff #37",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent? 🐷 Support PiG: https://www.pigstarcraft.com/support/  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-unbelievable-battlecruiser-vs-skytoss-war-diamond-in-the-ruff-37/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-unbelievable-battlecruiser-vs-skytoss-war-diamond-in-the-ruff-37/",
-      "originalUrl": "https://youtube.com/watch?v=yWLXURzFaDA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yWLXURzFaDA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M39S",
+      "path": "_games/pig-starcraft-2-viking-raids-diamond-in-the-ruff-38.md",
+      "title": "StarCraft 2 - VIKING RAIDS! Diamond in the Ruff #38",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran and Zerg opponents? 🐷 Support PiG: https://www.pigstarcraft.com/support/  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-viking-raids-diamond-in-the-ruff-38/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-viking-raids-diamond-in-the-ruff-38/",
+      "originalUrl": "https://youtube.com/watch?v=yg8cKadG2sw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yg8cKadG2sw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M4S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -809,7 +809,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/yWLXURzFaDA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/yg8cKadG2sw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -817,37 +817,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-03-10T20:48:41-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-unleashed-back-into-the-wild-the-florencio-files-38.md",
-      "title": "StarCraft 2 - Unleashed back into the Wild | The Florencio Files #38",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  Florencios twitch: https://www.twitch.tv/flol2encio Florencios youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-unleashed-back-into-the-wild-the-florencio-files-38/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-unleashed-back-into-the-wild-the-florencio-files-38/",
-      "originalUrl": "https://youtube.com/watch?v=FkJiwY8Y1Gg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FkJiwY8Y1Gg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M25S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FkJiwY8Y1Gg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-12-29T02:15:23-08:00"
+      "publishedDateTime": "2021-03-17T05:22:06-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-what-the-hell-is-this-bunker-rush-florencio-files-198.md",
@@ -909,6 +879,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-01-31T19:50:15-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-when-your-opponent-is-a-compulsive-liar-smurf-detective-6.md",
+      "title": "StarCraft 2 - When your opponent is a Compulsive Liar | Smurf Detective #6",
+      "excerpt": "SUBMITTER: \"EMPhammer, Gold 3-2ish, NA. I'm fairly new to the game, about 4-5ish months of experience, and my main account \"Wariosniper\" is a Gold 3 Terran currently on NA but I almost always play unranked due to ladder anxiety and I actually think I'd probably be in Plat-ish if I laddered more often.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-when-your-opponent-is-a-compulsive-liar-smurf-detective-6/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-when-your-opponent-is-a-compulsive-liar-smurf-detective-6/",
+      "originalUrl": "https://youtube.com/watch?v=Daa6k_sr908",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Daa6k_sr908\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M14S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Daa6k_sr908/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-10-04T04:51:22-07:00"
     }
   ],
   "nextPage": 22

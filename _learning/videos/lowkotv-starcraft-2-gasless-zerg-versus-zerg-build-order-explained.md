@@ -4,7 +4,7 @@ excerpt: "Zerg versus Terran Build Order: https://www.youtube.com/watch?v=ZOMj6X
 originalUrl: https://youtube.com/watch?v=OLpOrsJT96U
 type: video
 price: Free
-length: PT10M9S
+length: PT10M8S
 publishedDateTime: 2014-05-31T17:24:57Z
 heat: 50
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "j7hpzv8S6a/QtCRO5Ln1cwcZdPWv1/R1xe6m3K3mZJnCWLUAwVMC15kufRwd1iSODEASWmaYo69GyEiNWiW0baOXWwlUGAxB92HJKZPuABXCiCI7DvzxY4rRLsIb+5aKt48P+NQ/ExJVypX8stIELA0v315YR0q2U91z8hUTZgx63bFrHpzmWyjAtXsPLzLiy9FJLehWosPV4yofjz2mENtRNDTUxexw1XEfzX3QJF3o2yklQ7Rxb0dcfboCOVRozE519SPriFqetBX2KoAUObIYzxIQaeeAgyTf/5xyIukbDN8CKoh/17mshJj9km4eH1JJu7tsxQVdtd/Z818uCiyC/ffjrxH9cvcoJDF51wrfhNOrpRPw3/PvNtfD4lclihac0j1556XWdAdzIXcAzErGnAo0BlJpRHRDJ2A4jS8=;eYYAOKzbho1FnszOJyFmGw=="
+secured: "0HAetc7W3t8VpVly5hoJvLE7WeeFPuSCahRzVSLjl+/Wd6KR7wm8kyZGG6YvLJxDPrOrqthNg+QfkUH/Bsta0u/f7cOB0F6uMKWIWNtUGTOnUhqnur9LpSoYR4zqjuY4/8mVNxpe0FHuhlXI49tA4DH13E9XWlggXJCYBlGgXzTLyzdfPCho0FlMQBbsJUaMo1vjfqwj5ZddK8cvFEd/LJDRLn/pYr6Sdsg251NYpDWdZs6HV9cixCUtOJK8D+3wCK1NzczOMOoDKzM9Qk3W/QkASi15poN47yYaG07bvd/6JEFpD35CYJOvkrxUhRG+ERogcDxCefd2ANiR91dSrHf6oFBtNXly3jGLS60iheqwPP0eKw0P6v3oyvDZjQ5sD3mzGHYci/7+a6qSScwR30CzOWP+OtzsuxDk4n0VJdo=;fT5Ju3bvFjQMPvXA59zHrQ=="
 ---
 

@@ -4,38 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/videos/pig-starcraft-2-cheesy-terran-learns-macro-tvz-coaching-d2.md",
-      "title": "StarCraft 2 - Cheesy Terran learns macro TvZ - Coaching D2",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-cheesy-terran-learns-macro-tvz-coaching-d2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-cheesy-terran-learns-macro-tvz-coaching-d2/",
-      "originalUrl": "https://youtube.com/watch?v=uTFq0TFVs_k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uTFq0TFVs_k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H14M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-06-12T06:36:21-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-starcraft-2-coaching-diamond-tvz-long-all-the-details.md",
       "title": "StarCraft 2 - Coaching Diamond TvZ (Long) - All the Details",
       "excerpt": "I coach a diamond terran player on the details of his tvz. -- Watch live at https://www.twitch.tv/x5_pig",
@@ -930,6 +898,37 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2018-12-21T00:44:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-mine-drop-marine-pressure-opening-diamond-tvp-coaching-session.md",
+      "title": "StarCraft 2 - Mine drop + marine pressure opening - Diamond TvP Coaching session",
+      "excerpt": "There is like a solid 10 min of strategy talk at the start, if you are not interested feel free to skip this ;)   Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-mine-drop-marine-pressure-opening-diamond-tvp-coaching-session/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-mine-drop-marine-pressure-opening-diamond-tvp-coaching-session/",
+      "originalUrl": "https://youtube.com/watch?v=stod7cnr1ss",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/stod7cnr1ss\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H16M7S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-06-14T09:00:13-07:00",
       "heat": 50,
       "images": [
         {

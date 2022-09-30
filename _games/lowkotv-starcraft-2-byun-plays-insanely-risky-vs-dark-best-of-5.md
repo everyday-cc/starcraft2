@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=sLOViPQSyd8
 type: video
 length: PT49M32S
 publishedDateTime: 2022-09-19T11:44:39Z
-heat: 156
+heat: 139
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sLOViPQSyd8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 800
     isCached: true
 
-secured: "zabM7zNt7SoIEdPqMYIw1A2xlBzVggFmOPM6CO+2Z4wqyleZgRSqI4SkMVUvYt7q0VD4XOjfPsMfLymZRMVAeQwW7Rl2CRcN3rUWudBMRcXSv3ZfAn0vx7+nYisu/0UBM4mV1Hdi5yPiSFGUpVeB5YEcMKatvJ7VhNvL0/ixzcY2dbfp3EmRMgMY8oe5/Cx2hIpjMInAprL+oyuZmSKapa8hLLd5rl5Gp0VXdIrT7NPP2602gbJKaOcS9rwELgnZlQQdFeqbRpLeiReomZ5Xx+FYQJIWQU/XS9vZXd2QflkrifY8wWcr/hIwGkzUjoQ3G7RHXq19+hdxOE0LuqMVBMCsIOprtRR1/DCBkUZRFGBksvL7mFgeRyjwjUjCNiPIG+LoC2SD57b1nMXjibflNSzy0KEEma8qzuzxyuOKB5Q=;pkdKamhTV+a1AkWq9tx+eQ=="
+secured: "3DooYF23NMNKTGKGYnzqKAQTMZVmWKseSa9tZSXz5SKbUDFqm4rOpCaDTvnQuN8msobQMe/6PvC4gLycmwQNcxZHlokY+MBzmrDlwjcW0SQWfjWdO4q8Z5N72qRwgRk4kqZXecr7uKhM8SOAUILwLLkdMcPiVY6viZIudGbSq0gOYWUcz1oyAOBbqrOCA2A2r9guevYLeoerdUCcM8RoQPd18OHuGqPGnSuZ6x8Db8TGpx8JYBQKKiYC5NaOHAnD3vRo6oTSCg6gX8CVIx21d0SF47WSnkJ0AKLelAERRQ450bGLf0UnuJ8lJew6J7WhjYfSNmOBs/Ymr3/k1N/SHfkoICAfcxsLRMtxOHlG6bzCDJRXZ9y26YemeI4kJ4zsPn4sJwiNGvjaizK0mBclZZsVQ+a8a17kCCC/9sl5IFA=;idDmfrpuqhflHmxrk/aHYA=="
 ---
 

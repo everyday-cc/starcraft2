@@ -4,36 +4,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_learning/videos/pig-unlearning-f2-learning-hotkeys-and-3-rax-tvp-masters-coaching.md",
-      "title": "Unlearning F2, learning hotkeys and 3-rax TvP - Masters Coaching",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-unlearning-f2-learning-hotkeys-and-3-rax-tvp-masters-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-unlearning-f2-learning-hotkeys-and-3-rax-tvp-masters-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=LnSEPq8o20k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LnSEPq8o20k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H15M10S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-07-14T19:16:14-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LnSEPq8o20k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-vsing-turtle-skytoss-newbie-stream.md",
       "title": "Vsing Turtle Skytoss - Newbie Stream",
       "excerpt": "This is a highlight from my newbie/beginner stream where I analyse a players replay who struggles with vsing turtling skytoss players -- Watch live at https://www.twitch.tv/x5_pig",
@@ -908,6 +878,36 @@
       "topics": [
         "StarCraft 2",
         "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/quasargamers-minute-micro-episode-19-killing-scvs.md",
+      "title": "Minute Micro - Episode 19: Killing Scv's",
+      "excerpt": "Difficulty rating: 2/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on killing scv's that are constructing a building.  twitch.tv/Quasarprintf",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-19-killing-scvs/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-19-killing-scvs/",
+      "originalUrl": "https://youtube.com/watch?v=Nf6VcyW3JnA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nf6VcyW3JnA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M9S",
+      "provider": {
+        "name": "QuasarGamers",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-10-08T08:53:46-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Nf6VcyW3JnA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
       ]
     }
   ],

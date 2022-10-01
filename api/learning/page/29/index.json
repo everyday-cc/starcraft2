@@ -4,36 +4,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_learning/videos/quasargamers-minute-micro-episode-19-killing-scvs.md",
-      "title": "Minute Micro - Episode 19: Killing Scv's",
-      "excerpt": "Difficulty rating: 2/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on killing scv's that are constructing a building.  twitch.tv/Quasarprintf",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-19-killing-scvs/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-19-killing-scvs/",
-      "originalUrl": "https://youtube.com/watch?v=Nf6VcyW3JnA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nf6VcyW3JnA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M9S",
-      "provider": {
-        "name": "QuasarGamers",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-10-08T08:53:46-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Nf6VcyW3JnA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/quasargamers-minute-micro-episode-2-prism-chasing.md",
       "title": "Minute Micro - Episode 2: Prism Chasing",
       "excerpt": "Difficulty rating: 9/10  This is the second episode of a series of 1-minute videos explaining how to perform common micro techniques. This episode is on warp prism chasing  twitch.tv/Quasarprintf",
@@ -353,36 +323,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/T2iWrn62mlc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/quasargamers-minute-micro-episode-3-mine-dodging.md",
-      "title": "Minute Micro - Episode 3: Mine dodging",
-      "excerpt": "Difficulty rating: 3/10  This is the third episode of a series of 1-minute videos explaining how to perform common micro techniques. This episode is on dodging widow mine shots  twitch.tv/Quasarprintf",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-3-mine-dodging/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-3-mine-dodging/",
-      "originalUrl": "https://youtube.com/watch?v=Xv-dQfpZvQw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Xv-dQfpZvQw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M9S",
-      "provider": {
-        "name": "QuasarGamers",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-06-11T19:45:18-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Xv-dQfpZvQw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -787,36 +727,6 @@
       ]
     },
     {
-      "path": "_learning/videos/quasargamers-minute-micro-episode-5-flexible-focus-fire.md",
-      "title": "Minute Micro - Episode 5: Flexible Focus Fire",
-      "excerpt": "Difficulty rating: 5/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on flexible focus fire.  twitch.tv/Quasarprintf",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-5-flexible-focus-fire/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-5-flexible-focus-fire/",
-      "originalUrl": "https://youtube.com/watch?v=4h7W6FKy7Jk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4h7W6FKy7Jk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M8S",
-      "provider": {
-        "name": "QuasarGamers",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-06-24T10:10:21-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4h7W6FKy7Jk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/quasargamers-minute-micro-episode-6-target-fire-kiting.md",
       "title": "Minute Micro - Episode 6: Target Fire Kiting",
       "excerpt": "Difficulty rating: 4/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on target fire kiting  twitch.tv/Quasarprintf",
@@ -894,6 +804,96 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/c4cHooJBW08/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/quasargamers-minute-micro-episode-9-short-range-kiting.md",
+      "title": "Minute Micro - Episode 9: Short Range Kiting",
+      "excerpt": "Difficulty rating: 4/10  Target fire kiting: https://www.youtube.com/watch?v=oYvejpormlk  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on short range kiting.  twitch.tv/Quasarprintf",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-9-short-range-kiting/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-9-short-range-kiting/",
+      "originalUrl": "https://youtube.com/watch?v=klE9NrxuGqQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/klE9NrxuGqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M10S",
+      "provider": {
+        "name": "QuasarGamers",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-07-22T14:32:22-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/klE9NrxuGqQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/quasargamers-minute-micro-meta-episode-comments-and-corrections-1-24.md",
+      "title": "Minute Micro - Meta Episode: Comments and Corrections 1-24",
+      "excerpt": "Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is a review of the first 24 episodes  twitch.tv/Quasarprintf",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-meta-episode-comments-and-corrections-1-24/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-meta-episode-comments-and-corrections-1-24/",
+      "originalUrl": "https://youtube.com/watch?v=XxvFnbeh7-k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XxvFnbeh7-k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M11S",
+      "provider": {
+        "name": "QuasarGamers",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-11-18T08:55:16-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XxvFnbeh7-k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/quasargamers-minute-micro-meta-episode-cosmetic-update.md",
+      "title": "Minute Micro - Meta Episode: Cosmetic Update",
+      "excerpt": "Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode highlights a major update to the practice map  twitch.tv/Quasarprintf",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-meta-episode-cosmetic-update/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-meta-episode-cosmetic-update/",
+      "originalUrl": "https://youtube.com/watch?v=PhvD17l8FmM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PhvD17l8FmM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M9S",
+      "provider": {
+        "name": "QuasarGamers",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-27T13:49:54-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PhvD17l8FmM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -4,68 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-terran-ladder-gameplay-2020.md",
-      "title": "Starcraft 2: Terran Ladder Gameplay [2020]",
-      "excerpt": "Some more Starcraft gameplay for you guys today! It's 2020 and it's time for some Starcraft 2 terran ladder gameplay to mix it up.   Terran is the last race I needed to grind into masters so the next gameplay video will be against much stronger ladder opponents. Still, I think this terran gameplay will",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-terran-ladder-gameplay-2020/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-ladder-gameplay-2020/",
-      "originalUrl": "https://youtube.com/watch?v=yCBRHiAlvv4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yCBRHiAlvv4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M49S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-09-12T16:22:54-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yCBRHiAlvv4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-starcraft2-protoss-build-order-guide-dark-templars-425.md",
-      "title": "Starcraft2: Protoss Build Order Guide (Dark Templars @ 4:25!)",
-      "excerpt": "In today's Starcraft 2 guide/lesson we are looking at a very powerful protoss vs zerg build order. We drop dark templars at 4:24 and at the same time harass another bases drones with 3 adepts. Very difficult for zerg to defend.  Protoss Build Order Guide - Protoss vs Zerg - Dark Templar Drop #BuildOrder",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft2-protoss-build-order-guide-dark-templars-425/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft2-protoss-build-order-guide-dark-templars-425/",
-      "originalUrl": "https://youtube.com/watch?v=d3UPyQPRA5M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d3UPyQPRA5M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M33S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-12-10T21:49:34-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/d3UPyQPRA5M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-terran-vs-terran-learn-this-one-weird-trick-to-macro-like-a-gm.md",
       "title": "Terran vs Terran | Learn this one weird trick to macro like a GM",
       "excerpt": "Terran vs Terran | Learn this one weird trick to macro like a GM In this guide we talk about how you can continue to improve your macro into diamond and masters, where everyone is already making scv's consistently. What more could there be right? Let's take a look!  #starcraft #sc2 #terran #tvt  Starcraft",
@@ -961,6 +899,36 @@
       ]
     },
     {
+      "path": "_learning/videos/pig-5-reasons-youre-not-improving-at-starcraft-2-and-how-to-fix-it.md",
+      "title": "5 reasons you're NOT improving at StarCraft 2 (and how to fix it)",
+      "excerpt": "Here are 5 reasons you're not improving at StarCraft 2! I get asked \"how I do improve\" every single day so I figured it's time to make a video that gives some good answers for it. Hopefully this is useful to you! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-5-reasons-youre-not-improving-at-starcraft-2-and-how-to-fix-it/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-5-reasons-youre-not-improving-at-starcraft-2-and-how-to-fix-it/",
+      "originalUrl": "https://youtube.com/watch?v=czQpGmd65JQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/czQpGmd65JQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-07-09T21:06:06-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-beginner-mechanics-welcome-to-starcraft.md",
       "title": "Beginner Mechanics - Welcome to Starcraft",
       "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;)  -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
@@ -1018,6 +986,37 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-can-you-beat-grandmasters-with-bronze-builds-from-pigs-b2gm-starcraft-2.md",
+      "title": "Can you beat Grandmasters with Bronze Builds? (from PiG’s B2GM) - StarCraft 2",
+      "excerpt": "Some people think B2GM Bronze or Silver builds don't work, so I used them in Grandmaster games to show just how effective they can be! Watch the Bronze to GM Playlists: Zerg B2GM : https://youtube.com/playlist?list=PLFUDU8AOevUd6ej64SOB429mHyuRL-XC9 Terran B2GM: https://www.youtube.com/playlist?list=PLOrKQEirgvjC6wYzKFAYaIBI5kaIS9NX5",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-can-you-beat-grandmasters-with-bronze-builds-from-pigs-b2gm-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-can-you-beat-grandmasters-with-bronze-builds-from-pigs-b2gm-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=7OnKLUBf35U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7OnKLUBf35U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M46S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-05-18T03:20:43-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
       ]
     }
   ],

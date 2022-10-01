@@ -4,37 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-standard-zvz-opening-part-2.md",
-      "title": "Standard ZvZ Opening - Part 2",
-      "excerpt": "Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is a website where you can contribute a monthly donation that will help",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-standard-zvz-opening-part-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-standard-zvz-opening-part-2/",
-      "originalUrl": "https://youtube.com/watch?v=eTIxEgIViWg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eTIxEgIViWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M35S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-05-27T14:40:25-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eTIxEgIViWg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-standard-zvz-opening.md",
       "title": "Standard ZvZ Opening",
       "excerpt": "https://drive.google.com/open?id=1rxFigz8SV5okMVa10TdNsyzravYgkTjE  Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is",
@@ -920,6 +889,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hp5Ap6rdxfE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-terran-vs-zerg-controlling-expansions-playing-outside-comfort-zone.md",
+      "title": "Terran vs Zerg | Controlling expansions & playing outside comfort zone",
+      "excerpt": "In today's Starcraft 2 lesson we take a look at a Terran vs Zerg match where the focus is on controlling zergs expansions and limiting their map control. This type of play-style is a bit outside my comfort zone & I recommend taking some time to do this on occasion. Push your boundaries and play styles",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-vs-zerg-controlling-expansions-playing-outside-comfort-zone/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-terran-vs-zerg-controlling-expansions-playing-outside-comfort-zone/",
+      "originalUrl": "https://youtube.com/watch?v=pRdYiYcVzX4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pRdYiYcVzX4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M59S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-08-06T14:21:12-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pRdYiYcVzX4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -3,7 +3,7 @@ title: "Restricted Units! - ICYFAR - Games 3-4 The PiG Daily #120"
 excerpt: "THIS WEEKS ICYFAR: Basetrade! Send in your best matches involving basetrades!- Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as title! Latest submission until second daily of the week. 20/2/2017\r  Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb"
 originalUrl: https://youtube.com/watch?v=zZZAihI-EPs
 type: video
-length: PT24M37S
+length: PT24M36S
 publishedDateTime: 2021-06-01T12:46:41Z
 heat: 50
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "yjuKISEXVaYdcCKur93KvKePdxVzhHKkdg/GFM1/mnp4Ri9wDUkv9sHK2fjkDvUx5OeNFKT9arGkztPgtEpe5F0qMxbFEG54/qrwOg2ZN8JvLFfjC4aEFwAD7WUKXyOU7mXh81C9IvhnPcfAnpv8+kwegZLzb44w0HtBGm9cwqtd0RKbeTTOPuJDCJLE6zfFbH4nwp7ioS4W19PW87vC8Il1gzxcaOCh6Yy2SV6+nzs7YNdS5cOC9a3RbEYbXcTBsfa+i+C4w07mEXUqcVTM6upeoJbRRQH4oiPZV85Ts6I5+VLtd1rolqcQVgwDcjoUaTdCW5ft43mhAcE3Gu6ONokb3Z8M1ABaWlOxyyQQfcftWb3KJPhuzRNWJg4/ehaosPcDZKfqm8Z/5sE83pkI7yKqWgjBOEt9oMrlHDZbuzg=;8JUxqhkKlyf9EH1a+fAjCw=="
+secured: "lsKtttXwdfkVvvYHSbpvDTN6VnBdoEEgSbKO1TfVgu0DNtZxVgssTxgWbmMXkCodf8NtrYsDFaE29KMc2teGARBEqm/X9POiWaMFt20aB6LFNtGjOF1Ag6n/MlrzxFFrvMYk+1al0gY/+5uLW5ayI9u/jRv+Mx8zCUYb96J+WQSbp4xWWW9hEl/WwcPbSdwJdWTHJOf1+iqVJ7WOiVsVN4C7Dp30fRCTjyra8jrC6yyCgU5zdC2khp9Hc962pVmRRosBHh/WXynrXFAt1WEk6pSuPieFLP+eeirs7XXUgSBWcV1s47i1tG4h3vaYgF/a6UpLqEFcXWd/aSaPHpvWxsdhQ1Kt90N4GGKveqzElMz34lmhJ1v8XeqBbIM6m2pRtgRPb2fenH8rIq8OaSfPCFD7OdM/uAPufdbX+CYs4oA=;uEmIPkLYKTTK/mSmCDCgeg=="
 ---
 

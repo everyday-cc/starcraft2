@@ -4,7 +4,7 @@ excerpt: "This feature also works while observing in replays! Feedback and tip s
 originalUrl: https://youtube.com/watch?v=ugvyTajOhIg
 type: video
 price: Free
-length: PT58S
+length: PT57S
 publishedDateTime: 2017-10-19T22:31:50Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Ry2IoPhLDnjB9MZzkQXVU0+xJm1cBQuSNV3+sHPO6tY9ZKzgpOyxnei/cyse5L4NvarVoSE1eUDzHpd/z3766NUlTJbAz8KSQ8DJpvFlxOgwkgWUNyR7LG0m0TfPxdeiBip/6BPf/Yet0L7IRyg2GnzxSu9GYIpZWiRzFkUi4cMV5IpfCMDMbDyd6ZkyQ2UeZKWMiAOYl30hcFhW7KBMrNmVerd/6xIR60LFmEZbLklMRfQs3Jp+unWFieowm91SKDIY1ifvwCOYeWEykbnb5xxCibhmjsmZFzUO4sOU1/H1pwCDMTsXwAGQndrbPznQMdVe/1Cv6TkGivqvqB6XsagDR0l6Qd9aV8zbxpfEFrC26uHasbsPIR3qe/FXyjW5xQnT3N4vmz3nj5PseyIP7/YUtHYIvcMo0Ng+BUmKY8U=;SWADMNEQHLQvvETDByuFMg=="
+secured: "q9BUCbM907GKm8gdPGITa+YvZcyE1vY0Vk8YxXD9P3fbRK/6YqhWZaIAaFMLkV678AwQXX8w9F8I4NoU4OTWrc5NhTSt7DmUeMOgYINsebRKULL7k5hEPSTxb/xQut5ti7dZeYqNgjGpU3ySK5VpslK9DL4QPl9DLDrQEC7ABDaaKAa5Gg9kmEyOlM8LIR4m8EO/jWOysA5cdyDeo7I49IAJx+h+wYeDyJOuNvxu+zX1HJqwJIUCdxAVuCwROGewxzU5+dcQIsdKpEuM7VonnWw60Zan6O3ijCePEA0VjTEyhONR1Buf2aEW6B5kKjAatzSpPI4C/Z6u8FcTMCCvkJx0LAjUiKRikc6BQQjcjThAw09X36raErG6BKVVDJhw9jaeg6Bmo/E7nFKqBlTPiTD8vhuBcyi92/KEu/81uP8=;preHTQjf87Pg/RlWGd+Xuw=="
 ---
 

@@ -4,6 +4,44 @@
   "page": 18,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-the-hero-spore-crawler.md",
+      "title": "StarCraft 2: THE HERO SPORE CRAWLER!",
+      "excerpt": "Never make fun of another man's Spore Crawler... Subscribe for more videos: http://lowko.tv/youtube Crazy Protoss micro: https://goo.gl/tvhEza  In this game of lower level StarCraft 2 it is clear both players are trying to execute a different playstyle. One goes for Roaches and Hydralisks, where as the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-hero-spore-crawler/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-hero-spore-crawler/",
+      "originalUrl": "https://youtube.com/watch?v=DiM9h_0JikI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DiM9h_0JikI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M38S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DiM9h_0JikI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-05-19T03:59:33-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-hero-widow-mine.md",
       "title": "StarCraft 2: THE HERO WIDOW MINE!",
       "excerpt": "Platinum League Terran vs Gold League Protoss in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/cgiE8V  If you have an awesome replay of StarCraft 2 that you think is worth casting, you can send it to replays@lowko.tv.  Check out Lowko merchandise:",
@@ -580,45 +618,6 @@
       "publishedDateTime": "2022-02-21T04:35:13-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-thors-vs-disruptors-innovation-vs-parting.md",
-      "title": "StarCraft 2: THORS vs DISRUPTORS? (INnoVation vs PartinG)",
-      "excerpt": "Awesome game of top-level StarCraft 2 between INnoVation and PartinG. In this game of top level Terran versus Protoss both players have to constantly micro to get the most out of their StarCraft 2 units.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-thors-vs-disruptors-innovation-vs-parting/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-thors-vs-disruptors-innovation-vs-parting/",
-      "originalUrl": "https://youtube.com/watch?v=oR6SwL0SIxU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oR6SwL0SIxU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M48S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oR6SwL0SIxU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-11T03:23:26-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-tlos-queen-drops-versus-neeb.md",
       "title": "StarCraft 2: TLO's QUEEN DROPS versus Neeb!",
       "excerpt": "Best-of-3 series of StarCraft 2 between TLO and Neeb. TLO has always played his own brand of Zerg, and he once again goes for some cool attacks versus Neeb.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
@@ -811,44 +810,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-02-14T04:56:07-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-trap-walls-the-middle-of-the-map-trap-vs-time.md",
-      "title": "StarCraft 2: Trap walls the MIDDLE OF THE MAP! (Trap vs TIME)",
-      "excerpt": "Professional match of StarCraft 2 between TIME (Terran) and Trap (Protoss). In this game TIME decides to play a very laid back style where he masses up in the way that Maru likes to. Trap tries to fight at many opportunities but can't properly break the Terran turtle.  Support my work on Patreon: https://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-trap-walls-the-middle-of-the-map-trap-vs-time/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-trap-walls-the-middle-of-the-map-trap-vs-time/",
-      "originalUrl": "https://youtube.com/watch?v=i32zsuJxptU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i32zsuJxptU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-02T02:38:25-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-trap-zergs-zest-with-his-protoss.md",
@@ -1157,6 +1118,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-03-30T05:01:40-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-when-behind-go-dark-shrine-twice.md",
+      "title": "StarCraft 2: When Behind Go Dark Shrine... TWICE!",
+      "excerpt": "Amazing game of professional StarCraft 2 between Astrea and Trap. In this match of Protoss versus Protoss we see very high level decision making and unit control.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-when-behind-go-dark-shrine-twice/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-when-behind-go-dark-shrine-twice/",
+      "originalUrl": "https://youtube.com/watch?v=0SlB8B7UdZI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0SlB8B7UdZI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M27S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0SlB8B7UdZI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-19T02:13:18-08:00"
     }
   ],
   "nextPage": 19

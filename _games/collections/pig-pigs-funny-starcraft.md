@@ -939,6 +939,7 @@ items:
   - pig-world-record-uthermals-1-terran-v-7-insane-terran-ai-pig-reacts-starcraft-2
   - pig-straight-up-psycho-has-deranged-outburst-salt-mines-15-starcraft-2
   - pig-i-faced-uthermals-meme-builds-in-a-pro-tournament-starcraft-2
+  - pig-new-world-record-1-protoss-v-7-insane-protoss-ai-by-goblin-pig-reacts-starcraft-2
 
 topics:
   - StarCraft 2

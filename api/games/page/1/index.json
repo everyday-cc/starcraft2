@@ -209,6 +209,36 @@
       "publishedDateTime": "2022-09-11T05:45:43-07:00"
     },
     {
+      "path": "_games/pig-new-world-record-1-protoss-v-7-insane-protoss-ai-by-goblin-pig-reacts-starcraft-2.md",
+      "title": "New World Record! 1 Protoss v 7 Insane Protoss AI by Goblin (PiG Reacts) - StarCraft 2",
+      "excerpt": "Like and Sub to Goblin NOW https://youtu.be/I592jQfZyKA ~~~ I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! World Records have been falling left and right since uThermal did his 1 Terran vs 7 Zerg Insane AIs video. We've seen HeroMarine step up to do 1 Terran vs 7 Random",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-new-world-record-1-protoss-v-7-insane-protoss-ai-by-goblin-pig-reacts-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-new-world-record-1-protoss-v-7-insane-protoss-ai-by-goblin-pig-reacts-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=xVyt1M-Goaw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xVyt1M-Goaw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H21M7S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 215,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-04T19:50:55-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-tired-of-the-ladder-maps-zest-vs-armani.md",
       "title": "StarCraft 2: Tired of the Ladder Maps... (Zest vs Armani)",
       "excerpt": "Five games of professional StarCraft 2 between Zest and Armani. In this series we don't see them play on the standard ladder maps, but instead they play on Nautilus II, Roughneck and Golden Wall. Nautilus II and Roughneck are currently being played in the GSL Code S tournament. Golden Wall is one of",
@@ -943,83 +973,6 @@
       "publishedDateTime": "2022-02-10T17:37:20-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-winters-game-of-the-year-clem-vs-showtime.md",
-      "title": "StarCraft 2: Winter's \"GAME OF THE YEAR?\"! (Clem vs ShoWTimE)",
-      "excerpt": "Amazing game of professional StarCraft 2 between Clem (Terran) and ShoWTimE (Protoss). In this match we watch two players constantly trying to outsmart and outpace the opponent, by attacking in as many different areas all at once.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-winters-game-of-the-year-clem-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-winters-game-of-the-year-clem-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=3yCwp2CYc3A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3yCwp2CYc3A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M42S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 138,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-29T03:17:44-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-epic-game-byuns-great-escape-vs-hero.md",
-      "title": "StarCraft 2: EPIC GAME - ByuN's GREAT ESCAPE vs herO!",
-      "excerpt": "Professional match of StarCraft 2 between herO and ByuN. This Terran versus Protoss is a nail biter as nearly half an hour into the game, the match is still not decided.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-game-byuns-great-escape-vs-hero/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-byuns-great-escape-vs-hero/",
-      "originalUrl": "https://youtube.com/watch?v=VTWlvFUmQlc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VTWlvFUmQlc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-02T04:48:57-07:00"
-    },
-    {
       "path": "_games/pig-when-you-go-mass-ling-drops-but-theyve-got-skytoss-starcraft-2.md",
       "title": "When you go mass ling drops, but they've got SKYTOSS! - StarCraft 2",
       "excerpt": "I gave myself a challenge: to do mass zerg drops. LOTS OF DROPS. Let's see how it does on the StarCraft 2 ladder -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig",
@@ -1047,6 +1000,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-24T19:41:45-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
+      "title": "StarCraft 2: SERRAL vs MARU! (Best-of-7)",
+      "excerpt": "Merry Christmas everyone! The two best players currently in StarCraft 2 face off in a best-of-7 series. Serral (Zerg) takes on Maru (Terran). This is the Grand Finals of King of Battles 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-maru-best-of-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-maru-best-of-7/",
+      "originalUrl": "https://youtube.com/watch?v=NtD2vnq5rTY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NtD2vnq5rTY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H22M32S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 122,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NtD2vnq5rTY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-12-24T13:58:31-08:00"
     }
   ],
   "nextPage": 2

@@ -4,45 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
-      "title": "StarCraft 2: SERRAL vs MARU! (Best-of-7)",
-      "excerpt": "Merry Christmas everyone! The two best players currently in StarCraft 2 face off in a best-of-7 series. Serral (Zerg) takes on Maru (Terran). This is the Grand Finals of King of Battles 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-maru-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-maru-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=NtD2vnq5rTY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NtD2vnq5rTY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H22M32S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 122,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NtD2vnq5rTY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-12-24T13:58:31-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-insane-macro-showtimes-400-zealots-vs-maru.md",
       "title": "StarCraft 2: INSANE MACRO - ShoWTimE's 400+ ZEALOTS vs Maru!",
       "excerpt": "Professional match of StarCraft 2 between ShoWTimE (Protoss) and Maru (Terran). In this epic game of top level SC2 ShoWTimE takes the entire map and sends in waves of Zealots into a turtled up Terran.  Serral vs ShoWTimE: https://youtu.be/cbQw9rvkado  Support my work on Patreon: https://www.patreon.com/lowkotv",
@@ -150,6 +111,44 @@
       "publishedDateTime": "2022-09-10T01:29:33-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-swarm-host-troubles-viewer-games.md",
+      "title": "StarCraft 2: Swarm Host TROUBLES! (Viewer Games)",
+      "excerpt": "Viewer submitted games in StarCraft 2. In this video I cast two games of SC2 that were submitted to replays@lowko.tv.   00:00 Terrible cheese 19:51 Swarm Host troubles  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-swarm-host-troubles-viewer-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-swarm-host-troubles-viewer-games/",
+      "originalUrl": "https://youtube.com/watch?v=BYudrw0Lkho",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BYudrw0Lkho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M37S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 113,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-08T03:50:20-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-seige-tactics-g1.md",
       "title": "StarCraft 2 - When You Build a Base In Their Base... | ICYFAR \"Seige Tactics\" G1",
       "excerpt": "🤯 NEW ICYFAR CHALLENGE: One Base Openers - You're not allowed to start building an expansion until after 5:00. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 21st May. -- 🤯 In this week’s episode of I Cast Your",
@@ -177,6 +176,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-27T23:30:12-07:00"
+    },
+    {
+      "path": "_games/pig-when-youre-losing-and-tilting-hard-its-time-to-channel-serral-pig-vs-kiwian-part-3-sc2.md",
+      "title": "When you’re losing and tilting hard, it’s time to channel Serral! | PiG vs Kiwian (Part 3) - SC2",
+      "excerpt": "This is part 3 of my bo5 ZvT showmatch vs Kiwian (Top)! So far we've seen me struggle against BCs and tilt HARD in game 3. Can I make a comeback from 1-2 down in the series? -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-youre-losing-and-tilting-hard-its-time-to-channel-serral-pig-vs-kiwian-part-3-sc2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-youre-losing-and-tilting-hard-its-time-to-channel-serral-pig-vs-kiwian-part-3-sc2/",
+      "originalUrl": "https://youtube.com/watch?v=ijko1Ke8r4A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ijko1Ke8r4A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M6S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 111,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-08-22T00:54:39-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-back-to-back-battlecruiser-battles-maru-vs-dark.md",
@@ -1027,45 +1056,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-29T04:15:35-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5.md",
-      "title": "StarCraft 2: GREAT SERIES - Serral vs Maru! (Best-of-5)",
-      "excerpt": "A best-of-5 series between the best players that StarCraft 2 has to offer. In this video I cast a Zerg versus Terran in SC2 between Serral, the current World Champion of StarCraft, and Maru, the most succesful player from South Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=CpV_kNyL-vI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CpV_kNyL-vI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H5M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 91,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-05-04T04:56:34-07:00"
     }
   ],
   "nextPage": 3

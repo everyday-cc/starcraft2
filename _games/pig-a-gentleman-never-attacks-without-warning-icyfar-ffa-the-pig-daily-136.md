@@ -3,7 +3,7 @@ title: "A Gentleman Never Attacks without Warning - ICYFAR - FFA! The PiG Daily 
 excerpt: "THIS WEEKS ICYFAR: \"Ode to Byun - Show off your sickest micro\" - Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as title! Latest submission is 24 hours before the show airs on the tuesday daily (3rd daily of the week).\r  Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb"
 originalUrl: https://youtube.com/watch?v=N0ebc6sjj8I
 type: video
-length: PT25M41S
+length: PT25M40S
 publishedDateTime: 2021-06-01T12:46:41Z
 heat: 50
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Rdj9e6r9z49Fm9MZnB9EwH+6/qK2TSsiqx6SfGp95SKfHJfmcJKZXgh6RYOQBsQFro1utrIqUHoUUAuhBY3KJWBWTKz40Quv6W507piH9Xu62b3WANC5lPSg62Ts9dbNRUqfwg6CjDWL88KZJWhcHg6w+MuFGLdWdtn+jQYvTbN8yG6YfboiDxfuLpMO2zdM/cgUfszDnSwq8eY2zPOhvN0RyGkYWbBwthYjoqKnMbFPuI4CtAe75T3JjnsdmlDXb2wE3GSGHEHtOGeWiPcXuIPcPBp934+OXuKvfCptXIirE8JX5SxJjNxcSS6Hcr5jvT+2tO/dMsE4O23AE76wr5rv/x2nHQHywjiwN/4D9GX7M2Kzw/zBHaq+pYnVaaLb39mzgi1CBEuHfjd6CuPY+IYF1VBTrAc3MKcFzAmJrMI=;z+jm3rbUK6IM4+dVQ+YQXA=="
+secured: "ewQBd+6yNt1VpbP3FcQwR50tPFvtoWn3YDimp8FBeUy/DI9Uxf07v1cwQAuzvhRChJejO5L6rKeBh9SoPBRkO903+AeHdhTdZA5609Pe69R+6z98pR+mJfm7d8HMowxwYGEhaICl2HLEYkVR1qgIj71BRSLbVPrcMtrNEuIFftyAJGtpCzNRO4rU23Zj9N8g9ceTGKEArX2PaS7L0TAvccuZqXka2iPmELtAwAO2CnrEHoj1hjKuVV28mtfK2kRBKKmQftIA/Tc4f1VDv7W3zzgo1bYSspVaG10H7DwHTTQb+Pcm+mtNVkOqk+0Jazfe13rqUVCjprM7xIHCFOod3aVGeSE5MqsFWf9RBbewyjxUxRv1/8riWXCN8rXIwUwN76HWf+nC4BBD7Xs3QlP587wPyUxlGutiGa+FUs6mXF4=;4JUIXX1nqPYNlfseAAQZNQ=="
 ---
 

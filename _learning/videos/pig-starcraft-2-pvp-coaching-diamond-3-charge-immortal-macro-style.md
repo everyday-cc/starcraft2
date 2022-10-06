@@ -4,7 +4,7 @@ excerpt: "A PvP coaching session! We look at how to strengthen Steve's earlygame
 originalUrl: https://youtube.com/watch?v=UZlNLg01BG8
 type: video
 price: Free
-length: PT1H7M21S
+length: PT1H7M20S
 publishedDateTime: 2017-03-26T06:29:14Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "6HC3m9LKQ/Sb4wJH0JnuB9tUPQJ4zzqOnwkHqAJa6kaARK36rZmBmzftDx1tk0q+o8LsmkXmY195nGTlSFHG8plRQFOjhGxMdnhoaKhlt73PjG553e76FnjZ0QwTndiarQZRS4C9UHF5TCIwxB/1Su7a8C0mh7qV4gAjJL+Am2SWW7og5O+7zamlOVUcfjNJDBNc5IYvIKj/DzwY/18hwtMub81fcs8V7CsE8GC5zzBEvlE17fdSrMmoNPwq3AanT0Q+pLqxIeG7CSkyimiIunlp0EpvlQGOXjnFkILupa626YsYCS+meQKg7WrzO+zb/70FkhFMfHcgfAYYEsLCW9h0RCGd1qv5rKTR7WH0XvsizEpMSSSp09rsq+JifR8ut2F51g3oVo6Yg+jPx3PNeX5uvHoWRBpfQKZ+NQjp1B4=;2AFtu2sb45s63oIpXjD3Ow=="
+secured: "qe3703aRNkJVqm+W3W+2BGIfamQt0P4xmdtNBsLGUy30UH/ONyqj1o/qx9IKOTWF0gyWFZJ4LehsmGdxz7HUb5udpziB+Xgk1pcztTFPwqKNYq+AbSGcNOaXjg6nehCYVmxWGVauYmplwaCLdnH9+vBqn8qyvAMUyHuWM5qY4hu1wcS8FlqMt7zlge/kxBwfoMxY3tvUyTAZoq84hsxoxj6LYKEI66y5t/VeuprLFiL2uv15BI9RF0yvgSs1CAuMOi3tMYg9a/mUemXCZNNcTsQqymQkdZgaEPQFsvYb+w+47dJW3RuiBHksMs/wf88xqGu15I4mN/HoMu5W7hdwStNcVXYPtePIDSoTlgdYHSZimCTcGymYTvvhQzFOa1yA7s8Hj68W9PRDwEtqaZchrBkKTVldqXgOkGdNYHw6aKI=;8W0giAFHuGeEtVeoqINJ0A=="
 ---
 

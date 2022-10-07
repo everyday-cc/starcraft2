@@ -941,6 +941,7 @@ items:
   - pig-straight-up-psycho-has-deranged-outburst-salt-mines-15-starcraft-2
   - pig-i-faced-uthermals-meme-builds-in-a-pro-tournament-starcraft-2
   - pig-new-world-record-1-protoss-v-7-insane-protoss-ai-by-goblin-pig-reacts-starcraft-2
+  - pig-harstems-brain-breaks-in-the-most-insane-sc2-game-ever-vs-smooth-brain-boanaan-starcraft-2
 
 topics:
   - StarCraft 2

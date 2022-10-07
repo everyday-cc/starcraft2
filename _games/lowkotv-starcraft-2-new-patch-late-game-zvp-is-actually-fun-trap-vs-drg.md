@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=uKFTTb0SqNk
 type: video
 length: PT23M47S
 publishedDateTime: 2022-03-31T10:02:28Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uKFTTb0SqNk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 800
     isCached: true
 
-secured: "RXU5XQVGNMTGLlkOLBuAJ2zTH+XkYhHF1yZFC6eqxw3LhhFMreMKUCEwCevqg1/9AERBraxK0eTA9wMbg8+U6qWK3U/oRCNLDywJ3aYaPt7hzGYPdCyVuApMdqV5ocZnkAC2TQGFOVAx+0VA5cX1PFbs8/zq2ffT1LUrj2Y+4VQjzFSaTC/PR44s50axpjTRovNDE/pxd7w9Zy6u99TjimLLg+byRQqNkGBj2VrwXRVb+PnhpoZM48vPxOTI6W1u8pbi/MvV0cayJLaIvoAY0ckeNVyhSAW19tkDWpIU1RITQFJD6aT0qRNj4OJKO0kyrkeYNEp+jA0XjqkzlHOI/zd/B9JAPm/qfghhuY8iizi4m0V39eOERwCDPH0jv7FGkQgJnX2Uy0+o36/2D5zkxEGBzH9r5bTvu8PjWJGX6QI=;rJek7jSHNdRyjjCUXHiLIA=="
+secured: "8HSaTo319oqtbl90FfcduO6235BTCV6O7s43YrJMVRgwelWyYfBE3tYQzCUumQhGiybvIztmghJL1JVlqdOtupaXdNe6V7VmnfgSy36v77O85eKWQi1lFLV+IijqkE3ekAdRDgFHGktU9DuuO0shJ+pxc65FZmTFUWSjlggpwY9qydhZSgyJ3SQ+EkPGfLNleGO8Q7FFCkxUpK8aFHflzNN7WOJ8weO4KXyI3IKIZCDU4/V06+EgC8bhGyyBTND5iZRFDE+bG5sjcpPk1gxKEpQ0ItWH1lAoW3cYqY9rCq7138ojCuDCasoeQAZ+8UPVXipS112IK+hNn0pEpLIsSHQrsBCA6Cl/Q9VVW35kI3XGBHNCPAenLQe/lytS69hiQF277Ns7eF86A+Izqdh22yqb7I/VN/s1p0a+KuHU9IM=;2VhbujLoh1rGb8AnCtAlNQ=="
 ---
 

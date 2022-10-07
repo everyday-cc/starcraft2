@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=AVpCZctKdew
 type: video
 length: PT25M47S
 publishedDateTime: 2022-08-03T23:36:52Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AVpCZctKdew\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "2BkEYfBYdVAcNOPgiqtlCqGde0CWGjaefgjtTDU+K6C43Xat6f4deY8Co90DYWmbRixKHi6knrP2lko9qe4Xoi1NF3uuCfK6XIQEzJOow5WIooGJNQrRrPgXf9EUE7Nv0WUL5xMlKIChLwxmeMN3x0BYz24j0mUjG63RiqkZXt9tBkZP2wvnkuJrIx0aMNVC+H5DA9knYgTY6EzAmw/AndvBOoEmehJszOhUF8sURz5vDWAJmTu4fJR6Iwz7ZKLB/vqZ5XHLKC/djzvZ/5UukWHqVJENJGiTMr7tGelR1cMRH9W9NshgYXepODuGvCVh2jd+7xk7841pGC3vQ/+/7wFkBCEoQfgoBQrBT7JMbGeEOSrKIvOOrc0lYbxgtkZiafdgqGlgo6IOX0MF5gMysdz3hp4ZHYjJu/EozUrIlpo=;2b4MFMhuWpzdWrI0KRPU5A=="
+secured: "oL8OHrkYo452H94quSo5KJt4nvowlElPcQ5NUVWql8uBGOhRTJGSppu35CAC/H+HJdtAcn07/SoxoTV/pc0v+CDNLqTspgknByUNzmQe5FE9SwZU7TMIuT4aG4Xm8YrqN9IrYx+DTjNbA3UWCNxcJozMvoBSK381ZUce2eSo/XDiyGRzPSZuXogfvbIbH/0ICRDOpbSVJ5i0QYPY8cwgB+dyTZk6NTGLj7f3DwmsyO7x6Gmw2E8sO25RZDhUBJMhS8we8N6dQJbdzNzsKV2uQVShfcGzSPZI/Yo5X2eSm4bq5CurcV3fForvUHiUoNR89sKY8zflERSYxAd+WkG1TFdwCdV52VHG/wQwYKuOBtTLBf1Hpv1KOUaFuDOYwn6IhTouFjMVR8UQcVDxGrEsOzsCPp8rWqsnUT2W4UGxTxg=;/gavoqga8bXYg4vUTtjAMA=="
 ---
 

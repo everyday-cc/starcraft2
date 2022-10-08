@@ -5999,7 +5999,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2018-12-21T00:44:33-08:00",
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/fefPVib7OjU/maxresdefault.jpg",
@@ -8046,7 +8046,7 @@
       "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-coaching-platinum-pvp-pvz/",
       "originalUrl": "https://youtube.com/watch?v=2EjGb4kHGik",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2EjGb4kHGik\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H8M49S",
+      "length": "PT1H8M48S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -8719,7 +8719,7 @@
       "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-coaching-tvz-2-1-1-micromacro-balance-d3/",
       "originalUrl": "https://youtube.com/watch?v=xnIgmUNoBqs",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xnIgmUNoBqs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M43S",
+      "length": "PT27M42S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"

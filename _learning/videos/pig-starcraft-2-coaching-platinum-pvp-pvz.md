@@ -4,7 +4,7 @@ excerpt: "I coach a Platinum/Diamond Protoss helping him adjust to the new patch
 originalUrl: https://youtube.com/watch?v=2EjGb4kHGik
 type: video
 price: Free
-length: PT1H8M49S
+length: PT1H8M48S
 publishedDateTime: 2018-12-21T08:42:45Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "zWzU+cSOaiZchuXO8Jn9rZRd6qcVkTOqVgUrzdo7Q9s9XguLP6AVF0Ahj8WNyCdRjhl+RhLyaBShlVOTKP1+sGcKBI8JSWLUGMD62Zyoh1raKjqV1LTlkFQph/t8psjsvkKcxZP43gORAEZOQ0x98b4dDc3CsvbTG5YDLDx0Pd90kEnjhXFqrRe2ZZjMrkBfjw43IClDya2wNcWGPRqh32dBa7TyWBuk1aX9KaA1LAMFUpCVHT5vzfEl2RgJcHPqBSaotscUzrTR9wpifmlBTzMDYx4lJLgL/LVlZ75dFTYQUcrZ50j8t3Xff+WHfcqVAkowGmrQVqNjM6OPX5Tpas3+5+w/yUAjReVOkMRyNPvK8XmESch8RlNIrv/KykNhKfyDwj7PI6rHyzgPGq7EwBoUo3MschlTxRAKjCpyoRY=;5qKc54BvWNJFolrUzdHz3g=="
+secured: "M+uP9C/MB7g+U620ONut1slaNNcwpZB7HTI8AagcFx4/EAx7KucttpKgNnsNPwd4qXyiOuqrPXYN8GDjKp3nlGqeve5dmcUQ1RPf5Jo/XBtXkzwd2K9okJlhxcoJ1i5sNfO6v9T/AkwzZA+XVpYF+6HOummyB+6yBOEq6KIwQOdDbPZIfI5JTbm3uykGTfuOI5h9ydDnsTx5E6D4s7rJEHwRLqzd/Jz2f5n0xMRnunC1aeYojrN//dsR0o++mZ5y0S9bvEqTS+Io81SarKq8tHZ9MAaJAfWfdLUpDE2RGnu2MjrN79dfN/BlXou8nLQ3XkBlPe0wK2aZDaWuqUyIsdsgl3c4gOvmQpAABHzoazGTX8M1wGJ58oebT2Bn0qzVi7oMG/bGo5WrbrPUivM00nst1vXz2KY1k2puZFw7Jus=;qjqt/8G63Fg2cm0zYmyiIA=="
 ---
 

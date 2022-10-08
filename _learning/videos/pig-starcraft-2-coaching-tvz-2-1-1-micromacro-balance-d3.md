@@ -4,7 +4,7 @@ excerpt: "I coach a diamond 3 Terran on his 2-1-1 build order, where to focus hi
 originalUrl: https://youtube.com/watch?v=xnIgmUNoBqs
 type: video
 price: Free
-length: PT27M43S
+length: PT27M42S
 publishedDateTime: 2017-08-15T10:29:54Z
 heat: 50
 
@@ -25,6 +25,6 @@ images:
     height: 800
     isCached: true
 
-secured: "VBl5F15au61CN4Z4I3zqLGEDudko8bCNmTk5YUNUjTWJpU6u0x1F5/CZkvQZVQGU68ZOJTRHZxxrQiBbkoN56OzdMlKQ5fq98WPwxk/vPnu1x7Gvkh3nPGiFAGUgVlYi5i3hXPrLjW4kccm9TPWOUw/JyuWoPBUOh+lZAJJxTx3zAfWuNxd8HvxxjIBS7J9U69h4DSP19PAIRSyaQS+N2vf9She/JRer5EPNCGzIzz+dHue3ovnjnLLyq9xF8M32jwMh4EboXDr7V7M/h5tvxg0FWV+p23PWP1EIKjIUzQNAWkYcM8xWT5aERzYyUiAgDt+6sePVmtWbop4LwlLXL0BuGiLBhSm0UmWOO7/o9DIbshx3IPO14KxZNF/zPKKIJSS0Uc0ptzhKtIkxP+CFYVCXxZmyv5kY2VgUfaFhrO4=;+Cz77FUN07RueEumd/08bw=="
+secured: "Cv34qmy3nrZXPpV2fbpaetgfwbgrJlrZsqHkrNIoPlMZP5jgDDNMWlTV21Ry17BEKl7bxE2dmXmFUFmuAPKCqv+ce33739gbw59r1KfDSzSvuMUc3i1ofWJjGK8ij98XW9ErWsiSvBWNPc0XbxbCvL1H6NNIckfCa9CR/Hipm69jFLBtQMzaiUWDEAcpzAtD8kFof2MB7tJIxWIxdbwduVQPo32B5qI2pSthrK9zpH17Tn0X0L8zQBy56XXNiVU4iTOfY1bpHXmeGj3mEj4Jc8q7FhFTvJ7iARFBIQgtkZW2fX6o8qmkzqTI5FBf20C419bGPUb6OT7WzQQX4SyvT2O4E8Ocd/KCeEqwYX93biHkYj5ilZkVoW3Fdjk7XursZ56JO3/zXgaNYHX4d7Z5Zq7W+tuD4+iIYnftZpo0XwQ=;7hrN+zPc6+U+3xxEwnCJvQ=="
 ---
 

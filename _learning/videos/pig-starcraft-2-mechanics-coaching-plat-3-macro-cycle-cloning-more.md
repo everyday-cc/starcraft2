@@ -4,7 +4,7 @@ excerpt: "A live recording of a coaching session where -- Watch live at https://
 originalUrl: https://youtube.com/watch?v=n-TSlye29Ro
 type: video
 price: Free
-length: PT26M4S
+length: PT26M5S
 publishedDateTime: 2017-03-01T11:14:54Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "CzUWCHteWpgTBgEBJwiXo5kMiHUUY2RWsx8ssu5LOB/xgumDCVpjaWQPQKL0TDkGWWyuBF+IHzTVb8uVcVdICyHG/BqB1YQVDYUF1OLXD6OiJvrBqagYRRu1j/aFQ0zbkVx1pQp6MWUEYn44pDfnKpcxv8c345Lg2pL8a8gvK11z/fiGkUCMYvzmSYX7oaZseHdgFq/jMI06+rF2obLKxj78OnR+NBl/s5a42RqqpPbxRihXvG/gwPP8Se5G8uhlXWELOHMpqyCGBTX0aO+0DeWJWtdD0ndZUh2CIZMVFoNnohuFgWlPxxIsDdv3WT7F4KPRq4JLFD/vs1neE5ehYixm4COWS2hAvoH9aZtHziUGpZq7+ALN3Nlfc8pFo/qfu+0BQWVZxVZwTmYDviywXGyIEXBJ9pugLxCw+oN9p5E=;CZyV6jpeR7pV9Bw5TDA2Fw=="
+secured: "JVWursc8LotGlDTNrXSAkKZaryo2s9VVRNJUnGttWj8PS7C+CKRTjdIQRNvi+neBQp3jANQo4eicSc5/QpUZlGkemHfPo6qsqGWJPt/OLIO/r49vwZv0+YiBwaLgTtJDizYonYchqgJzYYjWqVq7vCSxqYXqmjyH63LHHPNYNOQdFfKrfGM+3u/GsCPsg7iOvgHs8Pg9P5SVAIKegRxyRTcl1FwzscPh+IdBGbWnx8MsuSrASCFjK5ytJypWc10L6iTFFfuKdBlSsyWtS9anMHy/w5mHL7neIHoUGoF0JqbHPJpZxJmArxTIL1MVazFWFXhYYc5hOCHhB4BU3JgeR3mo3kT9MaNMlqsBeXWSvNzfx4EeaI0jzllVny36+UW5dnaVI7/Dr4WXyyFlNX5icN3OsJVEDyXrhKaLP0XKehc=;U1yMR3RKiiRi0JsbG+QQPw=="
 ---
 

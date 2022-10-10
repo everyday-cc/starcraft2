@@ -3,7 +3,7 @@ title: "No Upgrades - I Cast Your Freakin Awesome Replays - G1 - The PiG Daily #
 excerpt: "In this week’s ICYFAR players had to win without making any attack or armour upgrades! ICYFAR is a fun weekly challenge where I cast games submitted by viewers of all skill levels.\r  \r Follow me on social media to keep up to date: https://twitter.com/x5_PiG https://twitter.com/x5_PiG https://www.instagram.com/pigsc2/"
 originalUrl: https://youtube.com/watch?v=tRel9P1WXT8
 type: video
-length: PT14M9S
+length: PT14M8S
 publishedDateTime: 2021-06-01T12:46:41Z
 heat: 50
 
@@ -22,6 +22,6 @@ images:
     height: 360
     isCached: true
 
-secured: "fP7YQ/f5Q7bcjgYYIJVGWvVTEXd8cggzE2DuGDRY27tI0Yfb7rKMhSItZwFuoBbjBWz+Lf+tLMLJyJSzULlhpk+5Pl5brsXJZWw1PHaeyBkHO0SAQCe8zbye6k6qsDrHealqfSObQMjDDzHriZAbAn19EDQ/vfUgEcpS4P4bBpcfh2wxzEbgYplbIKhi7C/xjh65BUljhfzmqtNrcv3c7sWGD4s8e0uvhq8rE7SI3tM43zGeulXdpPxzdNUAPbGlI7VP4GI7eINOvXDnVKpMdXrTvIY66GnWuzXs0ju5L7CrCNZ9HsAKjyoU587+s5z35T9WksFOV92ZFVxPfeudES1Ul101uzNIGIhPfdw+UTpWjlQYQ0AOR0Mtt6apnrcfyUYlNhgLAj/FmbW3Hy2stIZIMJsDRs8/jGpCTNh257o=;4PiLr4pDTVVJ8IpuzgNdvg=="
+secured: "fy5W20BaO3EcpXZKUj2HdhANcyrlFfZnZYRtWXXhLWnAUwWvwjSTplUNOhR/oes4Z5H8yo/TUAQl3VobfHRUjPKT9V2mtLLbPmzvUUZAs8K2Dl8yVAIs1WTd1In3jkCIFZPWqhs7kcoeeeryGCsEZlSmjTySa3flV7YkLaX2q5NN1gUnZM+S4wZhtrJonUVAIN0rdbYdRKOLpXniJ4T4qBsUrRc/4nZQLzKmEFctakboc3KKCZbHRv8AVZkZDsIzjMdVeLaNXdnWaJ7e7kBjn5+U3tOoScN+K774tbJpFmyygm7FXDzmEO2e7DVDpXJbm2WMwBpFDDZgcTnt2tB1OyZmupmHpCiNWAt+gsT1AHXjkJhLVPgl847pqmSl0N6g/QnNSP3h46VuDvmfgAFA7RYKzC6FvrneT+GGrTd9K+8=;zy6epIU2DEdihB8MuFg81g=="
 ---
 

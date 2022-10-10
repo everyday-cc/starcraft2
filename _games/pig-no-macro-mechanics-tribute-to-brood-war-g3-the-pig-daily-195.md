@@ -3,7 +3,7 @@ title: "No Macro Mechanics? Tribute to Brood War - G3 - The PiG Daily #195"
 excerpt: "In this week’s ICYFAR players had to win without using any SC2 macro mechanics. They weren’t allowed to use queens, MULES or Warpgate in this tribute to Brood War!\r \r NEW ICYFAR Challenge: \"Out of Gas\" - You’re only allowed to take the gases in your main base. Send submissions to eonblu95@gmail.com as"
 originalUrl: https://youtube.com/watch?v=ynTeh4p89D8
 type: video
-length: PT19M25S
+length: PT19M24S
 publishedDateTime: 2021-06-01T12:46:41Z
 heat: 50
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "zmSvJEVzZVH72f0MFqJ/fufIkboyuq2Ka2ghHdxhdfMT+UG0qOK+n362x3SUnOF/NuzQPh0uqANO7Gq5wvhuxlAY6ZZ054wR7pwCzGfASHEBKhHaBdgss5pPv+DqGYzd6iGx0DIwzrLaRcHSF0KA8JsYKjYDYNsry0+JPs/Y97HqIAipS4sxJSlliSLqaxcRpS7UjVbrC9Hvp3lA0B3txDdZQd+wG6tLf+BFqniXeVIEiTevAYe1wgji/Go15v9qhLPXLZ73L6PlICcrUJ5xo5GolQvVaRsHb8vCLKzGAZtHKAa3SzdzUprrS8JTCUUtuKIQZHvbeQR3QInpaN4ksYjI0itHAoU64ptZw2Rt5hAFAPibWG2XkarNC0l9gddT1TQ6Z8EZvE4djO6GaBOB8uaUw3njtXJOX/iNtWwhqR0=;v2bpGTeDXLEojmtSUwR9NQ=="
+secured: "gVvBehCAdhykNHJKXikqgSqb/Ks1iynJNt+23jCTuHi4ETmYhVbYS78NMhIyoO+xluiJ63XdWsIJYun2sqXqSBDGiJAJSwglQlmSEIzIBo5KtK0pUWjm07Cm823mCH61q9UC6On8mErD9n1YiSmifo+0mm8gBh5My3cOKdDhuyjJ5IV1VqqHnzdg65Chg+RfoQiKCAlRNcYz1/cy2uXns2CQMbg74aJlASw5APk2bMUgK4cuNlkhA+pk+Ebc3W2uBGRLHtpHUIc5LkglC50NnB9C7NENtbGn8RJD1jmuKPpWzdsz5VMfCNio1eontsGYE13MZqT6GQltCIkWXTXZua9T3E1qnub7n3fc4sIciqfDBkI//mc5E4KNhEtM7TURjuybuP3Pk6efrL5+tYmsoaTpG3I0QIPEImc4nGwg1WA=;OIGqKEJIzFLQgts9pWmRJg=="
 ---
 

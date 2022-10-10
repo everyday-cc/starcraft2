@@ -4,6 +4,223 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-001-tutorial.md",
+      "title": "Starcraft 2 Newbie Guide - 001 - Tutorial",
+      "excerpt": "A newbie guide for Starcraft 2 multiplayer!  In this first episode, we'll cover the game's very first introductory missions—the Tutorial missions—which are designed specifically for players who have never touched Starcraft before.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-001-tutorial/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-001-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=1wcWMqzUQ2k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1wcWMqzUQ2k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M31S",
+      "provider": {
+        "name": "davidangel64",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2015-11-26T17:00:09-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1wcWMqzUQ2k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-002-training-stage-1.md",
+      "title": "Starcraft 2 Newbie Guide - 002 - Training: Stage 1",
+      "excerpt": "In this episode we take our time in Stage 1 of the Training section of Starcraft 2.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ  Other places to find my stuff: Twitter: http://twitter.com/davidangel64 Twitch: http://twitch.tv/davidangel64",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-002-training-stage-1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-002-training-stage-1/",
+      "originalUrl": "https://youtube.com/watch?v=AicbTSn3gjQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AicbTSn3gjQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M10S",
+      "provider": {
+        "name": "davidangel64",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2015-11-27T18:30:10-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AicbTSn3gjQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-003-training-stage-2.md",
+      "title": "Starcraft 2 Newbie Guide - 003 - Training: Stage 2",
+      "excerpt": "In this episode we pick up the pace and explore more advanced units and upgrades.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list...  Other places to find my stuff: Twitter: http://twitter.com/davidangel64 Twitch: http://twitch.tv/davidangel64 Tumblr: http://davidr64.tumblr.com",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-003-training-stage-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-003-training-stage-2/",
+      "originalUrl": "https://youtube.com/watch?v=OX8IeLRjOaU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OX8IeLRjOaU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M47S",
+      "provider": {
+        "name": "davidangel64",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2015-11-29T17:00:09-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OX8IeLRjOaU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-004-concepts-waypoints-and-unit-selection.md",
+      "title": "Starcraft 2 Newbie Guide - 004 - Concepts: Waypoints and Unit Selection",
+      "excerpt": "Before we tackle Training: Stage 3, we'll cover a couple of key concepts that are extremely useful in any Starcraft match: waypoints and unit selection.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ  Other places to find my stuff: Twitter:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-004-concepts-waypoints-and-unit-selection/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-004-concepts-waypoints-and-unit-selection/",
+      "originalUrl": "https://youtube.com/watch?v=j8a2WFpQzY0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j8a2WFpQzY0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M52S",
+      "provider": {
+        "name": "davidangel64",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2015-11-30T20:30:11-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/j8a2WFpQzY0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-005-training-stage-3.md",
+      "title": "Starcraft 2 Newbie Guide - 005 - Training: Stage 3",
+      "excerpt": "Training: Stage 3, for a new player, is no walk in the park.  It's played with all available multiplayer units at actual multiplayer game speed, and is designed to test a new player.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ  Other places",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-005-training-stage-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-005-training-stage-3/",
+      "originalUrl": "https://youtube.com/watch?v=bdB72gLBSa8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bdB72gLBSa8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M12S",
+      "provider": {
+        "name": "davidangel64",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2015-12-01T17:00:10-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bdB72gLBSa8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-006-versus-ai.md",
+      "title": "Starcraft 2 Newbie Guide - 006 - Versus AI",
+      "excerpt": "We've completed our training!  Now it's time to step up our game and take on the next challenge: filling up the Versus AI bar.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ  Other places to find my stuff: Twitter: http://twitter.com/davidangel64",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-006-versus-ai/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-006-versus-ai/",
+      "originalUrl": "https://youtube.com/watch?v=DgcSvLqW9UE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DgcSvLqW9UE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M34S",
+      "provider": {
+        "name": "davidangel64",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2015-12-03T17:00:12-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DgcSvLqW9UE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-007-a-bit-about-macro.md",
+      "title": "Starcraft 2 Newbie Guide - 007 - A Bit About Macro",
+      "excerpt": "In this episode we'll touch on the topic of macro, and show a longer game with some late game units.  Diggity's channel(s): https://www.youtube.com/diggitySC https://www.youtube.com/DiggityYT  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-007-a-bit-about-macro/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-007-a-bit-about-macro/",
+      "originalUrl": "https://youtube.com/watch?v=MBVsKerZQuI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MBVsKerZQuI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M9S",
+      "provider": {
+        "name": "davidangel64",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2015-12-04T17:00:10-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MBVsKerZQuI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-008-applying-pressure.md",
       "title": "Starcraft 2 Newbie Guide - 008 - Applying Pressure",
       "excerpt": "Constantly scout your opponent, and don't be afraid to apply pressure.  By keeping your opponent pinned, you create opportunities to get further ahead.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ  Other places to find my stuff: Twitter:",
@@ -408,37 +625,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-how-to-drop-with-medivacs-starcraft-2-terran-tutorialguidehow-to-2021.md",
-      "title": "How to drop with medivacs | Starcraft 2 Terran Tutorial/Guide/How-To [2021]",
-      "excerpt": "How to drop with medivacs | Starcraft 2 Terran Tutorial/Guide/How-To #Starcraft #Terran #Tutorial  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-how-to-drop-with-medivacs-starcraft-2-terran-tutorialguidehow-to-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-how-to-drop-with-medivacs-starcraft-2-terran-tutorialguidehow-to-2021/",
-      "originalUrl": "https://youtube.com/watch?v=h5SWDtyqA6Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h5SWDtyqA6Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M26S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-06-16T16:02:10-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/h5SWDtyqA6Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-how-to-twist-protoss-starcraft-2-zerg-strategy-tutorial.md",
       "title": "How to twist Protoss [Starcraft 2: Zerg Strategy Tutorial]",
       "excerpt": "[Starcraft 2: Zerg Strategy Tutorial] #Starcraft2 #Zerg #ZvP  In today's video I show you guys 3 common setups/plans to play aggressive against protoss. All three are pretty strong but it depends a bit on your playstyle and intentions throughout the game. Hope you enjoy the video :)   Coaching --------------------------------------------------------------------------",
@@ -625,37 +811,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020.md",
-      "title": "Learn Starcraft 2: Terran Build Order - EASY & SAFE [Starcraft 2 2020]",
-      "excerpt": "In today's guide/lesson we're looking at how to execute a terran vs terran (tvt) build order. Was supposed to be just the opening but I got a little carried away so you're getting 19 minutes of raw TvT information. Get out your notepads ;)  #BuildOrder #TerranVsTerran #TvT Terran vs Terran(TvT) Build",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020/",
-      "originalUrl": "https://youtube.com/watch?v=CupNHJotqmQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CupNHJotqmQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M42S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-12-08T18:09:09-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CupNHJotqmQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-learning-from-byun-defending-gateway-pressure.md",
       "title": "Learning From Byun | Defending Gateway Pressure",
       "excerpt": "Learning From Byun | Defending Gateway Pressure  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching",
@@ -766,161 +921,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/bnT1opNwMQQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-hyper-aggressive-tvz-part-2.md",
-      "title": "Mastering Starcraft 2: Hyper-Aggressive TvZ Part 2",
-      "excerpt": "In part 2 of my mini series on hyper aggressive TvZ we take a look at some example replays to help you guys out with various scenarios. Hopefully you learn a lot and enjoy the daily!  Mastering Starcraft 2: Hyper-Aggressive TvZ Part 2 #StarCraft2 #Terran #SC2 #guide #starcraft #tvz  Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-hyper-aggressive-tvz-part-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-hyper-aggressive-tvz-part-2/",
-      "originalUrl": "https://youtube.com/watch?v=4Z2G5h0vUrM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4Z2G5h0vUrM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M10S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-18T21:09:10-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4Z2G5h0vUrM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-i-kept-getting-rushed-today-protoss-vs-zerg.md",
-      "title": "Mastering Starcraft 2 | I kept getting rushed today! (Protoss vs Zerg)",
-      "excerpt": "In today's lesson we look at a few games where I get cheesed by zergs players. Actually, zerg player. Singular. Let's take a look at the mistakes I make and how I know these rushes are coming!  Protoss vs Zerg | I keep getting rushed today! #PvZ #protoss #StarCraft2 #RTS #SC2  Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-i-kept-getting-rushed-today-protoss-vs-zerg/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-i-kept-getting-rushed-today-protoss-vs-zerg/",
-      "originalUrl": "https://youtube.com/watch?v=D-GWZZYWqC4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D-GWZZYWqC4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M40S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-23T15:14:32-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/D-GWZZYWqC4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-playing-vs-wild-opponents-or-so-i-thought.md",
-      "title": "Mastering Starcraft 2: Playing vs WILD opponents... or so I thought",
-      "excerpt": "In today's tutorial we take a look at a Protoss vs Terran I played on Pillars of Gold. It turns out to be a really wild game, but that's kind of expected when you're up against NA's notorious Skyler! The Loki of the SC2 scene. A very formidable opponent.  Mastering Starcraft 2: Playing vs WILD opponents...",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-playing-vs-wild-opponents-or-so-i-thought/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-playing-vs-wild-opponents-or-so-i-thought/",
-      "originalUrl": "https://youtube.com/watch?v=muVYdxkIoTo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/muVYdxkIoTo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M6S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-15T17:42:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/muVYdxkIoTo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-protoss-vs-terran.md",
-      "title": "Mastering Starcraft 2 | Protoss vs Terran",
-      "excerpt": "In today's video we take a look at a super hyper-aggressive  PvT style where I open up 3gateRobo into a chargelot attack. Parting would be proud. That's all this is... I'm just trying to get the big boi's attention ;)  Starcraft 2: Protoss vs Terran | What if I just... don't research blink... have I",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-protoss-vs-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-protoss-vs-terran/",
-      "originalUrl": "https://youtube.com/watch?v=LRe42knyipo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LRe42knyipo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M26S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-10T18:16:24-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LRe42knyipo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-take-control-of-the-mid-game-tvz-3-rax-transition-guide-terran.md",
-      "title": "Mastering Starcraft 2: Take control of the Mid-Game TvZ [3 Rax Transition Guide] [Terran]",
-      "excerpt": "In this Terran guide, I'm going to show you an incredibly powerful timing attack to show Zergs who's the real nerd in town. Let's get to it!   #terran #Starcraft #Guide #sc2 #starcraft2  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-take-control-of-the-mid-game-tvz-3-rax-transition-guide-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-take-control-of-the-mid-game-tvz-3-rax-transition-guide-terran/",
-      "originalUrl": "https://youtube.com/watch?v=QkyNGd-2E0o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QkyNGd-2E0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M29S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-12T19:38:57-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QkyNGd-2E0o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

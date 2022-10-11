@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-cheeses-c
 type: video
 length: PT58M35S
 publishedDateTime: 2020-11-20T10:21:58Z
-heat: 55
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6F0UJmOXW3U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Ho90LR4W9gSqj/4bGRtdohEtS/JBKAxTnshhSpzlEv1Bt/YqXxp1Fh4sfTXMqJx5ExlwCT92+PwtqK7snbH4K11OhQQilHAKrBRx1ASrDvM5/ZWrfqZdSLbTxI0ctRSpAaH784qK/NcVFpqI1JFmP3euSXQ2/4IeMtcOpz7LaIPh5Ups7sYgpISMkz7SP3iphGPnl9KNihPh0U69jWWs4svAu1wsBwueGdw9kqSqZZp0hQ09qi9pxi4rx4f9KnO9Pa22VIFDf1OO5XhwHgXQf2P59jmMNlJohzGhFM3YEG/zSrWmHUpUxDoAKYdjVx8I0HewbU4bPsW/Zc0XmuIa6IJ+7o91wQSurEH1yGQbBVhPrHXQYlxht0OWfYqTvImvt54IMEl/fWzdseaw/QClvtrrHLoOpExgDwVWL/F99vQeXiDPblEir6wcc0evgFK3;kAVR3b6eC2/FNa+/Wimsaw=="
+secured: "Pv7gPIntSKAd+mjLyl7XUmNLbnWsFqNimjQ94s+n7qUiUzNtoIDzYbrl7Lr1bRIrmNRG4o69zwkYNHDXyIdwehrxOsMsjDSbZpzCFlWIydI7p/C2e73C8VOJXeANu2Zo96C5a+aSAQ2FY663RPCTJo23cqgKkp9UUv/cqKcBlqvC5tNQ8lH3S/y/MraaC+JfJpf+1bcn1z44bVKQ0ve1T/V3Xug76m78L8+4l0jsljGcyBqJRVI3+3Y1vKbWobNFMxausgnp9VGWwFtXyim8jybZufJKtOZF7nOiZJbQejVc1s86IkXItJnz669bt0HLAu6fWNdIzWCoCtRmyT1Ct4c0ZW45b2a7qCXRcxcL1QmPyj0XMz6656RaJRAlqs9R1Htv6M4W3hW7NKKPR0k6bVwKMDmkW0RPYNbDRpoMDKx1i7Y4zvKLhkjftCSOsFuJ;uKn0elbMKoh9vnoeNII2Qw=="
 ---
 

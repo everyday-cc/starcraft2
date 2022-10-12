@@ -4,6 +4,83 @@
   "page": 13,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-maru-vs-clem-best-of-5.md",
+      "title": "StarCraft 2: MARU vs CLEM! (Best-of-5)",
+      "excerpt": "Best-of-5 series of StarCraft 2 between Maru (Terran) and Clem (Terran), two of the best Terran players in the world.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maru-vs-clem-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maru-vs-clem-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=A5_LxR0yQ6A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A5_LxR0yQ6A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M12S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/A5_LxR0yQ6A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-22T04:53:02-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-maru-vs-neeb-epic-match.md",
+      "title": "StarCraft 2: MARU vs NEEB! (Epic Match)",
+      "excerpt": "A really epic match of Terran vs Protoss between Maru and Neeb. Subscribe for more videos: http://lowko.tv/youtube Ridiculous Zerg vs Zerg: http://y2u.be/G_AJuRRMgPk  These matches are becoming just crazy. In this game of top-level Protoss vs Terran we see pretty much all bases mining out on the biggest",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maru-vs-neeb-epic-match/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maru-vs-neeb-epic-match/",
+      "originalUrl": "https://youtube.com/watch?v=3TanWzL4Cjc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3TanWzL4Cjc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M20S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3TanWzL4Cjc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-03-19T04:23:00-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-maru-vs-parting.md",
       "title": "StarCraft 2: MARU vs PARTING!",
       "excerpt": "One of the best games of StarCraft 2 I've seen recently. Fantastic match of top level Terran versus Protoss between Maru and PartinG.  Maru vs INnoVation: https://youtu.be/MfPoT1p5Z-o  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second",
@@ -1081,84 +1158,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-07-06T04:04:57-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-playing-terran-like-a-zerg.md",
-      "title": "StarCraft 2: PLAYING TERRAN LIKE A ZERG?!",
-      "excerpt": "Serral vs TaeJa in a pro match of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Serral's Zerg vs Terran build order: https://goo.gl/DKGTSS  TaeJa recently got back to StarCraft 2 after being forced to take a break for several years. Turns out the man is still incredibly good at playing",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-playing-terran-like-a-zerg/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-playing-terran-like-a-zerg/",
-      "originalUrl": "https://youtube.com/watch?v=_fV71_z9dsQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_fV71_z9dsQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M20S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_fV71_z9dsQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-11-28T01:00:19-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-pro-terran-vs-zerg.md",
-      "title": "StarCraft 2: PRO Terran vs Zerg!",
-      "excerpt": "A macro game of Terran vs Zerg between Reynor and HeroMarine. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://youtu.be/RXG4YYnO5Qw  Check out Lowko merchandise: http://lowko.tv/merch Support me on Patreon: http://www.patreon.com/lowkotv Join the community on discord: http://lowko.tv/discord",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-terran-vs-zerg/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-pro-terran-vs-zerg/",
-      "originalUrl": "https://youtube.com/watch?v=Yu5vfEIEnsA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yu5vfEIEnsA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M57S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Yu5vfEIEnsA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-04-28T08:09:09-07:00"
     }
   ],
   "nextPage": 14

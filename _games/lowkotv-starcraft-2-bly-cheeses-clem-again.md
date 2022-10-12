@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-bly-cheeses-clem
 type: video
 length: PT20M59S
 publishedDateTime: 2021-03-24T13:24:31Z
-heat: 53
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ei4U_Douz18\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "G7Xqfi0WUbUbDKLa+qCy4NYRfnyjSx9UOc1GFnI5p70QJh2sD5qHu8krnLdR7vkajXjErB1+ymDU21k2tDL/Kw0fHmF7aAlCUHUAqNdQIYsPLJuXmdrXmVQNDw/VGcNNNs3QcZ0NwPK1VG5Rwy+BLzIbjQBg6YSGAjWbZNkvHgMo36yX4Al/cqeevxIvvRGXKQvO4fb+vDT9RJw7JGjtkaFoMQbUEXOsX525vk6Ol2/NGzt0yws+JT2AYvS+yY5MLWgtnbmMD/oG0LTgnENX6rmcAhNYqbv4Yv9grz2LQJfHHj4HUh57jPalLHNmEpYZAcK/PDeH0AXblAHFpdge4f0Tas+A3K0QSmnhcREO8RYzFK374IEl3lIhtkLYfjJ79tx0WdWH1N5enCig0onYQgyvYPD4IEs81L+ODwIxLFg=;phAmLpm1LjUtl+cbzcxnYw=="
+secured: "ZVodWZItMrEatc7hBpts/xkLSsw4WPZWdFfpqj1nS4o7JaIq8MxedY7k3yHoGnlAyNkww4NbIWKSlihbzBT1b1GFhMTzqDeAMjB13MJXIpsXKyynSNeG6oDhkD86BxK2J+ECY4BsjT6ziaRV/KWYWUZD2t35nD8i77VmkwTwq/a/23QaaxOTH8tXjHdwqcBF0q4XFLXYSCu65Ca2HDRe8FgT15YJRoQh0rLW2DSJMBwryt7jFv1vmbb+nQVvOyGhcgVPJ69kKGDwJ//i1+Sf39qrXnDUE2vd9f6Bd41BMfF9ggApy3xfXKr3ciD0dxEt2UUViw1+wuzER6uzm16fHOp+WHj5FWVj1dnM6CtcSgQYIUNh1Lipaw7wKOLtQUduh1aSxj4PES29eTllfldg52Ak9N/U0P0JKei3oXQ8S6hM9iHNyBarnCCu08cvi3xg;nvgo5gbsfXr3Pv6CZbxqIQ=="
 ---
 

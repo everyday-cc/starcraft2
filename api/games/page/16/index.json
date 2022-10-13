@@ -225,6 +225,39 @@
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
     },
     {
+      "path": "_games/pig-3-cheeses-in-16-minutes-24-seconds-king-of-cannons-13-starcraft-2.md",
+      "title": "3 CHEESES IN 16 MINUTES 24 SECONDS!? | King of Cannons #13 - StarCraft 2",
+      "excerpt": "PrintF does not disappoint with this trio of cheeses for each match up! Chapters: 0:00 Game 1 6:04 Game 2 15:22 Game 3  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf -- 🐷 Like my videos?",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-3-cheeses-in-16-minutes-24-seconds-king-of-cannons-13-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-3-cheeses-in-16-minutes-24-seconds-king-of-cannons-13-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=dblK383xEk0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dblK383xEk0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M6S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "tags": [
+        "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dblK383xEk0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-05T00:41:13-08:00"
+    },
+    {
       "path": "_games/pig-a-genius-strategy-to-a-dumb-challenge-mouse-only-pigs-lab-starcraft-2.md",
       "title": "A Genius Strategy to a Dumb Challenge (Mouse ONLY)  | PiG's Lab - StarCraft 2",
       "excerpt": "As part of PiG's Laboratory, I challenged pros to play with their mouse only (no keyboards!) to see what a pro StarCraft 2 game looks like with such a ridiculous rule. Here's Special (Terran) facing Cham (Zerg) trying it out! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom",
@@ -490,39 +523,6 @@
       "publishedDateTime": "2022-06-19T01:16:44-07:00"
     },
     {
-      "path": "_games/pig-never-expand-never-surrender-king-of-cannons-14-starcraft-2.md",
-      "title": "NEVER EXPAND, NEVER SURRENDER | King of Cannons #14 - StarCraft 2",
-      "excerpt": "Cannon rushes all day erry day! 🐷 Support PiG: http://paypal.me/PiGSC2 | https://www.patreon.com/PiGSC2  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf -- 🐖 Watch live on https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-never-expand-never-surrender-king-of-cannons-14-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-never-expand-never-surrender-king-of-cannons-14-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=KuSOt7QCrlc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KuSOt7QCrlc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M51S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "tags": [
-        "Cheese"
-      ],
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-02-19T15:36:52-08:00"
-    },
-    {
       "path": "_games/pig-pig-im-a-baboon-i-know-nothing-about-starcraft-guess-the-mmr-2.md",
       "title": "PiG: I’m a baboon, I know nothing about Starcraft! | Guess the MMR #2",
       "excerpt": "*NEW SHOW* Guess the MMR: PiG will attempt to guess your exact MMR! Send your replay to RateMyStarcraft@gmail.com with \"Guess the MMR\" in the title + in the body add your IGN & MMR & region (e.g. Maru, 3600, EU). Name your replay in the format: IGN - Server (e.g. Maru - EU)  This was inspired by Harstem’s",
@@ -550,39 +550,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-06T21:15:45-07:00"
-    },
-    {
-      "path": "_games/pig-protoss-on-protoss-crime-king-of-cannons-15-starcraft-2.md",
-      "title": "PROTOSS ON PROTOSS CRIME | King of Cannons #15 - StarCraft 2",
-      "excerpt": "Cannon rushes all day erry day! The King is back! 🐷 Support PiG: https://www.pigstarcraft.com/support/  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf -- 🐖 Watch live on https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-protoss-on-protoss-crime-king-of-cannons-15-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-protoss-on-protoss-crime-king-of-cannons-15-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=BMpRDyR1wdg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BMpRDyR1wdg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "tags": [
-        "Cheese"
-      ],
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-23T23:43:08-07:00"
     },
     {
       "path": "_games/pig-protoss-thinks-zerg-is-the-maphack-race-no-fog-of-war-mod-pigs-laboratory-starcraft-2.md",
@@ -947,6 +914,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-18T09:00:12-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-coaching-florencio-the-sewer-archon.md",
+      "title": "StarCraft 2 - Coaching!? Florencio | The Sewer Archon",
+      "excerpt": "This is some brainstorming on playstyles as Florencio intends to play offraces/all races  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank   Got some awesome Florencio fan",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-coaching-florencio-the-sewer-archon/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-coaching-florencio-the-sewer-archon/",
+      "originalUrl": "https://youtube.com/watch?v=hqLiRwNXVi0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hqLiRwNXVi0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H30M59S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hqLiRwNXVi0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-04-16T16:52:49-07:00"
     }
   ],
   "nextPage": 17

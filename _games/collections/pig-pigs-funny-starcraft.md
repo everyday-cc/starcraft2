@@ -939,6 +939,7 @@ items:
   - pig-the-sewer-mermaid-nukes-himself-for-science-florencio-files-271-starcraft-2
   - pig-i-made-upgrades-in-their-base-lol-most-annoying-player-ever-5-starcraft-2
   - pig-world-record-uthermals-1-terran-v-7-insane-terran-ai-pig-reacts-starcraft-2
+  - pig-they-used-my-own-nydus-swarm-host-build-on-me-starcraft-2
   - pig-straight-up-psycho-has-deranged-outburst-salt-mines-15-starcraft-2
   - pig-he-asked-for-macro-then-rushed-me-mac-or-cheese-6-starcraft-2
   - pig-i-faced-uthermals-meme-builds-in-a-pro-tournament-starcraft-2

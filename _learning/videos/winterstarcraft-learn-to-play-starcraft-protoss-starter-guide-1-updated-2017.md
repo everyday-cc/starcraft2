@@ -4,7 +4,7 @@ excerpt: "This guide is now slightly outdated with Patch 4.0, here is a complete
 originalUrl: https://youtube.com/watch?v=07aU-fMk-iA
 type: video
 price: Free
-length: PT37M39S
+length: PT37M38S
 publishedDateTime: 2017-11-19T17:09:23Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "663BGRsKAdOGTQY6ywiQD+eyOJG/6UrqIQ3kUCMej0zW2I6zmq9J60Z31qIPnTdC46GBRHgpF9KoRqHeW1ka8qxTdtfGH780gjOi5eHJTTgFx67BcVoy0BMeAlMl5BidA2j4eGdesGK34Pfo/gWkWskJVEeTdgrdahQNh+MbQ8VOBRK9zCScwg84Yos05o7nh5xq/+nN1mZNq9cxjlNVX07Kevx6crMc9h1h6OBZiAfO5I2svealois/eeko0+Ga2Ih0DezKHFtOE0TYaiUSYkDpG65y5idIgsuLFcod/+LnW38cY36U8vNJFxLDDMgECZ++i1m783gmbdvgBpa8JUM7V/nPgt16D0uVnne1iE3m6MHeP4xNZStiXo0y1+JRdnG/gKQcENlUCCGuQ0/KKJvr3ZfurhK1RVlxbFi9sucwmCJtWW3rFS92y5AMatt0;mnUxW3gQNNHE4QcpCVylZA=="
+secured: "qlqmD+0mCY7eB7v29T9l4k07dBCUZhquNKBZp/+sfDxf9NbRFJBB0XuJ6AR2UNn4qepHguze2VThuCDEBGZ4s3nIGz2r7tj4RS4qewT7h/NtCg2+cI9UiYOedGF6gP0epuNs+29i8nwfjmbUwEHx/D2vwrartFLqrCi4xz8r45m+a9iQYLwhdjkusZVRRhC53K60xxujBSG0kEBiUY7WTaewpZ2cIClWFOge5cs6VwnCUHHr+9czcX+zta+0gwrpE7t1+rDdlo2SuXaB3QIYmxzXNVkCQY7lzUSGpE5UMiBhU4OBKitABhtUNcYCjd3ybSVs+nHDynR5IBH6wC8CKUse6Sn18CWchVXDafbdCt2JiKsK2Lwkl6OHhk9a1fcUXd3l2zuxcUoPjIa0nbjlyRGjn9HPx0Ma+mIlanbk6H4j7eZMyK6abCwjvbw6oXgu;EarrGUDbxE9pXce/m8xdYQ=="
 ---
 

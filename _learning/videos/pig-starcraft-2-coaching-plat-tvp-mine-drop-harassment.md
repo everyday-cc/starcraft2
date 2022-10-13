@@ -4,7 +4,7 @@ excerpt: "In this weeks I Cast Your Freakin Awesome Replays players show off the
 originalUrl: https://youtube.com/watch?v=y-Sjb7lzV0k
 type: video
 price: Free
-length: PT29M43S
+length: PT29M42S
 publishedDateTime: 2018-12-21T08:42:45Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "tmL5PnDy/+4Ml6jRtIeaWzkPPKYXX3Amcwq4nMLmkzeRdu+m1u9WXyUcDg7RkjpHMypuQLLhaGf4PMOat+jn2AeI4xBpQS6hd64fwEW3yMfnR4zga34s5h4c+2NjH3FJLLO3A35EgK2oL+P6NamDflDme331rd4RGtNIxRIY0zFjoXTBMbz43Pw39QnrWDJH6MkGxiFuQbKpy6G9/xIxiqcaPbLEriV9RqoDQTZEZhGmaYP46mc1a+ioDaQsL1JPuSXTpIvAH3fcxOuxJ29+C39RLfgiQXJX5Ifb7RXTGdqYvPwz/lIIBjcMlPFihdh4xNhZ4iJIcjz23xStJPi2B2OxQ5XrGeZwIK99ZfwEjtA8ckBOMxbMEMxr04xZ31yLWu4q5Tr91i1VyK5bhyEJuKyVvJbLiQ0Rhgq44GY7Mqs=;umvaf9XtSSBxaBwtcb82Ng=="
+secured: "DgkIwxGwkCW0rsgU2BYeo+FtPIg18rYd+rHUJg5pQUzoFvSnG8HJbY1egXl6SO7CmZwoAF9uIXQ1Sqe94WQlIa6Bkzt0x7DxddRGmeq01jSGE9rVjTCOi3EVBjNc05gfoFp0grZPvZUmgK9SoRhqrX+9agkP42U9i8HlVxmWK4DNLVOpJJtaZXekbRGl24QiOJGKNcNA9nqOAuU1G76AZfiUcZq6dEm7uxEg6FYlCnIoDuY3fJLeQ6r0R15vaMCdGHHUXwR05EKHk693M8n8U9xHwbqWVOWtXkrzI4YXlGPjrC0LZsu9IgYK7WvchtYiQsiegtZdzWXl9q44ncTtvh5isB20VBGNe0QVXnFjdpzpcDsMPNNEB84LzF3Z11/9mAcxgSBcE4weoFsEv/0syt16IL1KsHmHLVJFyOQunJU=;n8sJ3LoaqTxZGz+2MbF8MA=="
 ---
 

@@ -374,6 +374,44 @@
       "publishedDateTime": "2022-10-06T19:13:37-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-clems-50-viking-army-showtime-vs-clem.md",
+      "title": "StarCraft 2: Clem's 50+ VIKING Army?! (ShoWTimE vs Clem)",
+      "excerpt": "Professional match of StarCraft 2 between Clem and ShoWTimE. In this game of Protoss versus Terran both players play the late game and focus their armies around Sky Terran and Sky Toss.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-clems-50-viking-army-showtime-vs-clem/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-clems-50-viking-army-showtime-vs-clem/",
+      "originalUrl": "https://youtube.com/watch?v=csA1rFe5x8A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/csA1rFe5x8A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M31S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 126,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-28T03:38:55-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime.md",
       "title": "StarCraft 2: BEST PRO Game of 2022 - Serral vs ShoWTimE!",
       "excerpt": "Professional match of top level StarCraft 2 between Serral (Zerg) and ShoWTimE (Protoss). This is in my opinion the best pro game of SC2 of 2022 so far. Ridiculously close game between two of the best European pro gamers.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
@@ -413,14 +451,14 @@
       "publishedDateTime": "2022-09-05T04:02:46-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-micro-wars-manas-harstems-ladder-adventures.md",
-      "title": "StarCraft 2: MICRO WARS - MaNa's & Harstem's Ladder Adventures!",
-      "excerpt": "Two games of StarCraft 2 submitted to me by MaNa and Harstem. Both of the games are incredibly close and are eventually decided with stellar micro.  MaNa's YouTube channel: https://youtube.com/c/MaNaEsports Harstem's YouTube channel: https://youtube.com/c/Harstem  00:00 MaNa vs Cheerful 11:45 Harstem",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-micro-wars-manas-harstems-ladder-adventures/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-micro-wars-manas-harstems-ladder-adventures/",
-      "originalUrl": "https://youtube.com/watch?v=ypUnol-JhPs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ypUnol-JhPs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M48S",
+      "path": "_games/lowkotv-starcraft-2-no-recall-heros-huge-overextension-vs-reynor.md",
+      "title": "StarCraft 2: NO RECALL?! herO's HUGE Overextension vs Reynor!",
+      "excerpt": "Professional match of StarCraft 2 between Reynor and herO. In this macro game of Zerg versus Protoss we see Reynor constantly sending out Zergling runbys, while herO makes his ultimate Sky Toss army.   Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-no-recall-heros-huge-overextension-vs-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-no-recall-heros-huge-overextension-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=PPPrcODpgc8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PPPrcODpgc8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M44S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -435,9 +473,10 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Protoss",
+        "Zerg"
       ],
-      "heat": 111,
+      "heat": 114,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -448,7 +487,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-08-10T04:47:07-07:00"
+      "publishedDateTime": "2022-08-30T01:40:44-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",
@@ -998,44 +1037,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-15T03:24:04-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-clems-50-viking-army-showtime-vs-clem.md",
-      "title": "StarCraft 2: Clem's 50+ VIKING Army?! (ShoWTimE vs Clem)",
-      "excerpt": "Professional match of StarCraft 2 between Clem and ShoWTimE. In this game of Protoss versus Terran both players play the late game and focus their armies around Sky Terran and Sky Toss.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-clems-50-viking-army-showtime-vs-clem/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-clems-50-viking-army-showtime-vs-clem/",
-      "originalUrl": "https://youtube.com/watch?v=csA1rFe5x8A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/csA1rFe5x8A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M31S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-07-28T03:38:55-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-the-twists-and-turns-in-this-one-game-pvz.md",

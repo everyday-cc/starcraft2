@@ -4,7 +4,7 @@ excerpt: "I coach a 5k MMR Zerg on how to beat mech. His friend ex-pro QXC comes
 originalUrl: https://youtube.com/watch?v=sL7t36r2bDM
 type: video
 price: Free
-length: PT1H36M33S
+length: PT1H36M32S
 publishedDateTime: 2017-05-11T09:13:38Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "MKoEoajnGJssbNTsf7vUSxElA5y0TO0wzXQaJQ8g+M9rO1OUH+75RRa0/jZM3GebR27+7CkIkXFlt//bNYVdGYf7CgJrRTFSB3lBvIlWghorLhnQqIS0zsRkkztB9IjlFkh2QFk4Bt6WegPkKN5EkcJIPUG60DrqgWkeRS79G4CZ4o2iojoAA/2HUGntt6o7SU1i9w/IUQDFtBmL07UYeJgYgOOt6Y0CqV/Um+FfcTRG0oxiaEf5l4KeRYycM59iFxXwONGgUPH1FPQWVloQSmNoUPCGvptH2ilO/+bO0mjBPTK9dYU6oMYxzXoSBkWXDGBeekmCktax1Lcmo1z+Jcy261/6A/h+QyvKB4zDWrG5dWtcR3zwTbnYQ+JkOg3IYLbgauLl0Ws19DFvZxi6v/qy1nTe3DJdlNyGGlgeD7s=;JI4Bzfvzrr4vKJSQ4FLxwQ=="
+secured: "MOODQfgEiYPwjG+W7OEFclxdVdUP66gjsEeNspmyNSKGNqB8Fr5mPIfPrWsnrj0MJ93T1k4CShDQ1uRyCW1mL05yqcezibX+wJpQCDT4Q5V7AzArEDgeJQCqR/TSHx6UhpRH8cCrL3XqZ51Vn6Bgqdhc7T78L+Td6E8d7qpJ5tsi2iCIP+QlSkat+hmoaPL++i3KSt+sShiq5rD08TRMioVtn2Sb7kfeMF15aUOQZybCkbCSSVswnZdSs6nxhmpRLsjybPf8HzWMpgUHgWRuxpvgZDyzjHM/T+9Krv6msyv4ZOK84KPdinZ3SpwKtHveR3nV6Ax8km+ASpepoz6/dHjwEAAvgTjbrZ8OtQC1QmpywGczaLcXtNlDNzfWGb/K66sATBOXMgwH+Yudl/EfMVtHR9CPjOGoLyUY/ebdJtQ=;s97rXl81jIA3YohPRLeyLA=="
 ---
 

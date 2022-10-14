@@ -4,7 +4,7 @@ excerpt: "I coach a diamond zerg on how to open solidly in zvp and progress to t
 originalUrl: https://youtube.com/watch?v=GmhzZTRzvMQ
 type: video
 price: Free
-length: PT1H9M37S
+length: PT1H9M36S
 publishedDateTime: 2017-09-21T10:54:15Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "Pko5rbn2VD8k8Vv9evIJzqEEZ9tyt0JFj3bFn+siY9qVyi6W1H8jm0RY7mjqcHL8eoNbYCf7CrCVHnilUd4ebVMMnkvv/wOUEZARU0YMZ4W13eIm4pHsajuca3sCJ9REu3NMwGb5gYB6h/bncmO1xZ4pNdJABlrZKM0Y82USVLoQ+SEHMchR7LpUWrqYG9wvpNp/9tBbfLMoT7lr+NB6vi5o6LJtN68nsiqS/NAe/2an+Uglu8C2u7ZdvvSF2xEibIsUgo6IkE+oe/li0m/7j9kDwFRSAM29OUEeHLrDNH6NQS12KjMfdqXcwD2RZoEPOU8MQwcPFgbi6VGFqlTdIAMQA7R+pYR7WBVCn7TUIMROEsOiwLiOzZE7qfG7qMRCQn2ScBVxEeUe34QUO/bjK/7x2Qkf1JdetCBvY+YfaCE=;+gMVDkR0BZylr0Sc94y4UA=="
+secured: "QOAIBaOH4/9w+waoApZrcD3CsAKKd5YLGWFvL98HvpzaWU5ln51tiInpUqT7qossZdZgre8ldXMGRRgVP61Q1IrehoYgQGq6JxRr7Pny47c92C0z0Lqybkwx6MqxaPMHvLa3Zmeq3Y+cBghH1fG+r8a2AmthRsh3EXwAuIAOkz5JE+4q2rs3mdc7x9RpWS4nOHtXgr98VPswKPCYAdpFkwSzmUHvaAV01gcaN00bzgx8oRhvzPE3sFKSqz1vXhfErbOlmFd4K98oe3ZBvMFBzC4uwNFVLNR2mFM/8yODhPUI/8RkOMngnTj/aCKewOBDjxc9vJ5mKuJYhvDmfYrlL7uikmgKSwQOGCY0Qt7ndE1O9LYwDWxeio4s+h6c4cQ6KyAQsahypWuZYxr4MqKveDUdizccc5kFjDeiDtUTshY=;OeQbW9apndVl4GGfgf2PLw=="
 ---
 

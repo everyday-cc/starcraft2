@@ -703,45 +703,6 @@
       "publishedDateTime": "2022-08-12T04:57:30-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-no-recall-heros-huge-overextension-vs-reynor.md",
-      "title": "StarCraft 2: NO RECALL?! herO's HUGE Overextension vs Reynor!",
-      "excerpt": "Professional match of StarCraft 2 between Reynor and herO. In this macro game of Zerg versus Protoss we see Reynor constantly sending out Zergling runbys, while herO makes his ultimate Sky Toss army.   Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-no-recall-heros-huge-overextension-vs-reynor/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-no-recall-heros-huge-overextension-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=PPPrcODpgc8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PPPrcODpgc8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M44S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-30T01:40:44-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-clem-best-of-5.md",
       "title": "StarCraft 2: SERRAL vs CLEM! (Best-of-5)",
       "excerpt": "Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup I use: https://lowko.tv/setup/",
@@ -1109,6 +1070,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-08T03:33:57-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-epic-archon-mode-serral-reynor-elazer-lambo-vs-clem-kelazhur-soul-harstem.md",
+      "title": "StarCraft 2: EPIC ARCHON MODE - Serral, Reynor, Elazer & Lambo vs Clem, Kelazhur, souL & Harstem!",
+      "excerpt": "An insane best-of-5 series of top level StarCraft 2. In this video I cast a series of games that was played in Archon Mode in SC2 with Serral, Reynor, Elazer and Lambo controlling the Zerg, and Clem, Kelazhur, souL and Harstem controlling the Terran. In Archon Mode multiple players can control one base",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-archon-mode-serral-reynor-elazer-lambo-vs-clem-kelazhur-soul-harstem/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-archon-mode-serral-reynor-elazer-lambo-vs-clem-kelazhur-soul-harstem/",
+      "originalUrl": "https://youtube.com/watch?v=qU5HmyLz6xA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qU5HmyLz6xA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qU5HmyLz6xA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-05-13T05:03:46-07:00"
     }
   ],
   "nextPage": 4

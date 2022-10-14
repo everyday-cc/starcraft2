@@ -4,6 +4,75 @@
   "page": 5,
   "value": [
     {
+      "path": "_games/pig-when-your-strategy-is-mint-but-your-opponent-has-300-apm-florencio-files-252-starcraft-2.md",
+      "title": "When your strategy is mint but your opponent has 300 APM | Florencio Files #252 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, he faces an opponent with very high APM.   🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-your-strategy-is-mint-but-your-opponent-has-300-apm-florencio-files-252-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-your-strategy-is-mint-but-your-opponent-has-300-apm-florencio-files-252-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=dAwxby8_M5E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dAwxby8_M5E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M13S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dAwxby8_M5E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-12-15T01:21:00-08:00"
+    },
+    {
+      "path": "_games/sc2hl-supreme-late-game-protoss-vs-zerg-dark-vs-stats-starcraft-2-starleague.md",
+      "title": "SUPREME LATE GAME PROTOSS VS ZERG - Dark vs Stats - StarCraft 2 Starleague",
+      "excerpt": "Dark vs Stats in an epic 38 minute Protoss vs Zerg during the Starcraft 2 starleague. Going to the supreme late game.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Watch the Starcraft 2 Starleague on: http://youtube.com/esportstv    Thank you for watching our videos! Subscribe for more StarCraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-supreme-late-game-protoss-vs-zerg-dark-vs-stats-starcraft-2-starleague/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-supreme-late-game-protoss-vs-zerg-dark-vs-stats-starcraft-2-starleague/",
+      "originalUrl": "https://youtube.com/watch?v=8x9xoxB1DfI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8x9xoxB1DfI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M30S",
+      "provider": {
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8x9xoxB1DfI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-08-04T12:34:48-07:00"
+    },
+    {
       "path": "_games/beastyqtsc2-starcraft-2-mass-sentries-vs-broodlords-lurkers.md",
       "title": "StarCraft 2: MASS Sentries vs Broodlords & Lurkers?!",
       "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  More games from the MASS SENTRIES to GRANDMASTER series! In this set of games, we finally make it to Master League! Also, in one of",
@@ -1071,84 +1140,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-02T02:38:25-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-whos-even-winning-neeb-vs-byun-best-of-3.md",
-      "title": "StarCraft 2: WHO'S EVEN WINNING?! Neeb vs ByuN! (Best-of-3)",
-      "excerpt": "Professional match of StarCraft 2 between Neeb (Protoss) and ByuN (Terran). Thanks for watching!  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips: https://www.youtube.com/lowkoclips  Be part",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-whos-even-winning-neeb-vs-byun-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-whos-even-winning-neeb-vs-byun-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=KH0UR9YJ9X4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KH0UR9YJ9X4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M41S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-15T05:00:42-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-zerglings-countering-void-rays-viewer-games.md",
-      "title": "StarCraft 2: Zerglings COUNTERING Void Rays? (Viewer Games)",
-      "excerpt": "Two games of StarCraft 2 submitted by viewers. Some of the absolute worst StarCraft I've seen in a while... But a lot of fun! If you have an awesome game of SC2 you want me to cast, you can submit it to replays@lowko.tv.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zerglings-countering-void-rays-viewer-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zerglings-countering-void-rays-viewer-games/",
-      "originalUrl": "https://youtube.com/watch?v=zNHxv24Qycw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zNHxv24Qycw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M51S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zNHxv24Qycw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-01-25T03:50:28-08:00"
     }
   ],
   "nextPage": 6

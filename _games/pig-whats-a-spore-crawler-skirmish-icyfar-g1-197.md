@@ -3,7 +3,7 @@ title: "What's a Spore Crawler!? - Skirmish ICYFAR - G1 #197)"
 excerpt: "In today’s ICYFAR players were challenged to avoid large battles and win through many small skirmishes! They weren’t allowed to use more than 24 units in any engagement!\r \r THIS WEEKS ICYFAR Challenge: \"Melee Madness\" - You can only use hand-to-hand combat units! For Terran you're allowed to use hellbats,"
 originalUrl: https://youtube.com/watch?v=KWRU-TcHIOw
 type: video
-length: PT25M19S
+length: PT25M18S
 publishedDateTime: 2021-06-01T12:46:41Z
 heat: 50
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "o3ONckFJmvNAgN7kBb9KgfybnMXbPU+XgHkDGLG1hEfHqxZZJJgdbMDXKTnrqjG+FlC4zdXemJxo/iAG5ONjRG7uwVN7YmIhojysE2MkYZgI8YbQl7jgawBISpFoQyx2ptWaoS6dTCH0RHnNTwtfbliFboBToY+TIenlr17mVGkPELK0FMhJpkqiRi7ANzI89RwhzQRQKytq0rwbE0xADQi//zYjHsobETjU9EkTAGTn508DqjT3xqRCTXDe6iU6eMr6lLrvIDWjZgx7yXDM7oQiEi+FPfkkn6rvTBg8adaYixhYswY+8f7dWTtpTzX+Qh1gW7f7SGyUklJLBQYgWRI0AkJ9hlmbPkVc5PXP+aHPHr/bTyeZf4MXGQjsmNKtVOMTD49WPC6fv0R3PFfoa4Q1g0aFtBJ5sbLBMI3GjAY=;vds4P5c9vfU/MpY+VfAkWA=="
+secured: "U38KQ+xODZieB3en3SjsYwSxvdkjxZka68m3F6sNWp1GqVEYF3VG5M9etR4sQhWKdg6SiIRuBwmdLKsXkegTA3SDBie4bwMT9oc40Mdrs1zYFhK62tUTB+swpXw6RBYPlBE8F17xj7FYBw6DmjOjD8FoHFoAUi3z/BTNW6YOHJn5cdCsrBolVQT6+uhlYLmer+POemBvvJn5EVA3ssXsGYcc2RlbeYxDht3cTRdzisIvHOajzNdK/R/DANjm2+QlukgfNkxAVrdkSrxzUpeHNwhuCOGV5kFaM6hsOQjZxsr+mGEQS8rpALlArBnU3cUL4TYBBImTOpqXjQQ3I8blTOfrbKOUCpCX7vW2wbW26iymPpp8+TpV87If3SDYTpPaVCjK+ZCGgQCxwrF60ZwsA1ClQPOXgX0rk9ChpMly29o=;FL/IoAoJfSGLvNqshTEleQ=="
 ---
 

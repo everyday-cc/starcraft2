@@ -4,7 +4,7 @@ excerpt: "I coach my student on having a smooth reaction in ZvP to pylons blocki
 originalUrl: https://youtube.com/watch?v=orYHRXhML7Q
 type: video
 price: Free
-length: PT40M13S
+length: PT40M12S
 publishedDateTime: 2018-12-21T08:42:45Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "URIg2MIH3Osg9huafjv4ikUujfk5lJbQB03hf2pZ+aJtRznpOeQdvdtS4lpbgIrCE3K+b5tq658jNL6DMij/tqD8V/sSABb4g5UiyKzkHIuvB5JE/YHwEIHmxXjiq1xiRCU5v5sGfOtg+rD0hFIqYwKAYEYHahPgZWh1NiLg+0rpHhhB5BpbHjpbJ8aic7u+AKzqwK24Q+EQQYsXuK7KuOgEInVXnYITt9mGdcVQdnEU1UkDZLphQOqt/ZKdkTcVPMpiKtbhFXN7YEEwQ+IQ6AvOkaNZbsp2wT7ceZPqvFIC1zqLXK1pQWRlmI/5TO0FgXgHJI3tVya5dzNYmK5JzXcCl0ho5Rhf3jsYS+zRw00yJXtCUrX+KkbLUsOxyoc81DDqVQ1+mb8fAuK6WsFAUlK1y9RfGHxL5T0bJNGBQ6U=;LXbqPxoLDr0aHHhG084zzw=="
+secured: "1WJIjB86cr6yFmKeSxLKGwAIh+ny86VnFlC66/A8VuMyMcINtPH45a9doBYvzaz1cl417koSV4Iv3FxTUgFtUhLZmtKvqWDmP9HRu59vGAjCzTkZN5/4eqEilMtSS/g7JSKfk6fPrvOAF/UHiwcAgkCUkfUFxbn0HOrj8ooCE2rHx3BzyBSZ9w7eTOhQ+yT5Bw5ulTJ1qj3XtJlj978K9bAzG3M/LZ4go4OS8K9Kv6z6NjAE7CS5k3PVAp4VknYInuAbDJnlUV5ygHXMxlY5aUldk/hNrg8/MScfV57ZmuC+3LaIliE2Dapr8LFe5dz3uwQIX0NUC6f/VFv6j4096vHkcsF2wMgC2KgxjGP6cLFFN1qamCnyTfwNN4OyXni1WneRBV3fKx7l83ySF9C+cfbXbRjEoirGRceLqgJ74Fw=;rTvoDo4JPY5jn2Axs2TEGQ=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "I coach a diamond zerg player on his ZvP, we end up focusing on some d
 originalUrl: https://youtube.com/watch?v=RB-_gN3TTbY
 type: video
 price: Free
-length: PT1H30M1S
+length: PT1H30M
 publishedDateTime: 2018-12-21T08:42:45Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "8HuZ7M9ud0LKDICNEykSYxDzH3yFfZstglXco3wRa0xtzfFk75m+Q++uDC9VHLl8suj80OodBRs9IFc1B4ZHhiRTVazMm55y7/qxZ3xSQm8pXHXdMgo+dSUNf0ye/5YUS14tiaxHVNFB5lP7d/buJF5mxgKqY/7KdDLIqTheIoWyv+OszA6XLjckC7qJMVw75FyfwOokk3ZfNLM4jvtNEMVXEXqLKmKMzaif8UGLv28ZsrRWAeZtQWuGLdhI7J4Q3jsc5O50SeTD0KOWM8diAm9sLsRt1IaS9Qg3GGVLcj2y0AQjaPoC8w9igbwjhlq7YxI/jG5iEB51bf0bRGXwPb1u+Yfle6+i1SmOTvn4/HfjYEY/QFGF2u3sh0NWu34Sh4KXEaYsUaTTsY0muzVTUQa9enxffo79U3/GqRVZlkk=;egjEJWuDppra/iqOPfyN4g=="
+secured: "EEdQjqyVZUtXqiWgWrTWwbxfvhji1tN20N/OZyNJ1LTxMiUBl9s2T5A1SgocHMUei9BgcIt2aIucUEkZLcLB0OeC80DuBqEy350cJKgxI2j0/s0Mcccj5a1dPvPBXTLx2GjmQ9KzGdpJfoAwPQ3GOnzeVSE0TjMStgKQ4rtg6Gifz9Vw5Yr1+EaI1MPdb4koLnXQAQAPIN48JtykieKB0ZsEq26VFa+T4lQDUebAjALM6IFcM7Pk4MAvRCfOVZozAhOIDYG/q/b62xbS6mSkaS0sw5JiDe827YvMNYzhcPqU3cfO/AG/6u4edFhQbdwBmrEAbxj1zjVSbpM97ktJZF5AOuTzszE2/x4GzPtvD9LNvZINbEstG6QHOVEMF2JtfApCZIz1UOaRfM3KKPo7N8mq0aPFGTYY5l4e4BoMJaQ=;0iE1cIzdzepCkZjWfauD6g=="
 ---
 

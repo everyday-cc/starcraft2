@@ -947,7 +947,8 @@ items:
   - pig-protoss-hater-starts-whining-before-anything-even-happens-salt-mines-16-starcraft-2
   - pig-harstems-brain-breaks-in-the-most-insane-sc2-game-ever-vs-smooth-brain-boanaan-starcraft-2
   - pig-how-i-dismantled-a-dirty-maphacker-starcraft-2
-  - pig-first-trifecta-uthermals-1-terran-vs-7-insane-protoss-ai-pig-reacts-starcraft-2
+  - pig-zerg-rages-even-tho-his-ovie-sees-it-coming-salt-mines-17-starcraft-2
+  - pig-world-record-trifecta-uthermals-1-terran-vs-7-insane-protoss-ai-pig-reacts-starcraft-2
 
 topics:
   - StarCraft 2

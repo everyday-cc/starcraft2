@@ -4,44 +4,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-florencios-disgusting-terran-strategies.md",
-      "title": "StarCraft 2: Florencio's DISGUSTING Terran Strategies!",
-      "excerpt": "Florencio is back! This time with fresh Terran strategies in StarCraft 2.   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-florencios-disgusting-terran-strategies/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-florencios-disgusting-terran-strategies/",
-      "originalUrl": "https://youtube.com/watch?v=S4QD2UMm9nY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S4QD2UMm9nY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/S4QD2UMm9nY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-11-23T04:53:20-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-full-economy-cheese-serral-vs-ty.md",
       "title": "StarCraft 2: FULL ECONOMY \"CHEESE\"! (Serral vs TY)",
       "excerpt": "Best-of-5 series of top level professional StarCraft 2 between Serral and TY.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
@@ -1148,6 +1110,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-26T04:40:37-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-scarlett-vs-neeb-best-of-5.md",
+      "title": "StarCraft 2: SCARLETT VS NEEB! (Best-of-5)",
+      "excerpt": "Scarlett versus Neeb in a best-of-5 series of StarCraft 2.   Serral vs Maru: https://youtu.be/h4A8ZTaPBAE  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scarlett-vs-neeb-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarlett-vs-neeb-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=yPXkXTRZgYw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yPXkXTRZgYw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M6S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yPXkXTRZgYw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-09T03:45:25-07:00"
     }
   ],
   "nextPage": 15

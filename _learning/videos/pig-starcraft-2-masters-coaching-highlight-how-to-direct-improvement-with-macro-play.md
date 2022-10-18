@@ -4,7 +4,7 @@ excerpt: "I go over the key points of finding ways to improve with macro play: L
 originalUrl: https://youtube.com/watch?v=JOtehbZI-jA
 type: video
 price: Free
-length: PT4M12S
+length: PT4M13S
 publishedDateTime: 2017-04-24T08:45:47Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "v1WLTUd54aoQ2Ueq7w/0YCAjojBcvHBIDB91K4+wilVNH1vWIcJnyj7thJxpNyL/jP9xd9YADS5Fwa+CKUcNfYXQOpfSw/efEloTh+5CXIH/eZ4Tj32/De7NKTtz7UZH6S4vM/vvt2/TFOBfhKvlQjYoFjkoFzPF9iIS+gFmSEAKzGT76IbK9lSg0rj5//K5FNga+0UFywae0MPXN3xjSQiIBk0CbbaF5DPbvj8oCHYe5xp5dU9H56ovW1A78t+UagMAtvp0f/ws5J3AkaAbp4PmNfg5jg2EMt0NCEatiyvyAA8enQgaSbtljT4ldbuTBxcVHq+guYBzXadQHB2YaSISX/YkszaJVOzi4Cqj+rvLkdyTnQtaTgLSELcHSu4e1SXbxenCcbKxObNFEzv9YqxfK7vAf/2mWpEVgPRVd+c=;s6w+M2QFwawISIbkHTlYBg=="
+secured: "pz/MA47MxWtTYm2N+ka9In/PpqPwp5zYaiRmB99mFuxlLML+xJnrNWXomq542y8zGF2Km3PcGUcwR8y2sV6JEP2yZQhXkdlKkR9WpCJCAm7nwwPGZ/ozmjLJ20iQ4o3mYQU/WGQImgaLDc/+gJ3w2MgOwA5bBrwt71KZP824UZVUsN8IZxqHiLJ5c7L8TEaM9CsN2sTV96NEvk4/wiuRc5N3BrfX5bBkgQb4sSgaNtKLXacjFeGc9TMURTIpYwexdEjmbyLH6FEzDq3gqhvEwdf8aH21/vGQdBbKwW6nZUy7va/axiwKzdFqME/W3cmPqZ/3MqakOrhhuRemD+IixEzYvMsbat/4q4e6gGtrtXdf1hSKC9Tm/3odC+6mSR++BDW1gegQ5e3aBkM9SyiPFMU2Dm2FE2oEkRGxwFMCT+4=;hz9FpfxhrKvujL2Ne0jGaw=="
 ---
 

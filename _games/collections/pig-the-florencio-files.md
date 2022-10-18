@@ -279,7 +279,8 @@ items:
   - pig-starcraft-2-240apm-but-cant-spot-a-nuke-for-the-life-of-them-florencio-files-268
   - pig-starcraft-2-flo-tortures-them-with-just-1-factory-florencio-files-269
   - pig-flos-genius-burrow-rush-trick-florencio-files-270-starcraft-2
-  - pig-the-almost-perfect-defensive-nukes-florencio-files-271-starcraft-2
+  - pig-the-sewer-mermaid-nukes-himself-for-science-florencio-files-271-starcraft-2
+  - pig-when-your-strat-is-sick-but-zerg-has-a-wrinkly-brain-florencio-files-272-starcraft-2
 
 topics:
   - StarCraft 2

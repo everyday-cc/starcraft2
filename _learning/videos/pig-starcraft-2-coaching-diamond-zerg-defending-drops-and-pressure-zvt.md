@@ -4,7 +4,7 @@ excerpt: "I coach a diamond zerg player on defending drops and pressure as well 
 originalUrl: https://youtube.com/watch?v=pkFiCVmiHSw
 type: video
 price: Free
-length: PT1H5M19S
+length: PT1H5M18S
 publishedDateTime: 2017-06-08T10:55:58Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "c3ooFtLeBBlQEByIOyZrZaJzqCXyk3mVS24eTZfm3PXfSuD4mepAow1wAPveQKrPgOwObiUysvVxVPnfKYBROAPEhdfdVWo2jwYaHrzBY97NDNDBZkOFaqILgzqH8K3/q7DapAc40UPiehqjcCco6YNkyxLeRVkIr/MUBvegUYU0WSujsDfqQ7j8O3Pe424sRpJnb0qW76Lbou56RcBm4Rzk/6gnLVeWqSK10RViXa8+2O03XKi5DNmKEWZk3ad61pG+CKrE5qvRcKSD7KnDoOletCdI5ocXciT9F3nxq3Gy9usRR2f1hr9Gih7t+515lQaC1OM6rr73uic4NjwDp54V/1G2S3Yir6Bd3HjSxQhOTleCE3EwjSUyFqVx9ijXY3WhivHJ+NyEVn2Tmm+fyA==;Riia38TRnqg1H3h1pbQoJQ=="
+secured: "KWJjOMIWfcMtBpRCPbt26rtctO3Jg6/actG7iYttndWEr93RVbyD0WP96PT3CYb08zi1yhK7xZh3xtCU5X7m/qsp5l5v26EhzOa1HBodPGf86n2uPMcaNfU0Iwriqv4wa1Qfqvud8AWhp3zcKQq1yEiBazFzk9v1PrUMxl4MjsBN1DVbObeKVUvZemwz7V1SBberVrGRn8zrKUqZCnUOR5eF8nNpadYSn+wfBuxrt5318Ob6pPr+CVir4lXYpSjhMwXy0LcMXMPx/bHHZxbZoysEzw6TKehL/1Zxd4M8nU9RzmV6SyQ+e+Q4qpTf3oPtEZiLN5nF0ITWCP9bqvR80DxcobVEqr60hWC+8ShdjJ2Of0yMYJqSXHyBhFOnIVD7tnNsyKqkanKzQVYdx4JDTA==;A42uNDBtRiMptC8xtK3CgQ=="
 ---
 

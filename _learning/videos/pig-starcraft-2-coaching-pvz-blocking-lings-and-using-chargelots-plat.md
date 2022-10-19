@@ -4,7 +4,7 @@ excerpt: "I coach a platinum Protoss on keeping his wall secure and using his ch
 originalUrl: https://youtube.com/watch?v=as-FQHkp4BY
 type: video
 price: Free
-length: PT1H7M19S
+length: PT1H7M18S
 publishedDateTime: 2017-08-31T10:47:29Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "5HPApTXbZ+ZEpU5DyaUYJ8dUbOA028XiNWt8f8CPqQflUjPnBybIrcfqpMqXLwwIbTrZGFZt8zSCCkPXJpmyds4rHF7G0X7W5CzLFk8OHODcbvkUfb1GY3MdmCAijOfevd3e8WX7qNX7U5kzJX5evxCGtltwQZrOjS5S4FelAcpl/2qCc370m+GhHI+iH5dlAzxm652ccBAh+q0EbmxAXDeNSMKvES/73PBoNPWmIW0K0tWZoy0loCcYvjY1uEzQrPaJMlY/sL+TOstdQVwNIYwMuXNs0DLP5xkdhlLtZjCPLIhKr9Uc2bcK2T3Q8Ydsr4wF8hSgcYQWW0lkF5AYpl90GdqHOvtl2BT81ZnJDd04wwsBmJk8Ki08h6Gv0qAfKOi/eHhE0a40FkFVuDyKNjTnh/1O8Gsaqimqy4YG7U4=;V+3XZLq5J4813mnGz9cfTA=="
+secured: "YVuv8O3jTp43patnyYny7D15MJsIxvNylPwyELMv2LXyLqZjxThB4kQTghO8cY6pk0Tk4GGbVBw/cix3Kv6qLHIW4IUwKhxt78c0VglRjNOJORf8T/TPBuSOtIx1PmW0C4D4VB52ULd3D0z+m5hVj+pEIIoiPSdc4mm60tHGCKfX1MNeKOd4llt+yTyFWaTOAR+NEdl/CqTjblh90d0dfHd30WcOXWCInCqkYB3n8DxjJdg1YG5YzAkkdZj+t3fdbkS7nbyehh4EHTWV6rHpFiklzxxb8d2TOaOPjzzWhCwIGhKK8xDUwfjfFWBiYaQqfSQP4v4oe6Y+BchegLYtEOEHzVaoIaT4AWGEdgPZShk4pTEf0vIGCUG49qFqqtjid+gx7+Ir+UDtHRPSZtbcpew7KIQJhLcUrRQblTd3UFU=;Lott1+skN8Z4W0x81sWXSQ=="
 ---
 

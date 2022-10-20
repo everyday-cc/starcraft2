@@ -4,7 +4,7 @@ excerpt: "I coach a silver terran on scouting tells and reactions as well as how
 originalUrl: https://youtube.com/watch?v=xXJ0OrT_IJU
 type: video
 price: Free
-length: PT1H3M1S
+length: PT1H3M
 publishedDateTime: 2017-06-05T05:59:25Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "7nDD3YTiUZnsNbmU3Irjub7UH4ZLfhoBKTqLmIRcQzEt30LlPruaxqfWzO5ABotkpZ+APeOX32ALvk9yDOixiWmL9etbgoYq/Lfy/1s+Da/xPJ7U9E11bXS9RRZVSR9GZuMnXRLWKrokZwOqzBrovklEJpg722Me3ZK29upolGUH0Fe36Lo5nXX+FojCkOqTBKu0H+KunRm+/KyI/Yucz1NgXpKpH385/S3VpfFwbhYd2tSW0zrKLf7hWjh9gvgaimMQRpZ5Ye79HpYr6YzhzCCnxLgS9z4ney298Tb+HoluCW2nlDxo5Vlaij1UzcDDyDZ/qwJeBXNsfRC3Qabk0nmpul2aKKn7Ex5i+6ElyL1f0W3ej0eaEiitiiB6bQiog5ppvL9mcFxF3bL3Zywpiu+Tj5JVNH6zGAiRF/4kvpg=;WOJuRJodKGbz2zHZ9V8rpg=="
+secured: "GO0T+9pMxyYGGvEKyBA+tZYfqUeAtgb1OHS2xKMjwxDvjdhTRynAzgyg9w9fOCMzQZk/W/dHiWI5J0gSOv4Dlbj7m0V0s499pThDlbHUJroR/0jmwM7z7J7HP0YFQGxNfKafyCDs9/He7LT0qio4taGvM8n37cNi1SBWa5XvqHUh8ObdaJdnLESdEKfwjeUs3jRgDMyMIU78O4AIDO8uIE6BVCx6XHYGtTund323roLaMFfRiKkNubU2BNJCKzEVkNeDArL6jK8ffDDWTcTzyUxAl9/0+1Sj23y3F/FHR9eYVqTcYFPSRp2/vrdA5pKTGeT7fCiT+ssgouDpbKjtEAmKb2PT7zPngdO8tKydiIBHmPH1VShGyuyjY5M9UDfrcrLXur+z2MjxXM+4RUnlBmMrE3mWPwHMAYPKImtgS+g=;nIp4+Fhp0mOX0wyaxvqVog=="
 ---
 

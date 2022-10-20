@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT20M1S
 publishedDateTime: 2016-12-16T16:09:20Z
-heat: 52
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OwowRArz5Do\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+YHtkVgCR1EiiEi+yoJBX9J+wXakBr0lfsT1cc5diMTldwDjNF9YBRYeUpBhxNVCEhED190eWL04WHcNeL74RUGyLNb+hOUD5UQtIA7Yfkzeg0A8Xnv89EqPe6lcFjQ+IQeuuNWlc/BeYqX2ah5SAWngRjh2wFP9Lk0RM0nRNrpbSbHC7WZl8Mve4aMvVyXwnZBifDDsVs4teuHYH1Qn5i4PgHmirmJm6PhIlsGvGVJcr7ZITekW3ppx9O/QDGOgNzoJ4G4ocZl3ORx8e5vostwRqSj4SH6v6rz5/w3FV7pG+iL8XLuIRb6zk/R86f3KvEoDa4pM7QG1199Zdbu1meJfbhVcZ7izsNI21MaxN2dD3jXs5g3GJ8FSoAj2nLMCpXcWLArUs8c51YNV7z5YvSzrH6M9F6Zr6JZGtG4n/AMxjnLyt0q8aqB1a3TT2c74;CA1Bc+h8RSo6+St+FhIPAA=="
+secured: "3mnpGCDBWWD4cIEBGKlUtMzzVirISZJ3S8bR/pOaxJITlJijnpcA2YBmYBBx8bPLG9HumV1B1pMb3ldDuaHdPECsQXVqeeWnXMiwkGfmRursGRg+y+gjlypTaS4OAxEfLDNKJq4rYq45E6vxLiaYsp/9OXNlNPLwKPzBqdCNgg5N50EmLInabNsx0oeLep4AuWQyGAq5jNmApIdnOW9+zWTvgnOgBZ+IImRXZQKKHawMKnP8L+tVSiAAloqvDcQ5tr8Tzb5NHWUQ3IaB3FcVhSr0AFT2RKh9zscO/5zDsq/86IhIMi2/APIKhaoSlBsczfKAxndvmKc7rLuyh06zrAAlTsslHRe9BySlMXVr7VnrCXyXY8xempSIbh+XqeTuIm7riGIchUL0nN47aVAjE+mvYdTUrzqHXMTvvh63DFZ0E6Vxr4Wxlk0mHwWEgzHm;T/rsvc18K9xz7YuB6t3Fgg=="
 ---
 

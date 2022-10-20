@@ -23,6 +23,22 @@ images:
     height: 1500
     isCached: true
 
+related:
+  - title: "The Spurs, ‘StarCraft’ and its link to the 1999 NBA title"
+    excerpt: "From left to right, Tim Duncan, David Robinson, Malik Rose and Sean Elliott play \"StarCraft\" while the Larry O'Brien championship trophy sits in the aisle."
+    publishedDateTime: 2022-10-15T17:04:00Z
+    webUrl: "https://www.washingtonpost.com/video-games/2022/10/13/nba-spurs-starcraft-lan-photo/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/COW5XB32HJEUPONMJXYBUVFFVQ.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
+
 secured: "99UNomGPrnRn3a3XbHEzbVAlSOwqk0NsaFpDEGFlso6yEYlxzqEqdzwg6M3IsvptMm7P2TJJ05CkyDTEo/7NDHAY9nr5yoMfQ5X0WXhzfowws9OVIRk09EUJjdWjWOqv2Xr9h1xl0kdzsvOIafhHY+o+bqi6OWOOzsvCBqGgvUe2YU0BnQeep7hcENj0WZwIvGORZ7VT/BeMZEzD+gSjQ2lsF1XL3aQRjeAHfJrJeibiOnIci37+GAlaNhqbvkVXp0/nNPccMaNFWtcDyBie+OQZdknuBb//hZpaVqMJW+NeRSG+HRwtUSMh1ZplBLLTqtvwYzMFsUx3RbXsvjPaD38lUGwH6RwbsgY8qLR2gG8=;qBU68mCoztuuvIhI9icwpA=="
 ---
 

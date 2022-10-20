@@ -8131,7 +8131,7 @@
         "Protoss",
         "Terran"
       ],
-      "heat": 55,
+      "heat": 54,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -8162,7 +8162,7 @@
         "Zerg",
         "Protoss"
       ],
-      "heat": 317,
+      "heat": 216,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",

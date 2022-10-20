@@ -4,6 +4,39 @@
   "page": 24,
   "value": [
     {
+      "path": "_games/beastyqtsc2-starcraft-2-dat-throw-mass-marines.md",
+      "title": "StarCraft 2: DAT THROW! (MASS Marines)",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-dat-throw-mass-marines/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-dat-throw-mass-marines/",
+      "originalUrl": "https://youtube.com/watch?v=wblFqksTD1w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wblFqksTD1w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M50S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wblFqksTD1w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-09-26T03:19:39-07:00"
+    },
+    {
       "path": "_games/beastyqtsc2-starcraft-2-deadliest-hallucinated-oracle-you-have-ever-seen.md",
       "title": "StarCraft 2: Deadliest Hallucinated Oracle You Have EVER Seen!",
       "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  This set of games continues onward in the Mass Sentry Series, and we even start facing Grand Master opponents! One thing we learn about",
@@ -955,39 +988,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-09-16T05:22:24-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-it-worked-he-thought-i-was-zerg-.md",
-      "title": "StarCraft 2: IT WORKED! He Thought I Was Zerg 😂",
-      "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  2019 Best Moments video: https://youtu.be/FEAEwkYcUS0  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-it-worked-he-thought-i-was-zerg-/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-it-worked-he-thought-i-was-zerg-/",
-      "originalUrl": "https://youtube.com/watch?v=-vzun_PbNBg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-vzun_PbNBg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M18S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-vzun_PbNBg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-02-01T03:45:27-08:00"
     }
   ],
   "nextPage": 25

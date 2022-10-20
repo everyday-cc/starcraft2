@@ -949,6 +949,7 @@ items:
   - pig-how-i-dismantled-a-dirty-maphacker-starcraft-2
   - pig-zerg-rages-even-tho-his-ovie-sees-it-coming-salt-mines-17-starcraft-2
   - pig-when-your-strat-is-sick-but-zerg-has-a-wrinkly-brain-florencio-files-272-starcraft-2
+  - pig-this-is-a-truly-unique-game-of-starcraft-icyfar-overly-aggressive-starcraft-2
   - pig-world-record-trifecta-uthermals-1-terran-vs-7-insane-protoss-ai-pig-reacts-starcraft-2
 
 topics:

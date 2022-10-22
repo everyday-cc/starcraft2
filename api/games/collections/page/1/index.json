@@ -3073,14 +3073,6 @@
           "tags": [
             "Cheese"
           ],
-          "images": [
-            {
-              "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-              "width": 1200,
-              "height": 800,
-              "isCached": true
-            }
-          ],
           "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2019-07-03T15:59:09-07:00"
@@ -3105,14 +3097,6 @@
           "heat": 50,
           "tags": [
             "Cheese"
-          ],
-          "images": [
-            {
-              "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-              "width": 1200,
-              "height": 800,
-              "isCached": true
-            }
           ],
           "content": "\r\n",
           "type": "video",
@@ -3139,14 +3123,6 @@
           "tags": [
             "Cheese"
           ],
-          "images": [
-            {
-              "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-              "width": 1200,
-              "height": 800,
-              "isCached": true
-            }
-          ],
           "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2019-07-14T23:16:31-07:00"
@@ -3172,14 +3148,6 @@
           "tags": [
             "Cheese"
           ],
-          "images": [
-            {
-              "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-              "width": 1200,
-              "height": 800,
-              "isCached": true
-            }
-          ],
           "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2020-01-02T21:00:34-08:00"
@@ -3187,14 +3155,6 @@
       ],
       "size": 16,
       "heat": 60,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "collection"
     }

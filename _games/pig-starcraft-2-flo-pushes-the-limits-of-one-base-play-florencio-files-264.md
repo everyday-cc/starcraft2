@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=wx62592FMVY
 type: video
 length: PT23M39S
 publishedDateTime: 2022-04-14T02:34:28Z
-heat: 55
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wx62592FMVY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -17,6 +17,6 @@ topics:
   - StarCraft 2
   - Protoss
 
-secured: "VYAH15sVcFY9cSwyIM4HcKba2eUrIuxJJGbVXZP6z4Po0Z5SukzQ0j0M4g+2GovqWD6rkGzYgiq7tV+A6rTGU3kh/3oTXYxnL8/HbSLoNT3ToEhddrswGi5A7/7r6lbK0IgZy/EeGzwvu4mMWUGzhX3S5kVwad6M0+JwnvXrW11HX95/cc2lRIs2gCawuGSV8/PyrhsWd9X5SpWNThudcNTN35uGY1YzCy1XSlhu4DRAkIzgHsmvx0+g2IXI8d66e1FV6DAwkkUy1lhqnwvsTdK8EFTvAQ4m51BFiC7npN3wX26Ks0lD9ua1OauOPupMseN21x/s0sES0BpDW2ytp9LJKpy0X9PezMmqqsCnNThH83WWKi6JS8DJX6Lm2+bmbp7SEP5n0MQiSVp+bEhGzSLgXh29Q67OtGpboiojNjU=;wJS8pQkO+xc8OoADTeu1sQ=="
+secured: "PeSXsFz0b7B1XwMEq3ercjWlqZBXpG9qDDae7lsp6gFsJteYfm0CgPvC8RQtMjZ1AcKbZbAN939sgJ2MxjMyGebyITTgm8nvQms5WwFfJ/WaF7QwBXWrFfDrkCzWpJbJ5P5dDH1tFuZjCF+77y+HhgaUsDoRh6UvQgKKtgke0oIpcwhDH9AttUFmeyJGviqQVzPHi8oqrTpk1bedwfNUtEb+BFdRi71105vmCQ5C07njywgj1oIcxm4XrgJIHJOxbDe3DC+iWRFV9wU8VRxitJGFI0nB9SdvMB0Kztg+4PPta/j9vqqAKCmcyWFm6ADfjqVyqdSEhsCqkCKj1bcY9rVD+I6z9H8oBSHABXnEaj98pVSSCL1oFHVoNrtvo9LCdgiIOpvrEaBb3iNvgArTapykz1RBFxGPeH4U+ySpJFM=;kMvxgE8i/tENl8F8bSIBKw=="
 ---
 

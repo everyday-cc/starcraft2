@@ -4,6 +4,35 @@
   "page": 80,
   "value": [
     {
+      "path": "_games/pig-whack-a-nydus-tale-of-a-knife-fight-and-a-phone-booth-liquid-reign-icyfar-g2.md",
+      "title": "Whack-a-Nydus - Tale of a Knife Fight and a Phone Booth Liquid Reign ICYFAR G2",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their craziest low eco-high aggression games!  CURRENT LIQUID REIGN ICYFAR CHALLENGE: \"Corporate Greed” - You need to have more than 100 workers at some point during the game! - During Liquid Reign ICYFARs there is",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-whack-a-nydus-tale-of-a-knife-fight-and-a-phone-booth-liquid-reign-icyfar-g2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-whack-a-nydus-tale-of-a-knife-fight-and-a-phone-booth-liquid-reign-icyfar-g2/",
+      "originalUrl": "https://youtube.com/watch?v=SVj42cwDBWM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SVj42cwDBWM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M9S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SVj42cwDBWM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-whack-a-roach-bait-icyfar-g3.md",
       "title": "Whack-A-Roach | Bait ICYFAR G3",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to bait their opponents out of position!   NEW ICYFAR CHALLENGE: \"Hit and Run\" - avoid head on fights and backstab, run by and basetrade your way to victory. Send submissions to fluxiorsc@gmail.com",
@@ -804,35 +833,6 @@
           "url": "https://i.ytimg.com/vi/2kMRqpDQLJQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-worker-massacre-icyfar-16-the-pig-daily-68-part-1.md",
-      "title": "Worker Massacre ICYFAR #16 | The PiG Daily #68 (Part 1)",
-      "excerpt": "THIS WEEKS ICYFAR: \"Star Crafts Mod!\" - Submit your most entertaining games playing in Carbot’s Star Crafts Mod!. Send submissions to eonblu95@gmail.com as attachment. Lastest submission until the second daily of the week (Monday in EU/US, Tuesday in AUS/KR).\r Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-worker-massacre-icyfar-16-the-pig-daily-68-part-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-worker-massacre-icyfar-16-the-pig-daily-68-part-1/",
-      "originalUrl": "https://youtube.com/watch?v=RVEWHh0NTCA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RVEWHh0NTCA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M15S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RVEWHh0NTCA/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],

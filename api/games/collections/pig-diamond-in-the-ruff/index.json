@@ -20,7 +20,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/p_MBnTNLsFY/maxresdefault.jpg",
@@ -983,7 +983,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/q1GJkA5ii_I/maxresdefault.jpg",
@@ -1073,7 +1073,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qJ9KT0_KmK4/maxresdefault.jpg",
@@ -2165,7 +2165,7 @@
         "Zerg",
         "Terran"
       ],
-      "heat": 53,
+      "heat": 52,
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-18T20:56:07-07:00"

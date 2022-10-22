@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=klZFXaFsX9o
 type: video
 length: PT1H3M5S
 publishedDateTime: 2022-09-03T04:45:22Z
-heat: 55
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/klZFXaFsX9o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -17,6 +17,6 @@ topics:
   - StarCraft 2
   - Zerg
 
-secured: "0nuHTdnfWsBPCsF+FnA5G4+GIZeVamF1c3mLOTK4vh1prLV/4cy7ooKcewcVcjmad3x1q/G3H2impmwiQxgs1HfwKDPkYcpy6w082iIzbXs9YjWNyyL29Hl2OgYImLxuSbRnJ4U9f5XZbGqaIslodR+mh2hAvB3ES9HNesn0Vn3iP70vtRrdZuO6ul8OnIAnXNe0z+UEtCmSNze9t8TWXE+wo60wOk2qH6/eT9ctBHScVVJYe19DNIiF3TKuFX0jwPmUFpgEmTzSlku+sY1fTWFrpFv42m3lyzAz/veQ+pYLcCmeMDAMnfZuvl5DyPRAJEXOYEKT9TiBbPzg5VemgCBtPglY+c7E9+pH0vN6CsnVzq/G8y5ycwLFaQwfArs+mh0sBDrTLBWUiz43+N9bVwBgJr+3TIaUwRh/6WrlROc=;IFMtvmCw2kS8BHqAOFZF0Q=="
+secured: "ELLmcTD6K0v/iC07+YwcywFDx5iAuE3Dryh5ymI433TiiTzmCeqyii2IZSTVUY703hjbQU1P9QAbHwipf91vaeCM96vAGolvA/Fj9lLjLcgh/bOeHPVAB3WTksHXxKU6yl+W4gA2tl067Ra4uDL3IEWoTWh0bcLbQTznsda/4wEUj6n2TZ+xJVvHamyLGKEPdK9WajDbhMp1g0P8uRWhTTjxJXL1CwHQQSwPdEiypPyKyAY8fCesnBAsFwYiGWqlX94efb6n5SJ/Jkf7UsMZndxPEkuQi7oKE2uq2Nz6gLLK8RMipGhytOmVgxJBJu/ZmkXU4PTV3KxSpYjYHoGtmR6hIZPkISHgEaqT2nrK+DqD8DinI9SOM2cCpDW9pcGA4eswGPR8jDiabpXPBPOfOQDrecSXBLGDmkYdE8vn+6o=;d50cHmEqC4xMLb/tWEBtHw=="
 ---
 

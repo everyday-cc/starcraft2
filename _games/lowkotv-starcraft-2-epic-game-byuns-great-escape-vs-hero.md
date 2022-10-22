@@ -22,12 +22,6 @@ topics:
   - Terran
   - Protoss
 
-images:
-  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
-    width: 1200
-    height: 800
-    isCached: true
-
 secured: "YUTpGIc67Q9pBDjrt9AogZ6cp/SRlzfDx30b4OfIKQ6Zp64iIbqW7zi3DQjlWQ3MzzYBfMu9dAAj7SK2ItFMnIio+DEJYSHMIS6ziOFVkc+rzidGB3uTtvhbIzMC04YHMBi9N2fZIYxEsERP8hPWoznfuBU4YD4VfiburRVr/MJQNQxhTWLkPAcieXaysYjO6+QjZQUIFYGFWZjFpO9KQAS5taP9oMo1vq1bVu4riU8e+fQ7VQTbfS9slQpOmJavvbFlOdWESFXVKpwXLX1ksR5h4Jc3R12F0JyFNCEglQOKaY8x5hhQYErv63VcwkXp5CcNoXV6NpBAFgDA7MMbykInRhIPIFTERwgsIABPhbG1nNppAGr6n1Fu0KP5+axvkfxXxRpkW6dP9R9q0e+Vu8RzboNv0y3gM46MDUc4ZMI=;E8pu/zWlsxH3kCLaQxw7Og=="
 ---
 

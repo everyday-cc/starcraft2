@@ -18,12 +18,6 @@ topics:
   - StarCraft 2
   - Terran
 
-images:
-  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
-    width: 1200
-    height: 800
-    isCached: true
-
 secured: "90jwkGEu2gwqEJ+kF5FWIIrrXTCldRm7iYp/NBLqGoDqdwJPguUsQsHRGe3TGpvEKGp+N1yxCJQG2nxP3newkBOFO+sE1LBlg/Lw60LjwDRpLKXdjIgo6WzaEJFzjeSudrdKTWcerIAxZkNMeg6LSYIpQVooTJj0+7YWADC5ixN7ziOHzgCrU854Jxi9YWyWUxR4Bss+ryh8yitxFAd8nqZZ0C9MnJrrrLcrPi0E5HcELNfquigHvSxCFzbmrjgSCU8lfBILxiE1MQ+IJDLMSOVNcRLt+/3+dd5+Aj5aVY24yiwY+D8brFrJUjPJwpHCrEGDl74Rhp4AIvt4x4rt9NZ8jOzn+0CLzNAYHZQv4+yZFyNhIBiHtr63mxawv8KuEPlx6k4+Ybt7sXUg7/4acVVtsbt178p9liK8QaRApNo=;uFW2c0MzKUHNftcBytSZwA=="
 ---
 

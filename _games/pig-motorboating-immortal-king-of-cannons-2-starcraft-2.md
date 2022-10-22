@@ -19,12 +19,6 @@ topics:
 tags:
   - Cheese
 
-images:
-  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
-    width: 1200
-    height: 800
-    isCached: true
-
 secured: "JurIVXEZv3GOSb/mi//fLB0RmpUUBylyARE+elYXWsMfu26BGBuxZfzRRdZoa++/r7HL5RLUGvXtfg5VocKHnfpMe6qcIes17KCPYLy3RNxpATc0ZdyrrM2YfafGXRLAY5XcCmBLA/7wCPGoZ60BV6Nl5KX2XvxlJ3LXSqjXRjH0At2dapV+SOeKo3MZ5e0Pw5qdYXae6VLNDN+O6+R4wejhHFlsBl8J+528MJcgJMuXxDhbCnBJDJEEykEhvvPG8SuzT3hWAuzxyCOPu9LbkMuA38T6DlTCIbKYvPG737U6q9yxcwJ4zfu/wBZ365BRsFlfXa5a236eePNnylpr4L/WBHr0QNJSJBn91a86A+hkmHwpePy3qjGtCtMslw5zcsupzPhrfl+fhEl5ulNuwuM8IFu/vpXBwQPK6RSG//I=;bV3A8uVSxnPX2NmNB+0wZg=="
 ---
 

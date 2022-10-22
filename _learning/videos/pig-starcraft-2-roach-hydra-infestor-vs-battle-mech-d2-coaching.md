@@ -18,12 +18,6 @@ topics:
   - StarCraft 2
   - Zerg
 
-images:
-  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
-    width: 1200
-    height: 800
-    isCached: true
-
 secured: "63cU4meuT6xsEloGOYVkrruwRAoigPBr9NbnN6JIyLsOW22wnRYFbkU6EFX47AJOTo1rxE6lUTmJUOowZ9TXERxUEN/xNhhxsyoVDGL7zk1XhcxcdQy8rvL2hgqIL7dUM2RpGpRCOkb4NnryjxJs9TFs1zMY9SUrC8dGoPHPW3s0LfMQiKvlTBdhoeigCBDxea69Wgf/6zeEgZx7kLSB1cDErUnnyNVJyc3BmxWxqO870YbcUbrPS+RRJGj/i5ARkA7nG2YQwKUFRnYqmUmA2hDxF8khXO2lGvGreSnhBZWwSJkBPA+HnlptIbJv0RUXHwmOCopd2uL6kao8t9plK57GtBy7f2TQZbgh81UIYfDXZ+53ycbLxoDsAjqRCemhALZuV6HYXWBB1C078L0OMURE+jurywNXGZOlbZOdFAg=;gbUQKHEHSKIUId+IQi5p4g=="
 ---
 

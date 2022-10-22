@@ -16,12 +16,6 @@ provider:
 topics:
   - StarCraft 2
 
-images:
-  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
-    width: 1200
-    height: 800
-    isCached: true
-
 secured: "h5+T2S3uerxGgwqAdW+6F0C5Rqf+hHxjj9Iy8ntTMQ/yVccunYfsXM8fh4I1Iy1yXTsfCGFoTdjLck5IgAnNKJk8OydmhgPKDKQrC90QGQMsSoXec/QVQyR1/Rv2jEVnbxkObZFr6dx9DG76XaVzkmOvgBkfmKXQmP1W6/VMXO8jI7ZI4SUN/2wX8oAqAb33A3HMoUXUjRUPtTUja7CpVeqANduWgXyEihjDYoXzh65QsxfgsBsTHmv3QGu7OMYDVsPGf3cgxKHHy3a2dxJjdM8xD/mYQWqBGId83stUp50ZJUGqWdjXVSB4gkOqaV7Fgm2KZ3ICAF8M0L5YhLZUR+/SLaOrxi49rgugLHYKuXK/UoccTWQQ6Rw4lUs6fXgWz3Gg8Ye0ZX0QrYxrrYqg617ZY+0F3tQxw12ojLd1qFo=;4/xmmjlo9GaQ3UodN4N08g=="
 ---
 

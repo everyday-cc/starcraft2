@@ -22,12 +22,6 @@ topics:
   - Protoss
   - Zerg
 
-images:
-  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
-    width: 1200
-    height: 800
-    isCached: true
-
 secured: "vs28IlKltseJRdkkplBYt0cUuydh1+SJn1uomkTx+wkXUo0LLaR6NhvVvhZBSTMoE3RntcHiN5prOJW1l+iGtGLLVlzrhgbvPNy00cBXn7TvJA7DOhGrt1XNPJarRffXSSuQTLrkjYFL/e+FA4xtmFxBE7B2svSMY0duc0AL1kbEwA9KZGf0H7qNyodJWX6WhPZ1slvB3Wh1gFXGRwtvUBq4Ok52rIgg49yiNBi1gONvoB8SMrPR904ZU7nFuiCpVZXmIpRi303cdfVb+M5ZbK35po4sh+43WfqHv9wDxkiaXLZuCUfudc7HpG/7+cNW/L+Wam8106nj9wfX8tu23QMoXbeMiDe3DaeVrJfGpjacNepQA+V6T7FoKWR6JfqMou+bZx5vdHJgHuJunYwVuJOq2hKSx3BKvP2WFQ7A62g=;Mbaw6fDF7PVHGhhutCPzBQ=="
 ---
 

@@ -19,12 +19,6 @@ topics:
   - Terran
   - Zerg
 
-images:
-  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
-    width: 1200
-    height: 800
-    isCached: true
-
 secured: "ihNALx7B1gaOM2zzLzPnnY62ufOis9A7F12G2Zn9SiQ5qnWMKT5nzHuSS+mGvpXnEqGq5mxQw0Tg3TYaKfunZGojjZclabn5STcLY84nqp4dOQvJDVlkC0Cd+G2ZGHG3PSp3yD1E+O6cQUaLmxQIIXqFPV3G4wwsRqyQoyplLJgbfkFvQttyxnuT/pl9e7Lfc1kDIs3qzY9e/73dzoc1AbtfWpXA8ukkNvkLXkVRFcn98A2o38iUM3DuVE9yNnjj3OA9VfjD7eYDLSwnRodTqSssc0ca3aTrzik53jissBrBUpxbL8bG17l9h50FtVzAsinD46gHOiQ23fLn7g807WZnPSxDOdlORlSznOsPOcU52YrO+VmzzgirrWpcE2wTcpZsQO9ParDTFYX9vRRiZLEiLOrqEJNLnPHHZOzyxWI=;b0eg5UmrVvUOPTpZ0e+rbw=="
 ---
 

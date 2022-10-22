@@ -18,12 +18,6 @@ topics:
   - StarCraft 2
   - Protoss
 
-images:
-  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
-    width: 1200
-    height: 800
-    isCached: true
-
 secured: "7p8QtrpprMPmRsEHe6/8d5jWZq03SBO4m25HOT/Ld9hHu2RZ7XlNP6DhHGs+TiF7CfyK0rUeuwOMvCT2btBCeiFE+jyc9okHdnlHsZRZ5T8+mwqo9Pl2vBvoWzYQxtFlSba+SM6fekW1dAPmQKBnU+bEEHE9yA9ffrjfzr/vGRwIWPzdTsgRR8YA8isHEXZzs8ruiIIQuxjPeoFPh6W2ErHfQV9RDXstddYsmW3HfkC++PhEzEP91Ifh4FFBrjdP5cM4rLuEeHJzap6BNW2AmQIsNf3EqS+3PrjcoDKofipycoe5OxZ736JRW2ipe1VzcmyfsFeOVRamhNyU6rrIBpRUocgko687FjHqb3TWdP1zrOLSK0DZk+aEDVzLQ3iAHg3yqfDVcaF39rM8iee56wSSdeNqfPZIIjnnuaHgink=;dDa67T+OQVuqB/ZKAjrc6Q=="
 ---
 

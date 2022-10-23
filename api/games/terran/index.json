@@ -35,37 +35,6 @@
       "publishedDateTime": "2022-10-20T02:49:08-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun.md",
-      "title": "StarCraft 2: PRO GAMERS PLAY 2v2 - Scarlett & Astrea vs Dark & ByuN!",
-      "excerpt": "Professional match of StarCraft 2 between Astrea & Scarlett on team North America and ByuN and Dark on team South Korea. Fantastic game on the 2v2 map \"Nightscape LE\".  OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun/",
-      "originalUrl": "https://youtube.com/watch?v=q9Lu_Oo-vio",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q9Lu_Oo-vio\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M28S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 223,
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-19T04:56:26-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-cheesy-games-gumihos-pulls-the-scvs-twice-best-of-5.md",
       "title": "StarCraft 2: CHEESY GAMES - GuMiho's Pulls the SCVs... TWICE! (Best-of-5)",
       "excerpt": "Best-of-5 series of Terran versus Protoss in StarCraft 2 between GuMiho and Neeb. Gumi has been played a pretty aggressive and cheesy playstyle lately, and it's in full effect against the American Protoss player Neeb.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
@@ -135,6 +104,37 @@
       "publishedDateTime": "2021-12-27T04:58:41-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun.md",
+      "title": "StarCraft 2: PRO GAMERS PLAY 2v2 - Scarlett & Astrea vs Dark & ByuN!",
+      "excerpt": "Professional match of StarCraft 2 between Astrea & Scarlett on team North America and ByuN and Dark on team South Korea. Fantastic game on the 2v2 map \"Nightscape LE\".  OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun/",
+      "originalUrl": "https://youtube.com/watch?v=q9Lu_Oo-vio",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q9Lu_Oo-vio\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M28S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 197,
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-19T04:56:26-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-byuns-amazing-micro-vs-classics-maxed-out-army.md",
       "title": "StarCraft 2: ByuN's AMAZING MICRO vs Classic's Maxed Out Army!",
       "excerpt": "Amazing game of Protoss versus Terran in StarCraft 2 between Classic and ByuN. While Classic can build up his ultimate Protoss deathball, ByuN refuses to lose to it because of ridiculously good micro.  Early morning StarCraft (video from 2013): https://youtu.be/9_8gR2crUw0  Support my work on Patreon:",
@@ -164,36 +164,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-10T03:03:07-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-byuns-super-greedy-build-order-best-of-3.md",
-      "title": "StarCraft 2: ByuN's SUPER GREEDY Build Order! (Best-of-3)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between ByuN (Terran) and Classic (Protoss). Classic starts this series off with a cheesy build order that would surely punish a greedy Terran strategy. So what does ByuN do in the rest of this series? Triple Command Center off of one Marine.  Support my work",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-super-greedy-build-order-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-super-greedy-build-order-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=3b7PpCAz4vI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3b7PpCAz4vI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M28S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 195,
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-18T02:36:09-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-byuns-filthy-cheeses-vs-maxpax-best-of-3.md",
@@ -226,6 +196,36 @@
       "publishedDateTime": "2022-10-14T04:49:12-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-byuns-super-greedy-build-order-best-of-3.md",
+      "title": "StarCraft 2: ByuN's SUPER GREEDY Build Order! (Best-of-3)",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 between ByuN (Terran) and Classic (Protoss). Classic starts this series off with a cheesy build order that would surely punish a greedy Terran strategy. So what does ByuN do in the rest of this series? Triple Command Center off of one Marine.  Support my work",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-super-greedy-build-order-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-super-greedy-build-order-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=3b7PpCAz4vI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3b7PpCAz4vI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M28S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 172,
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-18T02:36:09-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-impressive-comeback-800-marines-byun-vs-time.md",
       "title": "StarCraft 2: IMPRESSIVE COMEBACK - 800+ Marines! (ByuN vs TIME)",
       "excerpt": "High level match of StarCraft 2 between ByuN (Terran) and TIME (Terran). This game starts off passively, but turns into an absolute disaster for both players very quickly.  Epic Zerg vs Zerg - Dark vs Solar: https://youtu.be/_Q-6UB0k3bc   Support my work on Patreon: https://www.patreon.com/lowkotv Become",
@@ -250,7 +250,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 170,
+      "heat": 146,
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-15T04:50:33-07:00"
@@ -281,20 +281,20 @@
         "Terran",
         "Protoss"
       ],
-      "heat": 146,
+      "heat": 134,
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-11T11:12:10-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-gumiho-proxies-every-game-vs-hero-best-of-5.md",
-      "title": "StarCraft 2: GuMiho Proxies EVERY GAME vs herO! (Best-of-5)",
-      "excerpt": "GuMiho versus herO in a best-of-5 series of professional StarCraft 2. GuMiho just can't stop proxying herO in this series, as he builds structures outside his main in every game.   Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumiho-proxies-every-game-vs-hero-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumiho-proxies-every-game-vs-hero-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=8zNTHlQcR4Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8zNTHlQcR4Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M33S",
+      "path": "_games/lowkotv-starcraft-2-all-ins-every-game-hero-vs-gumiho-best-of-5.md",
+      "title": "StarCraft 2: ALL-INS EVERY GAME - herO vs GuMiho! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between herO and GuMiho. In this series of Protoss versus Terran they both decide to go all-in all of the time.   Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-all-ins-every-game-hero-vs-gumiho-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-all-ins-every-game-hero-vs-gumiho-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=gr_BT6rabKw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gr_BT6rabKw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M6S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -312,10 +312,10 @@
         "Terran",
         "Protoss"
       ],
-      "heat": 111,
+      "heat": 128,
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-08-09T04:56:34-07:00"
+      "publishedDateTime": "2022-09-20T03:51:55-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
@@ -557,36 +557,6 @@
       "publishedDateTime": "2022-09-06T02:38:32-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-maru-styling-on-his-opponents.md",
-      "title": "StarCraft 2: Maru STYLING On His Opponents!",
-      "excerpt": "Five games feauturing the best Terran player in StarCraft 2. Maru in these games just can't stop cheesing, with the exception of the last one. In these SC2 games the South Korean Terran is going up against the Chinese players XY and Coffee.  Support my work on Patreon: https://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maru-styling-on-his-opponents/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maru-styling-on-his-opponents/",
-      "originalUrl": "https://youtube.com/watch?v=kI4SNAdgAuo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kI4SNAdgAuo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M28S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 77,
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-08T02:17:39-07:00"
-    },
-    {
       "path": "_games/pig-first-trifecta-uthermals-1-terran-vs-7-insane-protoss-ai-pig-reacts-starcraft-2.md",
       "title": "FIRST TRIFECTA! uThermal's 1 Terran vs 7 Insane Protoss AI (PiG Reacts) - StarCraft 2",
       "excerpt": "I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! Like Thanos, uThermal is collecting every 1 Terran v 7 Insane AI challenge he can. This one is against 7 Protoss Insane AIs: https://www.youtube.com/watch?v=5FgDFNQENd0&ab_channel=uThermal . What challenge will he smash next?",
@@ -608,36 +578,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-14T01:51:44-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-his-main-base-is-the-entire-map-gumiho-vs-byun.md",
-      "title": "StarCraft 2: HIS MAIN BASE is the ENTIRE MAP?! (GuMiho vs ByuN)",
-      "excerpt": "In this game of high level StarCraft 2 GuMiho (Terran) decides to proxy most of his buildings in the early game. It is as if the entire map is his main base. This is a Terran versus Terarn where he's facing off against ByuN (Terran).  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-his-main-base-is-the-entire-map-gumiho-vs-byun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-his-main-base-is-the-entire-map-gumiho-vs-byun/",
-      "originalUrl": "https://youtube.com/watch?v=hwDaBoQLbuw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hwDaBoQLbuw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M42S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 74,
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-03T03:30:53-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-innovation.md",
@@ -702,6 +642,36 @@
       "publishedDateTime": "2022-09-08T03:08:29-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-his-main-base-is-the-entire-map-gumiho-vs-byun.md",
+      "title": "StarCraft 2: HIS MAIN BASE is the ENTIRE MAP?! (GuMiho vs ByuN)",
+      "excerpt": "In this game of high level StarCraft 2 GuMiho (Terran) decides to proxy most of his buildings in the early game. It is as if the entire map is his main base. This is a Terran versus Terarn where he's facing off against ByuN (Terran).  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-his-main-base-is-the-entire-map-gumiho-vs-byun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-his-main-base-is-the-entire-map-gumiho-vs-byun/",
+      "originalUrl": "https://youtube.com/watch?v=hwDaBoQLbuw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hwDaBoQLbuw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M42S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 73,
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-03T03:30:53-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-triple-battlecruiser-rush-elazer-vs-kelazhur.md",
       "title": "StarCraft 2: TRIPLE Battlecruiser \"Rush\"! (Elazer vs Kelazhur)",
       "excerpt": "Very good game of professional StarCraft 2 between Elazer (Zerg) and Kelazhur (Terran). In this Terran versus Zerg Kelazhur decides to go straight to playing Terran Mech after opening up with Battlecruisers.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -730,6 +700,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-29T02:30:52-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-maru-styling-on-his-opponents.md",
+      "title": "StarCraft 2: Maru STYLING On His Opponents!",
+      "excerpt": "Five games feauturing the best Terran player in StarCraft 2. Maru in these games just can't stop cheesing, with the exception of the last one. In these SC2 games the South Korean Terran is going up against the Chinese players XY and Coffee.  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maru-styling-on-his-opponents/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maru-styling-on-his-opponents/",
+      "originalUrl": "https://youtube.com/watch?v=kI4SNAdgAuo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kI4SNAdgAuo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M28S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 72,
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-08T02:17:39-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5.md",
@@ -761,37 +761,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-04T04:56:34-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-all-ins-every-game-hero-vs-gumiho-best-of-5.md",
-      "title": "StarCraft 2: ALL-INS EVERY GAME - herO vs GuMiho! (Best-of-5)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between herO and GuMiho. In this series of Protoss versus Terran they both decide to go all-in all of the time.   Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-all-ins-every-game-hero-vs-gumiho-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-all-ins-every-game-hero-vs-gumiho-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=gr_BT6rabKw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gr_BT6rabKw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M6S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 68,
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-20T03:51:55-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-50-tactical-nukes.md",
@@ -914,6 +883,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-09-24T01:39:41-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-byun-plays-insanely-risky-vs-dark-best-of-5.md",
+      "title": "StarCraft 2: ByuN Plays INSANELY Risky vs Dark! (Best-of-5)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between Dark (Zerg) and ByuN (Terran). In this series both players, but especially ByuN, play incredibly greedy games. This SC2 best-of-5 was recently played as part of an AlphaX tournament.  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-plays-insanely-risky-vs-dark-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-plays-insanely-risky-vs-dark-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=sLOViPQSyd8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sLOViPQSyd8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M32S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 64,
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-19T04:44:39-07:00"
     }
   ],
   "nextPage": 2

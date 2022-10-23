@@ -947,6 +947,7 @@ items:
   - pig-protoss-hater-starts-whining-before-anything-even-happens-salt-mines-16-starcraft-2
   - pig-harstems-brain-breaks-in-the-most-insane-sc2-game-ever-vs-smooth-brain-boanaan-starcraft-2
   - pig-how-i-dismantled-a-dirty-maphacker-starcraft-2
+  - pig-zerg-laid-out-a-hilarious-trap-and-i-fell-for-it-lol-mac-or-cheese-7-starcraft-2
   - pig-zerg-rages-even-tho-his-ovie-sees-it-coming-salt-mines-17-starcraft-2
   - pig-when-your-strat-is-sick-but-zerg-has-a-wrinkly-brain-florencio-files-272-starcraft-2
   - pig-this-is-a-truly-unique-game-of-starcraft-icyfar-overly-aggressive-starcraft-2

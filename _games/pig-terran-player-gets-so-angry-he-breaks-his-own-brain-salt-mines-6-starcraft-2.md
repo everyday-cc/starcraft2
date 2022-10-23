@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=_r7e4cSYy18
 type: video
 length: PT22M38S
 publishedDateTime: 2022-06-17T10:57:27Z
-heat: 54
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_r7e4cSYy18\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -17,6 +17,6 @@ topics:
   - StarCraft 2
   - Terran
 
-secured: "IpR2T2cYa5Aso4hiKJPczkpvaiMc6ZlC6mbcjHE0O3+s/FoXkn//VpurEB91YH8R7orX8AB94K0SQNCiGXH+o5Sg8EGGjpp7iccldxUFSEj9iZAG5kjogmTyHteROYT0PCeCp4jp49QiKXkQWU2tdAvNI8SXkpSlUN0z36XxRXR10Jog4hGCtYjJWgziOQjAckvnhq/kSezeaPOoasPtn9xLnFIPfWlvOAQjLhLDtlhBI4lXbISgtuhjFhY53n8TezAid5meP0Jk3mLuWB0hBFAU/Md+wF/Z+3GnhBufoH+X2wleKQqwif5mZy92C5+DtDmnyqqufVTYsjS52SBZ6BmFc5ElyZGhZDO6UxGLS1L8S8obLCGExBZg9Ofqn3/K8F6p2lDUlkwkbHSYWJlPBKJkaZMrCi2v11ML5mm+j+Q=;0E0rvDK27Mkl6P+3VqWtKQ=="
+secured: "AhTJr19tuy/9j3d8PipgBT1XmRY0/TtAsHZR6j2sKNCoQAGix6rTXy6bv62ZHatIObRAqbchflwNjHqqlZbu6eRN+6+yKXphDanYouCDokoViRAs+cIS+Th8B1cK73Xx7gl3rLv4cC6TcJtBre5A3TqPf0/LlfbphzVJ+028hgOaRNpxpLu8EIObuzNBjLGfVsh3/qm+G4emK14bEM2BJXLdJq8yJJUjJrWa2IuOKN9NzPA3lqdItcgbFsVWCW21Dni+xqJzdXsf7egmf8Vuwwxkphx5l+oxpxAIJk1qfGrNGfzEfVDi+8kQ+danjS1AoocMZG6zv9RX7Jq6NjRCwWGXKrfJassrUu3ZONIqxj1ruBjq0poqgTz66VvRmv6zQ6rOXhMnIYDdb5nuMwJZMdTpmGq9OnKr1G4HGZaL9rI=;98RSUM47RdVhR3gEIRUT5g=="
 ---
 

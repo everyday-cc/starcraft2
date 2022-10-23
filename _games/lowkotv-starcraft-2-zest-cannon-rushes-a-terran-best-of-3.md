@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=Q36yhYYMed0
 type: video
 length: PT24M36S
 publishedDateTime: 2022-06-06T11:09:00Z
-heat: 50
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q36yhYYMed0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ topics:
   - Terran
   - Protoss
 
-secured: "RmC9cadmwoIUzDUyxdnvwyyvBn1IYXIupg2djUMZWc1qkSDpzR2P3viWuOtn40WRKedy3HThXcfB2aaUTjYpXS6sb7FqJcsh6+CAyH0LU7sjPdm4ugOq2d2r+2lsvkyuhFn7D/Dl+qrkwmNkqEEmYOiryJADcLI73wH2ujjCCEV23Gd/xyRvr2MVvcniCyKQleaW8ROITOuVFjSzTGE3IVHp8RSMSogVZ8kKwlKuLEWHpk2HGlMHDV660b+gadJQv0kOZTmnoTfEbQr/YJZ1348fg8fN5wtTzYnv8QMyNy6v/3+UUuanJ8jOkAOE1BGEo9nBwY4IgBukOSVfYyExkXqoMyACAn/B4/o9c/lGc7gqvVdafr7zjYsrgf/isnLNZ6se5z30W6CMF2sdW1ajdXjwoiCdUDTpY1rom8CWNdY=;ffkXc8jy4AuWoAeIw1PK1Q=="
+secured: "ZuXCYWZ8myBAduT5N/zfogFkorbHDj9O/kg/C3F+E/Y3vbSLH/Gr/4SsPVKJPNMD1xP0aEMPu8H7QAxPZGbAxwpMko0JK1G27FBVt97U/6N4b/Tyh6UHgL09J9vXBOSDAe3mjfEvCKdmHmbwDqgoCsG0Gk0kzPeLtGDPMrjGLQZrro+ng+1La3e2AG8hJxKMMkvN7q/yxKXJ27m+ZQm3UWH5tXyTM6z+MP6Cta+dQF3CzU57TjZ/wfZ5wXGa1DK0o2++xy3GFZIIzE9RchLlZsHI8WsRhDIpCSXj01eWMxbGJt5dWZJJtjM2TPJ7fQw9nqUIAoO5bUrFR/2hRPW8oIHQwX/eTSvQrWAWFMMrL63dTj2IGBQAp9ofQXi7T6IbyK41EG1efJr2jHnK9VVHtm1zG+E474h7f+Lw4d5QiR0=;VexYSLdyNzjxkgYHCltCTQ=="
 ---
 

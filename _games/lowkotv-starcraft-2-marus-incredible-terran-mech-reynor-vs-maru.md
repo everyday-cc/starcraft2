@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=QLKQbQZLUlQ
 type: video
 length: PT25M26S
 publishedDateTime: 2022-03-07T11:03:39Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QLKQbQZLUlQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ topics:
   - Terran
   - Zerg
 
-secured: "3TE48NtLoban1GnY5PYUHTBYPGBNYThEqoRAmGnShuOnT7aFZqYUbcEir2nTk2BXyyrOMWSkMht4OIi1P/J8VirFhekCVVQPTRbAni4CVD7SoJbaqBXl1K1dOX2AJZU3EUD1oc6V+yWJ7kel1sa4Nk72VxBoQ8o8v6ZPSNlDJqC+OxLG6hQw5kt8xxpdqiM/eTfgq4HyV23EQyykrzHO+rtYTml4ldmn19wBcf2jxSke+KJ+WjObFALmR5mugen1y9F3SyMlUtrsG2vDjq53aLWYVPWKPzfi/a1G0wxXEQk5RAf1daiTUkWqTy/oONczKjr671UIdP94CmQwEpNl9AocwnYdP+yqPKU4IygkniePl9YlNquucqLf7kMHV40rO4yJjqpYc2Um1KJBybCCi7Fe22/j1dNZ5HWeKHeiMTE=;IxcM9YPczoOqzUHNu57bUw=="
+secured: "B5yIf6A0IiJnEQF+x1sg2Age8wODkv1I695XkJ3h0xhs3+rsR13aV+X6hET1ih1pGmuKbaNhBO/GAXdQ9yVJ7n69zdMXyi1qdrAiV0+7uTNrfu/y+3z5cJ97rAZsNTWqSWpXj8dyoY4hUquPaq6BFkLcxjBNMYvXimdMJ7T7DeYeg7pAgBiw7tlgYYgUvSQbGO0HjFeysu7OcH2b9UmbY9c0mHakbZJ1snl0qLcEJ6CkEGnOVI5svs1zpKfsI94Y92bvXx6Ssle88UBuYo1ST4WY38wv6tWXtalansGHzugJ+ws5lUW90L9k6fCdfciWK9iiZwzQQ2WxB43Y1iSBNFWsSKGip67Oa0nrrb1Xqul3Y6QAy4PJ95S9/35ClZcYkPRrOBpSYcWqho9dg/paV3lodPzJP1JbLdEPswzvSXI=;6STK4RlTluCENsgrD61hFg=="
 ---
 

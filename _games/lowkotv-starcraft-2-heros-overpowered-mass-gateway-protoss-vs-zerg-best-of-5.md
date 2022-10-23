@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=2zo2sKZ0OUI
 type: video
 length: PT32M38S
 publishedDateTime: 2022-06-04T12:05:19Z
-heat: 60
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2zo2sKZ0OUI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ topics:
   - Protoss
   - Zerg
 
-secured: "ReU4jYHOOLfKa6Fgx3DCDtPS++/pkkUvC9dEWOIDT/tYOjhzsrGo3d2GSNV9z9J6pFe0HBnBoleTVAF8pI9DB34dy2yOwybI6pTj6OXWmPJSAk08XYPCav1B6nbhlitm1+Y2kYMfsw5U5haZicjeoSelBcTHXRpEBPOuKEKq7HOrpJMlffheR8njoyy45ECL9AXGaP236t2sflKL3DeaBMVToe/VX2LLrQkxNPzKCHiAGGa1fCr0v7GPJAkgi+a/oEXbsBzJC97cc6E021vynPEtOV5i6DBsiKMcqcgWdaHb2XhiPj1I3y4Z3ea0PQcF0aAdLvUzbcpcKPNuziYUZCIrBirpu82zole8b3AHtTVGLH1F7MgqRssJHg+HlnE0gGOeO56t0Hza05mTICzyVYDMsasWepWuw2oq0bdfUmU6fa5Mb0zbBC/CYrz787K6;W5FVZ8wHIeq9eINhnIHB6A=="
+secured: "WG4uuE1LxX5fO5Qh20GW4uSKE0Sn9NGSCSAWGFlgYjuQ7XBwR7Y9v5Kg1Qz1wNUexjJgETLO2sHJ16YueA4mtreFiTvTh0FwUMY+6jh66sEwc2QaHvsSj2kWzSQAp9/6naW7F7rK8SBOb8eznJElWvIdGF3+IRHgWcsFFtDI/QMZ61EDgFjkJE2cmD/KoWyscVkNAIsVFdc5gE21y/h4S7I5dtnUeJgcBPbHMAvBxHMk5M+eTsqPWjny5EkPxv5EvP+gebBavbmln4LAmyC0bzz8S5N1JPXm2TFonrsQDds8IuzuRAz5ofRa2cS9sE6F5QLgosBLVxMO2hyFsP+m0h5z1uVWg88QooB5aKtxv1woCqqyIfN1C5GzJnW2I63+hv+91gEISK3BdMPOajjQyE709+cjt0eZlyxqd+pwqrPCviUDvwFDmajNWlWVJVJA;RYAoSjlbHN0gqCbvHiBCJA=="
 ---
 

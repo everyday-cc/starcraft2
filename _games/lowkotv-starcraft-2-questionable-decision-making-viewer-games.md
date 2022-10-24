@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=1rNTkLAloIw
 type: video
 length: PT39M51S
 publishedDateTime: 2022-03-26T12:57:21Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1rNTkLAloIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -20,6 +20,6 @@ provider:
 topics:
   - StarCraft 2
 
-secured: "dIfztaEy3EJUgSrzmpJvQriSkoJwD9xTRtJvFmmCWd4aiaCnpQObxCJONYlvYIlmxjsU1iEnAOWfy2NSAjKjLuC/+GhY471YZM1WifaFTEKlm+q9wrN9UJiXpvjWaHKltKIKRvMu50ZiAd2RMkHS0WoOrG3cuZSAhVldN2pildsxbQuvE1Gj0lulDimy1rRt9yHpybTKxkVHeLwwpN924zzgEwcVatLvqD4xD0U9QMLh8bm21UQEic1dU0C3/bqS+JhrGkPtf5kwnZDOVmeQt7jKUmvcll9OBq+0ztDi0Gxd1IusPST/41Hmr0P8xcWEZBRmdgqQcPPlET5DByCS8cGSKqc1c1qTmMvUskl5gZkc9N81iyBvxsE4W/bL87lZeVXB680tiwFm8c/YknwUAE0e8iFmLLx/d/mv+OcyZ2A=;I2ZxauwxpUmrnugtTCKaPw=="
+secured: "Ej4yypp7thPEsDYYPw+I1R04ykjrgi5ysS45jGBENw51HOg+y+eZ0keRjf7Id92gftJI9JQd0mZjImPcKp1xeWsnz9DbVHS/bk6m0F/6qsNnhDIVLC2MknRPqYXeLsbUPW9BsCauKfDdutyTgzrm23Kt98ovi1ax1Z9XqghTwT02efkCuioh6+Y9CC/ykGLT1EgvKl6xaSj+yRl9rKfxTrPqwHP9ityFBn6RMauPsAWARugehfQxCd7T5sWm2dAC/Cmo7ROqxqrtCQ4Rd32a8Je5GFjHM8AMyZ09ialInOVi6vHxmr6HQmwoIo7cR7MAA/iMgh5sA0R3aYHBvasMzcxxMjZEONY1z3AKcxEVsg/CCikbt3Bww6zn1RBw+b8iiMAD89MERC4MET+xgZix47u8vYUaXNawvYKufx7c0dc=;ff5t2nWHCVe+T2NlMB2v/g=="
 ---
 

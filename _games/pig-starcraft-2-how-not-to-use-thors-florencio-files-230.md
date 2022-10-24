@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=v_1asbwEOk4
 type: video
 length: PT37M44S
 publishedDateTime: 2021-07-07T07:21:36Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v_1asbwEOk4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "OnWd13648QJvjTxmmpcVnKIdJlzA7grwhdaAmRMnt5SqaLVzKpczIuFs1yc988QIQc08BZTiKcL28PT5nF+tbysj/AhsS8htnlM/BSrH3jxPUWL3fffrDo7BftQc4HuWg3xQdKEwJyhoV3m1FQmwV0AdtdcoMGbYIEJrYdo6pfpSfZrL3/V9JRp7ZRv/ESaEOKxEiI9mvy3NlLX2OR+M6G1ktgsBvWTTkUEa4P7h3BaY2iqin7GzWsRBvzpycCPbhA0E5GdW2KBBnCc6R68XK/32cz4kAWQ3c/xx2cp6JrqhrK5k7Hwx6SvxJ8XPCMGb1TJImVtTFWrnlNpLHZh1lA/fQcON21dz57JRm/Xzy1LIJc1mYVvU1btk5DiqGwI6qFsTtXHm2yD8zwdr9yvZDv3Qf4SB8/agcUHo4GWzPFI=;TpuPgTIsmXd55va/Fctp5w=="
+secured: "6/GhR5cHFjEt83xigYfZ0rGB447PpuZ7KsbdSn1fDa/qWeBdEufHqbGvQAgOpk5ACNQvdjqml0we2se8UPvy1JuHNNg6zPSII+MDtutavOu57YjTO0oDmgHKa2CIRZr8J+KQ+O7k2uN8HowAqz4QRaoC5sSMaqZ60aqAUKS2BMPpb/83luzEFCarTXVVvv1DAyccRTa17rudkO7wGQ6ax+XW/esYD//35++1De+lBi/xblm+sUad0RXnqZ1JDcxcoGCr2uYy5mfYc8pXms/IH1lbplNbDCqonoTwzKL/2rp+VS5jLyJjNh6TmtvmxROYhOg4bw+BvBcABngI6LXIJQmRw6vjU6hYMCen5yiOYKxPTUTaP9Kj9yyQkX0gu28TV8u5fQ2BNe5ZV0Y+ekvxVtGLsFQfxcnPgKbq/htdIOs=;H42ZnE3W6SsXTDC78GzhXA=="
 ---
 

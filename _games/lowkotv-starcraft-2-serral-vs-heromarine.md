@@ -21,6 +21,12 @@ topics:
   - StarCraft 2
   - Zerg
 
-secured: "O7YtQC1F1YgDMgzFygF05gWrWGftBcjxJk0IMtN1/SU6TjXTBqzUTAT8FyX55gkUHCmt8S+9W2IDF8kgvz84s1xZs3j93FWX6kcy+iLPWFj7g+JUM/eVYpbmaBVnKBofhrFkYiHOQxRYCJ7mtrpDkB8l4m+1O2Kv7Kadoo8eM6JIQXCs40+6UxmPeG0gspPtgU1ffgeNhrcKnmaxJScdn3qsUM2FWWgTHLhgp7zHnIcC/3WVd8BIgrDeU9uQR+QZCT5pM4W8+m7mOPFB/vqxd6ObvQY3AuZa3K1a9+1uvLS/GeSRSkL/emUlFmZGTRpA2uf0suMkESTlrDRv2HqObW5HjnKpg9i5sU98QNoE6Cef3vv2gApOyWyAT723KVPJglcSREfEvcrYA/SPjvJ2YA==;UL8iuy0lYoT1NbkYUX28DQ=="
+images:
+  - url: https://i.ytimg.com/vi/PnecLuthYfA/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "ChCo4FFS0OuCJze+BATgukkmwIVa2tytQkWGUofW1bcBRbcQM0QjMcyGg7Kt4BOIduHP78ygqe0MFtDfxgiQ64hbFD8fQFhvMwDr3WbaB3lgP0Hy2P0Ex6zPtiiiNNQAWQLOqqWKOZ3WzltB45Lisp0ILFb3lMBZ/TMPLSRAL4v0Sugg7I0b5QSQUmnXQ4OiFS3YNxzf5IIc/W1vAGULaiCEuk8DbZd1gRcufEk0vtI9lFpMAYgQQqRzswFRw5kgwm/OtDDDybXECXNjsSc23SButAlEhKNA0/Ah9QFxa6oVao97fjG593s/Lr2ok2Ni6l5a9Tzi1+rfsT3j5L1YyOKrhYKfZP+4ErUMFSMsBpzAFrov20EshasVQ2IXX9H7tmR2fBxRXiA8ohbDJQevKg==;CbaW4ZrK9ZDxCWm9u/BpvA=="
 ---
 

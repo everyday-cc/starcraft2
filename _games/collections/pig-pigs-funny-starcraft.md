@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 63
+heat: 62
 
 provider:
   name: PiG
@@ -953,6 +953,7 @@ items:
   - pig-this-is-a-truly-unique-game-of-starcraft-icyfar-overly-aggressive-starcraft-2
   - pig-world-record-trifecta-uthermals-1-terran-vs-7-insane-protoss-ai-pig-reacts-starcraft-2
   - pig-the-cheap-trick-that-instantly-wins-games-pigs-filthy-adventures-starcraft-2
+  - pig-bad-loser-turns-to-bullying-opponent-to-stroke-their-ego-salt-mines-18-starcraft-2
 
 topics:
   - StarCraft 2

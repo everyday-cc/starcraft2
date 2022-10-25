@@ -721,6 +721,14 @@
         "Zerg"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KBPqUY9Q_gw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-02-16T19:22:29-08:00"

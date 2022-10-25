@@ -20047,6 +20047,14 @@
       "tags": [
         "Cheese"
       ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6LShnUyxhUc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-07-03T15:59:09-07:00"
@@ -20071,6 +20079,14 @@
       "heat": 50,
       "tags": [
         "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tH89RWEr_wY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
       ],
       "content": "\r\n",
       "type": "video",
@@ -20097,6 +20113,14 @@
       "tags": [
         "Cheese"
       ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XVdi96aXRes/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-07-14T23:16:31-07:00"
@@ -20121,6 +20145,14 @@
       "heat": 50,
       "tags": [
         "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kZLh08S2kyo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
       ],
       "content": "\r\n",
       "type": "video",
@@ -20147,6 +20179,14 @@
       "tags": [
         "Cheese"
       ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mU9VvLOo--E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-01-05T08:24:34-08:00"
@@ -20172,6 +20212,14 @@
       "tags": [
         "Cheese"
       ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/O3PCLVhs3bU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-14T23:27:54-07:00"
@@ -20196,6 +20244,14 @@
       "heat": 50,
       "tags": [
         "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qR3n5whe9Ks/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
       ],
       "content": "\r\n",
       "type": "video",
@@ -20321,6 +20377,14 @@
       "tags": [
         "Cheese"
       ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KuSOt7QCrlc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-02-19T15:36:52-08:00"
@@ -20345,6 +20409,14 @@
       "heat": 50,
       "tags": [
         "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BMpRDyR1wdg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
       ],
       "content": "\r\n",
       "type": "video",
@@ -21017,6 +21089,14 @@
         "Zerg"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WKGzfA6xh6g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-18T04:24:04-07:00"
@@ -21099,6 +21179,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MlM7m6PuEqE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-08-17T15:56:11-07:00"
@@ -21357,6 +21445,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/geqlJYBP0m4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-08-17T16:01:33-07:00"
@@ -21952,6 +22048,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UQ7DdCBmfFU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-09-01T04:10:05-07:00"
@@ -22241,6 +22345,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fcN17KQ1liY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-09-23T22:01:42-07:00"
@@ -23601,6 +23713,14 @@
         "StarCraft 2"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sYgcZ68ykB8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-12-23T15:35:13-08:00"
@@ -23622,6 +23742,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bFuOQvTjXrg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-12-27T14:40:13-08:00"
@@ -23795,6 +23923,14 @@
         "Protoss"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AgnrYbFtias/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-02-10T16:38:02-08:00"
@@ -23816,6 +23952,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SariYo8-VNI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-02-10T17:37:20-08:00"
@@ -23838,6 +23982,14 @@
         "Protoss"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uO4grxjgbKQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-02-14T19:17:39-08:00"
@@ -23860,6 +24012,14 @@
         "Terran"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/E3vEXfMFMyI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-02-14T20:07:43-08:00"
@@ -23881,6 +24041,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yHEqhhfFLnY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-02-14T23:05:57-08:00"
@@ -23903,6 +24071,14 @@
         "Protoss"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9pqdt6yi99Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-02-16T17:49:07-08:00"
@@ -23926,6 +24102,14 @@
         "Terran"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/78bDMwTPTWI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-02-16T18:13:43-08:00"
@@ -23949,6 +24133,14 @@
         "Zerg"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KBPqUY9Q_gw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-02-16T19:22:29-08:00"
@@ -23971,6 +24163,14 @@
         "Protoss"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ok3RpR_JTgs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-02-20T04:20:09-08:00"
@@ -23993,6 +24193,14 @@
         "Terran"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Fi8Svuvdlxs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-03T19:13:33-08:00"
@@ -24014,6 +24222,14 @@
         "StarCraft 2"
       ],
       "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1vjvR4nEJr8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-03T19:58:36-08:00"
@@ -24036,6 +24252,14 @@
         "Protoss"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TaZGunm8DQo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-05T18:47:37-08:00"
@@ -24057,6 +24281,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/syPBWbIbMyQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-05T19:19:40-08:00"
@@ -24081,6 +24313,14 @@
         "Zerg"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PtcTNDGG3Rk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-08T01:40:49-08:00"
@@ -24104,6 +24344,14 @@
         "Zerg"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RxpSjmptAuM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-09T17:38:59-08:00"
@@ -24125,6 +24373,14 @@
         "StarCraft 2"
       ],
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/viyFlAp-q8c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-11T21:29:02-08:00"
@@ -24148,6 +24404,14 @@
         "Protoss"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jWtrQTtCR5w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-21T00:01:41-07:00"
@@ -24169,6 +24433,14 @@
         "StarCraft 2"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jmWWTjDZjGU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-22T23:41:25-07:00"
@@ -24192,6 +24464,14 @@
         "Terran"
       ],
       "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WrILME9CWO8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-23T19:12:36-07:00"
@@ -24213,6 +24493,14 @@
         "StarCraft 2"
       ],
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CLzjwdK6IRg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-23T20:10:46-07:00"
@@ -24235,6 +24523,14 @@
         "Terran"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_tQJJEhFgvA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-23T20:28:24-07:00"
@@ -24257,6 +24553,14 @@
         "Terran"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rQiLnerbeVw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-30T20:53:51-07:00"
@@ -24279,6 +24583,14 @@
         "Protoss"
       ],
       "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YgVtotV6Yao/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-30T20:55:29-07:00"
@@ -24300,6 +24612,14 @@
         "StarCraft 2"
       ],
       "heat": 64,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3oJWEAnOt_M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-04T19:17:29-07:00"
@@ -24322,6 +24642,14 @@
         "Protoss"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wUVh6D-64ag/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-06T18:41:06-07:00"
@@ -24343,6 +24671,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XAAsncF6JMM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-06T21:15:45-07:00"
@@ -24365,6 +24701,14 @@
         "Terran"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WacMTZPqm3s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-06T21:48:24-07:00"
@@ -24387,6 +24731,14 @@
         "Terran"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9JKlE1L4hfE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-11T17:33:43-07:00"
@@ -24409,6 +24761,14 @@
         "Protoss"
       ],
       "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wx62592FMVY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-13T19:34:28-07:00"
@@ -24431,6 +24791,14 @@
         "Protoss"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nkJKBd8iBKQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-20T18:14:08-07:00"
@@ -24453,6 +24821,14 @@
         "Terran"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Da3mcHZAC_w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-20T18:29:58-07:00"
@@ -24474,6 +24850,14 @@
         "StarCraft 2"
       ],
       "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/O-bSLmrqzf8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-20T19:43:33-07:00"
@@ -24495,6 +24879,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Baz9vdNuB9Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-27T19:49:36-07:00"
@@ -24516,6 +24908,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/e4q2aK8jjW0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-27T23:30:12-07:00"
@@ -24538,6 +24938,14 @@
         "Zerg"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DX9tNY73RYA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-28T20:46:43-07:00"
@@ -24560,6 +24968,14 @@
         "Protoss"
       ],
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zba5-5NaSR0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-29T17:19:35-07:00"
@@ -24583,6 +24999,14 @@
         "Zerg"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4A01Z-xwidQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-02T18:51:47-07:00"
@@ -24605,6 +25029,14 @@
         "Protoss"
       ],
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sLSnBPgl61E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-04T17:12:45-07:00"
@@ -24627,6 +25059,14 @@
         "Terran"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JTWfS7F1_7U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-04T18:15:22-07:00"
@@ -24651,6 +25091,14 @@
         "Zerg"
       ],
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4K-9pdYAlIs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-11T20:17:42-07:00"
@@ -24673,6 +25121,14 @@
         "Terran"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/v6VKPujT_6o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-11T20:27:49-07:00"
@@ -24695,6 +25151,14 @@
         "Protoss"
       ],
       "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/f1NZaStArlI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-18T20:43:19-07:00"
@@ -24718,6 +25182,14 @@
         "Terran"
       ],
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rIDsZgZvY1k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-18T20:56:07-07:00"
@@ -24739,6 +25211,14 @@
         "StarCraft 2"
       ],
       "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/P8riZ9q7hfs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-18T21:36:20-07:00"
@@ -24761,6 +25241,14 @@
         "Zerg"
       ],
       "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/s-B2c4N1SpU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-19T22:08:52-07:00"
@@ -24783,6 +25271,14 @@
         "Zerg"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/J15eFNuRquo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-29T04:41:48-07:00"
@@ -24804,6 +25300,14 @@
         "StarCraft 2"
       ],
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PvdSFTmanH8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-31T17:01:46-07:00"
@@ -24826,6 +25330,14 @@
         "Terran"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fzaIfUI4AiQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-01T21:29:17-07:00"
@@ -24848,6 +25360,14 @@
         "Zerg"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OX62jgU-8TA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-01T23:39:33-07:00"
@@ -24870,6 +25390,14 @@
         "Protoss"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PgUxu0cV0s8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-01T23:44:11-07:00"
@@ -24891,6 +25419,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nbX8KP5pbc8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-01T23:45:11-07:00"
@@ -24934,6 +25470,14 @@
         "Zerg"
       ],
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NsblsSBrHz8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-02T15:22:57-07:00"
@@ -24956,6 +25500,14 @@
         "Zerg"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_AuwZjO6KWo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-03T15:26:15-07:00"
@@ -24978,6 +25530,14 @@
         "Zerg"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VYvf5zAPIQY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-03T15:29:45-07:00"
@@ -24999,6 +25559,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CcFX72zESgU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-10T16:30:09-07:00"
@@ -25020,6 +25588,14 @@
         "StarCraft 2"
       ],
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/u73es6uSqhw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-10T19:40:59-07:00"
@@ -25041,6 +25617,14 @@
         "StarCraft 2"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VDOt7wo3R3c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-12T21:11:51-07:00"
@@ -25062,6 +25646,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oBL0AwQhmdk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-13T19:57:43-07:00"
@@ -25084,6 +25676,14 @@
         "Zerg"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/L97LBhzAPeE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-14T17:36:59-07:00"
@@ -25106,6 +25706,14 @@
         "Terran"
       ],
       "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_r7e4cSYy18/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-17T03:57:27-07:00"
@@ -25127,6 +25735,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nHr02rPDOMo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-19T01:16:44-07:00"
@@ -25148,6 +25764,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kjLbAH2UwP8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-21T03:05:23-07:00"
@@ -25169,6 +25793,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WD6aMNtIyQk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-23T00:18:09-07:00"
@@ -25190,6 +25822,14 @@
         "StarCraft 2"
       ],
       "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/A5TD5QccSBQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-23T15:58:23-07:00"
@@ -25211,6 +25851,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Fr4sXNKqhBI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-23T17:55:59-07:00"
@@ -25233,6 +25881,14 @@
         "Protoss"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qz0Fun6MHVM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-25T17:24:20-07:00"
@@ -25254,6 +25910,14 @@
         "StarCraft 2"
       ],
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ovVVIx17HVk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-25T20:11:01-07:00"
@@ -25276,6 +25940,14 @@
         "Protoss"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FazABdnRJcc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-27T20:52:10-07:00"
@@ -25297,6 +25969,14 @@
         "StarCraft 2"
       ],
       "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0oQs7vC2uFE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-27T20:57:08-07:00"
@@ -25318,6 +25998,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-X8n68rRot8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-08T21:39:06-07:00"
@@ -25339,6 +26027,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dwjRc4jjCNU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-10T01:20:09-07:00"
@@ -25361,6 +26057,14 @@
         "Protoss"
       ],
       "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/W26kBWYez7I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-14T02:52:19-07:00"
@@ -25387,6 +26091,14 @@
       "tags": [
         "Cheese"
       ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zjHnS5icIXk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-18T17:12:58-07:00"
@@ -25412,6 +26124,14 @@
       "tags": [
         "Cheese"
       ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OZDwjDR8dF8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-18T17:18:10-07:00"
@@ -25433,6 +26153,14 @@
         "StarCraft 2"
       ],
       "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QIEK9JQGx6I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-20T17:47:43-07:00"
@@ -25454,6 +26182,14 @@
         "StarCraft 2"
       ],
       "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fqpdMjkhJfA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-20T21:22:31-07:00"
@@ -25475,6 +26211,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Wq9glwCgYVk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-21T02:25:51-07:00"
@@ -25496,6 +26240,14 @@
         "StarCraft 2"
       ],
       "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XAT06skhzc8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-21T21:06:24-07:00"
@@ -25517,6 +26269,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FpCv_-87GdE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-23T15:59:09-07:00"
@@ -25538,6 +26298,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/m7nCqskAdJk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-27T18:57:05-07:00"
@@ -25559,6 +26327,14 @@
         "StarCraft 2"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GknSQilHMzk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-27T19:22:01-07:00"
@@ -25580,6 +26356,14 @@
         "StarCraft 2"
       ],
       "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/p3fPw4kYdS8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-27T20:40:28-07:00"
@@ -25601,6 +26385,14 @@
         "StarCraft 2"
       ],
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RCpAeztvCi0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-28T17:05:04-07:00"
@@ -25623,6 +26415,14 @@
         "Zerg"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AVpCZctKdew/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-03T16:36:52-07:00"
@@ -25644,6 +26444,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eyiVBFua1ms/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-03T17:41:30-07:00"
@@ -25665,6 +26473,14 @@
         "StarCraft 2"
       ],
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B1oA49a3dAc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-03T21:23:51-07:00"
@@ -25687,6 +26503,14 @@
         "Zerg"
       ],
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1p5nCTvqFJU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-03T21:25:26-07:00"
@@ -25708,6 +26532,14 @@
         "StarCraft 2"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dQj7r8x4Khc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-03T22:39:18-07:00"
@@ -25728,7 +26560,15 @@
       "topics": [
         "StarCraft 2"
       ],
-      "heat": 52,
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yr-zb6QN1po/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-03T23:37:43-07:00"
@@ -25750,6 +26590,14 @@
         "StarCraft 2"
       ],
       "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_RkZCs6LGdE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-04T03:50:00-07:00"
@@ -25771,6 +26619,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5zY8OXu9_MY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-07T18:44:00-07:00"
@@ -25792,6 +26648,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YlH4Tdm2PCs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-08T18:30:11-07:00"
@@ -25814,6 +26678,14 @@
         "Protoss"
       ],
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IC_BLYG5ROg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-08T21:00:11-07:00"
@@ -25835,6 +26707,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/F36eCeB0UAE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-09T01:02:14-07:00"
@@ -25856,6 +26736,14 @@
         "StarCraft 2"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rJ1zs5ZKWVM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-09T03:07:28-07:00"
@@ -25878,6 +26766,14 @@
         "Zerg"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ijko1Ke8r4A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-22T00:54:39-07:00"
@@ -25900,6 +26796,14 @@
         "Zerg"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/K6kV3pd2MZ4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-22T16:33:55-07:00"
@@ -25922,6 +26826,14 @@
         "Zerg"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0QyNvRXWCmw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-22T23:46:10-07:00"
@@ -25944,6 +26856,14 @@
         "Protoss"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TVpDHI9mv1Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-24T23:27:31-07:00"
@@ -25965,6 +26885,14 @@
         "StarCraft 2"
       ],
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1wqTkd6WDE4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-24T23:36:00-07:00"
@@ -25987,6 +26915,14 @@
         "Protoss"
       ],
       "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4GYCdlK-2nc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-31T18:59:06-07:00"
@@ -26009,6 +26945,14 @@
         "Zerg"
       ],
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wAAuLXzuIRw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-31T19:53:00-07:00"
@@ -26030,6 +26974,14 @@
         "StarCraft 2"
       ],
       "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1SuoCBt-7uE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-31T20:42:30-07:00"
@@ -26051,7 +27003,15 @@
         "StarCraft 2",
         "Protoss"
       ],
-      "heat": 52,
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AzyNJvwGFcw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-01T01:43:01-07:00"
@@ -26074,6 +27034,14 @@
         "Zerg"
       ],
       "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/klZFXaFsX9o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-02T21:45:22-07:00"
@@ -26095,6 +27063,14 @@
         "StarCraft 2"
       ],
       "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aypaBT046W8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-08T03:42:41-07:00"
@@ -26117,6 +27093,14 @@
         "Terran"
       ],
       "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9-J4ciSIE60/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-09T19:41:29-07:00"
@@ -26139,6 +27123,14 @@
         "Zerg"
       ],
       "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FH8HSBuhhM4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-11T05:45:43-07:00"
@@ -26160,6 +27152,14 @@
         "StarCraft 2"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/24Meyn2xzN8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-12T20:42:43-07:00"
@@ -26181,6 +27181,14 @@
         "StarCraft 2"
       ],
       "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xDJkIi86aQM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-12T22:47:32-07:00"
@@ -26202,6 +27210,14 @@
         "StarCraft 2"
       ],
       "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QVdiDz-bamE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-13T00:01:42-07:00"
@@ -26225,6 +27241,14 @@
         "Zerg"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kVQwAL_a4pk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-13T21:56:16-07:00"
@@ -26246,6 +27270,14 @@
         "StarCraft 2"
       ],
       "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QWY7LkBOC3g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-15T02:11:46-07:00"
@@ -26268,6 +27300,14 @@
         "Protoss"
       ],
       "heat": 64,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7bjEqRj_hBo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-15T03:24:04-07:00"
@@ -26291,6 +27331,14 @@
         "Zerg"
       ],
       "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BfCTQw-Z6Ws/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-17T23:07:00-07:00"
@@ -26312,6 +27360,14 @@
         "StarCraft 2"
       ],
       "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XYMQYkk5B8g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-19T02:20:18-07:00"
@@ -26333,6 +27389,14 @@
         "StarCraft 2"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DuMf0eD4pD8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-20T20:09:15-07:00"
@@ -26354,6 +27418,14 @@
         "StarCraft 2"
       ],
       "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kRynVwevmRQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-21T23:10:03-07:00"
@@ -26375,6 +27447,14 @@
         "StarCraft 2"
       ],
       "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/93cJmfZe0z8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-22T23:32:51-07:00"
@@ -26398,6 +27478,14 @@
         "Terran"
       ],
       "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LAwa7cWh0fQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-23T00:14:00-07:00"
@@ -26419,6 +27507,14 @@
         "StarCraft 2"
       ],
       "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DDYQ1_wAwxs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-26T01:36:39-07:00"
@@ -26441,6 +27537,14 @@
         "Terran"
       ],
       "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DUVC53u9kQI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-27T20:44:34-07:00"
@@ -26484,6 +27588,14 @@
         "StarCraft 2"
       ],
       "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Ul0QdsF5Ajg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-28T21:13:53-07:00"
@@ -26505,6 +27617,14 @@
         "StarCraft 2"
       ],
       "heat": 72,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rVlyNKuaXE0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-28T23:34:30-07:00"
@@ -26526,6 +27646,14 @@
         "StarCraft 2"
       ],
       "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/n1NaAAnj5kY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-03T21:39:35-07:00"
@@ -26548,6 +27676,14 @@
         "Protoss"
       ],
       "heat": 67,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xVyt1M-Goaw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-04T19:50:55-07:00"
@@ -26570,6 +27706,14 @@
         "Protoss"
       ],
       "heat": 66,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Xg6fCtKqRFo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-06T19:13:37-07:00"
@@ -26591,6 +27735,14 @@
         "StarCraft 2"
       ],
       "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-ShGhFAKfmI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-06T20:01:05-07:00"
@@ -26612,6 +27764,14 @@
         "StarCraft 2"
       ],
       "heat": 95,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Zx3M_K5_q6Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-06T23:08:35-07:00"
@@ -26635,6 +27795,14 @@
         "Zerg"
       ],
       "heat": 273,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gsGCgH7t7ZU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-12T23:16:49-07:00"
@@ -26657,6 +27825,14 @@
         "Zerg"
       ],
       "heat": 105,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wPdt65_asW8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-13T00:32:23-07:00"
@@ -26680,6 +27856,14 @@
         "Protoss"
       ],
       "heat": 112,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RwCMLZHIxUg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-13T00:35:52-07:00"
@@ -26701,6 +27885,14 @@
         "StarCraft 2"
       ],
       "heat": 144,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/v-qw3eXPs40/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-13T00:43:20-07:00"
@@ -26724,6 +27916,14 @@
         "Protoss"
       ],
       "heat": 96,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0uIpIhniZoU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-14T01:51:44-07:00"
@@ -26745,6 +27945,14 @@
         "StarCraft 2"
       ],
       "heat": 198,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_eIRuPi2pbk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-22T03:09:14-07:00"
@@ -26766,6 +27974,14 @@
         "StarCraft 2"
       ],
       "heat": 294,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N_Vql-_mGYo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-23T18:38:14-07:00"

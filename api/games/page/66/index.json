@@ -289,6 +289,14 @@
         "Terran"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9JKlE1L4hfE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-11T17:33:43-07:00"
@@ -491,6 +499,14 @@
         "Terran"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rQiLnerbeVw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-30T20:53:51-07:00"

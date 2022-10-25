@@ -330,6 +330,14 @@
         "StarCraft 2"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BA5RhDAAEDY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-02-16T06:46:34-08:00"
@@ -1121,6 +1129,14 @@
         "Zerg"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/K9b9SnM_6A8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-02-09T08:08:23-08:00"

@@ -3073,6 +3073,14 @@
           "tags": [
             "Cheese"
           ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/6LShnUyxhUc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
           "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2019-07-03T15:59:09-07:00"
@@ -3097,6 +3105,14 @@
           "heat": 50,
           "tags": [
             "Cheese"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/tH89RWEr_wY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
           ],
           "content": "\r\n",
           "type": "video",
@@ -3123,6 +3139,14 @@
           "tags": [
             "Cheese"
           ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/XVdi96aXRes/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
           "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2019-07-14T23:16:31-07:00"
@@ -3148,6 +3172,14 @@
           "tags": [
             "Cheese"
           ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/kZLh08S2kyo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
           "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2020-01-02T21:00:34-08:00"
@@ -3155,6 +3187,14 @@
       ],
       "size": 16,
       "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6LShnUyxhUc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "collection"
     }

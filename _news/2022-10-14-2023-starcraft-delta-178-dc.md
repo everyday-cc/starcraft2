@@ -38,6 +38,20 @@ related:
         width: 1440
         height: 959
         isCached: true
+  - title: "Artosis, StarCraft’s esports casting godfather, moves on"
+    excerpt: "Dan “Artosis” Stemkoski, a longtime figure in the StarCraft community and a pioneer in esports casting, presided over his final Global StarCraft II League on Oct. 15. His last GSL was referred to by fans and industry colleagues as the end of an era for ..."
+    publishedDateTime: 2022-10-18T01:29:00Z
+    webUrl: "https://www.washingtonpost.com/video-games/2022/10/17/artosis-retires-starcraft-2-gsl/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LSMCBB6IAZF4ZBXTDU6LURLQBE.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
 
 secured: "99UNomGPrnRn3a3XbHEzbVAlSOwqk0NsaFpDEGFlso6yEYlxzqEqdzwg6M3IsvptMm7P2TJJ05CkyDTEo/7NDHAY9nr5yoMfQ5X0WXhzfowws9OVIRk09EUJjdWjWOqv2Xr9h1xl0kdzsvOIafhHY+o+bqi6OWOOzsvCBqGgvUe2YU0BnQeep7hcENj0WZwIvGORZ7VT/BeMZEzD+gSjQ2lsF1XL3aQRjeAHfJrJeibiOnIci37+GAlaNhqbvkVXp0/nNPccMaNFWtcDyBie+OQZdknuBb//hZpaVqMJW+NeRSG+HRwtUSMh1ZplBLLTqtvwYzMFsUx3RbXsvjPaD38lUGwH6RwbsgY8qLR2gG8=;qBU68mCoztuuvIhI9icwpA=="
 ---

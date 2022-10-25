@@ -22,6 +22,12 @@ topics:
   - Terran
   - Protoss
 
+images:
+  - url: https://i.ytimg.com/vi/KaIjDJ3FNeI/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
 secured: "oaA976CJmJH3WlHM3A8RSz7zSBEsyVGMPL9b0GsTl6rtxs29ffmitItxcPF0+2iFsinQVSHOrp+hfwuT8xpL3FSo+IvLNiGonDozS23smufA9OtugBmNm7RPNxCe/HgJj9qY4eiOc8XMdZLFvexbJp0hQGVKIf9+osd6bLdMkn1NsDe90B7QKjpI+EdEuKp6uYiWvu7Tw+elExIZD0g/QWVKRA3f7qagaf+SmGsI7iAzC9MbJ1Fu2TQDIJpUGCbMfcY4Xnr59Vwiang8hcZvmmgbBKDWWE7Qm/7J9hlBzri8K3xVpP7kmtKEwo+v34hcxS46okpOsFz00BBBM5vX61h3QHCj5whnTB92+IWlFOlkl7RuqzOGxijBiVGspPbrU+Z/5MRiu7sZ32FbsvhpwbeGlbjI7yS+koc+7+pKeqU=;1AuODoV0LdidL1kKuPrVMQ=="
 ---
 

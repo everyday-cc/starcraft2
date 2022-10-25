@@ -21,6 +21,12 @@ topics:
   - StarCraft 2
   - Protoss
 
+images:
+  - url: https://i.ytimg.com/vi/fh9EGzEi-nM/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
 secured: "BKdA09byfH6wuqLjqZujl5iYtqZd43nkVFvuqJrY61ZWkOWklXBcUnL3t0udt81mCbPXPWv0wZ2JlDZO5KKXrlVu4Cwg05HzF2l7dYR9J8+byoiHz8A5RPsrMGbyJAU6v9wkHtk+YBJjn1f9ZChZhWrzUxEgHdKH37NGvjY8fKqFiENPWeyp2NArRx37Q7TkzgjDm7eERkk7pl+/bRndhDA9iqBVWujlYwnbNzVCKs3qRfPP5madr+8x+nKhdzRUhnMv0K5fPUAvQddeqV5oCqxI8nH9kgJSzuxNeDeXfrEr+iMCBqPfH6cPpzeSzmp291n+SgRj0jYR4npbvfCai128oZNTZGqCYUeM/+15eIbQr134ZWBqoUIPRzS4/VjlnuUDH9fkVjnSvQjUH/70yQ==;yFp2XtkejQAxxrFL8is4uw=="
 ---
 

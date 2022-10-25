@@ -18,6 +18,12 @@ topics:
   - Terran
   - Zerg
 
+images:
+  - url: https://i.ytimg.com/vi/RxpSjmptAuM/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
 secured: "C5tsdyU5f2eaDWlkXrK15HeHzQ+fE8ZLsIAzRTURW2mVKnGgTzX2fkLN6nXeV4XXwWU9MtVv7u4H70fJGHuQ9/JM2I4Ow9ghPKjXQjn2EXGtNfLtS+aREOZ3d4q090iCIUSTconRLYpWgTHmmZHqNWUVUhDaedzlWfL0DXLQsG8f1x5BykO2xs6S2i6AKoQTvaU0wMw/8NPpCA26stxXpEl5u4OiMAjCz83VdHbuKN5i8H4hJX+CqW7FeTCwOiDsNDfQjASBX8fVTSdQPzuqtVgQAZj9HAXMsPcayBPt56hrjjN25wxvHSz52Xb6zfLtud2jXZLCwU6Ub5HfcXr5j9aXHVXl1/nIJ3cxo2drbj4wTAhNv+KbHFUKouaMxEwPxj93i2mLFRUbzqk9PsRdLCUmxA8Uc1LZ+Kozqd069Sc=;CeNIRlV2cosdytqlxkcOFw=="
 ---
 

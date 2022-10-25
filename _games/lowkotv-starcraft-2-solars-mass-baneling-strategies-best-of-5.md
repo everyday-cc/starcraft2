@@ -21,6 +21,12 @@ topics:
   - StarCraft 2
   - Zerg
 
+images:
+  - url: https://i.ytimg.com/vi/L25a1HyzCX4/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
 secured: "ayWpttYu31tgutdANq80wwSBY8lQrKoVRHOlau1hqUKKKTtUoHSbSuAVE5kU0I+4eUkmF0mEf3edgc7ylGPi+WYxsNQZb4AFq4PlCdaHlrmqURhW4PLdghTHIysArmks6Pm+kJKg5zPjx2qPCogeh20flgGHsTMUqfaY3mkmZ6hsNYv14hAdk2mfqIr/Q12ZkXYTf1HENxVUK9kjhhCE1Euj2+mKqnAAUO0qq6gGJiX0Dq9+XbjTjSDC0kvHnXa7lsu2njjSDHKpCS1SRpUG5mRZBN/S9tIL07DWdPHH5zFpZEyZC/uK0P73SyVwXuvLDld/5sV2uzobvCzZiKvuL00cPjmPINmBPwpW6RUNLEjuEZgU0CHAhllPcceSkAG6uyBbsJvqH5752Pc6B7yeHE7/Kt9oHJldZofUGc/HhiQ=;MYs4rIVGsG5sxZoy+sCUfw=="
 ---
 

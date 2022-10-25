@@ -22,6 +22,12 @@ topics:
   - Protoss
   - Zerg
 
+images:
+  - url: https://i.ytimg.com/vi/nQJJ-2RhILc/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
 secured: "dY6z1PkDvJ/Wi/Ps5qeuwrrJHg1CgjDHwae5JN8+DHGoGFnUNC+KciSWccu5Sw+SLEJ2cV4KTeIXFF+yrvVzE3gDrZVmgGTGH6qRa2FhauHOXiG1UbL8ti7CjjNxCHFwTB4d6Hfv2mL86wtsJsT8qbwilGd/Jba3ipZC2HKpwJ8L2Z5cIfPmoaJoNUqgpQEPkXJ807agm8YQkmBI7a4H5pX3OKeK91hTbmuYbpRR5GGax5RgCP947CInAQKFeJznt8C/ri0uwk7OcS02I+fh9sxMxqC4Kkow7ihjN3j3cMKA8Tx3oiIOu6qV4in2yLhaL8YtodEz6HMfaXumUmAqgC+SkCt/iibcUv1MkywFO8Y5GChQnTxTU+qsFOuLQz/LAs7v74sC9hmz+UZlseAEcw==;7tJtoXYqNwJL8ZZYMshKng=="
 ---
 

@@ -16,6 +16,12 @@ provider:
 topics:
   - StarCraft 2
 
+images:
+  - url: https://i.ytimg.com/vi/DuMf0eD4pD8/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
 secured: "BdCtgRIi6eoIvIQJCNN2L0ViDBYmhCzpRD1BoT4qUSkgZhJ6hO8GamG/w3kGIVvKrpicMgTpXFx6zdJFqDn09stCcXy5X0lElUknUA8iTV5+5CSGLuYq/P5ZRWiub1x7sLqFQuL9t1SKEsp77kuGPJZDNu6wFBTC7ptEGGMso9bbGTzdKsXtt41xEYCbL+VALpRYBKeKI0mkqf26WVobD4MDge321krSDAKg1Gy6VN6aUWroSSio+IjqjFyrQCmeNaYAWVrK8n/Quc2zY5VJMkkD1nRgDyUzWzzHE6tInvRiybCYDEugUIcAPw0W5o3tghtx275w2PORDubqQSWWLuViu0ZCvGURldeT12CJAFTlEv1vBkkJhXAlXvN6R0mvT4vhf8oTSlxQI8aNhAZtTJFozKZCF3KaT5Y3zDOTkWQ=;FCJxmMjQ40qZcwvusgS5MA=="
 ---
 

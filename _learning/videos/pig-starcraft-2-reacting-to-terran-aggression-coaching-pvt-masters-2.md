@@ -19,6 +19,12 @@ topics:
   - Terran
   - Protoss
 
-secured: "sLcNJG4wyMpMKbcaN3DjHEbkp2OvplzD3WZHC4UBmrebQPa6Vhq9h3DCgvZ7rJOd19EnXJ01d65b9KLKvIOeH0PcteHk8KiyEJql1bZ6v5WW38eUtOZfW4urAZT0GxkhwmAJLiayMSfd1AdfefxORoOjyVovgBeZ4J0joGKLQKvPeY7/p9SMitXqX0eRjNVWtmKZ/4d+apQvdqSaYnGl5CvUBGrDrOGw6XxNP04GPLrUsuYMwzLotHHn84KQa3JlrcNJFNV1McfRQC0y54ryblOt23nn5rtLuYZb32J8eFulG46l5nikpz1dQ5gXsRjKwDNplYvf9/KQaqbIVNf7M6LGR7dD2ZeEYOt6gb8NCuusXplA36IrgMCjt8DLYSMCFNnHszFflg50aIJyk42vtH4RRkr9hqiET1Ao6N3ox9I=;aE9eNQ6VfUbeFR3F1hA3sA=="
+images:
+  - url: https://i.ytimg.com/vi/xIpyT5NOlcU/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "tX2NvwJ9WXCuRVpNXRjN5gjp9SgBB9WRy2caJPoxWPceVQFhEqf4wP2chmL2pYC1xKCn1WfQ9L9+IzCINq9JmGp9HUl7Yby7oXPtIYhbLgQJHFByhnCv0D2unYcHgKjBWgODJK+VvOA/nA8/pSckP1Kn/zhKfQ8qrdoteKWoXM0/321eWwkM4zS/ybGsSq10r7R7s4CRK8NfQ7ZPYAPMVyywRjC0U7Lh66qLSRuxDTQrZAHX5xAYlxULRkMJOjcQ8FCjalxjuRNHVtrl+yfyRSXfygtTBr8WsH6D7wYygsMjieGTf03AA2BIQXeEcu1+4nGHWQLSt/RJFXJ5KueJ2gtmPPej3YGoJUHI1Boo7XShWAV3dmi7c/2n51wMD9RwOoV7Y0jioKiWltUAZBKHu/euegQwgjt7TXip3CeQGro=;btqPtWED48own8SjK1BehA=="
 ---
 

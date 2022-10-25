@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT2H58M15S
 publishedDateTime: 2022-05-25T12:01:31Z
-heat: 50
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NMJgwfo-E3s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -18,6 +18,12 @@ topics:
   - StarCraft 2
   - Zerg
 
-secured: "TRG075ADgAEFVLrN3ZAk5G6Bfq3tiL6R/S+dzukfXV1kEV2Pg20oBQYYx4oskdIV3gK4jNH+vDxT5U510SlfPVvNbAxHcWGi9sQgh+VBEXnztkrD/pV277qjmeelPlato0HoyeVuT+WvGkQDjlMUdwWqrL/Rtk7Tf+SLprHz92lctKcoa+O2ntJ8dg4lgTSiLL6iAiy/gozEqrHrOf3e/J4zXcvXM6r5MfmUF2Z1PuJgsjBWvfHtJupA1pDDeMf+NPiVeArgI/M8gjqZQFxFmkPny62Gk2dZ3iSD/GniMRSnpwnD2LswlZCPv8hFw4jjZoElQ1m27ifjDlRMCh/ddOAFly1pPJDm4n1UcrTUAK08Q90L638octI6F2lTjFU5cx+YLPS6FkIxgqGS1dvTtIolNYY7r5aXYkG/89uMImU=;OL+4rJhxk1NU3fm49l6XMw=="
+images:
+  - url: https://i.ytimg.com/vi/NMJgwfo-E3s/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "IcgzGd3PkDjX5mnVTx9x1rIIuir76zFcPkZhaCejl19iS7Zot4LMchoYFNq3z0U8WIfTmGaEd70HrVAcztZR6EpdEXJBjgJ+LQfaB2q/d0QAn2oau0mzchhrP5V3wa75fv5tFxU3gFecjAHGFlJWuJf7k2z0/PSDfbyECvSqzSLaPDcTRmhU1VY65GQzpN0IfT6LZf1q7+hYJLsYc4KA0mJ5rHDE3qbtZiiFaUkAZm4S1QkhhEOcTlk1FU79LnNLQKPqlyiwkJc3NqC6+0AyHx8tp2ICZAmpwBVIrczi7onoTDFRiBmZ4ZsYzD7eERPWOLco3TUPD/+/hS0H3YjlQmypD0qEgpOq1oxbnVJ4OC/V5k4u/gKfD8kfCoOuJ//56xmURooi4jAzRi/AvZoUXJ13oJyQqlJII7EArq2MEMQ=;HHAYjlC26fEmSRW/BleWrg=="
 ---
 

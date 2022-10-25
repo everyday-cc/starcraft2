@@ -18,6 +18,12 @@ topics:
   - StarCraft 2
   - Protoss
 
-secured: "uXWWGLU1v/uNOy3om45xVaSlSZJFaUHMVpMUzf948I0KO4+W4Hfq0fX0CUr7RAvWYf/Szr5zLU2eKoAfeaLMXt7WKSbkcBWfroXd9hOE8IMC8mH0cleOAvQjiQqdL9WQ5QT+AyYMKMnEqoOgoXpr4hMmwU3zfv4Bw5ft1P1VfeGxChQ8alhjaPRWxYvLRp2UYQ4dTIZssbGDgxAsTVKgsFiA3+BYGIGNoLKr06XT3r8+DPnqtcm21WykMRnRyKKd3JpACq7lAChpmx+GSo8fARHAn0Y+4/x+7woaLs49o8WOZV7dGSg0qTztHUZ33V1Ws20glzSQpYHgeri9t3B7mv21xaCLJRgff/pXZYhfqJAMH84bkle9JH+wWcUD9FeNODZRymcF1svX5O5O8Aw13sAfnNoz8xvO/82k8f09G8s=;aWU3jYaTm428TAVPZfRXxw=="
+images:
+  - url: https://i.ytimg.com/vi/wfFJ9110Zoc/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "bThsG/eaJ3eo5cPQM3UAGogq3AsObQ3ULcHOg4hCSigef70l7yNA+BCgz8WrbD+Iu3eFykd3rQbXz1C4vmjM8Bg8oGIL16GwbyiMrXfbCr89tY6nHzdH9cKNKWiupnmF42UBrF9TDV5vC0B8dwDqdB3n2hIsiGQm/ZfTggR5OAVyhjOnj1tbsp4Ddi9NIDjzXvsSmLPDdOxud0kvxFeqfgd8Pql6KML5clMfJ3zPXZq9MiItFPr3zoD3tu4zrKgkwW7CMOgrQuQafkMTdJ0TKdW+O4F6tdjEqAEY0ZXsLLhrGv0PYjeCMg4xxAYGlvpG2/VX7sfiOXD4g4MVlX2egwUW/rBwS3M5asi6qwQgbDDGC3i/BpdLZG/nCYEQWcoV4ZBhUgKc9Y31a+8MHGLHLbFY0zrT8geNGekONO773vw=;EJ/NamDxrSM0k0WzpfZaPA=="
 ---
 

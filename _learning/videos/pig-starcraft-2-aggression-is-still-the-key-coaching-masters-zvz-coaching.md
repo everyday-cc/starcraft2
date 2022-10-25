@@ -17,6 +17,12 @@ provider:
 topics:
   - StarCraft 2
 
-secured: "ISZU4lh2+T6c7sgyI1vleJhrN5AptJWqVGUgILnhHydihGX6+dngORhYuvSz34Ma2T3SCQfbtHI2dsQTti4F5yQlSTqXwSSoIYdDYG54hO6McghTEhhJm9T1DiJJUK852NT7QN82rkfFQ+ya56UMTeAWzNYz9ixSMWZENOI4pPqioz2vKKiFZTV8wFSfxfu90oZ8WOoTBjRsSck7jn8Amo4Un7lgAe2lP64yOq5VlzU8HW89CB87S/934rQXV/pic/lEQiqAIHJg97B7Af2EvInHzRbVscUC8MOdePK28sV7NopJdaf4VrFmxINV6wdLWKDXRehUDOEBmZaEbejwEVY2q2gYPJ43OQlcNbYS3B5lGCeEM+84HSykEnqWO5dPxmU6idPDynrip92EKrp7OrH3tu7bi3HJe54FD5L0WQI=;cnQ4gQYmyj0uLfN8YZ/PKg=="
+images:
+  - url: https://i.ytimg.com/vi/eRyMZBCwx1A/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "jpc48lPWL6DN8pjWBeYCCSmAh1Dqm6mRx3T08RaM2ThqdWcHPQbrDulRg7oE7oHviD0XZPRlB2dzIXYdBRaZ6XZE94PGonvc8i10feYlmmZMDPYFVS539H0yBSg6HexOa+dhoYsiNbCwvadgT8kUT+tZ7b40Kr/2/iMyNYBIKTtGuTBQT+2UEsOi8CR1C3DxuWjIUwNhMPpqNcnuPWs7ZK6YiqAy7ocywwpYUtzPvmbZ6zAlxSHNCtqE/BjbvtFMaIT7zuh1w7QjZztT8CinRPjxCDPL3xWbsozFyXqsBl/sE7xCSUD/AYkGg92pFquiU7RHpOR270fVkCoKINXoCZ+yzTibdgDeXW+jyfT+zRfap70FNpq25QW4oGpV8AZsxRxFdUHNZf6CNdT7PF5INZvHvSLmyIo0JNMwqN7ZUTM=;lbvqkquYh21JgmAFs4rb5Q=="
 ---
 

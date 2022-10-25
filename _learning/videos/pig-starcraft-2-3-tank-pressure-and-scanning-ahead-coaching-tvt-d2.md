@@ -18,6 +18,12 @@ topics:
   - StarCraft 2
   - Terran
 
-secured: "niNKlgKvLPKq/GB35AMbbyD1nQBKa1HSWZs0ljtAPe+sTVokmB5ODWmtXtk0tQLBudMxbF2JOcW5sSj4MygFj3bQCKbN9uaeQECAt1BAzpyVZkMcTFntk8SKyoSGAkLufZPU8Xb7DSP90DTtGHOXaI2WoPtkcC2go7sddcVIoCWpdBZOLwcU4MUHsRmDkky9VfQ0ooAgcK0FUSILIyXulf2cOLkQVZuUzYuVOJUImromKJZ1pQNZqEYyNdXG1wVCdCUuhWu5a3ybnaMiaENzOQQDGB0cp+iKohU5q0lHzfxkPSqoOp+2Rc2YmkJJTuDKHNWwawunL/VSWZZotV4prFapBEIYtvMETuhpVUzXi6ImfJlhGq0jOrFmDcWYQsT4WiWg12qM5iWlH01VljoRpeOUFYw2T2kOSH7bbXFeMJY=;gWfL3i7z2UeAWoC130f9OQ=="
+images:
+  - url: https://i.ytimg.com/vi/UcSyxtU4Y3E/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "NFl8A3QwTyOhWdkpT4NKVY/g+amyFFOsiaam41e4lUCI9hkdKSUTCtAVq2NuOD69G3wwHyzOv3Qcvkc80a4xt4Rlf6lzCysY9vWYzEQjpGOUWUTmXRy5dccToPTr4VONZX1klXrB9RzIUoC2gT0+xask3/aAG+s+kJ8y73BWdEjmhZ5GRiVCIfJw+eWys9bIhRJuE9SbP/pK2hwYEe2D3ot3Jc46gJMdrAh6B+0or/mET59M85SYigG4ljk3xtQsfVKGylS5LuwIxj0o5NPfoiem+TPPdwXSag6pa20DeNalQmrdHTeoSDXpuLCVAsynRTRY3E/1b0a5cidWiWPQDsnQu8wDtj477kGQN69+vtCzNDs5zsMmJtx+nrNBHpXDLG7qUkgSWV/ktAlJgm9m5h0XDhRlOm6yhT0l4aYejII=;KHv4tvuSWa9yXKCghjsOXQ=="
 ---
 

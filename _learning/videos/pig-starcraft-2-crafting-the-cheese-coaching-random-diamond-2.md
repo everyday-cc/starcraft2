@@ -17,6 +17,12 @@ provider:
 topics:
   - StarCraft 2
 
-secured: "iqYy6U8dsfbcR/CQB/TppZ8rQsdYYoEAVqG3PVqwZttT1Fb1DxnBMgslvNDNCzPYJg2dEFwFAJD4ga9FyEybm1vE7Uq/nmCqqyJpE/VMOKLCdst6HAoenXy+E3UAwA5ZZEgG58CLCX4wWeCbBX4s+5N4g5qtHQ43BYo0JHAeAJ1SbVsnKN99spGfD7Gadzj/F7EXX3kkTIryPKF6ua+7SVzhalPIOvJKAYEwBfGLOulMe00LDe2otOCs0nregKt8G2m3BmjT8IgaSNjFpU1ccA5ppXSi03SOje1Emy4VmBF9DnLkiUHGNykv9Lm3whkrqznTjYW7alYGtZHxVDbei/7obImhM9XRv7aY9oR2XgExH5R/CHxrtZWYueuLsZCWIfltFg06Rlpiaxk9OMtlCBAad7RbLiV9KGiF23sL0A8=;aKfw9nCzWODwx2ayvYqUFQ=="
+images:
+  - url: https://i.ytimg.com/vi/Q-d3QsVnGrs/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "ZQ3Xl9NLa7nQUVFhlzUR1sIRXJ4bk1+JeZMYNaLRQviJh5r1gpixAZy7YRhjxie/Bz7wATcMhjMW0mcTHk/Hgw/0JuejlgtCT3g/VOcsy6IJAxU02eYJt1kqndPbUzbzo34doIJagHsBQiy88TEAuem+Si/Omh5toRYJz39YiTzncIf4FOwM2EP1FMC2D3lneGzMAM/Fabj/K0Xr9/ijHrAAK/DGMMF9RPnBmWm1LkQTZyb39TRWIHLdCjH5zNByYudMYjGKK9IQni/p1Mqwg7uiUNHKNrLeDZ6BuEWgVPaU+P0ywv8XTORysVfVEqTwxQ9EFFFDZD5vbB6k9VEGPvq6kdDTzNCHG6hdW7QiOEA7b1Pzmm8vd36K4jMIuZhqvQAGuvtAFQgj9HLItMuao2NMO1yq+PXmYYgOqrHgRZY=;chjOpX4DZes9gs37Eq3aMg=="
 ---
 

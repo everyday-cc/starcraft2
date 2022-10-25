@@ -18,6 +18,12 @@ topics:
   - StarCraft 2
   - Zerg
 
-secured: "3+ZX6c3aDnEResj42+0LZiEZp26MyWW+vrI+AOgqQwm4ysP0jfhgFlNbtLbQV/CrAVk0sYXJN1SzXiPUMTgL/P5uf7uA/yAeQO6cR/bnys48CZsFIB0FXReZJWur+0txfZq+FLTRT4HQuwI00Sc8v3+/ONxsZZyzmIwlHOb5CWv29+tDuNJigAm2dwH5HKyMekVAgEdOHJzkQ8Wj6rAt2Og+VkpfKNKtYuZiqaTLimec6MHQfagOY2Nf/7/mz/WdmKn5V1vOU+jVXZyccY2wjG636SYzSDwzsKx3hfPjuLkfbSBY0TX29TyulwAh76ltDpAYGbkLzx18Vk8+00RMYYWfIgcvO9dqVLIUwCUcE6fm6+7unVOROQMbp5ou/fSXzgMAQYNiVnrbuUe/fkFC9dtUW8tf2k7Y4Rxi4tpd73o=;cVyQvaNhq6tAc46ssCN0ZA=="
+images:
+  - url: https://i.ytimg.com/vi/LDCuCU6aP8U/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "77x/Y6StYFVMQPCVWT4hRMFuRZZnTpH9j8pKE8KI6A+eJU43cmW2YjGS2J6IaJ9Tw5T0iNm/vpY4t91ubrhQGHBgj4ZU9Q6GDuGcVEdh/z9Z6nIjT61t8oE7MrBzX9BmvX3wLg6saO0qa3OetOQGcjggC7Gq3VLHNsnSTHfMgshCzWSR+cHZi3FGUE1xZ8QUVjtIOFO1go5caZj4x/s/nvXJ5v6owqC9ElEwwILXXP2lzKcmkLR48v74q3YltCcoQ0h0tUui2+GKXkudyc690EFPKBsCysH4EBS7IQpSlTgv/UYccO1rGJseie8EJf4/7tOqpeYdWwhBxoHFA1bIG/fgRB5jWvkvAJqcluirVPo35bg9bXC+ImaIF3BqleltHrfRb4Xv4vSfVz6/+yWNuYYxyK2P131ztQGVnpdDiNs=;vb3Zdu8RM9OF+ESwr4l3IA=="
 ---
 

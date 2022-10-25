@@ -2,6 +2,7 @@
 title: "StarCraft 2: Prince CANNON RUSHES ByuN!"
 excerpt: "Best-of-2 series of high level StarCraft 2 between ByuN (Terran) and Prince (Protoss). In this series Prince decides to Cannon Rush his Terarn opponent and play a macro strategy on the back of it.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join"
 originalUrl: https://youtube.com/watch?v=Kx5uVh-AEIM
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-prince-cannon-rushes-byun/
 type: video
 length: PT21M8S
 publishedDateTime: 2022-10-24T10:31:53Z
@@ -22,6 +23,6 @@ topics:
   - Terran
   - Protoss
 
-secured: "tMON4KeeM96J6L+0yLSt/gnq4sQ44TCZS6CtQGQFUlzTlJ96OK99ROdpMwiCkbSKr7JT9DieZFZa1VGmwduqxVM9iq5PJE5GuxplI6dctLpC95ALpTSUx+q/a5vHawoFwKo0A2pHlofFHRGBGggK3TsYU2VAkobywyLWdfKASE+g7JFJJtZJEr/xWZ/c4aWv2q5hhrdaW0+y45sZC0BqhYkgFfbvCVtOlrZZGq9KV7Fawden39k5FIXW8WA1xearHVeGh91ejK+K1VsMPfdvcLWkMeA3AEKRW1LIYl7d6ttwGWOVW+ssyy/Wi/QOXRlbgbds9gOXtNioM1kHZdlcVzyGr8o7ClF8FyCm4RSjgHKRKB8RHh/tTCuk57EOtbGfFVB67CoMIu3KcoR1DPNqlw==;eRFYF2hkSWevDXh1Fb+UGg=="
+secured: "OEHgG7V/o2E2RB10Qgshqu7KtXnp8jE2ysx1Fb/BQwZ6SpzwgF1cO+rq8+Xh488MCOBuDNZKGhI+yiCF6ZwZHnU/CITASNEmyypUQt9eMy+e6dck5xYh2Ek1hoCT91mkv/O0lqFXrjzukgGgCVtmQIt8+SEwMZu4NiGT80Ww2JqaMa901wrUOCDr4IzBbg3uKLCATmkXc0UGUYCg5CwmIPMgYpO/1I3dYFgtWoI8RLdkur4oCWKQtrmeTHyAYv5gPf1TPCo1XJMxCyYN7Uy/I3zsCa9POBz+qUnUOa1Y2KdRMU9UBxuEbKP9+ZMzmN9tvQzq4TPN2NUMuIN04GM3XNcl/SlmIGillYBdp1BAEF6QIcMlpkPw38DLha0zzDv7YNaJm2ZGInf4rovsyUImXA==;e2RWUN3m2rvA2ASUPzpocg=="
 ---
 

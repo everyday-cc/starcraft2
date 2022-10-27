@@ -944,6 +944,7 @@ items:
   - pig-he-asked-for-macro-then-rushed-me-mac-or-cheese-6-starcraft-2
   - pig-i-faced-uthermals-meme-builds-in-a-pro-tournament-starcraft-2
   - pig-new-world-record-1-protoss-v-7-insane-protoss-ai-by-goblin-pig-reacts-starcraft-2
+  - pig-protoss-was-not-happy-with-this-bc-all-in-rofl-most-annoying-player-6-starcraft-2
   - pig-protoss-hater-starts-whining-before-anything-even-happens-salt-mines-16-starcraft-2
   - pig-harstems-brain-breaks-in-the-most-insane-sc2-game-ever-vs-smooth-brain-boanaan-starcraft-2
   - pig-how-i-dismantled-a-dirty-maphacker-starcraft-2

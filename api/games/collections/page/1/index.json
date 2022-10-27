@@ -50,7 +50,7 @@
             "StarCraft 2",
             "Zerg"
           ],
-          "heat": 56,
+          "heat": 55,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/ut6nCoAXiP4/maxresdefault.jpg",
@@ -89,7 +89,7 @@
             "Terran",
             "Protoss"
           ],
-          "heat": 56,
+          "heat": 60,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/iHS8M4VUwrI/maxresdefault.jpg",
@@ -180,7 +180,7 @@
         }
       ],
       "size": 32,
-      "heat": 67,
+      "heat": 66,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ut6nCoAXiP4/maxresdefault.jpg",
@@ -327,7 +327,7 @@
           "publishedDateTime": "2018-05-24T00:49:07-07:00"
         }
       ],
-      "size": 946,
+      "size": 947,
       "heat": 62,
       "images": [
         {
@@ -521,7 +521,7 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 51,
+          "heat": 50,
           "tags": [
             "Cheese",
             "Live"
@@ -3069,7 +3069,7 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 50,
+          "heat": 51,
           "tags": [
             "Cheese"
           ],

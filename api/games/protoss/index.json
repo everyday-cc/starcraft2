@@ -346,6 +346,75 @@
       "publishedDateTime": "2022-10-20T02:49:08-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-heros-tempest-rush-vs-reynor-best-of-3.md",
+      "title": "StarCraft 2: herO's TEMPEST Rush vs Reynor?! (Best-of-3)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between Reynor (Zerg) and herO (Protoss). In this series herO decides to play some very aggressive strategies, as he opts for a two base all-in in pretty much every match.  Massive blunder - Reynor vs herO: https://youtu.be/PPPrcODpgc8  Support my work on",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-tempest-rush-vs-reynor-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-tempest-rush-vs-reynor-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=8Zr-wdT3EeQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8Zr-wdT3EeQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 115,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8Zr-wdT3EeQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-10T03:39:16-07:00"
+    },
+    {
+      "path": "_games/pig-did-cannon-rushing-break-both-these-players-brains-smooth-brain-boanaan-1-starcraft-2.md",
+      "title": "Did cannon rushing break BOTH these player’s brains? | Smooth Brain Boanaan #1 - StarCraft 2",
+      "excerpt": "Boanaan won Season 3 of the Smooth Brain Auditions with his Planetry Fortress rush that both failed and... succeeded. Very glassy. In this game he's up against Grimmy, another cannon rusher, and this game gets stupid - REALLLLLLY STUPID -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-did-cannon-rushing-break-both-these-players-brains-smooth-brain-boanaan-1-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-did-cannon-rushing-break-both-these-players-brains-smooth-brain-boanaan-1-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=IC_BLYG5ROg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IC_BLYG5ROg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M31S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 113,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IC_BLYG5ROg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-08-08T21:00:11-07:00"
+    },
+    {
       "path": "_games/pig-zerg-laid-out-a-hilarious-trap-and-i-fell-for-it-lol-mac-or-cheese-7-starcraft-2.md",
       "title": "Zerg laid out a HILARIOUS TRAP (and I fell for it LOL!) | Mac or Cheese #7 - StarCraft 2",
       "excerpt": "I secretly played a few games on a dirty barcode account and offered my StarCraft 2 opponents a choice: Macro or Cheese? How the game plays out is up to them!  Watch the Full Playlist: https://youtube.com/playlist?list=PLFUDU8AOevUfPxBiGAdbbg9sRfRF9ZV28 -- 🐷 Second Channel for Learning StarCraft 2:",
@@ -1008,76 +1077,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-10-28T04:10:01-07:00"
-    },
-    {
-      "path": "_games/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53.md",
-      "title": "When the Protoss is Protossing, and you gotta Terran | Diamond in the Ruff #53",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent? 🐷 Support PiG: https://www.patreon.com/PiGSC2  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53/",
-      "originalUrl": "https://youtube.com/watch?v=ilVJs5gQrP8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ilVJs5gQrP8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M53S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ilVJs5gQrP8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-09-24T01:39:41-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul.md",
-      "title": "StarCraft 2: PROFESSIONAL 2v2?! (Maru & sOs vs MaxPax & souL)",
-      "excerpt": "The standard competitive mode in StarCraft 2 is 1v1. However the OlimoLeague recently put on an event where they invited three teams of progamers to face off in a 2v2 (2 vs 2) event. In this video I cast a best-of-5 between Maru and sOs on one team, and MaxPax and souL on the other.  OlimoLeague on Patreon:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul/",
-      "originalUrl": "https://youtube.com/watch?v=qk3OKS90ckA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qk3OKS90ckA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H7M4S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qk3OKS90ckA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-29T04:34:49-07:00"
     }
   ],
   "nextPage": 2

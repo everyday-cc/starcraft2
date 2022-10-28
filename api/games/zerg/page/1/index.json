@@ -724,35 +724,26 @@
       "publishedDateTime": "2022-10-17T04:49:22-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-no-recall-heros-huge-overextension-vs-reynor.md",
-      "title": "StarCraft 2: NO RECALL?! herO's HUGE Overextension vs Reynor!",
-      "excerpt": "Professional match of StarCraft 2 between Reynor and herO. In this macro game of Zerg versus Protoss we see Reynor constantly sending out Zergling runbys, while herO makes his ultimate Sky Toss army.   Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-no-recall-heros-huge-overextension-vs-reynor/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-no-recall-heros-huge-overextension-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=PPPrcODpgc8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PPPrcODpgc8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M44S",
+      "path": "_games/pig-how-quickly-can-dark-solar-dispose-of-a-noob-me-ept-na-holdout-challenge-starcraft-2.md",
+      "title": "How quickly can DARK & SOLAR dispose of a noob (ME)? | EPT NA Holdout Challenge - StarCraft 2",
+      "excerpt": "Want to play against Dark? The next Holdout Challenge will be held on 19th August 5pm PDT! For details see the Patreon post: https://www.patreon.com/posts/dark-holdout-70272758  Dark and Solar are ABSOLUTE BEASTS! Let's see how long PiG held on for in this unofficial Holdout Challenge. Each series was",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-dark-solar-dispose-of-a-noob-me-ept-na-holdout-challenge-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-dark-solar-dispose-of-a-noob-me-ept-na-holdout-challenge-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=AVpCZctKdew",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AVpCZctKdew\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M47S",
       "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "PiG",
+        "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
         "Zerg"
       ],
       "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/PPPrcODpgc8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/AVpCZctKdew/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -760,7 +751,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-08-30T01:40:44-07:00"
+      "publishedDateTime": "2022-08-03T16:36:52-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",

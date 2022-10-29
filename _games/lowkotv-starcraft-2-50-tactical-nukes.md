@@ -21,12 +21,6 @@ topics:
   - StarCraft 2
   - Terran
 
-images:
-  - url: https://i.ytimg.com/vi/xKYulaEILB0/maxresdefault.jpg
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "agd68/tSGnIdj2sZM7EcTaAynP8LX1OhJFIdYGha3JEL54XFdZ1omHGzpRpSIM+de+Ot6N+jD4cxm7FAfu3czjeYohktRTGAmS3kMOROS3fidAv9ZYdeColPmyTzKRozImwF/Gb0HP3Tf8CuzsfoZNmpsJmuADZS6msNQycnhsTOqgXdTl45pkvYEazp7ZadoViCoRL/6wrS1hQmC4hUCkHu+auu36YGD4w+eIygKwnCPgZQgM11/cp3i66K1Dwy7L1q5pqPlJEHXtG0jcYexZMPbbDtxSp7Pv31cw1wElLTSEl2LQ/nDc0hxjwAbYxkVCaZJQYVz2FBwHuINLITSu8kPyhTPgmEH7R0Hvm7oWYZI+UhtPeHRV4N9yT+aja/Vn8jU7Fuod69xei2hOYVHw==;zEsJu+JXidzumVSuKKgTUQ=="
+secured: "yJWoHbwEZj5ClI+nyovgvOcJt+SCrAIfKV3dDaALKDUzxQITrudXeMl2W2MG7HuhZH9prtyD25dXWMzwXyt2l1/rh/7hXdeRr7NdkLoGq6ntfxXckJCN4Y1Mux+IK1BqmNm8r8ms5TLhR4km0ebQufkeDxGRqWltRUmudnAvHMz7xN4+RLgBZfo21vsUckdOrbCamboStsHaKYZh+S/P3TO2r7rR/faLd409wggOP3a2pLe3J/1cJzjfH3URINfIKJxgqU1pMNhCECdhUJR4sQg/wyDit/+twZJKvRB3Al+XOqVS2fYb0waU6pADEaNY0+CXEyZnH3BNNZsQOI3zy/GFkqxdsbjrAtQcsy3go7G6EPN/2IDVtD9glOdUAFiBwBY2okBdkOs8PmdEIBFJHQ==;jRqrtyritGVPEBCY6zO/2Q=="
 ---
 

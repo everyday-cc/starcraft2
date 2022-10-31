@@ -4,45 +4,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-new-patch-is-live-zerg-vs-protoss-is-good-hero-vs-rogue.md",
-      "title": "StarCraft 2: NEW PATCH IS LIVE - Zerg vs Protoss is GOOD?! (herO vs Rogue)",
-      "excerpt": "The new multiplayer balance patch is finally live in StarCraft 2. In this best-of-5 series I cast a Zerg versus Protoss between herO and Rogue. The new patch primarily addresses this ZvP matchup, nerfing Shield Batteries, Dark Templar, Queens, Lurkers, Void Rays and buffing the Nydus Worm slightly.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-patch-is-live-zerg-vs-protoss-is-good-hero-vs-rogue/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-patch-is-live-zerg-vs-protoss-is-good-hero-vs-rogue/",
-      "originalUrl": "https://youtube.com/watch?v=MPrpq-p0EM8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MPrpq-p0EM8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M4S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MPrpq-p0EM8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-03-21T05:40:18-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-no-recall-heros-huge-overextension-vs-reynor.md",
       "title": "StarCraft 2: NO RECALL?! herO's HUGE Overextension vs Reynor!",
       "excerpt": "Professional match of StarCraft 2 between Reynor and herO. In this macro game of Zerg versus Protoss we see Reynor constantly sending out Zergling runbys, while herO makes his ultimate Sky Toss army.   Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -1141,6 +1102,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-06-14T23:46:38-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-theyre-mining-the-same-base-time-vs-lambo.md",
+      "title": "StarCraft 2: They’re Mining the SAME BASE! (TIME vs Lambo)",
+      "excerpt": "Professional match of StarCraft 2 between Lambo and TIME. Zerg starts this game off aggressively, but TIME holds on and forces the game to go the distance.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-theyre-mining-the-same-base-time-vs-lambo/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-theyre-mining-the-same-base-time-vs-lambo/",
+      "originalUrl": "https://youtube.com/watch?v=oPjSPHFO8BU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oPjSPHFO8BU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oPjSPHFO8BU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-07T13:37:09-07:00"
     }
   ],
   "nextPage": 15

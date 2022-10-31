@@ -4,82 +4,6 @@
   "page": 41,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-professional-zerg-vs-terran-bo5.md",
-      "title": "StarCraft 2: Professional Zerg vs Terran! (Bo5)",
-      "excerpt": "Awesome series of Zerg vs Terran between Nerchio and HeroMarine. Subscribe for more videos: http://lowko.tv/youtube 125+ Worker kills: https://goo.gl/ZJSDCu  This is a best-of-five series between two of the best StarCraft 2 progamers in Europe. In this series we see a wide variety of strategies that",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-professional-zerg-vs-terran-bo5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-professional-zerg-vs-terran-bo5/",
-      "originalUrl": "https://youtube.com/watch?v=YpnMSvlO8Y4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YpnMSvlO8Y4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M30S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YpnMSvlO8Y4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-09-07T06:00:30-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-progamer-efficiency.md",
-      "title": "StarCraft 2: PROGAMER EFFICIENCY!",
-      "excerpt": "Easily one of the most efficienct games I've ever casted. Subscribe for more videos: http://lowko.tv/youtube Professional cheesing: https://goo.gl/APqMmJ  This is a great match of professional Zerg versus Protoss between Stephano and ShoWTimE. Both players decide to take their take and really build up",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-progamer-efficiency/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-progamer-efficiency/",
-      "originalUrl": "https://youtube.com/watch?v=M3Cr1dL81eI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M3Cr1dL81eI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M42S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/M3Cr1dL81eI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-05-05T03:55:42-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-progamer-free-for-all-maru-innovation-solar-impact-hurricane-patience.md",
       "title": "StarCraft 2: PROGAMER FREE-FOR-ALL! (Maru, INnoVation, Solar, Impact, Hurricane & Patience)",
       "excerpt": "An insane Free-For-All of professional StarCraft 2 between Maru, INnoVation, Solar, Impact, Hurricane and Patience. In this progamer FFA map objectives and rules are added to the game. At the start of the game players get a minute to choose a starting base. If they don't pick one, they get one automatically.",
@@ -1149,6 +1073,81 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-22T05:05:05-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-reynors-hyper-aggressive-strategies-best-of-5.md",
+      "title": "StarCraft 2: Reynor's HYPER AGGRESSIVE Strategies! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Reynor and GunGFuBanDa. In this series Reynor decides to play very aggresively as he plays a variety of strategies versus this macro Protoss style. Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynors-hyper-aggressive-strategies-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-hyper-aggressive-strategies-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=sfTbHUSeEGA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sfTbHUSeEGA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M56S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sfTbHUSeEGA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-04-14T03:58:39-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-ridiculous-creativity-has-vs-catz.md",
+      "title": "StarCraft 2: RIDICULOUS CREATIVITY! (Has vs CatZ)",
+      "excerpt": "An amazing game of professional StarCraft 2 between Has and CatZ. Since both players love playing a style that's different from the StarCraft 2 meta, this game quickly turns into some of the most creative SC2 that I've ever seen.  In this Zerg versus Protoss we have a Proxy Hatchery, Proxy Stargate (with",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-ridiculous-creativity-has-vs-catz/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-ridiculous-creativity-has-vs-catz/",
+      "originalUrl": "https://youtube.com/watch?v=PEHUKYSH8Fc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PEHUKYSH8Fc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M54S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PEHUKYSH8Fc/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-01-02T04:52:42-08:00"
     }
   ],
   "nextPage": 42

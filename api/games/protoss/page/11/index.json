@@ -4,83 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-cast-containing-the-protoss.md",
-      "title": "StarCraft 2 Cast: Containing The PROTOSS!",
-      "excerpt": "ShoWTimE versus MajOr in a professional game of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/S1lJbH  A Protoss versus Terran in StarCraft 2. The match-up is currently pretty tricky for Protoss. In many instances, the Terran player has access to",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-containing-the-protoss/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cast-containing-the-protoss/",
-      "originalUrl": "https://youtube.com/watch?v=ojIHOzDXigE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ojIHOzDXigE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ojIHOzDXigE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-01-13T07:16:32-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-cast-hyper-aggressive-zerg-vs-protoss-solar-vs-hero.md",
-      "title": "StarCraft 2 Cast: HYPER AGGRESSIVE Zerg vs Protoss! (Solar vs herO)",
-      "excerpt": "An incredible match of Zerg versus Protoss between Solar and herO. Subscribe for more videos: http://lowko.tv/youtube My problems with Zerg vs Protoss: https://www.youtube.com/watch?v=dixWnwp8-Ug  Both players in this match play extremely aggressive. herO tries to deny the expansions from Solar for the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-hyper-aggressive-zerg-vs-protoss-solar-vs-hero/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cast-hyper-aggressive-zerg-vs-protoss-solar-vs-hero/",
-      "originalUrl": "https://youtube.com/watch?v=QARWilN5RIw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QARWilN5RIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M30S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QARWilN5RIw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2016-12-16T08:56:26-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-cast-my-favourite-players-protoss-zerg.md",
       "title": "StarCraft 2 Cast: My FAVOURITE Players! (Protoss & Zerg)",
       "excerpt": "A professional game of StarCraft 2 between my favourite players for their respective races. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/fi5EXG  In this Zerg versus Protoss we have a match between Dark and Neeb. Dark is without a doubt the best Zerg in the",
@@ -1162,6 +1085,82 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-02-19T02:16:01-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-extremely-close-protoss-match.md",
+      "title": "StarCraft 2: EXTREMELY CLOSE Protoss Match!",
+      "excerpt": "I'm like 99% sure this should have a been a draw. Subscribe for more videos: http://lowko.tv/youtube Battlecruisers for breakfast: https://goo.gl/JYKAEC  An extremely close match of Protoss vs Protoss. In this Silver League game, one of the players decides to go for a hyper aggressive Zealot cheese.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-extremely-close-protoss-match/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-extremely-close-protoss-match/",
+      "originalUrl": "https://youtube.com/watch?v=QJTQv5zDBJA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QJTQv5zDBJA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M10S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QJTQv5zDBJA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-06-13T01:59:01-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-fake-cannon-rush-vs-real-cannon-rush.md",
+      "title": "StarCraft 2: FAKE Cannon Rush vs REAL Cannon Rush?!",
+      "excerpt": "Awesome best-of-3 series of high level StarCraft 2. In this Protoss versus Protoss between PartinG and MaxPax we see both players constantly trying to outsmart each other with Photon Cannons, proxy Stargates, Dark Templar, army positioning and expansions.  Support my work on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-fake-cannon-rush-vs-real-cannon-rush/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-fake-cannon-rush-vs-real-cannon-rush/",
+      "originalUrl": "https://youtube.com/watch?v=Gp-O9TRhIBA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gp-O9TRhIBA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M58S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Gp-O9TRhIBA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-03-22T04:03:32-07:00"
     }
   ],
   "nextPage": 12

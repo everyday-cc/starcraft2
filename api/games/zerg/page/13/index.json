@@ -4,44 +4,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-reynors-hyper-aggressive-strategies-best-of-5.md",
-      "title": "StarCraft 2: Reynor's HYPER AGGRESSIVE Strategies! (Best-of-5)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between Reynor and GunGFuBanDa. In this series Reynor decides to play very aggresively as he plays a variety of strategies versus this macro Protoss style. Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynors-hyper-aggressive-strategies-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-hyper-aggressive-strategies-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=sfTbHUSeEGA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sfTbHUSeEGA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M56S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sfTbHUSeEGA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-04-14T03:58:39-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-ridiculous-zerg-skills.md",
       "title": "StarCraft 2: RIDICULOUS ZERG SKILLS!",
       "excerpt": "Insane game of Zerg vs Zerg between Solar and Dark. Subscribe for more videos: http://lowko.tv/youtube Nukes & Nydus worms: https://www.youtu.be/5qsgLgBABp0  The skill level is getting a little ridiculous in professional StarCraft 2. In this game both players are not just micro one or two fights at once,",
@@ -1156,6 +1118,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-12-22T13:12:25-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-soos-proxy-hatchery-ravager-all-in.md",
+      "title": "StarCraft 2: soO's PROXY HATCHERY Ravager All-in!",
+      "excerpt": "A best-of-5 series of professional StarCraft 2 between two South Korean pro gamers. soO (Zerg) goes up against ByuN (Terran) as they both try to outplay each other with very clever micro and macro games.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-soos-proxy-hatchery-ravager-all-in/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-soos-proxy-hatchery-ravager-all-in/",
+      "originalUrl": "https://youtube.com/watch?v=LbpOjjHZaa4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LbpOjjHZaa4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LbpOjjHZaa4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-31T04:54:47-07:00"
     }
   ],
   "nextPage": 14

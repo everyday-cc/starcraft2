@@ -956,6 +956,7 @@ items:
   - pig-the-cheap-trick-that-instantly-wins-games-pigs-filthy-adventures-starcraft-2
   - pig-bad-loser-turns-to-bullying-opponent-to-stroke-their-ego-salt-mines-18-starcraft-2
   - pig-how-quickly-can-scarlett-dispose-of-maphackers-holdout-challenge-starcraft-2
+  - pig-bm-zerg-offensive-ggs-too-early-lmao-king-of-cannons-20-starcraft-2
 
 topics:
   - StarCraft 2

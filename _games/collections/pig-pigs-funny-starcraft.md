@@ -957,6 +957,7 @@ items:
   - pig-bad-loser-turns-to-bullying-opponent-to-stroke-their-ego-salt-mines-18-starcraft-2
   - pig-how-quickly-can-scarlett-dispose-of-maphackers-holdout-challenge-starcraft-2
   - pig-how-to-smash-a-shameless-maphacker-starcraft-2
+  - pig-zerg-hater-has-angry-meltdown-cos-queens-exist-salt-mines-19-starcraft-2
   - pig-bm-zerg-offensive-ggs-too-early-lmao-king-of-cannons-20-starcraft-2
   - pig-i-ultra-nydus-rushed-my-brother-starcraft-2
 

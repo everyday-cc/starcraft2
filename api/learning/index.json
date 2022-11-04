@@ -4,23 +4,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-how-to-defend-cannon-rush-starcraft-2-zerg-guide-2022.md",
-      "title": "How To Defend Cannon Rush | Starcraft 2 Zerg Guide (2022)",
-      "excerpt": "#Starcraft #SC2 #zerg  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-how-to-defend-cannon-rush-starcraft-2-zerg-guide-2022/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-how-to-defend-cannon-rush-starcraft-2-zerg-guide-2022/",
-      "originalUrl": "https://youtube.com/watch?v=9Fsc01NwDoU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9Fsc01NwDoU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M50S",
+      "path": "_learning/videos/hushang-tutorials-learning-from-byun-defending-gateway-pressure.md",
+      "title": "Learning From Byun | Defending Gateway Pressure",
+      "excerpt": "Learning From Byun | Defending Gateway Pressure  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learning-from-byun-defending-gateway-pressure/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learning-from-byun-defending-gateway-pressure/",
+      "originalUrl": "https://youtube.com/watch?v=sJl_1n_g3do",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sJl_1n_g3do\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M3S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2022-09-11T13:21:39-07:00",
-      "heat": 131,
+      "publishedDateTime": "2022-09-18T10:37:54-07:00",
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/9Fsc01NwDoU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/sJl_1n_g3do/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -31,7 +31,7 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Zerg"
+        "Terran"
       ]
     },
     {
@@ -79,7 +79,7 @@
         "domain": "hushangcoaching.com"
       },
       "publishedDateTime": "2020-12-08T18:09:09-08:00",
-      "heat": 106,
+      "heat": 105,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/CupNHJotqmQ/maxresdefault.jpg",
@@ -110,7 +110,7 @@
         "domain": "hushangcoaching.com"
       },
       "publishedDateTime": "2020-10-09T16:03:01-07:00",
-      "heat": 96,
+      "heat": 92,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/X1g4O2PTOtQ/maxresdefault.jpg",
@@ -529,37 +529,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-using-the-safe-pvp-build-to-defend-cheese-16-times-in-a-row.md",
-      "title": "Using the safe PvP build to Defend cheese... 16 TIMES IN A ROW",
-      "excerpt": "I get cheesed 16 times in a row in Starcraft 2 to help you defend one base attacks in the protoss vs protoss matchup.  Using the safe PvP build to Defend cheese... 16 TIMES IN A ROW #protoss #pvp #starcraft2  Coaching -------------------------------------------------------------------------- Website:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-using-the-safe-pvp-build-to-defend-cheese-16-times-in-a-row/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-using-the-safe-pvp-build-to-defend-cheese-16-times-in-a-row/",
-      "originalUrl": "https://youtube.com/watch?v=Qfgy6uw65uQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Qfgy6uw65uQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H21M57S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-01-09T17:40:31-08:00",
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Qfgy6uw65uQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-3-gold-league-b2gm.md",
       "title": "StarCraft 2 - Zerg Bronze to GM #3: Gold League (B2GM)",
       "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 Introducing new things in Gold League 1:36 -- GAME 1: Practice build order along with PiG 12:04 How many control groups do you need in Gold? 13:07 How to be safer in ZvZ 15:57 Having a different",
@@ -608,6 +577,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/PD6PYQBfF6Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-using-the-safe-pvp-build-to-defend-cheese-16-times-in-a-row.md",
+      "title": "Using the safe PvP build to Defend cheese... 16 TIMES IN A ROW",
+      "excerpt": "I get cheesed 16 times in a row in Starcraft 2 to help you defend one base attacks in the protoss vs protoss matchup.  Using the safe PvP build to Defend cheese... 16 TIMES IN A ROW #protoss #pvp #starcraft2  Coaching -------------------------------------------------------------------------- Website:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-using-the-safe-pvp-build-to-defend-cheese-16-times-in-a-row/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-using-the-safe-pvp-build-to-defend-cheese-16-times-in-a-row/",
+      "originalUrl": "https://youtube.com/watch?v=Qfgy6uw65uQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Qfgy6uw65uQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H21M57S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-01-09T17:40:31-08:00",
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Qfgy6uw65uQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

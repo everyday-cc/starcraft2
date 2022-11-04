@@ -4,6 +4,36 @@
   "page": 26,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-theres-no-such-thing-as-too-many-tempests-florencio-files-108.md",
+      "title": "StarCraft 2 - There’s no such thing as too many Tempests | Florencio Files #108",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-theres-no-such-thing-as-too-many-tempests-florencio-files-108/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-theres-no-such-thing-as-too-many-tempests-florencio-files-108/",
+      "originalUrl": "https://youtube.com/watch?v=5iK9KHiPmxo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5iK9KHiPmxo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M47S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5iK9KHiPmxo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-12T09:00:01-08:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-thors-widow-mines-sad-protoss-3-games-diamond-in-the-ruff-67.md",
       "title": "StarCraft 2 - Thors + Widow Mines = SAD PROTOSS (3-games) | Diamond in the Ruff #67",
       "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran opponent? With thors and widow mines  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
@@ -884,36 +914,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-09-19T02:29:28-07:00"
-    },
-    {
-      "path": "_games/pig-this-challenge-should-be-unfair-for-protoss-starcraft-2.md",
-      "title": "This challenge should be unfair for Protoss - StarCraft 2",
-      "excerpt": "Rule: you can only take the two gases in your main! I hosted this tournament during Subathon 2.0 and we had a lot of Terran and Protoss players take part. You would think that MAN WITH GUN wins this but is Neeb a god? Neeb vs BattleB | Low Gas Tournament (Bo5 PvT) -- 🐷 Second Channel for Learning StarCraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-challenge-should-be-unfair-for-protoss-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-challenge-should-be-unfair-for-protoss-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=FazABdnRJcc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FazABdnRJcc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M43S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FazABdnRJcc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-27T20:52:10-07:00"
     }
   ],
   "nextPage": 27

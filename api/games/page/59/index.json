@@ -182,6 +182,35 @@
       "publishedDateTime": "2020-08-08T14:00:06-07:00"
     },
     {
+      "path": "_games/pig-how-did-a-game-that-was-over-at-8-min-go-for-50min-pig-vs-kiwian-zvt-showmatch-part-1-sc2.md",
+      "title": "How did a game that was over at 8 min go for 50min?! | PiG vs Kiwian ZvT Showmatch (Part 1) - SC2",
+      "excerpt": "Part 2 coming tomorrow! I played a best of 5 against Kiwian (Top) who is a former Terran pro who played in GSL. Neither of us could have predicted that game 1 would go like this... The showmatch went so long I had to split it up for youtube! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-did-a-game-that-was-over-at-8-min-go-for-50min-pig-vs-kiwian-zvt-showmatch-part-1-sc2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-did-a-game-that-was-over-at-8-min-go-for-50min-pig-vs-kiwian-zvt-showmatch-part-1-sc2/",
+      "originalUrl": "https://youtube.com/watch?v=F36eCeB0UAE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/F36eCeB0UAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT50M8S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/F36eCeB0UAE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-08-09T01:02:14-07:00"
+    },
+    {
       "path": "_games/pig-how-i-got-stuck-in-a-34-day-subathon-never-underestimate-twitch-chat.md",
       "title": "How I got stuck in a 34 day Subathon (never underestimate Twitch chat)",
       "excerpt": "I thought my subathon would last a day or two at most! Twitch chat had other ideas and locked me in for 34 days instead, allowing me to beat Ludwig's 726 hours on day 33.  To everyone who watched and supported, thank you so much! This was a crazy, challenging experience that will be remembered for some",
@@ -850,36 +879,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/iLXA_iFpYSc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-icyfar-an-ode-to-byun-sick-micro-g1-the-pig-daily-145.md",
-      "title": "ICYFAR - An Ode to Byun - Sick Micro - G1 - The PiG Daily #145",
-      "excerpt": "THIS WEEKS ICYFAR: \"Suprise Motherfucker - Always attack at two locations at once\" - Send submissions to pigrandom88@gmail.com as attachment AND only ICYFAR as title! Latest submission is 24 hours before the show airs on the tuesday (AM/EU) /wednesday (AU) daily.\r  Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-icyfar-an-ode-to-byun-sick-micro-g1-the-pig-daily-145/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-icyfar-an-ode-to-byun-sick-micro-g1-the-pig-daily-145/",
-      "originalUrl": "https://youtube.com/watch?v=T0ZeYbWtfGA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T0ZeYbWtfGA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M45S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/T0ZeYbWtfGA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

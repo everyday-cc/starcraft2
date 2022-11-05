@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=r0_IXSocl5Y
 type: video
 length: PT11M57S
 publishedDateTime: 2019-11-20T17:00:13Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r0_IXSocl5Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Yzu95+rqpZbd7aqDN4XMA+EdKl0nJ2+I7MHOe4I+u+DdAb09oi2DaJEvzSxuZgyc3Wc/L85b8qqTtTSxaGAobBu6TSDY5KLlSVyMUK86nruDOgyetSrXMpQh038DXOJdQRlJTY7hHm+FwIJPrwoUdVVo4moGbyvvb/IHXZe80BmRD56+g14TxTC5lM7QrM/ApvI9ZOCya2MhkqLZbCA20JI0NtaOqwGbGDv2lYPL9hJMHBKctrnJVmE8F3mEt5hc3+hKN1Jn7zBp1iccgNddnfJvaZ6mdgKIz6V2vC2wHB4WYWZoSNTSq2Wlj1kXN1o2phuDyNV4LTLS5eKjsDz0rEksisoI76B+cMYVay+h5LDZXIQqA8f/E2yiZi772WNH8vKxibD4AQZgSOJEWmqZoiXROWroUm2a7RXIDHydIkM=;WV2POTAyAT/FBtwpylolog=="
+secured: "zpgPkPT4V7KJVdDTalV7/xiDwyxaxUqHpBc6Gqi8stIDXi1QiWuGSOMumXyxECMdoFAhWOka9+PP44TVRDg0nVmXDMFAw4CyIKdyO2IYDWxuvNHm9+gwyDv9hBjS8PxFpQHvgFOZsyJLMjADxcVaygSDlJ36KIYAhBapFzFBTu8jqnIcmeezQdod+axfQT9kIJMatqSCQ2FuAClG3vi+IZJLLGVXrp8Ie205sV7omk295h7+9/EjiA411Y3M+1Us4lV0dLQac2hRMdjlcpNLJ9fLPi87XB7i2Z68Nm6UGM/ovQAtQZoeYf3GgYayXJdt2KlMy63cvjFm+WD8FXxcLov4D64oFzmVTbsq0g/NLJpMz1ML0APE8BHk3qegCEsqip/48CGVcEapmqJDpYiDog9F83BQGzAJ37Ubck2gEjo=;YsdAuZOYc8qmOgf1gvRmzA=="
 ---
 

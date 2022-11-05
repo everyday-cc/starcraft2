@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=NHo8_k7s94I
 type: video
 length: PT17M9S
 publishedDateTime: 2021-03-06T06:32:20Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NHo8_k7s94I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "IXwAUYQ2oPsq9uYX8BHHo/caGR7mrfMytArqFRVn35eFj4e9Q7RVLrvFvFB5TD9PPIRN6MbZ7B9c/ZJKhqF95XldmHxIC2mDBzDVDWPIDcCLSeS8LHozWOFKEabVNfXqIqr2wTi/raF59femZ8BJGoVmEWSTr6yzgw5PWMvXfPY04DPEo/fmV+fmpH/X7ECyFSHeQSfwgy23eWAHayTneqPr8ghsanzNdPTSMuEETqkl6mlLT1k0WvuEhRFFtL278c2EeHG6JgFedZR5snrCF7YFCFMZs2e4WrcisbbVEUl2QydPRfL+cyuLnbJCQxCnF8NNLbrwZ8K8ihl3fVSMWsrWGk++5gf9v6miaataE0TZ/pMe0JmloHcw++e56cKgvFcvGgmUMveKpLsKErpMZLa0JRRuMrZXbS0rI6cWMDo=;G296jfPH32jwha5LjzWznQ=="
+secured: "Jtx69SUV1mJYSl/FGYUJkU93P+OwZSc/SF3Co19uMc+OZkBvZEADjXA1du9oEj4fBzK1C0XfAxFvCcqjXwu2zB/v6L/cFDANwtJSOxxkamYZK/ISbPmKTOEjtHOdrtif38uZYDLv5ctb5T8qaALtzFnuIZ7hGnVyEY4cM12EWomEtfFCwGcl4031SRJkgXg8Yz9cshnOqOUj0Dz9MxHL9zM0NnCIlaV8HAt6y6daxtRwOFZcKMxAVaDMWhRzKjwhfhoMclMzpL6YnIshPhgi5HEn4PQdJbAnL1ljB/38qs7DZvQFS1TZ/t1HJnpiLA392P0r4prdRKo4ehbFBAos6sOvqdk0ZL0BfPnre3NbPebjU2ddEH8sDyjcKHa+nQtagyNRNMR/pT7rxz5Zuy9WpVg/0F/gTrnhuKad5SGaO9E=;u0xgnHLnqjSBNwinkXjTYQ=="
 ---
 

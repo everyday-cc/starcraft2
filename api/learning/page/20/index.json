@@ -4,36 +4,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_learning/videos/pig-starcraft-2-coaching-gm-pvp.md",
-      "title": "StarCraft 2 - Coaching GM PvP",
-      "excerpt": "I coach GM/Masters1 Protoss Veryn on his PvP using a chargelot archon immortal style -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-coaching-gm-pvp/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-coaching-gm-pvp/",
-      "originalUrl": "https://youtube.com/watch?v=bnMWltBZvHk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bnMWltBZvHk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H4M31S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-09-15T19:33:58-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bnMWltBZvHk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-starcraft-2-coaching-gm-random-on-setting-up-and-performing-at-lan.md",
       "title": "StarCraft 2 - Coaching GM Random on Setting up and Performing at LAN",
       "excerpt": "I coach a GM Random player on how to play the best possible at a LAN including getting his settings and hotkeys right and then -- Watch live at https://www.twitch.tv/x5_pig",
@@ -910,6 +880,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/f0chGt6IVBo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-coaching-tells-reaction-lists-and-focus-in-improvement-silver-terran.md",
+      "title": "StarCraft 2 - Coaching - Tells, Reaction lists and focus in improvement - Silver Terran",
+      "excerpt": "I coach a silver terran on scouting tells and reactions as well as how to focus his improvement better -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-coaching-tells-reaction-lists-and-focus-in-improvement-silver-terran/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-coaching-tells-reaction-lists-and-focus-in-improvement-silver-terran/",
+      "originalUrl": "https://youtube.com/watch?v=xXJ0OrT_IJU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xXJ0OrT_IJU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H3M",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-06-04T22:59:25-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xXJ0OrT_IJU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

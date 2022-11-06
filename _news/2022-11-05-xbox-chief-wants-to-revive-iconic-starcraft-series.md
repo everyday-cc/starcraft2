@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Xbox boss calls StarCraft \"seminal\" and says he's \"excited about getting to sit down with the teams\""
+    excerpt: "Xbox boss Phil Spencer says \"what could happen\" with older Activision Blizzard franchises like StarCraft is \"pretty"
+    publishedDateTime: 2022-11-06T13:13:00Z
+    webUrl: "https://www.eurogamer.net/xbox-boss-calls-starcraft-seminal-and-says-hes-excited-about-getting-to-sit-down-with-the-teams"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 22
+    images:
+      - url: "https://assets.reedpopcdn.com/starcraft-2-will-go-free-to-play-later-this-month-1509736865236.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/starcraft-2-will-go-free-to-play-later-this-month-1509736865236.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Xbox boss says \"what could happen\" to dormant Activision Blizzard franchises like StarCraft is \"pretty exciting\""
     excerpt: "Xbox boss Phil Spencer says he's \"excited\" to sit down with the teams at Activision, Blizzard, and King to talk about \"back catalogs\" and reviving franchises like StarCraft should Xbox's acquisition of Activision Blizzard proceed."
     publishedDateTime: 2022-11-06T11:10:00Z

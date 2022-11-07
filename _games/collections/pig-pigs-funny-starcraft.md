@@ -955,12 +955,13 @@ items:
   - pig-world-record-trifecta-uthermals-1-terran-vs-7-insane-protoss-ai-pig-reacts-starcraft-2
   - pig-the-cheap-trick-that-instantly-wins-games-pigs-filthy-adventures-starcraft-2
   - pig-bad-loser-turns-to-bullying-opponent-to-stroke-their-ego-salt-mines-18-starcraft-2
-  - pig-how-quickly-can-scarlett-dispose-of-maphackers-holdout-challenge-starcraft-2
+  - pig-how-quickly-can-scarlett-destroy-maphackers-holdout-challenge-starcraft-2
   - pig-how-to-smash-a-shameless-maphacker-starcraft-2
   - pig-zerg-hater-has-angry-meltdown-cos-queens-exist-salt-mines-19-starcraft-2
   - pig-bm-zerg-offensive-ggs-too-early-lmao-king-of-cannons-20-starcraft-2
   - pig-this-crazy-double-swarm-host-strategy-guarantees-chaos-smooth-brain-stephen-3-starcraft-2
   - pig-i-ultra-nydus-rushed-my-brother-starcraft-2
+  - pig-i-was-bribed-to-one-shot-a-base-using-ravagers-only-strategy-bribes-starcraft-2
 
 topics:
   - StarCraft 2

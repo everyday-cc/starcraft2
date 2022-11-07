@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Phil Spencer wants to talk to Blizzard about classic RTS games like StarCraft"
-excerpt: "Microsoft ’s head of gaming has said he’s keen to sit down with Blizzard to discuss potential opportunities for its classic RTS games such as StarCraft. Speaking to Wired, Phil Spencer was asked if he would like to revive the sci-fi strategy series,"
-publishedDateTime: 2022-11-07T09:24:00Z
-originalUrl: "https://www.videogameschronicle.com/news/phil-spencer-wants-to-talk-to-blizzard-about-classic-rts-games-like-starcraft/"
-webUrl: "https://www.videogameschronicle.com/news/phil-spencer-wants-to-talk-to-blizzard-about-classic-rts-games-like-starcraft/"
+title: "Xbox boss wants to bring StarCraft back"
+excerpt: "Phil Spencer, head of Microsoft’s gaming division, is all-for bringing StarCraft back into the limelight. “The first thing I would say is, I’m not allowed to make any decisions about what happens at Blizzard or Activision or King. So this is all just ..."
+publishedDateTime: 2022-11-07T17:29:00Z
+originalUrl: "https://ftw.usatoday.com/2022/11/xbox-phil-spencer-starcraft"
+webUrl: "https://ftw.usatoday.com/2022/11/xbox-phil-spencer-starcraft"
 type: article
-quality: 51
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Video Games Chronicle
-  domain: videogameschronicle.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - StarCraft 2
-  - Protoss
 
 images:
-  - url: "https://www.videogameschronicle.com/files/2019/06/starcraft-art.jpg"
-    width: 1920
-    height: 1200
+  - url: "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/age_of_empires_2_de_slavs.png?w=1000"
+    width: 1000
+    height: 562
     isCached: true
 
 related:
@@ -117,6 +116,20 @@ related:
         width: 600
         height: 276
         isCached: true
+  - title: "Phil Spencer wants to talk to Blizzard about classic RTS games like StarCraft"
+    excerpt: "Microsoft ’s head of gaming has said he’s keen to sit down with Blizzard to discuss potential opportunities for its classic RTS games such as StarCraft. Speaking to Wired, Phil Spencer was asked if he would like to revive the sci-fi strategy series,"
+    publishedDateTime: 2022-11-07T09:24:00Z
+    webUrl: "https://www.videogameschronicle.com/news/phil-spencer-wants-to-talk-to-blizzard-about-classic-rts-games-like-starcraft/"
+    type: article
+    provider:
+      name: Video Games Chronicle
+      domain: videogameschronicle.com
+    quality: 51
+    images:
+      - url: "https://www.videogameschronicle.com/files/2019/06/starcraft-art.jpg"
+        width: 1920
+        height: 1200
+        isCached: true
   - title: "Xbox chief wants to revive iconic ‘StarCraft’ series"
     excerpt: "Asked by Wired if Xbox had plans for StarCraft going forward, Spencer said: “The first thing I would say is, I’m not allowed to make any decisions about what happens at Blizzard or Activision or King. So this is all just kind of talking and thinking ..."
     publishedDateTime: 2022-11-05T13:20:00Z
@@ -144,20 +157,6 @@ related:
       - url: "https://www.svg.com/img/gallery/xbox-boss-weighs-in-on-the-future-of-starcraft/l-intro-1667847570.jpg"
         width: 1600
         height: 896
-        isCached: true
-  - title: "Xbox boss wants to bring StarCraft back"
-    excerpt: "Phil Spencer, head of Microsoft’s gaming division, is all-for bringing StarCraft back into the limelight. “The first thing I would say is, I’m not allowed to make any decisions about what happens at Blizzard or Activision or King. So this is all just ..."
-    publishedDateTime: 2022-11-07T17:29:00Z
-    webUrl: "https://ftw.usatoday.com/2022/11/xbox-phil-spencer-starcraft"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 37
-    images:
-      - url: "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/age_of_empires_2_de_slavs.png?w=1000"
-        width: 1000
-        height: 562
         isCached: true
   - title: "Phil Spencer Wants to Talk to Blizzard About RTS Games Like StarCraft - News"
     excerpt: "Spencer said he is not allowed to make any decisions about what happens at Activision Blizzard at this time, so it is only talk. However, he would like to see the return of classic RTS games from Blizzard like StarCraft and WarCraft."
@@ -202,6 +201,6 @@ related:
         height: 675
         isCached: true
 
-secured: "+jYlcC2FwSCxZ3VeQEuhB7mYVpAEXFdSWNzbYfANMHiPAJMk0RO/z6Qj86xG0rYxuMp/g/5efOYh5AVEP8Npq6eY5mUIVbVChswNDTikk7mt21hGw97BsZOMwZKXoi0UqHXMlJBC8dYUG8dx3Bs46/zEfLSQtr3l8FjZoaRrro8JIHMSDhDiHM547bRlmPg4d2PSd1Md5CP/nVyMKQHlKALFZkjR4kjPV5NTwDtzbY2fJUF0VH/HS3OvvJ43tFCidOE9PEy9lNENSRFKfpJGOC/EdjIE77/Ywx1ouTkWY5n86+6UofJNlGi60oJJ5FWgn6xVtx3G+pa/7QmHiCVadEuWpySegji/RDS7Nq/kaZIWc6Ija+Nh/Nk/dSQ8+92a9WIWbujunT+dV/TVEf7n5Mtt3+Kh3Wj8UQnMNLZx5T+DHwwO6z5MDit60B5AnscvQo4/Wy4nv9h9jj/q98g3wlBShdkGMDzDAFsZvg+Zmspi2FqdU0mcwf6qtM9xpcE7UpSGzuWAY6s20x/sKJ7Exw==;DotwlUP0QBwe6K0VX+LXvg=="
+secured: "DnLQqL8TFp6XxVqkT4jbUBOJDfseZT7mqXyJKg6ir1CKt+0bzomODOe9cAo268kfbVCSG5VMHJ54cPpH66cp3Hbq1qaFvDsB/UmHD0ETBPY0/9hBi5+q3ADgkLkCUZj+Ku2J2B1CdasEykdHGGNp2cFkFAPWJn5nv7wwBt1Tkorycmh8Yqzib1W/fVRP75zTueetM6pw9QmN3VSJyENxi7YFFaC36GmYidGM2CBIDC2s1O6Dw5svdnMd4/XQuc9ak2hGgTCM5Dc2SX0I8MAIc+9Xy1rPHrX5PdlIa6mxQiRpgupDVARv/wJjPihb2Mkp+J1upPQ5AmyqPwKPgUWGSuk9oxP/JtAangd2OnE8j1Q=;e5x8z5MyOLjFrCn036xv2w=="
 ---
 

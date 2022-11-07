@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Phil Spencer wants to talk to Blizzard about classic RTS games like StarCraft"
-excerpt: "Microsoft ’s head of gaming has said he’s keen to sit down with Blizzard to discuss potential opportunities for its classic RTS games such as StarCraft. Speaking to Wired, Phil Spencer was asked if he would like to revive the sci-fi strategy series,"
-publishedDateTime: 2022-11-07T09:24:00Z
-originalUrl: "https://www.videogameschronicle.com/news/phil-spencer-wants-to-talk-to-blizzard-about-classic-rts-games-like-starcraft/"
-webUrl: "https://www.videogameschronicle.com/news/phil-spencer-wants-to-talk-to-blizzard-about-classic-rts-games-like-starcraft/"
+title: "Phil Spencer excited at the prospect of new StarCraft & Warcraft"
+excerpt: "In a recent interview with Wired, Phil Spencer touches on Blizzard properties like StarCraft and Warcraft, and how he's excited about the opportunity both hold."
+publishedDateTime: 2022-11-07T18:20:00Z
+originalUrl: "https://www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard"
+webUrl: "https://www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard"
+ampWebUrl: "https://www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard?amphtml=1"
+cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard?amphtml=1"
 type: article
-quality: 51
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Video Games Chronicle
-  domain: videogameschronicle.com
+  name: Shacknews
+  domain: shacknews.com
 
 topics:
   - StarCraft 2
-  - Protoss
 
 images:
-  - url: "https://www.videogameschronicle.com/files/2019/06/starcraft-art.jpg"
-    width: 1920
-    height: 1200
+  - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/11/07/phil-spencer-interview-starcraft-warcraft-activision-blizzard-king-wired_feature.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -69,22 +70,6 @@ related:
         width: 1800
         height: 900
         isCached: true
-  - title: "Phil Spencer excited at the prospect of new StarCraft & Warcraft"
-    excerpt: "In a recent interview with Wired, Phil Spencer touches on Blizzard properties like StarCraft and Warcraft, and how he's excited about the opportunity both hold."
-    publishedDateTime: 2022-11-07T18:20:00Z
-    webUrl: "https://www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard"
-    ampWebUrl: "https://www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 57
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/11/07/phil-spencer-interview-starcraft-warcraft-activision-blizzard-king-wired_feature.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Phil Spencer Is Keen On The Idea Of Reviving StarCraft And Warcraft For Xbox"
     excerpt: "Xbox head Phil Spencer loves the idea of reviving Blizzard RTS games like StarCraft and Warcraft, but the road to doing so is long and comlex."
     publishedDateTime: 2022-11-06T11:48:00Z
@@ -116,6 +101,20 @@ related:
       - url: "https://metro.co.uk/wp-content/uploads/2021/08/jm_lilith_igc_image2-2-fbe5.jpg?quality=90&strip=all&zoom=1&resize=600%2C276"
         width: 600
         height: 276
+        isCached: true
+  - title: "Phil Spencer wants to talk to Blizzard about classic RTS games like StarCraft"
+    excerpt: "Microsoft ’s head of gaming has said he’s keen to sit down with Blizzard to discuss potential opportunities for its classic RTS games such as StarCraft. Speaking to Wired, Phil Spencer was asked if he would like to revive the sci-fi strategy series,"
+    publishedDateTime: 2022-11-07T09:24:00Z
+    webUrl: "https://www.videogameschronicle.com/news/phil-spencer-wants-to-talk-to-blizzard-about-classic-rts-games-like-starcraft/"
+    type: article
+    provider:
+      name: Video Games Chronicle
+      domain: videogameschronicle.com
+    quality: 51
+    images:
+      - url: "https://www.videogameschronicle.com/files/2019/06/starcraft-art.jpg"
+        width: 1920
+        height: 1200
         isCached: true
   - title: "Xbox chief wants to revive iconic ‘StarCraft’ series"
     excerpt: "Asked by Wired if Xbox had plans for StarCraft going forward, Spencer said: “The first thing I would say is, I’m not allowed to make any decisions about what happens at Blizzard or Activision or King. So this is all just kind of talking and thinking ..."
@@ -202,6 +201,6 @@ related:
         height: 675
         isCached: true
 
-secured: "+jYlcC2FwSCxZ3VeQEuhB7mYVpAEXFdSWNzbYfANMHiPAJMk0RO/z6Qj86xG0rYxuMp/g/5efOYh5AVEP8Npq6eY5mUIVbVChswNDTikk7mt21hGw97BsZOMwZKXoi0UqHXMlJBC8dYUG8dx3Bs46/zEfLSQtr3l8FjZoaRrro8JIHMSDhDiHM547bRlmPg4d2PSd1Md5CP/nVyMKQHlKALFZkjR4kjPV5NTwDtzbY2fJUF0VH/HS3OvvJ43tFCidOE9PEy9lNENSRFKfpJGOC/EdjIE77/Ywx1ouTkWY5n86+6UofJNlGi60oJJ5FWgn6xVtx3G+pa/7QmHiCVadEuWpySegji/RDS7Nq/kaZIWc6Ija+Nh/Nk/dSQ8+92a9WIWbujunT+dV/TVEf7n5Mtt3+Kh3Wj8UQnMNLZx5T+DHwwO6z5MDit60B5AnscvQo4/Wy4nv9h9jj/q98g3wlBShdkGMDzDAFsZvg+Zmspi2FqdU0mcwf6qtM9xpcE7UpSGzuWAY6s20x/sKJ7Exw==;DotwlUP0QBwe6K0VX+LXvg=="
+secured: "eYptb4W7Sa0u815g7qr/KionVxoOTxY89WUEFu1MkuTVUdZamilnXEx9+cBFUFiq+i6s4aUKNjB4qRNT84Rn7CTBe923neW6tc5C15G3jp6Wm0AzY2Yd3AdhQVmMeeNYMBPoFoDttjKPKeUn0W5gF+orfI7Fs4F4J8unRLPRwrKFUFJDauL2rrdSSbVKSkHkJUf85TaQeoO81cutWeRK+ZIX4vaxOXXHXB08bRN9Cl4gMDcLBTJJtIzu0yYqnSEYKgk6lqDPoPuFkDXvXMqVfePqK+FjPuSY9KX0Up+opIpKMWcyvvqN7RKTU1Gq6pNP+/m6Ijlefb/xl2OlcrLvVJGXQ3vsDslXzl6hyDnXJpo=;Pno4jfIfsbSVlvE43zXNtA=="
 ---
 

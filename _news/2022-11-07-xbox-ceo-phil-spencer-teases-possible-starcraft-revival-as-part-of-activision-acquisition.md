@@ -58,6 +58,22 @@ related:
         width: 925
         height: 487
         isCached: true
+  - title: "Phil Spencer excited at the prospect of new StarCraft & Warcraft"
+    excerpt: "In a recent interview with Wired, Phil Spencer touches on Blizzard properties like StarCraft and Warcraft, and how he's excited about the opportunity both hold."
+    publishedDateTime: 2022-11-07T18:20:00Z
+    webUrl: "https://www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard"
+    ampWebUrl: "https://www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 57
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/11/07/phil-spencer-interview-starcraft-warcraft-activision-blizzard-king-wired_feature.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Phil Spencer Is Keen On The Idea Of Reviving StarCraft And Warcraft For Xbox"
     excerpt: "Xbox head Phil Spencer loves the idea of reviving Blizzard RTS games like StarCraft and Warcraft, but the road to doing so is long and comlex."
     publishedDateTime: 2022-11-06T11:48:00Z
@@ -117,6 +133,48 @@ related:
       - url: "https://www.nme.com/wp-content/uploads/2020/10/101620-Starcraft-II-Blizzard-Entertainment.jpg"
         width: 2000
         height: 1270
+        isCached: true
+  - title: "Xbox Boss Weighs In On The Future Of StarCraft"
+    excerpt: "Xbox boss Phil Spencer weighed in on the future of StarCraft, expressing interest in restarting the series with Microsoft's power."
+    publishedDateTime: 2022-11-07T14:01:00Z
+    webUrl: "https://www.svg.com/1089782/xbox-boss-weighs-in-on-the-future-of-starcraft/"
+    type: article
+    provider:
+      name: svg
+      domain: svg.com
+    quality: 37
+    images:
+      - url: "https://www.svg.com/img/gallery/xbox-boss-weighs-in-on-the-future-of-starcraft/l-intro-1667847570.jpg"
+        width: 1600
+        height: 896
+        isCached: true
+  - title: "Xbox boss wants to bring StarCraft back"
+    excerpt: "Phil Spencer, head of Microsoft’s gaming division, is all-for bringing StarCraft back into the limelight. “The first thing I would say is, I’m not allowed to make any decisions about what happens at Blizzard or Activision or King. So this is all just ..."
+    publishedDateTime: 2022-11-07T17:29:00Z
+    webUrl: "https://ftw.usatoday.com/2022/11/xbox-phil-spencer-starcraft"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 37
+    images:
+      - url: "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/age_of_empires_2_de_slavs.png?w=1000"
+        width: 1000
+        height: 562
+        isCached: true
+  - title: "Phil Spencer Wants to Talk to Blizzard About RTS Games Like StarCraft - News"
+    excerpt: "Spencer said he is not allowed to make any decisions about what happens at Activision Blizzard at this time, so it is only talk. However, he would like to see the return of classic RTS games from Blizzard like StarCraft and WarCraft."
+    publishedDateTime: 2022-11-07T18:17:00Z
+    webUrl: "https://www.vgchartz.com/article/455398/phil-spencer-wants-to-talk-to-blizzard-about-rts-games-like-starcraft/"
+    type: article
+    provider:
+      name: VG Chartz
+      domain: vgchartz.com
+    quality: 34
+    images:
+      - url: "https://www.vgchartz.com/articles_media/images/next-mass-effect-gets-teaser-pre-production-is-proceeding-very-well-190418_featured.jpg"
+        width: 600
+        height: 250
         isCached: true
   - title: "Xbox boss calls StarCraft \"seminal\" and says he's \"excited about getting to sit down with the teams\""
     excerpt: "Xbox boss Phil Spencer says \"what could happen\" with older Activision Blizzard franchises like StarCraft is \"pretty"

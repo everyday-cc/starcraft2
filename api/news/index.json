@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-06-phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox.md",
+      "title": "Phil Spencer Is Keen On The Idea Of Reviving StarCraft And Warcraft For Xbox",
+      "excerpt": "Xbox head Phil Spencer loves the idea of reviving Blizzard RTS games like StarCraft and Warcraft, but the road to doing so is long and comlex.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/",
+      "originalUrl": "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/11/07/hero-image.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/amp/",
+      "cdnAmpWebUrl": "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/amp/",
+      "publishedDateTime": "2022-11-06T03:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kotaku Australia",
+        "domain": "kotaku.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-starcraft-2-sells-1m-day-one-15m-in-first-48-hours-roughly-620k-in-the-us.md",
       "title": "StarCraft 2 sells 1m day-one, 1.5m in first 48 hours, roughly 620K in the US",
       "excerpt": "Blizzard just trumpeted the sales numbers for StarCraft 2: Wings of Liberty, the first installment in its long-time-coming sequel to the strategy classic. The numbers: \"a day-one sales milestone ...",
@@ -1166,48 +1208,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-2022-starcraft-svx-210-io.md",
-      "title": "2022 Starcraft SVX 210 IO",
-      "excerpt": "If Starcraft’s SVX 210 IO looks familiar, it’s because a similar boat already resides in the manufacturer’s lineup. The difference here is that the boat is now available with sterndrive power rather than the previous outboard-only option, meaning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.boatingmag.com/boats/2022-starcraft-svx-210-io-bbg/",
-      "originalUrl": "https://www.boatingmag.com/boats/2022-starcraft-svx-210-io-bbg/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mlclell2icph.i.optimole.com/hp8H5UE.n_9p~52d1/w:auto/h:auto/q:80/https://www.boatingmag.com/wp-content/uploads/sites/16/2021/11/BTGBG22_RUN_Starcraft-SVX-210-IO_02.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.boatingmag.com/boats/2022-starcraft-svx-210-io-bbg/?amp=1",
-      "cdnAmpWebUrl": "https://www-boatingmag-com.cdn.ampproject.org/c/s/www.boatingmag.com/boats/2022-starcraft-svx-210-io-bbg/?amp=1",
-      "publishedDateTime": "2021-12-06T11:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boating",
-        "domain": "boatingmag.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

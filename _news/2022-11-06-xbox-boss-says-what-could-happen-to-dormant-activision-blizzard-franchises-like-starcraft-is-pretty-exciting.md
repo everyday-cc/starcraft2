@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Phil Spencer Is Keen On The Idea Of Reviving StarCraft And Warcraft For Xbox"
+    excerpt: "Xbox head Phil Spencer loves the idea of reviving Blizzard RTS games like StarCraft and Warcraft, but the road to doing so is long and comlex."
+    publishedDateTime: 2022-11-06T11:48:00Z
+    webUrl: "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/"
+    ampWebUrl: "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/amp/"
+    cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/amp/"
+    type: article
+    provider:
+      name: Kotaku Australia
+      domain: kotaku.com.au
+    quality: 54
+    images:
+      - url: "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/11/07/hero-image.jpg?quality=80&resize=1280,720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Xbox chief wants to revive iconic ‘StarCraft’ series"
     excerpt: "Asked by Wired if Xbox had plans for StarCraft going forward, Spencer said: “The first thing I would say is, I’m not allowed to make any decisions about what happens at Blizzard or Activision or King. So this is all just kind of talking and thinking ..."
     publishedDateTime: 2022-11-05T13:20:00Z

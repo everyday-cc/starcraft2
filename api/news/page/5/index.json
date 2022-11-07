@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-07-starcraft-story-primer.md",
+      "title": "StarCraft Story Primer",
+      "excerpt": "Pop quiz, hotshot: are the setting and story of StarCraft part of the military sci-fi, space opera, or sci-fi horror genres? If you answered, “All three!” then congratulations—you really know your science fiction subgenres. There’s a lot going on in the StarCraft universe, and it’s not always easy to keep it all straight. If you’re looking for a refresher—or just a simple way to explain StarCraft’s story to your friends—this blog has you covered.",
+      "sourceUrl": null,
+      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23331587/starcraft-story-primer",
+      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23331587/starcraft-story-primer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/el/EL2PQC8X0KAV1490404440599.jpg",
+          "width": 404,
+          "height": 221,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2020-03-21-stronger-together-all-co-op-commanders-free-to-play-for-a-limited-time.md",
       "title": "Stronger Together: All Co-op Commanders Free to Play for a Limited Time",
       "excerpt": "With so many around the world staying safe indoors right now, we wanted to make it a little easier for everyone to connect with each other through StarCraft II.",

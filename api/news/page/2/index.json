@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-07-2022-starcraft-svx-210-io.md",
+      "title": "2022 Starcraft SVX 210 IO",
+      "excerpt": "If Starcraft’s SVX 210 IO looks familiar, it’s because a similar boat already resides in the manufacturer’s lineup. The difference here is that the boat is now available with sterndrive power rather than the previous outboard-only option, meaning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.boatingmag.com/boats/2022-starcraft-svx-210-io-bbg/",
+      "originalUrl": "https://www.boatingmag.com/boats/2022-starcraft-svx-210-io-bbg/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mlclell2icph.i.optimole.com/hp8H5UE.n_9p~52d1/w:auto/h:auto/q:80/https://www.boatingmag.com/wp-content/uploads/sites/16/2021/11/BTGBG22_RUN_Starcraft-SVX-210-IO_02.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.boatingmag.com/boats/2022-starcraft-svx-210-io-bbg/?amp=1",
+      "cdnAmpWebUrl": "https://www-boatingmag-com.cdn.ampproject.org/c/s/www.boatingmag.com/boats/2022-starcraft-svx-210-io-bbg/?amp=1",
+      "publishedDateTime": "2021-12-06T11:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boating",
+        "domain": "boatingmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-blizzcon-2008-starcraft-ii-gameplay-panel-notes.md",
       "title": "BlizzCon 2008: Starcraft II gameplay panel notes",
       "excerpt": "Rob Pardo and Chris Metzen hosted the Starcraft II gameplay panel here in Anaheim this afternoon at BlizzCon 2008 -- they showed off, for the first time in public, some of the adventure-based ...",
@@ -1058,48 +1100,6 @@
       "provider": {
         "name": "GamesRadar",
         "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-starcraft-ii-battle-chest-battlenet-key-global.md",
-      "title": "StarCraft II Battle Chest Battle.net Key GLOBAL",
-      "excerpt": "Battle Chest includes: • StarCraft II Wings of Liberty • StarCraft II Heart of the Swarm Expansion Starcraft II:",
-      "sourceUrl": null,
-      "webUrl": "https://www.denoticias.es/us/products/starcraft-ii-battle-chest-battlenet-key-global.html",
-      "originalUrl": "https://www.denoticias.es/us/products/starcraft-ii-battle-chest-battlenet-key-global.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-products.eneba.com/resized-products/XVpAFfc1GBNazQ6DVlBENYDzcZn-gCBY0WaS2U7asvs_390x400_1x-0.jpeg",
-          "width": 390,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.denoticias.es/us/amp/products/starcraft-ii-battle-chest-battlenet-key-global.html",
-      "cdnAmpWebUrl": "https://www-denoticias-es.cdn.ampproject.org/c/s/www.denoticias.es/us/amp/products/starcraft-ii-battle-chest-battlenet-key-global.html",
-      "publishedDateTime": "2021-03-18T19:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "denoticias.es",
-        "domain": "denoticias.es",
         "images": null,
         "publishers": null,
         "authors": null

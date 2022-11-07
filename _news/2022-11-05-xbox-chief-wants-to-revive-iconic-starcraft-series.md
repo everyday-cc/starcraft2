@@ -7,7 +7,7 @@ originalUrl: "https://www.nme.com/news/gaming-news/xbox-chief-wants-to-revive-ic
 webUrl: "https://www.nme.com/news/gaming-news/xbox-chief-wants-to-revive-iconic-starcraft-series-3343319"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Phil Spencer Is Keen On The Idea Of Reviving StarCraft And Warcraft For Xbox"
+    excerpt: "Xbox head Phil Spencer loves the idea of reviving Blizzard RTS games like StarCraft and Warcraft, but the road to doing so is long and comlex."
+    publishedDateTime: 2022-11-06T11:48:00Z
+    webUrl: "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/"
+    ampWebUrl: "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/amp/"
+    cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/amp/"
+    type: article
+    provider:
+      name: Kotaku Australia
+      domain: kotaku.com.au
+    quality: 54
+    images:
+      - url: "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/11/07/hero-image.jpg?quality=80&resize=1280,720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Xbox boss calls StarCraft \"seminal\" and says he's \"excited about getting to sit down with the teams\""
     excerpt: "Xbox boss Phil Spencer says \"what could happen\" with older Activision Blizzard franchises like StarCraft is \"pretty"
     publishedDateTime: 2022-11-06T13:13:00Z

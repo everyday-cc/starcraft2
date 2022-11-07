@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Phil Spencer Is Keen On The Idea Of Reviving StarCraft And Warcraft For Xbox"
-excerpt: "Xbox head Phil Spencer loves the idea of reviving Blizzard RTS games like StarCraft and Warcraft, but the road to doing so is long and comlex."
-publishedDateTime: 2022-11-06T11:48:00Z
-originalUrl: "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/"
-webUrl: "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/"
-ampWebUrl: "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/amp/"
-cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/amp/"
+title: "Phil Spencer 'excited' at the idea of more StarCraft"
+excerpt: "One of those may possibly be beloved RTS StarCraft, something which Spencer seems pretty excited about. The Xbox boss sat down with Wired to talk about Age of Empire's 25th anniversary, and the series' foray onto console—which has also meant controller ..."
+publishedDateTime: 2022-11-07T13:44:00Z
+originalUrl: "https://www.pcgamer.com/phil-spencer-excited-at-the-idea-of-more-starcraft/"
+webUrl: "https://www.pcgamer.com/phil-spencer-excited-at-the-idea-of-more-starcraft/"
 type: article
-quality: 54
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Kotaku Australia
-  domain: kotaku.com.au
+  name: PC Gamer
+  domain: pcgamer.com
+  images:
+    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/pcgamer.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/11/07/hero-image.jpg?quality=80&resize=1280,720"
-    width: 1280
-    height: 720
+  - url: "https://cdn.mos.cms.futurecdn.net/2kepUFtQ2fW2LpF5WhYmdG-1200-80.jpg"
+    width: 925
+    height: 487
     isCached: true
 
 related:
@@ -42,20 +44,6 @@ related:
         width: 620
         height: 348
         isCached: true
-  - title: "Phil Spencer 'excited' at the idea of more StarCraft"
-    excerpt: "One of those may possibly be beloved RTS StarCraft, something which Spencer seems pretty excited about. The Xbox boss sat down with Wired to talk about Age of Empire's 25th anniversary, and the series' foray onto console—which has also meant controller ..."
-    publishedDateTime: 2022-11-07T13:44:00Z
-    webUrl: "https://www.pcgamer.com/phil-spencer-excited-at-the-idea-of-more-starcraft/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 77
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2kepUFtQ2fW2LpF5WhYmdG-1200-80.jpg"
-        width: 925
-        height: 487
-        isCached: true
   - title: "Xbox CEO Phil Spencer Teases Possible Starcraft Revival As Part of Activision Acquisition"
     excerpt: "In an interview celebrating Age of Empire’s 25th anniversary, Xbox CEO Phil Spencer teases a possible Starcraft revival after Activision acquisition. For many RTS fans, Starcraft served as their entry to the genre. For others, it marked the start of a ..."
     publishedDateTime: 2022-11-07T05:48:00Z
@@ -69,6 +57,22 @@ related:
       - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/Starcraft-2-with-Xbox-Logo.jpg"
         width: 1800
         height: 900
+        isCached: true
+  - title: "Phil Spencer Is Keen On The Idea Of Reviving StarCraft And Warcraft For Xbox"
+    excerpt: "Xbox head Phil Spencer loves the idea of reviving Blizzard RTS games like StarCraft and Warcraft, but the road to doing so is long and comlex."
+    publishedDateTime: 2022-11-06T11:48:00Z
+    webUrl: "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/"
+    ampWebUrl: "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/amp/"
+    cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/amp/"
+    type: article
+    provider:
+      name: Kotaku Australia
+      domain: kotaku.com.au
+    quality: 54
+    images:
+      - url: "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/11/07/hero-image.jpg?quality=80&resize=1280,720"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Diablo 4 to launch in April 2023 claim insiders – as Xbox hints at more StarCraft"
     excerpt: "More recently, he was asked if there are any plans for Blizzard’s sci-fi strategy series StarCraft. Although he couldn’t answer in detail, and said that he can’t make any decisions at Activision or Blizzard yet, his personal enjoyment of StarCraft ..."
@@ -143,6 +147,6 @@ related:
         height: 675
         isCached: true
 
-secured: "GiTnA9Cv8lZGHy6e0rhELEzrIcHfiAZrrdpLaIqVzi8lOYMDprNOn1JfVQtyqx04eOiR8jXgHnoUOYzZCKFYZrPDwboj1jsBgX9fJFgniN6R1CfZYIQJXzMukwGXn/zC7KSUy18BAogrMpL3Ha9RDVbdKP1QwvvG8Y4a4rMLdyueZWyO71pXYwIr+1BBqwDbAbmD/kO3626PZFJ/2ioEdEeWm7ma2LsFWd0me+nOZo2ICvQtkGw1LCuGDVhEDQUT9DI8bnofiIhf7Vnm0sTaDHku25ab/A0YyMw1bkZs5eAeVpSvoggPWDAs0MWkG6cBsTjiOatmeU0m3VkgiqzI8//+HB7H2jik2yZkR93BOeBNrGphbiBwUaQaf9zEm7QvXBvMHwDwddzF0D9mwzJ7EDQfVkz8zcqIJm6coODH69MGlDQaaSMuvnoHIxP/jChSJ/FDuoCAEvh7A+lqzd+rrWTi2O4Y16uKD4FvgnlN23vEEFwT3HRDgBuCSCXVNhq+hBTT74tAP2zvNlc2HG9Mtg==;PFLNhmXAY0X7eSkEAJJ2vw=="
+secured: "seRfmBcDcis1tJEGzT6pnq9MGjD7Fcz1dE9AjjhYldjWy+PPiOgmyg5P1ziPwmgai3TYVSOaMB2YLpt/kb8cLnq/HgU7BicqN54iuMv6yyCoPun41VEtPQOp86rns+hT5xLJ9eDdIqBhOHBu2ebi/jxatey6Ra7oVkFShj7eKQi2erXa3fSwu8EA2rHL2yOa4wTHbzMiSlmzkXDyi7pj/rrUJtPb//7t/Q/30GgAJv0Gq+EtPfm2JYDMXsDeG5uiRlf++LA8BG5zWkJypuoJdDP6ze93tBoPm2U4zivKB2ZyXaCkSW+pVMm6RxYbYOh/Cye+tAZwEczM8nXm6YFpye/qY5PL/pvuXFKp9k9AeJo=;Y/aL7Riegd4tcNP6l1ZGnw=="
 ---
 

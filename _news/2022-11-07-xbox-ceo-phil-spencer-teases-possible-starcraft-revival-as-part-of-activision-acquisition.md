@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Phil Spencer Is Keen On The Idea Of Reviving StarCraft And Warcraft For Xbox"
-excerpt: "Xbox head Phil Spencer loves the idea of reviving Blizzard RTS games like StarCraft and Warcraft, but the road to doing so is long and comlex."
-publishedDateTime: 2022-11-06T11:48:00Z
-originalUrl: "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/"
-webUrl: "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/"
-ampWebUrl: "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/amp/"
-cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/amp/"
+title: "Xbox CEO Phil Spencer Teases Possible Starcraft Revival As Part of Activision Acquisition"
+excerpt: "In an interview celebrating Age of Empire’s 25th anniversary, Xbox CEO Phil Spencer teases a possible Starcraft revival after Activision acquisition. For many RTS fans, Starcraft served as their entry to the genre. For others, it marked the start of a ..."
+publishedDateTime: 2022-11-07T05:48:00Z
+originalUrl: "https://gamerant.com/xbox-ceo-phil-spencer-starcraft-revival/"
+webUrl: "https://gamerant.com/xbox-ceo-phil-spencer-starcraft-revival/"
 type: article
-quality: 54
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Kotaku Australia
-  domain: kotaku.com.au
+  name: Game Rant
+  domain: gamerant.com
+  images:
+    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/gamerant.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/11/07/hero-image.jpg?quality=80&resize=1280,720"
-    width: 1280
-    height: 720
+  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/Starcraft-2-with-Xbox-Logo.jpg"
+    width: 1800
+    height: 900
     isCached: true
 
 related:
@@ -56,19 +58,21 @@ related:
         width: 925
         height: 487
         isCached: true
-  - title: "Xbox CEO Phil Spencer Teases Possible Starcraft Revival As Part of Activision Acquisition"
-    excerpt: "In an interview celebrating Age of Empire’s 25th anniversary, Xbox CEO Phil Spencer teases a possible Starcraft revival after Activision acquisition. For many RTS fans, Starcraft served as their entry to the genre. For others, it marked the start of a ..."
-    publishedDateTime: 2022-11-07T05:48:00Z
-    webUrl: "https://gamerant.com/xbox-ceo-phil-spencer-starcraft-revival/"
+  - title: "Phil Spencer Is Keen On The Idea Of Reviving StarCraft And Warcraft For Xbox"
+    excerpt: "Xbox head Phil Spencer loves the idea of reviving Blizzard RTS games like StarCraft and Warcraft, but the road to doing so is long and comlex."
+    publishedDateTime: 2022-11-06T11:48:00Z
+    webUrl: "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/"
+    ampWebUrl: "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/amp/"
+    cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/amp/"
     type: article
     provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 68
+      name: Kotaku Australia
+      domain: kotaku.com.au
+    quality: 54
     images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/Starcraft-2-with-Xbox-Logo.jpg"
-        width: 1800
-        height: 900
+      - url: "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/11/07/hero-image.jpg?quality=80&resize=1280,720"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Diablo 4 to launch in April 2023 claim insiders – as Xbox hints at more StarCraft"
     excerpt: "More recently, he was asked if there are any plans for Blizzard’s sci-fi strategy series StarCraft. Although he couldn’t answer in detail, and said that he can’t make any decisions at Activision or Blizzard yet, his personal enjoyment of StarCraft ..."
@@ -143,6 +147,6 @@ related:
         height: 675
         isCached: true
 
-secured: "GiTnA9Cv8lZGHy6e0rhELEzrIcHfiAZrrdpLaIqVzi8lOYMDprNOn1JfVQtyqx04eOiR8jXgHnoUOYzZCKFYZrPDwboj1jsBgX9fJFgniN6R1CfZYIQJXzMukwGXn/zC7KSUy18BAogrMpL3Ha9RDVbdKP1QwvvG8Y4a4rMLdyueZWyO71pXYwIr+1BBqwDbAbmD/kO3626PZFJ/2ioEdEeWm7ma2LsFWd0me+nOZo2ICvQtkGw1LCuGDVhEDQUT9DI8bnofiIhf7Vnm0sTaDHku25ab/A0YyMw1bkZs5eAeVpSvoggPWDAs0MWkG6cBsTjiOatmeU0m3VkgiqzI8//+HB7H2jik2yZkR93BOeBNrGphbiBwUaQaf9zEm7QvXBvMHwDwddzF0D9mwzJ7EDQfVkz8zcqIJm6coODH69MGlDQaaSMuvnoHIxP/jChSJ/FDuoCAEvh7A+lqzd+rrWTi2O4Y16uKD4FvgnlN23vEEFwT3HRDgBuCSCXVNhq+hBTT74tAP2zvNlc2HG9Mtg==;PFLNhmXAY0X7eSkEAJJ2vw=="
+secured: "Hu61T8H5IZX8/7TYL0B538pJwUi5aYcHlzJpMBqFRAxHLjaj35NyfQozRB7g1Owv1p9G0fGvHYT6ieT5PYJNw3YmQVbTk7qqamnPG/iyxiHnqh2MDmAtuFk/5AtGq42G7CZiYWsz3jY1YayP/gMpvKAZjGY1Q3xHfpWmEEhMx+EKp4vnrReuo91e/pYMv8ANulq1TXukVdjnzJ5e9ATQqJKe62zmFGPC2cpPLnbZflcNTJKDA0dcu2IgwJXcf9nuzitjuHN2s7+YJbgvem/YaK0ZtC2/SoxGQEkRhQpD60BkxJnuYH5dYMdgZCSYWrjl93H2LBHu1rhoeLgHDHhqr3Jk9qSVzgAZ8ta4KRIbyV4=;xALAzR8XqJM7SOFyAKbF4w=="
 ---
 

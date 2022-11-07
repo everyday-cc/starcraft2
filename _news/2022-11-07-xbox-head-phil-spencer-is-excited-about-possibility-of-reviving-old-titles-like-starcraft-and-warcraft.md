@@ -9,7 +9,7 @@ ampWebUrl: "https://in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-e
 cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra?amp=1"
 type: article
 quality: 81
-heat: 181
+heat: 241
 published: true
 
 provider:
@@ -30,6 +30,34 @@ images:
     isCached: true
 
 related:
+  - title: "Phil Spencer 'excited' at the idea of more StarCraft"
+    excerpt: "One of those may possibly be beloved RTS StarCraft, something which Spencer seems pretty excited about. The Xbox boss sat down with Wired to talk about Age of Empire's 25th anniversary, and the series' foray onto console—which has also meant controller ..."
+    publishedDateTime: 2022-11-07T13:44:00Z
+    webUrl: "https://www.pcgamer.com/phil-spencer-excited-at-the-idea-of-more-starcraft/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 77
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2kepUFtQ2fW2LpF5WhYmdG-1200-80.jpg"
+        width: 925
+        height: 487
+        isCached: true
+  - title: "Xbox CEO Phil Spencer Teases Possible Starcraft Revival As Part of Activision Acquisition"
+    excerpt: "In an interview celebrating Age of Empire’s 25th anniversary, Xbox CEO Phil Spencer teases a possible Starcraft revival after Activision acquisition. For many RTS fans, Starcraft served as their entry to the genre. For others, it marked the start of a ..."
+    publishedDateTime: 2022-11-07T05:48:00Z
+    webUrl: "https://gamerant.com/xbox-ceo-phil-spencer-starcraft-revival/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 68
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/Starcraft-2-with-Xbox-Logo.jpg"
+        width: 1800
+        height: 900
+        isCached: true
   - title: "Phil Spencer Is Keen On The Idea Of Reviving StarCraft And Warcraft For Xbox"
     excerpt: "Xbox head Phil Spencer loves the idea of reviving Blizzard RTS games like StarCraft and Warcraft, but the road to doing so is long and comlex."
     publishedDateTime: 2022-11-06T11:48:00Z
@@ -45,6 +73,22 @@ related:
       - url: "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/11/07/hero-image.jpg?quality=80&resize=1280,720"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Diablo 4 to launch in April 2023 claim insiders – as Xbox hints at more StarCraft"
+    excerpt: "More recently, he was asked if there are any plans for Blizzard’s sci-fi strategy series StarCraft. Although he couldn’t answer in detail, and said that he can’t make any decisions at Activision or Blizzard yet, his personal enjoyment of StarCraft ..."
+    publishedDateTime: 2022-11-07T13:30:00Z
+    webUrl: "https://metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/"
+    ampWebUrl: "https://metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 52
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2021/08/jm_lilith_igc_image2-2-fbe5.jpg?quality=90&strip=all&zoom=1&resize=600%2C276"
+        width: 600
+        height: 276
         isCached: true
   - title: "Phil Spencer wants to talk to Blizzard about classic RTS games like StarCraft"
     excerpt: "Microsoft ’s head of gaming has said he’s keen to sit down with Blizzard to discuss potential opportunities for its classic RTS games such as StarCraft. Speaking to Wired, Phil Spencer was asked if he would like to revive the sci-fi strategy series,"
@@ -103,6 +147,6 @@ related:
         height: 675
         isCached: true
 
-secured: "1Y/cJB5CIJXTFiWbWak7HLhWH5za+IcoOSynYStmK2gDEomLf5vXoei/maZ0o9YvTLRTLjTRnbqbNYVPnKL+pcVrcktsm6/ABF+bxwaviWLn/U6qGYYazkHZJEpRyen7N+6kAtn+4abjAhJSoSpi8AecaAQkV3Vy27V9+sDD0FIz8aOD5e3n5VGJl9OaM9mfTSF4lOqofjUgc4mprDQc8NXCEDLtIAFXgPdIL+ue9gDQ7Vaf/ZPvJctPK1HQJiLW9znGViMMlWBk8+fpLo/FZ8VEYRcrsINcO90PY+iIUugGw54dJ/dUhprJvbJnt3LK/xQBD49OuJAnY1FJj8tU69yiVySivXQ1kiZa9yDfZZk=;NnmMdAIMvpRWdvJu/Z+bCA=="
+secured: "5vjS/2wZTHwaVfDZnGRna/7BhMaSs0cOlo/13YeGv9UtDqFTiilyDLURfNSNsA75BS382Ohdn/P20M7U6XjlqHK0YeEmhiWNMJaDuSaT57iBX6v2k6yUc9uKDgJcYxkzjpf4jD1yvXt6dxN9LKCvUkXyp3ZVTp7IFkf72p1xH4xXoeH9QQFc71DVzQOMrHSVku/ujgp/GJ2PRAsLKkArPTbeI9cwqI10Elqpv4xSMvOjmEmL1KzuqpmwtkJdZsdMbhTwONooKelbcofuwQD7dzck5BtM1Fi8wpnxm5LxadtpLV6DbSbW1Mei9rATnobpusvS2+GtqHwoaL1+iDB3xeOr1ypvdcU1OK/pI+isWGd4YtCq2VqNEMcddPCcJg1FXNC3I7Xefr1QeghwvgnLjFQVBUc9AYIcrCTV9kyqFRnBHC7hO48Lw3BHVzHKxiPbBvi70QTk3c+bcGcIFjLUF/iXxgH5MhwUkdvegfxM4qfIOFh6CWvwiTDS36mDQNm3nv6CTZpXVt3zFhb/fEmXaA==;uIJCzbyzgKj9F0x0XVSzDQ=="
 ---
 

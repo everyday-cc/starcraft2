@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Xbox boss says \"what could happen\" to dormant Activision Blizzard franchises like StarCraft is \"pretty exciting\""
-excerpt: "Xbox boss Phil Spencer says he's \"excited\" to sit down with the teams at Activision, Blizzard, and King to talk about \"back catalogs\" and reviving franchises like StarCraft should Xbox's acquisition of Activision Blizzard proceed."
-publishedDateTime: 2022-11-06T11:10:00Z
-originalUrl: "https://www.gamesradar.com/xbox-boss-says-what-could-happen-to-dormant-activision-blizzard-franchises-like-starcraft-is-pretty-exciting/"
-webUrl: "https://www.gamesradar.com/xbox-boss-says-what-could-happen-to-dormant-activision-blizzard-franchises-like-starcraft-is-pretty-exciting/"
+title: "Phil Spencer wants to talk to Blizzard about classic RTS games like StarCraft"
+excerpt: "Microsoft ’s head of gaming has said he’s keen to sit down with Blizzard to discuss potential opportunities for its classic RTS games such as StarCraft. Speaking to Wired, Phil Spencer was asked if he would like to revive the sci-fi strategy series,"
+publishedDateTime: 2022-11-07T09:24:00Z
+originalUrl: "https://www.videogameschronicle.com/news/phil-spencer-wants-to-talk-to-blizzard-about-classic-rts-games-like-starcraft/"
+webUrl: "https://www.videogameschronicle.com/news/phil-spencer-wants-to-talk-to-blizzard-about-classic-rts-games-like-starcraft/"
 type: article
-quality: 16
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar+
-  domain: gamesradar.com
+  name: Video Games Chronicle
+  domain: videogameschronicle.com
 
 topics:
   - StarCraft 2
+  - Protoss
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/8bEXHBi9Mp8Jh5Er6Jt35m-1200-80.jpg"
-    width: 1200
-    height: 675
+  - url: "https://www.videogameschronicle.com/files/2019/06/starcraft-art.jpg"
+    width: 1920
+    height: 1200
     isCached: true
 
 related:
@@ -56,20 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Phil Spencer wants to talk to Blizzard about classic RTS games like StarCraft"
-    excerpt: "Microsoft ’s head of gaming has said he’s keen to sit down with Blizzard to discuss potential opportunities for its classic RTS games such as StarCraft. Speaking to Wired, Phil Spencer was asked if he would like to revive the sci-fi strategy series,"
-    publishedDateTime: 2022-11-07T09:24:00Z
-    webUrl: "https://www.videogameschronicle.com/news/phil-spencer-wants-to-talk-to-blizzard-about-classic-rts-games-like-starcraft/"
-    type: article
-    provider:
-      name: Video Games Chronicle
-      domain: videogameschronicle.com
-    quality: 51
-    images:
-      - url: "https://www.videogameschronicle.com/files/2019/06/starcraft-art.jpg"
-        width: 1920
-        height: 1200
-        isCached: true
   - title: "Xbox chief wants to revive iconic ‘StarCraft’ series"
     excerpt: "Asked by Wired if Xbox had plans for StarCraft going forward, Spencer said: “The first thing I would say is, I’m not allowed to make any decisions about what happens at Blizzard or Activision or King. So this is all just kind of talking and thinking ..."
     publishedDateTime: 2022-11-05T13:20:00Z
@@ -98,7 +85,21 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Xbox boss says \"what could happen\" to dormant Activision Blizzard franchises like StarCraft is \"pretty exciting\""
+    excerpt: "Xbox boss Phil Spencer says he's \"excited\" to sit down with the teams at Activision, Blizzard, and King to talk about \"back catalogs\" and reviving franchises like StarCraft should Xbox's acquisition of Activision Blizzard proceed."
+    publishedDateTime: 2022-11-06T11:10:00Z
+    webUrl: "https://www.gamesradar.com/xbox-boss-says-what-could-happen-to-dormant-activision-blizzard-franchises-like-starcraft-is-pretty-exciting/"
+    type: article
+    provider:
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 16
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/8bEXHBi9Mp8Jh5Er6Jt35m-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "kYLOXx0lqWHViQynhBTwQ1avn+0cSWWhxbWIrkNWZfL359No41scTFlRIwcB8ACNUquu9HHlhUmLgZ1r71fw37pDGkunXRSRp0fICMd0FpZT8LZlUy1wvEHFxVnyRpkQCYoqyqsjqXdF2NZAaBIWSJ7ufb+0V1aIusvd8iEdrsD4F61GwnKEoDsClLn2M3xmF4jcAcVcVNxGiLd5vryy2hLSnX+07LMr77MPxIGbWaipN+3zVMgjHsLH1QAlfZ0rtPNhlI9So9Ba+hRMtnFOtpkmZmqwwhWsyUgD/FL7ZBw1xfvZvM4WhS5QInyO4Mx4fQQKQN53f4k7eEMb3y+8xd3poCuT9juIn9P5AEoWm89AAsAscdEikhCKNBu62ZD0unEWke6If2bXTe37H2+sUque+DCaBsjsEgW0TeXEmsUMYZudBw4oTCw0oXfq37A9UCUS18Ke3PEbU9UzCCgglUHG9dQGvLWJB7IefFY+JCUa0OkJ0cG/i9Lu7RtfqJ5Em/YMZgScQ+73Aiedy5Bphw==;tIga2/deQhZiJRoE9LeP6A=="
+secured: "pKxKKlGgwLoEHyX+cu6drJXOmEFN6zLxMsXDQCxiA40sBnt8exuFVSLaooLPGpStLDkfrv4i9Mgl0aqnkMrtLIg3diVr1cLsvtDWXRCXRdM+3EBkgalAvAl2Mdem3CoyO8Y7s5KMlz2BcWmd19FLThzdGf5QWj1/NLMDKYCouaUY9Dn1ifSnTOE5dJmd3dPC29xgIzCcrBGHnkP1YFLyRau/rs45wdYAQv8fWdwSF5Up71d3992mKyJkr0GjqXSGBMor8p+72e987o0TOOoQQhhqAzkdkJEh+e+J6flxpQ2X8OIqSFJRsEzBu0ZxyORYuEVhsd8bLBNmEqL9ekicYH0Lth5bYgQtUEgksUAgSEk=;WWvQuKOO/dBmQ2bTmzIXsg=="
 ---
 

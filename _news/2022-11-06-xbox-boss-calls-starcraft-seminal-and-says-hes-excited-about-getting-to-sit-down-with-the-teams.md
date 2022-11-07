@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Xbox Head Phil Spencer Is Excited About Possibility of Reviving Old Titles Like StarCraft and Warcraft"
+    excerpt: "Xbox CEO Phil Spencer has said that there is a possibility of revisiting old titles such as StarCraft or Warcraft. With the Activision Blizzard purchase, there are many questions regarding the future of these classic titles."
+    publishedDateTime: 2022-11-07T06:07:00Z
+    webUrl: "https://in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra"
+    ampWebUrl: "https://in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra?amp=1"
+    cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra?amp=1"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 81
+    images:
+      - url: "https://sm.ign.com/t/ign_in/video/b/blizzard-r/blizzard-rewards-fan-for-returning-starcraft-source-code-ign_vxtv.620.jpg"
+        width: 620
+        height: 348
+        isCached: true
   - title: "Phil Spencer Is Keen On The Idea Of Reviving StarCraft And Warcraft For Xbox"
     excerpt: "Xbox head Phil Spencer loves the idea of reviving Blizzard RTS games like StarCraft and Warcraft, but the road to doing so is long and comlex."
     publishedDateTime: 2022-11-06T11:48:00Z
@@ -39,6 +55,20 @@ related:
       - url: "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/11/07/hero-image.jpg?quality=80&resize=1280,720"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Phil Spencer wants to talk to Blizzard about classic RTS games like StarCraft"
+    excerpt: "Microsoft ’s head of gaming has said he’s keen to sit down with Blizzard to discuss potential opportunities for its classic RTS games such as StarCraft. Speaking to Wired, Phil Spencer was asked if he would like to revive the sci-fi strategy series,"
+    publishedDateTime: 2022-11-07T09:24:00Z
+    webUrl: "https://www.videogameschronicle.com/news/phil-spencer-wants-to-talk-to-blizzard-about-classic-rts-games-like-starcraft/"
+    type: article
+    provider:
+      name: Video Games Chronicle
+      domain: videogameschronicle.com
+    quality: 51
+    images:
+      - url: "https://www.videogameschronicle.com/files/2019/06/starcraft-art.jpg"
+        width: 1920
+        height: 1200
         isCached: true
   - title: "Xbox chief wants to revive iconic ‘StarCraft’ series"
     excerpt: "Asked by Wired if Xbox had plans for StarCraft going forward, Spencer said: “The first thing I would say is, I’m not allowed to make any decisions about what happens at Blizzard or Activision or King. So this is all just kind of talking and thinking ..."

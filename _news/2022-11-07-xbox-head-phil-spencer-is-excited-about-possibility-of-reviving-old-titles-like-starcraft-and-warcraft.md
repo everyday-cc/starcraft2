@@ -1,45 +1,35 @@
 ---
 category: news
-title: "Xbox boss says \"what could happen\" to dormant Activision Blizzard franchises like StarCraft is \"pretty exciting\""
-excerpt: "Xbox boss Phil Spencer says he's \"excited\" to sit down with the teams at Activision, Blizzard, and King to talk about \"back catalogs\" and reviving franchises like StarCraft should Xbox's acquisition of Activision Blizzard proceed."
-publishedDateTime: 2022-11-06T11:10:00Z
-originalUrl: "https://www.gamesradar.com/xbox-boss-says-what-could-happen-to-dormant-activision-blizzard-franchises-like-starcraft-is-pretty-exciting/"
-webUrl: "https://www.gamesradar.com/xbox-boss-says-what-could-happen-to-dormant-activision-blizzard-franchises-like-starcraft-is-pretty-exciting/"
+title: "Xbox Head Phil Spencer Is Excited About Possibility of Reviving Old Titles Like StarCraft and Warcraft"
+excerpt: "Xbox CEO Phil Spencer has said that there is a possibility of revisiting old titles such as StarCraft or Warcraft. With the Activision Blizzard purchase, there are many questions regarding the future of these classic titles."
+publishedDateTime: 2022-11-07T06:07:00Z
+originalUrl: "https://in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra"
+webUrl: "https://in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra"
+ampWebUrl: "https://in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra?amp=1"
+cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra?amp=1"
 type: article
-quality: 16
-heat: -1
-published: false
+quality: 81
+heat: 181
+published: true
 
 provider:
-  name: GamesRadar+
-  domain: gamesradar.com
+  name: IGN
+  domain: ign.com
+  images:
+    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/8bEXHBi9Mp8Jh5Er6Jt35m-1200-80.jpg"
-    width: 1200
-    height: 675
+  - url: "https://sm.ign.com/t/ign_in/video/b/blizzard-r/blizzard-rewards-fan-for-returning-starcraft-source-code-ign_vxtv.620.jpg"
+    width: 620
+    height: 348
     isCached: true
 
 related:
-  - title: "Xbox Head Phil Spencer Is Excited About Possibility of Reviving Old Titles Like StarCraft and Warcraft"
-    excerpt: "Xbox CEO Phil Spencer has said that there is a possibility of revisiting old titles such as StarCraft or Warcraft. With the Activision Blizzard purchase, there are many questions regarding the future of these classic titles."
-    publishedDateTime: 2022-11-07T06:07:00Z
-    webUrl: "https://in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra"
-    ampWebUrl: "https://in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra?amp=1"
-    cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra?amp=1"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 81
-    images:
-      - url: "https://sm.ign.com/t/ign_in/video/b/blizzard-r/blizzard-rewards-fan-for-returning-starcraft-source-code-ign_vxtv.620.jpg"
-        width: 620
-        height: 348
-        isCached: true
   - title: "Phil Spencer Is Keen On The Idea Of Reviving StarCraft And Warcraft For Xbox"
     excerpt: "Xbox head Phil Spencer loves the idea of reviving Blizzard RTS games like StarCraft and Warcraft, but the road to doing so is long and comlex."
     publishedDateTime: 2022-11-06T11:48:00Z
@@ -98,7 +88,21 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Xbox boss says \"what could happen\" to dormant Activision Blizzard franchises like StarCraft is \"pretty exciting\""
+    excerpt: "Xbox boss Phil Spencer says he's \"excited\" to sit down with the teams at Activision, Blizzard, and King to talk about \"back catalogs\" and reviving franchises like StarCraft should Xbox's acquisition of Activision Blizzard proceed."
+    publishedDateTime: 2022-11-06T11:10:00Z
+    webUrl: "https://www.gamesradar.com/xbox-boss-says-what-could-happen-to-dormant-activision-blizzard-franchises-like-starcraft-is-pretty-exciting/"
+    type: article
+    provider:
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 16
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/8bEXHBi9Mp8Jh5Er6Jt35m-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "kYLOXx0lqWHViQynhBTwQ1avn+0cSWWhxbWIrkNWZfL359No41scTFlRIwcB8ACNUquu9HHlhUmLgZ1r71fw37pDGkunXRSRp0fICMd0FpZT8LZlUy1wvEHFxVnyRpkQCYoqyqsjqXdF2NZAaBIWSJ7ufb+0V1aIusvd8iEdrsD4F61GwnKEoDsClLn2M3xmF4jcAcVcVNxGiLd5vryy2hLSnX+07LMr77MPxIGbWaipN+3zVMgjHsLH1QAlfZ0rtPNhlI9So9Ba+hRMtnFOtpkmZmqwwhWsyUgD/FL7ZBw1xfvZvM4WhS5QInyO4Mx4fQQKQN53f4k7eEMb3y+8xd3poCuT9juIn9P5AEoWm89AAsAscdEikhCKNBu62ZD0unEWke6If2bXTe37H2+sUque+DCaBsjsEgW0TeXEmsUMYZudBw4oTCw0oXfq37A9UCUS18Ke3PEbU9UzCCgglUHG9dQGvLWJB7IefFY+JCUa0OkJ0cG/i9Lu7RtfqJ5Em/YMZgScQ+73Aiedy5Bphw==;tIga2/deQhZiJRoE9LeP6A=="
+secured: "1Y/cJB5CIJXTFiWbWak7HLhWH5za+IcoOSynYStmK2gDEomLf5vXoei/maZ0o9YvTLRTLjTRnbqbNYVPnKL+pcVrcktsm6/ABF+bxwaviWLn/U6qGYYazkHZJEpRyen7N+6kAtn+4abjAhJSoSpi8AecaAQkV3Vy27V9+sDD0FIz8aOD5e3n5VGJl9OaM9mfTSF4lOqofjUgc4mprDQc8NXCEDLtIAFXgPdIL+ue9gDQ7Vaf/ZPvJctPK1HQJiLW9znGViMMlWBk8+fpLo/FZ8VEYRcrsINcO90PY+iIUugGw54dJ/dUhprJvbJnt3LK/xQBD49OuJAnY1FJj8tU69yiVySivXQ1kiZa9yDfZZk=;NnmMdAIMvpRWdvJu/Z+bCA=="
 ---
 

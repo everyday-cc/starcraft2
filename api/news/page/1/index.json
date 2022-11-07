@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-11-06-phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox.md",
-      "title": "Phil Spencer Is Keen On The Idea Of Reviving StarCraft And Warcraft For Xbox",
-      "excerpt": "Xbox head Phil Spencer loves the idea of reviving Blizzard RTS games like StarCraft and Warcraft, but the road to doing so is long and comlex.",
+      "path": "_news/2022-11-07-xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcraft.md",
+      "title": "Xbox Head Phil Spencer Is Excited About Possibility of Reviving Old Titles Like StarCraft and Warcraft",
+      "excerpt": "Xbox CEO Phil Spencer has said that there is a possibility of revisiting old titles such as StarCraft or Warcraft. With the Activision Blizzard purchase, there are many questions regarding the future of these classic titles.",
       "sourceUrl": null,
-      "webUrl": "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/",
-      "originalUrl": "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/",
+      "webUrl": "https://in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra",
+      "originalUrl": "https://in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 181,
       "tags": null,
       "images": [
         {
-          "url": "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/11/07/hero-image.jpg?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
+          "url": "https://sm.ign.com/t/ign_in/video/b/blizzard-r/blizzard-rewards-fan-for-returning-starcraft-source-code-ign_vxtv.620.jpg",
+          "width": 620,
+          "height": 348,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/amp/",
-      "cdnAmpWebUrl": "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/amp/",
-      "publishedDateTime": "2022-11-06T03:48:00-08:00",
+      "ampWebUrl": "https://in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra?amp=1",
+      "cdnAmpWebUrl": "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra?amp=1",
+      "publishedDateTime": "2022-11-06T22:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Kotaku Australia",
-        "domain": "kotaku.com.au",
-        "images": null,
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

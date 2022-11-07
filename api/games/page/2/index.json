@@ -4,6 +4,36 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-zesty-mind-games-vs-rogue-best-of-5.md",
+      "title": "StarCraft 2: Zesty MIND GAMES vs Rogue! (Best-of-5)",
+      "excerpt": "Fun best-of-5 series of professional StarCraft 2 between Zest and Rogue. Zest decides to confuse his opponent in any way he can think of, and try to win mostly based off of mind games.  Zest vs soO: https://youtu.be/nQJJ-2RhILc  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zesty-mind-games-vs-rogue-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zesty-mind-games-vs-rogue-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=l0Ju9PIHqQo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l0Ju9PIHqQo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M8S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 145,
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-01T01:22:54-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-holdout-challenge.md",
       "title": "StarCraft 2 - How Quickly Can SCARLETT Dispose Of Noobs? | Holdout Challenge",
       "excerpt": "We paid Scarlett to 1v1 noobs. The challenge: the noobs needed to stay in the match as long as possible. Scarlett unleashed her cheesy plays to stop the clock. This Holdout Challenge was a part of  PiG Sty Festival 2021 https://www.pigstarcraft.com/about/pig-sty-festival/  🐷 https://www.patreon.com/PiGSC2",
@@ -139,45 +169,6 @@
       "publishedDateTime": "2022-10-14T04:49:12-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-rank-1-vs-rank-2-serral-vs-maru.md",
-      "title": "StarCraft 2: RANK 1 vs RANK 2 - Serral vs Maru!",
-      "excerpt": "Top level game of professional StarCraft 2 between Serral (Zerg) and Maru (Terran). This is a game of top level SC2 between the current number 1 and the number 2 pro gamers in the world.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-rank-1-vs-rank-2-serral-vs-maru/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-rank-1-vs-rank-2-serral-vs-maru/",
-      "originalUrl": "https://youtube.com/watch?v=2eBVQpy5isU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2eBVQpy5isU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 138,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2eBVQpy5isU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-26T03:35:36-07:00"
-    },
-    {
       "path": "_games/pig-bm-zerg-offensive-ggs-too-early-lmao-king-of-cannons-20-starcraft-2.md",
       "title": "BM Zerg offensive GGs too early LMAO | King of Cannons #20 - StarCraft 2",
       "excerpt": "Cannon rushes all day erry day! Watch printF, the KING of Cannons, do what he does best on the StarCraft 2 ladder  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf PrintF’s youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng",
@@ -301,36 +292,6 @@
       "publishedDateTime": "2022-08-24T19:41:45-07:00"
     },
     {
-      "path": "_games/pig-how-quickly-can-scarlett-dispose-of-maphackers-holdout-challenge-starcraft-2.md",
-      "title": "How quickly can SCARLETT dispose of MAPHACKERS? | Holdout Challenge - StarCraft 2",
-      "excerpt": "We paid Scarlett to do the Maphacker Challenge - like a Holdout Challenge, but noobs now have MAPHACKS!  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-scarlett-dispose-of-maphackers-holdout-challenge-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-scarlett-dispose-of-maphackers-holdout-challenge-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=Jvs8MkVcDPU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jvs8MkVcDPU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 126,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Jvs8MkVcDPU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-24T20:57:51-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
       "title": "StarCraft 2: SERRAL vs MARU! (Best-of-7)",
       "excerpt": "Merry Christmas everyone! The two best players currently in StarCraft 2 face off in a best-of-7 series. Serral (Zerg) takes on Maru (Terran). This is the Grand Finals of King of Battles 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
@@ -399,6 +360,35 @@
       "publishedDateTime": "2022-11-03T20:36:28-07:00"
     },
     {
+      "path": "_games/pig-he-asked-for-macro-then-rushed-me-mac-or-cheese-6-starcraft-2.md",
+      "title": "He asked for Macro then RUSHED ME! | Mac or Cheese #6 - StarCraft 2",
+      "excerpt": "I secretly played a few games on a dirty barcode account and offered my StarCraft 2 opponents a choice: Macro or Cheese? How the game plays out is up to them!  Watch the Full Playlist: https://youtube.com/playlist?list=PLFUDU8AOevUfPxBiGAdbbg9sRfRF9ZV28 -- 🐷 Second Channel for Learning StarCraft 2:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-he-asked-for-macro-then-rushed-me-mac-or-cheese-6-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-he-asked-for-macro-then-rushed-me-mac-or-cheese-6-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=rVlyNKuaXE0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rVlyNKuaXE0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 120,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rVlyNKuaXE0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-28T23:34:30-07:00"
+    },
+    {
       "path": "_games/pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-starcraft-2.md",
       "title": "How to beat the 1v7 INSANE AI Challenge (no, Beastyqt has not done it) - StarCraft 2",
       "excerpt": "I have challenged StarCraft 2 Pros to take on 7 INSANE Cheater AIs at once! Serral has said it is impossible unless maybe they're all Zergs. After Spirit (Soul) tried it first, the next person brave enough to try it is PiLiPiLi, a Protoss player. He took on 7 Random insane AIs all on Any Build. Then",
@@ -457,82 +447,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-24T03:31:53-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime.md",
-      "title": "StarCraft 2: BEST PRO Game of 2022 - Serral vs ShoWTimE!",
-      "excerpt": "Professional match of top level StarCraft 2 between Serral (Zerg) and ShoWTimE (Protoss). This is in my opinion the best pro game of SC2 of 2022 so far. Ridiculously close game between two of the best European pro gamers.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=cbQw9rvkado",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cbQw9rvkado\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 115,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cbQw9rvkado/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-05T04:02:46-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-cheesy-games-no-workers-no-problems-nightmare-vs-trigger.md",
-      "title": "StarCraft 2: CHEESY GAMES - No Workers, No Problems! (NightMare vs Trigger)",
-      "excerpt": "Best-of-5 series of StarCraft 2 between trigger (Protoss) and NightMare (Protoss). This cheesy series of StarCraft 2 is the Grand Finals of the ESL Open Cup 139 Americas.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cheesy-games-no-workers-no-problems-nightmare-vs-trigger/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cheesy-games-no-workers-no-problems-nightmare-vs-trigger/",
-      "originalUrl": "https://youtube.com/watch?v=Zgz-rZDnXbQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zgz-rZDnXbQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M58S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 113,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Zgz-rZDnXbQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-14T09:23:30-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-darks-protoss-vs-scarletts-terran-2v2.md",
@@ -709,6 +623,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-11T05:45:43-07:00"
+    },
+    {
+      "path": "_games/pig-how-quickly-can-scarlett-dispose-of-maphackers-holdout-challenge-starcraft-2.md",
+      "title": "How quickly can SCARLETT dispose of MAPHACKERS? | Holdout Challenge - StarCraft 2",
+      "excerpt": "We paid Scarlett to do the Maphacker Challenge - like a Holdout Challenge, but noobs now have MAPHACKS!  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-scarlett-dispose-of-maphackers-holdout-challenge-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-scarlett-dispose-of-maphackers-holdout-challenge-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=Jvs8MkVcDPU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jvs8MkVcDPU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M35S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 101,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Jvs8MkVcDPU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-24T20:57:51-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-back-to-back-battlecruiser-battles-maru-vs-dark.md",
@@ -1025,6 +969,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-02-27T09:00:27-08:00"
+    },
+    {
+      "path": "_games/pig-when-youre-so-tilted-you-think-a-mirror-matchup-is-imbalanced-salt-mines-1-sc2.md",
+      "title": "When you’re so TILTED you think a mirror matchup is imbalanced | Salt Mines #1 - SC2",
+      "excerpt": "*NEW SHOW* The Salt Mines: Everyone has encountered a salty opponent on the ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty. -- 🐷 Second Channel for",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-youre-so-tilted-you-think-a-mirror-matchup-is-imbalanced-salt-mines-1-sc2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-youre-so-tilted-you-think-a-mirror-matchup-is-imbalanced-salt-mines-1-sc2/",
+      "originalUrl": "https://youtube.com/watch?v=1vjvR4nEJr8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1vjvR4nEJr8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M38S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 92,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1vjvR4nEJr8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-03-03T19:58:36-08:00"
     }
   ],
   "nextPage": 3

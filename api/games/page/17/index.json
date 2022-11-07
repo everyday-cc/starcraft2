@@ -4,44 +4,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-tons-of-nukes-in-a-pro-game.md",
-      "title": "StarCraft 2: TONS OF NUKES IN A PRO GAME!",
-      "excerpt": "An incredible match between soO and INnoVation. Subscribe for more videos: http://lowko.tv/youtube Macro Wars: https://goo.gl/1c32tn  Tactical Nukes were usually considered to be mostly a unique mechanic. These days however, it gets used more and more in professional games and in this one... Tactical",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-tons-of-nukes-in-a-pro-game/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-tons-of-nukes-in-a-pro-game/",
-      "originalUrl": "https://youtube.com/watch?v=FcnhekTNHPg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FcnhekTNHPg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M39S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FcnhekTNHPg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-03-06T01:32:40-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-top-level-protoss-vs-terran-trap-vs-ty.md",
       "title": "StarCraft 2: TOP-LEVEL PROTOSS VS TERRAN! (Trap vs TY)",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between Trap and TY. While TY is overall higher ranked than Trap, Trap's Protoss versus Terran matchup is the best in the world. In this series of games we see both players open up similarly in all matches, but with a twist every time.  Salty Lowko on Purity",
@@ -465,39 +427,6 @@
       "publishedDateTime": "2022-06-02T13:23:09-07:00"
     },
     {
-      "path": "_games/pig-3-cheeses-in-16-minutes-24-seconds-king-of-cannons-13-starcraft-2.md",
-      "title": "3 CHEESES IN 16 MINUTES 24 SECONDS!? | King of Cannons #13 - StarCraft 2",
-      "excerpt": "PrintF does not disappoint with this trio of cheeses for each match up! Chapters: 0:00 Game 1 6:04 Game 2 15:22 Game 3  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf -- 🐷 Like my videos?",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-3-cheeses-in-16-minutes-24-seconds-king-of-cannons-13-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-3-cheeses-in-16-minutes-24-seconds-king-of-cannons-13-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=dblK383xEk0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dblK383xEk0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M6S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "tags": [
-        "Cheese"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dblK383xEk0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-05T00:41:13-08:00"
-    },
-    {
       "path": "_games/pig-300-movement-speed-is-bonkers-pigs-laboratory-starcraft-2.md",
       "title": "300% Movement Speed is BONKERS! | PiG's Laboratory - StarCraft 2",
       "excerpt": "As part of PiG's Laboratory, I challenged StarCraft 2 pros to play with 300% movement speed while everything else remained the same. The game looks ridiculouslyT funny. Someone play the Benny Hill song! Check out the PiG's Laboratory playlist: https://youtube.com/playlist?list=PLFUDU8AOevUd-zdmPIHGBi7xWwtua9Gtr",
@@ -851,6 +780,39 @@
       "publishedDateTime": "2022-08-24T23:27:31-07:00"
     },
     {
+      "path": "_games/pig-i-swear-this-has-never-happened-before-depot-dysfunction-the-king-of-cannons-7-starcraft-2.md",
+      "title": "\"I Swear this has never happened before\" - Depot Dysfunction | The King of Cannons #7 - StarCraft 2",
+      "excerpt": "The King of Cannons! Be sure to follow him on: Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-i-swear-this-has-never-happened-before-depot-dysfunction-the-king-of-cannons-7-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-i-swear-this-has-never-happened-before-depot-dysfunction-the-king-of-cannons-7-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=mU9VvLOo--E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mU9VvLOo--E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M49S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "tags": [
+        "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mU9VvLOo--E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-01-05T08:24:34-08:00"
+    },
+    {
       "path": "_games/pig-is-this-the-cheesiest-series-of-all-time-starcraft-2.md",
       "title": "Is this the CHEESIEST series of all time? - StarCraft 2",
       "excerpt": "Subscribe to @PiG Casts for more Pro videos 🐷 I believe I have found the cheesiest pro series ever in this best of 5 match between Astrea (Protoss) and Percival (Terran) from Wardi's tournament -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for daily",
@@ -937,6 +899,38 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-14T12:00:08-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-19-minute-tvz-musketeer-transition-the-florencio-files-158.md",
+      "title": "StarCraft 2 - 19 Minute TvZ Musketeer Transition | The Florencio Files #158",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. Get ready for a crazy Terran versus Zerg musketeer transition!  Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-19-minute-tvz-musketeer-transition-the-florencio-files-158/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-19-minute-tvz-musketeer-transition-the-florencio-files-158/",
+      "originalUrl": "https://youtube.com/watch?v=q51u0JFnhlU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q51u0JFnhlU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M51S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q51u0JFnhlU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-26T14:00:11-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-2-starport-raven-is-legit-diamond-in-the-ruff-36.md",

@@ -144,6 +144,20 @@ related:
         width: 1600
         height: 896
         isCached: true
+  - title: "Phil Spencer Wants To Revive Starcraft"
+    excerpt: "Phil Spencer comments on the future of Starcraft should the Activision deal proceed, and fans ought to be excited!"
+    publishedDateTime: 2022-11-07T22:32:00Z
+    webUrl: "https://gameranx.com/updates/id/396380/article/phil-spencer-wants-to-revive-starcraft/"
+    type: article
+    provider:
+      name: Gameranx
+      domain: gameranx.com
+    quality: 37
+    images:
+      - url: "https://gameranx.com/wp-content/uploads/2022/04/Starcraft-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Xbox boss wants to bring StarCraft back"
     excerpt: "Phil Spencer, head of Microsoft’s gaming division, is all-for bringing StarCraft back into the limelight. “The first thing I would say is, I’m not allowed to make any decisions about what happens at Blizzard or Activision or King. So this is all just ..."
     publishedDateTime: 2022-11-07T17:29:00Z

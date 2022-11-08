@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Xbox Boss Weighs In On The Future Of StarCraft"
-excerpt: "Xbox boss Phil Spencer weighed in on the future of StarCraft, expressing interest in restarting the series with Microsoft's power."
-publishedDateTime: 2022-11-07T14:01:00Z
-originalUrl: "https://www.svg.com/1089782/xbox-boss-weighs-in-on-the-future-of-starcraft/"
-webUrl: "https://www.svg.com/1089782/xbox-boss-weighs-in-on-the-future-of-starcraft/"
+title: "Phil Spencer Wants To Revive Starcraft"
+excerpt: "Phil Spencer comments on the future of Starcraft should the Activision deal proceed, and fans ought to be excited!"
+publishedDateTime: 2022-11-07T22:32:00Z
+originalUrl: "https://gameranx.com/updates/id/396380/article/phil-spencer-wants-to-revive-starcraft/"
+webUrl: "https://gameranx.com/updates/id/396380/article/phil-spencer-wants-to-revive-starcraft/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: svg
-  domain: svg.com
+  name: Gameranx
+  domain: gameranx.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.svg.com/img/gallery/xbox-boss-weighs-in-on-the-future-of-starcraft/l-intro-1667847570.jpg"
-    width: 1600
-    height: 896
+  - url: "https://gameranx.com/wp-content/uploads/2022/04/Starcraft-2.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -144,19 +144,19 @@ related:
         width: 2000
         height: 1270
         isCached: true
-  - title: "Phil Spencer Wants To Revive Starcraft"
-    excerpt: "Phil Spencer comments on the future of Starcraft should the Activision deal proceed, and fans ought to be excited!"
-    publishedDateTime: 2022-11-07T22:32:00Z
-    webUrl: "https://gameranx.com/updates/id/396380/article/phil-spencer-wants-to-revive-starcraft/"
+  - title: "Xbox Boss Weighs In On The Future Of StarCraft"
+    excerpt: "Xbox boss Phil Spencer weighed in on the future of StarCraft, expressing interest in restarting the series with Microsoft's power."
+    publishedDateTime: 2022-11-07T14:01:00Z
+    webUrl: "https://www.svg.com/1089782/xbox-boss-weighs-in-on-the-future-of-starcraft/"
     type: article
     provider:
-      name: Gameranx
-      domain: gameranx.com
+      name: svg
+      domain: svg.com
     quality: 37
     images:
-      - url: "https://gameranx.com/wp-content/uploads/2022/04/Starcraft-2.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.svg.com/img/gallery/xbox-boss-weighs-in-on-the-future-of-starcraft/l-intro-1667847570.jpg"
+        width: 1600
+        height: 896
         isCached: true
   - title: "Xbox boss wants to bring StarCraft back"
     excerpt: "Phil Spencer, head of Microsoft’s gaming division, is all-for bringing StarCraft back into the limelight. “The first thing I would say is, I’m not allowed to make any decisions about what happens at Blizzard or Activision or King. So this is all just ..."
@@ -215,6 +215,6 @@ related:
         height: 675
         isCached: true
 
-secured: "i90/LXnAcQtAJebnXehBnu9ecYOUVp7SeV2g+5bjWDZEoB1x/SH8LYOvqNV18ZooPXf4cTAMnSSLPWh15lVqwbf98M/W1+fgsuiuYCLoSpOlhbrJf6PLmkRg5tz0LW3ihmuY+boQXW4/6+G1RkPjw5TMYr0EKoIH+tD2bbLEJGIsGYvjEqRf78uijqGiJSCeJyr6tsZXEFXgrAbu9UpJUH6+jSJDe4DkTBivJQyWeCcx3ZoyDeLqe5ynW5ud/SBo3ql2IxfIOa/q5VA35R1wNC28QLhLjBbrFxNQaGFbAJyCgBt1WVSQeZwDPpXIi7QzRysvB6Ot0M4RqZ+mx2sQJaSGqeM3nv/sjvekvwb0TrAPaWbmM+YZv1Y+dY0l1TwK+ygEz2O7vwNFr6dR1U1Y/VjMC2exvU/cJJZAbtwXAxgiwxSghax1x72Imzl5S22tEB9u0LNoXqf1/yo+rKbDQcqoftiVlgamYiS8W23cbyphAOzCRBlg6UnjCdp+zmi0N4Whuevp+eSfSY3Ti8fulw==;S5IfFEIAXk8bj/ctp5q+LA=="
+secured: "TH/FfdGv/UlxYJUN9RfRLJkxOGlhsYLjd0U2/oPpnRohiNRcs/3EMAhGSDRFZk82gMPiv0BHGHSIHGUwDq+larGc3oUvAMOH8wy/d2yXvqo394bim1X3LPvXEtrcz4G8NSI3ODf2q2QQ49D2y+9q5ES4p/ZINgfunVWoGZpBTMgQZgbY074PxMfMfOERUzola6sdFA8gSa1Qsf16+rkIZHC5Rr6pnSMCvRC+x86zVBNn6MXQU6reVPcZ6XQ3ZP7HPhciZiPIY9jqixTq1Luq/EtHQOVggQ/6kM9kmwjy3/18NokVQM+/Kuypg+DHU4LaHwC4sYwSEbm6yu7ZQFGFEce6kFKRhtYLXzwWr4iL2SQ=;w7wM2S+5kJDXJqZI0Os5lw=="
 ---
 

@@ -158,6 +158,20 @@ related:
         width: 1600
         height: 896
         isCached: true
+  - title: "Phil Spencer Wants To Revive Starcraft"
+    excerpt: "Phil Spencer comments on the future of Starcraft should the Activision deal proceed, and fans ought to be excited!"
+    publishedDateTime: 2022-11-07T22:32:00Z
+    webUrl: "https://gameranx.com/updates/id/396380/article/phil-spencer-wants-to-revive-starcraft/"
+    type: article
+    provider:
+      name: Gameranx
+      domain: gameranx.com
+    quality: 37
+    images:
+      - url: "https://gameranx.com/wp-content/uploads/2022/04/Starcraft-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Phil Spencer Wants to Talk to Blizzard About RTS Games Like StarCraft - News"
     excerpt: "Spencer said he is not allowed to make any decisions about what happens at Activision Blizzard at this time, so it is only talk. However, he would like to see the return of classic RTS games from Blizzard like StarCraft and WarCraft."
     publishedDateTime: 2022-11-07T18:17:00Z

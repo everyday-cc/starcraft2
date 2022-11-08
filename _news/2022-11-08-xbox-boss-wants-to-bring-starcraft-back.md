@@ -172,6 +172,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Phil Spencer Would Love to See More StarCraft From Blizzard"
+    excerpt: "Currently. With the interview mostly covering the 25th anniversary of Age of Empires (check out our interview here), Phil was asked about the potential for the return of StarCraft. “Not only StarCraft, but WarCraft, when you think about the heritage of ..."
+    publishedDateTime: 2022-11-08T00:17:00Z
+    webUrl: "https://www.ausgamers.com/news/read/3643079/phil-spencer-would-love-to-see-more-starcraft-from-blizzard"
+    type: article
+    provider:
+      name: Aus Games
+      domain: ausgamers.com
+    quality: 37
+    images:
+      - url: "http://www.ausgamers.com/gameres/6567/images/695/StarCraft_II_Legacy_of_the_Void_BlizzCon_2014_Korhal_04.jpg"
+        width: 695
+        height: 390
+        isCached: true
   - title: "Phil Spencer Wants to Talk to Blizzard About RTS Games Like StarCraft - News"
     excerpt: "Spencer said he is not allowed to make any decisions about what happens at Activision Blizzard at this time, so it is only talk. However, he would like to see the return of classic RTS games from Blizzard like StarCraft and WarCraft."
     publishedDateTime: 2022-11-07T18:17:00Z

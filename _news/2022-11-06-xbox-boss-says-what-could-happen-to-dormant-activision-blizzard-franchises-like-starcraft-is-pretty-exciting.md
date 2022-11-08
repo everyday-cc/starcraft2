@@ -172,6 +172,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Phil Spencer Would Love to See More StarCraft From Blizzard"
+    excerpt: "Currently. With the interview mostly covering the 25th anniversary of Age of Empires (check out our interview here), Phil was asked about the potential for the return of StarCraft. “Not only StarCraft, but WarCraft, when you think about the heritage of ..."
+    publishedDateTime: 2022-11-08T00:17:00Z
+    webUrl: "https://www.ausgamers.com/news/read/3643079/phil-spencer-would-love-to-see-more-starcraft-from-blizzard"
+    type: article
+    provider:
+      name: Aus Games
+      domain: ausgamers.com
+    quality: 37
+    images:
+      - url: "http://www.ausgamers.com/gameres/6567/images/695/StarCraft_II_Legacy_of_the_Void_BlizzCon_2014_Korhal_04.jpg"
+        width: 695
+        height: 390
+        isCached: true
   - title: "Xbox boss wants to bring StarCraft back"
     excerpt: "Phil Spencer, head of Microsoft’s gaming division, is all-for bringing StarCraft back into the limelight. “The first thing I would say is, I’m not allowed to make any decisions about what happens at Blizzard or Activision or King. So this is all just ..."
     publishedDateTime: 2022-11-07T17:29:00Z

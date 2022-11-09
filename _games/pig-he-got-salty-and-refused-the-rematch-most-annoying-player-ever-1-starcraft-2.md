@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=_RkZCs6LGdE
 type: video
 length: PT39M41S
 publishedDateTime: 2022-08-04T10:50:00Z
-heat: 72
+heat: 68
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_RkZCs6LGdE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "KdRuGODCL9xGJInulsoCYhc9wz89FoqT8+pNHw9vN76hgOFslPuSVYvsa1eC4rwPh8MgKiEYkpoiIP50PHg5xGBLe7yBps6HwiNUM00/wzdNDNz2vanaMhWp0oIgBR27z+XRB6OKKFTbqsEOpkIxFoz/fmSGRkBYSTc6J5qSNiBw4Yz9/i2br66QmeTUe8gtC6AerMvX90e+LFQ3pL104KNI39kOTSq9B/T8rOlXZId6lGmTnZxubFuNF2D3To0G3GY19nhgz7Vumszd093QUUCdwLwooOFmuW2D/QdoDveBqMq8mcSVb64z+HY1OzxsgyfVMoTCS1oXhi7J4kB+bZPED1EpGdSBjevVbbIerr928lRlWJ+Rs84UzBJtf+FFrTWISAxscVYlnrKYZye92KPfLVzGwHAKySnIq6mGb34=;tdOiRNXvDuRiA6F+/3dz3w=="
+secured: "dFiom/Ovilsq6GPygzgn6Xz0Qm4qhzKMutXXbaBJKMVHdiRA7720z5RptLOPUfh691shcvYEqr8/XD45YGzwgPwfimQw3SrQL2xwVcwEema8U0dh9WrXe/x71GrmHqNdyjxiUtaHvgmuZkTLBaqI9av1X11EU2W7MhpEZcNzufP8tdVE7bgDC4o/ms5v+InqyBLtBgTceg8u9rhsoBoPAD+/IAfYpvXMW5t+YcoV7dT6m/gkjsfjuT3Koxnn8rU5ApYSNumF4sNtnMRe74aCVapov6v8HcIO8TvGKGou6bnz9xyApAuvxPgCmKSOC+hno7MTl1w66YWjxbXt3RWl5sWBKNImF9xrO7rybw7aYIwghLz97arbKykgcb+Sjoa0w4Emx+Pdo4d5G87kUGaZm4C47wltTLKOTS1KcQ/i8Ho=;1xFowLHPjRvNCWDZqhXkjQ=="
 ---
 

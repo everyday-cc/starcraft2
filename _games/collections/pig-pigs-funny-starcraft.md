@@ -944,6 +944,7 @@ items:
   - pig-he-asked-for-macro-then-rushed-me-mac-or-cheese-6-starcraft-2
   - pig-i-faced-uthermals-meme-builds-in-a-pro-tournament-starcraft-2
   - pig-new-world-record-1-protoss-v-7-insane-protoss-ai-by-goblin-pig-reacts-starcraft-2
+  - pig-lets-make-the-fastest-nydus-swarm-host-build-even-dirtier-starcraft-2
   - pig-protoss-was-not-happy-with-this-bc-all-in-rofl-most-annoying-player-6-starcraft-2
   - pig-protoss-hater-starts-whining-before-anything-even-happens-salt-mines-16-starcraft-2
   - pig-harstems-brain-breaks-in-the-most-insane-sc2-game-ever-vs-smooth-brain-boanaan-starcraft-2
@@ -962,7 +963,7 @@ items:
   - pig-bm-zerg-offensive-ggs-too-early-lmao-king-of-cannons-20-starcraft-2
   - pig-this-crazy-double-swarm-host-strategy-guarantees-chaos-smooth-brain-stephen-3-starcraft-2
   - pig-i-ultra-nydus-rushed-my-brother-starcraft-2
-  - pig-i-was-bribed-to-one-shot-a-base-using-ravagers-only-strategy-bribes-starcraft-2
+  - pig-how-many-ravagers-one-shot-a-command-center-strategy-bribes-starcraft-2
 
 topics:
   - StarCraft 2

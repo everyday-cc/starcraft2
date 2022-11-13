@@ -4,44 +4,6 @@
   "page": 31,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-cast-marines-siege-tanks.md",
-      "title": "StarCraft 2 Cast: MARINES & SIEGE TANKS!",
-      "excerpt": "An epic Terran versus Terran between aLive and HeroMarine. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/QHyc0B  Terran versus Terran is a very complicated match-up. In this video I talk about the different strategies that are available, as well as cast a professional",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-marines-siege-tanks/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cast-marines-siege-tanks/",
-      "originalUrl": "https://youtube.com/watch?v=wuin6hbzPQI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wuin6hbzPQI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M31S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wuin6hbzPQI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-02-28T04:45:57-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-cast-mass-overlord-drops.md",
       "title": "StarCraft 2 Cast: MASS Overlord Drops!",
       "excerpt": "An awesome match of Zerg versus Terran between KeeN and True. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/LsmBuQ  In this professional match of Zerg versus Terran in StarCraft 2, the Terran player decides to go for a Mech based strategy. However, instead",
@@ -1135,6 +1097,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-13T01:56:07-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-clash-of-playstyles.md",
+      "title": "StarCraft 2: Clash of Playstyles!",
+      "excerpt": "A clash of playstyles in Zerg vs Zerg. Subscribe for more videos: http://lowko.tv/youtube The supreme late game: https://goo.gl/oHhD3V  This is a professional match between Reynor and Snute. Both players however, have a completely different playstyle.  Support me on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-clash-of-playstyles/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-clash-of-playstyles/",
+      "originalUrl": "https://youtube.com/watch?v=gCrDMR9cS8U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gCrDMR9cS8U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M40S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gCrDMR9cS8U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-01-25T04:59:18-08:00"
     }
   ],
   "nextPage": 32

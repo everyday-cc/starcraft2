@@ -964,6 +964,7 @@ items:
   - pig-this-crazy-double-swarm-host-strategy-guarantees-chaos-smooth-brain-stephen-3-starcraft-2
   - pig-i-ultra-nydus-rushed-my-brother-starcraft-2
   - pig-how-many-ravagers-one-shot-a-command-center-strategy-bribes-starcraft-2
+  - pig-silver-league-toss-is-enraged-at-this-rush-salt-mines-20-starcraft-2
 
 topics:
   - StarCraft 2

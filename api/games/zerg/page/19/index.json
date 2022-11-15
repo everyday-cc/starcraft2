@@ -4,6 +4,98 @@
   "page": 19,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-slow-zergling-doom-drop-florencio-files-188.md",
+      "title": "StarCraft 2 - SLOW ZERGLING DOOM DROP | Florencio Files #188",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  Want the world to see you taking your opponent to Dicktown? You can now hire PiG to cast your game Florencio Files Style! Email pigrandom88@gmail.com",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-slow-zergling-doom-drop-florencio-files-188/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-slow-zergling-doom-drop-florencio-files-188/",
+      "originalUrl": "https://youtube.com/watch?v=6PcjvhWP6c8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6PcjvhWP6c8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M39S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6PcjvhWP6c8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-28T09:00:03-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-sneaky-burrowed-swarm-hosts-florencio-files-174.md",
+      "title": "StarCraft 2 - SNEAKY BURROWED SWARM HOSTS! | Florencio Files #174",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-sneaky-burrowed-swarm-hosts-florencio-files-174/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-sneaky-burrowed-swarm-hosts-florencio-files-174/",
+      "originalUrl": "https://youtube.com/watch?v=3us1amMK0eU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3us1amMK0eU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M1S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3us1amMK0eU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-08T08:00:04-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-speed-banshees-vs-nydus-roach-icyfar-g2-social-distancing.md",
+      "title": "StarCraft 2 - SPEED BANSHEES vs NYDUS ROACH | ICYFAR G2 Social Distancing",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they leave at least one empty base between each of your expansions (Social Distancing)! Here’s a fun game of zerg versus terran completing the challenge in humorous fashion.   NEW ICYFAR",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-speed-banshees-vs-nydus-roach-icyfar-g2-social-distancing/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-speed-banshees-vs-nydus-roach-icyfar-g2-social-distancing/",
+      "originalUrl": "https://youtube.com/watch?v=s2b9FY-laFc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s2b9FY-laFc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M57S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/s2b9FY-laFc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-terran-vs-zerg-exorcist-icyfar-g3-trend-breaker.md",
       "title": "StarCraft 2 - TERRAN VS ZERG EXORCIST | ICYFAR G3 Trend-Breaker",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they buck the norms and use an off-meta comp to confuse their enemies (Trend-Breaker)! Here’s a fun game of zerg versus terran completing the challenge in humorous fashion.   NEW ICYFAR",
@@ -649,37 +741,6 @@
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
     },
     {
-      "path": "_games/pig-zergs-sneaky-strategy-to-catch-terran-out-icyfar-blood-sacrifice-starcraft-2.md",
-      "title": "Zerg’s SNEAKY strategy to catch Terran out | ICYFAR \"Blood Sacrifice\" - StarCraft 2",
-      "excerpt": "🤯 NEW ICYFAR CHALLENGE: Tryhard - Be overly aggressive, like way too aggressive. Extra points for creativity. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 3rd October -- 🤯 In this week’s episode of I Cast Your",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-zergs-sneaky-strategy-to-catch-terran-out-icyfar-blood-sacrifice-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-zergs-sneaky-strategy-to-catch-terran-out-icyfar-blood-sacrifice-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=BfCTQw-Z6Ws",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BfCTQw-Z6Ws\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M33S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BfCTQw-Z6Ws/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-17T23:07:00-07:00"
-    },
-    {
       "path": "_games/sc2hl-big-banks-soo-vs-rogue-wcs-global-finals.md",
       "title": "BIG BANKS - soO vs Rogue - WCS Global Finals",
       "excerpt": "The highlights from the craziest game at the WCS Global Finals - soO vs Rogue in a Zerg vs Zerg.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload other content, such as trailers &",
@@ -716,45 +777,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-10-16T07:22:02-07:00"
-    },
-    {
-      "path": "_games/sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s.md",
-      "title": "DARK SHRINE VS DARK SHRINE - sOs vs herO - GSL Code S",
-      "excerpt": "A crazy Best of 3 between sOs vs herO, Both going for Dark shrine rushes in the first game! Some great Cheddar cheese from both players  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s/",
-      "originalUrl": "https://youtube.com/watch?v=4stL2OicyNw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4stL2OicyNw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M48S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4stL2OicyNw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-03-03T15:41:54-08:00"
     },
     {
       "path": "_games/sc2hl-epic-tvz-firecake-vs-masa-dreamhack-open.md",
@@ -950,45 +972,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-07-27T09:48:48-07:00"
-    },
-    {
-      "path": "_games/sc2hl-so-many-nukes-in-40-min-game-starcraft-2-serral-vs-innovation.md",
-      "title": "SO MANY NUKES in 40 MIN+ GAME! - Starcraft 2: Serral vs Innovation",
-      "excerpt": "Serral & Innovation play a looong Terran vs Zerg, bleeding out nearly the entire map. Who will survive? From Starcraft 2 IEM Katowice  Subscribe bitches   ► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL ► Submit your REPLAYS! - http://bit.ly/SC2HLsubmit   ► SUBSCRIBE to SC2HL!",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-so-many-nukes-in-40-min-game-starcraft-2-serral-vs-innovation/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-so-many-nukes-in-40-min-game-starcraft-2-serral-vs-innovation/",
-      "originalUrl": "https://youtube.com/watch?v=aQO7TL229DM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aQO7TL229DM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M10S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aQO7TL229DM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-06T07:05:01-08:00"
     }
   ],
   "nextPage": 20

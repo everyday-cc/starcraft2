@@ -965,6 +965,7 @@ items:
   - pig-i-ultra-nydus-rushed-my-brother-starcraft-2
   - pig-how-many-ravagers-one-shot-a-command-center-strategy-bribes-starcraft-2
   - pig-silver-league-toss-is-enraged-at-this-rush-salt-mines-20-starcraft-2
+  - pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2
 
 topics:
   - StarCraft 2

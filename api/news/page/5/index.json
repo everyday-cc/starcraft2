@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-28-balance-update-april-28-2020.md",
+      "title": "Balance Update - April 28, 2020",
+      "excerpt": "StarCraft II has been updated with balance changes, and check out the detail here!",
+      "sourceUrl": null,
+      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23405326/balance-update-april-28-2020",
+      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23405326/balance-update-april-28-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-starcraft-story-primer.md",
       "title": "StarCraft Story Primer",
       "excerpt": "Pop quiz, hotshot: are the setting and story of StarCraft part of the military sci-fi, space opera, or sci-fi horror genres? If you answered, “All three!” then congratulations—you really know your science fiction subgenres. There’s a lot going on in the StarCraft universe, and it’s not always easy to keep it all straight. If you’re looking for a refresher—or just a simple way to explain StarCraft’s story to your friends—this blog has you covered.",

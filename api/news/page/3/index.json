@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-25-rts-game-from-ex-starcraft-devs-wont-streamline-the-genre.md",
+      "title": "RTS game from ex-Starcraft devs won't streamline the genre",
+      "excerpt": "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamesradar.com/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/",
+      "originalUrl": "https://www.gamesradar.com/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/mwo3qS5qzwJn75uB3Lio7b-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/",
+      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/",
+      "publishedDateTime": "2021-03-25T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-starcraft-ii-battle-chest-battlenet-key-global.md",
       "title": "StarCraft II Battle Chest Battle.net Key GLOBAL",
       "excerpt": "Battle Chest includes: • StarCraft II Wings of Liberty • StarCraft II Heart of the Swarm Expansion Starcraft II:",
@@ -1056,57 +1098,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-starcraft-ii-update-october-15-2020.md",
-      "title": "StarCraft II Update - October 15, 2020",
-      "excerpt": "We want to let you know about a development change we’re making for StarCraft II.",
-      "sourceUrl": null,
-      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23544726/starcraft-ii-update-october-15-2020",
-      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23544726/starcraft-ii-update-october-15-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ay/AYJ0P9WLD7IP1602720127239.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-16-starcraft-ii-5010-hotfix-patch-notes.md",
+      "title": "StarCraft II 5.0.10 Hotfix Patch Notes",
+      "excerpt": "Patch 5.0.10 Hotfix has arrived which contains a number of co-op bugfixes that were gathered by the community. Check out the detail!",
+      "sourceUrl": null,
+      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23882276/starcraft-ii-5-0-10-hotfix-patch-notes",
+      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23882276/starcraft-ii-5-0-10-hotfix-patch-notes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T13:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcraft.md",
       "title": "Xbox Head Phil Spencer Is Excited About Possibility of Reviving Old Titles Like StarCraft and Warcraft",
       "excerpt": "Xbox CEO Phil Spencer has said that there is a possibility of revisiting old titles such as StarCraft or Warcraft. With the Activision Blizzard purchase, there are many questions regarding the future of these classic titles.",
@@ -1151,57 +1202,6 @@
       "type": "article",
       "ampWebUrl": "https://www.gamespot.com/amp-articles/free-prologue-missions-for-starcraft-2-legacy-of-v/1100-6431212/",
       "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/free-prologue-missions-for-starcraft-2-legacy-of-v/1100-6431212/",
-      "publishedDateTime": "2022-01-13T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-starcraft-2-legacy-of-the-void-sells-1-million-in-24-hours.md",
-      "title": "StarCraft 2: Legacy of the Void Sells 1 Million in 24 Hours",
-      "excerpt": "Looking further into the future, Blizzard has said StarCraft III could happen, though it will depend on fan feedback. \"What the future holds really depends so much on what we hear back from players.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/starcraft-2-legacy-of-the-void-sells-1-million-in-/1100-6432299/",
-      "originalUrl": "https://www.gamespot.com/articles/starcraft-2-legacy-of-the-void-sells-1-million-in-/1100-6432299/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/mig/7/8/8/2/2797882-sc2lotv.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/starcraft-2-legacy-of-the-void-sells-1-million-in-/1100-6432299/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-2-legacy-of-the-void-sells-1-million-in-/1100-6432299/",
       "publishedDateTime": "2022-01-13T16:01:00-08:00",
       "updatedDateTime": null,
       "provider": {

@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-14-starcraft-2-legacy-of-the-void-sells-1-million-in-24-hours.md",
+      "title": "StarCraft 2: Legacy of the Void Sells 1 Million in 24 Hours",
+      "excerpt": "Looking further into the future, Blizzard has said StarCraft III could happen, though it will depend on fan feedback. \"What the future holds really depends so much on what we hear back from players.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamespot.com/articles/starcraft-2-legacy-of-the-void-sells-1-million-in-/1100-6432299/",
+      "originalUrl": "https://www.gamespot.com/articles/starcraft-2-legacy-of-the-void-sells-1-million-in-/1100-6432299/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/mig/7/8/8/2/2797882-sc2lotv.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/starcraft-2-legacy-of-the-void-sells-1-million-in-/1100-6432299/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-2-legacy-of-the-void-sells-1-million-in-/1100-6432299/",
+      "publishedDateTime": "2022-01-13T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-2022-starcraft-svx-210-io.md",
       "title": "2022 Starcraft SVX 210 IO",
       "excerpt": "If Starcraft’s SVX 210 IO looks familiar, it’s because a similar boat already resides in the manufacturer’s lineup. The difference here is that the boat is now available with sterndrive power rather than the previous outboard-only option, meaning ...",
@@ -1058,48 +1109,6 @@
       "provider": {
         "name": "BGR",
         "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-rts-game-from-ex-starcraft-devs-wont-streamline-the-genre.md",
-      "title": "RTS game from ex-Starcraft devs won't streamline the genre",
-      "excerpt": "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamesradar.com/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/",
-      "originalUrl": "https://www.gamesradar.com/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/mwo3qS5qzwJn75uB3Lio7b-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/",
-      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/",
-      "publishedDateTime": "2021-03-25T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
         "images": null,
         "publishers": null,
         "authors": null

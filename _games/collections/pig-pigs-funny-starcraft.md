@@ -957,6 +957,7 @@ items:
   - pig-the-cheap-trick-that-instantly-wins-games-pigs-filthy-adventures-starcraft-2
   - pig-bad-loser-turns-to-bullying-opponent-to-stroke-their-ego-salt-mines-18-starcraft-2
   - pig-how-quickly-can-scarlett-destroy-maphackers-holdout-challenge-starcraft-2
+  - pig-how-quickly-can-scarlett-destroy-maphackers-part-2-holdout-challenge-starcraft-2
   - pig-how-to-smash-a-shameless-maphacker-starcraft-2
   - pig-they-begged-me-not-to-cannon-rush-them-most-annoying-player-ever-7-starcraft-2
   - pig-zerg-hater-has-angry-meltdown-cos-queens-exist-salt-mines-19-starcraft-2

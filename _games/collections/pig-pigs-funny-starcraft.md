@@ -960,6 +960,7 @@ items:
   - pig-how-quickly-can-scarlett-destroy-maphackers-part-2-holdout-challenge-starcraft-2
   - pig-how-to-smash-a-shameless-maphacker-starcraft-2
   - pig-they-begged-me-not-to-cannon-rush-them-most-annoying-player-ever-7-starcraft-2
+  - pig-the-cool-creep-spread-trick-to-cover-the-entire-map-starcraft-2
   - pig-zerg-hater-has-angry-meltdown-cos-queens-exist-salt-mines-19-starcraft-2
   - pig-bm-zerg-offensive-ggs-too-early-lmao-king-of-cannons-20-starcraft-2
   - pig-this-crazy-double-swarm-host-strategy-guarantees-chaos-smooth-brain-stephen-3-starcraft-2

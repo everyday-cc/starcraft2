@@ -313,45 +313,6 @@
       "publishedDateTime": "2022-11-10T04:57:13-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-meomaikas-hilarious-zerg-builds-vs-showtime.md",
-      "title": "StarCraft 2: MeomaikA's HILARIOUS Zerg Builds vs ShoWTimE!",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between MeomaikA (Zerg) and ShoWTimE (Protoss). While I've featured ShoWTimE many times before on the YouTube channel, MeomaikA has recently been improving a lot. He's a Zerg who likes to play unorthodox strategies that somehow work out.  Support my work on",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-meomaikas-hilarious-zerg-builds-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-meomaikas-hilarious-zerg-builds-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=FDSfkJM7EvE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FDSfkJM7EvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M45S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 163,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FDSfkJM7EvE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-09T03:19:59-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-heros-cheeky-zealot-all-in-vs-serral-best-of-3.md",
       "title": "StarCraft 2: herO's CHEEKY Zealot All-in vs Serral! (Best-of-3)",
       "excerpt": "Best-of-3 series of top level StarCraft 2 between Serral and herO. In this Zerg versus Protoss we see a variety of strategies as both players try to outsmart one another.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
@@ -377,7 +338,7 @@
         "Protoss",
         "Zerg"
       ],
-      "heat": 152,
+      "heat": 142,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/YJaOGAZ5JoU/maxresdefault.jpg",
@@ -389,6 +350,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-08T04:57:28-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-meomaikas-hilarious-zerg-builds-vs-showtime.md",
+      "title": "StarCraft 2: MeomaikA's HILARIOUS Zerg Builds vs ShoWTimE!",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 between MeomaikA (Zerg) and ShoWTimE (Protoss). While I've featured ShoWTimE many times before on the YouTube channel, MeomaikA has recently been improving a lot. He's a Zerg who likes to play unorthodox strategies that somehow work out.  Support my work on",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-meomaikas-hilarious-zerg-builds-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-meomaikas-hilarious-zerg-builds-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=FDSfkJM7EvE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FDSfkJM7EvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M45S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 141,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FDSfkJM7EvE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-09T03:19:59-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime.md",
@@ -430,37 +430,6 @@
       "publishedDateTime": "2022-09-05T04:02:46-07:00"
     },
     {
-      "path": "_games/pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2.md",
-      "title": "NEW WORLD RECORD! 1 Protoss v 7 Insane ZERG AI by Goblin (PiG Reacts) - StarCraft 2",
-      "excerpt": "Like and Sub to Goblin NOW https://youtu.be/hGO4tszOnYw ~~~ I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! Here is Goblin's second world record, this time against 7 INSANE Zerg AIs -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=NfEfTFo1-Nk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NfEfTFo1-Nk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M22S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NfEfTFo1-Nk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-11T22:53:41-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",
       "title": "StarCraft 2: soO's Spine Crawler Rush vs Zest! (Best-of-5)",
       "excerpt": "Best-of-5 series of professional StarCraft 2 between soO (Zerg) and Zest (Protoss). After macro games soO decides to go for a Spine Crawler rush versus Zest.  soO vs Cure: https://youtu.be/EfILZ7FPv70 soO vs ByuN: https://youtu.be/mSL43Z7w6A4  Support my work on Patreon: https://www.patreon.com/lowkotv",
@@ -498,6 +467,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-23T11:16:38-07:00"
+    },
+    {
+      "path": "_games/pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2.md",
+      "title": "NEW WORLD RECORD! 1 Protoss v 7 Insane ZERG AI by Goblin (PiG Reacts) - StarCraft 2",
+      "excerpt": "Like and Sub to Goblin NOW https://youtu.be/hGO4tszOnYw ~~~ I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! Here is Goblin's second world record, this time against 7 INSANE Zerg AIs -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=NfEfTFo1-Nk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NfEfTFo1-Nk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H1M22S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 104,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NfEfTFo1-Nk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-11T22:53:41-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-ridiculous-strategies-bly-rushes-ultralisks-vs-protoss.md",
@@ -636,36 +636,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-03T03:36:19-07:00"
-    },
-    {
-      "path": "_games/pig-they-begged-me-not-to-cannon-rush-them-most-annoying-player-ever-7-starcraft-2.md",
-      "title": "They begged me NOT to cannon rush them | Most Annoying Player Ever #7 - StarCraft 2",
-      "excerpt": "Let's see how annoying I can be :D - Most Annoying Player Ever Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUe9Q0nTIwZiTOqYlofC3jOQ -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-they-begged-me-not-to-cannon-rush-them-most-annoying-player-ever-7-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-they-begged-me-not-to-cannon-rush-them-most-annoying-player-ever-7-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=8MA37OLaxKY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8MA37OLaxKY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 76,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8MA37OLaxKY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-29T23:07:46-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-flo-maxes-out-ground-attack-for-his-skytoss-facepalm-florencio-files-265.md",
@@ -865,6 +835,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-10-24T00:21:00-07:00"
+    },
+    {
+      "path": "_games/pig-they-begged-me-not-to-cannon-rush-them-most-annoying-player-ever-7-starcraft-2.md",
+      "title": "They begged me NOT to cannon rush them | Most Annoying Player Ever #7 - StarCraft 2",
+      "excerpt": "Let's see how annoying I can be :D - Most Annoying Player Ever Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUe9Q0nTIwZiTOqYlofC3jOQ -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-they-begged-me-not-to-cannon-rush-them-most-annoying-player-ever-7-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-they-begged-me-not-to-cannon-rush-them-most-annoying-player-ever-7-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=8MA37OLaxKY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8MA37OLaxKY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M3S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8MA37OLaxKY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-29T23:07:46-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul.md",

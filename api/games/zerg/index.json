@@ -107,7 +107,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 242,
+      "heat": 233,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/kz9M2uYcFyE/maxresdefault.jpg",
@@ -441,45 +441,6 @@
       "publishedDateTime": "2022-11-11T04:07:21-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-meomaikas-hilarious-zerg-builds-vs-showtime.md",
-      "title": "StarCraft 2: MeomaikA's HILARIOUS Zerg Builds vs ShoWTimE!",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between MeomaikA (Zerg) and ShoWTimE (Protoss). While I've featured ShoWTimE many times before on the YouTube channel, MeomaikA has recently been improving a lot. He's a Zerg who likes to play unorthodox strategies that somehow work out.  Support my work on",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-meomaikas-hilarious-zerg-builds-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-meomaikas-hilarious-zerg-builds-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=FDSfkJM7EvE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FDSfkJM7EvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M45S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 163,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FDSfkJM7EvE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-09T03:19:59-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-reynor-plays-terran-like-a-zerg.md",
       "title": "StarCraft 2: Reynor plays Terran like a Zerg!",
       "excerpt": "High level game of StarCraft 2 between Reynor (Terran) and Zerg (Cham). We have seen Reynor playing Zerg and also Protoss recently, but what about his Terran? In this game he's facing off against the winner of Dreamhack Atlanta for the Latin America region in a ladder game.  Support my work on Patreon:",
@@ -558,83 +519,6 @@
       "publishedDateTime": "2021-12-24T13:58:31-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-heros-cheeky-zealot-all-in-vs-serral-best-of-3.md",
-      "title": "StarCraft 2: herO's CHEEKY Zealot All-in vs Serral! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between Serral and herO. In this Zerg versus Protoss we see a variety of strategies as both players try to outsmart one another.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-cheeky-zealot-all-in-vs-serral-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-cheeky-zealot-all-in-vs-serral-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=YJaOGAZ5JoU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YJaOGAZ5JoU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M7S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 152,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YJaOGAZ5JoU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-08T04:57:28-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-top-tier-the-best-zerg-vs-zerg-of-the-year-best-of-5.md",
-      "title": "StarCraft 2: TOP TIER - The BEST Zerg vs Zerg... Of the Year?! (Best-of-5)",
-      "excerpt": "One of the best series of Zerg versus Zerg in StarCraft 2 that I've ever seen. A best-of-5 match between Dark and Solar. This series has a little bit of everything, macro, cheese, comebacks, crazy strategies and fantastic micro.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-tier-the-best-zerg-vs-zerg-of-the-year-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-tier-the-best-zerg-vs-zerg-of-the-year-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=_Q-6UB0k3bc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Q-6UB0k3bc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H5M41S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 148,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_Q-6UB0k3bc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-13T02:08:28-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-zesty-mind-games-vs-rogue-best-of-5.md",
       "title": "StarCraft 2: Zesty MIND GAMES vs Rogue! (Best-of-5)",
       "excerpt": "Fun best-of-5 series of professional StarCraft 2 between Zest and Rogue. Zest decides to confuse his opponent in any way he can think of, and try to win mostly based off of mind games.  Zest vs soO: https://youtu.be/nQJJ-2RhILc  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
@@ -695,6 +579,45 @@
       "publishedDateTime": "2021-11-02T00:55:49-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-heros-cheeky-zealot-all-in-vs-serral-best-of-3.md",
+      "title": "StarCraft 2: herO's CHEEKY Zealot All-in vs Serral! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Serral and herO. In this Zerg versus Protoss we see a variety of strategies as both players try to outsmart one another.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-cheeky-zealot-all-in-vs-serral-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-cheeky-zealot-all-in-vs-serral-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=YJaOGAZ5JoU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YJaOGAZ5JoU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M7S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 142,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YJaOGAZ5JoU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-08T04:57:28-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-what-he-loses-with-a-25k-bank-dark-vs-soo.md",
       "title": "StarCraft 2: WHAT?! He LOSES with a 25K BANK?! (Dark vs soO)",
       "excerpt": "Crazy ending to a game of top level SC2. Best-of-3 series of top level StarCraft 2 between Dark and soO. This is a match of South Korean Zerg versus Zerg.   Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
@@ -731,6 +654,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-21T06:35:01-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-meomaikas-hilarious-zerg-builds-vs-showtime.md",
+      "title": "StarCraft 2: MeomaikA's HILARIOUS Zerg Builds vs ShoWTimE!",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 between MeomaikA (Zerg) and ShoWTimE (Protoss). While I've featured ShoWTimE many times before on the YouTube channel, MeomaikA has recently been improving a lot. He's a Zerg who likes to play unorthodox strategies that somehow work out.  Support my work on",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-meomaikas-hilarious-zerg-builds-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-meomaikas-hilarious-zerg-builds-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=FDSfkJM7EvE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FDSfkJM7EvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M45S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 141,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FDSfkJM7EvE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-09T03:19:59-08:00"
     },
     {
       "path": "_games/pig-how-quickly-can-scarlett-destroy-maphackers-part-2-holdout-challenge-starcraft-2.md",
@@ -802,27 +764,34 @@
       "publishedDateTime": "2022-09-05T04:02:46-07:00"
     },
     {
-      "path": "_games/pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2.md",
-      "title": "NEW WORLD RECORD! 1 Protoss v 7 Insane ZERG AI by Goblin (PiG Reacts) - StarCraft 2",
-      "excerpt": "Like and Sub to Goblin NOW https://youtu.be/hGO4tszOnYw ~~~ I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! Here is Goblin's second world record, this time against 7 INSANE Zerg AIs -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=NfEfTFo1-Nk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NfEfTFo1-Nk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M22S",
+      "path": "_games/lowkotv-starcraft-2-dark-spine-crawler-rushes-reynor.md",
+      "title": "StarCraft 2: Dark SPINE CRAWLER RUSHES Reynor!",
+      "excerpt": "Dark decides to cheese Reynor in this pro match of StarCraft 2. Rather than letting the Italian Protoss player sit back and macro, he continuously attacks. In this SC2 game he starts off with an aggressive Spine Crawler Nydus Network rush.  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-dark-spine-crawler-rushes-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-dark-spine-crawler-rushes-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=4ucnp75Ln5s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4ucnp75Ln5s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M6S",
       "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
         "Zerg"
       ],
-      "heat": 111,
+      "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/NfEfTFo1-Nk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/4ucnp75Ln5s/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -830,7 +799,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-11-11T22:53:41-08:00"
+      "publishedDateTime": "2022-08-24T06:20:19-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",
@@ -870,6 +839,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-23T11:16:38-07:00"
+    },
+    {
+      "path": "_games/pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2.md",
+      "title": "NEW WORLD RECORD! 1 Protoss v 7 Insane ZERG AI by Goblin (PiG Reacts) - StarCraft 2",
+      "excerpt": "Like and Sub to Goblin NOW https://youtu.be/hGO4tszOnYw ~~~ I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! Here is Goblin's second world record, this time against 7 INSANE Zerg AIs -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=NfEfTFo1-Nk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NfEfTFo1-Nk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H1M22S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 104,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NfEfTFo1-Nk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-11T22:53:41-08:00"
     },
     {
       "path": "_games/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starlords-filthy-adventures-15-starcraft-2.md",

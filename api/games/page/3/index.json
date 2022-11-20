@@ -64,6 +64,44 @@
       "publishedDateTime": "2022-03-03T19:13:33-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-top-tier-the-best-zerg-vs-zerg-of-the-year-best-of-5.md",
+      "title": "StarCraft 2: TOP TIER - The BEST Zerg vs Zerg... Of the Year?! (Best-of-5)",
+      "excerpt": "One of the best series of Zerg versus Zerg in StarCraft 2 that I've ever seen. A best-of-5 match between Dark and Solar. This series has a little bit of everything, macro, cheese, comebacks, crazy strategies and fantastic micro.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-tier-the-best-zerg-vs-zerg-of-the-year-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-tier-the-best-zerg-vs-zerg-of-the-year-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=_Q-6UB0k3bc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Q-6UB0k3bc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H5M41S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 88,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_Q-6UB0k3bc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-13T02:08:28-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-stuck-between-a-tempest-and-a-cannon-place-florencio-files-264.md",
       "title": "StarCraft 2 - Stuck between a Tempest and a Cannon Place | Florencio Files #264",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
@@ -769,36 +807,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-27T19:49:36-07:00"
-    },
-    {
-      "path": "_games/pig-they-begged-me-not-to-cannon-rush-them-most-annoying-player-ever-7-starcraft-2.md",
-      "title": "They begged me NOT to cannon rush them | Most Annoying Player Ever #7 - StarCraft 2",
-      "excerpt": "Let's see how annoying I can be :D - Most Annoying Player Ever Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUe9Q0nTIwZiTOqYlofC3jOQ -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-they-begged-me-not-to-cannon-rush-them-most-annoying-player-ever-7-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-they-begged-me-not-to-cannon-rush-them-most-annoying-player-ever-7-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=8MA37OLaxKY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8MA37OLaxKY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 76,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8MA37OLaxKY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-29T23:07:46-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-official-viewer-tournament.md",

@@ -4,6 +4,45 @@
   "page": 8,
   "value": [
     {
+      "path": "_games/sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s.md",
+      "title": "DARK SHRINE VS DARK SHRINE - sOs vs herO - GSL Code S",
+      "excerpt": "A crazy Best of 3 between sOs vs herO, Both going for Dark shrine rushes in the first game! Some great Cheddar cheese from both players  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s/",
+      "originalUrl": "https://youtube.com/watch?v=4stL2OicyNw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4stL2OicyNw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M48S",
+      "provider": {
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4stL2OicyNw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-03-03T15:41:54-08:00"
+    },
+    {
       "path": "_games/sc2hl-neebs-defense-vs-mass-nydus-worm-starcraft-2-neeb-vs-lambo.md",
       "title": "Neeb's Defense vs Mass Nydus Worm - Starcraft 2: Neeb vs Lambo",
       "excerpt": "Neeb's crazy defense against Lambos mass nydus worm during IEM Katowice 2019. With a bonus clip from the hilarious analysis from Incontrol.  ► SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe   A crazy description   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void",
@@ -1004,44 +1043,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-03-05T23:33:50-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-1000-zerglings-reynor-vs-dream.md",
-      "title": "StarCraft 2: 1000+ ZERGLINGS! (Reynor vs Dream)",
-      "excerpt": "Professional match of StarCraft 2 between Reynor and Dream.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-1000-zerglings-reynor-vs-dream/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-1000-zerglings-reynor-vs-dream/",
-      "originalUrl": "https://youtube.com/watch?v=nK9hRjpRZqY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nK9hRjpRZqY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M54S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nK9hRjpRZqY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-26T01:46:39-07:00"
     }
   ],
   "nextPage": 9

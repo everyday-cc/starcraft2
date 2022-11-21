@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT1H23M47S
 publishedDateTime: 2021-08-06T05:43:17Z
-heat: 64
+heat: 63
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sSHIv0ihLjw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "9fu8JAeEi1XAZCVahf3/HSCyaSjKkRwWC1NLufsG/JdZkDt/kMMmubjJMBcmWoNn3JKpMd8OP96pI5vWONf4yPuX7JXs0VNHRP1QvuyDy9CDGV7y+wi77SSQMGwjhztfY5hfJQY3IOiq7cQrSqHI9EyOgghxgXg+ropRIkqjmDBWvt5jWcHXfS2o5ekdH8n4ph6Mjj3GclAQT648Q7AMSRlRrHGWQwDBrAiurKVYdooVMNxGeKM5GtHQ7+Qhzx6teM1enqGH/3gKaEYQLtMoz85MXaRanut4LNNaojZHJU27p9LtULXUyj1S6gXZgXuWOYLGz/rR2fjbWP8nfR5HvVqnjfQhiu/+wg0ztPB1Vn2YJKamneSI+jdQPJYYn4qzbT5ZmXNP16tWdocyYE/cWpzL2AaDu37NRvFIecOgits=;dCEyts0TUWOP9MPSmqHnYQ=="
+secured: "hDfKDy1GdJVRlz+e+Gom205QDQgiN9GGaKezbWvbpGyB6ikkbeCsgm1EKd13VG2KsTRvslvWv+hmPpPnR1k1Nt2/8tDsn8a/Y6iEHJVlJmj2xLcvjTQ/jWSD/PLMX8Ogwo5BVKCqUZ8nJxZ9sFN679Er7HqSY42CH5a8TSEGHoa5ADwLzJAI3HRliuORNzgzoHuSUA6eR31JP5v45GL4bFMSTG276FmLqs48QJExQPAjbYwXEs6TXlnf8UoNG7R+DSlSDHJXk8mrSSZMUUWlydyFhqLoXeweKPKnE6+QeB/k56OR/2Ne8CKVH/1Y1BY9JuSv+RBCZxYT6BlljgXIO2DDFDG2jSTSITmjNCazXU3ZGE4SwlEXXzYdZqKA6k70qo0WsuidaMXudxpZLCfhCfp4PH5JAzvudDYahkXmgfo=;cPCC8y04MbiOTqBFlVyUaw=="
 ---
 

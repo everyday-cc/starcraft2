@@ -42,6 +42,44 @@
       "publishedDateTime": "2022-11-23T04:52:29-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals.md",
+      "title": "StarCraft 2: MaxPax in Dark Templar PRISON! (Europe Grand Finals)",
+      "excerpt": "Grand Finals of the ESL Open Cup 150 Europe in StarCraft 2. This Protoss versus Protoss between Krystianer and MaxPax has a variety of playstyles, with cheese and macro. Mostly a ton of Stalkers, Disruptors, Zealtos and Dark Templar though.  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals/",
+      "originalUrl": "https://youtube.com/watch?v=qXW4B0HhjDk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qXW4B0HhjDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT52M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 275,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qXW4B0HhjDk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-24T04:07:47-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-new-maps-roach-rush-vs-protoss-maxpax-vs-meomaika.md",
       "title": "StarCraft 2: NEW MAPS - ROACH RUSH vs Protoss?! (MaxPax vs MeomaikA)",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between MeomaikA (Zerg) and MaxPax (Protoss). This is a very interesting series of Zerg versus Protoss as not only do these games take place on new maps, both players decide to pick unique strategies that we don't commonly see in StarCraft 2.  Support my work",
@@ -1042,45 +1080,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-03T20:36:28-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-astreas-experimental-protoss-builds-vs-solar-grand-finals.md",
-      "title": "StarCraft 2: Astrea's EXPERIMENTAL Protoss Builds vs Solar! (Grand Finals)",
-      "excerpt": "Grand Finals of the ESL Open Cup 148 Americas. This Protoss versus Zerg in StarCraft 2 is a match between Astrea and Solar.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips: https://www.youtube.com/lowkoclips",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-astreas-experimental-protoss-builds-vs-solar-grand-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-astreas-experimental-protoss-builds-vs-solar-grand-finals/",
-      "originalUrl": "https://youtube.com/watch?v=aLzlSqW6BvU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aLzlSqW6BvU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M8S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 148,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aLzlSqW6BvU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-14T02:34:43-08:00"
     }
   ],
   "nextPage": 2

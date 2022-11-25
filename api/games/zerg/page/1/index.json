@@ -724,6 +724,36 @@
       "publishedDateTime": "2022-11-11T04:07:21-08:00"
     },
     {
+      "path": "_games/pig-how-quickly-can-scarlett-destroy-maphackers-part-2-holdout-challenge-starcraft-2.md",
+      "title": "How quickly can SCARLETT destroy MAPHACKERS? (Part 2) | Holdout Challenge - StarCraft 2",
+      "excerpt": "We paid Scarlett to do the Maphacker Challenge - like a Holdout Challenge, but noobs now have MAPHACKS!  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-scarlett-destroy-maphackers-part-2-holdout-challenge-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-scarlett-destroy-maphackers-part-2-holdout-challenge-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=ZEeG7r-nF90",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZEeG7r-nF90\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M36S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZEeG7r-nF90/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-25T02:10:22-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-reynor-plays-terran-like-a-zerg.md",
       "title": "StarCraft 2: Reynor plays Terran like a Zerg!",
       "excerpt": "High level game of StarCraft 2 between Reynor (Terran) and Zerg (Cham). We have seen Reynor playing Zerg and also Protoss recently, but what about his Terran? In this game he's facing off against the winner of Dreamhack Atlanta for the Latin America region in a ladder game.  Support my work on Patreon:",
@@ -763,26 +793,35 @@
       "publishedDateTime": "2022-10-28T04:11:15-07:00"
     },
     {
-      "path": "_games/pig-pig-reacts-uthermals-1-vs-7-insane-zerg-ai-world-record-starcraft-2.md",
-      "title": "PIG REACTS: uThermal's 1 vs 7 Insane Zerg AI World Record! - StarCraft 2",
-      "excerpt": "I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! After three attempts by others, uThermal decided to step up and create a WORLD RECORD. Can it be done against Terran and Protoss? Can it be done against all random AIs? There are still records to be broken for sure! -- 🐷 Second",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-pig-reacts-uthermals-1-vs-7-insane-zerg-ai-world-record-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-pig-reacts-uthermals-1-vs-7-insane-zerg-ai-world-record-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=klZFXaFsX9o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/klZFXaFsX9o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H3M5S",
+      "path": "_games/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun.md",
+      "title": "StarCraft 2: PRO GAMERS PLAY 2v2 - Scarlett & Astrea vs Dark & ByuN!",
+      "excerpt": "Professional match of StarCraft 2 between Astrea & Scarlett on team North America and ByuN and Dark on team South Korea. Fantastic game on the 2v2 map \"Nightscape LE\".  OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun/",
+      "originalUrl": "https://youtube.com/watch?v=q9Lu_Oo-vio",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q9Lu_Oo-vio\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M28S",
       "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "StarCraft 2",
+        "Terran",
         "Zerg"
       ],
-      "heat": 113,
+      "heat": 120,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/klZFXaFsX9o/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/q9Lu_Oo-vio/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -790,7 +829,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-09-02T21:45:22-07:00"
+      "publishedDateTime": "2022-10-19T04:56:26-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime.md",
@@ -1044,45 +1083,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-13T08:59:18-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5.md",
-      "title": "StarCraft 2: GREAT SERIES - Serral vs Maru! (Best-of-5)",
-      "excerpt": "A best-of-5 series between the best players that StarCraft 2 has to offer. In this video I cast a Zerg versus Terran in SC2 between Serral, the current World Champion of StarCraft, and Maru, the most succesful player from South Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=CpV_kNyL-vI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CpV_kNyL-vI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H5M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 92,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CpV_kNyL-vI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-05-04T04:56:34-07:00"
     }
   ],
   "nextPage": 2

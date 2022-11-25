@@ -9,7 +9,7 @@ ampWebUrl: "https://in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-e
 cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra?amp=1"
 type: article
 quality: 81
-heat: 361
+heat: 341
 published: true
 
 provider:
@@ -119,20 +119,6 @@ related:
       - url: "https://www.videogameschronicle.com/files/2019/06/starcraft-art.jpg"
         width: 1920
         height: 1200
-        isCached: true
-  - title: "Xbox chief wants to revive iconic ‘StarCraft’ series"
-    excerpt: "Asked by Wired if Xbox had plans for StarCraft going forward, Spencer said: “The first thing I would say is, I’m not allowed to make any decisions about what happens at Blizzard or Activision or King. So this is all just kind of talking and thinking ..."
-    publishedDateTime: 2022-11-05T13:20:00Z
-    webUrl: "https://www.nme.com/news/gaming-news/xbox-chief-wants-to-revive-iconic-starcraft-series-3343319"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 37
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2020/10/101620-Starcraft-II-Blizzard-Entertainment.jpg"
-        width: 2000
-        height: 1270
         isCached: true
   - title: "Xbox Boss Weighs In On The Future Of StarCraft"
     excerpt: "Xbox boss Phil Spencer weighed in on the future of StarCraft, expressing interest in restarting the series with Microsoft's power."

@@ -4,38 +4,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_learning/videos/pig-reacting-to-terran-aggression-coaching-pvt-masters-2.md",
-      "title": "Reacting to Terran Aggression | Coaching PvT Masters 2",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-reacting-to-terran-aggression-coaching-pvt-masters-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-reacting-to-terran-aggression-coaching-pvt-masters-2/",
-      "originalUrl": "https://youtube.com/watch?v=xIpyT5NOlcU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xIpyT5NOlcU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H14M8S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-09T10:00:17-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xIpyT5NOlcU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-reading-the-fundamentals-of-the-game-and-choosing-where-to-analyse-replays-coaching-tvt-d2.md",
       "title": "Reading the fundamentals of the game and choosing where to analyse replays | Coaching TvT D2",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -929,6 +897,36 @@
         "StarCraft 2",
         "Protoss",
         "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-aggression-is-still-the-key-coaching-masters-zvz-coaching.md",
+      "title": "StarCraft 2 - Aggression is STILL the key - Coaching Masters ZvZ | Coaching",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-aggression-is-still-the-key-coaching-masters-zvz-coaching/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-aggression-is-still-the-key-coaching-masters-zvz-coaching/",
+      "originalUrl": "https://youtube.com/watch?v=eRyMZBCwx1A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eRyMZBCwx1A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H11M27S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-06T04:00:21-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eRyMZBCwx1A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
       ]
     }
   ],

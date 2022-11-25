@@ -4,66 +4,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-florencio-vs-weedamins-the-florencio-files-3.md",
-      "title": "StarCraft 2 - Florencio vs Weedamins! | The Florencio Files #3",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-vs-weedamins-the-florencio-files-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-vs-weedamins-the-florencio-files-3/",
-      "originalUrl": "https://youtube.com/watch?v=fuBljqCclWU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fuBljqCclWU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M49S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fuBljqCclWU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-05-24T00:49:07-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-florencios-300-iq-pylon-pathing-trick-2-games-pvt-florencio-files-250.md",
-      "title": "StarCraft 2 - FLORENCIO’S 300 IQ PYLON PATHING TRICK (2-games PvT) | Florencio Files #250",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. This time he's torturing Terrans in this 2-game compilation. What do you think of the pylon pathing trick in game 1? 300 IQ, or just standard smooth",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencios-300-iq-pylon-pathing-trick-2-games-pvt-florencio-files-250/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencios-300-iq-pylon-pathing-trick-2-games-pvt-florencio-files-250/",
-      "originalUrl": "https://youtube.com/watch?v=FMlBasuHDVY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FMlBasuHDVY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M18S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FMlBasuHDVY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-23T17:38:13-08:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-how-to-beat-turtle-terran-the-florencio-files-165.md",
       "title": "StarCraft 2 - How to Beat Turtle Terran! The Florencio Files #165",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
@@ -93,36 +33,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-11T09:00:12-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-micro-god-the-florencio-files-2.md",
-      "title": "StarCraft 2 - Micro God | The Florencio Files #2",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-micro-god-the-florencio-files-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-micro-god-the-florencio-files-2/",
-      "originalUrl": "https://youtube.com/watch?v=zwQ1vCzSljQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zwQ1vCzSljQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M13S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zwQ1vCzSljQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-05-24T00:49:07-07:00"
     },
     {
       "path": "_games/pig-the-best-and-worst-smooth-brain-auditions-season-3-starcraft-2.md",
@@ -1059,6 +969,119 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-01-29T04:56:23-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-clems-extremely-greedy-build-order-best-of-3.md",
+      "title": "StarCraft 2: Clem's EXTREMELY Greedy Build Order! (Best-of-3)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between Clem (Terran) and Rattata (Zerg). While game 1 is a pretty conventional match, Clem decides to go for some crazy strategies in the rest of the series.  Picture of Clem on the thumbnail by TeamLiquid: https://www.teamliquid.com/  Support my work on",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-clems-extremely-greedy-build-order-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-clems-extremely-greedy-build-order-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=iwocRYOGY2Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iwocRYOGY2Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M56S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iwocRYOGY2Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-02T04:54:20-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-crazy-games-the-next-gsl-code-s-champion-creator-vs-hero.md",
+      "title": "StarCraft 2: CRAZY GAMES - The Next GSL Code S Champion? (Creator vs herO)",
+      "excerpt": "Two amazing games of StarCraft 2 between Creator and herO. These two Protoss players are not afraid to get aggressive, as becomes obvious within the first few minutes of this video.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-crazy-games-the-next-gsl-code-s-champion-creator-vs-hero/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-crazy-games-the-next-gsl-code-s-champion-creator-vs-hero/",
+      "originalUrl": "https://youtube.com/watch?v=kAYCEeFd9sc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kAYCEeFd9sc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M32S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kAYCEeFd9sc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-03T03:50:10-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-domination-reynor-vs-heromarine-best-of-5.md",
+      "title": "StarCraft 2: DOMINATION! Reynor vs HeRoMaRinE! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2. Zerg versus Terran series between Reynor and HeRoMaRinE.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-domination-reynor-vs-heromarine-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-domination-reynor-vs-heromarine-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=O5v4_d3GxmY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O5v4_d3GxmY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H1M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/O5v4_d3GxmY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-02-10T04:37:40-08:00"
     }
   ],
   "nextPage": 13

@@ -4,6 +4,36 @@
   "page": 21,
   "value": [
     {
+      "path": "_learning/videos/pig-starcraft-2-coaching-session-with-maynarde-coaching-maynarde-december-pt2.md",
+      "title": "StarCraft 2  - Coaching Session with Maynarde! | Coaching Maynarde December Pt2",
+      "excerpt": "Coaching Maynarde again! Part two of this session ^.^  Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads?",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-coaching-session-with-maynarde-coaching-maynarde-december-pt2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-coaching-session-with-maynarde-coaching-maynarde-december-pt2/",
+      "originalUrl": "https://youtube.com/watch?v=8NpAW352ENM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8NpAW352ENM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M36S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-01-20T09:00:04-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8NpAW352ENM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-starcraft-2-coaching-silver-terran-mechanics-macro-cycle-and.md",
       "title": "StarCraft 2 - Coaching Silver Terran - Mechanics, Macro Cycle and",
       "excerpt": "I coach a silver 1 terran player on some key mechanics, how to learn a tight macro cycle and how to understand and improve at Starcraft -- Watch live at https://www.twitch.tv/x5_pig",
@@ -889,36 +919,6 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-defending-all-ins-and-dealing-with-late-game-coaching-zvx-d2.md",
-      "title": "StarCraft 2 - Defending All-ins and dealing with Late-game | Coaching ZvX D2",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-defending-all-ins-and-dealing-with-late-game-coaching-zvx-d2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-defending-all-ins-and-dealing-with-late-game-coaching-zvx-d2/",
-      "originalUrl": "https://youtube.com/watch?v=YPW-RjJTV0E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YPW-RjJTV0E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H16M",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-05-24T04:00:17-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YPW-RjJTV0E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
       ]
     }
   ],

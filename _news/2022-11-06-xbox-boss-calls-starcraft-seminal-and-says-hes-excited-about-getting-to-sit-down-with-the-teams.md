@@ -84,22 +84,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Phil Spencer Is Keen On The Idea Of Reviving StarCraft And Warcraft For Xbox"
-    excerpt: "Xbox head Phil Spencer loves the idea of reviving Blizzard RTS games like StarCraft and Warcraft, but the road to doing so is long and comlex."
-    publishedDateTime: 2022-11-06T11:48:00Z
-    webUrl: "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/"
-    ampWebUrl: "https://www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/amp/"
-    cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/11/phil-spencer-is-keen-on-the-idea-of-reviving-starcraft-and-warcraft-for-xbox/amp/"
-    type: article
-    provider:
-      name: Kotaku Australia
-      domain: kotaku.com.au
-    quality: 54
-    images:
-      - url: "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/11/07/hero-image.jpg?quality=80&resize=1280,720"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo 4 to launch in April 2023 claim insiders – as Xbox hints at more StarCraft"
     excerpt: "More recently, he was asked if there are any plans for Blizzard’s sci-fi strategy series StarCraft. Although he couldn’t answer in detail, and said that he can’t make any decisions at Activision or Blizzard yet, his personal enjoyment of StarCraft ..."
     publishedDateTime: 2022-11-07T13:30:00Z
@@ -199,20 +183,6 @@ related:
       - url: "https://www.vgchartz.com/articles_media/images/next-mass-effect-gets-teaser-pre-production-is-proceeding-very-well-190418_featured.jpg"
         width: 600
         height: 250
-        isCached: true
-  - title: "Xbox boss says \"what could happen\" to dormant Activision Blizzard franchises like StarCraft is \"pretty exciting\""
-    excerpt: "Xbox boss Phil Spencer says he's \"excited\" to sit down with the teams at Activision, Blizzard, and King to talk about \"back catalogs\" and reviving franchises like StarCraft should Xbox's acquisition of Activision Blizzard proceed."
-    publishedDateTime: 2022-11-06T11:10:00Z
-    webUrl: "https://www.gamesradar.com/xbox-boss-says-what-could-happen-to-dormant-activision-blizzard-franchises-like-starcraft-is-pretty-exciting/"
-    type: article
-    provider:
-      name: GamesRadar+
-      domain: gamesradar.com
-    quality: 16
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/8bEXHBi9Mp8Jh5Er6Jt35m-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "ZaEwfzDoa4KGDA3lWllCtF/yzWVBmyJGR6lDDSr20nsw81iGfASdmlAdc77IP2T/hfCTEKKpeE52Hc4LaISTCfqNxPTwB8Wmt6tT/6AET1x1JhDrplfC88xSnRepgQhZ35gIOxT2h6GKl73RQg/8LBNTIHgn/kLLQNX+e7yCqCmcsCJWtKRuYv2nbYJnU9fIW1zb/KPZJaubd4grl7rrb0w1jN0/7+WLYQJM9anVRg9GJ2soo0CC9Sh1GTYikUgtaZyT9PJD35l9VqptAFmmALMBrwMlr8fm1p+6EOzy4zuznQYFgpIH0H0i6kcwAOb+SAPeAgEey4oWrvEgGNm4Prie5O8qA6+e2tEkkuYNrrtDgazRD1KN3mYdGTpT6RqC3QKy15Pg9mlyFjovjVu2HMzNNzeZHUSxGAEj828LLVbTh2IZ/ufWMkjdSN0C2r2POLqI+xAmu+9ICjZWTe8fIr/WBhRYOV79TfEs3vFhVT2AahhofswAIJqqbRt11qcZdE+cnKZlDSWIgHV8poX/DQ==;7q+PMy51O7oDKDtDys8Q1w=="

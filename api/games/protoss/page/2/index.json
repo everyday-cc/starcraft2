@@ -2059,14 +2059,14 @@
       "publishedDateTime": "2021-11-11T03:35:31-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-new-best-protoss.md",
-      "title": "StarCraft 2: The NEW Best Protoss?!",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between MaxPax (Protoss) and Ragnarok (Zerg).  MaxPax recently overtook herO for the rank 1 position of Protoss players on Aligulac.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-new-best-protoss/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-new-best-protoss/",
-      "originalUrl": "https://youtube.com/watch?v=Rj6R2H3K9TM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Rj6R2H3K9TM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M26S",
+      "path": "_games/lowkotv-starcraft-2-zests-spicy-stargate-variety-best-of-5-vs-solar.md",
+      "title": "StarCraft 2: Zest's SPICY Stargate Variety! (Best-of-5 vs Solar)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Solar (Zerg) and Zest (Protoss). In this match Zest decides to play a vareity of Stargate openers, from Void Rays to Tempests and Phoenixes. This series is the grand finals of the ESL Open Cup 108 Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zests-spicy-stargate-variety-best-of-5-vs-solar/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zests-spicy-stargate-variety-best-of-5-vs-solar/",
+      "originalUrl": "https://youtube.com/watch?v=IKvNLBeao60",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IKvNLBeao60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M49S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -2081,12 +2081,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Protoss",
+        "Zerg"
       ],
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Rj6R2H3K9TM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/IKvNLBeao60/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -2094,7 +2095,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-09-27T03:17:51-07:00"
+      "publishedDateTime": "2022-02-12T05:00:07-08:00"
     }
   ],
   "nextPage": 3

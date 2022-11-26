@@ -4,160 +4,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-the-stasis-trap-bo3.md",
-      "title": "StarCraft 2: The Stasis TRAP! (Bo3)",
-      "excerpt": "Reading his opponent like a book. Subscribe for more videos: http://lowko.tv/youtube Terran Mech Aggression: https://goo.gl/9Hm42o  An incredible well played series of Protoss versus Terran. Stats reads INnoVation like he's just another Terran player and sets up an incredible Stasis Trap in game 1.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-stasis-trap-bo3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-stasis-trap-bo3/",
-      "originalUrl": "https://youtube.com/watch?v=JgJHifiLbb8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JgJHifiLbb8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M57S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JgJHifiLbb8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-10-28T09:52:44-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-ultimate-patience-game-rogue-vs-showtime.md",
-      "title": "StarCraft 2: THE ULTIMATE PATIENCE GAME! (Rogue vs ShoWTimE)",
-      "excerpt": "While this professional match of StarCraft 2 starts off very slowly, it turns out to be one of the most spectacular matches of late game Zerg versus Protoss I've ever seen.   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-ultimate-patience-game-rogue-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-ultimate-patience-game-rogue-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=P-84Oh9yx7w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P-84Oh9yx7w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/P-84Oh9yx7w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-20T01:41:14-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-winner-of-the-new-map-contest-mana-vs-elazer.md",
-      "title": "StarCraft 2: The WINNER of the NEW Map Contest! (MaNa vs Elazer)",
-      "excerpt": "MaNa versus Elazer in StarCraft 2 on the map \"Waterfall\". Waterfall is the winner of the TLMC 16 (Team Liquid Map Contest 16) and will more than likely be included in a future ladder and tournament map pool in StarCraft 2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-winner-of-the-new-map-contest-mana-vs-elazer/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-winner-of-the-new-map-contest-mana-vs-elazer/",
-      "originalUrl": "https://youtube.com/watch?v=4BxSF3zboD0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4BxSF3zboD0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M29S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4BxSF3zboD0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-02-21T04:35:13-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-thors-vs-disruptors-innovation-vs-parting.md",
-      "title": "StarCraft 2: THORS vs DISRUPTORS? (INnoVation vs PartinG)",
-      "excerpt": "Awesome game of top-level StarCraft 2 between INnoVation and PartinG. In this game of top level Terran versus Protoss both players have to constantly micro to get the most out of their StarCraft 2 units.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-thors-vs-disruptors-innovation-vs-parting/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-thors-vs-disruptors-innovation-vs-parting/",
-      "originalUrl": "https://youtube.com/watch?v=oR6SwL0SIxU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oR6SwL0SIxU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M48S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oR6SwL0SIxU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-11T03:23:26-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-tlos-queen-drops-versus-neeb.md",
       "title": "StarCraft 2: TLO's QUEEN DROPS versus Neeb!",
       "excerpt": "Best-of-3 series of StarCraft 2 between TLO and Neeb. TLO has always played his own brand of Zerg, and he once again goes for some cool attacks versus Neeb.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
@@ -1160,6 +1006,152 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-01-17T04:59:06-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-zests-clever-deception-vs-rogue-best-of-5.md",
+      "title": "StarCraft 2: Zest's CLEVER DECEPTION vs Rogue! (Best-of-5)",
+      "excerpt": "Fun best-of-5 series of professional StarCraft 2 between Zest and Rogue. Zest decides to confuse his opponent in any way he can think of, and try to win mostly based off of mind games.  Zest vs soO: https://youtu.be/nQJJ-2RhILc  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zests-clever-deception-vs-rogue-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zests-clever-deception-vs-rogue-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=7Eb0_wfVINk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7Eb0_wfVINk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M35S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7Eb0_wfVINk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-02T13:23:09-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-zests-final-tournament-match-best-of-3.md",
+      "title": "StarCraft 2: Zest's FINAL Tournament Match! (Best-of-3)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between Zest (Protoss) and Clem (Terran). Zest has announced that he is starting up his mandatory military service in South Korea very soon, and because of that he is forced to retire from StarCraft 2. In this video I cast Zest's final tournament games, when",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zests-final-tournament-match-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zests-final-tournament-match-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=Gh5t0rKUW-s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gh5t0rKUW-s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M6S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Gh5t0rKUW-s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-27T03:30:20-07:00"
+    },
+    {
+      "path": "_games/lowkotv-stracraft-2-the-first-best-match-of-the-year-gumiho-vs-classic.md",
+      "title": "StraCraft 2: The FIRST \"Best Match of the Year\"?! (GuMiho vs Classic)",
+      "excerpt": "Amazing game of professional StarCraft 2 between GuMiho (Terran) and Classic (Protoss).  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips: https://www.youtube.com/lowkoclips  Be part of the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-stracraft-2-the-first-best-match-of-the-year-gumiho-vs-classic/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-stracraft-2-the-first-best-match-of-the-year-gumiho-vs-classic/",
+      "originalUrl": "https://youtube.com/watch?v=EHgn-Y5dI2o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EHgn-Y5dI2o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M14S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EHgn-Y5dI2o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-02-10T03:28:05-08:00"
+    },
+    {
+      "path": "_games/pig-2-probe-comeback-youre-playing-the-game-wrong-icyfar-g3.md",
+      "title": "2 Probe Comeback!? | You're Playing the game wrong! ICYFAR G3",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they played the “wrong” build for the matchup.   CURRENT ICYFAR CHALLANGE: \"Offshore Accounts\" - Hide your true earnings from the greedy tax office, use hidden bases as much as possible ! Send submissions",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-2-probe-comeback-youre-playing-the-game-wrong-icyfar-g3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-2-probe-comeback-youre-playing-the-game-wrong-icyfar-g3/",
+      "originalUrl": "https://youtube.com/watch?v=0-oFKVu6ay0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0-oFKVu6ay0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M9S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0-oFKVu6ay0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
     }
   ],
   "nextPage": 17

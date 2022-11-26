@@ -9,7 +9,7 @@ ampWebUrl: "https://in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-e
 cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra?amp=1"
 type: article
 quality: 81
-heat: 301
+heat: 281
 published: true
 
 provider:
@@ -173,20 +173,6 @@ related:
       - url: "https://www.vgchartz.com/articles_media/images/next-mass-effect-gets-teaser-pre-production-is-proceeding-very-well-190418_featured.jpg"
         width: 600
         height: 250
-        isCached: true
-  - title: "Xbox boss calls StarCraft \"seminal\" and says he's \"excited about getting to sit down with the teams\""
-    excerpt: "Xbox boss Phil Spencer says \"what could happen\" with older Activision Blizzard franchises like StarCraft is \"pretty"
-    publishedDateTime: 2022-11-06T13:13:00Z
-    webUrl: "https://www.eurogamer.net/xbox-boss-calls-starcraft-seminal-and-says-hes-excited-about-getting-to-sit-down-with-the-teams"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 22
-    images:
-      - url: "https://assets.reedpopcdn.com/starcraft-2-will-go-free-to-play-later-this-month-1509736865236.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/starcraft-2-will-go-free-to-play-later-this-month-1509736865236.jpg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "5vjS/2wZTHwaVfDZnGRna/7BhMaSs0cOlo/13YeGv9UtDqFTiilyDLURfNSNsA75BS382Ohdn/P20M7U6XjlqHK0YeEmhiWNMJaDuSaT57iBX6v2k6yUc9uKDgJcYxkzjpf4jD1yvXt6dxN9LKCvUkXyp3ZVTp7IFkf72p1xH4xXoeH9QQFc71DVzQOMrHSVku/ujgp/GJ2PRAsLKkArPTbeI9cwqI10Elqpv4xSMvOjmEmL1KzuqpmwtkJdZsdMbhTwONooKelbcofuwQD7dzck5BtM1Fi8wpnxm5LxadtpLV6DbSbW1Mei9rATnobpusvS2+GtqHwoaL1+iDB3xeOr1ypvdcU1OK/pI+isWGd4YtCq2VqNEMcddPCcJg1FXNC3I7Xefr1QeghwvgnLjFQVBUc9AYIcrCTV9kyqFRnBHC7hO48Lw3BHVzHKxiPbBvi70QTk3c+bcGcIFjLUF/iXxgH5MhwUkdvegfxM4qfIOFh6CWvwiTDS36mDQNm3nv6CTZpXVt3zFhb/fEmXaA==;uIJCzbyzgKj9F0x0XVSzDQ=="

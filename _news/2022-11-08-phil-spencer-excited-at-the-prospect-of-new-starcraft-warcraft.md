@@ -170,20 +170,6 @@ related:
         width: 600
         height: 250
         isCached: true
-  - title: "Xbox boss calls StarCraft \"seminal\" and says he's \"excited about getting to sit down with the teams\""
-    excerpt: "Xbox boss Phil Spencer says \"what could happen\" with older Activision Blizzard franchises like StarCraft is \"pretty"
-    publishedDateTime: 2022-11-06T13:13:00Z
-    webUrl: "https://www.eurogamer.net/xbox-boss-calls-starcraft-seminal-and-says-hes-excited-about-getting-to-sit-down-with-the-teams"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 22
-    images:
-      - url: "https://assets.reedpopcdn.com/starcraft-2-will-go-free-to-play-later-this-month-1509736865236.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/starcraft-2-will-go-free-to-play-later-this-month-1509736865236.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "NYzlWn6BNDcpYkxIPGxYEUd6bslJzTGA/spU14WNy+96hCvuzPrXMJl+7VkIvZ7rKiNFVNBZIMlgeY+AuxwZVbXPkf68TndME64MSUbAn0lbRtBRhFgk97hF6Fo/OyW7H84y1NKKuE7cr+qjN89C9wujd7gOKp+TKJMO9BzAjNYtxbeRjB+BM8LftTzWUgvRPp3KCpi6cjr4tjvExDmWXYlOUaVrqnJM0deUyKhjkPklFpT+z6ySv7JGuOpmTAuee/dQmCBTEp7St/y0B9noTqBUMYQswVHvOzhoI9I1DFBiqvegH2t7vTKsbi06v60YuH1iVn1xZLriGUtAdtITADtHvAdHaVXRBiGy7SIWssAypXE4RFwIoI+fMgJc5aVQtTcvz185wCdKfLA18yj1Bn3+1MIA+hyNpkQEiVw2VJ+oeLgO5hV+CwE3ShwPF+ximVn7B4O7fTkvt0GEezZBuW1nX6FEs69zxbmVA1RkxfQRf5c7RigU1REI/Q7dF3couxkwhdCzNhVxfD8Wza1lKQ==;z4D9rBBP1YEdkCssFgRm5g=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/phil-spencer-excited-at-the-idea-of-more-s
 webUrl: "https://www.pcgamer.com/phil-spencer-excited-at-the-idea-of-more-starcraft/"
 type: article
 quality: 77
-heat: 217
+heat: 197
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/11/07/phil-spencer-interview-starcraft-warcraft-activision-blizzard-king-wired_feature.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Phil Spencer wants to talk to Blizzard about classic RTS games like StarCraft"
-    excerpt: "Microsoft ’s head of gaming has said he’s keen to sit down with Blizzard to discuss potential opportunities for its classic RTS games such as StarCraft. Speaking to Wired, Phil Spencer was asked if he would like to revive the sci-fi strategy series,"
-    publishedDateTime: 2022-11-07T09:24:00Z
-    webUrl: "https://www.videogameschronicle.com/news/phil-spencer-wants-to-talk-to-blizzard-about-classic-rts-games-like-starcraft/"
-    type: article
-    provider:
-      name: Video Games Chronicle
-      domain: videogameschronicle.com
-    quality: 51
-    images:
-      - url: "https://www.videogameschronicle.com/files/2019/06/starcraft-art.jpg"
-        width: 1920
-        height: 1200
         isCached: true
   - title: "Xbox Boss Weighs In On The Future Of StarCraft"
     excerpt: "Xbox boss Phil Spencer weighed in on the future of StarCraft, expressing interest in restarting the series with Microsoft's power."

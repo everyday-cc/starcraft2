@@ -54,20 +54,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Phil Spencer wants to talk to Blizzard about classic RTS games like StarCraft"
-    excerpt: "Microsoft ’s head of gaming has said he’s keen to sit down with Blizzard to discuss potential opportunities for its classic RTS games such as StarCraft. Speaking to Wired, Phil Spencer was asked if he would like to revive the sci-fi strategy series,"
-    publishedDateTime: 2022-11-07T09:24:00Z
-    webUrl: "https://www.videogameschronicle.com/news/phil-spencer-wants-to-talk-to-blizzard-about-classic-rts-games-like-starcraft/"
-    type: article
-    provider:
-      name: Video Games Chronicle
-      domain: videogameschronicle.com
-    quality: 51
-    images:
-      - url: "https://www.videogameschronicle.com/files/2019/06/starcraft-art.jpg"
-        width: 1920
-        height: 1200
-        isCached: true
   - title: "Phil Spencer Wants To Revive Starcraft"
     excerpt: "Phil Spencer comments on the future of Starcraft should the Activision deal proceed, and fans ought to be excited!"
     publishedDateTime: 2022-11-07T22:32:00Z

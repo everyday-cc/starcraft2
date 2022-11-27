@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=CDsNPcv0y3I
 type: video
 length: PT50M19S
 publishedDateTime: 2020-09-23T18:20:07Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CDsNPcv0y3I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "yh96HyiVFJ4haFMwUAcysX1xlNSlE4OiD8wYNOLUrr//QGi+JAijWlbZ0FAFPwCtcN5tyMVfXCzhaUV0Xg/g0wxujfO3dm5K6Ll2MReGZIR9Gyc0DMO/v8rw2nHt/mnbY7oQql+e5qbjpb9RPQvALif/aLtlAjDx6SMw4mPu6+5slJe4OBGHGRp9ZiDF/5lMKpIka12aK1guhxsxWM/KMXif6HWCHNyz273s5a2fykOmQKdhoiXDtGBA40mbDlIX1LMerdQZNupXuTGpu1gPPqZ+wKQF0XSTawDS/Gc5f3bm4FoV7tumPPQjDosgxZDbArnqY3m11izC5COo+PnVyTEmCX+p6xXsibRabYX6wMnFC+GkWCOLAV8ajWWQxyDHn5BmCHfGKsEmEQ9or5ccK4eY2w7D2QtLlDt30obbb0E4fuHossm77j46I7Wgm/gV;kNG8YKkuGIRYTRUNERHMFQ=="
+secured: "Vy+2Y4XUu2vxtKKjweJQMowjPc/vxzdG1BCitzI0zdHVY2cZCb0VsEgh5BmnYA9fpn5+4mNQ54exqC5Rz8tyWw0vPUES9V2ln1LytiKffGfXFDuVh+iuwv1nRqawYL2OLv96TYaPrGElF4yi4I9hdWVS9smY/psoX8uKMS7RbKE0yj0xd0uuQFrwvk4QsuYwEdxHsn1UE3vE548rwXs62JJdbdPwAlj3ItNm+hCO6sNzkLORP4VJesGWuxjG7Uw/uFeIPck31Qpd3HVpgcjUq0czywwLnBgZUUM7+UjyB3YCuPRFvw7EcVX0IPQl672OonUgCzi/zAl49ooARxUHU6eSs8XPjvYF4wNuLVLCix/XnlqcFKSMrRwT6CcQaDNST8NSnkWp+DbpCCgkYjldMu5dWFBu6xDx6voagDd2ZVjS31TG1ezk/ehpfVer3wnB;s9TUGV1zfOmokcZHg6CH1Q=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/phil-spencer-excited-at-the-idea-of-more-s
 webUrl: "https://www.pcgamer.com/phil-spencer-excited-at-the-idea-of-more-starcraft/"
 type: article
 quality: 77
-heat: 197
+heat: 198
 published: true
 
 provider:

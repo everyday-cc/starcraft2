@@ -41,74 +41,6 @@
       "publishedDateTime": "2022-11-25T02:57:23-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals.md",
-      "title": "StarCraft 2: MaxPax in Dark Templar PRISON! (Europe Grand Finals)",
-      "excerpt": "Grand Finals of the ESL Open Cup 150 Europe in StarCraft 2. This Protoss versus Protoss between Krystianer and MaxPax has a variety of playstyles, with cheese and macro. Mostly a ton of Stalkers, Disruptors, Zealtos and Dark Templar though.  Support my work on Patreon: https://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals/",
-      "originalUrl": "https://youtube.com/watch?v=qXW4B0HhjDk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qXW4B0HhjDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT52M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 324,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qXW4B0HhjDk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-24T04:07:47-08:00"
-    },
-    {
-      "path": "_games/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starcraft-2.md",
-      "title": "Inflicting the Fastest Nydus Swarm Hosts EVER on GMs - StarCraft 2",
-      "excerpt": "Subscribe to PiG Casts! 🐷 I said I would inflict this pain onto others - and it worked better than I thought it would! Protoss especially have a lot of trouble dealing with my version of the Fastest Nydus Swarm Hosts build. If you want my notes they're in The Book of Filth 2.0: https://docs.google.com/document/d/1GbpZ-qjoUQ42ZwVsmk3cYgLZ1WYNcLc9l6KUo-Zuudk/edit?usp=sharing",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=FH8HSBuhhM4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FH8HSBuhhM4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M11S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 277,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FH8HSBuhhM4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-11T05:45:43-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-new-maps-roach-rush-vs-protoss-maxpax-vs-meomaika.md",
       "title": "StarCraft 2: NEW MAPS - ROACH RUSH vs Protoss?! (MaxPax vs MeomaikA)",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between MeomaikA (Zerg) and MaxPax (Protoss). This is a very interesting series of Zerg versus Protoss as not only do these games take place on new maps, both players decide to pick unique strategies that we don't commonly see in StarCraft 2.  Support my work",
@@ -225,6 +157,44 @@
       "publishedDateTime": "2022-11-23T04:52:29-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals.md",
+      "title": "StarCraft 2: MaxPax in Dark Templar PRISON! (Europe Grand Finals)",
+      "excerpt": "Grand Finals of the ESL Open Cup 150 Europe in StarCraft 2. This Protoss versus Protoss between Krystianer and MaxPax has a variety of playstyles, with cheese and macro. Mostly a ton of Stalkers, Disruptors, Zealtos and Dark Templar though.  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals/",
+      "originalUrl": "https://youtube.com/watch?v=qXW4B0HhjDk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qXW4B0HhjDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT52M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 245,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qXW4B0HhjDk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-24T04:07:47-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-lowko-cries-over-zests-mass-void-ray-vs-soo-best-of-5.md",
       "title": "StarCraft 2; Lowko Cries over Zest’s Mass Void Ray vs soO! (Best-of-5)",
       "excerpt": "Best-of-5 series of professional StarCraft 2 between soO (Zerg) and Zest (Protoss). After macro games soO decides to go for a Spine Crawler rush versus Zest.  soO vs Cure: https://youtu.be/EfILZ7FPv70 soO vs ByuN: https://youtu.be/mSL43Z7w6A4  Support my work on Patreon: https://www.patreon.com/lowkotv",
@@ -292,6 +262,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-19T22:08:52-07:00"
+    },
+    {
+      "path": "_games/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starcraft-2.md",
+      "title": "Inflicting the Fastest Nydus Swarm Hosts EVER on GMs - StarCraft 2",
+      "excerpt": "Subscribe to PiG Casts! 🐷 I said I would inflict this pain onto others - and it worked better than I thought it would! Protoss especially have a lot of trouble dealing with my version of the Fastest Nydus Swarm Hosts build. If you want my notes they're in The Book of Filth 2.0: https://docs.google.com/document/d/1GbpZ-qjoUQ42ZwVsmk3cYgLZ1WYNcLc9l6KUo-Zuudk/edit?usp=sharing",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=FH8HSBuhhM4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FH8HSBuhhM4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M11S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 217,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FH8HSBuhhM4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-11T05:45:43-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-tired-of-the-ladder-maps-zest-vs-armani.md",
@@ -813,14 +813,14 @@
       "publishedDateTime": "2021-12-23T15:35:13-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-no-oracles-no-problems-maxpax-vs-meomaika.md",
-      "title": "StarCraft 2: No Oracles, No Problems! (MaxPax vs MeomaikA)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between MeomaikA (Zerg) and MaxPax (Protoss). This is a very interesting series of Zerg versus Protoss as not only do these games take place on new maps, both players decide to pick unique strategies that we don't commonly see in StarCraft 2.  Support my work",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-no-oracles-no-problems-maxpax-vs-meomaika/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-no-oracles-no-problems-maxpax-vs-meomaika/",
-      "originalUrl": "https://youtube.com/watch?v=KAXAXRcXrT4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KAXAXRcXrT4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M36S",
+      "path": "_games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime.md",
+      "title": "StarCraft 2: BEST PRO Game of 2022 - Serral vs ShoWTimE!",
+      "excerpt": "Professional match of top level StarCraft 2 between Serral (Zerg) and ShoWTimE (Protoss). This is in my opinion the best pro game of SC2 of 2022 so far. Ridiculously close game between two of the best European pro gamers.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=cbQw9rvkado",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cbQw9rvkado\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -834,12 +834,14 @@
         ]
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
       ],
-      "heat": 178,
+      "heat": 174,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/KAXAXRcXrT4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/cbQw9rvkado/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -847,7 +849,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-11-22T03:13:30-08:00"
+      "publishedDateTime": "2022-09-05T04:02:46-07:00"
     },
     {
       "path": "_games/pig-how-to-beat-the-1v7-insane-ai-challenge-starcraft-2.md",
@@ -916,6 +918,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-14T04:52:08-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-no-oracles-no-problems-maxpax-vs-meomaika.md",
+      "title": "StarCraft 2: No Oracles, No Problems! (MaxPax vs MeomaikA)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between MeomaikA (Zerg) and MaxPax (Protoss). This is a very interesting series of Zerg versus Protoss as not only do these games take place on new maps, both players decide to pick unique strategies that we don't commonly see in StarCraft 2.  Support my work",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-no-oracles-no-problems-maxpax-vs-meomaika/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-no-oracles-no-problems-maxpax-vs-meomaika/",
+      "originalUrl": "https://youtube.com/watch?v=KAXAXRcXrT4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KAXAXRcXrT4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M36S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 171,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KAXAXRcXrT4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-22T03:13:30-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-amazing-grand-finals-dark-vs-maru-best-of-7.md",
@@ -1050,36 +1089,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-03T20:36:28-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-zesty-mind-games-vs-rogue-best-of-5.md",
-      "title": "StarCraft 2: Zesty MIND GAMES vs Rogue! (Best-of-5)",
-      "excerpt": "Fun best-of-5 series of professional StarCraft 2 between Zest and Rogue. Zest decides to confuse his opponent in any way he can think of, and try to win mostly based off of mind games.  Zest vs soO: https://youtu.be/nQJJ-2RhILc  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zesty-mind-games-vs-rogue-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zesty-mind-games-vs-rogue-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=l0Ju9PIHqQo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l0Ju9PIHqQo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M8S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 145,
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-01T01:22:54-07:00"
     }
   ],
   "nextPage": 2

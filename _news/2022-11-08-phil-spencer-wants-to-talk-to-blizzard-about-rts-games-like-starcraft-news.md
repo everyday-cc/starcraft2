@@ -68,20 +68,6 @@ related:
         width: 695
         height: 390
         isCached: true
-  - title: "Xbox boss wants to bring StarCraft back"
-    excerpt: "Phil Spencer, head of Microsoft’s gaming division, is all-for bringing StarCraft back into the limelight. “The first thing I would say is, I’m not allowed to make any decisions about what happens at Blizzard or Activision or King. So this is all just ..."
-    publishedDateTime: 2022-11-07T17:29:00Z
-    webUrl: "https://ftw.usatoday.com/2022/11/xbox-phil-spencer-starcraft"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 37
-    images:
-      - url: "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/age_of_empires_2_de_slavs.png?w=1000"
-        width: 1000
-        height: 562
-        isCached: true
 
 secured: "YZw+R1NdqMOAbHRgXF016tWjT3RB7G1mTWHLwuA6v4jiMxz0lhb4MWXweMqLvOko2tAJglKBJXVZGun24kdwB8EPPrhwSB7P/udJ5jthCvxh9O8JwDrbHDMRcm5bNok2V2ywnv+gy+XhztzRvN4xxj7hCsAenA0F5/cv3mLygRag7XrDs0TV4lYVvvir9WA1zFpBXc9ym0QE0oc2kF4S8YBEOMGMACT0VVlyU8weQ95LAkbVLBPBkqZla/m6e2gkK+A2OrjPkbdM5uDEMDUxsJUDSOWK56IPE3cZ4KL9RGUUIsgPMyVzbiumNkRH5hJy3tGmCete0bQ0j9VeVvD9/zDmbzQqj1F3CbelYUuncQY=;K7LXIxD/ORKK8Efo++LwRA=="
 ---

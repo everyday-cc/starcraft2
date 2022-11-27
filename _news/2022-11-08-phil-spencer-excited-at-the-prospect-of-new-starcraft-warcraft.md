@@ -9,7 +9,7 @@ ampWebUrl: "https://www.shacknews.com/article/133000/phil-spencer-new-starcraft-
 cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard?amphtml=1"
 type: article
 quality: 57
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "http://www.ausgamers.com/gameres/6567/images/695/StarCraft_II_Legacy_of_the_Void_BlizzCon_2014_Korhal_04.jpg"
         width: 695
         height: 390
-        isCached: true
-  - title: "Xbox boss wants to bring StarCraft back"
-    excerpt: "Phil Spencer, head of Microsoft’s gaming division, is all-for bringing StarCraft back into the limelight. “The first thing I would say is, I’m not allowed to make any decisions about what happens at Blizzard or Activision or King. So this is all just ..."
-    publishedDateTime: 2022-11-07T17:29:00Z
-    webUrl: "https://ftw.usatoday.com/2022/11/xbox-phil-spencer-starcraft"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 37
-    images:
-      - url: "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/12/age_of_empires_2_de_slavs.png?w=1000"
-        width: 1000
-        height: 562
         isCached: true
   - title: "Phil Spencer Wants to Talk to Blizzard About RTS Games Like StarCraft - News"
     excerpt: "Spencer said he is not allowed to make any decisions about what happens at Activision Blizzard at this time, so it is only talk. However, he would like to see the return of classic RTS games from Blizzard like StarCraft and WarCraft."

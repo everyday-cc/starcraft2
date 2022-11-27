@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Phil Spencer 'excited' at the idea of more StarCraft"
-    excerpt: "One of those may possibly be beloved RTS StarCraft, something which Spencer seems pretty excited about. The Xbox boss sat down with Wired to talk about Age of Empire's 25th anniversary, and the series' foray onto console—which has also meant controller ..."
-    publishedDateTime: 2022-11-07T13:44:00Z
-    webUrl: "https://www.pcgamer.com/phil-spencer-excited-at-the-idea-of-more-starcraft/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 77
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2kepUFtQ2fW2LpF5WhYmdG-1200-80.jpg"
-        width: 925
-        height: 487
-        isCached: true
   - title: "Phil Spencer excited at the prospect of new StarCraft & Warcraft"
     excerpt: "In a recent interview with Wired, Phil Spencer touches on Blizzard properties like StarCraft and Warcraft, and how he's excited about the opportunity both hold."
     publishedDateTime: 2022-11-07T18:20:00Z
@@ -53,20 +39,6 @@ related:
       - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/11/07/phil-spencer-interview-starcraft-warcraft-activision-blizzard-king-wired_feature.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Xbox Boss Weighs In On The Future Of StarCraft"
-    excerpt: "Xbox boss Phil Spencer weighed in on the future of StarCraft, expressing interest in restarting the series with Microsoft's power."
-    publishedDateTime: 2022-11-07T14:01:00Z
-    webUrl: "https://www.svg.com/1089782/xbox-boss-weighs-in-on-the-future-of-starcraft/"
-    type: article
-    provider:
-      name: svg
-      domain: svg.com
-    quality: 37
-    images:
-      - url: "https://www.svg.com/img/gallery/xbox-boss-weighs-in-on-the-future-of-starcraft/l-intro-1667847570.jpg"
-        width: 1600
-        height: 896
         isCached: true
   - title: "Phil Spencer Wants To Revive Starcraft"
     excerpt: "Phil Spencer comments on the future of Starcraft should the Activision deal proceed, and fans ought to be excited!"

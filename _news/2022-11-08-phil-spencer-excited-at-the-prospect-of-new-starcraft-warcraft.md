@@ -9,8 +9,8 @@ ampWebUrl: "https://www.shacknews.com/article/133000/phil-spencer-new-starcraft-
 cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard?amphtml=1"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: Shacknews
@@ -26,34 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Phil Spencer 'excited' at the idea of more StarCraft"
-    excerpt: "One of those may possibly be beloved RTS StarCraft, something which Spencer seems pretty excited about. The Xbox boss sat down with Wired to talk about Age of Empire's 25th anniversary, and the series' foray onto console—which has also meant controller ..."
-    publishedDateTime: 2022-11-07T13:44:00Z
-    webUrl: "https://www.pcgamer.com/phil-spencer-excited-at-the-idea-of-more-starcraft/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 77
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2kepUFtQ2fW2LpF5WhYmdG-1200-80.jpg"
-        width: 925
-        height: 487
-        isCached: true
-  - title: "Xbox Boss Weighs In On The Future Of StarCraft"
-    excerpt: "Xbox boss Phil Spencer weighed in on the future of StarCraft, expressing interest in restarting the series with Microsoft's power."
-    publishedDateTime: 2022-11-07T14:01:00Z
-    webUrl: "https://www.svg.com/1089782/xbox-boss-weighs-in-on-the-future-of-starcraft/"
-    type: article
-    provider:
-      name: svg
-      domain: svg.com
-    quality: 37
-    images:
-      - url: "https://www.svg.com/img/gallery/xbox-boss-weighs-in-on-the-future-of-starcraft/l-intro-1667847570.jpg"
-        width: 1600
-        height: 896
-        isCached: true
   - title: "Phil Spencer Wants To Revive Starcraft"
     excerpt: "Phil Spencer comments on the future of Starcraft should the Activision deal proceed, and fans ought to be excited!"
     publishedDateTime: 2022-11-07T22:32:00Z

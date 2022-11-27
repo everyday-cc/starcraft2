@@ -10,7 +10,7 @@
       "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23882276/starcraft-ii-5-0-10-hotfix-patch-notes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -41,6 +41,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-phil-spencer-excited-at-the-prospect-of-new-starcraft-warcraft.md",
+      "title": "Phil Spencer excited at the prospect of new StarCraft & Warcraft",
+      "excerpt": "In a recent interview with Wired, Phil Spencer touches on Blizzard properties like StarCraft and Warcraft, and how he's excited about the opportunity both hold.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard",
+      "originalUrl": "https://www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/11/07/phil-spencer-interview-starcraft-warcraft-activision-blizzard-king-wired_feature.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard?amphtml=1",
+      "publishedDateTime": "2022-11-07T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shacknews",
+        "domain": "shacknews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1166,57 +1208,6 @@
         "name": "XCOM 2 Game Guide",
         "domain": "gamepressure.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-ex-starcraft-and-warcraft-devs-raise-25-million-to-make-an-unreal-engine-5-rts.md",
-      "title": "Ex-StarCraft and Warcraft Devs Raise $25 Million to Make an Unreal Engine 5 RTS",
-      "excerpt": "Frost Giant – which was founded by Tim Morten (production director on StarCraft 2) and Tim Campbell (lead campaign designer on WarCraft 3: The Frozen Throne) – was founded in 2020 with the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard",
-      "originalUrl": "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-prd.ignimgs.com/2022/01/21/untitled-2-1642770149082.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard",
-      "cdnAmpWebUrl": "https://www-ign-com.cdn.ampproject.org/c/s/www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard",
-      "publishedDateTime": "2022-01-25T11:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

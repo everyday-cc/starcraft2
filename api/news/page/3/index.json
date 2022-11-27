@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing.md",
+      "title": "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing",
+      "excerpt": "Video game fans pretty much have tiny museums on their shelves at any given time. Preserving history, having a shrine dedicated to a single franchise, it’s all par for the course.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timeslive.co.za/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/",
+      "originalUrl": "https://www.timeslive.co.za/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/TL9Fq3WQKxkWrsdO7Ooqilhk0xbOxtP9aHMNEKXIQLwVyivVXsftUp4s30PIiGXa0bjPTkLLLEWxXE5zAfmqUlB0QfvPfmI-_yw=s1000",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timeslive.co.za/amp/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/",
+      "cdnAmpWebUrl": "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/",
+      "publishedDateTime": "2021-03-29T00:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times LIVE",
+        "domain": "timeslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_news/2021-03-27-blizzard-is-remastering-starcraft-and-making-it-free-to-play-in-4k.md",
       "title": "Blizzard is remastering Starcraft and making it free to play in 4K",
       "excerpt": "Starcraft fans everywhere will be thrilled to hear that Blizzard will make their favorite real-time strategy game in the universe great again. Launched in 1998 and seen as one of the best RTS ...",
@@ -1053,48 +1096,6 @@
       "provider": {
         "name": "pcinvasion.com",
         "domain": "pcinvasion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-further-development-of-starcraft-2-has-come-to-an-end.md",
-      "title": "Further Development Of StarCraft 2 Has Come To An End",
-      "excerpt": "Blizzard’s StarCraft franchise used to rule the RTS eSports scene, and to a certain extent, StarCraft 2 is still beloved and played by",
-      "sourceUrl": null,
-      "webUrl": "https://www.ubergizmo.com/2020/10/starcraft-2-development-stopped/",
-      "originalUrl": "https://www.ubergizmo.com/2020/10/starcraft-2-development-stopped/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2013/03/StarCraft-II-Heart-of-the-Swarm.jpg",
-          "width": 960,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ubergizmo.com/2020/10/starcraft-2-development-stopped/amp/",
-      "cdnAmpWebUrl": "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2020/10/starcraft-2-development-stopped/amp/",
-      "publishedDateTime": "2020-10-16T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ubergizmo Feed",
-        "domain": "ubergizmo.com",
         "images": null,
         "publishers": null,
         "authors": null

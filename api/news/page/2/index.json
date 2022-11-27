@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-26-ex-starcraft-and-warcraft-devs-raise-25-million-to-make-an-unreal-engine-5-rts.md",
+      "title": "Ex-StarCraft and Warcraft Devs Raise $25 Million to Make an Unreal Engine 5 RTS",
+      "excerpt": "Frost Giant – which was founded by Tim Morten (production director on StarCraft 2) and Tim Campbell (lead campaign designer on WarCraft 3: The Frozen Throne) – was founded in 2020 with the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard",
+      "originalUrl": "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2022/01/21/untitled-2-1642770149082.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard",
+      "cdnAmpWebUrl": "https://www-ign-com.cdn.ampproject.org/c/s/www.ign.com/articles/frost-giant-rts-unreal-engine-5-funding-starcraft-warcraft-blizzard",
+      "publishedDateTime": "2022-01-25T11:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-free-prologue-missions-for-starcraft-2-legacy-of-void-available-now.md",
       "title": "Free Prologue Missions for StarCraft 2: Legacy of Void Available Now",
       "excerpt": "Patch 3.0 for StarCraft 2 opens up access to \"Whispers of Oblivion,\" which let players \"witness the beginning of the end through the eyes of Zeratul as he searches the galaxy in an effort to ...",
@@ -1085,49 +1136,6 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing.md",
-      "title": "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing",
-      "excerpt": "Video game fans pretty much have tiny museums on their shelves at any given time. Preserving history, having a shrine dedicated to a single franchise, it’s all par for the course.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timeslive.co.za/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/",
-      "originalUrl": "https://www.timeslive.co.za/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/TL9Fq3WQKxkWrsdO7Ooqilhk0xbOxtP9aHMNEKXIQLwVyivVXsftUp4s30PIiGXa0bjPTkLLLEWxXE5zAfmqUlB0QfvPfmI-_yw=s1000",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timeslive.co.za/amp/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/",
-      "cdnAmpWebUrl": "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/",
-      "publishedDateTime": "2021-03-29T00:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times LIVE",
-        "domain": "timeslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
       ]
     }
   ],

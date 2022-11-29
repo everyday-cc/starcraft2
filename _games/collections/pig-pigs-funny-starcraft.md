@@ -964,6 +964,7 @@ items:
   - pig-zerg-hater-has-angry-meltdown-cos-queens-exist-salt-mines-19-starcraft-2
   - pig-bm-zerg-offensive-ggs-too-early-lmao-king-of-cannons-20-starcraft-2
   - pig-this-crazy-double-swarm-host-strategy-guarantees-chaos-smooth-brain-stephen-3-starcraft-2
+  - pig-the-sickest-probe-block-trick-ive-ever-seen-icyfar-aggression-starcraft-2
   - pig-i-ultra-nydus-rushed-my-brother-starcraft-2
   - pig-how-many-ravagers-one-shot-a-command-center-strategy-bribes-starcraft-2
   - pig-silver-league-toss-is-enraged-at-this-rush-salt-mines-20-starcraft-2

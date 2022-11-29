@@ -4,23 +4,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-zerg-guide-playing-vs-skytoss.md",
-      "title": "Starcraft 2 Zerg Guide | Playing vs Skytoss",
-      "excerpt": "#zerg #sc2 #starcraft2 Starcraft 2 Zerg Guide | Playing vs Skytoss  00:00 - Intro 01:10 - Playing vs Stargate Openings 02:33 - Standard Setup vs Stargate 03:31 - Macro vs Aggression Signals 04:28 - Teching vs Stargate Openings 05:47 - Skytoss Signals 06:50 - Pro's and Cons of Skytoss 07:50 - Taking Advantage",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-zerg-guide-playing-vs-skytoss/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-zerg-guide-playing-vs-skytoss/",
-      "originalUrl": "https://youtube.com/watch?v=g7Py_A-o9bI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/g7Py_A-o9bI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M5S",
+      "path": "_learning/videos/hushang-tutorials-how-to-defend-cannon-rush-starcraft-2-zerg-guide-2022.md",
+      "title": "How To Defend Cannon Rush | Starcraft 2 Zerg Guide (2022)",
+      "excerpt": "#Starcraft #SC2 #zerg  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-how-to-defend-cannon-rush-starcraft-2-zerg-guide-2022/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-how-to-defend-cannon-rush-starcraft-2-zerg-guide-2022/",
+      "originalUrl": "https://youtube.com/watch?v=9Fsc01NwDoU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9Fsc01NwDoU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M50S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2022-10-16T18:02:04-07:00",
-      "heat": 131,
+      "publishedDateTime": "2022-09-11T13:21:39-07:00",
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/g7Py_A-o9bI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9Fsc01NwDoU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -943,6 +943,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-zerg-guide-playing-vs-skytoss.md",
+      "title": "Starcraft 2 Zerg Guide | Playing vs Skytoss",
+      "excerpt": "#zerg #sc2 #starcraft2 Starcraft 2 Zerg Guide | Playing vs Skytoss  00:00 - Intro 01:10 - Playing vs Stargate Openings 02:33 - Standard Setup vs Stargate 03:31 - Macro vs Aggression Signals 04:28 - Teching vs Stargate Openings 05:47 - Skytoss Signals 06:50 - Pro's and Cons of Skytoss 07:50 - Taking Advantage",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-zerg-guide-playing-vs-skytoss/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-zerg-guide-playing-vs-skytoss/",
+      "originalUrl": "https://youtube.com/watch?v=g7Py_A-o9bI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/g7Py_A-o9bI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M5S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2022-10-16T18:02:04-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/g7Py_A-o9bI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-how-to-counter-protoss-carriers-as-zerg.md",
       "title": "StarCraft 2: How-To Counter PROTOSS CARRIERS As Zerg!",
       "excerpt": "A Zerg tutorial on how to counter Carriers and mass Skytoss play. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 guides: https://goo.gl/CE3Hx5  Ever since the recent balance changes to StarCraft 2's multiplayer, the Zerg versus Protoss match-up has changed. Where as in the past it",
@@ -1182,39 +1213,6 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/winterstarcraft-learn-starcraft-beginner-timing-attacks-all-ins-terran-zerg-protoss.md",
-      "title": "Learn Starcraft - Beginner Timing Attacks & All-Ins (Terran, Zerg & Protoss)",
-      "excerpt": "A few basic builds that can get you far when done fairly well. Also important is how not to overextend and lose everything.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-beginner-timing-attacks-all-ins-terran-zerg-protoss/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-starcraft-beginner-timing-attacks-all-ins-terran-zerg-protoss/",
-      "originalUrl": "https://youtube.com/watch?v=8xOuROdh6t0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8xOuROdh6t0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT58M11S",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-09-21T15:07:57-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8xOuROdh6t0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg",
-        "Terran",
-        "Protoss"
       ]
     }
   ],

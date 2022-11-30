@@ -4,37 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_games/pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2.md",
-      "title": "NEW WORLD RECORD! 1 Protoss v 7 Insane ZERG AI by Goblin (PiG Reacts) - StarCraft 2",
-      "excerpt": "Like and Sub to Goblin NOW https://youtu.be/hGO4tszOnYw ~~~ I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! Here is Goblin's second world record, this time against 7 INSANE Zerg AIs -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=NfEfTFo1-Nk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NfEfTFo1-Nk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M22S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NfEfTFo1-Nk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-11T22:53:41-08:00"
-    },
-    {
       "path": "_games/pig-pig-reacts-uthermals-1-vs-7-insane-zerg-ai-world-record-starcraft-2.md",
       "title": "PIG REACTS: uThermal's 1 vs 7 Insane Zerg AI World Record! - StarCraft 2",
       "excerpt": "I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! After three attempts by others, uThermal decided to step up and create a WORLD RECORD. Can it be done against Terran and Protoss? Can it be done against all random AIs? There are still records to be broken for sure! -- 🐷 Second",
@@ -674,6 +643,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-02-10T04:37:40-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-epic-game-byuns-great-escape-vs-hero.md",
+      "title": "StarCraft 2: EPIC GAME - ByuN's GREAT ESCAPE vs herO!",
+      "excerpt": "Professional match of StarCraft 2 between herO and ByuN. This Terran versus Protoss is a nail biter as nearly half an hour into the game, the match is still not decided.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-game-byuns-great-escape-vs-hero/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-byuns-great-escape-vs-hero/",
+      "originalUrl": "https://youtube.com/watch?v=VTWlvFUmQlc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VTWlvFUmQlc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VTWlvFUmQlc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-02T04:48:57-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-epic-game-super-long-action-packed-pro-match-elazer-vs-nice.md",

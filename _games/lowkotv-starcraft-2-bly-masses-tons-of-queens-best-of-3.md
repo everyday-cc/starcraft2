@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=CCpA8GYEl6k
 type: video
 length: PT56M59S
 publishedDateTime: 2021-06-08T05:36:50Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CCpA8GYEl6k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "X8ksw7lRZn39Lw8o54A8r5+QxV9ALCgV/a6DXWVRjFt9DUD0u9nFDkzj0G6uQZi6NyqV+pas45mPEyFWXk8j3jQltKLPeN2dJQWF10LLCWjKlh3PjhYX4E8pC7wDzemNuNCry/8+7kkCXTYArr7LD1vewuTTvDc482AtDWmOCQRAhRfDzUWUtcAuFrH++yvGimrfPbujZdTTpfa0MMfQniFIafDWvfpSk++IQJxBpHoVHznC42cnnxQZh0NBfOfrWCNJcLE4MTaw7mYhxHBNpiTiWGhbB23bT1dlQo8mPq7Cv/10ia0zsvpwuAgZ6gvGR8xLqvqWWOT8+MJBQlZteKHmYRb30Ezf6iMjEQqG6gkhskrLQvw2ERS9ZxpPdm2KE4zqK+NCcCYF6eE0/q0LKfdGujlSnelFcJztIq7taQ8=;xMOkQyDSdR1pW55tfhavIg=="
+secured: "VAcsses/J+/B7L3jUw+TtnqBNB+4X3b3Dotr2Xfs698q1yjNZAbktWB+FTd4YcriVSzMMGQlDmvsJqfjxQetu/vL3uCPLNtLkJzlJALic3MOgDUn7eeAkxi5hrWeWJvDDguX4twot+osv6LbnpNUgiTsKzQagzKoCBWOVS0zQcThimtxE1BRBlXVMhZ57k9qVSoA08x4S4pS7HXfaTb9jk2JS5Y42MdJ9sbWQNJoULxBCcKhk6FK8GjWbwRSEJLw57MWQ5aIEga6y0oitBwT0w/1v9ozW/34Djjgb/PKkEgXkG2QIcVQgPFF4HsoYqDyM20pV0hvOch+tqqn9H85EKcRm1z6bh/NrKRUZzg8Axquxo+z20h4AuAJ9HKYJHfgccJHcnlQu9D+smN0JfYSrMIpWGBBwEu61TbdNbVLo4w=;QVWgOsUVZ3+H+Q9aa0GNSQ=="
 ---
 

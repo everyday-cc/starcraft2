@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-machines-inn
 type: video
 length: PT52M15S
 publishedDateTime: 2021-01-30T12:55:14Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8JQPqVOKmW8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "t8TbxDyjVH2OjGRTjRjlVTwSQPMUHinM5C+6deVK0aDRLfvuyUi9EFHp9bKeURRRV8fXRE1Qv6vLra9R5lJYKwHO6/am77V1Cr9NUjE5u1uNPLj5/fS0s+zq8DDpWbity4BPhzBbFAhPKZfwxU34JA2/fOsXkQ6BhgHfXIl2l25lpTm9/U+KbrL+QjrM2M37JhY3MhP7DYUxHEqo36ryhFBfQVhefk1Lm72MumTcU1kdy1eUTRo2NtTszc4z9XX2tiUcTNlPmPq35ABbSN/rxewTGnTBNdZyrBRTjpK8VKFZhLjE7dkp74mP5X3RgnGUkwbhYsD8S5bwrC71Le3ob5lbzQWSb9FLUjEWsXTCODwRx1lXn/pIPrPSTIYdHW9hVrItJvanTB4NRvF8Hc6brtxqYOPeHmXbJMDXSW4avfY=;/mDjtO1eWhoGCWbFmSFB6w=="
+secured: "lDJ4L+R2UA+ZYcumMmt8KfazMwcNKIbDU0OHPDFBfKzznUGK8v/RdtMTd7uV2tFSNgRrQMntJOR4XBjN6EEyD6dZoJanmnjz+wyvkSMA7urU43yPwxjiQheDiqMLKxXPBnIoFLwVFO6dkgOv61uP4n4E+a21gNQJEHeaQzdCueIMWkdLSatIbZxfGxfjtORC5NULqNetQ4VudAzc502ImkckPp3srZODvHkeRbiUPNNqv5LfMHCvsnSSWszVDXcCVxcYoxP9RAq65s7kYJVnjdbwzwcQ9OvifRiuo9sdLjEvXwJjI3dLh4kkJd2TKvVm5AjE0QbbCzohPf2B4STpVZIUT8ZH24gvSwTca4MD3yAQjpp5jWIQfEcRQ14+YQExOiX+wbEFLqSCCidiNgCX47HM8EVzujLY5GH5G4HK2TE2VAGMvpbj9JowmuyVf3Ee;+8BqYYQFZbUJfMBFUnbGgg=="
 ---
 

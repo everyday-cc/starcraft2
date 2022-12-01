@@ -969,6 +969,7 @@ items:
   - pig-how-many-ravagers-one-shot-a-command-center-strategy-bribes-starcraft-2
   - pig-silver-league-toss-is-enraged-at-this-rush-salt-mines-20-starcraft-2
   - pig-i-ultra-nydus-rushed-someone-going-bcs-strategy-bribes-starcraft-2
+  - pig-how-quickly-can-scarlett-destroy-maphackers-part-3-holdout-challenge-starcraft-2
   - pig-cannon-rusher-gets-a-taste-of-zerg-karma-smooth-brain-boanaan-3-starcraft-2
   - pig-cheesers-rage-when-they-get-cheesed-lol-salt-mines-21-starcraft-2
   - pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2

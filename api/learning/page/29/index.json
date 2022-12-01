@@ -4,67 +4,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_learning/videos/quasargamers-minute-micro-episode-17-pullback-micro.md",
-      "title": "Minute Micro - Episode 17: Pullback Micro",
-      "excerpt": "Difficulty rating: 2/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on pullback micro.  twitch.tv/Quasarprintf",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-17-pullback-micro/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-17-pullback-micro/",
-      "originalUrl": "https://youtube.com/watch?v=RWnb7vtrU_w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RWnb7vtrU_w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M10S",
-      "provider": {
-        "name": "QuasarGamers",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-09-23T09:22:22-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RWnb7vtrU_w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/quasargamers-minute-micro-episode-18-bunker-vs-spine.md",
-      "title": "Minute Micro - Episode 18: Bunker vs Spine",
-      "excerpt": "Difficulty rating: 9/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on killing spines with bunkers.  twitch.tv/Quasarprintf",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-18-bunker-vs-spine/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-18-bunker-vs-spine/",
-      "originalUrl": "https://youtube.com/watch?v=4FWWTcrQXbI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4FWWTcrQXbI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M10S",
-      "provider": {
-        "name": "QuasarGamers",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-09-30T09:11:07-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4FWWTcrQXbI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/quasargamers-minute-micro-episode-19-killing-scvs.md",
       "title": "Minute Micro - Episode 19: Killing Scv's",
       "excerpt": "Difficulty rating: 2/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on killing scv's that are constructing a building.  twitch.tv/Quasarprintf",
@@ -895,6 +834,66 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/oYvejpormlk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/quasargamers-minute-micro-episode-7-scouting-without-selection.md",
+      "title": "Minute Micro - Episode 7: Scouting Without Selection",
+      "excerpt": "Difficulty rating: 3/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on scouting tech without selecting it.  twitch.tv/Quasarprintf",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-7-scouting-without-selection/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-7-scouting-without-selection/",
+      "originalUrl": "https://youtube.com/watch?v=a4xcnqcQAs4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a4xcnqcQAs4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M8S",
+      "provider": {
+        "name": "QuasarGamers",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-07-09T04:24:19-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/a4xcnqcQAs4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/quasargamers-minute-micro-episode-8-worker-tanking.md",
+      "title": "Minute Micro - Episode 8: Worker Tanking",
+      "excerpt": "Difficulty rating: 2/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on worker tanking.  twitch.tv/Quasarprintf  Why this works:  Units in starcraft acquire targets based on a priority system. Units that are considered a threat are highest",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-8-worker-tanking/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-8-worker-tanking/",
+      "originalUrl": "https://youtube.com/watch?v=c4cHooJBW08",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c4cHooJBW08\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M10S",
+      "provider": {
+        "name": "QuasarGamers",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-07-16T13:30:44-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/c4cHooJBW08/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

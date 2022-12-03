@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=PPPrcODpgc8
 type: video
 length: PT26M44S
 publishedDateTime: 2022-08-30T08:40:44Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PPPrcODpgc8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ySLj+ZCeKWHkkYETbpLk4AesZJ0Z9pEvn6YtkoJEWNpfJXv13JhD76URAuJLQoycSXs/qin5BkGjr+FHN7vJPMJJ8J7GLOGYz8KxViBoxvFr9vO2jvO8qCNVo93BzujKsNMdi2NfVmj6/cZEBajLSzTrgZ2BDKigCF/FnP40mo2yGI7OT5dd5AcA6QbL/b1Fjrzbk5RNQ8EB7CzMyCgrZd4mqBOr5q8c0jPrEckG7fKSNwcEmi/fhun7a7lgplIY7rlpTghfQZcdt3y/1ErrZWXvsxgJjzVVXA+MqwS1zNgrR6bjr+AodOJtol6rwy8WUAmb0qFYB1fr9McO8o0F3/II9+srLI5RbRNfhR0b63ktL0X0VmY+uYlB3PNDvrZ3WRiY5DjDgj7BVp4/4qcIJOnvCXshkInwPHiVxMyZi5M=;DKeSeF38IpNkKgtA76NASA=="
+secured: "9Esw/B9xzq8NRjWWphfILib+Zesns0g0rq6pYfV/089h3ZZ9a1x6Jq461gquz1Cj0Xb790+PqrG5j9NpOmEhku5TYSdNA85RzEzD+z6hEnmN2+sA/HW8f/1frwtYkCL74UvKfjlbzy3yGN2RJIa5BN07cookMETYtgyetYgaiRloThXLDzhlGsp9+NK2+A9mvpO6CfeA+fHCOhElUnCHa6qjx1Nd/xfERcw06qOd2ANDs5oUdB5ymcK7x38G2VkhwbMAe27u+bMYGSQKfn2/Ag0Wv3ONALajUrpQlDSP6ei7Kpw2c8GW6Dx2M5Fv5T/TGGeJ7CHW5JlJh+Sb+pVs5vDm+KvBAng1B2NboZ5GUWHD734LgemNW+Rk53QHWX5CzIesfv2mYcqVViReXQu7DjDeOl0gu+gjchWl1wjddLI=;7kqrH1xFBGp6ydq/2WRgbg=="
 ---
 

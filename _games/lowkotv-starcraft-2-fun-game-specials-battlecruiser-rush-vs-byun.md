@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=eghsu3vyQjc
 type: video
 length: PT26M7S
 publishedDateTime: 2022-07-12T09:06:32Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eghsu3vyQjc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "TBdlL0HfmEQ6w1FTlYHKRfbB3efUlqAuPGch5h4LG6sTML0BiokrtUl3cUUy2QzEQW6VObCPXzqLNVozxbxCwG5UJNbK8s+a4SIWSgCm3WOdu7C/eqSKgm8i6LxdilggSKA1oVyLxdyB8aLt9MAmSM5/4B3MzF76+/zdAN3Vp2zu5+keKMIxUsN3N2zSA9dyfECguiLJUEgkQZTz3WhhNWjxkgq/uL8vYYXop/bzyt14X2bqqPBO7o3blc0orhtGwt17YxbPvY+GXv85FE6WFeJtmCKvAXV/9J+noHSbyeXzeOBkVjkUW4f5F99R1gidICThWKPT5jMAKv5Myj3DtTiXdpFAbH5y8G/d/SM1X/3iSjCEZ+CwKJNmwB2wudvFUP8S9Fj8i5MQeawnxisvyjQPNQ8PujfiV7ZH2bldAKQ=;NgpNsNkXXQbVWJlTAp/Sew=="
+secured: "iQV4Wgb8eqQ4oSKJdt7lNDg3eHsCJ3TWZHC34JwASPKPjonwQ2n8tOwk6b9M6zQrWd8v6oKUEZstN0/kgTOoXfeAdwVdVR/G0mzk1dNaBV1495YYbUpF2hNT3d0Sv4ltSYriohoJCgZrlmUn4sgRroCa9WfqLPzRcqZSGTHI4gptVQC457bK2c5KxhGrUNnC2GrdWoNnMfAMd1/iWGysBd1VeR3UlZAo/JxblOisk2DZFzy5LHXoJdRBLS46qchWry2tpqaJ8Mx/V2RGOcLgdKyRxk4wT7g1q9nwaPZdKpbijzIHKkm9m0B83hM1mEKk5gDtQObkDVPOBZ0YQNNfY1cE247M9Iz2CI0DLUNOuRZiI3xAYZRDWdsBBYmzpHnk8cwXU8TvJu+dQdy98VDutPfLPBqkFtdeF3kUGu41TCE=;d3c3LRqlAcq9jhAYdcR1cw=="
 ---
 

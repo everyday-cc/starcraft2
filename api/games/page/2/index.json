@@ -221,7 +221,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 137,
+      "heat": 133,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qXW4B0HhjDk/maxresdefault.jpg",
@@ -295,43 +295,6 @@
       "publishedDateTime": "2022-09-05T04:02:46-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-strange-strategies-one-base-nydus-rush.md",
-      "title": "StarCraft 2: STRANGE STRATEGIES - One Base Nydus RUSH?!",
-      "excerpt": "Strange games of StarCraft 2 submitted by viewers! In this video I cast three games of players in Diamond League. If you also have a great game of SC2 that you would like me to cast, you can submit it to replays@lowko.tv.  00:00 Game 1 - Protoss vs Terran - Valravn vs Weedjo 16:26 Game 2 - Protoss vs",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-strange-strategies-one-base-nydus-rush/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-strange-strategies-one-base-nydus-rush/",
-      "originalUrl": "https://youtube.com/watch?v=lRp_g-4ovA0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lRp_g-4ovA0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M47S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 119,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lRp_g-4ovA0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-22T04:01:24-07:00"
-    },
-    {
       "path": "_games/pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-starcraft-2.md",
       "title": "How to beat the 1v7 INSANE AI Challenge (no, Beastyqt has not done it) - StarCraft 2",
       "excerpt": "I have challenged StarCraft 2 Pros to take on 7 INSANE Cheater AIs at once! Serral has said it is impossible unless maybe they're all Zergs. After Spirit (Soul) tried it first, the next person brave enough to try it is PiLiPiLi, a Protoss player. He took on 7 Random insane AIs all on Any Build. Then",
@@ -390,25 +353,26 @@
       "publishedDateTime": "2022-11-11T21:37:04-08:00"
     },
     {
-      "path": "_games/pig-how-many-ravagers-one-shot-a-command-center-strategy-bribes-starcraft-2.md",
-      "title": "How many ravagers ONE SHOT a command center? | Strategy Bribes - StarCraft 2",
-      "excerpt": "Twitch chat bribed me to do challenges on stream. This is the result! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-many-ravagers-one-shot-a-command-center-strategy-bribes-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-many-ravagers-one-shot-a-command-center-strategy-bribes-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=HmGs8tjmkrU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HmGs8tjmkrU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M12S",
+      "path": "_games/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-pigs-filthy-adventures-15-starcraft-2.md",
+      "title": "Inflicting the Fastest Nydus Swarm Hosts EVER on GMs | PiG's Filthy Adventures #15 -StarCraft 2",
+      "excerpt": "Subscribe to PiG Casts! 🐷 I said I would inflict this pain onto others - and it worked better than I thought it would! Protoss especially have a lot of trouble dealing with my version of the Fastest Nydus Swarm Hosts build. If you want my notes they're in The Book of Filth 2.0: https://docs.google.com/document/d/1GbpZ-qjoUQ42ZwVsmk3cYgLZ1WYNcLc9l6KUo-Zuudk/edit?usp=sharing",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-pigs-filthy-adventures-15-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-pigs-filthy-adventures-15-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=FH8HSBuhhM4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FH8HSBuhhM4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M11S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Zerg"
       ],
-      "heat": 112,
+      "heat": 115,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/HmGs8tjmkrU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/FH8HSBuhhM4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -416,7 +380,36 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-11-03T20:36:28-07:00"
+      "publishedDateTime": "2022-09-11T05:45:43-07:00"
+    },
+    {
+      "path": "_games/pig-this-is-why-you-scout-your-main-base-most-annoying-player-ever-4-starcraft-2.md",
+      "title": "This Is Why You Scout Your Main Base | Most Annoying Player Ever #4 - StarCraft 2",
+      "excerpt": "Let's see how annoying I can be :D -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2 🐷 PiG’s Discord:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-is-why-you-scout-your-main-base-most-annoying-player-ever-4-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-is-why-you-scout-your-main-base-most-annoying-player-ever-4-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=QWY7LkBOC3g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QWY7LkBOC3g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M40S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 113,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QWY7LkBOC3g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-15T02:11:46-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-seige-tactics-g1.md",
@@ -448,14 +441,14 @@
       "publishedDateTime": "2022-04-27T23:30:12-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-maxpaxs-counter-cheese-vs-reynor-best-of-3.md",
-      "title": "StarCraft 2: MaxPax's COUNTER CHEESE vs Reynor! (Best-of-3)",
-      "excerpt": "Cheese into cheese! Best-of-3 series of professional StarCraft 2 between Reynor and MaxPax. This series was recently played during the Champion's Cup tournament and features a lot of unconventional build orders.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpaxs-counter-cheese-vs-reynor-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpaxs-counter-cheese-vs-reynor-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=Q0Gj6SwDKfQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q0Gj6SwDKfQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M34S",
+      "path": "_games/lowkotv-starcraft-2-tier-3-rush-hes-skipping-early-mid-game.md",
+      "title": "StarCraft 2: TIER 3 RUSH - He's SKIPPING Early & Mid Game!",
+      "excerpt": "High level of StarCraft 2 between PiliPili (Protoss) and Vindicta (Terran). In this game the Protoss player decides to rush out tier 3 units right away, skipping both the early and mid game entirely.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-tier-3-rush-hes-skipping-early-mid-game/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-tier-3-rush-hes-skipping-early-mid-game/",
+      "originalUrl": "https://youtube.com/watch?v=sk5Sje4pWEY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sk5Sje4pWEY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M53S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -469,13 +462,12 @@
         ]
       },
       "topics": [
-        "StarCraft 2",
-        "Zerg"
+        "StarCraft 2"
       ],
-      "heat": 108,
+      "heat": 109,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Q0Gj6SwDKfQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/sk5Sje4pWEY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -483,7 +475,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-11-11T04:07:21-08:00"
+      "publishedDateTime": "2022-11-01T05:56:40-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",
@@ -597,43 +589,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-10-12T03:02:20-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-no-oracles-no-problems-maxpax-vs-meomaika.md",
-      "title": "StarCraft 2: No Oracles, No Problems! (MaxPax vs MeomaikA)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between MeomaikA (Zerg) and MaxPax (Protoss). This is a very interesting series of Zerg versus Protoss as not only do these games take place on new maps, both players decide to pick unique strategies that we don't commonly see in StarCraft 2.  Support my work",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-no-oracles-no-problems-maxpax-vs-meomaika/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-no-oracles-no-problems-maxpax-vs-meomaika/",
-      "originalUrl": "https://youtube.com/watch?v=KAXAXRcXrT4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KAXAXRcXrT4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M36S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 103,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KAXAXRcXrT4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-22T03:13:30-08:00"
     },
     {
       "path": "_games/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starlords-filthy-adventures-15-starcraft-2.md",
@@ -802,6 +757,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-02T20:09:43-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-no-oracles-no-problems-maxpax-vs-meomaika.md",
+      "title": "StarCraft 2: No Oracles, No Problems! (MaxPax vs MeomaikA)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between MeomaikA (Zerg) and MaxPax (Protoss). This is a very interesting series of Zerg versus Protoss as not only do these games take place on new maps, both players decide to pick unique strategies that we don't commonly see in StarCraft 2.  Support my work",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-no-oracles-no-problems-maxpax-vs-meomaika/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-no-oracles-no-problems-maxpax-vs-meomaika/",
+      "originalUrl": "https://youtube.com/watch?v=KAXAXRcXrT4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KAXAXRcXrT4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M36S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 99,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KAXAXRcXrT4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-22T03:13:30-08:00"
     },
     {
       "path": "_games/pig-how-to-win-without-killing-a-single-worker-icyfar-rules-of-engagement-compilation-starcraft-2.md",

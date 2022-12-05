@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-nuke-dream-v
 type: video
 length: PT37M35S
 publishedDateTime: 2021-01-18T12:06:10Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WgG_32aY-S8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "PrbG0grGxfqqzPiLMDrPxeC0Y0LTcYHg4avypktUNFXHzgZ/wMQO5qT/eUO5iGUWscpZTVnkBWvzsCsPNrFWvCmrZoxDV/37ghwNdnqeHI2l3r+V8d3OYCrq5GSz9bQvcyG1jQpw8FxNu4IhxKB11MAm8Ae7Sb4Di2B+sqUlyDX1xD2oBsjE/W4wwHwXfyrQz2DdosEOKyzbj/tT2GYxlT9JqnBLU0rd9cVFaIL1gNlBu2l3U5knRpuin1yeQYfCIv0I4JWOCZAmk3cjl+qM3PdNOVZtDh2phMiDG3sVluwzNOUGTna4bwa7NjPWlw4IAJBgqW0qGlAHafz61PFmY0hE61bqhXX0GWDDi8Bcd0d3DEIRC5RYzTZjVQk1NXIzvIf3CfYkEAYI1p2V+CW7HVwCld0tIA5f6Z/jHR1xjp2Eu3SvQSkY0k47NLS7nYfk;Aw0fNBWkSDWINTK+rfJvnw=="
+secured: "gH9sV4yberissSEdemmeF/au30OPD1xdZYA986IX3Oz9PThZUEM/Cxx97V5wo3W0xqeKA/CPb0mkq1mjfVOv7esbaTsodDApgvkR8fsOClPeX28Vu0ZWvJUhIcDBDzNEp3zlhAKtdxwushkdleIaWYqcyjTKjZdskfIBgSMXHOittJQGEv9ZYdjaLRGOkCl+QYOuihUEU6zo8zywZJ1LsIg5Ni02MUUi/uMkV3yvHO+foQnje+Se8k4fZxtcSOwwJhTEG4DHnixu+OsIbSM/cGuH8PZL1SJGXGSOJstAmz0gPoVjZnDnbUG+0N7sAcJCG5Q1ylGW0lAMTTOy9nLguH7/kcRD2tFWbrADvgyc14FKU2A/yqXnnjlLF++PKjEISqAokNDj0LKL7dx3YvVMFWfDXkJs3oIvZ1PIqUz9vnQ=;c++tkeb2NQI8cC03bPqe2w=="
 ---
 

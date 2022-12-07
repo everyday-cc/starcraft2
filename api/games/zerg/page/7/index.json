@@ -4,68 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_games/pig-how-quickly-can-reynor-dispose-of-noobs-part-3-holdout-challenge-starcraft-2.md",
-      "title": "How quickly can REYNOR dispose of noobs? (Part 3) | Holdout Challenge - StarCraft 2",
-      "excerpt": "We paid Reynor to 1v1 noobs in StarCraft 2. The challenge: the noobs needed to stay in the match for as long as possible. How did they fare against an actual Zerg Championship player? This is Part 3 out of 4  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-reynor-dispose-of-noobs-part-3-holdout-challenge-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-reynor-dispose-of-noobs-part-3-holdout-challenge-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=_AuwZjO6KWo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_AuwZjO6KWo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M28S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_AuwZjO6KWo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-03T15:26:15-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-240apm-but-cant-spot-a-nuke-for-the-life-of-them-florencio-files-268.md",
-      "title": "StarCraft 2 - 240APM but can’t spot a nuke for the life of them! | Florencio Files #268",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-240apm-but-cant-spot-a-nuke-for-the-life-of-them-florencio-files-268/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-240apm-but-cant-spot-a-nuke-for-the-life-of-them-florencio-files-268/",
-      "originalUrl": "https://youtube.com/watch?v=4K-9pdYAlIs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4K-9pdYAlIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M56S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4K-9pdYAlIs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-05-11T20:17:42-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-florencio-serves-7-course-meal-of-tvz-bs-florencio-files-260.md",
       "title": "StarCraft 2 - Florencio serves 7-course meal of TvZ BS! | Florencio Files #260",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
@@ -128,14 +66,14 @@
       "publishedDateTime": "2021-11-02T00:55:49-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-reynors-pure-zergling-zvt-on-his-troll-account.md",
-      "title": "StarCraft 2 - REYNOR'S PURE ZERGLING ZvT (on his troll account!)",
-      "excerpt": "Reynor OP, clearly. Has an alt account that is still at 7K MMR wtf! The rest of us wish we can use zerglings with half the success he does. Really happy to see such tremendous skill in such a young player and hopefully we'll keep seeing his success in Starcraft for many years to come🎤 More Pro SC2 Casts:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-reynors-pure-zergling-zvt-on-his-troll-account/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-reynors-pure-zergling-zvt-on-his-troll-account/",
-      "originalUrl": "https://youtube.com/watch?v=HYGv6YSuDyg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HYGv6YSuDyg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M37S",
+      "path": "_games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-2-holdout-challenge.md",
+      "title": "StarCraft 2 - How Quickly Can SCARLETT Dispose Of Noobs? (PART 2) | Holdout Challenge",
+      "excerpt": "We paid Scarlett to 1v1 noobs. The challenge: the noobs needed to stay in the match as long as possible while Scarlett did her best to cheese the heck out of them. THIS TIME: She also faced off against the winner of the first Smooth Brain Audition, Santa Claws. Was his dome glassy enough to stay in the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-2-holdout-challenge/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-2-holdout-challenge/",
+      "originalUrl": "https://youtube.com/watch?v=pAjN0kOKxds",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pAjN0kOKxds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M7S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -147,7 +85,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/HYGv6YSuDyg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/pAjN0kOKxds/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -155,7 +93,67 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+      "publishedDateTime": "2021-11-15T01:42:53-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-3-holdout-challenge.md",
+      "title": "StarCraft 2 - How Quickly Can SCARLETT Dispose Of Noobs? (PART 3) | Holdout Challenge",
+      "excerpt": "We paid Scarlett to 1v1 noobs. The challenge: the noobs needed to stay in the match as long as possible while Scarlett did her best to cheese the heck out of them. This Holdout Challenge was a part of  PiG Sty Festival 2021.   Holdout Challenge Part 1: https://youtu.be/hpv300poAUE Holdout Challenge Part",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-3-holdout-challenge/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-3-holdout-challenge/",
+      "originalUrl": "https://youtube.com/watch?v=BOqUdp10r9A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BOqUdp10r9A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M5S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BOqUdp10r9A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-21T21:29:25-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-lowko-is-an-f2-zerg-350-apm-0-control-groups.md",
+      "title": "StarCraft 2 - Lowko is an F2 Zerg! (350 APM, 0 Control Groups...)",
+      "excerpt": "I discovered Lowko's dirty secret - he's an F2 Zerg player! -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-lowko-is-an-f2-zerg-350-apm-0-control-groups/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-lowko-is-an-f2-zerg-350-apm-0-control-groups/",
+      "originalUrl": "https://youtube.com/watch?v=DX9tNY73RYA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DX9tNY73RYA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M3S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DX9tNY73RYA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-04-28T20:46:43-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-when-the-zerg-is-zerging-so-you-gotta-terran-diamond-in-the-ruff-72.md",
@@ -189,14 +187,14 @@
       "publishedDateTime": "2022-05-02T18:51:47-07:00"
     },
     {
-      "path": "_games/pig-the-double-drone-rush-to-piss-off-protosses-everywhere-smooth-brain-stephen-2-starcraft-2.md",
-      "title": "The Double Drone Rush to Piss Off Protosses Everywhere! | Smooth Brain Stephen #2 - StarCraft 2",
-      "excerpt": "Stephen won Season 2 of the Smooth Brain Auditions with his Spawning Pool off creep game, which was 100% glassy. This new series is dedicated to his smoothness.  How Stephen won Season 2: https://youtu.be/1S7dlYy947Y Watch (A Collection of) Smooth Brains playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-double-drone-rush-to-piss-off-protosses-everywhere-smooth-brain-stephen-2-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-double-drone-rush-to-piss-off-protosses-everywhere-smooth-brain-stephen-2-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=wAAuLXzuIRw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wAAuLXzuIRw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M47S",
+      "path": "_games/pig-taunted-him-with-my-drone-and-got-away-with-omega-greed-lol-mac-or-cheese-4-starcraft-2.md",
+      "title": "Taunted him with my Drone and got away with omega greed lol! | Mac or Cheese #4 - StarCraft 2",
+      "excerpt": "NEW SHOW! I secretly played a few games on a dirty barcode account and offered my StarCraft 2 opponents a choice: Macro or Cheese? How the game plays out is up to them!  Watch the Full Playlist: https://youtube.com/playlist?list=PLFUDU8AOevUfPxBiGAdbbg9sRfRF9ZV28 -- 🐷 Second Channel for Learning StarCraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-taunted-him-with-my-drone-and-got-away-with-omega-greed-lol-mac-or-cheese-4-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-taunted-him-with-my-drone-and-got-away-with-omega-greed-lol-mac-or-cheese-4-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=1p5nCTvqFJU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1p5nCTvqFJU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M26S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -208,7 +206,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/wAAuLXzuIRw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/1p5nCTvqFJU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -216,7 +214,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-08-31T19:53:00-07:00"
+      "publishedDateTime": "2022-08-03T21:25:26-07:00"
     },
     {
       "path": "_games/pig-the-stuff-zerg-nightmares-are-made-of-kings-of-cannons-16.md",

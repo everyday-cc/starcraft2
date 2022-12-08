@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-26-warcraft-and-starcraft-veterans-make-a-pc-rts-on-unreal-engine-5.md",
+      "title": "Warcraft and StarCraft Veterans Make a PC RTS on Unreal Engine 5",
+      "excerpt": "The Frozen Throne expansion have set up a new studio, where they are working on a PC RTS. They have already raised over $34 million for this purpose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamepressure.com/newsroom/warcraft-and-starcraft-veterans-make-a-pc-rts-on-unreal-engine-5/z03f6a",
+      "originalUrl": "https://www.gamepressure.com/newsroom/warcraft-and-starcraft-veterans-make-a-pc-rts-on-unreal-engine-5/z03f6a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.gracza.pl/i_gp/h/22/380880872.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamepressure.com/S013-amp.asp?ID=16234",
+      "cdnAmpWebUrl": "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=16234",
+      "publishedDateTime": "2022-01-26T01:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "XCOM 2 Game Guide",
+        "domain": "gamepressure.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-ex-starcraft-and-warcraft-devs-raise-25-million-to-make-an-unreal-engine-5-rts.md",
       "title": "Ex-StarCraft and Warcraft Devs Raise $25 Million to Make an Unreal Engine 5 RTS",
       "excerpt": "Frost Giant – which was founded by Tim Morten (production director on StarCraft 2) and Tim Campbell (lead campaign designer on WarCraft 3: The Frozen Throne) – was founded in 2020 with the ...",
@@ -1084,58 +1126,6 @@
       ],
       "topics": [
         "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-the-rise-of-reynor-behind-the-scenes-with-the-starcraft-ii-sensation.md",
-      "title": "The rise of Reynor: Behind the scenes with the StarCraft II sensation",
-      "excerpt": "Learn more about the 2021 IEM Katowice champion who became a professional at the age of 11.",
-      "sourceUrl": null,
-      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23656252/the-rise-of-reynor-behind-the-scenes-with-the-starcraft-ii-sensation",
-      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23656252/the-rise-of-reynor-behind-the-scenes-with-the-starcraft-ii-sensation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ki/KIRS4QBACSBL1520554089697.jpg",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
       ]
     }
   ],

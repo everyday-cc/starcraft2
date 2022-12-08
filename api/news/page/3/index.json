@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-06-the-rise-of-reynor-behind-the-scenes-with-the-starcraft-ii-sensation.md",
+      "title": "The rise of Reynor: Behind the scenes with the StarCraft II sensation",
+      "excerpt": "Learn more about the 2021 IEM Katowice champion who became a professional at the age of 11.",
+      "sourceUrl": null,
+      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23656252/the-rise-of-reynor-behind-the-scenes-with-the-starcraft-ii-sensation",
+      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23656252/the-rise-of-reynor-behind-the-scenes-with-the-starcraft-ii-sensation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ki/KIRS4QBACSBL1520554089697.jpg",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing.md",
       "title": "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing",
       "excerpt": "Video game fans pretty much have tiny museums on their shelves at any given time. Preserving history, having a shrine dedicated to a single franchise, it’s all par for the course.",
@@ -1054,48 +1106,6 @@
       "provider": {
         "name": "SlashGear",
         "domain": "slashgear.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-blizzard-ends-starcraft-2-development-ten-years-after-launch.md",
-      "title": "Blizzard ends StarCraft 2 development ten years after launch",
-      "excerpt": "Commanders, take a bow. The decade-long conflict will no longer see new content as Blizzard announces the end of StarCraft 2 development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcinvasion.com/blizzard-starcraft-2-development/",
-      "originalUrl": "https://www.pcinvasion.com/blizzard-starcraft-2-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcinvasion.com/wp-content/uploads/2020/10/Blizzard-ends-StarCraft-2-development-ten-years-after-launch-2.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcinvasion.com/blizzard-starcraft-2-development/amp/",
-      "cdnAmpWebUrl": "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/blizzard-starcraft-2-development/amp/",
-      "publishedDateTime": "2020-10-16T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pcinvasion.com",
-        "domain": "pcinvasion.com",
         "images": null,
         "publishers": null,
         "authors": null

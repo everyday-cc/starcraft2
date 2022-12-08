@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-17-blizzard-ends-starcraft-2-development-ten-years-after-launch.md",
+      "title": "Blizzard ends StarCraft 2 development ten years after launch",
+      "excerpt": "Commanders, take a bow. The decade-long conflict will no longer see new content as Blizzard announces the end of StarCraft 2 development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcinvasion.com/blizzard-starcraft-2-development/",
+      "originalUrl": "https://www.pcinvasion.com/blizzard-starcraft-2-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcinvasion.com/wp-content/uploads/2020/10/Blizzard-ends-StarCraft-2-development-ten-years-after-launch-2.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcinvasion.com/blizzard-starcraft-2-development/amp/",
+      "cdnAmpWebUrl": "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/blizzard-starcraft-2-development/amp/",
+      "publishedDateTime": "2020-10-16T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pcinvasion.com",
+        "domain": "pcinvasion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-further-development-of-starcraft-2-has-come-to-an-end.md",
       "title": "Further Development Of StarCraft 2 Has Come To An End",
       "excerpt": "Blizzard’s StarCraft franchise used to rule the RTS eSports scene, and to a certain extent, StarCraft 2 is still beloved and played by",
@@ -1174,57 +1216,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-11T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-starcraft-ii-4120-patch-notes.md",
-      "title": "StarCraft II 4.12.0 Patch Notes",
-      "excerpt": "Patch 4.12.0 has arrived. Check out the detail!",
-      "sourceUrl": null,
-      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23442717/starcraft-ii-4-12-0-patch-notes",
-      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23442717/starcraft-ii-4-12-0-patch-notes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T12:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Blizzard",

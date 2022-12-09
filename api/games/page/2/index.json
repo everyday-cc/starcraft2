@@ -376,6 +376,74 @@
       "publishedDateTime": "2022-09-05T04:02:46-07:00"
     },
     {
+      "path": "_games/pig-failed-cannon-rusher-has-crazy-meltdown-salt-mines-13-starcraft-2.md",
+      "title": "Failed cannon rusher has CRAZY MELTDOWN | Salt Mines #13 - StarCraft 2",
+      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-failed-cannon-rusher-has-crazy-meltdown-salt-mines-13-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-failed-cannon-rusher-has-crazy-meltdown-salt-mines-13-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=7bjEqRj_hBo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7bjEqRj_hBo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M29S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 126,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7bjEqRj_hBo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-15T03:24:04-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-best-tvt-of-the-year-maru-the-medivac-magician.md",
+      "title": "StarCraft 2: BEST TvT OF THE YEAR? - Maru, the Medivac Magician!",
+      "excerpt": "Amazing game of top level StarCraft 2 between ByuN (Terran) and Maru (Terran). The current number 1 and number 2 Terrans on the planet. One of the best games of SC2 this year for sure.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-tvt-of-the-year-maru-the-medivac-magician/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-tvt-of-the-year-maru-the-medivac-magician/",
+      "originalUrl": "https://youtube.com/watch?v=Mn2fH8XIk60",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mn2fH8XIk60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 124,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Mn2fH8XIk60/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-08T05:03:35-08:00"
+    },
+    {
       "path": "_games/pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-starcraft-2.md",
       "title": "How to beat the 1v7 INSANE AI Challenge (no, Beastyqt has not done it) - StarCraft 2",
       "excerpt": "I have challenged StarCraft 2 Pros to take on 7 INSANE Cheater AIs at once! Serral has said it is impossible unless maybe they're all Zergs. After Spirit (Soul) tried it first, the next person brave enough to try it is PiLiPiLi, a Protoss player. He took on 7 Random insane AIs all on Any Build. Then",
@@ -470,66 +538,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-27T23:30:12-07:00"
-    },
-    {
-      "path": "_games/pig-even-maphackers-have-excuses.md",
-      "title": "Even Maphackers have excuses.",
-      "excerpt": "I faced this maphacker on ladder AGAIN and this is how it went. Also I think I found them in my YT comments of my first video: https://youtu.be/Zx3M_K5_q6Q -- 🐷 Main Channel: https://www.youtube.com/user/PiGstarcraft 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom --",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-even-maphackers-have-excuses/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-even-maphackers-have-excuses/",
-      "originalUrl": "https://youtube.com/watch?v=quNkJNrsr2M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/quNkJNrsr2M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M4S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/quNkJNrsr2M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-28T02:55:51-07:00"
-    },
-    {
-      "path": "_games/pig-zergs-sneaky-strategy-to-catch-terran-out-icyfar-blood-sacrifice-starcraft-2.md",
-      "title": "Zerg’s SNEAKY strategy to catch Terran out | ICYFAR \"Blood Sacrifice\" - StarCraft 2",
-      "excerpt": "🤯 NEW ICYFAR CHALLENGE: Tryhard - Be overly aggressive, like way too aggressive. Extra points for creativity. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 3rd October -- 🤯 In this week’s episode of I Cast Your",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-zergs-sneaky-strategy-to-catch-terran-out-icyfar-blood-sacrifice-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-zergs-sneaky-strategy-to-catch-terran-out-icyfar-blood-sacrifice-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=BfCTQw-Z6Ws",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BfCTQw-Z6Ws\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M33S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BfCTQw-Z6Ws/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-17T23:07:00-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-byuns-filthy-cheeses-vs-maxpax-best-of-3.md",

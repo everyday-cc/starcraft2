@@ -4,44 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-the-zergs-command-center-viewer-game.md",
-      "title": "StarCraft 2: The ZERG's Command Center! (Viewer Game)",
-      "excerpt": "A viewer submitted game of StarCraft 2 where the Zerg manages to win the game two minutes in, but for some reason doesn't go in for the kill. He decides to sit around and toy with his opponents units untill he can make his own Terran army using the Infestor and Neural Parasite.  Support my work on Patreon:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-zergs-command-center-viewer-game/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-zergs-command-center-viewer-game/",
-      "originalUrl": "https://youtube.com/watch?v=hDNl73-e2OI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hDNl73-e2OI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M40S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hDNl73-e2OI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-11T01:18:00-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-zests-spicy-stargate-variety-best-of-5-vs-solar.md",
       "title": "StarCraft 2: Zest's SPICY Stargate Variety! (Best-of-5 vs Solar)",
       "excerpt": "Best-of-5 series of professional StarCraft 2 between Solar (Zerg) and Zest (Protoss). In this match Zest decides to play a vareity of Stargate openers, from Void Rays to Tempests and Phoenixes. This series is the grand finals of the ESL Open Cup 108 Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv",
@@ -195,6 +157,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-03T20:36:28-07:00"
+    },
+    {
+      "path": "_games/pig-i-ultra-nydus-rushed-someone-going-bcs-strategy-bribes-starcraft-2.md",
+      "title": "I Ultra Nydus Rushed someone going BCs! | Strategy Bribes - StarCraft 2",
+      "excerpt": "Twitch chat bribed me to do challenges on stream. This is the result! First one is ultra nydus... against someone going BCs! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-i-ultra-nydus-rushed-someone-going-bcs-strategy-bribes-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-i-ultra-nydus-rushed-someone-going-bcs-strategy-bribes-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=DIfJzv5atPs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DIfJzv5atPs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M56S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DIfJzv5atPs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-05T17:45:06-07:00"
     },
     {
       "path": "_games/pig-new-world-record-1-terran-vs-7-insane-random-ai-by-heromarine-pig-reacts-starcraft-2.md",

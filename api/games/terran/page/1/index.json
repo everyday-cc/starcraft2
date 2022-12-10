@@ -4,6 +4,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-byun-keeps-confusing-maxpax-grand-finals.md",
+      "title": "StarCraft 2: ByuN Keeps CONFUSING MaxPax! (Grand Finals)",
+      "excerpt": "Best-of-5 series of StarCraft 2 that's the Grand Finals of the ESL Open Cup 151 Americas. This sereis of Terran versus Protoss between ByuN and MaxPax is a very cheesy one, as ByuN just keeps cheesing MaxPax.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-keeps-confusing-maxpax-grand-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-keeps-confusing-maxpax-grand-finals/",
+      "originalUrl": "https://youtube.com/watch?v=sm31RBEux4E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sm31RBEux4E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 278,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sm31RBEux4E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-10T04:32:40-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-has-amazing-eco-cheese-vs-byun-best-of-3.md",
       "title": "StarCraft 2: Has' AMAZING Eco Cheese vs ByuN! (Best-of-3)",
       "excerpt": "Best-of-3 series of StarCraft 2 between Has (Protoss) and ByuN (Terran). In this series Has decides to do Has things, as he focuses on an insane Protoss economy, going toe to toe versus ByuN in macro games. I guess we can call this economy cheese?  Support my work on Patreon: https://www.patreon.com/lowkotv",
@@ -382,45 +420,6 @@
       "publishedDateTime": "2021-12-24T13:58:31-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-byun-plays-insanely-risky-vs-dark-best-of-5.md",
-      "title": "StarCraft 2: ByuN Plays INSANELY Risky vs Dark! (Best-of-5)",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 between Dark (Zerg) and ByuN (Terran). In this series both players, but especially ByuN, play incredibly greedy games. This SC2 best-of-5 was recently played as part of an AlphaX tournament.  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-plays-insanely-risky-vs-dark-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-plays-insanely-risky-vs-dark-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=sLOViPQSyd8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sLOViPQSyd8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M32S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 115,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sLOViPQSyd8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-19T04:44:39-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-epic-semi-finals-maru-vs-hero-best-of-5.md",
       "title": "StarCraft 2: EPIC Semi Finals - Maru vs herO! (Best-of-5)",
       "excerpt": "The best Terran facing off against the best Protoss. This series of StarCraft 2 is the semi finals of Dreamhack Atlanta. Maru is considered to be the best Terran player of all time in SC2, and herO has once again grabbed the title of best Protoss after completing his military service some time ago. This",
@@ -458,6 +457,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-26T04:55:34-08:00"
+    },
+    {
+      "path": "_games/pig-world-record-uthermals-1-terran-v-7-insane-terran-ai-pig-reacts-starcraft-2.md",
+      "title": "WORLD RECORD! uThermal's 1 Terran v 7 Insane Terran AI (PiG Reacts) - StarCraft 2",
+      "excerpt": "I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! uThermal already did 1 Terran vs 7 Zerg Insane AIs. Then HeroMarine stepped up with 1 Terran vs 7 Random Insane AIs. Now uThermal is back with 1 Terran vs 7 TERRAN Insane AIs. How many world records can these guys break?!",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-world-record-uthermals-1-terran-v-7-insane-terran-ai-pig-reacts-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-world-record-uthermals-1-terran-v-7-insane-terran-ai-pig-reacts-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=DUVC53u9kQI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DUVC53u9kQI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H22M26S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 111,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DUVC53u9kQI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-27T20:44:34-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-uthermals-only-cyclones-widow-mine-strategy.md",
@@ -1090,37 +1119,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-25T05:07:04-07:00"
-    },
-    {
-      "path": "_games/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53.md",
-      "title": "When the Protoss is Protossing, and you gotta Terran | Diamond in the Ruff #53",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent? 🐷 Support PiG: https://www.patreon.com/PiGSC2  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53/",
-      "originalUrl": "https://youtube.com/watch?v=ilVJs5gQrP8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ilVJs5gQrP8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M53S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ilVJs5gQrP8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-09-24T01:39:41-07:00"
     }
   ],
   "nextPage": 2

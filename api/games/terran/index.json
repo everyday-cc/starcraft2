@@ -58,7 +58,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 232,
+      "heat": 220,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/2jd4Hj5EGpg/maxresdefault.jpg",
@@ -289,7 +289,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 191,
+      "heat": 166,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/4bhTDgW8ook/maxresdefault.jpg",
@@ -301,6 +301,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-05T03:03:28-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-terran-mech-vs-terran-bio-special-vs-kelazhur.md",
+      "title": "StarCraft 2: Terran Mech vs Terran Bio! (SpeCial vs Kelazhur)",
+      "excerpt": "High level game of StarCraft 2 between SpeCial and Kelazhur. This is a match of Terran versus Terran played during the Dreamhack Atlanta Regionals. In this pro game Kelazhur decides to play Terran bio, where as SpeCial plays Terran mech.  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-mech-vs-terran-bio-special-vs-kelazhur/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-terran-mech-vs-terran-bio-special-vs-kelazhur/",
+      "originalUrl": "https://youtube.com/watch?v=LdROcUTab7c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LdROcUTab7c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 145,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LdROcUTab7c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-02T05:54:21-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-amazing-grand-finals-dark-vs-maru-best-of-7.md",
@@ -459,37 +497,6 @@
       "publishedDateTime": "2022-11-26T04:55:34-08:00"
     },
     {
-      "path": "_games/pig-world-record-trifecta-uthermals-1-terran-vs-7-insane-protoss-ai-pig-reacts-starcraft-2.md",
-      "title": "World Record TRIFECTA! uThermal's 1 Terran vs 7 Insane Protoss AI (PiG Reacts) - StarCraft 2",
-      "excerpt": "I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! Like Thanos, uThermal is collecting every 1 Terran v 7 Insane AI challenge he can. This one is against 7 Protoss Insane AIs: https://www.youtube.com/watch?v=5FgDFNQENd0&ab_channel=uThermal . What challenge will he smash next?",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-world-record-trifecta-uthermals-1-terran-vs-7-insane-protoss-ai-pig-reacts-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-world-record-trifecta-uthermals-1-terran-vs-7-insane-protoss-ai-pig-reacts-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=0uIpIhniZoU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0uIpIhniZoU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M53S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0uIpIhniZoU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-14T01:51:44-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-byuns-filthy-cheeses-vs-maxpax-best-of-3.md",
       "title": "StarCraft 2: ByuN's FILTHY Cheeses vs MaxPax! (Best-of-3)",
       "excerpt": "Best-of-3 series of top level StarCraft 2 between ByuN (Terran) and MaxPax (Protoss). In this best-of-3 series ByuN can't stop cheesing, and yet MaxPax holds and forces the macro game.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
@@ -621,7 +628,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 92,
+      "heat": 91,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ONDd2nSEJlY/maxresdefault.jpg",
@@ -703,44 +710,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-06T02:38:32-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-terran-mech-vs-terran-bio-special-vs-kelazhur.md",
-      "title": "StarCraft 2: Terran Mech vs Terran Bio! (SpeCial vs Kelazhur)",
-      "excerpt": "High level game of StarCraft 2 between SpeCial and Kelazhur. This is a match of Terran versus Terran played during the Dreamhack Atlanta Regionals. In this pro game Kelazhur decides to play Terran bio, where as SpeCial plays Terran mech.  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-mech-vs-terran-bio-special-vs-kelazhur/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-terran-mech-vs-terran-bio-special-vs-kelazhur/",
-      "originalUrl": "https://youtube.com/watch?v=LdROcUTab7c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LdROcUTab7c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 85,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LdROcUTab7c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-02T05:54:21-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-rank-1-terran-vs-rank-1-protoss-maru-vs-hero.md",
@@ -1121,6 +1090,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-08T05:03:35-08:00"
+    },
+    {
+      "path": "_games/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53.md",
+      "title": "When the Protoss is Protossing, and you gotta Terran | Diamond in the Ruff #53",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent? 🐷 Support PiG: https://www.patreon.com/PiGSC2  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53/",
+      "originalUrl": "https://youtube.com/watch?v=ilVJs5gQrP8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ilVJs5gQrP8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M53S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ilVJs5gQrP8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-09-24T01:39:41-07:00"
     }
   ],
   "nextPage": 2

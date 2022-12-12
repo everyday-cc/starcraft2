@@ -4,6 +4,82 @@
   "page": 8,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-clems-terran-vs-zerg-is-insane-solar-vs-clem.md",
+      "title": "StarCraft 2: Clem's Terran vs Zerg is INSANE! (Solar vs Clem)",
+      "excerpt": "Professional match of StarCraft 2 between Solar and Clem. In this Terran versus Zerg we watch Clem take control of the early game, but Solar managed to stay alive and strikes back in the late game.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-clems-terran-vs-zerg-is-insane-solar-vs-clem/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-clems-terran-vs-zerg-is-insane-solar-vs-clem/",
+      "originalUrl": "https://youtube.com/watch?v=jOgmyYJJ0Is",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jOgmyYJJ0Is\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M42S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jOgmyYJJ0Is/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-10-02T03:39:14-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-crazy-games-1v1-with-co-op-commanders.md",
+      "title": "StarCraft 2: CRAZY GAMES - 1v1 with Co-op Commanders!",
+      "excerpt": "Two fun games of StarCraft 2 played in the \"All stars: Co-op PvP mod by KingCobra\". In these two games we see players playing with Stukov, Zagara, Fenix and Zeratul in 1v1 matches.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-crazy-games-1v1-with-co-op-commanders/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-crazy-games-1v1-with-co-op-commanders/",
+      "originalUrl": "https://youtube.com/watch?v=5e1u8svyvYQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5e1u8svyvYQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M15S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5e1u8svyvYQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-29T02:14:59-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-crazy-series-gumihos-proxy-battlecruisers-best-of-3.md",
       "title": "StarCraft 2: CRAZY SERIES - GuMiho's Proxy Battlecruisers! (Best-of-3)",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between Nina and GuMiho. Both players decide to go for a variety of strategies, from Proxy Battlecruisers to a Tempest Rush. All games in this match of SC2 are played on new maps.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
@@ -632,6 +708,36 @@
       "publishedDateTime": "2022-07-14T02:52:19-07:00"
     },
     {
+      "path": "_games/pig-starcraft-2-recall-rush-the-florencio-files-1.md",
+      "title": "StarCraft 2 - Recall Rush | The Florencio Files #1",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-recall-rush-the-florencio-files-1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-recall-rush-the-florencio-files-1/",
+      "originalUrl": "https://youtube.com/watch?v=7hGsrlWElnU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7hGsrlWElnU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M24S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7hGsrlWElnU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-05-24T00:49:07-07:00"
+    },
+    {
       "path": "_games/pig-terran-experiment-confuses-zerg-opponent-2-tvz-games-diamond-in-the-ruff-66-starcraft-2.md",
       "title": "Terran Experiment Confuses Zerg Opponent (2 TvZ games) | Diamond in the Ruff #66 - StarCraft 2",
       "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
@@ -934,121 +1040,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-19T04:44:39-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-darks-relentless-counter-attacks-vs-hero-esl-open-cup-grand-finals.md",
-      "title": "StarCraft 2: Dark's RELENTLESS Counter Attacks vs herO! (ESL Open Cup Grand Finals)",
-      "excerpt": "Best-of-5 series of Zerg versus Protoss between herO (Protoss) and Dark (Zerg). This series if the Grand Finals of the ESL Open Cup Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-relentless-counter-attacks-vs-hero-esl-open-cup-grand-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-relentless-counter-attacks-vs-hero-esl-open-cup-grand-finals/",
-      "originalUrl": "https://youtube.com/watch?v=clF8F4oroOo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/clF8F4oroOo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53M59S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/clF8F4oroOo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-04T04:53:56-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-epic-game-byuns-great-escape-vs-hero.md",
-      "title": "StarCraft 2: EPIC GAME - ByuN's GREAT ESCAPE vs herO!",
-      "excerpt": "Professional match of StarCraft 2 between herO and ByuN. This Terran versus Protoss is a nail biter as nearly half an hour into the game, the match is still not decided.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-game-byuns-great-escape-vs-hero/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-byuns-great-escape-vs-hero/",
-      "originalUrl": "https://youtube.com/watch?v=VTWlvFUmQlc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VTWlvFUmQlc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VTWlvFUmQlc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-02T04:48:57-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-epic-game-super-long-action-packed-pro-match-elazer-vs-nice.md",
-      "title": "StarCraft 2: EPIC GAME - Super Long Action-Packed Pro Match! (Elazer vs Nice)",
-      "excerpt": "One of the longest games of professional StarCraft 2 that I've seen. In this match of Zerg versus Protoss between Elazer and Nice we have a very active match all things considered. Most long games of pro SC2 are two players sitting back, but that is not the case between these two progamers at all.  World",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-game-super-long-action-packed-pro-match-elazer-vs-nice/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-super-long-action-packed-pro-match-elazer-vs-nice/",
-      "originalUrl": "https://youtube.com/watch?v=Bwekf_fC59g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bwekf_fC59g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT59M22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Bwekf_fC59g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-07T13:34:49-07:00"
     }
   ],
   "nextPage": 9

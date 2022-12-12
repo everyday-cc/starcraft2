@@ -4,6 +4,81 @@
   "page": 4,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals.md",
+      "title": "StarCraft 2: MaxPax in Dark Templar PRISON! (Europe Grand Finals)",
+      "excerpt": "Grand Finals of the ESL Open Cup 150 Europe in StarCraft 2. This Protoss versus Protoss between Krystianer and MaxPax has a variety of playstyles, with cheese and macro. Mostly a ton of Stalkers, Disruptors, Zealtos and Dark Templar though.  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals/",
+      "originalUrl": "https://youtube.com/watch?v=qXW4B0HhjDk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qXW4B0HhjDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT52M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qXW4B0HhjDk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-24T04:07:47-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-mining-each-others-3rd-4th-bases-spirit-vs-strange.md",
+      "title": "StarCraft 2: Mining EACH OTHERS 3rd & 4th Bases! (Spirit vs Strange)",
+      "excerpt": "Professional match of StarCraft 2 from the Dreamhack Atlanta European Regionals. This game between Spirit (Terran) and Strange (Protoss) starts off very slowly, but ends with a ridiculous base race.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-mining-each-others-3rd-4th-bases-spirit-vs-strange/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-mining-each-others-3rd-4th-bases-spirit-vs-strange/",
+      "originalUrl": "https://youtube.com/watch?v=iv6Q02kpAB4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iv6Q02kpAB4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M29S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iv6Q02kpAB4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-15T04:26:43-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-clem-best-of-3.md",
       "title": "StarCraft 2: SERRAL vs CLEM! (Best-of-3)",
       "excerpt": "Best-of-3 series of top level Zerg versus Terran in StarCraft 2 between Clem and Serral.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
@@ -115,43 +190,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-25T02:57:23-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-mining-each-others-3rd-4th-bases-spirit-vs-strange.md",
-      "title": "StarCraft 2: Mining EACH OTHERS 3rd & 4th Bases! (Spirit vs Strange)",
-      "excerpt": "Professional match of StarCraft 2 from the Dreamhack Atlanta European Regionals. This game between Spirit (Terran) and Strange (Protoss) starts off very slowly, but ends with a ridiculous base race.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-mining-each-others-3rd-4th-bases-spirit-vs-strange/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-mining-each-others-3rd-4th-bases-spirit-vs-strange/",
-      "originalUrl": "https://youtube.com/watch?v=iv6Q02kpAB4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iv6Q02kpAB4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M29S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 69,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iv6Q02kpAB4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-15T04:26:43-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-can-mass-lings-actually-beat-mech-rate-my-starcraft-7.md",
@@ -592,44 +630,6 @@
       "publishedDateTime": "2021-07-02T04:57:54-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-maxpaxs-counter-cheese-vs-reynor-best-of-3.md",
-      "title": "StarCraft 2: MaxPax's COUNTER CHEESE vs Reynor! (Best-of-3)",
-      "excerpt": "Cheese into cheese! Best-of-3 series of professional StarCraft 2 between Reynor and MaxPax. This series was recently played during the Champion's Cup tournament and features a lot of unconventional build orders.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpaxs-counter-cheese-vs-reynor-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpaxs-counter-cheese-vs-reynor-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=Q0Gj6SwDKfQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q0Gj6SwDKfQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Q0Gj6SwDKfQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-11T04:07:21-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul.md",
       "title": "StarCraft 2: PROFESSIONAL 2v2?! (Maru & sOs vs MaxPax & souL)",
       "excerpt": "The standard competitive mode in StarCraft 2 is 1v1. However the OlimoLeague recently put on an event where they invited three teams of progamers to face off in a 2v2 (2 vs 2) event. In this video I cast a best-of-5 between Maru and sOs on one team, and MaxPax and souL on the other.  OlimoLeague on Patreon:",
@@ -863,44 +863,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-08T05:03:35-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals.md",
-      "title": "StarCraft 2: MaxPax in Dark Templar PRISON! (Europe Grand Finals)",
-      "excerpt": "Grand Finals of the ESL Open Cup 150 Europe in StarCraft 2. This Protoss versus Protoss between Krystianer and MaxPax has a variety of playstyles, with cheese and macro. Mostly a ton of Stalkers, Disruptors, Zealtos and Dark Templar though.  Support my work on Patreon: https://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals/",
-      "originalUrl": "https://youtube.com/watch?v=qXW4B0HhjDk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qXW4B0HhjDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT52M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qXW4B0HhjDk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-24T04:07:47-08:00"
     },
     {
       "path": "_games/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53.md",
@@ -1201,6 +1163,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-08T03:08:29-07:00"
+    },
+    {
+      "path": "_games/pig-protoss-hater-starts-whining-before-anything-even-happens-salt-mines-16-starcraft-2.md",
+      "title": "Protoss HATER starts whining before anything even happens | Salt Mines #16 - StarCraft 2",
+      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-protoss-hater-starts-whining-before-anything-even-happens-salt-mines-16-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-protoss-hater-starts-whining-before-anything-even-happens-salt-mines-16-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=Xg6fCtKqRFo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Xg6fCtKqRFo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M47S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Xg6fCtKqRFo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-06T19:13:37-07:00"
     }
   ],
   "nextPage": 5

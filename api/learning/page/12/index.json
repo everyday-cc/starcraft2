@@ -4,6 +4,38 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/videos/pig-coaching-maynarde-2-1-1-into-solid-tvz-linking-macro-tasks-consistent-build-orders.md",
+      "title": "Coaching Maynarde 2-1-1 into solid TvZ - Linking Macro tasks, Consistent Build Orders",
+      "excerpt": "I coach the dreaded caster Maynarde on defining his TvZ better and better and forming habits that will use our APM and attention more efficiently -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-maynarde-2-1-1-into-solid-tvz-linking-macro-tasks-consistent-build-orders/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-maynarde-2-1-1-into-solid-tvz-linking-macro-tasks-consistent-build-orders/",
+      "originalUrl": "https://youtube.com/watch?v=oPzeLvWsZ0k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oPzeLvWsZ0k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H18M59S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oPzeLvWsZ0k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-coaching-mech-defending-all-ins-plat-3-tvz.md",
       "title": "Coaching MECH + Defending All-ins - Plat 3 TvZ",
       "excerpt": "I coach on the rarely seen MECH tvz, with a focus on defending aggressive play and some really helpful general advice in the second half of the coaching. -- Watch live at https://www.twitch.tv/x5_pig",
@@ -881,36 +913,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/cFNM0HVZmBM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-winters-zvt-22.md",
-      "title": "Coaching Winter's ZvT! 2/2",
-      "excerpt": "I coach popular streamer Winter on his ZvT! -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-winters-zvt-22/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-winters-zvt-22/",
-      "originalUrl": "https://youtube.com/watch?v=0pvc9pXkzdQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0pvc9pXkzdQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M7S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:42:45-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0pvc9pXkzdQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

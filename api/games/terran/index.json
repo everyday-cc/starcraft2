@@ -381,44 +381,6 @@
       "publishedDateTime": "2022-12-05T03:03:28-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-byuns-terribly-greedy-strategies-best-of-7.md",
-      "title": "StarCraft 2: ByuN's TERRIBLY GREEDY Strategies! (Best-of-7)",
-      "excerpt": "Best-of-7 series of professional StarCraft 2 between ByuN (Terran) and Solar (Zerg). In this series Solar does the same thing over and over again, but ByuN decides to play the opponent rather than the matchup and play super greedy build orders.  Support my work on Patreon: https://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-terribly-greedy-strategies-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-terribly-greedy-strategies-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=AGmeMsi2lvY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AGmeMsi2lvY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AGmeMsi2lvY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-03T12:03:47-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
       "title": "StarCraft 2: SERRAL vs MARU! (Best-of-7)",
       "excerpt": "Merry Christmas everyone! The two best players currently in StarCraft 2 face off in a best-of-7 series. Serral (Zerg) takes on Maru (Terran). This is the Grand Finals of King of Battles 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
@@ -458,37 +420,6 @@
       "publishedDateTime": "2021-12-24T13:58:31-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-prince-cannon-rushes-byun.md",
-      "title": "StarCraft 2: Prince CANNON RUSHES ByuN!",
-      "excerpt": "Best-of-2 series of high level StarCraft 2 between ByuN (Terran) and Prince (Protoss). In this series Prince decides to Cannon Rush his Terarn opponent and play a macro strategy on the back of it.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-prince-cannon-rushes-byun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-prince-cannon-rushes-byun/",
-      "originalUrl": "https://youtube.com/watch?v=Kx5uVh-AEIM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Kx5uVh-AEIM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M8S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 123,
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-24T03:31:53-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-reynor-plays-terran-like-a-zerg.md",
       "title": "StarCraft 2: Reynor plays Terran like a Zerg!",
       "excerpt": "High level game of StarCraft 2 between Reynor (Terran) and Zerg (Cham). We have seen Reynor playing Zerg and also Protoss recently, but what about his Terran? In this game he's facing off against the winner of Dreamhack Atlanta for the Latin America region in a ladder game.  Support my work on Patreon:",
@@ -526,6 +457,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-28T04:11:15-07:00"
+    },
+    {
+      "path": "_games/pig-world-record-uthermals-1-terran-v-7-insane-terran-ai-pig-reacts-starcraft-2.md",
+      "title": "WORLD RECORD! uThermal's 1 Terran v 7 Insane Terran AI (PiG Reacts) - StarCraft 2",
+      "excerpt": "I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! uThermal already did 1 Terran vs 7 Zerg Insane AIs. Then HeroMarine stepped up with 1 Terran vs 7 Random Insane AIs. Now uThermal is back with 1 Terran vs 7 TERRAN Insane AIs. How many world records can these guys break?!",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-world-record-uthermals-1-terran-v-7-insane-terran-ai-pig-reacts-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-world-record-uthermals-1-terran-v-7-insane-terran-ai-pig-reacts-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=DUVC53u9kQI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DUVC53u9kQI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H22M26S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DUVC53u9kQI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-27T20:44:34-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-byuns-filthy-cheeses-vs-maxpax-best-of-3.md",
@@ -1051,6 +1012,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-08-19T04:11:17-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-byuns-terribly-greedy-strategies-best-of-7.md",
+      "title": "StarCraft 2: ByuN's TERRIBLY GREEDY Strategies! (Best-of-7)",
+      "excerpt": "Best-of-7 series of professional StarCraft 2 between ByuN (Terran) and Solar (Zerg). In this series Solar does the same thing over and over again, but ByuN decides to play the opponent rather than the matchup and play super greedy build orders.  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-terribly-greedy-strategies-best-of-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-terribly-greedy-strategies-best-of-7/",
+      "originalUrl": "https://youtube.com/watch?v=AGmeMsi2lvY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AGmeMsi2lvY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 71,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AGmeMsi2lvY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-03T12:03:47-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-incredible-game-reynor-vs-byun.md",

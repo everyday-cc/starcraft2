@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=XAT06skhzc8
 type: video
 length: PT42M40S
 publishedDateTime: 2022-07-22T04:06:24Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XAT06skhzc8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "MraEWTOv+NZ3svbgf7OZnXWgH91IXE8tgWD01Plnr0X1ekp10BvdBaXJ8ta/8l3EpqxEMx08g0NdxSyvLFX/E7tXaIQkeAqL3w/P79//UK/MIoytsDCchXMpjQiJCRgi1i6L1KyL4oUXqzJZnFex+M4JlOQVMb7+BpBurxLMP/EXH2+ndVV9tWyMoNFT3PNewMU60kXjdsd15L0XbL6W3VP6h5PGXxf/b2PJFoBu8W3h3VZMyxlxAqPK+aVE7uz1mN17XiQAyw3JQhR/34Ggm/CzZDVIe/IVdtmetZPFuDPvlY3oWKeVsDxgZ4HPRWwzRfxfq823i/uev3HAOgTycm4zK1Nzc4hV2672mgQPEqYeVHnU4BU/cf3rZt0BrNP68KPli4rsI4VrE/qxpVnMcji+dnf5yWdupaheMJocn0w=;1jYeSwbr/Moal/HHzNod8g=="
+secured: "P700vCxnIKWPeJegOxmz6r1eiubtNXCIhCMSnfea1XJESVRcOkj3QdlalPjYVKqZf8ZNlmCHWFnchlxOhgmnHFV9dsNoPzjdS+n0Y1zb77oPifLcmMGcbZEtkMgfPs8FCQkEJFkLcuYfO5qbs6sPHdaemG3lR4EgZJkjUuIhtSA4aS350qDfcJfpio6s3N1lSLEhYgYaGt/I4XsEYW79duhRGaBHCSpsTU0wuibddzm4b/XU0ziULxhjC7dgueq2WQ0dHvxOEBJQ+aGFgV0kptGF7wGhs1qYond6iaQp19Tc4erIB2AV2oPk4fOyAFsO4LJhJJKuM4uuwHF+kS/JZ8eLgEdrHWaXpIkCZrsYQwPbYqlZWjW/XBfJzjhmgY28cvG4xvItaQbIXs0S/RR9q/cIpZezhc7cAKgNUcWZaGY=;EBTarkWWBl9WnJG4tEcuwA=="
 ---
 

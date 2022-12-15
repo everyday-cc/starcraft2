@@ -4,37 +4,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_games/pig-terran-colonists-vs-zerg-and-their-pointy-sticks-cloak-icyfar-g2.md",
-      "title": "Terran Colonists vs Zerg and their Pointy Sticks - Cloak ICYFAR G2",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players showed off their best cloaked and invisible unit plays.\r THIS WEEKS ICYFAR CHALLENGE: “One Geyser to Rule Them All” - You may only mine from one gas geyser for the entire game. Send submissions to eonblu95@gmail.com as attachment",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-terran-colonists-vs-zerg-and-their-pointy-sticks-cloak-icyfar-g2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-terran-colonists-vs-zerg-and-their-pointy-sticks-cloak-icyfar-g2/",
-      "originalUrl": "https://youtube.com/watch?v=l2EBkwmjbSo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l2EBkwmjbSo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M55S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/l2EBkwmjbSo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-the-fu-zerg-protoss-multiprong-skirmishes-icyfar-g3-197.md",
       "title": "The \"FU Zerg\" Protoss Multiprong - Skirmishes ICYFAR - G3 #197)",
       "excerpt": "In today’s ICYFAR players were challenged to avoid large battles and win through many small skirmishes! They weren’t allowed to use more than 24 units in any engagement!\r \r THIS WEEKS ICYFAR Challenge: \"Melee Madness\" - You can only use hand-to-hand combat units! For Terran you're allowed to use hellbats,",
@@ -162,6 +131,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-they-used-my-own-nydus-swarm-host-build-on-me-starcraft-2.md",
+      "title": "They used my own Nydus Swarm Host build on ME! - StarCraft 2",
+      "excerpt": "Subscribe to PiG Casts! 🐷 This player played the UNO reverse card on me with my own fastest nydus swarm host build! If you want my notes they're in The Book of Filth 2.0: https://docs.google.com/document/d/1GbpZ-qjoUQ42ZwVsmk3cYgLZ1WYNcLc9l6KUo-Zuudk/edit?usp=sharing -- 🐷 Main Channel: https://www.youtube.com/user/PiGstarcraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-they-used-my-own-nydus-swarm-host-build-on-me-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-they-used-my-own-nydus-swarm-host-build-on-me-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=S47vZBSWvpI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S47vZBSWvpI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M4S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/S47vZBSWvpI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-28T18:37:34-07:00"
     },
     {
       "path": "_games/pig-toss-anutha-zerg-on-the-barbie-mate-crash-course-all-in-liquid-reign-icyfar-g3.md",

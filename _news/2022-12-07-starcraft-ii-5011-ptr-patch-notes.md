@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/23891308/starcraft-ii-5
 webUrl: "https://news.blizzard.com/en-us/starcraft2/23891308/starcraft-ii-5-0-11-ptr-patch-notes"
 type: article
 quality: 177
-heat: 203
+heat: 223
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
     excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
     publishedDateTime: 2022-12-04T20:05:00Z
     webUrl: "https://www.jdpower.com/rvs/2015/starcraft"
+    type: article
+    provider:
+      name: jdpower
+      domain: jdpower.com
+    quality: 17
+  - title: "2020 Starcraft Prices, Values and Specs"
+    excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
+    publishedDateTime: 2022-12-07T21:00:00Z
+    webUrl: "https://www.jdpower.com/rvs/2020/starcraft"
     type: article
     provider:
       name: jdpower

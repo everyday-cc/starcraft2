@@ -1,10 +1,10 @@
 ---
 category: news
-title: "2015 Starcraft Prices, Values and Specs"
+title: "2020 Starcraft Prices, Values and Specs"
 excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
-publishedDateTime: 2022-12-04T20:05:00Z
-originalUrl: "https://www.jdpower.com/rvs/2015/starcraft"
-webUrl: "https://www.jdpower.com/rvs/2015/starcraft"
+publishedDateTime: 2022-12-07T21:00:00Z
+originalUrl: "https://www.jdpower.com/rvs/2020/starcraft"
+webUrl: "https://www.jdpower.com/rvs/2020/starcraft"
 type: article
 quality: 17
 heat: -1
@@ -32,16 +32,16 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "2020 Starcraft Prices, Values and Specs"
+  - title: "2015 Starcraft Prices, Values and Specs"
     excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
-    publishedDateTime: 2022-12-07T21:00:00Z
-    webUrl: "https://www.jdpower.com/rvs/2020/starcraft"
+    publishedDateTime: 2022-12-04T20:05:00Z
+    webUrl: "https://www.jdpower.com/rvs/2015/starcraft"
     type: article
     provider:
       name: jdpower
       domain: jdpower.com
     quality: 17
 
-secured: "kJmZSJr5veYVAoPXyWka3jRPyjAflfZUBPlDyR39dAaeL4y7w+AMwhSlpdgu9G6iQdHTWno5Sjaw3dbYRLt7sSJDUvqMXqDn53enAB/kVxUDxEYoN+ANX4snuURh6iqB7vTvTifDUvjBcuhTy7VMQrhsjHtvA15gBsvDR7zy9WaAq7H/L0OpFPvSFJpoD1+s0ZsAf3NIFb3lGMQupsVoyd9Yl9qDW6ai92U6vTlgG/tMc7W/UXzDgmlTPcfNCM5q4YS9r44/8kRLOg00r7UKWocemr4Xi/WNaxwDwdWDi9lzCfHEYFBrx1J69/BvccQqnUsUh8msTtgRFweRleEkgHTX4iwwHe6kLDsGUKKDS5U=;OKq028aKQ7yOIDzkC3XHZA=="
+secured: "angZBClOLWXd6ucqLF7rl0+lkcdh1R/RBEyq2WDT21dNJMaKJr0UO4Rn/3cgnhmxIWRPAHY29syPUdsfQr5XqXBF4dxJnDZF4q6DmSwRNaM6FJC7ZwUz5j38LLnTUiufoOUKjE7UzYJNGxWKeNaCaKurKFnqmcaJNr8Qa9wBdfs1qsJZGiI9nGBPAQiNeExuwNQ6b5ueWA0sdhn2Pn6oDXdY1speo2plG8keONqIXsdA3WthSowAVMclMm3RxJxAdz8v1W3nXFiMbrSfzSyph3+E3uWKrfgpWowbHM5HF3G5Vezfm6PQMheH7EQni0/bJ0/yNF3lDZz7xU1IlkdjEDGVMX/4VsvvM8bZ7L7yUSg=;VmZOFMLSPMliyASkxsTH/w=="
 ---
 

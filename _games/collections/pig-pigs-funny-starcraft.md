@@ -975,6 +975,7 @@ items:
   - pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2
   - pig-arrogant-terran-gets-karma-salt-mines-22-starcraft-2
   - pig-solar-got-nuked-again-how-is-he-the-unluckiest-sc2-player-ever
+  - pig-cheeser-fakes-gging-to-try-and-get-a-cheap-win-salt-mines-23-starcraft-2
 
 topics:
   - StarCraft 2

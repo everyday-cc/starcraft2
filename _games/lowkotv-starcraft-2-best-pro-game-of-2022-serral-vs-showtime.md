@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=cbQw9rvkado
 type: video
 length: PT43M
 publishedDateTime: 2022-09-05T11:02:46Z
-heat: 132
+heat: 129
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cbQw9rvkado\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "pTMEts2Zuqf+JvHdhIRz32ROpvL/qUXqKUtAK9nIKkjVR6nnbv22bRVC8M2yLGq9/zL88DweRSZEZpDqL47zpUHg2Icuan6FolrrHy5hFWwcshIKEhkejjceg4B5JrXkLiQkUeUswWEbuIbjlRXGOHbK9eInE7Ez3m4sMJ5mO9D/8fVQ7QncUedblbB2qx9do+yohPaxD709hg8DdSYHw8T8AzhtYhZepmMWZS6qs5XPlDpebBpSsC5V5Y/3pjq2PYbQZkOeFP4jDz3GtfyroF3Pp4VimwiHY0S3DDZSBbnprIUNOzj/KdQ6KwCM4cx1nCW4NypV/LNry8wnA+twN4s2N441+qwA5qeheBQ4x01ih2DzFfyYW2Nwo+cwIht+0zZiHFIYCVTHxpS25y1CQBHz0Eo4nJlrBOnAobuoYJdDcb9eSTqXhUUQyM5NG0w+;kBtLKX3gMZ0f88cveEOMgQ=="
+secured: "ykBMW/rm0V6SH4hEOFwakAgF71fQHCo0hPBodu279k63GhvUcB0yr0EfyJmOkj0psMMwclGgiqasYXPQlVAt148H+OLMuG0HWsYn9QAso8rSpHxOdycroFIy4nu5W+la62T72v5VCG7xrk3iMDj82d4wNlTBiQ9zd9jdojyUgsgKuSrRAG4g3b06dwTLv9ZfE7/FoeRmTQ960WBTqyDTlFyLmSZ3w6rd94sEwyXk/B7U66T3UkSSvHD3zOJM2Z72qUbNLUz61WRWv9GQoY+V9EB9GEiVa5mB4DqlmxedaPz2CBAHVq9iA+xvVnixzmJ6kNnPz8AFj6nNjOoO21pQf0/HQK2WJd4kwA0wpQYgjeQUIw2XQH0VSU7h9kflcYO/GbYiR0+MrLY87WEAzF6HO9wg7awrTmFW+ApQ22bktRid8AmfhSIx1xYVtgcBu0f4;HS77i5JoMubcliWBJa9LlA=="
 ---
 

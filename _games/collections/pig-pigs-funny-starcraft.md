@@ -976,6 +976,7 @@ items:
   - pig-arrogant-terran-gets-karma-salt-mines-22-starcraft-2
   - pig-solar-got-nuked-again-how-is-he-the-unluckiest-sc2-player-ever
   - pig-cheeser-fakes-gging-to-try-and-get-a-cheap-win-salt-mines-23-starcraft-2
+  - pig-this-was-the-lowest-level-sc-ive-seen-in-a-long-time-icyfar-spooktober-starcraft-2
 
 topics:
   - StarCraft 2

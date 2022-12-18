@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-prince-cannon-ru
 type: video
 length: PT21M8S
 publishedDateTime: 2022-10-24T10:31:53Z
-heat: 55
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Kx5uVh-AEIM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ topics:
   - Terran
   - Protoss
 
-secured: "FmBp/0Dcy0gL+mpb9gdJuHkTEez2ZVVMyX7blklPb1xqnUgji42dHna2rcFZ+3qqamPG5MX9g0EJcwFzAefercKyEWn8Yb7EILRdlSCdP2OQW5wZkq9rSmKpKlk/ygGS9jp4kyFWFiztzQQ0qflZiDCFwQni6bIJf1TPXGn/q0r+3aKQo6/cH0sO7Jb8ZRigOqGYqkZ49lFNgfDV6QQYTN4DZQjR16lNto9FD/aa1NZtDXueZVP28HZULhxV0A8O3fbwD0lkRKweocBt2IvmGvgzHx32wuRaLB+eZqvyhV2CG9oYyAPgk8JZBr7TVQLR4shJLVdNCEDyjl7ip8tgD3Faaphm44w80UwCy2Q8rNvnXx7Ukf6hyrMmK/8D6j+cqMaci8SSswWrCZ2Pmx0KmVqMkSAJBaC0Ra1WJBg1Hfk=;YYcTfdtHVtLOX6WzbxWQEw=="
+secured: "huCNnMQimwO60yL7dGCqCt7e6DlLz9EMjP7zyyFoQ0YF5m3nX8dk/TpWuKa0Wv0qFe00LZVc3LdugZ1qK92cIA26D5PL3pED0ICZ8AvFCOUpD3NDo3HJonED8u/Fjz5pS2/wa+Y8ohpemZXj88hghcHqWwalUkiB3rhxSjWdUTWHpcFmrGVJfWmEieve9MZ+9E/abMRruNi8EmFV2EHbZa2u5NYgJZ5HJTGl5Hfuf59QG1lZe8INrH3NL50kBi3RnhDS/6ekxYcQ0x2KeOlovPWWZR1Hcel+FKgf/zfwLHcgs7f2SdtslMXTDHcUvrCyvrNja0tsThpy42e+TJpl0pR9/aX584FSb9M42cAWu9EuRXmsfl4OTw2nwr7OWjh+RptI0LUwAtkp8FvnwLAxQkXDFXH71GOsHvG0km3SKiU=;UtSSbFe7K2/EHI7C6EbvRQ=="
 ---
 

@@ -4,37 +4,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_learning/videos/pig-starcraft-enemies-build-makes-no-sense-coaching-m1-zerg.md",
-      "title": "StarCraft - Enemies Build Makes No Sense!? | Coaching M1 Zerg",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-enemies-build-makes-no-sense-coaching-m1-zerg/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-enemies-build-makes-no-sense-coaching-m1-zerg/",
-      "originalUrl": "https://youtube.com/watch?v=tOJPQpZBT7g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tOJPQpZBT7g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H12M47S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-06-30T09:00:21-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tOJPQpZBT7g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-starcraft-how-to-use-spellcasters-zvmech-zvskytoss-coaching-masters-3.md",
       "title": "StarCraft - How to use Spellcasters? ZvMech + ZvSkytoss | Coaching Masters 3",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -909,6 +878,38 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ExAeIbCFUX4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-tvz-battlecruiser-into-battle-mech-coaching-d1.md",
+      "title": "TvZ Battlecruiser into Battle MECH - Coaching D1",
+      "excerpt": "Coaching a diamond Terran on how open Battlecruiser and then transition into Battle MECH (vs Zerg)  -- Watch live at https://www.twitch.tv/x5_pig My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/   Live Coaching Playlist:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-tvz-battlecruiser-into-battle-mech-coaching-d1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-tvz-battlecruiser-into-battle-mech-coaching-d1/",
+      "originalUrl": "https://youtube.com/watch?v=R9F9psxQhHY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R9F9psxQhHY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H7M41S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-01-23T17:38:02-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/R9F9psxQhHY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

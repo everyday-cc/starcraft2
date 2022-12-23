@@ -978,6 +978,7 @@ items:
   - pig-cheeser-fakes-gging-to-try-and-get-a-cheap-win-salt-mines-23-starcraft-2
   - pig-this-was-the-lowest-level-sc-ive-seen-in-a-long-time-icyfar-spooktober-starcraft-2
   - pig-terran-saltlord-wrestles-with-reality-salt-mines-24-starcraft-2
+  - pig-sc2-is-pretty-awful-now-no-longer-an-rts-dead-game-bnet-dumpster-dives-1
 
 topics:
   - StarCraft 2

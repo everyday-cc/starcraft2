@@ -4,84 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-darks-100-mutalisks-vs-skytoss-showtime-vs-dark.md",
-      "title": "StarCraft 2: Dark's 100+ MUTALISKS vs SkyToss! (ShoWTimE vs Dark)",
-      "excerpt": "Professional match of top-level StarCraft 2 between Dark (Zerg) and ShoWTimE (Protoss). While the Protoss opens up with a normal SkyToss focused army, Dark takes an entirely different approach than what is considered normal, but massing Mutalisks and Corruptor together.  New StarCraft 2 multiplayer balance",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-100-mutalisks-vs-skytoss-showtime-vs-dark/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-100-mutalisks-vs-skytoss-showtime-vs-dark/",
-      "originalUrl": "https://youtube.com/watch?v=B60Pm9FExXk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B60Pm9FExXk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M45S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B60Pm9FExXk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-03-14T03:11:27-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-darks-epic-new-micro-trick-byun-vs-dark.md",
-      "title": "StarCraft 2: Dark's Epic NEW Micro Trick! (ByuN vs Dark)",
-      "excerpt": "Top level game of professional StarCraft 2 between Dark (Zerg) and ByuN (Terran). In this match Dark showcases a new micro trick that he has been working on.  Maru vs Reynor: https://youtu.be/dnRMCwdGUVM Dark vs Cure: https://youtu.be/HLMd5CcpIz0  Support my work on Patreon: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-epic-new-micro-trick-byun-vs-dark/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-epic-new-micro-trick-byun-vs-dark/",
-      "originalUrl": "https://youtube.com/watch?v=kWfuYGNq1C4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kWfuYGNq1C4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M4S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kWfuYGNq1C4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-12-17T04:26:22-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-darks-queen-walk-vs-neeb-grand-finals-best-of-5.md",
       "title": "StarCraft 2: Dark's QUEEN WALK vs Neeb! (Grand Finals Best-of-5)",
       "excerpt": "Best-of-5 series of StarCraft 2 between Dark and Neeb. This series of Zerg versus Protoss is the Grand Finals of the ESL Open Cup Americas 134.  Dark vs Maru: https://youtu.be/_HUE_txgIrA Dark vs ByuN: https://youtu.be/_Ys59kDdrXg  Support my work on Patreon: https://www.patreon.com/lowkotv Become a",
@@ -465,6 +387,44 @@
       "publishedDateTime": "2017-02-11T01:38:54-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-epic-best-of-5-series-serral-vs-clem.md",
+      "title": "StarCraft 2: EPIC BEST-OF-5 SERIES! (Serral vs Clem)",
+      "excerpt": "An epic best-of-5 series of StarCraft 2 between Serral and Clem. Serral is widely considered to be the strongest SC2 professional gamer in the world. Clem is one of the best Terran players in the world and he's continously getting better. In this video they face off against each other in a series of",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-best-of-5-series-serral-vs-clem/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-best-of-5-series-serral-vs-clem/",
+      "originalUrl": "https://youtube.com/watch?v=NPOu1xBP6qE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NPOu1xBP6qE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H9M52S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NPOu1xBP6qE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-27T05:29:13-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-epic-comebacks-scarlett-vs-byun.md",
       "title": "StarCraft 2: EPIC COMEBACKS! (Scarlett vs ByuN)",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between Scarlett (Zerg) and ByuN (Terran). It's obvious that these two players are very familiar with each other as they play build orders and strategies that otherwise wouldn't make much sense in this series.  Support my work on Patreon: http://www.patreon.com/lowkotv",
@@ -733,44 +693,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-08-17T01:04:25-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-epic-series-whos-the-best-korean-zerg-dark-vs-rogue.md",
-      "title": "StarCraft 2: EPIC SERIES - Who's the BEST Korean Zerg? (Dark vs Rogue)",
-      "excerpt": "Best-of-5 series of top level Korean StarCraft 2 between Dark and Rogue. These guys are both fantastic in the Zerg versus Zerg matchup, and in this video they face off against each other.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-series-whos-the-best-korean-zerg-dark-vs-rogue/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-series-whos-the-best-korean-zerg-dark-vs-rogue/",
-      "originalUrl": "https://youtube.com/watch?v=kjDDfr5HKko",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kjDDfr5HKko\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT58M",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kjDDfr5HKko/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-09-20T02:41:29-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-epic-terran-vs-zerg-bo5.md",
@@ -1084,6 +1006,45 @@
       "publishedDateTime": "2017-10-07T01:36:41-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-fastest-grand-finals-ever-dark-vs-byun.md",
+      "title": "StarCraft 2: Fastest GRAND FINALS Ever? (Dark vs ByuN)",
+      "excerpt": "The Grand Finals of the ESL Open Cup 124 Korea. In this best-of-5 series of professional StarCraft 2 I cast ByuN (Terran) versus Dark (Zerg). Easily one of the fastest Grand Finals ever in StarCraft 2. The fastest StarCraft 2 speedrun?  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-fastest-grand-finals-ever-dark-vs-byun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-fastest-grand-finals-ever-dark-vs-byun/",
+      "originalUrl": "https://youtube.com/watch?v=Wgl-beRNXKM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Wgl-beRNXKM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M32S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Wgl-beRNXKM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-24T01:14:41-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-fear-the-thunder-maru-vs-soo.md",
       "title": "StarCraft 2: FEAR THE THUNDER! (Maru vs soO)",
       "excerpt": "Terran Mech seems to be new gold standard in the Zerg versus Terran match-up in StarCraft 2. In this top-level match between Maru and soO the Terran also decides to go for an army composition based primarily around Thors, Siege Tanks and Battlecruisers. The Zerg player soO takes a different approach",
@@ -1159,6 +1120,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-07-06T03:54:01-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-florencios-roach-whack-a-mole.md",
+      "title": "StarCraft 2: Florencio's ROACH WHACK-A-MOLE!",
+      "excerpt": "Very fun game of Zerg versus Protoss on the StarCraft 2 ladder. In this game Florencio decides to cheese his opponent with multiple proxy Hatcheries, burrowed Roaches and Nydus Worms.  Florencio on Twitch: https://www.twitch.tv/florenciosc  Support my work on Patreon: http://www.patreon.com/lowkotv Become",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-florencios-roach-whack-a-mole/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-florencios-roach-whack-a-mole/",
+      "originalUrl": "https://youtube.com/watch?v=ru_HglKItig",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ru_HglKItig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ru_HglKItig/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-27T02:21:07-08:00"
     }
   ],
   "nextPage": 11

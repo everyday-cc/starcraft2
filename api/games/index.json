@@ -28,7 +28,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 439,
+      "heat": 353,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/DC9FQCB3fyM/maxresdefault.jpg",
@@ -40,74 +40,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-22T04:20:48-08:00"
-    },
-    {
-      "path": "_games/pig-terran-saltlord-wrestles-with-reality-salt-mines-24-starcraft-2.md",
-      "title": "Terran Saltlord Wrestles With Reality | Salt Mines #24 - StarCraft 2",
-      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-terran-saltlord-wrestles-with-reality-salt-mines-24-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-terran-saltlord-wrestles-with-reality-salt-mines-24-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=vqEkZFBl0H8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vqEkZFBl0H8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H16S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 340,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vqEkZFBl0H8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-21T16:32:53-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-new-maps-darks-cheeky-ravager-rush-vs-clem-best-of-3.md",
-      "title": "StarCraft 2: NEW MAPS - Dark's Cheeky RAVAGER RUSH vs Clem! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between Dark (Zerg) and Clem (Terran). This series is played on new maps such as Lazarus Wastes and Starchild from the most recent Team Liquid map contest. Games are from the OlimoLeague.   Solar vs Gumiho: https://www.youtube.com/watch?v=rk0MTdp0law OlimoLeague",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-maps-darks-cheeky-ravager-rush-vs-clem-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-maps-darks-cheeky-ravager-rush-vs-clem-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=9GcUEOYNvwE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9GcUEOYNvwE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 326,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9GcUEOYNvwE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-21T05:14:23-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-has-serral-become-a-cheeser.md",
@@ -148,14 +80,14 @@
       "publishedDateTime": "2022-12-23T05:03:21-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-epic-game-maru-the-medivac-magician.md",
-      "title": "StarCraft 2: EPIC GAME - Maru, the Medivac Magician!",
-      "excerpt": "Amazing game of top level StarCraft 2 between ByuN (Terran) and Maru (Terran). The current number 1 and number 2 Terrans on the planet. One of the best games of SC2 this year for sure.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-game-maru-the-medivac-magician/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-maru-the-medivac-magician/",
-      "originalUrl": "https://youtube.com/watch?v=Mn2fH8XIk60",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mn2fH8XIk60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M48S",
+      "path": "_games/lowkotv-starcraft-2-new-maps-darks-cheeky-ravager-rush-vs-clem-best-of-3.md",
+      "title": "StarCraft 2: NEW MAPS - Dark's Cheeky RAVAGER RUSH vs Clem! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Dark (Zerg) and Clem (Terran). This series is played on new maps such as Lazarus Wastes and Starchild from the most recent Team Liquid map contest. Games are from the OlimoLeague.   Solar vs Gumiho: https://www.youtube.com/watch?v=rk0MTdp0law OlimoLeague",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-maps-darks-cheeky-ravager-rush-vs-clem-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-maps-darks-cheeky-ravager-rush-vs-clem-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=9GcUEOYNvwE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9GcUEOYNvwE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M26S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -170,12 +102,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Zerg"
       ],
-      "heat": 263,
+      "heat": 238,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Mn2fH8XIk60/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9GcUEOYNvwE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -183,7 +115,37 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-11-08T05:03:35-08:00"
+      "publishedDateTime": "2022-12-21T05:14:23-08:00"
+    },
+    {
+      "path": "_games/pig-terran-saltlord-wrestles-with-reality-salt-mines-24-starcraft-2.md",
+      "title": "Terran Saltlord Wrestles With Reality | Salt Mines #24 - StarCraft 2",
+      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-terran-saltlord-wrestles-with-reality-salt-mines-24-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-terran-saltlord-wrestles-with-reality-salt-mines-24-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=vqEkZFBl0H8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vqEkZFBl0H8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H16S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 238,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vqEkZFBl0H8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-21T16:32:53-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-lowko-cries-over-zests-mass-void-ray-vs-soo-best-of-5.md",
@@ -360,6 +322,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-11T05:45:43-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-reynor-plays-terran-like-a-zerg.md",
+      "title": "StarCraft 2: Reynor plays Terran like a Zerg!",
+      "excerpt": "High level game of StarCraft 2 between Reynor (Terran) and Zerg (Cham). We have seen Reynor playing Zerg and also Protoss recently, but what about his Terran? In this game he's facing off against the winner of Dreamhack Atlanta for the Latin America region in a ladder game.  Support my work on Patreon:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynor-plays-terran-like-a-zerg/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynor-plays-terran-like-a-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=Q039wMmYRUY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q039wMmYRUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M59S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 215,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Q039wMmYRUY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-28T04:11:15-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-new-maps-roach-rush-vs-protoss-maxpax-vs-meomaika.md",
@@ -660,6 +661,44 @@
       "publishedDateTime": "2022-10-17T04:49:22-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-epic-game-maru-the-medivac-magician.md",
+      "title": "StarCraft 2: EPIC GAME - Maru, the Medivac Magician!",
+      "excerpt": "Amazing game of top level StarCraft 2 between ByuN (Terran) and Maru (Terran). The current number 1 and number 2 Terrans on the planet. One of the best games of SC2 this year for sure.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-game-maru-the-medivac-magician/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-maru-the-medivac-magician/",
+      "originalUrl": "https://youtube.com/watch?v=Mn2fH8XIk60",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mn2fH8XIk60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 203,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Mn2fH8XIk60/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-08T05:03:35-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-heros-massive-overextension-vs-reynor.md",
       "title": "StarCraft 2: herO's MASSIVE Overextension vs Reynor!",
       "excerpt": "Professional match of StarCraft 2 between Reynor and herO. In this macro game of Zerg versus Protoss we see Reynor constantly sending out Zergling runbys, while herO makes his ultimate Sky Toss army.   Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -776,45 +815,6 @@
       "publishedDateTime": "2022-10-13T02:08:28-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-reynor-plays-terran-like-a-zerg.md",
-      "title": "StarCraft 2: Reynor plays Terran like a Zerg!",
-      "excerpt": "High level game of StarCraft 2 between Reynor (Terran) and Zerg (Cham). We have seen Reynor playing Zerg and also Protoss recently, but what about his Terran? In this game he's facing off against the winner of Dreamhack Atlanta for the Latin America region in a ladder game.  Support my work on Patreon:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynor-plays-terran-like-a-zerg/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynor-plays-terran-like-a-zerg/",
-      "originalUrl": "https://youtube.com/watch?v=Q039wMmYRUY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q039wMmYRUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M59S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 186,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Q039wMmYRUY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-28T04:11:15-07:00"
-    },
-    {
       "path": "_games/pig-a-pro-player-underestimates-a-diamond-player-santa-claws-06.md",
       "title": "A Pro player underestimates a Diamond player! | Santa Claws #06",
       "excerpt": "🎅 Santa Claws impressed in his Starcraft Smooth Brain audition and has been granted an opportunity to be the next Smooth Brain. Will he impress or will his brain prove too wrinkled?   🎅 Santa Claws Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh -- 🐷 Second Channel",
@@ -842,6 +842,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-12-23T15:35:13-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime.md",
+      "title": "StarCraft 2: BEST PRO Game of 2022 - Serral vs ShoWTimE!",
+      "excerpt": "Professional match of top level StarCraft 2 between Serral (Zerg) and ShoWTimE (Protoss). This is in my opinion the best pro game of SC2 of 2022 so far. Ridiculously close game between two of the best European pro gamers.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=cbQw9rvkado",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cbQw9rvkado\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 181,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cbQw9rvkado/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-05T04:02:46-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-insane-tournament-run-scarlett-vs-nightmare.md",
@@ -911,45 +950,6 @@
       "publishedDateTime": "2022-06-19T01:16:44-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime.md",
-      "title": "StarCraft 2: BEST PRO Game of 2022 - Serral vs ShoWTimE!",
-      "excerpt": "Professional match of top level StarCraft 2 between Serral (Zerg) and ShoWTimE (Protoss). This is in my opinion the best pro game of SC2 of 2022 so far. Ridiculously close game between two of the best European pro gamers.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=cbQw9rvkado",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cbQw9rvkado\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 173,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cbQw9rvkado/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-05T04:02:46-07:00"
-    },
-    {
       "path": "_games/pig-sc2-is-pretty-awful-now-no-longer-an-rts-dead-game-bnet-dumpster-dives-1.md",
       "title": "\"SC2 is pretty awful now,  no longer an RTS + dead game\" | Bnet Dumpster Dives #1",
       "excerpt": "Potential new show?? I came across this Bnet thread and it was so ridiculous I just had to do this. Hope you enjoy this dumpster diving of the battlenet forums  Bnet link: https://us.forums.blizzard.com/en/sc2/t/sc2-is-pretty-awful-now-no-longer-an-rts-dead-game/25241 -- 🐷 Second Channel for Learning",
@@ -977,6 +977,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-21T22:18:44-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-amazing-grand-finals-dark-vs-maru-best-of-7.md",
+      "title": "StarCraft 2: AMAZING Grand Finals - Dark vs Maru! (Best-of-7)",
+      "excerpt": "Best-of-7 series of top level StarCraft 2 between Dark and Maru. This Zerg vs Terran is the Grand Finals of the AfreecaTV Champions Cup, a $15k tournament that recently took place.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-amazing-grand-finals-dark-vs-maru-best-of-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-amazing-grand-finals-dark-vs-maru-best-of-7/",
+      "originalUrl": "https://youtube.com/watch?v=kz9M2uYcFyE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kz9M2uYcFyE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H20M3S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 160,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kz9M2uYcFyE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-11T02:14:17-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-weird-cannon-rush-counters-viewer-games.md",
@@ -1044,45 +1083,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-09T01:02:14-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-amazing-grand-finals-dark-vs-maru-best-of-7.md",
-      "title": "StarCraft 2: AMAZING Grand Finals - Dark vs Maru! (Best-of-7)",
-      "excerpt": "Best-of-7 series of top level StarCraft 2 between Dark and Maru. This Zerg vs Terran is the Grand Finals of the AfreecaTV Champions Cup, a $15k tournament that recently took place.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-amazing-grand-finals-dark-vs-maru-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-amazing-grand-finals-dark-vs-maru-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=kz9M2uYcFyE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kz9M2uYcFyE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H20M3S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 155,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kz9M2uYcFyE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-11T02:14:17-08:00"
     }
   ],
   "nextPage": 2

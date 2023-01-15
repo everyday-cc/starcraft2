@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-06-starcraft-ii-507-patch-notes.md",
+      "title": "StarCraft II 5.0.7 Patch Notes",
+      "excerpt": "Patch 5.0.7 has arrived. Check out the detail!",
+      "sourceUrl": null,
+      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23657318/starcraft-ii-5-0-7-patch-notes",
+      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23657318/starcraft-ii-5-0-7-patch-notes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 257,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T12:43:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-the-rise-of-reynor-behind-the-scenes-with-the-starcraft-ii-sensation.md",
       "title": "The rise of Reynor: Behind the scenes with the StarCraft II sensation",
       "excerpt": "Learn more about the 2021 IEM Katowice champion who became a professional at the age of 11.",
@@ -1065,48 +1116,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-blizzard-halts-development-on-starcraft-2-after-10-years.md",
-      "title": "Blizzard halts development on StarCraft 2 after 10 years",
-      "excerpt": "Blizzard has delivered some sour news for fans of StarCraft 2. The company has confirmed that is has essentially halted development on StarCraft 2, confirming that it will no longer be",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/blizzard-halts-development-on-starcraft-2-after-10-years-16643048/",
-      "originalUrl": "https://www.slashgear.com/blizzard-halts-development-on-starcraft-2-after-10-years-16643048/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/10/StarCraft-2-ray-kerri-arty.jpg",
-          "width": 1422,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/blizzard-halts-development-on-starcraft-2-after-10-years-16643048/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/blizzard-halts-development-on-starcraft-2-after-10-years-16643048/amp/",
-      "publishedDateTime": "2020-10-16T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

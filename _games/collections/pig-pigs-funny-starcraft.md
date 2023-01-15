@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 61
+heat: 62
 
 provider:
   name: PiG
@@ -979,6 +979,14 @@ items:
   - pig-this-was-the-lowest-level-sc-ive-seen-in-a-long-time-icyfar-spooktober-starcraft-2
   - pig-terran-saltlord-wrestles-with-reality-salt-mines-24-starcraft-2
   - pig-sc2-is-pretty-awful-now-no-longer-an-rts-dead-game-bnet-dumpster-dives-1
+  - pig-pigs-1-vs-10-ai-500-speedrun-challenge-open-to-everyone-starcraft-2
+  - pig-the-worst-players-are-always-the-angriest-salt-mines-25-starcraft-2
+  - pig-the-filthlord-strikes-again-florencio-files-273-starcraft-2
+  - pig-has-disgusting-cheese-makes-solar-literally-facepalm-starcraft-2
+  - pig-the-warp-prism-ability-everyones-forgotten-about-king-of-cannons-21
+  - pig-telling-them-your-actual-strategy-to-mess-with-them-icyfar-new-years-resolutions-sc2
+  - pig-meomaikas-wild-play-style-made-pig-eat-a-shoe-starcraft-2
+  - pig-can-zerg-or-terran-beat-toss-times-1v10-speedrun-update-starcraft-2
 
 topics:
   - StarCraft 2

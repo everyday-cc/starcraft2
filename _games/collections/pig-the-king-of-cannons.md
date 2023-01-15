@@ -26,6 +26,7 @@ items:
   - pig-why-are-there-two-gates-in-the-terran-mineral-line-king-of-cannons-18-starcraft-2
   - pig-the-genius-way-of-dealing-with-cannon-rushers-king-of-cannons-19-starcraft-2
   - pig-bm-zerg-offensive-ggs-too-early-lmao-king-of-cannons-20-starcraft-2
+  - pig-the-warp-prism-ability-everyones-forgotten-about-king-of-cannons-21
 
 topics:
   - StarCraft 2

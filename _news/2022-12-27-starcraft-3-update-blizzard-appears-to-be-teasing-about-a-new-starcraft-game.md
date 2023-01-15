@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ibtimes.co.uk/starcraft-3-update-blizzard-appears-teasin
 cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/starcraft-3-update-blizzard-appears-teasing-about-new-starcraft-game-1710590"
 type: article
 quality: 53
-heat: 73
+heat: 74
 published: true
 
 provider:

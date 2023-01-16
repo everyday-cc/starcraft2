@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=3N-2P_al40E
 type: video
 length: PT24M27S
 publishedDateTime: 2022-11-03T06:23:14Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3N-2P_al40E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "PIHQUKec/9eLqf2lBi5rzqJOQ9JzjZWfT9iUHU0sP6MS5BJ9JN6BxthOOKvNMPAnd+4VaPMS3EjBTiM1cvlBucJActY1vBai3pbO48wLTvtP2lsCZ7tm9lmu/+kWLiytzWrf1D2qcnSRJPedqJ2CA8+nUzJXzzxx3uHtvAW0KiMhny1yfI3ag4zVgLghPmL9S+Gxnl492un6WgW21gKX9mo2QjjRVrrSpMKHZBNG+tRWtY6nRhna+eU15rbzodN2U0aYSvgMZvetMp0p4ye6uLE2PKMvVtVOZ/Gk6mGMRzlINQrtwOMnXmjZdLG/E/y82lp7+3WDpr8lcTe69wa2LZvERmbqXxaInjPoBj9Jb8r9RJrgyKHCejW7k87ybDqvlTHMx6yghAusiKPsut/MuONir7eRkLN0Dxpuf120x1Q=;WyItqrb8Vybq4sQt0hcdUA=="
+secured: "u+7SOq7W0hybtZuEBVoRRmyeJHV/lydovaPew0c45Ns9fm3tHJ7sb9ulDUUiFyXUrk7VJyagi7xAkxw3GOHnCvedvaMJRjfCUg8cg6AbuUkWUD1jy20iHPRJdqeHfG6iVpaJ25UPgNQ03xWzUQamUPH4KKDNrowQlMriml6/cyA++rDGHqTr4kVT6OcwTekXzhTBn2cC7mSleQ2CxV728Tj9nH0dS3vZko1cQPmYV1r93LqEcXIAIQRONuqs8GdDE6W75R0hVRsh+oHUM6bjXiy0E8zw9YLqwJUalTTyYihJlHWY0UgyTDZY9lbvXRZ4KX/vYkzc0e5E7n2vCNarALivIQurH0ikjM1hz/UTJufLWZbeOl9s7/2oZmzBK8NtpKZeG7urRuRACj0Aw+CapkbOb9sIz9yLTFd+Ctmy5ak=;O/qSNCg9Mte+6TFWL9z4qw=="
 ---
 

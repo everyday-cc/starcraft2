@@ -987,6 +987,7 @@ items:
   - pig-telling-them-your-actual-strategy-to-mess-with-them-icyfar-new-years-resolutions-sc2
   - pig-meomaikas-wild-play-style-made-pig-eat-a-shoe-starcraft-2
   - pig-can-zerg-or-terran-beat-toss-times-1v10-speedrun-update-starcraft-2
+  - pig-i-made-sneaky-corner-bases-against-grandmasters-starcraft-2
 
 topics:
   - StarCraft 2

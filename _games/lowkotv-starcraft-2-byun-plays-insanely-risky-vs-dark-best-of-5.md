@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=sLOViPQSyd8
 type: video
 length: PT49M32S
 publishedDateTime: 2022-09-19T11:44:39Z
-heat: 57
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sLOViPQSyd8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "tEHNuFWFAho69S32Q+DFpu75pkoPzYc9TcJOvskC0QZ/aPyazuWqaB1T4/4r8ulY2qe3syCoVdAPyROONkjhwXnFBMLfRM3r4wK2zz+0fZxE6n+/04deaPvdaPiRlWv/nWeQLE9K9yKE6vD4f8KAt+pMSEWyjAMAwT0R/FJUQRvwwmr4sgde7r8PrN2Ia33E9rrNCLNgjykUocbzJ4Wbqn4lrsbLGpQnRr4giq+v9z7Oz4fSXNuLDOFx4LBJ009151DMkNp5uknIHL1q1j61eDj2Dezbl/lysAIfSKDryUiTLOD1fCR0Oc9/auStq93nyzcVdCcUykzhrcNSOKGeDNDIKh88KlYq0WlAOCZMRY2Ow4yeC6uNflUOu2IfWGk12Nmj3rHrMiuSzIl6TiC1qSASCuwq9fxGkd/P6g5hovc=;/ME6vq/zR1iL6mCjR6O+Hg=="
+secured: "gtaFoV+pCFzinSrztRUWbOQCOCFs9/xXx+Zhn+lRd/zfiwDChFjaaDU527qcjFhX8gt+p9JJP/jtnhpKGH2sDCJ9ps0mIrMtOxEGT3SFRGwcUCGhKD2sECExk+p5VrxdPQ3S5MNUkqkUnTlPIoEfKk9FDfhYQNvYHafH2imZfkRLLylmpneUNb6xMVXjWCnQSUB3uthgxfuSuIzcWZ6W2dRZQ16ncAcKP2yna4rWN2CaSB4v8Y2zZ7ONEDJV1yjyvxy0KPvOEx+HT3hFST/VZiVOELy6A74JDVxrL0dpRE9Q7FxqugSJv/N3izd4bek6Y9dwnLtmMHgHQcDfEHnSPE/FlwisxR4ypig2wY5A2t0kTGXJIs5aZErR+tbM7V+rnHwpcQFkYjb2bcZAkdpUv0WihGE4E5rzwjkhtx1tbxA=;FkQa8ieKidCKXyboA/ikcw=="
 ---
 

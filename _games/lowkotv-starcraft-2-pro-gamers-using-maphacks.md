@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=ys7XrIKIs14
 type: video
 length: PT30M48S
 publishedDateTime: 2022-07-04T08:55:37Z
-heat: 54
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ys7XrIKIs14\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "uom3AG+Y5VtyPcbYopdL/hBBkaaPfSHQCMMHahhkMqoDTBHmvrGP/+RGlf8Top3eNSo+VgSnUxoFzzZR8ZPU+q+o631wr8Dn913yUIlsdH3S5u2ZrAQ+HTrGKhPz5eCBNAZsCdd/ovxk4TqA2WZoicX05y0NmNAtaZ35jL3JST08Wzmn3Dms5HwWI4k7RcQhA8tuZ2Rj9sPxtZvW5piGrhObMaJ5UG1JqHzLpm5Ro/bI4Pz9qJTZpccqP7xPa8gx66DPhtJCjkJV/1nH5d86tOcyFL3c9hlMo6zRzx4znnGQ92jptv3+kWdvz2+mo5ONkGUqTsbbnl5/2f2xm8JbCDNcpMG5O/V38PaySOeThkphvNTwAzxFdvumcl1NtRr8TMm0+Anpcue8ULphkmVJvUggLbcKhIeJypeILKQyddM=;PBgt32lk7StvIwNJIDQJ8g=="
+secured: "nD+WWE1GpECl9tK9bw37QyBay7dVFGokwPYdhwcyA84BBu4goBISNDZLrUBU+YY5OVT8pdsozdi877ogmOv904T077raHg1dLeZe6caeboDWw45yhknW63HBDnLXxmwH51oH2RXDHCPml8tjVnl790HxmlOQIWyT/RDQQrzKrxba1VA1gYvYry+ajRbNbru0UwxmO6TaLyosVaXk8bxmAS9Ff1VEtR7Vgh4K/ID1g8tDj1LTFbT02oFKI25wciOXGXvyVXFAlx+bXRE60XoeM4qO4owgOfL/RazkjTGshwSESZwOgWh+OFpG4mMsUu6kshyeNg+LQbJW+JTdznrmosFqu3ClvooZqdemdFj0+5YJaNtag8fNN+byTL/lSRYgadRnbpQGgyi9pU5UBfuBqADjKBz0XzUJ+J7Szc7EjYE=;PoKziHYPia4uzWrVPeeryg=="
 ---
 

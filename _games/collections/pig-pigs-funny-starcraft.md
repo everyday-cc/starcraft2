@@ -988,6 +988,7 @@ items:
   - pig-meomaikas-wild-play-style-made-pig-eat-a-shoe-starcraft-2
   - pig-can-zerg-or-terran-beat-toss-times-1v10-speedrun-update-starcraft-2
   - pig-i-made-sneaky-corner-bases-against-grandmasters-starcraft-2
+  - pig-0-iq-bunker-makes-cheeser-rage-florencio-files-274-starcraft-2
 
 topics:
   - StarCraft 2

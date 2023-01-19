@@ -282,6 +282,7 @@ items:
   - pig-the-sewer-mermaid-nukes-himself-for-science-florencio-files-271-starcraft-2
   - pig-when-your-strat-is-sick-but-zerg-has-a-wrinkly-brain-florencio-files-272-starcraft-2
   - pig-the-filthlord-strikes-again-florencio-files-273-starcraft-2
+  - pig-0-iq-bunker-makes-cheeser-rage-florencio-files-274-starcraft-2
 
 topics:
   - StarCraft 2

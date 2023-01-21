@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=OZDwjDR8dF8
 type: video
 length: PT19M33S
 publishedDateTime: 2022-07-19T00:18:10Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OZDwjDR8dF8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "GZLgs98Kj21l7T9+QBj4T+4l9PihoaRCcgpR7oviz5aX3kPm+ruKXv6uwStMg0kl21skQCWVML3svLk+D34jFYh8RPp5fCt8a/KExOMBpYq8JyYt83eZqRs+P+Uja+JYnKr1SfjLuIUCl8M6MDoBZDmAFDTcNXkG8yz5xAa/7N6FGMSQ9nzrkkVfl2alt9x/xt5cFbhc7SINJ4Dh0aJrxoeZJzGIDD0AKro+dZ3hr4vnyjMPH2s7ID4NBN3za9NUwFiyCoByqX2TTOI5ph69Fndb3TmVJgKepJ4fDMcbe+EvBm2w/dzPcbD/HMbBFIRr4n9MUs2veWU4drhwvOvIIeeBnb/rZOwdFIHXiNI8PzybesRild4AV0r6AUNLjHSmGQsaTFxwibGowVxQYfpyVZltXsYB+Lplot6FfwJUAEM=;r9uLebMslbBEMFSeb+SJew=="
+secured: "dzEA21xuC9/oBbtBhnMFMSOVIUTfkkUYtCM2r76wRy9/YFZajpqWGnSfVVgiajmZH1duEpuwenCI6wWjz2IWNoGFC2FIFJrHIiSIZLSR1cnqfBZgARmG0Gg0x2eI3AUDNvYhPkgpNAJXBS3GroBeUSbWaeKFdRQyXw5KqGoCSRCzLovCs4YXmdYWzjMnq2Eipx0RjYr+h6ECJOVTS05J4Wg+iE39Ec82gyixTXxXLyt2BNQp0POcNhRJiyVkGpWouWJ+OHGtbkLI0nyjiUHNUdPDeaQUl0/jDtU+3BzsTZhZNr1EYHC47ItBm4KMujVNYjV2amhA9j1PlNOYaSDk8P25+Wbb4pF+yK9AV2fPBPQE6DhQ59qa69hZgPiNguokt8KX0dFy+XHgECbAoNQxJiFTGmet2cCWu4sgk3000WI=;KI42LxQOWPdg1DeYYAxmFw=="
 ---
 

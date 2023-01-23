@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-16-starcraft-ii-4121-patch-notes.md",
+      "title": "StarCraft II 4.12.1 Patch Notes",
+      "excerpt": "Patch 4.12.1 has arrived. Check out the detail!",
+      "sourceUrl": null,
+      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23442722/starcraft-ii-4-12-1-patch-notes",
+      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23442722/starcraft-ii-4-12-1-patch-notes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-16T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-war-chest-6-is-now-live.md",
       "title": "War Chest 6 is Now Live",
       "excerpt": "The StarCraft II War Chest is here, with new skins and a brand-new community tournament! In addition to granting you access to a bounty of goodies—like new skins, sprays, emojis, and more—War Chest 6 allows you to lend some crucial support to War Chest Team League, an upcoming community tournament we’re bringing you in partnership with Wardi. Read on to find out what’s coming, how War Chest works, and details on what you can unlock.",

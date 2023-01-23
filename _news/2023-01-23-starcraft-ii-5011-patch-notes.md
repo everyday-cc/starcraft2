@@ -1,0 +1,32 @@
+---
+category: news
+title: "StarCraft II 5.0.11 Patch Notes"
+excerpt: "Patch 5.0.11 has arrived, featuring a wide range of balance, quality of life changes and bug fixes, which were curated by our very own StarCraft II community!"
+publishedDateTime: 2023-01-23T18:52:12Z
+originalUrl: "https://news.blizzard.com/en-us/starcraft2/23893118/starcraft-ii-5-0-11-patch-notes"
+webUrl: "https://news.blizzard.com/en-us/starcraft2/23893118/starcraft-ii-5-0-11-patch-notes"
+type: article
+quality: 177
+heat: 177
+published: true
+
+provider:
+  name: Blizzard
+  domain: blizzard.com
+  images:
+    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - StarCraft 2
+
+images:
+  - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg"
+    width: 960
+    height: 540
+    isCached: true
+
+secured: "+WS9/FniCbztCDNaLaQxh449sZY7xPKXdtN9fbwwT6OOGXqwg4xOhRKdk9dmYpvIMavgpLQnT63UfsXYT8SLWm1hd9ySI+m4C0xgnKeJ17HRIoav/f1w1HAGVL2vayjwpYTKEJJH3GPFjDdvi67cEW3c1h8ge1yotfGG+WqXwZqsHlxhvyF2wX6MTYbZeZPQxelB5XNnL3ngONaPwmnhiLVQ7ZInmXzUk1lSP+hDQGwg/PebwYkZItMqZhGOzFq40FusNgFxn+qjpa4ckc1WQyFrELjpM+Ec1eiEKe0Y4sDDKf8TJYOdP4emvpjODQxpJUoZpL25Ex8OFd19vUCf2q5P6ap6w+RZMFdkqrTeykg=;HFeHIa9TtBp/GfOPr7ExnQ=="
+---
+

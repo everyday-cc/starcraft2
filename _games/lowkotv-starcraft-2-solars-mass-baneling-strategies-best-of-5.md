@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=L25a1HyzCX4
 type: video
 length: PT30M50S
 publishedDateTime: 2022-10-17T11:49:22Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L25a1HyzCX4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ExqjdbbMuL6LMTPegGVL0KP4bw7NF9oPuDQvZeJ3wS4/lbEt+veBAvYLGm2vbCHRe4iYmtzctuhLZxkrSzvhby4YKE7LD/QEY4t1rbTNkS/4Ss06+fLHH5fnMwPRNBRMhOPYBdG5SsuQRYkpWfuVBTU/u4ec4aRENe51uJ26TbA0BXLv+YwVNzmwlz3XPkSzpFn9EarOgNWfVF5D/WUlboa+NHbQ3WWBu+NkNCvTdjti45nBkFdC+rtXJ/blbM//73b2C7QxjtSNF+KopzqBrsXIA5z8HZKPh7MdLMVeOClCwVK8/IdzrKOoSutCTzPRlnjzj/D/ph04GRBh4nFw963lZLGwX03xvem6DyuFh2f3ljRlKQC4KVKg614OL6oHHsg7NUiPfMHktvxd7uf3kwAiRLs8L/vWHa5G2Tmall4=;xwosz0wrGD+tpcF/YKIFfw=="
+secured: "NyENJErmk/hof+2YDdyZv28lQJ9XWcu0AZ5RmY+iG+htAHq2XxVQnwWI3/wtMnNAGdDV8WJ9dE51Tx1ge2PydypAe7PfmmNazwPeX8RGsnhjXDLjjknPuqnTKc41RU3kIFalYqLl0skhxGndkXJxr5yquj7vVWoNKbkFXJuVtF0ft74PkACc7m5MqUi+2K6pa5YIlFmi29P9yjo+BPn0hKlQN1RarOV4weSETufzJmUf5+L00NJQ1ovvihRvAuw3fme6ncHQC9LrLRbPlMiCx1CaVO9vjgSSd97aozMg/gEzeTx3QP422WZZFt15BfTTXmtjKsBQ1r/h32CtNQvH174mduQ4K4lI3vTD4kQShylSeeknWC8qZvC8wVMId7fbSWv6ljDIEqEX2rhqi9PVkGArcDzLPwkFDpCAqaReEWM=;qvz95dx4ncXSxnEDpP9Jgw=="
 ---
 

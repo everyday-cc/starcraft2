@@ -39,7 +39,21 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Starcraft II: Patch 5.0.11 Rebalances Most Units in the Game"
+    excerpt: "Zerg mains are going to love the changes in this update. For instance, Hydralisks now move even faster while on the Creep, which makes repositioning so much easier to do."
+    publishedDateTime: 2023-01-25T15:20:00Z
+    webUrl: "https://www.player.one/starcraft-ii-patch-5011-rebalances-most-units-game-153955"
+    type: article
+    provider:
+      name: player.one
+      domain: player.one
+    quality: 37
+    images:
+      - url: "https://cdn.player.one/sites/player.one/files/2023/01/25/starcraft-ii.jpg"
+        width: 680
+        height: 383
+        isCached: true
 
-secured: "2rpIQx5pef3Sjtj+xl5NXP3K4Aosf2lZcGn8mQtB27cBhFlk+SVrD/xc0o/pJZ/37CLypOoCsIW5Mq+2Ht2blV0ciFUy+jGSJu7y5KjEYQQe12SPUF79nk9G1eHlajvV7VIdyOJhpv1IBxynZzntdeY2YY9rk9NVF6gxqDnZM8kfo2Xc3UUT2bq8nLZ0n7MNZUhDXczIc3jwHoEMC3U961SScSlQltp3E8U2tnX0JVHEuqL7j7iyLR4oEnm2sT/C4gSSN37ekHuwcMTHE6FLZvYFWOUruGo5BzsZFe0BJYz5anBTVO5oOIjj2/8xR8bbQkl44bFLUAxS3YrXEszZ52QvWrKYOachHRztl74N6bM=;J1EoF/Tj0xaqX45JsG7uCA=="
+secured: "YNWI4xUQpAp8FTffBOm3vK1+tn1ldFPYI9GJozqDKeYeES2EF5Y6vw2d5aS7QoU0b5mpkGQEdisdHPKOanMAqfXKXocgGYmC+K92q1kEJ8cv/CE6TWi+dMU/Dco1nDgK00Tb3NRisAYcKA0DEMQ2RK7O/abJSM5LWyux+GW8srVK8LCc/GzTYxTKUfcA9eMDPXK3KJSCGh18IyxaJ8INVpppE34uBb5Np1qn9DCCLqwTZl7bYu/CQU5fn18UFbbKrgKD+h5UW54SJuCQfIjGKdjPoVjlRK5I5S8NEzT+lBLOshnrdfy1VqCEVa1LCLY/Qo28CMkyFAGn/zLWWByeULa/W1TopxrXLNnWWrA69IzNUYjSiU9qliqIuLs0OzuriYJmIehKyBZRttub5N3ftDYEFoa02hMjBB1UuRE3Kr1WcXugRHJs7ViwwIroWXSaupeXtQ5GuPlrIPxx/3vHeGFT2y/bZC9RHTLoJQbxjh5coxuI7m7xkBI8xFmALFfgh+B8IC11QQiIs72XRHrQWA==;oRlpzcKUNWbB6t/0FqYF2g=="
 ---
 

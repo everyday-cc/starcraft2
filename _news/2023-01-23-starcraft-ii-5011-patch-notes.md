@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/23893118/starcraft-ii-5
 webUrl: "https://news.blizzard.com/en-us/starcraft2/23893118/starcraft-ii-5-0-11-patch-notes"
 type: article
 quality: 177
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: player.one
       domain: player.one
     quality: 54
+    images:
+      - url: "https://cdn.player.one/sites/player.one/files/2023/01/25/starcraft-ii.jpg"
+        width: 680
+        height: 383
+        isCached: true
+  - title: "Starcraft II: Patch 5.0.11 Rebalances Most Units in the Game"
+    excerpt: "Zerg mains are going to love the changes in this update. For instance, Hydralisks now move even faster while on the Creep, which makes repositioning so much easier to do."
+    publishedDateTime: 2023-01-25T15:20:00Z
+    webUrl: "https://www.player.one/starcraft-ii-patch-5011-rebalances-most-units-game-153955"
+    type: article
+    provider:
+      name: player.one
+      domain: player.one
+    quality: 37
     images:
       - url: "https://cdn.player.one/sites/player.one/files/2023/01/25/starcraft-ii.jpg"
         width: 680

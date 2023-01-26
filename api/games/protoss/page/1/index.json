@@ -383,14 +383,14 @@
       "publishedDateTime": "2022-09-05T04:02:46-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-astreas-experimental-protoss-builds-vs-solar-grand-finals.md",
-      "title": "StarCraft 2: Astrea's EXPERIMENTAL Protoss Builds vs Solar! (Grand Finals)",
-      "excerpt": "Grand Finals of the ESL Open Cup 148 Americas. This Protoss versus Zerg in StarCraft 2 is a match between Astrea and Solar.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips: https://www.youtube.com/lowkoclips",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-astreas-experimental-protoss-builds-vs-solar-grand-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-astreas-experimental-protoss-builds-vs-solar-grand-finals/",
-      "originalUrl": "https://youtube.com/watch?v=aLzlSqW6BvU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aLzlSqW6BvU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M8S",
+      "path": "_games/lowkotv-starcraft-2-serral-struggles-vs-protoss-best-of-3.md",
+      "title": "StarCraft 2: Serral STRUGGLES vs Protoss? (Best-of-3)",
+      "excerpt": "Best-of-3 series between Serral (Zerg) and Gerald (Protoss). The games in this series are macro games, Serral's speciality, and yet he struggles against Gerald's macro Protoss style.  Blink Dark Templar opener: https://youtu.be/dSVpdpysQzg  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-struggles-vs-protoss-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-struggles-vs-protoss-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=C7YtpcOLg-U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C7YtpcOLg-U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M16S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -411,7 +411,7 @@
       "heat": 112,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/aLzlSqW6BvU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/C7YtpcOLg-U/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -419,7 +419,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-11-14T02:34:43-08:00"
+      "publishedDateTime": "2022-11-03T03:36:19-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-brand-new-map-pool-hero-vs-dark-grand-finals.md",

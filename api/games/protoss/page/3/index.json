@@ -695,6 +695,45 @@
       "publishedDateTime": "2022-07-18T17:18:10-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-astreas-experimental-protoss-builds-vs-solar-grand-finals.md",
+      "title": "StarCraft 2: Astrea's EXPERIMENTAL Protoss Builds vs Solar! (Grand Finals)",
+      "excerpt": "Grand Finals of the ESL Open Cup 148 Americas. This Protoss versus Zerg in StarCraft 2 is a match between Astrea and Solar.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips: https://www.youtube.com/lowkoclips",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-astreas-experimental-protoss-builds-vs-solar-grand-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-astreas-experimental-protoss-builds-vs-solar-grand-finals/",
+      "originalUrl": "https://youtube.com/watch?v=aLzlSqW6BvU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aLzlSqW6BvU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M8S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aLzlSqW6BvU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-14T02:34:43-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-can-showtime-stop-clems-domination-best-of-5.md",
       "title": "StarCraft 2: Can ShoWTimE Stop Clem's DOMINATION? (Best-of-5)",
       "excerpt": "Best-of-5 series of professional StarCraft 2 between Clem and ShoWTimE.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
@@ -1044,37 +1083,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-20T02:49:08-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-prince-cannon-rushes-byun.md",
-      "title": "StarCraft 2: Prince CANNON RUSHES ByuN!",
-      "excerpt": "Best-of-2 series of high level StarCraft 2 between ByuN (Terran) and Prince (Protoss). In this series Prince decides to Cannon Rush his Terarn opponent and play a macro strategy on the back of it.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-prince-cannon-rushes-byun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-prince-cannon-rushes-byun/",
-      "originalUrl": "https://youtube.com/watch?v=Kx5uVh-AEIM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Kx5uVh-AEIM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M8S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 52,
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-24T03:31:53-07:00"
     }
   ],
   "nextPage": 4

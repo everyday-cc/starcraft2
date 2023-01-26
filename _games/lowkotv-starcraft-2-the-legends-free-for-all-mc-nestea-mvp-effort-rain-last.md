@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-legends-free
 type: video
 length: PT18M13S
 publishedDateTime: 2021-02-23T17:23:49Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NOcA0Q-gjBE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -30,6 +30,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ilqajZrN/cvSmouHZlN6cnqarcz9klgWCCBt2ad+2+UYgybtC/3zoWvdsSnzhLn8we/kOq9WnZLDGqsTNCtNhXsKaF1w8e+m05Rm3efyHjzTcpip1gXYvKLB5BVIuAEK4bNACOpzRKer7+TkfNefi9wuEagKhz/wQInTIoSQ1XriYs17i8TJWx2zYId68jvf7WWVZZ2bKUWm00UF5+LAUHYQqB+s9Nk5TvNLGQ9OKYBqc6jlIH5QK4UllbyeG8cMDr9EhKEakeySu111iOMJijkzVhRaWYeOdqy/d2XSB25dKDdcf/T6a1W1+NARUc6d4il1u3/rOFjabka5ps2klkqL9WU8GuHj/lPucKQNr7vKJy+m09IeItPIsPpe+nKUZF2vn1fkOYbROjMJtbN1ZXl0kMI+Kjx8IgneHnZhHic=;1Cw8PxYCpGaqAAq49yQCeg=="
+secured: "eW1VmA2MgounlDEVOS37JSknqcfHTMcIWxH6gCqd7Mva6b9yEMN6//yYY1TiQ4lRRKc4mX61DhK7sc8ut37Zct8ss8yRFnJH+R0AAbnD1H9hRhldLmKC6bjQawty+xQVoZPIJ4K4b/h/x52cEQ8LbqGZQ0/dLf7B9OkGd5oRuXWelS5aN8WfJvUNrRe9qkHdVuXdw6Y1RyWvSPg1mGPkP/rvQHGGu54vDbSGDmqtkteDQ43BvQzrPWuWJKo961tXzO6iP0xKocfZkvBQi9vUlR1I+NL3/Us+J6ZcaEWLTi9YR/XiVJAlZtwcCTzc+lRVDHm0+UtlLBq7VrArwTqaGV71mbxbjmdwNgWZV6bb7g3IZezTzEMZJBCFRxqrIkzzPhZWWTV+shoKN+z8AflGiqGPmDz8MriPYA3JfMwcCg4=;OnmoYQuADJRgAPDlSqNIZQ=="
 ---
 

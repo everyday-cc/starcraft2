@@ -991,6 +991,7 @@ items:
   - pig-reacting-to-sc2hls-greatest-cannon-rushes-of-all-time-starcraft-2
   - pig-0-iq-bunker-makes-cheeser-rage-florencio-files-274-starcraft-2
   - pig-everyone-sentry-buff-is-useless-astrea-hold-my-beer
+  - pig-toss-has-rage-fit-cos-terran-bio-exists-salt-mines-26-starcraft-2
 
 topics:
   - StarCraft 2

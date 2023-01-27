@@ -4,6 +4,96 @@
   "page": 27,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-too-many-disco-balls-no-such-thing-the-florencio-files-30.md",
+      "title": "StarCraft 2 - Too many disco balls? No such thing | The Florencio Files #30",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-too-many-disco-balls-no-such-thing-the-florencio-files-30/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-too-many-disco-balls-no-such-thing-the-florencio-files-30/",
+      "originalUrl": "https://youtube.com/watch?v=btgURNgKY3Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/btgURNgKY3Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M5S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/btgURNgKY3Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-10-13T16:35:08-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-touching-the-tips-the-florencio-files-74.md",
+      "title": "StarCraft 2 - Touching the Tips | The Florencio Files #74",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-touching-the-tips-the-florencio-files-74/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-touching-the-tips-the-florencio-files-74/",
+      "originalUrl": "https://youtube.com/watch?v=Rafisq6mkjs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Rafisq6mkjs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M7S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Rafisq6mkjs/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-03T14:16:35-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-trumpchads-and-turkey-slaps-the-florencio-files-155.md",
+      "title": "StarCraft 2 -  - TrumpChads and Turkey Slaps | The Florencio Files #155",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-trumpchads-and-turkey-slaps-the-florencio-files-155/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-trumpchads-and-turkey-slaps-the-florencio-files-155/",
+      "originalUrl": "https://youtube.com/watch?v=SMNNoC4AKC8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SMNNoC4AKC8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M3S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SMNNoC4AKC8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-17T14:00:13-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-unleashed-back-into-the-wild-the-florencio-files-38.md",
       "title": "StarCraft 2 - Unleashed back into the Wild | The Florencio Files #38",
       "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  Florencios twitch: https://www.twitch.tv/flol2encio Florencios youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
@@ -824,97 +914,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-05T18:47:37-08:00"
-    },
-    {
-      "path": "_games/pig-whats-detection-the-florecenio-files-51.md",
-      "title": "What's detection? - The Florecenio Files #51",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-whats-detection-the-florecenio-files-51/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-whats-detection-the-florecenio-files-51/",
-      "originalUrl": "https://youtube.com/watch?v=opYfPwgF3UM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/opYfPwgF3UM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/opYfPwgF3UM/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-08T03:27:15-08:00"
-    },
-    {
-      "path": "_games/pig-when-a-cannon-rush-meets-a-proxy-hatch-in-cheesedown-part-44.md",
-      "title": "When a Cannon Rush meets a Proxy Hatch in CHEESEDOWN Part 4/4!",
-      "excerpt": "We invited the cheesiest Protoss, Has, and the cheesiest Zerg, Bly, to have a Cheesedown with us to determine who is the best at serving fondue. In Part four, the fondue party comes to an end. Who will take the Cheesedown crown?  Cheesedown Part 1: https://youtu.be/OI4n4PWs1TI Cheesedown Part 2: https://youtu.be/yvvgXC3C-zo",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-a-cannon-rush-meets-a-proxy-hatch-in-cheesedown-part-44/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-a-cannon-rush-meets-a-proxy-hatch-in-cheesedown-part-44/",
-      "originalUrl": "https://youtube.com/watch?v=2oPGEX50fm0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2oPGEX50fm0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M23S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2oPGEX50fm0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-29T08:25:52-08:00"
-    },
-    {
-      "path": "_games/pig-when-protoss-squatters-take-terrans-main-base-diamond-in-the-ruff-61.md",
-      "title": "When Protoss squatters take Terran’s main base | Diamond in the Ruff #61",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-protoss-squatters-take-terrans-main-base-diamond-in-the-ruff-61/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-protoss-squatters-take-terrans-main-base-diamond-in-the-ruff-61/",
-      "originalUrl": "https://youtube.com/watch?v=UA64vCg2HLk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UA64vCg2HLk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M37S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UA64vCg2HLk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-12-27T14:45:26-08:00"
     }
   ],
   "nextPage": 28

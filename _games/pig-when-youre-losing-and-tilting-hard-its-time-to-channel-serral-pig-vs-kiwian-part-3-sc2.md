@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=ijko1Ke8r4A
 type: video
 length: PT35M6S
 publishedDateTime: 2022-08-22T07:54:39Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ijko1Ke8r4A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "gDJi4yOCHVE813/lX5oYKI+BRVi0tntwhO1dyYZfF+FRbCXWkIVFknVCMxnMNrRcfUlLY+zm44tfoSDNxNAfgpqWmzdusw1E4hhrYZndeVmdG3jznvhWKYjXxS3aSGXluWTvS4uSzoSTAlQZ4+IZwLjIWPveebSDJHQCWXSky1BqRWTAviTT8s60QQlDaPO0vOPoWV3rIq43W0yzeyK7hlbtWY0ISgLjtZipkeYGEojbHmUoaCeO++tfaubHJAn0ou1Cve+ucvvI0dyBnnC4gKOaURELD9ZsC/vYEJf3zL4g/hmCtCGtejPQ/XhU7mNNDzzRgOKBzYNiamP+7/BS/37n0Of8w/MU2knvWuGC38FipOaYnm7A99MBhApUYYoCFL1TbdHV9TQ0GJxawL9xcB5adcT/KhaZdz3tCC7Huwc=;IWNpneh9Iw4wZ3Lb15nifg=="
+secured: "RyCox+6HMYYw5e3Q//ZsDZXW9RNqnIqVgDSDg+G8q/qPnFmeiuYBfZZK6D0+89DUfJuTwDd7mIrgOrauEas0bozG6FugHC1YVq67IKhz9KEG9VugwGu3sHe+vafTzrjpXIRDWT4CgoW9perJ0mxoIzxQiF/ytLzi8nCDHzBgPEmHWCwVcEXj/JQzHtBmWshePprMbiTuUeaUuSlFRt+iM2c2cQP9398ajg/sqM8bPLgJSfh65kRHoZfrvi4oMqdWWW6b7reDkO960ITROe/75+6uOOn0p8evTzsX6Z5NCCPDgWOcYdF0R4atYbv5dqDMx4xrNYcduZ/+8+JUqIjkDQisFpa9bqKpFl+rISn2u7STigHYFbar+i9vRfxdEB4v3HIjyjoItQIEOeNNDjTvF8xZXIKwiflrdH6n+LMlE6E=;0SqMi4+dhNRZYFmr1Kp3iQ=="
 ---
 

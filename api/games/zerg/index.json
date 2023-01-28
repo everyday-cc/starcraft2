@@ -441,45 +441,6 @@
       "publishedDateTime": "2023-01-25T06:16:28-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-pro-2v2-serral-maru-solar-oliveira-best-of-7.md",
-      "title": "StarCraft 2: PRO 2v2 - Serral, Maru, Solar & Oliveira! (Best-of-7)",
-      "excerpt": "Best-of-7 series of top level StarCraft 2 in the 2v2 game mode! In this video I cast a series of 2 vs 2 between Serral (Zerg) & Oliveira (Terran) and Maru (Terran) and Solar (Zerg).  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-2v2-serral-maru-solar-oliveira-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-pro-2v2-serral-maru-solar-oliveira-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=r7vTyyXnGC0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r7vTyyXnGC0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H9M11S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 164,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/r7vTyyXnGC0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-13T03:18:10-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
       "title": "StarCraft 2: SERRAL vs MARU! (Best-of-7)",
       "excerpt": "Merry Christmas everyone! The two best players currently in StarCraft 2 face off in a best-of-7 series. Serral (Zerg) takes on Maru (Terran). This is the Grand Finals of King of Battles 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
@@ -517,6 +478,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-12-24T13:58:31-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-pro-2v2-serral-maru-solar-oliveira-best-of-7.md",
+      "title": "StarCraft 2: PRO 2v2 - Serral, Maru, Solar & Oliveira! (Best-of-7)",
+      "excerpt": "Best-of-7 series of top level StarCraft 2 in the 2v2 game mode! In this video I cast a series of 2 vs 2 between Serral (Zerg) & Oliveira (Terran) and Maru (Terran) and Solar (Zerg).  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-2v2-serral-maru-solar-oliveira-best-of-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-pro-2v2-serral-maru-solar-oliveira-best-of-7/",
+      "originalUrl": "https://youtube.com/watch?v=r7vTyyXnGC0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r7vTyyXnGC0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H9M11S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 153,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/r7vTyyXnGC0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-13T03:18:10-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-zesty-mind-games-vs-rogue-best-of-5.md",
@@ -695,6 +695,45 @@
       "publishedDateTime": "2022-11-11T02:14:17-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-new-patch-byun-vs-dark-grand-finals.md",
+      "title": "StarCraft 2: NEW PATCH - ByuN vs Dark! (Grand Finals)",
+      "excerpt": "Best-of-5 series of high level StarCraft 2 between Dark (Zerg) and ByuN (Terran). These games are played on the StarCraft 2 PTR with all the new balance changes.   New SC2 patch: https://youtu.be/y87c1xp3I3Q  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-patch-byun-vs-dark-grand-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-patch-byun-vs-dark-grand-finals/",
+      "originalUrl": "https://youtube.com/watch?v=G6EOaBTKXhg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G6EOaBTKXhg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 128,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/G6EOaBTKXhg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-29T00:20:05-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime.md",
       "title": "StarCraft 2: BEST PRO Game of 2022 - Serral vs ShoWTimE!",
       "excerpt": "Professional match of top level StarCraft 2 between Serral (Zerg) and ShoWTimE (Protoss). This is in my opinion the best pro game of SC2 of 2022 so far. Ridiculously close game between two of the best European pro gamers.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
@@ -732,45 +771,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-05T04:02:46-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-dark-roach-rushes-byun-best-of-3.md",
-      "title": "StarCraft 2: Dark ROACH RUSHES ByuN! (Best-of-3)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between Dark and ByuN. In this series Dark decides to rush out Roaches several times. Even though the Zergling Baneling based armies are very popular at the professional level, Dark shows time and time again that Roaches and Ravagers are very valuable units.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-dark-roach-rushes-byun-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-dark-roach-rushes-byun-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=UKSEv3Njc6o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UKSEv3Njc6o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UKSEv3Njc6o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-09T07:08:28-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",

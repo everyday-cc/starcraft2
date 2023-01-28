@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=V9vkSaeYHLE
 type: video
 length: PT29M30S
 publishedDateTime: 2021-11-21T02:06:26Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V9vkSaeYHLE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "jD5+ZS8k77eGYv7+2xHtQwLqfuUxjjsWJY31AkieLG2Im5diRnm+UhbWuERfIITXK98RxjThWUEn1qkOkLBlqRMfS+AARPtQRVyklfNF0FRk6H1igXEMtB2Rof6NluzkbAEaOhNkH5JoLJ1BKiLOpZQCwLzMV+30XZkwPpDsnGryQTpeTrHNA9D673F8lRULxF6ufRMV6oQEtkOfCowMjS3jw8t0z3ahZK1DL6WOvIsn+QDEbJrJctvcKymyKx52P5Cnp0+pBKR6kkjTb17B4CwwxIkj+5Fqg20w2DTMQLrb/qDVyxZq2A14drHZaS7ps/+PJAAhVtyr2cbhkUrVJtH+5hcHrLi069iw7GjUIOoEVwkIR/5AcACbCKhweSHThkizIu/lflaDbscW6bgPoPMyV9A8hx6FSGL8ybfzxGs=;9Q2J5j+izUSzlYbMHHLssg=="
+secured: "SzotesbehHg9Y5eyXGOSMfmNlVAVUr4xKNZpk6UUgcxf0ov8rrl7uuZizIeOTrBe16DH3wE2OURNAft6o5OzrAIPuGD2t4klgxu4nGG6ZEd3ngsuhjgjlYDpug1O3caoCoySpZMYGIq+Xj3+SSYc/ooxYbAEwVLjZ9Cox8oLHgLMS6swXpWaxBwaDW4WjjSUjTkqNubz1WsTWt5aiNCn/MxKD8SJbkl4GgwgH/RMQDgj6/vkNn73/rZFsik+J0o3e1eEZcuBsFXdNJqs1cKgCTGjcLOxOZ9/QfGQQuttw0BpkIkEzFyrnWx+m7iBa+Znjivn6N3b+X/msg6HsfU5uuJsT/lLHJbJssrbfnYnpJlOU5oOqR2wW+KRD6ZVvw/8AdfL2/sWdLJ9zhx4VmhdKGe5UI8sKAprAMMpSTFJVP8=;j8KNcKUDPf0MjXQPUouSOQ=="
 ---
 

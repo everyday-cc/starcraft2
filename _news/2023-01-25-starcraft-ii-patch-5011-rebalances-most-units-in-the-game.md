@@ -38,6 +38,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "StarCraft II 5.0.11 Hotfix Patch Notes"
+    excerpt: "Patch 5.0.11 Hotfix has arrived with bug fixes for Versus."
+    publishedDateTime: 2023-01-30T19:15:26Z
+    webUrl: "https://news.blizzard.com/en-us/starcraft2/23897177/starcraft-ii-5-0-11-hotfix-patch-notes"
+    type: article
+    provider:
+      name: Blizzard
+      domain: blizzard.com
+    quality: 177
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Starcraft II: Patch 5.0.11 - Quality of Life Changes and Bug Fixes"
     excerpt: "Zerg players are going to love Patch 5.0.11 because of some pretty good changes. For one, the Hydralisk now has the same attack cooldown and attack speed animation with melee and ranged attacks to make things more consistent."
     publishedDateTime: 2023-01-25T15:27:00Z

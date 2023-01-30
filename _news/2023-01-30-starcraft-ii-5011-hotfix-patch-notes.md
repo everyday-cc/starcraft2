@@ -1,14 +1,14 @@
 ---
 category: news
-title: "StarCraft II 5.0.11 Patch Notes"
-excerpt: "Patch 5.0.11 has arrived, featuring a wide range of balance, quality of life changes and bug fixes, which were curated by our very own StarCraft II community!"
-publishedDateTime: 2023-01-23T18:52:12Z
-originalUrl: "https://news.blizzard.com/en-us/starcraft2/23893118/starcraft-ii-5-0-11-patch-notes"
-webUrl: "https://news.blizzard.com/en-us/starcraft2/23893118/starcraft-ii-5-0-11-patch-notes"
+title: "StarCraft II 5.0.11 Hotfix Patch Notes"
+excerpt: "Patch 5.0.11 Hotfix has arrived with bug fixes for Versus."
+publishedDateTime: 2023-01-30T19:15:26Z
+originalUrl: "https://news.blizzard.com/en-us/starcraft2/23897177/starcraft-ii-5-0-11-hotfix-patch-notes"
+webUrl: "https://news.blizzard.com/en-us/starcraft2/23897177/starcraft-ii-5-0-11-hotfix-patch-notes"
 type: article
 quality: 177
-heat: 241
-published: true
+heat: -1
+published: false
 
 provider:
   name: Blizzard
@@ -28,10 +28,10 @@ images:
     isCached: true
 
 related:
-  - title: "StarCraft II 5.0.11 Hotfix Patch Notes"
-    excerpt: "Patch 5.0.11 Hotfix has arrived with bug fixes for Versus."
-    publishedDateTime: 2023-01-30T19:15:26Z
-    webUrl: "https://news.blizzard.com/en-us/starcraft2/23897177/starcraft-ii-5-0-11-hotfix-patch-notes"
+  - title: "StarCraft II 5.0.11 Patch Notes"
+    excerpt: "Patch 5.0.11 has arrived, featuring a wide range of balance, quality of life changes and bug fixes, which were curated by our very own StarCraft II community!"
+    publishedDateTime: 2023-01-23T18:52:12Z
+    webUrl: "https://news.blizzard.com/en-us/starcraft2/23893118/starcraft-ii-5-0-11-patch-notes"
     type: article
     provider:
       name: Blizzard
@@ -71,6 +71,6 @@ related:
         height: 383
         isCached: true
 
-secured: "+WS9/FniCbztCDNaLaQxh449sZY7xPKXdtN9fbwwT6OOGXqwg4xOhRKdk9dmYpvIMavgpLQnT63UfsXYT8SLWm1hd9ySI+m4C0xgnKeJ17HRIoav/f1w1HAGVL2vayjwpYTKEJJH3GPFjDdvi67cEW3c1h8ge1yotfGG+WqXwZqsHlxhvyF2wX6MTYbZeZPQxelB5XNnL3ngONaPwmnhiLVQ7ZInmXzUk1lSP+hDQGwg/PebwYkZItMqZhGOzFq40FusNgFxn+qjpa4ckc1WQyFrELjpM+Ec1eiEKe0Y4sDDKf8TJYOdP4emvpjODQxpJUoZpL25Ex8OFd19vUCf2q5P6ap6w+RZMFdkqrTeykg=;HFeHIa9TtBp/GfOPr7ExnQ=="
+secured: "4RJ4auuqvxTKlfK1FZRHodG36zdGshioqBPFqpoeunZBFWHiQ2fj6Uhfz4chBQXuS7y+m+clvY7f7v3AvimNNwdevR+U/qazkj4KwQOcTEJ88L+pg9o59dYxMIP0+LUNo1Z0g6eLqpsRRAt1e5Gw/Q2U78F0ePY0mTo+73jzgQ8ZO5FOvFruLg6y2JEGAGqBYEmfJn2IPrOEoMxYPYsLIFQgaIhfq4ZvxQmpVL3ToIy3IpzUOI1vdBSlBXM5icM0ToQ9vwh7ZVcRerOgprpiqlNRi/AarCHLHAJVEcu+1NZpfikpCQcxEP2isZ4MmBa17/YKk3Pe7Wuf2n+kfz/j0H4O3mSh581YQfxx9cnwMqg=;FnMwK40SSORrZ4uwrYhC3Q=="
 ---
 

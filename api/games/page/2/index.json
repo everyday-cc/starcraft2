@@ -197,74 +197,6 @@
       "publishedDateTime": "2022-02-10T17:37:20-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-mothership-rush-in-a-pro-game-dreamhack-atlanta.md",
-      "title": "StarCraft 2: MOTHERSHIP Rush in a Pro Game?! (Dreamhack Atlanta)",
-      "excerpt": "High level match of StarCraft 2 between Shadown (Protoss) and KingCobra (Protoss) from Dreamhack Atlanta. In this game KingCobra decides to throw all the standard decision making out of the window, and decides to go for a Mothership rush.  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-mothership-rush-in-a-pro-game-dreamhack-atlanta/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-mothership-rush-in-a-pro-game-dreamhack-atlanta/",
-      "originalUrl": "https://youtube.com/watch?v=pXcfO4W4ICA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pXcfO4W4ICA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M10S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 129,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pXcfO4W4ICA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-10T04:57:13-08:00"
-    },
-    {
-      "path": "_games/pig-terran-saltlord-wrestles-with-reality-salt-mines-24-starcraft-2.md",
-      "title": "Terran Saltlord Wrestles With Reality | Salt Mines #24 - StarCraft 2",
-      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-terran-saltlord-wrestles-with-reality-salt-mines-24-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-terran-saltlord-wrestles-with-reality-salt-mines-24-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=vqEkZFBl0H8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vqEkZFBl0H8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H16S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 129,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vqEkZFBl0H8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-21T16:32:53-08:00"
-    },
-    {
       "path": "_games/pig-when-you-go-mass-ling-drops-but-theyve-got-skytoss-starcraft-2.md",
       "title": "When you go mass ling drops, but they've got SKYTOSS! - StarCraft 2",
       "excerpt": "I gave myself a challenge: to do mass zerg drops. LOTS OF DROPS. Let's see how it does on the StarCraft 2 ladder -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig",
@@ -515,6 +447,74 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-27T23:30:12-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-byuns-terribly-greedy-strategies-best-of-7.md",
+      "title": "StarCraft 2: ByuN's TERRIBLY GREEDY Strategies! (Best-of-7)",
+      "excerpt": "Best-of-7 series of professional StarCraft 2 between ByuN (Terran) and Solar (Zerg). In this series Solar does the same thing over and over again, but ByuN decides to play the opponent rather than the matchup and play super greedy build orders.  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-terribly-greedy-strategies-best-of-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-terribly-greedy-strategies-best-of-7/",
+      "originalUrl": "https://youtube.com/watch?v=AGmeMsi2lvY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AGmeMsi2lvY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 111,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AGmeMsi2lvY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-03T12:03:47-07:00"
+    },
+    {
+      "path": "_games/pig-the-sickest-probe-block-trick-ive-ever-seen-icyfar-aggression-starcraft-2.md",
+      "title": "The Sickest Probe Block Trick I’ve Ever Seen | ICYFAR \"Aggression\" - StarCraft 2",
+      "excerpt": "🤯 In this month’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they try to be overly aggressive (Tryhard) -- 🤯 ICYFAR Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUczdbU-zuY0-vykRSR1YsLC -- 🐷 Second Channel for Learning StarCraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-sickest-probe-block-trick-ive-ever-seen-icyfar-aggression-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-sickest-probe-block-trick-ive-ever-seen-icyfar-aggression-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=oFDJnntIDac",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oFDJnntIDac\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M32S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oFDJnntIDac/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-02T20:09:43-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-amazing-game-until-a-sudden-gg-solar-vs-cure.md",

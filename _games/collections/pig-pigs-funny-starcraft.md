@@ -984,12 +984,13 @@ items:
   - pig-the-filthlord-strikes-again-florencio-files-273-starcraft-2
   - pig-has-disgusting-cheese-makes-solar-literally-facepalm-starcraft-2
   - pig-the-warp-prism-ability-everyones-forgotten-about-king-of-cannons-21
+  - pig-cannon-rush-into-complete-chaos-bet-u-cant-guess-who-wins-king-of-cannons-22-starcraft-2
   - pig-telling-them-your-actual-strategy-to-mess-with-them-icyfar-new-years-resolutions-sc2
-  - pig-meomaikas-wild-play-style-made-pig-eat-a-shoe-starcraft-2
+  - pig-how-a-vietnamese-cheese-master-made-me-doubt-everything-meomaika-starcraft-2
   - pig-can-zerg-or-terran-beat-toss-times-1v10-speedrun-update-starcraft-2
-  - pig-i-made-sneaky-corner-bases-against-grandmasters-starcraft-2
+  - pig-stealing-mmr-from-gms-with-the-sneaky-corner-bases-starcraft-2
   - pig-reacting-to-sc2hls-greatest-cannon-rushes-of-all-time-starcraft-2
-  - pig-i-embarrassed-a-pro-player-so-he-embarrassed-me-back-pig-vs-astrea-starcraft-2
+  - pig-i-embarrassed-a-top-20-pro-then-this-happened-pig-vs-astrea-starcraft-2
   - pig-0-iq-bunker-makes-cheeser-rage-florencio-files-274-starcraft-2
   - pig-everyone-sentry-buff-is-useless-astrea-hold-my-beer
   - pig-toss-has-rage-fit-cos-terran-bio-exists-salt-mines-26-starcraft-2

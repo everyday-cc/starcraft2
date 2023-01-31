@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=ldK4SaCcFqI
 type: video
 length: PT31M57S
 publishedDateTime: 2022-12-22T06:18:44Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ldK4SaCcFqI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "o1+KTTaTkstLYCTyLgyW6CCTPu9J9nyZcGwP6KJiRslG45f5ZrVQ9/a39eRCQi4tEsd5RvQkYckuZqRoE8PTPZaAAyTC79HpGEu5EKyh663ubjkwBHKOkmTpMZn2UzQWiN7nLXpmeLaZDtl9oMUS8MbzivY1z7SJQ0BHDxJW1U88QUMg8a953xCNW1FAiLdTG7S4gx1/KGGLG0wMUH/IXT2pahcTOrc/FITzj5jaIBsUeXjl++ZVrKhniIbnkeTdk4KbccC52IjgMJUFZ2aXvri2NnT5jHR3H/JY3ygmRziy/T3Ec4Z8XFJ9phqeRHCX/JUD/+6ayFAHFKihPbUI82SA9TX9PffU0XEsP3WVFZmQIDXtL5uE95ruRyySUF+uCpNO79Nm0bvnFjM7mnnHDTchxhrrAPi9IvtiCUrbXAY=;XJGX49Y/l1tij2haRUv0AQ=="
+secured: "funAvf7klvoIsqZ4dFRsIA4x9ZVQMoE8wcxCqMPllVJ/BP0mkWPlBG8Z6RS0djrRozGxcSogEofv4a7au6Jh4Shs7BoFMHW0N5QRTH6c1M7Gq0Ai0KJC65wpFpsq6CvuqW2PWE0ypeChXEkhrUkcpQwg7g8U7lfgzSaWpN5m4WhW51J4eeplefmOvOQb4xz0kaN+E5AIGQX9uNYYrF9DGa7qQ7GZNy4nHS1bu24HNXzJJRGtwhadBJfn9VASEfUbPcbwEbg0yrHrITJ7JxvV8ccoRgoGcGgBLk7HQrthmqNSWOvDwVgg6vtzGyVtZueeWrNFLrYgy90czgpcWkb3+Vfu5HJTkvraT67HvJIGZR+JeVelw6BuzbH/5dkhtseaFJR0hETDzG3HUKPtKqJeJifIeWhH24if/ftLExNZMYI=;+YJHB0r73xjC4Uj60GgHEA=="
 ---
 

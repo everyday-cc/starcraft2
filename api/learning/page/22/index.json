@@ -4,97 +4,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_learning/videos/pig-starcraft-2-coaching-zvp-vs-cannon-rush.md",
-      "title": "StarCraft 2 - Coaching ZvP vs Cannon Rush",
-      "excerpt": "I coach my student on having a smooth reaction in ZvP to pylons blocking your natural and cannon rushes. -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-coaching-zvp-vs-cannon-rush/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-coaching-zvp-vs-cannon-rush/",
-      "originalUrl": "https://youtube.com/watch?v=orYHRXhML7Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/orYHRXhML7Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M12S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:42:45-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/orYHRXhML7Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-coaching-zvp-wasting-apm-watching-the-map-diamond-1.md",
-      "title": "StarCraft 2 - Coaching ZvP - Wasting APM + Watching the Map - Diamond 1",
-      "excerpt": "I coach a diamond zerg player on his ZvP, we end up focusing on some disorganised habits with his macro that waste a lot of apm and distract him from watching the minimap -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-coaching-zvp-wasting-apm-watching-the-map-diamond-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-coaching-zvp-wasting-apm-watching-the-map-diamond-1/",
-      "originalUrl": "https://youtube.com/watch?v=RB-_gN3TTbY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RB-_gN3TTbY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H30M",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:42:45-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RB-_gN3TTbY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-coaching-zvt-masters-how-to-play-ling-bane-hydra.md",
-      "title": "StarCraft 2 - Coaching ZvT Masters - How to play Ling Bane Hydra!",
-      "excerpt": "I coach a student on how to play Ling Bane Hydra! -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-coaching-zvt-masters-how-to-play-ling-bane-hydra/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-coaching-zvt-masters-how-to-play-ling-bane-hydra/",
-      "originalUrl": "https://youtube.com/watch?v=mjtn7BXjwKA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mjtn7BXjwKA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-01-23T17:40:28-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mjtn7BXjwKA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-starcraft-2-coaching-zvt-mentality-diamond-1.md",
       "title": "StarCraft 2 - Coaching ZvT + Mentality - Diamond 1",
       "excerpt": "I coach a Diamond 1 zerg on his mentality during losing streaks and refining his ZvT! -- Watch live at https://www.twitch.tv/x5_pig",
@@ -919,6 +828,97 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-finding-macro-errors-organising-macro-and-simplifying-focus-gold-zerg-coaching.md",
+      "title": "StarCraft 2 - Finding Macro Errors, organising macro and simplifying focus - Gold Zerg Coaching",
+      "excerpt": "Part of a gold coaching session where we look at how to identify macro errors and how to organise your cycle properly -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-finding-macro-errors-organising-macro-and-simplifying-focus-gold-zerg-coaching/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-finding-macro-errors-organising-macro-and-simplifying-focus-gold-zerg-coaching/",
+      "originalUrl": "https://youtube.com/watch?v=LDCuCU6aP8U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LDCuCU6aP8U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M29S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-04-24T01:46:01-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LDCuCU6aP8U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-finding-points-of-indecision-and-refining-a-plan-coaching-zvt-d3.md",
+      "title": "StarCraft 2 - Finding points of indecision and refining a plan - Coaching ZvT D3",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-finding-points-of-indecision-and-refining-a-plan-coaching-zvt-d3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-finding-points-of-indecision-and-refining-a-plan-coaching-zvt-d3/",
+      "originalUrl": "https://youtube.com/watch?v=-57KegRazYY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-57KegRazYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H15M51S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-10-11T09:00:04-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-57KegRazYY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-first-ever-2v2-coaching-t-p-combo.md",
+      "title": "StarCraft 2 - First ever 2v2 coaching! T + P combo",
+      "excerpt": "First game starts at 15mins in, feel free to skip the talk if you are not interested. There was another 30 mins of talk before that i decided to not release.  This is pretty much experimental content at this point. haha  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-first-ever-2v2-coaching-t-p-combo/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-first-ever-2v2-coaching-t-p-combo/",
+      "originalUrl": "https://youtube.com/watch?v=nxuu1Zylzo0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nxuu1Zylzo0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M23S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-05-01T11:06:17-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nxuu1Zylzo0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
       ]
     }
   ],

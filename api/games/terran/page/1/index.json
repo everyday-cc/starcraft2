@@ -342,44 +342,6 @@
       "publishedDateTime": "2023-01-25T16:32:20-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-gumihos-amazing-mech-build.md",
-      "title": "StarCraft 2: GuMiho's AMAZING Mech Build!",
-      "excerpt": "Professional match of StarCraft 2 between GuMiho (Terran) and Solar (Zerg). In this match GuMiho decides to focus on Terran mech, as he goes for a double Thor drop opener and transitions towards Battlecruisers in the late game.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumihos-amazing-mech-build/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumihos-amazing-mech-build/",
-      "originalUrl": "https://youtube.com/watch?v=BeF7NtXQ9f8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BeF7NtXQ9f8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M58S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 152,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BeF7NtXQ9f8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-29T03:40:22-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-most-epic-game-played-on-the-new-patch-dark-vs-byun.md",
       "title": "StarCraft 2: Most EPIC GAME played on the new Patch! (Dark vs ByuN)",
       "excerpt": "An amazing game of StarCraft 2 between Dark (Zerg) and ByuN (Terran). In this match of SC2 we watch two pro gamers perform at the absolute peak of their abilities... with of course a few mistakes here and there.   Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
@@ -455,45 +417,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-30T04:48:35-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-new-patch-byun-vs-dark-grand-finals.md",
-      "title": "StarCraft 2: NEW PATCH - ByuN vs Dark! (Grand Finals)",
-      "excerpt": "Best-of-5 series of high level StarCraft 2 between Dark (Zerg) and ByuN (Terran). These games are played on the StarCraft 2 PTR with all the new balance changes.   New SC2 patch: https://youtu.be/y87c1xp3I3Q  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-patch-byun-vs-dark-grand-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-patch-byun-vs-dark-grand-finals/",
-      "originalUrl": "https://youtube.com/watch?v=G6EOaBTKXhg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G6EOaBTKXhg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 124,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/G6EOaBTKXhg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-29T00:20:05-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-uthermal-planetary-fortress-rushes-grandmasters.md",
@@ -788,6 +711,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-02T18:51:47-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-gumihos-amazing-mech-build.md",
+      "title": "StarCraft 2: GuMiho's AMAZING Mech Build!",
+      "excerpt": "Professional match of StarCraft 2 between GuMiho (Terran) and Solar (Zerg). In this match GuMiho decides to focus on Terran mech, as he goes for a double Thor drop opener and transitions towards Battlecruisers in the late game.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumihos-amazing-mech-build/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumihos-amazing-mech-build/",
+      "originalUrl": "https://youtube.com/watch?v=BeF7NtXQ9f8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BeF7NtXQ9f8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M58S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 92,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BeF7NtXQ9f8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-29T03:40:22-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-hero-builds-22-gateways-vs-byun-best-of-5.md",
@@ -1128,6 +1089,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-26T04:55:34-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5.md",
+      "title": "StarCraft 2: GREAT SERIES - Serral vs Maru! (Best-of-5)",
+      "excerpt": "A best-of-5 series between the best players that StarCraft 2 has to offer. In this video I cast a Zerg versus Terran in SC2 between Serral, the current World Champion of StarCraft, and Maru, the most succesful player from South Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=CpV_kNyL-vI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CpV_kNyL-vI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H5M38S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CpV_kNyL-vI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-04T04:56:34-07:00"
     }
   ],
   "nextPage": 2

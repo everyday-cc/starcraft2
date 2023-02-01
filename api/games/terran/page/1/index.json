@@ -81,44 +81,6 @@
       "publishedDateTime": "2023-01-23T04:09:55-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-epic-game-maru-the-medivac-magician.md",
-      "title": "StarCraft 2: EPIC GAME - Maru, the Medivac Magician!",
-      "excerpt": "Amazing game of top level StarCraft 2 between ByuN (Terran) and Maru (Terran). The current number 1 and number 2 Terrans on the planet. One of the best games of SC2 this year for sure.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-game-maru-the-medivac-magician/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-maru-the-medivac-magician/",
-      "originalUrl": "https://youtube.com/watch?v=Mn2fH8XIk60",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mn2fH8XIk60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M48S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 263,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Mn2fH8XIk60/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-08T05:03:35-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-cheesy-games-gumihos-pulls-the-scvs-twice-best-of-5.md",
       "title": "StarCraft 2: CHEESY GAMES - GuMiho's Pulls the SCVs... TWICE! (Best-of-5)",
       "excerpt": "Best-of-5 series of Terran versus Protoss in StarCraft 2 between GuMiho and Neeb. Gumi has been played a pretty aggressive and cheesy playstyle lately, and it's in full effect against the American Protoss player Neeb.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
@@ -194,6 +156,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-12-27T04:58:41-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-epic-game-maru-the-medivac-magician.md",
+      "title": "StarCraft 2: EPIC GAME - Maru, the Medivac Magician!",
+      "excerpt": "Amazing game of top level StarCraft 2 between ByuN (Terran) and Maru (Terran). The current number 1 and number 2 Terrans on the planet. One of the best games of SC2 this year for sure.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-game-maru-the-medivac-magician/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-maru-the-medivac-magician/",
+      "originalUrl": "https://youtube.com/watch?v=Mn2fH8XIk60",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mn2fH8XIk60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 203,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Mn2fH8XIk60/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-08T05:03:35-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-gumihos-terran-mech-on-the-new-patch-best-of-5.md",
@@ -342,6 +342,44 @@
       "publishedDateTime": "2023-01-25T16:32:20-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-gumihos-amazing-mech-build.md",
+      "title": "StarCraft 2: GuMiho's AMAZING Mech Build!",
+      "excerpt": "Professional match of StarCraft 2 between GuMiho (Terran) and Solar (Zerg). In this match GuMiho decides to focus on Terran mech, as he goes for a double Thor drop opener and transitions towards Battlecruisers in the late game.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumihos-amazing-mech-build/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumihos-amazing-mech-build/",
+      "originalUrl": "https://youtube.com/watch?v=BeF7NtXQ9f8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BeF7NtXQ9f8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M58S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 160,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BeF7NtXQ9f8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-29T03:40:22-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-marus-strange-mech-all-in-best-of-7.md",
       "title": "StarCraft 2: Maru's Strange MECH ALL-IN?! (Best-of-7)",
       "excerpt": "Happy New Year! This video is a best-of-7 series of professional StarCraft 2 between Solar (Zerg) and Maru (Terran). It's the finals of the OlimoLeague 2022 Finale, meaning that all games of this series are played on new maps.  OlimoLeague on Patreon: https://patreon.com/olimoley/  Support my work: https://patreon.com/lowkotv",
@@ -419,44 +457,6 @@
       "publishedDateTime": "2023-01-25T07:48:59-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-epic-series-byun-vs-astrea-best-of-5.md",
-      "title": "StarCraft 2: EPIC SERIES - ByuN vs Astrea! (Best-of-5)",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 between ByuN (Terran) and Astrea (Protoss). This series is one of the best games of SC2 that was played during HomeStory Cup 22.  Upcoming balance changes: https://youtu.be/y87c1xp3I3Q  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-series-byun-vs-astrea-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-series-byun-vs-astrea-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=azyuFo14cpI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/azyuFo14cpI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H27S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 136,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/azyuFo14cpI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-24T04:57:06-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-super-high-apm-serrals-first-person-camera-vs-gumiho.md",
       "title": "StarCraft 2: SUPER HIGH APM - Serral's First Person Camera vs GuMiho!",
       "excerpt": "Professional match of StarCraft 2 between Serral and GuMiho. I do this cast completely from Serral's point of view, allowing us to have a look at what he sees during a match of SC2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
@@ -494,6 +494,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-08T03:08:29-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-best-tvt-of-the-year-maru-the-medivac-magician.md",
+      "title": "StarCraft 2: BEST TvT OF THE YEAR? - Maru, the Medivac Magician!",
+      "excerpt": "Amazing game of top level StarCraft 2 between ByuN (Terran) and Maru (Terran). The current number 1 and number 2 Terrans on the planet. One of the best games of SC2 this year for sure.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-tvt-of-the-year-maru-the-medivac-magician/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-tvt-of-the-year-maru-the-medivac-magician/",
+      "originalUrl": "https://youtube.com/watch?v=Mn2fH8XIk60",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mn2fH8XIk60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Mn2fH8XIk60/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-08T05:03:35-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-uthermal-planetary-fortress-rushes-grandmasters.md",
@@ -680,44 +718,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-05T04:06:24-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-gumihos-amazing-mech-build.md",
-      "title": "StarCraft 2: GuMiho's AMAZING Mech Build!",
-      "excerpt": "Professional match of StarCraft 2 between GuMiho (Terran) and Solar (Zerg). In this match GuMiho decides to focus on Terran mech, as he goes for a double Thor drop opener and transitions towards Battlecruisers in the late game.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumihos-amazing-mech-build/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumihos-amazing-mech-build/",
-      "originalUrl": "https://youtube.com/watch?v=BeF7NtXQ9f8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BeF7NtXQ9f8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M58S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 100,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BeF7NtXQ9f8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-29T03:40:22-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-when-troll-strats-ruin-your-economy-diamond-in-the-ruff-72.md",
@@ -974,6 +974,44 @@
       "publishedDateTime": "2023-01-06T03:22:22-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-epic-series-byun-vs-astrea-best-of-5.md",
+      "title": "StarCraft 2: EPIC SERIES - ByuN vs Astrea! (Best-of-5)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between ByuN (Terran) and Astrea (Protoss). This series is one of the best games of SC2 that was played during HomeStory Cup 22.  Upcoming balance changes: https://youtu.be/y87c1xp3I3Q  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-series-byun-vs-astrea-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-series-byun-vs-astrea-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=azyuFo14cpI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/azyuFo14cpI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H27S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 76,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/azyuFo14cpI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-24T04:57:06-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-epic-semi-finals-maru-vs-hero-best-of-5.md",
       "title": "StarCraft 2: EPIC Semi Finals - Maru vs herO! (Best-of-5)",
       "excerpt": "The best Terran facing off against the best Protoss. This series of StarCraft 2 is the semi finals of Dreamhack Atlanta. Maru is considered to be the best Terran player of all time in SC2, and herO has once again grabbed the title of best Protoss after completing his military service some time ago. This",
@@ -1089,45 +1127,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-08-19T04:11:17-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5.md",
-      "title": "StarCraft 2: GREAT SERIES - Serral vs Maru! (Best-of-5)",
-      "excerpt": "A best-of-5 series between the best players that StarCraft 2 has to offer. In this video I cast a Zerg versus Terran in SC2 between Serral, the current World Champion of StarCraft, and Maru, the most succesful player from South Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=CpV_kNyL-vI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CpV_kNyL-vI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H5M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CpV_kNyL-vI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-05-04T04:56:34-07:00"
     }
   ],
   "nextPage": 2

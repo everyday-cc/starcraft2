@@ -2,7 +2,7 @@
 title: "The King of Cannons"
 excerpt: "It's much better when you're watching someone else get cannoned in StarCraft 2, isn't it?"
 type: collection
-heat: 60
+heat: 63
 
 provider:
   name: PiG

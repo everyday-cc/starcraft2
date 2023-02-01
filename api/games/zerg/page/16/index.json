@@ -4,44 +4,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-the-new-rank-1-reynor-vs-dream.md",
-      "title": "StarCraft 2: THE NEW RANK #1! (Reynor vs Dream)",
-      "excerpt": "Amazing best-of-3 series of StarCraft 2 between the Reynor and Dream. In this series of Zerg versus Terran Reynor decides to use Lurkers against Terran bio, which is a unit that is not commonly used in the matchup. In general a brilliant series between two very highly ranked pro gamers.  Support my work:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-new-rank-1-reynor-vs-dream/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-new-rank-1-reynor-vs-dream/",
-      "originalUrl": "https://youtube.com/watch?v=okcJxrHF3Cs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/okcJxrHF3Cs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M44S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/okcJxrHF3Cs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-07-15T04:14:29-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-old-school-zerg.md",
       "title": "StarCraft 2: The OLD SCHOOL Zerg!",
       "excerpt": "A seriously cool game of Zerg vs Protoss between Leenock and Stats. Subscribe for more videos: http://lowko.tv/youtube Professionals cheesing: https://goo.gl/APqMmJ  Hydralisk Lurker into Mutalisk into Corruptors into massive amounts of counter attacks and a Spine Crawler forest. A very cool Zerg playstyle",
@@ -1154,6 +1116,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-11-13T04:03:46-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-vipers-vs-mutalisks-scarlett-vs-tlo.md",
+      "title": "StarCraft 2: VIPERS VS MUTALISKS! (Scarlett vs TLO)",
+      "excerpt": "A professional best-of-3 series of StarCraft 2 of Zerg versus Zerg between TLO and Scarlett. In this series we see Scarlett focusing very clearly on playing defensively. TLO decides to try and end the games relatively early. Vipers versus Mutalisk battles happen on World of Sleepers.  The future of StarCraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-vipers-vs-mutalisks-scarlett-vs-tlo/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-vipers-vs-mutalisks-scarlett-vs-tlo/",
+      "originalUrl": "https://youtube.com/watch?v=uoXxnImmNRA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uoXxnImmNRA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M46S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uoXxnImmNRA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-01-14T04:33:54-08:00"
     }
   ],
   "nextPage": 17

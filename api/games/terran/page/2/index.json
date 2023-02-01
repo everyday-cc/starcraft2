@@ -1695,6 +1695,40 @@
       "publishedDateTime": "2022-10-31T06:00:04-07:00"
     },
     {
+      "path": "_games/pig-why-are-there-two-gates-in-the-terran-mineral-line-king-of-cannons-18-starcraft-2.md",
+      "title": "Why are there TWO GATES in the Terran mineral line? | King of Cannons #18 - StarCraft 2",
+      "excerpt": "Cannon rushes all day erry day! 🐷 Support PiG: https://www.pigstarcraft.com/support/  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf -- 🐖 Watch live on https://www.twitch.tv/x5_pig 🎓",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-why-are-there-two-gates-in-the-terran-mineral-line-king-of-cannons-18-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-why-are-there-two-gates-in-the-terran-mineral-line-king-of-cannons-18-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=zjHnS5icIXk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zjHnS5icIXk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M40S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran"
+      ],
+      "heat": 55,
+      "tags": [
+        "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zjHnS5icIXk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-18T17:12:58-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-clems-terran-vs-zerg-is-insane-solar-vs-clem.md",
       "title": "StarCraft 2: Clem's Terran vs Zerg is INSANE! (Solar vs Clem)",
       "excerpt": "Professional match of StarCraft 2 between Solar and Clem. In this Terran versus Zerg we watch Clem take control of the early game, but Solar managed to stay alive and strikes back in the late game.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -1809,45 +1843,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-05T03:03:28-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-its-confirmed-hero-is-the-best-protoss-byun-vs-hero.md",
-      "title": "StarCraft 2: IT'S CONFIRMED - herO is the BEST Protoss! (ByuN vs herO)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between herO and ByuN. herO just won the GSL Code S, securing him as the best Protoss player in StarCraft 2 at the moment.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-its-confirmed-hero-is-the-best-protoss-byun-vs-hero/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-its-confirmed-hero-is-the-best-protoss-byun-vs-hero/",
-      "originalUrl": "https://youtube.com/watch?v=ts0fPdwlmwg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ts0fPdwlmwg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ts0fPdwlmwg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-01T02:58:45-07:00"
     }
   ],
   "nextPage": 3

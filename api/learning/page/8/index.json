@@ -4,6 +4,123 @@
   "page": 8,
   "value": [
     {
+      "path": "_learning/videos/lowkotv-starcraft-2-build-order-lifes-aggressive-zerg-versus-zerg-heart-of-the-swarm.md",
+      "title": "StarCraft 2 Build Order: Life's Aggressive Zerg versus Zerg (Heart of the Swarm)",
+      "excerpt": "In this video of StarCraft 2: Heart of the Swarm we take a look at Life's aggressive response to a game that he recently played versus Jaedong. Right after scouting that EGJaedong goes for a gasless opener, STLife decides to flip the switch an go for a very awesome build order in Zerg versus Zerg and",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-build-order-lifes-aggressive-zerg-versus-zerg-heart-of-the-swarm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-build-order-lifes-aggressive-zerg-versus-zerg-heart-of-the-swarm/",
+      "originalUrl": "https://youtube.com/watch?v=RqHOY3cyIdU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RqHOY3cyIdU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M41S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2014-02-06T11:10:42-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RqHOY3cyIdU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-build-order-scarletts-hydralisk-queen-nydus-zerg-vs-protoss-guide-tutorial.md",
+      "title": "StarCraft 2 Build Order: Scarlett's Hydralisk Queen Nydus Zerg vs Protoss (Guide & Tutorial)",
+      "excerpt": "This is a build order that Scarlett recently executed in StarCraft 2: Heart of the Swarm in a professional match versus Minigun. In this Zerg versus Protoss she went for Queens, Hydralisks and a Nydus Network after a very greedy early game. Let's see how she managed to do this. What Build Order did she",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-build-order-scarletts-hydralisk-queen-nydus-zerg-vs-protoss-guide-tutorial/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-build-order-scarletts-hydralisk-queen-nydus-zerg-vs-protoss-guide-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=0-RWqNxCMsc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0-RWqNxCMsc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M27S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2014-01-28T06:27:41-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0-RWqNxCMsc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-comebacks-muta-ling-bane-micro-tutorial.md",
+      "title": "StarCraft 2: Comebacks & Muta Ling Bane Micro! (Tutorial)",
+      "excerpt": "Coming back in StarCraft 2 is usually not easy. When your opponent gains a massive advantage early on, they will be able to carry that advantage to the mid game. However, every now and then you will find yourself being behind and still able to come back. In this video I go over the different ways to",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-comebacks-muta-ling-bane-micro-tutorial/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-comebacks-muta-ling-bane-micro-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=8Rk0D7a8r9M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8Rk0D7a8r9M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M7S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-08-17T06:50:49-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8Rk0D7a8r9M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-complete-ladder-revamp-explained-flaws-improvements.md",
       "title": "StarCraft 2: Complete Ladder Revamp Explained! (Flaws & Improvements)",
       "excerpt": "There's a complete overhaul of the StarCraft 2 ladder coming up. Subscribe for more videos: http://lowko.tv/youtube Official StarCraft video: https://www.youtube.com/watch?v=IUzUVXL_-Qc  The StarCraft 2 ladder will be getting an update soon. It's been in the works for a long time, and the StarCraft team",
@@ -157,45 +274,6 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-easy-terran-build-order-guide.md",
-      "title": "StarCraft 2: EASY Terran Build Order! (Guide)",
-      "excerpt": "StarCraft 2 build order for Terran players. In this video I go over an easy to execute two base build order for Terran versus Protoss that new players and experienced players should be able to pick up quickly. This is a relatively easy build order that focuses on a timing attack, as well as macro.  10",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-terran-build-order-guide/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-easy-terran-build-order-guide/",
-      "originalUrl": "https://youtube.com/watch?v=1haIHmlSusA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1haIHmlSusA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M21S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2015-03-09T08:12:42-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1haIHmlSusA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
       ]
     },
     {
@@ -667,44 +745,6 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-how-to-nydus-rush.md",
-      "title": "StarCraft 2: HOW-TO NYDUS RUSH!",
-      "excerpt": "How does a top-level player execute a Nydus Rush? Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Guides & Tutorials: https://goo.gl/BEPvJo  In this video I analyse a recent game between Serral and SpeCial. In this match on Backwater LE Serral decides to rush a Nydus Worm with minimal",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-how-to-nydus-rush/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-how-to-nydus-rush/",
-      "originalUrl": "https://youtube.com/watch?v=R2zN8eEaztM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R2zN8eEaztM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M2S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-02-02T04:44:42-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/R2zN8eEaztM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/lowkotv-starcraft-2-jaedongs-zerg-versus-terran-build-order-guide-how-to.md",
       "title": "StarCraft 2: Jaedongs Zerg versus Terran Build Order (Guide & How-to)",
       "excerpt": "In the round of 8 in the WCS America for StarCraft 2: Heart of the Swarm, Jaedong uses an incredibly effective build order versus Hack, where he decided to go for a Roach Overlord Drop in Zerg versus Terran. In this video we take a look at the build order that EGJaedong uses versus the Terran player",
@@ -1135,44 +1175,6 @@
       "topics": [
         "StarCraft 2",
         "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-timing-attacks.md",
-      "title": "StarCraft 2: Legacy of the Void - Timing Attacks!",
-      "excerpt": "Zerg vs Terran build order: https://www.youtube.com/watch?v=SUOhXtYRl0o  Timing attacks are one of the most important subjects when it comes to StarCraft 2: Legacy of the Void. If you're looking to improve, you need to make sure you push out at the correct timing. However, in a lot of scenarios it is",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-timing-attacks/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-timing-attacks/",
-      "originalUrl": "https://youtube.com/watch?v=A8LWvf6Sxl0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A8LWvf6Sxl0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M50S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-04-29T02:34:20-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/A8LWvf6Sxl0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
       ]
     }
   ],

@@ -4,96 +4,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_learning/videos/quasargamers-minute-micro-episode-11-corner-kiting.md",
-      "title": "Minute Micro - Episode 11: Corner Kiting",
-      "excerpt": "Difficulty rating: 4/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on using corners to your advantage while kiting.  twitch.tv/Quasarprintf",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-11-corner-kiting/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-11-corner-kiting/",
-      "originalUrl": "https://youtube.com/watch?v=QY-FdFb5I_A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QY-FdFb5I_A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M9S",
-      "provider": {
-        "name": "QuasarGamers",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-08-05T17:47:53-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QY-FdFb5I_A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/quasargamers-minute-micro-episode-12-aggressive-stutter-step.md",
-      "title": "Minute Micro - Episode 12: Aggressive Stutter Step",
-      "excerpt": "Difficulty rating: 3/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on aggressive stutter step.  twitch.tv/Quasarprintf",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-12-aggressive-stutter-step/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-12-aggressive-stutter-step/",
-      "originalUrl": "https://youtube.com/watch?v=OmqCgRxWPac",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OmqCgRxWPac\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M9S",
-      "provider": {
-        "name": "QuasarGamers",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-08-13T06:15:19-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OmqCgRxWPac/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/quasargamers-minute-micro-episode-13-blink-sniping.md",
-      "title": "Minute Micro - Episode 13: Blink Sniping",
-      "excerpt": "Difficulty rating: 7/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on sniping units with blink.  twitch.tv/Quasarprintf",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-13-blink-sniping/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-13-blink-sniping/",
-      "originalUrl": "https://youtube.com/watch?v=oGhEHawGQwY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oGhEHawGQwY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M10S",
-      "provider": {
-        "name": "QuasarGamers",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-08-20T07:50:08-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oGhEHawGQwY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/quasargamers-minute-micro-episode-14-focus-fire.md",
       "title": "Minute Micro - Episode 14: Focus Fire",
       "excerpt": "Difficulty rating: 2/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on focus fire.  twitch.tv/Quasarprintf",
@@ -905,6 +815,96 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/quasargamers-minute-micro-episode-39-mine-escape.md",
+      "title": "Minute Micro: Episode 39 - Mine Escape",
+      "excerpt": "Difficulty rating: 6/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on running from mine drops.  twitch.tv/Quasarprintf",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-39-mine-escape/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-39-mine-escape/",
+      "originalUrl": "https://youtube.com/watch?v=qHUpZnjChtQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qHUpZnjChtQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M10S",
+      "provider": {
+        "name": "QuasarGamers",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-03-11T15:45:06-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qHUpZnjChtQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/quasargamers-minute-micro-episode-4-forming-concaves.md",
+      "title": "Minute Micro - Episode 4: Forming Concaves",
+      "excerpt": "Difficulty rating: 5/10  This is the fourth episode of a series of 1-minute videos explaining how to perform common micro techniques. This episode is on forming concaves.  twitch.tv/Quasarprintf",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-4-forming-concaves/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-4-forming-concaves/",
+      "originalUrl": "https://youtube.com/watch?v=m8rWyIlzEWo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m8rWyIlzEWo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M8S",
+      "provider": {
+        "name": "QuasarGamers",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-06-18T15:17:02-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/m8rWyIlzEWo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/quasargamers-minute-micro-episode-40-retarget-stutter.md",
+      "title": "Minute Micro: Episode 40 - Retarget Stutter",
+      "excerpt": "Difficulty rating: 2/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on using stutter step to retarget.  twitch.tv/Quasarprintf",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-40-retarget-stutter/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-40-retarget-stutter/",
+      "originalUrl": "https://youtube.com/watch?v=q_9UPRMdKE8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q_9UPRMdKE8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M10S",
+      "provider": {
+        "name": "QuasarGamers",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-03-18T15:06:40-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q_9UPRMdKE8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
       ]
     }
   ],

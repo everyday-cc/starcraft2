@@ -990,11 +990,12 @@ items:
   - pig-can-zerg-or-terran-beat-toss-times-1v10-speedrun-update-starcraft-2
   - pig-stealing-mmr-from-gms-with-the-sneaky-corner-bases-starcraft-2
   - pig-reacting-to-sc2hls-greatest-cannon-rushes-of-all-time-starcraft-2
-  - pig-the-op-1-base-build-that-nobodies-using-pigs-filthy-adventures-starcraft-2
+  - pig-the-op-1-base-build-that-nobodys-using-pigs-filthy-adventures-starcraft-2
   - pig-i-embarrassed-a-top-20-pro-then-this-happened-pig-vs-astrea-starcraft-2
   - pig-0-iq-bunker-makes-cheeser-rage-florencio-files-274-starcraft-2
   - pig-everyone-sentry-buff-is-useless-astrea-hold-my-beer
   - pig-toss-has-rage-fit-cos-terran-bio-exists-salt-mines-26-starcraft-2
+  - pig-when-anyone-who-beats-you-is-a-tryhard-or-a-smurf-salt-mines-27-starcraft-2
 
 topics:
   - StarCraft 2

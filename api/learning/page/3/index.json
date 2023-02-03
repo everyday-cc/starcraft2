@@ -4,14 +4,14 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-guide-optimising-settings-for-competitive-play.md",
-      "title": "StarCraft 2 Guide: Optimising Settings For Competitive Play!",
-      "excerpt": "An essential video for those looking to improve in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Hotkey & Control groups guide: https://goo.gl/VQQQQ7  In this video I go over all of the settings that you should run in StarCraft 2: Legacy of the Void if you are looking to play competitively.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-guide-optimising-settings-for-competitive-play/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-guide-optimising-settings-for-competitive-play/",
-      "originalUrl": "https://youtube.com/watch?v=O0Mi7Ygd47I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O0Mi7Ygd47I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M49S",
+      "path": "_learning/videos/lowkotv-starcraft-2-huge-balance-patch-ghost-nerfs-and-ultralisks-buffs.md",
+      "title": "StarCraft 2: HUGE BALANCE PATCH - Ghost Nerfs and Ultralisks Buffs!",
+      "excerpt": "Significant changes are made to the balance of StarCraft 2. In this video I discuss the most recent balance patch that makes changes to Zerg creep, main structures, Vipers, Ultralisks, Hydralisks, Brood Lords, Broodlings, Ravagers, Shield Batteries, Observers, Archons, High Templar, Disruptors, Carriers,",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-huge-balance-patch-ghost-nerfs-and-ultralisks-buffs/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-huge-balance-patch-ghost-nerfs-and-ultralisks-buffs/",
+      "originalUrl": "https://youtube.com/watch?v=y87c1xp3I3Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y87c1xp3I3Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M40S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -24,11 +24,11 @@
           }
         ]
       },
-      "publishedDateTime": "2016-11-01T14:54:41-07:00",
+      "publishedDateTime": "2022-12-08T01:56:04-08:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/O0Mi7Ygd47I/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/y87c1xp3I3Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

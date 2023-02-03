@@ -283,6 +283,7 @@ items:
   - pig-when-your-strat-is-sick-but-zerg-has-a-wrinkly-brain-florencio-files-272-starcraft-2
   - pig-the-filthlord-strikes-again-florencio-files-273-starcraft-2
   - pig-0-iq-bunker-makes-cheeser-rage-florencio-files-274-starcraft-2
+  - pig-flos-clever-double-spine-rush-is-foiled-by-himself-florencio-files-275-starcraft-2
 
 topics:
   - StarCraft 2

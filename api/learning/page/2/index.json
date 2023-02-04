@@ -4,6 +4,68 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2020.md",
+      "title": "Starcraft 2: EASY Beginner Protoss Build Order Tutorial vs Terran [2020]",
+      "excerpt": "Very powerful protoss build order vs terran. We begin with observers for scouting, blink for helping to defend terran early pressures and then transition into a formidable colossus/chargelot army which should safely get you to the mid-game phase!  0:00 Intro 0:56 Protoss Build Order vs Terran | Opening",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2020/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2020/",
+      "originalUrl": "https://youtube.com/watch?v=XvRoGf3SXRo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XvRoGf3SXRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M41S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-10-02T18:54:21-07:00",
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XvRoGf3SXRo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-aggressive-opening-adept-oracle-2020-build-order-guide.md",
+      "title": "Starcraft 2: Protoss vs Protoss | Aggressive Opening! Adept-Oracle [2020 Build Order Guide]",
+      "excerpt": "Starcraft 2: Protoss vs Protoss guide/tutorial. Today we're learning an aggressive pvp opening with 8 adepts + 2 oracles. It hits like a tank and there's pretty much no way for your opponent to defend any damage. The question is more so \"how much damage\" can you do?  Protoss vs Protoss | Aggressive Opening!",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-aggressive-opening-adept-oracle-2020-build-order-guide/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-aggressive-opening-adept-oracle-2020-build-order-guide/",
+      "originalUrl": "https://youtube.com/watch?v=yfRfWt7eUlg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yfRfWt7eUlg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M13S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-01-13T13:57:23-08:00",
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yfRfWt7eUlg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-8-aggressive-builds-in-masters-3-b2gm.md",
       "title": "StarCraft 2 - Zerg Bronze to GM #8: Aggressive Builds in Masters 3 (B2GM)",
       "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 Masters 3 Plan 5:48 Game 1 vs Terran 19:43 Game 2 vs Terran 35:42 Game 3 vs Terran 49:40 Game 4 vs Zerg 52:13 Game 5 vs Terran 1:05:07 Game 6 vs Terran 1:14:05 Viewer questions 1:24:57 Game 7 vs",
@@ -895,82 +957,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/N2dNK-mIWkQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-how-to-improve-efficiently-practice-guide.md",
-      "title": "StarCraft 2: How-to Improve & Efficiently Practice! (Guide)",
-      "excerpt": "Practicing a lot and practicing efficiently are two seperate things. In this video I go over how I improve in StarCraft 2, and how to make the most of your practice time.  The basic idea is to have a certain goal in mind when playing the game. A lot of people complain that they have a hard time laddering",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-how-to-improve-efficiently-practice-guide/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-how-to-improve-efficiently-practice-guide/",
-      "originalUrl": "https://youtube.com/watch?v=QB7axvdu9xo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QB7axvdu9xo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M56S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2015-06-22T06:45:37-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QB7axvdu9xo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-huge-balance-patch-ghost-nerfs-and-ultralisks-buffs.md",
-      "title": "StarCraft 2: HUGE BALANCE PATCH - Ghost Nerfs and Ultralisks Buffs!",
-      "excerpt": "Significant changes are made to the balance of StarCraft 2. In this video I discuss the most recent balance patch that makes changes to Zerg creep, main structures, Vipers, Ultralisks, Hydralisks, Brood Lords, Broodlings, Ravagers, Shield Batteries, Observers, Archons, High Templar, Disruptors, Carriers,",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-huge-balance-patch-ghost-nerfs-and-ultralisks-buffs/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-huge-balance-patch-ghost-nerfs-and-ultralisks-buffs/",
-      "originalUrl": "https://youtube.com/watch?v=y87c1xp3I3Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y87c1xp3I3Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M40S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-12-08T01:56:04-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/y87c1xp3I3Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

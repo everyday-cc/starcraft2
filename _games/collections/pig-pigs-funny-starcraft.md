@@ -997,6 +997,7 @@ items:
   - pig-toss-has-rage-fit-cos-terran-bio-exists-salt-mines-26-starcraft-2
   - pig-flos-clever-double-spine-rush-is-foiled-by-himself-florencio-files-275-starcraft-2
   - pig-when-anyone-who-beats-you-is-a-tryhard-or-a-smurf-salt-mines-27-starcraft-2
+  - pig-dudes-brain-breaks-when-he-sees-spawning-pool-outside-his-base-icyfar-proxy-everything-sc2
 
 topics:
   - StarCraft 2

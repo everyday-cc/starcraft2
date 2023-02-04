@@ -4,6 +4,37 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/videos/pig-starcraft-2-linking-up-macro-tasks-for-efficiency-terran-coaching-d2.md",
+      "title": "StarCraft 2 - Linking up Macro Tasks for efficiency - Terran Coaching D2",
+      "excerpt": "I coach a diamond 1 terran on linking up his macro tasks together to break his haphazard execution -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-linking-up-macro-tasks-for-efficiency-terran-coaching-d2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-linking-up-macro-tasks-for-efficiency-terran-coaching-d2/",
+      "originalUrl": "https://youtube.com/watch?v=68FZ2V7Pt94",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/68FZ2V7Pt94\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT55M19S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/68FZ2V7Pt94/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-starcraft-2-mine-drop-marine-pressure-opening-diamond-tvp-coaching-session.md",
       "title": "StarCraft 2 - Mine drop + marine pressure opening - Diamond TvP Coaching session",
       "excerpt": "There is like a solid 10 min of strategy talk at the start, if you are not interested feel free to skip this ;)   Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live",
@@ -917,37 +948,6 @@
         "StarCraft 2",
         "Terran",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-underlying-good-habits-and-mechanics-as-a-foundation-coaching-terran-gold-3.md",
-      "title": "Underlying Good Habits and Mechanics as a foundation - Coaching Terran Gold 3",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;)    If you wish to support me please consider supporting my patreon: [https://www.patreon.com/PiGSC2](https://www.patreon.com/PiGSC2)    ### Videos don’t appear in your feed and you want to get notified about new uploads? Press the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-underlying-good-habits-and-mechanics-as-a-foundation-coaching-terran-gold-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-underlying-good-habits-and-mechanics-as-a-foundation-coaching-terran-gold-3/",
-      "originalUrl": "https://youtube.com/watch?v=uboHamJQMGs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uboHamJQMGs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M51S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-09-15T09:00:11-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uboHamJQMGs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
       ]
     }
   ],

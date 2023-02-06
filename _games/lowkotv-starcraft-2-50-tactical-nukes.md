@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=xKYulaEILB0
 type: video
 length: PT45M28S
 publishedDateTime: 2019-03-22T10:12:45Z
-heat: 66
+heat: 
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xKYulaEILB0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,12 +21,6 @@ topics:
   - StarCraft 2
   - Terran
 
-images:
-  - url: https://i.ytimg.com/vi/xKYulaEILB0/maxresdefault.jpg
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "4p8ByARBnXG4Bjsu9XGJBWkgDfaGuITlPY5oDYI2NcHx6ScxPIvQwnLmFrONK4KKl3ZHSOCoI9PDzN94+eMLi33UwtA1vWjKipQCyeCYkNwH7Iwh5fsBV9VWxx4hLmN7tGtXyqp+/FMKANKzxrOC2brBuWrLIwrzVecUSfn0fMYmWmzmsNZclaOJy7lxt0DImSbOqTkYehWvd23yGV1kuxEnEwim5156INpb19bJZgV6Kptqu3cFzjgLCKU6bN4PAKoorU9wVescag8Ry/BGERc2Cwancq5QIJoLVTQVZIBSsKoXBuoEPZCZH9TVvatwGveUnjMlM0v6CTh4YeRVGf3SNNNcZpSA7cKmOqsLYF42t2xB67oBrOM362Q2DWMARuoXiJ70aPmVV9Tl0BSyxQ==;GLDOe+ozEte2CB7Uy/iCHg=="
+secured: "etm9ycGYYodgO2gi8/eGwURh3jLwLS2wTLUwGpXezKjqGckp9STvdVkCZY8373HoQ2e9EZzZYSZCXe7Hb2WWYj7oI3oTh/9Mdva/b22U6DbAqAj51CbWwGglcJvGAGhAfEC8CouhS1kgxd1lar/p1YQLuCc7zmkyU85w+ERpVmqSN+NU4yDuKJPSi0C9Ic3xIE67NGzjVdBog97Q+J35UVL0Xwk7dgMJeTS0mC52mhJeueVfrTN0r9suWgotL5uTTvcITK0C3zidM3JC5DR7lGOvEhbI3C+0c9EDlzPe4HQvGs8lgeT6OAGXyLFn4Iah2r2vI0ArcS/PC/9s96o9QGjutKLbTmDL5RMYD2faUtVrfTaBVLDXyMbAMMRMFI1iL2iCbLYJ34WC1/fFTKhHGw==;Fv8vPyMv2IRw0cbGyKpjpA=="
 ---
 

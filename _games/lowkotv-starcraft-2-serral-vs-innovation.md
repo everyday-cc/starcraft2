@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=Z8DlwTY9ce0
 type: video
 length: PT33M52S
 publishedDateTime: 2019-08-19T11:11:17Z
-heat: 72
+heat: 
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z8DlwTY9ce0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,12 +22,6 @@ topics:
   - Terran
   - Zerg
 
-images:
-  - url: https://i.ytimg.com/vi/Z8DlwTY9ce0/maxresdefault.jpg
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "aOJBQgAaYtdcuwkQJZnOAYWrAMv2DmGTOlKp+z3hQAY2SiFcYRaao5LoBwJPHyvk3OJC/FCeVRU0yZqVbioYi1yh7f/+EaAN/XrYrdCGkyA6y7bflDFI75ntKlfkGOCqcYuP4dnhfizZkYEVapEnYvmUFJYZfX4JfK50Zh1oc90T6lXeZiRJgfRLnBbXCpcG+M9VtN/eepPzKa0DsFd4Ow8P0mELWbB71hRQGtHKuNxDuP0LLK8gUimGEYzTVwtrPEFKC4ifqpcJemSngRmm1XXz1NibgwxoPdq+Kf9zhb8RwLB1azIXQ9G5A5ls45LO9sx0JSSloliZcJx3hFnEBxvGe/nNHrmG741SWOelh4JPaNlAbzBatXKkDGE4B2Fzwo2Nemadjv8WvFsStnnvvw==;Mv5lmnVmcBdlYT88sG6/7w=="
+secured: "0V4b0hv4Dk5lZWSnf4UkK1tf3UiGCIG+RJaBCYb3ukKbBxWvtwYJXOjjWslsevBznPo06fudDbosS8axVgdTPcT26Z4yizj2UN9Lrp0+uGvgDuw84XA2UlFBppbH/1YI4vLx/EUb9ZZYhWrjmWQgqpPufiu3cbW7C4HPOEBI+01MmAL23iKDAjrdr6Maf3bvoKFwnjwYFm0di29IyluLR8PMA2lPa2oAr8A8tcXkFcKA+v/lqkQ0Jpf7OH2MUgdZf6c6lF6p3+3tD8Qe6WOOEeoZt6IVWi/XfrG04HdIWMOVpFKOErnF/gEiPbJcxc85a6lkYAL9W9181TXFHRZsk400Y/ADaeifJkkI119FhALeDobDElUgrrHsKiqhwldQDY18hdHh3ISli1IPFQgtuQ==;/ndodZ2A6CE31apzxrO/0g=="
 ---
 

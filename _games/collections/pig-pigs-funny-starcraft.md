@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 63
+heat: 62
 
 provider:
   name: PiG
@@ -998,6 +998,8 @@ items:
   - pig-flos-clever-double-spine-rush-is-foiled-by-himself-florencio-files-275-starcraft-2
   - pig-when-anyone-who-beats-you-is-a-tryhard-or-a-smurf-salt-mines-27-starcraft-2
   - pig-dudes-brain-breaks-when-he-sees-spawning-pool-outside-his-base-icyfar-proxy-everything-sc2
+  - pig-flo-hides-14-bases-in-one-game-florencio-files-276-starcraft-2
+  - pig-this-whiny-terran-is-just-an-angry-yapping-little-dog-salt-mines-28-starcraft-2
 
 topics:
   - StarCraft 2

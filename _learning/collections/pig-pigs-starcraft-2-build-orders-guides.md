@@ -2,7 +2,7 @@
 title: "PiG's StarCraft 2 Build Orders & Guides"
 excerpt: "Here are my StarCraft 2 build orders & guides. Hopefully they help you with your gameplay and build orders. Let me know what guides you want to see!"
 type: collection
-heat: 61
+heat: 60
 
 provider:
   name: PiG
@@ -19,6 +19,7 @@ items:
   - videos/pig-scarletts-disgusting-protoss-cheeses
   - videos/pig-5-reasons-youre-not-improving-at-starcraft-2-and-how-to-fix-it
   - videos/pig-how-to-deal-with-ladder-anxiety-in-starcraft-2
+  - videos/pig-why-running-away-is-a-chad-move-in-sc2
 
 topics:
   - StarCraft 2

@@ -23,6 +23,17 @@ images:
     height: 390
     isCached: true
 
+related:
+  - title: "2008 Starcraft M-2406 Equipment: Prices and Specs"
+    excerpt: "Star Stream pricing includes Premium Package, cable TV ready, and power winch. Only select options below that are in addition to standard equipment and equipment noted in the manufacturer or year notes show above. If you are uncertain of what came standard ..."
+    publishedDateTime: 2023-02-01T06:59:00Z
+    webUrl: "https://www.jdpower.com/rvs/2008/starcraft/m-2406/6006483"
+    type: article
+    provider:
+      name: jdpower
+      domain: jdpower.com
+    quality: 17
+
 secured: "4cOCf6mCmKj3s2ek8UmEhO+4I7p9NzpttS/2D4plYwJ3IuQT14HCgOgTITcIpSarHAgdzF+YveToLtyq0xxrK+yaV15TCKQlYoKMeMTjFSY4WcqpxBpkK2wiPW7uy1LWDhQjJjVGSZPSK4rLdsGepQGikNKnC5ouhUZqoEuFVJ76R8YPek4TndR9vhHGe5m0gy2jqWcnrU9aw2u59I++tdATTKA4JSxlfcOl/4DHA5e0qUpZmxGG4B7RPMt483UxnVhpTnWIGeJqV888DRDheFFcBnmxT9XfmDRS5S/PBY16YrPqqalWQgIznwnLqG/Bhwhx5gJU89A9W56FjZtmOAIFd0/QI78d8cgBGBqUG9E=;R9pzo78MJroRcmjY1Az0lg=="
 ---
 

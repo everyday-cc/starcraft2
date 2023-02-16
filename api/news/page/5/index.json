@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-02-introducing-war-chest-team-league.md",
+      "title": "Introducing War Chest Team League",
+      "excerpt": "As we mentioned in the War Chest 6 announcement, we’re teaming up with Wardi and committing $150,000 of War Chest proceeds to a community-run tournament called War Chest Team League. Today, we’d like to share some details on the tournament.",
+      "sourceUrl": null,
+      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23460555/introducing-war-chest-team-league",
+      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23460555/introducing-war-chest-team-league",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/5a/5ABX7D7E4EU31591724156034.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2020-06-16-starcraft-ii-4121-patch-notes.md",
       "title": "StarCraft II 4.12.1 Patch Notes",
       "excerpt": "Patch 4.12.1 has arrived. Check out the detail!",

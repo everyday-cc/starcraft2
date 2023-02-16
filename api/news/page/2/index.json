@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-22-starcraft-ii-legacy-of-the-void-wiki-guide.md",
+      "title": "StarCraft II - Legacy of the Void Wiki Guide",
+      "excerpt": "Starcraft Universe Barcraft Night of The Dead Mass Destruction 2 Stardodgeball Tofu Arena Pimp My Footman 2 Hero Line Wars Starlight - Arcade Galaxy Editor (SC2 Map Editor) Galaxy Editor (SC2 Map ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ign.com/wikis/starcraft-2/deadendpages",
+      "originalUrl": "https://www.ign.com/wikis/starcraft-2/deadendpages",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.ignimgs.com/2020/06/09/iggy-1591742329095.jpg",
+          "width": 1120,
+          "height": 918,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-21T20:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-starcraft-ii-legacy-of-the-void-wiki-guide.md",
       "title": "StarCraft II - Legacy of the Void Wiki Guide",
       "excerpt": "Starcraft Universe Barcraft Night of The Dead Mass Destruction 2 Stardodgeball Tofu Arena Pimp My Footman 2 Hero Line Wars Starlight - Arcade Galaxy Editor (SC2 Map Editor) Galaxy Editor (SC2 Map ...",
@@ -1092,48 +1143,6 @@
       "topics": [
         "StarCraft 2",
         "Terran"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame.md",
-      "title": "Weekend PC Download Deals for May 7: StarCraft enters the Hall of Fame",
-      "excerpt": "StarCraft has been inducted into the World Video Game Hall of Fame and Blizzard is celebrating with a full franchise sale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.shacknews.com/article/124261/weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame",
-      "originalUrl": "https://www.shacknews.com/article/124261/weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/05/07/starcraft-pcdeals_feature.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.shacknews.com/article/124261/weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame?amphtml=1",
-      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/124261/weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame?amphtml=1",
-      "publishedDateTime": "2021-05-07T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Shacknews",
-        "domain": "shacknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
       ]
     }
   ],

@@ -4,6 +4,128 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/videos/pig-coaching-gm-random-on-zvp-hydra-ling-bane.md",
+      "title": "Coaching GM Random on ZvP Hydra-ling-bane",
+      "excerpt": "I coach a GM Random player on how to improve his Hydra-ling-bane ZvP -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-gm-random-on-zvp-hydra-ling-bane/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-gm-random-on-zvp-hydra-ling-bane/",
+      "originalUrl": "https://youtube.com/watch?v=t8dwI-wsC0o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t8dwI-wsC0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M1S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-05-11T02:13:22-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/t8dwI-wsC0o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-gm-zerg-vs-mech.md",
+      "title": "Coaching GM Zerg vs Mech",
+      "excerpt": "I coach EU Pro Risky who was looking for direction after feeling very lost vs mech. -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-gm-zerg-vs-mech/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-gm-zerg-vs-mech/",
+      "originalUrl": "https://youtube.com/watch?v=EyXYpDj59cY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EyXYpDj59cY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M43S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:42:45-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EyXYpDj59cY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-gm-zvp-and-zvt-vision-clear-plans-and-decisive-rules.md",
+      "title": "Coaching GM ZvP and ZvT - Vision, Clear Plans and decisive Rules",
+      "excerpt": "Coaching Tambi on some ZvP and ZvT!  -- Watch live at https://www.twitch.tv/x5_pig My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to my Discord: https://discordapp.com/invite/SkhbzCM  My Affiliate Link for the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-gm-zvp-and-zvt-vision-clear-plans-and-decisive-rules/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-gm-zvp-and-zvt-vision-clear-plans-and-decisive-rules/",
+      "originalUrl": "https://youtube.com/watch?v=5nnZbuO0eUM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5nnZbuO0eUM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H10M9S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-02-04T09:00:12-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5nnZbuO0eUM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-gold-terran-focus-and-micro.md",
+      "title": "Coaching Gold Terran - Focus and Micro",
+      "excerpt": "A coaching session with a gold-league Terran player -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-gold-terran-focus-and-micro/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-gold-terran-focus-and-micro/",
+      "originalUrl": "https://youtube.com/watch?v=XcFS0QFU2MM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XcFS0QFU2MM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M1S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-04-05T21:57:05-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XcFS0QFU2MM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-coaching-gold-tvz-scouting-and-defending-rushes.md",
       "title": "Coaching Gold TvZ - Scouting and Defending Rushes",
       "excerpt": "A gold 2 coaching session where we cover scouting and reacting to aggression in TvZ -- Watch live at https://www.twitch.tv/x5_pig",
@@ -789,129 +911,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ctTilCjF86M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-tvp-solid-tvp-plat-3.md",
-      "title": "Coaching TvP - Solid TvP - Plat 3",
-      "excerpt": "I coach a plat 3 Terran on a solid TvP Build and how to improve, here's the build link: http://lotv.spawningtool.com/build/42910/ -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvp-solid-tvp-plat-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvp-solid-tvp-plat-3/",
-      "originalUrl": "https://youtube.com/watch?v=xhNF3KzPzt0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xhNF3KzPzt0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M55S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-09-21T03:54:15-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xhNF3KzPzt0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-tvptvz-solving-problems-and-adapting-to-weird-situations.md",
-      "title": "Coaching TvP/TvZ Solving Problems and adapting to weird situations",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos dont appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvptvz-solving-problems-and-adapting-to-weird-situations/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvptvz-solving-problems-and-adapting-to-weird-situations/",
-      "originalUrl": "https://youtube.com/watch?v=eFa--qR6s64",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eFa--qR6s64\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H19M8S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-05-01T08:16:25-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eFa--qR6s64/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-tvt-and-tvp-plat-3-analysing-replays-and-engaging-splash-damage-with-bio-tank.md",
-      "title": "Coaching TvT and TvP Plat 3 - Analysing replays and engaging splash damage with bio tank",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvt-and-tvp-plat-3-analysing-replays-and-engaging-splash-damage-with-bio-tank/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvt-and-tvp-plat-3-analysing-replays-and-engaging-splash-damage-with-bio-tank/",
-      "originalUrl": "https://youtube.com/watch?v=jLXlG7rckD4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jLXlG7rckD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H14M34S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-11-07T09:00:11-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jLXlG7rckD4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-tvt-battle-cruisers.md",
-      "title": "Coaching TvT Battle Cruisers!",
-      "excerpt": "Heyho!  Another Coaching Session with Misspiggy!  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvt-battle-cruisers/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvt-battle-cruisers/",
-      "originalUrl": "https://youtube.com/watch?v=8G6LJ29FMhA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8G6LJ29FMhA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H9M19S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-05-22T22:21:49-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8G6LJ29FMhA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

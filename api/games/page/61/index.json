@@ -4,98 +4,6 @@
   "page": 61,
   "value": [
     {
-      "path": "_games/pig-endless-tide-of-terran-settlers-invisible-man-g4-icyfar.md",
-      "title": "Endless Tide of Terran Settlers | Invisible Man G4 ICYFAR",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were they may use invisible units to spook their opponents!  NEW ICYFAR CHALLANGE: You will never get this! - Deny your opponents expansions and contain them at all costs. Send submissions",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-endless-tide-of-terran-settlers-invisible-man-g4-icyfar/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-endless-tide-of-terran-settlers-invisible-man-g4-icyfar/",
-      "originalUrl": "https://youtube.com/watch?v=qR-YlRyliQw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qR-YlRyliQw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M30S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qR-YlRyliQw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-endless-waves-of-bio-crashing-into-the-zerg-twitch-plays-pig-18.md",
-      "title": "Endless Waves of Bio crashing into the Zerg! | Twitch Plays PiG #18",
-      "excerpt": "This video are actually 2 games, so enjoy :)   Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-endless-waves-of-bio-crashing-into-the-zerg-twitch-plays-pig-18/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-endless-waves-of-bio-crashing-into-the-zerg-twitch-plays-pig-18/",
-      "originalUrl": "https://youtube.com/watch?v=QTpAgkJzG-Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QTpAgkJzG-Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M20S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QTpAgkJzG-Q/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-09-30T22:04:11-07:00"
-    },
-    {
-      "path": "_games/pig-enraged-blinky-bill-dropbear-edition-smell-of-napalm-icyfar-g3.md",
-      "title": "Enraged Blinky Bill, DropBear edition | Smell of Napalm ICYFAR G3",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to rain down destruction from above!  NEW ICYFAR CHALLENGE: \"Sneaky, Sneaky Kaelaris\" - Use Invisible/burrowed units as much as possible! Send submissions to fluxiorsc@gmail.com as attachment",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-enraged-blinky-bill-dropbear-edition-smell-of-napalm-icyfar-g3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-enraged-blinky-bill-dropbear-edition-smell-of-napalm-icyfar-g3/",
-      "originalUrl": "https://youtube.com/watch?v=8Pvc2Ikgwe0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8Pvc2Ikgwe0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M8S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8Pvc2Ikgwe0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-epic-micro-battle-grim-reaper-2-starcraft-2.md",
       "title": "EPIC MICRO BATTLE | Grim Reaper #2 - StarCraft 2",
       "excerpt": "GrimReaper faces off against Golden in this epic micro battle. -- Want more? Help support me! https://www.patreon.com/PiGSC2 Watch live at https://www.twitch.tv/x5_pig Linktree: https://linktr.ee/PiGStarcraft -- Florecenio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
@@ -357,35 +265,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-fastest-ultra-nydus-ever-has-this-guy-created-a-new-dumb-build-smooth-brain-auditions-season-2-ep1.md",
-      "title": "Fastest Ultra Nydus Ever: Has this guy created a new dumb build? Smooth Brain Auditions Season 2 Ep1",
-      "excerpt": "In Season 1 of Smooth Brain Auditions, we found Santa Claws who wowed us with such smooth noggin' moves that we started a YT series just for him. In Season 2, the competition heats up and the auditions are getting even better! Who will be our next Smooth Brain?  0:00 Audition 1 13:14 Audition 2 21:45",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-fastest-ultra-nydus-ever-has-this-guy-created-a-new-dumb-build-smooth-brain-auditions-season-2-ep1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-fastest-ultra-nydus-ever-has-this-guy-created-a-new-dumb-build-smooth-brain-auditions-season-2-ep1/",
-      "originalUrl": "https://youtube.com/watch?v=WbqwxDJy4Xw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WbqwxDJy4Xw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M34S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WbqwxDJy4Xw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-12-10T11:15:40-08:00"
     },
     {
       "path": "_games/pig-feinting-attacks-icyfar-g1-the-pig-daily-158.md",
@@ -882,6 +761,126 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-god-youre-such-a-b-bastard-bace-icyfar-g3.md",
+      "title": "God You’re such a B$#&! - Bastard Bace ICYFAR G3",
+      "excerpt": "ATTENTION: There will be NO ICYFAR for the next 2 Weeks as PiG will be on vacation, he will announce a topic once he returns!  In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays that had them expand in secrecy.  Like the content? Then consider to leave",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-god-youre-such-a-b-bastard-bace-icyfar-g3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-god-youre-such-a-b-bastard-bace-icyfar-g3/",
+      "originalUrl": "https://youtube.com/watch?v=EAux5krPEmk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EAux5krPEmk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M34S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EAux5krPEmk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-going-fishing-for-epic-nukes-icyfar-hot-potato-compilation.md",
+      "title": "GOING FISHING FOR EPIC NUKES! | ICYFAR \"Hot Potato\" Compilation",
+      "excerpt": "🔥NEW ICYFAR CHALLENGE: \"Interpretive Dance 2.0 - Post a song name at the start of the game and use a strategy inspired by the song! Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 24th April.  0:00 Game 1 22:06",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-going-fishing-for-epic-nukes-icyfar-hot-potato-compilation/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-going-fishing-for-epic-nukes-icyfar-hot-potato-compilation/",
+      "originalUrl": "https://youtube.com/watch?v=ivpCWx4UMGg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ivpCWx4UMGg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M29S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ivpCWx4UMGg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-golden-finds-out-what-sex-panther-is-twitch-play-pig-38.md",
+      "title": "Golden finds out what Sex Panther is | Twitch Play PiG #38",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-golden-finds-out-what-sex-panther-is-twitch-play-pig-38/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-golden-finds-out-what-sex-panther-is-twitch-play-pig-38/",
+      "originalUrl": "https://youtube.com/watch?v=i53LZeMBufA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i53LZeMBufA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M58S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/i53LZeMBufA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-03-22T09:23:38-07:00"
+    },
+    {
+      "path": "_games/pig-guess-which-pro-4-pros-play-under-secret-identities-in-our-hidden-name-tournament-starcraft-2.md",
+      "title": "Guess which Pro! 4 pros play under secret identities in our Hidden Name Tournament - StarCraft 2",
+      "excerpt": "WHO ARE THEY? In this Hidden Name Tournament, we have 4 StarCraft pro players competing against each other but they don't know who their opponents are. They are playing for a prize pool so there is a need to be competitive, however, if no other player can guess who they are they earn extra prize money!",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-guess-which-pro-4-pros-play-under-secret-identities-in-our-hidden-name-tournament-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-guess-which-pro-4-pros-play-under-secret-identities-in-our-hidden-name-tournament-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=vilcf9UuR9g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vilcf9UuR9g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H32M57S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vilcf9UuR9g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-27T02:37:52-08:00"
     }
   ],
   "nextPage": 62

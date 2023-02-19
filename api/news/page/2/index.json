@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-08-starcraft-ii-509-ptr-patch-notes.md",
+      "title": "StarCraft II 5.0.9 PTR Patch Notes",
+      "excerpt": "We&amp;#39;ve been working with community members and tournament organizers to put together a Balance Patch. You can check it out on the PTR now!",
+      "sourceUrl": null,
+      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23774006/starcraft-ii-5-0-9-ptr-patch-notes",
+      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23774006/starcraft-ii-5-0-9-ptr-patch-notes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/k6/K6X08SHQEVJ61519841731768.JPG",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-08T10:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2022-02-22-starcraft-ii-legacy-of-the-void-wiki-guide.md",
       "title": "StarCraft II - Legacy of the Void Wiki Guide",
       "excerpt": "Starcraft Universe Barcraft Night of The Dead Mass Destruction 2 Stardodgeball Tofu Arena Pimp My Footman 2 Hero Line Wars Starlight - Arcade Galaxy Editor (SC2 Map Editor) Galaxy Editor (SC2 Map ...",
@@ -1100,49 +1151,6 @@
       ],
       "topics": [
         "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-starcraft-ii-great-taeja-is-retiring-once-again.md",
-      "title": "Starcraft II Great TaeJa Is Retiring Once Again",
-      "excerpt": "The conclusion he reached that it was time for him to leave the professional StarCraft II scene. “It wasn’t an easy decision,” he wrote. “I can feel I want to play more, but the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kotaku.com.au/2021/05/starcraft-ii-great-taeja-is-retiring-once-again/",
-      "originalUrl": "https://www.kotaku.com.au/2021/05/starcraft-ii-great-taeja-is-retiring-once-again/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgix.kotaku.com.au/content/uploads/sites/3/2021/05/12/825b7f60288855420035f0bed212660a.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kotaku.com.au/2021/05/starcraft-ii-great-taeja-is-retiring-once-again/amp/",
-      "cdnAmpWebUrl": "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2021/05/starcraft-ii-great-taeja-is-retiring-once-again/amp/",
-      "publishedDateTime": "2021-05-12T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kotaku Australia",
-        "domain": "kotaku.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2",
-        "Terran"
       ]
     }
   ],

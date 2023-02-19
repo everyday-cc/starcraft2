@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/23897177/starcraft-ii-5
 webUrl: "https://news.blizzard.com/en-us/starcraft2/23897177/starcraft-ii-5-0-11-hotfix-patch-notes"
 type: article
 quality: 177
-heat: 185
+heat: 183
 published: true
 
 provider:

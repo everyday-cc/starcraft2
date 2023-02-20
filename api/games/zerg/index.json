@@ -538,14 +538,14 @@
       "publishedDateTime": "2022-10-21T06:35:01-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-darks-epic-overlord-micro-trick-vs-tempests.md",
-      "title": "StarCraft 2: Dark's Epic OVERLORD MICRO TRICK vs Tempests!",
-      "excerpt": "Best-of-5 series of high level StarCraft 2 between Dark (Zerg) and Nice (Protoss). This is a very aggressive series of SC2 as the players try to end each of the games early. From Zergling all-ins to Baneling busts and from mass Oracle to unexpected Tempests.  Support my work: https://patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-epic-overlord-micro-trick-vs-tempests/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-epic-overlord-micro-trick-vs-tempests/",
-      "originalUrl": "https://youtube.com/watch?v=byf13mg5Uo4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/byf13mg5Uo4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M42S",
+      "path": "_games/lowkotv-starcraft-2-brand-new-map-pool-hero-vs-dark-grand-finals.md",
+      "title": "StarCraft 2: BRAND NEW Map Pool - herO vs Dark! (Grand Finals)",
+      "excerpt": "A new map pool is here for StarCraft 2! All of the previous 7 maps are replaced with new ones. Going forward we will use: Altitude, Ancient Cistern, Babylon, Dragon Scale, Gresvan, NeoHumanity and Royal Blood. In this video I cast the finals of the ESL Open Cup 157 Korea with all games played on the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-brand-new-map-pool-hero-vs-dark-grand-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-brand-new-map-pool-hero-vs-dark-grand-finals/",
+      "originalUrl": "https://youtube.com/watch?v=N0FTgaKRH3k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N0FTgaKRH3k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M41S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -560,12 +560,13 @@
       },
       "topics": [
         "StarCraft 2",
+        "Protoss",
         "Zerg"
       ],
-      "heat": 119,
+      "heat": 122,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/byf13mg5Uo4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/N0FTgaKRH3k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -573,7 +574,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-01-11T05:41:51-08:00"
+      "publishedDateTime": "2023-01-09T04:14:21-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime.md",
@@ -654,27 +655,34 @@
       "publishedDateTime": "2023-01-23T04:09:55-08:00"
     },
     {
-      "path": "_games/pig-can-zerg-or-terran-beat-toss-times-1v10-speedrun-update-starcraft-2.md",
-      "title": "Can Zerg or Terran beat Toss times?! 1v10 Speedrun UPDATE - StarCraft 2",
-      "excerpt": "Here are the fastest players of each race so far for my 1v10 AI Speedrun Challenge!  Original video, rules and submission form: https://youtu.be/-VFKxcmsWrQ  -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-can-zerg-or-terran-beat-toss-times-1v10-speedrun-update-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-can-zerg-or-terran-beat-toss-times-1v10-speedrun-update-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=qwmkd3Hz234",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qwmkd3Hz234\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M37S",
+      "path": "_games/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals.md",
+      "title": "StarCraft 2: MaxPax in Dark Templar PRISON! (Europe Grand Finals)",
+      "excerpt": "Grand Finals of the ESL Open Cup 150 Europe in StarCraft 2. This Protoss versus Protoss between Krystianer and MaxPax has a variety of playstyles, with cheese and macro. Mostly a ton of Stalkers, Disruptors, Zealtos and Dark Templar though.  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals/",
+      "originalUrl": "https://youtube.com/watch?v=qXW4B0HhjDk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qXW4B0HhjDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT52M43S",
       "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
         "Zerg"
       ],
-      "heat": 110,
+      "heat": 112,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/qwmkd3Hz234/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qXW4B0HhjDk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -682,7 +690,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-01-07T17:03:57-08:00"
+      "publishedDateTime": "2022-11-24T04:07:47-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",

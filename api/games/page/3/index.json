@@ -4,6 +4,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-hiding-terrible-strategies-viewer-games.md",
+      "title": "StarCraft 2: Hiding TERRIBLE Strategies?! (Viewer Games)",
+      "excerpt": "Viewer submitted games in StarCraft 2. In this video I cast two games of SC2 that were submitted to replays@lowko.tv.   00:00 Terrible cheese 19:51 Swarm Host troubles  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-hiding-terrible-strategies-viewer-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-hiding-terrible-strategies-viewer-games/",
+      "originalUrl": "https://youtube.com/watch?v=BYudrw0Lkho",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BYudrw0Lkho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M37S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 90,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BYudrw0Lkho/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-08T03:50:20-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-protoss-hate-this-cheese-best-of-5.md",
       "title": "StarCraft 2: Protoss HATE This Cheese! (Best-of-5)",
       "excerpt": "Best-of-5 series of StarCraft 2 between Astrea (Random) and ThreePoint (Zerg). A series with a lot of early game aggression and cheesy strategies.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips  Twitch livestream: https://twitch.tv/lowkotv",
@@ -1104,6 +1141,37 @@
       "publishedDateTime": "2022-11-11T02:14:17-08:00"
     },
     {
+      "path": "_games/pig-0-iq-bunker-makes-cheeser-rage-florencio-files-274-starcraft-2.md",
+      "title": "0 IQ Bunker makes Cheeser Rage | Florencio Files #274 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-0-iq-bunker-makes-cheeser-rage-florencio-files-274-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-0-iq-bunker-makes-cheeser-rage-florencio-files-274-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=VJg4fya3ym8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VJg4fya3ym8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M48S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran"
+      ],
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VJg4fya3ym8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-18T20:05:19-08:00"
+    },
+    {
       "path": "_games/pig-i-made-sneaky-corner-bases-against-grandmasters-starcraft-2.md",
       "title": "I made SNEAKY corner bases against Grandmasters ;) - StarCraft 2",
       "excerpt": "Sneaky corner bases are fun :D -- 🐷 Main Channel: https://www.youtube.com/user/PiGstarcraft 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2 🐷 PiG’s Discord: https://discord.gg/SkhbzCM",
@@ -1131,68 +1199,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-10T17:25:26-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-can-mass-lings-actually-beat-mech-rate-my-starcraft-7.md",
-      "title": "StarCraft 2 - Can Mass Lings Actually BEAT Mech? | Rate My StarCraft #7",
-      "excerpt": "🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your awesome StarCraft plays. Send in your replay to RateMyStarCraft@gmail.com PLUS why you think it was so good (This is similar to ICYFAR but you choose the topic). Bonus points if you can say why in",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-can-mass-lings-actually-beat-mech-rate-my-starcraft-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-can-mass-lings-actually-beat-mech-rate-my-starcraft-7/",
-      "originalUrl": "https://youtube.com/watch?v=_mihzE8PQNU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_mihzE8PQNU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 69,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_mihzE8PQNU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-09-28T04:46:30-07:00"
-    },
-    {
-      "path": "_games/pig-this-is-a-ridiculously-intense-game-of-starcraft-king-of-cannons-22-starcraft-2.md",
-      "title": "This is a RIDICULOUSLY INTENSE game of Starcraft! | King of Cannons #22 - StarCraft  2",
-      "excerpt": "Cannon rushes all day erry day! Watch printF, the KING of Cannons, do what he does best on the StarCraft 2 ladder  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf PrintF’s youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-is-a-ridiculously-intense-game-of-starcraft-king-of-cannons-22-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-is-a-ridiculously-intense-game-of-starcraft-king-of-cannons-22-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=jLaY4W0uW8M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jLaY4W0uW8M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M6S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 69,
-      "tags": [
-        "Cheese"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jLaY4W0uW8M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-04T22:47:02-08:00"
     }
   ],
   "nextPage": 4

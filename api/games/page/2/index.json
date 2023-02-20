@@ -4,6 +4,35 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1.md",
+      "title": "We paid a Pro to do Troll builds and it was LEGENDARY | Twitch Plays Astrea #1",
+      "excerpt": "It is rumoured that a Legend is born when immortals save the world from destruction. A being so powerful rises from the clutches of near death and is then known to the world as CHADSTREA THUNDERSHAFT. Here is his origin story.  Follow Astrea's Twitch: https://www.twitch.tv/zastrea -- 🐷 Second Channel",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1/",
+      "originalUrl": "https://youtube.com/watch?v=SariYo8-VNI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SariYo8-VNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M5S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 140,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SariYo8-VNI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-02-10T17:37:20-08:00"
+    },
+    {
       "path": "_games/pig-when-you-go-mass-ling-drops-but-theyve-got-skytoss-starcraft-2.md",
       "title": "When you go mass ling drops, but they've got SKYTOSS! - StarCraft 2",
       "excerpt": "I gave myself a challenge: to do mass zerg drops. LOTS OF DROPS. Let's see how it does on the StarCraft 2 ladder -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig",
@@ -23,36 +52,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-24T19:41:45-07:00"
-    },
-    {
-      "path": "_games/pig-flo-hides-14-bases-in-one-game-florencio-files-276-starcraft-2.md",
-      "title": "Flo Hides 14 Bases in One Game | Florencio Files #276 - StarCraft 2",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-flo-hides-14-bases-in-one-game-florencio-files-276-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-flo-hides-14-bases-in-one-game-florencio-files-276-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=C64FK6g9Raw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C64FK6g9Raw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M39S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 127,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/C64FK6g9Raw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-05T02:30:43-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-heros-new-phoenix-strategy-is-brutal.md",
@@ -93,14 +92,14 @@
       "publishedDateTime": "2023-02-03T03:05:06-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-darks-epic-overlord-micro-trick-vs-tempests.md",
-      "title": "StarCraft 2: Dark's Epic OVERLORD MICRO TRICK vs Tempests!",
-      "excerpt": "Best-of-5 series of high level StarCraft 2 between Dark (Zerg) and Nice (Protoss). This is a very aggressive series of SC2 as the players try to end each of the games early. From Zergling all-ins to Baneling busts and from mass Oracle to unexpected Tempests.  Support my work: https://patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-epic-overlord-micro-trick-vs-tempests/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-epic-overlord-micro-trick-vs-tempests/",
-      "originalUrl": "https://youtube.com/watch?v=byf13mg5Uo4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/byf13mg5Uo4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M42S",
+      "path": "_games/lowkotv-starcraft-2-brand-new-map-pool-hero-vs-dark-grand-finals.md",
+      "title": "StarCraft 2: BRAND NEW Map Pool - herO vs Dark! (Grand Finals)",
+      "excerpt": "A new map pool is here for StarCraft 2! All of the previous 7 maps are replaced with new ones. Going forward we will use: Altitude, Ancient Cistern, Babylon, Dragon Scale, Gresvan, NeoHumanity and Royal Blood. In this video I cast the finals of the ESL Open Cup 157 Korea with all games played on the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-brand-new-map-pool-hero-vs-dark-grand-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-brand-new-map-pool-hero-vs-dark-grand-finals/",
+      "originalUrl": "https://youtube.com/watch?v=N0FTgaKRH3k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N0FTgaKRH3k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M41S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -115,12 +114,13 @@
       },
       "topics": [
         "StarCraft 2",
+        "Protoss",
         "Zerg"
       ],
-      "heat": 119,
+      "heat": 122,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/byf13mg5Uo4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/N0FTgaKRH3k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -128,7 +128,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-01-11T05:41:51-08:00"
+      "publishedDateTime": "2023-01-09T04:14:21-08:00"
     },
     {
       "path": "_games/pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-starcraft-2.md",
@@ -197,6 +197,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-05T04:02:46-07:00"
+    },
+    {
+      "path": "_games/pig-flo-hides-14-bases-in-one-game-florencio-files-276-starcraft-2.md",
+      "title": "Flo Hides 14 Bases in One Game | Florencio Files #276 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-flo-hides-14-bases-in-one-game-florencio-files-276-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-flo-hides-14-bases-in-one-game-florencio-files-276-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=C64FK6g9Raw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C64FK6g9Raw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M39S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 117,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/C64FK6g9Raw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-02-05T02:30:43-08:00"
     },
     {
       "path": "_games/pig-i-embarrassed-a-pro-player-then-this-happened-pig-vs-astrea-starcraft-2.md",
@@ -304,6 +334,44 @@
       "publishedDateTime": "2023-01-23T04:09:55-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals.md",
+      "title": "StarCraft 2: MaxPax in Dark Templar PRISON! (Europe Grand Finals)",
+      "excerpt": "Grand Finals of the ESL Open Cup 150 Europe in StarCraft 2. This Protoss versus Protoss between Krystianer and MaxPax has a variety of playstyles, with cheese and macro. Mostly a ton of Stalkers, Disruptors, Zealtos and Dark Templar though.  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpax-in-dark-templar-prison-europe-grand-finals/",
+      "originalUrl": "https://youtube.com/watch?v=qXW4B0HhjDk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qXW4B0HhjDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT52M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qXW4B0HhjDk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-24T04:07:47-08:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-seige-tactics-g1.md",
       "title": "StarCraft 2 - When You Build a Base In Their Base... | ICYFAR \"Seige Tactics\" G1",
       "excerpt": "🤯 NEW ICYFAR CHALLENGE: One Base Openers - You're not allowed to start building an expansion until after 5:00. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 21st May. -- 🤯 In this week’s episode of I Cast Your",
@@ -369,37 +437,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-30T04:48:35-08:00"
-    },
-    {
-      "path": "_games/pig-can-zerg-or-terran-beat-toss-times-1v10-speedrun-update-starcraft-2.md",
-      "title": "Can Zerg or Terran beat Toss times?! 1v10 Speedrun UPDATE - StarCraft 2",
-      "excerpt": "Here are the fastest players of each race so far for my 1v10 AI Speedrun Challenge!  Original video, rules and submission form: https://youtu.be/-VFKxcmsWrQ  -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-can-zerg-or-terran-beat-toss-times-1v10-speedrun-update-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-can-zerg-or-terran-beat-toss-times-1v10-speedrun-update-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=qwmkd3Hz234",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qwmkd3Hz234\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M37S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qwmkd3Hz234/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-07T17:03:57-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",
@@ -999,43 +1036,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-12T02:03:51-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-hiding-terrible-strategies-viewer-games.md",
-      "title": "StarCraft 2: Hiding TERRIBLE Strategies?! (Viewer Games)",
-      "excerpt": "Viewer submitted games in StarCraft 2. In this video I cast two games of SC2 that were submitted to replays@lowko.tv.   00:00 Terrible cheese 19:51 Swarm Host troubles  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-hiding-terrible-strategies-viewer-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-hiding-terrible-strategies-viewer-games/",
-      "originalUrl": "https://youtube.com/watch?v=BYudrw0Lkho",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BYudrw0Lkho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M37S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 90,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BYudrw0Lkho/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-07-08T03:50:20-07:00"
     }
   ],
   "nextPage": 3

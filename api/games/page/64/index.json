@@ -4,6 +4,35 @@
   "page": 64,
   "value": [
     {
+      "path": "_games/pig-is-this-feardragon-offshore-accounts-icyfar-g4.md",
+      "title": "IS THIS FEARDRAGON!? | Offshore Accounts ICYFAR G4",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to use hidden bases as much as possible!   ICYFAR will be on Hiatus for about 2 weeks whilst PiG is casting IEM Katowice - I'll announce a new topic as soon as I return around March 4th!",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-is-this-feardragon-offshore-accounts-icyfar-g4/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-is-this-feardragon-offshore-accounts-icyfar-g4/",
+      "originalUrl": "https://youtube.com/watch?v=r0qZd5m33jg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r0qZd5m33jg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M30S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/r0qZd5m33jg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-is-this-fun-for-you-mineral-maverick-icyfar-g3-g4.md",
       "title": "“Is this fun for you?\" | Mineral Maverick ICYFAR G3 & G4",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they “only mined from one gas”.  CURRENT ICYFAR CHALLANGE: Fanatical Fanboy - Type \"I'm a Boxer fan\" in chat at the start of the game and then use your strategy inspired by that player. You can",
@@ -863,39 +892,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-mass-bane-zvz-and-chadray-pvt-twitch-plays-pig-17.md",
-      "title": "MASS bane ZvZ and Chadray PvT! | Twitch Plays PiG #17",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-mass-bane-zvz-and-chadray-pvt-twitch-plays-pig-17/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-mass-bane-zvz-and-chadray-pvt-twitch-plays-pig-17/",
-      "originalUrl": "https://youtube.com/watch?v=k4w9H7XywWM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/k4w9H7XywWM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M34S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/k4w9H7XywWM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-09-30T22:04:11-07:00"
     }
   ],
   "nextPage": 65

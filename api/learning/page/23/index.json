@@ -49,6 +49,14 @@
       },
       "publishedDateTime": "2019-10-11T09:00:04-07:00",
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-57KegRazYY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "price": "Free",

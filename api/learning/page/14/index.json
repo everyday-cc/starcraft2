@@ -4,6 +4,68 @@
   "page": 14,
   "value": [
     {
+      "path": "_learning/videos/pig-defending-all-ins-and-dealing-with-late-game-coaching-zvx-d2.md",
+      "title": "Defending All-ins and dealing with Late-game | Coaching ZvX D2",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-defending-all-ins-and-dealing-with-late-game-coaching-zvx-d2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-defending-all-ins-and-dealing-with-late-game-coaching-zvx-d2/",
+      "originalUrl": "https://youtube.com/watch?v=YPW-RjJTV0E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YPW-RjJTV0E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H16M",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-24T04:00:17-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YPW-RjJTV0E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-defending-backstabs-and-dropping-coaching-tvz-masters-3.md",
+      "title": "Defending Backstabs and Dropping | Coaching TvZ Masters 3",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-defending-backstabs-and-dropping-coaching-tvz-masters-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-defending-backstabs-and-dropping-coaching-tvz-masters-3/",
+      "originalUrl": "https://youtube.com/watch?v=E7_9rr-9KeM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E7_9rr-9KeM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H14M",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-02-06T09:00:09-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/E7_9rr-9KeM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-defending-bane-bust-nydus-worm-proxy-zealot-and-more-coaching-pvp-d3.md",
       "title": "Defending Bane Bust, Nydus Worm, Proxy Zealot and more | Coaching PvP D3",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -848,67 +910,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/0cO_ly9C6gk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-gm-pvz-coaching-macro-storm-immortal-archon.md",
-      "title": "GM PvZ Coaching - Macro Storm-Immortal-Archon",
-      "excerpt": "I coach a High Master/GM Protoss on his macro PvZ style",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-gm-pvz-coaching-macro-storm-immortal-archon/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-gm-pvz-coaching-macro-storm-immortal-archon/",
-      "originalUrl": "https://youtube.com/watch?v=AmcFkoJVlR4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AmcFkoJVlR4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H9M41S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-08-01T02:06:17-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AmcFkoJVlR4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-going-skyterran-to-counter-mech-coaching-d1-tvt.md",
-      "title": "Going Skyterran to counter Mech! | Coaching D1 TvT",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-going-skyterran-to-counter-mech-coaching-d1-tvt/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-going-skyterran-to-counter-mech-coaching-d1-tvt/",
-      "originalUrl": "https://youtube.com/watch?v=5lhDmHzSGE0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5lhDmHzSGE0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H7M2S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-02-01T09:00:02-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5lhDmHzSGE0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

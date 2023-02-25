@@ -17,6 +17,17 @@ provider:
 topics:
   - StarCraft 2
 
+related:
+  - title: "2018 Starcraft Solstice Super Lite Fifth Wheel Series M-27RLS Equipment: Prices and Specs"
+    excerpt: "TRAVEL TRAILERS/5TH WHEELS - 1995-current prices include microwave, air conditioner, awning and AM/FM cassette stereo. 1999 Travelstar models reflect a base price only. In addition to what is standard, Solstice models include the Customer Convenience and ..."
+    publishedDateTime: 2023-02-22T03:21:00Z
+    webUrl: "https://www.jdpower.com/rvs/2018/starcraft/m-27rls/6576415"
+    type: article
+    provider:
+      name: jdpower
+      domain: jdpower.com
+    quality: 8
+
 secured: "Hc8V4G3FqLUJDTIa+fjYUxUy0nl7MWUs5gsddVyTzJ9NXHxEzNqOCow/kyhcYhbBa5n7sXYCneLC7/Uh7HKuYQQ6DCKtuZHpu3VFgTwI57ldq8guWmR5NfnByzZAgNgry2+2tssG9rI1JkMt/Qd9Lt80jM7cM13G2sWh+Oq94uBDNHxDuOtYdugkdZpXG9MpCKi/xMDxPAOLKwtGcMBKU8nr1cg/Il9aqIrqUZB8AhwDB1FzO/iUaq4eJ7M0/lmsob/86J14z6hFHX4as2VeSMF07pXwiicXwv2s7ikZKSgo+1NSHFakn0FfF6IVf8aklgO5XAHpRgSMIamH+8tC6SAE5FOGar5Dxxo9yeTEV/o=;V035aUhAxRuc6j/n+IyyDA=="
 ---
 

@@ -4,6 +4,37 @@
   "page": 11,
   "value": [
     {
+      "path": "_learning/videos/pig-all-the-mechanical-changes-and-a-solid-blink-opening-coaching-pvt-d3.md",
+      "title": "All the Mechanical changes and a solid blink opening - Coaching PvT - D3",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-all-the-mechanical-changes-and-a-solid-blink-opening-coaching-pvt-d3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-all-the-mechanical-changes-and-a-solid-blink-opening-coaching-pvt-d3/",
+      "originalUrl": "https://youtube.com/watch?v=RMgCZuJ7HMc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RMgCZuJ7HMc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H9M4S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-09-25T17:25:43-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RMgCZuJ7HMc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-all-the-tiny-details-zvt-style-that-shuts-down-that-first-bc-rule-of-1-gas-plat-2-coaching.md",
       "title": "All the tiny details - ZvT Style that shuts down that first BC - Rule of 1-gas Plat 2 coaching",
       "excerpt": "\"Bacon, bacon, bacon, bacon!\" - PiG 2019 If yiou don't enjoy the talk at the start, first gameplay is at 17:40  Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in",
@@ -876,36 +907,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/YuNlzbmcD0M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-gm-random-on-zvp-hydra-ling-bane.md",
-      "title": "Coaching GM Random on ZvP Hydra-ling-bane",
-      "excerpt": "I coach a GM Random player on how to improve his Hydra-ling-bane ZvP -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-gm-random-on-zvp-hydra-ling-bane/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-gm-random-on-zvp-hydra-ling-bane/",
-      "originalUrl": "https://youtube.com/watch?v=t8dwI-wsC0o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t8dwI-wsC0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M1S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-05-11T02:13:22-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/t8dwI-wsC0o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

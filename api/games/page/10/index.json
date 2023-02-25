@@ -4,14 +4,14 @@
   "page": 10,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-meomaikas-hilarious-zerg-builds-vs-showtime.md",
-      "title": "StarCraft 2: MeomaikA's HILARIOUS Zerg Builds vs ShoWTimE!",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between MeomaikA (Zerg) and ShoWTimE (Protoss). While I've featured ShoWTimE many times before on the YouTube channel, MeomaikA has recently been improving a lot. He's a Zerg who likes to play unorthodox strategies that somehow work out.  Support my work on",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-meomaikas-hilarious-zerg-builds-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-meomaikas-hilarious-zerg-builds-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=FDSfkJM7EvE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FDSfkJM7EvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M45S",
+      "path": "_games/lowkotv-starcraft-2-planetary-fortress-vs-proxy-nexus-crazy-viewer-games.md",
+      "title": "StarCraft 2: PLANETARY FORTRESS vs PROXY NEXUS! (Crazy Viewer Games)",
+      "excerpt": "Viewer submitted games of StarCraft 2. Some crazy matches that you definitely will never see at the professional level of the game. Proxy Command Centers into Planetary Cheese, Nexus inside the opponents main base and of course the classic Cannon Rush.  Support my work on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-planetary-fortress-vs-proxy-nexus-crazy-viewer-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-planetary-fortress-vs-proxy-nexus-crazy-viewer-games/",
+      "originalUrl": "https://youtube.com/watch?v=C8EnPv8p1Qc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C8EnPv8p1Qc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M54S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -26,13 +26,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
-        "Zerg"
+        "Terran",
+        "Protoss"
       ],
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/FDSfkJM7EvE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/C8EnPv8p1Qc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -40,55 +40,17 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-11-09T03:19:59-08:00"
+      "publishedDateTime": "2021-03-07T01:26:01-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-new-maps-darks-cheeky-ravager-rush-vs-clem-best-of-3.md",
-      "title": "StarCraft 2: NEW MAPS - Dark's Cheeky RAVAGER RUSH vs Clem! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between Dark (Zerg) and Clem (Terran). This series is played on new maps such as Lazarus Wastes and Starchild from the most recent Team Liquid map contest. Games are from the OlimoLeague.   Solar vs Gumiho: https://www.youtube.com/watch?v=rk0MTdp0law OlimoLeague",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-maps-darks-cheeky-ravager-rush-vs-clem-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-maps-darks-cheeky-ravager-rush-vs-clem-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=9GcUEOYNvwE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9GcUEOYNvwE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9GcUEOYNvwE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-21T05:14:23-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-new-patch-byun-vs-dark-grand-finals.md",
-      "title": "StarCraft 2: NEW PATCH - ByuN vs Dark! (Grand Finals)",
-      "excerpt": "Best-of-5 series of high level StarCraft 2 between Dark (Zerg) and ByuN (Terran). These games are played on the StarCraft 2 PTR with all the new balance changes.   New SC2 patch: https://youtu.be/y87c1xp3I3Q  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-patch-byun-vs-dark-grand-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-patch-byun-vs-dark-grand-finals/",
-      "originalUrl": "https://youtube.com/watch?v=G6EOaBTKXhg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G6EOaBTKXhg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M26S",
+      "path": "_games/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun.md",
+      "title": "StarCraft 2: PRO GAMERS PLAY 2v2 - Scarlett & Astrea vs Dark & ByuN!",
+      "excerpt": "Professional match of StarCraft 2 between Astrea & Scarlett on team North America and ByuN and Dark on team South Korea. Fantastic game on the 2v2 map \"Nightscape LE\".  OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun/",
+      "originalUrl": "https://youtube.com/watch?v=q9Lu_Oo-vio",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q9Lu_Oo-vio\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M28S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -109,7 +71,7 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/G6EOaBTKXhg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/q9Lu_Oo-vio/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -117,17 +79,17 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-12-29T00:20:05-08:00"
+      "publishedDateTime": "2022-10-19T04:56:26-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-new-patch-maxpax-tilts-clem-best-of-5.md",
-      "title": "StarCraft 2: NEW PATCH - MaxPax Tilts Clem?! (Best-of-5)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between MaxPax (Protoss) and Clem (Terran). This series is the Grand Finals of the ESL Open Cup 155 for Europe and is played on the new StarCraft 2 balance patch.  New StarCraft 2 balance patch: https://youtu.be/y87c1xp3I3Q  Support my work: https://patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-patch-maxpax-tilts-clem-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-patch-maxpax-tilts-clem-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=nEgH3uOPLws",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nEgH3uOPLws\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M30S",
+      "path": "_games/lowkotv-starcraft-2-questionable-decision-making-viewer-games.md",
+      "title": "StarCraft 2: QUESTIONABLE Decision Making! (Viewer Games)",
+      "excerpt": "Two games of StarCraft 2 between players in Platinum League. If yo uhave an awesome game of SC2, you can submit it to replays@lowko.tv.  00:00 Game 1 - Terran vs Protoss 23:24 Game 2 - Protoss vs Protoss  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-questionable-decision-making-viewer-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-questionable-decision-making-viewer-games/",
+      "originalUrl": "https://youtube.com/watch?v=1rNTkLAloIw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1rNTkLAloIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M51S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -146,7 +108,7 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/nEgH3uOPLws/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/1rNTkLAloIw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -154,54 +116,17 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-12-31T04:13:18-08:00"
+      "publishedDateTime": "2022-03-26T05:57:21-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-proxy-spawning-pool.md",
-      "title": "StarCraft 2: Proxy… Spawning Pool?!",
-      "excerpt": "Viewer submitted games of StarCraft 2. If you have a great game you think I should cast that you recently played, you can submit the replay to replays@lowko.tv.   00:00 Proxy Spawning Pool 04:25 More cheese 13:01 Even more cheese  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-spawning-pool/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-proxy-spawning-pool/",
-      "originalUrl": "https://youtube.com/watch?v=3Bc6WNGFzJE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3Bc6WNGFzJE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3Bc6WNGFzJE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-07-05T02:29:27-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-rank-1-vs-rank-2-serral-vs-maru.md",
-      "title": "StarCraft 2: RANK 1 vs RANK 2 - Serral vs Maru!",
-      "excerpt": "Top level game of professional StarCraft 2 between Serral (Zerg) and Maru (Terran). This is a game of top level SC2 between the current number 1 and the number 2 pro gamers in the world.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-rank-1-vs-rank-2-serral-vs-maru/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-rank-1-vs-rank-2-serral-vs-maru/",
-      "originalUrl": "https://youtube.com/watch?v=2eBVQpy5isU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2eBVQpy5isU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M53S",
+      "path": "_games/lowkotv-starcraft-2-reaper-surprises-professional-2v2-maru-byun-vs-solar-ryung.md",
+      "title": "StarCraft 2: REAPER SURPRISES - Professional 2v2! (Maru & ByuN vs Solar & Ryung)",
+      "excerpt": "Best-of-5 series of StarCraft 2 played in 2v2. Normally we don't see many pro games played in 2v2, but these games from the OlimoLeague are a lot of fun.  OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reaper-surprises-professional-2v2-maru-byun-vs-solar-ryung/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reaper-surprises-professional-2v2-maru-byun-vs-solar-ryung/",
+      "originalUrl": "https://youtube.com/watch?v=OLR9ijCrbc8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OLR9ijCrbc8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M36S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -222,7 +147,7 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2eBVQpy5isU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OLR9ijCrbc8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -230,7 +155,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-09-26T03:35:36-07:00"
+      "publishedDateTime": "2021-10-20T03:00:18-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-baneling-busts-maru-best-of-5.md",
@@ -310,14 +235,53 @@
       "publishedDateTime": "2018-05-10T03:36:51-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-serrals-extreme-zerg-swarm.md",
-      "title": "StarCraft 2: Serral's EXTREME Zerg Swarm!",
-      "excerpt": "Serral versus Cure in a professional match of StarCraft 2. Cure decides to start this game off aggressively with Marine Siege Tank pushes, but Serral holds and forces the macro game.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serrals-extreme-zerg-swarm/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serrals-extreme-zerg-swarm/",
-      "originalUrl": "https://youtube.com/watch?v=K8-8wgpXl3Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K8-8wgpXl3Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M27S",
+      "path": "_games/lowkotv-starcraft-2-serral-vs-showtime-best-of-5.md",
+      "title": "StarCraft 2: SERRAL vs SHOWTIME! (Best-of-5)",
+      "excerpt": "Top-level best of-5 series of professional StarCraft 2 between Serral and ShoWTimE.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-showtime-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-showtime-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=jf2lO14J63E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jf2lO14J63E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H18M31S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jf2lO14J63E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-14T04:25:38-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serrals-sneaky-zergling-all-in-vs-dark-best-of-5.md",
+      "title": "StarCraft 2: Serral's SNEAKY ZERGLING ALL-IN vs Dark! (Best-of-5)",
+      "excerpt": "Top level series of professional StarCraft 2 between Serral (Zerg) and Dark (Zerg). Both of these players are looking very good currently and represent some of the best players in all of SC2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serrals-sneaky-zergling-all-in-vs-dark-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serrals-sneaky-zergling-all-in-vs-dark-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=pQojL_cRMB8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pQojL_cRMB8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT50M59S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -337,7 +301,7 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/K8-8wgpXl3Y/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/pQojL_cRMB8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -345,7 +309,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-07-08T04:10:23-07:00"
+      "publishedDateTime": "2022-09-01T04:12:22-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-sick-game-has-dark-solved-zvt-late-game-byun-vs-dark.md",
@@ -387,43 +351,6 @@
       "publishedDateTime": "2022-08-05T04:59:34-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-some-terrible-starcraft-cheeses-viewer-games.md",
-      "title": "StarCraft 2: Some TERRIBLE StarCraft Cheeses! (Viewer Games)",
-      "excerpt": "Two games of StarCraft 2. These are viewer submitted games in SC2. The first one is a High Diamond/Low Masters level Zerg versus Zerg. The second a High Bronze/Low Silver Protoss versus Protoss. In both of them, the players execute some terrible cheeses.  Support my work on Patreon: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-some-terrible-starcraft-cheeses-viewer-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-some-terrible-starcraft-cheeses-viewer-games/",
-      "originalUrl": "https://youtube.com/watch?v=qHsim-JIiv0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qHsim-JIiv0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M36S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qHsim-JIiv0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-09-27T04:26:23-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-still-planetary-fortress-rushing-in-2022-viewer-games.md",
       "title": "StarCraft 2: Still PLANETARY FORTRESS RUSHING in 2022…? (Viewer Games)",
       "excerpt": "Two games of StarCraft 2 submitted to me by viewers. If you want to me make fun of your SC2 games as well, make sure to send your best replays to replays@lowko.tv.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
@@ -460,43 +387,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-02-14T02:35:43-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-strange-strategies-one-base-nydus-rush.md",
-      "title": "StarCraft 2: STRANGE STRATEGIES - One Base Nydus RUSH?!",
-      "excerpt": "Strange games of StarCraft 2 submitted by viewers! In this video I cast three games of players in Diamond League. If you also have a great game of SC2 that you would like me to cast, you can submit it to replays@lowko.tv.  00:00 Game 1 - Protoss vs Terran - Valravn vs Weedjo 16:26 Game 2 - Protoss vs",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-strange-strategies-one-base-nydus-rush/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-strange-strategies-one-base-nydus-rush/",
-      "originalUrl": "https://youtube.com/watch?v=lRp_g-4ovA0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lRp_g-4ovA0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M47S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lRp_g-4ovA0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-22T04:01:24-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-swarm-hosts-vs-dark-templar-viewer-games.md",
@@ -537,6 +427,44 @@
       "publishedDateTime": "2022-03-12T03:02:04-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-terrible-terran-rushes-viewer-games.md",
+      "title": "StarCraft 2: TERRIBLE Terran Rushes! (Viewer Games)",
+      "excerpt": "Try NordVPN with a significant discount: https://nordvpn.com/lowkotv In this video I cast two viewer submitted games in StarCraft 2. If you have an awesome game that you would like me to cast, you can submit it to replays@lowko.tv.  00:00 Thanks to NordVPN 00:54 Silver League Terran vs Protoss 15:10",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-terrible-terran-rushes-viewer-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-terrible-terran-rushes-viewer-games/",
+      "originalUrl": "https://youtube.com/watch?v=Ygkn0N9OH0U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ygkn0N9OH0U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M45S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Ygkn0N9OH0U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-04-23T02:58:51-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-best-of-the-worst-painful-1v1s.md",
       "title": "StarCraft 2: The BEST of the Worst! (Painful 1v1s)",
       "excerpt": "Two viewer submitted games of StarCraft 2 between Zerg and Protoss players in Bronze League and Silver League. If you have an awesome game that you'd like me to make fun of, you can submit it to replays@lowko.tv.  00:00 Silver League Zerg vs Protoss 19:45 Bronze League Zerg vs Protoss  Support my work",
@@ -572,120 +500,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-16T04:04:55-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-new-best-protoss.md",
-      "title": "StarCraft 2: The NEW Best Protoss?!",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between MaxPax (Protoss) and Ragnarok (Zerg).  MaxPax recently overtook herO for the rank 1 position of Protoss players on Aligulac.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-new-best-protoss/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-new-best-protoss/",
-      "originalUrl": "https://youtube.com/watch?v=Rj6R2H3K9TM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Rj6R2H3K9TM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Rj6R2H3K9TM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-27T03:17:51-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-orbital-command-allergy-viewer-games.md",
-      "title": "StarCraft 2: The Orbital Command ALLERGY! (Viewer Games)",
-      "excerpt": "Three viewer submitted games of StarCraft 2. In this video I cast some of the most painful games of StarCraft 2 that I have ever seen.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-orbital-command-allergy-viewer-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-orbital-command-allergy-viewer-games/",
-      "originalUrl": "https://youtube.com/watch?v=jXxUgCLJWrE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jXxUgCLJWrE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53M10S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jXxUgCLJWrE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-09-04T05:12:28-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-top-game-the-ultimate-deathballs-maru-vs-reynor.md",
-      "title": "StarCraft 2: TOP GAME - The ULTIMATE Deathballs! (Maru vs Reynor)",
-      "excerpt": "Amazing game of StarCraft 2 between Maru and Reynor. Maru starts off this game with a Blue Flame Hellion push into speedy Widow Mine drops. The game however doesn't end there and it goes the distance, as both players macro up.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-game-the-ultimate-deathballs-maru-vs-reynor/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-game-the-ultimate-deathballs-maru-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=cnIqUaraWOQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cnIqUaraWOQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cnIqUaraWOQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-07-20T04:54:49-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-why-is-he-playing-brood-war-units-only-spirit-vs-meomaika.md",
@@ -725,6 +539,119 @@
       "publishedDateTime": "2022-11-25T02:57:23-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-why-would-you-trade-your-main-base-viewer-games.md",
+      "title": "StarCraft 2: Why Would You Trade Your MAIN BASE?! (Viewer Games)",
+      "excerpt": "Two viewer submitted games of StarCraft 2 where two times players decide to switch the location where they spawned on the map.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-why-would-you-trade-your-main-base-viewer-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-why-would-you-trade-your-main-base-viewer-games/",
+      "originalUrl": "https://youtube.com/watch?v=bB1gCt2VBW8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bB1gCt2VBW8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M6S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bB1gCt2VBW8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-08-30T05:00:24-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-wombo-combos-serral-vs-neeb.md",
+      "title": "StarCraft 2: WOMBO COMBOS - Serral vs Neeb!",
+      "excerpt": "High level game of professional StarCraft 2 between Serral (Zerg) and Neeb (Protoss). This is a match that goes the distance as the entire map gets mostly mined out of Minerals and Vespene Gas.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-wombo-combos-serral-vs-neeb/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-wombo-combos-serral-vs-neeb/",
+      "originalUrl": "https://youtube.com/watch?v=qCQC3XpHIoE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qCQC3XpHIoE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M27S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qCQC3XpHIoE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-08-11T04:11:18-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-brood-war-6-legends-free-for-all.md",
+      "title": "StarCraft: Brood War - 6 Legends Free For All!",
+      "excerpt": "Free-for-all in StarCraft: Brood War between Last, Mvp, MC, Effort, Rain and Nestea.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-brood-war-6-legends-free-for-all/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-brood-war-6-legends-free-for-all/",
+      "originalUrl": "https://youtube.com/watch?v=FQkwt8r0C8k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FQkwt8r0C8k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M28S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FQkwt8r0C8k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-02-26T09:55:00-08:00"
+    },
+    {
       "path": "_games/pig-flos-genius-burrow-rush-trick-florencio-files-270-starcraft-2.md",
       "title": "Flo’s GENIUS Burrow Rush Trick | Florencio Files #270 - StarCraft 2",
       "excerpt": "Florencio Files is BACK! I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. I can't remember which episode first featued this burrow rush trick, but here's a link to another one where he does it: https://youtu.be/LOFfVLqbyWc",
@@ -755,14 +682,14 @@
       "publishedDateTime": "2022-08-31T18:59:06-07:00"
     },
     {
-      "path": "_games/pig-harstems-brain-breaks-in-the-most-insane-sc2-game-ever-vs-smooth-brain-boanaan-starcraft-2.md",
-      "title": "Harstem’s brain breaks in the most INSANE sc2 game EVER vs Smooth Brain Boanaan - StarCraft 2",
-      "excerpt": "Boanaan won Season 3 of the Smooth Brain Auditions with his Planetry Fortress rush that both failed and succeeded. Very glassy. In this game he's up against none other than the Cowboy, the Captain, Harstem, in what is the most insane game I have ever seen!  Watch (A Collection of) Smooth Brains playlist:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-harstems-brain-breaks-in-the-most-insane-sc2-game-ever-vs-smooth-brain-boanaan-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-harstems-brain-breaks-in-the-most-insane-sc2-game-ever-vs-smooth-brain-boanaan-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=-ShGhFAKfmI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-ShGhFAKfmI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M2S",
+      "path": "_games/pig-he-got-salty-and-refused-the-rematch-most-annoying-player-ever-1-starcraft-2.md",
+      "title": "He got salty AND refused the rematch! | Most Annoying Player Ever #1 - StarCraft 2",
+      "excerpt": "Let's see how annoying I can be :D -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2 🐷 PiG’s Discord:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-he-got-salty-and-refused-the-rematch-most-annoying-player-ever-1-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-he-got-salty-and-refused-the-rematch-most-annoying-player-ever-1-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=_RkZCs6LGdE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_RkZCs6LGdE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M41S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -773,7 +700,7 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-ShGhFAKfmI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/_RkZCs6LGdE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -781,7 +708,36 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-10-06T20:01:05-07:00"
+      "publishedDateTime": "2022-08-04T03:50:00-07:00"
+    },
+    {
+      "path": "_games/pig-how-i-dismantled-a-dirty-maphacker-starcraft-2.md",
+      "title": "How I Dismantled a Dirty MAPHACKER - StarCraft 2",
+      "excerpt": "I faced a maphacker on ladder and this is how it went -- 🐷 Main Channel: https://www.youtube.com/user/PiGstarcraft 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2 🐷 PiG’s",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-i-dismantled-a-dirty-maphacker-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-i-dismantled-a-dirty-maphacker-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=Zx3M_K5_q6Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zx3M_K5_q6Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M1S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Zx3M_K5_q6Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-06T23:08:35-07:00"
     },
     {
       "path": "_games/pig-i-faced-uthermals-meme-builds-in-a-pro-tournament-starcraft-2.md",
@@ -963,35 +919,6 @@
       "publishedDateTime": "2020-12-24T13:00:24-08:00"
     },
     {
-      "path": "_games/pig-telling-them-your-actual-strategy-to-mess-with-them-icyfar-new-years-resolutions-sc2.md",
-      "title": "Telling them your ACTUAL strategy to mess with them | ICYFAR New Years Resolutions - SC2",
-      "excerpt": "🤯 NEW ICYFAR CHALLENGE: \"PROXY EVERYTHING\" - proxy as much of your stuff as you can - try to have as few buildings as possible in your bases. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 30th January  🤯 In",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-telling-them-your-actual-strategy-to-mess-with-them-icyfar-new-years-resolutions-sc2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-telling-them-your-actual-strategy-to-mess-with-them-icyfar-new-years-resolutions-sc2/",
-      "originalUrl": "https://youtube.com/watch?v=jJusT0E0RYc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jJusT0E0RYc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M19S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jJusT0E0RYc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-05T13:10:05-08:00"
-    },
-    {
       "path": "_games/pig-the-genius-way-of-dealing-with-cannon-rushers-king-of-cannons-19-starcraft-2.md",
       "title": "The GENIUS way of dealing with Cannon Rushers | King of Cannons #19 - StarCraft 2",
       "excerpt": "Cannon rushes all day erry day! Watch printF, the KING of Cannons, do what he does best on the StarCraft 2 ladder  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf PrintF’s youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng",
@@ -1056,6 +983,65 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-04T15:02:14-08:00"
+    },
+    {
+      "path": "_games/pig-they-begged-me-not-to-cannon-rush-them-most-annoying-player-ever-7-starcraft-2.md",
+      "title": "They begged me NOT to cannon rush them | Most Annoying Player Ever #7 - StarCraft 2",
+      "excerpt": "Let's see how annoying I can be :D - Most Annoying Player Ever Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUe9Q0nTIwZiTOqYlofC3jOQ -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-they-begged-me-not-to-cannon-rush-them-most-annoying-player-ever-7-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-they-begged-me-not-to-cannon-rush-them-most-annoying-player-ever-7-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=8MA37OLaxKY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8MA37OLaxKY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M3S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8MA37OLaxKY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-29T23:07:46-07:00"
+    },
+    {
+      "path": "_games/pig-this-is-why-sc2-isnt-played-on-50-hit-points-pigs-lab-starcraft-2.md",
+      "title": "This is why SC2 isn’t played on 50% hit points | PiG's Lab - StarCraft 2",
+      "excerpt": "As part of PiG's Laboratory, I challenged StarCraft 2 pros to play with only 50% hit points - on everything! We get to witness how quickly everything dies. And best of all, Astrea and Cham have some clever solutions to this challenge! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-is-why-sc2-isnt-played-on-50-hit-points-pigs-lab-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-is-why-sc2-isnt-played-on-50-hit-points-pigs-lab-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=kjLbAH2UwP8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kjLbAH2UwP8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M30S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kjLbAH2UwP8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-21T03:05:23-07:00"
     }
   ],
   "nextPage": 11

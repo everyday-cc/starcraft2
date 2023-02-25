@@ -4,6 +4,39 @@
   "page": 19,
   "value": [
     {
+      "path": "_games/pig-proxy-bc-and-planetary-twitch-plays-pig-36.md",
+      "title": "Proxy BC and Planetary! | Twitch Plays PiG #36",
+      "excerpt": "Shoutout to Shyrshadi for helping me out!   Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-proxy-bc-and-planetary-twitch-plays-pig-36/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-proxy-bc-and-planetary-twitch-plays-pig-36/",
+      "originalUrl": "https://youtube.com/watch?v=6KwsLtCvfZw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6KwsLtCvfZw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M28S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6KwsLtCvfZw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-02-19T09:15:02-08:00"
+    },
+    {
       "path": "_games/pig-proxy-factory-in-their-base-diamond-in-the-ruff-29-starcraft-2.md",
       "title": "PROXY FACTORY IN THEIR BASE! | Diamond in the Ruff #29 - StarCraft 2",
       "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Protoss opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
@@ -884,37 +917,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-07-03T15:59:31-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-florencio-faces-a-terran-doppleganger-florencio-files-227.md",
-      "title": "StarCraft 2 - FLORENCIO FACES A TERRAN DOPPLEGANGER! | Florencio Files #227",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-faces-a-terran-doppleganger-florencio-files-227/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-faces-a-terran-doppleganger-florencio-files-227/",
-      "originalUrl": "https://youtube.com/watch?v=W19joj654D8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W19joj654D8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/W19joj654D8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-05-12T05:32:05-07:00"
     }
   ],
   "nextPage": 20

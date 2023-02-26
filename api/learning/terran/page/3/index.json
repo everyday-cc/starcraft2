@@ -4,6 +4,46 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/lowkotv-starcraft-2-safe-zerg-vs-terran-build-order-guide.md",
+      "title": "StarCraft 2: Safe Zerg vs Terran Build Order! (Guide)",
+      "excerpt": "This video explains the thought process behind the \"Two Base Mutalisk\" build order in StarCraft 2 for Zerg versus Terran.  Zerg versus Terran is a match-up that has been changing a lot over time. In the most recent couple of months the two base Mutalisk style is very common for Zerg players to execute",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-safe-zerg-vs-terran-build-order-guide/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-safe-zerg-vs-terran-build-order-guide/",
+      "originalUrl": "https://youtube.com/watch?v=BuSs9hHH7aU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BuSs9hHH7aU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M53S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-08-05T05:05:31-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BuSs9hHH7aU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-zerg-versus-terran-all-in-build-order.md",
       "title": "StarCraft 2: Zerg versus Terran ALL-IN Build Order!",
       "excerpt": "Support me on Patreon: http://www.patreon.com/lowkotv Subscribe for more videos: http://lowko.tv/youtube  StarCraft 2: Heart of the Swarm Zerg versus Terran Build Order.  This is an extremely effective build order in StarCraft 2 for the Zerg versus Terran match-up. Keep in mind that this is an all in,",
@@ -945,37 +985,6 @@
         "StarCraft 2",
         "Terran",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-defending-proxy-reapermarine-rushes-coaching-zvt-d3.md",
-      "title": "Defending Proxy Reaper/Marine Rushes | Coaching ZvT D3",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-defending-proxy-reapermarine-rushes-coaching-zvt-d3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-defending-proxy-reapermarine-rushes-coaching-zvt-d3/",
-      "originalUrl": "https://youtube.com/watch?v=W93WChDsikY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W93WChDsikY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H8M19S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-06-25T04:00:13-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/W93WChDsikY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
       ]
     }
   ],

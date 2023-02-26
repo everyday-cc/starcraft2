@@ -4,6 +4,86 @@
   "page": 8,
   "value": [
     {
+      "path": "_learning/videos/lowkotv-protoss-build-order-versus-zerg-starcraft-2-heart-of-the-swarm.md",
+      "title": "Protoss Build Order versus Zerg (StarCraft 2: Heart of the Swarm)",
+      "excerpt": "StarCraft 2: Heart of the Swarm Protoss Build Order. Today we are going to take a look at NaNiwa, one of the best Protoss players in StarCraft 2: Heart of the Swarm. We are taking a look at a game he played recently versus HyuN, one of the best Zergs in the world.  The goal for the build order is to",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-protoss-build-order-versus-zerg-starcraft-2-heart-of-the-swarm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-protoss-build-order-versus-zerg-starcraft-2-heart-of-the-swarm/",
+      "originalUrl": "https://youtube.com/watch?v=brNjC6PCB5o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/brNjC6PCB5o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M18S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2013-05-21T07:24:37-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/brNjC6PCB5o/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-scarletts-zerg-versus-terran-build-order-starcraft-2-heart-of-the-swarm.md",
+      "title": "Scarlett's Zerg versus Terran Build Order (StarCraft 2 Heart of the Swarm)",
+      "excerpt": "Scarletts Zerg versus Terran is pretty much top notch in StarCraft 2: Heart of the Swarm. This is the build order that she used in the WCS Finals that were happening last weekend.  Please keep in mind that she makes slight differences every now and then. For example sometimes she gets Zergling speed",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-scarletts-zerg-versus-terran-build-order-starcraft-2-heart-of-the-swarm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-scarletts-zerg-versus-terran-build-order-starcraft-2-heart-of-the-swarm/",
+      "originalUrl": "https://youtube.com/watch?v=HUP_-sBI700",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HUP_-sBI700\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M14S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2013-08-26T14:44:40-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HUP_-sBI700/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-aggressive-zerg-build-order-guide.md",
       "title": "StarCraft 2: AGGRESSIVE Zerg Build Order! (Guide)",
       "excerpt": "Easy Zerg build order: https://www.youtube.com/watch?v=ScyK_2okKZE  Zerg build order for StarCraft 2 versus Terran. This build focuses on a powerful timing attack with Roaches, Zerglings and Baneling.   15 Hatchery 15 Spawning Pool 17 Overlord  4 Queens as soon as possible 5:00 double gas 6:00 hatchery",
@@ -195,6 +275,45 @@
         "StarCraft 2",
         "Protoss",
         "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-co-op-terran-mech-swann-guide.md",
+      "title": "StarCraft 2 Co-op: TERRAN MECH! (Swann Guide)",
+      "excerpt": "How-to play Swann effectively in the co-op version of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More co-op: https://goo.gl/4EmHtK  Swann is an incredibly strong commander in the game but he can be quite tricky to play as well. His early game is very weak in comparison, where as",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-co-op-terran-mech-swann-guide/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-co-op-terran-mech-swann-guide/",
+      "originalUrl": "https://youtube.com/watch?v=L0yEjZpKFAM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L0yEjZpKFAM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M36S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-01-23T13:12:41-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/L0yEjZpKFAM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
       ]
     },
     {
@@ -1051,125 +1170,6 @@
       "topics": [
         "StarCraft 2",
         "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-basic-terran-tutorial.md",
-      "title": "StarCraft 2: Legacy of the Void - Basic Terran Tutorial!",
-      "excerpt": "A basic Terran tutorial for StarCraft 2: Legacy of the Void. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 tutorials: https://goo.gl/IKl51P  In this tutorial I cover the very basics of ranking up with Terran on the StarCraft 2: Legacy of the Void ladder. One thing that a lot of",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-basic-terran-tutorial/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-basic-terran-tutorial/",
-      "originalUrl": "https://youtube.com/watch?v=jHu5qIISMKQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jHu5qIISMKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-10-21T04:13:09-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jHu5qIISMKQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-cheesy-zerg-vs-protoss-build-order-zerg-guide.md",
-      "title": "StarCraft 2: Legacy of the Void - Cheesy Zerg vs Protoss Build Order! (Zerg Guide)",
-      "excerpt": "In this StarCraft 2: Legacy of the Void video I go over a cheesy Zerg versus Protoss build order that works extremely well on Prion Terraces. The basic idea is to hard counter the Protoss strategy of going for a quick expansion, by using the Golden Minerals to your advantage.  Going for a quick double",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-cheesy-zerg-vs-protoss-build-order-zerg-guide/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-cheesy-zerg-vs-protoss-build-order-zerg-guide/",
-      "originalUrl": "https://youtube.com/watch?v=FbGasjn4VuY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FbGasjn4VuY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-04-16T08:32:06-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FbGasjn4VuY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-easy-protoss-vs-terran-all-in-build-order-protoss-guide.md",
-      "title": "StarCraft 2: Legacy of the Void - Easy Protoss vs Terran All-In Build Order! (Protoss Guide)",
-      "excerpt": "In this StarCraft 2: Legacy of the Void video I go over a powerful all-in that is easy to execute for Protoss players. This Protoss versus Terran all-in strategy focuses on getting a mass of Adepts, which usually can be used to overwhelm your opponent. By pushing out right when multiple upgrades finish",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-easy-protoss-vs-terran-all-in-build-order-protoss-guide/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-easy-protoss-vs-terran-all-in-build-order-protoss-guide/",
-      "originalUrl": "https://youtube.com/watch?v=OnBQz4z1qEI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OnBQz4z1qEI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-03-11T13:42:20-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OnBQz4z1qEI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
       ]
     }
   ],

@@ -4,6 +4,68 @@
   "page": 11,
   "value": [
     {
+      "path": "_learning/videos/pig-all-the-fundamentals-back-to-basic-mechanics-and-settings-d3-terran-coaching.md",
+      "title": "ALL The Fundamentals - Back To Basic Mechanics And Settings | D3 Terran coaching",
+      "excerpt": "My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to my Discord: https://discordapp.com/invite/SkhbzCM  The Book of FILTH: https://docs.google.com/document/d/17IX0S9Lu4ALiaOq0J0xkeBu4ZCZzXhH9ePtbmYUHQ0U/edit#heading=h.jut01of6fy4j",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-all-the-fundamentals-back-to-basic-mechanics-and-settings-d3-terran-coaching/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-all-the-fundamentals-back-to-basic-mechanics-and-settings-d3-terran-coaching/",
+      "originalUrl": "https://youtube.com/watch?v=2g6a-UPbEgU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2g6a-UPbEgU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H4M3S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-05T14:00:03-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2g6a-UPbEgU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-all-the-keys-to-improving-zvt-coaching-d3-zerg.md",
+      "title": "All the Keys to improving ZvT | Coaching D3 Zerg",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-all-the-keys-to-improving-zvt-coaching-d3-zerg/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-all-the-keys-to-improving-zvt-coaching-d3-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=Gyfc4SiDOME",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gyfc4SiDOME\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M25S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-08-03T09:00:08-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Gyfc4SiDOME/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-all-the-mechanical-changes-and-a-solid-blink-opening-coaching-pvt-d3.md",
       "title": "All the Mechanical changes and a solid blink opening - Coaching PvT - D3",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -296,36 +358,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hX6D3CWAHC8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-beginner-scouting-welcome-to-starcraft.md",
-      "title": "Beginner Scouting  - Welcome to Starcraft",
-      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-beginner-scouting-welcome-to-starcraft/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-beginner-scouting-welcome-to-starcraft/",
-      "originalUrl": "https://youtube.com/watch?v=r3O-rd8Pk4g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r3O-rd8Pk4g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M17S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-04-14T14:39:40-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/r3O-rd8Pk4g/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -877,36 +909,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/bnMWltBZvHk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-gm-random-on-setting-up-and-performing-at-lan.md",
-      "title": "Coaching GM Random on Setting up and Performing at LAN",
-      "excerpt": "I coach a GM Random player on how to play the best possible at a LAN including getting his settings and hotkeys right and then -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-gm-random-on-setting-up-and-performing-at-lan/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-gm-random-on-setting-up-and-performing-at-lan/",
-      "originalUrl": "https://youtube.com/watch?v=YuNlzbmcD0M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YuNlzbmcD0M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M49S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-05-11T02:13:22-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YuNlzbmcD0M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

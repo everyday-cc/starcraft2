@@ -4,6 +4,36 @@
   "page": 13,
   "value": [
     {
+      "path": "_learning/videos/pig-coaching-tvp-micro-spreading-bio-and-using-liberators.md",
+      "title": "Coaching TvP Micro - Spreading Bio and Using Liberators",
+      "excerpt": "I show a student how to micro his bio effectively in TvP, without needing super high apm! -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvp-micro-spreading-bio-and-using-liberators/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvp-micro-spreading-bio-and-using-liberators/",
+      "originalUrl": "https://youtube.com/watch?v=ctTilCjF86M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ctTilCjF86M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-09-12T04:32:13-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ctTilCjF86M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-coaching-tvp-solid-tvp-plat-3.md",
       "title": "Coaching TvP - Solid TvP - Plat 3",
       "excerpt": "I coach a plat 3 Terran on a solid TvP Build and how to improve, here's the build link: http://lotv.spawningtool.com/build/42910/ -- Watch live at https://www.twitch.tv/x5_pig",
@@ -707,36 +737,6 @@
         "StarCraft 2",
         "Terran",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-common-mistakes-vs-rushes-welcome-to-starcraft.md",
-      "title": "Common Mistakes vs Rushes  - Welcome to Starcraft",
-      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;)  -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-common-mistakes-vs-rushes-welcome-to-starcraft/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-common-mistakes-vs-rushes-welcome-to-starcraft/",
-      "originalUrl": "https://youtube.com/watch?v=UY4T6LmIDm8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UY4T6LmIDm8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M34S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-04-14T14:39:35-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UY4T6LmIDm8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
       ]
     },
     {

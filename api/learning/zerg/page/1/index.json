@@ -4,37 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-trying-to-learn-to-play-like-serral-vs-hero-analysis.md",
-      "title": "Trying To Learn To Play Like Serral (vs herO analysis)",
-      "excerpt": "♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and I have 5+ GM students",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-trying-to-learn-to-play-like-serral-vs-hero-analysis/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-trying-to-learn-to-play-like-serral-vs-hero-analysis/",
-      "originalUrl": "https://youtube.com/watch?v=1mbdfbk3tzc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1mbdfbk3tzc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M14S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2023-02-18T22:15:45-08:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1mbdfbk3tzc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-1-for-those-new-to-starcraft-and-bronze-league-b2gm.md",
       "title": "StarCraft 2 - Zerg Bronze to GM #1: For those New to Starcraft and Bronze League (B2GM)",
       "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 Intro 0:54 B2GM guide: https://docs.google.com/document/d/1mq1Ke3yK6bAVaQwuGk7rJeq3cXGmuf4V55_3L7sGDH0/edit?usp=sharing |  Zerg Beginner Opening: https://youtu.be/LQiqiMcbpGA 4:17 Settings | PiG's",
@@ -244,6 +213,37 @@
       ],
       "content": "\r\n",
       "type": "collection",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-trying-to-learn-to-play-like-serral-vs-hero-analysis.md",
+      "title": "Trying To Learn To Play Like Serral (vs herO analysis)",
+      "excerpt": "♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and I have 5+ GM students",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-trying-to-learn-to-play-like-serral-vs-hero-analysis/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-trying-to-learn-to-play-like-serral-vs-hero-analysis/",
+      "originalUrl": "https://youtube.com/watch?v=1mbdfbk3tzc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1mbdfbk3tzc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M14S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2023-02-18T22:15:45-08:00",
+      "heat": 80,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1mbdfbk3tzc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "StarCraft 2",
         "Zerg"

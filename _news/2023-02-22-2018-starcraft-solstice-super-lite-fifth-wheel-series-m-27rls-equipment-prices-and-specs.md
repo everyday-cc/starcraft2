@@ -7,7 +7,7 @@ originalUrl: "https://www.jdpower.com/rvs/2018/starcraft/m-27rls/6576415"
 webUrl: "https://www.jdpower.com/rvs/2018/starcraft/m-27rls/6576415"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - StarCraft 2
-
-related:
-  - title: "1987 Starcraft Prices, Values and Specs"
-    excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
-    publishedDateTime: 2023-02-06T22:56:00Z
-    webUrl: "https://www.jdpower.com/rvs/1987/used/starcraft"
-    type: article
-    provider:
-      name: jdpower
-      domain: jdpower.com
-    quality: 17
 
 secured: "kJixNU7lDaPGe75fXzQYd7EPifD3fdubqfNcz9fPjRRRWrlwJmpQHs+RZGyq6zSfREZ/c9S20gJahjp1olIXRwNj9P3NzBZA5xCVqfPIX09KHHRqVzvEX4IxqjKViFo3lrkJM9YF9EWtA53X1DtEv4wJdKZ+8bqipUsMilR+amA8u8xAAtQWK05z0T7ZPpFUpQwskzF+8qJV2TD7NrhK7Yu2d7A1ORAcpNsQeQllhlbKqZEgsMO/29zcqv4cyenyhBKw/ReeKUJP+zJQ5CQxbAx1FjnZMbnvcXmrp0ppP9h4iVS+T5X0UN6AeGNz5BQAX539B2N/n3aYW85MjxAFvgald+vs5ZqxGgErJu4Apq4=;d6TjuiFbs7elQtojBWr0Nw=="
 ---

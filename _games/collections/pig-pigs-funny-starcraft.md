@@ -1001,6 +1001,7 @@ items:
   - pig-flo-hides-14-bases-in-one-game-florencio-files-276-starcraft-2
   - pig-this-whiny-terran-is-just-an-angry-yapping-little-dog-salt-mines-28-starcraft-2
   - pig-winter-is-a-master-salt-extractor-salt-mines-29-starcraft-2
+  - pig-who-is-the-better-sht-talker-harstem-or-special-smacktalk-1-starcraft-2
 
 topics:
   - StarCraft 2

@@ -4,6 +4,37 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/videos/pig-how-do-i-defend-battlecruisers-zvt-newbie-stream.md",
+      "title": "“How do I defend Battlecruisers?” - ZvT - Newbie Stream",
+      "excerpt": "This is a section from my newbie/beginner stream where I analyse a players replay and answer their question. Notes that are shown on screen at some points: https://docs.google.com/document/d/1C87ZA4Zmsx9gaEdbYcDOmJZKe22XzORWQIlZN4AClpI/edit?usp=sharing  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-how-do-i-defend-battlecruisers-zvt-newbie-stream/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-how-do-i-defend-battlecruisers-zvt-newbie-stream/",
+      "originalUrl": "https://youtube.com/watch?v=fefPVib7OjU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fefPVib7OjU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M16S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:33-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fefPVib7OjU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-how-does-reynor-get-ahead-every-single-zvt.md",
       "title": "How does REYNOR get ahead EVERY SINGLE ZvT?",
       "excerpt": "Reynor's ascent in StarCraft in recent years has been startling, culminating in a world champion. I've been very impressed with his early game ZvT, which is just so dominating 🐷 Support PiG: https://www.pigstarcraft.com/support/ -- 🐖 Watch live on https://www.twitch.tv/x5_pig 🎓 For coaching inquiries",
@@ -884,37 +915,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/jnFK2NFn6H8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-defending-terran-all-ins-early-attacks-starcraft-2-tutorial.md",
-      "title": "Defending Terran All Ins & Early Attacks [Starcraft 2 Tutorial]",
-      "excerpt": "In this Starcraft 2 protoss guide/tutorial we learn how to defend early Terran attacks. After watching this how-to, you'll feel very confident against aggressive terran players!  Starcraft 2: Protoss vs Terran | Defending Attacks  Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-defending-terran-all-ins-early-attacks-starcraft-2-tutorial/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-defending-terran-all-ins-early-attacks-starcraft-2-tutorial/",
-      "originalUrl": "https://youtube.com/watch?v=GV9e9WOG4dE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GV9e9WOG4dE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M16S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-06-15T19:10:50-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GV9e9WOG4dE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

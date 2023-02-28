@@ -4,37 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft2-protoss-build-order-guide-dark-templars-425.md",
-      "title": "Starcraft2: Protoss Build Order Guide (Dark Templars @ 4:25!)",
-      "excerpt": "In today's Starcraft 2 guide/lesson we are looking at a very powerful protoss vs zerg build order. We drop dark templars at 4:24 and at the same time harass another bases drones with 3 adepts. Very difficult for zerg to defend.  Protoss Build Order Guide - Protoss vs Zerg - Dark Templar Drop #BuildOrder",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft2-protoss-build-order-guide-dark-templars-425/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft2-protoss-build-order-guide-dark-templars-425/",
-      "originalUrl": "https://youtube.com/watch?v=d3UPyQPRA5M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d3UPyQPRA5M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M33S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-12-10T21:49:34-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/d3UPyQPRA5M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-terran-vs-terran-learn-this-one-weird-trick-to-macro-like-a-gm.md",
       "title": "Terran vs Terran | Learn this one weird trick to macro like a GM",
       "excerpt": "Terran vs Terran | Learn this one weird trick to macro like a GM In this guide we talk about how you can continue to improve your macro into diamond and masters, where everyone is already making scv's consistently. What more could there be right? Let's take a look!  #starcraft #sc2 #terran #tvt  Starcraft",
@@ -980,6 +949,44 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-how-to-nydus-rush.md",
+      "title": "StarCraft 2: HOW-TO NYDUS RUSH!",
+      "excerpt": "How does a top-level player execute a Nydus Rush? Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Guides & Tutorials: https://goo.gl/BEPvJo  In this video I analyse a recent game between Serral and SpeCial. In this match on Backwater LE Serral decides to rush a Nydus Worm with minimal",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-how-to-nydus-rush/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-how-to-nydus-rush/",
+      "originalUrl": "https://youtube.com/watch?v=R2zN8eEaztM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R2zN8eEaztM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M2S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-02-02T04:44:42-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/R2zN8eEaztM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
       ]
     }
   ],

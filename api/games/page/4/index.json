@@ -4,36 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_games/pig-this-whiny-terran-is-just-an-angry-yapping-little-dog-salt-mines-28-starcraft-2.md",
-      "title": "This whiny Terran is just an ANGRY YAPPING LITTLE DOG | Salt Mines #28 - StarCraft 2",
-      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-whiny-terran-is-just-an-angry-yapping-little-dog-salt-mines-28-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-whiny-terran-is-just-an-angry-yapping-little-dog-salt-mines-28-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=nrX0cAFeNT8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nrX0cAFeNT8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nrX0cAFeNT8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-06T15:28:14-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-has-speedruns-a-best-of-7-vs-gumiho.md",
       "title": "StarCraft 2: Has SPEEDRUNS a Best-of-7 vs GuMiho!",
       "excerpt": "Best-of-7 series of high level StarCraft 2 between Has and GuMiho. In this Protoss versus Terran Has decides to speed run the games, as he just simply won't stop cheesing. The issue however, is that he's playing against one of the trickiest Terran players. GuMiho is well familiar with this early game",
@@ -1209,6 +1179,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-11T21:37:04-08:00"
+    },
+    {
+      "path": "_games/pig-failed-cannon-rusher-has-crazy-meltdown-salt-mines-13-starcraft-2.md",
+      "title": "Failed cannon rusher has CRAZY MELTDOWN | Salt Mines #13 - StarCraft 2",
+      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-failed-cannon-rusher-has-crazy-meltdown-salt-mines-13-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-failed-cannon-rusher-has-crazy-meltdown-salt-mines-13-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=7bjEqRj_hBo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7bjEqRj_hBo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M29S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7bjEqRj_hBo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-15T03:24:04-07:00"
     }
   ],
   "nextPage": 5

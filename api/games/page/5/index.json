@@ -4,36 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_games/pig-failed-cannon-rusher-has-crazy-meltdown-salt-mines-13-starcraft-2.md",
-      "title": "Failed cannon rusher has CRAZY MELTDOWN | Salt Mines #13 - StarCraft 2",
-      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-failed-cannon-rusher-has-crazy-meltdown-salt-mines-13-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-failed-cannon-rusher-has-crazy-meltdown-salt-mines-13-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=7bjEqRj_hBo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7bjEqRj_hBo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7bjEqRj_hBo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-15T03:24:04-07:00"
-    },
-    {
       "path": "_games/pig-flos-clever-double-spine-rush-is-foiled-by-himself-florencio-files-275-starcraft-2.md",
       "title": "Flo's clever double spine rush is foiled by... himself | Florencio Files #275 - StarCraft 2",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
@@ -474,44 +444,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-14T04:49:12-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-insane-multi-tasking-serral-vs-clem-best-of-5.md",
-      "title": "StarCraft 2: INSANE Multi Tasking - Serral vs Clem! (Best-of-5)",
-      "excerpt": "Best-of-5 series of top elvel StarCraft 2 between Serral (Zerg) and Clem (Terran). This series was played during the European regionals of Dreamhack Atlanta.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-multi-tasking-serral-vs-clem-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-multi-tasking-serral-vs-clem-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=EYEvpm8d1o4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EYEvpm8d1o4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H7M6S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EYEvpm8d1o4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-02T01:23:58-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-new-maps-reynor-vs-heromarine-best-of-3.md",
@@ -1011,6 +943,44 @@
       "publishedDateTime": "2022-04-29T04:15:35-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-dark-bullies-astrea-with-proxy-hatcheries-best-of-5.md",
+      "title": "StarCraft 2: Dark BULLIES Astrea with Proxy Hatcheries! (Best-of-5)",
+      "excerpt": "Best-of-5 series of high level StarCraft 2 between Dark and Astrea. In this series Dark decides to do Dark things, as he plays hyper aggressive Zergling, Queen, Ravager and Hatchery rushes.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-dark-bullies-astrea-with-proxy-hatcheries-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-dark-bullies-astrea-with-proxy-hatcheries-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=2bGAP74grS0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2bGAP74grS0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M21S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2bGAP74grS0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-28T02:48:49-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-top-tier-the-best-zerg-vs-zerg-of-the-year-best-of-5.md",
       "title": "StarCraft 2: TOP TIER - The BEST Zerg vs Zerg... Of the Year?! (Best-of-5)",
       "excerpt": "One of the best series of Zerg versus Zerg in StarCraft 2 that I've ever seen. A best-of-5 match between Dark and Solar. This series has a little bit of everything, macro, cheese, comebacks, crazy strategies and fantastic micro.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
@@ -1047,6 +1017,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-13T02:08:28-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-new-patch-parasitic-bomb-on-colossus-dark-vs-hero.md",
+      "title": "StarCraft 2: NEW PATCH - Parasitic Bomb on COLOSSUS?! (Dark vs herO)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between Dark (Zerg) and herO (Protoss). This series is played on the new balance patch and is the finals of the ESL Open Cup 155 Korea.  Epic game 1 between Dark and herO: https://youtu.be/_a2Y-qIoLiQ  Support my work: https://patreon.com/lowkotv Lowko Merch:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-patch-parasitic-bomb-on-colossus-dark-vs-hero/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-patch-parasitic-bomb-on-colossus-dark-vs-hero/",
+      "originalUrl": "https://youtube.com/watch?v=-Wy36b8nRko",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-Wy36b8nRko\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M15S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-Wy36b8nRko/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-02T04:37:56-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul.md",

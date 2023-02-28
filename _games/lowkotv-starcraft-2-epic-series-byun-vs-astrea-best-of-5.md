@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=azyuFo14cpI
 type: video
 length: PT1H27S
 publishedDateTime: 2022-12-24T12:57:06Z
-heat: 63
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/azyuFo14cpI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "hU643vMQManDVUHHn51QH2HCogQQAP0tWTQ8c4Bt8vVKrW2hFpX8ud7/7IdIHEncaCzu77iJcQElEt1xV2wWNmpWQjeLVefIyAjew8A8RHYlpwkcLToQt5wq/dhW6eTlwDeGCMcgUoxuseV9M9jTzdcN41OdYJ3WlHIsZXyI+xT25pOhhPGHxvxPZuLs+ZMoe5xt5GbTkvHkmz5v1tAyDdJhItRa7W2KTSknqzNDeZEdLwOZWm+vekfmFU0vGyCFh3ik6tKtubNTI4ytoT0ieiMnHqzYO162MyvI1rp9axTu0H04Lcazm1/hkQbR4puQ5F9wt0Hn4ozafWtOXZjZvEb0hdFPmTFGCgZOBS8pbnm963/iS8SpCNAci/RN5WDpiVKRGWRJpZsV30f8jQF6TXgJ1P1EU8FZYRaUUrKe6XI=;d6cnTCeZGZuCGrtgwQIqjg=="
+secured: "HAJAK59ZhObvFijEs1ePfUCfr65mwx9zh1xNvQrTm6vQFNdPYfKLB+pWd6PZ07PYs4obarMPcI6fko8vkyABbTIcS1O4sbHbVAemUjY2E9ydXz2U2W2uJr7YC7m7+icwZE5bFt5dWHsEYF+GTzMXSfpUG0Uctgo9LFfzP8T+fnX9mw1wbKAsDzWzNkdUR0EzRPBj6DakgqcwlsFKPH7l6+Emjl4coovKqqQu5M82+ZfH6Sioz896tFkdSuVSE5/GX4pAWZFK8Iuc40C9Y/Hr9t7vzL5PLvF32AogfA8iiMxayrEKyFOj/HllT8MBH43GC2n2J6V57WZp8CqoX0ZTs5OSh9PRf10F5N3WQ2hRoiG1TwVKfhHyINluvbLJiTsbB6r67PSVMrlmrnHkuUzQl2Hc1W95beXNXTQ+KJ/6PwY=;eTp0CGAeL5lLiDzQpR0CUA=="
 ---
 

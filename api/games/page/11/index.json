@@ -4,6 +4,43 @@
   "page": 11,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-double-gold-rush-new-base-race-map-royal-blood.md",
+      "title": "StarCraft 2: DOUBLE GOLD RUSH - New Base Race Map?! (Royal Blood)",
+      "excerpt": "In this video I cast several games of StarCraft 2 on a new map called Royal Blood. This map placed 4th overall at the TLMC 17. Despite a short rush distance, this map provides a lot of safety early on by restricting movement of armies and allowing players to expand away from the main attack path. Bases",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-double-gold-rush-new-base-race-map-royal-blood/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-double-gold-rush-new-base-race-map-royal-blood/",
+      "originalUrl": "https://youtube.com/watch?v=3UO6ARLM5mo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3UO6ARLM5mo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M49S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3UO6ARLM5mo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-08T00:07:46-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-epic-game-super-long-action-packed-pro-match-elazer-vs-nice.md",
       "title": "StarCraft 2: EPIC GAME - Super Long Action-Packed Pro Match! (Elazer vs Nice)",
       "excerpt": "One of the longest games of professional StarCraft 2 that I've seen. In this match of Zerg versus Protoss between Elazer and Nice we have a very active match all things considered. Most long games of pro SC2 are two players sitting back, but that is not the case between these two progamers at all.  World",
@@ -1101,43 +1138,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-09-04T05:12:28-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-very-best-of-the-worst-bronze-league-heroes.md",
-      "title": "StarCraft 2: The Very BEST Of The WORST! (Bronze League Heroes)",
-      "excerpt": "A crazy game of Terran versus Protoss between Bronze League players in StarCraft 2. In this match we see some crazy strategies coming into play.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-very-best-of-the-worst-bronze-league-heroes/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-very-best-of-the-worst-bronze-league-heroes/",
-      "originalUrl": "https://youtube.com/watch?v=jdhzJmvrC2Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jdhzJmvrC2Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jdhzJmvrC2Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-12-03T02:22:00-08:00"
     }
   ],
   "nextPage": 12

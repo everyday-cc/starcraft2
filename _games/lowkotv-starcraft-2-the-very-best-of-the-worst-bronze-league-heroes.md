@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-very-best-of
 type: video
 length: PT19M24S
 publishedDateTime: 2020-12-03T10:22:00Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jdhzJmvrC2Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+VPYnR0nuV777KnD4pXw5F1+7/f+w28E56mCvLxFKBktHixkTQqwaTX52sHzE1O+03HhSUc1UYx45vXuj9qivuPcFW4KqtwACRqGJr65KOXX07bZAF4J3kSNC+EFmnlf0ABYl9mAts+OAoR75vhQf94Y8TQLRl5mqX4na5MZNpoQ8MZqIRmGz/Ducv0966yjlQSbocRLmaLdnMk28RJkrkJRPQHjw6vXIU3ofnfKwXWGwYStsmk0zFrElpruA5vyoZLGFUBIt1VBaywcmyPtLcaxiFxhfU2hAmCXdOVPWX0aMukJG9assPJi4zCo4i0rnydlJjMyxkCQ34C+PaK798SRh6+ICEVSS36SvqXz5GCxfkLzfSy6f5Ud6M+zJU5G/ye+CIIxelOqktW09HxD7ZY0vZqmswQ20O3Jna7IjKI=;5DwtP48uSmW+IuD/DSOaFg=="
+secured: "8DonI+GBPK+QlDavo4lVzVB903fJWKJ+FB17pS5+LvytGHdjg3nWZ48iEpM07/TxJWbfWy6BTcobATBeT3hNu4Gr9JKQjdvK5kZdpTAyLbAec+81HfsksF7HhCFTOCBWUbdyMQXhcJn4wsacjwSln/Z0nAwVAUEFquN3JUaUnFwP2XmhbW788ogoKpQfb6TM6k9hJuBX3r7DwQgK8uWJIGmzFdoiR2GphV2swH0z8TbXHieLR+26Vbinl57jjeym8LebtMItuIcWvxhS6Cc0CALG2Lxn7F9RE4TRsI22wjX5IAjiV1vwmwfcC5aHNkXhktAkMe3oDnZ6HgJA1bB4Pr79AviqVASM5tAz4NT1i1RE6715/lSBPqK17lS/8pta70oTD3zmGLsCeQndCcd977KNP+QP4pQxzf3WWxkvs5g=;X3jWvoqWdOYeRqmLK5/1Yg=="
 ---
 

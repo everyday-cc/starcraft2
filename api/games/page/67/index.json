@@ -4,6 +4,35 @@
   "page": 67,
   "value": [
     {
+      "path": "_games/pig-poppin-off-sneaky-sneaky-kaelaris-icyfar-g1.md",
+      "title": "Poppin’ Off! | Sneaky Sneaky Kaelaris ICYFAR G1",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to utilize cloaked and burrowed units as much as posible!  NEW ICYFAR CHALLENGE: \"Oldschool” - bring out your out-dated strats from last year, HOTS/WOL, Starcraft 1 or a completely different",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-poppin-off-sneaky-sneaky-kaelaris-icyfar-g1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-poppin-off-sneaky-sneaky-kaelaris-icyfar-g1/",
+      "originalUrl": "https://youtube.com/watch?v=QtGBmPSDXH4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QtGBmPSDXH4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M29S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QtGBmPSDXH4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-pretty-fly-for-a-widow-mine-the-unlikely-couple-liquid-reign-icyfar-g1.md",
       "title": "Pretty Fly for a Widow Mine - The Unlikely Couple Liquid Reign ICYFAR G1",
       "excerpt": "ATTENTION: ICYFAR Schedule has changed!  In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays that had the most unlikely units pair up!  CURRENT ICYFAR CHALLENGE: \"DIversity Hire\" - Use as many different units as possible. Send submissions to eonblu95@gmail.com",
@@ -882,36 +911,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-11T20:27:49-07:00"
-    },
-    {
-      "path": "_games/pig-roaches-gone-wild-encirclement-icyfar-g3.md",
-      "title": "Roaches gone Wild - Encirclement ICYFAR G3",
-      "excerpt": "CURRENT ICYFAR CHALLENGE:\"Blast from the Past\" - Send in your best replays playing old Heart of the swarm, Wings of Liberty or Brood War Strats! Type !icyfar in my twitch chat (even when I’m not live) and it’ll show you the current challenge and where to send your replays https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-roaches-gone-wild-encirclement-icyfar-g3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-roaches-gone-wild-encirclement-icyfar-g3/",
-      "originalUrl": "https://youtube.com/watch?v=nQoD0osLCkM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nQoD0osLCkM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M45S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nQoD0osLCkM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
     }
   ],
   "nextPage": 68

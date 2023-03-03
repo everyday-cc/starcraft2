@@ -4,6 +4,36 @@
   "page": 81,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-whack-a-mole-the-florencio-files-86.md",
+      "title": "StarCraft 2 - Whack A Mole | The Florencio Files #86",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.- Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-whack-a-mole-the-florencio-files-86/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-whack-a-mole-the-florencio-files-86/",
+      "originalUrl": "https://youtube.com/watch?v=sC78BRNENE4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sC78BRNENE4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M49S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sC78BRNENE4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-08-18T09:00:11-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-what-the-cuck-diamond-in-the-ruff-9.md",
       "title": "StarCraft 2 - What the Cuck!? | Diamond in the RuFF #9",
       "excerpt": "Please check out this link and maybe consider helping RuFF: https://www.gofundme.com/f/ruff-factory-home?utm_source=twitter&utm_medium=social&utm_campaign=p_cf+share-flow-1  Don't forget to show Ruff some love! Twitter: https://twitter.com/RuFF_SC2 Twitch: https://www.twitch.tv/ruff13 Youtube: https://www.youtube.com/user/WMRuFFKiD",
@@ -870,36 +900,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-03T17:41:30-07:00"
-    },
-    {
-      "path": "_games/pig-stephanos-back-baby-blast-from-the-past-icyfar-g1.md",
-      "title": "Stephano's Back Baby - Blast from the Past ICYFAR  G1",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to play “old school” builds of broodwar or even SC2 WoL or HotS!  CURRENT ICYFAR CHALLENGE: \"Toddler Tantrums\" - Send in your replays where your ladder opponents act their age! Type !icyfar",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-stephanos-back-baby-blast-from-the-past-icyfar-g1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-stephanos-back-baby-blast-from-the-past-icyfar-g1/",
-      "originalUrl": "https://youtube.com/watch?v=06-aUcB0nrA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/06-aUcB0nrA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M19S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/06-aUcB0nrA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
     }
   ],
   "nextPage": 82

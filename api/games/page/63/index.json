@@ -4,6 +4,35 @@
   "page": 63,
   "value": [
     {
+      "path": "_games/pig-im-calling-my-cousins-forced-quarantine-icyfar-g2.md",
+      "title": "\"I’m calling my cousins!\" | Forced Quarantine ICYFAR G2",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to contain their opponent as much as possible.  NEW ICYFAR CHALLENGE: \"Spit Balls\" - Harass your opponent even more than that subsitute teacher you made cry in 5th grade. Send submissions",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-im-calling-my-cousins-forced-quarantine-icyfar-g2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-im-calling-my-cousins-forced-quarantine-icyfar-g2/",
+      "originalUrl": "https://youtube.com/watch?v=KvSqcdI4YFA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KvSqcdI4YFA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M10S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KvSqcdI4YFA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-im-going-to-drop-you-now-just-wait-and-see-fakeout-g1.md",
       "title": "“I’m going to drop you now, just wait and see” - Fakeout - G1",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players had to show their best Fakeouts - tricking their opponents with fake rushes, drops and tech paths!\r \r THIS WEEKS ICYFAR CHALLENGE: 1A - You arent allowed to micro your units. Interpretation is as always up to you! Send submissions",
@@ -854,35 +883,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-06-21T07:24:38-07:00"
-    },
-    {
-      "path": "_games/pig-like-a-boss-asserting-dominance-icyfar-g2.md",
-      "title": "Like a Boss! | Asserting Dominance ICYFAR G2",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they announced their strategy to the opponent.   NEW ICYFAR CHALLENGE: \"Down and Dirty\" - You can't go past 35 workers! Send submissions to fluxiorsc@gmail.com as attachment AND only ICYFAR as the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-like-a-boss-asserting-dominance-icyfar-g2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-like-a-boss-asserting-dominance-icyfar-g2/",
-      "originalUrl": "https://youtube.com/watch?v=lUy0jmWbVtA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lUy0jmWbVtA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M44S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lUy0jmWbVtA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
     }
   ],
   "nextPage": 64

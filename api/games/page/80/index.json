@@ -4,37 +4,6 @@
   "page": 80,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-the-roach-that-refuses-to-die-florencio-files-189.md",
-      "title": "StarCraft 2 - THE ROACH THAT REFUSES TO DIE | Florencio Files #189",
-      "excerpt": "Want the world to see you taking your opponent to Dicktown? You can now hire PiG to cast your game Florencio Files Style! Email pigrandom88@gmail.com for more info!  I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-roach-that-refuses-to-die-florencio-files-189/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-roach-that-refuses-to-die-florencio-files-189/",
-      "originalUrl": "https://youtube.com/watch?v=Oae7ZR5UrTY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Oae7ZR5UrTY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M9S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Oae7ZR5UrTY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-12-04T15:31:31-08:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-the-search-begins-smooth-brain-auditions-1.md",
       "title": "StarCraft 2 - THE SEARCH BEGINS! | Smooth Brain Auditions #1",
       "excerpt": "PiG has commenced the search for the next Smooth Brain to feature on youtube. Will we unearth the next Florencio, Boom, PrintF etc? Or are these brains wrinkly AF?  🔥 Are you the next SMOOTH BRAIN? Send your replay to RateMyStarcraft@gmail.com to audition. Add title (\"Smooth Brain Audition\") and to",
@@ -901,6 +870,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-03-17T05:22:06-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-wake-up-and-smell-the-sewerage-beastyqt-the-florencio-files-50.md",
+      "title": "StarCraft 2 - Wake up and Smell the Sewerage BeastyQt! | The Florencio Files #50",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch:  https://www.twitch.tv/flol2encio  Florencios Youtube:  https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA  Florencios Twitter:  https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-wake-up-and-smell-the-sewerage-beastyqt-the-florencio-files-50/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-wake-up-and-smell-the-sewerage-beastyqt-the-florencio-files-50/",
+      "originalUrl": "https://youtube.com/watch?v=QN8funzu6NM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QN8funzu6NM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M4S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QN8funzu6NM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-05-01T12:45:04-07:00"
     }
   ],
   "nextPage": 81

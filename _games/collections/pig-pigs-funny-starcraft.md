@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 61
+heat: 62
 
 provider:
   name: PiG
@@ -1004,6 +1004,8 @@ items:
   - pig-who-is-the-better-sht-talker-harstem-or-special-smacktalk-1-starcraft-2
   - pig-the-dumb-strat-that-broke-my-brain-icyfar-budget-battles-starcraft-2
   - pig-how-do-people-like-this-exist-salt-mines-30-starcraft-2
+  - pig-beating-terran-with-mass-drones-workers-only-to-grandmaster-1-starcraft-2
+  - pig-when-winning-means-makes-you-a-devil-worshipper-salt-mines-31-starcraft-2
 
 topics:
   - StarCraft 2

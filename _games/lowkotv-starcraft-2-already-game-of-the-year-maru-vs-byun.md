@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=5Y0kqY6RnW8
 type: video
 length: PT42M25S
 publishedDateTime: 2023-02-19T14:10:38Z
-heat: 92
+heat: 106
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5Y0kqY6RnW8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Biu955svDZbLXwjYLlZFqXXzrRZiyNjkKH8QrlPkOVqIPjRTyFIRITAvJm2jYV0vB98Qdd8fh0ZDJ+qDON2eJIV0ftTEbuYWeTPs0gik2ccn2uvL6RcYSsI6LiTDhZXegbiXoKy3pwllhRu6LU1gzT27BLYiSMchMXT8dMQIzJ33EOoqPcGUCfT/YNnjmwkjlZCEQ1BXaipk/MoUajK3n8iuFZ+UXOO1/7Yz4P7x2p0izrB8PUu7hrW8+8ovseLdJKwVQkkuqFrf6xRF5az9CzmhuboW8sXiV0VmIMbbMJwAlPZQj75veZDnATsq6NEjIP12fhgyDG2pIb7rYeAy+TfBFMGMPAPE2VMaQy3VWvQXFArXKomy5+jzP3TiyUGUia8CS1mlGO8D4FTGXnlM5wxHw+rt437R3tkPXnawREE=;7kZEq6MaBkAYF8stS5rlng=="
+secured: "ZoydsZOUC+sCM8tvMA6mh/89A9EHrvTL+vZArFKa1g0D84d+l7RhOGRuKy4tEEJKskNrm4nsdyYdnBJsx9qXtgTS3f33riluqubqs+/SCcTq/i5PgrI7sn+dnXIhfRAG6hV2APj/OQ0pK8/C5mIbhtYtZGUflfbM2tAd4w7uK5XLWLdm4f8qTgK6LuaTSKWNH9e3ypQSBtDG+g4NDWzBK8o7HfA1gn997VKVpGhcpA9GeczVUGybslnNhuJ/r1KH7j/qF81hrhArREOIGVClO7z+1pfhI4jXwz650CaBKDtbibR9L2MJ/Kh+OVuqaavwOB8D5tarlzElrGJeVPQbjKjHa52asL1xZo42UdbRt3Q3nB2IhLOl8e4iZjzmpn+yzNQckHQ7tWR4g4wzdacImeapdbYRiTwBhNGrGP+7swM=;ee9zobGwnhbBbSQuEm6KOQ=="
 ---
 

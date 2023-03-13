@@ -4,6 +4,83 @@
   "page": 30,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-beautiful-zerg-vs-terran.md",
+      "title": "StarCraft 2: BEAUTIFUL Zerg vs Terran!",
+      "excerpt": "An awesome match of Zerg vs Terran between Solar and Bunny. Subscribe for more videos: http://lowko.tv/youtube Intense Terran vs Terran: https://goo.gl/gmjtDH  In this Zerg versus Terran cast I cover a high level professional game of StarCraft 2. Both players decide to play a \"tier based\" style. Meaning",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-beautiful-zerg-vs-terran/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-beautiful-zerg-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=iU0-YGcJbLg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iU0-YGcJbLg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M5S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iU0-YGcJbLg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-04-08T02:10:00-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-best-of-5-strategy-variety-zest-vs-drg.md",
+      "title": "StarCraft 2: BEST-OF-5 STRATEGY VARIETY! (Zest vs DRG)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Zest and DRG. In this series we see a variety of strategies being played by both players. From early game Roach rushes to late game Brood Lord transitions to Proxy Hatchery Spine Crawler pushes.  OlimoLeague on Patreon: https://www.patreon.com/olimoley",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-of-5-strategy-variety-zest-vs-drg/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-of-5-strategy-variety-zest-vs-drg/",
+      "originalUrl": "https://youtube.com/watch?v=6oeHwtoI_Wg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6oeHwtoI_Wg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M12S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6oeHwtoI_Wg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-05-21T03:32:31-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-best-of-7-series.md",
       "title": "StarCraft 2: BEST-OF-7 SERIES!",
       "excerpt": "PtitDrogo versus Reynor in a best-of-7 series. Subscribe for more videos: http://lowko.tv/youtube Professional cheesing: https://goo.gl/APqMmJ  A very fun series that is centered around the mid-game. While both players look a little shaky from moment to moment, there is no denying that they are some",
@@ -1064,83 +1141,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-10-05T04:51:13-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-byun-vs-drg-in-an-epic-slugfest.md",
-      "title": "StarCraft 2: ByuN vs DRG in an EPIC Slugfest!",
-      "excerpt": "ByuN (Terran) and DRG (Zerg) face off against each other in an epic game of professional StarCraft 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-vs-drg-in-an-epic-slugfest/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-vs-drg-in-an-epic-slugfest/",
-      "originalUrl": "https://youtube.com/watch?v=eo48c_Fc_2Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eo48c_Fc_2Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M46S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eo48c_Fc_2Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-12T03:07:16-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-byun-vs-rogue-on-treadmill-crazy-new-map.md",
-      "title": "StarCraft 2: ByuN vs Rogue on TREADMILL! (Crazy New Map)",
-      "excerpt": "This map called \"Treadmill\" just came in fifth in the most recent StarCraft 2 map tournament. In this video I cast a game on this crazy map between Rogue and ByuN. It features some very unusual designs which I personally really like. Such as a chain of speed circles at the top of the map, multiple high",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-vs-rogue-on-treadmill-crazy-new-map/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byun-vs-rogue-on-treadmill-crazy-new-map/",
-      "originalUrl": "https://youtube.com/watch?v=kt5FiW-67Bw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kt5FiW-67Bw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M8S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kt5FiW-67Bw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-15T03:52:09-07:00"
     }
   ],
   "nextPage": 31

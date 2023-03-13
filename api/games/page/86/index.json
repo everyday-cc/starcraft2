@@ -4,6 +4,64 @@
   "page": 86,
   "value": [
     {
+      "path": "_games/pig-what-happens-when-pros-get-300-energy-pigs-laboratory-starcraft-2.md",
+      "title": "What happens when Pros get 300% ENERGY? | PiG's Laboratory - StarCraft 2",
+      "excerpt": "As part of PiG's Laboratory, I challenged StarCraft 2 pros to play with 300% energy! Some things will definitely break because of this! Check out other PiG's Laboratory videos in the playlist: https://youtube.com/playlist?list=PLFUDU8AOevUd-zdmPIHGBi7xWwtua9Gtr -- 🐷 Second Channel for Learning StarCraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-what-happens-when-pros-get-300-energy-pigs-laboratory-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-what-happens-when-pros-get-300-energy-pigs-laboratory-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=QVdiDz-bamE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QVdiDz-bamE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M30S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QVdiDz-bamE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-13T00:01:42-07:00"
+    },
+    {
+      "path": "_games/pig-what-happens-when-pros-have-maphacks-no-fog-of-war-mod-pigs-laboratory-starcraft-2.md",
+      "title": "What happens when Pros have Maphacks? (No fog of war mod!) | PiG's Laboratory - StarCraft 2",
+      "excerpt": "We paid Special and Cham to play on the No fog of war mod, basically giving them maphacks! What happens when pros can see everything? Check out the PiG's Laboratory playlist: https://youtube.com/playlist?list=PLFUDU8AOevUd-zdmPIHGBi7xWwtua9Gtr -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-what-happens-when-pros-have-maphacks-no-fog-of-war-mod-pigs-laboratory-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-what-happens-when-pros-have-maphacks-no-fog-of-war-mod-pigs-laboratory-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=u73es6uSqhw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u73es6uSqhw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M35S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/u73es6uSqhw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-10T19:40:59-07:00"
+    },
+    {
       "path": "_games/pig-what-happens-when-pros-have-maphacks-to-prove-a-point-no-fog-of-war-mod-pigs-lab-starcraft-2.md",
       "title": "What happens when Pros have Maphacks TO PROVE A POINT? (No fog of war mod) | PiG's Lab - StarCraft 2",
       "excerpt": "As part of PiG's Laboratory, I challenged StarCraft 2 pros to play with MAPHACKS on & to play with 50% hit points on everything. Special claims that Protoss is OP in any of these challenges. Lets see how his Protoss goes against Astrea's Terran to settle this balance debate! -- 🐷 Second Channel for",
@@ -356,37 +414,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-when-the-terran-build-confuses-the-zerg-player-2-tvz-games-diamond-in-the-ruff-66-starcraft-2.md",
-      "title": "When the Terran Build Confuses the Zerg Player (2 TvZ games) | Diamond in the Ruff #66 - StarCraft 2",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-the-terran-build-confuses-the-zerg-player-2-tvz-games-diamond-in-the-ruff-66-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-the-terran-build-confuses-the-zerg-player-2-tvz-games-diamond-in-the-ruff-66-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=RxpSjmptAuM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RxpSjmptAuM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RxpSjmptAuM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-03-09T17:38:59-08:00"
     },
     {
       "path": "_games/pig-when-you-both-think-youre-dead-but-youre-just-stupid-santa-claws-5-starcraft-2.md",
@@ -850,35 +877,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/F8t74XFcFgU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-wings-of-liberty-strats-in-2017-icyfar-games-3-4-pig-daily-108.md",
-      "title": "Wings of Liberty Strats in 2017 - ICYFAR - Games 3-4 - PiG Daily #108",
-      "excerpt": "THIS WEEKS ICYFAR: No Micro - Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as title! Lastest submission until the second daily of the week. 23/1/17 (Tip: be creative with your interpretation) Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-wings-of-liberty-strats-in-2017-icyfar-games-3-4-pig-daily-108/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-wings-of-liberty-strats-in-2017-icyfar-games-3-4-pig-daily-108/",
-      "originalUrl": "https://youtube.com/watch?v=ErO_yOoWQSs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ErO_yOoWQSs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M8S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ErO_yOoWQSs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

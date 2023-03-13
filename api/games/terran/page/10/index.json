@@ -4,6 +4,83 @@
   "page": 10,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-beautiful-zerg-vs-terran.md",
+      "title": "StarCraft 2: BEAUTIFUL Zerg vs Terran!",
+      "excerpt": "An awesome match of Zerg vs Terran between Solar and Bunny. Subscribe for more videos: http://lowko.tv/youtube Intense Terran vs Terran: https://goo.gl/gmjtDH  In this Zerg versus Terran cast I cover a high level professional game of StarCraft 2. Both players decide to play a \"tier based\" style. Meaning",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-beautiful-zerg-vs-terran/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-beautiful-zerg-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=iU0-YGcJbLg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iU0-YGcJbLg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M5S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iU0-YGcJbLg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-04-08T02:10:00-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-big-widow-mine-connections.md",
+      "title": "StarCraft 2: BIG WIDOW MINE CONNECTIONS!",
+      "excerpt": "Professional match of StarCraft 2 between Goblin and Clem. Subscribe for more videos: http://lowko.tv/youtube uThermal vs Solar: https://goo.gl/LDM2UE  In this Protoss vs Terran I commentate a game where the Protoss decides to play very aggressive early on. Terran players are currently struggling quite",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-big-widow-mine-connections/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-big-widow-mine-connections/",
+      "originalUrl": "https://youtube.com/watch?v=qqxqwK6edZc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qqxqwK6edZc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M49S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qqxqwK6edZc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-02-05T01:58:53-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-blanketing-psi-storms-parting-vs-innovation.md",
       "title": "StarCraft 2: BLANKETING PSI STORMS! (PartinG vs INnoVation)",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between PartinG and INnoVation. In this series we see both players take a similiar approach in each game, but a different route in getting there. INnoVation has always been well known for playing a very mechanical and almost robotic style of Terran where he",
@@ -1076,83 +1153,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2016-11-26T06:56:06-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-cast-doom-drops-byun-vs-innovation.md",
-      "title": "StarCraft 2 Cast: DOOM DROPS! (ByuN vs INnoVation)",
-      "excerpt": "A best of three series between ByuN and INnoVation. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/t6g7aW  In this series of Terran versus Terran we watch two of the best players when it comes to the match-up in all of StarCraft 2. Both INnoVation and ByuN are",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-doom-drops-byun-vs-innovation/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cast-doom-drops-byun-vs-innovation/",
-      "originalUrl": "https://youtube.com/watch?v=YjlXsDzBVlA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YjlXsDzBVlA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M54S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YjlXsDzBVlA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-02-04T04:54:29-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-cast-highest-level-zerg-vs-terran-byun-vs-dark.md",
-      "title": "StarCraft 2 Cast: HIGHEST LEVEL Zerg vs Terran - ByuN vs Dark!",
-      "excerpt": "The highest level of Zerg versus Terran that StarCraft 2 has to offer. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/fi5EXG  It has been far too long since I casted games of StarCraft 2: Legacy of the Void. What better way to get back into it than to cast a",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-highest-level-zerg-vs-terran-byun-vs-dark/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cast-highest-level-zerg-vs-terran-byun-vs-dark/",
-      "originalUrl": "https://youtube.com/watch?v=lN-SxSmnmyY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lN-SxSmnmyY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M42S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lN-SxSmnmyY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2016-11-16T08:34:04-08:00"
     }
   ],
   "nextPage": 11

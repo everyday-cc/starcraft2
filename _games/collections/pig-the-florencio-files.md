@@ -285,6 +285,7 @@ items:
   - pig-0-iq-bunker-makes-cheeser-rage-florencio-files-274-starcraft-2
   - pig-flos-clever-double-spine-rush-is-foiled-by-himself-florencio-files-275-starcraft-2
   - pig-flo-hides-14-bases-in-one-game-florencio-files-276-starcraft-2
+  - pig-flo-pulls-off-69-iq-defense-after-baiting-all-in-florencio-files-277-starcraft-2
 
 topics:
   - StarCraft 2

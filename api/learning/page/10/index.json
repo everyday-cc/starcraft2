@@ -639,6 +639,36 @@
       ]
     },
     {
+      "path": "_learning/videos/pig-adjusting-mouse-keyboard-and-ingame-settings.md",
+      "title": "Adjusting Mouse, Keyboard and Ingame Settings",
+      "excerpt": "This is a highlight from my newbie/beginner stream -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-adjusting-mouse-keyboard-and-ingame-settings/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-adjusting-mouse-keyboard-and-ingame-settings/",
+      "originalUrl": "https://youtube.com/watch?v=lzPKahqhpo4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lzPKahqhpo4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M1S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:42:45-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lzPKahqhpo4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-after-dealing-damage-how-do-i-defend-the-counterattack-gold-tvz-newbie-stream.md",
       "title": "“After Dealing Damage how do I defend the counterattack?” Gold TvZ - Newbie Stream",
       "excerpt": "This is a highlight from my newbie/beginner stream where I analyse a players replay who struggles vs zerg counterattacks -- Watch live at https://www.twitch.tv/x5_pig",
@@ -963,36 +993,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/BlZO7DAKUVs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-analysing-replays-refining-play-rather-than-changing-strategy-coaching-session.md",
-      "title": "Analysing Replays - Refining play rather than changing strategy - coaching session",
-      "excerpt": "I coach a zerg player on analysing replays and looking for ways to refine play rather than adjust strategy -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-analysing-replays-refining-play-rather-than-changing-strategy-coaching-session/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-analysing-replays-refining-play-rather-than-changing-strategy-coaching-session/",
-      "originalUrl": "https://youtube.com/watch?v=Yy6FtJWvAKY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yy6FtJWvAKY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M18S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:44:33-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Yy6FtJWvAKY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

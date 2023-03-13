@@ -4,6 +4,36 @@
   "page": 11,
   "value": [
     {
+      "path": "_learning/videos/pig-analysing-replays-refining-play-rather-than-changing-strategy-coaching-session.md",
+      "title": "Analysing Replays - Refining play rather than changing strategy - coaching session",
+      "excerpt": "I coach a zerg player on analysing replays and looking for ways to refine play rather than adjust strategy -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-analysing-replays-refining-play-rather-than-changing-strategy-coaching-session/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-analysing-replays-refining-play-rather-than-changing-strategy-coaching-session/",
+      "originalUrl": "https://youtube.com/watch?v=Yy6FtJWvAKY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yy6FtJWvAKY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M18S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Yy6FtJWvAKY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-angry-coaching-thingy-with-wintersc-pigs-pov.md",
       "title": "Angry Coaching thingy with WinterSC! (PiGs POV)",
       "excerpt": "Hello there!  This video is actually a few weeks old by now, though i figured you guys might still enjoy it, so there you go!!  Like the content? Then consider to leave a thumbs up and subscribe! ;) Love the content a lot? Then please consider becoming a member ;) https://www.youtube.com/channel/UC9OluGthYmZo0vsF9IjicFg/join",
@@ -878,36 +908,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/YuNlzbmcD0M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-gm-random-on-zvp-hydra-ling-bane.md",
-      "title": "Coaching GM Random on ZvP Hydra-ling-bane",
-      "excerpt": "I coach a GM Random player on how to improve his Hydra-ling-bane ZvP -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-gm-random-on-zvp-hydra-ling-bane/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-gm-random-on-zvp-hydra-ling-bane/",
-      "originalUrl": "https://youtube.com/watch?v=t8dwI-wsC0o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t8dwI-wsC0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M1S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-05-11T02:13:22-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/t8dwI-wsC0o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

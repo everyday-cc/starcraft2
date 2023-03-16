@@ -1008,6 +1008,7 @@ items:
   - pig-when-winning-makes-you-a-devil-worshipper-salt-mines-31-starcraft-2
   - pig-flo-pulls-off-69-iq-defense-after-baiting-all-in-florencio-files-277-starcraft-2
   - pig-guess-the-secret-pro-player-flash-vs-bisu-hidden-name-tournament-2-part-1-starcraft-2
+  - pig-guess-the-secret-pro-part-2-jaedong-vs-boxer-hidden-name-tournament-2-starcraft-2
 
 topics:
   - StarCraft 2

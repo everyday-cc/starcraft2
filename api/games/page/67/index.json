@@ -4,6 +4,35 @@
   "page": 67,
   "value": [
     {
+      "path": "_games/pig-no-upgrades-i-cast-your-freakin-awesome-replays-g2-the-pig-daily-171.md",
+      "title": "No Upgrades - I Cast Your Freakin Awesome Replays - G2 - The PiG Daily #171",
+      "excerpt": "In this week’s ICYFAR players had to win without making any attack or armour upgrades! ICYFAR is a fun weekly challenge where I cast games submitted by viewers of all skill levels.\r  \r Follow me on social media to keep up to date: https://twitter.com/x5_PiG https://twitter.com/x5_PiG https://www.instagram.com/pigsc2/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-no-upgrades-i-cast-your-freakin-awesome-replays-g2-the-pig-daily-171/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-no-upgrades-i-cast-your-freakin-awesome-replays-g2-the-pig-daily-171/",
+      "originalUrl": "https://youtube.com/watch?v=HjqSaE1QNCI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HjqSaE1QNCI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M5S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HjqSaE1QNCI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-no-upgrades-i-cast-your-freakin-awesome-replays-g3-the-pig-daily-171.md",
       "title": "No Upgrades - I Cast Your Freakin Awesome Replays - G3 - The PiG Daily #171",
       "excerpt": "In this week’s ICYFAR players had to win without making any attack or armour upgrades! ICYFAR is a fun weekly challenge where I cast games submitted by viewers of all skill levels.\r  \r Follow me on social media to keep up to date: https://twitter.com/x5_PiG https://twitter.com/x5_PiG https://www.instagram.com/pigsc2/",
@@ -853,35 +882,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/vZsuSrqE_4g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-pig-has-a-stroke-the-no-swearing-challenge-icyfar-backstabs-compilation.md",
-      "title": "PiG HAS A STROKE - THE NO SWEARING CHALLENGE | ICYFAR \"Backstabs!\" Compilation",
-      "excerpt": "Can PiG go just 1 hour without swearing (or using crude language or innuendos)? Seriously hilarious challenge for PiG only, because no one else relies so much on swearing and innuendos like he does! The penalty for each infraction was adding 150 seconds to the subathon timer.  0:00 Game 1 30:31 Game",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-pig-has-a-stroke-the-no-swearing-challenge-icyfar-backstabs-compilation/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-pig-has-a-stroke-the-no-swearing-challenge-icyfar-backstabs-compilation/",
-      "originalUrl": "https://youtube.com/watch?v=L9lHOmkhGcI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L9lHOmkhGcI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M47S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/L9lHOmkhGcI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

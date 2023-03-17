@@ -4,6 +4,44 @@
   "page": 33,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-clem-vs-reynor-best-of-5.md",
+      "title": "StarCraft 2: CLEM vs REYNOR! (Best-of-5)",
+      "excerpt": "A best-of-5 series of top level StarCraft 2 between Reynor and Clem.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-clem-vs-reynor-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-clem-vs-reynor-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=0EHoX407f7o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0EHoX407f7o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H7M6S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0EHoX407f7o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-04-17T03:16:55-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-clems-epicly-useless-micro-trick-vs-neeb-best-of-5.md",
       "title": "StarCraft 2: Clem's EPIC(LY USELESS) Micro Trick vs Neeb! (Best-of-5)",
       "excerpt": "Best-of-5 series of professional StarCraft 2 between Clem (Terran) and Neeb (Protoss).  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips: https://www.youtube.com/lowkoclips  Be part of the",
@@ -1101,44 +1139,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-10-07T02:50:53-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-disgusting-protoss-cheese.md",
-      "title": "StarCraft 2: Disgusting Protoss Cheese!",
-      "excerpt": "Cheese into Cheese into... Proxy expansion? A Platinum League match of Protoss vs Terran in StarCraft 2 with an extremely close ending.  Get more videos & support my work: http://www.patreon.com/lowkotv  If you have an awesome game of StarCraft 2 you would like me to cast, you can submit it to replays@lowko.tv.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-disgusting-protoss-cheese/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-disgusting-protoss-cheese/",
-      "originalUrl": "https://youtube.com/watch?v=QSOoquKSCzk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QSOoquKSCzk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M12S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QSOoquKSCzk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-13T01:56:24-08:00"
     }
   ],
   "nextPage": 34

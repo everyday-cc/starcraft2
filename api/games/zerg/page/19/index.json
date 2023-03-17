@@ -4,6 +4,39 @@
   "page": 19,
   "value": [
     {
+      "path": "_games/pig-hot-damn-thats-a-lot-of-zerg-twitch-plays-pig-53.md",
+      "title": "Hot Damn That’s a LOT of Zerg! | Twitch Plays PiG #53",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-hot-damn-thats-a-lot-of-zerg-twitch-plays-pig-53/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-hot-damn-thats-a-lot-of-zerg-twitch-plays-pig-53/",
+      "originalUrl": "https://youtube.com/watch?v=fjfcHFIKr5M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fjfcHFIKr5M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M7S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fjfcHFIKr5M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-08T14:00:06-07:00"
+    },
+    {
       "path": "_games/pig-how-quickly-can-dark-solar-dispose-of-a-noob-me-ept-na-holdout-challenge-starcraft-2.md",
       "title": "How quickly can DARK & SOLAR dispose of a noob (ME)? | EPT NA Holdout Challenge - StarCraft 2",
       "excerpt": "Want to play against Dark? The next Holdout Challenge will be held on 19th August 5pm PDT! For details see the Patreon post: https://www.patreon.com/posts/dark-holdout-70272758  Dark and Solar are ABSOLUTE BEASTS! Let's see how long PiG held on for in this unofficial Holdout Challenge. Each series was",
@@ -92,66 +125,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-03T15:29:45-07:00"
-    },
-    {
-      "path": "_games/pig-how-quickly-can-scarlett-destroy-maphackers-part-2-holdout-challenge-starcraft-2.md",
-      "title": "How quickly can SCARLETT destroy MAPHACKERS? (Part 2) | Holdout Challenge - StarCraft 2",
-      "excerpt": "We paid Scarlett to do the Maphacker Challenge - like a Holdout Challenge, but noobs now have MAPHACKS!  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-scarlett-destroy-maphackers-part-2-holdout-challenge-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-scarlett-destroy-maphackers-part-2-holdout-challenge-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=ZEeG7r-nF90",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZEeG7r-nF90\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M36S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZEeG7r-nF90/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-25T02:10:22-07:00"
-    },
-    {
-      "path": "_games/pig-how-quickly-can-scarlett-destroy-maphackers-part-3-holdout-challenge-starcraft-2.md",
-      "title": "How quickly can SCARLETT destroy MAPHACKERS? (Part 3) | Holdout Challenge - StarCraft 2",
-      "excerpt": "We paid Scarlett to do the Maphacker Challenge - like a Holdout Challenge, but noobs now have MAPHACKS!  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-scarlett-destroy-maphackers-part-3-holdout-challenge-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-scarlett-destroy-maphackers-part-3-holdout-challenge-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=pZ54HXvS2VY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pZ54HXvS2VY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M55S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pZ54HXvS2VY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-05T18:29:52-07:00"
     },
     {
       "path": "_games/pig-icyfar-new-unitsabilities-g1-vibes-burrowed-infestor-tactics-the-pig-daily-96.md",
@@ -709,6 +682,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-solar-got-nuked-again-how-is-he-the-unluckiest-sc2-player-ever.md",
+      "title": "Solar got Nuked AGAIN: How is he the unluckiest SC2 player EVER?",
+      "excerpt": "Subscribe to @PiGCasts for more Pro videos 🐷OMG ITS HAPPENED AGAIN! Here's a recount of his crazy bad luck plus the new nuke against TIME -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-solar-got-nuked-again-how-is-he-the-unluckiest-sc2-player-ever/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-solar-got-nuked-again-how-is-he-the-unluckiest-sc2-player-ever/",
+      "originalUrl": "https://youtube.com/watch?v=muvH3Mtm9Ig",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/muvH3Mtm9Ig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M21S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/muvH3Mtm9Ig/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-08T17:12:40-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-19-minute-tvz-musketeer-transition-the-florencio-files-158.md",

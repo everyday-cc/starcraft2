@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=l56awCUm1pA
 type: video
 length: PT31M25S
 publishedDateTime: 2022-12-14T10:51:51Z
-heat: 52
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l56awCUm1pA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UZudcLCzRezp7Ll+83e+2RcehJgoLrKh33jErXwVoBB/KjX8Bzk/S8iAxKJ1LX9opSlus/19KKAVWCAqfs/pxGfrENdnb522yYKtP6AcqXnH6JJ5G4NV7DN5gf6UvVMOJzhaeONB2pFylYjtlLjEwuchX52Iu/yNmkQlBns1F54nQnK7judMClE8GaK1JeNqyVfJrMk3AV/W4sEKYpuqmDX3kyT/cnK2mfQ9cJ75G5aQwGzx123QhaseHXCyDJrxU62UW2nNYNaaq8m1DpQWxQfoHoYak+NLRKAn/XpDIlR4hSFMjOQmjqL8fi9hUkwagetg9FVr9E1yjDdUX8FjAzs+wpjwjn0Uc3Xf+SLWTGmXY5xYAh1garpEXa4tqUFP6xK5BhxU1hsEMf6GpnWHKOvmB6iMZBCdIgLW39dI4qo=;jhp9pGKfbM1ga7nJapbRPg=="
+secured: "C1mSvLHec0mb1ehsMGMKG/vkfxS8j/NHM4A3l3O9z2hI9VZcMqPK6OlrDn6CmF1ma2fieiujtg1wmnzJBEu0R/dSYJPiDXJqzpsb3gtXAsvB8NH19IcaPDca7qLvWyeqchAbfftbUt2XckrvD4MkBIQu8IgPNQwXwHlBaksomPnuLwOjc3SVKXvxPRW7s+a1HKZ4Lb4LJNEzqD9iA2/riaXObn6bVDAUAOcWQbRTGrtUtDuf+ViyibJJHnHr9Yz9bGIuzusWt+Kv0koC7SxOeWKviuGjWY10WCQkiDoTwSc3bsQCZjgQBkAn3rhoBZmMubXk5DKS9Y6fuf3N/mqjuPdeYTY4w2Ub04MPDSdH2Kk6VuMZokPgIlShrjqFRYeCH7OuSSBpxlcP3Igbx3Roaj76VQycr5CNhhIV700Qt18=;R7tnyLLri5FNihLCkQ5OLA=="
 ---
 

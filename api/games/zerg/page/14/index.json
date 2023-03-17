@@ -4,6 +4,84 @@
   "page": 14,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-reynor-as-protoss-again-kelazhur-vs-reynor.md",
+      "title": "StarCraft 2: REYNOR AS PROTOSS... AGAIN! (Kelazhur vs Reynor)",
+      "excerpt": "Reynor decides to pick Protoss up again in a recent tournament. In this video I cast a best-of-3 series at the professional level of StarCraft 2 between Kelazhur and Reynor, a Terran versus Protoss.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynor-as-protoss-again-kelazhur-vs-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynor-as-protoss-again-kelazhur-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=Gvbv5On206Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gvbv5On206Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT48M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Gvbv5On206Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-26T04:40:37-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-reynor-playing-protoss-bly-vs-reynor.md",
+      "title": "StarCraft 2: REYNOR PLAYING PROTOSS?! (Bly vs Reynor)",
+      "excerpt": "Since there are not a lot of big offline tournaments on the horizon, a few SC2 pro gamers have decided to rank up their offraces over the last week or two in StarCraft 2. In the case of Reynor, one of the best Zerg players in the world, he has been playing a significant amount of Protoss and also Terran.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynor-playing-protoss-bly-vs-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynor-playing-protoss-bly-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=WnOibyHGg00",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WnOibyHGg00\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WnOibyHGg00/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-03T03:13:26-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-reynor-plays-protoss-vs-serral.md",
       "title": "StarCraft 2: Reynor Plays PROTOSS vs Serral?!",
       "excerpt": "Professional game of StarCraft 2 where Reynor plays Protoss versus Serral, the current World Champion who plays Zerg. This game was send to me by Reynor himself because apparently I only ever cast losses.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -427,45 +505,6 @@
       "publishedDateTime": "2019-04-09T01:26:59-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-rogue-vs-classic-on-old-school-maps-best-of-7.md",
-      "title": "StarCraft 2: Rogue vs Classic on OLD SCHOOL MAPS! (Best-of-7)",
-      "excerpt": "Best-of-7 series of professional StarCraft 2 between Rogue (Zerg) and Classic (Protoss). This series is the Grand Finals of the OlimoLeague Invitational 9, and all games take place on old maps that were mostly played in Wings of Liberty and Heart of the Swarm. The map pool for this even is: Daybreak,",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-rogue-vs-classic-on-old-school-maps-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-rogue-vs-classic-on-old-school-maps-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=wD6OYL8vd1U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wD6OYL8vd1U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H16M23S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wD6OYL8vd1U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-01-27T05:10:45-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-scarlett-base-races-neeb.md",
       "title": "StarCraft 2: Scarlett BASE RACES Neeb!",
       "excerpt": "Long macro game of Zerg versus Protoss in StarCraft 2 between Scarlett and Neeb.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
@@ -659,6 +698,45 @@
       "publishedDateTime": "2021-05-15T03:34:40-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-scarletts-protoss-offrace-scarlett-vs-pig.md",
+      "title": "StarCraft 2: Scarlett's PROTOSS Offrace?! (Scarlett vs PiG)",
+      "excerpt": "This game of StarCraft 2 is from a recent ESL Open Cup. In this match we watch Scarlett pick up the Protoss pieces versus PiG who plays as Zerg. Scarlett normally plays Zerg, but decides to focus on a macro game with Protoss. PiG rushes up to Hive tech with Ultralisks and deals a ton of damage while",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scarletts-protoss-offrace-scarlett-vs-pig/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarletts-protoss-offrace-scarlett-vs-pig/",
+      "originalUrl": "https://youtube.com/watch?v=oRE7QFqsefc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oRE7QFqsefc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oRE7QFqsefc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-04-22T05:00:57-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-serral-masses-ultralisks-vs-zest-zerg-vs-protoss.md",
       "title": "StarCraft 2: Serral MASSES ULTRALISKS vs Zest?! (Zerg vs Protoss)",
       "excerpt": "Professional match of StarCraft 2 between Serral and Zest. In this match Zest opens up with what looks like a standard turtle Sky Toss style. However, as he transitions towards a lot of Gateways, Serral is forced to respond and decides to go for Ultralisks. Ultras versus Protoss are incredibly uncommon.",
@@ -696,6 +774,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-05-17T03:25:45-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serral-struggles-vs-protoss-best-of-3.md",
+      "title": "StarCraft 2: Serral STRUGGLES vs Protoss? (Best-of-3)",
+      "excerpt": "Best-of-3 series between Serral (Zerg) and Gerald (Protoss). The games in this series are macro games, Serral's speciality, and yet he struggles against Gerald's macro Protoss style.  Blink Dark Templar opener: https://youtu.be/dSVpdpysQzg  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-struggles-vs-protoss-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-struggles-vs-protoss-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=C7YtpcOLg-U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C7YtpcOLg-U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M16S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/C7YtpcOLg-U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-03T03:36:19-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-clem-best-of-5.md",
@@ -1041,121 +1158,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-12-02T05:39:35-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serrals-fresh-new-queen-drop-vs-classic-best-of-3.md",
-      "title": "StarCraft 2: Serral's FRESH NEW Queen Drop vs Classic! (Best-of-3)",
-      "excerpt": "Serral has gotten more aggressive lately in StarCraft 2. In this best-of-3 series versus Classic, the World Champion decides to go for a Queen drop using an Overlord to harass the Probes inside of Classic's bases.  Thumbnail picture by Marco Wutz: https://www.flickr.com/photos/detriplem/45180648705/",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serrals-fresh-new-queen-drop-vs-classic-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serrals-fresh-new-queen-drop-vs-classic-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=v6uPpt37W8U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v6uPpt37W8U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M48S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/v6uPpt37W8U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-05-14T03:24:21-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serrals-proxy-hatchery-serral-vs-soul.md",
-      "title": "StarCraft 2: SERRAL'S PROXY HATCHERY! (Serral vs souL)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between Serral and souL. In this series Serral players differently than he usually does. In the first game he opens up with a Proxy Hatchery rush... A little bit of Zerg cheese.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serrals-proxy-hatchery-serral-vs-soul/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serrals-proxy-hatchery-serral-vs-soul/",
-      "originalUrl": "https://youtube.com/watch?v=s3X0i5us-Hc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s3X0i5us-Hc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/s3X0i5us-Hc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-07-29T04:07:45-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serrals-unexpected-swarm-hosts.md",
-      "title": "StarCraft 2: Serral's UNEXPECTED Swarm Hosts!",
-      "excerpt": "Professional match of StarCraft 2 between Serral and Cure. In this Zerg versus Terran Serral starts off with Mutalisks, Zerglings and Banelings against Terran Mech. However as soon as he takes full control of the map, he decides to make a uncommon transition into Swarm Hosts.  Support my work on Patreon:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serrals-unexpected-swarm-hosts/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serrals-unexpected-swarm-hosts/",
-      "originalUrl": "https://youtube.com/watch?v=krb8OeCLma0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/krb8OeCLma0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M7S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/krb8OeCLma0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-25T02:38:06-07:00"
     }
   ],
   "nextPage": 15

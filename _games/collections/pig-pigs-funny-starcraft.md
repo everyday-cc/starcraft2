@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 69
+heat: 64
 
 provider:
   name: PiG
@@ -1009,6 +1009,7 @@ items:
   - pig-flo-pulls-off-69-iq-defense-after-baiting-all-in-florencio-files-277-starcraft-2
   - pig-guess-the-secret-pro-player-flash-vs-bisu-hidden-name-tournament-2-part-1-starcraft-2
   - pig-guess-the-secret-pro-part-2-jaedong-vs-boxer-hidden-name-tournament-2-starcraft-2
+  - pig-guess-the-secret-pro-part-33-grand-finals-hidden-name-tournament-2-starcraft-2
 
 topics:
   - StarCraft 2

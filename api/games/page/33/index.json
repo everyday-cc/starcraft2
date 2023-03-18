@@ -4,6 +4,43 @@
   "page": 33,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-crazy-game-250-worker-kills-nice-vs-spirit.md",
+      "title": "StarCraft 2: CRAZY GAME - 250+ Worker Kills?! (Nice vs Spirit)",
+      "excerpt": "Crazy game of professional StarCraft 2 between Nice (Protoss) and Spirit (Terran). Nice decides to play a Protoss build that reminds me of the way that Zerg players play. Lots of Probes, lots of expansions and tons of Zealots. Spirit is forced to play defensively, but deals damage with Medivac drops",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-crazy-game-250-worker-kills-nice-vs-spirit/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-crazy-game-250-worker-kills-nice-vs-spirit/",
+      "originalUrl": "https://youtube.com/watch?v=RK4XbHMvfy0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RK4XbHMvfy0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M16S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RK4XbHMvfy0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-03-01T04:09:27-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-crazy-game-overlord-all-in-bly-vs-dream.md",
       "title": "StarCraft 2: CRAZY GAME - Overlord All-In?! (Bly vs Dream)",
       "excerpt": "One of the craziest games of professional StarCraft 2 I have ever seen. In this game Bly decides to go for a proxy Hatchery with Roaches and Ravagers versus Dream on the map Purity and Industry. A chaotic game ensues as Dream manages to hold on initially and decides to take the island expansion.   Support",
@@ -805,45 +842,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-08T03:33:57-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-darks-strange-protoss-strategy-best-of-3.md",
-      "title": "StarCraft 2: Dark's STRANGE Protoss Strategy! (Best-of-3)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between Dark and Rikka. This match is a best-of-3 series and the quarter finals of the ESL Open Cup Korea 124. In these games Dark, who is one of the best Zergs in the world, decides to play Protoss.  Dark vs Scarlett: https://youtu.be/5tTMSsX3w7s  Support my work on Patreon:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-strange-protoss-strategy-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-strange-protoss-strategy-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=4vBHu-XSBXc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4vBHu-XSBXc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4vBHu-XSBXc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-22T04:57:49-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-defending-a-drone-rush.md",

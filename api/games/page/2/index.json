@@ -744,14 +744,14 @@
       "publishedDateTime": "2022-09-07T02:52:01-07:00"
     },
     {
-      "path": "_games/pig-pigs-1-vs-10-ai-500-speedrun-challenge-open-to-everyone-starcraft-2.md",
-      "title": "PiG's 1 vs 10 AI $500 Speedrun Challenge! (open to everyone) - StarCraft 2",
-      "excerpt": "I'm offering $500USD to the person who completes the 1v10 AI Speedrun Challenge the quickest!  0:00 PiG's 1st speedrun 29:22 How to do the challenge + submit times  Submission Form: https://forms.gle/8NGir84cZDLF1ocEA  Rules:  ➡ Submissions close: Wednesday 25th January at midday Sydney time (equiv.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-pigs-1-vs-10-ai-500-speedrun-challenge-open-to-everyone-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-pigs-1-vs-10-ai-500-speedrun-challenge-open-to-everyone-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=-VFKxcmsWrQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-VFKxcmsWrQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M20S",
+      "path": "_games/pig-telling-them-your-actual-strategy-to-mess-with-them-icyfar-new-years-resolutions-sc2.md",
+      "title": "Telling them your ACTUAL strategy to mess with them | ICYFAR New Years Resolutions - SC2",
+      "excerpt": "🤯 NEW ICYFAR CHALLENGE: \"PROXY EVERYTHING\" - proxy as much of your stuff as you can - try to have as few buildings as possible in your bases. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 30th January  🤯 In",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-telling-them-your-actual-strategy-to-mess-with-them-icyfar-new-years-resolutions-sc2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-telling-them-your-actual-strategy-to-mess-with-them-icyfar-new-years-resolutions-sc2/",
+      "originalUrl": "https://youtube.com/watch?v=jJusT0E0RYc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jJusT0E0RYc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M19S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -762,7 +762,7 @@
       "heat": 111,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-VFKxcmsWrQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jJusT0E0RYc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -770,30 +770,29 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-12-28T15:54:19-08:00"
+      "publishedDateTime": "2023-01-05T13:10:05-08:00"
     },
     {
-      "path": "_games/pig-can-zerg-or-terran-beat-toss-times-1v10-speedrun-update-starcraft-2.md",
-      "title": "Can Zerg or Terran beat Toss times?! 1v10 Speedrun UPDATE - StarCraft 2",
-      "excerpt": "Here are the fastest players of each race so far for my 1v10 AI Speedrun Challenge!  Original video, rules and submission form: https://youtu.be/-VFKxcmsWrQ  -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-can-zerg-or-terran-beat-toss-times-1v10-speedrun-update-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-can-zerg-or-terran-beat-toss-times-1v10-speedrun-update-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=qwmkd3Hz234",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qwmkd3Hz234\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M37S",
+      "path": "_games/pig-reacting-to-sc2hls-greatest-cannon-rushes-of-all-time-starcraft-2.md",
+      "title": "Reacting to SC2HL's Greatest Cannon Rushes Of All Time - StarCraft 2",
+      "excerpt": "These cannon rushes are great. Defending without Ravagers is so brutal | SC2HL video: https://youtu.be/Vsv7SfeLFlQ -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-reacting-to-sc2hls-greatest-cannon-rushes-of-all-time-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-reacting-to-sc2hls-greatest-cannon-rushes-of-all-time-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=9-rvruatYmc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9-rvruatYmc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M52S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
-        "Zerg"
+        "Protoss"
       ],
       "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/qwmkd3Hz234/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9-rvruatYmc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -801,7 +800,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-01-07T17:03:57-08:00"
+      "publishedDateTime": "2023-01-12T21:40:42-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime.md",

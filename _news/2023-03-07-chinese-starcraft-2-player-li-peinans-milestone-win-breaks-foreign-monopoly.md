@@ -23,6 +23,22 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "Chinese StarCraft 2 player Li Peinan’s milestone win breaks foreign monopoly"
+    excerpt: "Loud cheers fill the stadium in Poland’s Katowice when StarCraft 2 gamer Li Peinan eventually defeated the world No.1 ranked player Cho Seong-ju (nickname “Maru”) and became the champion of ..."
+    publishedDateTime: 2023-03-07T23:56:00Z
+    webUrl: "https://www.globaltimes.cn/page/202303/1286863.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 34
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-03-05/eee8ed9d-2231-4ebe-95b7-a0d6df327919.jpeg"
+        width: 800
+        height: 480
+        isCached: true
+
 secured: "3J2HMa2SCYbYQPUmMJk6C4qp6SmMffD/apj217GioxmP5oYP1zV7Ej6rpCw5gwTtAA8+oPYhAf5Ykv6MxL3kYqA1QFo4zZYo7H99WJcCBpnIYJfUlGyiFEDlMm+5uqK/YqzgUsWf62v9Afc0UHUBYE61ADpjptbM7q3wQMhNHSctNpTwSytXY0Or6jWyLtrDgy4DPc1RQ8hRMTGiUBpyBi3pT3Nk8Lnxrrj+17tf1RkBitJ0O5O1AFNMQm2u3ac8bDs2q3TEoLWFrWqfKOHNFCufGSi/aBBZ1a/uhGS5Bzdu1U91iCYf5lWyrEJbY8nzzHL4h+CCDSd+69t4qnL+yfdCZy7pkbhWfWoc503gmsI/5o2TbJY/CGUgx7xniIRnJzbnEUXtFWCNKFmgQIqCo8/YRAgbpNlM7GN9Ml/56ssGitDDQfqYzGgiOCMeVJsKFdzFV3l9FSPwknU/kqKSyaczYzJyavMMPIbXGdXgjEUbRu3YriUt0unx/cXJxM1scU0jYJ5Bzw4xdKjfL2hUoQ==;DmRaC8IPaUqaNiXUt6aQsA=="
 ---
 

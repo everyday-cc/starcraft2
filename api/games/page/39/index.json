@@ -4,6 +4,44 @@
   "page": 39,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-lurker-creativity-dark-vs-dream.md",
+      "title": "StarCraft 2: LURKER CREATIVITY! (Dark vs Dream)",
+      "excerpt": "Awesome game of Starcraft 2 between Dark and Dream. A Zerg versus Terran.  Dark vs Creator:  https://www.youtube.com/watch?v=ZGBQn1UbR5g  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-lurker-creativity-dark-vs-dream/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-lurker-creativity-dark-vs-dream/",
+      "originalUrl": "https://youtube.com/watch?v=L5qAk3G5CAE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L5qAk3G5CAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M37S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/L5qAk3G5CAE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-13T03:05:36-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-lurker-drops-solar-vs-astrea.md",
       "title": "StarCraft 2: LURKER DROPS! (Solar vs Astrea)",
       "excerpt": "A best-of-5 series of professional StarCraft 2 between Solar and Astrea. In this series of games between a Zerg and Protoss we have a variety of strategies from both players, although the general strategic line is the same. Both players open up similiarly in all games, but transition to different build",
@@ -1110,44 +1148,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-03-04T03:43:42-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-mass-battlecruiser-vs-tempest-polt-vs-harstem.md",
-      "title": "StarCraft 2: MASS BATTLECRUISER VS TEMPEST! (Polt vs Harstem)",
-      "excerpt": "Professional match of StarCraft 2 between Harstem and Polt. In this high-level match of Protoss versus Terran we start off very quickly with Battlecruisers. Not a normal  build order from Terran at all. As the game progresses Harstem decides to respond with Tempests. In the end, both players have most",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-mass-battlecruiser-vs-tempest-polt-vs-harstem/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-mass-battlecruiser-vs-tempest-polt-vs-harstem/",
-      "originalUrl": "https://youtube.com/watch?v=iTKUOIFCmKk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iTKUOIFCmKk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M39S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iTKUOIFCmKk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-03-11T04:30:51-07:00"
     }
   ],
   "nextPage": 40

@@ -4,44 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-scarlett-did-not-expect-this-best-of-3.md",
-      "title": "StarCraft 2: Scarlett Did NOT EXPECT This! (Best-of-3)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between Scarlett (Zerg) and HeroMarine (Terran). In this series of games HeroMarine experiments with a few varieties of the Double Factory opener.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scarlett-did-not-expect-this-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarlett-did-not-expect-this-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=MKWnguCW__o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MKWnguCW__o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M47S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 156,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MKWnguCW__o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-02T02:47:23-08:00"
-    },
-    {
       "path": "_games/pig-i-embarrassed-a-pro-player-so-he-embarrassed-me-back-pig-vs-astrea-starcraft-2.md",
       "title": "I EMBARRASSED a Pro Player so he embarrassed me back | PiG vs Astrea - StarCraft 2",
       "excerpt": "This is a story about RANDOM and REVENGE - between me and top 20 player in the world, Astrea, also known as Chadstrea -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig",
@@ -98,6 +60,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-03T20:36:28-07:00"
+    },
+    {
+      "path": "_games/pig-flo-pulls-off-69-iq-defense-after-baiting-all-in-florencio-files-277-starcraft-2.md",
+      "title": "Flo pulls off 69 IQ defense after BAITING all-in | Florencio Files #277 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-flo-pulls-off-69-iq-defense-after-baiting-all-in-florencio-files-277-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-flo-pulls-off-69-iq-defense-after-baiting-all-in-florencio-files-277-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=ARSnKt6cnHY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ARSnKt6cnHY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M34S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 151,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ARSnKt6cnHY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-12T20:25:05-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-marus-new-mass-banshee-strategy-best-of-5.md",
@@ -743,29 +735,25 @@
       "publishedDateTime": "2022-04-27T23:30:12-07:00"
     },
     {
-      "path": "_games/pig-the-warp-prism-ability-everyones-forgotten-about-king-of-cannons-21.md",
-      "title": "The Warp Prism ability everyone’s forgotten about | King of Cannons #21",
-      "excerpt": "Cannon rushes all day erry day! Watch printF, the KING of Cannons, do what he does best on the StarCraft 2 ladder  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf PrintF’s youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-warp-prism-ability-everyones-forgotten-about-king-of-cannons-21/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-warp-prism-ability-everyones-forgotten-about-king-of-cannons-21/",
-      "originalUrl": "https://youtube.com/watch?v=Aftqh7M2izg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Aftqh7M2izg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M54S",
+      "path": "_games/pig-pigs-1-vs-10-ai-500-speedrun-challenge-open-to-everyone-starcraft-2.md",
+      "title": "PiG's 1 vs 10 AI $500 Speedrun Challenge! (open to everyone) - StarCraft 2",
+      "excerpt": "I'm offering $500USD to the person who completes the 1v10 AI Speedrun Challenge the quickest!  0:00 PiG's 1st speedrun 29:22 How to do the challenge + submit times  Submission Form: https://forms.gle/8NGir84cZDLF1ocEA  Rules:  ➡ Submissions close: Wednesday 25th January at midday Sydney time (equiv.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-pigs-1-vs-10-ai-500-speedrun-challenge-open-to-everyone-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-pigs-1-vs-10-ai-500-speedrun-challenge-open-to-everyone-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=-VFKxcmsWrQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-VFKxcmsWrQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M20S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
-        "StarCraft 2",
-        "Protoss"
+        "StarCraft 2"
       ],
-      "heat": 112,
-      "tags": [
-        "Cheese"
-      ],
+      "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Aftqh7M2izg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-VFKxcmsWrQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -773,7 +761,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-01-04T15:02:14-08:00"
+      "publishedDateTime": "2022-12-28T15:54:19-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime.md",

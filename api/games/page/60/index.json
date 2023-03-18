@@ -4,6 +4,38 @@
   "page": 60,
   "value": [
     {
+      "path": "_games/pig-burrowed-banes-in-zvp-twitch-plays-pig-3.md",
+      "title": "Burrowed Banes in ZvP?! |  Twitch Plays PiG #3",
+      "excerpt": "Ad rates ARE terrible, PiG didnt give me a good cutoff point at the start of the game and people always wander what he was talking about when the video start with random talk, so i thought \"hey, might aswell give some insight and maybe ask the yt viewers to turn adblock off?\".  Like the content? Then",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-burrowed-banes-in-zvp-twitch-plays-pig-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-burrowed-banes-in-zvp-twitch-plays-pig-3/",
+      "originalUrl": "https://youtube.com/watch?v=4lX44Wgl-LE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4lX44Wgl-LE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M23S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4lX44Wgl-LE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-03T16:29:17-07:00"
+    },
+    {
       "path": "_games/pig-but-what-if-they-blind-counter-me-king-of-cannons-ep3-starcraft-2.md",
       "title": "But what if they blind counter me? | King of Cannons Ep#3  - StarCraft 2",
       "excerpt": "Seems like we got ANOTHER new series bois(n girls), The King of Cannons!  be sure to follow him on, Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng  Like the content? Then consider to leave a thumbs",
@@ -874,38 +906,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:47:10-07:00"
-    },
-    {
-      "path": "_games/pig-disruptor-tempest-rush-twitch-plays-pig-9.md",
-      "title": "Disruptor Tempest RUSH  | Twitch Plays PiG #9",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-disruptor-tempest-rush-twitch-plays-pig-9/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-disruptor-tempest-rush-twitch-plays-pig-9/",
-      "originalUrl": "https://youtube.com/watch?v=GDZvMTftArQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GDZvMTftArQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M58S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GDZvMTftArQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-09-30T22:04:11-07:00"
     }
   ],
   "nextPage": 61

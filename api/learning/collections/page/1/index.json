@@ -28,7 +28,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-07-29T18:26:51-07:00",
-          "heat": 84,
+          "heat": 82,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Tr1_8C6CjMQ/maxresdefault.jpg",
@@ -90,7 +90,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-08-05T22:43:17-07:00",
-          "heat": 65,
+          "heat": 63,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/sSHIv0ihLjw/maxresdefault.jpg",
@@ -121,7 +121,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-08-12T02:36:45-07:00",
-          "heat": 63,
+          "heat": 64,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/2Wvw27j3NqA/maxresdefault.jpg",
@@ -140,7 +140,7 @@
         }
       ],
       "size": 12,
-      "heat": 78,
+      "heat": 76,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Tr1_8C6CjMQ/maxresdefault.jpg",
@@ -181,7 +181,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2019-02-21T18:12:55-08:00",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/u2ILu6MTyYY/maxresdefault.jpg",
@@ -274,7 +274,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2019-04-29T00:51:40-07:00",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/LQiqiMcbpGA/maxresdefault.jpg",
@@ -293,7 +293,7 @@
         }
       ],
       "size": 15,
-      "heat": 61,
+      "heat": 62,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/u2ILu6MTyYY/maxresdefault.jpg",
@@ -309,36 +309,66 @@
       ]
     },
     {
-      "path": "_learning/collections/quasargamers-minute-micro.md",
-      "title": "Minute Micro",
+      "path": "_learning/collections/pig-pigs-beginner-basics.md",
+      "title": "PiG's Beginner Basics'",
       "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/collections/quasargamers-minute-micro/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/collections/quasargamers-minute-micro/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/collections/pig-pigs-beginner-basics/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/collections/pig-pigs-beginner-basics/",
       "provider": {
-        "name": "QuasarGamers",
+        "name": "PiG",
         "domain": "youtube.com"
       },
       "topItems": [
         {
-          "path": "_learning/videos/quasargamers-minute-micro-episode-1-probe-bodyguards.md",
-          "title": "Minute Micro - Episode 1: probe bodyguards",
-          "excerpt": "Difficulty rating: 5/10  This is the first episode of a series of 1-minute videos explaining how to perform common micro techniques. This episode is on probe/zealot micro  twitch.tv/Quasarprintf",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-1-probe-bodyguards/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-1-probe-bodyguards/",
-          "originalUrl": "https://youtube.com/watch?v=wMr0sbrj7gk",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wMr0sbrj7gk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1M7S",
+          "path": "_learning/videos/pig-starcraft-2-beginner-basics-hopping-into-1v1-for-the-first-time-the-pig-daily-16.md",
+          "title": "StarCraft 2 - Beginner basics - Hopping into 1v1 for the first time | The PiG Daily #16",
+          "excerpt": "Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb\r See the Show notes and more info + ongoing discussion of the show in the Teamliquid thread: http://www.teamliquid.net/forum/starcraft-2/509383-the-pig-daily-thinking-critically-about-sc\r  -- Watch live",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-beginner-basics-hopping-into-1v1-for-the-first-time-the-pig-daily-16/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-beginner-basics-hopping-into-1v1-for-the-first-time-the-pig-daily-16/",
+          "originalUrl": "https://youtube.com/watch?v=iMBgp-OA9Jc",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iMBgp-OA9Jc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT44M47S",
           "provider": {
-            "name": "QuasarGamers",
+            "name": "PiG",
             "domain": "youtube.com"
           },
-          "publishedDateTime": "2018-06-10T19:39:42-07:00",
+          "publishedDateTime": "2016-06-27T22:13:59-07:00",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/iMBgp-OA9Jc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "StarCraft 2"
+          ]
+        },
+        {
+          "path": "_learning/videos/pig-starcraft-2-beginner-protoss-opening-the-pig-daily-155.md",
+          "title": "StarCraft 2 - Beginner Protoss Opening | The PiG Daily #155",
+          "excerpt": "THIS WEEKS ICYFAR Challenge: \"Feinting Attacks\" - A feint is where you give the impression of attacking in one place where its fake or just a small distraction from the real thrust of your attack. Examples: Using empty drops or hallucinations to pull your opponent out of position!  Send submissions to",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-beginner-protoss-opening-the-pig-daily-155/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-beginner-protoss-opening-the-pig-daily-155/",
+          "originalUrl": "https://youtube.com/watch?v=ESE_4WaEfMs",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ESE_4WaEfMs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT12M37S",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2017-04-12T21:10:10-07:00",
           "heat": 51,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/wMr0sbrj7gk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://i.ytimg.com/vi/ESE_4WaEfMs/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
               "isCached": true
             }
           ],
@@ -351,25 +381,25 @@
           ]
         },
         {
-          "path": "_learning/videos/quasargamers-minute-micro-episode-2-prism-chasing.md",
-          "title": "Minute Micro - Episode 2: Prism Chasing",
-          "excerpt": "Difficulty rating: 9/10  This is the second episode of a series of 1-minute videos explaining how to perform common micro techniques. This episode is on warp prism chasing  twitch.tv/Quasarprintf",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-2-prism-chasing/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-2-prism-chasing/",
-          "originalUrl": "https://youtube.com/watch?v=DN5_EqnqsxM",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DN5_EqnqsxM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1M8S",
+          "path": "_learning/videos/pig-starcraft-2-beginner-zerg-opening-the-pig-daily-152.md",
+          "title": "StarCraft 2 - Beginner Zerg Opening | The PiG Daily #152",
+          "excerpt": "THIS WEEKS ICYFAR Challenge: \"Siege Warfare - Send in your replays with your best siege tactics. Some suggestions: tank-bunker push, a lurker nydus or a pylon-disruptor push. Gl!  Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as title! Latest submission is 24 hours before the show",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-beginner-zerg-opening-the-pig-daily-152/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-beginner-zerg-opening-the-pig-daily-152/",
+          "originalUrl": "https://youtube.com/watch?v=rs4z-xtYdD4",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rs4z-xtYdD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT12M18S",
           "provider": {
-            "name": "QuasarGamers",
+            "name": "PiG",
             "domain": "youtube.com"
           },
-          "publishedDateTime": "2018-06-10T19:39:50-07:00",
-          "heat": 51,
+          "publishedDateTime": "2017-04-11T16:10:47-07:00",
+          "heat": 50,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/DN5_EqnqsxM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://i.ytimg.com/vi/rs4z-xtYdD4/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
               "isCached": true
             }
           ],
@@ -377,29 +407,30 @@
           "type": "video",
           "price": "Free",
           "topics": [
-            "StarCraft 2"
+            "StarCraft 2",
+            "Zerg"
           ]
         },
         {
-          "path": "_learning/videos/quasargamers-minute-micro-episode-3-mine-dodging.md",
-          "title": "Minute Micro - Episode 3: Mine dodging",
-          "excerpt": "Difficulty rating: 3/10  This is the third episode of a series of 1-minute videos explaining how to perform common micro techniques. This episode is on dodging widow mine shots  twitch.tv/Quasarprintf",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-3-mine-dodging/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-3-mine-dodging/",
-          "originalUrl": "https://youtube.com/watch?v=Xv-dQfpZvQw",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Xv-dQfpZvQw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1M9S",
+          "path": "_learning/videos/pig-starcraft-2-beginner-terran-opening-the-pig-daily-153.md",
+          "title": "StarCraft 2 - Beginner Terran Opening | The PiG Daily #153",
+          "excerpt": "Use this link to join my Discord Channel and become part of the community: https://discord.gg/0oDzZ8wBPhrdNAOD  See the Show notes and more info + ongoing discussion of the show in the Teamliquid thread: http://www.teamliquid.net/forum/starcraft-2/509383-the-pig-daily-thinking-critically-about-sc   Full",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-beginner-terran-opening-the-pig-daily-153/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-beginner-terran-opening-the-pig-daily-153/",
+          "originalUrl": "https://youtube.com/watch?v=M1QnDKucj3I",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M1QnDKucj3I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT12M16S",
           "provider": {
-            "name": "QuasarGamers",
+            "name": "PiG",
             "domain": "youtube.com"
           },
-          "publishedDateTime": "2018-06-11T19:45:18-07:00",
-          "heat": 51,
+          "publishedDateTime": "2017-04-11T16:10:42-07:00",
+          "heat": 50,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/Xv-dQfpZvQw/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://i.ytimg.com/vi/M1QnDKucj3I/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
               "isCached": true
             }
           ],
@@ -407,45 +438,16 @@
           "type": "video",
           "price": "Free",
           "topics": [
-            "StarCraft 2"
-          ]
-        },
-        {
-          "path": "_learning/videos/quasargamers-minute-micro-episode-4-forming-concaves.md",
-          "title": "Minute Micro - Episode 4: Forming Concaves",
-          "excerpt": "Difficulty rating: 5/10  This is the fourth episode of a series of 1-minute videos explaining how to perform common micro techniques. This episode is on forming concaves.  twitch.tv/Quasarprintf",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-4-forming-concaves/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-4-forming-concaves/",
-          "originalUrl": "https://youtube.com/watch?v=m8rWyIlzEWo",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m8rWyIlzEWo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1M8S",
-          "provider": {
-            "name": "QuasarGamers",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2018-06-18T15:17:02-07:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/m8rWyIlzEWo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "StarCraft 2"
+            "StarCraft 2",
+            "Terran"
           ]
         }
       ],
-      "size": 45,
+      "size": 13,
       "heat": 61,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/wMr0sbrj7gk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/iMBgp-OA9Jc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -750,157 +752,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/vKfhpDEDO5o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/collections/pig-pigs-beginner-basics.md",
-      "title": "PiG's Beginner Basics'",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/collections/pig-pigs-beginner-basics/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/collections/pig-pigs-beginner-basics/",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/pig-starcraft-2-beginner-basics-hopping-into-1v1-for-the-first-time-the-pig-daily-16.md",
-          "title": "StarCraft 2 - Beginner basics - Hopping into 1v1 for the first time | The PiG Daily #16",
-          "excerpt": "Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb\r See the Show notes and more info + ongoing discussion of the show in the Teamliquid thread: http://www.teamliquid.net/forum/starcraft-2/509383-the-pig-daily-thinking-critically-about-sc\r  -- Watch live",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-beginner-basics-hopping-into-1v1-for-the-first-time-the-pig-daily-16/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-beginner-basics-hopping-into-1v1-for-the-first-time-the-pig-daily-16/",
-          "originalUrl": "https://youtube.com/watch?v=iMBgp-OA9Jc",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iMBgp-OA9Jc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT44M47S",
-          "provider": {
-            "name": "PiG",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2016-06-27T22:13:59-07:00",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/iMBgp-OA9Jc/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "StarCraft 2"
-          ]
-        },
-        {
-          "path": "_learning/videos/pig-starcraft-2-beginner-protoss-opening-the-pig-daily-155.md",
-          "title": "StarCraft 2 - Beginner Protoss Opening | The PiG Daily #155",
-          "excerpt": "THIS WEEKS ICYFAR Challenge: \"Feinting Attacks\" - A feint is where you give the impression of attacking in one place where its fake or just a small distraction from the real thrust of your attack. Examples: Using empty drops or hallucinations to pull your opponent out of position!  Send submissions to",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-beginner-protoss-opening-the-pig-daily-155/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-beginner-protoss-opening-the-pig-daily-155/",
-          "originalUrl": "https://youtube.com/watch?v=ESE_4WaEfMs",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ESE_4WaEfMs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT12M37S",
-          "provider": {
-            "name": "PiG",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2017-04-12T21:10:10-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/ESE_4WaEfMs/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "StarCraft 2",
-            "Protoss"
-          ]
-        },
-        {
-          "path": "_learning/videos/pig-starcraft-2-beginner-zerg-opening-the-pig-daily-152.md",
-          "title": "StarCraft 2 - Beginner Zerg Opening | The PiG Daily #152",
-          "excerpt": "THIS WEEKS ICYFAR Challenge: \"Siege Warfare - Send in your replays with your best siege tactics. Some suggestions: tank-bunker push, a lurker nydus or a pylon-disruptor push. Gl!  Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as title! Latest submission is 24 hours before the show",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-beginner-zerg-opening-the-pig-daily-152/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-beginner-zerg-opening-the-pig-daily-152/",
-          "originalUrl": "https://youtube.com/watch?v=rs4z-xtYdD4",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rs4z-xtYdD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT12M18S",
-          "provider": {
-            "name": "PiG",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2017-04-11T16:10:47-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/rs4z-xtYdD4/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "StarCraft 2",
-            "Zerg"
-          ]
-        },
-        {
-          "path": "_learning/videos/pig-starcraft-2-beginner-terran-opening-the-pig-daily-153.md",
-          "title": "StarCraft 2 - Beginner Terran Opening | The PiG Daily #153",
-          "excerpt": "Use this link to join my Discord Channel and become part of the community: https://discord.gg/0oDzZ8wBPhrdNAOD  See the Show notes and more info + ongoing discussion of the show in the Teamliquid thread: http://www.teamliquid.net/forum/starcraft-2/509383-the-pig-daily-thinking-critically-about-sc   Full",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-beginner-terran-opening-the-pig-daily-153/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-beginner-terran-opening-the-pig-daily-153/",
-          "originalUrl": "https://youtube.com/watch?v=M1QnDKucj3I",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M1QnDKucj3I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT12M16S",
-          "provider": {
-            "name": "PiG",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2017-04-11T16:10:42-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/M1QnDKucj3I/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "StarCraft 2",
-            "Terran"
-          ]
-        }
-      ],
-      "size": 13,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iMBgp-OA9Jc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1354,6 +1205,155 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/QqdFHEPHCqk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/collections/quasargamers-minute-micro.md",
+      "title": "Minute Micro",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/collections/quasargamers-minute-micro/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/collections/quasargamers-minute-micro/",
+      "provider": {
+        "name": "QuasarGamers",
+        "domain": "youtube.com"
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/quasargamers-minute-micro-episode-1-probe-bodyguards.md",
+          "title": "Minute Micro - Episode 1: probe bodyguards",
+          "excerpt": "Difficulty rating: 5/10  This is the first episode of a series of 1-minute videos explaining how to perform common micro techniques. This episode is on probe/zealot micro  twitch.tv/Quasarprintf",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-1-probe-bodyguards/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-1-probe-bodyguards/",
+          "originalUrl": "https://youtube.com/watch?v=wMr0sbrj7gk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wMr0sbrj7gk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1M7S",
+          "provider": {
+            "name": "QuasarGamers",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2018-06-10T19:39:42-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/wMr0sbrj7gk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ]
+        },
+        {
+          "path": "_learning/videos/quasargamers-minute-micro-episode-2-prism-chasing.md",
+          "title": "Minute Micro - Episode 2: Prism Chasing",
+          "excerpt": "Difficulty rating: 9/10  This is the second episode of a series of 1-minute videos explaining how to perform common micro techniques. This episode is on warp prism chasing  twitch.tv/Quasarprintf",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-2-prism-chasing/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-2-prism-chasing/",
+          "originalUrl": "https://youtube.com/watch?v=DN5_EqnqsxM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DN5_EqnqsxM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1M8S",
+          "provider": {
+            "name": "QuasarGamers",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2018-06-10T19:39:50-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/DN5_EqnqsxM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "StarCraft 2"
+          ]
+        },
+        {
+          "path": "_learning/videos/quasargamers-minute-micro-episode-3-mine-dodging.md",
+          "title": "Minute Micro - Episode 3: Mine dodging",
+          "excerpt": "Difficulty rating: 3/10  This is the third episode of a series of 1-minute videos explaining how to perform common micro techniques. This episode is on dodging widow mine shots  twitch.tv/Quasarprintf",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-3-mine-dodging/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-3-mine-dodging/",
+          "originalUrl": "https://youtube.com/watch?v=Xv-dQfpZvQw",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Xv-dQfpZvQw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1M9S",
+          "provider": {
+            "name": "QuasarGamers",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2018-06-11T19:45:18-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/Xv-dQfpZvQw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "StarCraft 2"
+          ]
+        },
+        {
+          "path": "_learning/videos/quasargamers-minute-micro-episode-4-forming-concaves.md",
+          "title": "Minute Micro - Episode 4: Forming Concaves",
+          "excerpt": "Difficulty rating: 5/10  This is the fourth episode of a series of 1-minute videos explaining how to perform common micro techniques. This episode is on forming concaves.  twitch.tv/Quasarprintf",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-4-forming-concaves/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-4-forming-concaves/",
+          "originalUrl": "https://youtube.com/watch?v=m8rWyIlzEWo",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m8rWyIlzEWo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1M8S",
+          "provider": {
+            "name": "QuasarGamers",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2018-06-18T15:17:02-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/m8rWyIlzEWo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "StarCraft 2"
+          ]
+        }
+      ],
+      "size": 45,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wMr0sbrj7gk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

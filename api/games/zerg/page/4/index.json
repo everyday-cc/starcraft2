@@ -4,45 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-brand-new-map-pool-hero-vs-dark-grand-finals.md",
-      "title": "StarCraft 2: BRAND NEW Map Pool - herO vs Dark! (Grand Finals)",
-      "excerpt": "A new map pool is here for StarCraft 2! All of the previous 7 maps are replaced with new ones. Going forward we will use: Altitude, Ancient Cistern, Babylon, Dragon Scale, Gresvan, NeoHumanity and Royal Blood. In this video I cast the finals of the ESL Open Cup 157 Korea with all games played on the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-brand-new-map-pool-hero-vs-dark-grand-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-brand-new-map-pool-hero-vs-dark-grand-finals/",
-      "originalUrl": "https://youtube.com/watch?v=N0FTgaKRH3k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N0FTgaKRH3k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M41S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/N0FTgaKRH3k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-09T04:14:21-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-but-why-soos-wings-of-liberty-only-challenge-best-of-5.md",
       "title": "StarCraft 2: BUT... WHY?! soO's WINGS OF LIBERTY Only Challenge! (Best-of-5)",
       "excerpt": "Best-of-5 series of StarCraft 2 between ByuN (Terran) and soO (Zerg). It turns out soO is basically doing a Wings of Liberty challenge, refusing to make any Lurkers, Ravagers, Vipers and Swarm Hosts.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV",
@@ -464,40 +425,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-01-25T03:50:28-08:00"
-    },
-    {
-      "path": "_games/pig-bm-zerg-offensive-ggs-too-early-lmao-king-of-cannons-20-starcraft-2.md",
-      "title": "BM Zerg offensive GGs too early LMAO | King of Cannons #20 - StarCraft 2",
-      "excerpt": "Cannon rushes all day erry day! Watch printF, the KING of Cannons, do what he does best on the StarCraft 2 ladder  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf PrintF’s youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-bm-zerg-offensive-ggs-too-early-lmao-king-of-cannons-20-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-bm-zerg-offensive-ggs-too-early-lmao-king-of-cannons-20-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=1NvnGNV3EfY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1NvnGNV3EfY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M40S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 53,
-      "tags": [
-        "Cheese"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1NvnGNV3EfY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-30T21:16:15-07:00"
     },
     {
       "path": "_games/pig-how-quickly-can-reynor-dispose-of-noobs-part-2-holdout-challenge-starcraft-2.md",
@@ -1119,6 +1046,82 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-05T03:11:34-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-swarm-host-troubles-viewer-games.md",
+      "title": "StarCraft 2: Swarm Host TROUBLES! (Viewer Games)",
+      "excerpt": "Viewer submitted games in StarCraft 2. In this video I cast two games of SC2 that were submitted to replays@lowko.tv.   00:00 Terrible cheese 19:51 Swarm Host troubles  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-swarm-host-troubles-viewer-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-swarm-host-troubles-viewer-games/",
+      "originalUrl": "https://youtube.com/watch?v=BYudrw0Lkho",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BYudrw0Lkho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M37S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BYudrw0Lkho/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-08T03:50:20-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-top-tier-the-best-zerg-vs-zerg-of-the-year-best-of-5.md",
+      "title": "StarCraft 2: TOP TIER - The BEST Zerg vs Zerg... Of the Year?! (Best-of-5)",
+      "excerpt": "One of the best series of Zerg versus Zerg in StarCraft 2 that I've ever seen. A best-of-5 match between Dark and Solar. This series has a little bit of everything, macro, cheese, comebacks, crazy strategies and fantastic micro.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-tier-the-best-zerg-vs-zerg-of-the-year-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-tier-the-best-zerg-vs-zerg-of-the-year-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=_Q-6UB0k3bc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Q-6UB0k3bc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H5M41S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_Q-6UB0k3bc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-13T02:08:28-07:00"
     }
   ],
   "nextPage": 5

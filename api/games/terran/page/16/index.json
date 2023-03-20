@@ -4,6 +4,121 @@
   "page": 16,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-tactical-nukes-his-own-base-cure-vs-trap.md",
+      "title": "StarCraft 2: TACTICAL NUKES HIS OWN BASE?! (Cure vs Trap)",
+      "excerpt": "One of the best series of Terran versus Protoss at the top level of StarCraft 2 that I've seen this year. In this best-of-5 we don't see much variety in build orders, but that doesn't take away much of the games. Both players feel comfortable with their strategies and don't need to adjust. They try to",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-tactical-nukes-his-own-base-cure-vs-trap/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-tactical-nukes-his-own-base-cure-vs-trap/",
+      "originalUrl": "https://youtube.com/watch?v=EPOzcrqG3YE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EPOzcrqG3YE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H8M40S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EPOzcrqG3YE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-07-02T05:06:47-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-terran-battle-mech.md",
+      "title": "StarCraft 2: TERRAN BATTLE MECH!",
+      "excerpt": "Bly vs souL in a professional Zerg vs Terran in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More Battlecruiser games: https://youtu.be/l-bX-iu7AZ0  Battle Mech is a relatively new term in StarCraft 2. Ever since players have been playing Hellion Cyclone based compositions, it has",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-battle-mech/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-terran-battle-mech/",
+      "originalUrl": "https://youtube.com/watch?v=gigruiEpWNU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gigruiEpWNU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M15S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gigruiEpWNU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-12-24T03:50:48-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-terran-bio-vs-terran-mech.md",
+      "title": "StarCraft 2: Terran Bio vs Terran Mech!",
+      "excerpt": "Terran vs Terran match of professional StarCraft 2 between Cure and Dream.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-bio-vs-terran-mech/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-terran-bio-vs-terran-mech/",
+      "originalUrl": "https://youtube.com/watch?v=mc-3WHF1zT8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mc-3WHF1zT8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mc-3WHF1zT8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-13T01:56:20-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-terran-cheese-vs-terran-cheese.md",
       "title": "StarCraft 2: TERRAN CHEESE vs TERRAN CHEESE!",
       "excerpt": "A short but sweet game between TIME and Gumiho. Subscribe for more videos: http://lowko.tv/youtube Massive Neural Parasite: https://goo.gl/yX3tHx  What happens when you play a Terran vs Terran in StarCraft 2 and both professional players decide to do cheese?  Support me on Patreon: http://www.patreon.com/lowkotv",
@@ -1039,122 +1154,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-04-28T03:02:55-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-mysterious-terran-parting-vs-time.md",
-      "title": "StarCraft 2: The MYSTERIOUS Terran! (PartinG vs TIME)",
-      "excerpt": "TIME does not seem to participate in nearly as many StarCraft 2 events outside of China as he used to. It's been far too long since I casted one of this games, so in today's best-of-3 series he goes up against the top level Protoss player PartinG.  Support my work on Patreon: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-mysterious-terran-parting-vs-time/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-mysterious-terran-parting-vs-time/",
-      "originalUrl": "https://youtube.com/watch?v=2VFeOkzggGA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2VFeOkzggGA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M7S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2VFeOkzggGA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-15T04:50:44-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-never-ending-push-dark-vs-innovation.md",
-      "title": "StarCraft 2: The NEVER-ENDING Push! (Dark vs INnoVation)",
-      "excerpt": "An insane match of Zerg versus Terran. Subscribe for more videos: http://lowko.tv/youtube Proxy Barracks vs Proxy Barracks: https://goo.gl/Xy5WW8  INnoVation versus Dark. The game doesn't get much better than this. In this match Dark decides to go for an aggressive upgrade based timing attack, however",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-never-ending-push-dark-vs-innovation/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-never-ending-push-dark-vs-innovation/",
-      "originalUrl": "https://youtube.com/watch?v=ZYdGZBhmpF0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZYdGZBhmpF0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZYdGZBhmpF0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-03-11T01:36:50-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-planetary-fortress-contain.md",
-      "title": "StarCraft 2: THE PLANETARY FORTRESS CONTAIN!",
-      "excerpt": "An awesome match of Silver League Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube The Zerg... Mothership? https://goo.gl/BvZU5A  While the ending of this match is a little slow, the early game is awesome. In this match the Terran player decides to focus on a Planetary Fortress contain.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-planetary-fortress-contain/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-planetary-fortress-contain/",
-      "originalUrl": "https://youtube.com/watch?v=2KJv_9IbrZ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2KJv_9IbrZ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M19S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2KJv_9IbrZ0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-01-05T13:16:38-08:00"
     }
   ],
   "nextPage": 17

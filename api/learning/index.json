@@ -4,23 +4,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-trying-to-learn-to-play-like-serral-vs-hero-analysis.md",
-      "title": "Trying To Learn To Play Like Serral (vs herO analysis)",
-      "excerpt": "♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and I have 5+ GM students",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-trying-to-learn-to-play-like-serral-vs-hero-analysis/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-trying-to-learn-to-play-like-serral-vs-hero-analysis/",
-      "originalUrl": "https://youtube.com/watch?v=1mbdfbk3tzc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1mbdfbk3tzc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M14S",
+      "path": "_learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023.md",
+      "title": "Standard Terran vs Terran | Build Order Guide (2023)",
+      "excerpt": "Rock Solid Terran vs Terran Build Order that will keep you safe early game & allow you to build a large economy without dieing too easily. It's not the easiest build order, but it's worth learning with how powerful it is in this matchup!  Standard Terran vs Terran | Build Order Guide (2023) #terran",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023/",
+      "originalUrl": "https://youtube.com/watch?v=eaa-Trta5hY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eaa-Trta5hY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M7S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2023-02-18T22:15:45-08:00",
-      "heat": 130,
+      "publishedDateTime": "2023-01-09T15:08:45-08:00",
+      "heat": 139,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/1mbdfbk3tzc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/eaa-Trta5hY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -31,7 +31,76 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Zerg"
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-the-end-of-protoss-new-balance-patch.md",
+      "title": "StarCraft 2: The End of Protoss? (New Balance Patch)",
+      "excerpt": "The new StarCraft 2 balance patch is live. In this video I go over all the changes made to Zerg, Protoss and Terran and ramble about a few things related to SC2.  https://news.blizzard.com/en-us/starcraft2/23893118/starcraft-ii-5-0-11-patch-notes  Support my work: https://patreon.com/lowkotv Lowko Merch:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-the-end-of-protoss-new-balance-patch/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-the-end-of-protoss-new-balance-patch/",
+      "originalUrl": "https://youtube.com/watch?v=-Anug-kaAYM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-Anug-kaAYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M34S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-24T03:26:01-08:00",
+      "heat": 134,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-Anug-kaAYM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-why-running-away-is-a-chad-move-in-sc2.md",
+      "title": "Why running away is a CHAD move in SC2",
+      "excerpt": "Knowing WHEN TO RUN AWAY is a really important skill to have in SC2!  VIDEOS mentioned: Serral vs Bunny https://youtu.be/-_Ga9pkNF6Q?t=2332 Jocko Willink https://youtu.be/5xDANla3L24?t=3  Dark vs Ryung https://youtu.be/ns3YoPAQPJI?t=517 Day9 Daily 408 https://youtu.be/DxVI-axM948?t=405 Serral vs Stats",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-why-running-away-is-a-chad-move-in-sc2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-why-running-away-is-a-chad-move-in-sc2/",
+      "originalUrl": "https://youtube.com/watch?v=LpEDaEE5CeM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LpEDaEE5CeM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M2S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2023-01-25T16:22:14-08:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LpEDaEE5CeM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
       ]
     },
     {
@@ -2067,68 +2136,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/XvRoGf3SXRo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-aggressive-opening-adept-oracle-2020-build-order-guide.md",
-      "title": "Starcraft 2: Protoss vs Protoss | Aggressive Opening! Adept-Oracle [2020 Build Order Guide]",
-      "excerpt": "Starcraft 2: Protoss vs Protoss guide/tutorial. Today we're learning an aggressive pvp opening with 8 adepts + 2 oracles. It hits like a tank and there's pretty much no way for your opponent to defend any damage. The question is more so \"how much damage\" can you do?  Protoss vs Protoss | Aggressive Opening!",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-aggressive-opening-adept-oracle-2020-build-order-guide/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-aggressive-opening-adept-oracle-2020-build-order-guide/",
-      "originalUrl": "https://youtube.com/watch?v=yfRfWt7eUlg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yfRfWt7eUlg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M13S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-01-13T13:57:23-08:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yfRfWt7eUlg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-protoss-build-order-guide-forbidden-knowledge-dark-templars-425-.md",
-      "title": "Protoss Build Order Guide - FORBIDDEN KNOWLEDGE - Dark Templars @ 4:25 !",
-      "excerpt": "In today's Starcraft 2 guide/lesson we are looking at a very powerful protoss vs zerg build order. We drop dark templars at 4:24 and at the same time harass another bases drones with 3 adepts. Very difficult for zerg to defend.  Protoss Build Order Guide - Protoss vs Zerg - Dark Templar Drop #BuildOrder",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-build-order-guide-forbidden-knowledge-dark-templars-425-/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-protoss-build-order-guide-forbidden-knowledge-dark-templars-425-/",
-      "originalUrl": "https://youtube.com/watch?v=d3UPyQPRA5M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d3UPyQPRA5M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M33S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-12-10T21:49:34-08:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/d3UPyQPRA5M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

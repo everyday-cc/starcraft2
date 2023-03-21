@@ -4,6 +4,99 @@
   "page": 14,
   "value": [
     {
+      "path": "_learning/videos/pig-defending-bcs-zvt-and-swapping-into-mutas-zvp-coaching-plat-1-zerg.md",
+      "title": "Defending BCs ZvT and Swapping into mutas ZvP - Coaching Plat 1 Zerg",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-defending-bcs-zvt-and-swapping-into-mutas-zvp-coaching-plat-1-zerg/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-defending-bcs-zvt-and-swapping-into-mutas-zvp-coaching-plat-1-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=kUtgBkMfNZo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kUtgBkMfNZo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H13M29S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-10-14T09:00:11-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kUtgBkMfNZo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-defending-cannon-rushes-in-zvp-coaching-diamond-1.md",
+      "title": "Defending Cannon Rushes in ZvP - Coaching Diamond 1",
+      "excerpt": "I coach a diamond zerg on defending cannon rushes. We don’t get to cover every variation but talk through many of the key details  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-defending-cannon-rushes-in-zvp-coaching-diamond-1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-defending-cannon-rushes-in-zvp-coaching-diamond-1/",
+      "originalUrl": "https://youtube.com/watch?v=NvpPcyzZ2Uw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NvpPcyzZ2Uw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H3M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NvpPcyzZ2Uw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-defending-cannon-rushes-zvp-coaching-d1.md",
+      "title": "Defending Cannon Rushes - ZvP - Coaching D1",
+      "excerpt": "I coach a diamond 1 zerg struggling against cannon rushes -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-defending-cannon-rushes-zvp-coaching-d1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-defending-cannon-rushes-zvp-coaching-d1/",
+      "originalUrl": "https://youtube.com/watch?v=tv6DshZoiKw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tv6DshZoiKw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M25S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tv6DshZoiKw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-defending-cyclones1-base-pvt-coaching.md",
       "title": "Defending Cyclones/1-base PvT - Coaching",
       "excerpt": "I coach a gold protoss on defending 1-base builds as well as his macro play -- Watch live at https://www.twitch.tv/x5_pig",
@@ -707,36 +800,6 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-getting-started-in-versus-welcome-to-starcraft.md",
-      "title": "Getting Started in Versus - Welcome to Starcraft",
-      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-getting-started-in-versus-welcome-to-starcraft/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-getting-started-in-versus-welcome-to-starcraft/",
-      "originalUrl": "https://youtube.com/watch?v=0cO_ly9C6gk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0cO_ly9C6gk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-04-14T14:39:49-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0cO_ly9C6gk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-gm-pvz-coaching-macro-storm-immortal-archon.md",
       "title": "GM PvZ Coaching - Macro Storm-Immortal-Archon",
       "excerpt": "I coach a High Master/GM Protoss on his macro PvZ style",
@@ -856,67 +919,6 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-harassment-is-the-key-tvp-mech-coaching-d2.md",
-      "title": "Harassment is the Key! | TvP Mech Coaching D2",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-harassment-is-the-key-tvp-mech-coaching-d2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-harassment-is-the-key-tvp-mech-coaching-d2/",
-      "originalUrl": "https://youtube.com/watch?v=Cy2HnFwmyXY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Cy2HnFwmyXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H13M53S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-01-30T09:00:06-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Cy2HnFwmyXY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-hellion-banshee-opening-tvp-d2-coaching.md",
-      "title": "Hellion-Banshee Opening TvP | D2 Coaching!",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-hellion-banshee-opening-tvp-d2-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-hellion-banshee-opening-tvp-d2-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=KCDGAfW-hQA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KCDGAfW-hQA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H11M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-01-23T09:00:15-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KCDGAfW-hQA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
       ]
     }
   ],

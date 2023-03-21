@@ -2,7 +2,7 @@
 title: "PiG's Zerg B2GM"
 excerpt: "Welcome to PiG's Starcraft Zerg Bronze to GM series, where I teach you how to play the Zerg race from beginner to grandmaster level"
 type: collection
-heat: 76
+heat: 80
 
 provider:
   name: PiG

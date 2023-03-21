@@ -4,36 +4,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-the-sweet-lullaby-of-the-sewer-mermaid-the-florencio-files-99.md",
-      "title": "StarCraft 2 - The Sweet Lullaby of the Sewer Mermaid | The Florencio Files #99",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-sweet-lullaby-of-the-sewer-mermaid-the-florencio-files-99/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-sweet-lullaby-of-the-sewer-mermaid-the-florencio-files-99/",
-      "originalUrl": "https://youtube.com/watch?v=x7NOxOeuPcI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x7NOxOeuPcI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/x7NOxOeuPcI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-10T09:00:12-08:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-the-ultimate-turkey-slap-the-florencio-files-19.md",
       "title": "StarCraft 2 - The Ultimate Turkey Slap | The Florencio Files #19",
       "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  -- Watch live at https://www.twitch.tv/x5_pig",
@@ -960,6 +930,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-08-04T12:34:48-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-a-new-way-of-dealing-with-tempests.md",
+      "title": "A *NEW* Way of Dealing With Tempests!",
+      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-a-new-way-of-dealing-with-tempests/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-a-new-way-of-dealing-with-tempests/",
+      "originalUrl": "https://youtube.com/watch?v=fuNtcHTrfeM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fuNtcHTrfeM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M40S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fuNtcHTrfeM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-02T05:25:24-07:00"
     }
   ],
   "nextPage": 19

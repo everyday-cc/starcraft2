@@ -1010,6 +1010,7 @@ items:
   - pig-guess-the-secret-pro-player-flash-vs-bisu-hidden-name-tournament-2-part-1-starcraft-2
   - pig-guess-the-secret-pro-part-2-jaedong-vs-boxer-hidden-name-tournament-2-starcraft-2
   - pig-guess-the-secret-pro-part-33-grand-finals-hidden-name-tournament-2-starcraft-2
+  - pig-toss-rages-when-opponent-wont-give-him-a-free-win-salt-mines-32-starcraft-2
 
 topics:
   - StarCraft 2

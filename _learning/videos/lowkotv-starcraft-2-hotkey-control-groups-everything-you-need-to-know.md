@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT13M58S
 publishedDateTime: 2016-09-19T20:46:31Z
-heat: 56
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dBlNRfFkPdk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "FacizVO+93ar5hgG11NtW4gPSs++UknT8oRqDfZ/z33W0pU8YtpjqJH3XuXPFmIBnp7epMZk1fIHj2xZYINDf548MTkFHz5bk1MkRO6Wg20plGwcDngNZClXIjAGB7QEf8N83PfSEmILjvXDprRsXWF11MLF3xEZStf6k/AY9Xay4diTYrca8vZCLL1EbEqxEwgdzwjV9vPfmMQi79kXbG0uni7P69uqZyOnpc8xr4ROBu2FxqJdDgfFpzLGNmPYIOvkVz/VBSAFlXvjsIR5K+QeE4Hfs/aIyO8YLUr0XqxtI6dEUmgspO8Bg/THfey4dFl1ew1fWmUVw/VCQoLqdrhmMbzS1wOCnsPNFlYlIrJ+QQCfR4t75mJ3Pon1KhHXSEjdSk0jHPyPp+YhNidMXVkYmvip1cLvgE2QlMwR/K4ApINr5FljRfoiMAJFvQx5;gIipUjw+QIHinmPIP/yU1w=="
+secured: "yPS4/MioEOYPvU1vuqAmeeQxa99AvwZZwCzMhcK3gekbpFgvqFJ6vn8J/WKpUin05ywQfKqdEgsjLurRB9PNkIGYSvzXUzJvghl6R3vHaHZEcR8nTm+5pBPOZ+4qS0FNR7zDwWZbZWJh/rxqrvNfAUNngJC0Ij1ZlF+q+jwzNjm5t4Ho11X9Rp6Mv912GGxu0bxYTP58+DrlllJVhH82nbed8gsDzYrmj2YX2lOqnyJFcI/Nutns2mDiJQXvKFg7/tBNpKu77/ew2g4QSPmHZ4NGz+JLGn7Dba8/tVHsROplTwnj+JvfcxIgCiMO2FYvV4qU2QQ93CUYMg/vimukC8yErv0lx45+/nqPXlxrUpuCRpMMvPxyGEhVlkqvrdKjOWt6DzNlGqwdpO4zpPzH2C7Kd2Ifn3pJFPbVdFSQ9JxCIMW0l0t62z1KmZasQCJM;0/AyE8DGyAq0YjvqjceOGg=="
 ---
 

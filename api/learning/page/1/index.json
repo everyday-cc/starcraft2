@@ -35,37 +35,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-how-to-secure-a-fast-3rd-base-against-zerg-easily.md",
-      "title": "How To Secure a Fast 3rd Base Against Zerg Easily",
-      "excerpt": "♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and I have 5+ GM students",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-how-to-secure-a-fast-3rd-base-against-zerg-easily/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-how-to-secure-a-fast-3rd-base-against-zerg-easily/",
-      "originalUrl": "https://youtube.com/watch?v=5iqUGwv092E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5iqUGwv092E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M7S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2023-01-10T18:38:20-08:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5iqUGwv092E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-guide-how-to-destroy-reaper-hellion-in-under-10-minutes.md",
       "title": "Guide | How To Destroy Reaper Hellion In Under 10 Minutes",
       "excerpt": "Guide | How To Destroy Reaper Hellion In Under 10 Minutes #Protoss #SC2 #Starcraft  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and",
@@ -141,7 +110,7 @@
         "domain": "hushangcoaching.com"
       },
       "publishedDateTime": "2020-12-08T18:09:09-08:00",
-      "heat": 99,
+      "heat": 101,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/CupNHJotqmQ/maxresdefault.jpg",
@@ -2140,6 +2109,37 @@
       "topics": [
         "StarCraft 2",
         "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-6-muta-play-in-diamond-2-b2gm.md",
+      "title": "StarCraft 2 - Zerg Bronze to GM #6: Muta Play in Diamond 2 (B2GM)",
+      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 Introducing Muta Ling Bane play to Diamond 2 3:09 Game 1 vs Terran 15:36 How to Muta micro 22:22 Adding more detail to the Muta Ling Bane build 22:18 Game 2 vs Zerg 31:17 Game 3 vs Terran 48:47 Game",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-6-muta-play-in-diamond-2-b2gm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-6-muta-play-in-diamond-2-b2gm/",
+      "originalUrl": "https://youtube.com/watch?v=jJdx9VGt3BE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jJdx9VGt3BE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4H35M",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-08-27T02:06:59-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jJdx9VGt3BE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
       ]
     }
   ],

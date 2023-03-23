@@ -4,6 +4,35 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/pig-i-was-bribed-to-one-shot-a-base-using-ravagers-only-strategy-bribes-starcraft-2.md",
+      "title": "I was bribed to ONE SHOT a base using ravagers ONLY | Strategy Bribes - StarCraft 2",
+      "excerpt": "Twitch chat bribed me to do challenges on stream. This is the result! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-i-was-bribed-to-one-shot-a-base-using-ravagers-only-strategy-bribes-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-i-was-bribed-to-one-shot-a-base-using-ravagers-only-strategy-bribes-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=HmGs8tjmkrU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HmGs8tjmkrU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M12S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 153,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HmGs8tjmkrU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-03T20:36:28-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-zesty-mind-games-vs-rogue-best-of-5.md",
       "title": "StarCraft 2: Zesty MIND GAMES vs Rogue! (Best-of-5)",
       "excerpt": "Fun best-of-5 series of professional StarCraft 2 between Zest and Rogue. Zest decides to confuse his opponent in any way he can think of, and try to win mostly based off of mind games.  Zest vs soO: https://youtu.be/nQJJ-2RhILc  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
@@ -402,35 +431,6 @@
       "publishedDateTime": "2023-03-06T02:41:51-08:00"
     },
     {
-      "path": "_games/pig-i-embarrassed-a-pro-player-then-this-happened-pig-vs-astrea-starcraft-2.md",
-      "title": "I EMBARRASSED a Pro Player, then this happened | PiG vs Astrea - StarCraft 2",
-      "excerpt": "This is a story about RANDOM and REVENGE - between me and top 20 player in the world, Astrea, also known as Chadstrea -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-i-embarrassed-a-pro-player-then-this-happened-pig-vs-astrea-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-i-embarrassed-a-pro-player-then-this-happened-pig-vs-astrea-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=FAnNMQy9DZ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FAnNMQy9DZ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M53S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 117,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FAnNMQy9DZ0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-18T18:34:08-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-insane-game-uthermals-mass-raven-strategy.md",
       "title": "StarCraft 2: INSANE Game - uThermal's MASS RAVEN Strategy!",
       "excerpt": "StarCraft 2 match between uThermal and Jason (top 25 Grandmaster on NA) where uThermal plays his latest strategy: Mass Raven and Hellion. This is a crazy macro game of Terran versus Terran with hundreds of Hellions and Ravens.  uThermal's Hellion Raven to Grandmaster League: https://www.youtube.com/playlist?list=PLhaCXeA_nfD0yq1NJ8C7dZi9vRxYfEHNW",
@@ -467,6 +467,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-17T04:09:58-07:00"
+    },
+    {
+      "path": "_games/pig-when-anyone-who-beats-you-is-a-tryhard-or-a-smurf-salt-mines-27-starcraft-2.md",
+      "title": "When anyone who beats you is a TRYHARD or a SMURF | Salt Mines #27 - StarCraft 2",
+      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-anyone-who-beats-you-is-a-tryhard-or-a-smurf-salt-mines-27-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-anyone-who-beats-you-is-a-tryhard-or-a-smurf-salt-mines-27-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=FC1XORYAxwY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FC1XORYAxwY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M28S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 116,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FC1XORYAxwY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-02-01T17:50:03-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime.md",
@@ -506,45 +535,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-05T04:02:46-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-new-patch-byun-vs-dark-grand-finals.md",
-      "title": "StarCraft 2: NEW PATCH - ByuN vs Dark! (Grand Finals)",
-      "excerpt": "Best-of-5 series of high level StarCraft 2 between Dark (Zerg) and ByuN (Terran). These games are played on the StarCraft 2 PTR with all the new balance changes.   New SC2 patch: https://youtu.be/y87c1xp3I3Q  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-patch-byun-vs-dark-grand-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-patch-byun-vs-dark-grand-finals/",
-      "originalUrl": "https://youtube.com/watch?v=G6EOaBTKXhg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G6EOaBTKXhg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 113,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/G6EOaBTKXhg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-29T00:20:05-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-seige-tactics-g1.md",
@@ -611,45 +601,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-07T02:52:01-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-brand-new-map-pool-hero-vs-dark-grand-finals.md",
-      "title": "StarCraft 2: BRAND NEW Map Pool - herO vs Dark! (Grand Finals)",
-      "excerpt": "A new map pool is here for StarCraft 2! All of the previous 7 maps are replaced with new ones. Going forward we will use: Altitude, Ancient Cistern, Babylon, Dragon Scale, Gresvan, NeoHumanity and Royal Blood. In this video I cast the finals of the ESL Open Cup 157 Korea with all games played on the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-brand-new-map-pool-hero-vs-dark-grand-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-brand-new-map-pool-hero-vs-dark-grand-finals/",
-      "originalUrl": "https://youtube.com/watch?v=N0FTgaKRH3k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N0FTgaKRH3k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M41S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/N0FTgaKRH3k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-09T04:14:21-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-mass-recall-mothership-rush.md",
@@ -1047,6 +998,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-24T20:57:51-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-special-builds-battlecruisers-on-creep.md",
+      "title": "StarCraft 2: SpeCial Builds BATTLECRUISERS On Creep?!",
+      "excerpt": "Two best-of-3 series of StarCraft 2. In the first one SpeCial faces off against Scarlett, and in the second against ByuN.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips    Twitch livestream: https://twitch.tv/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-special-builds-battlecruisers-on-creep/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-special-builds-battlecruisers-on-creep/",
+      "originalUrl": "https://youtube.com/watch?v=RyCz0cgoVuM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RyCz0cgoVuM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M20S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 100,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RyCz0cgoVuM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-23T03:24:50-07:00"
     }
   ],
   "nextPage": 3

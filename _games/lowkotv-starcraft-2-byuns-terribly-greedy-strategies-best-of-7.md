@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=AGmeMsi2lvY
 type: video
 length: PT32M
 publishedDateTime: 2022-11-03T19:03:47Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AGmeMsi2lvY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "0V9IE1Da/Nd8zOZGJxmqGeukQMBjLfeOLSV9VI0bMnkgqLhLKdslxxxx0mq7EGygicV2sb1iklcAI+6w+ULoRX1hSkQ1zfPz2cv4tIagZi8oX6lODU9gu4jPnvMldWKuQqFm2i6VLkjNh91Te6XGVG2ECtzWH7JNUjvm4DlGKiGddu1Ah3Zkb7q1SphVs/qEZeL+sodkcSEkMZBME3Ak1oXt7J7JrgMW97a5fVBHxxIzLtasg+hga+SB7oMYguM4qvR+5uNo4BaMzFJzlCIuyQf93w0L16HCsmAVGopfTg+zl68oZZ4eaNJhFSUOyx9KeCE8t1rSXOg8ngX5lVn60loqeAkk9tQxbbndglJGa02niH7rfpbILwGcDEs31GeX01yyLuNL/ahmM+RiU5OKq+0lOupDyiQJUQTPZRW3bO4=;voVXo9d3M5+qFlZhEKIZIA=="
+secured: "MVgW2gu4BjjhtVEZgvSsIgYyOry62xHjohilx2IjULKnSDB2h+VkjpXjGJQD6BypLDewj+6Vg2qtAw0ZwNQZlAqscWrFGzlgDrCFEtnogNHhbNepP9rU0ZWUWT1fY9nwzn/nRQhlIvLK28WPCGz8t8I+Y1xx3gsA2QYzlaieQoJUZV3bdpUfstFtL04sm6h1Q0j8jJHthXnuc0RkUawoH3Z1lnvK6QGyRYr0FLZASSz63OysR67gZC1/VIfN3otW1K4GWQTJ6uiC0zI3eqHsGY8Gb2VaK8q88Ww1wlF9XztXvbeL3q8k0zVIynw1HAudNPy42YiVitP/r0UGI8PREBQqmGTC9fo28QPBTTaDIL4uPs/oYF7MDsIiW+Snx0rIbqSMvPfgumTVtD3dVdxK39xETWUIYh2tuOX0TF7kcYY=;Lgxf8iOj7XdqpmqG/PDNrQ=="
 ---
 

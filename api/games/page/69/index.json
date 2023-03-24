@@ -4,6 +4,35 @@
   "page": 69,
   "value": [
     {
+      "path": "_games/pig-sacrificing-units-to-confuse-the-enemy-santa-claws-7.md",
+      "title": "Sacrificing units to confuse the enemy! | Santa Claws #7",
+      "excerpt": "🎅 Santa Claws impressed in his Starcraft Smooth Brain audition and has been granted an opportunity to be the next Smooth Brain. Will he impress or will his brain prove too wrinkled?   🎅 Santa Claws Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh -- 🐷 Second Channel",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-sacrificing-units-to-confuse-the-enemy-santa-claws-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-sacrificing-units-to-confuse-the-enemy-santa-claws-7/",
+      "originalUrl": "https://youtube.com/watch?v=bFuOQvTjXrg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bFuOQvTjXrg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M15S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bFuOQvTjXrg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-12-27T14:40:13-08:00"
+    },
+    {
       "path": "_games/pig-sacrificing-units-to-confuse-the-enemy-smooth-brain-santa-claws-7.md",
       "title": "Sacrificing units to confuse the enemy! | Smooth Brain Santa Claws #7",
       "excerpt": "🎅 Santa Claws impressed in his Starcraft Smooth Brain audition and has been granted an opportunity to be the next Smooth Brain. Will he impress or will his brain prove too wrinkled?   🎅 Santa Claws Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh -- 🐷 Second Channel",
@@ -860,36 +889,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-26T14:00:11-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-1hp-and-a-dream-the-florencio-files-42.md",
-      "title": "StarCraft 2 - 1HP and a Dream | The Florencio Files #42",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  Florencios twitch: https://www.twitch.tv/flol2encio Florencios youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-1hp-and-a-dream-the-florencio-files-42/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-1hp-and-a-dream-the-florencio-files-42/",
-      "originalUrl": "https://youtube.com/watch?v=ul6VAEFg1sM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ul6VAEFg1sM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M18S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ul6VAEFg1sM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-01-18T00:47:08-08:00"
     }
   ],
   "nextPage": 70

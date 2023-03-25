@@ -4,6 +4,44 @@
   "page": 28,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-1000-iq-dark-templar.md",
+      "title": "StarCraft 2: 1000 IQ DARK TEMPLAR!",
+      "excerpt": "A really clever match of Protoss vs Protoss. Subscribe for more videos: http://lowko.tv/youtube Insane Protoss macro: https://goo.gl/kYVEow  Trap vs herO in a professional match of StarCraft 2 with commentary. While Trap gets a great position on his opponent, he didn't anticipate the 1000 IQ Dark Templar",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-1000-iq-dark-templar/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-1000-iq-dark-templar/",
+      "originalUrl": "https://youtube.com/watch?v=u_N23HnyN50",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u_N23HnyN50\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M16S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/u_N23HnyN50/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-03-05T23:33:50-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-1000-zerglings-reynor-vs-dream.md",
       "title": "StarCraft 2: 1000+ ZERGLINGS! (Reynor vs Dream)",
       "excerpt": "Professional match of StarCraft 2 between Reynor and Dream.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
@@ -1095,44 +1133,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-11-06T04:37:03-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-amazing-bio-vs-mech-cure-vs-innovation.md",
-      "title": "StarCraft 2: AMAZING Bio vs Mech! (Cure vs INnoVation)",
-      "excerpt": "Amazing game of top-level StarCraft 2 between Cure and INnoVation. In this professional match Cure decides to take the approach of Marines, Marauders and Medivacs whereas INnoVation decides to focus his unit composition on primarily Siege Tanks and Hellions.  Get more videos & support my work: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-amazing-bio-vs-mech-cure-vs-innovation/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-amazing-bio-vs-mech-cure-vs-innovation/",
-      "originalUrl": "https://youtube.com/watch?v=Hg6no_2xbPs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Hg6no_2xbPs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M30S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Hg6no_2xbPs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-02-18T04:58:57-08:00"
     }
   ],
   "nextPage": 29

@@ -4,6 +4,44 @@
   "page": 31,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-burrowed-banelings-the-most-underused-upgrade-ragnarok-vs-uthermal.md",
+      "title": "StarCraft 2: BURROWED BANELINGS - The Most Underused Upgrade! (Ragnarok vs uThermal)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between uThermal and Ragnarok. Some creative plays coming out of both players.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-burrowed-banelings-the-most-underused-upgrade-ragnarok-vs-uthermal/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-burrowed-banelings-the-most-underused-upgrade-ragnarok-vs-uthermal/",
+      "originalUrl": "https://youtube.com/watch?v=aIYvo2vohCw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aIYvo2vohCw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M8S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aIYvo2vohCw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-04-01T04:37:28-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-butter-my-biscuit.md",
       "title": "StarCraft 2: BUTTER MY BISCUIT!",
       "excerpt": "An insane amount of worker harass in a very strategic TvT. Subscribe for more videos: http://lowko.tv/youtube Macro Wars: https://goo.gl/1c32tn  Terran versus Terran is becoming more complicated by the day. In this professional match of StarCraft 2 I cast an epic game between Bunny and SpeCia;.  Support",
@@ -1111,44 +1149,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-12-02T04:59:35-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-cannon-rush-cringe.md",
-      "title": "StarCraft 2: Cannon Rush CRINGE!",
-      "excerpt": "Cannon Rushes can be pretty good... Sometimes they simply aren't. Subscribe for more videos: http://lowko.tv/youtube The Crescent Moon rush: https://goo.gl/aqaGPu  A funny match of Silver League Protoss versus Protoss. Rather than transitioning towards other units, one of the players has got his mind",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cannon-rush-cringe/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cannon-rush-cringe/",
-      "originalUrl": "https://youtube.com/watch?v=wms-fczQcNY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wms-fczQcNY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wms-fczQcNY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-11-10T04:29:50-08:00"
     }
   ],
   "nextPage": 32

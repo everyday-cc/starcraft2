@@ -4,36 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-zesty-mind-games-vs-rogue-best-of-5.md",
-      "title": "StarCraft 2: Zesty MIND GAMES vs Rogue! (Best-of-5)",
-      "excerpt": "Fun best-of-5 series of professional StarCraft 2 between Zest and Rogue. Zest decides to confuse his opponent in any way he can think of, and try to win mostly based off of mind games.  Zest vs soO: https://youtu.be/nQJJ-2RhILc  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zesty-mind-games-vs-rogue-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zesty-mind-games-vs-rogue-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=l0Ju9PIHqQo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l0Ju9PIHqQo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M8S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 145,
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-01T01:22:54-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-holdout-challenge.md",
       "title": "StarCraft 2 - How Quickly Can SCARLETT Dispose Of Noobs? | Holdout Challenge",
       "excerpt": "We paid Scarlett to 1v1 noobs. The challenge: the noobs needed to stay in the match as long as possible. Scarlett unleashed her cheesy plays to stop the clock. This Holdout Challenge was a part of  PiG Sty Festival 2021 https://www.pigstarcraft.com/about/pig-sty-festival/  🐷 https://www.patreon.com/PiGSC2",
@@ -169,6 +139,45 @@
       "publishedDateTime": "2022-02-10T17:37:20-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-pro-2v2-serral-maru-solar-oliveira-best-of-7.md",
+      "title": "StarCraft 2: PRO 2v2 - Serral, Maru, Solar & Oliveira! (Best-of-7)",
+      "excerpt": "Best-of-7 series of top level StarCraft 2 in the 2v2 game mode! In this video I cast a series of 2 vs 2 between Serral (Zerg) & Oliveira (Terran) and Maru (Terran) and Solar (Zerg).  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-2v2-serral-maru-solar-oliveira-best-of-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-pro-2v2-serral-maru-solar-oliveira-best-of-7/",
+      "originalUrl": "https://youtube.com/watch?v=r7vTyyXnGC0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r7vTyyXnGC0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H9M11S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 138,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/r7vTyyXnGC0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-13T03:18:10-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-uthermal-planetary-rushes-every-game-in-a-400-tournament.md",
       "title": "StarCraft 2: uThermal Planetary Rushes EVERY GAME in a $400 Tournament!",
       "excerpt": "Games played during the most recent ESL Open Cup Europe in StarCraft 2. In this tournament @uThermal decides  to Planetary Fortress rush every single game.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips  Twitch livestream:",
@@ -284,33 +293,25 @@
       "publishedDateTime": "2023-02-15T04:00:54-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-unexpected-world-champion-grand-finals.md",
-      "title": "StarCraft 2: The UNEXPECTED World Champion! (Grand Finals)",
-      "excerpt": "The Grand Finals of the StarCraft 2 World Championships played at IEM Katowice. In this video I cast the Terran versus Terran that was played between Oliveira (TIME) and Maru. The winner of this match is the new StarCraft 2 World Champion.  Photos used in the video are made by ESL: https://twitter.com/ESLSC2/",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-unexpected-world-champion-grand-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-unexpected-world-champion-grand-finals/",
-      "originalUrl": "https://youtube.com/watch?v=LJavmwpNJT8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LJavmwpNJT8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M",
+      "path": "_games/pig-i-made-sneaky-corner-bases-against-grandmasters-starcraft-2.md",
+      "title": "I made SNEAKY corner bases against Grandmasters ;) - StarCraft 2",
+      "excerpt": "Sneaky corner bases are fun :D -- 🐷 Main Channel: https://www.youtube.com/user/PiGstarcraft 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2 🐷 PiG’s Discord: https://discord.gg/SkhbzCM",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-i-made-sneaky-corner-bases-against-grandmasters-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-i-made-sneaky-corner-bases-against-grandmasters-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=3heEH8JRoXo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3heEH8JRoXo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M22S",
       "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "PiG",
+        "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2"
       ],
-      "heat": 130,
+      "heat": 129,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/LJavmwpNJT8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/3heEH8JRoXo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -318,7 +319,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-02-14T04:49:46-08:00"
+      "publishedDateTime": "2023-01-10T17:25:26-08:00"
     },
     {
       "path": "_games/pig-when-you-go-mass-ling-drops-but-theyve-got-skytoss-starcraft-2.md",
@@ -367,7 +368,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 124,
+      "heat": 122,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/PjCBveWrk5k/maxresdefault.jpg",
@@ -476,6 +477,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-02-22T03:33:20-08:00"
+    },
+    {
+      "path": "_games/pig-i-embarrassed-a-pro-player-then-this-happened-pig-vs-astrea-starcraft-2.md",
+      "title": "I EMBARRASSED a Pro Player, then this happened | PiG vs Astrea - StarCraft 2",
+      "excerpt": "This is a story about RANDOM and REVENGE - between me and top 20 player in the world, Astrea, also known as Chadstrea -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-i-embarrassed-a-pro-player-then-this-happened-pig-vs-astrea-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-i-embarrassed-a-pro-player-then-this-happened-pig-vs-astrea-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=FAnNMQy9DZ0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FAnNMQy9DZ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M53S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 117,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FAnNMQy9DZ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-18T18:34:08-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-marus-new-mass-banshee-strategy-best-of-5.md",
@@ -1025,36 +1055,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-23T03:24:50-07:00"
-    },
-    {
-      "path": "_games/pig-flo-pulls-off-69-iq-defense-after-baiting-all-in-florencio-files-277-starcraft-2.md",
-      "title": "Flo pulls off 69 IQ defense after BAITING all-in | Florencio Files #277 - StarCraft 2",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-flo-pulls-off-69-iq-defense-after-baiting-all-in-florencio-files-277-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-flo-pulls-off-69-iq-defense-after-baiting-all-in-florencio-files-277-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=ARSnKt6cnHY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ARSnKt6cnHY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M34S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 99,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ARSnKt6cnHY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-12T20:25:05-07:00"
     }
   ],
   "nextPage": 3

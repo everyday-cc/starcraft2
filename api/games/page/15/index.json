@@ -4,6 +4,45 @@
   "page": 15,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-maru-offraces-protoss-professional-2v2.md",
+      "title": "StarCraft 2: Maru Offraces PROTOSS?! (Professional 2v2)",
+      "excerpt": "Professional matches of StarCraft 2 from the OlimoLeague 2v2 tournament. In this video I cast Maru & Ryung facing off against Scarlett and Astrea in 2 versus 2 in SC2.  OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maru-offraces-protoss-professional-2v2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maru-offraces-protoss-professional-2v2/",
+      "originalUrl": "https://youtube.com/watch?v=X2QjDulzqQM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X2QjDulzqQM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M44S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/X2QjDulzqQM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-20T02:49:08-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-maru-styling-on-his-opponents.md",
       "title": "StarCraft 2: Maru STYLING On His Opponents!",
       "excerpt": "Five games feauturing the best Terran player in StarCraft 2. Maru in these games just can't stop cheesing, with the exception of the last one. In these SC2 games the South Korean Terran is going up against the Chinese players XY and Coffee.  Support my work on Patreon: https://www.patreon.com/lowkotv",
@@ -268,43 +307,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-12T01:46:16-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-new-patch-maxpax-tilts-clem-best-of-5.md",
-      "title": "StarCraft 2: NEW PATCH - MaxPax Tilts Clem?! (Best-of-5)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between MaxPax (Protoss) and Clem (Terran). This series is the Grand Finals of the ESL Open Cup 155 for Europe and is played on the new StarCraft 2 balance patch.  New StarCraft 2 balance patch: https://youtu.be/y87c1xp3I3Q  Support my work: https://patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-patch-maxpax-tilts-clem-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-patch-maxpax-tilts-clem-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=nEgH3uOPLws",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nEgH3uOPLws\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M30S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nEgH3uOPLws/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-31T04:13:18-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-no-recall-heros-huge-overextension-vs-reynor.md",

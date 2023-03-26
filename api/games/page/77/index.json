@@ -4,36 +4,6 @@
   "page": 77,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-nine-spore-crawlers-the-florencio-files-102.md",
-      "title": "StarCraft 2 - “NINE SPORE CRAWLERS!?” | The Florencio Files #102",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-nine-spore-crawlers-the-florencio-files-102/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-nine-spore-crawlers-the-florencio-files-102/",
-      "originalUrl": "https://youtube.com/watch?v=r0_IXSocl5Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r0_IXSocl5Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M57S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/r0_IXSocl5Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-20T09:00:13-08:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-no-expanding-allowed-florencio-files-236.md",
       "title": "StarCraft 2 - NO EXPANDING ALLOWED | Florencio Files #236",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
@@ -905,6 +875,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-12-12T09:00:17-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-reaper-vs-zealot-who-kills-more-workers-diamond-in-the-ruff-24.md",
+      "title": "StarCraft 2 - REAPER VS ZEALOT - WHO KILLS MORE WORKERS? | Diamond in the Ruff #24",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Protoss opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-reaper-vs-zealot-who-kills-more-workers-diamond-in-the-ruff-24/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-reaper-vs-zealot-who-kills-more-workers-diamond-in-the-ruff-24/",
+      "originalUrl": "https://youtube.com/watch?v=ZyBkUc-zIA4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZyBkUc-zIA4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M31S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZyBkUc-zIA4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-29T09:00:11-08:00"
     }
   ],
   "nextPage": 78

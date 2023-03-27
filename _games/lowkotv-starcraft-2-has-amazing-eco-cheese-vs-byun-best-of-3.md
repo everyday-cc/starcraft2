@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=7Yz5qmTZ29A
 type: video
 length: PT42M16S
 publishedDateTime: 2022-12-06T11:52:07Z
-heat: 58
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7Yz5qmTZ29A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "SbTMfole/PWnYJwIrWj6Ec3uNuN7DPSXeyXYqsE8744akC5gt7cwrW5u6P1IoA8nwzI+n99yiIypuGij0Np5Jhys3kYjpksBnXIgGJ8KW6KDYWLeqVAc+h3lwFSBeNLImWebKtzzYRa4cqofMYhkbYMOpo01lGY4RLLVYEnZ6xUtTPudVtWpS/2IIy2xpp3AI4Wn4jndBcYzFYQ2+AVk7l4hilih4cV456Qia/Shv0HNtcPAt1EcSmhexQKX3kyewumAHAu3vMEDapW9fhxlajpvKvyY7oV7kub4kEy+EzHeSOGKf6hQI9SSCTW8WhkAv4SFLWhIUD4MVRMysYpDMTNfG40QKWIlu3ZjccM+Dhxn3/e3Q5/xyBIPGsIxmG7Aw3cHvySgNabns5ckk/tsq8zfsSu7fgER6EOUjzOA+Kw=;csJWk0L3C7P38mJSj5S1hg=="
+secured: "ilvIot+HSTUss+7Xfia2YKBZ3OwEdZyrOVCXnRHAP9fdX1vpCXB6p55gkOs+TEFHyRsYPv3EIDr5CylkBwKHl3i7bb65z4VtTcu0IjmwAjLcRPF8AgqA/6S6M2FlKc3oy/CjjtRj1+dwKSCSWyYpUZ5o6V8M3CIOwXBvb8cYxK9avg7wNcmBzvAj5ujwAZzI5fnbhiznsY2jJtlThRxVmX5xRuO4NJlQugrk/F+oK+1mGYODFZOK/Q2qZTVmWkQjU38ooYE0cpKHGR5mRBqg9N/YXzRU1sqt/Fh/gLEF9I3ncI9VG9hjMtkrfFEHJXllkbOwaENEhJ6pFpG0PcnOSBaoWyb608ExBEROY3nhMJGpZAduizLQD7A5vINqA34KZm+c5mVgMbFBA4YKoZpF+bzRmWwH5deXkTjWCGAgd/8=;y6UTB2bUbEene0AJk/4Chg=="
 ---
 

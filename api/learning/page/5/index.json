@@ -4,161 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-vs-protoss-2020.md",
-      "title": "Learn Starcraft 2: EASY Beginner Zerg Build Order Guide vs Protoss [2020]",
-      "excerpt": "Learn Starcraft 2: EASY Beginner Zerg Build Order Guide vs Protoss [2020]  In this Starcraft 2 zerg build order guide we will take a look at a very safe and standard way to open in the zerg vs protoss matchup. We will be using a roach composition that is easy to make and tends to be more forgiving if",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-vs-protoss-2020/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-zerg-build-order-guide-vs-protoss-2020/",
-      "originalUrl": "https://youtube.com/watch?v=5MwuNRUcLtg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5MwuNRUcLtg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M48S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-06-08T12:45:54-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5MwuNRUcLtg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-protoss-vs-protoss-build-order-safe-stalker-sentry-opening-starcraft-2-2021.md",
-      "title": "Learn Starcraft 2: Protoss vs Protoss Build Order - Safe Stalker-Sentry Opening [Starcraft 2 2021]",
-      "excerpt": "Today we're looking at a Starcraft 2 protoss vs protoss build order. This week we'll be covering lots of pvp tutorials & guides. But first things first, let's get us into the midgame with a safe opening!  Protoss vs Protoss Build Order - Safe Stalker-Sentry Opening [Starcraft 2 2020] #ProtossVsProtoss",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-protoss-vs-protoss-build-order-safe-stalker-sentry-opening-starcraft-2-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-protoss-vs-protoss-build-order-safe-stalker-sentry-opening-starcraft-2-2021/",
-      "originalUrl": "https://youtube.com/watch?v=PD6PYQBfF6Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PD6PYQBfF6Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M15S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-01-06T20:41:15-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PD6PYQBfF6Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020.md",
-      "title": "Learn Starcraft 2: Terran Build Order - EASY & SAFE [Starcraft 2 2020]",
-      "excerpt": "In today's guide/lesson we're looking at how to execute a terran vs terran (tvt) build order. Was supposed to be just the opening but I got a little carried away so you're getting 19 minutes of raw TvT information. Get out your notepads ;)  #BuildOrder #TerranVsTerran #TvT Terran vs Terran(TvT) Build",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020/",
-      "originalUrl": "https://youtube.com/watch?v=CupNHJotqmQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CupNHJotqmQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M42S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-12-08T18:09:09-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CupNHJotqmQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-learning-from-byun-defending-gateway-pressure.md",
-      "title": "Learning From Byun | Defending Gateway Pressure",
-      "excerpt": "Learning From Byun | Defending Gateway Pressure  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learning-from-byun-defending-gateway-pressure/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learning-from-byun-defending-gateway-pressure/",
-      "originalUrl": "https://youtube.com/watch?v=sJl_1n_g3do",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sJl_1n_g3do\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M3S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2022-09-18T10:37:54-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sJl_1n_g3do/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-learning-tvp-from-cure-sc2-2021.md",
-      "title": "Learning TvP From Cure (SC2 2021)",
-      "excerpt": "♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and I have 5+ GM students",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learning-tvp-from-cure-sc2-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learning-tvp-from-cure-sc2-2021/",
-      "originalUrl": "https://youtube.com/watch?v=MMLyTYa-CiU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MMLyTYa-CiU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M15S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-10-25T21:46:28-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MMLyTYa-CiU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-are-you-microing-too-much.md",
       "title": "Mastering Starcraft 2 | Are you microing too much?",
       "excerpt": "In this video we take a look at a Terran vs Zerg game and discuss some of the main mistakes Terran players are making. It's super easy to fall into this trap!  Starcraft 2: Mastering Starcraft 2 | Are you microing too much? [Terran vs Zerg TvZ] #StarCraft2 #SC2 #RTS   Coaching - https://www.hushangcoaching.com",
@@ -717,6 +562,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-protoss-vs-zerg-guide-learn-how-to-stay-safe-starcraft-2.md",
+      "title": "Protoss vs Zerg Guide | Learn HOW to stay SAFE!!! [Starcraft 2]",
+      "excerpt": "In today's Starcraft 2 guide we will be looking at the Protoss vs Zerg (PvZ) matchup.  Let's take a look at a simple tip that will help you win in all of your Protoss vs Zerg (PvZ) matches. This is a strategy I use when playing pvz to easily crush the bugs. Hope you enjoy the guide!  Protoss vs Zerg",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-vs-zerg-guide-learn-how-to-stay-safe-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-protoss-vs-zerg-guide-learn-how-to-stay-safe-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=Nr66-65wDKc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nr66-65wDKc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M14S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-04T22:21:45-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Nr66-65wDKc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-protoss-vs-zergpvz-scouting-and-early-game-basics-starcraft-2.md",
       "title": "Protoss vs Zerg(pvz) | Scouting and Early Game Basics [starcraft 2]",
       "excerpt": "Starcraft 2: Protoss vs Zerg | Scouting and Early Game Basics In this guide we take a look at how to scout in the protoss vs zerg matchup in starcraft 2. What you need to be looking for at certain times and what they mean! Enjoy~  #starcraft #pvz #scouting #protoss #vs zerg #starcraft 2 #sc2  Interested",
@@ -931,6 +807,130 @@
       "topics": [
         "StarCraft 2",
         "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-gameplay-protoss-vs-zerg-dark-templar-drop.md",
+      "title": "Starcraft 2 Gameplay | Protoss vs Zerg Dark Templar Drop",
+      "excerpt": "In today's Starcraft 2 guide/tutorial/gameplay we are looking at a protoss vs zerg match against pig. I utilize one of my favourite builds: the dark templar drop and it works like a charm. Check it out :)  Starcraft 2 Gameplay | Protoss vs Zerg Dark Templar Drop #starcraft2 #gameplay #ProtossVsZerg #guide",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-gameplay-protoss-vs-zerg-dark-templar-drop/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-gameplay-protoss-vs-zerg-dark-templar-drop/",
+      "originalUrl": "https://youtube.com/watch?v=HwefKkRqpaY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HwefKkRqpaY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M25S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-12-04T18:15:18-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HwefKkRqpaY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-grandmaster-pvp-hushang-vs-ranger-fpv-commentary.md",
+      "title": "Starcraft 2: Grandmaster PvP | HuShang vs Ranger [FPV & Commentary]",
+      "excerpt": "Starcraft 2 Protoss vs Protoss (pvp) gameplay/ladder.    Top Grandmaster PvP | HuShang vs Ranger [FPV & Commentary] #Starcraft2 #protoss #pvp #commentary  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-grandmaster-pvp-hushang-vs-ranger-fpv-commentary/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-grandmaster-pvp-hushang-vs-ranger-fpv-commentary/",
+      "originalUrl": "https://youtube.com/watch?v=XfkTeiZuUGA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XfkTeiZuUGA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M26S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-01-10T21:45:39-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XfkTeiZuUGA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-how-to-defend-12-pool-old-version-check-update.md",
+      "title": "Starcraft 2 | How to Defend 12 Pool (old version. check update!)",
+      "excerpt": "https://www.hushangcoaching.com  Want more personalized lessons? HuShang has been coaching SC2 professionally for more than 6 years. You can contact him on discord or by email!  Discord: HuShang#9770 Email: hushangtutorials@outlook.com  Enjoying the content. Want to support HuShang Tutorials directly?https://www.patreon.com/hushangtutorials",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-how-to-defend-12-pool-old-version-check-update/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-how-to-defend-12-pool-old-version-check-update/",
+      "originalUrl": "https://youtube.com/watch?v=7Ezci19D-DY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7Ezci19D-DY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M21S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-05-26T14:13:47-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7Ezci19D-DY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-learning-zerg-vs-zerg-from-serral.md",
+      "title": "Starcraft 2: Learning Zerg vs Zerg from Serral",
+      "excerpt": "In today's Zerg guide we are going to be looking at a Zerg vs Zerg match between Serral and Elazer, breaking down the game and seeing what we can learn from two of the top players in Europe.  Sponsor: https://www.siteground.com/index.htm?afcode=2eac6a366dc6939df6d36d5d2217e02c  #Starcraft #zerg #zvz",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-learning-zerg-vs-zerg-from-serral/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-learning-zerg-vs-zerg-from-serral/",
+      "originalUrl": "https://youtube.com/watch?v=7tRaskU_pCE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7tRaskU_pCE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M46S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-10-23T14:42:39-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7tRaskU_pCE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
       ]
     }
   ],

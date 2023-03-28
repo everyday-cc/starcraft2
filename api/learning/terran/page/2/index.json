@@ -4,37 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-defending-protoss-openings-2021.md",
-      "title": "Starcraft 2: Terran vs Protoss | Defending Protoss Openings [2021]",
-      "excerpt": "Hey guys, in our second installation of Terran vs Protoss week we're looking at how to defend a bunch of different openings with the safe beginner terran opening.   Starcraft 2: Terran vs Protoss | Defending Protoss Openings [2021] #Starcraft2 #TerranVsProtoss #TvP #Terran #SC2  0:00 - Intro/Cinematic",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-defending-protoss-openings-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-defending-protoss-openings-2021/",
-      "originalUrl": "https://youtube.com/watch?v=a7L-9spJ0vs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a7L-9spJ0vs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M20S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-01-16T20:26:50-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/a7L-9spJ0vs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-terran-pro-analysis-defending-the-dirtiest-cheeser-of-them-all.md",
       "title": "Terran Pro Analysis | Defending The Dirtiest Cheeser of them all",
       "excerpt": "Starcraft 2 Terran Pro Replay Analysis #Starcraft2​ #terran​ #analysis  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your",
@@ -640,6 +609,46 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ZOMj6X5_eHw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in.md",
+      "title": "StarCraft 2: EASY Zerg vs Terran All-In!",
+      "excerpt": "Easy Zerg build order for the Zerg vs Terran matchup in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Serral's Zerg vs Terran Roach push: https://goo.gl/8A8pSd  This is a much easier build order to execute in Zerg vs Terran. While it is easier and hits much earlier, it is also much",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in/",
+      "originalUrl": "https://youtube.com/watch?v=Te-EQdku9PI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Te-EQdku9PI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-11-30T04:59:22-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Te-EQdku9PI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

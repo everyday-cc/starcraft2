@@ -4,37 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023.md",
-      "title": "Standard Terran vs Terran | Build Order Guide (2023)",
-      "excerpt": "Rock Solid Terran vs Terran Build Order that will keep you safe early game & allow you to build a large economy without dieing too easily. It's not the easiest build order, but it's worth learning with how powerful it is in this matchup!  Standard Terran vs Terran | Build Order Guide (2023) #terran",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023/",
-      "originalUrl": "https://youtube.com/watch?v=eaa-Trta5hY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eaa-Trta5hY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M7S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2023-01-09T15:08:45-08:00",
-      "heat": 141,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eaa-Trta5hY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-why-scientists-wont-settle-for-any-other-build.md",
       "title": "WHY scientists WON'T settle for any other BUILD",
       "excerpt": "In today's lesson we're looking at a terran vs terran gameplan. Was supposed to be the opening but I got a little carried away so you're getting 19 minutes of raw TvT information. Get out your notepads ;)  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
@@ -83,6 +52,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/X1g4O2PTOtQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023.md",
+      "title": "Standard Terran vs Terran | Build Order Guide (2023)",
+      "excerpt": "Rock Solid Terran vs Terran Build Order that will keep you safe early game & allow you to build a large economy without dieing too easily. It's not the easiest build order, but it's worth learning with how powerful it is in this matchup!  Standard Terran vs Terran | Build Order Guide (2023) #terran",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023/",
+      "originalUrl": "https://youtube.com/watch?v=eaa-Trta5hY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eaa-Trta5hY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M7S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2023-01-09T15:08:45-08:00",
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eaa-Trta5hY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -190,77 +190,6 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained.md",
-      "title": "StarCraft 2: Zerg vs Terran EXPLAINED!",
-      "excerpt": "Today's video is made in collaboration with Benetton. The sweater I'm wearing in this video: https://us.benetton.com/knit-sweater-in-100-cotton-beige-1598K1O31_1K9.html?utm_campaign=USA_MF_INFLUENCER_Adult_SpecialContent_SS21-Lowko_Intent_2021-03&utm_medium=live&utm_source=youtube.com  In this video",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained/",
-      "originalUrl": "https://youtube.com/watch?v=rGa7TwyZa_4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rGa7TwyZa_4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-04-28T02:19:50-07:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rGa7TwyZa_4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-terran-vs-zerg-strategy-zerg-players-are-going-to-hate-you.md",
-      "title": "Terran vs Zerg Strategy | Zerg players are going to HATE you!",
-      "excerpt": "In today's Starcraft 2 guide we're looking at an incredibly fun and aggressive way to play the Terran vs Zerg (TvZ) matchup. In today we set up a gameplan, tomorrow and the day after we'll take a look at the micro, control group set up and some examples!  Terran vs Zerg | HYPER AGRESSIVE - Zerg players",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-vs-zerg-strategy-zerg-players-are-going-to-hate-you/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-terran-vs-zerg-strategy-zerg-players-are-going-to-hate-you/",
-      "originalUrl": "https://youtube.com/watch?v=wuswbgWg_rw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wuswbgWg_rw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M41S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-17T19:53:34-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wuswbgWg_rw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-very-powerful-3-rax-attack-terran-build-order-guide-2021.md",
       "title": "Very Powerful 3 Rax Attack | Terran Build Order Guide (2021)",
       "excerpt": "This is a super strong & really fun Starcraft 2 Terran build order that I've been playing in my TvP's almost exclusively. You get right into the action super fast and it's very difficult for protoss to defend your first push never mind the second one. ` Very Powerful 3 Rax Attack | Terran Build Order",
@@ -292,14 +221,14 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-co-op-swarming-infested-terran-stukov-guide.md",
-      "title": "StarCraft 2 Co-op: SWARMING INFESTED TERRAN! (Stukov Guide)",
-      "excerpt": "A guide on how to play Stukov and swarm the map with the infested. Subscribe for more videos: http://lowko.tv/youtube More co-op: https://goo.gl/08VRI9  Stukov is an incredibly powerful commander in the co-op version of StarCraft 2. After leveling him up to level 15 I figured out several great unit compositions",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-co-op-swarming-infested-terran-stukov-guide/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-co-op-swarming-infested-terran-stukov-guide/",
-      "originalUrl": "https://youtube.com/watch?v=OwowRArz5Do",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OwowRArz5Do\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M1S",
+      "path": "_learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained.md",
+      "title": "StarCraft 2: Zerg vs Terran EXPLAINED!",
+      "excerpt": "Today's video is made in collaboration with Benetton. The sweater I'm wearing in this video: https://us.benetton.com/knit-sweater-in-100-cotton-beige-1598K1O31_1K9.html?utm_campaign=USA_MF_INFLUENCER_Adult_SpecialContent_SS21-Lowko_Intent_2021-03&utm_medium=live&utm_source=youtube.com  In this video",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-zerg-vs-terran-explained/",
+      "originalUrl": "https://youtube.com/watch?v=rGa7TwyZa_4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rGa7TwyZa_4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M34S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -312,11 +241,11 @@
           }
         ]
       },
-      "publishedDateTime": "2016-12-16T08:09:20-08:00",
+      "publishedDateTime": "2021-04-28T02:19:50-07:00",
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/OwowRArz5Do/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/rGa7TwyZa_4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -327,7 +256,8 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Terran",
+        "Zerg"
       ]
     },
     {
@@ -393,6 +323,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-terran-vs-zerg-strategy-zerg-players-are-going-to-hate-you.md",
+      "title": "Terran vs Zerg Strategy | Zerg players are going to HATE you!",
+      "excerpt": "In today's Starcraft 2 guide we're looking at an incredibly fun and aggressive way to play the Terran vs Zerg (TvZ) matchup. In today we set up a gameplan, tomorrow and the day after we'll take a look at the micro, control group set up and some examples!  Terran vs Zerg | HYPER AGRESSIVE - Zerg players",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-vs-zerg-strategy-zerg-players-are-going-to-hate-you/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-terran-vs-zerg-strategy-zerg-players-are-going-to-hate-you/",
+      "originalUrl": "https://youtube.com/watch?v=wuswbgWg_rw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wuswbgWg_rw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M41S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-17T19:53:34-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wuswbgWg_rw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-terran-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse.md",
       "title": "Terran Hotkeys | Life changing tips to setup your keyboard and mouse",
       "excerpt": "Taking a look at my Terran hotkeys due to popular request. If you want download my hotkeys, you can do so here: https://www.hushangcoaching.com/product/terran-hotkeys/  Terran Hotkeys | Life changing tips to setup your keyboard and mouse #hotkeys #StarCraft2 #Terran   Coaching --------------------------------------------------------------------------",
@@ -410,6 +371,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/kljRMVyUlfU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-co-op-swarming-infested-terran-stukov-guide.md",
+      "title": "StarCraft 2 Co-op: SWARMING INFESTED TERRAN! (Stukov Guide)",
+      "excerpt": "A guide on how to play Stukov and swarm the map with the infested. Subscribe for more videos: http://lowko.tv/youtube More co-op: https://goo.gl/08VRI9  Stukov is an incredibly powerful commander in the co-op version of StarCraft 2. After leveling him up to level 15 I figured out several great unit compositions",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-co-op-swarming-infested-terran-stukov-guide/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-co-op-swarming-infested-terran-stukov-guide/",
+      "originalUrl": "https://youtube.com/watch?v=OwowRArz5Do",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OwowRArz5Do\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M1S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-12-16T08:09:20-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OwowRArz5Do/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -460,46 +460,6 @@
       "topics": [
         "StarCraft 2",
         "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in.md",
-      "title": "StarCraft 2: EASY Zerg vs Terran All-In!",
-      "excerpt": "Easy Zerg build order for the Zerg vs Terran matchup in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Serral's Zerg vs Terran Roach push: https://goo.gl/8A8pSd  This is a much easier build order to execute in Zerg vs Terran. While it is easier and hits much earlier, it is also much",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in/",
-      "originalUrl": "https://youtube.com/watch?v=Te-EQdku9PI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Te-EQdku9PI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-11-30T04:59:22-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Te-EQdku9PI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
       ]
     },
     {
@@ -962,6 +922,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/N1rZW8yd_7M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-defending-protoss-openings-2021.md",
+      "title": "Starcraft 2: Terran vs Protoss | Defending Protoss Openings [2021]",
+      "excerpt": "Hey guys, in our second installation of Terran vs Protoss week we're looking at how to defend a bunch of different openings with the safe beginner terran opening.   Starcraft 2: Terran vs Protoss | Defending Protoss Openings [2021] #Starcraft2 #TerranVsProtoss #TvP #Terran #SC2  0:00 - Intro/Cinematic",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-defending-protoss-openings-2021/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-defending-protoss-openings-2021/",
+      "originalUrl": "https://youtube.com/watch?v=a7L-9spJ0vs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a7L-9spJ0vs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M20S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-01-16T20:26:50-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/a7L-9spJ0vs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

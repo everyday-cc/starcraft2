@@ -4,37 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-terran-vs-zerg-strategy-zerg-players-are-going-to-hate-you.md",
-      "title": "Terran vs Zerg Strategy | Zerg players are going to HATE you!",
-      "excerpt": "In today's Starcraft 2 guide we're looking at an incredibly fun and aggressive way to play the Terran vs Zerg (TvZ) matchup. In today we set up a gameplan, tomorrow and the day after we'll take a look at the micro, control group set up and some examples!  Terran vs Zerg | HYPER AGRESSIVE - Zerg players",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-vs-zerg-strategy-zerg-players-are-going-to-hate-you/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-terran-vs-zerg-strategy-zerg-players-are-going-to-hate-you/",
-      "originalUrl": "https://youtube.com/watch?v=wuswbgWg_rw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wuswbgWg_rw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M41S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-17T19:53:34-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wuswbgWg_rw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-zerg-macro-guide-injects-the-most-important-zerg-lesson-youve-ever-had-starcraft-2.md",
       "title": "Zerg Macro Guide (injects) | The MOST important ZERG lesson you've ever had [Starcraft 2]",
       "excerpt": "This is the most important zerg macro guide you will ever watch! Make sure to watch till the end to get extra tips on maintaining a strong macro cycle without missing a beat!  The MOST important ZERG lesson you've ever had  #zerg #macro #guide #starcraft #sc2  Coaching --------------------------------------------------------------------------",
@@ -139,6 +108,45 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-the-end-of-protoss-new-balance-patch.md",
+      "title": "StarCraft 2: The End of Protoss? (New Balance Patch)",
+      "excerpt": "The new StarCraft 2 balance patch is live. In this video I go over all the changes made to Zerg, Protoss and Terran and ramble about a few things related to SC2.  https://news.blizzard.com/en-us/starcraft2/23893118/starcraft-ii-5-0-11-patch-notes  Support my work: https://patreon.com/lowkotv Lowko Merch:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-the-end-of-protoss-new-balance-patch/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-the-end-of-protoss-new-balance-patch/",
+      "originalUrl": "https://youtube.com/watch?v=-Anug-kaAYM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-Anug-kaAYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M34S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-24T03:26:01-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-Anug-kaAYM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
       ]
     },
     {

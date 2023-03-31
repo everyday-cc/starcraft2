@@ -4,6 +4,36 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/videos/pig-coaching-grandmaster-going-proprepping-for-tournaments.md",
+      "title": "Coaching Grandmaster - Going Pro/Prepping for Tournaments",
+      "excerpt": "I coach GM Zerg CalebAracous on taking his play up to the pro level and preparing for tournaments.\r \r Notes: https://docs.google.com/document/d/1F0z17cftqf0r7R4gq9UBJye9I3H1YszhgXBvrMUAscE/edit?usp=sharing -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-grandmaster-going-proprepping-for-tournaments/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-grandmaster-going-proprepping-for-tournaments/",
+      "originalUrl": "https://youtube.com/watch?v=YanpXEN2QVU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YanpXEN2QVU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M43S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:42:45-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YanpXEN2QVU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-coaching-master-1-zvt-roach-pressure-into-ling-bane-muta.md",
       "title": "Coaching Master 1 ZvT - Roach Pressure into Ling Bane Muta",
       "excerpt": "I coach Tambi, a 5300MMR Zerg on his ZvT, focusing on refining his roach pressure into ling-bane muta. -- Watch live at https://www.twitch.tv/x5_pig",
@@ -890,38 +920,6 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-tvz-2-1-1-micromacro-balance-d3.md",
-      "title": "Coaching TvZ - 2-1-1 + Micro/Macro Balance - D3",
-      "excerpt": "I coach a diamond 3 Terran on his 2-1-1 build order, where to focus his attention, when to look at the fighting and when to look at home -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvz-2-1-1-micromacro-balance-d3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvz-2-1-1-micromacro-balance-d3/",
-      "originalUrl": "https://youtube.com/watch?v=xnIgmUNoBqs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xnIgmUNoBqs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M43S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-08-15T03:29:54-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xnIgmUNoBqs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
       ]
     }
   ],

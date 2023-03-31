@@ -4,6 +4,38 @@
   "page": 13,
   "value": [
     {
+      "path": "_learning/videos/pig-coaching-tvz-2-1-1-micromacro-balance-d3.md",
+      "title": "Coaching TvZ - 2-1-1 + Micro/Macro Balance - D3",
+      "excerpt": "I coach a diamond 3 Terran on his 2-1-1 build order, where to focus his attention, when to look at the fighting and when to look at home -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvz-2-1-1-micromacro-balance-d3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvz-2-1-1-micromacro-balance-d3/",
+      "originalUrl": "https://youtube.com/watch?v=xnIgmUNoBqs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xnIgmUNoBqs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M43S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-08-15T03:29:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xnIgmUNoBqs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-coaching-tvz-bbq-party-and-when-to-macro-when-to-micro.md",
       "title": "Coaching TvZ - BBQ Party and When to Macro, When to Micro",
       "excerpt": "I coach Vision on the bbq party opening and how to shift his focus from micro into macro at the right times -- Watch live at https://www.twitch.tv/x5_pig",
@@ -890,37 +922,6 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-defending-cannon-rushes-in-zvp-coaching-diamond-1.md",
-      "title": "Defending Cannon Rushes in ZvP - Coaching Diamond 1",
-      "excerpt": "I coach a diamond zerg on defending cannon rushes. We don’t get to cover every variation but talk through many of the key details  -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-defending-cannon-rushes-in-zvp-coaching-diamond-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-defending-cannon-rushes-in-zvp-coaching-diamond-1/",
-      "originalUrl": "https://youtube.com/watch?v=NvpPcyzZ2Uw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NvpPcyzZ2Uw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H3M55S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:44:33-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NvpPcyzZ2Uw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
       ]
     }
   ],

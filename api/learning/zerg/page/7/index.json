@@ -583,6 +583,14 @@
       },
       "publishedDateTime": "2017-06-08T03:55:58-07:00",
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pkFiCVmiHSw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "price": "Free",

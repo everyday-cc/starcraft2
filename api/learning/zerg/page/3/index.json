@@ -4,6 +4,68 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-zerg-macro-guide-you-wont-believe-how-many-more-drones-i-got-starcraft-2.md",
+      "title": "Zerg Macro Guide | You WONT BELIEVE how many MORE DRONES I got!!! [Starcraft 2]",
+      "excerpt": "In this zerg macro guide we take a DEEP look at the nuances of droning, economy & macro to help you understand where you might be going wrong in your games. How is it that Grand Master's a pros generate so many more drones than you?!? You're about to find out :)  Zerg Macro | You WONT BELIEVE how many",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-macro-guide-you-wont-believe-how-many-more-drones-i-got-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-zerg-macro-guide-you-wont-believe-how-many-more-drones-i-got-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=QmfbJTpcvt8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QmfbJTpcvt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M1S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-08-31T22:12:47-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QmfbJTpcvt8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-zerg-vs-protoss-adapting-to-stargate-protoss-tips-on-defending-at-the-end.md",
+      "title": "Zerg vs Protoss | Adapting to Stargate [protoss tips on defending at the end]",
+      "excerpt": "In today's zerg vs protoss guide I show you how to scout and adapt your zvp opening to stargate play to get the most out of your economy.  Mastering Starcraft 2: Zerg vs Protoss | Adapting to Stargate [protoss tips on defending at the end] #StarCraft2 #sc2 #zerg #roach #zvp  Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-vs-protoss-adapting-to-stargate-protoss-tips-on-defending-at-the-end/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-zerg-vs-protoss-adapting-to-stargate-protoss-tips-on-defending-at-the-end/",
+      "originalUrl": "https://youtube.com/watch?v=iHxkpjJwrjg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iHxkpjJwrjg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M46S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-24T15:54:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iHxkpjJwrjg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-zerg-vs-protoss-how-is-this-unit-not-nerfed-protoss-players.md",
       "title": "Zerg vs Protoss | How is this unit not NERFED? - protoss players",
       "excerpt": "In today's Starcraft 2 lesson we take a look at a Zerg vs Protoss game against youtube celebrity \"casually explained\". We use one of the most protoss hated units: the swarmhost. I can personally guarantee this strategy to be an exceptional salt mine.  Zerg vs Protoss | Protoss players LOVE this strategy,",
@@ -888,46 +950,6 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-how-to-counter-protoss-carriers-as-zerg.md",
-      "title": "StarCraft 2: How-To Counter PROTOSS CARRIERS As Zerg!",
-      "excerpt": "A Zerg tutorial on how to counter Carriers and mass Skytoss play. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 guides: https://goo.gl/CE3Hx5  Ever since the recent balance changes to StarCraft 2's multiplayer, the Zerg versus Protoss match-up has changed. Where as in the past it",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-how-to-counter-protoss-carriers-as-zerg/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-how-to-counter-protoss-carriers-as-zerg/",
-      "originalUrl": "https://youtube.com/watch?v=xZcfL2jBgfY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xZcfL2jBgfY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M4S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-01-04T04:31:22-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xZcfL2jBgfY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/lowkotv-starcraft-2-jaedongs-zerg-versus-terran-build-order-guide-how-to.md",
       "title": "StarCraft 2: Jaedongs Zerg versus Terran Build Order (Guide & How-to)",
       "excerpt": "In the round of 8 in the WCS America for StarCraft 2: Heart of the Swarm, Jaedong uses an incredibly effective build order versus Hack, where he decided to go for a Roach Overlord Drop in Zerg versus Terran. In this video we take a look at the build order that EGJaedong uses versus the Terran player",
@@ -1122,46 +1144,6 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-solars-zerg-versus-terran-build-order-tutorial.md",
-      "title": "StarCraft 2: Legacy of the Void - Solar's Zerg versus Terran Build Order! (Tutorial)",
-      "excerpt": "Solar is widely regarded as the current best player in StarCraft 2: Legacy of the Void. While the game only came out a couple of weeks ago, he has been dominating the scene with incredible play in all match-ups throughout the beta of the expansion as well. His Zerg versus Terran in particular seems nearly",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-solars-zerg-versus-terran-build-order-tutorial/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-solars-zerg-versus-terran-build-order-tutorial/",
-      "originalUrl": "https://youtube.com/watch?v=SUOhXtYRl0o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SUOhXtYRl0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M7S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2015-12-02T07:27:25-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SUOhXtYRl0o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
         "Zerg"
       ]
     }

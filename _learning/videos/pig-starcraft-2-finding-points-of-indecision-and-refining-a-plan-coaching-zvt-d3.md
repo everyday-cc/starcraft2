@@ -17,12 +17,6 @@ provider:
 topics:
   - StarCraft 2
 
-images:
-  - url: https://i.ytimg.com/vi/-57KegRazYY/maxresdefault.jpg
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "CB+PmRvpNgfZnEa6HIj2BvWh/SZBB4ymaEzVvbBjXuNSy2tvgXtqJKOEnTn52UIiCPS4uGt8DbfDTU838TfcMVsPPETGCRU9wV/ycfkN25s4DETbx0AwFgwArJ86UZgDBgVmJ4WV5TKkuXXzLYG53E+09oMkJkcA07ZhggvFxQMKDhJNQXoiJZ0hjXQIRg2f8cyF5g+GThKawFS0lpD1l2GInCQKSQHWD/he7gANe7Sk20Yy2ESuKkbm3JwaIk98dQsAZqM9bXtyXDrLuIVKkPhNf2Sz+QI38U26CdRVD2S1y37XvrePMp1X1Spw/3+pYR5LFD9uDnU/KBhuUlAm/6arJrHBlQaKhnBOOwKWcolUXsZFKjyxWv/hbhr2mB7RztXB/pDzM4dl0JUqY0yBnw==;xqNteT50i/aGFBYmyflO2w=="
+secured: "IlW3uJ1y7VBgw/XSwI7T/KM/okifLMcPMEZlx2+CnnS+RTkOLEg1H7iGPr7dP76+TK0cVplxemZVg9brwALlIEqyAqTTI9OFQnrzwPgFeUhz/mTiw74DnPl1QPlLXRBtPT3FVEvdkiHMQHpjNZIlWfg+eI5K/mt/QYH/H0OC90jtLnxjUvLf3F621a/GS0HB/AZb2ofcmWfvQX85G0huXp6bJ8WckP50sXCrVna3owD3LrUiQT5cdqv9uz/CsDGCqvwHLDkzMzTD6xyIj0WJ8lXL8T60lZhMaq36mqOUhPEA8pWmDshQxL79qS9ziZXrk7xfRORCWEKJWnDFJPrS//IUt1dqKQZU0wKedgEE+cOMb67upv9ao8iIG5PEPDelKUhv6uRzQKj0DijVuDUjLQ==;uL6D+RV478ls0h7s+Y9Y+A=="
 ---
 

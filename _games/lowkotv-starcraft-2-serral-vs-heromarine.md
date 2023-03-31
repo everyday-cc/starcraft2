@@ -21,12 +21,6 @@ topics:
   - StarCraft 2
   - Zerg
 
-images:
-  - url: https://i.ytimg.com/vi/PnecLuthYfA/maxresdefault.jpg
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "YEFifUWW2+/M5GZ1ss3NfUli3AjmH77w2+HhdXWtFd5rJqKFAN10wXIjcto562phM2laV5MHVaHLCze7iIaWYJj8JrBp1PrfV71jYCRky7Wt3M7lA06+5FVu805lDKJbIqweq27M7e5IiXlqPaazakRG6MeYm38KCOtHhu3ulu2jhm+e3YEBnc1zbnaCUZ4ye8dR/12Srh71DOZ61SaR+yHE8dXAxbSuXw5KXBoxGfgs0hs509+A4PwmVD9Q+u4BX5et1GUKRDWKUG7+bbh2riBOFbfzSvA2RMhdc2aH3yew3sbF/u/raw2ETRvEeCsTgYYQYoMeO7eZX4ymXd6yJ3hVjyEB+GiYotS4TuKuYEXcjJx7JRtTuOv/hSnSzCQCuG6Yy/XXwMnAd8S+yPaTQw==;MLbKbcaFFqu2wmzhfQ4XlQ=="
+secured: "YY0mMeg1pO/CA9O/8k0dbzSwiPjyed9iD3CE+9SVWda7WwHJU9hZY58HARXTNn+EUJTKgD4hgMtmPQSMDSf85O7C7AfOZK+6vur7Mq2ktbV4NK9N4ceKzENxqTDczE051WXgGZGODT03FR3nsSAd+jUN750vc0VOoST20UMbqqbkc9P/TWN5bg0HJ6A+58CKX5623QuynLjWsD7SNaXv/0QH3y4zee7vNRq+6rFahXZ6pvTIiQ8Oq4hWqZJ5ec26ZBnlMsLII24dLzsAZWPWLf+ePd2yw2OClgFVXM3KiI4OGXq7DMVGYc7QpukiRbZ2p+1T0nOH2QkqjyqXZpvWYSd0La6XF3J8w0JnBKEbxcrYIC1Mk+H3OnvxRP5p663PwOa+/tHNvarwhb/Fc5asbA==;vGGzHKu66LRROEnjf/DaTg=="
 ---
 

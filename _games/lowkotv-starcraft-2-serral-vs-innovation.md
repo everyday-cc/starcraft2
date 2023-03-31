@@ -22,6 +22,12 @@ topics:
   - Terran
   - Zerg
 
-secured: "6aCqwOjVT0CRPkYXtRpazis3toEX1EsIMihIIfljPpJFyxnY+eeIUPgIKfSiE+AeiLx4cJavfabZIG26RXpuT57E6X9CwY+ziMrFZYhViPSm6g36jrh+MrV3Te1/xqGKAeuxmCHpaBXp0es5j7mbtunNdRW3Zsn++0g3X5oIXIgEuMzdCtZ+DVajaMUMI6sB6K+RBYgWlH7CRLg2mbxUjpDEsBqYKpcVUOLoQd/vkgtlC8SIzmUSURhJL2ND48b9NLGH19bg72V7mIj0HlFZaRlRFEt0xgwnMnz/3YceJzwmv6bMC8tUXup165sqGCH4Re7Pd6ObJR7rI3roIrG+P+Dkl6m/F5Ov1blqo7BXG5uZj6A3qswbL20PKj89PkUbRJYlXyChg9Yy+GJUt5V5fg==;X4ExrtPjob1vnBgZMAgQ8A=="
+images:
+  - url: https://i.ytimg.com/vi/Z8DlwTY9ce0/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "RL2HLHXmgO93OE6CN+Dr1mXFcNB0cjfGqvzn2+EKaul2AwXNF3XRqVeB3cWZidFYM/Anq7CM9sLmdeK/kmlpjbgJed3JMnxHsP1TEfQJ69+dNSDrIlbRaQjyjMwtkjrvk1myTVguO3vip8Hu+wL6BocU8vJw3CU71x6Y/HfL5RYdCl/eO/GUvd6h175A228o0/vcPgyvt9W3QZVCV9cbO9rLl8X5Z0J6KaoDiqyeXXZyHpJIfR1a5IexoK3I8UEE6mDlk/yNrcJ+eFyqG+cyfQ/gIs8Zqe20SKBsegmCc0UUrROpF9bp8w5QXxjApUjpKGzHjrvv/lGVruQAE8OItieQYVz/KMyLW5yKsOtPyWpNAcJC788SbBTF80mhuPTGtloO0XxqKXgZyvymSFCttw==;/cngwURZCOJFj6MUl3knOw=="
 ---
 

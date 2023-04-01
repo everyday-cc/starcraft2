@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=HAllY6EGYIQ
 type: video
 length: PT49M38S
 publishedDateTime: 2023-03-17T11:17:19Z
-heat: 149
+heat: 145
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HAllY6EGYIQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "jnfaXxUXMOfZ5bkUI3/BOa8hredzWmrlWnPMiDOe2mrx2gwmFjiRyhDUWAPHzG47FGKvKVc1Q+3Cao/cf0JoFTtoJUEiAJpLiVHvfyTN+Ru957vTeBDaZX5C5I1P1x4G9lP7czlp8Xv+JB3+73cGgQyDLUH8Hdhonj3qtwdS0yGIUTM0KWrcghtAmGPIl6jQpwXXtBbypUSso8Lf5IBJGXMYQg4cmrwiMxW+gH4Y+AFwWEW/FzK9EbDJo40bUiyyLfp/ohNHjZUfPOm2ORcbLmHvVA7P/egwfgMHCFLOm+lOgJZBxaVO4IDFdYQCmtC7lXTZrKtHvBVOohfvxzStmkhl/k0zfYIBJXRCg3wKupZM1I/Lu+ZiW2ORbGc3PE/2PfRX/G2B4u2jSIwoEr+KktaExj9phAGzvRlAoa4uImL3hq/imP8f2oHhqSbmokZP;fcTUavdoU3ckO1TbMySmog=="
+secured: "sHEIe3DJ665WmGbzqEaiJICYMx/amukGaEyTre7NeMPHdyQg8DydJHnGDq4dwQJ1UbMDndWgdx+O94mP58i9DXvSZ3SqFEs0MobsGZWyf2qYnuBWM593rmT1GfmdRr+Ect1LGnAP3/TxffwKtGD6hjzLzWqsygfkEO+0AESSDGLT8X5COkAD8+RS34sg8zFPWS5AUF4vV+TTDIW1xsA3b1NyI6B0sJvhrRERlrjWsaEaHb1DprhA9Me9QzxbjyiByDPJzhiC5PZyCCERq4J13YlzvZ2yTc1qu8a9sNaOv4TmayQepn6+Vm5j0PiJ4SYgvjf7FzsBEXiusMnmEtdxsVkOuuTFKD8mdg+0lygFXQX6bd8OhkRTrgimW42TWPtkNxLsOkFiWM9SKd8PY8oh6r74S+fwyGK9iQkLZOneERWjQTHjFgyUUiErt4yA1IiZ;hHKuVKiWZrEa5BbwKpSDlg=="
 ---
 

@@ -4,44 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-15-year-old-vs-scarletts-mass-brood-lord-arrogfire-vs-scarlett.md",
-      "title": "StarCraft 2: 15 Year Old vs Scarlett's Mass Brood Lord! (Arrogfire vs Scarlett)",
-      "excerpt": "Arrogfire is the most succesful player from the Junior Championships in StarCraft 2. In this SC2 cast he's facing off against Scarlett. How does the rookie do versus the veteran?  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-15-year-old-vs-scarletts-mass-brood-lord-arrogfire-vs-scarlett/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-15-year-old-vs-scarletts-mass-brood-lord-arrogfire-vs-scarlett/",
-      "originalUrl": "https://youtube.com/watch?v=Ck84x_9YN2U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ck84x_9YN2U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M18S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 91,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ck84x_9YN2U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-07-12T02:03:51-07:00"
-    },
-    {
       "path": "_games/pig-when-you-think-its-a-tvz-but-you-3-rax-a-terran-instead-diamond-in-the-ruff-65-starcraft-2.md",
       "title": "When you think it's a TvZ, but you 3-Rax a Terran instead | Diamond in the Ruff #65 - StarCraft 2",
       "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent?   💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
@@ -526,44 +488,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-02T04:12:14-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-proxy-hatchery-vs-zerg-dark-vs-soo.md",
-      "title": "StarCraft 2: Proxy Hatchery vs... ZERG?! (Dark vs soO)",
-      "excerpt": "We've seen Dark execute Proxy Hatcheries versus Protoss frequently but also every once in a while against Terran. Now he does it against Zerg as well? In this game of StarCraft 2 I cast a match between the South-Korean players Dark and soO.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-hatchery-vs-zerg-dark-vs-soo/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-proxy-hatchery-vs-zerg-dark-vs-soo/",
-      "originalUrl": "https://youtube.com/watch?v=z_8ESJ7piww",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z_8ESJ7piww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M45S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 70,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/z_8ESJ7piww/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-28T02:47:38-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-innovation-is-back-amazing-series-vs-dark-best-of-3.md",
@@ -1264,6 +1188,84 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-01-18T04:54:46-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-darks-swarm-hosts-vs-maru.md",
+      "title": "StarCraft 2: Dark's SWARM HOSTS vs Maru?!",
+      "excerpt": "Professional match of StarCraft 2 between Maru and Dark. Maru has been playing a turtle style of Terran versus Zerg lately, and because of that Dark decides to give the most underused Zerg unit a try: The Swarm Host.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-swarm-hosts-vs-maru/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-swarm-hosts-vs-maru/",
+      "originalUrl": "https://youtube.com/watch?v=_HUE_txgIrA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_HUE_txgIrA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_HUE_txgIrA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-08-04T02:29:47-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-most-epic-game-played-on-the-new-patch-dark-vs-byun.md",
+      "title": "StarCraft 2: Most EPIC GAME played on the new Patch! (Dark vs ByuN)",
+      "excerpt": "An amazing game of StarCraft 2 between Dark (Zerg) and ByuN (Terran). In this match of SC2 we watch two pro gamers perform at the absolute peak of their abilities... with of course a few mistakes here and there.   Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-most-epic-game-played-on-the-new-patch-dark-vs-byun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-most-epic-game-played-on-the-new-patch-dark-vs-byun/",
+      "originalUrl": "https://youtube.com/watch?v=4VrFhG9vPKE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4VrFhG9vPKE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT48M35S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4VrFhG9vPKE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-25T07:48:59-08:00"
     }
   ],
   "nextPage": 3

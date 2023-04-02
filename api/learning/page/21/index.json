@@ -4,6 +4,36 @@
   "page": 21,
   "value": [
     {
+      "path": "_learning/videos/pig-starcraft-2-coaching-plat-tvp-mine-drop-harassment.md",
+      "title": "StarCraft 2 - Coaching Plat TvP - Mine + Drop Harassment",
+      "excerpt": "In this weeks I Cast Your Freakin Awesome Replays players show off the new units and abilities in 4.0  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-coaching-plat-tvp-mine-drop-harassment/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-coaching-plat-tvp-mine-drop-harassment/",
+      "originalUrl": "https://youtube.com/watch?v=y-Sjb7lzV0k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y-Sjb7lzV0k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M42S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:42:45-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/y-Sjb7lzV0k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-starcraft-2-coaching-platinum-pvp-pvz.md",
       "title": "StarCraft 2 - Coaching Platinum PvP + PvZ",
       "excerpt": "I coach a Platinum/Diamond Protoss helping him adjust to the new patch -- Watch live at https://www.twitch.tv/x5_pig",
@@ -889,37 +919,6 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-coaching-zvp-vs-cannon-rush.md",
-      "title": "StarCraft 2 - Coaching ZvP vs Cannon Rush",
-      "excerpt": "I coach my student on having a smooth reaction in ZvP to pylons blocking your natural and cannon rushes. -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-coaching-zvp-vs-cannon-rush/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-coaching-zvp-vs-cannon-rush/",
-      "originalUrl": "https://youtube.com/watch?v=orYHRXhML7Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/orYHRXhML7Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M12S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:42:45-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/orYHRXhML7Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
       ]
     }
   ],

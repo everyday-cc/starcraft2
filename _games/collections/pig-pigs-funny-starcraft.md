@@ -1014,6 +1014,7 @@ items:
   - pig-toss-rages-when-opponent-wont-give-him-a-free-win-salt-mines-32-starcraft-2
   - pig-the-silliest-planetary-fortress-rush-ever-florencio-files-279-starcraft-2
   - pig-printfs-abuse-of-the-carrier-change-is-genius-king-of-cannons-23-starcraft-2
+  - pig-when-a-game-is-so-stressful-their-brain-breaks-smooth-brain-boanaan-4-starcraft-2
 
 topics:
   - StarCraft 2

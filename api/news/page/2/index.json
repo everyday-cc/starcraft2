@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-18-starcraft-2-legacy-of-the-void-special-editions-come-with-items-for-other-games.md",
+      "title": "StarCraft 2: Legacy of the Void Special Editions Come With Items for Other Games",
+      "excerpt": "In addition, all versions come with a StarCraft character for Heroes of the Storm to be announced later. Preorders for the standard, Deluxe, and Collector's Editions are open now. The Standard ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamespot.com/articles/starcraft-2-legacy-of-the-void-special-editions-co/1100-6428926/",
+      "originalUrl": "https://www.gamespot.com/articles/starcraft-2-legacy-of-the-void-special-editions-co/1100-6428926/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1197/11970954/2888805-e32015-youtube--video-template.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/starcraft-2-legacy-of-the-void-special-editions-co/1100-6428926/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-2-legacy-of-the-void-special-editions-co/1100-6428926/",
+      "publishedDateTime": "2022-03-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_news/2022-03-08-starcraft-ii-509-ptr-patch-notes.md",
       "title": "StarCraft II 5.0.9 PTR Patch Notes",
       "excerpt": "We&amp;#39;ve been working with community members and tournament organizers to put together a Balance Patch. You can check it out on the PTR now!",
@@ -1099,48 +1151,6 @@
       "provider": {
         "name": "The Daily Dot",
         "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-esl-and-shopify-agree-esl-pro-tour-starcraft-ii-partnership.md",
-      "title": "ESL and Shopify agree ESL Pro Tour StarCraft II partnership",
-      "excerpt": "Esports brand ESL and eCommerce platform Shopify announced that they will cooperate on the ESL Pro Tour StarCraft II this year.",
-      "sourceUrl": null,
-      "webUrl": "https://esportsinsider.com/2021/05/shopify-esl-partnership/",
-      "originalUrl": "https://esportsinsider.com/2021/05/shopify-esl-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resources.esportsinsider.com/esportsinsider/2021/05/shopify-esl-header.png",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://esportsinsider.com/2021/05/shopify-esl-partnership/?amp",
-      "cdnAmpWebUrl": "https://esportsinsider-com.cdn.ampproject.org/c/s/esportsinsider.com/2021/05/shopify-esl-partnership/?amp",
-      "publishedDateTime": "2021-05-24T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "esportsinsider",
-        "domain": "esportsinsider.com",
         "images": null,
         "publishers": null,
         "authors": null

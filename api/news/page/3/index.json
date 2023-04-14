@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-24-esl-and-shopify-agree-esl-pro-tour-starcraft-ii-partnership.md",
+      "title": "ESL and Shopify agree ESL Pro Tour StarCraft II partnership",
+      "excerpt": "Esports brand ESL and eCommerce platform Shopify announced that they will cooperate on the ESL Pro Tour StarCraft II this year.",
+      "sourceUrl": null,
+      "webUrl": "https://esportsinsider.com/2021/05/shopify-esl-partnership/",
+      "originalUrl": "https://esportsinsider.com/2021/05/shopify-esl-partnership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resources.esportsinsider.com/esportsinsider/2021/05/shopify-esl-header.png",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://esportsinsider.com/2021/05/shopify-esl-partnership/?amp",
+      "cdnAmpWebUrl": "https://esportsinsider-com.cdn.ampproject.org/c/s/esportsinsider.com/2021/05/shopify-esl-partnership/?amp",
+      "publishedDateTime": "2021-05-24T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "esportsinsider",
+        "domain": "esportsinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-starcraft-ii-great-taeja-is-retiring-once-again.md",
       "title": "Starcraft II Great TaeJa Is Retiring Once Again",
       "excerpt": "The conclusion he reached that it was time for him to leave the professional StarCraft II scene. “It wasn’t an easy decision,” he wrote. “I can feel I want to play more, but the ...",
@@ -1057,48 +1099,6 @@
       "provider": {
         "name": "The Droid Guy",
         "domain": "thedroidguy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game.md",
-      "title": "‘StarCraft II’ devs open new studio to work on “next great” RTS game",
-      "excerpt": "A number of ‘StarCraft II’ developers have banded together to open a new studio focused on PC real-time strategy games.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nme.com/en_au/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793542",
-      "originalUrl": "https://www.nme.com/en_au/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793542",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2020/10/102020-Starcraft-II-Blizzard-Entertainment.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nme.com/en_au/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793542?amp",
-      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_au/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793542?amp",
-      "publishedDateTime": "2020-10-20T23:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
         "images": null,
         "publishers": null,
         "authors": null

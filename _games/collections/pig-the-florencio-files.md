@@ -2,7 +2,7 @@
 title: "The Florencio Files"
 excerpt: "Welcome to this mystical StarCraft 2 playlist, the one-and-only™ documented archives of the legendary SEWER MERMAID!"
 type: collection
-heat: 66
+heat: 62
 
 provider:
   name: PiG
@@ -287,6 +287,7 @@ items:
   - pig-flo-hides-14-bases-in-one-game-florencio-files-276-starcraft-2
   - pig-flo-pulls-off-69-iq-defense-after-baiting-all-in-florencio-files-277-starcraft-2
   - pig-squatting-protoss-refuses-to-leave-terran-premises-florencio-files-278-starcraft-2
+  - pig-the-silliest-planetary-fortress-rush-ever-florencio-files-279-starcraft-2
 
 topics:
   - StarCraft 2

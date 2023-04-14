@@ -2,7 +2,7 @@
 title: "The King of Cannons"
 excerpt: "It's much better when you're watching someone else get cannoned in StarCraft 2, isn't it?"
 type: collection
-heat: 60
+heat: 61
 
 provider:
   name: PiG
@@ -28,6 +28,7 @@ items:
   - pig-bm-zerg-offensive-ggs-too-early-lmao-king-of-cannons-20-starcraft-2
   - pig-the-warp-prism-ability-everyones-forgotten-about-king-of-cannons-21
   - pig-cannon-rush-into-complete-chaos-bet-u-cant-guess-who-wins-king-of-cannons-22-starcraft-2
+  - pig-printfs-abuse-of-the-carrier-change-is-genius-king-of-cannons-23-starcraft-2
 
 topics:
   - StarCraft 2

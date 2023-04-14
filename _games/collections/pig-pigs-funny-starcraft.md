@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 66
+heat: 62
 
 provider:
   name: PiG
@@ -947,7 +947,7 @@ items:
   - pig-lets-make-the-fastest-nydus-swarm-host-build-even-dirtier-starcraft-2
   - pig-protoss-was-not-happy-with-this-bc-all-in-rofl-most-annoying-player-6-starcraft-2
   - pig-protoss-hater-starts-whining-before-anything-even-happens-salt-mines-16-starcraft-2
-  - pig-harstems-brain-breaks-in-the-most-insane-sc2-game-ever-vs-smooth-brain-boanaan-starcraft-2
+  - pig-harstems-brain-breaks-in-the-most-insane-sc2-game-ever-vs-smooth-brain-boanaan-2-starcraft-2
   - pig-how-i-dismantled-a-dirty-maphacker-starcraft-2
   - pig-zerg-laid-out-a-hilarious-trap-and-i-fell-for-it-lol-mac-or-cheese-7-starcraft-2
   - pig-zerg-rages-even-tho-his-ovie-sees-it-coming-salt-mines-17-starcraft-2
@@ -1012,6 +1012,8 @@ items:
   - pig-guess-the-secret-pro-part-33-grand-finals-hidden-name-tournament-2-starcraft-2
   - pig-squatting-protoss-refuses-to-leave-terran-premises-florencio-files-278-starcraft-2
   - pig-toss-rages-when-opponent-wont-give-him-a-free-win-salt-mines-32-starcraft-2
+  - pig-the-silliest-planetary-fortress-rush-ever-florencio-files-279-starcraft-2
+  - pig-printfs-abuse-of-the-carrier-change-is-genius-king-of-cannons-23-starcraft-2
 
 topics:
   - StarCraft 2

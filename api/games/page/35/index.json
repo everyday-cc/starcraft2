@@ -4,43 +4,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-epic-team-game-2v2.md",
-      "title": "StarCraft 2: EPIC TEAM GAME! (2v2)",
-      "excerpt": "An epic match of Protoss & Zerg vs Terran & Terran. Subscribe for more videos: http://lowko.tv/youtube Proxy vs Proxy: https://goo.gl/iHc1jT  I haven't casted many team games in StarCraft 2 at all. While I'm very comfortable commentating and analysis professional matches of 1 versus 1, casting a 2 versus",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-team-game-2v2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-team-game-2v2/",
-      "originalUrl": "https://youtube.com/watch?v=oIy_3e4M9hI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oIy_3e4M9hI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M39S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oIy_3e4M9hI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-04-06T05:39:34-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-epic-terran-vs-protoss-bo5.md",
       "title": "StarCraft 2: EPIC Terran vs Protoss! (Bo5)",
       "excerpt": "GuMiho vs Stats in an epic Terran versus Protoss. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Protoss: https://goo.gl/qeUdf6  This is a best-of-5 series of professional StarCraft 2. In this match-up, both players play a variety of styles. They open up aggressively and defensive, there",
@@ -1146,6 +1109,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-26T01:10:39-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-florencios-big-brain-cheese.md",
+      "title": "StarCraft 2: FLORENCIO'S BIG BRAIN CHEESE!",
+      "excerpt": "Fun game of Master League StarCraft 2. In this Protoss versus Zerg we see Florencio face off with Protoss against Raptor as Zerg. He decides to take control of the game right away, by blocking the opponent from expanding towards the Natural expansion. The Zerg decides to take this as an opportunity to",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-florencios-big-brain-cheese/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-florencios-big-brain-cheese/",
+      "originalUrl": "https://youtube.com/watch?v=r46WQNpgvyA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r46WQNpgvyA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M30S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/r46WQNpgvyA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-08T04:02:21-07:00"
     }
   ],
   "nextPage": 36

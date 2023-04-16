@@ -9,7 +9,7 @@ ampWebUrl: "https://www.polygon.com/platform/amp/23671940/silica-fps-rts-bohemia
 cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23671940/silica-fps-rts-bohemia-interactive-steam-early-access"
 type: article
 quality: 56
-heat: 83
+heat: 84
 published: true
 
 provider:

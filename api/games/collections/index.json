@@ -51,7 +51,7 @@
             "Terran",
             "Zerg"
           ],
-          "heat": 144,
+          "heat": 119,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/QSw5xtKKe0Y/maxresdefault.jpg",
@@ -128,7 +128,7 @@
             "Terran",
             "Protoss"
           ],
-          "heat": 90,
+          "heat": 65,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/khCRMkX2zHI/maxresdefault.jpg",
@@ -167,7 +167,7 @@
             "Protoss",
             "Zerg"
           ],
-          "heat": 80,
+          "heat": 55,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/wqxNTHqaLeI/maxresdefault.jpg",
@@ -182,7 +182,7 @@
         }
       ],
       "size": 38,
-      "heat": 108,
+      "heat": 78,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/QSw5xtKKe0Y/maxresdefault.jpg",

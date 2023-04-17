@@ -693,44 +693,6 @@
       "publishedDateTime": "2023-03-17T04:17:19-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-darks-gold-base-proxy-hatch-best-of-5.md",
-      "title": "StarCraft 2: Dark's GOLD BASE Proxy Hatch! (Best-of-5)",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 between Dark (Zerg) and Creator (Protoss). In this series of SC2 we see a huge variety of strategies, as both players try to outsmart each other. This series ends with a very emotional moment, as one of the players makes a massive mistake.  Game from IEM Katowice",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-gold-base-proxy-hatch-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-gold-base-proxy-hatch-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=f61Gckg369M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f61Gckg369M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT52M1S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 124,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/f61Gckg369M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-25T05:00:58-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-darks-zergy-cannon-rush-vs-maxpax-best-of-3.md",
       "title": "StarCraft 2: Dark's ZERGY \"CANNON\" RUSH vs MaxPax! (Best-of-3)",
       "excerpt": "Best-of-3 series of high level StarCraft 2 between Dark (Zerg) and MaxPax (Protoss). Both players decide to go for some very fun strategies in this game. Dark opens with a Proxy Hatchery and a Spine Crawler, and in the second game MaxPax strikes back with a cheeky Adept opener off of six Gateways  Support",
@@ -1100,6 +1062,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-24T20:57:51-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-beautiful-game-the-world-champion-oliveira-vs-dark.md",
+      "title": "StarCraft 2: BEAUTIFUL GAME - The World Champion Oliveira vs Dark!",
+      "excerpt": "Professional match of StarCraft 2 between Dark (Zerg) and Oliveira (Terran). This is a relatively 'standard' game in the Zerg vs Terran matchup, but played at an incredibly high skill level.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-beautiful-game-the-world-champion-oliveira-vs-dark/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-beautiful-game-the-world-champion-oliveira-vs-dark/",
+      "originalUrl": "https://youtube.com/watch?v=FSHSH275Xvw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FSHSH275Xvw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M47S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 95,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FSHSH275Xvw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-28T02:06:50-07:00"
     }
   ],
   "nextPage": 2

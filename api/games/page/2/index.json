@@ -4,6 +4,74 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/pig-i-was-bribed-to-one-shot-a-base-using-ravagers-only-strategy-bribes-starcraft-2.md",
+      "title": "I was bribed to ONE SHOT a base using ravagers ONLY | Strategy Bribes - StarCraft 2",
+      "excerpt": "Twitch chat bribed me to do challenges on stream. This is the result! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-i-was-bribed-to-one-shot-a-base-using-ravagers-only-strategy-bribes-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-i-was-bribed-to-one-shot-a-base-using-ravagers-only-strategy-bribes-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=HmGs8tjmkrU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HmGs8tjmkrU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M12S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 153,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HmGs8tjmkrU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-03T20:36:28-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-awesome-game-gumihos-weird-terran-build-order-vs-solar.md",
+      "title": "StarCraft 2: AWESOME GAME - GuMiho's WEIRD Terran Build Order vs Solar!",
+      "excerpt": "Professional match of StarCraft 2 between Solar (Zerg) and GuMiho (Terran). In this game GuMiho decides to go for a very strange opener, and transitions towards Battle Mech. One of the best games I've seen recently for sure.   Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-awesome-game-gumihos-weird-terran-build-order-vs-solar/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-awesome-game-gumihos-weird-terran-build-order-vs-solar/",
+      "originalUrl": "https://youtube.com/watch?v=zLs-N_2b-gw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zLs-N_2b-gw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 145,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zLs-N_2b-gw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-04-05T03:23:43-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-zesty-mind-games-vs-rogue-best-of-5.md",
       "title": "StarCraft 2: Zesty MIND GAMES vs Rogue! (Best-of-5)",
       "excerpt": "Fun best-of-5 series of professional StarCraft 2 between Zest and Rogue. Zest decides to confuse his opponent in any way he can think of, and try to win mostly based off of mind games.  Zest vs soO: https://youtu.be/nQJJ-2RhILc  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
@@ -245,45 +313,6 @@
       "publishedDateTime": "2023-04-06T04:18:12-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-darks-zergy-cannon-rush-vs-maxpax-best-of-3.md",
-      "title": "StarCraft 2: Dark's ZERGY \"CANNON\" RUSH vs MaxPax! (Best-of-3)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between Dark (Zerg) and MaxPax (Protoss). Both players decide to go for some very fun strategies in this game. Dark opens with a Proxy Hatchery and a Spine Crawler, and in the second game MaxPax strikes back with a cheeky Adept opener off of six Gateways  Support",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-zergy-cannon-rush-vs-maxpax-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-zergy-cannon-rush-vs-maxpax-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=ZLXOoEvlsYM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZLXOoEvlsYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 129,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZLXOoEvlsYM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-09T03:12:05-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-game-of-the-year-dark-vs-cure.md",
       "title": "StarCraft 2: GAME OF THE YEAR! (Dark vs Cure)",
       "excerpt": "One of the best games of StarCraft 2 I've ever seen. This game between Dark (Zerg) and Cure (Terran) is so close that it's still not clear who's winning at the 45 minute mark, it was played as part of the Korean StarCraft League (the KSL). https://patreon.com/koreanstarcraftleague/  Support my work:",
@@ -374,6 +403,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-22T01:48:51-07:00"
+    },
+    {
+      "path": "_games/pig-deranged-player-rages-at-teammate-for-not-scouting-salt-mines-33-starcraft-2.md",
+      "title": "DERANGED Player Rages At Teammate For Not Scouting | Salt Mines #33 - StarCraft 2",
+      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-deranged-player-rages-at-teammate-for-not-scouting-salt-mines-33-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-deranged-player-rages-at-teammate-for-not-scouting-salt-mines-33-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=iM61gkJqoaY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iM61gkJqoaY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M41S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 124,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iM61gkJqoaY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-04-13T04:02:45-07:00"
     },
     {
       "path": "_games/sc2hl-marus-mass-ghost-strategy-starcraft-2-maru-vs-solar.md",
@@ -578,43 +636,6 @@
       "publishedDateTime": "2023-03-22T08:15:46-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-pro-2v2-team-game-base-race.md",
-      "title": "StarCraft 2: PRO 2v2 - TEAM GAME Base Race!",
-      "excerpt": "Long macro game of high level StarCraft 2 in the 2v2 game mode, between XY & MacSed and Trigger & Nina.   Best-of-7 between Serral & Oliveira vs Maru & Solar: https://youtu.be/r7vTyyXnGC0  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-2v2-team-game-base-race/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-pro-2v2-team-game-base-race/",
-      "originalUrl": "https://youtube.com/watch?v=NsqvNGvZsII",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NsqvNGvZsII\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M35S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 113,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NsqvNGvZsII/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-22T23:59:15-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-reynors-random-vs-heromarine-best-of-3.md",
       "title": "StarCraft 2: Reynor's RANDOM vs HeroMarine! (Best-of-3)",
       "excerpt": "Best-of-3 series of high level StarCraft 2 where Reynor decides to play Random (Zerg, Terran and Protoss) versus HeroMarine (Terran) in a best-of-3.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips    Twitch livestream:",
@@ -721,14 +742,14 @@
       "publishedDateTime": "2023-03-20T05:03:10-07:00"
     },
     {
-      "path": "_games/pig-everyone-sentry-buff-is-useless-astrea-hold-my-beer.md",
-      "title": "Everyone: Sentry buff is USELESS! Astrea: Hold my beer.",
-      "excerpt": "Imagine if mass sentries becomes the meta in PvT... love watching Astrea's creative plays -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-everyone-sentry-buff-is-useless-astrea-hold-my-beer/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-everyone-sentry-buff-is-useless-astrea-hold-my-beer/",
-      "originalUrl": "https://youtube.com/watch?v=m66fbUa0hLo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m66fbUa0hLo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M2S",
+      "path": "_games/pig-guess-the-secret-pro-player-flash-vs-bisu-hidden-name-tournament-2-part-1-starcraft-2.md",
+      "title": "GUESS THE SECRET PRO PLAYER! \"Flash\" vs \"Bisu\" | Hidden Name Tournament 2 (Part 1) - StarCraft 2",
+      "excerpt": "WHO ARE THEY? In this Hidden Name Tournament, we have 4 StarCraft pro players competing against each other but they don't know who their opponents are. In Part 1, \"Flash\" plays against \"Bisu\" in a best of 5 series. The winning player will then guess who the losing player was for bonus prize money and",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-guess-the-secret-pro-player-flash-vs-bisu-hidden-name-tournament-2-part-1-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-guess-the-secret-pro-player-flash-vs-bisu-hidden-name-tournament-2-part-1-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=_9Gn4kbv7AM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_9Gn4kbv7AM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M23S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -739,7 +760,7 @@
       "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/m66fbUa0hLo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/_9Gn4kbv7AM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -747,7 +768,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-01-19T15:09:28-08:00"
+      "publishedDateTime": "2023-03-15T00:19:03-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-is-sky-toss-back-hero-vs-dark.md",
@@ -1010,36 +1031,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-17T04:09:58-07:00"
-    },
-    {
-      "path": "_games/pig-how-quickly-can-scarlett-dispose-of-maphackers-holdout-challenge-starcraft-2.md",
-      "title": "How quickly can SCARLETT dispose of MAPHACKERS? | Holdout Challenge - StarCraft 2",
-      "excerpt": "We paid Scarlett to do the Maphacker Challenge - like a Holdout Challenge, but noobs now have MAPHACKS!  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-scarlett-dispose-of-maphackers-holdout-challenge-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-scarlett-dispose-of-maphackers-holdout-challenge-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=Jvs8MkVcDPU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jvs8MkVcDPU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 101,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Jvs8MkVcDPU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-24T20:57:51-07:00"
     }
   ],
   "nextPage": 3

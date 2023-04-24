@@ -4,6 +4,38 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/videos/pig-2-1-1-into-the-bio-tank-macro-machine-tvz-coaching-d3.md",
+      "title": "2-1-1 into the bio-Tank Macro Machine! TvZ Coaching D3",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-2-1-1-into-the-bio-tank-macro-machine-tvz-coaching-d3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-2-1-1-into-the-bio-tank-macro-machine-tvz-coaching-d3/",
+      "originalUrl": "https://youtube.com/watch?v=9-XOkiILqMQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9-XOkiILqMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H12M20S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-12-03T09:00:03-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9-XOkiILqMQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-2-adept-phoenix-expand-pvp-build-coaching.md",
       "title": "2 Adept Phoenix Expand PvP Build - Coaching",
       "excerpt": "Coaching a masters protoss on how to do a double adept & phoenix expand build!   -- Watch live at https://www.twitch.tv/x5_pig My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to my Discord: https://discordapp.com/invite/SkhbzCM",
@@ -890,38 +922,6 @@
       "topics": [
         "StarCraft 2",
         "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-big-terran-coaching-session-tvz-diamond-2.md",
-      "title": "Big Terran Coaching Session! TvZ  - Diamond 2",
-      "excerpt": "I coach SeigeT, a Diamond 2 Terran player helping him out with his 2-1-1 double medivac opening in TvZ -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-big-terran-coaching-session-tvz-diamond-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-big-terran-coaching-session-tvz-diamond-2/",
-      "originalUrl": "https://youtube.com/watch?v=BdBI60OJs8E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BdBI60OJs8E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H26M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-02-06T21:14:07-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BdBI60OJs8E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
       ]
     }
   ],

@@ -4,36 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/pig-why-running-away-is-a-chad-move-in-sc2.md",
-      "title": "Why running away is a CHAD move in SC2",
-      "excerpt": "Knowing WHEN TO RUN AWAY is a really important skill to have in SC2!  VIDEOS mentioned: Serral vs Bunny https://youtu.be/-_Ga9pkNF6Q?t=2332 Jocko Willink https://youtu.be/5xDANla3L24?t=3  Dark vs Ryung https://youtu.be/ns3YoPAQPJI?t=517 Day9 Daily 408 https://youtu.be/DxVI-axM948?t=405 Serral vs Stats",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-why-running-away-is-a-chad-move-in-sc2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-why-running-away-is-a-chad-move-in-sc2/",
-      "originalUrl": "https://youtube.com/watch?v=LpEDaEE5CeM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LpEDaEE5CeM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M2S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2023-01-25T16:22:14-08:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LpEDaEE5CeM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-guide-how-to-destroy-reaper-hellion-in-under-10-minutes.md",
       "title": "Guide | How To Destroy Reaper Hellion In Under 10 Minutes",
       "excerpt": "Guide | How To Destroy Reaper Hellion In Under 10 Minutes #Protoss #SC2 #Starcraft  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and",
@@ -140,7 +110,7 @@
         "domain": "hushangcoaching.com"
       },
       "publishedDateTime": "2020-10-09T16:03:01-07:00",
-      "heat": 91,
+      "heat": 92,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/X1g4O2PTOtQ/maxresdefault.jpg",
@@ -2128,6 +2098,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/2Wvw27j3NqA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-3-gold-league-b2gm.md",
+      "title": "StarCraft 2 - Zerg Bronze to GM #3: Gold League (B2GM)",
+      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 Introducing new things in Gold League 1:36 -- GAME 1: Practice build order along with PiG 12:04 How many control groups do you need in Gold? 13:07 How to be safer in ZvZ 15:57 Having a different",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-3-gold-league-b2gm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-3-gold-league-b2gm/",
+      "originalUrl": "https://youtube.com/watch?v=sSHIv0ihLjw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sSHIv0ihLjw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H23M47S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-08-05T22:43:17-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sSHIv0ihLjw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

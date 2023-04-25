@@ -380,37 +380,6 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-starcraft-2-beginner-zerg-opening-the-pig-daily-152.md",
-      "title": "StarCraft 2 - Beginner Zerg Opening | The PiG Daily #152",
-      "excerpt": "THIS WEEKS ICYFAR Challenge: \"Siege Warfare - Send in your replays with your best siege tactics. Some suggestions: tank-bunker push, a lurker nydus or a pylon-disruptor push. Gl!  Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as title! Latest submission is 24 hours before the show",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-beginner-zerg-opening-the-pig-daily-152/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-beginner-zerg-opening-the-pig-daily-152/",
-      "originalUrl": "https://youtube.com/watch?v=rs4z-xtYdD4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rs4z-xtYdD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M18S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-04-11T16:10:47-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rs4z-xtYdD4/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-starcraft-2-big-terran-coaching-session-tvz-diamond-2.md",
       "title": "StarCraft 2 - Big Terran Coaching Session! TvZ  - Diamond 2",
       "excerpt": "I coach SeigeT, a Diamond 2 Terran player helping him out with his 2-1-1 double medivac opening in TvZ -- Watch live at https://www.twitch.tv/x5_pig",
@@ -932,6 +901,38 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/xnIgmUNoBqs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-coaching-tvz-bbq-party-and-when-to-macro-when-to-micro.md",
+      "title": "StarCraft 2 - Coaching TvZ - BBQ Party and When to Macro, When to Micro",
+      "excerpt": "I coach Vision on the bbq party opening and how to shift his focus from micro into macro at the right times -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-coaching-tvz-bbq-party-and-when-to-macro-when-to-micro/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-coaching-tvz-bbq-party-and-when-to-macro-when-to-micro/",
+      "originalUrl": "https://youtube.com/watch?v=F9Q5wsLDpEw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/F9Q5wsLDpEw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M19S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-09-12T04:32:13-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/F9Q5wsLDpEw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

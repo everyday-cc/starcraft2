@@ -4,27 +4,35 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53.md",
-      "title": "When the Protoss is Protossing, and you gotta Terran | Diamond in the Ruff #53",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent? 🐷 Support PiG: https://www.patreon.com/PiGSC2  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53/",
-      "originalUrl": "https://youtube.com/watch?v=ilVJs5gQrP8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ilVJs5gQrP8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M53S",
+      "path": "_games/lowkotv-starcraft-2-super-high-apm-serrals-first-person-camera-vs-gumiho.md",
+      "title": "StarCraft 2: SUPER HIGH APM - Serral's First Person Camera vs GuMiho!",
+      "excerpt": "Professional match of StarCraft 2 between Serral and GuMiho. I do this cast completely from Serral's point of view, allowing us to have a look at what he sees during a match of SC2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-super-high-apm-serrals-first-person-camera-vs-gumiho/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-super-high-apm-serrals-first-person-camera-vs-gumiho/",
+      "originalUrl": "https://youtube.com/watch?v=UaAp2XDY-MM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UaAp2XDY-MM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M26S",
       "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "StarCraft 2",
         "Terran",
-        "Protoss"
+        "Zerg"
       ],
-      "heat": 65,
+      "heat": 64,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ilVJs5gQrP8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UaAp2XDY-MM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -32,7 +40,84 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-09-24T01:39:41-07:00"
+      "publishedDateTime": "2022-09-08T03:08:29-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-already-game-of-the-year-maru-vs-byun.md",
+      "title": "StarCraft 2: ALREADY? Game of the Year?! (Maru vs ByuN)",
+      "excerpt": "An amazing series of top level StarCraft 2. In this Terran versus Terran between Maru and ByuN we have non-stop action from start to finish. These players are so good that it's difficult to follow everything they are doing.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-already-game-of-the-year-maru-vs-byun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-already-game-of-the-year-maru-vs-byun/",
+      "originalUrl": "https://youtube.com/watch?v=5Y0kqY6RnW8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5Y0kqY6RnW8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M25S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5Y0kqY6RnW8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-02-19T06:10:38-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-back-to-back-battlecruiser-battles-maru-vs-dark.md",
+      "title": "StarCraft 2: Back-to-back BATTLECRUISER BATTLES! (Maru vs Dark)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Maru (Terran) and Dark (Zerg). Amazing gameplay of top-level StarCraft 2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: https://youtube.com/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-back-to-back-battlecruiser-battles-maru-vs-dark/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-back-to-back-battlecruiser-battles-maru-vs-dark/",
+      "originalUrl": "https://youtube.com/watch?v=sMDTPvO4faY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sMDTPvO4faY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H8M49S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sMDTPvO4faY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-01-18T04:54:46-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-marus-amazing-surrounds-vs-spirit.md",
@@ -73,14 +158,14 @@
       "publishedDateTime": "2023-04-08T02:26:38-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-super-high-apm-serrals-first-person-camera-vs-gumiho.md",
-      "title": "StarCraft 2: SUPER HIGH APM - Serral's First Person Camera vs GuMiho!",
-      "excerpt": "Professional match of StarCraft 2 between Serral and GuMiho. I do this cast completely from Serral's point of view, allowing us to have a look at what he sees during a match of SC2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-super-high-apm-serrals-first-person-camera-vs-gumiho/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-super-high-apm-serrals-first-person-camera-vs-gumiho/",
-      "originalUrl": "https://youtube.com/watch?v=UaAp2XDY-MM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UaAp2XDY-MM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M26S",
+      "path": "_games/lowkotv-starcraft-2-marus-new-mass-banshee-strategy-best-of-5.md",
+      "title": "StarCraft 2: Maru's NEW Mass Banshee Strategy! (Best-of-5)",
+      "excerpt": "Best-of-5 series of StarCraft 2 between Maru (Terran) and Ragnarok (Zerg). This series is the semi finals of the StarCraft 2 World Championships played at IEM Katowice.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marus-new-mass-banshee-strategy-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marus-new-mass-banshee-strategy-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=0ii0Al--z0E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0ii0Al--z0E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M42S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -95,13 +180,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
-        "Zerg"
+        "Terran"
       ],
       "heat": 63,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/UaAp2XDY-MM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/0ii0Al--z0E/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -109,7 +193,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-09-08T03:08:29-07:00"
+      "publishedDateTime": "2023-03-06T02:41:51-08:00"
     },
     {
       "path": "_games/pig-the-silliest-planetary-fortress-rush-ever-florencio-files-279-starcraft-2.md",
@@ -143,6 +227,45 @@
       "publishedDateTime": "2023-03-21T19:26:50-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5.md",
+      "title": "StarCraft 2: GREAT SERIES - Serral vs Maru! (Best-of-5)",
+      "excerpt": "A best-of-5 series between the best players that StarCraft 2 has to offer. In this video I cast a Zerg versus Terran in SC2 between Serral, the current World Champion of StarCraft, and Maru, the most succesful player from South Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=CpV_kNyL-vI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CpV_kNyL-vI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H5M38S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CpV_kNyL-vI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-04T04:56:34-07:00"
+    },
+    {
       "path": "_games/sc2hl-heros-sneaky-double-gold-base-starcraft-2-maru-vs-hero.md",
       "title": "herO's SNEAKY DOUBLE GOLD BASE - Starcraft 2: Maru vs. herO",
       "excerpt": "herO and herO playing the Starcraft 2 GSL Code S finals, with hero going for a sneaky build in the first game.   Match: maru vs. herO Tournament: GSL Code S 2022 - Season 2 VODs: https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg  ► Enjoy the content? Buy me a coffee! https://www.ko-fi.com/SC2HL",
@@ -168,7 +291,7 @@
         "Terran",
         "Protoss"
       ],
-      "heat": 62,
+      "heat": 61,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/khCRMkX2zHI/maxresdefault.jpg",
@@ -182,47 +305,14 @@
       "publishedDateTime": "2023-04-02T06:00:39-07:00"
     },
     {
-      "path": "_games/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series.md",
-      "title": "Best Nukes of Never Attack to Grandmaster Series!",
-      "excerpt": "Welcome to a fan-made supercut of all of Beastyqt's Nukes! Enjoy this Nuke Reel!  Check out Black Fire's channel who edited this video: https://www.youtube.com/channel/UCT2zCxLrL91NILOBHcRAELA/featured?  #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series/",
-      "originalUrl": "https://youtube.com/watch?v=-HaQ_9HnPkw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-HaQ_9HnPkw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M30S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 60,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-HaQ_9HnPkw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-27T05:37:31-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-marus-new-mass-banshee-strategy-best-of-5.md",
-      "title": "StarCraft 2: Maru's NEW Mass Banshee Strategy! (Best-of-5)",
-      "excerpt": "Best-of-5 series of StarCraft 2 between Maru (Terran) and Ragnarok (Zerg). This series is the semi finals of the StarCraft 2 World Championships played at IEM Katowice.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marus-new-mass-banshee-strategy-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marus-new-mass-banshee-strategy-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=0ii0Al--z0E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0ii0Al--z0E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M42S",
+      "path": "_games/lowkotv-starcraft-2-special-cheeses-the-world-champion-best-of-3.md",
+      "title": "StarCraft 2: SpeCial CHEESES the World Champion! (Best-of-3)",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 between the new World Champion Oliveira (Terran) and SpeCial (Terran). Some very interesting build orders coming out of SpeCial here, but incredible micro from Oliveira seems to be the answer.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-special-cheeses-the-world-champion-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-special-cheeses-the-world-champion-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=E9Yd-NAwk_E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E9Yd-NAwk_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M55S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -242,7 +332,7 @@
       "heat": 60,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/0ii0Al--z0E/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/E9Yd-NAwk_E/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -250,45 +340,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-03-06T02:41:51-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-special-strange-battlecruiser-build.md",
-      "title": "StarCraft 2: SpeCial Strange BATTLECRUISER Build!",
-      "excerpt": "Two best-of-3 series of StarCraft 2. In the first one SpeCial faces off against Scarlett, and in the second against ByuN.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips    Twitch livestream: https://twitch.tv/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-special-strange-battlecruiser-build/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-special-strange-battlecruiser-build/",
-      "originalUrl": "https://youtube.com/watch?v=RyCz0cgoVuM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RyCz0cgoVuM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M20S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RyCz0cgoVuM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-23T03:24:50-07:00"
+      "publishedDateTime": "2023-03-21T03:39:38-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-ruff-the-spire-hunter-diamond-in-the-ruff-58.md",
@@ -1280,34 +1332,29 @@
       "type": "collection"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-already-game-of-the-year-maru-vs-byun.md",
-      "title": "StarCraft 2: ALREADY? Game of the Year?! (Maru vs ByuN)",
-      "excerpt": "An amazing series of top level StarCraft 2. In this Terran versus Terran between Maru and ByuN we have non-stop action from start to finish. These players are so good that it's difficult to follow everything they are doing.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-already-game-of-the-year-maru-vs-byun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-already-game-of-the-year-maru-vs-byun/",
-      "originalUrl": "https://youtube.com/watch?v=5Y0kqY6RnW8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5Y0kqY6RnW8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M25S",
+      "path": "_games/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series.md",
+      "title": "Best Nukes of Never Attack to Grandmaster Series!",
+      "excerpt": "Welcome to a fan-made supercut of all of Beastyqt's Nukes! Enjoy this Nuke Reel!  Check out Black Fire's channel who edited this video: https://www.youtube.com/channel/UCT2zCxLrL91NILOBHcRAELA/featured?  #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series/",
+      "originalUrl": "https://youtube.com/watch?v=-HaQ_9HnPkw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-HaQ_9HnPkw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M30S",
       "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
         "Terran"
       ],
       "heat": 59,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/5Y0kqY6RnW8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-HaQ_9HnPkw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1315,17 +1362,17 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-02-19T06:10:38-08:00"
+      "publishedDateTime": "2020-06-27T05:37:31-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-innovation-is-back-amazing-series-vs-dark-best-of-3.md",
-      "title": "StarCraft 2: INNOVATION IS BACK - Amazing Series vs Dark! (Best-of-3)",
-      "excerpt": "An amazing series of high level StarCraft 2 between INnoVation (Terran) and Dark (Zerg). INnoVation just came back from his military service in South Korea, and somehow is already back in form. As a champion of many tournaments such as the GSL, WESG, SSL, IEM, WCS, MLG, etc, he clearly does not need",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-innovation-is-back-amazing-series-vs-dark-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-innovation-is-back-amazing-series-vs-dark-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=PjCBveWrk5k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PjCBveWrk5k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M22S",
+      "path": "_games/lowkotv-starcraft-2-insane-macro-showtimes-400-zealots-vs-maru.md",
+      "title": "StarCraft 2: INSANE MACRO - ShoWTimE's 400+ ZEALOTS vs Maru!",
+      "excerpt": "Professional match of StarCraft 2 between ShoWTimE (Protoss) and Maru (Terran). In this epic game of top level SC2 ShoWTimE takes the entire map and sends in waves of Zealots into a turtled up Terran.  Serral vs ShoWTimE: https://youtu.be/cbQw9rvkado  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-macro-showtimes-400-zealots-vs-maru/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-macro-showtimes-400-zealots-vs-maru/",
+      "originalUrl": "https://youtube.com/watch?v=2d3DXYGphtI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2d3DXYGphtI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M10S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1341,12 +1388,12 @@
       "topics": [
         "StarCraft 2",
         "Terran",
-        "Zerg"
+        "Protoss"
       ],
       "heat": 59,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/PjCBveWrk5k/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2d3DXYGphtI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1354,7 +1401,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-03-13T04:03:14-07:00"
+      "publishedDateTime": "2022-09-06T02:38:32-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-rank-1-terran-vs-rank-1-protoss-maru-vs-hero.md",
@@ -1396,14 +1443,14 @@
       "publishedDateTime": "2022-09-10T01:29:33-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-special-cheeses-the-world-champion-best-of-3.md",
-      "title": "StarCraft 2: SpeCial CHEESES the World Champion! (Best-of-3)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between the new World Champion Oliveira (Terran) and SpeCial (Terran). Some very interesting build orders coming out of SpeCial here, but incredible micro from Oliveira seems to be the answer.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-special-cheeses-the-world-champion-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-special-cheeses-the-world-champion-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=E9Yd-NAwk_E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E9Yd-NAwk_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M55S",
+      "path": "_games/lowkotv-starcraft-2-special-strange-battlecruiser-build.md",
+      "title": "StarCraft 2: SpeCial Strange BATTLECRUISER Build!",
+      "excerpt": "Two best-of-3 series of StarCraft 2. In the first one SpeCial faces off against Scarlett, and in the second against ByuN.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips    Twitch livestream: https://twitch.tv/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-special-strange-battlecruiser-build/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-special-strange-battlecruiser-build/",
+      "originalUrl": "https://youtube.com/watch?v=RyCz0cgoVuM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RyCz0cgoVuM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M20S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1423,7 +1470,7 @@
       "heat": 59,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/E9Yd-NAwk_E/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/RyCz0cgoVuM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1431,17 +1478,56 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-03-21T03:39:38-07:00"
+      "publishedDateTime": "2023-03-23T03:24:50-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5.md",
-      "title": "StarCraft 2: GREAT SERIES - Serral vs Maru! (Best-of-5)",
-      "excerpt": "A best-of-5 series between the best players that StarCraft 2 has to offer. In this video I cast a Zerg versus Terran in SC2 between Serral, the current World Champion of StarCraft, and Maru, the most succesful player from South Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=CpV_kNyL-vI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CpV_kNyL-vI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H5M38S",
+      "path": "_games/lowkotv-starcraft-2-epic-semi-finals-maru-vs-hero-best-of-5.md",
+      "title": "StarCraft 2: EPIC Semi Finals - Maru vs herO! (Best-of-5)",
+      "excerpt": "The best Terran facing off against the best Protoss. This series of StarCraft 2 is the semi finals of Dreamhack Atlanta. Maru is considered to be the best Terran player of all time in SC2, and herO has once again grabbed the title of best Protoss after completing his military service some time ago. This",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-semi-finals-maru-vs-hero-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-semi-finals-maru-vs-hero-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=Z9RJVeYTDzo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z9RJVeYTDzo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H13M55S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Z9RJVeYTDzo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-26T04:55:34-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-gumihos-15-battlecruiser-army-vs-solar.md",
+      "title": "StarCraft 2: GuMiho's 15+ BATTLECRUISER ARMY vs Solar!",
+      "excerpt": "Incredible match of StarCraft 2 between Solar (Zerg) and GuMiho (Terran). In this match GuMiho decides to play a mass Battlecruiser Terran Mech army. Game was played during IEM Katowice, the StarCraft 2 World Championships.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumihos-15-battlecruiser-army-vs-solar/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumihos-15-battlecruiser-army-vs-solar/",
+      "originalUrl": "https://youtube.com/watch?v=mJKfyg1Z4Ik",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mJKfyg1Z4Ik\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M42S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1462,7 +1548,7 @@
       "heat": 58,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/CpV_kNyL-vI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mJKfyg1Z4Ik/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1470,17 +1556,17 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-05-04T04:56:34-07:00"
+      "publishedDateTime": "2023-02-22T03:33:20-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-heromarines-mass-banshee-vs-reynor-best-of-3.md",
-      "title": "StarCraft 2: HeroMarine's MASS BANSHEE vs Reynor! (Best-of-3)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between Reynor (Zerg) and HeroMarine (Terran). In this series HeroMarine decides to test out the new mech Terarn changes, as he masses both Banshees as well as Cyclones.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heromarines-mass-banshee-vs-reynor-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heromarines-mass-banshee-vs-reynor-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=a_27uSeA7i8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a_27uSeA7i8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M8S",
+      "path": "_games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul.md",
+      "title": "StarCraft 2: PROFESSIONAL 2v2?! (Maru & sOs vs MaxPax & souL)",
+      "excerpt": "The standard competitive mode in StarCraft 2 is 1v1. However the OlimoLeague recently put on an event where they invited three teams of progamers to face off in a 2v2 (2 vs 2) event. In this video I cast a best-of-5 between Maru and sOs on one team, and MaxPax and souL on the other.  OlimoLeague on Patreon:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul/",
+      "originalUrl": "https://youtube.com/watch?v=qk3OKS90ckA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qk3OKS90ckA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H7M4S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1496,12 +1582,12 @@
       "topics": [
         "StarCraft 2",
         "Terran",
-        "Zerg"
+        "Protoss"
       ],
       "heat": 58,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/a_27uSeA7i8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qk3OKS90ckA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1509,38 +1595,29 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-01-23T04:09:55-08:00"
+      "publishedDateTime": "2021-07-29T04:34:49-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-reynor-plays-terran-like-a-zerg.md",
-      "title": "StarCraft 2: Reynor plays Terran like a Zerg!",
-      "excerpt": "High level game of StarCraft 2 between Reynor (Terran) and Zerg (Cham). We have seen Reynor playing Zerg and also Protoss recently, but what about his Terran? In this game he's facing off against the winner of Dreamhack Atlanta for the Latin America region in a ladder game.  Support my work on Patreon:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynor-plays-terran-like-a-zerg/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynor-plays-terran-like-a-zerg/",
-      "originalUrl": "https://youtube.com/watch?v=Q039wMmYRUY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q039wMmYRUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M59S",
+      "path": "_games/pig-beating-terran-with-mass-drones-workers-only-to-grandmaster-1-starcraft-2.md",
+      "title": "Beating Terran with MASS DRONES | WORKERS ONLY to Grandmaster #1 - StarCraft 2",
+      "excerpt": "Here's WORKERS ONLY to Grandmaster Episode 1! Players are volunteers from low Silver to low Gold (2200 - 2700 MMR). They do not know what's coming, but they're aware it's something for YT.  HOW TO VOLUNTEER: Hop onto the discord to find out more https://discord.gg/sCTYquEd -- 🐷 Main Channel: https://www.youtube.com/user/PiGstarcraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-beating-terran-with-mass-drones-workers-only-to-grandmaster-1-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-beating-terran-with-mass-drones-workers-only-to-grandmaster-1-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=wa_Qb70RlpI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wa_Qb70RlpI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M35S",
       "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "PiG",
+        "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
-        "Zerg"
+        "Terran"
       ],
       "heat": 58,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Q039wMmYRUY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wa_Qb70RlpI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1548,7 +1625,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-10-28T04:11:15-07:00"
+      "publishedDateTime": "2023-03-01T23:58:56-08:00"
     },
     {
       "path": "_games/pig-squatting-protoss-refuses-to-leave-terran-premises-florencio-files-278-starcraft-2.md",
@@ -1651,45 +1728,6 @@
       "publishedDateTime": "2018-10-16T07:21:19-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-gumihos-15-battlecruiser-army-vs-solar.md",
-      "title": "StarCraft 2: GuMiho's 15+ BATTLECRUISER ARMY vs Solar!",
-      "excerpt": "Incredible match of StarCraft 2 between Solar (Zerg) and GuMiho (Terran). In this match GuMiho decides to play a mass Battlecruiser Terran Mech army. Game was played during IEM Katowice, the StarCraft 2 World Championships.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumihos-15-battlecruiser-army-vs-solar/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumihos-15-battlecruiser-army-vs-solar/",
-      "originalUrl": "https://youtube.com/watch?v=mJKfyg1Z4Ik",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mJKfyg1Z4Ik\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M42S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mJKfyg1Z4Ik/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-22T03:33:20-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-gumihos-terran-mech-on-the-new-patch-best-of-5.md",
       "title": "StarCraft 2: GuMiho's TERRAN MECH on the New Patch! (Best-of-5)",
       "excerpt": "Best-of-5 series of high level StarCraft 2 between GuMiho (Terran) and Ragnarok (Zerg). This match is the grand finals of the ESL Open Cup 158 Korea. In these games GuMi decides to give Terran Mech a try after falling behind significantly in the early game.  Support my work: https://patreon.com/lowkotv",
@@ -1728,14 +1766,14 @@
       "publishedDateTime": "2023-01-21T03:33:27-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-scv-blood-bath-maru-vs-byun.md",
-      "title": "StarCraft 2: SCV Blood Bath! (Maru vs ByuN)",
-      "excerpt": "Best-of-5 series of high level StarCraft 2 between Maru (Terran) and ByuN (Terran). This TvT was played as part of the Korean StarCraft League (the KSL). https://patreon.com/koreanstarcraftleague/  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scv-blood-bath-maru-vs-byun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scv-blood-bath-maru-vs-byun/",
-      "originalUrl": "https://youtube.com/watch?v=ZL5g02RMvtg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZL5g02RMvtg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M48S",
+      "path": "_games/lowkotv-starcraft-2-reynor-plays-terran-like-a-zerg.md",
+      "title": "StarCraft 2: Reynor plays Terran like a Zerg!",
+      "excerpt": "High level game of StarCraft 2 between Reynor (Terran) and Zerg (Cham). We have seen Reynor playing Zerg and also Protoss recently, but what about his Terran? In this game he's facing off against the winner of Dreamhack Atlanta for the Latin America region in a ladder game.  Support my work on Patreon:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynor-plays-terran-like-a-zerg/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynor-plays-terran-like-a-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=Q039wMmYRUY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q039wMmYRUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M59S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1750,12 +1788,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Terran",
+        "Zerg"
       ],
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ZL5g02RMvtg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Q039wMmYRUY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1763,47 +1802,17 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-03-30T04:00:49-07:00"
+      "publishedDateTime": "2022-10-28T04:11:15-07:00"
     },
     {
-      "path": "_games/pig-beating-terran-with-mass-drones-workers-only-to-grandmaster-1-starcraft-2.md",
-      "title": "Beating Terran with MASS DRONES | WORKERS ONLY to Grandmaster #1 - StarCraft 2",
-      "excerpt": "Here's WORKERS ONLY to Grandmaster Episode 1! Players are volunteers from low Silver to low Gold (2200 - 2700 MMR). They do not know what's coming, but they're aware it's something for YT.  HOW TO VOLUNTEER: Hop onto the discord to find out more https://discord.gg/sCTYquEd -- 🐷 Main Channel: https://www.youtube.com/user/PiGstarcraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-beating-terran-with-mass-drones-workers-only-to-grandmaster-1-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-beating-terran-with-mass-drones-workers-only-to-grandmaster-1-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=wa_Qb70RlpI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wa_Qb70RlpI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT47M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wa_Qb70RlpI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-01T23:58:56-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-epic-games-serral-vs-byun-best-of-5.md",
-      "title": "StarCraft 2: EPIC GAMES - Serral vs ByuN! (Best-of-5)",
-      "excerpt": "It doesn't get much better than these two pro gamers facing off against each other in StarCraft 2. This best-of-5 series that was played at the World Championships is a match between Serral (Zerg) and ByuN (Terran). ByuN is known for his impressive offensive play, whereas Serral is known as the defensive",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-games-serral-vs-byun-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-games-serral-vs-byun-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=UkK421VQBD8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UkK421VQBD8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M31S",
+      "path": "_games/lowkotv-starcraft-2-heromarines-mass-banshee-vs-reynor-best-of-3.md",
+      "title": "StarCraft 2: HeroMarine's MASS BANSHEE vs Reynor! (Best-of-3)",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 between Reynor (Zerg) and HeroMarine (Terran). In this series HeroMarine decides to test out the new mech Terarn changes, as he masses both Banshees as well as Cyclones.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heromarines-mass-banshee-vs-reynor-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heromarines-mass-banshee-vs-reynor-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=a_27uSeA7i8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a_27uSeA7i8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M8S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1824,7 +1833,7 @@
       "heat": 56,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/UkK421VQBD8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/a_27uSeA7i8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1832,7 +1841,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-03-04T03:36:47-08:00"
+      "publishedDateTime": "2023-01-23T04:09:55-08:00"
     }
   ],
   "nextPage": 3

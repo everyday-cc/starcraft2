@@ -4,663 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-epic-series-whos-the-best-korean-zerg-dark-vs-rogue.md",
-      "title": "StarCraft 2: EPIC SERIES - Who's the BEST Korean Zerg? (Dark vs Rogue)",
-      "excerpt": "Best-of-5 series of top level Korean StarCraft 2 between Dark and Rogue. These guys are both fantastic in the Zerg versus Zerg matchup, and in this video they face off against each other.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-series-whos-the-best-korean-zerg-dark-vs-rogue/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-series-whos-the-best-korean-zerg-dark-vs-rogue/",
-      "originalUrl": "https://youtube.com/watch?v=kjDDfr5HKko",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kjDDfr5HKko\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT58M",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kjDDfr5HKko/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-09-20T02:41:29-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-epic-terran-vs-zerg-bo5.md",
-      "title": "StarCraft 2: EPIC Terran vs Zerg! (Bo5)",
-      "excerpt": "An epic professional series of Zerg versus Terran. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Protoss: https://goo.gl/qeUdf6  This is commentary of an epic Zerg versus Terran series between two professional StarCraft 2 progamers. The Zerg, known by the nickname of Rogue is the current",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-terran-vs-zerg-bo5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-terran-vs-zerg-bo5/",
-      "originalUrl": "https://youtube.com/watch?v=duR5xHpfgGU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/duR5xHpfgGU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H4M42S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/duR5xHpfgGU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-12-15T04:42:56-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-epic-zerg-vs-protoss.md",
-      "title": "StarCraft 2: EPIC Zerg vs Protoss!",
-      "excerpt": "Ultralisks, Brood Lords, Mothership, Carriers. An epic pro match!  Subscribe for more videos: http://lowko.tv/youtube Bunker Rush: https://goo.gl/etjR16  Easily one of the best examples of late game Zerg versus Protoss. Both players continously try to set each other up for mistakes. In the end we see",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-zerg-vs-protoss/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-zerg-vs-protoss/",
-      "originalUrl": "https://youtube.com/watch?v=-zn8IBTY9fI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-zn8IBTY9fI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M51S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-zn8IBTY9fI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-11-29T01:36:31-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-esl-open-cup-grand-finals-solar-vs-astrea-best-of-5.md",
-      "title": "StarCraft 2: ESL Open Cup GRAND FINALS - Solar vs Astrea! (Best-of-5)",
-      "excerpt": "The Grand Finals of the ESL Open Cup 68 North America. In this best-of-5 series of professional StarCraft 2 I cast Astrea versus Solar, a Protoss versus Zerg.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-esl-open-cup-grand-finals-solar-vs-astrea-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-esl-open-cup-grand-finals-solar-vs-astrea-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=OG1AeAYrnWY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OG1AeAYrnWY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OG1AeAYrnWY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-05-03T04:59:35-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-exceptional-zerg-vs-terran.md",
-      "title": "StarCraft 2: EXCEPTIONAL Zerg vs Terran!",
-      "excerpt": "The skill level of these games is becoming absolutely exceptional. Subscribe for more videos: http://lowko.tv/youtube How-to Nydus Rush: https://goo.gl/MEV5Vn  An awesome match of Zerg versus Terran. The game starts up very normally but quickly becomes an intense match that's essentially a battle between",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-exceptional-zerg-vs-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-exceptional-zerg-vs-terran/",
-      "originalUrl": "https://youtube.com/watch?v=2HGk6ZXScfY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2HGk6ZXScfY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2HGk6ZXScfY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-02-09T01:45:39-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-extreme-dark-templar-zealot-runbys-best-of-5.md",
-      "title": "StarCraft 2: EXTREME Dark Templar & Zealot Runbys! (Best-of-5)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between Zest (Protoss) and Cure (Terran).  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: https://youtube.com/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-extreme-dark-templar-zealot-runbys-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-extreme-dark-templar-zealot-runbys-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=Bep8cI3u2zM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bep8cI3u2zM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT59M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Bep8cI3u2zM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-01-22T04:58:16-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-extreme-zerg-patience-vs-sky-toss-prince-vs-byul.md",
-      "title": "StarCraft 2: EXTREME Zerg Patience vs Sky Toss! (Prince vs ByuL)",
-      "excerpt": "Not quite your regular passive game of Zerg versus Protoss in StarCraft 2. While the first half of this game is as we see it regularly in the current meta, the second half of this match is not what I expected it to be.  OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-extreme-zerg-patience-vs-sky-toss-prince-vs-byul/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-extreme-zerg-patience-vs-sky-toss-prince-vs-byul/",
-      "originalUrl": "https://youtube.com/watch?v=0cWFjI8mEs0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0cWFjI8mEs0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M51S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0cWFjI8mEs0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-02-19T02:16:01-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-extreme-zerg-vs-protoss-late-game-showtime-vs-solar.md",
-      "title": "StarCraft 2: EXTREME Zerg vs Protoss Late Game! (ShoWTimE vs Solar)",
-      "excerpt": "Professional match of StarCraft 2 with some late game Zerg versus Protoss between ShoWTimE and Solar.  Long Zerg versus Terran: https://youtu.be/LNKvSjzZXr8  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-extreme-zerg-vs-protoss-late-game-showtime-vs-solar/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-extreme-zerg-vs-protoss-late-game-showtime-vs-solar/",
-      "originalUrl": "https://youtube.com/watch?v=eeGohavv0yo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eeGohavv0yo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eeGohavv0yo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-09T12:48:59-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-extreme-zerg-vs-terran.md",
-      "title": "StarCraft 2: EXTREME Zerg vs Terran!",
-      "excerpt": "ByuN vs Impact in StarCraft 2. An epic Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube Stats vs INnoVation: https://goo.gl/nzunjC  An extremely close match of Zerg vs Terran. Impact decides to open up very aggressive and try to close the match early. However, he's forced to play macro",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-extreme-zerg-vs-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-extreme-zerg-vs-terran/",
-      "originalUrl": "https://youtube.com/watch?v=HBenUz78xuA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HBenUz78xuA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M18S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HBenUz78xuA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-06-24T01:43:31-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-eye-for-an-eye-innovation-vs-soo.md",
-      "title": "StarCraft 2: EYE FOR AN EYE! (INnoVation vs soO)",
-      "excerpt": "An epic match of professional level Zerg vs Terran in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Professional best-of-7: https://goo.gl/cLp2ev  In this match both players keep making trades back and forth. We arrive at the late game without either player really being ahead. Because",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-eye-for-an-eye-innovation-vs-soo/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-eye-for-an-eye-innovation-vs-soo/",
-      "originalUrl": "https://youtube.com/watch?v=dVd9yF7u9Ck",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dVd9yF7u9Ck\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M55S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dVd9yF7u9Ck/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-10-07T01:36:41-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-fastest-grand-finals-ever-dark-vs-byun.md",
-      "title": "StarCraft 2: Fastest GRAND FINALS Ever? (Dark vs ByuN)",
-      "excerpt": "The Grand Finals of the ESL Open Cup 124 Korea. In this best-of-5 series of professional StarCraft 2 I cast ByuN (Terran) versus Dark (Zerg). Easily one of the fastest Grand Finals ever in StarCraft 2. The fastest StarCraft 2 speedrun?  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-fastest-grand-finals-ever-dark-vs-byun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-fastest-grand-finals-ever-dark-vs-byun/",
-      "originalUrl": "https://youtube.com/watch?v=Wgl-beRNXKM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Wgl-beRNXKM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M32S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Wgl-beRNXKM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-05-24T01:14:41-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-fear-the-thunder-maru-vs-soo.md",
-      "title": "StarCraft 2: FEAR THE THUNDER! (Maru vs soO)",
-      "excerpt": "Terran Mech seems to be new gold standard in the Zerg versus Terran match-up in StarCraft 2. In this top-level match between Maru and soO the Terran also decides to go for an army composition based primarily around Thors, Siege Tanks and Battlecruisers. The Zerg player soO takes a different approach",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-fear-the-thunder-maru-vs-soo/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-fear-the-thunder-maru-vs-soo/",
-      "originalUrl": "https://youtube.com/watch?v=pCKBB5DRffM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pCKBB5DRffM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M48S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pCKBB5DRffM/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-12-20T05:28:27-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-fighting-fire-with-fire-cure-vs-solar.md",
-      "title": "StarCraft 2: FIGHTING FIRE WITH FIRE! (Cure vs Solar)",
-      "excerpt": "Fun best-of-3 series between Solar and Cure at the professional level of StarCraft 2. In this series we see Terran cheese, Terran Mech and Terran Bio out of the Terran player. The Zerg is forced to come up with a response to all these actions and plays differently in all the games. One such approach",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-fighting-fire-with-fire-cure-vs-solar/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-fighting-fire-with-fire-cure-vs-solar/",
-      "originalUrl": "https://youtube.com/watch?v=-uN3Ik0vJCM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-uN3Ik0vJCM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-uN3Ik0vJCM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-07-06T03:54:01-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-flawless-micro-high-agression-zerg-vs-terran-reynor-vs-clem.md",
-      "title": "StarCraft 2 : FLAWLESS MICRO - High Agression Zerg vs Terran! (Reynor vs Clem)",
-      "excerpt": "Professional match of StarCraft 2 between Reynor (Zerg) and Clem (Terran). This is a classic matchup, as these two progamers have faced off against each other many times before. One of the highest level games of StarCraft 2 I've casted recently.  Support my work on Patreon: https://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-flawless-micro-high-agression-zerg-vs-terran-reynor-vs-clem/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-flawless-micro-high-agression-zerg-vs-terran-reynor-vs-clem/",
-      "originalUrl": "https://youtube.com/watch?v=_y5U1EWyCG8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_y5U1EWyCG8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M54S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_y5U1EWyCG8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-20T04:29:40-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-florencios-roach-whack-a-mole.md",
-      "title": "StarCraft 2: Florencio's ROACH WHACK-A-MOLE!",
-      "excerpt": "Very fun game of Zerg versus Protoss on the StarCraft 2 ladder. In this game Florencio decides to cheese his opponent with multiple proxy Hatcheries, burrowed Roaches and Nydus Worms.  Florencio on Twitch: https://www.twitch.tv/florenciosc  Support my work on Patreon: http://www.patreon.com/lowkotv Become",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-florencios-roach-whack-a-mole/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-florencios-roach-whack-a-mole/",
-      "originalUrl": "https://youtube.com/watch?v=ru_HglKItig",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ru_HglKItig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ru_HglKItig/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-27T02:21:07-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-fresh-zerg-strategies-stephano-vs-lambo.md",
-      "title": "StarCraft 2: FRESH ZERG STRATEGIES! (Stephano vs Lambo)",
-      "excerpt": "Fun best-of-3 series of professional StarCraft 2 between Stephano and Lambo. In this Zerg versus Zerg we see multiple strategies utilised that we normally don't see in this matchup.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-fresh-zerg-strategies-stephano-vs-lambo/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-fresh-zerg-strategies-stephano-vs-lambo/",
-      "originalUrl": "https://youtube.com/watch?v=vOCShxo-rxA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vOCShxo-rxA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M35S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vOCShxo-rxA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-01T03:56:43-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-full-economy-cheese-serral-vs-ty.md",
-      "title": "StarCraft 2: FULL ECONOMY \"CHEESE\"! (Serral vs TY)",
-      "excerpt": "Best-of-5 series of top level professional StarCraft 2 between Serral and TY.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-full-economy-cheese-serral-vs-ty/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-full-economy-cheese-serral-vs-ty/",
-      "originalUrl": "https://youtube.com/watch?v=aBTCpA5LN8o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aBTCpA5LN8o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT59M33S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aBTCpA5LN8o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-25T10:45:48-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-full-macro-zerg-vs-terran.md",
       "title": "StarCraft 2: FULL MACRO Zerg vs Terran!",
       "excerpt": "A passive macro game of professional StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Drone rush vs Drone rush: https://goo.gl/GsDVVk  Some people consider passive to be bad, I personally I really like watching both players sit back and macro up a massive army. In this Terran vs Zerg match",
@@ -698,6 +41,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-10-26T09:27:23-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-goblin-masses-phoenixes-vs-reynor-best-of-3.md",
+      "title": "StarCraft 2: Goblin MASSES PHOENIXES vs Reynor! (Best-of-3)",
+      "excerpt": "Phoenixes are not a very common unit currently at the professional level of StarCraft 2 in the Zerg versus Protoss matchup. We see them from time to time, but these days it is all about Void Rays and Carriers. In this video I cast a best-of-3 series of Zerg versus Protoss between Reynor and Goblin.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-goblin-masses-phoenixes-vs-reynor-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-goblin-masses-phoenixes-vs-reynor-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=IvoBpYooY9Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IvoBpYooY9Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT53M19S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IvoBpYooY9Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-20T04:54:57-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-gumihos-never-ending-all-in-vs-dark.md",
@@ -1163,6 +544,625 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2016-12-09T05:25:31-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-infestors-vs-high-templar.md",
+      "title": "StarCraft 2: INFESTORS vs HIGH TEMPLAR!",
+      "excerpt": "A professional match of Protoss vs Zerg between PtitDrogo and Serral. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://youtu.be/BfikSEkWzao  Serral is the current World Champion of StarCraft 2. In this game he goes up against PtitDrogo, one of the strongest European",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-infestors-vs-high-templar/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-infestors-vs-high-templar/",
+      "originalUrl": "https://youtube.com/watch?v=EtRFqqTFsec",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EtRFqqTFsec\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M21S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EtRFqqTFsec/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-04-04T03:55:12-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-insane-aggression-50-worker-kills-within-5-minutes-soo-vs-dream.md",
+      "title": "StarCraft 2: INSANE AGGRESSION ~50 Worker Kills within 5 Minutes! (soO vs Dream)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Dream (Terran) and soO (Zerg). While it's not uncommon for Zerg to open up with an early game Roach push, Dream decides to make the split second decision to counter attack rather than defend his main base.  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-aggression-50-worker-kills-within-5-minutes-soo-vs-dream/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-aggression-50-worker-kills-within-5-minutes-soo-vs-dream/",
+      "originalUrl": "https://youtube.com/watch?v=FKbc0Ve5URQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FKbc0Ve5URQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M42S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FKbc0Ve5URQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-30T04:59:49-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-insane-game-he-loses-with-25000-resource-bank-dark-vs-soo.md",
+      "title": "StarCraft 2: INSANE GAME - He LOSES with 25000+ Resource Bank?! (Dark vs soO)",
+      "excerpt": "Crazy ending to a game of top level SC2. Best-of-3 series of top level StarCraft 2 between Dark and soO. This is a match of South Korean Zerg versus Zerg.   Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-game-he-loses-with-25000-resource-bank-dark-vs-soo/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-game-he-loses-with-25000-resource-bank-dark-vs-soo/",
+      "originalUrl": "https://youtube.com/watch?v=y25YGCgyfC0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y25YGCgyfC0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M8S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/y25YGCgyfC0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-21T06:35:01-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-insane-skills-serral-vs-innovation.md",
+      "title": "StarCraft 2: INSANE SKILLS! (Serral vs INnoVation)",
+      "excerpt": "Serral versus INnoVation in a top-level game of StarCraft 2. In this match between two of the very best in the game we see INnoVation going for a very slow and mechanical army that is based around Siege Tanks, Hellions, Thors and Liberators. Serral on the other hand plays the new style that has become",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-skills-serral-vs-innovation/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-skills-serral-vs-innovation/",
+      "originalUrl": "https://youtube.com/watch?v=c8wagxrGgj0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c8wagxrGgj0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M31S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/c8wagxrGgj0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-10T05:12:22-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-insane-warp-prism-micro-dark-vs-parting.md",
+      "title": "StarCraft 2: INSANE WARP PRISM MICRO! (Dark vs PartinG)",
+      "excerpt": "An epic best-of-3 series of professional StarCraft 2 between Dark and PartinG. This series of games was played at IEM Katowice. While Dark tries to take control of the early game by going for a Proxy Hatchery, PartinG is the one who quickly strikes back with some of the best Warp Prism micro I have ever",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-warp-prism-micro-dark-vs-parting/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-warp-prism-micro-dark-vs-parting/",
+      "originalUrl": "https://youtube.com/watch?v=B7NF-52Gdho",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B7NF-52Gdho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B7NF-52Gdho/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-03-03T04:07:39-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-intense-games-between-solar-and-hero-grand-finals.md",
+      "title": "StarCraft 2: INTENSE Games between Solar and herO! (Grand Finals)",
+      "excerpt": "StarCraft 2 grand finals of the ESL Open Cup 153 Korea. herO won Dreamhack Atlanta last week, and Solar won the GSL Super Tournament. This turned out to be an incredibly close series of SC2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-intense-games-between-solar-and-hero-grand-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-intense-games-between-solar-and-hero-grand-finals/",
+      "originalUrl": "https://youtube.com/watch?v=9sUITVatWEA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9sUITVatWEA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M9S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9sUITVatWEA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-14T02:18:08-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-intense-multi-tasking-korean-zerg-vs-terran.md",
+      "title": "StarCraft 2: Intense Multi-Tasking - Korean Zerg vs Terran!",
+      "excerpt": "Solar versus Bunny in a great match of Zerg vs Terran in StarCraft 2. Bunny fighting and dropping relentlessly, dropping and multi-tasking incredibly well.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-intense-multi-tasking-korean-zerg-vs-terran/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-intense-multi-tasking-korean-zerg-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=QKTrflhYPIc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QKTrflhYPIc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M31S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QKTrflhYPIc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-13T01:56:01-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-intense-protoss-micro-strategies-parting-vs-reynor.md",
+      "title": "StarCraft 2: INTENSE PROTOSS MICRO STRATEGIES! (PartinG vs Reynor)",
+      "excerpt": "Amazing series of Zerg versus Protoss at the professional level of StarCraft 2. In this match between PartinG and Reynor we see PartinG go for some uncommon strategies. He opens up very aggressively with Photon Cannons regularly and then transitions towards an army that is extremely micro heavy, but",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-intense-protoss-micro-strategies-parting-vs-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-intense-protoss-micro-strategies-parting-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=Q04LqCLjX1o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q04LqCLjX1o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H4M53S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Q04LqCLjX1o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-11T02:29:06-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-intense-zerg-vs-protoss-bo5.md",
+      "title": "StarCraft 2: INTENSE Zerg vs Protoss! (Bo5)",
+      "excerpt": "Best of 5 series between Zest and Leenock. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Terran: https://goo.gl/GJuLSh  A wide variety of games in this series of StarCraft 2. There are hyper aggressive games, as well as passive macro focused strategies from both players.  Support me",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-intense-zerg-vs-protoss-bo5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-intense-zerg-vs-protoss-bo5/",
+      "originalUrl": "https://youtube.com/watch?v=I3J4dcnqt-A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I3J4dcnqt-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/I3J4dcnqt-A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-07-20T13:49:26-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-intense-zerg-vs-terran.md",
+      "title": "StarCraft 2: INTENSE Zerg vs Terran!",
+      "excerpt": "A very tense match of Zerg versus Terran between KeeN and soO. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Protoss: https://goo.gl/qeUdf6  Easily one of the best Zerg versus Terran matches I've ever casted. This is a very intense game where we get close to mining out the entire map.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-intense-zerg-vs-terran/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-intense-zerg-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=Lo_rJvZRRe8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Lo_rJvZRRe8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M10S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Lo_rJvZRRe8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-12-23T04:50:32-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-is-this-really-the-ultimate-terran-army-dark-vs-cure.md",
+      "title": "StarCraft 2: Is This REALLY The ULTIMATE Terran Army?! (Dark vs Cure)",
+      "excerpt": "Professional match of StarCraft 2 between Dark (Zerg) and Cure (Terran). While this game starts off with a Roach Ravager rush it quickly turns into a long macro game where both players make their ultimate armies.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-is-this-really-the-ultimate-terran-army-dark-vs-cure/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-is-this-really-the-ultimate-terran-army-dark-vs-cure/",
+      "originalUrl": "https://youtube.com/watch?v=hPWc5DKpkmI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hPWc5DKpkmI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M14S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hPWc5DKpkmI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-08-23T04:21:48-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-korean-vs-european-zerg-vs-zerg-solar-vs-serral.md",
+      "title": "StarCraft 2: KOREAN VS EUROPEAN ZERG VS ZERG! (Solar vs Serral)",
+      "excerpt": "Zerg versus Zerg is one of the hardest matchups to play well in StarCraft 2. Since all units have very high damage output compared to their hitpoints, it can be over in a flash. In this professional match of SC2 I cast a game between Serral and Solar. Solar plays very aggressively and focuses on Muta",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-korean-vs-european-zerg-vs-zerg-solar-vs-serral/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-korean-vs-european-zerg-vs-zerg-solar-vs-serral/",
+      "originalUrl": "https://youtube.com/watch?v=0LwUyhD6KGk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0LwUyhD6KGk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M11S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0LwUyhD6KGk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-21T02:28:51-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-late-game-insanity-dark-vs-creator.md",
+      "title": "StarCraft 2: LATE GAME INSANITY! (Dark vs Creator)",
+      "excerpt": "Excellent game of professional Zerg versus Protoss in StarCraft 2. In this game between Dark and Creator we dive into the late game of this matchup and take a glimpse at certain unexplored strategies.   OlimoLeague on Patreon: https://www.patreon.com/olimoley   Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-late-game-insanity-dark-vs-creator/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-late-game-insanity-dark-vs-creator/",
+      "originalUrl": "https://youtube.com/watch?v=ZGBQn1UbR5g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZGBQn1UbR5g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZGBQn1UbR5g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-02T03:15:03-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-late-game-muta-switch-dark-vs-time.md",
+      "title": "StarCraft 2: LATE  GAME MUTA SWITCH! (Dark vs TIME)",
+      "excerpt": "Professional match of StarCraft 2 between the current World Champion Dark and TIME the highest ranked player from China. In this match we see both players take a slightly uncommon path in their macro games. Tactical Nukes by TIME and a late game Mutalisk transition by Dark.  Become a YouTube member:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-late-game-muta-switch-dark-vs-time/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-late-game-muta-switch-dark-vs-time/",
+      "originalUrl": "https://youtube.com/watch?v=1tykA9F5ZDQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1tykA9F5ZDQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M25S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1tykA9F5ZDQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-12T01:59:01-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-legacy-of-the-void-action-packed-zerg-vs-protoss-cast.md",
+      "title": "StarCraft 2: Legacy of the Void - ACTION-PACKED Zerg vs Protoss! (Cast)",
+      "excerpt": "One of the best Zerg versus Protoss games that I have played so far. In this StarCraft 2: Legacy of the Void beta game I go up against KnowMe, a progamer from Germany.  In this back and forth Zerg versus Protoss game there is a lot of action from both sides. Aggression with Ravagers, Hydralisks, Ultralisks",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-legacy-of-the-void-action-packed-zerg-vs-protoss-cast/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-legacy-of-the-void-action-packed-zerg-vs-protoss-cast/",
+      "originalUrl": "https://youtube.com/watch?v=yNWa_GsiXuo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yNWa_GsiXuo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yNWa_GsiXuo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2015-04-04T04:36:31-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-lowko-complains-about-zests-mass-void-ray-vs-soo-best-of-5.md",
+      "title": "StarCraft 2; Lowko Complains About Zest’s MASS VOID RAY vs soO! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between soO (Zerg) and Zest (Protoss). After macro games soO decides to go for a Spine Crawler rush versus Zest.  soO vs Cure: https://youtu.be/EfILZ7FPv70 soO vs ByuN: https://youtu.be/mSL43Z7w6A4  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-lowko-complains-about-zests-mass-void-ray-vs-soo-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-lowko-complains-about-zests-mass-void-ray-vs-soo-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=nQJJ-2RhILc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nQJJ-2RhILc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nQJJ-2RhILc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-23T11:16:38-07:00"
     }
   ],
   "nextPage": 12

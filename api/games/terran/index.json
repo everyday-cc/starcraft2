@@ -389,6 +389,45 @@
       "publishedDateTime": "2023-04-18T03:34:19-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-gumihos-15-battlecruiser-army-vs-solar.md",
+      "title": "StarCraft 2: GuMiho's 15+ BATTLECRUISER ARMY vs Solar!",
+      "excerpt": "Incredible match of StarCraft 2 between Solar (Zerg) and GuMiho (Terran). In this match GuMiho decides to play a mass Battlecruiser Terran Mech army. Game was played during IEM Katowice, the StarCraft 2 World Championships.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumihos-15-battlecruiser-army-vs-solar/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumihos-15-battlecruiser-army-vs-solar/",
+      "originalUrl": "https://youtube.com/watch?v=mJKfyg1Z4Ik",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mJKfyg1Z4Ik\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M42S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 117,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mJKfyg1Z4Ik/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-02-22T03:33:20-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-specials-proxy-starport-vs-reynor.md",
       "title": "StarCraft 2: SpeCial's PROXY STARPORT(?!) vs Reynor!",
       "excerpt": "Professional match of StarCraft 2 between Reynor (Zerg) and SpeCial (Terran). Thanks for Gamers Without Borders for sponsoring this video.  https://www.twitch.tv/gwbps_en @Gamers8Esports  https://gamerswithoutborders.com  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My",
@@ -428,26 +467,34 @@
       "publishedDateTime": "2023-04-15T01:12:03-07:00"
     },
     {
-      "path": "_games/pig-who-is-the-better-sht-talker-harstem-or-special-smacktalk-1-starcraft-2.md",
-      "title": "Who is the better SH*T TALKER: Harstem or Special? | SMACKTalk #1 - StarCraft 2",
-      "excerpt": "What happens when Pros play 1v1 but they can smack talk while playing? Imagine telling Yo mamma jokes to throw your opponent off :P That's SMACKTalk, a new show format by PiG!  First up, Harstem the Captain himself against none other than Special!  At the end of the series, the live audience gets to",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-who-is-the-better-sht-talker-harstem-or-special-smacktalk-1-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-who-is-the-better-sht-talker-harstem-or-special-smacktalk-1-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=AAPf5oIfWZU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AAPf5oIfWZU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M49S",
+      "path": "_games/lowkotv-starcraft-2-absolute-banger-astreas-offraces-terran-vs-neuro.md",
+      "title": "StarCraft 2: ABSOLUTE BANGER - Astrea's OFFRACES TERRAN vs Neuro!",
+      "excerpt": "High level match of StarCraft 2 between Neuro (Zerg) and Astrea. In this game Astrea decides to play Terran rather than Protoss. This is easily one of the very best games played on the new patch with the new maps so far.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-absolute-banger-astreas-offraces-terran-vs-neuro/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-absolute-banger-astreas-offraces-terran-vs-neuro/",
+      "originalUrl": "https://youtube.com/watch?v=yf2bSRnDnlM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yf2bSRnDnlM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M33S",
       "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 111,
+      "heat": 113,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/AAPf5oIfWZU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/yf2bSRnDnlM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -455,7 +502,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-02-26T01:40:08-08:00"
+      "publishedDateTime": "2023-01-28T01:10:51-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-sos-double-gold-rush-vs-innovation-best-of-7.md",
@@ -1097,44 +1144,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-04-05T03:23:43-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-50-tactical-nukes.md",
-      "title": "StarCraft 2: 50+ TACTICAL NUKES!",
-      "excerpt": "What a ridiculous match! So many Tactical Nukes in one game. Subscribe for more videos: http://lowko.tv/youtube More Serral vs INnoVation: https://youtu.be/FzjCKHA3Zc0  In this game between Serral and INnoVation we see basically the whole map of King's Cove mine out. It gets to the point that both players",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-50-tactical-nukes/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-50-tactical-nukes/",
-      "originalUrl": "https://youtube.com/watch?v=xKYulaEILB0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xKYulaEILB0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M28S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xKYulaEILB0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-22T03:12:45-07:00"
     }
   ],
   "nextPage": 2

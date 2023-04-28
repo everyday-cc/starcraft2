@@ -1016,8 +1016,9 @@ items:
   - pig-printfs-abuse-of-the-carrier-change-is-genius-king-of-cannons-23-starcraft-2
   - pig-deranged-player-rages-at-teammate-for-not-scouting-salt-mines-33-starcraft-2
   - pig-when-a-game-is-so-stressful-their-brain-breaks-smooth-brain-boanaan-4-starcraft-2
-  - pig-the-sewer-mermaid-slips-behind-enemy-lines-florencio-files-279-starcraft-2
+  - pig-the-sewer-mermaid-slips-behind-enemy-lines-florencio-files-280-starcraft-2
   - pig-saltiest-players-ever-now-ive-got-your-attn-heres-friendly-foes-wholesome-sc2-
+  - pig-printfs-amazing-usage-of-these-units-is-insane-king-of-cannons-24-starcraft-2
 
 topics:
   - StarCraft 2

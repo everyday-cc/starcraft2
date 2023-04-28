@@ -4,6 +4,36 @@
   "page": 76,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-grim-reaper-ruining-progamers-3-in-1-grim-reaper-13.md",
+      "title": "StarCraft 2 - GRIM REAPER RUINING PROGAMERS (3-IN-1) | Grim Reaper 13",
+      "excerpt": "Grim Reaper shows us his tricky, cheesy plays - this time against some BIG MMR BOIS, Disk, Gerald and Barcode. 🐷 Support PiG: https://www.pigstarcraft.com/support/  The Grim Reaper Playlist: https://www.youtube.com/watch?v=3cLene8nRc8&list=PLFUDU8AOevUcEZxzA83oiBz8LxgwgLeyR GrimReaper’s stream: https://www.twitch.tv/grimmy_uk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-grim-reaper-ruining-progamers-3-in-1-grim-reaper-13/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-grim-reaper-ruining-progamers-3-in-1-grim-reaper-13/",
+      "originalUrl": "https://youtube.com/watch?v=59Seh-s07NY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/59Seh-s07NY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M49S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/59Seh-s07NY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:47:10-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-grim-tortures-zerg-pro-grim-reaper-17.md",
       "title": "StarCraft 2 - GRIM TORTURES ZERG PRO | Grim Reaper #17",
       "excerpt": "Grim Reaper shows us his tricky, cheesy plays against 6400 MMR pro player, Cham! 🐷 Support PiG: https://www.pigstarcraft.com/support/  The Grim Reaper Playlist: https://www.youtube.com/watch?v=3cLene8nRc8&list=PLFUDU8AOevUcEZxzA83oiBz8LxgwgLeyR GrimReaper’s stream: https://www.twitch.tv/grimmy_uk --",
@@ -869,37 +899,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-05-03T09:00:05-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-imaginary-nydus-300-iq-cannon-defence-grim-reaper-7.md",
-      "title": "StarCraft 2 | Imaginary Nydus - 300 IQ Cannon Defence | Grim Reaper #7",
-      "excerpt": "Here is GrimReaper, the collector of souls and people's will to practice StarCraft 2 again. -- 🐷 Like my videos? Help support me by being a patron: https://www.patreon.com/PiGSC2 🐖 Watch live at https://www.twitch.tv/x5_pig 🐽 Linktree: https://linktr.ee/PiGStarcraft 👕 Merch: https://teespring.com/stores/pig-sc2",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-imaginary-nydus-300-iq-cannon-defence-grim-reaper-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-imaginary-nydus-300-iq-cannon-defence-grim-reaper-7/",
-      "originalUrl": "https://youtube.com/watch?v=D8PTkXGkpuI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D8PTkXGkpuI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M23S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/D8PTkXGkpuI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:47:10-07:00"
     }
   ],
   "nextPage": 77

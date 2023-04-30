@@ -1037,44 +1037,6 @@
       "publishedDateTime": "2023-03-08T04:03:02-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-new-world-champion-vs-hero-the-best-protoss-best-of-5.md",
-      "title": "StarCraft 2: The NEW World Champion vs herO, the BEST Protoss! (Best-of-5)",
-      "excerpt": "Best-of-5 series of high level StarCraft 2 between Oliveira (Terran) and herO (Protoss). While herO has been more succesful over the last few years, Oliveira recently won IEM Katowice and is therefore the current StarCraft 2 World Champion.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-new-world-champion-vs-hero-the-best-protoss-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-new-world-champion-vs-hero-the-best-protoss-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=Wt1Mf1TQqpM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Wt1Mf1TQqpM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M58S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Wt1Mf1TQqpM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-03T03:47:15-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-official-viewer-tournament.md",
       "title": "StarCraft 2: The OFFICIAL Viewer Tournament!",
       "excerpt": "The best games from the first viewer tournament! This video features all the best matches of StarCraft 2 that were played during the \"LowkoTV Viewer Tournament #1\".  00:00:00 Introduction 00:07:32 Game 1 00:17:02 Game 2 00:30:39 Game 3 00:47:38 Game 4 01:00:16 Game 5  01:33:26 Game 6 01:48:26 Game 7",
@@ -1147,6 +1109,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-02-28T05:21:53-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-zergs-command-center-viewer-game.md",
+      "title": "StarCraft 2: The ZERG's Command Center! (Viewer Game)",
+      "excerpt": "A viewer submitted game of StarCraft 2 where the Zerg manages to win the game two minutes in, but for some reason doesn't go in for the kill. He decides to sit around and toy with his opponents units untill he can make his own Terran army using the Infestor and Neural Parasite.  Support my work on Patreon:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-zergs-command-center-viewer-game/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-zergs-command-center-viewer-game/",
+      "originalUrl": "https://youtube.com/watch?v=hDNl73-e2OI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hDNl73-e2OI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M40S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hDNl73-e2OI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-11T01:18:00-07:00"
     }
   ],
   "nextPage": 11

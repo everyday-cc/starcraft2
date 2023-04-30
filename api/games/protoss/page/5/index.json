@@ -4,200 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-pro-2v2-dark-hero-team-up-vs-serral-oliveira.md",
-      "title": "StarCraft 2: PRO 2v2 - Dark & herO TEAM UP vs Serral & Oliveira!",
-      "excerpt": "Professional match of 2v2 in StarCraft 2. This match was recently played as part of the WTL. In this game we watch Dark and herO take on Serral and Oliveira.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips  Twitch livestream:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-2v2-dark-hero-team-up-vs-serral-oliveira/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-pro-2v2-dark-hero-team-up-vs-serral-oliveira/",
-      "originalUrl": "https://youtube.com/watch?v=vcFduBzdWVs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vcFduBzdWVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M28S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vcFduBzdWVs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-02T04:04:49-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-reynor-as-protoss-again-kelazhur-vs-reynor.md",
-      "title": "StarCraft 2: REYNOR AS PROTOSS... AGAIN! (Kelazhur vs Reynor)",
-      "excerpt": "Reynor decides to pick Protoss up again in a recent tournament. In this video I cast a best-of-3 series at the professional level of StarCraft 2 between Kelazhur and Reynor, a Terran versus Protoss.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynor-as-protoss-again-kelazhur-vs-reynor/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynor-as-protoss-again-kelazhur-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=Gvbv5On206Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gvbv5On206Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Gvbv5On206Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-26T04:40:37-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-weird-cannon-rush-counters-viewer-games.md",
-      "title": "StarCraft 2: WEIRD Cannon Rush Counters! (Viewer Games)",
-      "excerpt": "Viewer submitted games of StarCraft 2. In these matches we have a look at some questionable Cannon Rushes, with even more questionable responses.  If you want me to cast your StarCraft 2 match next, you can submit your best game to replays@lowko.tv.   Support my work on Patreon: https://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-weird-cannon-rush-counters-viewer-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-weird-cannon-rush-counters-viewer-games/",
-      "originalUrl": "https://youtube.com/watch?v=l56awCUm1pA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l56awCUm1pA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/l56awCUm1pA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-14T02:51:51-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-what-the-strangest-pro-game-of-2022-neeb-vs-gumiho.md",
-      "title": "StarCraft 2: WHAT?! - The STRANGEST Pro Game of 2022? (Neeb vs Gumiho)",
-      "excerpt": "Very strange game of professional StarCraft 2 between Gumiho (Terran) and Neeb (Protoss). One of the lowest highest level games that I've casted this year. Gumiho decides to open up with a triple Battlecruiser build order.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-what-the-strangest-pro-game-of-2022-neeb-vs-gumiho/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-what-the-strangest-pro-game-of-2022-neeb-vs-gumiho/",
-      "originalUrl": "https://youtube.com/watch?v=BwieZBBCJIs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BwieZBBCJIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M29S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BwieZBBCJIs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-02T04:18:33-07:00"
-    },
-    {
-      "path": "_games/lowkotv-stracraft-2-the-first-best-match-of-the-year-gumiho-vs-classic.md",
-      "title": "StraCraft 2: The FIRST \"Best Match of the Year\"?! (GuMiho vs Classic)",
-      "excerpt": "Amazing game of professional StarCraft 2 between GuMiho (Terran) and Classic (Protoss).  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips: https://www.youtube.com/lowkoclips  Be part of the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-stracraft-2-the-first-best-match-of-the-year-gumiho-vs-classic/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-stracraft-2-the-first-best-match-of-the-year-gumiho-vs-classic/",
-      "originalUrl": "https://youtube.com/watch?v=EHgn-Y5dI2o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EHgn-Y5dI2o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M14S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EHgn-Y5dI2o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-02-10T03:28:05-08:00"
-    },
-    {
       "path": "_games/pig-but-what-if-they-blind-counter-me-king-of-cannons-ep3-starcraft-2.md",
       "title": "But what if they blind counter me? | King of Cannons Ep#3  - StarCraft 2",
       "excerpt": "Seems like we got ANOTHER new series bois(n girls), The King of Cannons!  be sure to follow him on, Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng  Like the content? Then consider to leave a thumbs",
@@ -229,6 +35,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-07-14T23:16:31-07:00"
+    },
+    {
+      "path": "_games/pig-call-the-militia-the-king-of-cannons-8-9-starcraft-2.md",
+      "title": "Call the militia! | The King of Cannons #8 & #9 - StarCraft 2",
+      "excerpt": "The King of Cannons! Be sure to follow him on: Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-call-the-militia-the-king-of-cannons-8-9-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-call-the-militia-the-king-of-cannons-8-9-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=O3PCLVhs3bU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O3PCLVhs3bU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "tags": [
+        "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/O3PCLVhs3bU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-14T23:27:54-07:00"
     },
     {
       "path": "_games/pig-i-swear-this-has-never-happened-before-depot-dysfunction-the-king-of-cannons-7-starcraft-2.md",
@@ -264,14 +103,14 @@
       "publishedDateTime": "2020-01-05T08:24:34-08:00"
     },
     {
-      "path": "_games/pig-motorboating-immortal-king-of-cannons-2-starcraft-2.md",
-      "title": "Motorboating immortal! | King of Cannons #2 - StarCraft 2",
-      "excerpt": "Seems like we got ANOTHER new series bois(n girls), The King of Cannons!  be sure to follow him on, Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng  Like the content? Then consider to leave a thumbs",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-motorboating-immortal-king-of-cannons-2-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-motorboating-immortal-king-of-cannons-2-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=tH89RWEr_wY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tH89RWEr_wY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M43S",
+      "path": "_games/pig-never-expand-never-surrender-king-of-cannons-14-starcraft-2.md",
+      "title": "NEVER EXPAND, NEVER SURRENDER | King of Cannons #14 - StarCraft 2",
+      "excerpt": "Cannon rushes all day erry day! 🐷 Support PiG: http://paypal.me/PiGSC2 | https://www.patreon.com/PiGSC2  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf -- 🐖 Watch live on https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-never-expand-never-surrender-king-of-cannons-14-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-never-expand-never-surrender-king-of-cannons-14-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=KuSOt7QCrlc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KuSOt7QCrlc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M51S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -286,7 +125,7 @@
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tH89RWEr_wY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/KuSOt7QCrlc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -294,7 +133,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-07-14T23:13:16-07:00"
+      "publishedDateTime": "2021-02-19T15:36:52-08:00"
     },
     {
       "path": "_games/pig-pros-suck-at-defending-cannon-rushes-starcraft-2.md",
@@ -360,27 +199,29 @@
       "publishedDateTime": "2021-03-23T23:43:08-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-81-kill-nuke-florencio-files-183.md",
-      "title": "StarCraft 2 - 81 KILL NUKE! | Florencio Files #183",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-81-kill-nuke-florencio-files-183/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-81-kill-nuke-florencio-files-183/",
-      "originalUrl": "https://youtube.com/watch?v=2GsJEFstJ8U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2GsJEFstJ8U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M19S",
+      "path": "_games/pig-starcraft-2-1-base-carrier-king-of-cannons-12.md",
+      "title": "StarCraft 2 - 1-Base CARRIER!? | King of Cannons #12",
+      "excerpt": "It's a lot more fun watching other people get cannon rushed, isn't it? -- Want more? Help support me! https://www.patreon.com/PiGSC2 Watch live at https://www.twitch.tv/x5_pig Linktree: https://linktr.ee/PiGStarcraft Merch: https://teespring.com/stores/pig-sc2 -- ICYFAR Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUczdbU-zuY0-vykRSR1YsLC",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-1-base-carrier-king-of-cannons-12/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-1-base-carrier-king-of-cannons-12/",
+      "originalUrl": "https://youtube.com/watch?v=wGMUbMlwmPA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wGMUbMlwmPA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M13S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
-        "Terran"
+        "Protoss"
       ],
       "heat": 51,
+      "tags": [
+        "Cheese"
+      ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2GsJEFstJ8U/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wGMUbMlwmPA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -388,7 +229,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-11-14T09:00:04-08:00"
+      "publishedDateTime": "2020-10-14T23:23:21-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-banshee-plus-liberator-makes-zerg-cry-florencio-files-232.md",
@@ -451,36 +292,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-11-17T20:14:18-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-battle-of-the-cheesers-the-florencio-files-34.md",
-      "title": "StarCraft 2 - Battle of the Cheesers | The Florencio Files #34",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  Florencios twitch: https://www.twitch.tv/flol2encio Florencios youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-battle-of-the-cheesers-the-florencio-files-34/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-battle-of-the-cheesers-the-florencio-files-34/",
-      "originalUrl": "https://youtube.com/watch?v=n4kTlp_m72k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n4kTlp_m72k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M47S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/n4kTlp_m72k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-12-26T23:47:14-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-can-sun-tzus-wisdom-stop-the-sewer-mermaid-the-florencio-files-26.md",
@@ -573,26 +384,27 @@
       "publishedDateTime": "2020-11-27T13:25:24-08:00"
     },
     {
-      "path": "_games/pig-starcraft-2-crazy-scv-repair-rush-florencios-autoshop-florencio-files-201-starcraft-2.md",
-      "title": "StarCraft 2 - CRAZY SCV REPAIR RUSH! Florencio’s Autoshop! | Florencio Files #201 - StarCraft 2",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-crazy-scv-repair-rush-florencios-autoshop-florencio-files-201-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-crazy-scv-repair-rush-florencios-autoshop-florencio-files-201-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=AkwQEDqs1vk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AkwQEDqs1vk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M24S",
+      "path": "_games/pig-starcraft-2-cyclone-widow-mine-all-in-florencio-files-233.md",
+      "title": "StarCraft 2 - CYCLONE WIDOW MINE ALL-IN | Florencio Files #233",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-cyclone-widow-mine-all-in-florencio-files-233/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-cyclone-widow-mine-all-in-florencio-files-233/",
+      "originalUrl": "https://youtube.com/watch?v=jA7D9_nnlbI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jA7D9_nnlbI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M32S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Protoss",
+        "Terran"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/AkwQEDqs1vk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jA7D9_nnlbI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -600,17 +412,17 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-01-01T13:31:01-08:00"
+      "publishedDateTime": "2021-07-22T17:05:20-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-flo-discovers-mass-cyclones-florencio-files-266.md",
-      "title": "StarCraft 2 - Flo Discovers Mass Cyclones | Florencio Files #266",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-flo-discovers-mass-cyclones-florencio-files-266/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-flo-discovers-mass-cyclones-florencio-files-266/",
-      "originalUrl": "https://youtube.com/watch?v=zba5-5NaSR0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zba5-5NaSR0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M2S",
+      "path": "_games/pig-starcraft-2-dont-fight-the-guy-with-dilated-pupils-the-florencio-files-154.md",
+      "title": "StarCraft 2 - Don’t Fight the Guy with Dilated Pupils | The Florencio Files #154",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-dont-fight-the-guy-with-dilated-pupils-the-florencio-files-154/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-dont-fight-the-guy-with-dilated-pupils-the-florencio-files-154/",
+      "originalUrl": "https://youtube.com/watch?v=0gjeqOdbvV8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0gjeqOdbvV8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M29S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -622,7 +434,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/zba5-5NaSR0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/0gjeqOdbvV8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -630,29 +442,30 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-04-29T17:19:35-07:00"
+      "publishedDateTime": "2020-08-12T14:00:03-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-flo-pushes-the-limits-of-one-base-play-florencio-files-264.md",
-      "title": "StarCraft 2 - Flo Pushes the Limits of One-Base Play | Florencio Files #264",
+      "path": "_games/pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261.md",
+      "title": "StarCraft 2 - Flo Locks Them Out With A Mass Widow Mine Drop! | Florencio Files #261",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-flo-pushes-the-limits-of-one-base-play-florencio-files-264/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-flo-pushes-the-limits-of-one-base-play-florencio-files-264/",
-      "originalUrl": "https://youtube.com/watch?v=wx62592FMVY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wx62592FMVY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M39S",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261/",
+      "originalUrl": "https://youtube.com/watch?v=WrILME9CWO8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WrILME9CWO8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M48S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Protoss",
+        "Terran"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/wx62592FMVY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/WrILME9CWO8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -660,7 +473,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-04-13T19:34:28-07:00"
+      "publishedDateTime": "2022-03-23T19:12:36-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-florencio-abuses-tempest-range-florencio-files-248.md",
@@ -693,27 +506,26 @@
       "publishedDateTime": "2021-11-09T23:59:04-08:00"
     },
     {
-      "path": "_games/pig-starcraft-2-florencio-faces-a-terran-doppleganger-florencio-files-227.md",
-      "title": "StarCraft 2 - FLORENCIO FACES A TERRAN DOPPLEGANGER! | Florencio Files #227",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-faces-a-terran-doppleganger-florencio-files-227/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-faces-a-terran-doppleganger-florencio-files-227/",
-      "originalUrl": "https://youtube.com/watch?v=W19joj654D8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W19joj654D8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M35S",
+      "path": "_games/pig-starcraft-2-florencio-joins-forces-with-boom-florencio-files-209-sc2.md",
+      "title": "StarCraft 2 - FLORENCIO JOINS FORCES WITH BOOM | Florencio Files #209 - SC2",
+      "excerpt": "Florencio struggled to win back the Sewers from the Squatters, so he enlisted BOOM'S help. With their forces combined they battled against 5 Sewer Squatters at once, then another 3 of them in a ridiculous All Races Mod map that hurt my smooth brain to cast. We played this out live on stream against fans",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-joins-forces-with-boom-florencio-files-209-sc2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-joins-forces-with-boom-florencio-files-209-sc2/",
+      "originalUrl": "https://youtube.com/watch?v=W-EbwlbZ2pY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W-EbwlbZ2pY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M19S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
-        "Terran"
+        "Protoss"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/W19joj654D8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/W-EbwlbZ2pY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -721,7 +533,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-05-12T05:32:05-07:00"
+      "publishedDateTime": "2021-02-04T19:14:52-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-florencio-perfectly-executes-a-2-1-1-florencio-files-245.md",
@@ -754,6 +566,36 @@
       "publishedDateTime": "2021-10-14T16:14:04-07:00"
     },
     {
+      "path": "_games/pig-starcraft-2-florencio-the-mutalisk-hunter-florencio-files-185.md",
+      "title": "StarCraft 2 - FLORENCIO THE MUTALISK HUNTER | Florencio Files #185",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-the-mutalisk-hunter-florencio-files-185/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-the-mutalisk-hunter-florencio-files-185/",
+      "originalUrl": "https://youtube.com/watch?v=-YUfNGwzPAU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-YUfNGwzPAU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M25S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-YUfNGwzPAU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-21T09:00:01-08:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-florencio-vs-avilo-the-florencio-files-4.md",
       "title": "StarCraft 2 - Florencio vs Avilo! | The Florencio Files #4",
       "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush\r  -- Watch live at https://www.twitch.tv/x5_pig",
@@ -782,36 +624,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-05-24T00:49:07-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-florencio-vs-neuro-insane-match-the-florencio-files-15.md",
-      "title": "StarCraft 2 - Florencio vs Neuro INSANE match | The Florencio Files #15",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-vs-neuro-insane-match-the-florencio-files-15/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-vs-neuro-insane-match-the-florencio-files-15/",
-      "originalUrl": "https://youtube.com/watch?v=pX5ITpSTato",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pX5ITpSTato\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M37S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pX5ITpSTato/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-12-09T04:09:43-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-florencio-vs-weedamins-the-florencio-files-3.md",
@@ -874,14 +686,14 @@
       "publishedDateTime": "2021-11-23T17:38:13-08:00"
     },
     {
-      "path": "_games/pig-starcraft-2-florencios-bizarre-version-of-a-macro-game-florencio-files-256.md",
-      "title": "StarCraft 2 - Florencio’s bizarre version of a macro game | Florencio Files #256",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this game, Daddy Zerg tries a ravager contain... but forgets that there's such a thing as a Florencio Expand!  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencios-bizarre-version-of-a-macro-game-florencio-files-256/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencios-bizarre-version-of-a-macro-game-florencio-files-256/",
-      "originalUrl": "https://youtube.com/watch?v=AgnrYbFtias",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AgnrYbFtias\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M38S",
+      "path": "_games/pig-starcraft-2-florencios-pulls-out-the-screwdriver-the-florencio-files-7.md",
+      "title": "StarCraft 2 - Florencio’s Pulls out the Screwdriver | The Florencio Files #7",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencios-pulls-out-the-screwdriver-the-florencio-files-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencios-pulls-out-the-screwdriver-the-florencio-files-7/",
+      "originalUrl": "https://youtube.com/watch?v=tiXtCRG6c3U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tiXtCRG6c3U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M55S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -893,7 +705,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/AgnrYbFtias/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/tiXtCRG6c3U/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -901,37 +713,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-02-10T16:38:02-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-florencios-pylon-science-the-florencio-files-45.md",
-      "title": "StarCraft 2 - Florencio's Pylon Science | The Florencio Files #45",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencios-pylon-science-the-florencio-files-45/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencios-pylon-science-the-florencio-files-45/",
-      "originalUrl": "https://youtube.com/watch?v=AG2NXQEui68",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AG2NXQEui68\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M50S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AG2NXQEui68/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-02-17T05:24:41-08:00"
+      "publishedDateTime": "2018-05-24T00:49:07-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-florencios-utter-nonsense-zvz-florencio-files-220-2-games-in-1.md",
@@ -962,6 +744,188 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-03-30T22:03:41-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-flos-in-trouble-battlecruiser-edition-florencio-file-241.md",
+      "title": "StarCraft 2 - FLO’S IN TROUBLE: Battlecruiser Edition | Florencio File #241",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. This time it's Mass Battlecruisers 🐷 Support PiG: https://www.patreon.com/PiGSC2  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-flos-in-trouble-battlecruiser-edition-florencio-file-241/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-flos-in-trouble-battlecruiser-edition-florencio-file-241/",
+      "originalUrl": "https://youtube.com/watch?v=5xnWPCepsfE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5xnWPCepsfE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M19S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5xnWPCepsfE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-09-14T02:26:22-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-flos-sick-counter-to-battlecruisers-florencio-files-259.md",
+      "title": "StarCraft 2 - Flo’s sick counter to Battlecruisers | Florencio Files #259",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-flos-sick-counter-to-battlecruisers-florencio-files-259/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-flos-sick-counter-to-battlecruisers-florencio-files-259/",
+      "originalUrl": "https://youtube.com/watch?v=78bDMwTPTWI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/78bDMwTPTWI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M6S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/78bDMwTPTWI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-02-16T18:13:43-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-geek-squad-science-the-florencio-files-142.md",
+      "title": "StarCraft 2 - Geek Squad Science! | The Florencio Files #142",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-geek-squad-science-the-florencio-files-142/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-geek-squad-science-the-florencio-files-142/",
+      "originalUrl": "https://youtube.com/watch?v=5wudocTbrf0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5wudocTbrf0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M29S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5wudocTbrf0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-10T09:00:09-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-grabbin-zergs-by-the-snatchery-the-florencio-files-140.md",
+      "title": "StarCraft 2 - Grabbin Zergs by the Snatchery | The Florencio Files #140",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-grabbin-zergs-by-the-snatchery-the-florencio-files-140/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-grabbin-zergs-by-the-snatchery-the-florencio-files-140/",
+      "originalUrl": "https://youtube.com/watch?v=xX5xEqOY_BY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xX5xEqOY_BY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M41S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xX5xEqOY_BY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-05T01:00:23-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-how-not-to-use-thors-florencio-files-230.md",
+      "title": "StarCraft 2 - HOW NOT TO USE THORS | Florencio Files #230",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-how-not-to-use-thors-florencio-files-230/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-how-not-to-use-thors-florencio-files-230/",
+      "originalUrl": "https://youtube.com/watch?v=v_1asbwEOk4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v_1asbwEOk4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M44S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/v_1asbwEOk4/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-07T00:21:36-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-im-not-mad-the-florencio-files-136.md",
+      "title": "StarCraft 2 - “I’m not mad” | The Florencio Files #136",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-im-not-mad-the-florencio-files-136/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-im-not-mad-the-florencio-files-136/",
+      "originalUrl": "https://youtube.com/watch?v=1xigomlrO80",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1xigomlrO80\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M11S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1xigomlrO80/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-05-03T09:00:05-07:00"
     }
   ],
   "nextPage": 6

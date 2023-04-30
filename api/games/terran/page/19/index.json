@@ -4,36 +4,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_games/pig-endless-tide-of-terran-settlers-invisible-man-g4-icyfar.md",
-      "title": "Endless Tide of Terran Settlers | Invisible Man G4 ICYFAR",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were they may use invisible units to spook their opponents!  NEW ICYFAR CHALLANGE: You will never get this! - Deny your opponents expansions and contain them at all costs. Send submissions",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-endless-tide-of-terran-settlers-invisible-man-g4-icyfar/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-endless-tide-of-terran-settlers-invisible-man-g4-icyfar/",
-      "originalUrl": "https://youtube.com/watch?v=qR-YlRyliQw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qR-YlRyliQw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M30S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qR-YlRyliQw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-epic-micro-battle-grim-reaper-2-starcraft-2.md",
       "title": "EPIC MICRO BATTLE | Grim Reaper #2 - StarCraft 2",
       "excerpt": "GrimReaper faces off against Golden in this epic micro battle. -- Want more? Help support me! https://www.patreon.com/PiGSC2 Watch live at https://www.twitch.tv/x5_pig Linktree: https://linktr.ee/PiGStarcraft -- Florecenio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
@@ -922,6 +892,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-25T09:00:20-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-131-kill-battlecruisers-diamond-in-the-ruff-12.md",
+      "title": "StarCraft 2 - 131 KILL BATTLECRUISERS | Diamond in the Ruff #12",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Zerg opponent? Battlecruisers!  Check out all episodes of Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-131-kill-battlecruisers-diamond-in-the-ruff-12/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-131-kill-battlecruisers-diamond-in-the-ruff-12/",
+      "originalUrl": "https://youtube.com/watch?v=tlanAT12mK0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tlanAT12mK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M51S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tlanAT12mK0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-14T12:00:08-07:00"
     }
   ],
   "nextPage": 20

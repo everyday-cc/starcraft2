@@ -312,45 +312,6 @@
       "publishedDateTime": "2023-03-20T05:03:10-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-byuns-bizarre-reaper-play-vs-reynor.md",
-      "title": "StarCraft 2: ByuN's BIZARRE Reaper Play vs Reynor!",
-      "excerpt": "Pro match of StarCraft 2 between Reynor and ByuN. In this Terran versus Zerg ByuN decides to open up with a Reaper 'proxy' inside his own main base. While the double Rax Reaper opener is something he has shown many times, he decides to add a third Barracks and it manages to throw Reynor off guard.  Support",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-bizarre-reaper-play-vs-reynor/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-bizarre-reaper-play-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=PETSgPRVQFc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PETSgPRVQFc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M21S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PETSgPRVQFc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-04T03:28:14-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-byuns-reaper-rushes-dark-best-of-5.md",
       "title": "StarCraft 2: ByuN's REAPER RUSHES Dark! (Best-of-5)",
       "excerpt": "Finals of the StarCraft 2 ESL Open Cup 169 Korea between Dark (Zerg) and ByuN (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips    Twitch livestream: https://twitch.tv/lowkotv Live most days 2-8 PM CET / CEST",
@@ -1143,6 +1104,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-03-22T03:12:45-07:00"
+    },
+    {
+      "path": "_games/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53.md",
+      "title": "When the Protoss is Protossing, and you gotta Terran | Diamond in the Ruff #53",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent? 🐷 Support PiG: https://www.patreon.com/PiGSC2  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53/",
+      "originalUrl": "https://youtube.com/watch?v=ilVJs5gQrP8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ilVJs5gQrP8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M53S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ilVJs5gQrP8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-09-24T01:39:41-07:00"
     }
   ],
   "nextPage": 2

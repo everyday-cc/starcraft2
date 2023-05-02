@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 63
+heat: 61
 
 provider:
   name: PiG
@@ -1018,6 +1018,7 @@ items:
   - pig-when-a-game-is-so-stressful-their-brain-breaks-smooth-brain-boanaan-4-starcraft-2
   - pig-the-sewer-mermaid-slips-behind-enemy-lines-florencio-files-280-starcraft-2
   - pig-saltiest-players-ever-now-ive-got-your-attn-heres-friendly-foes-wholesome-sc2-
+  - pig-worst-1-base-bc-player-ever-knows-opponent-is-hacking-salt-mines-34-starcraft-2
   - pig-printfs-amazing-usage-of-these-units-is-insane-king-of-cannons-24-starcraft-2
 
 topics:

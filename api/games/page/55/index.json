@@ -4,44 +4,6 @@
   "page": 55,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-the-swarm-host-switch.md",
-      "title": "StarCraft 2: The SWARM HOST Switch!",
-      "excerpt": "Scarlett versus Neeb in an awesome match of Zerg vs Protoss. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/FUBQ5y  Swarm Hosts are an odd unit. They're technically not great at finishing the game, but they are awesome at buying time to climb up to higher tier",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-swarm-host-switch/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-swarm-host-switch/",
-      "originalUrl": "https://youtube.com/watch?v=ImY75owB0II",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ImY75owB0II\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ImY75owB0II/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-01-31T00:23:15-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-tactical-sensor-tower.md",
       "title": "StarCraft 2: The TACTICAL Sensor Tower!",
       "excerpt": "Easily one of the silliest games I've seen recently. Subscribe for more videos: http://lowko.tv/youtube The Command Center Bully: https://goo.gl/yBfzFD  With a rather unusual early game strategy, in this Zerg versus Terran we see both players making several hilarious mistakes make the game flip back",
@@ -1134,6 +1096,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-01-11T11:11:31-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-three-sources-of-splash.md",
+      "title": "StarCraft 2: THREE SOURCES OF SPLASH!",
+      "excerpt": "High Templar, Colossus and Disruptors... A scary set of units! Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://youtu.be/XGRElTXTFsQ  An awesome game of Terran vs Protoss of professional StarCraft 2 between Clem and ShoWTimE.  Check out Lowko merchandise: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-three-sources-of-splash/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-three-sources-of-splash/",
+      "originalUrl": "https://youtube.com/watch?v=W5To5bZ6dZM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W5To5bZ6dZM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M33S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/W5To5bZ6dZM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-05-23T03:46:52-07:00"
     }
   ],
   "nextPage": 56

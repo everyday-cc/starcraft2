@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-18-sound-byte-the-music-and-sounds-of-starcraft-ii.md",
+      "title": "Sound Byte: The Music and Sounds of Starcraft II",
+      "excerpt": "So that includes the games, and the Web, the cinematics, the trailers, and what have you. So Starcraft II has been on my radar ever since I started here, and each game has had its time to kind of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamespot.com/articles/sound-byte-the-music-and-sounds-of-starcraft-ii/1100-6273407/",
+      "originalUrl": "https://www.gamespot.com/articles/sound-byte-the-music-and-sounds-of-starcraft-ii/1100-6273407/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_kubrick/gamespot/images/2010/209/1547948-939643_20100729_016.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-starcraft-2-legacy-of-the-void-special-editions-come-with-items-for-other-games.md",
       "title": "StarCraft 2: Legacy of the Void Special Editions Come With Items for Other Games",
       "excerpt": "In addition, all versions come with a StarCraft character for Heroes of the Storm to be announced later. Preorders for the standard, Deluxe, and Collector's Editions are open now. The Standard ...",
@@ -1119,48 +1170,6 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-this-fan-funded-starcraft-sequel-might-actually-happen.md",
-      "title": "This fan-funded StarCraft sequel might actually happen",
-      "excerpt": "The Kickstarter page is prepared to receive up to a cool $1 million, in fact, from esager StarCraft fans: new storylines, explorable zones, and character models would come along with $25,000 or so.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/parsec/starcraft-universe-mod-kickstarter-blizzard/",
-      "originalUrl": "https://www.dailydot.com/parsec/starcraft-universe-mod-kickstarter-blizzard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads.dailydot.com/e76/72/906c502e4cef13ea7c0cf54f7492de69.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
-          "width": 2048,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/parsec/starcraft-universe-mod-kickstarter-blizzard/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/parsec/starcraft-universe-mod-kickstarter-blizzard/?amp",
-      "publishedDateTime": "2021-06-01T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
       ]
     }
   ],

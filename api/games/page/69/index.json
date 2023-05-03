@@ -4,6 +4,35 @@
   "page": 69,
   "value": [
     {
+      "path": "_games/pig-pig-plays-wings-strats-attempting-icyfar-blast-from-the-past.md",
+      "title": "PiG Plays Wings Strats! | Attempting ICYFAR- Blast from the Past",
+      "excerpt": "As always I tried to attempt the ICYFAR before casting it(upload out of order, whoops!)  In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to play “old school” builds of broodwar or even SC2 WoL or HotS!  CURRENT ICYFAR CHALLENGE: \"Toddler",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-pig-plays-wings-strats-attempting-icyfar-blast-from-the-past/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-pig-plays-wings-strats-attempting-icyfar-blast-from-the-past/",
+      "originalUrl": "https://youtube.com/watch?v=ugG-xrLEG4w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ugG-xrLEG4w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M42S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ugG-xrLEG4w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-pig-vs-futures-dreaded-2-1-1-twitch-plays-pig-28.md",
       "title": "PiG vs Future’s Dreaded 2-1-1  | Twitch Plays PiG #28",
       "excerpt": "Twitch Plays PiG playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfzFasU_rN_YKBDhbGlIaOe  Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed",
@@ -887,36 +916,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-09-30T22:04:11-07:00"
-    },
-    {
-      "path": "_games/pig-rank-1-is-no-match-for-zerg-cheese-pigs-filthy-adventures-14-starcraft-2.md",
-      "title": "RANK 1 is no match for ZERG CHEESE | PiG's Filthy Adventures #14 - StarCraft 2",
-      "excerpt": "Starlord is BACK! This time we fight STUPID with STUPID (game 1 vs Stephen) then go on to troll RANK 1 on ladder with pure lings (game 2 vs Trigger) 0:00 Fighting stupid with stupid 11:54 Stealing Rank 1 MMR -- The Book of Filth: https://www.pigstarcraft.com/learn/book-of-filth/ The Book of Filth 2.0:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-rank-1-is-no-match-for-zerg-cheese-pigs-filthy-adventures-14-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-rank-1-is-no-match-for-zerg-cheese-pigs-filthy-adventures-14-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=L97LBhzAPeE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L97LBhzAPeE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M43S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/L97LBhzAPeE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-14T17:36:59-07:00"
     }
   ],
   "nextPage": 70

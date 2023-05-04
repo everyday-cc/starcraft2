@@ -4,6 +4,38 @@
   "page": 8,
   "value": [
     {
+      "path": "_learning/videos/pig-starcraft-2-coaching-tvz-bbq-party-and-when-to-macro-when-to-micro.md",
+      "title": "StarCraft 2 - Coaching TvZ - BBQ Party and When to Macro, When to Micro",
+      "excerpt": "I coach Vision on the bbq party opening and how to shift his focus from micro into macro at the right times -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-coaching-tvz-bbq-party-and-when-to-macro-when-to-micro/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-coaching-tvz-bbq-party-and-when-to-macro-when-to-micro/",
+      "originalUrl": "https://youtube.com/watch?v=F9Q5wsLDpEw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/F9Q5wsLDpEw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M19S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-09-12T04:32:13-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/F9Q5wsLDpEw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-starcraft-2-coaching-tvz-defending-early-pool-shenanigans-and-macroing-like-a-beast.md",
       "title": "StarCraft 2 - Coaching TvZ Defending Early Pool Shenanigans and MACROing like a Beast",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
@@ -272,6 +304,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/01uJkWHF9SQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-do-zerg-b2gm-builds-work-in-grandmaster-bronze-to-gm-11.md",
+      "title": "StarCraft 2 - Do Zerg B2GM builds work in Grandmaster? (Bronze to GM #11)",
+      "excerpt": "Bronze or Silver Zerg builds shouldn't work in GM right?! WRONG! I made them work in Grandmaster against opponents I normally struggle with. Watch the B2GM Playlists: Zerg B2GM : https://youtube.com/playlist?list=PLFUDU8AOevUd6ej64SOB429mHyuRL-XC9 Protoss B2GM: https://youtube.com/playlist?list=PLOrKQEirgvjBJrKM31yhwA8v54pcBuXsx",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-do-zerg-b2gm-builds-work-in-grandmaster-bronze-to-gm-11/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-do-zerg-b2gm-builds-work-in-grandmaster-bronze-to-gm-11/",
+      "originalUrl": "https://youtube.com/watch?v=NMJgwfo-E3s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NMJgwfo-E3s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H58M15S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-05-25T05:01:31-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NMJgwfo-E3s/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -867,68 +930,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/HHo2cNW1H5Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-roach-ling-muta-zvp-coaching-d1.md",
-      "title": "StarCraft 2 - Roach-ling muta ZvP - Coaching D1",
-      "excerpt": "I coach a diamond 1 Zerg on a dynamic, aggressive style of ZvP -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-roach-ling-muta-zvp-coaching-d1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-roach-ling-muta-zvp-coaching-d1/",
-      "originalUrl": "https://youtube.com/watch?v=mbQWBZirKXY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mbQWBZirKXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H3M30S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:44:33-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mbQWBZirKXY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-rules-of-zerg-vs-zerg-zvz-diamond-2-coaching.md",
-      "title": "StarCraft 2  - Rules of Zerg vs Zerg | ZvZ Diamond 2 coaching",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-rules-of-zerg-vs-zerg-zvz-diamond-2-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-rules-of-zerg-vs-zerg-zvz-diamond-2-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=qMKRtCzTEyk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qMKRtCzTEyk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H11M32S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-24T15:00:15-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qMKRtCzTEyk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

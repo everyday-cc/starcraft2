@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/rts-games-similar-starcraft/"
 webUrl: "https://gamerant.com/rts-games-similar-starcraft/"
 type: article
 quality: 77
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1800
     height: 900
     isCached: true
-
-related:
-  - title: "StarCraft legend Day9 is hiring to make a multiplayer PC strategy game"
-    excerpt: "StarCraft pro player, commentator, and host Sean 'Day9' Plott is hiring for a new studio to make a multiplayer PC strategy game, with funding already secured."
-    publishedDateTime: 2023-04-15T12:50:00Z
-    webUrl: "https://www.pcgamesn.com/starcraft-2/day9-multiplayer-pc-strategy-game-rts"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 37
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/starcraft-legend-day9-new-studio-sean-plott-pc-strategy-game-rts.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "QkKJyZMtruum1EeOL+TLJWwkRDQjCxza3h3w/lcxwjocBfBj88yzfTjVAbFZbHviMGjcSEQiHn594pgfr/U9zKTiiE4DWz/42p+yAf7kRXJLpu5S2yulpVhPPDjzTKSX/D56BiQcpJmYaJNdZyO9ZDXyeXWNDW8aHv4aKus8nVfFRhdqKB7HNygvDMFZPQnoVP42vIDaAJqxuJulTiWx7n5J1IJwmkXdlWHQsr6FBwm8q7+oK7J1Ey8kMBYFDM1JNHR4D66BB+ibmt1u7oJe4RBDM4eMJPPLZ7iYt5Fg9i6eiim5ujFR9jlW2mvglyMmsy0G2Xk8HaA4vYZQUEBwuqJ+xoxGqGbh4Ki8JGeDNXI=;KQf4GdM9zBVt8kdQfW4NIg=="
 ---

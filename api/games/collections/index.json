@@ -329,7 +329,7 @@
           "publishedDateTime": "2018-05-24T00:49:07-07:00"
         }
       ],
-      "size": 1012,
+      "size": 1013,
       "heat": 61,
       "images": [
         {
@@ -2651,7 +2651,7 @@
             "Terran",
             "Zerg"
           ],
-          "heat": 50,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/-AWdJevz1jc/hqdefault.jpg",

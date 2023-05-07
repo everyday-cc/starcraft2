@@ -1021,6 +1021,7 @@ items:
   - pig-worst-1-base-bc-player-ever-knows-opponent-is-hacking-salt-mines-34-starcraft-2
   - pig-printfs-amazing-usage-of-these-units-is-insane-king-of-cannons-24-starcraft-2
   - pig-the-fastest-viper-rush-strat-ive-ever-seen-also-the-dumbest-smooth-brain-santa-claws-8-sc2
+  - pig-zergs-sick-burrowed-banelings-breaks-terrans-brain-pig-vs-catz-starcraft-2
 
 topics:
   - StarCraft 2

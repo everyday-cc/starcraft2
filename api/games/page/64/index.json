@@ -4,6 +4,35 @@
   "page": 64,
   "value": [
     {
+      "path": "_games/pig-i-am-a-god-bait-n-switch-liquid-reign-icyfar-g1.md",
+      "title": "\"I am a god\" - Bait n Switch Liquid Reign ICYFAR G1",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays that had their opponents lulled into a false send of pride and accomplisment  CURRENT LIQUID REIGN ICYFAR CHALLENGE: “We need a Billy!” - Pick one unit and keep it alive as long as you can. (Extra points",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-i-am-a-god-bait-n-switch-liquid-reign-icyfar-g1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-i-am-a-god-bait-n-switch-liquid-reign-icyfar-g1/",
+      "originalUrl": "https://youtube.com/watch?v=wn1IGd6xHpU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wn1IGd6xHpU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M44S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wn1IGd6xHpU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-i-challenged-myself-to-do-the-fastest-bcs-ever-pigs-filthy-adventures-16-starcraft-2.md",
       "title": "I challenged myself to do the FASTEST BCs EVER | PiG's Filthy Adventures #16 - StarCraft 2",
       "excerpt": "After the success of my Fastest Nydus Swarm Host build, I wanted to see if I could replicate it with the Fastest Battlecruisers Ever. This is NOT effective at all, so can I actually steal anyone's MMR with it?  If you want my build notes they're in The Book of Filth 2.0: https://docs.google.com/document/d/1GbpZ-qjoUQ42ZwVsmk3cYgLZ1WYNcLc9l6KUo-Zuudk/edit?usp=sharing",
@@ -858,35 +887,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/KvSqcdI4YFA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-im-going-to-drop-you-now-just-wait-and-see-fakeout-g1.md",
-      "title": "“I’m going to drop you now, just wait and see” - Fakeout - G1",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players had to show their best Fakeouts - tricking their opponents with fake rushes, drops and tech paths!\r \r THIS WEEKS ICYFAR CHALLENGE: 1A - You arent allowed to micro your units. Interpretation is as always up to you! Send submissions",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-im-going-to-drop-you-now-just-wait-and-see-fakeout-g1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-im-going-to-drop-you-now-just-wait-and-see-fakeout-g1/",
-      "originalUrl": "https://youtube.com/watch?v=AnsNIZjbkvA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AnsNIZjbkvA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M13S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AnsNIZjbkvA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

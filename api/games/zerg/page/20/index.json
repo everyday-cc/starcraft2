@@ -4,6 +4,70 @@
   "page": 20,
   "value": [
     {
+      "path": "_games/pig-liposuction-zerg-ny-resolutions-icyfar-g1.md",
+      "title": "Liposuction Zerg - NY Resolutions ICYFAR G1",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to follow through on their new year’s resolutions :P.  CURRENT ICYFAR CHALLENGE: \"Encirclement\" - Show the best games where you try to encircle your opponent with large flanking attacks,",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-liposuction-zerg-ny-resolutions-icyfar-g1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-liposuction-zerg-ny-resolutions-icyfar-g1/",
+      "originalUrl": "https://youtube.com/watch?v=8GKTez6h-E4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8GKTez6h-E4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M46S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8GKTez6h-E4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-mass-banshee-mass-queen-mass-ultra-twitch-plays-pig-4.md",
+      "title": "Mass Banshee, Mass queen, Mass Ultra! | Twitch Plays PiG #4",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-mass-banshee-mass-queen-mass-ultra-twitch-plays-pig-4/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-mass-banshee-mass-queen-mass-ultra-twitch-plays-pig-4/",
+      "originalUrl": "https://youtube.com/watch?v=gDBkmig25Mg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gDBkmig25Mg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M30S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gDBkmig25Mg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-12T20:24:22-07:00"
+    },
+    {
       "path": "_games/pig-mass-dt-vs-zerg-twitch-plays-pig-33.md",
       "title": "Mass DT vs Zerg!? | Twitch Plays PiG #33",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -469,36 +533,6 @@
       "publishedDateTime": "2021-07-18T04:24:04-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-adrenal-zergling-rush-smooth-brain-santa-claws-1.md",
-      "title": "StarCraft 2 - ADRENAL ZERGLING RUSH! | Smooth Brain Santa Claws #1",
-      "excerpt": "Santa Claws impressed in his Smooth Brain audition and has been granted an opportunity to be the next Smooth Brain. Will he impress or will his brain prove too wrinkled?  🐷 Support PiG: https://www.pigstarcraft.com/support/ -- 🐖 Watch live on https://www.twitch.tv/x5_pig 🎓 For coaching inquiries (including",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-adrenal-zergling-rush-smooth-brain-santa-claws-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-adrenal-zergling-rush-smooth-brain-santa-claws-1/",
-      "originalUrl": "https://youtube.com/watch?v=WKGzfA6xh6g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WKGzfA6xh6g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M53S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WKGzfA6xh6g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-18T04:24:04-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-assassin-ghost-wrecks-zerg-diamond-in-the-ruff-25.md",
       "title": "StarCraft 2 - ASSASSIN GHOST WRECKS ZERG | Diamond in the Ruff #25",
       "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Terran opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
@@ -897,37 +931,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-grim-meets-a-wall-of-microbial-shroud-queens-the-grim-reaper-12.md",
-      "title": "StarCraft 2 - GRIM MEETS A WALL OF MICROBIAL SHROUD QUEENS! | The Grim Reaper #12",
-      "excerpt": "Grim Reaper shows us his tricky, cheesy starcraft plays. 🐷 Support PiG: https://www.pigstarcraft.com/support/  The Grim Reaper Playlist: https://www.youtube.com/watch?v=3cLene8nRc8&list=PLFUDU8AOevUcEZxzA83oiBz8LxgwgLeyR GrimReaper’s stream: https://www.twitch.tv/grimmy_uk -- 🐖 Watch live on https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-grim-meets-a-wall-of-microbial-shroud-queens-the-grim-reaper-12/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-grim-meets-a-wall-of-microbial-shroud-queens-the-grim-reaper-12/",
-      "originalUrl": "https://youtube.com/watch?v=wzavGwdm7nk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wzavGwdm7nk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M24S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wzavGwdm7nk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:47:10-07:00"
     }
   ],
   "nextPage": 21

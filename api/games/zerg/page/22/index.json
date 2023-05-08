@@ -4,6 +4,40 @@
   "page": 22,
   "value": [
     {
+      "path": "_games/pig-the-im-a-douche-strategy-thor-drop-into-mass-mine-liberator-tvz-twitch-plays-pig-21.md",
+      "title": "The “I’m a Douche Strategy” - Thor Drop into Mass Mine Liberator TvZ | Twitch Plays PiG #21",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-im-a-douche-strategy-thor-drop-into-mass-mine-liberator-tvz-twitch-plays-pig-21/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-im-a-douche-strategy-thor-drop-into-mass-mine-liberator-tvz-twitch-plays-pig-21/",
+      "originalUrl": "https://youtube.com/watch?v=Y2YRkpLs4bI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y2YRkpLs4bI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M36S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Y2YRkpLs4bI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-09-30T22:03:42-07:00"
+    },
+    {
       "path": "_games/pig-the-wall-vs-illegal-zerg-migration-skirmishes-icyfar-g2-197.md",
       "title": "THE WALL vs Illegal Zerg Migration - Skirmishes ICYFAR - G2 #197)",
       "excerpt": "In today’s ICYFAR players were challenged to avoid large battles and win through many small skirmishes! They weren’t allowed to use more than 24 units in any engagement!\r \r THIS WEEKS ICYFAR Challenge: \"Melee Madness\" - You can only use hand-to-hand combat units! For Terran you're allowed to use hellbats,",
@@ -489,14 +523,14 @@
       "publishedDateTime": "2022-09-17T23:07:00-07:00"
     },
     {
-      "path": "_games/sc2hl-199-army-supply-neeb-vs-rogue-starcraft-2-global-finals.md",
-      "title": "199 ARMY SUPPLY?! - Neeb vs Rogue - Starcraft 2 Global Finals",
-      "excerpt": "Neeb and Rogue clash out in an epic 52 minute Protoss vs Zerg during the Starcraft 2 Global Finals (live this and next weekend!)  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    A 15 minute highlight reel from the hour long vod!     Thank you for watching our videos! Subscribe for more StarCraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-199-army-supply-neeb-vs-rogue-starcraft-2-global-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-199-army-supply-neeb-vs-rogue-starcraft-2-global-finals/",
-      "originalUrl": "https://youtube.com/watch?v=tCpgXcneiXc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tCpgXcneiXc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M53S",
+      "path": "_games/sc2hl-360-starcraft-2-surround-serral-vs-stats.md",
+      "title": "360° STARCRAFT 2 SURROUND! - Serral vs Stats",
+      "excerpt": "Serral vs Stats in a great and action packed starcraft 2 game, both going for lategame.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Full vod: https://www.twitch.tv/videos/293320065?t=5h1m42s   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-360-starcraft-2-surround-serral-vs-stats/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-360-starcraft-2-surround-serral-vs-stats/",
+      "originalUrl": "https://youtube.com/watch?v=mzGhNZuguII",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mzGhNZuguII\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M1S",
       "provider": {
         "name": "SC2HL",
         "domain": "sc2hl.com",
@@ -517,7 +551,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tCpgXcneiXc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mzGhNZuguII/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -525,7 +559,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-10-16T07:22:02-07:00"
+      "publishedDateTime": "2018-10-16T07:21:19-07:00"
     },
     {
       "path": "_games/sc2hl-500-dead-roaches-starcraft-2-iem-serral-vs-soo.md",
@@ -799,6 +833,45 @@
       "publishedDateTime": "2018-03-03T15:41:43-08:00"
     },
     {
+      "path": "_games/sc2hl-relentless-swarm-hosts-starcraft-2-stats-vs-iasonu.md",
+      "title": "RELENTLESS Swarm Hosts - Starcraft 2: Stats vs iAsonu",
+      "excerpt": "A crazy match Protoss vs Zerg between Stats and iAsonu, going back and forth between the two. Watch IEM Shanghai live at: http://twitch.tv/esl_sc2    ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-relentless-swarm-hosts-starcraft-2-stats-vs-iasonu/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-relentless-swarm-hosts-starcraft-2-stats-vs-iasonu/",
+      "originalUrl": "https://youtube.com/watch?v=-4TQJQ5DS0k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-4TQJQ5DS0k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M58S",
+      "provider": {
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-4TQJQ5DS0k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-07-27T09:48:48-07:00"
+    },
+    {
       "path": "_games/sc2hl-so-many-nukes-in-40-min-game-starcraft-2-serral-vs-innovation.md",
       "title": "SO MANY NUKES in 40 MIN+ GAME! - Starcraft 2: Serral vs Innovation",
       "excerpt": "Serral & Innovation play a looong Terran vs Zerg, bleeding out nearly the entire map. Who will survive? From Starcraft 2 IEM Katowice  Subscribe bitches   ► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL ► Submit your REPLAYS! - http://bit.ly/SC2HLsubmit   ► SUBSCRIBE to SC2HL!",
@@ -828,84 +901,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/aQO7TL229DM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-06T07:05:01-08:00"
-    },
-    {
-      "path": "_games/sc2hl-supreme-late-game-protoss-vs-zerg-dark-vs-stats-starcraft-2-starleague.md",
-      "title": "SUPREME LATE GAME PROTOSS VS ZERG - Dark vs Stats - StarCraft 2 Starleague",
-      "excerpt": "Dark vs Stats in an epic 38 minute Protoss vs Zerg during the Starcraft 2 starleague. Going to the supreme late game.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Watch the Starcraft 2 Starleague on: http://youtube.com/esportstv    Thank you for watching our videos! Subscribe for more StarCraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-supreme-late-game-protoss-vs-zerg-dark-vs-stats-starcraft-2-starleague/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-supreme-late-game-protoss-vs-zerg-dark-vs-stats-starcraft-2-starleague/",
-      "originalUrl": "https://youtube.com/watch?v=8x9xoxB1DfI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8x9xoxB1DfI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M30S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8x9xoxB1DfI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-08-04T12:34:48-07:00"
-    },
-    {
-      "path": "_games/sc2hl-tense-terran-vs-zerg-starcraft-2-serral-vs-bunny.md",
-      "title": "TENSE Terran vs Zerg - Starcraft 2: Serral vs Bunny",
-      "excerpt": "A tense Terran vs Zerg between Serral and Bunny from Homestory Cup 18! ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Watch the full VOD from HSC: https://www.twitch.tv/videos/339846106   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-tense-terran-vs-zerg-starcraft-2-serral-vs-bunny/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-tense-terran-vs-zerg-starcraft-2-serral-vs-bunny/",
-      "originalUrl": "https://youtube.com/watch?v=1Be_9MSYhMY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1Be_9MSYhMY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M10S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1Be_9MSYhMY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

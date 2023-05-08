@@ -4,68 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-001-tutorial.md",
-      "title": "Starcraft 2 Newbie Guide - 001 - Tutorial",
-      "excerpt": "A newbie guide for Starcraft 2 multiplayer!  In this first episode, we'll cover the game's very first introductory missions—the Tutorial missions—which are designed specifically for players who have never touched Starcraft before.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-001-tutorial/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-001-tutorial/",
-      "originalUrl": "https://youtube.com/watch?v=1wcWMqzUQ2k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1wcWMqzUQ2k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M31S",
-      "provider": {
-        "name": "davidangel64",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2015-11-26T17:00:09-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1wcWMqzUQ2k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-002-training-stage-1.md",
-      "title": "Starcraft 2 Newbie Guide - 002 - Training: Stage 1",
-      "excerpt": "In this episode we take our time in Stage 1 of the Training section of Starcraft 2.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ  Other places to find my stuff: Twitter: http://twitter.com/davidangel64 Twitch: http://twitch.tv/davidangel64",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-002-training-stage-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-002-training-stage-1/",
-      "originalUrl": "https://youtube.com/watch?v=AicbTSn3gjQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AicbTSn3gjQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M10S",
-      "provider": {
-        "name": "davidangel64",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2015-11-27T18:30:10-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AicbTSn3gjQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-003-training-stage-2.md",
       "title": "Starcraft 2 Newbie Guide - 003 - Training: Stage 2",
       "excerpt": "In this episode we pick up the pace and explore more advanced units and upgrades.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list...  Other places to find my stuff: Twitter: http://twitter.com/davidangel64 Twitch: http://twitch.tv/davidangel64 Tumblr: http://davidr64.tumblr.com",
@@ -904,6 +842,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-zerg-macro-guide-injects-the-most-important-zerg-lesson-youve-ever-had-starcraft-2.md",
+      "title": "Zerg Macro Guide (injects) | The MOST important ZERG lesson you've ever had [Starcraft 2]",
+      "excerpt": "This is the most important zerg macro guide you will ever watch! Make sure to watch till the end to get extra tips on maintaining a strong macro cycle without missing a beat!  The MOST important ZERG lesson you've ever had  #zerg #macro #guide #starcraft #sc2  Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-macro-guide-injects-the-most-important-zerg-lesson-youve-ever-had-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-zerg-macro-guide-injects-the-most-important-zerg-lesson-youve-ever-had-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=5An7RM-NxTk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5An7RM-NxTk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M11S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-11T16:09:19-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5An7RM-NxTk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-zerg-macro-guide-you-wont-believe-how-many-more-drones-i-got-starcraft-2.md",
       "title": "Zerg Macro Guide | You WONT BELIEVE how many MORE DRONES I got!!! [Starcraft 2]",
       "excerpt": "In this zerg macro guide we take a DEEP look at the nuances of droning, economy & macro to help you understand where you might be going wrong in your games. How is it that Grand Master's a pros generate so many more drones than you?!? You're about to find out :)  Zerg Macro | You WONT BELIEVE how many",
@@ -921,6 +890,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/QmfbJTpcvt8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-zerg-vs-protoss-adapting-to-stargate-protoss-tips-on-defending-at-the-end.md",
+      "title": "Zerg vs Protoss | Adapting to Stargate [protoss tips on defending at the end]",
+      "excerpt": "In today's zerg vs protoss guide I show you how to scout and adapt your zvp opening to stargate play to get the most out of your economy.  Mastering Starcraft 2: Zerg vs Protoss | Adapting to Stargate [protoss tips on defending at the end] #StarCraft2 #sc2 #zerg #roach #zvp  Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-vs-protoss-adapting-to-stargate-protoss-tips-on-defending-at-the-end/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-zerg-vs-protoss-adapting-to-stargate-protoss-tips-on-defending-at-the-end/",
+      "originalUrl": "https://youtube.com/watch?v=iHxkpjJwrjg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iHxkpjJwrjg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M46S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-24T15:54:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iHxkpjJwrjg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

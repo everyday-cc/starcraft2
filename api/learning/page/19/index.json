@@ -4,98 +4,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_learning/videos/pig-starcraft-2-2-base-muta-zvz-coaching-masters-1.md",
-      "title": "StarCraft 2 - 2-Base Muta ZvZ | Coaching Masters 1",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-2-base-muta-zvz-coaching-masters-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-2-base-muta-zvz-coaching-masters-1/",
-      "originalUrl": "https://youtube.com/watch?v=JzwX0tl1e2Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JzwX0tl1e2Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT59M17S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-06-08T04:00:13-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JzwX0tl1e2Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-3-tank-pressure-and-scanning-ahead-coaching-tvt-d2.md",
-      "title": "StarCraft 2 - 3-Tank pressure and scanning ahead | Coaching TvT D2",
-      "excerpt": "Is the thumbnail a lotr ref? we shall never know...  Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads?",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-3-tank-pressure-and-scanning-ahead-coaching-tvt-d2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-3-tank-pressure-and-scanning-ahead-coaching-tvt-d2/",
-      "originalUrl": "https://youtube.com/watch?v=UcSyxtU4Y3E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UcSyxtU4Y3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H12M19S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-04T09:00:15-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UcSyxtU4Y3E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-4-gate-chargelot-dts-pvz-coaching.md",
-      "title": "StarCraft 2 - 4 Gate Chargelot DTs! PvZ Coaching",
-      "excerpt": "Bunch of scheduling/lobby stuff i cut from this vid, hope you like the end though! :) Here is the reddit post from the start of the coaching if you are curious: https://www.reddit.com/r/allthingsprotoss/comments/a7dlpo/build_of_the_week_pvz_traps_4gate_chargelotdt/  -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-4-gate-chargelot-dts-pvz-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-4-gate-chargelot-dts-pvz-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=YCvMROEJTL4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YCvMROEJTL4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H40S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-02-19T16:46:37-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YCvMROEJTL4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-starcraft-2-66-drone-hydra-bane-smash-coaching-zvp-m3.md",
       "title": "StarCraft 2 - 66 drone hydra-bane SMASH | Coaching ZvP M3",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -586,36 +494,6 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-starcraft-2-beginner-basics-hopping-into-1v1-for-the-first-time-the-pig-daily-16.md",
-      "title": "StarCraft 2 - Beginner basics - Hopping into 1v1 for the first time | The PiG Daily #16",
-      "excerpt": "Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb\r See the Show notes and more info + ongoing discussion of the show in the Teamliquid thread: http://www.teamliquid.net/forum/starcraft-2/509383-the-pig-daily-thinking-critically-about-sc\r  -- Watch live",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-beginner-basics-hopping-into-1v1-for-the-first-time-the-pig-daily-16/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-beginner-basics-hopping-into-1v1-for-the-first-time-the-pig-daily-16/",
-      "originalUrl": "https://youtube.com/watch?v=iMBgp-OA9Jc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iMBgp-OA9Jc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M47S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2016-06-27T22:13:59-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iMBgp-OA9Jc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-starcraft-2-beginner-protoss-opening-the-pig-daily-155.md",
       "title": "StarCraft 2 - Beginner Protoss Opening | The PiG Daily #155",
       "excerpt": "THIS WEEKS ICYFAR Challenge: \"Feinting Attacks\" - A feint is where you give the impression of attacking in one place where its fake or just a small distraction from the real thrust of your attack. Examples: Using empty drops or hallucinations to pull your opponent out of position!  Send submissions to",
@@ -911,6 +789,128 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/pt4u1kF2IRo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-cheeky-zvt-diamond-3-coaching.md",
+      "title": "StarCraft 2 - CHEEKY ZvT - Diamond 3 Coaching",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-cheeky-zvt-diamond-3-coaching/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-cheeky-zvt-diamond-3-coaching/",
+      "originalUrl": "https://youtube.com/watch?v=oyTksViDgnw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oyTksViDgnw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H12M59S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-10-07T09:00:11-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oyTksViDgnw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-cheesing-our-way-to-victory-in-tvp-coaching-diamond-2.md",
+      "title": "StarCraft 2 - Cheesing our way to victory in TvP - Coaching Diamond 2",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-cheesing-our-way-to-victory-in-tvp-coaching-diamond-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-cheesing-our-way-to-victory-in-tvp-coaching-diamond-2/",
+      "originalUrl": "https://youtube.com/watch?v=_wNxiPT6X38",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_wNxiPT6X38\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H10M5S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-04-21T07:58:26-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_wNxiPT6X38/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-cheesy-terran-learns-macro-tvz-coaching-d2.md",
+      "title": "StarCraft 2 - Cheesy Terran learns macro TvZ - Coaching D2",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-cheesy-terran-learns-macro-tvz-coaching-d2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-cheesy-terran-learns-macro-tvz-coaching-d2/",
+      "originalUrl": "https://youtube.com/watch?v=uTFq0TFVs_k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uTFq0TFVs_k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H14M3S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-06-12T06:36:21-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uTFq0TFVs_k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-coaching-2-base-muta-zvt-defending-hellbat-timing.md",
+      "title": "StarCraft 2 - Coaching 2-base muta ZvT + Defending Hellbat timing",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Love the content a lot? Then please consider becoming a member ;) https://www.youtube.com/channel/UC9OluGthYmZo0vsF9IjicFg/join -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-coaching-2-base-muta-zvt-defending-hellbat-timing/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-coaching-2-base-muta-zvt-defending-hellbat-timing/",
+      "originalUrl": "https://youtube.com/watch?v=VvINTmOQ8Y8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VvINTmOQ8Y8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H7M47S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-04-25T16:12:05-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VvINTmOQ8Y8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

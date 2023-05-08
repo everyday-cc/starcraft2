@@ -471,46 +471,6 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-how-to-counter-protoss-carriers-as-zerg.md",
-      "title": "StarCraft 2: How-To Counter PROTOSS CARRIERS As Zerg!",
-      "excerpt": "A Zerg tutorial on how to counter Carriers and mass Skytoss play. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 guides: https://goo.gl/CE3Hx5  Ever since the recent balance changes to StarCraft 2's multiplayer, the Zerg versus Protoss match-up has changed. Where as in the past it",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-how-to-counter-protoss-carriers-as-zerg/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-how-to-counter-protoss-carriers-as-zerg/",
-      "originalUrl": "https://youtube.com/watch?v=xZcfL2jBgfY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xZcfL2jBgfY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M4S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-01-04T04:31:22-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xZcfL2jBgfY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/lowkotv-starcraft-2-how-to-defend-cannon-rushes-guide.md",
       "title": "StarCraft 2: How-To Defend Cannon Rushes! (Guide)",
       "excerpt": "Tutorial on how to defend Cannon Rushes in Zerg versus Protoss. Every now and then you will have a Protoss opening up with a Forge and going for the blind Cannon rush. In this video I explain the approach you should take when defending this all-in. It does require a substantial amount of micro and you",
@@ -1172,6 +1132,45 @@
       "topics": [
         "StarCraft 2",
         "Protoss",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-zerg-vs-zerg-build-order-tutorial.md",
+      "title": "StarCraft 2: Legacy of the Void Zerg vs Zerg Build Order! (Tutorial)",
+      "excerpt": "StarCraft 2: Legacy of the Void Zerg vs Zerg build order. In this Zerg build order video I go over an aggressive Zergling Baneling timing push that you can execute in the Legacy of the Void expansion as Zerg.  This build order focuses on an early attack upgrade which will give you the edge in Zergling",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-zerg-vs-zerg-build-order-tutorial/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-zerg-vs-zerg-build-order-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=zL4rSOcj5xg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zL4rSOcj5xg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M2S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-09-21T04:25:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zL4rSOcj5xg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
         "Zerg"
       ]
     }

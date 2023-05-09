@@ -4,6 +4,45 @@
   "page": 5,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-reynor-vs-mana-in-an-absolute-banger-of-zerg-vs-protoss.md",
+      "title": "StarCraft 2: Reynor vs MaNa in an ABSOLUTE BANGER of Zerg vs Protoss!",
+      "excerpt": "Epic game of professional StarCraft 2 between Reynor and MaNa. In this Zerg versus Protoss we watch both players constantly try to outpace and outsmart each other. This could very well be the best game of 2021.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynor-vs-mana-in-an-absolute-banger-of-zerg-vs-protoss/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynor-vs-mana-in-an-absolute-banger-of-zerg-vs-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=Yt47PzFWuOY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yt47PzFWuOY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M10S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Yt47PzFWuOY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-10-28T04:10:01-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-reynors-protoss-vs-heromarine-best-of-3.md",
       "title": "StarCraft 2: REYNOR's Protoss vs HEROMARINE! (Best-of-3)",
       "excerpt": "Professional match of StarCraft 2. In this best-of-3 series of Protoss versus Terran, we see a variety of playstyles from both players. While game number one is a quick and dirty match, the rest of the series is very impressive gameplay. Reynor's Protoss is quickly becoming better and better...  Support",
@@ -973,45 +1012,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-08T04:57:28-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-heros-strange-proxy-vs-serral-best-of-3.md",
-      "title": "StarCraft 2: herO's STRANGE PROXY vs Serral! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between Serral (Zerg) and herO (Protoss). In this match herO decides to go for one of the strangest proxy cheeses as he builds a quick second Pylon and Gateway on the other side of the map.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-strange-proxy-vs-serral-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-strange-proxy-vs-serral-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=p3NE6-APgDg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p3NE6-APgDg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M5S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/p3NE6-APgDg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-18T03:04:02-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-incredible-best-of-5-maru-vs-dark.md",

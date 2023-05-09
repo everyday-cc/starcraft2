@@ -4,6 +4,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-darks-unexpected-new-rival.md",
+      "title": "StarCraft 2: Dark's UNEXPECTED New Rival?!",
+      "excerpt": "Two best-of-3 series that Dark recently played versus Erik. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv Live most",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-unexpected-new-rival/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-unexpected-new-rival/",
+      "originalUrl": "https://youtube.com/watch?v=InNm98MUfSg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/InNm98MUfSg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 159,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/InNm98MUfSg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-04-28T04:47:31-07:00"
+    },
+    {
       "path": "_games/pig-how-did-a-game-that-was-over-at-8-min-go-for-50min-pig-vs-kiwian-showmatch-part-1-sc2.md",
       "title": "How did a game that was over at 8 min go for 50min?! | PiG vs Kiwian Showmatch (Part 1) - SC2",
       "excerpt": "Part 2 coming tomorrow! I played a best of 5 against Kiwian (Top) who is a former Terran pro who played in GSL. Neither of us could have predicted that game 1 would go like this... The showmatch went so long I had to split it up for youtube! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom",
@@ -31,45 +69,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-09T01:02:14-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-gsl-code-s-hero-cannon-rushes-solar.md",
-      "title": "StarCraft 2: GSL CODE S - herO CANNON RUSHES Solar!",
-      "excerpt": "Amazing best-of-3 series from the GSL Code S where herO Cannon Rushes Solar. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gsl-code-s-hero-cannon-rushes-solar/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gsl-code-s-hero-cannon-rushes-solar/",
-      "originalUrl": "https://youtube.com/watch?v=v8Ox2vj34VM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v8Ox2vj34VM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M42S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 156,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/v8Ox2vj34VM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-02T03:15:24-07:00"
     },
     {
       "path": "_games/pig-i-embarrassed-a-pro-player-so-he-embarrassed-me-back-pig-vs-astrea-starcraft-2.md",
@@ -502,14 +501,14 @@
       "publishedDateTime": "2023-01-18T18:34:08-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-epic-game-the-new-world-champion-vs-dark.md",
-      "title": "StarCraft 2: EPIC GAME - The NEW World Champion vs Dark!",
-      "excerpt": "Top level game of StarCraft 2 between Oliveira (Terran) and Dark (Zerg). While the new SC2 World Champion Oliveira is a well-known game in the StarCraft 2 community, he recently really stepped it up. In this game he takes on Dark in a straight-up battle on Gresvan. One of the very best games from IEM",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-game-the-new-world-champion-vs-dark/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-the-new-world-champion-vs-dark/",
-      "originalUrl": "https://youtube.com/watch?v=Id1nwqbV76k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Id1nwqbV76k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M1S",
+      "path": "_games/lowkotv-starcraft-2-proxy-hatchery-vs-zerg-dark-vs-soo.md",
+      "title": "StarCraft 2: Proxy Hatchery vs... ZERG?! (Dark vs soO)",
+      "excerpt": "We've seen Dark execute Proxy Hatcheries versus Protoss frequently but also every once in a while against Terran. Now he does it against Zerg as well? In this game of StarCraft 2 I cast a match between the South-Korean players Dark and soO.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-hatchery-vs-zerg-dark-vs-soo/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-proxy-hatchery-vs-zerg-dark-vs-soo/",
+      "originalUrl": "https://youtube.com/watch?v=z_8ESJ7piww",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z_8ESJ7piww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M45S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -526,10 +525,10 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 115,
+      "heat": 113,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Id1nwqbV76k/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/z_8ESJ7piww/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -537,7 +536,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-02-17T04:57:13-08:00"
+      "publishedDateTime": "2023-02-28T02:47:38-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-seige-tactics-g1.md",
@@ -569,26 +568,35 @@
       "publishedDateTime": "2022-04-27T23:30:12-07:00"
     },
     {
-      "path": "_games/pig-who-is-the-better-sht-talker-harstem-or-special-smacktalk-1-starcraft-2.md",
-      "title": "Who is the better SH*T TALKER: Harstem or Special? | SMACKTalk #1 - StarCraft 2",
-      "excerpt": "What happens when Pros play 1v1 but they can smack talk while playing? Imagine telling Yo mamma jokes to throw your opponent off :P That's SMACKTalk, a new show format by PiG!  First up, Harstem the Captain himself against none other than Special!  At the end of the series, the live audience gets to",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-who-is-the-better-sht-talker-harstem-or-special-smacktalk-1-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-who-is-the-better-sht-talker-harstem-or-special-smacktalk-1-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=AAPf5oIfWZU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AAPf5oIfWZU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M49S",
+      "path": "_games/lowkotv-starcraft-2-heros-strange-proxy-vs-serral-best-of-3.md",
+      "title": "StarCraft 2: herO's STRANGE PROXY vs Serral! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Serral (Zerg) and herO (Protoss). In this match herO decides to go for one of the strangest proxy cheeses as he builds a quick second Pylon and Gateway on the other side of the map.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-strange-proxy-vs-serral-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-strange-proxy-vs-serral-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=p3NE6-APgDg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p3NE6-APgDg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M5S",
       "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Protoss",
+        "Zerg"
       ],
-      "heat": 110,
+      "heat": 111,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/AAPf5oIfWZU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/p3NE6-APgDg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -596,7 +604,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-02-26T01:40:08-08:00"
+      "publishedDateTime": "2023-02-18T03:04:02-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",

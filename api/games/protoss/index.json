@@ -375,7 +375,7 @@
         "StarCraft 2",
         "Protoss"
       ],
-      "heat": 182,
+      "heat": 181,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/-Eq-mViHpdM/maxresdefault.jpg",
@@ -414,7 +414,7 @@
         "Protoss",
         "Zerg"
       ],
-      "heat": 156,
+      "heat": 178,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/v8Ox2vj34VM/maxresdefault.jpg",
@@ -459,6 +459,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-05-05T01:48:11-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-heros-strange-proxy-vs-serral-best-of-3.md",
+      "title": "StarCraft 2: herO's STRANGE PROXY vs Serral! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Serral (Zerg) and herO (Protoss). In this match herO decides to go for one of the strangest proxy cheeses as he builds a quick second Pylon and Gateway on the other side of the map.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-strange-proxy-vs-serral-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-strange-proxy-vs-serral-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=p3NE6-APgDg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p3NE6-APgDg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M5S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 111,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/p3NE6-APgDg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-02-18T03:04:02-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",
@@ -594,7 +633,7 @@
         "StarCraft 2",
         "Protoss"
       ],
-      "heat": 91,
+      "heat": 92,
       "tags": [
         "Cheese"
       ],
@@ -1047,44 +1086,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-09-24T01:39:41-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-epic-surrounds-classics-disruptor-dance-with-cure-best-of-3.md",
-      "title": "StarCraft 2: EPIC SURROUNDS - Classic's Disruptor Dance with Cure! (Best-of-3)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between Cure (Terran) and Classic (Protoss). This series was recently played during the Korean StarCraft League.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips    Twitch livestream:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-surrounds-classics-disruptor-dance-with-cure-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-surrounds-classics-disruptor-dance-with-cure-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=7ZrYY_HMe0E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7ZrYY_HMe0E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M36S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7ZrYY_HMe0E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-04-06T04:18:12-07:00"
     }
   ],
   "nextPage": 2

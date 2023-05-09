@@ -4,36 +4,6 @@
   "page": 80,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-psyche-the-florencio-files-32.md",
-      "title": "StarCraft 2 - “Psyche!” | The Florencio Files #32",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  Florencios twitch: https://www.twitch.tv/flol2encio Florencios youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-psyche-the-florencio-files-32/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-psyche-the-florencio-files-32/",
-      "originalUrl": "https://youtube.com/watch?v=yk1gSVZTlEM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yk1gSVZTlEM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yk1gSVZTlEM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-12-26T23:47:48-08:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-psychological-worm-fare-kaboom-baby-5.md",
       "title": "StarCraft 2 - PSYCHOLOGICAL WORM-FARE | Kaboom Baby #5",
       "excerpt": "Watch booooooooooooooooooom (with 19 Ms!) jolt things up in this Protoss versus Zerg StarCraft 2 match.  Check out her twitch: https://www.twitch.tv/booooooooooooooooooom/ -- Want more? Help support me! https://www.patreon.com/PiGSC2 Watch live at https://www.twitch.tv/x5_pig Linktree: https://linktr.ee/PiGStarcraft",
@@ -909,6 +879,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-07-10T04:00:10-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-slow-zergling-doom-drop-florencio-files-188.md",
+      "title": "StarCraft 2 - SLOW ZERGLING DOOM DROP | Florencio Files #188",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  Want the world to see you taking your opponent to Dicktown? You can now hire PiG to cast your game Florencio Files Style! Email pigrandom88@gmail.com",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-slow-zergling-doom-drop-florencio-files-188/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-slow-zergling-doom-drop-florencio-files-188/",
+      "originalUrl": "https://youtube.com/watch?v=6PcjvhWP6c8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6PcjvhWP6c8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M39S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6PcjvhWP6c8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-28T09:00:03-08:00"
     }
   ],
   "nextPage": 81

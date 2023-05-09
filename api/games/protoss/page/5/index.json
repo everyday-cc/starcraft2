@@ -198,6 +198,45 @@
       "publishedDateTime": "2022-11-08T04:57:28-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-heros-strange-proxy-vs-serral-best-of-3.md",
+      "title": "StarCraft 2: herO's STRANGE PROXY vs Serral! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Serral (Zerg) and herO (Protoss). In this match herO decides to go for one of the strangest proxy cheeses as he builds a quick second Pylon and Gateway on the other side of the map.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-strange-proxy-vs-serral-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-strange-proxy-vs-serral-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=p3NE6-APgDg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p3NE6-APgDg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M5S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/p3NE6-APgDg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-02-18T03:04:02-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-intense-games-between-solar-and-hero-grand-finals.md",
       "title": "StarCraft 2: INTENSE Games between Solar and herO! (Grand Finals)",
       "excerpt": "StarCraft 2 grand finals of the ESL Open Cup 153 Korea. herO won Dreamhack Atlanta last week, and Solar won the GSL Super Tournament. This turned out to be an incredibly close series of SC2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More",
@@ -1015,36 +1054,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-03-08T03:29:31-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-every-flying-unit-in-the-game-the-florencio-files-132.md",
-      "title": "StarCraft 2 - Every flying unit in the game! | The Florencio Files #132",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVD... Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-every-flying-unit-in-the-game-the-florencio-files-132/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-every-flying-unit-in-the-game-the-florencio-files-132/",
-      "originalUrl": "https://youtube.com/watch?v=CKTimvY_rC8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CKTimvY_rC8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M42S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CKTimvY_rC8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-11T04:00:05-07:00"
     }
   ],
   "nextPage": 6

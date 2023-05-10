@@ -4,6 +4,120 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/videos/lowkotv-starcraft-2-mass-carrier-fenix-guide.md",
+      "title": "StarCraft 2: MASS CARRIER! (Fenix Guide)",
+      "excerpt": "A cheesy, but very effective build for Fenix in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube My \"standard\" Fenix build: https://goo.gl/G6ArYc  While in most games I will get a wide variety of units, while leveling up Fenix I quickly found out a few very powerful strategies. This is",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-mass-carrier-fenix-guide/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-mass-carrier-fenix-guide/",
+      "originalUrl": "https://youtube.com/watch?v=76PmBDv7-ww",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/76PmBDv7-ww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-05-06T02:01:43-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/76PmBDv7-ww/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-massive-balance-changes.md",
+      "title": "StarCraft 2: MASSIVE Balance Changes!",
+      "excerpt": "Massive balance changes were announced for StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Patch notes: https://goo.gl/64DKjp  In order to keep the game fresh, massive balance changes have been announced for StarCraft 2. In this video I read out all of the patch notes where the latest",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-massive-balance-changes/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-massive-balance-changes/",
+      "originalUrl": "https://youtube.com/watch?v=Zlq7u_qVXRc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zlq7u_qVXRc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT48M5S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-08-18T02:21:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Zlq7u_qVXRc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-new-major-patch-campaign-multiplayer-co-op-and-editor-changes.md",
+      "title": "StarCraft 2: NEW MAJOR PATCH - Campaign, Multiplayer, Co-op and Editor Changes!",
+      "excerpt": "The StarCraft 2 5.0 patch has been announced. In this video I go over the changes and improvements they are planning to make to the campaign, multiplayer, co-op and editor in SC2.   Blog posts: https://news.blizzard.com/en-us/starcraft2/23482888/starcraft-ii-5-0-ptr-patch-notes https://news.blizzard.com/en-us/starcraft2/23471116/starcraft-ii-4-13-0-ptr-patch-notes",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-new-major-patch-campaign-multiplayer-co-op-and-editor-changes/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-new-major-patch-campaign-multiplayer-co-op-and-editor-changes/",
+      "originalUrl": "https://youtube.com/watch?v=7JA5ObNF7_Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7JA5ObNF7_Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-07-23T02:57:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7JA5ObNF7_Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-new-map-features-purple-gas-slowing-fields-mineral-paths.md",
       "title": "StarCraft 2: NEW MAP FEATURES - Purple Gas, Slowing Fields & Mineral Paths!",
       "excerpt": "High Yield Vespene Geysers, Inhibitor Slow Generators and Reduced Mineral Fields. Lots of new features in the next StarCraft 2 map pool! Subscribe for more videos: http://lowko.tv/youtube  New StarCraft 2 maps: https://starcraft2.com/en-us/news/22938943  Check out Lowko merchandise: http://lowko.tv/merch",
@@ -1042,98 +1156,6 @@
         "StarCraft 2",
         "Terran",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-2-adept-phoenix-expand-pvp-build-coaching.md",
-      "title": "2 Adept Phoenix Expand PvP Build - Coaching",
-      "excerpt": "Coaching a masters protoss on how to do a double adept & phoenix expand build!   -- Watch live at https://www.twitch.tv/x5_pig My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to my Discord: https://discordapp.com/invite/SkhbzCM",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-2-adept-phoenix-expand-pvp-build-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-2-adept-phoenix-expand-pvp-build-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=x4zY7s4G0P0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x4zY7s4G0P0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M4S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-02-10T09:00:28-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/x4zY7s4G0P0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-2-base-muta-zvz-coaching-masters-1.md",
-      "title": "2-Base Muta ZvZ | Coaching Masters 1",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-2-base-muta-zvz-coaching-masters-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-2-base-muta-zvz-coaching-masters-1/",
-      "originalUrl": "https://youtube.com/watch?v=JzwX0tl1e2Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JzwX0tl1e2Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT59M17S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-06-08T04:00:13-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JzwX0tl1e2Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-3-tank-pressure-and-scanning-ahead-coaching-tvt-d2.md",
-      "title": "3-Tank pressure and scanning ahead | Coaching TvT D2",
-      "excerpt": "Is the thumbnail a lotr ref? we shall never know...  Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads?",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-3-tank-pressure-and-scanning-ahead-coaching-tvt-d2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-3-tank-pressure-and-scanning-ahead-coaching-tvt-d2/",
-      "originalUrl": "https://youtube.com/watch?v=UcSyxtU4Y3E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UcSyxtU4Y3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H12M19S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-04T09:00:15-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UcSyxtU4Y3E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
       ]
     }
   ],

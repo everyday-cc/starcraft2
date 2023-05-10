@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/rts-games-similar-starcraft/"
 webUrl: "https://gamerant.com/rts-games-similar-starcraft/"
 type: article
 quality: 77
-heat: 96
+heat: 90
 published: true
 
 provider:

@@ -4,64 +4,6 @@
   "page": 87,
   "value": [
     {
-      "path": "_games/pig-too-much-eggnog-on-the-ladder-tis-the-season-for-giving-icyfar-g1.md",
-      "title": "Too much Eggnog on the ladder! | Tis the season for giving ICYFAR G1",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were they would regularly gift their opponent a present!  NEW ICYFAR CHALLANGE: New Year's Resolutions! Declare your monobattle choice at the start of the game and then feel free to flake on",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-too-much-eggnog-on-the-ladder-tis-the-season-for-giving-icyfar-g1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-too-much-eggnog-on-the-ladder-tis-the-season-for-giving-icyfar-g1/",
-      "originalUrl": "https://youtube.com/watch?v=d_xtBF2iacA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d_xtBF2iacA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/d_xtBF2iacA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-toss-another-hack-on-the-barbie-mate-ghost-town-icyfar-g2-3.md",
-      "title": "Toss another Hack on the Barbie Mate - Ghost Town ICYFAR G2 & 3",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays that had them destroy enemy units while leaving buildings mostly unharmed.  CURRENT ICYFAR CHALLENGE: “Snake” - Every building needs to touch another building (Creep Tumors count) Hatches/CCs/Nexus can",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-toss-another-hack-on-the-barbie-mate-ghost-town-icyfar-g2-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-toss-another-hack-on-the-barbie-mate-ghost-town-icyfar-g2-3/",
-      "originalUrl": "https://youtube.com/watch?v=M9ahiDXawbk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M9ahiDXawbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M18S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/M9ahiDXawbk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-toss-anutha-zerg-on-the-barbie-mate-crash-course-all-in-liquid-reign-icyfar-g3.md",
       "title": "Toss anutha Zerg on the barbie mate - Crash Course-ALL-IN Liquid Reign ICYFAR G3",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays that had the most all-in dedication!   CURRENT LIQUID REIGN ICYFAR CHALLENGE: “Bait n Switch” - Make your opponent believe they won and then crush them decisively! During Liquid Reign ICYFARs there is",
@@ -544,6 +486,35 @@
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
     },
     {
+      "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1-starcraft-2.md",
+      "title": "We paid a Pro to do Troll builds and it was LEGENDARY | Twitch Plays Astrea #1 - StarCraft 2",
+      "excerpt": "It is rumoured that a Legend is born when immortals save the world from destruction. A being so powerful rises from the clutches of near death and is then known to the world as CHADSTREA THUNDERSHAFT. Here is his origin story.  Follow Astrea's Twitch: https://www.twitch.tv/zastrea -- 🐷 Second Channel",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=SariYo8-VNI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SariYo8-VNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M5S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SariYo8-VNI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-02-10T17:37:20-08:00"
+    },
+    {
       "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-but-he-joined-a-clan-instead-twitch-plays-astrea-5-starcraft-2.md",
       "title": "We paid a Pro to do Troll Builds but he joined a Clan instead | Twitch Plays Astrea #5 - StarCraft 2",
       "excerpt": "We paid Astrea to do some Troll builds on ladder, but he managed to join a clan instead!  Follow Astrea's Twitch: https://www.twitch.tv/zastrea -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts --",
@@ -887,6 +858,35 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/S4JPK4Jud7g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-whack-a-mole-gone-wrong-no-rush-4-minutes-icyfar-g3.md",
+      "title": "Whack-A-Mole GONE WRONG - No Rush 4 minutes ICYFAR G3",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they kept their opponent under “constant” pressure from 4 mins onward!  CURRENT ICYFAR CHALLENGE: \"Observation Baloons\" - Bring as many useless Overlords/Structures to each fight as possible. Let",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-whack-a-mole-gone-wrong-no-rush-4-minutes-icyfar-g3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-whack-a-mole-gone-wrong-no-rush-4-minutes-icyfar-g3/",
+      "originalUrl": "https://youtube.com/watch?v=QKuPMDSgvwk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QKuPMDSgvwk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M25S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QKuPMDSgvwk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

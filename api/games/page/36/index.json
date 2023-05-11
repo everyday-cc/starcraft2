@@ -4,6 +4,43 @@
   "page": 36,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-extremely-close-pro-game.md",
+      "title": "StarCraft 2: EXTREMELY Close Pro Game!",
+      "excerpt": "An awesome match of professional Terran vs Protoss. Subscribe for more videos: http://lowko.tv/youtube Dark vs Rogue: https://goo.gl/PRf8Gq  Jieshi vs aLive. Not a game I would usually cover but this match was recommended by Wardi. Incredible game of high level Terran vs Protoss. Wardi on Twitch: https://www.twitch.tv/wardiii",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-extremely-close-pro-game/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-extremely-close-pro-game/",
+      "originalUrl": "https://youtube.com/watch?v=GEN6s1m-C4A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GEN6s1m-C4A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M44S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GEN6s1m-C4A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-06-16T05:02:19-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-extremely-close-protoss-match.md",
       "title": "StarCraft 2: EXTREMELY CLOSE Protoss Match!",
       "excerpt": "I'm like 99% sure this should have a been a draw. Subscribe for more videos: http://lowko.tv/youtube Battlecruisers for breakfast: https://goo.gl/JYKAEC  An extremely close match of Protoss vs Protoss. In this Silver League game, one of the players decides to go for a hyper aggressive Zealot cheese.",
@@ -1096,44 +1133,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-30T03:02:34-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-gateway-cheese-vs-gateways-cheese-parting-vs-astrea.md",
-      "title": "StarCraft 2: GATEWAY CHEESE vs GATEWAYS CHEESE! (PartinG vs Astrea)",
-      "excerpt": "Awesome best-of-5 series of StarCraft 2 between PartinG and Astrea. In this series we have a variety of Protoss versus Protoss strategies and some cheeky Proxy situations.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gateway-cheese-vs-gateways-cheese-parting-vs-astrea/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gateway-cheese-vs-gateways-cheese-parting-vs-astrea/",
-      "originalUrl": "https://youtube.com/watch?v=eKYBdUHpnx4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eKYBdUHpnx4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M5S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eKYBdUHpnx4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-17T04:53:08-07:00"
     }
   ],
   "nextPage": 37

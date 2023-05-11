@@ -121,44 +121,6 @@
       "publishedDateTime": "2023-05-08T03:18:53-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-amazing-heros-mass-high-templar-best-of-5.md",
-      "title": "StarCraft 2: AMAZING - herO's MASS High Templar! (Best-of-5)",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 between herO (Protoss) and Maru (Terran). This series is the Grand Finals of the 4th KSL Weekly. https://patreon.com/koreanstarcraftleague/  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-amazing-heros-mass-high-templar-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-amazing-heros-mass-high-templar-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=qqrH5GuKreA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qqrH5GuKreA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M1S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 282,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qqrH5GuKreA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-31T03:46:52-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-did-he-make-a-20000-mistake-serral-vs-ragnarok.md",
       "title": "StarCraft 2: Did He Make a $20,000 Mistake? (Serral vs RagnaroK)",
       "excerpt": "Best-of-5 series of StarCraft 2 between Serral and RagnaroK. This match is the quarter finals of the StarCraft 2 World Championships that was played last month at IEM Katowice.   Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips",
@@ -234,6 +196,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-23T11:16:38-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-amazing-heros-mass-high-templar-best-of-5.md",
+      "title": "StarCraft 2: AMAZING - herO's MASS High Templar! (Best-of-5)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between herO (Protoss) and Maru (Terran). This series is the Grand Finals of the 4th KSL Weekly. https://patreon.com/koreanstarcraftleague/  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-amazing-heros-mass-high-templar-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-amazing-heros-mass-high-templar-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=qqrH5GuKreA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qqrH5GuKreA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M1S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 222,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qqrH5GuKreA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-31T03:46:52-07:00"
     },
     {
       "path": "_games/pig-how-quickly-can-reynor-dispose-of-noobs-holdout-challenge-starcraft-2.md",

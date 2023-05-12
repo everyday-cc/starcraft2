@@ -89,7 +89,7 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/u3go0OeMyZk/maxresdefault.jpg",
@@ -329,7 +329,7 @@
           "publishedDateTime": "2018-05-24T00:49:07-07:00"
         }
       ],
-      "size": 1014,
+      "size": 1015,
       "heat": 64,
       "images": [
         {
@@ -478,7 +478,7 @@
           "publishedDateTime": "2018-05-24T00:49:07-07:00"
         }
       ],
-      "size": 280,
+      "size": 281,
       "heat": 64,
       "images": [
         {
@@ -2136,7 +2136,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 52,
+          "heat": 51,
           "tags": [
             "Live"
           ],

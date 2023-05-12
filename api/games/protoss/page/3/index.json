@@ -34,6 +34,36 @@
       "publishedDateTime": "2022-10-06T19:13:37-07:00"
     },
     {
+      "path": "_games/pig-starcraft-2-florencio-vs-avilo-the-florencio-files-4.md",
+      "title": "StarCraft 2 - Florencio vs Avilo! | The Florencio Files #4",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush\r  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-vs-avilo-the-florencio-files-4/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-vs-avilo-the-florencio-files-4/",
+      "originalUrl": "https://youtube.com/watch?v=j4dkgFhTyGQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j4dkgFhTyGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M13S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/j4dkgFhTyGQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-05-24T00:49:07-07:00"
+    },
+    {
       "path": "_games/sc2hl-epic-starcraft-2-game-1-hour-long-protoss-vs-terran-creator-vs-ty.md",
       "title": "EPIC STARCRAFT 2 GAME - 1 HOUR LONG Protoss vs Terran - Creator vs TY",
       "excerpt": "One of the most epic starcraft games of the year, between Classic and TY During the RO16 of GSL Super Tournament. A crazy Protoss vs Terran.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also",
@@ -343,14 +373,14 @@
       "publishedDateTime": "2022-01-25T03:50:28-08:00"
     },
     {
-      "path": "_games/pig-starcraft-2-recall-rush-the-florencio-files-1.md",
-      "title": "StarCraft 2 - Recall Rush | The Florencio Files #1",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-recall-rush-the-florencio-files-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-recall-rush-the-florencio-files-1/",
-      "originalUrl": "https://youtube.com/watch?v=7hGsrlWElnU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7hGsrlWElnU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M24S",
+      "path": "_games/pig-flo-hides-14-bases-in-one-game-florencio-files-276-starcraft-2.md",
+      "title": "Flo Hides 14 Bases in One Game | Florencio Files #276 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-flo-hides-14-bases-in-one-game-florencio-files-276-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-flo-hides-14-bases-in-one-game-florencio-files-276-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=C64FK6g9Raw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C64FK6g9Raw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M39S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -362,15 +392,15 @@
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/7hGsrlWElnU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/C64FK6g9Raw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-05-24T00:49:07-07:00"
+      "publishedDateTime": "2023-02-05T02:30:43-08:00"
     },
     {
       "path": "_games/pig-the-warp-prism-ability-everyones-forgotten-about-king-of-cannons-21.md",
@@ -512,45 +542,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-08T02:14:55-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-creators-hidden-dark-shrine-vs-hero-best-of-3.md",
-      "title": "StarCraft 2: Creator's HIDDEN Dark Shrine vs herO! (Best-of-3)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between herO and Creator. This Protoss vs Protoss was played as part of the Korean StarCraft League (the KSL). https://patreon.com/koreanstarcraftleague/  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-creators-hidden-dark-shrine-vs-hero-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-creators-hidden-dark-shrine-vs-hero-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=LHVGi_NG-eo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LHVGi_NG-eo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M31S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LHVGi_NG-eo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-24T04:44:51-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-epic-match-the-actual-game-of-the-year-clem-vs-showtime.md",
@@ -884,14 +875,14 @@
       "publishedDateTime": "2023-03-17T17:33:34-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-who-can-survive-the-sewers-florencio-files-200.md",
-      "title": "StarCraft 2 - WHO CAN SURVIVE THE SEWERS? | Florencio Files #200",
-      "excerpt": "To celebrate Episode 200 of Florencio Files, we did a special \"Who Can Survive the Sewers\" where Florenciphiles faced up against the sewer mermaid himself. I judged each encounter based on how much dignity they retained afterwards. Happy Holidays everyone!  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-who-can-survive-the-sewers-florencio-files-200/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-who-can-survive-the-sewers-florencio-files-200/",
-      "originalUrl": "https://youtube.com/watch?v=tX9Gob7CVaw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tX9Gob7CVaw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H31M7S",
+      "path": "_games/pig-the-filthlord-strikes-again-florencio-files-273-starcraft-2.md",
+      "title": "The Filthlord Strikes Again | Florencio Files #273 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-filthlord-strikes-again-florencio-files-273-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-filthlord-strikes-again-florencio-files-273-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=mVL9HjhLTpI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mVL9HjhLTpI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M41S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -903,7 +894,7 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tX9Gob7CVaw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mVL9HjhLTpI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -911,41 +902,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-12-24T13:00:24-08:00"
-    },
-    {
-      "path": "_games/pig-why-are-there-two-gates-in-the-terran-mineral-line-king-of-cannons-18-starcraft-2.md",
-      "title": "Why are there TWO GATES in the Terran mineral line? | King of Cannons #18 - StarCraft 2",
-      "excerpt": "Cannon rushes all day erry day! 🐷 Support PiG: https://www.pigstarcraft.com/support/  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf -- 🐖 Watch live on https://www.twitch.tv/x5_pig 🎓",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-why-are-there-two-gates-in-the-terran-mineral-line-king-of-cannons-18-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-why-are-there-two-gates-in-the-terran-mineral-line-king-of-cannons-18-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=zjHnS5icIXk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zjHnS5icIXk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M40S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Terran"
-      ],
-      "heat": 53,
-      "tags": [
-        "Cheese"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zjHnS5icIXk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-07-18T17:12:58-07:00"
+      "publishedDateTime": "2023-01-01T14:13:59-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-darks-dangerous-infestors-vs-hero-best-of-5.md",
@@ -1101,6 +1058,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-02-03T03:05:06-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-new-patch-parasitic-bomb-on-colossus-dark-vs-hero.md",
+      "title": "StarCraft 2: NEW PATCH - Parasitic Bomb on COLOSSUS?! (Dark vs herO)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between Dark (Zerg) and herO (Protoss). This series is played on the new balance patch and is the finals of the ESL Open Cup 155 Korea.  Epic game 1 between Dark and herO: https://youtu.be/_a2Y-qIoLiQ  Support my work: https://patreon.com/lowkotv Lowko Merch:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-patch-parasitic-bomb-on-colossus-dark-vs-hero/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-patch-parasitic-bomb-on-colossus-dark-vs-hero/",
+      "originalUrl": "https://youtube.com/watch?v=-Wy36b8nRko",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-Wy36b8nRko\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M15S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-Wy36b8nRko/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-02T04:37:56-08:00"
     }
   ],
   "nextPage": 4

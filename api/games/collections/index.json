@@ -167,7 +167,7 @@
             "Protoss",
             "Zerg"
           ],
-          "heat": 116,
+          "heat": 56,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/wqxNTHqaLeI/maxresdefault.jpg",
@@ -182,7 +182,7 @@
         }
       ],
       "size": 38,
-      "heat": 79,
+      "heat": 70,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/QSw5xtKKe0Y/maxresdefault.jpg",
@@ -329,7 +329,7 @@
           "publishedDateTime": "2018-05-24T00:49:07-07:00"
         }
       ],
-      "size": 1015,
+      "size": 1016,
       "heat": 66,
       "images": [
         {

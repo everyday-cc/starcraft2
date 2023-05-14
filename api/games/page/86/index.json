@@ -4,6 +4,35 @@
   "page": 86,
   "value": [
     {
+      "path": "_games/pig-the-rare-upgrade-that-guarantees-chaos-icyfar-ruthless-growth-starcraft-2.md",
+      "title": "The rare upgrade that guarantees CHAOS | ICYFAR \"Ruthless Growth\" - StarCraft 2",
+      "excerpt": "🤯 NEW ICYFAR CHALLENGE: Blood Sacrifice - One unit must die at least every minute of the game. Self-sacrifice encouraged. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 15th August -- 🤯 In this week’s episode",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-rare-upgrade-that-guarantees-chaos-icyfar-ruthless-growth-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-rare-upgrade-that-guarantees-chaos-icyfar-ruthless-growth-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=Wq9glwCgYVk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Wq9glwCgYVk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M25S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Wq9glwCgYVk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-21T02:25:51-07:00"
+    },
+    {
       "path": "_games/pig-the-sewer-mermaid-nukes-himself-for-science-florencio-files-271-starcraft-2.md",
       "title": "The Sewer Mermaid Nukes Himself For Science | Florencio Files #271 - StarCraft 2",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has discovered the Ranged Liberator  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
@@ -857,38 +886,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-15T01:12:58-08:00"
-    },
-    {
-      "path": "_games/pig-thor-drop-tvp-hot-mess-of-a-game-twitch-plays-pig-50.md",
-      "title": "Thor Drop TvP = Hot Mess of a Game | Twitch Plays PiG #50",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-thor-drop-tvp-hot-mess-of-a-game-twitch-plays-pig-50/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-thor-drop-tvp-hot-mess-of-a-game-twitch-plays-pig-50/",
-      "originalUrl": "https://youtube.com/watch?v=8e4xWDjE7UM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8e4xWDjE7UM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M7S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8e4xWDjE7UM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-02T14:00:02-07:00"
     }
   ],
   "nextPage": 87

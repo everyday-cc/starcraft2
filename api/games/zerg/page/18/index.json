@@ -4,6 +4,44 @@
   "page": 18,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-what-an-epic-zerg-vs-zerg.md",
+      "title": "StarCraft 2: WHAT?! An EPIC Zerg vs Zerg!",
+      "excerpt": "Just your regular good ol' Zerg vs Zerg.  Subscribe for more videos: http://lowko.tv/youtube More Starcraft 2 casts: https://goo.gl/NG8qAV  This is easily one of the best, if not the best viewer submitted replay that I have casted so far. An incredibly close Zerg vs Zerg between two Diamond League level",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-what-an-epic-zerg-vs-zerg/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-what-an-epic-zerg-vs-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=gNylIRZlx5g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gNylIRZlx5g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M39S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gNylIRZlx5g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-06-02T06:41:23-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-what-year-is-it-byun-vs-soo.md",
       "title": "StarCraft 2: WHAT YEAR IS IT?! (ByuN vs soO)",
       "excerpt": "Two games of professional StarCraft 2 between ByuN and soO on old maps. In this video I cast a game of Zerg versus Terran on The King Sejong Station as well as Frost. Both of these maps were played in the early days of Legacy of the Void, and the earliest version of Frost is from back in Heart of the",
@@ -890,6 +928,45 @@
       "publishedDateTime": "2022-06-02T13:23:09-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-zests-spicy-stargate-variety-best-of-5-vs-solar.md",
+      "title": "StarCraft 2: Zest's SPICY Stargate Variety! (Best-of-5 vs Solar)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Solar (Zerg) and Zest (Protoss). In this match Zest decides to play a vareity of Stargate openers, from Void Rays to Tempests and Phoenixes. This series is the grand finals of the ESL Open Cup 108 Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zests-spicy-stargate-variety-best-of-5-vs-solar/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zests-spicy-stargate-variety-best-of-5-vs-solar/",
+      "originalUrl": "https://youtube.com/watch?v=IKvNLBeao60",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IKvNLBeao60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M49S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IKvNLBeao60/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-02-12T05:00:07-08:00"
+    },
+    {
       "path": "_games/pig-2300-zerglings-make-broodwar-great-again-icyfar-g2.md",
       "title": "“2300 zerglings!?” | Make Broodwar Great Again ICYFAR G2",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were they may only take 1 gas at each base, no warpgate, no reactors and no queens.  Invisible Man - Use cloaked units to spook your opponent. Send submissions to fluxiorsc@gmail.com as attachment",
@@ -1038,69 +1115,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-baneling-baptism-kick-the-ant-hive-icyfar-g3.md",
-      "title": "BANELING BAPTISM | Kick the Ant Hive! ICYFAR G3",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they had to swarm their enemy with a ton of low tier units. Here’s a fun game of Zerg versus terran completing the challenge in humorous fashion.   NEW ICYFAR CHALLENGE: \"Resurrection",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-baneling-baptism-kick-the-ant-hive-icyfar-g3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-baneling-baptism-kick-the-ant-hive-icyfar-g3/",
-      "originalUrl": "https://youtube.com/watch?v=aOk5jIC0pMk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aOk5jIC0pMk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M12S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aOk5jIC0pMk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-baneling-bomb-zvz-twitch-plays-pig-41.md",
-      "title": "Baneling Bomb ZvZ! | Twitch Plays PiG #41",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-baneling-bomb-zvz-twitch-plays-pig-41/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-baneling-bomb-zvz-twitch-plays-pig-41/",
-      "originalUrl": "https://youtube.com/watch?v=Uyu2NvptW-8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Uyu2NvptW-8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M6S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Uyu2NvptW-8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-23T04:00:18-07:00"
     }
   ],
   "nextPage": 19

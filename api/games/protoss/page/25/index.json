@@ -4,6 +4,36 @@
   "page": 25,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-lets-take-the-kids-to-six-flags-the-florencio-files-62.md",
+      "title": "StarCraft 2 - Let's take the kids to Six Flags | The Florencio Files #62",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-lets-take-the-kids-to-six-flags-the-florencio-files-62/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-lets-take-the-kids-to-six-flags-the-florencio-files-62/",
+      "originalUrl": "https://youtube.com/watch?v=INuNeJ1ZHGc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/INuNeJ1ZHGc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M5S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/INuNeJ1ZHGc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-05-01T13:04:29-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-like-lambs-to-the-slaughter-the-florencio-files-145.md",
       "title": "StarCraft 2 - Like Lambs to the Slaughter | The Florencio Files #145",
       "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
@@ -875,36 +905,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-03-06T09:00:07-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-probius-maximus-the-florencio-files-49.md",
-      "title": "StarCraft 2 - Probius Maximus | The Florencio Files #49",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  As you probably already noticed, this game was cast on Valentines Day :)  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-probius-maximus-the-florencio-files-49/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-probius-maximus-the-florencio-files-49/",
-      "originalUrl": "https://youtube.com/watch?v=FgWMs5es7ps",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FgWMs5es7ps\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M9S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FgWMs5es7ps/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-12T10:00:18-07:00"
     }
   ],
   "nextPage": 26

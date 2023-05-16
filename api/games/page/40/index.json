@@ -4,45 +4,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-intense-zerg-vs-terran.md",
-      "title": "StarCraft 2: INTENSE Zerg vs Terran!",
-      "excerpt": "A very tense match of Zerg versus Terran between KeeN and soO. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Protoss: https://goo.gl/qeUdf6  Easily one of the best Zerg versus Terran matches I've ever casted. This is a very intense game where we get close to mining out the entire map.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-intense-zerg-vs-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-intense-zerg-vs-terran/",
-      "originalUrl": "https://youtube.com/watch?v=Lo_rJvZRRe8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Lo_rJvZRRe8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M10S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Lo_rJvZRRe8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-12-23T04:50:32-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-is-this-really-the-ultimate-terran-army-dark-vs-cure.md",
       "title": "StarCraft 2: Is This REALLY The ULTIMATE Terran Army?! (Dark vs Cure)",
       "excerpt": "Professional match of StarCraft 2 between Dark (Zerg) and Cure (Terran). While this game starts off with a Roach Ravager rush it quickly turns into a long macro game where both players make their ultimate armies.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -1139,6 +1100,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-11-17T03:05:58-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-maru-stims-into-lurkers-rogue-vs-maru.md",
+      "title": "StarCraft 2: MARU STIMS INTO LURKERS?! (Rogue vs Maru)",
+      "excerpt": "A match from the Dreamhack Winter Grand Finals of professional StarCraft 2. This is an epic game of Maru (Terran) versus Rogue (Zerg).  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maru-stims-into-lurkers-rogue-vs-maru/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maru-stims-into-lurkers-rogue-vs-maru/",
+      "originalUrl": "https://youtube.com/watch?v=CN7th991sDQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CN7th991sDQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CN7th991sDQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-15T03:48:50-08:00"
     }
   ],
   "nextPage": 41

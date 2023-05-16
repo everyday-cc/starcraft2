@@ -4,45 +4,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-heros-tempest-rush-vs-reynor-best-of-3.md",
-      "title": "StarCraft 2: herO's TEMPEST Rush vs Reynor?! (Best-of-3)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between Reynor (Zerg) and herO (Protoss). In this series herO decides to play some very aggressive strategies, as he opts for a two base all-in in pretty much every match.  Massive blunder - Reynor vs herO: https://youtu.be/PPPrcODpgc8  Support my work on",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-tempest-rush-vs-reynor-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-tempest-rush-vs-reynor-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=8Zr-wdT3EeQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8Zr-wdT3EeQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8Zr-wdT3EeQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-10T03:39:16-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-home-is-where-the-command-center-is-viewer-games.md",
       "title": "StarCraft 2: Home is where the Command Center is... (Viewer Games)",
       "excerpt": "Two amazing viewer submitted games of StarCraft 2. If you have a game of StarCraft that you would like me to cast on the YouTube channel, feel free to submit it to replays@lowko.tv and I might cast your game in the future.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member:",
@@ -1149,6 +1110,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-22T04:20:48-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-sick-game-has-dark-solved-zvt-late-game-byun-vs-dark.md",
+      "title": "StarCraft 2: SICK GAME - Has Dark SOLVED ZvT Late Game? (ByuN vs Dark)",
+      "excerpt": "The Terran versus Zerg match up in StarCraft 2 seems to be Terran favoured in the late game. In this match of Dark versus ByuN, Dark (Zerg) decides to try out a Mass Brood Lord micro trick versus ByuN (Terran).  Dark's Swarm Hosts vs Maru: https://youtu.be/_HUE_txgIrA  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-sick-game-has-dark-solved-zvt-late-game-byun-vs-dark/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-sick-game-has-dark-solved-zvt-late-game-byun-vs-dark/",
+      "originalUrl": "https://youtube.com/watch?v=_Ys59kDdrXg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Ys59kDdrXg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M46S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_Ys59kDdrXg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-08-05T04:59:34-07:00"
     }
   ],
   "nextPage": 15

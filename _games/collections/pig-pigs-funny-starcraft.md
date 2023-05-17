@@ -1022,9 +1022,10 @@ items:
   - pig-printfs-amazing-usage-of-these-units-is-insane-king-of-cannons-24-starcraft-2
   - pig-the-fastest-viper-rush-strat-ive-ever-seen-also-the-dumbest-smooth-brain-santa-claws-8-sc2
   - pig-bm-zerg-loser-bullies-opponent-to-save-face-salt-mines-35-starcraft-2
-  - pig-flos-genius-hallucination-trick-florencio-files-281-starcraft-2
+  - pig-420-iq-hallucination-trick-fools-protoss-florencio-files-281-starcraft-2
   - pig-cannon-rusher-meets-1-base-nydus-swarmhosts-king-of-cannons-25-starcraft-2
   - pig-zergs-sick-burrowed-banelings-breaks-terrans-brain-pig-vs-catz-starcraft-2
+  - pig-he-bet-i-couldnt-win-while-doing-pushups-every-90-seconds-challenge-pig-starcraft-2
 
 topics:
   - StarCraft 2

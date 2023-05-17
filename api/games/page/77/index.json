@@ -4,6 +4,64 @@
   "page": 77,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-harstem-has-been-accused-of-smurfing-smurf-detective-3.md",
+      "title": "StarCraft 2 - HARSTEM HAS BEEN ACCUSED OF SMURFING | Smurf Detective #3",
+      "excerpt": "0:00 Game 1 13:38 Game 2 23:12 Game 3: Did Harstem Smurf School Bronze League?   🔥New Community Submission Series: SMURF DETECTIVE! So you think you have faced a Smurf. Send in your replay to RateMyStarCraft@gmail.com with your ign, league, tier and server (e.g. Serral Plat 1 NA) and PiG will investigate",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-harstem-has-been-accused-of-smurfing-smurf-detective-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-harstem-has-been-accused-of-smurfing-smurf-detective-3/",
+      "originalUrl": "https://youtube.com/watch?v=JAtNwA38aWc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JAtNwA38aWc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M26S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JAtNwA38aWc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-11T20:05:22-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-has-and-bly-remember-theyre-cheesers-cheesedown-part-34.md",
+      "title": "StarCraft 2 - Has and Bly remember they're Cheesers | CHEESEDOWN Part 3/4",
+      "excerpt": "We invited the cheesiest Protoss, Has, and the cheesiest Zerg, Bly, to have a Cheesedown with us to determine who is the best at serving fondue. In Part three, the players remember that they're known Cheesers and give the fans what they want.  Cheesedown Part 1: https://youtu.be/OI4n4PWs1TI Cheesedown",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-has-and-bly-remember-theyre-cheesers-cheesedown-part-34/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-has-and-bly-remember-theyre-cheesers-cheesedown-part-34/",
+      "originalUrl": "https://youtube.com/watch?v=4BETkqHSwtI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4BETkqHSwtI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M21S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4BETkqHSwtI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-26T19:48:45-08:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-has-and-blys-cheese-fondue-party-heats-up-cheesedown-part-24.md",
       "title": "StarCraft 2 - Has and Bly's Cheese Fondue Party Heats Up | CHEESEDOWN Part 2/4",
       "excerpt": "We invited the cheesiest Protoss, Has, and the cheesiest Zerg, Bly, to have a Cheesedown with us to determine who is the best at serving fondue. Part one wasn't cheesy enough. In Part two, things start heating up! Cheesedown Part 1: https://youtu.be/OI4n4PWs1TI -- 🐷 Watch live at https://www.twitch.tv/x5_pig",
@@ -840,66 +898,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-12-08T09:00:10-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-incontrol-vs-florencio-the-florencio-files-56.md",
-      "title": "StarCraft 2 - Incontrol vs Florencio! | The Florencio Files #56",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-incontrol-vs-florencio-the-florencio-files-56/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-incontrol-vs-florencio-the-florencio-files-56/",
-      "originalUrl": "https://youtube.com/watch?v=eKfawOjFMj4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eKfawOjFMj4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M30S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eKfawOjFMj4/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-27T18:54:53-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-inducing-a-brain-bleed-the-florencio-files-113.md",
-      "title": "StarCraft 2 - Inducing a Brain Bleed | The Florencio Files #113",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-inducing-a-brain-bleed-the-florencio-files-113/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-inducing-a-brain-bleed-the-florencio-files-113/",
-      "originalUrl": "https://youtube.com/watch?v=ox-Q7A80qZc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ox-Q7A80qZc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M51S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ox-Q7A80qZc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-01-01T09:00:14-08:00"
     }
   ],
   "nextPage": 78

@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-03-sci-fi-rts-and-fps-hybrid-silica-blends-arma-with-starcraft-and-im-here-for-it.md",
+      "title": "Sci-Fi RTS And FPS Hybrid Silica Blends Arma With StarCraft And I'm Here For It",
+      "excerpt": "Silica is an upcoming RTS and First-Person Shooter hybrid that basically asks the question of what you get when you mix Arma III and Starship Troopers. Dropping into Early Access today, we took an early look at what this new multiplayer title from Bohemia Interactive fares.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mmorpg.com/previews/sci-fi-rts-and-fps-hybrid-silica-blends-arma-with-starcraft-and-im-here-for-it-2000127867",
+      "originalUrl": "https://www.mmorpg.com/previews/sci-fi-rts-and-fps-hybrid-silica-blends-arma-with-starcraft-and-im-here-for-it-2000127867",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.mmorpg.com/images/heroes/posts/127867.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mmorpg.com/previews/sci-fi-rts-and-fps-hybrid-silica-blends-arma-with-starcraft-and-im-here-for-it-2000127867?amp=true",
+      "cdnAmpWebUrl": "https://www-mmorpg-com.cdn.ampproject.org/c/s/www.mmorpg.com/previews/sci-fi-rts-and-fps-hybrid-silica-blends-arma-with-starcraft-and-im-here-for-it-2000127867?amp=true",
+      "publishedDateTime": "2023-05-03T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MMORPG",
+        "domain": "mmorpg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2023-04-22-the-17-best-rts-games-to-play-if-you-love-starcraft.md",
       "title": "The 17 Best RTS Games To Play If You Love Starcraft",
       "excerpt": "Many fans will be itching for a similar game to Starcraft to play with no new sequel in sight. Here are the 15 best games to scratch that itch. Updated April 22, 2023, by Kristy Ambrose ...",
@@ -1129,57 +1171,6 @@
         "name": "Dexerto.com",
         "domain": "dexerto.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-starcraft-will-never-die.md",
-      "title": "StarCraft Will Never Die",
-      "excerpt": "StarCraft has been one of the most played games in internet cafes in South Korea for 24 years. These gaming hot spots, called PC Bangs, house dozens to hundreds of PCs, and when StarCraft launched in 1998 it fueled the massive expansion of PC Bangs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ign.com/videos/starcraft-will-never-die",
-      "originalUrl": "https://www.ign.com/videos/starcraft-will-never-die",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/30/starcraftblog-1648661535695.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

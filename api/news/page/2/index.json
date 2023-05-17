@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-31-starcraft-will-never-die.md",
+      "title": "StarCraft Will Never Die",
+      "excerpt": "StarCraft has been one of the most played games in internet cafes in South Korea for 24 years. These gaming hot spots, called PC Bangs, house dozens to hundreds of PCs, and when StarCraft launched in 1998 it fueled the massive expansion of PC Bangs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ign.com/videos/starcraft-will-never-die",
+      "originalUrl": "https://www.ign.com/videos/starcraft-will-never-die",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/30/starcraftblog-1648661535695.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-sound-byte-the-music-and-sounds-of-starcraft-ii.md",
       "title": "Sound Byte: The Music and Sounds of Starcraft II",
       "excerpt": "So that includes the games, and the Web, the cinematics, the trailers, and what have you. So Starcraft II has been on my radar ever since I started here, and each game has had its time to kind of ...",
@@ -1121,40 +1172,6 @@
       "ampWebUrl": "https://amp.redbull.com/pk-en/reynor-starcraft-2-interview",
       "cdnAmpWebUrl": "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/pk-en/reynor-starcraft-2-interview",
       "publishedDateTime": "2021-06-16T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Red Bull",
-        "domain": "redbull.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-how-reynor-became-the-new-king-of-starcraft-2.md",
-      "title": "How Reynor became the new king of Starcraft 2",
-      "excerpt": "We sat down with professional StarCraft 2 superstar Riccardo ‘Reynor’ Romiti to discuss how he became one of the world's elite players.",
-      "sourceUrl": null,
-      "webUrl": "https://www.redbull.com/my-en/reynor-starcraft-2-interview",
-      "originalUrl": "https://www.redbull.com/my-en/reynor-starcraft-2-interview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T00:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Red Bull",

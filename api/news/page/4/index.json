@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-28-starcraft-2-system-requirements.md",
+      "title": "StarCraft 2 System Requirements",
+      "excerpt": "Based on scores by our most trusted members. Please login to add your score for StarCraft 2 Graphics played on the pc. Lifespan Lifespan score reflects how much gameplay this pc game has in it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.game-debate.com/games/index.php?g_id=37618&game=StarCraft2",
+      "originalUrl": "https://www.game-debate.com/games/index.php?g_id=37618&game=StarCraft2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.game-debate.com/low-vs-ultra-graphics-settings/comparison-icon.jpg",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game-Debate",
+        "domain": "game-debate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-starcraft-ii-does-not-launch-issue-quick-and-easy-fix.md",
       "title": "StarCraft II Does Not Launch Issue Quick and Easy Fix",
       "excerpt": "The StarCraft II does not launch issue is usually caused by a corrupted game file, outdated graphics driver, or an outdated operating system update. In order to fix this problem you will need to ...",
@@ -1120,57 +1162,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-07-27T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-starcraft-ii-is-turning-10celebrate-with-us.md",
-      "title": "StarCraft II is Turning 10—Celebrate With Us!",
-      "excerpt": "We&amp;#39;re celebrating the ten-year anniversary of StarCraft II with War Chest team games, free announcers, new achievements, short stories, retrospectives, and one of the game&amp;#39;s biggest patches ever.",
-      "sourceUrl": null,
-      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23479804/starcraft-ii-is-turning-10-celebrate-with-us",
-      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23479804/starcraft-ii-is-turning-10-celebrate-with-us",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/vy/VYNOYKEDLEUY1595444036037.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T11:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Blizzard",

@@ -4,6 +4,36 @@
   "page": 20,
   "value": [
     {
+      "path": "_games/pig-lets-make-the-fastest-nydus-swarm-host-build-even-dirtier-starcraft-2.md",
+      "title": "Let’s make the Fastest Nydus Swarm Host build EVEN DIRTIER - StarCraft 2",
+      "excerpt": "Here's part 2 of my Fastest Nydus Swarm Host build with extra steps to annoy the opponent more. This is a build I developed after facing Zuno on the KR ladder. If you want my notes they're in The Book of Filth 2.0: https://docs.google.com/document/d/1GbpZ-qjoUQ42ZwVsmk3cYgLZ1WYNcLc9l6KUo-Zuudk/edit?usp=sharing",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-lets-make-the-fastest-nydus-swarm-host-build-even-dirtier-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-lets-make-the-fastest-nydus-swarm-host-build-even-dirtier-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=H4z-eK7lPp8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/H4z-eK7lPp8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/H4z-eK7lPp8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-04T22:59:21-07:00"
+    },
+    {
       "path": "_games/pig-liposuction-zerg-ny-resolutions-icyfar-g1.md",
       "title": "Liposuction Zerg - NY Resolutions ICYFAR G1",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to follow through on their new year’s resolutions :P.  CURRENT ICYFAR CHALLENGE: \"Encirclement\" - Show the best games where you try to encircle your opponent with large flanking attacks,",
@@ -900,37 +930,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-17T09:00:25-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-florencios-caricature-of-a-macro-zerg-florencio-files-235.md",
-      "title": "StarCraft 2 - FLORENCIO’S CARICATURE OF A MACRO ZERG | Florencio Files #235",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencios-caricature-of-a-macro-zerg-florencio-files-235/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencios-caricature-of-a-macro-zerg-florencio-files-235/",
-      "originalUrl": "https://youtube.com/watch?v=HWM5huj271w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HWM5huj271w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M18S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HWM5huj271w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-04T05:39:46-07:00"
     }
   ],
   "nextPage": 21

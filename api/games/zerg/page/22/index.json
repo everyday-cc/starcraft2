@@ -4,6 +4,36 @@
   "page": 22,
   "value": [
     {
+      "path": "_games/pig-taunted-him-with-my-drone-and-got-away-with-omega-greed-lol-mac-or-cheese-4-starcraft-2.md",
+      "title": "Taunted him with my Drone and got away with omega greed lol! | Mac or Cheese #4 - StarCraft 2",
+      "excerpt": "NEW SHOW! I secretly played a few games on a dirty barcode account and offered my StarCraft 2 opponents a choice: Macro or Cheese? How the game plays out is up to them!  Watch the Full Playlist: https://youtube.com/playlist?list=PLFUDU8AOevUfPxBiGAdbbg9sRfRF9ZV28 -- 🐷 Second Channel for Learning StarCraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-taunted-him-with-my-drone-and-got-away-with-omega-greed-lol-mac-or-cheese-4-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-taunted-him-with-my-drone-and-got-away-with-omega-greed-lol-mac-or-cheese-4-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=1p5nCTvqFJU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1p5nCTvqFJU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M26S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1p5nCTvqFJU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-08-03T21:25:26-07:00"
+    },
+    {
       "path": "_games/pig-terran-colonists-vs-zerg-and-their-pointy-sticks-cloak-icyfar-g2.md",
       "title": "Terran Colonists vs Zerg and their Pointy Sticks - Cloak ICYFAR G2",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players showed off their best cloaked and invisible unit plays.\r THIS WEEKS ICYFAR CHALLENGE: “One Geyser to Rule Them All” - You may only mine from one gas geyser for the entire game. Send submissions to eonblu95@gmail.com as attachment",
@@ -962,45 +992,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-07-27T09:48:48-07:00"
-    },
-    {
-      "path": "_games/sc2hl-so-many-nukes-in-40-min-game-starcraft-2-serral-vs-innovation.md",
-      "title": "SO MANY NUKES in 40 MIN+ GAME! - Starcraft 2: Serral vs Innovation",
-      "excerpt": "Serral & Innovation play a looong Terran vs Zerg, bleeding out nearly the entire map. Who will survive? From Starcraft 2 IEM Katowice  Subscribe bitches   ► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL ► Submit your REPLAYS! - http://bit.ly/SC2HLsubmit   ► SUBSCRIBE to SC2HL!",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-so-many-nukes-in-40-min-game-starcraft-2-serral-vs-innovation/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-so-many-nukes-in-40-min-game-starcraft-2-serral-vs-innovation/",
-      "originalUrl": "https://youtube.com/watch?v=aQO7TL229DM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aQO7TL229DM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M10S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aQO7TL229DM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-06T07:05:01-08:00"
     }
   ],
   "nextPage": 23

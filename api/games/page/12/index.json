@@ -4,44 +4,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_games/sc2hl-bunnys-massive-thor-push-starcraft-2-solar-vs-bunny.md",
-      "title": "Bunny's MASSIVE THOR PUSH - Starcraft 2: Solar vs. Bunny",
-      "excerpt": "Amazing game between Solar & Bunny - Bunny building one of the strongest Terran armies with a mass thor push.   Match: Solar vs. Bunny Tournament: Starcraft 2 - GSL Code S - Season 3 2022  VODs: https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg  ► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-bunnys-massive-thor-push-starcraft-2-solar-vs-bunny/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-bunnys-massive-thor-push-starcraft-2-solar-vs-bunny/",
-      "originalUrl": "https://youtube.com/watch?v=zZ2xULYNVMY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zZ2xULYNVMY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M7S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zZ2xULYNVMY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-04-02T06:00:39-07:00"
-    },
-    {
       "path": "_games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster.md",
       "title": "StarCraft 2: MASS Marines to Grandmaster!",
       "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
@@ -1144,6 +1106,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-03-15T02:10:46-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-extreme-dark-templar-zealot-runbys-best-of-5.md",
+      "title": "StarCraft 2: EXTREME Dark Templar & Zealot Runbys! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Zest (Protoss) and Cure (Terran).  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: https://youtube.com/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-extreme-dark-templar-zealot-runbys-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-extreme-dark-templar-zealot-runbys-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=Bep8cI3u2zM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bep8cI3u2zM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT59M25S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Bep8cI3u2zM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-01-22T04:58:16-08:00"
     }
   ],
   "nextPage": 13

@@ -17,6 +17,17 @@ provider:
 topics:
   - StarCraft 2
 
+related:
+  - title: "2023 Starcraft GSL Fifth Wheel Series M-264RLS Equipment: Prices and Specs"
+    excerpt: "TRAVEL TRAILERS/5TH WHEELS - 1995-current prices include microwave, air conditioner, awning and AM/FM cassette stereo. 1999 Travelstar models reflect a base price only. Only select options below that are in addition to standard equipment and equipment ..."
+    publishedDateTime: 2023-05-13T12:32:00Z
+    webUrl: "https://www.jdpower.com/rvs/2023/starcraft/m-264rls/6623678"
+    type: article
+    provider:
+      name: jdpower
+      domain: jdpower.com
+    quality: 15
+
 secured: "ioHOD82QsnjiaB2PQaFM7AV9rXx49RNglh+Pt1Py3bg9zk32sBATx5yMSNxIWZBM5wNYkh2KkehriX7XG/RakwERvE4Gtod+5E1g5nhbKwXPiiszRZVGFNrg55yR7MwXJGy30fuoLbmZ1NxEeA+1s2VuGLiuOOGLhWTLeAqtd5Qr45SFWY+mzJA/4KjZ9sJmYZtXcgsh1HB4au0i4Gqnz8Bg5TFLboT2UyQRF9SHznPmFPzri124TwBGOUOOeSBIkC8QRFleMq2uwQGaUV4iuAOuepRv7z7v/McI+o0u/l/NRm6HoVzkZ4amrTNtGqTTta6qZQCWtztKOcxs7RVowRTGynBXWwWCPmqI8ZZqF+0=;Um9rv/4cydItscY9dRC3Tw=="
 ---
 

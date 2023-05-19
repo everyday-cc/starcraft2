@@ -4,6 +4,44 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-clems-50-viking-army-showtime-vs-clem.md",
+      "title": "StarCraft 2: Clem's 50+ VIKING Army?! (ShoWTimE vs Clem)",
+      "excerpt": "Professional match of StarCraft 2 between Clem and ShoWTimE. In this game of Protoss versus Terran both players play the late game and focus their armies around Sky Terran and Sky Toss.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-clems-50-viking-army-showtime-vs-clem/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-clems-50-viking-army-showtime-vs-clem/",
+      "originalUrl": "https://youtube.com/watch?v=csA1rFe5x8A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/csA1rFe5x8A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M31S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/csA1rFe5x8A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-28T03:38:55-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-pro-build-darks-100-muta-army-vs-creator-best-of-3.md",
       "title": "StarCraft 2: PRO BUILD - Dark's 100+ Muta Army vs Creator! (Best-of-3)",
       "excerpt": "Best-of-3 series of high level StarCraft 2 between Dark (Zerg) and Creator (Protoss).  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips    Twitch livestream: https://twitch.tv/lowkotv Live most days 2-8 PM CET / CEST  The",
@@ -192,37 +230,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-06T19:13:37-07:00"
-    },
-    {
-      "path": "_games/pig-squatting-protoss-refuses-to-leave-terran-premises-florencio-files-278-starcraft-2.md",
-      "title": "Squatting Protoss REFUSES To Leave Terran Premises | Florencio Files #278 - StarCraft 2",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-squatting-protoss-refuses-to-leave-terran-premises-florencio-files-278-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-squatting-protoss-refuses-to-leave-terran-premises-florencio-files-278-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=J0g5XczG-iU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J0g5XczG-iU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M14S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Terran"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/J0g5XczG-iU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-17T17:33:34-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-epic-match-the-actual-game-of-the-year-clem-vs-showtime.md",

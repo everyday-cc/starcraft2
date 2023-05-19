@@ -29,7 +29,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 124,
+      "heat": 64,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/QSw5xtKKe0Y/maxresdefault.jpg",
@@ -1415,7 +1415,7 @@
         "Terran",
         "Protoss"
       ],
-      "heat": 57,
+      "heat": 117,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/e77yWLDuzK8/maxresdefault.jpg",

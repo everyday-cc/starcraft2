@@ -4,6 +4,86 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/lowkotv-starcraft-2-zerg-versus-terran-all-in-build-order.md",
+      "title": "StarCraft 2: Zerg versus Terran ALL-IN Build Order!",
+      "excerpt": "Support me on Patreon: http://www.patreon.com/lowkotv Subscribe for more videos: http://lowko.tv/youtube  StarCraft 2: Heart of the Swarm Zerg versus Terran Build Order.  This is an extremely effective build order in StarCraft 2 for the Zerg versus Terran match-up. Keep in mind that this is an all in,",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-zerg-versus-terran-all-in-build-order/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-zerg-versus-terran-all-in-build-order/",
+      "originalUrl": "https://youtube.com/watch?v=ZJhG9sEEQds",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZJhG9sEEQds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M32S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2014-07-26T09:43:53-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZJhG9sEEQds/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-zerg-build-order-roros-roach-baneling-timing-push-versus-terran-starcraft-2-heart-of-the-swarm.md",
+      "title": "Zerg Build Order - RorO's Roach Baneling Timing Push Versus Terran (StarCraft 2 Heart of the Swarm)",
+      "excerpt": "This is currently one of the best build orders in StarCraft II: Heart of the Swarm. I would highly suggest all Zerg players to try out this build order at least once versus a Terran that is going for a standard Reaper Expand or CC first. This build order is great versus Terran in the current metagame.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-zerg-build-order-roros-roach-baneling-timing-push-versus-terran-starcraft-2-heart-of-the-swarm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-zerg-build-order-roros-roach-baneling-timing-push-versus-terran-starcraft-2-heart-of-the-swarm/",
+      "originalUrl": "https://youtube.com/watch?v=sq7Yj3kSm5Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sq7Yj3kSm5Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M54S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2013-06-08T06:46:29-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sq7Yj3kSm5Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-zerg-build-order-versus-terran-roach-baneling-timing-push-starcraft-2-heart-of-the-swarm.md",
       "title": "Zerg Build Order versus Terran - Roach Baneling Timing Push (StarCraft 2 Heart of the Swarm)",
       "excerpt": "Zerg versus Terran is quite scary from the Zerg point of view. This Zerg build order is by Symbol from team Azubu. Symbol is a great Zerg player, one of the best players in the world. The Zerg build order we are taking a look at will be from a game that Symbol played in the round of 8 from the WCS Korea",
@@ -326,37 +406,6 @@
         "StarCraft 2",
         "Terran",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-choosing-your-race-terran-welcome-to-starcraft-2.md",
-      "title": "Choosing your Race Terran  - Welcome to Starcraft #2",
-      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-choosing-your-race-terran-welcome-to-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-choosing-your-race-terran-welcome-to-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=CDHMGtYQxxQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CDHMGtYQxxQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M23S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-02-21T18:13:08-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CDHMGtYQxxQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
       ]
     },
     {
@@ -916,37 +965,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/W93WChDsikY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-fixing-26-tvp-bio-raven-mine-push-coaching-terran-d1.md",
-      "title": "Fixing 26% TvP! Bio-Raven-Mine Push | Coaching Terran D1",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-fixing-26-tvp-bio-raven-mine-push-coaching-terran-d1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-fixing-26-tvp-bio-raven-mine-push-coaching-terran-d1/",
-      "originalUrl": "https://youtube.com/watch?v=fsZJ8cf6D84",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fsZJ8cf6D84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT58M40S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-01-25T09:00:13-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fsZJ8cf6D84/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

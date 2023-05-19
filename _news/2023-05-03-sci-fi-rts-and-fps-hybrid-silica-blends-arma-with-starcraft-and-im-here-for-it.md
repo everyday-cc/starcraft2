@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mmorpg.com/previews/sci-fi-rts-and-fps-hybrid-silica-ble
 cdnAmpWebUrl: "https://www-mmorpg-com.cdn.ampproject.org/c/s/www.mmorpg.com/previews/sci-fi-rts-and-fps-hybrid-silica-blends-arma-with-starcraft-and-im-here-for-it-2000127867?amp=true"
 type: article
 quality: 53
-heat: 76
+heat: 77
 published: true
 
 provider:

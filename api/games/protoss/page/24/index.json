@@ -4,6 +4,36 @@
   "page": 24,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-geek-squad-science-the-florencio-files-142.md",
+      "title": "StarCraft 2 - Geek Squad Science! | The Florencio Files #142",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-geek-squad-science-the-florencio-files-142/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-geek-squad-science-the-florencio-files-142/",
+      "originalUrl": "https://youtube.com/watch?v=5wudocTbrf0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5wudocTbrf0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M29S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5wudocTbrf0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-10T09:00:09-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-get-in-the-butt-bunker-pretend-pvz-proxy-icyfar-g2.md",
       "title": "StarCraft 2 - Get in the Butt Bunker! | Pretend PvZ Proxy ICYFAR G2",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they had to build fake proxies. Here's a fun game of Zerg versus Protoss completing the challenge in humorous fashion.  NEW ICYFAR CHALLENGE: \"Kick The Ant Hive\" - Swam Your Opponent",
@@ -877,36 +907,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-19T09:00:19-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-macro-king-florencio-the-florencio-files-116.md",
-      "title": "StarCraft 2 - Macro King Florencio!? | The Florencio Files #116",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-macro-king-florencio-the-florencio-files-116/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-macro-king-florencio-the-florencio-files-116/",
-      "originalUrl": "https://youtube.com/watch?v=BueeU0O8NuU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BueeU0O8NuU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M37S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BueeU0O8NuU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-01T11:28:35-07:00"
     }
   ],
   "nextPage": 25

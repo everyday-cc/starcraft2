@@ -4,6 +4,35 @@
   "page": 71,
   "value": [
     {
+      "path": "_games/pig-shields-are-for-the-weak-mineral-maverick-icyfar-g1.md",
+      "title": "Shields are for the Weak | Mineral Maverick ICYFAR G1",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they “only mined from one gas”.  CURRENT ICYFAR CHALLANGE: Fanatical Fanboy - Type \"I'm a Boxer fan\" in chat at the start of the game and then use your strategy inspired by that player. You can",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-shields-are-for-the-weak-mineral-maverick-icyfar-g1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-shields-are-for-the-weak-mineral-maverick-icyfar-g1/",
+      "originalUrl": "https://youtube.com/watch?v=W2P1NVOmunY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W2P1NVOmunY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M19S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/W2P1NVOmunY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-shogun-katsuro-will-he-bring-honor-or-shame-over-himself-appeasment-icyfar-g1.md",
       "title": "Shogun Katsuro, will he bring honor or shame over himself?  - Appeasment ICYFAR G1",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to avoid fighting their enemy until they had built 50 workers (60 as zerg).   CURRENT ICYFAR CHALLENGE: \"Santa Claus\" - Drop as many “gifts” on your enemies base as possible. Type !icyfar",
@@ -864,36 +893,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-6-minute-bc-instant-win-diamond-in-the-ruff-16.md",
-      "title": "StarCraft 2 - 6 minute BC instant win! | Diamond in the Ruff #16",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Zerg opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-6-minute-bc-instant-win-diamond-in-the-ruff-16/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-6-minute-bc-instant-win-diamond-in-the-ruff-16/",
-      "originalUrl": "https://youtube.com/watch?v=RMNkPB6VjGk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RMNkPB6VjGk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M34S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RMNkPB6VjGk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-22T14:00:07-07:00"
     }
   ],
   "nextPage": 72

@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=-11IYNkmC6c
 type: video
 length: PT45M29S
 publishedDateTime: 2020-11-20T23:34:37Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-11IYNkmC6c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Lzmt9odQwa9oPXlx8tJ2x2wlbcAMTykGk6I8uqp1KotoFu3GDPN6uViMwPMPRMj4b0nJuIigYvHRZrdJAjy0x8JvKtNeUgvQRExZ1aV/r9z7aU+b8TL9mgZcJgC+IqSPaOHf1PBDSMN7XEarGq5OSBMoWCOKFUJRqkKaJwIQgKNJoywiW1YYVGbCW/DEw3uwJdq3oGj0uAFL0H6w8NlYMpWZkAQjNEAdPbYcYtfhYuBAhCf5GksCkOcpgnrx6WJe5zNrI257HlFPECCvgSV429rMEGzkuMvj45Jbrbf/IU/ILfIjkeKWMDP/nYmDiECytVlvsxLZ2z7d74wcHdLNVKNvywejl8+LddtLKnf7dBax/89SftVRozsZwXEzYM2vZTQi0PUdAvsVHw0SdyrtvhXggx07zuCU1oAn/bnGF5Q=;IkGQ5DA54+uk0Y610B9bSQ=="
+secured: "Eyzan+WqjmCQKkDGu4c4lcbaCr2SXmf8MjXU+1/L6+LtiEE/kgnFt090jjAVMeEZLOtFDBIllWsvuD2zHMFW89FRtfjKWnfmRCibXBlpIMI9WvasvCZf/XTrILX2dYuKI7NSPEpOOO2R3e4L6w0cTy24aaxMalEVYWB2ceYJ+dXpKiPTNgDd6zBJM8tkc/KVEJhXoTNU0Q8NIuTfBf2wpFLiACPQ84Iqeb6teyJM2mJGLNnNNjGzHZ/Dkl/N+d8RQ9UFUAte0BMlLkzEA1AYj2/oOhmugYnczbcvlOovMlkIuGSku2oDKiNJ1296d3YfgrIVNlSPkYrtAln558vlpXiFHe4KeudRtFCttQ9vIA5oPraEEh2hV8/3AEj3gXFx14zTE5NBqD4trUKp8gvDTIus+Huk9YHtYvUIhxAwj5A=;u06JGeyruTg2G3lu7tdLSw=="
 ---
 

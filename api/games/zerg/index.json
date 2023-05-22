@@ -4,44 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-bunny-barracks-rushes-in-darks-natural-best-of-3.md",
-      "title": "StarCraft 2: Bunny BARRACKS RUSHES in Dark's Natural! (Best-of-3)",
-      "excerpt": "Professional match of StarCraft 2 between Dark and Bunny. This series was recently played in theSC2 GSL Code S, one of the most prestigious tournaments in the world.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-bunny-barracks-rushes-in-darks-natural-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-bunny-barracks-rushes-in-darks-natural-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=2XDBOPrXXLQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2XDBOPrXXLQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M5S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 243,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2XDBOPrXXLQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-17T04:26:57-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-did-he-make-a-20000-mistake-serral-vs-ragnarok.md",
       "title": "StarCraft 2: Did He Make a $20,000 Mistake? (Serral vs RagnaroK)",
       "excerpt": "Best-of-5 series of StarCraft 2 between Serral and RagnaroK. This match is the quarter finals of the StarCraft 2 World Championships that was played last month at IEM Katowice.   Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips",
@@ -78,6 +40,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-27T05:02:26-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-bunny-barracks-rushes-in-darks-natural-best-of-3.md",
+      "title": "StarCraft 2: Bunny BARRACKS RUSHES in Dark's Natural! (Best-of-3)",
+      "excerpt": "Professional match of StarCraft 2 between Dark and Bunny. This series was recently played in theSC2 GSL Code S, one of the most prestigious tournaments in the world.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-bunny-barracks-rushes-in-darks-natural-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-bunny-barracks-rushes-in-darks-natural-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=2XDBOPrXXLQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2XDBOPrXXLQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M5S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 228,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2XDBOPrXXLQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-17T04:26:57-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-lowko-cries-over-zests-mass-void-ray-vs-soo-best-of-5.md",
@@ -218,6 +218,44 @@
       "publishedDateTime": "2022-11-22T03:13:30-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3.md",
+      "title": "StarCraft 2: TOP-LEVEL SC2 IN 2023 - Dark vs Cure! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Cure (Terran) and Dark (Zerg). Cure has been playing very well over the last few months, and in this series he takes on one of the best Zerg players. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=c00-MkxW404",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c00-MkxW404\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M34S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 213,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/c00-MkxW404/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-15T03:58:49-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-serral-plays-2v2-professional-team-games.md",
       "title": "StarCraft 2: SERRAL Plays 2v2 - Professional Team Games!",
       "excerpt": "Most of the pro games in StarCraft 2 are played in 1v1. In this video we watch professional gamers face off against each other in 2v2 instead.  00:00 Serral & Mixu vs Spirit & Elazer 25:20 Serral & Mixu vs Rattata vs Skillous  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
@@ -280,7 +318,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 209,
+      "heat": 208,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/WVwOW0XTO8s/maxresdefault.jpg",
@@ -360,44 +398,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-17T04:49:22-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3.md",
-      "title": "StarCraft 2: TOP-LEVEL SC2 IN 2023 - Dark vs Cure! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between Cure (Terran) and Dark (Zerg). Cure has been playing very well over the last few months, and in this series he takes on one of the best Zerg players. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=c00-MkxW404",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c00-MkxW404\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 204,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/c00-MkxW404/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-15T03:58:49-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-heros-massive-overextension-vs-reynor.md",
@@ -767,6 +767,44 @@
       "publishedDateTime": "2022-09-05T04:02:46-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-proxy-hatchery-vs-zerg-dark-vs-soo.md",
+      "title": "StarCraft 2: Proxy Hatchery vs... ZERG?! (Dark vs soO)",
+      "excerpt": "We've seen Dark execute Proxy Hatcheries versus Protoss frequently but also every once in a while against Terran. Now he does it against Zerg as well? In this game of StarCraft 2 I cast a match between the South-Korean players Dark and soO.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-hatchery-vs-zerg-dark-vs-soo/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-proxy-hatchery-vs-zerg-dark-vs-soo/",
+      "originalUrl": "https://youtube.com/watch?v=z_8ESJ7piww",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z_8ESJ7piww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M45S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 111,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/z_8ESJ7piww/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-02-28T02:47:38-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-gumihos-super-greed-mech-vs-dark-best-of-3.md",
       "title": "StarCraft 2: GuMiho's SUPER GREED Mech vs Dark! (Best-of-3)",
       "excerpt": "Best-of-3 series of top level StarCraft 2 between Dark (Zerg) and GuMiho. This series of Zerg vs Terran was recently played during the GSL Code S. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
@@ -1059,44 +1097,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-05-04T03:20:31-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-just-epic-dark-is-a-monster-vs-clem.md",
-      "title": "StarCraft 2: JUST EPIC - Dark is a MONSTER vs Clem!",
-      "excerpt": "Amazing game of StarCraft 2 between Dark (Zerg) and Clem (Terran).  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips    Twitch livestream: https://twitch.tv/lowkotv Live most days 2-8 PM CET / CEST  The hardware I use:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-just-epic-dark-is-a-monster-vs-clem/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-just-epic-dark-is-a-monster-vs-clem/",
-      "originalUrl": "https://youtube.com/watch?v=79l1qv7amFI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/79l1qv7amFI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M46S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 95,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/79l1qv7amFI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-04-17T02:51:07-07:00"
     }
   ],
   "nextPage": 2

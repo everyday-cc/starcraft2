@@ -18,21 +18,19 @@ topics:
   - StarCraft 2
 
 related:
-  - title: "Sci-Fi RTS And FPS Hybrid Silica Blends Arma With StarCraft And I'm Here For It"
-    excerpt: "Silica is an upcoming RTS and First-Person Shooter hybrid that basically asks the question of what you get when you mix Arma III and Starship Troopers. Dropping into Early Access today, we took an early look at what this new multiplayer title from Bohemia Interactive fares."
-    publishedDateTime: 2023-05-03T14:00:00Z
-    webUrl: "https://www.mmorpg.com/previews/sci-fi-rts-and-fps-hybrid-silica-blends-arma-with-starcraft-and-im-here-for-it-2000127867"
-    ampWebUrl: "https://www.mmorpg.com/previews/sci-fi-rts-and-fps-hybrid-silica-blends-arma-with-starcraft-and-im-here-for-it-2000127867?amp=true"
-    cdnAmpWebUrl: "https://www-mmorpg-com.cdn.ampproject.org/c/s/www.mmorpg.com/previews/sci-fi-rts-and-fps-hybrid-silica-blends-arma-with-starcraft-and-im-here-for-it-2000127867?amp=true"
+  - title: "StarCraft 2 Guide to Keyboard Shortcuts"
+    excerpt: "StarCraft 2 hotkeys and keyboard shortcuts give fair advantage to the player by reducing the time it takes to execute an action. You can quickly execute almost every action using a hotkey or a ..."
+    publishedDateTime: 2023-05-14T00:00:00Z
+    webUrl: "https://segmentnext.com/starcraft-2-keyboard-shortcuts-guide/"
     type: article
     provider:
-      name: MMORPG
-      domain: mmorpg.com
-    quality: 53
+      name: SegmentNext
+      domain: segmentnext.com
+    quality: 37
     images:
-      - url: "https://media.mmorpg.com/images/heroes/posts/127867.jpg"
-        width: 700
-        height: 400
+      - url: "https://cdn.segmentnextimages.com/wp-content/themes/segmentnext/images/no-image-available.jpg"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "Eqc+bgDIOj7gjHarJgzhZKLtBO13BBl3G22ja4tAdjKIiAeOlSSjesnStHC6/E99Khz0dsT61CoslwYzdyPmUMwyV7cqbxDcvLklaTti2kS9PCuemheYnWCtglA2laHTSQN9rUXwME4ymrcq90poYsn4G6rEQ3KXIrxBHGKaQtQQp/10zB7ltzT6qGOGw/YOAj0E4zIFwkG8d+MqCB55jDa+tqkBCRx+nRqym6GR4oDfnBxu3Eh/MXpaUcPA0H3SUoDcWQFNrPNqNTWnD6QUBKvcv8dUgzjPuhiT0Z8MjsFZZQ3RmZDBZs+Q3ApJxzacwiV9E2vQ2BrOTWGq3hh5G4VkEQ+xQnt+ToDdIRER7s4=;IRZ+nsEcZSAB772ft+MkDw=="

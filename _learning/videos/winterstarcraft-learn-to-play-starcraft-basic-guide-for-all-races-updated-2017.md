@@ -4,7 +4,7 @@ excerpt: "A live guide to Starcraft 2: Legacy of the Void - Covering the basics 
 originalUrl: https://youtube.com/watch?v=xufRFqlamM4
 type: video
 price: Free
-length: PT2H42M46S
+length: PT2H42M45S
 publishedDateTime: 2017-11-19T17:09:41Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "lpWFMUTFHLdmycEx1WLH/5plD7RcakfJMm97vpNvnFEmwtyMrCqIN/7EKgavT7irO6D2e2ply4HcxS2EcoxKcqUmzcy1dg9JME0AcRrQqofTwvi4LZOZgY+gsRfH5a5K10qCiirsSe/oV8qTds56A1s5y9SZBmvOBIbWOC1UN9eFhAXepkGueVf34ZUU1sw3SQh4JdMURckO7K9Vw+Als89XIL75We80nb7j7hIcRwXtDD8bzjb0aWO7zdGbihkwfy0zP759LnUcJ9jA49snxU7EW4tgki2G6pOS1V00rDItXojCPRfMolBTEavvxFHeod52ycpAPjx/Avh3cfW0O/wLIv/Z9bRVlFuvSxoym7FT/cSvw//akxg9q92wLPQM0zmXI6PLM9CChFrsvr/GgvGOwd9AwU9ioS/U+l9U+Op8cW1Mjk+r2q00S3YpfvqT;7sR0kKEL37Owpa9H8sBAwg=="
+secured: "6JReNN4Y7lQPFoUXXkiIfoW0kiST+MQ3ysWdiLOZVJhGiIb4lT+3Ik0q3yvBv4PBsEwzvrVBhNVHlRQmcBqAmn3ks2mfWjVLnUNmq6omMexRTjuPL4C7B2k4I1fntbZH58/dD1uF6zi2fWkyiTD20B2RtQBv4kRmzUBWB+CrLF4h0RoB1yu4+/uktR8m02EZouUjbnDI7fwkFSMkemz9utJuMRxqIyOsLZXZ4XiKJBiJ1FWZd4Vu/MMOWMBi0IVoKSrdi0rUrzKkldy1NpiBa7C94mMW58YNFVpm3ftvnOjnPq5ut1BWg/2+wXPvQ5LoL6o0BciiamWi+YGxBm5Oh4Jkpjfn2NDxg4/fAfel2p2zfZPT4B7leE5GnGU7iXS5j2jydlbzV2T+TtBr/+0WLS2Ww5bJqTNK8WNFOqcrAoHbKZZIWUbaSt+QEYk17A+s;8H3Imc6S+VSPFI45MnzLXw=="
 ---
 

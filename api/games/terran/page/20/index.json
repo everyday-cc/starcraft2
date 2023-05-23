@@ -4,6 +4,36 @@
   "page": 20,
   "value": [
     {
+      "path": "_games/pig-ruffs-creative-rush-diamond-in-the-ruff-31-starcraft-2.md",
+      "title": "RUFF'S CREATIVE RUSH | Diamond in the Ruff #31 - StarCraft 2",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Protoss opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-ruffs-creative-rush-diamond-in-the-ruff-31-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-ruffs-creative-rush-diamond-in-the-ruff-31-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=b0jdhh8pt2c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b0jdhh8pt2c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M53S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/b0jdhh8pt2c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-25T14:29:34-08:00"
+    },
+    {
       "path": "_games/pig-save-the-bunker-you-will-never-get-this-g3-icyfar.md",
       "title": "Save the Bunker | You will never get this! G3 ICYFAR",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were they deny their opponents expansions and contain them at all costs.  NEW ICYFAR CHALLANGE: Tis the season for giving! Donate one unit to your opponent every minute of the game, starting",
@@ -888,36 +918,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-03-24T21:54:51-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-gemini-gets-ruffd-up-diamond-in-the-ruff-5.md",
-      "title": "StarCraft 2 - Gemini gets RuFF'd Up! | Diamond in the RuFF #5",
-      "excerpt": "Welcome to our new series, Diamond in the Ruff!  Don't forget to show Ruff some love! Twitter: https://twitter.com/RuFF_SC2 Twitch: https://www.twitch.tv/ruff13 Youtube: https://www.youtube.com/user/WMRuFFKiD Facebook: https://www.facebook.com/RuFF.StarCraft/  Like the content? Then consider to leave",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-gemini-gets-ruffd-up-diamond-in-the-ruff-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-gemini-gets-ruffd-up-diamond-in-the-ruff-5/",
-      "originalUrl": "https://youtube.com/watch?v=QUCoqeitxqE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QUCoqeitxqE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M10S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QUCoqeitxqE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-08-23T03:22:20-07:00"
     }
   ],
   "nextPage": 21

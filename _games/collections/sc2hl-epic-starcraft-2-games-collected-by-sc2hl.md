@@ -2,7 +2,7 @@
 title: "EPIC Starcraft 2 Games collected by SC2HL"
 excerpt: "Highlights from some of the best Starcraft 2 games. Coming from the GSL, SSL, WCS and many other tournaments."
 type: collection
-heat: 87
+heat: 76
 
 provider:
   name: SC2HL

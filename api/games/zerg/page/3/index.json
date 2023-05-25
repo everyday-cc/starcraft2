@@ -4,6 +4,45 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-serrals-weird-zerg-builds-vs-gumiho-best-of-3.md",
+      "title": "StarCraft 2: Serral's WEIRD Zerg Builds vs GuMiho! (Best-of-3)",
+      "excerpt": "Best-of-3 series of StarCraft 2 between Serral (Zerg) and GuMiho (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips  Twitch livestream: https://twitch.tv/lowkotv Live most days 2-8 PM CET / CEST  The hardware I",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serrals-weird-zerg-builds-vs-gumiho-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serrals-weird-zerg-builds-vs-gumiho-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=SlwNUwgSeIU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SlwNUwgSeIU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SlwNUwgSeIU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-04-14T02:59:17-07:00"
+    },
+    {
       "path": "_games/collections/beastyqtsc2-mass-infestors-to-grandmaster.md",
       "title": "MASS Infestors to Grandmaster",
       "excerpt": "",
@@ -319,45 +358,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-10-28T04:10:01-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-specials-proxy-starport-vs-reynor.md",
-      "title": "StarCraft 2: SpeCial's PROXY STARPORT(?!) vs Reynor!",
-      "excerpt": "Professional match of StarCraft 2 between Reynor (Zerg) and SpeCial (Terran). Thanks for Gamers Without Borders for sponsoring this video.  https://www.twitch.tv/gwbps_en @Gamers8Esports  https://gamerswithoutborders.com  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-specials-proxy-starport-vs-reynor/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-specials-proxy-starport-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=WF6oGxjFMh8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WF6oGxjFMh8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WF6oGxjFMh8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-04-15T01:12:03-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-zerg-rushes-byun-best-of-3.md",
@@ -807,44 +807,6 @@
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-astreas-3-base-in-2-minutes-vs-reynor-best-of-3.md",
-      "title": "StarCraft 2: Astrea’s 3 BASE IN 2 MINUTES vs Reynor! (Best-of-3)",
-      "excerpt": "Very fun best-of-3 series of high level StarCraft 2. This is a match played at the StarCraft 2 World Championships at IEM Katowice between Reynor (Zerg) and Astrea (Protoss).  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-astreas-3-base-in-2-minutes-vs-reynor-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-astreas-3-base-in-2-minutes-vs-reynor-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=HOzvXZ0AVoU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HOzvXZ0AVoU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HOzvXZ0AVoU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-07T04:56:50-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-awesome-game-gumihos-weird-terran-build-order-vs-solar.md",
       "title": "StarCraft 2: AWESOME GAME - GuMiho's WEIRD Terran Build Order vs Solar!",
       "excerpt": "Professional match of StarCraft 2 between Solar (Zerg) and GuMiho (Terran). In this game GuMiho decides to go for a very strange opener, and transitions towards Battle Mech. One of the best games I've seen recently for sure.   Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
@@ -1242,6 +1204,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-05-05T01:51:02-07:00"
+    },
+    {
+      "path": "_games/sc2hl-bunnys-massive-thor-push-starcraft-2-solar-vs-bunny.md",
+      "title": "Bunny's MASSIVE THOR PUSH - Starcraft 2: Solar vs. Bunny",
+      "excerpt": "Amazing game between Solar & Bunny - Bunny building one of the strongest Terran armies with a mass thor push.   Match: Solar vs. Bunny Tournament: Starcraft 2 - GSL Code S - Season 3 2022  VODs: https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg  ► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-bunnys-massive-thor-push-starcraft-2-solar-vs-bunny/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-bunnys-massive-thor-push-starcraft-2-solar-vs-bunny/",
+      "originalUrl": "https://youtube.com/watch?v=zZ2xULYNVMY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zZ2xULYNVMY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M7S",
+      "provider": {
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zZ2xULYNVMY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-04-02T06:00:39-07:00"
     }
   ],
   "nextPage": 4

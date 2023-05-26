@@ -29,7 +29,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 393,
+      "heat": 282,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/TJezGProI74/maxresdefault.jpg",
@@ -430,6 +430,45 @@
       "publishedDateTime": "2023-05-19T01:44:05-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-insane-final-fight-byun-vs-creator.md",
+      "title": "StarCraft 2: INSANE FINAL FIGHT - ByuN vs Creator!",
+      "excerpt": "Suddenly... Mass Battlecruiser! Insane game of StarCraft 2 between ByuN and Creator. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:  @LowkoTV @MoreLowko @LowkoClips    Twitch livestream: https://twitch.tv/lowkotv Live most days 2-8 PM CET / CEST  The",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-final-fight-byun-vs-creator/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-final-fight-byun-vs-creator/",
+      "originalUrl": "https://youtube.com/watch?v=jSZ0N4AShNY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jSZ0N4AShNY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M29S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 120,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jSZ0N4AShNY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-04-10T04:03:34-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-lowkos-mass-hydra-vs-terran-mech.md",
       "title": "StarCraft 2: Lowko's MASS HYDRA vs Terran Mech?!",
       "excerpt": "Live gameplay of a Zerg vs Terran in StarCraft 2. In this game Lowko faces off against a Terran who decides to play Battle Mech into Ghost Mech. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  00:00 The StarCraft 2 Forums 02:49 Live Game of Zerg vs Terran 24:14 Game analysis",
@@ -505,36 +544,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-12-24T13:58:31-08:00"
-    },
-    {
-      "path": "_games/pig-who-is-the-better-sht-talker-harstem-or-special-smacktalk-1-starcraft-2.md",
-      "title": "Who is the better SH*T TALKER: Harstem or Special? | SMACKTalk #1 - StarCraft 2",
-      "excerpt": "What happens when Pros play 1v1 but they can smack talk while playing? Imagine telling Yo mamma jokes to throw your opponent off :P That's SMACKTalk, a new show format by PiG!  First up, Harstem the Captain himself against none other than Special!  At the end of the series, the live audience gets to",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-who-is-the-better-sht-talker-harstem-or-special-smacktalk-1-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-who-is-the-better-sht-talker-harstem-or-special-smacktalk-1-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=AAPf5oIfWZU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AAPf5oIfWZU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M49S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AAPf5oIfWZU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-26T01:40:08-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-swarm-host-rush-vs-bio-terran-erik-vs-gumiho.md",

@@ -4,36 +4,6 @@
   "page": 75,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-florencio-abuses-tempest-range-florencio-files-248.md",
-      "title": "StarCraft 2 - Florencio Abuses Tempest Range | Florencio Files #248",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. This time, he discovers tempest range and abuses the f out of it  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-abuses-tempest-range-florencio-files-248/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-abuses-tempest-range-florencio-files-248/",
-      "originalUrl": "https://youtube.com/watch?v=8uGyamv8rR4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8uGyamv8rR4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M1S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8uGyamv8rR4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-09T23:59:04-08:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-florencio-boom-evolve-into-the-explosive-archon-florencio-files-210-sc2.md",
       "title": "StarCraft 2 - FLORENCIO & BOOM EVOLVE INTO THE EXPLOSIVE ARCHON | Florencio Files #210 - SC2",
       "excerpt": "Florencio senses that he will not be able to hold the Sewer Squatters at bay without drastic measures, so he and BOOM evolve into the Explosive Archon and take on 6 Sewer Squatters at once! This was not planned at all but it was really fun to cast, let me know what Flo-tainted content I should do below!",
@@ -906,6 +876,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-02-17T05:24:41-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-florencios-secret-guac-recipe-revealed-the-florencio-files-90.md",
+      "title": "StarCraft 2 - Florencio’s Secret Guac recipe revealed! | The Florencio Files #90",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencios-secret-guac-recipe-revealed-the-florencio-files-90/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencios-secret-guac-recipe-revealed-the-florencio-files-90/",
+      "originalUrl": "https://youtube.com/watch?v=JmY8ORwHa30",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JmY8ORwHa30\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M25S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JmY8ORwHa30/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-08-23T03:08:46-07:00"
     }
   ],
   "nextPage": 76

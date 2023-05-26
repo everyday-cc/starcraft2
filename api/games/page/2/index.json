@@ -546,6 +546,45 @@
       "publishedDateTime": "2022-08-24T19:41:45-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-insane-final-fight-byun-vs-creator.md",
+      "title": "StarCraft 2: INSANE FINAL FIGHT - ByuN vs Creator!",
+      "excerpt": "Suddenly... Mass Battlecruiser! Insane game of StarCraft 2 between ByuN and Creator. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:  @LowkoTV @MoreLowko @LowkoClips    Twitch livestream: https://twitch.tv/lowkotv Live most days 2-8 PM CET / CEST  The",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-final-fight-byun-vs-creator/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-final-fight-byun-vs-creator/",
+      "originalUrl": "https://youtube.com/watch?v=jSZ0N4AShNY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jSZ0N4AShNY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M29S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 120,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jSZ0N4AShNY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-04-10T04:03:34-07:00"
+    },
+    {
       "path": "_games/pig-when-winning-means-makes-you-a-devil-worshipper-salt-mines-31-starcraft-2.md",
       "title": "When winning means makes you a DEVIL WORSHIPPER?! | Salt Mines #31- StarCraft 2",
       "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
@@ -710,36 +749,6 @@
       "publishedDateTime": "2023-01-18T18:34:08-08:00"
     },
     {
-      "path": "_games/pig-the-sewer-mermaid-slips-behind-enemy-lines-florencio-files-280-starcraft-2.md",
-      "title": "The Sewer Mermaid slips behind enemy lines | Florencio Files #280 - StarCraft 2",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-sewer-mermaid-slips-behind-enemy-lines-florencio-files-280-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-sewer-mermaid-slips-behind-enemy-lines-florencio-files-280-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=qdGp6Rkvlok",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qdGp6Rkvlok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 117,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qdGp6Rkvlok/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-04-22T22:23:01-07:00"
-    },
-    {
       "path": "_games/pig-cheeser-gets-mad-that-doom-drops-dont-autowin-games-icyfar-weird-harassment-starcraft-2.md",
       "title": "Cheeser Gets MAD that Doom Drops Don’t Autowin Games | ICYFAR \"Weird Harassment\" - StarCraft 2",
       "excerpt": "🤯 NEW ICYFAR CHALLENGE: \"VIOLENT GROWTH\" - Each time you expand, you have to attack! Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 27th May   🤯 In this episode of I Cast Your Freakin Awesome Replays (ICYFAR)",
@@ -874,26 +883,25 @@
       "publishedDateTime": "2022-04-27T23:30:12-07:00"
     },
     {
-      "path": "_games/pig-who-is-the-better-sht-talker-harstem-or-special-smacktalk-1-starcraft-2.md",
-      "title": "Who is the better SH*T TALKER: Harstem or Special? | SMACKTalk #1 - StarCraft 2",
-      "excerpt": "What happens when Pros play 1v1 but they can smack talk while playing? Imagine telling Yo mamma jokes to throw your opponent off :P That's SMACKTalk, a new show format by PiG!  First up, Harstem the Captain himself against none other than Special!  At the end of the series, the live audience gets to",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-who-is-the-better-sht-talker-harstem-or-special-smacktalk-1-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-who-is-the-better-sht-talker-harstem-or-special-smacktalk-1-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=AAPf5oIfWZU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AAPf5oIfWZU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M49S",
+      "path": "_games/pig-guess-the-secret-pro-part-2-jaedong-vs-boxer-hidden-name-tournament-2-starcraft-2.md",
+      "title": "GUESS THE SECRET PRO Part 2! \"Jaedong\" vs \"BoxeR\" | Hidden Name Tournament 2 - StarCraft 2",
+      "excerpt": "WHO ARE THEY? In this Hidden Name Tournament, we have 4 StarCraft pro players competing against each other but they don't know who their opponents are. In Part 2, \"Jaedong\" plays against \"BoxeR\" in a best of 5 series. The winning player will then guess who the losing player was for bonus prize money.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-guess-the-secret-pro-part-2-jaedong-vs-boxer-hidden-name-tournament-2-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-guess-the-secret-pro-part-2-jaedong-vs-boxer-hidden-name-tournament-2-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=9zGFuUiwxl4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9zGFuUiwxl4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M54S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
-        "StarCraft 2",
-        "Terran"
+        "StarCraft 2"
       ],
       "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/AAPf5oIfWZU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9zGFuUiwxl4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -901,7 +909,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-02-26T01:40:08-08:00"
+      "publishedDateTime": "2023-03-15T00:48:33-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",

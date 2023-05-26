@@ -51,7 +51,7 @@
             "Terran",
             "Zerg"
           ],
-          "heat": 64,
+          "heat": 62,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/QSw5xtKKe0Y/maxresdefault.jpg",
@@ -128,7 +128,7 @@
             "Terran",
             "Protoss"
           ],
-          "heat": 69,
+          "heat": 71,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/khCRMkX2zHI/maxresdefault.jpg",
@@ -167,7 +167,7 @@
             "Protoss",
             "Zerg"
           ],
-          "heat": 55,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/wqxNTHqaLeI/maxresdefault.jpg",
@@ -182,7 +182,7 @@
         }
       ],
       "size": 38,
-      "heat": 76,
+      "heat": 74,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/QSw5xtKKe0Y/maxresdefault.jpg",
@@ -225,7 +225,7 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 54,
+          "heat": 55,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/7hGsrlWElnU/hqdefault.jpg",
@@ -255,7 +255,7 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/zwQ1vCzSljQ/hqdefault.jpg",
@@ -285,7 +285,7 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/fuBljqCclWU/maxresdefault.jpg",
@@ -374,7 +374,7 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 54,
+          "heat": 55,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/7hGsrlWElnU/hqdefault.jpg",
@@ -404,7 +404,7 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/zwQ1vCzSljQ/hqdefault.jpg",
@@ -434,7 +434,7 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/fuBljqCclWU/maxresdefault.jpg",

@@ -4,39 +4,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_games/pig-call-the-militia-the-king-of-cannons-8-9-starcraft-2.md",
-      "title": "Call the militia! | The King of Cannons #8 & #9 - StarCraft 2",
-      "excerpt": "The King of Cannons! Be sure to follow him on: Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-call-the-militia-the-king-of-cannons-8-9-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-call-the-militia-the-king-of-cannons-8-9-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=O3PCLVhs3bU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O3PCLVhs3bU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "tags": [
-        "Cheese"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/O3PCLVhs3bU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-14T23:27:54-07:00"
-    },
-    {
       "path": "_games/pig-everyone-sentry-buff-is-useless-astrea-hold-my-beer.md",
       "title": "Everyone: Sentry buff is USELESS! Astrea: Hold my beer.",
       "excerpt": "Imagine if mass sentries becomes the meta in PvT... love watching Astrea's creative plays -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support",
@@ -906,6 +873,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-29T09:00:16-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-how-not-to-use-thors-florencio-files-230.md",
+      "title": "StarCraft 2 - HOW NOT TO USE THORS | Florencio Files #230",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-how-not-to-use-thors-florencio-files-230/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-how-not-to-use-thors-florencio-files-230/",
+      "originalUrl": "https://youtube.com/watch?v=v_1asbwEOk4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v_1asbwEOk4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M44S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/v_1asbwEOk4/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-07T00:21:36-07:00"
     }
   ],
   "nextPage": 16

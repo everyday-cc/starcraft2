@@ -4,6 +4,35 @@
   "page": 66,
   "value": [
     {
+      "path": "_games/pig-is-beating-1v7-insane-ai-even-possible-1-starcraft-2.md",
+      "title": "Is beating 1v7 INSANE AI even possible? #1 - StarCraft 2",
+      "excerpt": "I have challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! Serral has said it is impossible unless maybe they're all Zergs. The first person brave enough to try it is Spirit (Soul), a Terran player. He takes on 7 Random insane AIs all on Any Build. Then he tried 7 Zergs. Then",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-is-beating-1v7-insane-ai-even-possible-1-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-is-beating-1v7-insane-ai-even-possible-1-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=CcFX72zESgU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CcFX72zESgU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M27S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CcFX72zESgU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-10T16:30:09-07:00"
+    },
+    {
       "path": "_games/pig-is-this-feardragon-offshore-accounts-icyfar-g4.md",
       "title": "IS THIS FEARDRAGON!? | Offshore Accounts ICYFAR G4",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to use hidden bases as much as possible!   ICYFAR will be on Hiatus for about 2 weeks whilst PiG is casting IEM Katowice - I'll announce a new topic as soon as I return around March 4th!",
@@ -863,35 +892,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-09-30T22:04:11-07:00"
-    },
-    {
-      "path": "_games/pig-lurkers-vs-dts-eonblu-vs-llllll-icyfar-2.md",
-      "title": "Lurkers vs DTs! Eonblu vs llllll | ICYFAR #2",
-      "excerpt": "I cast your freakin awesome replay #2 -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-lurkers-vs-dts-eonblu-vs-llllll-icyfar-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-lurkers-vs-dts-eonblu-vs-llllll-icyfar-2/",
-      "originalUrl": "https://youtube.com/watch?v=oAfYSsDyFGg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oAfYSsDyFGg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M22S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oAfYSsDyFGg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
     }
   ],
   "nextPage": 67

@@ -4,6 +4,37 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-aggressive-opening-adept-oracle-2021-build-order-guide.md",
+      "title": "Starcraft 2: Protoss vs Protoss | Aggressive Opening! Adept-Oracle [2021 Build Order Guide]",
+      "excerpt": "Starcraft 2: Protoss vs Protoss guide/tutorial. Today we're learning an aggressive pvp opening with 8 adepts + 2 oracles. It hits like a tank and there's pretty much no way for your opponent to defend any damage. The question is more so \"how much damage\" can you do?  Protoss vs Protoss | Aggressive Opening!",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-aggressive-opening-adept-oracle-2021-build-order-guide/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-aggressive-opening-adept-oracle-2021-build-order-guide/",
+      "originalUrl": "https://youtube.com/watch?v=yfRfWt7eUlg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yfRfWt7eUlg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M13S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-01-13T13:57:23-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yfRfWt7eUlg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-macro-game-sc2.md",
       "title": "Starcraft 2: Protoss vs Protoss Macro Game [SC2]",
       "excerpt": "Protoss vs Protoss. In today's Starcraft 2 video I talk you through my thoughts as I play a macro protoss vs protoss game vs Vibe's offrace  Starcraft 2: Protoss vs Protoss Macro Game #ProtossVsProtoss  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
@@ -1038,37 +1069,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/RMgCZuJ7HMc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-battle-skytoss-pvz-coaching-d3.md",
-      "title": "Battle Skytoss PvZ! |Coaching D3",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-battle-skytoss-pvz-coaching-d3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-battle-skytoss-pvz-coaching-d3/",
-      "originalUrl": "https://youtube.com/watch?v=Bea0Ejc2I14",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bea0Ejc2I14\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H12M21S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-02-11T09:00:10-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Bea0Ejc2I14/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

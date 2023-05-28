@@ -4,6 +4,37 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-another-zerg-progamer-can-i-survive-their-all-in-starcraft-2.md",
+      "title": "Another ZERG PROGAMER... Can I survive their all in? [Starcraft 2]",
+      "excerpt": "Today we are looking at a game I played on ladder vs CHAM, one of the stronger players in Latin America. I'm trying this new void ray style vs zerg and it's REALLY strong. Imba?  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-another-zerg-progamer-can-i-survive-their-all-in-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-another-zerg-progamer-can-i-survive-their-all-in-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=S0aStr5dYqY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S0aStr5dYqY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M4S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-11-29T17:36:18-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/S0aStr5dYqY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-build-order-guide-double-stargate-phoenix-starcraft-2.md",
       "title": "Build Order Guide | Double Stargate Phoenix [Starcraft 2]",
       "excerpt": "Super strong, defensive protoss vs zerg (pvz) build order guide. This opening is going to give you incredible map control over zerg in the mid-game, letting you scout exactly what is coming your way and making it easy to feel in control of the game. This build also completely owns mutalisk transitions",
@@ -900,37 +931,6 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-take-control-of-the-mid-game-tvz-3-rax-transition-guide-terran.md",
-      "title": "Mastering Starcraft 2: Take control of the Mid-Game TvZ [3 Rax Transition Guide] [Terran]",
-      "excerpt": "In this Terran guide, I'm going to show you an incredibly powerful timing attack to show Zergs who's the real nerd in town. Let's get to it!   #terran #Starcraft #Guide #sc2 #starcraft2  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-take-control-of-the-mid-game-tvz-3-rax-transition-guide-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-take-control-of-the-mid-game-tvz-3-rax-transition-guide-terran/",
-      "originalUrl": "https://youtube.com/watch?v=QkyNGd-2E0o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QkyNGd-2E0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M29S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-12T19:38:57-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QkyNGd-2E0o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
       ]
     }
   ],

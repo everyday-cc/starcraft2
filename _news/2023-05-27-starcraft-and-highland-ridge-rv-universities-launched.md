@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Maximizing Your Gains with Proven Tips and Tricks for Kenyan Starcraft Bettors"
+    excerpt: "Image: Unsplash The world of esports has grown significantly in Kenya over the past few years, and one of the most popular titles within this space is"
+    publishedDateTime: 2023-05-31T21:15:00Z
+    webUrl: "https://malawi24.com/2023/05/31/maximizing-your-gains-with-proven-tips-and-tricks-for-kenyan-starcraft-bettors/"
+    type: article
+    provider:
+      name: Malawi24
+      domain: malawi24.com
+    quality: 33
+    images:
+      - url: "https://malawi24.com/wp-content/uploads/2023/05/image-1-1024x683.png"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "2023 Starcraft MVX Surf"
     excerpt: "Join Garrett Cortese aboard the Starcraft MVX Surf. Enjoy all of the water sports action such as wakeboarding, wake surfing, foiling and tubing, along with a killer layout with plenty of room for lounging. Starcraft has combined their knowledge of ..."
     publishedDateTime: 2023-05-26T13:02:00Z

@@ -32,6 +32,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Maximizing Your Gains with Proven Tips and Tricks for Kenyan Starcraft Bettors"
+    excerpt: "Image: Unsplash The world of esports has grown significantly in Kenya over the past few years, and one of the most popular titles within this space is"
+    publishedDateTime: 2023-05-31T21:15:00Z
+    webUrl: "https://malawi24.com/2023/05/31/maximizing-your-gains-with-proven-tips-and-tricks-for-kenyan-starcraft-bettors/"
+    type: article
+    provider:
+      name: Malawi24
+      domain: malawi24.com
+    quality: 33
+    images:
+      - url: "https://malawi24.com/wp-content/uploads/2023/05/image-1-1024x683.png"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "XMdqa5n6RrpEu6M85WNVThqXFGyX8PkqJbDXMW8/1wcQnskdhX5rvdAwVBVG1qHx6jYCGRhrVsQPkBbjwS/4SwQyPVUNMXThxq+hr+clUM5MkFJYCLeel5OyJvC6a6JgQSd74yPtXMWG31wZDFk8t8/t8wAeei2FS3W+uOiCkui5WhVDgYNH0JFYQvfvb7cxu3vmSUugSj1RGiI8PlzzlgPZQXxikd25n/0Dfz4HXo4nMT+Yvx0kzDjpiq+Qh/PnKESZRunsNROz4WmS6sy89wdhTIJxaNkoj4gtO1R7FIVWryuSQm0Y1Ofo2nnxQbXiQAIl9fSvRTtTNgXA7zZMJHTNlsya6krQReAwsQw0fE8=;jw0G1+9t35fHEqfJ5+Psgw=="
 ---

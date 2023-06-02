@@ -289,7 +289,8 @@ items:
   - pig-squatting-protoss-refuses-to-leave-terran-premises-florencio-files-278-starcraft-2
   - pig-the-silliest-planetary-fortress-rush-ever-florencio-files-279-starcraft-2
   - pig-the-sewer-mermaid-slips-behind-enemy-lines-florencio-files-280-starcraft-2
-  - pig-flos-genius-hallucination-trick-florencio-files-281-starcraft-2
+  - pig-420-iq-hallucination-trick-fools-protoss-florencio-files-281-starcraft-2
+  - pig-the-depot-strategy-to-break-zerg-brains-florencio-files-282-starcraft-2
 
 topics:
   - StarCraft 2

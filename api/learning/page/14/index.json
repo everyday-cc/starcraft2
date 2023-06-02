@@ -4,98 +4,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_learning/videos/pig-defending-cannon-rushes-zvp-coaching-d1.md",
-      "title": "Defending Cannon Rushes - ZvP - Coaching D1",
-      "excerpt": "I coach a diamond 1 zerg struggling against cannon rushes -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-defending-cannon-rushes-zvp-coaching-d1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-defending-cannon-rushes-zvp-coaching-d1/",
-      "originalUrl": "https://youtube.com/watch?v=tv6DshZoiKw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tv6DshZoiKw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M25S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:44:33-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tv6DshZoiKw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-defending-cyclones1-base-pvt-coaching.md",
-      "title": "Defending Cyclones/1-base PvT - Coaching",
-      "excerpt": "I coach a gold protoss on defending 1-base builds as well as his macro play -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-defending-cyclones1-base-pvt-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-defending-cyclones1-base-pvt-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=0cTz7sBNqUg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0cTz7sBNqUg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H4M43S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:42:45-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0cTz7sBNqUg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-defending-early-pools-with-pool-first-zvz-coaching.md",
-      "title": "Defending Early Pools with Pool First - ZvZ Coaching",
-      "excerpt": "I coach my diamond zerg student on how to defend early pools in ZvZ with a pool-first opening -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-defending-early-pools-with-pool-first-zvz-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-defending-early-pools-with-pool-first-zvz-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=bduNr3LSz-c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bduNr3LSz-c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT57M",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:44:06-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bduNr3LSz-c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-defending-hellbats-and-vsing-mech-coaching-zvt-diamond-1.md",
       "title": "Defending Hellbats and vsing Mech - Coaching ZvT Diamond 1",
       "excerpt": "I coach a diamond 1 Zerg on improving vs hellbat pressures and in general vs Terran mech -- Watch live at https://www.twitch.tv/x5_pig",
@@ -907,6 +815,97 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Cy2HnFwmyXY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-hellion-banshee-opening-tvp-d2-coaching.md",
+      "title": "Hellion-Banshee Opening TvP | D2 Coaching!",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-hellion-banshee-opening-tvp-d2-coaching/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-hellion-banshee-opening-tvp-d2-coaching/",
+      "originalUrl": "https://youtube.com/watch?v=KCDGAfW-hQA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KCDGAfW-hQA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H11M35S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-01-23T09:00:15-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KCDGAfW-hQA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-helping-young-cerebrate-to-grow-strong-zvp-coaching-.md",
+      "title": "Helping young Cerebrate to grow strong! - ZvP Coaching !",
+      "excerpt": "What do you mean that there are no cerebrates anymore!?   -- Watch live at https://www.twitch.tv/x5_pig My NEW HP: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to my Discord: https://discordapp.com/invite/SkhbzCM",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-helping-young-cerebrate-to-grow-strong-zvp-coaching-/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-helping-young-cerebrate-to-grow-strong-zvp-coaching-/",
+      "originalUrl": "https://youtube.com/watch?v=w3F3E7E241Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/w3F3E7E241Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H8M18S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-02-18T09:00:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/w3F3E7E241Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-how-do-i-beat-cannons-into-skytoss-pvp-analysis-newbie-stream.md",
+      "title": "“How do I beat Cannons into Skytoss?” PvP Analysis - Newbie Stream",
+      "excerpt": "This is a highlight from my newbie/beginner stream where I analyse a protoss players’ replay who struggles to react to a mass cannon skytoss opponent -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-how-do-i-beat-cannons-into-skytoss-pvp-analysis-newbie-stream/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-how-do-i-beat-cannons-into-skytoss-pvp-analysis-newbie-stream/",
+      "originalUrl": "https://youtube.com/watch?v=ZB24PqSgq1o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZB24PqSgq1o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M12S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:06-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZB24PqSgq1o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

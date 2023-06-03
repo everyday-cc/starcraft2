@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=-HaQ_9HnPkw
 type: video
 length: PT2M30S
 publishedDateTime: 2020-06-27T12:37:31Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-HaQ_9HnPkw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "PxuV+J/7KCfzwczF7D63vAoh81c0nzPC6w5lDDieqD6RwVy58kixGPirWmBJ4eqyfySHOxgHmTXWtRukPHTZI601gipgS9YsvqJL6bDJrWfsQ77jft5ESulOdf1KulT9hMcNQQ1rMORezsIag178NyL1F8wKT0wW6+H5pdBaZQtPqiJefplvayK7sx5QbDxhyEGJeP5Qae+Q/NOuZNcmLoBHPedaosJEVbpT6mDF8uZ5ISkZCvTprGo5kfzBrPNposifmSnLcW2t64eLZpUMDUU9rw6C8Lm3HCbkVrq+GwhT4OP0pjg6XWmVn7tAcdYiFLHD56/Wi8Uy6bAUA20bq8J4mAC8l8GhUad7IBiLq4DXchnv+RdDMLZrwUXZIqlJI4lNKMlki3mJsw3vF4ho263f2PH+Byp2ZpysaWJIZ5g=;1T61goppp7IbfywvidHNEg=="
+secured: "BMX/I4x6+wOxHbUegJwIqfAUcI81b4vM5tutKLwRmw53sgdmh4sMdpt0LwdqLYoveToQEWps72vaRRx4OLbC6IiiMAyuVgnzXwrSgCejx2XUfAQMTnqoMF0aYmMoiiSH36kVG2mo5j2TAnDdo2tExjinA3KXeT1JcZCKZ5/6yC12qPCWDv2JWnew/j0VhIO3Vt5+/X2s++M9rgu6zYP/2Vyx0AXNlSRGmMfHYR/Buoz7eYUIvXgJ3FwrZrixj93Qkq9G/0T0Q5PmCMNeEfe1yzmCo3DdZnxZ9MHRd+NWmee72ox5s3C9BTRtfEJWI303EMdKcKLci2r/eYIWmeokM65cyZcdm+0onytfBChxQjCnIH7XeM8HSeXBtYz44XdQlso7BB1DGIj3sP4xZaZ7QyeidsS8wtORIx13bODbMDs=;JuSRmrdpGTI2c/y7WNMw8w=="
 ---
 

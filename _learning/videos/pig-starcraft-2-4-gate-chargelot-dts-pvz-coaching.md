@@ -4,7 +4,7 @@ excerpt: "Bunch of scheduling/lobby stuff i cut from this vid, hope you like the
 originalUrl: https://youtube.com/watch?v=YCvMROEJTL4
 type: video
 price: Free
-length: PT1H40S
+length: PT56M43S
 publishedDateTime: 2019-02-20T00:46:37Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5Zq9mnAg2WOvudIbO1dJhqFG/FfnOfiUtQt9ZpCCqb232JfX2PBMuYyxvuvMgOpSTQPfzQ3XEcGyv872LTE61Bwqul/0wyV5ARd4wEYLC5yhQUYvMZu/bnuFVv64en9EmU+yA0NLEwq/8McjgTst1XYivnV2u1xT8VoVE/xZMlbHPuYv9KsQ672WPL8V4yKBqdOC2kYKKcfDoWpgb2FTIUQGI7ClkFFC0ySw43Ys37Yb4AH+2t68csvz2tEAqDJorKhEfZBuvoIVv6ticGhDvkdBpAmUHwwJYXYk9DMhBp/Iq8ro/AFVxhUqLEQlowS52iAAuZkTNfx6EVbNp0i1K5/SSz5Qrv+ijeSCHxdKaSwFQ83aL+XZgC9fOmAB490nvnnRO8Vrk8tEV2CrHSXnqPX6vgJR8lFICZ3EF32HI8o=;VjnjzFWUk/P0kcwM/WmUAQ=="
+secured: "NNgMvqZlLnpv173ZJNeeSP+eDm12kYd/sIZuMH4wCOhCZZMMZjGxBQQE/UVmmfZKArZi1t7ZKGEb/KSIo8I3OBs3k4PCy4O3vaGC0SQEeOcZjAOfvJALNXAU3WB48nOjipm5YAp6BCMJ4ce4gHg3/nQ6LdyfC0FkO/oz9I1b+jlQZuWWkK4mRoOCE3e1NrZV63xewhuakdTJskIY6Z8MQmefp9ww8PdGKXLm3xOHnY5zn9tuQ4owI0k15NAFzFXFmsBOADpu1fg7L+Yyvclxo0ldzpcVVwp+IDUjFvpeEflAC01YaBew6GhF065JccFz0c978GI4ITYr/OyjvlGjHHDzyOsHqURdKTnYxq14gqoxjnIsfVAs9jB2u5yhQ84Wk7gni7XRaNkt6rY2tez7/mnd7WMuN3VuLFxN2wkUN3Q=;XwcY21KlJd6kOF77beAqhA=="
 ---
 

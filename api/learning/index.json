@@ -172,7 +172,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2021-07-29T18:26:51-07:00",
-      "heat": 74,
+      "heat": 75,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Tr1_8C6CjMQ/maxresdefault.jpg",
@@ -214,7 +214,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-07-29T18:26:51-07:00",
-          "heat": 74,
+          "heat": 75,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Tr1_8C6CjMQ/maxresdefault.jpg",
@@ -276,7 +276,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-08-05T22:43:17-07:00",
-          "heat": 55,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/sSHIv0ihLjw/maxresdefault.jpg",
@@ -307,7 +307,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-08-12T02:36:45-07:00",
-          "heat": 55,
+          "heat": 56,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/2Wvw27j3NqA/maxresdefault.jpg",
@@ -1278,7 +1278,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-03-23T00:58:51-07:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/QqdFHEPHCqk/maxresdefault.jpg",
@@ -1864,37 +1864,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023.md",
-      "title": "Standard Terran vs Terran | Build Order Guide (2023)",
-      "excerpt": "Rock Solid Terran vs Terran Build Order that will keep you safe early game & allow you to build a large economy without dieing too easily. It's not the easiest build order, but it's worth learning with how powerful it is in this matchup!  Standard Terran vs Terran | Build Order Guide (2023) #terran",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023/",
-      "originalUrl": "https://youtube.com/watch?v=eaa-Trta5hY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eaa-Trta5hY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M7S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2023-01-09T15:08:45-08:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eaa-Trta5hY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2020.md",
       "title": "Starcraft 2: EASY Beginner Protoss Build Order Tutorial vs Terran [2020]",
       "excerpt": "Very powerful protoss build order vs terran. We begin with observers for scouting, blink for helping to defend terran early pressures and then transition into a formidable colossus/chargelot army which should safely get you to the mid-game phase!  0:00 Intro 0:56 Protoss Build Order vs Terran | Opening",
@@ -1988,6 +1957,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023.md",
+      "title": "Standard Terran vs Terran | Build Order Guide (2023)",
+      "excerpt": "Rock Solid Terran vs Terran Build Order that will keep you safe early game & allow you to build a large economy without dieing too easily. It's not the easiest build order, but it's worth learning with how powerful it is in this matchup!  Standard Terran vs Terran | Build Order Guide (2023) #terran",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023/",
+      "originalUrl": "https://youtube.com/watch?v=eaa-Trta5hY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eaa-Trta5hY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M7S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2023-01-09T15:08:45-08:00",
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eaa-Trta5hY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-terran-vs-terrantvt-build-order-guide-easy-safe-starcraft-2-2020.md",
       "title": "Terran vs Terran(TvT) Build Order Guide - EASY & SAFE [Starcraft 2 2020]",
       "excerpt": "In today's guide/lesson we're looking at how to execute a terran vs terran (tvt) build order. Was supposed to be just the opening but I got a little carried away so you're getting 19 minutes of raw TvT information. Get out your notepads ;)  #BuildOrder #TerranVsTerran #TvT Terran vs Terran(TvT) Build",
@@ -2050,61 +2050,54 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-hotkey-control-groups-everything-you-need-to-know.md",
-      "title": "StarCraft 2: Hotkey & Control Groups - Everything You Need To Know!",
-      "excerpt": "Recommended hotkeys and control groups in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 tutorials: https://goo.gl/IKl51P  In this video I cover everything that has to do with hotkeys and control groups in StarCraft 2.   Keyboard is the Filco Majestouch 2 with brown",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-hotkey-control-groups-everything-you-need-to-know/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-hotkey-control-groups-everything-you-need-to-know/",
-      "originalUrl": "https://youtube.com/watch?v=dBlNRfFkPdk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dBlNRfFkPdk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M58S",
+      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-5-diamond-3-b2gm.md",
+      "title": "StarCraft 2 - Zerg Bronze to GM #5: Diamond 3 (B2GM)",
+      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 New Diamond build order + other things to focus on 6:15 Start playing the Rewind Game to improve your play 7:04 GAME 1 vs TERRAN 14:01 HOW to defend multi-prong attacks 17:05 -- Game 1 Rewind game",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-5-diamond-3-b2gm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-5-diamond-3-b2gm/",
+      "originalUrl": "https://youtube.com/watch?v=VuSIf1amNVM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VuSIf1amNVM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H54M15S",
       "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "PiG",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2016-09-19T13:46:31-07:00",
+      "publishedDateTime": "2021-08-20T16:32:56-07:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VuSIf1amNVM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-4-platinum-league-b2gm.md",
+      "title": "StarCraft 2 - Zerg Bronze to GM #4: Platinum League (B2GM)",
+      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 GAME 1 -- Practice build order along with PiG 13:55 How to check if someone is Searching for Game? 14:30 GAME 2 -- Practice build order along with PiG 28:20 REVIEW: Gold + Plat things to learn 46:53",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-4-platinum-league-b2gm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-4-platinum-league-b2gm/",
+      "originalUrl": "https://youtube.com/watch?v=2Wvw27j3NqA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2Wvw27j3NqA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H28M21S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-08-12T02:36:45-07:00",
       "heat": 56,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/dBlNRfFkPdk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-macro-game.md",
-      "title": "Starcraft 2: Protoss vs Protoss Macro Game",
-      "excerpt": "In today's Starcraft 2 video I talk you through my thoughts as I play a macro protoss vs protoss game vs Vibe's offrace  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website!",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-macro-game/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-macro-game/",
-      "originalUrl": "https://youtube.com/watch?v=gj0bdIiDF70",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gj0bdIiDF70\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M36S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-10-26T18:53:02-07:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gj0bdIiDF70/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2Wvw27j3NqA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -2115,27 +2108,27 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Zerg"
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021.md",
-      "title": "Starcraft 2: Terran vs Protoss Gameplay with Commentary [2021]",
-      "excerpt": "In today's video we're looking at some Starcraft 2: Terran vs Protoss gameplay. We'll be covering TvP all week. Let's get to it!  0:00 - Intro/Cinematic 1:12 - SC2 Terran Gameplay  19:00 - Like/Share/Subscribe!  #terran #gameplay #Starcraft2 #ladder #commentary Starcraft 2: Terran vs Protoss Gameplay",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021/",
-      "originalUrl": "https://youtube.com/watch?v=YS3zcgrN5IE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YS3zcgrN5IE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M56S",
+      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-8-aggressive-builds-in-masters-3-b2gm.md",
+      "title": "StarCraft 2 - Zerg Bronze to GM #8: Aggressive Builds in Masters 3 (B2GM)",
+      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 Masters 3 Plan 5:48 Game 1 vs Terran 19:43 Game 2 vs Terran 35:42 Game 3 vs Terran 49:40 Game 4 vs Zerg 52:13 Game 5 vs Terran 1:05:07 Game 6 vs Terran 1:14:05 Viewer questions 1:24:57 Game 7 vs",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-8-aggressive-builds-in-masters-3-b2gm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-8-aggressive-builds-in-masters-3-b2gm/",
+      "originalUrl": "https://youtube.com/watch?v=rCpmMe0iDPY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rCpmMe0iDPY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3H41M10S",
       "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
+        "name": "PiG",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-01-15T18:18:51-08:00",
-      "heat": 55,
+      "publishedDateTime": "2021-09-11T03:11:47-07:00",
+      "heat": 56,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/YS3zcgrN5IE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/rCpmMe0iDPY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -2146,7 +2139,7 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Zerg"
       ]
     }
   ],

@@ -268,43 +268,6 @@
       "publishedDateTime": "2017-03-18T09:26:39-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-double-gold-rush-new-base-race-map-royal-blood.md",
-      "title": "StarCraft 2: DOUBLE GOLD RUSH - New Base Race Map?! (Royal Blood)",
-      "excerpt": "In this video I cast several games of StarCraft 2 on a new map called Royal Blood. This map placed 4th overall at the TLMC 17. Despite a short rush distance, this map provides a lot of safety early on by restricting movement of armies and allowing players to expand away from the main attack path. Bases",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-double-gold-rush-new-base-race-map-royal-blood/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-double-gold-rush-new-base-race-map-royal-blood/",
-      "originalUrl": "https://youtube.com/watch?v=3UO6ARLM5mo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3UO6ARLM5mo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M49S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3UO6ARLM5mo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-08T00:07:46-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-doubling-their-odds.md",
       "title": "StarCraft 2: DOUBLING Their Odds!",
       "excerpt": "Doubling their odds of getting casted. I mean, it's smart. Subscribe for more videos: http://lowko.tv/youtube Spine Crawlers vs Photon Cannons: https://goo.gl/xmBPYW  A back and forth Gold League Protoss vs Zerg. In this Protoss decides to cheese his opponent, but he quickly finds out that the build",
@@ -1139,6 +1102,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-02-24T03:52:17-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-epic-long-pro-game.md",
+      "title": "StarCraft 2: EPIC LONG PRO GAME!",
+      "excerpt": "Harstem vs Bly in an incredible game of Zerg vs Protoss. Subscribe for more videos: http://lowko.tv/youtube Solar vs INnoVation: https://goo.gl/gVzpyJ  Easily one of my favourite games of high level gameplay. Nearly 40 minutes of Zerg vs Protoss epicness. Lots of mini-games inside the games. Pretty much",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-long-pro-game/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-long-pro-game/",
+      "originalUrl": "https://youtube.com/watch?v=AmShuweObYk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AmShuweObYk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M53S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AmShuweObYk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-06-30T03:54:26-07:00"
     }
   ],
   "nextPage": 34

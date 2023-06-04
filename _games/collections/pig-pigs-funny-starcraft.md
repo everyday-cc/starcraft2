@@ -1026,6 +1026,7 @@ items:
   - pig-cannon-rusher-meets-1-base-nydus-swarmhosts-king-of-cannons-25-starcraft-2
   - pig-zergs-sick-burrowed-banelings-breaks-terrans-brain-pig-vs-catz-starcraft-2
   - pig-the-depot-strategy-to-break-zerg-brains-florencio-files-282-starcraft-2
+  - pig-bm-protoss-gets-instant-karma-salt-mines-36-starcraft-2
   - pig-he-bet-i-couldnt-win-while-doing-pushups-every-90-seconds-challenge-pig-starcraft-2
   - pig-cheeser-gets-mad-that-doom-drops-dont-autowin-games-icyfar-weird-harassment-starcraft-2
 

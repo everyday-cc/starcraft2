@@ -1029,6 +1029,7 @@ items:
   - pig-bm-protoss-gets-instant-karma-salt-mines-36-starcraft-2
   - pig-he-bet-i-couldnt-win-while-doing-pushups-every-90-seconds-challenge-pig-starcraft-2
   - pig-cheeser-gets-mad-that-doom-drops-dont-autowin-games-icyfar-weird-harassment-starcraft-2
+  - pig-spine-crawler-ling-rush-hour-the-sex-panther-build-starcraft-2
 
 topics:
   - StarCraft 2

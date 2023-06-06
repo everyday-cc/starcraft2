@@ -546,98 +546,6 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-beginner-terran-opening-welcome-to-starcraft.md",
-      "title": "Beginner Terran Opening  - Welcome to Starcraft",
-      "excerpt": "Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g   Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-beginner-terran-opening-welcome-to-starcraft/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-beginner-terran-opening-welcome-to-starcraft/",
-      "originalUrl": "https://youtube.com/watch?v=rYgH0So1tIg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rYgH0So1tIg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M55S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-04-14T14:39:54-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rYgH0So1tIg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft.md",
-      "title": "Beginner Zerg Opening - Welcome to Starcraft",
-      "excerpt": "Sorry for the delay Guys, here's your \"last video\"!    Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos dont appear in your feed and you want to get notified",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft/",
-      "originalUrl": "https://youtube.com/watch?v=LQiqiMcbpGA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LQiqiMcbpGA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M14S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-04-29T00:51:40-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LQiqiMcbpGA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-micro-tips-and-techniques-welcome-to-starcraft.md",
-      "title": "Micro Tips and Techniques - Welcome to Starcraft",
-      "excerpt": "*Since this video has been recorded, cyclones once again have been changed to a previous version so the tip at 3:25 no longer applies to cyclones.  Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-micro-tips-and-techniques-welcome-to-starcraft/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-micro-tips-and-techniques-welcome-to-starcraft/",
-      "originalUrl": "https://youtube.com/watch?v=DCixkv75UzQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DCixkv75UzQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M19S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-04-14T14:39:13-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DCixkv75UzQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-starcraft-2-beginner-basics-hopping-into-1v1-for-the-first-time-the-pig-daily-16.md",
       "title": "StarCraft 2 - Beginner basics - Hopping into 1v1 for the first time | The PiG Daily #16",
       "excerpt": "Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb\r See the Show notes and more info + ongoing discussion of the show in the Teamliquid thread: http://www.teamliquid.net/forum/starcraft-2/509383-the-pig-daily-thinking-critically-about-sc\r  -- Watch live",
@@ -963,6 +871,100 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/MBVsKerZQuI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-008-applying-pressure.md",
+      "title": "Starcraft 2 Newbie Guide - 008 - Applying Pressure",
+      "excerpt": "Constantly scout your opponent, and don't be afraid to apply pressure.  By keeping your opponent pinned, you create opportunities to get further ahead.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ  Other places to find my stuff: Twitter:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-008-applying-pressure/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-008-applying-pressure/",
+      "originalUrl": "https://youtube.com/watch?v=vBbZVqG1q1o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vBbZVqG1q1o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M5S",
+      "provider": {
+        "name": "davidangel64",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2015-12-05T19:30:13-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vBbZVqG1q1o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-009-protoss-gameplay.md",
+      "title": "Starcraft 2 Newbie Guide - 009 - Protoss Gameplay",
+      "excerpt": "An overview of Protoss gameplay to help newer, interested players get a good view of all three races, and to help round out the guide.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ  Other places to find my stuff: Twitter: http://twitter.com/davidangel64",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-009-protoss-gameplay/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-009-protoss-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=YYLph9dGJ-Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YYLph9dGJ-Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M54S",
+      "provider": {
+        "name": "davidangel64",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2015-12-06T17:00:14-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YYLph9dGJ-Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-010-losing.md",
+      "title": "Starcraft 2 Newbie Guide - 010 - Losing",
+      "excerpt": "Starcraft is a competitive game.  You're going to win some, you're going to lose some.  When you win a game, you feel good, and that's awesome.  But how do you react to losing a game?  How you react to losing in a competitive game like Starcraft 2 is an important consideration.  The biggest concept is",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-010-losing/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-010-losing/",
+      "originalUrl": "https://youtube.com/watch?v=05TeCuG68GI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/05TeCuG68GI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M55S",
+      "provider": {
+        "name": "davidangel64",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2015-12-07T17:00:10-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/05TeCuG68GI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

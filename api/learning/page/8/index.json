@@ -4,124 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-easy-zerg-versus-terran-build-order-explained.md",
-      "title": "StarCraft 2: EASY Zerg versus Terran Build Order EXPLAINED!",
-      "excerpt": "This is a Zerg versus Terran build order for Zerg players in StarCraft 2: Heart of the Swarm.  Instead of focusing on Zergling Baneling Mutalisk, this build focuses more on Roaches in the early and middle part of the game while transitioning into Ultralisks in the late part of the game. All the while",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-zerg-versus-terran-build-order-explained/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-easy-zerg-versus-terran-build-order-explained/",
-      "originalUrl": "https://youtube.com/watch?v=ZOMj6X5_eHw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZOMj6X5_eHw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M3S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2014-05-11T12:57:09-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZOMj6X5_eHw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in.md",
-      "title": "StarCraft 2: EASY Zerg vs Terran All-In!",
-      "excerpt": "Easy Zerg build order for the Zerg vs Terran matchup in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Serral's Zerg vs Terran Roach push: https://goo.gl/8A8pSd  This is a much easier build order to execute in Zerg vs Terran. While it is easier and hits much earlier, it is also much",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in/",
-      "originalUrl": "https://youtube.com/watch?v=Te-EQdku9PI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Te-EQdku9PI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-11-30T04:59:22-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Te-EQdku9PI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-finally-7-new-1v1-maps-first-impressions.md",
-      "title": "StarCraft 2: FINALLY - 7 New 1v1 Maps! (First Impressions)",
-      "excerpt": "My initial impressions of the brand new StarCraft 2 maps. While it has always been the norm to replace a few of the maps every new StarCraft 2 season, this time around ESL and Blizzard decided to refresh all seven maps in the map pool all at once. This means that soon all professional games of SC2 and",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-finally-7-new-1v1-maps-first-impressions/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-finally-7-new-1v1-maps-first-impressions/",
-      "originalUrl": "https://youtube.com/watch?v=gkTGG3YFJRQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gkTGG3YFJRQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M10S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-06-22T02:31:11-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gkTGG3YFJRQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/lowkotv-starcraft-2-finally-new-maps-but-are-they-any-good.md",
       "title": "StarCraft 2: FINALLY New Maps - But Are They Any Good?",
       "excerpt": "New ladder maps are finally available for StarCraft 2. In this video I give my initial impressions on Berlingrad LE, Curious Minds LE, Glittering Ashes LE, Hardwire LE and Pride of Altaris LE.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -1159,6 +1041,120 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/73HPvsR1QD8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-massive-balance-changes.md",
+      "title": "StarCraft 2: MASSIVE Balance Changes!",
+      "excerpt": "Massive balance changes were announced for StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Patch notes: https://goo.gl/64DKjp  In order to keep the game fresh, massive balance changes have been announced for StarCraft 2. In this video I read out all of the patch notes where the latest",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-massive-balance-changes/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-massive-balance-changes/",
+      "originalUrl": "https://youtube.com/watch?v=Zlq7u_qVXRc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zlq7u_qVXRc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT48M5S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-08-18T02:21:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Zlq7u_qVXRc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-new-major-patch-campaign-multiplayer-co-op-and-editor-changes.md",
+      "title": "StarCraft 2: NEW MAJOR PATCH - Campaign, Multiplayer, Co-op and Editor Changes!",
+      "excerpt": "The StarCraft 2 5.0 patch has been announced. In this video I go over the changes and improvements they are planning to make to the campaign, multiplayer, co-op and editor in SC2.   Blog posts: https://news.blizzard.com/en-us/starcraft2/23482888/starcraft-ii-5-0-ptr-patch-notes https://news.blizzard.com/en-us/starcraft2/23471116/starcraft-ii-4-13-0-ptr-patch-notes",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-new-major-patch-campaign-multiplayer-co-op-and-editor-changes/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-new-major-patch-campaign-multiplayer-co-op-and-editor-changes/",
+      "originalUrl": "https://youtube.com/watch?v=7JA5ObNF7_Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7JA5ObNF7_Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-07-23T02:57:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7JA5ObNF7_Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-new-map-features-purple-gas-slowing-fields-mineral-paths.md",
+      "title": "StarCraft 2: NEW MAP FEATURES - Purple Gas, Slowing Fields & Mineral Paths!",
+      "excerpt": "High Yield Vespene Geysers, Inhibitor Slow Generators and Reduced Mineral Fields. Lots of new features in the next StarCraft 2 map pool! Subscribe for more videos: http://lowko.tv/youtube  New StarCraft 2 maps: https://starcraft2.com/en-us/news/22938943  Check out Lowko merchandise: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-new-map-features-purple-gas-slowing-fields-mineral-paths/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-new-map-features-purple-gas-slowing-fields-mineral-paths/",
+      "originalUrl": "https://youtube.com/watch?v=qOxDEALdW9o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qOxDEALdW9o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M6S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-05-11T01:09:14-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qOxDEALdW9o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

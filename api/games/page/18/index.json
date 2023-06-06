@@ -4,6 +4,35 @@
   "page": 18,
   "value": [
     {
+      "path": "_games/pig-the-dumb-strat-that-broke-my-brain-icyfar-budget-battles-starcraft-2.md",
+      "title": "The dumb strat that BROKE MY BRAIN | ICYFAR \"Budget Battles\" - StarCraft 2",
+      "excerpt": "🤯 NEW ICYFAR CHALLENGE: \"One, Two\" - Always attack two or more locations at once. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 30th March.  🤯 In this month’s episode of I Cast Your Freakin Awesome Replays (ICYFAR)",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-dumb-strat-that-broke-my-brain-icyfar-budget-battles-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-dumb-strat-that-broke-my-brain-icyfar-budget-battles-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=HXdR1j9I_mM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HXdR1j9I_mM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M58S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HXdR1j9I_mM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-01T21:10:06-08:00"
+    },
+    {
       "path": "_games/pig-the-king-channels-is-his-inner-sewer-mermaid-the-king-of-cannons-4-5-6-starcraft-2.md",
       "title": "The King channels is his inner sewer mermaid - The King of Cannons #4, 5 & 6 - StarCraft 2",
       "excerpt": "The King of Cannons! Be sure to follow him on: Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQ...  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to",
@@ -965,39 +994,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-14T05:47:20-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-new-series-hellions-ghosts-liberators-to-grandmaster.md",
-      "title": "*NEW* Series! Hellions, Ghosts & Liberators to Grandmaster!",
-      "excerpt": "NEW series is here, back to some Terran gameplay! Let me know how you guys are liking this one!  Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-new-series-hellions-ghosts-liberators-to-grandmaster/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-new-series-hellions-ghosts-liberators-to-grandmaster/",
-      "originalUrl": "https://youtube.com/watch?v=6XOOIeuFQHM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6XOOIeuFQHM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M14S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6XOOIeuFQHM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-23T04:49:52-07:00"
     }
   ],
   "nextPage": 19

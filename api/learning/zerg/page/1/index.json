@@ -35,6 +35,37 @@
       ]
     },
     {
+      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-1-for-those-new-to-starcraft-and-bronze-league-b2gm.md",
+      "title": "StarCraft 2 - Zerg Bronze to GM #1: For those New to Starcraft and Bronze League (B2GM)",
+      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 Intro 0:54 B2GM guide: https://docs.google.com/document/d/1mq1Ke3yK6bAVaQwuGk7rJeq3cXGmuf4V55_3L7sGDH0/edit?usp=sharing |  Zerg Beginner Opening: https://youtu.be/LQiqiMcbpGA 4:17 Settings | PiG's",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-1-for-those-new-to-starcraft-and-bronze-league-b2gm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-1-for-those-new-to-starcraft-and-bronze-league-b2gm/",
+      "originalUrl": "https://youtube.com/watch?v=Tr1_8C6CjMQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tr1_8C6CjMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H34M56S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-07-29T18:26:51-07:00",
+      "heat": 72,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Tr1_8C6CjMQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/collections/pig-pigs-zerg-b2gm.md",
       "title": "PiG's Zerg B2GM",
       "excerpt": "Welcome to PiG's Starcraft Zerg Bronze to GM series, where I teach you how to play the Zerg race from beginner to grandmaster level",
@@ -59,7 +90,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-07-29T18:26:51-07:00",
-          "heat": 70,
+          "heat": 72,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Tr1_8C6CjMQ/maxresdefault.jpg",
@@ -90,7 +121,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-08-02T23:48:57-07:00",
-          "heat": 60,
+          "heat": 59,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/9af29q6sMg4/maxresdefault.jpg",
@@ -121,7 +152,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-08-05T22:43:17-07:00",
-          "heat": 56,
+          "heat": 57,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/sSHIv0ihLjw/maxresdefault.jpg",
@@ -171,36 +202,6 @@
         }
       ],
       "size": 12,
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Tr1_8C6CjMQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-1-for-those-new-to-starcraft-and-bronze-league-b2gm.md",
-      "title": "StarCraft 2 - Zerg Bronze to GM #1: For those New to Starcraft and Bronze League (B2GM)",
-      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 Intro 0:54 B2GM guide: https://docs.google.com/document/d/1mq1Ke3yK6bAVaQwuGk7rJeq3cXGmuf4V55_3L7sGDH0/edit?usp=sharing |  Zerg Beginner Opening: https://youtu.be/LQiqiMcbpGA 4:17 Settings | PiG's",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-1-for-those-new-to-starcraft-and-bronze-league-b2gm/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-1-for-those-new-to-starcraft-and-bronze-league-b2gm/",
-      "originalUrl": "https://youtube.com/watch?v=Tr1_8C6CjMQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tr1_8C6CjMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H34M56S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-07-29T18:26:51-07:00",
       "heat": 70,
       "images": [
         {
@@ -211,8 +212,7 @@
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "collection",
       "topics": [
         "StarCraft 2",
         "Zerg"
@@ -420,7 +420,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2021-08-02T23:48:57-07:00",
-      "heat": 60,
+      "heat": 59,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/9af29q6sMg4/maxresdefault.jpg",
@@ -451,7 +451,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2021-08-20T16:32:56-07:00",
-      "heat": 60,
+      "heat": 58,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/VuSIf1amNVM/maxresdefault.jpg",
@@ -482,10 +482,41 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2021-09-11T03:11:47-07:00",
-      "heat": 59,
+      "heat": 58,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/rCpmMe0iDPY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-3-gold-league-b2gm.md",
+      "title": "StarCraft 2 - Zerg Bronze to GM #3: Gold League (B2GM)",
+      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 Introducing new things in Gold League 1:36 -- GAME 1: Practice build order along with PiG 12:04 How many control groups do you need in Gold? 13:07 How to be safer in ZvZ 15:57 Having a different",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-3-gold-league-b2gm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-3-gold-league-b2gm/",
+      "originalUrl": "https://youtube.com/watch?v=sSHIv0ihLjw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sSHIv0ihLjw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H23M47S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-08-05T22:43:17-07:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sSHIv0ihLjw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -519,68 +550,6 @@
           "url": "https://i.ytimg.com/vi/2Wvw27j3NqA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-3-gold-league-b2gm.md",
-      "title": "StarCraft 2 - Zerg Bronze to GM #3: Gold League (B2GM)",
-      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 Introducing new things in Gold League 1:36 -- GAME 1: Practice build order along with PiG 12:04 How many control groups do you need in Gold? 13:07 How to be safer in ZvZ 15:57 Having a different",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-3-gold-league-b2gm/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-3-gold-league-b2gm/",
-      "originalUrl": "https://youtube.com/watch?v=sSHIv0ihLjw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sSHIv0ihLjw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H23M47S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-08-05T22:43:17-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sSHIv0ihLjw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-7-2-base-mutas-in-diamond-1-b2gm.md",
-      "title": "StarCraft 2 - Zerg Bronze to GM #7: 2 Base Mutas in Diamond 1 (B2GM)",
-      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 New 2 Base Muta Build 3:29 Game 1 vs Terran 26:22 Game 2 vs Terran 47:55 Game 3 vs Terran 1:24:17 Game 4 vs Protoss 1:55:47 Game 5 vs Terran 2:06:50 Game 6 vs Terran 2:27:46 Game 7 vs Terran 2:47:20",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-7-2-base-mutas-in-diamond-1-b2gm/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-7-2-base-mutas-in-diamond-1-b2gm/",
-      "originalUrl": "https://youtube.com/watch?v=m0wrhOKMnBs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m0wrhOKMnBs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4H30M25S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-09-03T20:58:10-07:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/m0wrhOKMnBs/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],
@@ -717,37 +686,6 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-9-spellcasters-in-masters-2-b2gm.md",
-      "title": "StarCraft 2 - Zerg Bronze to GM #9: Spellcasters in Masters 2 (B2GM)",
-      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 Subscribe to PiG Random for Terran B2GM: https://www.youtube.com/c/PiGRandom 0:36 Masters 2 Spellcasters intro 2:21 Game 1 vs Protoss 22:03 Game 2 vs Protoss (incl. Infestor demo) 35:40 Rapid-fire",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-9-spellcasters-in-masters-2-b2gm/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-9-spellcasters-in-masters-2-b2gm/",
-      "originalUrl": "https://youtube.com/watch?v=wsegMBcUcbM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wsegMBcUcbM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4H41M16S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-09-16T22:06:45-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wsegMBcUcbM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-starcraft-2-gameplay-cheesing-with-zerg.md",
       "title": "Starcraft 2 Gameplay | Cheesing with Zerg",
       "excerpt": "Showcasing some strong cheeses you can add to your own repertoire in some live ladder games with commentary!   Starcraft 2 Gameplay | Cheesing with Zerg #StarCraft2 #gameplay #zerg #cheese  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
@@ -819,6 +757,99 @@
       ]
     },
     {
+      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-10-mid-game-timings-in-masters-1-b2gm.md",
+      "title": "StarCraft 2 - Zerg Bronze to GM #10: Mid-game Timings in Masters 1 (B2GM)",
+      "excerpt": "Sub to @PiG Coaching  for Terran B2GM vids 🐷 Support PiG! https://www.patreon.com/PiGSC2  0:00 Game 1 vs Terran. Goal: Solid openings into reactive timing attacks to win the game 14:39 Game 2 vs Zerg 32:54 Game 3 vs Protoss 38:54 Game 4 vs Protoss 1:02:21 Game 5 vs Protoss 1:19:01 Game 6 vs Zerg 1:38:40",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-10-mid-game-timings-in-masters-1-b2gm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-10-mid-game-timings-in-masters-1-b2gm/",
+      "originalUrl": "https://youtube.com/watch?v=OVj-TCAaspo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OVj-TCAaspo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4H24M58S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-09-23T19:14:25-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OVj-TCAaspo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-7-2-base-mutas-in-diamond-1-b2gm.md",
+      "title": "StarCraft 2 - Zerg Bronze to GM #7: 2 Base Mutas in Diamond 1 (B2GM)",
+      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 New 2 Base Muta Build 3:29 Game 1 vs Terran 26:22 Game 2 vs Terran 47:55 Game 3 vs Terran 1:24:17 Game 4 vs Protoss 1:55:47 Game 5 vs Terran 2:06:50 Game 6 vs Terran 2:27:46 Game 7 vs Terran 2:47:20",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-7-2-base-mutas-in-diamond-1-b2gm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-7-2-base-mutas-in-diamond-1-b2gm/",
+      "originalUrl": "https://youtube.com/watch?v=m0wrhOKMnBs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m0wrhOKMnBs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4H30M25S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-09-03T20:58:10-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/m0wrhOKMnBs/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-beginner-guide-1-updated-2017.md",
+      "title": "Learn to play Starcraft - Zerg Beginner Guide #1 - Updated (2017)",
+      "excerpt": "We go over the basic mechanics of zerg and show the importance of understanding at least some of what your opponent is doing.  This guide is meant for players with an understanding of the objectives of starcraft but without any strong direction or gameplan, especially for each specific race! -- Watch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-beginner-guide-1-updated-2017/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-beginner-guide-1-updated-2017/",
+      "originalUrl": "https://youtube.com/watch?v=UdFTRsXMG7w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UdFTRsXMG7w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M23S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-11-19T09:09:08-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UdFTRsXMG7w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-chill-zerg-gameplay-trying-to-play-aggressively-vs-terran.md",
       "title": "Chill Zerg Gameplay | Trying to play aggressively vs Terran",
       "excerpt": "#ZergVsTerran #Starcraft2 #Gameplay #Commentary In today's video we're doing some chill zerg gameplay and we're going to be playing very aggressively. I'm done taking my beatings as zerg, it's time to take the fight to the terran!  0:00 - Intro/Teaser 0:32 - Zerg Gameplay 11:20 - Like/Subscribe/Share",
@@ -850,23 +881,23 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-zerg-vs-terran-beginner-build-order.md",
-      "title": "Zerg vs Terran | Beginner Build Order",
-      "excerpt": "Zerg vs Terran | Beginner Build Order In this guide I show you a safe & balanced build order to allow you to get into the mid-game on equal footing.  Community discord: https://discord.gg/pPhaEk9  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-vs-terran-beginner-build-order/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-zerg-vs-terran-beginner-build-order/",
-      "originalUrl": "https://youtube.com/watch?v=GV6ojIOaF0U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GV6ojIOaF0U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M4S",
+      "path": "_learning/videos/hushang-tutorials-how-to-defend-cannon-rush-starcraft-2-zerg-guide-2022.md",
+      "title": "How To Defend Cannon Rush | Starcraft 2 Zerg Guide (2022)",
+      "excerpt": "#Starcraft #SC2 #zerg  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-how-to-defend-cannon-rush-starcraft-2-zerg-guide-2022/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-how-to-defend-cannon-rush-starcraft-2-zerg-guide-2022/",
+      "originalUrl": "https://youtube.com/watch?v=9Fsc01NwDoU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9Fsc01NwDoU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M50S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-06-12T21:23:23-07:00",
+      "publishedDateTime": "2022-09-11T13:21:39-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/GV6ojIOaF0U/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9Fsc01NwDoU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -881,31 +912,23 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-how-to-counter-protoss-carriers-as-zerg.md",
-      "title": "StarCraft 2: How-To Counter PROTOSS CARRIERS As Zerg!",
-      "excerpt": "A Zerg tutorial on how to counter Carriers and mass Skytoss play. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 guides: https://goo.gl/CE3Hx5  Ever since the recent balance changes to StarCraft 2's multiplayer, the Zerg versus Protoss match-up has changed. Where as in the past it",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-how-to-counter-protoss-carriers-as-zerg/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-how-to-counter-protoss-carriers-as-zerg/",
-      "originalUrl": "https://youtube.com/watch?v=xZcfL2jBgfY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xZcfL2jBgfY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M4S",
+      "path": "_learning/videos/hushang-tutorials-zerg-macro-guide-injects-the-most-important-zerg-lesson-youve-ever-had-starcraft-2.md",
+      "title": "Zerg Macro Guide (injects) | The MOST important ZERG lesson you've ever had [Starcraft 2]",
+      "excerpt": "This is the most important zerg macro guide you will ever watch! Make sure to watch till the end to get extra tips on maintaining a strong macro cycle without missing a beat!  The MOST important ZERG lesson you've ever had  #zerg #macro #guide #starcraft #sc2  Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-macro-guide-injects-the-most-important-zerg-lesson-youve-ever-had-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-zerg-macro-guide-injects-the-most-important-zerg-lesson-youve-ever-had-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=5An7RM-NxTk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5An7RM-NxTk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M11S",
       "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2017-01-04T04:31:22-08:00",
+      "publishedDateTime": "2020-07-11T16:09:19-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/xZcfL2jBgfY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/5An7RM-NxTk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -916,7 +939,6 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Protoss",
         "Zerg"
       ]
     },
@@ -938,37 +960,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/u2ILu6MTyYY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-10-mid-game-timings-in-masters-1-b2gm.md",
-      "title": "StarCraft 2 - Zerg Bronze to GM #10: Mid-game Timings in Masters 1 (B2GM)",
-      "excerpt": "Sub to @PiG Coaching  for Terran B2GM vids 🐷 Support PiG! https://www.patreon.com/PiGSC2  0:00 Game 1 vs Terran. Goal: Solid openings into reactive timing attacks to win the game 14:39 Game 2 vs Zerg 32:54 Game 3 vs Protoss 38:54 Game 4 vs Protoss 1:02:21 Game 5 vs Protoss 1:19:01 Game 6 vs Zerg 1:38:40",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-10-mid-game-timings-in-masters-1-b2gm/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-10-mid-game-timings-in-masters-1-b2gm/",
-      "originalUrl": "https://youtube.com/watch?v=OVj-TCAaspo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OVj-TCAaspo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4H24M58S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-09-23T19:14:25-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OVj-TCAaspo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

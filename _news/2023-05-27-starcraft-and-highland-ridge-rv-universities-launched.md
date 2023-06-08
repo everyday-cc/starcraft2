@@ -38,6 +38,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "2023 Starcraft MVX Surf"
+    excerpt: "Join Garrett Cortese aboard the Starcraft MVX Surf. Enjoy all of the water sports action such as wakeboarding, wake surfing, foiling and tubing, along with a killer layout with plenty of room for lounging. Starcraft has combined their knowledge of ..."
+    publishedDateTime: 2023-05-26T13:02:00Z
+    webUrl: "https://www.boatingmag.com/sponsored-post/2023-starcraft-mvx-surf/"
+    type: article
+    provider:
+      name: Boating
+      domain: boatingmag.com
+    quality: 17
 
 secured: "ksfCWvcxf01yUyA51yol1H8wckptZapet+ijWnRp9nuXqQmu0Lrx5CM2+gXhbdNrii4az0WrXyVbAQrrVHLmA3Eo6vpVEJXjVYUPWackYvoOrrad4NWA330Rzx4+bZbmF66HFiBKmCt82bQ6reTwWW800ZnXYMkS9bnLcOqit9q671c2zMoivZ3e0lkLMhZesG3aqN9kne8KWBKNLbng1Edkav71SY77/l6dd3NF7q36+hji/VJwaDwUamAOFgIT51dtV778Hd2z1IG/EFIk4gUFj8mnAXZebqtUPyaGmH+tHh5SlWkqj5VaHaj9/nAipeAubbkhgwex2U405ZBWEJtju+DKwUJJZVXW6Zc8hFw=;MBPUG6MnFXdC0Hmq+mUgFw=="
 ---

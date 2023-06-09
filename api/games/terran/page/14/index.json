@@ -4,44 +4,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-marine-micro.md",
-      "title": "StarCraft 2: MARINE MICRO!",
-      "excerpt": "Clem vs Reynor in an intense match of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://youtu.be/BfikSEkWzao  While Reynor obtains a small advantage in the early game, he loses a lot of his creep spread. Clem follows up the Hellbat aggression with relentless",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marine-micro/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marine-micro/",
-      "originalUrl": "https://youtube.com/watch?v=8WAER9-0g2w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8WAER9-0g2w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M3S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8WAER9-0g2w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-04-09T11:08:48-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-maru-loves-cheesing-cure-best-of-3.md",
       "title": "StarCraft 2: Maru LOVES CHEESING Cure! (Best-of-3)",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between Maru (Terran) and Cure (Terran). Turns out Maru feels particularly cheesy in this series of Terran vs Terran.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
@@ -1158,6 +1120,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-08-13T02:18:18-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-new-map-highlight-specials-ultra-slow-push.md",
+      "title": "StarCraft 2: NEW MAP HIGHLIGHT - SpeCial's Ultra Slow Push!",
+      "excerpt": "An awesome game of Protoss versus Terran between Gerald and SpeCial in StarCraft 2 on the new map Blackburn LE.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-map-highlight-specials-ultra-slow-push/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-map-highlight-specials-ultra-slow-push/",
+      "originalUrl": "https://youtube.com/watch?v=GE_M8NzQHuo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GE_M8NzQHuo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GE_M8NzQHuo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-04-15T04:53:30-07:00"
     }
   ],
   "nextPage": 15

@@ -1032,6 +1032,7 @@ items:
   - pig-the-pro-game-so-bad-a-caster-screamed-you-imbecile-starcraft-2
   - pig-spine-crawler-ling-rush-hour-the-sex-panther-build-starcraft-2
   - pig-wings-of-liberty-nightmare-difficulty-hardest-rts-campaign-ever-1-starcraft-2
+  - pig-artosis-plays-sc2-for-the-first-time-in-6-years
 
 topics:
   - StarCraft 2

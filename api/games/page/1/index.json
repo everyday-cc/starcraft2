@@ -79,44 +79,6 @@
       "publishedDateTime": "2023-06-02T01:39:21-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-serral-takes-on-the-world-champion-best-of-5.md",
-      "title": "StarCraft 2: Serral takes on the WORLD CHAMPION! (Best-of-5)",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 between the highestst ranked player in the world (Serral) and the current World Champion of SC2 (Oliveira). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-takes-on-the-world-champion-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-takes-on-the-world-champion-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=IThgrMzn1t0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IThgrMzn1t0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT47M42S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 254,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IThgrMzn1t0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-03T03:28:17-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-gumihos-speed-banshees-vs-solar.md",
       "title": "StarCraft 2: GuMiho's SPEED BANSHEES vs Solar!",
       "excerpt": "Professional match of StarCraft 2 between Solar (Zerg) and GuMiho (Terran) focused around Terran Battle Mech. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch",
@@ -154,6 +116,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-06-06T01:28:34-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serral-takes-on-the-world-champion-best-of-5.md",
+      "title": "StarCraft 2: Serral takes on the WORLD CHAMPION! (Best-of-5)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between the highestst ranked player in the world (Serral) and the current World Champion of SC2 (Oliveira). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-takes-on-the-world-champion-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-takes-on-the-world-champion-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=IThgrMzn1t0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IThgrMzn1t0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M42S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 247,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IThgrMzn1t0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-06-03T03:28:17-07:00"
     },
     {
       "path": "_games/pig-artosis-plays-sc2-for-the-first-time-in-6-years.md",
@@ -658,43 +658,6 @@
       "publishedDateTime": "2021-12-27T04:58:41-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-bly-will-not-stop-cheesing-best-of-3.md",
-      "title": "StarCraft 2: Bly Will NOT STOP Cheesing! (Best-of-3)",
-      "excerpt": "Very cheesy games of StarCraft 2. In this best-of-3 series we have Bly (Zerg) facing off against Gungfubanda, with some hyper aggressive Zerg rushes. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-bly-will-not-stop-cheesing-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-bly-will-not-stop-cheesing-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=WeBhe1LINsY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WeBhe1LINsY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT51M33S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 210,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WeBhe1LINsY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-31T05:58:34-07:00"
-    },
-    {
       "path": "_games/pig-6-times-sc2-pros-failed-including-the-goat-serral.md",
       "title": "6 times SC2 Pros FAILED (including the GOAT Serral!)",
       "excerpt": "We often think of our StarCraft 2 pros as being gods of skill, but once in a while they prove they're still human and have fails - even players like Serral, Dark, Clem and Zest! They prove they're still one of us one of us one us one of us... -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom",
@@ -983,14 +946,14 @@
       "publishedDateTime": "2021-12-23T15:35:13-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-clem-is-the-greatest-sc2-ive-ever-seen.md",
-      "title": "StarCraft 2: Serral vs Clem is THE GREATEST SC2 I've ever seen!",
-      "excerpt": "Amazing best-of-5 series of StarCraft 2. Serral (Zerg) vs Clem (Terran) is the highest level of SC2 I've seen all year, with a very unique strategy in the final game of this series. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-clem-is-the-greatest-sc2-ive-ever-seen/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-clem-is-the-greatest-sc2-ive-ever-seen/",
-      "originalUrl": "https://youtube.com/watch?v=D9G5nCxXZW4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D9G5nCxXZW4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H20M46S",
+      "path": "_games/lowkotv-starcraft-2-bly-will-not-stop-cheesing-best-of-3.md",
+      "title": "StarCraft 2: Bly Will NOT STOP Cheesing! (Best-of-3)",
+      "excerpt": "Very cheesy games of StarCraft 2. In this best-of-3 series we have Bly (Zerg) facing off against Gungfubanda, with some hyper aggressive Zerg rushes. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-bly-will-not-stop-cheesing-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-bly-will-not-stop-cheesing-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=WeBhe1LINsY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WeBhe1LINsY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT51M33S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1004,13 +967,12 @@
         ]
       },
       "topics": [
-        "StarCraft 2",
-        "Zerg"
+        "StarCraft 2"
       ],
-      "heat": 179,
+      "heat": 181,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/D9G5nCxXZW4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/WeBhe1LINsY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1018,7 +980,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-05-25T04:07:42-07:00"
+      "publishedDateTime": "2023-05-31T05:58:34-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-insane-tournament-run-scarlett-vs-nightmare.md",
@@ -1095,6 +1057,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-04-28T04:47:31-07:00"
+    },
+    {
+      "path": "_games/pig-the-pro-game-so-bad-a-caster-screamed-you-imbecile-starcraft-2.md",
+      "title": "The pro game SO BAD a caster screamed \"You imbecile!\" - StarCraft 2",
+      "excerpt": "I think this is the worst 1 hour pro game of all time. Ukko (Zerg) and Nina (Protoss) played in EPT Masters Winter NA. This game ended in a stalemate and Catz, one of the official casters, actually yelled “No! NO! You Idiot! You Imbecile!” when it happened LOL -- 🐷 Second Channel for Learning StarCraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-pro-game-so-bad-a-caster-screamed-you-imbecile-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-pro-game-so-bad-a-caster-screamed-you-imbecile-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=cPOn4UG0fAA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cPOn4UG0fAA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M10S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 176,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cPOn4UG0fAA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-20T21:06:25-07:00"
     }
   ],
   "nextPage": 2

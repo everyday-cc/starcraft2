@@ -1033,6 +1033,7 @@ items:
   - pig-spine-crawler-ling-rush-hour-the-sex-panther-build-starcraft-2
   - pig-wings-of-liberty-nightmare-difficulty-hardest-rts-campaign-ever-1-starcraft-2
   - pig-artosis-plays-sc2-for-the-first-time-in-6-years
+  - pig-this-guy-has-been-role-playing-on-sc2-ladder-for-10-years-straight-wheel-of-cheese
 
 topics:
   - StarCraft 2

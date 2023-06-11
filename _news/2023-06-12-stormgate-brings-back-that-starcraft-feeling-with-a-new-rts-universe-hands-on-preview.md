@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/games/stormgate-brings-back-that-starcraft
 webUrl: "https://venturebeat.com/games/stormgate-brings-back-that-starcraft-feeling-with-a-new-rts-universe-hands-on-preview/"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     height: 675
     isCached: true
 
-secured: "Q1V0hdsSZNO0bGzI/1gHMiPdA+oAmmP59+JNv8yzlLQCTYRE1QpisK8rGCIAiz+Hdlw0WdemMNMY4xJ57tuXJazBXQfxo2xgLr/7sgIEURZHeAY6ZDZvrnXd9q/9cFBRGOCvq7+0uEY+kARFjm25DD1pBuUDroyFBS2JDlpVh1C7lk2h6SrCab1DZ8K+ZMiJAfv4wXYYYoTcxLzepjjBoRfhmw4NW3/VWk4upIZKuF4DnT++s9lSb7uRtE/b90AWMxI0mQdiyPgq9H8rs/ZyOl2L2zg4NndjzjXauJ1dWwc4ylUo0fLA++XMeSQwxvQO4hFZ9EKJgKL1q4VMF2XIuT7sBP30fcT/GIAJT3IJH7k=;ikzt9tlRmOwX0BBiUbkHTA=="
+related:
+  - title: "The new RTS from former StarCraft 2 devs looks a lot like StarCraft 2"
+    excerpt: "The former Blizzard developers making Stormgate today showed a gameplay trailer for their new real-time strategy game."
+    publishedDateTime: 2023-06-11T21:31:00Z
+    webUrl: "https://www.rockpapershotgun.com/the-new-rts-from-former-starcraft-2-devs-looks-a-lot-like-starcraft-2"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 37
+    images:
+      - url: "https://assetsio.reedpopcdn.com/stormgate-c.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "mc0sFq9DoLsI0bdCAgqon9/sX5478+Q/qxE7d2XcXs0ar7UeaG83z42T4w5JD1T63CmQ6N16RAeB5uwyecyqYMh5vf6uKpmO6b12tpqzhpH2zk2RGYW8psDxoMMx9fqHkQiTgNCuS7BVSYF7RbQEygyWfcqq3Gcpq1iCqcYRkV3BeWFIZr0sdThsduqd9TiIOhsgzyn19n3lOPSDP/XLVsOm1ZJ32ekq5hXWBi7n00F2g8YKj/X8ZfZiV7krTZLlFxynZoB76ckb25CgIRmR1BoQufrJKKc9763GAau7Z/BI2TEW2OeHNUU1jRgQmhnG8vacqfaeyColV7RweXMxGsyI+u4pfDarA41vyplPC9Ap+Q6zITiCY8SSYvINi6O4xPd+X2MZvYgfyHmg81c7QleHoUnvzenV2Fagdgb/wZgAy27tnsdQRcWKy0a3QdtUfw14VEUEKqr/VHmshXjyE0Oo4FMKEn9TQX9RawRXFAm9ZTy8mhiwV7XPS0FyS5hs+p1Qur7ka4n5SSBdufli4g==;xkKJk9spD/CAxDYnqI2okA=="
 ---
 

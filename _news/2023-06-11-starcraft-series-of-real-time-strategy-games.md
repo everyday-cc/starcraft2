@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "StarCraft 2: Heart of the Swarm Crashes, Errors, Freezes and Fixes"
-    excerpt: "Regardless of the fact that StarCraft 2: Heart of the Swarm is not a full-fledged game and just an expansion, Starcraft 2 followers are crazy about it. When the original Starcraft 2 got released ..."
+  - title: "How to Play StarCraft:BroodWar On Hamachi"
+    excerpt: "Starcraft, a name that requires no introduction at this point of time. Released in the late 90’s, the sequel to the award winning realtime strategy game StarCraft, Broodwar built on the same ..."
     publishedDateTime: 2023-06-06T23:59:00Z
-    webUrl: "https://segmentnext.com/heart-of-swarm-errors/"
+    webUrl: "https://segmentnext.com/starcraft-broodwar-hamachi-guide/"
     type: article
     provider:
       name: SegmentNext
       domain: segmentnext.com
     quality: 37
     images:
-      - url: "https://cdn.segmentnextimages.com/wp-content/uploads/2013/03/StarcraftII-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://cdn.segmentnextimages.com/wp-content/themes/segmentnext/images/no-image-available.jpg"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "bXOqh/aAmejZgq5NT1rCVt10QEwyCWJnYpI1aSv28FRIl8KI9xaYQ6AoAH0nlJpHg/hOIhbkiOBPj+bNB7vf0LSJxFzlbGSteK53bXDFY0EasCSg9/D6mtRUNQRFlTAoH1vSsfJN5SZsJZ/E2tj3LjZsHfxgvIxpDn0xcgLHpe+vIxCe8JYH54OmxJvVahm+TYC91gaKKfgWWsPAfoY6D3ujp2dWgZR37HQGlVMb+clTPAnVZ0+W4c6AQ6yDejjElotwLJabglIXgDCGFQMduPHvXDPVok/sy5Rehnr52zoPCWfD8A+wDxs+kZp5PGGfel7K+wUQrMJ6xoOx0DMKseD7Cp0L5FEed1Zbvff5JYYzsK6g5Gpv7to1AlVdQ8OE3JmqnAqtBsd31OAB9/ZOLNLJdBaGnR69lkFLtciJutjuADA1uPSpthr5Jw637zAG2rx9K/lI83efW3hNrkFWXCYH12vI3LBCi4pdYyVnbVroeu8DjpJUFrDazBX3ZVVri/96zDZ+P7+w48uId47XTw==;T4/ei1QHlGxT8YhMd4dhyg=="

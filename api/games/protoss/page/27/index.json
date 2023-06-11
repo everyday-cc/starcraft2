@@ -4,6 +4,66 @@
   "page": 27,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-slightly-delayed-natural-the-florencio-files-68.md",
+      "title": "StarCraft 2 - \"Slightly\" Delayed Natural | The Florencio Files #68",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-slightly-delayed-natural-the-florencio-files-68/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-slightly-delayed-natural-the-florencio-files-68/",
+      "originalUrl": "https://youtube.com/watch?v=Sh2gtJdeLEE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Sh2gtJdeLEE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M5S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Sh2gtJdeLEE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-06-09T08:49:52-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-sloppy-joes-starcraft-the-florencio-files-149.md",
+      "title": "StarCraft 2 - Sloppy Joes Starcraft | The Florencio Files #149",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-sloppy-joes-starcraft-the-florencio-files-149/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-sloppy-joes-starcraft-the-florencio-files-149/",
+      "originalUrl": "https://youtube.com/watch?v=G0odXC3f_Mk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G0odXC3f_Mk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/G0odXC3f_Mk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-07-10T04:00:10-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-slow-zergling-doom-drop-florencio-files-188.md",
       "title": "StarCraft 2 - SLOW ZERGLING DOOM DROP | Florencio Files #188",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  Want the world to see you taking your opponent to Dicktown? You can now hire PiG to cast your game Florencio Files Style! Email pigrandom88@gmail.com",
@@ -848,66 +908,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-10-24T00:21:00-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-the-unholy-trinity-vs-7-armed-archon-florencio-files-211.md",
-      "title": "StarCraft 2 - THE UNHOLY TRINITY vs 7-ARMED ARCHON | Florencio Files #211",
-      "excerpt": "Florencio teams up with Boom and GrimReaper to become the UNHOLY TRINITY in order to take victory back from a 7-armed archon of Sewer Squatters! What Flo-tainted game modes/ideas should we try out next? 🐷 Support PiG: http://paypal.me/PiGSC2 | https://www.patreon.com/PiGSC2 -- 🐖 Watch live on https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-unholy-trinity-vs-7-armed-archon-florencio-files-211/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-unholy-trinity-vs-7-armed-archon-florencio-files-211/",
-      "originalUrl": "https://youtube.com/watch?v=5ywNalJt72Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5ywNalJt72Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M24S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5ywNalJt72Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-02-10T22:14:14-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-the-worst-recall-of-2021-florencio-files-237.md",
-      "title": "StarCraft 2 - THE WORST RECALL OF 2021 | Florencio Files #237",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-worst-recall-of-2021-florencio-files-237/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-worst-recall-of-2021-florencio-files-237/",
-      "originalUrl": "https://youtube.com/watch?v=_Mv9BLfSiLo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Mv9BLfSiLo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M19S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_Mv9BLfSiLo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-18T04:32:54-07:00"
     }
   ],
   "nextPage": 28

@@ -28,7 +28,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 388,
+      "heat": 318,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hpu9_LgSkPg/maxresdefault.jpg",
@@ -40,35 +40,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-06-05T03:52:38-07:00"
-    },
-    {
-      "path": "_games/pig-this-guy-has-been-role-playing-on-sc2-ladder-for-10-years-straight-wheel-of-cheese.md",
-      "title": "This guy has been role-playing on SC2 ladder for 10 years straight | Wheel of Cheese",
-      "excerpt": "Was spinning the Wheel of Cheese to find out what to dole out on our unsuspecting StarCraft 2 ladder opponent when we ran into SLAMMER, who has been role-playing for like 10 years straight. In this game we landed on Cannon Rush! Is SLAMMER's hammer big enough? -- 🐷 Second Channel for Learning StarCraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-guy-has-been-role-playing-on-sc2-ladder-for-10-years-straight-wheel-of-cheese/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-guy-has-been-role-playing-on-sc2-ladder-for-10-years-straight-wheel-of-cheese/",
-      "originalUrl": "https://youtube.com/watch?v=umrf_-Wge2Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/umrf_-Wge2Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 316,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/umrf_-Wge2Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-09T04:07:08-07:00"
     },
     {
       "path": "_games/pig-artosis-plays-sc2-for-the-first-time-in-6-years.md",
@@ -98,43 +69,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-06-09T02:54:24-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-new-maps-astreas-weird-random-best-of-5.md",
-      "title": "StarCraft 2: NEW MAPS - Astrea's WEIRD Random! (Best-of-5)",
-      "excerpt": "Best-of-5 series of high level StarCraft 2 between Gerald (Protoss) and Astrea (Random). All games in this pro match are played on new maps from the Team Liquid Map Contest, the TLMC #18. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-maps-astreas-weird-random-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-maps-astreas-weird-random-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=HKDUieaVIyk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HKDUieaVIyk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M47S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 255,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HKDUieaVIyk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-12T01:49:53-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-did-he-make-a-20000-mistake-serral-vs-ragnarok.md",
@@ -173,6 +107,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-27T05:02:26-07:00"
+    },
+    {
+      "path": "_games/pig-this-guy-has-been-role-playing-on-sc2-ladder-for-10-years-straight-wheel-of-cheese.md",
+      "title": "This guy has been role-playing on SC2 ladder for 10 years straight | Wheel of Cheese",
+      "excerpt": "Was spinning the Wheel of Cheese to find out what to dole out on our unsuspecting StarCraft 2 ladder opponent when we ran into SLAMMER, who has been role-playing for like 10 years straight. In this game we landed on Cannon Rush! Is SLAMMER's hammer big enough? -- 🐷 Second Channel for Learning StarCraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-guy-has-been-role-playing-on-sc2-ladder-for-10-years-straight-wheel-of-cheese/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-guy-has-been-role-playing-on-sc2-ladder-for-10-years-straight-wheel-of-cheese/",
+      "originalUrl": "https://youtube.com/watch?v=umrf_-Wge2Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/umrf_-Wge2Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M3S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 239,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/umrf_-Wge2Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-06-09T04:07:08-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-silver-league-heroes-proxy-nexus-in-the-terrans-main.md",
@@ -906,6 +869,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-10T03:03:07-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-new-maps-astreas-weird-random-best-of-5.md",
+      "title": "StarCraft 2: NEW MAPS - Astrea's WEIRD Random! (Best-of-5)",
+      "excerpt": "Best-of-5 series of high level StarCraft 2 between Gerald (Protoss) and Astrea (Random). All games in this pro match are played on new maps from the Team Liquid Map Contest, the TLMC #18. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-maps-astreas-weird-random-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-maps-astreas-weird-random-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=HKDUieaVIyk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HKDUieaVIyk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M47S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 195,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HKDUieaVIyk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-12T01:49:53-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-best-zerg-vs-zerg-of-the-year-best-of-5.md",

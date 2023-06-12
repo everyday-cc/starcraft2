@@ -764,36 +764,6 @@
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
     },
     {
-      "path": "_games/pig-whats-detection-the-florecenio-files-51.md",
-      "title": "What's detection? - The Florecenio Files #51",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-whats-detection-the-florecenio-files-51/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-whats-detection-the-florecenio-files-51/",
-      "originalUrl": "https://youtube.com/watch?v=opYfPwgF3UM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/opYfPwgF3UM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/opYfPwgF3UM/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-08T03:27:15-08:00"
-    },
-    {
       "path": "_games/pig-when-a-cannon-rush-meets-a-proxy-hatch-in-cheesedown-part-44.md",
       "title": "When a Cannon Rush meets a Proxy Hatch in CHEESEDOWN Part 4/4!",
       "excerpt": "We invited the cheesiest Protoss, Has, and the cheesiest Zerg, Bly, to have a Cheesedown with us to determine who is the best at serving fondue. In Part four, the fondue party comes to an end. Who will take the Cheesedown crown?  Cheesedown Part 1: https://youtu.be/OI4n4PWs1TI Cheesedown Part 2: https://youtu.be/yvvgXC3C-zo",
@@ -880,6 +850,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-01T23:45:11-07:00"
+    },
+    {
+      "path": "_games/pig-when-protoss-squatters-take-terrans-main-base-diamond-in-the-ruff-61.md",
+      "title": "When Protoss squatters take Terran’s main base | Diamond in the Ruff #61",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-protoss-squatters-take-terrans-main-base-diamond-in-the-ruff-61/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-protoss-squatters-take-terrans-main-base-diamond-in-the-ruff-61/",
+      "originalUrl": "https://youtube.com/watch?v=UA64vCg2HLk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UA64vCg2HLk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M37S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UA64vCg2HLk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-12-27T14:45:26-08:00"
     }
   ],
   "nextPage": 90

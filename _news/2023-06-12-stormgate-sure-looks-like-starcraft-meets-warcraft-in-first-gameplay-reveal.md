@@ -1,39 +1,35 @@
 ---
 category: news
-title: "2023 Starcraft MVX Surf"
-excerpt: "Join Garrett Cortese aboard the Starcraft MVX Surf. Enjoy all of the water sports action such as wakeboarding, wake surfing, foiling and tubing, along with a killer layout with plenty of room for lounging. Starcraft has combined their knowledge of ..."
-publishedDateTime: 2023-05-26T13:02:00Z
-originalUrl: "https://www.boatingmag.com/sponsored-post/2023-starcraft-mvx-surf/"
-webUrl: "https://www.boatingmag.com/sponsored-post/2023-starcraft-mvx-surf/"
+title: "Stormgate Sure Looks Like StarCraft Meets Warcraft In First Gameplay Reveal"
+excerpt: "To that end, Stormgate has several tools that help streamline the gameplay for newcomers as they become more familiar with the nuances of this strategy game. \"We are building Stormgate for the real-time strategy community--past,"
+publishedDateTime: 2023-06-12T12:58:00Z
+originalUrl: "https://www.gamespot.com/articles/stormgate-sure-looks-like-starcraft-meets-warcraft-in-first-gameplay-reveal/1100-6515093/"
+webUrl: "https://www.gamespot.com/articles/stormgate-sure-looks-like-starcraft-meets-warcraft-in-first-gameplay-reveal/1100-6515093/"
+ampWebUrl: "https://www.gamespot.com/amp-articles/stormgate-sure-looks-like-starcraft-meets-warcraft-in-first-gameplay-reveal/1100-6515093/"
+cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/stormgate-sure-looks-like-starcraft-meets-warcraft-in-first-gameplay-reveal/1100-6515093/"
 type: article
-quality: 17
-heat: -1
-published: false
+quality: 95
+heat: 255
+published: true
 
 provider:
-  name: Boating
-  domain: boatingmag.com
+  name: GameSpot
+  domain: gamespot.com
+  images:
+    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/gamespot.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
 
+images:
+  - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4151292-1.jpg"
+    width: 640
+    height: 360
+    isCached: true
+
 related:
-  - title: "Stormgate Sure Looks Like StarCraft Meets Warcraft In First Gameplay Reveal"
-    excerpt: "To that end, Stormgate has several tools that help streamline the gameplay for newcomers as they become more familiar with the nuances of this strategy game. \"We are building Stormgate for the real-time strategy community--past,"
-    publishedDateTime: 2023-06-12T12:58:00Z
-    webUrl: "https://www.gamespot.com/articles/stormgate-sure-looks-like-starcraft-meets-warcraft-in-first-gameplay-reveal/1100-6515093/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/stormgate-sure-looks-like-starcraft-meets-warcraft-in-first-gameplay-reveal/1100-6515093/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/stormgate-sure-looks-like-starcraft-meets-warcraft-in-first-gameplay-reveal/1100-6515093/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 95
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4151292-1.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "How to Play StarCraft:BroodWar On Hamachi"
     excerpt: "Starcraft, a name that requires no introduction at this point of time. Released in the late 90’s, the sequel to the award winning realtime strategy game StarCraft, Broodwar built on the same ..."
     publishedDateTime: 2023-06-06T23:59:00Z
@@ -132,7 +128,16 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "2023 Starcraft MVX Surf"
+    excerpt: "Join Garrett Cortese aboard the Starcraft MVX Surf. Enjoy all of the water sports action such as wakeboarding, wake surfing, foiling and tubing, along with a killer layout with plenty of room for lounging. Starcraft has combined their knowledge of ..."
+    publishedDateTime: 2023-05-26T13:02:00Z
+    webUrl: "https://www.boatingmag.com/sponsored-post/2023-starcraft-mvx-surf/"
+    type: article
+    provider:
+      name: Boating
+      domain: boatingmag.com
+    quality: 17
 
-secured: "XMdqa5n6RrpEu6M85WNVThqXFGyX8PkqJbDXMW8/1wcQnskdhX5rvdAwVBVG1qHx6jYCGRhrVsQPkBbjwS/4SwQyPVUNMXThxq+hr+clUM5MkFJYCLeel5OyJvC6a6JgQSd74yPtXMWG31wZDFk8t8/t8wAeei2FS3W+uOiCkui5WhVDgYNH0JFYQvfvb7cxu3vmSUugSj1RGiI8PlzzlgPZQXxikd25n/0Dfz4HXo4nMT+Yvx0kzDjpiq+Qh/PnKESZRunsNROz4WmS6sy89wdhTIJxaNkoj4gtO1R7FIVWryuSQm0Y1Ofo2nnxQbXiQAIl9fSvRTtTNgXA7zZMJHTNlsya6krQReAwsQw0fE8=;jw0G1+9t35fHEqfJ5+Psgw=="
+secured: "b0z2yn5RYcbdVI5YqRGSaA/Xz+qTkTmesrJAgHtc4e8Ejk+hiY4U0UcWPIpHSmpUN+HB8DChsIAbxCpiYYayC4yL5ODyoozW2wxwLSOGWrl2EiM8ZijPV/k2okOV5mgSwFPnrPxFup5ctcbXfknyo/baa5P6ymWHiN58oMsDAPVZOE50jyMmPbwuj2tiNgsmaBUnKwjgnbFNgYiXOAG8mAuR+HW3I4K2U0fJgHXZHHHlT61/Cx05jNBuyILWPky+qxgNMvrfb2uD8ZsWWYPmu+21gkzANYFpjL0hds2WqMJpDeZ7/0B+Ixm36n5Kv+YyPntjsGU3jrzmcCXR0wdLLN5DY/XTljn3FSkBOjkWanQ=;DEjlxcvR293QTxNt/jR8aA=="
 ---
 

@@ -28,7 +28,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 318,
+      "heat": 292,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hpu9_LgSkPg/maxresdefault.jpg",
@@ -109,35 +109,6 @@
       "publishedDateTime": "2023-03-27T05:02:26-07:00"
     },
     {
-      "path": "_games/pig-this-guy-has-been-role-playing-on-sc2-ladder-for-10-years-straight-wheel-of-cheese.md",
-      "title": "This guy has been role-playing on SC2 ladder for 10 years straight | Wheel of Cheese",
-      "excerpt": "Was spinning the Wheel of Cheese to find out what to dole out on our unsuspecting StarCraft 2 ladder opponent when we ran into SLAMMER, who has been role-playing for like 10 years straight. In this game we landed on Cannon Rush! Is SLAMMER's hammer big enough? -- 🐷 Second Channel for Learning StarCraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-guy-has-been-role-playing-on-sc2-ladder-for-10-years-straight-wheel-of-cheese/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-guy-has-been-role-playing-on-sc2-ladder-for-10-years-straight-wheel-of-cheese/",
-      "originalUrl": "https://youtube.com/watch?v=umrf_-Wge2Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/umrf_-Wge2Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 239,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/umrf_-Wge2Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-09T04:07:08-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-silver-league-heroes-proxy-nexus-in-the-terrans-main.md",
       "title": "StarCraft 2: Silver League Heroes - Proxy NEXUS in the Terran's Main!",
       "excerpt": "Two viewer submitted games of StarCraft 2, with some of the strangest strategies that I've ever seen. Proxy Refinery and a Proxy Nexus?!  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  00:00 Proxy Refinery 12:07 Proxy Nexus  My YouTube channels: https://youtube.com/lowkotv",
@@ -175,6 +146,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-05-08T03:18:53-07:00"
+    },
+    {
+      "path": "_games/pig-this-guy-has-been-role-playing-on-sc2-ladder-for-10-years-straight-wheel-of-cheese.md",
+      "title": "This guy has been role-playing on SC2 ladder for 10 years straight | Wheel of Cheese",
+      "excerpt": "Was spinning the Wheel of Cheese to find out what to dole out on our unsuspecting StarCraft 2 ladder opponent when we ran into SLAMMER, who has been role-playing for like 10 years straight. In this game we landed on Cannon Rush! Is SLAMMER's hammer big enough? -- 🐷 Second Channel for Learning StarCraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-guy-has-been-role-playing-on-sc2-ladder-for-10-years-straight-wheel-of-cheese/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-guy-has-been-role-playing-on-sc2-ladder-for-10-years-straight-wheel-of-cheese/",
+      "originalUrl": "https://youtube.com/watch?v=umrf_-Wge2Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/umrf_-Wge2Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M3S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 228,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/umrf_-Wge2Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-06-09T04:07:08-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-lowko-cries-over-zests-mass-void-ray-vs-soo-best-of-5.md",

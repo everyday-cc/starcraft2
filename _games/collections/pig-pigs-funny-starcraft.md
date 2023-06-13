@@ -935,7 +935,7 @@ items:
   - pig-is-this-the-cheesiest-series-of-all-time-starcraft-2
   - pig-i-challenged-myself-to-do-the-fastest-bcs-ever-pigs-filthy-adventures-16-starcraft-2
   - pig-why-does-cheese-bring-out-so-much-delicious-rage-salt-mines-14-starcraft-2
-  - pig-when-your-dts-get-scouted-but-youre-a-disgusting-genius-mape-the-ape-starcraft-2
+  - pig-when-your-dts-get-scouted-but-youre-a-disgusting-genius-mape-the-ape-1-starcraft-2
   - pig-the-sewer-mermaid-nukes-himself-for-science-florencio-files-271-starcraft-2
   - pig-i-made-upgrades-in-their-base-lol-most-annoying-player-ever-5-starcraft-2
   - pig-world-record-uthermals-1-terran-v-7-insane-terran-ai-pig-reacts-starcraft-2
@@ -1031,9 +1031,10 @@ items:
   - pig-cheeser-gets-mad-that-doom-drops-dont-autowin-games-icyfar-weird-harassment-starcraft-2
   - pig-the-pro-game-so-bad-a-caster-screamed-you-imbecile-starcraft-2
   - pig-spine-crawler-ling-rush-hour-the-sex-panther-build-starcraft-2
-  - pig-wings-of-liberty-nightmare-difficulty-hardest-rts-campaign-ever-1-starcraft-2
+  - pig-wings-of-liberty-nightmare-difficulty-hardest-rts-campaign-ever-part-1-starcraft-2
   - pig-artosis-plays-sc2-for-the-first-time-in-6-years
   - pig-this-guy-has-been-role-playing-on-sc2-ladder-for-10-years-straight-wheel-of-cheese
+  - pig-wings-of-liberty-nightmare-difficulty-part-2-starcraft-2
 
 topics:
   - StarCraft 2

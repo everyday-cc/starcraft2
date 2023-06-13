@@ -133,6 +133,15 @@ related:
       name: Boating
       domain: boatingmag.com
     quality: 17
+  - title: "1978 Starcraft Co Values, Specs and Prices"
+    excerpt: "Possessing a long-running history in boat construction that reaches back to 1903, Starcraft is experienced in building boats with aluminum and fiberglass hulls. Starcraft produces a wide range of watercraft, offering a diverse assortment of fishing ..."
+    publishedDateTime: 2023-06-12T12:01:00Z
+    webUrl: "https://www.jdpower.com/boats/1978/starcraft-co"
+    type: article
+    provider:
+      name: jdpower
+      domain: jdpower.com
+    quality: 17
 
 secured: "LcVQhb0n+prl+sB0pK6guEi5KHAU350f7fjbBqLJHWALWtgDqoTytAh2FwzMLl0659HR81R90wX7UOwftDHamQ0LUbHZBtJERc038WnWYQJ4PjLRTfz0OMbkCCUc409JkhmHXDkrshObRDqqTr9aInfRNjMOB4d+Jw77E6sGYqKE2xzFnOFkle1rC7tuzRxDaTwJmBogQvRPVCzerk2mpKP0yNZqO4bwy9w97S7/YRwBB75rkzr/k0dkrMBQdrq6Ek82x3DLhwELzbpyUIokz50AADK+u1olFk/3/SCsjIaA81uo1npCNfNZw7a3DjrrQbqqUSOCPeyHRb//N/9UQB0MTNJyVn1JPoys2UcOHNTbUJ1h4/ru+GhoxHD3k+6wbRRyCyYvezht59Np8GWOf9d7AWZPkuUuEi9yTzlSJ1nWefLYDp9K0DnxadG4xMmoRf9WxOI20lC/2v0wUXkKyrtAfGKdKskuRtbTpWMVkm0ix8ZJOr2xxy8ZpT2QcpK7vcftM0CIL+BImJb/Kr029Q==;4RiNmWpdZaK01o+BWsAqbw=="
 ---

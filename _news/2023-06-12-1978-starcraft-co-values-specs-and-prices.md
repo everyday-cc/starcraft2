@@ -1,27 +1,21 @@
 ---
 category: news
-title: "StarCraft 2 Tweaks and Performance Guide"
-excerpt: "StarCraft 2 has great graphics and visuals but that holds for those who have high-end PCs. If you are on a mediocre PC that can only offer average graphics at best then you may want to go by the ..."
-publishedDateTime: 2023-06-06T23:59:00Z
-originalUrl: "https://segmentnext.com/starcraft-2-graphics-performance-tweak-guide/"
-webUrl: "https://segmentnext.com/starcraft-2-graphics-performance-tweak-guide/"
+title: "1978 Starcraft Co Values, Specs and Prices"
+excerpt: "Possessing a long-running history in boat construction that reaches back to 1903, Starcraft is experienced in building boats with aluminum and fiberglass hulls. Starcraft produces a wide range of watercraft, offering a diverse assortment of fishing ..."
+publishedDateTime: 2023-06-12T12:01:00Z
+originalUrl: "https://www.jdpower.com/boats/1978/starcraft-co"
+webUrl: "https://www.jdpower.com/boats/1978/starcraft-co"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: SegmentNext
-  domain: segmentnext.com
+  name: jdpower
+  domain: jdpower.com
 
 topics:
   - StarCraft 2
-
-images:
-  - url: "https://cdn.segmentnextimages.com/wp-content/themes/segmentnext/images/no-image-available.jpg"
-    width: 600
-    height: 338
-    isCached: true
 
 related:
   - title: "Stormgate Sure Looks Like StarCraft Meets Warcraft In First Gameplay Reveal"
@@ -67,6 +61,20 @@ related:
       - url: "https://cdn.segmentnextimages.com/wp-content/uploads/2013/03/StarcraftII-1024x576.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "StarCraft 2 Tweaks and Performance Guide"
+    excerpt: "StarCraft 2 has great graphics and visuals but that holds for those who have high-end PCs. If you are on a mediocre PC that can only offer average graphics at best then you may want to go by the ..."
+    publishedDateTime: 2023-06-06T23:59:00Z
+    webUrl: "https://segmentnext.com/starcraft-2-graphics-performance-tweak-guide/"
+    type: article
+    provider:
+      name: SegmentNext
+      domain: segmentnext.com
+    quality: 37
+    images:
+      - url: "https://cdn.segmentnextimages.com/wp-content/themes/segmentnext/images/no-image-available.jpg"
+        width: 600
+        height: 338
         isCached: true
   - title: "StarCraft Series of Real Time Strategy Games"
     excerpt: "Spread the loveThe StarCraft series is a popular Real Time Strategy game that has continued to captivate gamers through its engaging gameplay and fascinating storyline. Developed and published by Blizzard Entertainment,"
@@ -133,16 +141,7 @@ related:
       name: Boating
       domain: boatingmag.com
     quality: 17
-  - title: "1978 Starcraft Co Values, Specs and Prices"
-    excerpt: "Possessing a long-running history in boat construction that reaches back to 1903, Starcraft is experienced in building boats with aluminum and fiberglass hulls. Starcraft produces a wide range of watercraft, offering a diverse assortment of fishing ..."
-    publishedDateTime: 2023-06-12T12:01:00Z
-    webUrl: "https://www.jdpower.com/boats/1978/starcraft-co"
-    type: article
-    provider:
-      name: jdpower
-      domain: jdpower.com
-    quality: 17
 
-secured: "AXwojYRxbw/mCIGEDbgd5fJnT3gCpXeuxXSd5GyYKgPrPecTvgTp5VYltdiCeVlWjDXJSqS7Qzd61Tezryocahe23KaCqF0RxVtka3xzsaxLfNiqlCdbgOiK3tDRGd0Tu05Nld3CMba1zw2BtrcJAZAJoO2MH87IN5jMltuDhQtEdk4+wblHoeEWXEpWatmawAoovzmsZ2mCNQpayS6hKvmTb5Uw8zr7LST8RUMabJTIYw8C5uuJPExbBUA4DmDlv/rP75w/xjBJUvQ+sFazOnmT1x77TOorrcrfB70e2h87UEzODbvzIbqEtBkaAboWlxaM12y8/QE4rEY4NmASsQDpDRhOKZVDw6vPvf96fOM=;AMvic9AXuxjlRLOpvLHOlg=="
+secured: "iHM29kn7k1awaapsXnR0/hPYUnBXRmeMBc66PmUXohGdV7FuGLTxWARHkGQdADLCWVa/H5TAi0vQTuqxge8ccCk+xS9QB92yo3i9rKpZoQblt5ltl7YuXOnySyvsUAD/k/DlmtoWLLpmQCtFIX0A0OY5uMdp8AtxtIvAG9HiZwNXP/vCGrMkhrSyabTurAKO533ZWeeuTIrOCNi/2p85qmKTzfrHTN5bn8zxjsWNTEVqooLml+HPMYgqB9Z2pAIkIYtRUjfcw+LYg30UWM74dPf9YkJH8qfW0C1Z8PjeDSPz2THs4xlr04twFBDNPAVcY30549MwM2vUSX2XOk0d3PKi+8f+mEGlJ85fQjgj48c=;8r7EI3kha3qCTrw/DF63Pw=="
 ---
 

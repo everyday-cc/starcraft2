@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=l56awCUm1pA
 type: video
 length: PT31M25S
 publishedDateTime: 2022-12-14T10:51:51Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l56awCUm1pA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Ma4dT9wxgelnVA53GGANzlMIZjlGgJUvTprEEK91aMt5moCWtorj5JxDEwDT+vTgVSvMb3cX2lxbkk0d8aonCiR8wODHK7NPGT6HGQA/YFpRRBQ6NSO8oie4VJIl8SYwcWwHNfPOPX//kT95hsAwTx1Kj5kQx0KvAqwb8BsHG8S+X+D1lIm2h1Kn0zXML1L86ixDpquAn7MWeR3HY2FT4Vt24BxxFoeazKl83IlHdPI8wlilA/wefjJJ3uNgrjPcXbGQ3z8NUmEifx0FxJUb0xsBhw0A882BnLOib8h+B1QhaAS6BlTNCBPgSZw68NhSpzx2W3TDD1caMNquigJi2VROu/ryrScWZLb6Tk9mtMeKFRblNPj3XM69dYpYhqi1YsiPaYawS7vcDORDAuBeZWTH5Ez8hmNngoQjXArSUac=;tEwHuuSFirGMPT/Z/Siyog=="
+secured: "uXzQuiyOuKcW8UM9/jfXsP2ydNsptZOvC7Gj1WehN0Q9owfM7/XBZjTygkNZzeZMKWhvVzGm17XUHWUaNGKzCfjMCzCA6vZrOricQN2XVhgpPX8nDd59KQZLXV7LQcoBVMZIYTOPYEVoAWWxFntmXmOa5EN5qL7ZkN/mgKgtDcFekonsxa6lCknMMU48W07Twfe5A12kr5lPiNq8QnYXNtYkLrj752MAidipQVA1gwenkAlKJdNwOunvOOsWkCYd4QShtWZUWkct1/c+tX9fmY22F/wm+WFZ7IXn/uV9nV6WksJeB8xGGKB90pQ3yo8lG9UE5bn/GfM4n0aocftrCUQJ36Ha3fyGJYcuEaCMMbK0KLHBvhLavN/V5OCRY6oCiddVSpMytI3Lj9wZT39RoROdVGsSRPHz1Fxk0SdMJwQ=;6d87rA/at0cVSh3nYoLF8w=="
 ---
 

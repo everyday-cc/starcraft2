@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=HOzvXZ0AVoU
 type: video
 length: PT39M16S
 publishedDateTime: 2023-03-07T12:56:50Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HOzvXZ0AVoU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "h40UbP9REEJEFsNKXNkNmxWirAfFngJF5X5jYEzj0LoO5tX51/pa4hhZSA9bqdLHVldOBLJ6NzqnGOwVzfsokXk7dVwJhg+RbQGvW7NYUR9+MxuC9AbRsOHMKu3l0zEJ8rWQcYng5nYoE3HqZoH5SKg2F39o72eFNNUfVX5AKq5Mrn9oIAYDMpDWOtZ0vUp2ub8gylrJyW10uGkxMM2giLU1wq6ZQAXvfFAdnfzL1pd0SLqpd+/qRvAVAgbcrn50uTJjy9Aaapl5OGLQImSBbF9DXwcyDl0lGXblL3k+VaYviP4UoQw6rq/LlnrGp12wR9Udablbs5zeZpLvHoJ+8mrcJOrZVfMg1fdwMzqZn1XIcMr04zKtBuamE9pOcJT1pZ/RXdBKIspJK+1HQazxHgsdarp9BnJSS5CIsiytMCw=;0CZGCxzoU/Glma/m61+VRQ=="
+secured: "v0d3/8W/dxPA8j78M/ubS7mUcCHybnYUGcrV7xPbB081I0wqWy6UkCxnRhFEQSXDZH58Mbf32e0+GiUhKN38tMKGp0R7J0Y51cHSTyTFNZ4EwrvgNMI9NonQSZGZlOEY+d1KHEGdotlXFitHI0qPUG+8VZnqivM5R5eItqjsbvvZ7vrGrktx4Sma+OWQ1DjYGEhixoapxJyrH5t57RMeHUKy11BZEfugxxYIZUxMl8xY37Aww2cj9pbA0HGfeNUwJ56duwTwchlRq+s5wALZGfgoZZ3oV40sEe8aIpMPWu6LzmIRX7JV3b0bPkX5uCWVXrmrlVrQrbWAELIIMLXJ3jXh1bYRqQyrBJ89hP+ltaiKYPpowWpKGE8Vc98m7NFX3UJEgAuXqhYwWsIlO0TQzHnPb4kswB9U0UWErNiKkuQ=;IGNR73R0chx2ncqJgDH3EA=="
 ---
 

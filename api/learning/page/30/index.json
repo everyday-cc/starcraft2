@@ -4,66 +4,6 @@
   "page": 30,
   "value": [
     {
-      "path": "_learning/videos/quasargamers-minute-micro-episode-36-reload-poking.md",
-      "title": "Minute Micro: Episode 36 - Reload Poking",
-      "excerpt": "Difficulty rating: 6/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on shooting while the target is reloading.  twitch.tv/Quasarprintf",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-36-reload-poking/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-36-reload-poking/",
-      "originalUrl": "https://youtube.com/watch?v=Obfz1RmwApQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Obfz1RmwApQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M10S",
-      "provider": {
-        "name": "QuasarGamers",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-02-18T13:07:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Obfz1RmwApQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/quasargamers-minute-micro-episode-37-target-fire.md",
-      "title": "Minute Micro: Episode 37 - Target Fire",
-      "excerpt": "Difficulty rating: 1/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on target firing.  twitch.tv/Quasarprintf",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/quasargamers-minute-micro-episode-37-target-fire/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/quasargamers-minute-micro-episode-37-target-fire/",
-      "originalUrl": "https://youtube.com/watch?v=a0cdxbEJNho",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a0cdxbEJNho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M10S",
-      "provider": {
-        "name": "QuasarGamers",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-02-25T16:00:08-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/a0cdxbEJNho/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/quasargamers-minute-micro-episode-38-baneling-target-fire.md",
       "title": "Minute Micro: Episode 38 - Baneling Target Fire",
       "excerpt": "Difficulty rating: 10/10  Minute Micro is a series of 1-minute videos explaining how to perform common micro techniques. This episode is on target firing banelings.  twitch.tv/Quasarprintf",
@@ -643,6 +583,37 @@
       ]
     },
     {
+      "path": "_learning/videos/winterstarcraft-learn-starcraft-protoss-beginner-guide-1-updated-patch-40-free-to-play.md",
+      "title": "Learn Starcraft - Protoss Beginner Guide #1 (Updated Patch 4.0 FREE TO PLAY)",
+      "excerpt": "How to command the incredibly strong forces of the protoss and cover weaknesses against the other inferior races. Updated for patch 4.0! This guide is not intended for COMPLETELY new players, but those who have played several games/campaign missions and grasp the very basics.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-protoss-beginner-guide-1-updated-patch-40-free-to-play/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-starcraft-protoss-beginner-guide-1-updated-patch-40-free-to-play/",
+      "originalUrl": "https://youtube.com/watch?v=x3ZkSX0tJg4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x3ZkSX0tJg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M41S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-11-26T03:51:55-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/x3ZkSX0tJg4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/winterstarcraft-learn-starcraft-protoss-v-zerg-build-order-updated-2018.md",
       "title": "Learn Starcraft - Protoss v Zerg Build Order! (Updated 2018)",
       "excerpt": "A basic build to hold off and then defeat the disgusting Zerg! Meant for lower level players who have little direction, not for high level players looking for the dankest meta :) -- Watch live at https://www.twitch.tv/wintergaming",
@@ -770,6 +741,36 @@
       ]
     },
     {
+      "path": "_learning/videos/winterstarcraft-learn-starcraft-tip-2-camera-hotkeys.md",
+      "title": "Learn Starcraft Tip #2 - Camera Hotkeys",
+      "excerpt": "Useful for all races almost all of the time :) More detailed guides/tutorials under the learn to play starcraft playlist.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-tip-2-camera-hotkeys/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-starcraft-tip-2-camera-hotkeys/",
+      "originalUrl": "https://youtube.com/watch?v=t4Ml0nAWcig",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t4Ml0nAWcig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M56S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-10-23T11:17:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/t4Ml0nAWcig/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/winterstarcraft-learn-starcraft-tip-3-stay-in-control.md",
       "title": "Learn Starcraft Tip #3 - Stay In Control",
       "excerpt": "I have a very in depth (4 mins) guide on the shift key as well here https://www.youtube.com/watch?v=7x9pHr544oY",
@@ -862,37 +863,6 @@
       ]
     },
     {
-      "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-basic-guide-for-all-races-updated-2017-2.md",
-      "title": "Learn to play Starcraft - Basic Guide for ALL RACES (updated 2017) #2",
-      "excerpt": "Starcraft 2: Legacy of the Void -  Send replays: winterreplays@gmail.com ( -- Watch live at https://www.twitch.tv/wintergaming",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-to-play-starcraft-basic-guide-for-all-races-updated-2017-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-to-play-starcraft-basic-guide-for-all-races-updated-2017-2/",
-      "originalUrl": "https://youtube.com/watch?v=GUeqi7vEDvI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GUeqi7vEDvI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H28M37S",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-09-21T15:08:36-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GUeqi7vEDvI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-protoss-starter-guide-1-updated-2017.md",
       "title": "Learn to play Starcraft - Protoss Starter Guide #1 - Updated (2017)",
       "excerpt": "This guide is now slightly outdated with Patch 4.0, here is a completely up to date guide! https://www.youtube.com/watch?v=x3ZkSX0tJg4 We go over the basics of understanding Protoss, the SPACE WARRIOR RACE ;)  This guide is meant for those who have a basic understanding of Starcraft but don't really",
@@ -921,6 +891,36 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-shift-key-makes-it-easy-workers-to-gas-waypoints-ctrl-grps-moving.md",
+      "title": "Learn to play Starcraft - Shift Key MAKES IT EASY! (workers to gas, waypoints, ctrl grps, moving)",
+      "excerpt": "impromptu guide on the utility of the shift hotkey for a bit of everything",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-to-play-starcraft-shift-key-makes-it-easy-workers-to-gas-waypoints-ctrl-grps-moving/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/winterstarcraft-learn-to-play-starcraft-shift-key-makes-it-easy-workers-to-gas-waypoints-ctrl-grps-moving/",
+      "originalUrl": "https://youtube.com/watch?v=7x9pHr544oY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7x9pHr544oY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M20S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-11-19T09:05:30-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7x9pHr544oY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
       ]
     }
   ],

@@ -4,82 +4,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-serrals-impeccable-defence-rogue-vs-serral.md",
-      "title": "StarCraft 2: Serral's IMPECCABLE Defence! (Rogue vs Serral)",
-      "excerpt": "Professional match of StarCraft 2 between Rogue and Serral. Two of the very best Zerg players face off against each other in a very high level game of Zerg versus Zerg.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serrals-impeccable-defence-rogue-vs-serral/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serrals-impeccable-defence-rogue-vs-serral/",
-      "originalUrl": "https://youtube.com/watch?v=iI8P-dfb_6g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iI8P-dfb_6g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iI8P-dfb_6g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-05-07T02:54:23-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serrals-proxy-hatchery-serral-vs-soul.md",
-      "title": "StarCraft 2: SERRAL'S PROXY HATCHERY! (Serral vs souL)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between Serral and souL. In this series Serral players differently than he usually does. In the first game he opens up with a Proxy Hatchery rush... A little bit of Zerg cheese.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serrals-proxy-hatchery-serral-vs-soul/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serrals-proxy-hatchery-serral-vs-soul/",
-      "originalUrl": "https://youtube.com/watch?v=s3X0i5us-Hc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s3X0i5us-Hc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/s3X0i5us-Hc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-07-29T04:07:45-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-serrals-sky-toss-problems-zoun-vs-serral.md",
       "title": "StarCraft 2: Serral's SKY TOSS Problems?! (Zoun vs Serral)",
       "excerpt": "Professional match of StarCraft 2 between Serral (Zerg) and Zoun (Protoss). This game was played during the offline event of Dreamhack Atlanta. Zerg vs Protoss is considered to be one of Serral's best matchups. He has consistently had a ridiculous winrate against Protoss over the years. In this game",
@@ -1152,6 +1076,82 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-04-23T02:35:20-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-amazing-comeback-rogue-vs-cure.md",
+      "title": "StarCraft 2: The AMAZING Comeback! (Rogue vs Cure)",
+      "excerpt": "Cure versus Rogue in a top level game of professional StarCraft 2. This is your quintessential \"standard\" macro game in the Terran versus Zerg matchup.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-amazing-comeback-rogue-vs-cure/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-amazing-comeback-rogue-vs-cure/",
+      "originalUrl": "https://youtube.com/watch?v=fwlFm-mAao8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fwlFm-mAao8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M12S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fwlFm-mAao8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-28T03:19:42-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-baneling-bust-bo5.md",
+      "title": "StarCraft 2: THE BANELING BUST! (Bo5)",
+      "excerpt": "Best-of-5 series between herO and Impact, two professional gamers. Subscribe for more videos: http://lowko.tv/youtube Zerg vs Terran Insanity: https://goo.gl/83veq9  An awesome series of professional StarCraft 2. Impact is known to play very aggressive, however what makes him so scary is the fact that",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-baneling-bust-bo5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-baneling-bust-bo5/",
+      "originalUrl": "https://youtube.com/watch?v=xetD1acjuEI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xetD1acjuEI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M49S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xetD1acjuEI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-01-15T07:05:21-08:00"
     }
   ],
   "nextPage": 17

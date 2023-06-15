@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/stormgate-sure-looks-like-star
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/stormgate-sure-looks-like-starcraft-meets-warcraft-in-first-gameplay-reveal/1100-6515093/"
 type: article
 quality: 95
-heat: 276
+heat: 256
 published: true
 
 provider:
@@ -128,15 +128,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "2023 Starcraft MVX Surf"
-    excerpt: "Join Garrett Cortese aboard the Starcraft MVX Surf. Enjoy all of the water sports action such as wakeboarding, wake surfing, foiling and tubing, along with a killer layout with plenty of room for lounging. Starcraft has combined their knowledge of ..."
-    publishedDateTime: 2023-05-26T13:02:00Z
-    webUrl: "https://www.boatingmag.com/sponsored-post/2023-starcraft-mvx-surf/"
-    type: article
-    provider:
-      name: Boating
-      domain: boatingmag.com
-    quality: 17
   - title: "1978 Starcraft Co Values, Specs and Prices"
     excerpt: "Possessing a long-running history in boat construction that reaches back to 1903, Starcraft is experienced in building boats with aluminum and fiberglass hulls. Starcraft produces a wide range of watercraft, offering a diverse assortment of fishing ..."
     publishedDateTime: 2023-06-12T12:01:00Z

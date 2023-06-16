@@ -1030,6 +1030,7 @@ items:
   - pig-he-bet-i-couldnt-win-while-doing-pushups-every-90-seconds-challenge-pig-starcraft-2
   - pig-cheeser-gets-mad-that-doom-drops-dont-autowin-games-icyfar-weird-harassment-starcraft-2
   - pig-the-pro-game-so-bad-a-caster-screamed-you-imbecile-starcraft-2
+  - pig-pf-rushing-a-guy-doing-a-mothership-rush-starcraft-2
   - pig-spine-crawler-ling-rush-hour-the-sex-panther-build-starcraft-2
   - pig-wings-of-liberty-nightmare-difficulty-hardest-rts-campaign-ever-part-1-starcraft-2
   - pig-artosis-plays-sc2-for-the-first-time-in-6-years

@@ -4,6 +4,84 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-serrals-weird-zerg-builds-vs-gumiho-best-of-3.md",
+      "title": "StarCraft 2: Serral's WEIRD Zerg Builds vs GuMiho! (Best-of-3)",
+      "excerpt": "Best-of-3 series of StarCraft 2 between Serral (Zerg) and GuMiho (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips  Twitch livestream: https://twitch.tv/lowkotv Live most days 2-8 PM CET / CEST  The hardware I",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serrals-weird-zerg-builds-vs-gumiho-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serrals-weird-zerg-builds-vs-gumiho-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=SlwNUwgSeIU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SlwNUwgSeIU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SlwNUwgSeIU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-04-14T02:59:17-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-surprising-gumiho-with-strange-zerg-drops-best-of-3.md",
+      "title": "StarCraft 2: SURPRISING GuMiho with Strange Zerg Drops! (Best-of-3)",
+      "excerpt": "Best-of-3 series of Zerg vs Terran in StarCraft 2 between Erik and GuMiho. This is a series with some very unique Zerg strategies and build orders. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-surprising-gumiho-with-strange-zerg-drops-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-surprising-gumiho-with-strange-zerg-drops-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=TJezGProI74",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TJezGProI74\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M31S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TJezGProI74/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-22T03:49:14-07:00"
+    },
+    {
       "path": "_games/sc2hl-marus-mass-ghost-strategy-starcraft-2-maru-vs-solar.md",
       "title": "Maru's MASS GHOST STRATEGY - Starcraft 2: Maru vs. Solar",
       "excerpt": "Maru playing Solar in a best of 5, with both players using different strategies. Maru's mass ghost style, Solar's baneling/zergling rush.  Match: Maru vs. Solar Tournament: IEM Katowice 2023 VODs: https://twitch.tv/esl_sc2   ► Enjoy the content? Buy me a coffee! https://www.ko-fi.com/SC2HL ► SUBSCRIBE",
@@ -776,44 +854,6 @@
       "publishedDateTime": "2022-09-01T04:12:22-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-sudden-brood-lord-switch-ragnarok-vs-cure.md",
-      "title": "StarCraft 2: Sudden BROOD LORD Switch! (Ragnarok vs Cure)",
-      "excerpt": "Professional match of StarCraft 2 between Cure (Terran) and Ragnarok (Zerg). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-sudden-brood-lord-switch-ragnarok-vs-cure/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-sudden-brood-lord-switch-ragnarok-vs-cure/",
-      "originalUrl": "https://youtube.com/watch?v=utaXNqK-NUM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/utaXNqK-NUM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M57S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/utaXNqK-NUM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-04-21T03:16:33-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-dark-vs-zest-ultras-vs-protoss-best-of-5.md",
       "title": "StarCraft 2: Dark vs Zest - ULTRAS vs Protoss?! (Best-of-5)",
       "excerpt": "Best-of-5 series of professional StarCraft 2 between Dark and Zest. In this match we see both players constantly trying to outsmart each other with a variety of tactics, strategies and unit compositions.  Dark vs Zest on Beckett Industries: https://youtu.be/mUG5ryGpiV8  Support my work on Patreon: http://www.patreon.com/lowkotv",
@@ -1228,37 +1268,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-02T21:45:22-07:00"
-    },
-    {
-      "path": "_games/pig-terran-experiment-confuses-zerg-opponent-2-tvz-games-diamond-in-the-ruff-66-starcraft-2.md",
-      "title": "Terran Experiment Confuses Zerg Opponent (2 TvZ games) | Diamond in the Ruff #66 - StarCraft 2",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-terran-experiment-confuses-zerg-opponent-2-tvz-games-diamond-in-the-ruff-66-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-terran-experiment-confuses-zerg-opponent-2-tvz-games-diamond-in-the-ruff-66-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=RxpSjmptAuM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RxpSjmptAuM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RxpSjmptAuM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-03-09T17:38:59-08:00"
     }
   ],
   "nextPage": 4

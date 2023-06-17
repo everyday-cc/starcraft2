@@ -680,36 +680,6 @@
       "publishedDateTime": "2023-06-10T04:59:48-07:00"
     },
     {
-      "path": "_games/pig-bm-protoss-gets-instant-karma-salt-mines-36-starcraft-2.md",
-      "title": "BM Protoss gets INSTANT KARMA | Salt Mines #36 - StarCraft 2",
-      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-bm-protoss-gets-instant-karma-salt-mines-36-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-bm-protoss-gets-instant-karma-salt-mines-36-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=-j0zFLgS96U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-j0zFLgS96U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M25S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 137,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-j0zFLgS96U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-16T17:42:14-07:00"
-    },
-    {
       "path": "_games/pig-when-you-go-mass-ling-drops-but-theyve-got-skytoss-starcraft-2.md",
       "title": "When you go mass ling drops, but they've got SKYTOSS! - StarCraft 2",
       "excerpt": "I gave myself a challenge: to do mass zerg drops. LOTS OF DROPS. Let's see how it does on the StarCraft 2 ladder -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig",
@@ -987,7 +957,7 @@
       "topics": [
         "StarCraft 2"
       ],
-      "heat": 114,
+      "heat": 115,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/umrf_-Wge2Q/maxresdefault.jpg",
@@ -999,6 +969,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-06-09T04:07:08-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-beautiful-game-the-world-champion-oliveira-vs-dark.md",
+      "title": "StarCraft 2: BEAUTIFUL GAME - The World Champion Oliveira vs Dark!",
+      "excerpt": "Professional match of StarCraft 2 between Dark (Zerg) and Oliveira (Terran). This is a relatively 'standard' game in the Zerg vs Terran matchup, but played at an incredibly high skill level.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-beautiful-game-the-world-champion-oliveira-vs-dark/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-beautiful-game-the-world-champion-oliveira-vs-dark/",
+      "originalUrl": "https://youtube.com/watch?v=FSHSH275Xvw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FSHSH275Xvw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M47S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FSHSH275Xvw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-28T02:06:50-07:00"
     }
   ],
   "nextPage": 3

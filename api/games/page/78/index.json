@@ -4,6 +4,66 @@
   "page": 78,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-ghosts-vs-proxy-hatch-cheese-diamond-in-the-ruff-21.md",
+      "title": "StarCraft 2 - GHOSTS VS PROXY HATCH CHEESE! | Diamond in the Ruff #21",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Zerg opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-ghosts-vs-proxy-hatch-cheese-diamond-in-the-ruff-21/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-ghosts-vs-proxy-hatch-cheese-diamond-in-the-ruff-21/",
+      "originalUrl": "https://youtube.com/watch?v=GIQcqUv0apc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GIQcqUv0apc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M9S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GIQcqUv0apc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-11T09:00:05-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-grabbin-zergs-by-the-snatchery-the-florencio-files-140.md",
+      "title": "StarCraft 2 - Grabbin Zergs by the Snatchery | The Florencio Files #140",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-grabbin-zergs-by-the-snatchery-the-florencio-files-140/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-grabbin-zergs-by-the-snatchery-the-florencio-files-140/",
+      "originalUrl": "https://youtube.com/watch?v=xX5xEqOY_BY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xX5xEqOY_BY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M41S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xX5xEqOY_BY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-05T01:00:23-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-grim-cheeses-pro-players-2-games-grim-reaper-19.md",
       "title": "StarCraft 2 - GRIM CHEESES PRO PLAYERS! (2-games) | Grim Reaper #19",
       "excerpt": "Grim Reaper shows us his tricky, cheesy Protoss plays in these unique games against Starcraft pros Kas (Terran) and PtitDrogo (Protoss). Even more unbelievable is what happens in game 2, a draw?! This does not happen often 🐷 Support PiG: https://www.pigstarcraft.com/support/  The Grim Reaper Playlist:",
@@ -841,66 +901,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-25T09:00:31-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-i-like-to-welcome-thieves-into-my-property-the-florencio-files-64.md",
-      "title": "StarCraft 2 - \"I like to welcome thieves into my property\" | The Florencio Files #64",
-      "excerpt": "YES that is indeed Florencio in the Thumbnail!  I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-i-like-to-welcome-thieves-into-my-property-the-florencio-files-64/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-i-like-to-welcome-thieves-into-my-property-the-florencio-files-64/",
-      "originalUrl": "https://youtube.com/watch?v=Y7jpp4xCa7k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y7jpp4xCa7k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M30S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Y7jpp4xCa7k/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-05-15T14:48:03-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-i-made-too-much-mistake-florencio-files-177.md",
-      "title": "StarCraft 2 -  \"I MADE TOO MUCH MISTAKE\" | Florencio Files #177",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜 Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-i-made-too-much-mistake-florencio-files-177/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-i-made-too-much-mistake-florencio-files-177/",
-      "originalUrl": "https://youtube.com/watch?v=vPOB1dGausA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vPOB1dGausA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M57S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vPOB1dGausA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-21T09:00:16-07:00"
     }
   ],
   "nextPage": 79

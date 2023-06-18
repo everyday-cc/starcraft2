@@ -4,6 +4,37 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-advanced-terran-when-to-attack-protoss-with-a-3-1-1-opening.md",
+      "title": "[Advanced Terran] When To Attack Protoss? (with a 3-1-1 opening)",
+      "excerpt": "[Advanced] When To Attack Protoss? (with a 3-1-1 opening) #Terran #Starcraft #SC2  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-advanced-terran-when-to-attack-protoss-with-a-3-1-1-opening/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-advanced-terran-when-to-attack-protoss-with-a-3-1-1-opening/",
+      "originalUrl": "https://youtube.com/watch?v=UhyYaKFvkuo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UhyYaKFvkuo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M45S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2022-06-17T16:52:50-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UhyYaKFvkuo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-another-zerg-progamer-can-i-survive-their-all-in-starcraft-2.md",
       "title": "Another ZERG PROGAMER... Can I survive their all in? [Starcraft 2]",
       "excerpt": "Today we are looking at a game I played on ladder vs CHAM, one of the stronger players in Latin America. I'm trying this new void ray style vs zerg and it's REALLY strong. Imba?  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
@@ -342,37 +373,6 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-how-to-defend-cannon-rush-starcraft-2-zerg-guide-2022.md",
-      "title": "How To Defend Cannon Rush | Starcraft 2 Zerg Guide (2022)",
-      "excerpt": "#Starcraft #SC2 #zerg  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-how-to-defend-cannon-rush-starcraft-2-zerg-guide-2022/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-how-to-defend-cannon-rush-starcraft-2-zerg-guide-2022/",
-      "originalUrl": "https://youtube.com/watch?v=9Fsc01NwDoU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9Fsc01NwDoU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M50S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2022-09-11T13:21:39-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9Fsc01NwDoU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
       ]
     },
     {
@@ -779,37 +779,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-defensive-protoss-vs-terran.md",
-      "title": "Mastering Starcraft 2: Defensive Protoss vs Terran",
-      "excerpt": "In today's Starcraft 2 tutorial we look at a high-grandmaster match between myself and Lord Timorus. I'm using a very defensive protoss style with colossus and blink vs a mine drop into 3 rax. Let's master Starcraft 2 together!  #Starcraft #protoss #colossus #sc2 #guide #RTS #realtimestrategy #StarCraft2",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-defensive-protoss-vs-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-defensive-protoss-vs-terran/",
-      "originalUrl": "https://youtube.com/watch?v=YnueSrwKGAc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YnueSrwKGAc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M21S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-14T17:16:10-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YnueSrwKGAc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-easy-micro-techniques-mostly-to-wreck-zergs.md",
       "title": "Mastering Starcraft 2: Easy micro techniques (mostly) to WRECK zergs",
       "excerpt": "In this episode of the mini-series Hyper-Aggressive TvZ we take a look at some micro techniques you can use in your own games to significantly improve the performance of your army. Just don't forget to macro xD  Mastering Starcraft 2: Easy micro techniques (mostly) to WRECK zergs #StarCraft2 #Terran",
@@ -920,6 +889,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/muVYdxkIoTo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-protoss-vs-terran.md",
+      "title": "Mastering Starcraft 2 | Protoss vs Terran",
+      "excerpt": "In today's video we take a look at a super hyper-aggressive  PvT style where I open up 3gateRobo into a chargelot attack. Parting would be proud. That's all this is... I'm just trying to get the big boi's attention ;)  Starcraft 2: Protoss vs Terran | What if I just... don't research blink... have I",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-protoss-vs-terran/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-protoss-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=LRe42knyipo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LRe42knyipo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M26S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-10T18:16:24-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LRe42knyipo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

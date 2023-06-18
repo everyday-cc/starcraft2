@@ -1,0 +1,27 @@
+---
+title: "Wings of Liberty NIGHTMARE DIFFICULTY: Part 3 - StarCraft 2"
+excerpt: "My first try at Nightmare Difficulty Mode StarCraft 2 Campaign created by GiantGrantGames and his amazing modding community. Having lots of fun with it! Here's the third part  0:00 Did I throw the game?! 0:05 Outbreak -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom"
+originalUrl: https://youtube.com/watch?v=emV7xNEXWwc
+type: video
+length: PT54M51S
+publishedDateTime: 2023-06-10T12:35:06Z
+heat: 85
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/emV7xNEXWwc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: PiG
+  domain: youtube.com
+
+topics:
+  - StarCraft 2
+
+images:
+  - url: https://i.ytimg.com/vi/emV7xNEXWwc/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "xtOFumU/ngwhadRZD5Q1BkYwkPv/Xasonh68hbQs4H3p528yOzeXh5QDAeQZUUs/SRPiJQ2RiZFNzwpD1WAQFZexhFHfVnnEIX94ya6LBYBJLDzD9PHDUswhxna05wX/SDx4oCuIG32QKPNr5JJN1Nmn8WpOls2iKQLSXZeOfodWv3TOQSV6rfzRNMnm/HAJJSSvjfORmYDxcacx4HBM+Gl2chLSipHPTvWVdPUHYNAZSMZVE5CYUkmq6HWI/W7pRt8DMIxmixD9lAHnA4RQ9pgi3wPkx7Xp0z0s+y4uyzR/0uNfRZb6FXW6x84LSwUAgllyvHMtyMXM495XP32FcX6v993C1w2TbJODh5wOzhei2hspy9jHSe31COlGSPi6CPPFGRaYTSeuefRGEwNdAw==;73osfdSCkJ1Me/zdy2yGow=="
+---
+

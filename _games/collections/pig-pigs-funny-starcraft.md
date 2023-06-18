@@ -1038,6 +1038,7 @@ items:
   - pig-torturing-a-4-player-terran-archon-with-meme-builds-starcraft-2
   - pig-this-guy-has-been-role-playing-on-sc2-ladder-for-10-years-straight-wheel-of-cheese
   - pig-wings-of-liberty-nightmare-difficulty-part-2-starcraft-2
+  - pig-wings-of-liberty-nightmare-difficulty-part-3-starcraft-2
 
 topics:
   - StarCraft 2

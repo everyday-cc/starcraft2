@@ -4,94 +4,6 @@
   "page": 68,
   "value": [
     {
-      "path": "_games/pig-jebaited-icyfar-g3-pig-daily-176.md",
-      "title": "Jebaited - ICYFAR - G3 PiG Daily #176",
-      "excerpt": "In this week’s ICYFAR players had to win whilst showing off their best baits! ICYFAR is a fun weekly challenge where I cast games submitted by viewers of all skill levels.   Follow me on social media to keep up to date: https://twitter.com/x5_PiG https://twitter.com/x5_PiG https://www.instagram.com/pigsc2/",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-jebaited-icyfar-g3-pig-daily-176/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-jebaited-icyfar-g3-pig-daily-176/",
-      "originalUrl": "https://youtube.com/watch?v=7HuFtGZCc5E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7HuFtGZCc5E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M24S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7HuFtGZCc5E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-jimmy-carr-roaches-offshore-accounts-icyfar-g1.md",
-      "title": "Jimmy Carr Roaches | Offshore Accounts ICYFAR G1",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to use hidden bases as much as possible!   ICYFAR will be on Hiatus for about 2 weeks whilst PiG is casting IEM Katowice - I'll announce a new topic as soon as I return around March 4th!",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-jimmy-carr-roaches-offshore-accounts-icyfar-g1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-jimmy-carr-roaches-offshore-accounts-icyfar-g1/",
-      "originalUrl": "https://youtube.com/watch?v=AnqSIQb22Ec",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AnqSIQb22Ec\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M24S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AnqSIQb22Ec/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-jump-around-interpretive-dance-icyfar-g5.md",
-      "title": "Jump Around! | Interpretive Dance ICYFAR G5",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they had to play in accordance to their favorite song!  NEW ICYFAR CHALLENGE: \"\"Slow gas diet\" - it's time to get rid of those smelly vespene farts! You're only allowed to mine each geyser with",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-jump-around-interpretive-dance-icyfar-g5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-jump-around-interpretive-dance-icyfar-g5/",
-      "originalUrl": "https://youtube.com/watch?v=9LZkyT_U-8c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9LZkyT_U-8c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M9S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9LZkyT_U-8c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-just-do-it-surgical-warfare-icyfar-g5.md",
       "title": "Just DO IT! | Surgical Warfare ICYFAR G5",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to cut their loses to a minimum.  \"Tricks are what a wh@\"! does for money\" - Use as many spellcasters in as creative a way as possible! Send submissions to fluxiorsc@gmail.com as attachment",
@@ -915,6 +827,97 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-09-30T22:04:11-07:00"
+    },
+    {
+      "path": "_games/pig-mass-viking-cyclone-tvp-twitch-plays-pig-34.md",
+      "title": "Mass Viking Cyclone TvP! | Twitch Plays PiG #34",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-mass-viking-cyclone-tvp-twitch-plays-pig-34/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-mass-viking-cyclone-tvp-twitch-plays-pig-34/",
+      "originalUrl": "https://youtube.com/watch?v=G5-agn-UeJ8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G5-agn-UeJ8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M9S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/G5-agn-UeJ8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-02-16T08:17:15-08:00"
+    },
+    {
+      "path": "_games/pig-mass-winner-mines-icyfar-momentum-compilation-sc2.md",
+      "title": "MASS WINNER MINES! | ICYFAR Momentum Compilation - sc2",
+      "excerpt": "Note: this video had to be re-uploaded due to youtube issues with the previous one yesterday. 0:00 G1-You can’t win if I take every base on the map! 31:15 G2-Winner Mines! 57:19 G3-Double the Efficiency!  In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their funny",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-mass-winner-mines-icyfar-momentum-compilation-sc2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-mass-winner-mines-icyfar-momentum-compilation-sc2/",
+      "originalUrl": "https://youtube.com/watch?v=zNCUz-M05ug",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zNCUz-M05ug\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H35M47S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zNCUz-M05ug/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-meathead-on-steroids-cant-do-the-splits-observation-balloons-g3.md",
+      "title": "Meathead on steroids can’t do the splits - Observation Balloons G3",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they brought as many useless units or buildings to each fight as possible. Let the upper classes observe the peasants bleed for them!  CURRENT ICYFAR CHALLENGE: \"Binary Impersonation - Do your best",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-meathead-on-steroids-cant-do-the-splits-observation-balloons-g3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-meathead-on-steroids-cant-do-the-splits-observation-balloons-g3/",
+      "originalUrl": "https://youtube.com/watch?v=zJep72NDrFw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zJep72NDrFw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zJep72NDrFw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
     }
   ],
   "nextPage": 69

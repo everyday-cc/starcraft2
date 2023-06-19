@@ -4,6 +4,45 @@
   "page": 6,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-new-patch-byun-vs-dark-grand-finals.md",
+      "title": "StarCraft 2: NEW PATCH - ByuN vs Dark! (Grand Finals)",
+      "excerpt": "Best-of-5 series of high level StarCraft 2 between Dark (Zerg) and ByuN (Terran). These games are played on the StarCraft 2 PTR with all the new balance changes.   New SC2 patch: https://youtu.be/y87c1xp3I3Q  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-patch-byun-vs-dark-grand-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-patch-byun-vs-dark-grand-finals/",
+      "originalUrl": "https://youtube.com/watch?v=G6EOaBTKXhg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G6EOaBTKXhg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/G6EOaBTKXhg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-29T00:20:05-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-new-patch-parasitic-bomb-on-colossus-dark-vs-hero.md",
       "title": "StarCraft 2: NEW PATCH - Parasitic Bomb on COLOSSUS?! (Dark vs herO)",
       "excerpt": "Best-of-5 series of top level StarCraft 2 between Dark (Zerg) and herO (Protoss). This series is played on the new balance patch and is the finals of the ESL Open Cup 155 Korea.  Epic game 1 between Dark and herO: https://youtu.be/_a2Y-qIoLiQ  Support my work: https://patreon.com/lowkotv Lowko Merch:",
@@ -647,6 +686,37 @@
       "publishedDateTime": "2021-11-02T00:55:49-07:00"
     },
     {
+      "path": "_games/pig-zerg-abuses-the-supply-cap-that-everyones-forgotten-about-diamond-in-the-ruff-75-starcraft-2.md",
+      "title": "Zerg Abuses the Supply Cap (that everyone’s forgotten about) | Diamond in the Ruff #75 - StarCraft 2",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up this feisty Zerg opponent, aGiLe, who has abused the zerg supply cap?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-zerg-abuses-the-supply-cap-that-everyones-forgotten-about-diamond-in-the-ruff-75-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-zerg-abuses-the-supply-cap-that-everyones-forgotten-about-diamond-in-the-ruff-75-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=rIDsZgZvY1k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rIDsZgZvY1k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M15S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rIDsZgZvY1k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-18T20:56:07-07:00"
+    },
+    {
       "path": "_games/pig-zergs-sick-burrowed-banelings-breaks-terrans-brain-pig-vs-catz-starcraft-2.md",
       "title": "Zerg's SICK Burrowed Banelings Breaks Terran's Brain (PiG vs Catz) - StarCraft 2",
       "excerpt": "Subscribe to PiG Casts! 🐷 Catz has such a wild playstyle, always so much fun to play against him! You never know what to expect, like a wild burrowed baneling bomb that shatters your brain haha -- 🐷 Main Channel: https://www.youtube.com/user/PiGstarcraft 🐷 Second Channel for Learning StarCraft 2:",
@@ -676,44 +746,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-05-05T01:51:02-07:00"
-    },
-    {
-      "path": "_games/sc2hl-bunnys-massive-thor-push-starcraft-2-solar-vs-bunny.md",
-      "title": "Bunny's MASSIVE THOR PUSH - Starcraft 2: Solar vs. Bunny",
-      "excerpt": "Amazing game between Solar & Bunny - Bunny building one of the strongest Terran armies with a mass thor push.   Match: Solar vs. Bunny Tournament: Starcraft 2 - GSL Code S - Season 3 2022  VODs: https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg  ► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-bunnys-massive-thor-push-starcraft-2-solar-vs-bunny/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-bunnys-massive-thor-push-starcraft-2-solar-vs-bunny/",
-      "originalUrl": "https://youtube.com/watch?v=zZ2xULYNVMY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zZ2xULYNVMY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M7S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zZ2xULYNVMY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-04-02T06:00:39-07:00"
     },
     {
       "path": "_games/sc2hl-speed-banshees-vs-swarm-hosts-starcraft-2-maru-vs-solar.md",
@@ -1023,39 +1055,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-08-25T15:39:23-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-lurkers-broodlords-vs-mass-infestors.md",
-      "title": "StarCraft 2: Lurkers & Broodlords VS Mass Infestors!",
-      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  Also, I will soon begin to make videos featuring",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-lurkers-broodlords-vs-mass-infestors/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-lurkers-broodlords-vs-mass-infestors/",
-      "originalUrl": "https://youtube.com/watch?v=2V4j66EVPGQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2V4j66EVPGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M59S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2V4j66EVPGQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-09-08T16:44:32-07:00"
     }
   ],
   "nextPage": 7

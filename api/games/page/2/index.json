@@ -4,6 +4,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-serral-vs-clem-is-the-greatest-sc2-ive-ever-seen.md",
+      "title": "StarCraft 2: Serral vs Clem is THE GREATEST SC2 I've ever seen!",
+      "excerpt": "Amazing best-of-5 series of StarCraft 2. Serral (Zerg) vs Clem (Terran) is the highest level of SC2 I've seen all year, with a very unique strategy in the final game of this series. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-clem-is-the-greatest-sc2-ive-ever-seen/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-clem-is-the-greatest-sc2-ive-ever-seen/",
+      "originalUrl": "https://youtube.com/watch?v=D9G5nCxXZW4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D9G5nCxXZW4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H20M46S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 172,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/D9G5nCxXZW4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-25T04:07:42-07:00"
+    },
+    {
       "path": "_games/pig-artosis-plays-sc2-for-the-first-time-in-6-years.md",
       "title": "ARTOSIS plays SC2 for the first time in 6 YEARS",
       "excerpt": "@ArtosisTV  was playing StarCraft 2 for the first time in years! Give him a follow and check out his SC2 stream vod: https://www.twitch.tv/videos/1840460541 -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
@@ -224,44 +262,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-03T20:36:28-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-proxy-nexus-into-mass-sentry.md",
-      "title": "StarCraft 2: Proxy NEXUS into Mass SENTRY!",
-      "excerpt": "Two viewer submitted games of StarCraft 2, with some of the strangest strategies that I've ever seen. Proxy Refinery and a Proxy Nexus?!  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  00:00 Proxy Refinery 12:07 Proxy Nexus  My YouTube channels: https://youtube.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-nexus-into-mass-sentry/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-proxy-nexus-into-mass-sentry/",
-      "originalUrl": "https://youtube.com/watch?v=J5VXTeiQTwc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J5VXTeiQTwc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 148,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/J5VXTeiQTwc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-08T03:18:53-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-zesty-mind-games-vs-rogue-best-of-5.md",
@@ -866,44 +866,6 @@
       "publishedDateTime": "2023-05-21T23:44:05-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-creators-confusing-protoss-build-orders-best-of-3.md",
-      "title": "StarCraft 2: Creator's CONFUSING Protoss Build Orders! (Best-of-3)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between DRG (Zerg) and Creator (Protoss). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-creators-confusing-protoss-build-orders-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-creators-confusing-protoss-build-orders-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=UQE8ydcfz3Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UQE8ydcfz3Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M44S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UQE8ydcfz3Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-04-20T03:28:12-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-gumihos-speed-banshees-vs-solar.md",
       "title": "StarCraft 2: GuMiho's SPEED BANSHEES vs Solar!",
       "excerpt": "Professional match of StarCraft 2 between Solar (Zerg) and GuMiho (Terran) focused around Terran Battle Mech. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch",
@@ -972,14 +934,14 @@
       "publishedDateTime": "2022-04-27T23:30:12-07:00"
     },
     {
-      "path": "_games/sc2hl-marus-impossible-defense-starcraft-2-maru-vs-dark.md",
-      "title": "Maru's IMPOSSIBLE DEFENSE - Starcraft 2: Maru vs. Dark",
-      "excerpt": "Maru vs. Dark in an incredible Starcraft 2 match during the GSL, both players stretching themselves to the limit showing their macro skills. Maru playing the impossible defense.   Watch the Starcraft 2 - GSL Code S 2022: https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg   ► Enjoy the content?",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-marus-impossible-defense-starcraft-2-maru-vs-dark/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-marus-impossible-defense-starcraft-2-maru-vs-dark/",
-      "originalUrl": "https://youtube.com/watch?v=MZ--UYhR1YQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MZ--UYhR1YQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M9S",
+      "path": "_games/sc2hl-bunnys-massive-thor-push-starcraft-2-solar-vs-bunny.md",
+      "title": "Bunny's MASSIVE THOR PUSH - Starcraft 2: Solar vs. Bunny",
+      "excerpt": "Amazing game between Solar & Bunny - Bunny building one of the strongest Terran armies with a mass thor push.   Match: Solar vs. Bunny Tournament: Starcraft 2 - GSL Code S - Season 3 2022  VODs: https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg  ► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-bunnys-massive-thor-push-starcraft-2-solar-vs-bunny/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-bunnys-massive-thor-push-starcraft-2-solar-vs-bunny/",
+      "originalUrl": "https://youtube.com/watch?v=zZ2xULYNVMY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zZ2xULYNVMY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M7S",
       "provider": {
         "name": "SC2HL",
         "domain": "sc2hl.com",
@@ -994,13 +956,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
         "Zerg"
       ],
-      "heat": 112,
+      "heat": 111,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/MZ--UYhR1YQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/zZ2xULYNVMY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1009,6 +970,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-04-02T06:00:39-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-terran-kings-reign-supreme-viewer-games.md",
+      "title": "Starcraft 2: The TERRAN KINGS Reign Supreme! (Viewer Games)",
+      "excerpt": "Viewer games in StarCraft 2! Platinum League and Gold League gameplay. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-terran-kings-reign-supreme-viewer-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-terran-kings-reign-supreme-viewer-games/",
+      "originalUrl": "https://youtube.com/watch?v=gtmnV44njhg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gtmnV44njhg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M11S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 108,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gtmnV44njhg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-06-07T06:49:22-07:00"
     }
   ],
   "nextPage": 3

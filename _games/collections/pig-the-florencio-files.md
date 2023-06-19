@@ -291,6 +291,7 @@ items:
   - pig-the-sewer-mermaid-slips-behind-enemy-lines-florencio-files-280-starcraft-2
   - pig-420-iq-hallucination-trick-fools-protoss-florencio-files-281-starcraft-2
   - pig-the-depot-strategy-to-break-zerg-brains-florencio-files-282-starcraft-2
+  - pig-flo-fights-a-maphacker-florencio-riles-283-starcraft-2
 
 topics:
   - StarCraft 2

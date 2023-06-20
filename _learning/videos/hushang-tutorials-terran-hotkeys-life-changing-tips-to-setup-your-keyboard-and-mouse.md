@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT17M42S
 publishedDateTime: 2020-09-03T03:18:04Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kljRMVyUlfU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Bo+UndklG1Fbu6TqKlrdn5iDGLpjQUoD6n+kbBUnRJJLE5+tPVmOjPDj9/GkK3mbEMTRBlTjSuPRL7JjXxVRNAgTeu7E8y4EEC3YLGFLfVpR5uznu0I1yCNllcWE6GlnLkNVgCm8hu81Y2xW7Z2is6zh7+HOEOcJPww2snOharQL2e6+/F7146g9o6Mx2gX6rEUjLJAsLiC2++KDdI63aAbqaCADdqD7mSWBPqLbzY5NVuG3hhQpDlNmTHHeaMYFoK5deorgYavcUHDoZ5eFs2EQXpOeL6nmSqmdTyEsluTtJAeiECsHXzlgfTe+7N4ukgQ2xdHZaEH0Kw5F/OjO7Q9k4PHlX4R1+YKEQjlbVjD09sW0H81VvT1i6YH65YZcPOvZMk895TBOsTXNUhKWSfW7rusJs9imBJtQuSGhIqo=;ysE+gWw3CLf4f3OGBA0IBg=="
+secured: "uO0I3zOYsPTsdv0TZYfw/GFaMri//8MXtVMyYUIxYq7Iny2tCXR8gpMlwTpFUOlxu9SxE2spwvSWUSLngVTIk7XrhxkpD+h0GJOh46sZLJcaEQQzZhk7+kMbAziYo1m503Xrn3TzeRI5Ry9mECjjecLoD1Kmf9yCyKOzHq24zdHp4V++QsPnd++4qdIQrAMjGVurHCS4gXK4Eu2jGKObiamWlytTzYjEfmd1UEk0NfV+Z2moBK5ljrQA59PpkNxeP6X2l7YBxN9nFn5JTxzF5x+ORWdwzMmd+ws7c66XqafbYd6LdRBWbViQa03cewPrYrhENMcYR4SBqwE81ouYQMkeXN+cRX0FXyab5hluW4goAAGg4334MablgXpc5JPMNfoNmngMFxiqlvU8/YW9eawMLdCC7NZmmWCsp2N0XTo=;5mI1iEvrMssJoORQmfr1Bg=="
 ---
 

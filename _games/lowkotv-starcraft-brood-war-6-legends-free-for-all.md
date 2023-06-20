@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-brood-war-6-legend
 type: video
 length: PT32M28S
 publishedDateTime: 2021-02-26T17:55:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FQkwt8r0C8k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Zob9PW7QIXkosTwYJTyOfV1bhZWEIMK373h//EVCwduIViHui6eMj5GSL2SZ3XW+j3k/e+fsfrqsg6hoiloJL97C5D31HIgq8g+6+C7p1xB8SRlKuX8TPtYq/tG9SWIY0X3JxjgKBzZabtBTZsmgk42DT+6q4CrpQny2/d9WRczmnJ9lGxlG0hK2I+k9LbMfbBaTJsd6vwlDqBD1blMWoxFdEJm64H0OhdL9U0hmbLiZDt4uKxv5PXhEa4/KMqnKssNLHZoNntsP75Q1QliM/Si+VBANQjQQuD5uShfB5cJLNtdjrWhXLEyQUVbzFwdQxtraYlgH56K4gFYhRj3RNsnAFLmGuo1FHLbWWHJ8VY8y9q83ysjUavRPuBt0UBz85Sv8XbyRmdNO7ynkS6qa1wz2F95XX58Wci7DFXJ9M+Q=;iWiwOlnonum0zDBmSRAMlQ=="
+secured: "DeMk/gApeli192WTQEdZT6LZLpMuBI/FSRWbzvJ8Dco8FyLF9txzZ+b1/kiWX/ymr5JgNtU3wAP6nVh+XGzemQd7LK3q2RR7vKNKb6ejy32JNtOZaSGHRMueEd9uNXAXs+tP7k0wy3411Ji6pzhLZ94th2gxMSQ/MeeHPQ7c4Jexc+sFMjv5O5qnLzr6FDfs2YCjV0jB3ssTAXupT2f270pbkpHfzxrEXUxIrScD9lZT729SIuifSWZham386+g3RRXuDEXcorjWYjcbipXgva6m18aFMd4qOy9sMIoZ2HC8cZyLXsH7XNwuvmEbz4TmyfOTH04GOWIQh41dVIdRbpNv/wSZlGNBoU3JqgjVxlWXXICyevDfLEdebFlk96/5FqiEATIRu+zR+nZYW9ddQQYdba6ZjT6Xk0uiKwIvgb8=;x3uNcZnqz5LGfZEmMLiSdQ=="
 ---
 

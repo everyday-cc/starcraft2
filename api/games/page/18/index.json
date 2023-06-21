@@ -815,14 +815,14 @@
       "publishedDateTime": "2023-01-10T17:25:26-08:00"
     },
     {
-      "path": "_games/pig-the-fastest-map-possible-is-ridiculous-esp-with-bw-units-pigs-laboratory-starcraft-2.md",
-      "title": "The Fastest Map Possible is RIDICULOUS (esp with BW units) | PiG's Laboratory - StarCraft 2",
-      "excerpt": "We paid Special (Terran) and Cham (Zerg) to play on the \"rayfggfer Fastest Map Possible\" arcade map! It is ridiculous from start to finish, including the brood war units available from the Wings of Liberty campaign. Check out the PiG's Laboratory playlist: https://youtube.com/playlist?list=PLFUDU8AOevUd-zdmPIHGBi7xWwtua9Gtr",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-fastest-map-possible-is-ridiculous-esp-with-bw-units-pigs-laboratory-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-fastest-map-possible-is-ridiculous-esp-with-bw-units-pigs-laboratory-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=FpCv_-87GdE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FpCv_-87GdE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M12S",
+      "path": "_games/pig-telling-them-your-actual-strategy-to-mess-with-them-icyfar-new-years-resolutions-sc2.md",
+      "title": "Telling them your ACTUAL strategy to mess with them | ICYFAR New Years Resolutions - SC2",
+      "excerpt": "🤯 NEW ICYFAR CHALLENGE: \"PROXY EVERYTHING\" - proxy as much of your stuff as you can - try to have as few buildings as possible in your bases. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 30th January  🤯 In",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-telling-them-your-actual-strategy-to-mess-with-them-icyfar-new-years-resolutions-sc2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-telling-them-your-actual-strategy-to-mess-with-them-icyfar-new-years-resolutions-sc2/",
+      "originalUrl": "https://youtube.com/watch?v=jJusT0E0RYc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jJusT0E0RYc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M19S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -833,7 +833,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/FpCv_-87GdE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jJusT0E0RYc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -841,7 +841,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-07-23T15:59:09-07:00"
+      "publishedDateTime": "2023-01-05T13:10:05-08:00"
     },
     {
       "path": "_games/pig-the-fastest-viper-rush-strat-ive-ever-seen-also-the-dumbest-smooth-brain-santa-claws-8-sc2.md",

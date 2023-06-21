@@ -4,14 +4,52 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/pig-this-whiny-terran-is-just-an-angry-yapping-little-dog-salt-mines-28-starcraft-2.md",
-      "title": "This whiny Terran is just an ANGRY YAPPING LITTLE DOG | Salt Mines #28 - StarCraft 2",
+      "path": "_games/lowkotv-starcraft-2-whos-the-best-terran-in-the-world-grand-finals.md",
+      "title": "StarCraft 2: Who's the BEST Terran in the World? (Grand Finals)",
+      "excerpt": "Best-of-5 series of StarCraft 2 between Maru and ByuN. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  KSL's Patreon: https://www.patreon.com/KoreanStarcraftLeague/  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-whos-the-best-terran-in-the-world-grand-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-whos-the-best-terran-in-the-world-grand-finals/",
+      "originalUrl": "https://youtube.com/watch?v=E-CDpE7IYWE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E-CDpE7IYWE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M4S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/E-CDpE7IYWE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-01T04:13:05-07:00"
+    },
+    {
+      "path": "_games/pig-toss-has-rage-fit-cos-terran-bio-exists-salt-mines-26-starcraft-2.md",
+      "title": "Toss has RAGE FIT cos Terran bio exists | Salt Mines #26 - StarCraft 2",
       "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-whiny-terran-is-just-an-angry-yapping-little-dog-salt-mines-28-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-whiny-terran-is-just-an-angry-yapping-little-dog-salt-mines-28-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=nrX0cAFeNT8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nrX0cAFeNT8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M29S",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-toss-has-rage-fit-cos-terran-bio-exists-salt-mines-26-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-toss-has-rage-fit-cos-terran-bio-exists-salt-mines-26-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=ro3knys4sUg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ro3knys4sUg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M17S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -23,7 +61,7 @@
       "heat": 55,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/nrX0cAFeNT8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ro3knys4sUg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -31,7 +69,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-02-06T15:28:14-08:00"
+      "publishedDateTime": "2023-01-25T16:32:20-08:00"
     },
     {
       "path": "_games/sc2hl-epic-starcraft-2-game-1-hour-long-protoss-vs-terran-creator-vs-ty.md",
@@ -1096,45 +1134,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-25T07:48:59-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun.md",
-      "title": "StarCraft 2: PRO GAMERS PLAY 2v2 - Scarlett & Astrea vs Dark & ByuN!",
-      "excerpt": "Professional match of StarCraft 2 between Astrea & Scarlett on team North America and ByuN and Dark on team South Korea. Fantastic game on the 2v2 map \"Nightscape LE\".  OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun/",
-      "originalUrl": "https://youtube.com/watch?v=q9Lu_Oo-vio",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q9Lu_Oo-vio\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M28S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/q9Lu_Oo-vio/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-19T04:56:26-07:00"
     }
   ],
   "nextPage": 4

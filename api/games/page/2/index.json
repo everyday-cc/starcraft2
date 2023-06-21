@@ -4,6 +4,35 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/pig-wings-of-liberty-nightmare-difficulty-hardest-rts-campaign-ever-1-starcraft-2.md",
+      "title": "Wings of Liberty NIGHTMARE DIFFICULTY: Hardest RTS Campaign Ever #1 - StarCraft 2",
+      "excerpt": "My first try at Nightmare Difficulty Mode StarCraft 2 Campaign created by GiantGrantGames and his amazing modding community. Having lots of fun with it! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-wings-of-liberty-nightmare-difficulty-hardest-rts-campaign-ever-1-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-wings-of-liberty-nightmare-difficulty-hardest-rts-campaign-ever-1-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=qhwKB8Jj2Zw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qhwKB8Jj2Zw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H6M26S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 167,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qhwKB8Jj2Zw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-06-06T01:35:40-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-clem-is-the-greatest-sc2-ive-ever-seen.md",
       "title": "StarCraft 2: Serral vs Clem is THE GREATEST SC2 I've ever seen!",
       "excerpt": "Amazing best-of-5 series of StarCraft 2. Serral (Zerg) vs Clem (Terran) is the highest level of SC2 I've seen all year, with a very unique strategy in the final game of this series. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
@@ -731,44 +760,6 @@
       "publishedDateTime": "2022-09-05T04:02:46-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-serral-gets-outplayed.md",
-      "title": "StarCraft 2: Serral Gets OUTPLAYED?!",
-      "excerpt": "Professional match of StarCraft 2 between Serral (Zerg) and Gerald (Protoss). This is a long macro game with a focus on Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-gets-outplayed/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-gets-outplayed/",
-      "originalUrl": "https://youtube.com/watch?v=WVwOW0XTO8s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WVwOW0XTO8s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M44S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 121,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WVwOW0XTO8s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-17T07:03:26-07:00"
-    },
-    {
       "path": "_games/pig-when-winning-means-makes-you-a-devil-worshipper-salt-mines-31-starcraft-2.md",
       "title": "When winning means makes you a DEVIL WORSHIPPER?! | Salt Mines #31- StarCraft 2",
       "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
@@ -894,43 +885,6 @@
       "publishedDateTime": "2023-01-18T18:34:08-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-unique-new-maps-astrea-switches-to-random-best-of-5.md",
-      "title": "StarCraft 2: UNIQUE NEW MAPS - Astrea Switches to Random?! (Best-of-5)",
-      "excerpt": "Best-of-5 series of high level StarCraft 2 between Gerald (Protoss) and Astrea (Random). All games in this pro match are played on new maps from the Team Liquid Map Contest, the TLMC #18. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-unique-new-maps-astrea-switches-to-random-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-unique-new-maps-astrea-switches-to-random-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=HKDUieaVIyk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HKDUieaVIyk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M47S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 115,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HKDUieaVIyk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-12T01:49:53-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-serral-takes-on-the-world-champion-best-of-5.md",
       "title": "StarCraft 2: Serral takes on the WORLD CHAMPION! (Best-of-5)",
       "excerpt": "Best-of-5 series of top level StarCraft 2 between the highestst ranked player in the world (Serral) and the current World Champion of SC2 (Oliveira). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
@@ -967,6 +921,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-06-03T03:28:17-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-insane-final-fight-byun-vs-creator.md",
+      "title": "StarCraft 2: INSANE FINAL FIGHT - ByuN vs Creator!",
+      "excerpt": "Suddenly... Mass Battlecruiser! Insane game of StarCraft 2 between ByuN and Creator. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:  @LowkoTV @MoreLowko @LowkoClips    Twitch livestream: https://twitch.tv/lowkotv Live most days 2-8 PM CET / CEST  The",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-final-fight-byun-vs-creator/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-final-fight-byun-vs-creator/",
+      "originalUrl": "https://youtube.com/watch?v=jSZ0N4AShNY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jSZ0N4AShNY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M29S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jSZ0N4AShNY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-04-10T04:03:34-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-seige-tactics-g1.md",

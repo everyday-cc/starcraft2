@@ -4,6 +4,44 @@
   "page": 48,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-proxy-hatchery-vs-zerg-dark-vs-soo.md",
+      "title": "StarCraft 2: Proxy Hatchery vs... ZERG?! (Dark vs soO)",
+      "excerpt": "We've seen Dark execute Proxy Hatcheries versus Protoss frequently but also every once in a while against Terran. Now he does it against Zerg as well? In this game of StarCraft 2 I cast a match between the South-Korean players Dark and soO.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-hatchery-vs-zerg-dark-vs-soo/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-proxy-hatchery-vs-zerg-dark-vs-soo/",
+      "originalUrl": "https://youtube.com/watch?v=z_8ESJ7piww",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z_8ESJ7piww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M45S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/z_8ESJ7piww/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-02-28T02:47:38-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-proxy-nexus-cheese.md",
       "title": "StarCraft 2: Proxy Nexus CHEESE?!",
       "excerpt": "Florencio comes up with insane strategies, and somehow makes them work on the StarCraft 2 ladder. In this game I cast a match of Protoss versus Terran with a Proxy Nexus inside the main base of the Terran.  Get more videos & support my work: http://www.patreon.com/lowkotv  The 2019 balance update: https://youtu.be/N20YNAnyyA0",
@@ -1111,44 +1149,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-27T03:32:20-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-reynors-random-vs-heromarine-best-of-3.md",
-      "title": "StarCraft 2: Reynor's RANDOM vs HeroMarine! (Best-of-3)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 where Reynor decides to play Random (Zerg, Terran and Protoss) versus HeroMarine (Terran) in a best-of-3.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips    Twitch livestream:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynors-random-vs-heromarine-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-random-vs-heromarine-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=__dsUbb9yYQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/__dsUbb9yYQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/__dsUbb9yYQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-04-04T02:30:41-07:00"
     }
   ],
   "nextPage": 49

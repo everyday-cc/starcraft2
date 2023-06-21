@@ -4,6 +4,37 @@
   "page": 8,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-what-the-hell-is-this-bunker-rush-florencio-files-198.md",
+      "title": "StarCraft 2 - WHAT THE HELL IS THIS BUNKER RUSH? | Florencio Files #198",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-what-the-hell-is-this-bunker-rush-florencio-files-198/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-what-the-hell-is-this-bunker-rush-florencio-files-198/",
+      "originalUrl": "https://youtube.com/watch?v=HxN2568zcWA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HxN2568zcWA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M23S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HxN2568zcWA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-12-20T09:00:07-08:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-when-both-players-have-nfi-whats-happening-the-florencio-files-5.md",
       "title": "StarCraft 2 - When Both Players have NFI what’s happening | The Florencio Files #5",
       "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush\r  -- Watch live at https://www.twitch.tv/x5_pig",
@@ -967,39 +998,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-11-24T04:36:37-08:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-carriers-carriers-carriers-sky-protoss-to-grandmaster-episode-10.md",
-      "title": "StarCraft 2: CARRIERS CARRIERS CARRIERS!!! - Sky Protoss to Grandmaster Episode 10",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-carriers-carriers-carriers-sky-protoss-to-grandmaster-episode-10/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-carriers-carriers-carriers-sky-protoss-to-grandmaster-episode-10/",
-      "originalUrl": "https://youtube.com/watch?v=PDfTWn3xUrE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PDfTWn3xUrE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M1S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PDfTWn3xUrE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-09-24T12:15:42-07:00"
     }
   ],
   "nextPage": 9

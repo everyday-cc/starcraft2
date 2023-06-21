@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/blizzard-president-starcraft-best-ip/"
 webUrl: "https://gamerant.com/blizzard-president-starcraft-best-ip/"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:

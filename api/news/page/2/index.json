@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-19-stop-what-youre-doing-and-download-blizzards-starcraft-for-free.md",
+      "title": "Stop what you’re doing and download Blizzard’s StarCraft for free",
+      "excerpt": "When Remastered arrives, gamers will be able to play against each other regardless of what StarCraft version they’re running. The game was first launched in 1998, becoming a hit around the world ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/tech/starcraft-download-for-windows-and-mac/",
+      "originalUrl": "https://bgr.com/tech/starcraft-download-for-windows-and-mac/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2017/03/starcraft-remastered-release-date-trailer.jpg?quality=82&strip=all",
+          "width": 1110,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/tech/starcraft-download-for-windows-and-mac/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/starcraft-download-for-windows-and-mac/amp/",
+      "publishedDateTime": "2022-04-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-starcraft-3-may-have-just-been-teased-by-blizzards-president.md",
       "title": "StarCraft 3 may have just been teased by Blizzard’s President",
       "excerpt": "Fans think Blizzard President Mike Ybarra just teased a revival of the StarCraft franchise with a cryptic post.",
@@ -1144,48 +1186,6 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-starcraft-rv-recalls-various-travel-trailers-and-fifth-wheels.md",
-      "title": "Starcraft RV recalls various travel trailers and fifth wheels",
-      "excerpt": "StarCraft RV is recalling 11,853 of the following travel trailers and fifth wheels with a Winntec model 6020 two-stage propane regulator: model year",
-      "sourceUrl": null,
-      "webUrl": "https://www.consumeraffairs.com/recalls/starcraft-rv-recalls-various-travel-trailers-and-fifth-wheels-071321.html",
-      "originalUrl": "https://www.consumeraffairs.com/recalls/starcraft-rv-recalls-various-travel-trailers-and-fifth-wheels-071321.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.consumeraffairs.com/files/news/Autumn_Ridge_Starcraft.jpg",
-          "width": 600,
-          "height": 303,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.consumeraffairs.com/amp/recalls/starcraft-rv-recalls-various-travel-trailers-and-fifth-wheels-071321.html",
-      "cdnAmpWebUrl": "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/recalls/starcraft-rv-recalls-various-travel-trailers-and-fifth-wheels-071321.html",
-      "publishedDateTime": "2021-07-13T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ConsumerAffairs",
-        "domain": "consumeraffairs.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
       ]
     }
   ],

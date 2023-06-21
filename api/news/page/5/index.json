@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-28-new-short-story-one-people-one-purpose.md",
+      "title": "New Short Story: One People, One Purpose",
+      "excerpt": "Investigating a strange death among the protoss, High Executor Selendis must face a difficult truth about her people in order to stop an unexpected enemy. Check out this excerpt, then download One People, One Purpose, first in a new series of StarCraft II short stories to celebrate the game&amp;#39;s 10th anniversary.",
+      "sourceUrl": null,
+      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23485205/new-short-story-one-people-one-purpose",
+      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23485205/new-short-story-one-people-one-purpose",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/r9/R9AKY1LUZVH11595613589543.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-starcraft-ii-50-patch-notes.md",
       "title": "StarCraft II 5.0 Patch Notes",
       "excerpt": "StarCraft II 5.0 patch is one of the game&amp;#39;s biggest patches! To celebrate the 10th anniversary, we&amp;#39;ve made a major update to the game, and check out the details here.",

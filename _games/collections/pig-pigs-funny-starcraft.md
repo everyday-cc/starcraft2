@@ -1041,6 +1041,7 @@ items:
   - pig-cheesing-the-cheese-master-meomaika-wheel-of-cheese-2-starcraft-2
   - pig-wings-of-liberty-nightmare-difficulty-part-2-starcraft-2
   - pig-wings-of-liberty-nightmare-difficulty-part-3-starcraft-2
+  - pig-wings-of-liberty-nightmare-difficulty-wtf-guys-part-4-starcraft-2
 
 topics:
   - StarCraft 2

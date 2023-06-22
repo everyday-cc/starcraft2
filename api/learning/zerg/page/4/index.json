@@ -4,45 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-nydus-worm-all-in-zerg-build-order-guide.md",
-      "title": "StarCraft 2: NYDUS WORM ALL-IN! (Zerg Build Order Guide)",
-      "excerpt": "Zerg vs Protoss Nydus all-in build order video! Subscribe for more videos: http://lowko.tv/youtube Zerg vs Terran all-in build order: https://goo.gl/kRXijf  In this video I go over how to execute a Nydus Worm all-in in the Zerg vs Protoss matchup. I show a game from a professional gamer called Leenock,",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-nydus-worm-all-in-zerg-build-order-guide/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-nydus-worm-all-in-zerg-build-order-guide/",
-      "originalUrl": "https://youtube.com/watch?v=Mn3Twb13398",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mn3Twb13398\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M54S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-03-08T00:26:03-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Mn3Twb13398/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/lowkotv-starcraft-2-safe-zerg-vs-terran-build-order-guide.md",
       "title": "StarCraft 2: Safe Zerg vs Terran Build Order! (Guide)",
       "excerpt": "This video explains the thought process behind the \"Two Base Mutalisk\" build order in StarCraft 2 for Zerg versus Terran.  Zerg versus Terran is a match-up that has been changing a lot over time. In the most recent couple of months the two base Mutalisk style is very common for Zerg players to execute",
@@ -1085,6 +1046,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/bprpH81ZEeY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-breaking-down-problems-and-fundamental-mechanics-plat-zerg-coaching.md",
+      "title": "Breaking down Problems and Fundamental Mechanics - Plat Zerg Coaching",
+      "excerpt": "Coaching a platinum Zerg player.  -- Watch live at https://www.twitch.tv/x5_pig My NEW HP: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to my Discord: https://discordapp.com/invite/SkhbzCM",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-breaking-down-problems-and-fundamental-mechanics-plat-zerg-coaching/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-breaking-down-problems-and-fundamental-mechanics-plat-zerg-coaching/",
+      "originalUrl": "https://youtube.com/watch?v=gBJPF3xvJfw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gBJPF3xvJfw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H24S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-03-24T09:30:17-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gBJPF3xvJfw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

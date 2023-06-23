@@ -31,6 +31,7 @@ items:
   - pig-printfs-abuse-of-the-carrier-change-is-genius-king-of-cannons-23-starcraft-2
   - pig-printfs-amazing-usage-of-these-units-is-insane-king-of-cannons-24-starcraft-2
   - pig-cannon-rusher-meets-1-base-nydus-swarmhosts-king-of-cannons-25-starcraft-2
+  - pig-genius-carrier-siege-tactics-destroy-terran-kings-of-cannons-26-starcraft-2
 
 topics:
   - StarCraft 2

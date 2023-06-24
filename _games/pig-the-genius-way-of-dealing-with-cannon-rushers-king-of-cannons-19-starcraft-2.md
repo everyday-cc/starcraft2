@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=OZDwjDR8dF8
 type: video
 length: PT19M33S
 publishedDateTime: 2022-07-19T00:18:10Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OZDwjDR8dF8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "6a4TKNW4quv0T9j9kGVizdPdKUXZuH3KmQWb2lAeGG31lmkDrEUNnwITE/4k4OtgqMAQPhrAAwNRwfIqoVzvAvyYa6IA9h8Dl+1JaolDMtE/KVrpQ90ct4yGKnteFUD0wxWHA6M3w29bkyBZgs+i4ae2eL4n1JltoBs7/HKoiIeggS917UFsCQ6jJYbvRZgWJjjJ9ZzN5EMnVhBzR3095pvVeNNP9L3ylnsmpSX8SUx8g6fppLQpUsVT9oovDKRLUqKvlZc2ch0K0hDQSDlMyKS58wj0nnnDRAEfLwvP0m+xHUqzpJrv8lYGA0AcL/5HYDHHHmRFBlYXgpnezjU6gt378GTPXuzfJ2VwwzagjATY5HXgQDlTmVwbEm7PsgMr42CKV2huDdRKh2P48gLIIwrlLbWPwGyhdgZCD9uzK9g=;V1XMAyuPKSB1em8HDcfFTA=="
+secured: "2ETVBCdGIRLmQ3tgEj2Z017KoMnhlMr5/gCzyja2jiCYH/1O5G00YZqlcL+g/5sW3LkuXtNNxw+utjuyvDzdBHdVrfDI9Hdr+Lq9tt5AxZ64Pv9VUv95k+X20yE5PL3EDOIq81SupY9d3plaA/TBIEYsR0XefCzzwe4KJhhEsOziz3z4/1dQxh9IcgGYF+/PPWUAc7j79oGj1ioL7k6kBeJI2z3r2pzOKr1jsKvLBa3FRPZBMmSQT5fJ7bOrryVsIJPunv+J3aX1lypqWDHbm8xEyoQXCWpzTvyEoK70+N9QDGeHAtb1WfSie36nciLSeD92tTtKWttD9VRAk3uGOG/36v27xG+i2reIihHMtcIFwazmHEXK2NWjtKyAmhKJrKyMoqLgfyj7jnrKYIF+tbsQmVrqSIfs9qZGGKScbS8=;vFkO2tPkMYPd23jksO0AvQ=="
 ---
 

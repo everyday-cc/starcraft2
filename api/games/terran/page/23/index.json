@@ -4,6 +4,36 @@
   "page": 23,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-ruffs-ruthless-tvp-cheese-compilation-3-games-diamond-in-the-ruff-57.md",
+      "title": "StarCraft 2 - Ruff's Ruthless TvP Cheese Compilation (3-games) | Diamond in the Ruff #57",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponents? 🐷 Support PiG: https://www.patreon.com/PiGSC2  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-ruffs-ruthless-tvp-cheese-compilation-3-games-diamond-in-the-ruff-57/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-ruffs-ruthless-tvp-cheese-compilation-3-games-diamond-in-the-ruff-57/",
+      "originalUrl": "https://youtube.com/watch?v=432m7JwB08Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/432m7JwB08Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M1S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/432m7JwB08Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-10-23T22:25:56-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-scouted-my-bc-i-make-more-bc-diamond-in-the-ruff-28.md",
       "title": "StarCraft 2 - SCOUTED MY BC? I MAKE MORE BC! | Diamond in the Ruff #28",
       "excerpt": "I love it when RuFF makes battlecruisers!  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13 | https://www.youtube.com/ruff_stuff -- 🐷 Like my videos? Help support me by being a patron:",
@@ -882,36 +912,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-02T18:51:47-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-who-needs-workers-anyway-diamond-in-the-ruff-11.md",
-      "title": "StarCraft 2 - WHO NEEDS WORKERS ANYWAY? | Diamond in the Ruff! #11",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his opponent?  Check out all episodes of Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l  Follow Ruff: https://www.twitch.tv/ruff13 | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-who-needs-workers-anyway-diamond-in-the-ruff-11/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-who-needs-workers-anyway-diamond-in-the-ruff-11/",
-      "originalUrl": "https://youtube.com/watch?v=ZGm2biHkqAI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZGm2biHkqAI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M40S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZGm2biHkqAI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-28T14:00:06-07:00"
     }
   ],
   "nextPage": 24

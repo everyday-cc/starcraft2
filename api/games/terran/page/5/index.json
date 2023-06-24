@@ -4,6 +4,45 @@
   "page": 5,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-most-epic-game-played-on-the-new-patch-dark-vs-byun.md",
+      "title": "StarCraft 2: Most EPIC GAME played on the new Patch! (Dark vs ByuN)",
+      "excerpt": "An amazing game of StarCraft 2 between Dark (Zerg) and ByuN (Terran). In this match of SC2 we watch two pro gamers perform at the absolute peak of their abilities... with of course a few mistakes here and there.   Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-most-epic-game-played-on-the-new-patch-dark-vs-byun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-most-epic-game-played-on-the-new-patch-dark-vs-byun/",
+      "originalUrl": "https://youtube.com/watch?v=4VrFhG9vPKE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4VrFhG9vPKE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT48M35S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4VrFhG9vPKE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-25T07:48:59-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-new-patch-byun-vs-dark-grand-finals.md",
       "title": "StarCraft 2: NEW PATCH - ByuN vs Dark! (Grand Finals)",
       "excerpt": "Best-of-5 series of high level StarCraft 2 between Dark (Zerg) and ByuN (Terran). These games are played on the StarCraft 2 PTR with all the new balance changes.   New SC2 patch: https://youtu.be/y87c1xp3I3Q  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -1002,39 +1041,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-01T04:20:41-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-my-opponent-wishing-me-all-the-bestor-not.md",
-      "title": "My Opponent Wishing Me ALL the Best!.....or Not",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-my-opponent-wishing-me-all-the-bestor-not/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-my-opponent-wishing-me-all-the-bestor-not/",
-      "originalUrl": "https://youtube.com/watch?v=j9ofiYvK_Kc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j9ofiYvK_Kc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M30S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/j9ofiYvK_Kc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-14T05:47:20-07:00"
     }
   ],
   "nextPage": 6

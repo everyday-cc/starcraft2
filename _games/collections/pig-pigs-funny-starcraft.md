@@ -1035,6 +1035,7 @@ items:
   - pig-spine-crawler-ling-rush-hour-the-sex-panther-build-starcraft-2
   - pig-flo-fights-a-maphacker-florencio-riles-283-starcraft-2
   - pig-wings-of-liberty-nightmare-difficulty-hardest-rts-campaign-ever-part-1-starcraft-2
+  - pig-terran-forces-zerg-to-all-in-then-cries-about-it-salt-mines-37-starcraft-2
   - pig-artosis-plays-sc2-for-the-first-time-in-6-years
   - pig-this-op-carrier-build-is-disgusting-mape-the-ape-2-starcraft-2
   - pig-torturing-a-4-player-terran-archon-with-meme-builds-starcraft-2

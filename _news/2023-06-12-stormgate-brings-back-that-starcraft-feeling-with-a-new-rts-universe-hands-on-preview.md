@@ -44,48 +44,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "How to Play StarCraft:BroodWar On Hamachi"
-    excerpt: "Starcraft, a name that requires no introduction at this point of time. Released in the late 90’s, the sequel to the award winning realtime strategy game StarCraft, Broodwar built on the same ..."
-    publishedDateTime: 2023-06-06T23:59:00Z
-    webUrl: "https://segmentnext.com/starcraft-broodwar-hamachi-guide/"
-    type: article
-    provider:
-      name: SegmentNext
-      domain: segmentnext.com
-    quality: 37
-    images:
-      - url: "https://cdn.segmentnextimages.com/wp-content/themes/segmentnext/images/no-image-available.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "StarCraft 2: Heart of the Swarm Crashes, Errors, Freezes and Fixes"
-    excerpt: "Regardless of the fact that StarCraft 2: Heart of the Swarm is not a full-fledged game and just an expansion, Starcraft 2 followers are crazy about it. When the original Starcraft 2 got released ..."
-    publishedDateTime: 2023-06-06T23:59:00Z
-    webUrl: "https://segmentnext.com/heart-of-swarm-errors/"
-    type: article
-    provider:
-      name: SegmentNext
-      domain: segmentnext.com
-    quality: 37
-    images:
-      - url: "https://cdn.segmentnextimages.com/wp-content/uploads/2013/03/StarcraftII-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "StarCraft 2 Tweaks and Performance Guide"
-    excerpt: "StarCraft 2 has great graphics and visuals but that holds for those who have high-end PCs. If you are on a mediocre PC that can only offer average graphics at best then you may want to go by the ..."
-    publishedDateTime: 2023-06-06T23:59:00Z
-    webUrl: "https://segmentnext.com/starcraft-2-graphics-performance-tweak-guide/"
-    type: article
-    provider:
-      name: SegmentNext
-      domain: segmentnext.com
-    quality: 37
-    images:
-      - url: "https://cdn.segmentnextimages.com/wp-content/themes/segmentnext/images/no-image-available.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "StarCraft Series of Real Time Strategy Games"
     excerpt: "Spread the loveThe StarCraft series is a popular Real Time Strategy game that has continued to captivate gamers through its engaging gameplay and fascinating storyline. Developed and published by Blizzard Entertainment,"
     publishedDateTime: 2023-06-11T00:46:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/stormgate-sure-looks-like-star
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/stormgate-sure-looks-like-starcraft-meets-warcraft-in-first-gameplay-reveal/1100-6515093/"
 type: article
 quality: 95
-heat: 201
+heat: 195
 published: true
 
 provider:

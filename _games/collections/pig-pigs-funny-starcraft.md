@@ -1033,6 +1033,7 @@ items:
   - pig-the-pro-game-so-bad-a-caster-screamed-you-imbecile-starcraft-2
   - pig-pf-rushing-a-guy-doing-a-mothership-rush-starcraft-2
   - pig-spine-crawler-ling-rush-hour-the-sex-panther-build-starcraft-2
+  - pig-muta-nydus-swarmhosts-in-zvz-insane-yolo-game-starcraft-2
   - pig-flo-fights-a-maphacker-florencio-riles-283-starcraft-2
   - pig-wings-of-liberty-nightmare-difficulty-hardest-rts-campaign-ever-part-1-starcraft-2
   - pig-terran-forces-zerg-to-all-in-then-cries-about-it-salt-mines-37-starcraft-2

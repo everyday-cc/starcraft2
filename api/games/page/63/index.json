@@ -4,36 +4,6 @@
   "page": 63,
   "value": [
     {
-      "path": "_games/pig-best-zerg-scouting-2020-sneaky-sneaky-kaelaris-icyfar-g4.md",
-      "title": "Best Zerg Scouting 2020 | Sneaky Sneaky Kaelaris ICYFAR G4",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-best-zerg-scouting-2020-sneaky-sneaky-kaelaris-icyfar-g4/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-best-zerg-scouting-2020-sneaky-sneaky-kaelaris-icyfar-g4/",
-      "originalUrl": "https://youtube.com/watch?v=uPaPB3DHeAw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uPaPB3DHeAw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M26S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uPaPB3DHeAw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-billybobs-here-to-win-the-day-stabby-mcstab-stab-icyfar-g1.md",
       "title": "Billybob’s here to win the day - Stabby McStab Stab ICYFAR G1",
       "excerpt": "Hey guys! we are back with a new person in charge of ICYFAR, yes this means that the email for submissions HAS CHANGED!  In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were limited to a maximum of 40 workers!  CURRENT ICYFAR CHALLENGE:",
@@ -915,6 +885,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-07T17:03:57-08:00"
+    },
+    {
+      "path": "_games/pig-cannon-and-nexus-rush-twitch-plays-pig-7.md",
+      "title": "Cannon AND Nexus rush?  | Twitch Plays PiG #7",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-cannon-and-nexus-rush-twitch-plays-pig-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-cannon-and-nexus-rush-twitch-plays-pig-7/",
+      "originalUrl": "https://youtube.com/watch?v=_csoTK6apb0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_csoTK6apb0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M4S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_csoTK6apb0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-09-30T22:04:11-07:00"
     }
   ],
   "nextPage": 64

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/stormgate-sure-looks-like-star
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/stormgate-sure-looks-like-starcraft-meets-warcraft-in-first-gameplay-reveal/1100-6515093/"
 type: article
 quality: 95
-heat: 196
+heat: 176
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "StarCraft Series of Real Time Strategy Games"
-    excerpt: "Spread the loveThe StarCraft series is a popular Real Time Strategy game that has continued to captivate gamers through its engaging gameplay and fascinating storyline. Developed and published by Blizzard Entertainment,"
-    publishedDateTime: 2023-06-11T00:46:00Z
-    webUrl: "https://www.thetechedvocate.org/starcraft-series-of-real-time-strategy-games/"
-    type: article
-    provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 37
-    images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/05/deepmind-alphastar-1024x426.png"
-        width: 1024
-        height: 426
-        isCached: true
   - title: "Seeing StarCraft’s successor in action has unlocked my RTS instincts"
     excerpt: "Multiplayer RTS game Stormgate comes from ex StarCraft devs at Frost Giant Studios, and its 1v1 gameplay reveal shows exactly why you should be excited."
     publishedDateTime: 2023-06-11T21:25:00Z

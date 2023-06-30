@@ -40,20 +40,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "StarCraft Series of Real Time Strategy Games"
-    excerpt: "Spread the loveThe StarCraft series is a popular Real Time Strategy game that has continued to captivate gamers through its engaging gameplay and fascinating storyline. Developed and published by Blizzard Entertainment,"
-    publishedDateTime: 2023-06-11T00:46:00Z
-    webUrl: "https://www.thetechedvocate.org/starcraft-series-of-real-time-strategy-games/"
-    type: article
-    provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 37
-    images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/05/deepmind-alphastar-1024x426.png"
-        width: 1024
-        height: 426
-        isCached: true
   - title: "The new RTS from former StarCraft 2 devs looks a lot like StarCraft 2"
     excerpt: "The former Blizzard developers making Stormgate today showed a gameplay trailer for their new real-time strategy game."
     publishedDateTime: 2023-06-11T21:31:00Z

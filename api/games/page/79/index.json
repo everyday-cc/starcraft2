@@ -4,128 +4,6 @@
   "page": 79,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-grim-meets-a-wall-of-microbial-shroud-queens-the-grim-reaper-12.md",
-      "title": "StarCraft 2 - GRIM MEETS A WALL OF MICROBIAL SHROUD QUEENS! | The Grim Reaper #12",
-      "excerpt": "Grim Reaper shows us his tricky, cheesy starcraft plays. 🐷 Support PiG: https://www.pigstarcraft.com/support/  The Grim Reaper Playlist: https://www.youtube.com/watch?v=3cLene8nRc8&list=PLFUDU8AOevUcEZxzA83oiBz8LxgwgLeyR GrimReaper’s stream: https://www.twitch.tv/grimmy_uk -- 🐖 Watch live on https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-grim-meets-a-wall-of-microbial-shroud-queens-the-grim-reaper-12/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-grim-meets-a-wall-of-microbial-shroud-queens-the-grim-reaper-12/",
-      "originalUrl": "https://youtube.com/watch?v=wzavGwdm7nk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wzavGwdm7nk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M24S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wzavGwdm7nk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:47:10-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-grim-reaper-ruining-progamers-3-in-1-grim-reaper-13.md",
-      "title": "StarCraft 2 - GRIM REAPER RUINING PROGAMERS (3-IN-1) | Grim Reaper 13",
-      "excerpt": "Grim Reaper shows us his tricky, cheesy plays - this time against some BIG MMR BOIS, Disk, Gerald and Barcode. 🐷 Support PiG: https://www.pigstarcraft.com/support/  The Grim Reaper Playlist: https://www.youtube.com/watch?v=3cLene8nRc8&list=PLFUDU8AOevUcEZxzA83oiBz8LxgwgLeyR GrimReaper’s stream: https://www.twitch.tv/grimmy_uk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-grim-reaper-ruining-progamers-3-in-1-grim-reaper-13/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-grim-reaper-ruining-progamers-3-in-1-grim-reaper-13/",
-      "originalUrl": "https://youtube.com/watch?v=59Seh-s07NY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/59Seh-s07NY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M49S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/59Seh-s07NY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:47:10-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-grim-tortures-zerg-pro-grim-reaper-17.md",
-      "title": "StarCraft 2 - GRIM TORTURES ZERG PRO | Grim Reaper #17",
-      "excerpt": "Grim Reaper shows us his tricky, cheesy plays against 6400 MMR pro player, Cham! 🐷 Support PiG: https://www.pigstarcraft.com/support/  The Grim Reaper Playlist: https://www.youtube.com/watch?v=3cLene8nRc8&list=PLFUDU8AOevUcEZxzA83oiBz8LxgwgLeyR GrimReaper’s stream: https://www.twitch.tv/grimmy_uk --",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-grim-tortures-zerg-pro-grim-reaper-17/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-grim-tortures-zerg-pro-grim-reaper-17/",
-      "originalUrl": "https://youtube.com/watch?v=EF6LnldOmy0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EF6LnldOmy0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M59S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EF6LnldOmy0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-17T16:05:50-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-grimmys-2-game-shtshow-grim-reaper-20.md",
-      "title": "StarCraft 2 - GRIMMY'S 2 GAME SH*TSHOW | Grim Reaper #20",
-      "excerpt": "Grim Reaper shows us his tricky, cheesy Protoss plays against both Zerg and Terran opponents. We've seen him torture pros, what can he do against lower MMR players?! 🐷 Support PiG: https://www.pigstarcraft.com/support/  The Grim Reaper Playlist: https://www.youtube.com/watch?v=3cLene8nRc8&list=PLFUDU8AOevUcEZxzA83oiBz8LxgwgLeyR",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-grimmys-2-game-shtshow-grim-reaper-20/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-grimmys-2-game-shtshow-grim-reaper-20/",
-      "originalUrl": "https://youtube.com/watch?v=0nxkq2kjvdw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0nxkq2kjvdw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M1S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0nxkq2kjvdw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-17T15:56:30-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-harstem-has-been-accused-of-smurfing-smurf-detective-3.md",
       "title": "StarCraft 2 - HARSTEM HAS BEEN ACCUSED OF SMURFING | Smurf Detective #3",
       "excerpt": "0:00 Game 1 13:38 Game 2 23:12 Game 3: Did Harstem Smurf School Bronze League?   🔥New Community Submission Series: SMURF DETECTIVE! So you think you have faced a Smurf. Send in your replay to RateMyStarCraft@gmail.com with your ign, league, tier and server (e.g. Serral Plat 1 NA) and PiG will investigate",
@@ -901,6 +779,126 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-21T09:00:16-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-if-this-is-uthermal-hes-at-least-4-tequilas-deep-smurf-detective-7.md",
+      "title": "StarCraft 2: “If this is uThermal he’s at least 4 tequilas deep” | Smurf Detective #7",
+      "excerpt": "Submitter: \"While gm is only 2 leagues above me uthermal is 3000 mmr above me if this is him. That said, for being pretty intoxicated I think I held my own well. forgetting glaves was rough though.\"  🔥New Community Submission Series: SMURF DETECTIVE! So you think you have faced a Smurf. Send in your",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-if-this-is-uthermal-hes-at-least-4-tequilas-deep-smurf-detective-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-if-this-is-uthermal-hes-at-least-4-tequilas-deep-smurf-detective-7/",
+      "originalUrl": "https://youtube.com/watch?v=W0Uxcmycubk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W0Uxcmycubk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M49S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/W0Uxcmycubk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-10-14T18:40:35-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-im-not-mad-the-florencio-files-136.md",
+      "title": "StarCraft 2 - “I’m not mad” | The Florencio Files #136",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-im-not-mad-the-florencio-files-136/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-im-not-mad-the-florencio-files-136/",
+      "originalUrl": "https://youtube.com/watch?v=1xigomlrO80",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1xigomlrO80\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M11S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1xigomlrO80/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-05-03T09:00:05-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-imaginary-nydus-300-iq-cannon-defence-grim-reaper-7.md",
+      "title": "StarCraft 2 | Imaginary Nydus - 300 IQ Cannon Defence | Grim Reaper #7",
+      "excerpt": "Here is GrimReaper, the collector of souls and people's will to practice StarCraft 2 again. -- 🐷 Like my videos? Help support me by being a patron: https://www.patreon.com/PiGSC2 🐖 Watch live at https://www.twitch.tv/x5_pig 🐽 Linktree: https://linktr.ee/PiGStarcraft 👕 Merch: https://teespring.com/stores/pig-sc2",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-imaginary-nydus-300-iq-cannon-defence-grim-reaper-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-imaginary-nydus-300-iq-cannon-defence-grim-reaper-7/",
+      "originalUrl": "https://youtube.com/watch?v=D8PTkXGkpuI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D8PTkXGkpuI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M23S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/D8PTkXGkpuI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:47:10-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-impressive-ultralisk-and-zergling-winning-combo-icyfar-g1.md",
+      "title": "StarCraft 2 - IMPRESSIVE ULTRALISK AND ZERGLING WINNING COMBO | ICYFAR G1",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they can only use two units for the It Takes Two to Tango challenge! Here’s a fun game of zerg versus terran completing the challenge in humorous fashion.  NEW ICYFAR CHALLENGE: Knife",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-impressive-ultralisk-and-zergling-winning-combo-icyfar-g1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-impressive-ultralisk-and-zergling-winning-combo-icyfar-g1/",
+      "originalUrl": "https://youtube.com/watch?v=wchfZxi17w0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wchfZxi17w0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M23S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wchfZxi17w0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
     }
   ],
   "nextPage": 80

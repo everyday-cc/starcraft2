@@ -4,36 +4,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_games/pig-a-vomit-of-roaches-360-noscope-icyfar-g4.md",
-      "title": "A Vomit of Roaches | 360 Noscope ICYFAR G4",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they set up flanks and surrounds to crush their enemies.  \"Surgical Warfare\" - Minimise your losses and try to achieve the cleanest victory possible! Even if it devolves into a shitshow, send it",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-a-vomit-of-roaches-360-noscope-icyfar-g4/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-a-vomit-of-roaches-360-noscope-icyfar-g4/",
-      "originalUrl": "https://youtube.com/watch?v=eYQvbdTWqx0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eYQvbdTWqx0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M23S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eYQvbdTWqx0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-baneling-baptism-kick-the-ant-hive-icyfar-g3.md",
       "title": "BANELING BAPTISM | Kick the Ant Hive! ICYFAR G3",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they had to swarm their enemy with a ton of low tier units. Here’s a fun game of Zerg versus terran completing the challenge in humorous fashion.   NEW ICYFAR CHALLENGE: \"Resurrection",
@@ -917,6 +887,40 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-mass-banshee-mass-queen-mass-ultra-twitch-plays-pig-4.md",
+      "title": "Mass Banshee, Mass queen, Mass Ultra! | Twitch Plays PiG #4",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-mass-banshee-mass-queen-mass-ultra-twitch-plays-pig-4/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-mass-banshee-mass-queen-mass-ultra-twitch-plays-pig-4/",
+      "originalUrl": "https://youtube.com/watch?v=gDBkmig25Mg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gDBkmig25Mg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M30S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gDBkmig25Mg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-12T20:24:22-07:00"
     }
   ],
   "nextPage": 21

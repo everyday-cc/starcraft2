@@ -4,35 +4,6 @@
   "page": 73,
   "value": [
     {
-      "path": "_games/pig-refusing-to-give-in-to-skytoss-icyfar-g3-backstab-butcher.md",
-      "title": "REFUSING TO GIVE IN TO SKYTOSS! | ICYFAR G3 Backstab Butcher",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they backstab and harass their opponent as much as possible (Backstab Butcher)! Here’s a fun game of protoss versus protoss completing the challenge in humorous fashion.  Soo vs Fantasy:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-refusing-to-give-in-to-skytoss-icyfar-g3-backstab-butcher/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-refusing-to-give-in-to-skytoss-icyfar-g3-backstab-butcher/",
-      "originalUrl": "https://youtube.com/watch?v=bjCbvAILpc8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bjCbvAILpc8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bjCbvAILpc8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-reign-of-fire-tvt-vs-mushed-titty-prison-fight-icyfar-g2.md",
       "title": "Reign of Fire TvT vs Mushed Titty - Prison Fight ICYFAR G2",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players had to get stabby, because they were only allowed to make 35 max workers!\r THIS WEEKS ICYFAR CHALLENGE: \"Now you see me, now you dont!\" Send in your best games using cloaked and burrowed units! Send submissions to eonblu95@gmail.com",
@@ -874,6 +845,35 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/DCUxY15Kknw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-star-crafts-mod-icyfar-the-pig-daily-73-part-1.md",
+      "title": "Star Crafts MoD - ICYFAR - The PiG Daily #73 (Part 1)",
+      "excerpt": "THIS WEEKS ICYFAR: \"Thinking outside the box\" - send in your replays using compositions and style that are outside the regular meta!. Send submissions to eonblu95@gmail.com as attachment. Lastest submission until the second daily of the week (Monday in EU/US, Tuesday in AUS/KR).\r Full Playlist of Daily",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-star-crafts-mod-icyfar-the-pig-daily-73-part-1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-star-crafts-mod-icyfar-the-pig-daily-73-part-1/",
+      "originalUrl": "https://youtube.com/watch?v=Jwsqb9WJ4oE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jwsqb9WJ4oE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M58S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Jwsqb9WJ4oE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

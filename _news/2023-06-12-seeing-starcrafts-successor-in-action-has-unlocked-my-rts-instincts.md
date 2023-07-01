@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Stormgate brings back that StarCraft feeling with a new RTS universe | hands-on preview"
-    excerpt: "I was finally able to play an early demo of Stormgate, the new real-time strategy \"science fantasy\" game from Frost Giant Studios."
-    publishedDateTime: 2023-06-11T20:00:00Z
-    webUrl: "https://venturebeat.com/games/stormgate-brings-back-that-starcraft-feeling-with-a-new-rts-universe-hands-on-preview/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 29
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Stormgate_Dean_3.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "1978 Starcraft Co Values, Specs and Prices"
     excerpt: "Possessing a long-running history in boat construction that reaches back to 1903, Starcraft is experienced in building boats with aluminum and fiberglass hulls. Starcraft produces a wide range of watercraft, offering a diverse assortment of fishing ..."
     publishedDateTime: 2023-06-12T12:01:00Z

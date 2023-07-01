@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Stormgate brings back that StarCraft feeling with a new RTS universe | hands-on preview"
-    excerpt: "I was finally able to play an early demo of Stormgate, the new real-time strategy \"science fantasy\" game from Frost Giant Studios."
-    publishedDateTime: 2023-06-11T20:00:00Z
-    webUrl: "https://venturebeat.com/games/stormgate-brings-back-that-starcraft-feeling-with-a-new-rts-universe-hands-on-preview/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 29
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Stormgate_Dean_3.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "iHM29kn7k1awaapsXnR0/hPYUnBXRmeMBc66PmUXohGdV7FuGLTxWARHkGQdADLCWVa/H5TAi0vQTuqxge8ccCk+xS9QB92yo3i9rKpZoQblt5ltl7YuXOnySyvsUAD/k/DlmtoWLLpmQCtFIX0A0OY5uMdp8AtxtIvAG9HiZwNXP/vCGrMkhrSyabTurAKO533ZWeeuTIrOCNi/2p85qmKTzfrHTN5bn8zxjsWNTEVqooLml+HPMYgqB9Z2pAIkIYtRUjfcw+LYg30UWM74dPf9YkJH8qfW0C1Z8PjeDSPz2THs4xlr04twFBDNPAVcY30549MwM2vUSX2XOk0d3PKi+8f+mEGlJ85fQjgj48c=;8r7EI3kha3qCTrw/DF63Pw=="
 ---

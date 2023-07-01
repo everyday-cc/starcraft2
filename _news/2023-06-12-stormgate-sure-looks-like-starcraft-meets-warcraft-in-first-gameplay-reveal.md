@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/stormgate-sure-looks-like-star
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/stormgate-sure-looks-like-starcraft-meets-warcraft-in-first-gameplay-reveal/1100-6515093/"
 type: article
 quality: 95
-heat: 178
+heat: 159
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://assetsio.reedpopcdn.com/stormgate-c.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Stormgate brings back that StarCraft feeling with a new RTS universe | hands-on preview"
-    excerpt: "I was finally able to play an early demo of Stormgate, the new real-time strategy \"science fantasy\" game from Frost Giant Studios."
-    publishedDateTime: 2023-06-11T20:00:00Z
-    webUrl: "https://venturebeat.com/games/stormgate-brings-back-that-starcraft-feeling-with-a-new-rts-universe-hands-on-preview/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 29
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Stormgate_Dean_3.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
         isCached: true
   - title: "1978 Starcraft Co Values, Specs and Prices"
     excerpt: "Possessing a long-running history in boat construction that reaches back to 1903, Starcraft is experienced in building boats with aluminum and fiberglass hulls. Starcraft produces a wide range of watercraft, offering a diverse assortment of fishing ..."

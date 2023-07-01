@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/stormgate-sure-looks-like-star
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/stormgate-sure-looks-like-starcraft-meets-warcraft-in-first-gameplay-reveal/1100-6515093/"
 type: article
 quality: 95
-heat: 159
+heat: 119
 published: true
 
 provider:
@@ -30,34 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Seeing StarCraft’s successor in action has unlocked my RTS instincts"
-    excerpt: "Multiplayer RTS game Stormgate comes from ex StarCraft devs at Frost Giant Studios, and its 1v1 gameplay reveal shows exactly why you should be excited."
-    publishedDateTime: 2023-06-11T21:25:00Z
-    webUrl: "https://www.pcgamesn.com/stormgate/multiplayer-gameplay-demo"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 37
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/06/stormgate-rts-game-starcraft-spiritual-successor-frost-giant-studios.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "The new RTS from former StarCraft 2 devs looks a lot like StarCraft 2"
-    excerpt: "The former Blizzard developers making Stormgate today showed a gameplay trailer for their new real-time strategy game."
-    publishedDateTime: 2023-06-11T21:31:00Z
-    webUrl: "https://www.rockpapershotgun.com/the-new-rts-from-former-starcraft-2-devs-looks-a-lot-like-starcraft-2"
-    type: article
-    provider:
-      name: Rock Paper Shotgun
-      domain: rockpapershotgun.com
-    quality: 37
-    images:
-      - url: "https://assetsio.reedpopcdn.com/stormgate-c.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "1978 Starcraft Co Values, Specs and Prices"
     excerpt: "Possessing a long-running history in boat construction that reaches back to 1903, Starcraft is experienced in building boats with aluminum and fiberglass hulls. Starcraft produces a wide range of watercraft, offering a diverse assortment of fishing ..."
     publishedDateTime: 2023-06-12T12:01:00Z

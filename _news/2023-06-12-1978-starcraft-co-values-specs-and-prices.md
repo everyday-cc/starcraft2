@@ -34,34 +34,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Seeing StarCraft’s successor in action has unlocked my RTS instincts"
-    excerpt: "Multiplayer RTS game Stormgate comes from ex StarCraft devs at Frost Giant Studios, and its 1v1 gameplay reveal shows exactly why you should be excited."
-    publishedDateTime: 2023-06-11T21:25:00Z
-    webUrl: "https://www.pcgamesn.com/stormgate/multiplayer-gameplay-demo"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 37
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/06/stormgate-rts-game-starcraft-spiritual-successor-frost-giant-studios.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "The new RTS from former StarCraft 2 devs looks a lot like StarCraft 2"
-    excerpt: "The former Blizzard developers making Stormgate today showed a gameplay trailer for their new real-time strategy game."
-    publishedDateTime: 2023-06-11T21:31:00Z
-    webUrl: "https://www.rockpapershotgun.com/the-new-rts-from-former-starcraft-2-devs-looks-a-lot-like-starcraft-2"
-    type: article
-    provider:
-      name: Rock Paper Shotgun
-      domain: rockpapershotgun.com
-    quality: 37
-    images:
-      - url: "https://assetsio.reedpopcdn.com/stormgate-c.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "iHM29kn7k1awaapsXnR0/hPYUnBXRmeMBc66PmUXohGdV7FuGLTxWARHkGQdADLCWVa/H5TAi0vQTuqxge8ccCk+xS9QB92yo3i9rKpZoQblt5ltl7YuXOnySyvsUAD/k/DlmtoWLLpmQCtFIX0A0OY5uMdp8AtxtIvAG9HiZwNXP/vCGrMkhrSyabTurAKO533ZWeeuTIrOCNi/2p85qmKTzfrHTN5bn8zxjsWNTEVqooLml+HPMYgqB9Z2pAIkIYtRUjfcw+LYg30UWM74dPf9YkJH8qfW0C1Z8PjeDSPz2THs4xlr04twFBDNPAVcY30549MwM2vUSX2XOk0d3PKi+8f+mEGlJ85fQjgj48c=;8r7EI3kha3qCTrw/DF63Pw=="
 ---

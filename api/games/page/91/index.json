@@ -4,35 +4,6 @@
   "page": 91,
   "value": [
     {
-      "path": "_games/pig-when-a-man-loves-a-woman-icyfar-interpretive-dance-20-compilation.md",
-      "title": "WHEN A MAN LOVES A WOMAN | ICYFAR \"Interpretive Dance 2.0\" Compilation",
-      "excerpt": "🔥NEW ICYFAR CHALLENGE: \"Backstabs!\" - Use runbys and backstab maneuvres to pick your opponent apart. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 15th May  0:00 Game 1 15:30 Game 2 20:43 Game 3  In this week’s",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-a-man-loves-a-woman-icyfar-interpretive-dance-20-compilation/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-a-man-loves-a-woman-icyfar-interpretive-dance-20-compilation/",
-      "originalUrl": "https://youtube.com/watch?v=5_qLs2CjTs4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5_qLs2CjTs4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M52S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5_qLs2CjTs4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-when-bronze-league-heroes-crosses-with-flo-files-icyfar-one-base-openers-g2-starcraft-2.md",
       "title": "When Bronze League Heroes crosses with Flo Files | ICYFAR \"One Base Openers\" G2 - StarCraft 2",
       "excerpt": "🤯 NEW ICYFAR CHALLENGE: Ruthless Growth - Each time you expand, you have to attack! Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 21st June. -- 🤯 In this week’s episode of I Cast Your Freakin Awesome Replays",
@@ -446,6 +417,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-22T23:32:51-07:00"
+    },
+    {
+      "path": "_games/pig-when-your-strategy-is-mint-but-your-opponent-has-300-apm-florencio-files-252-starcraft-2.md",
+      "title": "When your strategy is mint but your opponent has 300 APM | Florencio Files #252 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, he faces an opponent with very high APM.   🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-your-strategy-is-mint-but-your-opponent-has-300-apm-florencio-files-252-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-your-strategy-is-mint-but-your-opponent-has-300-apm-florencio-files-252-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=dAwxby8_M5E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dAwxby8_M5E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M13S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dAwxby8_M5E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-12-15T01:21:00-08:00"
     },
     {
       "path": "_games/pig-when-youre-losing-and-tilting-hard-its-time-to-channel-serral-pig-vs-kiwian-part-3-sc2.md",

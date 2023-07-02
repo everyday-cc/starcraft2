@@ -4,44 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-500-iq-protoss-mind-games.md",
-      "title": "StarCraft 2: 500 IQ PROTOSS MIND GAMES!",
-      "excerpt": "A super cool game of Zerg vs Protoss between Zest and Rogue. Subscribe for more videos: http://lowko.tv/youtube Insane Protoss macro: https://goo.gl/kYVEow  Zest has been making some really cool decisions in Zerg vs Protoss. In this video he goes up again Rogue, one of the strongest Zerg pro gamers in",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-500-iq-protoss-mind-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-500-iq-protoss-mind-games/",
-      "originalUrl": "https://youtube.com/watch?v=0_mN_iRsCVk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0_mN_iRsCVk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M1S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0_mN_iRsCVk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-02-23T02:39:17-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-action-packed-protoss-vs-terran.md",
       "title": "StarCraft 2: ACTION-PACKED Protoss vs Terran!",
       "excerpt": "An awesome match of Protoss vs Terran in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/C1yp8c  Both players are off-racing in this match. Essentially meaning that while they have a decent understanding of the game, their expertise may not be specifically",
@@ -236,44 +198,6 @@
       "publishedDateTime": "2022-05-18T05:00:50-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-amazing-games-heros-mass-high-templar-best-of-5.md",
-      "title": "StarCraft 2: AMAZING GAMES - herO's MASS High Templar! (Best-of-5)",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 between herO (Protoss) and Maru (Terran). This series is the Grand Finals of the 4th KSL Weekly. https://patreon.com/koreanstarcraftleague/  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-amazing-games-heros-mass-high-templar-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-amazing-games-heros-mass-high-templar-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=qqrH5GuKreA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qqrH5GuKreA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M1S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qqrH5GuKreA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-31T03:46:52-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-astreas-crazy-protoss-builds-best-of-3.md",
       "title": "StarCraft 2: Astrea's CRAZY Protoss Builds! (Best-of-3)",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between Astrea and Rattata. In this series Astrea decides to go for some crazy strategies, first with a strange wall off and later with an insanely early 3rd Nexus.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:",
@@ -349,6 +273,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-14T02:34:43-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-astreas-late-game-cannon-rush.md",
+      "title": "StarCraft 2: Astrea's LATE GAME Cannon \"Rush\"!",
+      "excerpt": "Solar versus Astrea in a professional match of StarCraft 2. In this Zerg versus Protoss we see a game go the distance. Astrea executes some really cool moves by building a wall close to one of the outer Zerg bases and slowly shooting it down with Disruptors, High Templar and Oracles.  Support my work",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-astreas-late-game-cannon-rush/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-astreas-late-game-cannon-rush/",
+      "originalUrl": "https://youtube.com/watch?v=UtSTzwNOYE0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UtSTzwNOYE0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UtSTzwNOYE0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-16T03:40:15-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-astreas-proxy-nexus-vs-trap.md",
@@ -854,6 +816,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-15T05:00:53-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-can-showtime-stop-clems-domination-best-of-5.md",
+      "title": "StarCraft 2: Can ShoWTimE Stop Clem's DOMINATION? (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Clem and ShoWTimE.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-can-showtime-stop-clems-domination-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-can-showtime-stop-clems-domination-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=an1Eb8DdL4A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/an1Eb8DdL4A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H9M44S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/an1Eb8DdL4A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-05-14T04:44:40-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-can-showtime-stop-marus-domination.md",

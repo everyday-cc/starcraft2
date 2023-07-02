@@ -4,44 +4,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-huge-protoss-sandwich-sos-vs-cure.md",
-      "title": "StarCraft 2: HUGE PROTOSS SANDWICH! (sOs vs Cure)",
-      "excerpt": "sOs versus Cure in a professional game of StarCraft 2. In this Protoss versus Terran we have both players deciding to rush the opponent's main base after the early game. A wild base race ensues.  Support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-huge-protoss-sandwich-sos-vs-cure/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-huge-protoss-sandwich-sos-vs-cure/",
-      "originalUrl": "https://youtube.com/watch?v=VGL0z0kvA5s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VGL0z0kvA5s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M28S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VGL0z0kvA5s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-27T02:25:09-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-hyper-aggressive-protoss.md",
       "title": "StarCraft 2: HYPER AGGRESSIVE PROTOSS!",
       "excerpt": "PartinG vs FanTaSy in a sick match on Dreamcatcher. Subscribe for more videos: http://lowko.tv/youtube Solar vs INnoVation: https://goo.gl/gVzpyJ  Usually the Terran players are the ones in charge of the pace of Terran vs Protoss. However, in this game PartinG takes charge from beginning to the very",
@@ -545,6 +507,45 @@
       "publishedDateTime": "2021-11-08T03:32:41-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-just-amazing-darks-crazy-strategies-vs-hero-best-of-5.md",
+      "title": "StarCraft 2: JUST AMAZING! - Dark's CRAZY Strategies vs herO! (Best-of-5)",
+      "excerpt": "Professional match of StarCraft 2 between Dark and herO, two of the best players in SC2. In these games Dark decides to throw all that he knows at herO, as he goes for strategies that sometimes just don't make a lot of sense.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-just-amazing-darks-crazy-strategies-vs-hero-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-just-amazing-darks-crazy-strategies-vs-hero-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=_a2Y-qIoLiQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_a2Y-qIoLiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M28S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_a2Y-qIoLiQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-27T02:44:05-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-late-game-protoss-wars-showtime-vs-hurricane.md",
       "title": "StarCraft 2: LATE GAME PROTOSS WARS! (ShoWTimE vs Hurricane)",
       "excerpt": "Top-level match of Protoss versus Protoss in StarCraft 2. In this game between ShoWTimE and Hurricane we see both players play a very macro focused game. They base their unit compositions around the Stalker, Disruptor, Dark Templar and eventually the Tempest.  Become a YouTube member: https://lowko.tv/join",
@@ -775,44 +776,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-01-29T03:35:05-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-manas-fake-oracle-attack-best-of-5.md",
-      "title": "StarCraft 2: MaNa's FAKE ORACLE Attack! (Best-of-5)",
-      "excerpt": "Best-of-5 series of high level StarCraft 2 between MaNa (Protoss) and SpeCial (Terran).  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @LowkoTV @LowkoClips  Twitch livestream: https://twitch.tv/lowkotv Live most days 2-8 PM CET / CEST  The",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-manas-fake-oracle-attack-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-manas-fake-oracle-attack-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=FLljwfmCOXQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FLljwfmCOXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M18S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FLljwfmCOXQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-29T03:22:02-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-maru-offraces-protoss-professional-2v2.md",
@@ -1161,6 +1124,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-12-27T06:58:42-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-mech-vs-protoss.md",
+      "title": "StarCraft 2: MECH VS PROTOSS?",
+      "excerpt": "Gumiho vs Dear in an awesome match of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://youtu.be/EQ_JvXQFDEU  I've been casting so many super close games lately, and this one is no different. Gumiho decides to play against Dear in this game, who is relentless with",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-mech-vs-protoss/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-mech-vs-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=WOcvfiRuxjc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WOcvfiRuxjc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M10S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WOcvfiRuxjc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-06-19T03:50:26-07:00"
     }
   ],
   "nextPage": 15

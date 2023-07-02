@@ -4,6 +4,39 @@
   "page": 87,
   "value": [
     {
+      "path": "_games/pig-thats-not-a-cannon-this-is-a-cannon-twitch-plays-pig-51.md",
+      "title": "“That’s not a Cannon, THIS is a Cannon\" | Twitch Plays PiG #51",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-thats-not-a-cannon-this-is-a-cannon-twitch-plays-pig-51/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-thats-not-a-cannon-this-is-a-cannon-twitch-plays-pig-51/",
+      "originalUrl": "https://youtube.com/watch?v=rvJyBBCz8cc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rvJyBBCz8cc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M57S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rvJyBBCz8cc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-05T14:00:09-07:00"
+    },
+    {
       "path": "_games/pig-the-1v7-insane-ai-challenge-is-impossible-starcraft-2.md",
       "title": "The 1v7 INSANE AI Challenge is impossible - StarCraft 2",
       "excerpt": "I have challenged StarCraft 2 Pros to take on 7 INSANE Cheater AIs at once! Serral has said it is impossible unless maybe they're all Zergs. The first person brave enough to try it is Spirit (Soul), a Terran player. He takes on 7 Random insane AIs all on Any Build. Then he tried 7 Zergs. Then he tries",
@@ -856,35 +889,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/6iF0BXgql8o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-the-pig-daily-45-confusion-icyfar-11.md",
-      "title": "The PiG Daily #45 | Confusion ICYFAR #11",
-      "excerpt": "This weeks ICYFAR topic: Blink DTs n stuff - Send in your best games from the testmap. You can see the changes and start it from here http://us.battle.net/sc2/en/blog/20241475/major-balance-changes-test-map-now-available-8-16-2016. Send submissions to eonblu95@gmail.com as attachment. Lastest submission",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-pig-daily-45-confusion-icyfar-11/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-pig-daily-45-confusion-icyfar-11/",
-      "originalUrl": "https://youtube.com/watch?v=-6uVDlFewG4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-6uVDlFewG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M22S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-6uVDlFewG4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

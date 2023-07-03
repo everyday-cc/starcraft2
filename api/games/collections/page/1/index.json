@@ -329,7 +329,7 @@
           "publishedDateTime": "2018-05-24T00:49:07-07:00"
         }
       ],
-      "size": 1039,
+      "size": 1040,
       "heat": 62,
       "images": [
         {
@@ -718,7 +718,7 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 50,
+          "heat": 51,
           "tags": [
             "Cheese",
             "Live"
@@ -1332,7 +1332,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 52,
+          "heat": 50,
           "tags": [
             "Live"
           ],

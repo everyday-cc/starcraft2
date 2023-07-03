@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=hpu9_LgSkPg
 type: video
 length: PT30M28S
 publishedDateTime: 2023-06-05T10:52:38Z
-heat: 72
+heat: 79
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hpu9_LgSkPg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+w+9qU2x7BdXKWCgbAszdSCHAiOXAhCTrZDzN2FilCTwUOMizdAR5z+8/G8vfRqpal8w0WmoKouUx2zAOnrVWJ7QGBJjGlYQIXzuhjJ8pCLfJbvti/JPgHWVVTF8Zgn8LllbItr6LiqtHCtW75Vp5RJ0bJr0CuofiWWXR6YgyY8+FNNdGnCKXHdhV/7CDJPmBb/yjf004lK6L1mwJM8t8zbXPRD4YcE21ZaORhWhgYBQKMWMBSTXoy8Rm12tvihr435ifBGOSv6SwXAIjdxCNRQofL91z8Rj+hidu3/4n5Fgmw7xze9mCAAR0PnUojUv1eqrKA2FWHmS7/xP3PccnOZ7oljuZKdLMbGcdK8gMo6op3SJCCovwHH3ibz/5cqQYcn8oa3HwU3CuOHLGPH4z9Yt6BkGgBszWJJ12Ble9FQ=;Y9ORzYbLWWmAvuzis+EXCw=="
+secured: "eXqYWzMbCUC0bslQXRBI6PZxIrFrmvAt/kkqMMKg2+IvZv8BKTTAB4A2GkiCezVjJFRdSFYHndqHePfqVWzC12j/p9CqQiZULacKejgogyK6uyPSNBpx1gZw0w2TxwZRRECoNChyqCnOGyKac6dObUiYIwklZ1i1/YAhsuqB2DAtR99xSLdhTT7DTwTlT7VwuzXz7XIozIAsKEeyOaguZK83dNQZmVTltxM1QzOqp2Yvdu+pzBAZeP7jMp1qx5v7TTLFJO6MEwgMpuHSJLra4D30WUtw7a0xK1ZgABoJIKqxaUzLOVuDmxxzJybZEAlf2WgraN4v68iUO5g8PMFkRgVO6r9vgLPijnMlwJkmZMXDoEQiEkM0UdUbyaOKhTvUDUHGDJJG1vm2SymzQqjXKK/vsHpD2/KoRyU9krZVqgk=;KXlgb1RTjSBtWSmpkz1Fbg=="
 ---
 

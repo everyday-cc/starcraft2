@@ -38,6 +38,20 @@ related:
         width: 1800
         height: 900
         isCached: true
+  - title: "StarCraft Deserves the Diablo Treatment"
+    excerpt: "Blizzard has been churning out Diablo titles since 2021, and now it needs to do the same for the critically acclaimed StarCraft franchise. The StarCraft franchise is one of Blizzard's major IPs ..."
+    publishedDateTime: 2023-06-27T18:22:00Z
+    webUrl: "https://gamerant.com/starcraft-diablo-sequel-spin-offs-similar-revival/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 77
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/06/starcraft-1.jpg"
+        width: 1800
+        height: 900
+        isCached: true
 
 secured: "2OAkX6MhY+MCPtn6bWRntWQoxpYaEi3JxohyZ3RA9oYy29Ym7TFcM8L1wabKbxmxmtniApQ+YX1ufNZd01A7LDDnAydbpki51KkHbTF//5rszqxX+JpYPSCknAeOAqzJbJYgfA5/9fx7htkMQvLSMfrZBqpCL0G5aZqpBzlSa3JVaw+xKCjYMGEJU66pYG5l7v1+qKwGzjFdPwl6uCVX1m2WB/uwRPCcsEjowcSrpVc8B5uxa8i7x5HLdp7txsadNDBvxb10NS60FuDcTttesDNN+WojXmqqBTR8r/LF0hamjxIYSV0ELpaLI6FCpzuHtEtcz85MeLOWF0YYFF+7e9j0IkmYvFR4NQn3Ua5Re6fGUXxFko5Zxz20X1M//FXwfUAMo7HgTK1BIo3BKXFoq34imv55TTlcEHclCgg4IIjzcCh5aj+JUokzPKSL2YWZl4absZ3LPYyIFApo4cYLoL/GqYpM2B8JzUczu44GYVpALq1HDKspPODLtMmBQoPRg+dEZp/iSzl4UoZmyGo6ZA==;C2CDm9rkl0rptRbJYGwjYg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/blizzard-president-starcraft-best-ip/"
 webUrl: "https://gamerant.com/blizzard-president-starcraft-best-ip/"
 type: article
 quality: 77
-heat: 97
+heat: 121
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "StarCraft Deserves the Diablo Treatment"
+    excerpt: "Blizzard has been churning out Diablo titles since 2021, and now it needs to do the same for the critically acclaimed StarCraft franchise. The StarCraft franchise is one of Blizzard's major IPs ..."
+    publishedDateTime: 2023-06-27T18:22:00Z
+    webUrl: "https://gamerant.com/starcraft-diablo-sequel-spin-offs-similar-revival/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 77
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/06/starcraft-1.jpg"
+        width: 1800
+        height: 900
+        isCached: true
   - title: "Blizzard President responds to LIRIK’s request for new StarCraft game"
     excerpt: "Blizzard President Mike Ybarra agreed with LIRIK that StarCraft has \"insane potential\" after the streamer requested a new game."
     publishedDateTime: 2023-06-21T22:53:00Z

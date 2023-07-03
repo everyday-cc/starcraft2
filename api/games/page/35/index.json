@@ -4,6 +4,43 @@
   "page": 35,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-denver-requests-another-draw-elazer-vs-denver.md",
+      "title": "StarCraft 2: Denver Requests ANOTHER DRAW?! (Elazer vs Denver)",
+      "excerpt": "Awesome match of Zerg versus Zerg at the professional level of StarCraft 2 between Denver and Elazer. Denver vs GunGFuBanDa: https://youtu.be/fYgflXfnhZ0  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-denver-requests-another-draw-elazer-vs-denver/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-denver-requests-another-draw-elazer-vs-denver/",
+      "originalUrl": "https://youtube.com/watch?v=C9tThrn8HoU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C9tThrn8HoU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/C9tThrn8HoU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-25T04:25:21-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-diamond-league-cringe-viewer-game.md",
       "title": "StarCraft 2: DIAMOND LEAGUE CRINGE! (Viewer Game)",
       "excerpt": "A cringy game of Diamond League StarCraft 2. In this match between CmdrJay and AmarthDagnir we see the Terran player focus on lots of different kinds of cheese. While it starts with a Bunker Rush we quickly realise that it won't win him the game so he transitions towards something even more cheeky.",
@@ -1102,43 +1139,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-03T03:24:10-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-epic-game-super-long-action-packed-pro-match-elazer-vs-nice.md",
-      "title": "StarCraft 2: EPIC GAME - Super Long Action-Packed Pro Match! (Elazer vs Nice)",
-      "excerpt": "One of the longest games of professional StarCraft 2 that I've seen. In this match of Zerg versus Protoss between Elazer and Nice we have a very active match all things considered. Most long games of pro SC2 are two players sitting back, but that is not the case between these two progamers at all.  World",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-game-super-long-action-packed-pro-match-elazer-vs-nice/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-super-long-action-packed-pro-match-elazer-vs-nice/",
-      "originalUrl": "https://youtube.com/watch?v=Bwekf_fC59g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bwekf_fC59g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT59M22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Bwekf_fC59g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-07T13:34:49-07:00"
     }
   ],
   "nextPage": 36

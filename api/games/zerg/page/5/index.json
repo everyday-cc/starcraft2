@@ -151,6 +151,37 @@
       "publishedDateTime": "2022-10-24T20:57:51-07:00"
     },
     {
+      "path": "_games/pig-zergs-sick-burrowed-banelings-breaks-terrans-brain-pig-vs-catz-starcraft-2.md",
+      "title": "Zerg's SICK Burrowed Banelings Breaks Terran's Brain (PiG vs Catz) - StarCraft 2",
+      "excerpt": "Subscribe to PiG Casts! 🐷 Catz has such a wild playstyle, always so much fun to play against him! You never know what to expect, like a wild burrowed baneling bomb that shatters your brain haha -- 🐷 Main Channel: https://www.youtube.com/user/PiGstarcraft 🐷 Second Channel for Learning StarCraft 2:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-zergs-sick-burrowed-banelings-breaks-terrans-brain-pig-vs-catz-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-zergs-sick-burrowed-banelings-breaks-terrans-brain-pig-vs-catz-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=uZqynTBigQc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uZqynTBigQc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M36S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uZqynTBigQc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-05T01:51:02-07:00"
+    },
+    {
       "path": "_games/sc2hl-bunnys-massive-thor-push-starcraft-2-solar-vs-bunny.md",
       "title": "Bunny's MASSIVE THOR PUSH - Starcraft 2: Solar vs. Bunny",
       "excerpt": "Amazing game between Solar & Bunny - Bunny building one of the strongest Terran armies with a mass thor push.   Match: Solar vs. Bunny Tournament: Starcraft 2 - GSL Code S - Season 3 2022  VODs: https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg  ► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL",
@@ -1113,45 +1144,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-02-14T05:17:50-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-reaper-surprises-professional-2v2-maru-byun-vs-solar-ryung.md",
-      "title": "StarCraft 2: REAPER SURPRISES - Professional 2v2! (Maru & ByuN vs Solar & Ryung)",
-      "excerpt": "Best-of-5 series of StarCraft 2 played in 2v2. Normally we don't see many pro games played in 2v2, but these games from the OlimoLeague are a lot of fun.  OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reaper-surprises-professional-2v2-maru-byun-vs-solar-ryung/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reaper-surprises-professional-2v2-maru-byun-vs-solar-ryung/",
-      "originalUrl": "https://youtube.com/watch?v=OLR9ijCrbc8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OLR9ijCrbc8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M36S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OLR9ijCrbc8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-20T03:00:18-07:00"
     }
   ],
   "nextPage": 6

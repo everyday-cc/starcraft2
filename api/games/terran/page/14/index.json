@@ -813,44 +813,6 @@
       "publishedDateTime": "2021-09-21T04:19:21-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-marus-amazing-surrounds-vs-spirit.md",
-      "title": "StarCraft 2: Maru's AMAZING SURROUNDS vs Spirit!",
-      "excerpt": "Professional match of StarCraft 2 between Maru (Terran) and Spirit (Terran).  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:  @LowkoTV   @MoreLowko   @LowkoClips   Twitch livestream: https://twitch.tv/lowkotv Live most days 2-8 PM CET / CEST  The hardware",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marus-amazing-surrounds-vs-spirit/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marus-amazing-surrounds-vs-spirit/",
-      "originalUrl": "https://youtube.com/watch?v=jyiTCFkWF7A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jyiTCFkWF7A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jyiTCFkWF7A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-04-08T02:26:38-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-marus-incredible-terran-mech-reynor-vs-maru.md",
       "title": "StarCraft 2: Maru's INCREDIBLE Terran Mech! (Reynor vs Maru)",
       "excerpt": "Top level game of professional StarCraft 2 between Maru (Terran) and Reynor (Zerg). Reynor decides to go for a Brood Lord timing attack versus Maru's passive Terran Mech style. While most players would just lose the game rigth then and there, Maru somehow manages to stabilize and counter attack.  Support",
@@ -1155,6 +1117,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-03-11T04:30:51-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-mass-cyclone-liberator.md",
+      "title": "StarCraft 2: MASS Cyclone & Liberator!",
+      "excerpt": "Solar vs Gumiho in a game of Zerg vs Terran in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube uThermal vs Solar: https://goo.gl/LDM2UE  In this game Gumiho decides to go for mass Cyclones, Hellions and a lot of Liberators. However, I already casted a game in the past where Solar dealt",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-mass-cyclone-liberator/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-mass-cyclone-liberator/",
+      "originalUrl": "https://youtube.com/watch?v=3Xs5rH-meHo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3Xs5rH-meHo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3Xs5rH-meHo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-01-31T03:32:30-08:00"
     }
   ],
   "nextPage": 15

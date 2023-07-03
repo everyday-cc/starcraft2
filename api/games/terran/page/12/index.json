@@ -4,6 +4,45 @@
   "page": 12,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-close-game-battlecruisers-vs-swarm-hosts.md",
+      "title": "StarCraft 2: CLOSE GAME - Battlecruisers vs Swarm Hosts!",
+      "excerpt": "Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips: https://www.youtube.com/lowkoclips  Be part of the community on Discord: https://discord.gg/lowkotv The hardware setup I use: https://lowko.tv/setup/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-close-game-battlecruisers-vs-swarm-hosts/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-close-game-battlecruisers-vs-swarm-hosts/",
+      "originalUrl": "https://youtube.com/watch?v=zq_VPZdYdp4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zq_VPZdYdp4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M35S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zq_VPZdYdp4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-25T05:07:04-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-creative-strats-gumihos-anti-timing-attacks-best-of-5.md",
       "title": "StarCraft 2: CREATIVE STRATS - GuMiho's ANTI TIMING Attacks! (Best-of-5)",
       "excerpt": "GuMiho has been playing some wild strategies in StarCraft 2. In this best-of-5 series he's facing off against Ragnarok, who has been climbing through the lately. This is the rank 13 in the world (GuMiho) versus the rank 15 (Ragnarok).  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
@@ -197,45 +236,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-26T07:44:21-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-darks-swarm-hosts-vs-maru.md",
-      "title": "StarCraft 2: Dark's SWARM HOSTS vs Maru?!",
-      "excerpt": "Professional match of StarCraft 2 between Maru and Dark. Maru has been playing a turtle style of Terran versus Zerg lately, and because of that Dark decides to give the most underused Zerg unit a try: The Swarm Host.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-swarm-hosts-vs-maru/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-swarm-hosts-vs-maru/",
-      "originalUrl": "https://youtube.com/watch?v=_HUE_txgIrA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_HUE_txgIrA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_HUE_txgIrA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-04T02:29:47-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-different-types-of-tactical-nukes.md",
@@ -467,45 +467,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-12-20T04:44:54-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-epic-game-byuns-great-escape-vs-hero.md",
-      "title": "StarCraft 2: EPIC GAME - ByuN's GREAT ESCAPE vs herO!",
-      "excerpt": "Professional match of StarCraft 2 between herO and ByuN. This Terran versus Protoss is a nail biter as nearly half an hour into the game, the match is still not decided.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-game-byuns-great-escape-vs-hero/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-byuns-great-escape-vs-hero/",
-      "originalUrl": "https://youtube.com/watch?v=VTWlvFUmQlc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VTWlvFUmQlc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VTWlvFUmQlc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-02T04:48:57-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-epic-game-proxy-factory-vs-proxy-stargate-gumiho-vs-hero.md",
@@ -1050,44 +1011,6 @@
       "publishedDateTime": "2023-01-31T04:12:02-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-extremely-tricky-gumiho-plays-himself-best-of-5.md",
-      "title": "StarCraft 2: EXTREMELY Tricky - GuMiho Plays HIMSELF?! (Best-of-5)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between GuMiho (Terran) and Solar (Zerg). This match is the Grand Finals of the ESL Open cup 137 Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-extremely-tricky-gumiho-plays-himself-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-extremely-tricky-gumiho-plays-himself-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=1pu2cQNaotk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1pu2cQNaotk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT57M47S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1pu2cQNaotk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-22T04:56:55-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-eye-for-an-eye-innovation-vs-soo.md",
       "title": "StarCraft 2: EYE FOR AN EYE! (INnoVation vs soO)",
       "excerpt": "An epic match of professional level Zerg vs Terran in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Professional best-of-7: https://goo.gl/cLp2ev  In this match both players keep making trades back and forth. We arrive at the late game without either player really being ahead. Because",
@@ -1164,6 +1087,84 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-24T01:14:41-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-fear-the-thunder-maru-vs-soo.md",
+      "title": "StarCraft 2: FEAR THE THUNDER! (Maru vs soO)",
+      "excerpt": "Terran Mech seems to be new gold standard in the Zerg versus Terran match-up in StarCraft 2. In this top-level match between Maru and soO the Terran also decides to go for an army composition based primarily around Thors, Siege Tanks and Battlecruisers. The Zerg player soO takes a different approach",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-fear-the-thunder-maru-vs-soo/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-fear-the-thunder-maru-vs-soo/",
+      "originalUrl": "https://youtube.com/watch?v=pCKBB5DRffM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pCKBB5DRffM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pCKBB5DRffM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-20T05:28:27-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-flawless-micro-high-agression-zerg-vs-terran-reynor-vs-clem.md",
+      "title": "StarCraft 2 : FLAWLESS MICRO - High Agression Zerg vs Terran! (Reynor vs Clem)",
+      "excerpt": "Professional match of StarCraft 2 between Reynor (Zerg) and Clem (Terran). This is a classic matchup, as these two progamers have faced off against each other many times before. One of the highest level games of StarCraft 2 I've casted recently.  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-flawless-micro-high-agression-zerg-vs-terran-reynor-vs-clem/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-flawless-micro-high-agression-zerg-vs-terran-reynor-vs-clem/",
+      "originalUrl": "https://youtube.com/watch?v=_y5U1EWyCG8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_y5U1EWyCG8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M54S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_y5U1EWyCG8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-20T04:29:40-07:00"
     }
   ],
   "nextPage": 13

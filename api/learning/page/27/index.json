@@ -4,6 +4,96 @@
   "page": 27,
   "value": [
     {
+      "path": "_learning/videos/pig-starcraft-2-zvt-rule-of-1-gas-ling-bane-hydra-style-coaching-diamond-1.md",
+      "title": "StarCraft 2 - ZvT Rule of 1-gas Ling-Bane-Hydra Style - Coaching Diamond 1",
+      "excerpt": "I coach a diamond 1 Zerg on improving his ling-bane-hydra style vs Terran -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zvt-rule-of-1-gas-ling-bane-hydra-style-coaching-diamond-1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zvt-rule-of-1-gas-ling-bane-hydra-style-coaching-diamond-1/",
+      "originalUrl": "https://youtube.com/watch?v=CFAIM2IlkC4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CFAIM2IlkC4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT48M31S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:06-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CFAIM2IlkC4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-zvt-style-that-shuts-down-that-first-bc-rule-of-1-gas-plat-2-coaching.md",
+      "title": "StarCraft 2 - ZvT Style that shuts down that first BC - Rule of 1-gas Plat 2 coaching",
+      "excerpt": "\"Bacon, bacon, bacon, bacon!\" - PiG 2019 If yiou don't enjoy the talk at the start, first gameplay is at 17:40  Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zvt-style-that-shuts-down-that-first-bc-rule-of-1-gas-plat-2-coaching/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zvt-style-that-shuts-down-that-first-bc-rule-of-1-gas-plat-2-coaching/",
+      "originalUrl": "https://youtube.com/watch?v=BlZO7DAKUVs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BlZO7DAKUVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H19M51S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-11-04T09:00:05-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BlZO7DAKUVs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-zvt-vs-mech-d2-coaching.md",
+      "title": "StarCraft 2 - ZvT vs Mech - D2 Coaching!",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zvt-vs-mech-d2-coaching/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zvt-vs-mech-d2-coaching/",
+      "originalUrl": "https://youtube.com/watch?v=LTtZ6VgCwvU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LTtZ6VgCwvU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H12M34S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-07-07T03:20:20-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LTtZ6VgCwvU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-starcraft-2-zvz-coaching-masters-how-to-play-vs-mutas.md",
       "title": "StarCraft 2 - ZvZ Coaching Masters - How to play vs Mutas?",
       "excerpt": "I coach a student on how to defend vs mutalisks -- Watch live at https://www.twitch.tv/x5_pig",
@@ -493,36 +583,6 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-the-pig-daily-10-fundamentals-of-starcraft-all-the-most-important-mechanics-and-tips.md",
-      "title": "The PiG Daily #10 - Fundamentals of Starcraft - all the most important mechanics and tips",
-      "excerpt": "Timestamps:  4:00 - Camera Locations and editing hotkeys 11:20 - Personalizing Hotkey Layout 14:24 - (Zerg) Hotkeying Eggs  17:00 - The F2 Key 19:00 - Ctrl Click/Double Click 20:30 - Shift Key Selecting 21:55 - Cloning 23:54 - Map Control  27:40 - Queuing Actions 33:06 - Rapid Fire Spells 36:24 - Control",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-the-pig-daily-10-fundamentals-of-starcraft-all-the-most-important-mechanics-and-tips/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-the-pig-daily-10-fundamentals-of-starcraft-all-the-most-important-mechanics-and-tips/",
-      "originalUrl": "https://youtube.com/watch?v=9EEv2pw94WQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9EEv2pw94WQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H27M13S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2016-07-04T00:19:02-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9EEv2pw94WQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-the-pig-daily-28-beginner-basics-the-art-of-defence.md",
       "title": "The PiG Daily #28 - Beginner Basics - The art of Defence",
       "excerpt": "Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb\r See the Show notes and more info + ongoing discussion of the show in the Teamliquid thread: http://www.teamliquid.net/forum/starcraft-2/509383-the-pig-daily-thinking-critically-about-sc -- Watch live",
@@ -856,69 +916,6 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-tvp-how-the-hell-do-i-beat-storm-pvz-how-to-stop-unscoutable-roach-allin-newbie-stream.md",
-      "title": "TvP HOW THE HELL DO I BEAT STORM? + PvZ How to stop unscoutable roach allin? - Newbie Stream",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-tvp-how-the-hell-do-i-beat-storm-pvz-how-to-stop-unscoutable-roach-allin-newbie-stream/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-tvp-how-the-hell-do-i-beat-storm-pvz-how-to-stop-unscoutable-roach-allin-newbie-stream/",
-      "originalUrl": "https://youtube.com/watch?v=YPl3PBpYhiI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YPl3PBpYhiI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M50S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-07-22T09:30:04-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YPl3PBpYhiI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-tvp-how-to-force-fights-and-engage-2-1-1-into-2-base-tank-liberator-push-coaching-session.md",
-      "title": "TvP - How to force fights and engage - 2-1-1 into 2-base tank liberator push - coaching session",
-      "excerpt": "I coach a diamond 1 terran on his TvP he’s been struggling with with a focus on a decisive 2-base push as a great way to focus improvement and how to execute pushes to force the protoss into a bad fight  -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-tvp-how-to-force-fights-and-engage-2-1-1-into-2-base-tank-liberator-push-coaching-session/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-tvp-how-to-force-fights-and-engage-2-1-1-into-2-base-tank-liberator-push-coaching-session/",
-      "originalUrl": "https://youtube.com/watch?v=WZG8B-0rXMw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WZG8B-0rXMw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:44:33-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WZG8B-0rXMw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
       ]
     }
   ],

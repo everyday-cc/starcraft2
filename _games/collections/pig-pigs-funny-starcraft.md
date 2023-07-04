@@ -1046,6 +1046,7 @@ items:
   - pig-wings-of-liberty-nightmare-difficulty-help-part-5-starcraft-2
   - pig-wings-of-liberty-nightmare-difficulty-this-is-impossible-seriously-part-6-starcraft-2
   - pig-wings-of-liberty-nightmare-difficulty-omg-part-7-starcraft-2
+  - pig-neural-parasite-triggers-rage-meltdown-from-toss-salt-mines-38-starcraft-2
 
 topics:
   - StarCraft 2

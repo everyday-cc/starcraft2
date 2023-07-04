@@ -4,35 +4,6 @@
   "page": 91,
   "value": [
     {
-      "path": "_games/pig-what-the-hell-is-this-about-tree-fiddy-icyfar-g2.md",
-      "title": "What the hell is this? | About Tree Fiddy ICYFAR G2",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-what-the-hell-is-this-about-tree-fiddy-icyfar-g2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-what-the-hell-is-this-about-tree-fiddy-icyfar-g2/",
-      "originalUrl": "https://youtube.com/watch?v=8i9XnVA3-6Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8i9XnVA3-6Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M20S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8i9XnVA3-6Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-whats-a-spore-crawler-skirmish-icyfar-g1-197.md",
       "title": "What's a Spore Crawler!? - Skirmish ICYFAR - G1 #197)",
       "excerpt": "In today’s ICYFAR players were challenged to avoid large battles and win through many small skirmishes! They weren’t allowed to use more than 24 units in any engagement!\r \r THIS WEEKS ICYFAR Challenge: \"Melee Madness\" - You can only use hand-to-hand combat units! For Terran you're allowed to use hellbats,",
@@ -882,6 +853,35 @@
           "url": "https://i.ytimg.com/vi/2kMRqpDQLJQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-worker-massacre-icyfar-16-the-pig-daily-68-part-1.md",
+      "title": "Worker Massacre ICYFAR #16 | The PiG Daily #68 (Part 1)",
+      "excerpt": "THIS WEEKS ICYFAR: \"Star Crafts Mod!\" - Submit your most entertaining games playing in Carbot’s Star Crafts Mod!. Send submissions to eonblu95@gmail.com as attachment. Lastest submission until the second daily of the week (Monday in EU/US, Tuesday in AUS/KR).\r Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-worker-massacre-icyfar-16-the-pig-daily-68-part-1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-worker-massacre-icyfar-16-the-pig-daily-68-part-1/",
+      "originalUrl": "https://youtube.com/watch?v=RVEWHh0NTCA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RVEWHh0NTCA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M15S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RVEWHh0NTCA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],

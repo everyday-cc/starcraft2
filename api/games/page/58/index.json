@@ -4,81 +4,6 @@
   "page": 58,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-trash-talking-cannon-rusher-viewer-games.md",
-      "title": "StarCraft 2: TRASH TALKING Cannon Rusher! (Viewer Games)",
-      "excerpt": "Two viewer submitted games of StarCraft 2... With some very special tactics! If you have a great game of SC2 that you would like me to cast, you can send over your best game to replays@lowko.tv.   Supportlowko my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-trash-talking-cannon-rusher-viewer-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-trash-talking-cannon-rusher-viewer-games/",
-      "originalUrl": "https://youtube.com/watch?v=kA3oswPXFRg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kA3oswPXFRg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M48S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kA3oswPXFRg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-07T07:11:14-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-trash-talking.md",
-      "title": "StarCraft 2: TRASH TALKING!",
-      "excerpt": "Today it's time for a viewer submitted game of StarCraft 2. In this Platinum and Diamond League match of Protoss vs Zerg. One of the cheesiest games you can go watch, as the Protoss decides to go for a few Proxy Gateways on the other side of the map, but it turns out to be one of the worst StarCraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-trash-talking/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-trash-talking/",
-      "originalUrl": "https://youtube.com/watch?v=VouAQJwx9k8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VouAQJwx9k8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M3S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VouAQJwx9k8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-01-24T14:28:17-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-triple-battlecruiser-rush-elazer-vs-kelazhur.md",
       "title": "StarCraft 2: TRIPLE Battlecruiser \"Rush\"! (Elazer vs Kelazhur)",
       "excerpt": "Very good game of professional StarCraft 2 between Elazer (Zerg) and Kelazhur (Terran). In this Terran versus Zerg Kelazhur decides to go straight to playing Terran Mech after opening up with Battlecruisers.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -115,6 +40,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-29T02:30:52-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-turtle-royale-pro-gamer-ffa.md",
+      "title": "StarCraft 2: TURTLE ROYALE! (Pro Gamer FFA)",
+      "excerpt": "StarCraft 2 Battle Royale 6-man free-for-all between Maru, SuperNova, Taeja, Stats, Patience and Ragnarok. While it is a Battle Royale, both games very quickly become a Turtle Royale instead, as players try to control the center with as much static defense as possible.  Get more videos & support my work:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-turtle-royale-pro-gamer-ffa/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-turtle-royale-pro-gamer-ffa/",
+      "originalUrl": "https://youtube.com/watch?v=Bf7LdkuWV98",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bf7LdkuWV98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Bf7LdkuWV98/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-02-28T15:56:53-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-two-hero-banshees.md",
@@ -1137,6 +1099,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-01-14T04:33:54-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-vipers-vs-ravens.md",
+      "title": "StarCraft 2: VIPERS vs RAVENS?!",
+      "excerpt": "An incredible match between Bly and SpeCIaL. Subscribe for more videos: http://lowko.tv/youtube Zest vs aLive: https://goo.gl/fZqtFq  Easily one of the closest macro games between Terran and Zerg in all of StarCraft 2. In this match MajOr (also known as WinDy, Terran, Princess, Britney, Kitty, Memory,",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-vipers-vs-ravens/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-vipers-vs-ravens/",
+      "originalUrl": "https://youtube.com/watch?v=WWYB3hU8InQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WWYB3hU8InQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M33S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WWYB3hU8InQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-06-30T05:28:19-07:00"
     }
   ],
   "nextPage": 59

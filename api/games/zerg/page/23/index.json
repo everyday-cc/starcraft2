@@ -4,36 +4,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_games/pig-the-double-drone-rush-to-piss-off-protosses-everywhere-smooth-brain-stephen-2-starcraft-2.md",
-      "title": "The Double Drone Rush to Piss Off Protosses Everywhere! | Smooth Brain Stephen #2 - StarCraft 2",
-      "excerpt": "Stephen won Season 2 of the Smooth Brain Auditions with his Spawning Pool off creep game, which was 100% glassy. This new series is dedicated to his smoothness.  How Stephen won Season 2: https://youtu.be/1S7dlYy947Y Watch (A Collection of) Smooth Brains playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-double-drone-rush-to-piss-off-protosses-everywhere-smooth-brain-stephen-2-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-double-drone-rush-to-piss-off-protosses-everywhere-smooth-brain-stephen-2-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=wAAuLXzuIRw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wAAuLXzuIRw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M47S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wAAuLXzuIRw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-31T19:53:00-07:00"
-    },
-    {
       "path": "_games/pig-the-fu-zerg-protoss-multiprong-skirmishes-icyfar-g3-197.md",
       "title": "The \"FU Zerg\" Protoss Multiprong - Skirmishes ICYFAR - G3 #197)",
       "excerpt": "In today’s ICYFAR players were challenged to avoid large battles and win through many small skirmishes! They weren’t allowed to use more than 24 units in any engagement!\r \r THIS WEEKS ICYFAR Challenge: \"Melee Madness\" - You can only use hand-to-hand combat units! For Terran you're allowed to use hellbats,",
@@ -554,6 +524,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-zergs-sick-burrowed-banelings-breaks-terrans-brain-pig-vs-catz-starcraft-2.md",
+      "title": "Zerg's SICK Burrowed Banelings Breaks Terran's Brain (PiG vs Catz) - StarCraft 2",
+      "excerpt": "Subscribe to PiG Casts! 🐷 Catz has such a wild playstyle, always so much fun to play against him! You never know what to expect, like a wild burrowed baneling bomb that shatters your brain haha -- 🐷 Main Channel: https://www.youtube.com/user/PiGstarcraft 🐷 Second Channel for Learning StarCraft 2:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-zergs-sick-burrowed-banelings-breaks-terrans-brain-pig-vs-catz-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-zergs-sick-burrowed-banelings-breaks-terrans-brain-pig-vs-catz-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=uZqynTBigQc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uZqynTBigQc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M36S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uZqynTBigQc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-05T01:51:02-07:00"
     },
     {
       "path": "_games/pig-zergs-sneaky-strategy-to-catch-terran-out-icyfar-blood-sacrifice-starcraft-2.md",

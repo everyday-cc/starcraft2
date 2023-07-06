@@ -4,36 +4,6 @@
   "page": 87,
   "value": [
     {
-      "path": "_games/pig-straddling-the-train-to-disk-town-split-like-maru-icyfar-g2.md",
-      "title": "Straddling the Train to Disk-Town | Split Like Maru ICYFAR G2",
-      "excerpt": "There apparently was an awesome observer snipe in this game but it was miscommunicated and therefore PiG looked for it in the NEXT series xD  In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were they “microed like never before”.   CURRENT",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-straddling-the-train-to-disk-town-split-like-maru-icyfar-g2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-straddling-the-train-to-disk-town-split-like-maru-icyfar-g2/",
-      "originalUrl": "https://youtube.com/watch?v=Di55yjXGxzY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Di55yjXGxzY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M23S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Di55yjXGxzY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-superhuman-throw-allows-impossible-comeback-rate-my-starcraft-6.md",
       "title": "SUPERHUMAN THROW ALLOWS IMPOSSIBLE COMEBACK!? | Rate My StarCraft #6",
       "excerpt": "Eonblu has been the ICYFAR replay selector for years. This game is so sloppy, like both players trying to throw constantly. Why do you all send me Rate my starcraft replays that make me want to die!  🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your",
@@ -890,6 +860,40 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-the-im-a-douche-strategy-thor-drop-into-mass-mine-liberator-tvz-twitch-plays-pig-21.md",
+      "title": "The “I’m a Douche Strategy” - Thor Drop into Mass Mine Liberator TvZ | Twitch Plays PiG #21",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-im-a-douche-strategy-thor-drop-into-mass-mine-liberator-tvz-twitch-plays-pig-21/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-im-a-douche-strategy-thor-drop-into-mass-mine-liberator-tvz-twitch-plays-pig-21/",
+      "originalUrl": "https://youtube.com/watch?v=Y2YRkpLs4bI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y2YRkpLs4bI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M36S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Y2YRkpLs4bI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-09-30T22:03:42-07:00"
     }
   ],
   "nextPage": 88

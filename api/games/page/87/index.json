@@ -4,6 +4,36 @@
   "page": 87,
   "value": [
     {
+      "path": "_games/pig-straddling-the-train-to-disk-town-split-like-maru-icyfar-g2.md",
+      "title": "Straddling the Train to Disk-Town | Split Like Maru ICYFAR G2",
+      "excerpt": "There apparently was an awesome observer snipe in this game but it was miscommunicated and therefore PiG looked for it in the NEXT series xD  In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were they “microed like never before”.   CURRENT",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-straddling-the-train-to-disk-town-split-like-maru-icyfar-g2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-straddling-the-train-to-disk-town-split-like-maru-icyfar-g2/",
+      "originalUrl": "https://youtube.com/watch?v=Di55yjXGxzY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Di55yjXGxzY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M23S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Di55yjXGxzY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-superhuman-throw-allows-impossible-comeback-rate-my-starcraft-6.md",
       "title": "SUPERHUMAN THROW ALLOWS IMPOSSIBLE COMEBACK!? | Rate My StarCraft #6",
       "excerpt": "Eonblu has been the ICYFAR replay selector for years. This game is so sloppy, like both players trying to throw constantly. Why do you all send me Rate my starcraft replays that make me want to die!  🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your",
@@ -743,14 +773,14 @@
       "publishedDateTime": "2022-08-31T19:53:00-07:00"
     },
     {
-      "path": "_games/pig-the-fastest-viper-rush-strat-ive-ever-seen-also-the-dumbest-smooth-brain-santa-claws-8-sc2.md",
-      "title": "The FASTEST Viper Rush Strat I’ve Ever Seen (also the Dumbest) | Smooth Brain Santa Claws #8 - SC2",
-      "excerpt": "🎅 Santa Claws impressed in his Starcraft Smooth Brain audition and has been granted an opportunity to be the next Smooth Brain. Will he impress or will his brain prove too wrinkled?   🎅 Santa Claws Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh -- 🐷 Second Channel",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-fastest-viper-rush-strat-ive-ever-seen-also-the-dumbest-smooth-brain-santa-claws-8-sc2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-fastest-viper-rush-strat-ive-ever-seen-also-the-dumbest-smooth-brain-santa-claws-8-sc2/",
-      "originalUrl": "https://youtube.com/watch?v=3Uv9rrb8m_4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3Uv9rrb8m_4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M48S",
+      "path": "_games/pig-the-fastest-map-possible-is-ridiculous-esp-with-bw-units-pigs-laboratory-starcraft-2.md",
+      "title": "The Fastest Map Possible is RIDICULOUS (esp with BW units) | PiG's Laboratory - StarCraft 2",
+      "excerpt": "We paid Special (Terran) and Cham (Zerg) to play on the \"rayfggfer Fastest Map Possible\" arcade map! It is ridiculous from start to finish, including the brood war units available from the Wings of Liberty campaign. Check out the PiG's Laboratory playlist: https://youtube.com/playlist?list=PLFUDU8AOevUd-zdmPIHGBi7xWwtua9Gtr",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-fastest-map-possible-is-ridiculous-esp-with-bw-units-pigs-laboratory-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-fastest-map-possible-is-ridiculous-esp-with-bw-units-pigs-laboratory-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=FpCv_-87GdE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FpCv_-87GdE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M12S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -761,7 +791,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/3Uv9rrb8m_4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/FpCv_-87GdE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -769,7 +799,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-05-03T22:11:39-07:00"
+      "publishedDateTime": "2022-07-23T15:59:09-07:00"
     },
     {
       "path": "_games/pig-the-filthiest-cheeses-the-grim-reaper-9-starcraft-2.md",
@@ -860,40 +890,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-the-im-a-douche-strategy-thor-drop-into-mass-mine-liberator-tvz-twitch-plays-pig-21.md",
-      "title": "The “I’m a Douche Strategy” - Thor Drop into Mass Mine Liberator TvZ | Twitch Plays PiG #21",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-im-a-douche-strategy-thor-drop-into-mass-mine-liberator-tvz-twitch-plays-pig-21/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-im-a-douche-strategy-thor-drop-into-mass-mine-liberator-tvz-twitch-plays-pig-21/",
-      "originalUrl": "https://youtube.com/watch?v=Y2YRkpLs4bI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y2YRkpLs4bI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M36S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Y2YRkpLs4bI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-09-30T22:03:42-07:00"
     }
   ],
   "nextPage": 88

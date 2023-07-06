@@ -4,66 +4,6 @@
   "page": 80,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-insane-basetrade-diamond-in-the-ruff-59.md",
-      "title": "StarCraft 2 - INSANE BASETRADE | Diamond in the Ruff #59",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Zerg opponent? Seriously this game started off being a strange TvZ unlike other ones, and then the base trade LOL  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-insane-basetrade-diamond-in-the-ruff-59/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-insane-basetrade-diamond-in-the-ruff-59/",
-      "originalUrl": "https://youtube.com/watch?v=cbVpft5QGNE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cbVpft5QGNE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cbVpft5QGNE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-26T14:26:59-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-inside-the-sick-mind-of-a-sewer-mermaid-the-florencio-files-55.md",
-      "title": "StarCraft 2 - Inside the sick mind of a Sewer Mermaid | The Florencio Files #55",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-inside-the-sick-mind-of-a-sewer-mermaid-the-florencio-files-55/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-inside-the-sick-mind-of-a-sewer-mermaid-the-florencio-files-55/",
-      "originalUrl": "https://youtube.com/watch?v=HTNzNIN3fy8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HTNzNIN3fy8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M49S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HTNzNIN3fy8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-17T14:56:38-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-is-parting-your-room-mate-pig-roasts-5.md",
       "title": "StarCraft 2 - IS PARTING YOUR ROOM MATE? | PiG Roasts #5",
       "excerpt": "🔥 If you want to get roasted by PiG, send your replay to RateMyStarCraft@gmail.com, with title “PiG Roast” and in the body of the email add your ign, league, tier and server (e.g. Barcode, Plat 1, NA) -- 🐷 Support PiG: https://www.pigstarcraft.com/support/ 🐖 Watch live on https://www.twitch.tv/x5_pig",
@@ -210,36 +150,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-12T03:25:12-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-just-do-this-build-and-win-100-the-florencio-files-21.md",
-      "title": "StarCraft 2 - “Just do this build and win 100%” | The Florencio Files #21",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-just-do-this-build-and-win-100-the-florencio-files-21/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-just-do-this-build-and-win-100-the-florencio-files-21/",
-      "originalUrl": "https://youtube.com/watch?v=OZLRSehKPzo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OZLRSehKPzo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M17S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OZLRSehKPzo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-09-22T15:04:40-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-kick-to-ovaries-diamond-in-the-ruff-7.md",
@@ -898,6 +808,94 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-01T14:00:15-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-medivac-boost-upgrade-icyfar-g2-showoff.md",
+      "title": "StarCraft 2 - MEDIVAC BOOST UPGRADE!? | ICYFAR G2 Showoff",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they get as many upgrades as possible (Showoff)! Here’s a chaotic 4v4 completing the challenge in humorous fashion.  Note: there's only 2 ICYFAR games this week!   NEW ICYFAR CHALLENGE:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-medivac-boost-upgrade-icyfar-g2-showoff/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-medivac-boost-upgrade-icyfar-g2-showoff/",
+      "originalUrl": "https://youtube.com/watch?v=xAfSwZ8Zc90",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xAfSwZ8Zc90\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M15S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xAfSwZ8Zc90/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-micro-so-bad-it-breaks-pigs-brain-icyfar-g3-you-cant-build-there.md",
+      "title": "StarCraft 2 - MICRO SO BAD IT BREAKS PIG'S BRAIN | ICYFAR G3 You Can't Build There!",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they have to block opponent’s expansions and buildings (You Can’t Build Here)! Here’s a fun game of zerg versus terran completing the challenge in humorous fashion.   NEW ICYFAR CHALLENGE:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-micro-so-bad-it-breaks-pigs-brain-icyfar-g3-you-cant-build-there/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-micro-so-bad-it-breaks-pigs-brain-icyfar-g3-you-cant-build-there/",
+      "originalUrl": "https://youtube.com/watch?v=wSgJCFkKJho",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wSgJCFkKJho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M29S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wSgJCFkKJho/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-mine-your-step-the-florencio-files-141.md",
+      "title": "StarCraft 2 - Mine your step! | The Florencio Files #141",
+      "excerpt": "the game mentioned: https://www.youtube.com/watch?v=oSloDDrf42M     I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-mine-your-step-the-florencio-files-141/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-mine-your-step-the-florencio-files-141/",
+      "originalUrl": "https://youtube.com/watch?v=ndWZuKOB_L8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ndWZuKOB_L8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M8S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ndWZuKOB_L8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-05T03:00:23-07:00"
     }
   ],
   "nextPage": 81

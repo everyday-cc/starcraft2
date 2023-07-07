@@ -4,36 +4,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_games/pig-icyfar-new-unitsabilities-g3-game-of-the-day-burrowed-infestor-comeback-the-pig-daily-96.md",
-      "title": "ICYFAR - New Units/Abilities! G3 - Game of the Day - Burrowed Infestor comeback! - The PiG Daily #96",
-      "excerpt": "THIS WEEKS ICYFAR: Send through your replays playing “Knife Fight in a Phone Booth - You can't go above 40 workers ever”. The more back and forth or creative the better! Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as title! Lastest submission until the second daily of the week.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-icyfar-new-unitsabilities-g3-game-of-the-day-burrowed-infestor-comeback-the-pig-daily-96/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-icyfar-new-unitsabilities-g3-game-of-the-day-burrowed-infestor-comeback-the-pig-daily-96/",
-      "originalUrl": "https://youtube.com/watch?v=HMs_R2qlnpI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HMs_R2qlnpI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M5S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HMs_R2qlnpI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-james-bond-roach-all-your-bases-are-belong-to-us-liquid-reign-icyfar-g2.md",
       "title": "James Bond Roach - All Your Bases Are Belong To Us Liquid Reign ICYFAR G2",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their craziest basetrades!  CURRENT LIQUID REIGN ICYFAR CHALLENGE: \"Tale of a Knife and a Telephone booth” - You are not allowed to have more than 40 workers at any point during the game! - During Liquid Reign ICYFARs",
@@ -926,6 +896,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-05-10T00:44:23-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-epic-swarmhost-drops-and-burrowed-infestor-harass-kaboom-baby-11.md",
+      "title": "StarCraft 2 - EPIC Swarmhost Drops AND Burrowed Infestor Harass! | Kaboom Baby #11",
+      "excerpt": "Watch booooooooooooooooooom (with 19 Os!) jolt things up in this Zerg versus Zerg StarCraft 2 match. 🐷 Support PiG: https://www.pigstarcraft.com/support/  Check out her twitch: https://www.twitch.tv/booooooooooooooooooom/ -- 🐖 Watch live on https://www.twitch.tv/x5_pig 🎓 For coaching inquiries (including",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-epic-swarmhost-drops-and-burrowed-infestor-harass-kaboom-baby-11/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-epic-swarmhost-drops-and-burrowed-infestor-harass-kaboom-baby-11/",
+      "originalUrl": "https://youtube.com/watch?v=BdPKHnTtFPs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BdPKHnTtFPs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M11S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BdPKHnTtFPs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-08-17T15:57:03-07:00"
     }
   ],
   "nextPage": 22

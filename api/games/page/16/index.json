@@ -4,35 +4,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_games/pig-pigs-1-vs-10-ai-500-speedrun-challenge-open-to-everyone-starcraft-2.md",
-      "title": "PiG's 1 vs 10 AI $500 Speedrun Challenge! (open to everyone) - StarCraft 2",
-      "excerpt": "I'm offering $500USD to the person who completes the 1v10 AI Speedrun Challenge the quickest!  0:00 PiG's 1st speedrun 29:22 How to do the challenge + submit times  Submission Form: https://forms.gle/8NGir84cZDLF1ocEA  Rules:  ➡ Submissions close: Wednesday 25th January at midday Sydney time (equiv.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-pigs-1-vs-10-ai-500-speedrun-challenge-open-to-everyone-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-pigs-1-vs-10-ai-500-speedrun-challenge-open-to-everyone-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=-VFKxcmsWrQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-VFKxcmsWrQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M20S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-VFKxcmsWrQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-28T15:54:19-08:00"
-    },
-    {
       "path": "_games/pig-sc2-is-pretty-awful-now-no-longer-an-rts-dead-game-bnet-dumpster-dives-1.md",
       "title": "\"SC2 is pretty awful now,  no longer an RTS + dead game\" | Bnet Dumpster Dives #1",
       "excerpt": "Potential new show?? I came across this Bnet thread and it was so ridiculous I just had to do this. Hope you enjoy this dumpster diving of the battlenet forums  Bnet link: https://us.forums.blizzard.com/en/sc2/t/sc2-is-pretty-awful-now-no-longer-an-rts-dead-game/25241 -- 🐷 Second Channel for Learning",
@@ -903,6 +874,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-05-24T00:49:07-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-next-evolution-of-the-sewer-mermaid-florencio-files-176.md",
+      "title": "StarCraft 2 - Next Evolution of the SEWER MERMAID | Florencio Files #176",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow 🧜 Florencio: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-next-evolution-of-the-sewer-mermaid-florencio-files-176/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-next-evolution-of-the-sewer-mermaid-florencio-files-176/",
+      "originalUrl": "https://youtube.com/watch?v=ZjOqQ6h6VH4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZjOqQ6h6VH4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M11S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZjOqQ6h6VH4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-18T09:00:09-07:00"
     }
   ],
   "nextPage": 17

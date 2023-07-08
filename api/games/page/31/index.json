@@ -4,45 +4,6 @@
   "page": 31,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-cast-relentless-terran-drops-scarlett-vs-ryung.md",
-      "title": "StarCraft 2 Cast: RELENTLESS Terran Drops - Scarlett vs Ryung!",
-      "excerpt": "A long drawn out macro game of Zerg vs Terran with constant drops. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/fi5EXG  In this professional match of StarCraft 2 there's a lot of Medivac harass. All throughout the game both players try and build up their armies",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-relentless-terran-drops-scarlett-vs-ryung/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cast-relentless-terran-drops-scarlett-vs-ryung/",
-      "originalUrl": "https://youtube.com/watch?v=jENDFV4GqAk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jENDFV4GqAk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M30S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jENDFV4GqAk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2016-12-01T04:56:33-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-cast-shutting-down-widow-mines.md",
       "title": "StarCraft 2 Cast: SHUTTING DOWN Widow Mines!",
       "excerpt": "Cast of a Protoss vs Terran in StarCraft 2 between ByuN and Classic. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/t6g7aW  In this professional match, Classic shows how to properly defend against Widow Mines as a Protoss player. The way he moves his army around",
@@ -1131,6 +1092,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-05-20T05:53:44-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-clash-of-legends-maru-vs-zest.md",
+      "title": "StarCraft 2: Clash of Legends - Maru vs Zest!",
+      "excerpt": "A sick game of top-level professional StarCraft 2 between Maru and Zest.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-clash-of-legends-maru-vs-zest/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-clash-of-legends-maru-vs-zest/",
+      "originalUrl": "https://youtube.com/watch?v=zZPHjzdz3TU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zZPHjzdz3TU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M52S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zZPHjzdz3TU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-13T01:56:07-08:00"
     }
   ],
   "nextPage": 32

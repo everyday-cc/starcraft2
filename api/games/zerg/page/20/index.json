@@ -667,36 +667,6 @@
       "publishedDateTime": "2020-08-08T14:00:06-07:00"
     },
     {
-      "path": "_games/pig-how-quickly-can-dark-dispose-of-noobs-part-1-holdout-challenge-starcraft-2.md",
-      "title": "How quickly can DARK dispose of noobs? (Part 1) | Holdout Challenge - StarCraft 2",
-      "excerpt": "We paid Dark to 1v1 noobs in StarCraft 2. The challenge: the noobs needed to stay in the match for as long as possible. How did they fare against an actual Zerg Championship player?  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j  Holdout Scoresheet:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-dark-dispose-of-noobs-part-1-holdout-challenge-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-dark-dispose-of-noobs-part-1-holdout-challenge-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=K6kV3pd2MZ4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K6kV3pd2MZ4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M45S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/K6kV3pd2MZ4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-22T16:33:55-07:00"
-    },
-    {
       "path": "_games/pig-how-quickly-can-dark-dispose-of-noobs-part-2-holdout-challenge-starcraft-2.md",
       "title": "How quickly can DARK dispose of noobs? (Part 2) | Holdout Challenge - StarCraft 2",
       "excerpt": "We paid Dark to 1v1 noobs in StarCraft 2. The challenge: the noobs needed to stay in the match for as long as possible. How did they fare against an actual Zerg Championship player?  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j  Holdout Scoresheet:",
@@ -927,6 +897,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/C7vAs01GFmI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-icyfar-new-unitsabilities-g3-game-of-the-day-burrowed-infestor-comeback-the-pig-daily-96.md",
+      "title": "ICYFAR - New Units/Abilities! G3 - Game of the Day - Burrowed Infestor comeback! - The PiG Daily #96",
+      "excerpt": "THIS WEEKS ICYFAR: Send through your replays playing “Knife Fight in a Phone Booth - You can't go above 40 workers ever”. The more back and forth or creative the better! Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as title! Lastest submission until the second daily of the week.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-icyfar-new-unitsabilities-g3-game-of-the-day-burrowed-infestor-comeback-the-pig-daily-96/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-icyfar-new-unitsabilities-g3-game-of-the-day-burrowed-infestor-comeback-the-pig-daily-96/",
+      "originalUrl": "https://youtube.com/watch?v=HMs_R2qlnpI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HMs_R2qlnpI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M5S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HMs_R2qlnpI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

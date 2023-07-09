@@ -4,35 +4,6 @@
   "page": 91,
   "value": [
     {
-      "path": "_games/pig-what-happens-when-pros-get-300-energy-pigs-laboratory-starcraft-2.md",
-      "title": "What happens when Pros get 300% ENERGY? | PiG's Laboratory - StarCraft 2",
-      "excerpt": "As part of PiG's Laboratory, I challenged StarCraft 2 pros to play with 300% energy! Some things will definitely break because of this! Check out other PiG's Laboratory videos in the playlist: https://youtube.com/playlist?list=PLFUDU8AOevUd-zdmPIHGBi7xWwtua9Gtr -- 🐷 Second Channel for Learning StarCraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-what-happens-when-pros-get-300-energy-pigs-laboratory-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-what-happens-when-pros-get-300-energy-pigs-laboratory-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=QVdiDz-bamE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QVdiDz-bamE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M30S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QVdiDz-bamE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-13T00:01:42-07:00"
-    },
-    {
       "path": "_games/pig-what-happens-when-pros-have-maphacks-no-fog-of-war-mod-pigs-laboratory-starcraft-2.md",
       "title": "What happens when Pros have Maphacks? (No fog of war mod!) | PiG's Laboratory - StarCraft 2",
       "excerpt": "We paid Special and Cham to play on the No fog of war mod, basically giving them maphacks! What happens when pros can see everything? Check out the PiG's Laboratory playlist: https://youtube.com/playlist?list=PLFUDU8AOevUd-zdmPIHGBi7xWwtua9Gtr -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom",
@@ -120,14 +91,14 @@
       "publishedDateTime": "2022-07-28T17:05:04-07:00"
     },
     {
-      "path": "_games/pig-what-if-sc-was-played-with-actual-commanders-commander-mode-1-starcraft-2.md",
-      "title": "What if SC was played with actual Commanders? | Commander Mode #1 - StarCraft 2",
-      "excerpt": "What is Commander Mode? It is Archon Mode vs another streamer/player where we are the Commanders of our squadron of noobs but we can't actively control anything ourselves, we can only command them what to do!  -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-what-if-sc-was-played-with-actual-commanders-commander-mode-1-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-what-if-sc-was-played-with-actual-commanders-commander-mode-1-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=m7nCqskAdJk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m7nCqskAdJk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M29S",
+      "path": "_games/pig-what-happens-when-you-let-them-choose-macro-or-cheese-1-starcraft-2.md",
+      "title": "What happens when you let them choose: MACRO or CHEESE? #1 - StarCraft 2",
+      "excerpt": "NEW SHOW! I secretly played a few games on a dirty barcode account and offered my StarCraft 2 opponents a choice: Macro or Cheese? How the game plays out is up to them! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-what-happens-when-you-let-them-choose-macro-or-cheese-1-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-what-happens-when-you-let-them-choose-macro-or-cheese-1-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=XAT06skhzc8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XAT06skhzc8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M40S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -138,7 +109,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/m7nCqskAdJk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/XAT06skhzc8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -146,7 +117,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-07-27T18:57:05-07:00"
+      "publishedDateTime": "2022-07-21T21:06:24-07:00"
     },
     {
       "path": "_games/pig-what-if-sc-was-played-with-actual-commanders-commander-mode-2-starcraft-2.md",
@@ -294,35 +265,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-11-29T08:25:52-08:00"
-    },
-    {
-      "path": "_games/pig-when-a-game-is-so-stressful-their-brain-breaks-smooth-brain-boanaan-4-starcraft-2.md",
-      "title": "When a game is so stressful their BRAIN BREAKS | Smooth Brain Boanaan #4 - StarCraft 2",
-      "excerpt": "Boanaan won Season 3 of the Smooth Brain Auditions with his Planetry Fortress rush that both failed and succeeded. Very glassy.   Watch (A Collection of) Smooth Brains playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-a-game-is-so-stressful-their-brain-breaks-smooth-brain-boanaan-4-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-a-game-is-so-stressful-their-brain-breaks-smooth-brain-boanaan-4-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=mqfOFFGJAsA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mqfOFFGJAsA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mqfOFFGJAsA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-04-13T04:04:29-07:00"
     },
     {
       "path": "_games/pig-when-a-man-loves-a-woman-icyfar-interpretive-dance-20-compilation.md",
@@ -503,6 +445,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-23T20:10:46-07:00"
+    },
+    {
+      "path": "_games/pig-when-winning-makes-you-a-devil-worshipper-salt-mines-31-starcraft-2.md",
+      "title": "When winning makes you a DEVIL WORSHIPPER?! | Salt Mines #31- StarCraft 2",
+      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-winning-makes-you-a-devil-worshipper-salt-mines-31-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-winning-makes-you-a-devil-worshipper-salt-mines-31-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=WNpthlvXCsM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WNpthlvXCsM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M33S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WNpthlvXCsM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-08T21:00:22-08:00"
     },
     {
       "path": "_games/pig-when-you-both-think-youre-dead-but-youre-just-stupid-santa-claws-5-starcraft-2.md",
@@ -709,6 +680,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-09-28T04:46:30-07:00"
+    },
+    {
+      "path": "_games/pig-when-your-dts-get-scouted-but-youre-a-disgusting-genius-mape-the-ape-1-starcraft-2.md",
+      "title": "When your DTs get scouted but you’re a DISGUSTING GENIUS | Mape the Ape #1 - StarCraft 2",
+      "excerpt": "Here begins the legend of Mape the Ape https://www.twitch.tv/maplez | In this game he faces the North American champion, Neeb! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-your-dts-get-scouted-but-youre-a-disgusting-genius-mape-the-ape-1-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-your-dts-get-scouted-but-youre-a-disgusting-genius-mape-the-ape-1-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=93cJmfZe0z8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/93cJmfZe0z8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M12S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/93cJmfZe0z8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-22T23:32:51-07:00"
     },
     {
       "path": "_games/pig-when-your-dts-get-scouted-but-youre-a-disgusting-genius-mape-the-ape-starcraft-2.md",

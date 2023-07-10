@@ -7,8 +7,8 @@ originalUrl: "https://gamerant.com/starcraft-diablo-sequel-spin-offs-similar-rev
 webUrl: "https://gamerant.com/starcraft-diablo-sequel-spin-offs-similar-revival/"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: Game Rant
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Blizzard President Calls StarCraft One of the ‘Best IPs Out There’"
-    excerpt: "Blizzard President Mike Ybarra posts a rather curious reply to a tweet that calls for a StarCraft franchise revival in the wake of Diablo 4's success."
-    publishedDateTime: 2023-06-21T02:56:00Z
-    webUrl: "https://gamerant.com/blizzard-president-starcraft-best-ip/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 77
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/06/alarak.jpg"
-        width: 1800
-        height: 900
-        isCached: true
   - title: "Blizzard President responds to LIRIK’s request for new StarCraft game"
     excerpt: "Blizzard President Mike Ybarra agreed with LIRIK that StarCraft has \"insane potential\" after the streamer requested a new game."
     publishedDateTime: 2023-06-21T22:53:00Z
@@ -55,6 +41,20 @@ related:
       - url: "https://editors.dexerto.com/wp-content/uploads/2023/06/21/starcraft-blizzard-president-IP-LIRIK-twitch.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Random: Fan Transforms Their Nintendo 64 Into A StarCraft Battlefield"
+    excerpt: "Rather than going for the same figure approach, Zuljaras' latest build is much more practical as they transformed their Nintendo 64 console into a StarCraft 64 battlefield, complete with different terrains,"
+    publishedDateTime: 2023-07-01T09:59:00Z
+    webUrl: "https://www.nintendolife.com/news/2023/07/random-fan-transforms-their-nintendo-64-into-a-starcraft-battlefield"
+    type: article
+    provider:
+      name: Nintendo Life
+      domain: nintendolife.com
+    quality: 37
+    images:
+      - url: "https://images.nintendolife.com/5f91f1148e27f/1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Blizzard CEO Holds On to StarCraft; It's One of the Best IPs on the Market"
     excerpt: "During a discussion on Twitter, Blizzard's CEO stated that StarCraft is one of the best IPs on the market. Perhaps this heralds work on the next installments."

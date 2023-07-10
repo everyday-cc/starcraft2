@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-12-starcraft-dark-horses-zerg-brood-lord-statue-is-disgustingly-amazing.md",
+      "title": "StarCraft: Dark Horse's Zerg Brood Lord Statue is Disgustingly Amazing",
+      "excerpt": "Dark Horse Direct continues to release new statues inspired by the ships of Blizzard's StarCraft universe. Their latest StarCraft replica depicts one of the most imposing and disgusting ships in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ign.com/articles/starcraft-zerg-brood-lord-statue-dark-horse-direct",
+      "originalUrl": "https://www.ign.com/articles/starcraft-zerg-brood-lord-statue-dark-horse-direct",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2022/05/12/starcraft-brood-lord-replica-13-1652327482170.png?width=1280",
+          "width": 1023,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-stop-what-youre-doing-and-download-blizzards-starcraft-for-free.md",
       "title": "Stop what you’re doing and download Blizzard’s StarCraft for free",
       "excerpt": "When Remastered arrives, gamers will be able to play against each other regardless of what StarCraft version they’re running. The game was first launched in 1998, becoming a hit around the world ...",
@@ -1143,49 +1195,6 @@
       ],
       "topics": [
         "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-starcraft-ii-pro-scarlett-is-the-top-earning-female-esports-player.md",
-      "title": "'StarCraft II' pro Scarlett is the top-earning female esports player",
-      "excerpt": "Sasha \"Scarlett\" Hostyn, the Zerg scourge of the StarCraft II esports circuit, has earned more money than any other female esports player. SEE ALSO: 'Dota 2' team receives Guinness World Record ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/sasha-scarlett-hostyn-world-record-starcraft-2",
-      "originalUrl": "https://mashable.com/article/sasha-scarlett-hostyn-world-record-starcraft-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/06PAtOSHrzaLsQsOhx97M6l/hero-image.fill.size_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/sasha-scarlett-hostyn-world-record-starcraft-2?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/sasha-scarlett-hostyn-world-record-starcraft-2?amp",
-      "publishedDateTime": "2021-07-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
       ]
     }
   ],

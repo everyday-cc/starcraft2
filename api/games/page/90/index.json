@@ -4,35 +4,6 @@
   "page": 90,
   "value": [
     {
-      "path": "_games/pig-uncle-garys-spaghetti-stains-tvt-hit-and-run-icyfar-g1.md",
-      "title": "Uncle Gary’s Spaghetti Stains TvT | Hit and Run ICYFAR G1",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to avoid head on fights, backstab, run by and basetrade your way to victory!   NEW ICYFAR CHALLENGE: \"Recycling\" - Single use harassment is exhausting the limited mineral supplies in",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-uncle-garys-spaghetti-stains-tvt-hit-and-run-icyfar-g1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-uncle-garys-spaghetti-stains-tvt-hit-and-run-icyfar-g1/",
-      "originalUrl": "https://youtube.com/watch?v=KEz_gj76wGQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KEz_gj76wGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M50S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KEz_gj76wGQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-ventral-sacks-filled-with-bonus-nutrients-fanatical-fanboy-icyfar-g4-g5.md",
       "title": "Ventral Sacks filled with Bonus Nutrients! | Fanatical Fanboy ICYFAR G4 & G5",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they imitated their favorite progamers/StarCraft personality.   CURRENT ICYFAR CHALLANGE: \"You're playing the game wrong!\" - Use a build or style from a different matchup to the one you're playing",
@@ -882,6 +853,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-10T01:20:09-07:00"
+    },
+    {
+      "path": "_games/pig-what-happens-when-they-refuse-to-choose-mac-or-cheese-2-starcraft-2.md",
+      "title": "What happens when they REFUSE to choose? | Mac or Cheese #2 - StarCraft 2",
+      "excerpt": "NEW SHOW! I secretly played a few games on a dirty barcode account and offered my StarCraft 2 opponents a choice: Macro or Cheese? How the game plays out is up to them! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-what-happens-when-they-refuse-to-choose-mac-or-cheese-2-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-what-happens-when-they-refuse-to-choose-mac-or-cheese-2-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=RCpAeztvCi0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RCpAeztvCi0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M20S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RCpAeztvCi0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-28T17:05:04-07:00"
     }
   ],
   "nextPage": 91

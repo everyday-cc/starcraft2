@@ -38,20 +38,6 @@ related:
         width: 1800
         height: 900
         isCached: true
-  - title: "Blizzard President responds to LIRIK’s request for new StarCraft game"
-    excerpt: "Blizzard President Mike Ybarra agreed with LIRIK that StarCraft has \"insane potential\" after the streamer requested a new game."
-    publishedDateTime: 2023-06-21T22:53:00Z
-    webUrl: "https://www.dexerto.com/gaming/blizzard-president-responds-to-liriks-request-for-new-starcraft-game-2185824/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 37
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/06/21/starcraft-blizzard-president-IP-LIRIK-twitch.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Blizzard CEO Holds On to StarCraft; It's One of the Best IPs on the Market"
     excerpt: "During a discussion on Twitter, Blizzard's CEO stated that StarCraft is one of the best IPs on the market. Perhaps this heralds work on the next installments."
     publishedDateTime: 2023-06-22T13:24:00Z

@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M38S
 publishedDateTime: 2019-04-14T21:37:25Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Fj71QdOWUdY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "19MVgoL6vbLam/Hnf3ySe8ZBsuqZNkYCAxd2glUpv862zg+zVkGxbqinr6TTNAp0meSirvMA9zuc/o8Yg/lmMtZrqN7R7dF1Ve+J0SWLDJa76ef0uQK2GuNOCR8jmUINqhLKaHDEujdXZjdKrYVI45n5pDqfEvhl4TlZiqC8nCOsEI4gbZ/wTM6xEJhLP4OuBd7HZ9hfRanMpJAqq1e1w78XdlUg9I56O3/iRqjXzsFDaWpBvShrmQSVjzYYadNpjauRoSbiDGdvhvia5W4CpO6Loft93fyDshLcs+cIccMBQpiEgzhiEo+MLEnZy91IE9Rn9aXpD0zxYqsKx9rMxHrxLGcXKD7xtMOT7mYOPTVKMCNT6v6geEnmWU60IADp6cZ8MbKE9OMZHU0Mdy5QGe0C4sH2RWH0TDW1RO6/3YM=;tftekarL5KlqNVGTnLrW6w=="
+secured: "/KA5awF333YOkGjHemoUnm90So/TURot+TBhCGiwOAQMAImc3eSwl59R1JO4nK7VI6/jjoR0MUlvX6GXZaQMd69RJhFJlo3Q+XyEo246uc2QrqRXK6JsCtF6CadZyVCGgSXhfBXqknkLVUMj35ZBjI2SGt73TzmdvGTX7HjLF/GEJxtQTElqALdZ0ijvARojifcLJgbWz5HJ7JT+BQyDvp/FWSwYHTXTL96ru6SRaUloeUWQyZuDisdLKMooxZNzs3X0jrESkkQO0xA8mFcpbMFw9jEfg0en30MSbwWnQaHlpfsnEVA4hPLPOJ8dMpgRK7cWDMCRBCiFYohrkkdAAPDsVKy+XfqzPuiZHn0X8VzXai/oR22K/2Ys4IwPDOO+76EBrQFzSsvrvFDsKYv+Le2uqnOO2FSgYBwYVtoVChs=;bTQzseUKg9aDuo4HB0btFQ=="
 ---
 

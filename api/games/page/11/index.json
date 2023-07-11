@@ -121,6 +121,36 @@
       "publishedDateTime": "2022-06-02T01:59:07-07:00"
     },
     {
+      "path": "_games/pig-torturing-a-4-player-terran-archon-with-meme-builds-starcraft-2.md",
+      "title": "TORTURING a 4-Player Terran Archon with MEME Builds | StarCraft 2",
+      "excerpt": "PiG plays a StarCraft 2 1v1 game against a 4-player archon of his Twitch viewers -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-torturing-a-4-player-terran-archon-with-meme-builds-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-torturing-a-4-player-terran-archon-with-meme-builds-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=vFJE89H4n-4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vFJE89H4n-4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M30S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vFJE89H4n-4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-06-09T03:56:00-07:00"
+    },
+    {
       "path": "_games/pig-toss-has-rage-fit-cos-terran-bio-exists-salt-mines-26-starcraft-2.md",
       "title": "Toss has RAGE FIT cos Terran bio exists | Salt Mines #26 - StarCraft 2",
       "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
@@ -1031,44 +1061,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-04-04T02:30:41-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-scarlett-did-not-expect-this-best-of-3.md",
-      "title": "StarCraft 2: Scarlett Did NOT EXPECT This! (Best-of-3)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between Scarlett (Zerg) and HeroMarine (Terran). In this series of games HeroMarine experiments with a few varieties of the Double Factory opener.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scarlett-did-not-expect-this-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarlett-did-not-expect-this-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=MKWnguCW__o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MKWnguCW__o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M47S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MKWnguCW__o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-02T02:47:23-08:00"
     }
   ],
   "nextPage": 12

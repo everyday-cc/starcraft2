@@ -1049,6 +1049,7 @@ items:
   - pig-neural-parasite-triggers-rage-meltdown-from-toss-salt-mines-38-starcraft-2
   - pig-genius-proxy-hatch-breaks-reynors-brain-starcraft-2
   - pig-wings-of-liberty-nightmare-difficulty-the-great-train-robbery-part-8-starcraft-2
+  - pig-dumb-proxy-rax-leaves-zerg-utterly-bewildered-icyfar-weird-harassment-starcraft-2
 
 topics:
   - StarCraft 2

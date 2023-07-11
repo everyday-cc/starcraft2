@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/starcraft-diablo-sequel-spin-offs-similar-rev
 webUrl: "https://gamerant.com/starcraft-diablo-sequel-spin-offs-similar-revival/"
 type: article
 quality: 77
-heat: 117
+heat: 118
 published: true
 
 provider:

@@ -80,45 +80,6 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-nydus-worm-all-in-zerg-build-order-guide.md",
-      "title": "StarCraft 2: NYDUS WORM ALL-IN! (Zerg Build Order Guide)",
-      "excerpt": "Zerg vs Protoss Nydus all-in build order video! Subscribe for more videos: http://lowko.tv/youtube Zerg vs Terran all-in build order: https://goo.gl/kRXijf  In this video I go over how to execute a Nydus Worm all-in in the Zerg vs Protoss matchup. I show a game from a professional gamer called Leenock,",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-nydus-worm-all-in-zerg-build-order-guide/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-nydus-worm-all-in-zerg-build-order-guide/",
-      "originalUrl": "https://youtube.com/watch?v=Mn3Twb13398",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mn3Twb13398\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M54S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-03-08T00:26:03-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Mn3Twb13398/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/lowkotv-starcraft-2-proxy-oracle-protoss-build-order-explained.md",
       "title": "StarCraft 2: Proxy Oracle Protoss Build Order EXPLAINED!",
       "excerpt": "ShoWTimE's Oracle Proxy Protoss versus Terran strategy explained. Subscribe for more videos: http://lowko.tv/youtube Game analysis: https://goo.gl/RUiDRh  In this video I cover ShoWTimE's Protoss versus Terran strategy where he decides to proxy a Stargate, harass with Oracles and a Mothership core and",
@@ -194,45 +155,6 @@
       "topics": [
         "StarCraft 2",
         "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-serrals-new-two-base-zerg-build-order.md",
-      "title": "StarCraft 2: Serral's NEW Two Base Zerg Build Order!",
-      "excerpt": "In a few of the professional matches of StarCraft 2 that I have casted recently, Serral goes for a build order that does not usually gets played at the highest level of the game. While most Zerg build orders still focus on quick getting the third Hatchery as soon as possible, Serral has been focusing",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-serrals-new-two-base-zerg-build-order/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-serrals-new-two-base-zerg-build-order/",
-      "originalUrl": "https://youtube.com/watch?v=VVXpbETVltY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VVXpbETVltY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M1S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-01T01:53:43-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VVXpbETVltY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
         "Zerg"
       ]
     },
@@ -390,45 +312,6 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-terran-build-order.md",
-      "title": "StarCraft 2: Terran BUILD ORDER!",
-      "excerpt": "A very powerful Terran vs Protoss timing attack. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 guides: https://goo.gl/Njw8ay  In this video I discuss a match that of Terran vs Protoss from aLive's point of view. He's a very powerful Terran player, who executes a very clean build",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-terran-build-order/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-terran-build-order/",
-      "originalUrl": "https://youtube.com/watch?v=KK4Trit-MvE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KK4Trit-MvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-05-19T06:23:58-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KK4Trit-MvE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
       ]
     },
     {
@@ -1140,6 +1023,98 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/x4zY7s4G0P0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-2-base-muta-zvz-coaching-masters-1.md",
+      "title": "2-Base Muta ZvZ | Coaching Masters 1",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-2-base-muta-zvz-coaching-masters-1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-2-base-muta-zvz-coaching-masters-1/",
+      "originalUrl": "https://youtube.com/watch?v=JzwX0tl1e2Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JzwX0tl1e2Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT59M17S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-08T04:00:13-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JzwX0tl1e2Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-3-tank-pressure-and-scanning-ahead-coaching-tvt-d2.md",
+      "title": "3-Tank pressure and scanning ahead | Coaching TvT D2",
+      "excerpt": "Is the thumbnail a lotr ref? we shall never know...  Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads?",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-3-tank-pressure-and-scanning-ahead-coaching-tvt-d2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-3-tank-pressure-and-scanning-ahead-coaching-tvt-d2/",
+      "originalUrl": "https://youtube.com/watch?v=UcSyxtU4Y3E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UcSyxtU4Y3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H12M19S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-04T09:00:15-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UcSyxtU4Y3E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-4-gate-chargelot-dts-pvz-coaching.md",
+      "title": "4 Gate Chargelot DTs! PvZ Coaching",
+      "excerpt": "Bunch of scheduling/lobby stuff i cut from this vid, hope you like the end though! :) Here is the reddit post from the start of the coaching if you are curious: https://www.reddit.com/r/allthingsprotoss/comments/a7dlpo/build_of_the_week_pvz_traps_4gate_chargelotdt/  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-4-gate-chargelot-dts-pvz-coaching/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-4-gate-chargelot-dts-pvz-coaching/",
+      "originalUrl": "https://youtube.com/watch?v=YCvMROEJTL4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YCvMROEJTL4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H40S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-02-19T16:46:37-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YCvMROEJTL4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

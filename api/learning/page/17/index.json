@@ -4,84 +4,23 @@
   "page": 17,
   "value": [
     {
-      "path": "_learning/videos/pig-mechanics-and-settings-coaching-protoss-d1.md",
-      "title": "Mechanics and Settings | Coaching Protoss D1",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-mechanics-and-settings-coaching-protoss-d1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-mechanics-and-settings-coaching-protoss-d1/",
-      "originalUrl": "https://youtube.com/watch?v=sOeGaRyCd_8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sOeGaRyCd_8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H3M42S",
+      "path": "_learning/videos/pig-micro-tips-and-techniques-welcome-to-starcraft.md",
+      "title": "Micro Tips and Techniques - Welcome to Starcraft",
+      "excerpt": "*Since this video has been recorded, cyclones once again have been changed to a previous version so the tip at 3:25 no longer applies to cyclones.  Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-micro-tips-and-techniques-welcome-to-starcraft/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-micro-tips-and-techniques-welcome-to-starcraft/",
+      "originalUrl": "https://youtube.com/watch?v=DCixkv75UzQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DCixkv75UzQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M19S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-06-11T09:00:26-07:00",
+      "publishedDateTime": "2019-04-14T14:39:13-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/sOeGaRyCd_8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-mechanics-coaching-plat-3-macro-cycle-cloning-more.md",
-      "title": "Mechanics Coaching (Plat 3) - Macro Cycle, Cloning + More",
-      "excerpt": "A live recording of a coaching session where -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-mechanics-coaching-plat-3-macro-cycle-cloning-more/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-mechanics-coaching-plat-3-macro-cycle-cloning-more/",
-      "originalUrl": "https://youtube.com/watch?v=n-TSlye29Ro",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n-TSlye29Ro\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M4S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-03-01T03:14:54-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/n-TSlye29Ro/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-mental-checklists-and-systemically-solving-problem-points-coaching-z-d3.md",
-      "title": "Mental Checklists and Systemically solving Problem Points | Coaching Z D3",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-mental-checklists-and-systemically-solving-problem-points-coaching-z-d3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-mental-checklists-and-systemically-solving-problem-points-coaching-z-d3/",
-      "originalUrl": "https://youtube.com/watch?v=HR8o7xYSRsg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HR8o7xYSRsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H15M31S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-02-18T09:00:05-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HR8o7xYSRsg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/DCixkv75UzQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -325,37 +264,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/LczC6Jw5q8k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-partings-unbeatable-pvt.md",
-      "title": "Parting's Unbeatable PvT",
-      "excerpt": "🔥 I love watching this brain-twisting Korean Protoss work his magic against Terrans right now 🐷 Support PiG: https://www.pigstarcraft.com/support/  🔥 Book of Filth 2.0: https://docs.google.com/document/d/1GbpZ-qjoUQ42ZwVsmk3cYgLZ1WYNcLc9l6KUo-Zuudk/edit?usp=sharing 🔥 GSL game vs Cure in ST 2: https://www.youtube.com/watch?v=qhf_UWUyc0Y&t=351s&ab_channel=AfreecaTVeSports",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-partings-unbeatable-pvt/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-partings-unbeatable-pvt/",
-      "originalUrl": "https://youtube.com/watch?v=2KDnIiqrY1Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2KDnIiqrY1Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M39S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-03-14T01:37:50-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2KDnIiqrY1Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -914,6 +822,100 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/kHy04E7Bewc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-pvz-defining-our-baseline-disrupting-the-zerg-and-winning-at-macro-masters-3-coaching.md",
+      "title": "PvZ - Defining our Baseline, Disrupting the Zerg and WINNING at macro - masters 3 Coaching",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-pvz-defining-our-baseline-disrupting-the-zerg-and-winning-at-macro-masters-3-coaching/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-pvz-defining-our-baseline-disrupting-the-zerg-and-winning-at-macro-masters-3-coaching/",
+      "originalUrl": "https://youtube.com/watch?v=kRGDdUam69g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kRGDdUam69g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H5M25S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-08-07T09:00:08-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kRGDdUam69g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-pvz-dt-archon-drop-coaching-master-3.md",
+      "title": "PvZ DT Archon Drop - Coaching Master 3",
+      "excerpt": "Coaching a protoss on some dirty, dirty DOUBLE prism dt/archon drops!  -- Watch live at https://www.twitch.tv/x5_pig My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to my Discord: https://discordapp.com/invite/SkhbzCM",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-pvz-dt-archon-drop-coaching-master-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-pvz-dt-archon-drop-coaching-master-3/",
+      "originalUrl": "https://youtube.com/watch?v=jgkcldQzowM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jgkcldQzowM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H20M41S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-02-08T09:00:37-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jgkcldQzowM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-pvz-easy-to-control-armies-and-applying-pressure-newbie-stream.md",
+      "title": "PvZ Easy to Control Armies and Applying Pressure - Newbie Stream",
+      "excerpt": "This is a highlight from my newbie/beginner stream where I analyse a Protoss players’ replay who struggles with building an overly complicated army and applying pressure to the zerg -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-pvz-easy-to-control-armies-and-applying-pressure-newbie-stream/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-pvz-easy-to-control-armies-and-applying-pressure-newbie-stream/",
+      "originalUrl": "https://youtube.com/watch?v=olcaKZ7VYgM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/olcaKZ7VYgM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M31S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:06-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/olcaKZ7VYgM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

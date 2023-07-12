@@ -38,20 +38,6 @@ related:
         width: 1800
         height: 900
         isCached: true
-  - title: "Blizzard CEO Holds On to StarCraft; It's One of the Best IPs on the Market"
-    excerpt: "During a discussion on Twitter, Blizzard's CEO stated that StarCraft is one of the best IPs on the market. Perhaps this heralds work on the next installments."
-    publishedDateTime: 2023-06-22T13:24:00Z
-    webUrl: "https://www.gamepressure.com/newsroom/starcraft-may-return-blizzard-ceo-speaks-out-on-twitter/za5948"
-    type: article
-    provider:
-      name: XCOM 2 Game Guide
-      domain: gamepressure.com
-    quality: 35
-    images:
-      - url: "https://cdn.gracza.pl/i_gp/h/22/425127314.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "cI9QCj9SGYRQdIY6nuFnsSN4tKNWscAjcXlj+c6gRDUAlEPOe67v9DN2EcaNmIf6ofDL2zf20MGqvEYyHc6Ft8cg6C5sB1+KGjNid9euRQxt29Sz2Qba/dBd9qdMZxsEFfNt4asQlMpM8nOMciAemRsOaUEp6s3SF4wrSL8pZMeqLHnA9aGqos1KrZIhLWRGfjGXz4ZmN+3jj2uJccZy0NmLRINwmpkvW4FNW1ikLFrxL2JORK5J56/1uO5yzwD+gibSJ3Dw14jUbTNbUF/hEXsYRCpEczSBY7oBm+nRlwoPpkl+xJJr/TxjKdm1Hk8gQ3DPb7Ean0H0twuBhcu+Gpd5WdGnn8d4QSN/trf8JPLJ2va450EhHRJ/rZ5xrjsRO2OSC99G7SxZ2OofU5KnuzhEde/7Hus1yzBiYAQtM3squb+u3wQ3xDQDx8tocogqj9o7LbnRyfIMLI6QFs340qAKAn3dN9wpwPhA4VIT2Ci6FQLfBlSXXTClxivhauAuaDv4usgJwMR1m0BhLUOjHw==;OKSY3xts6b13+zIeQotedQ=="
 ---

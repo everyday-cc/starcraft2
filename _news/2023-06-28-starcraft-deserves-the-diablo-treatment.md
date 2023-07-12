@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/starcraft-diablo-sequel-spin-offs-similar-rev
 webUrl: "https://gamerant.com/starcraft-diablo-sequel-spin-offs-similar-revival/"
 type: article
 quality: 77
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
     quality: 37
     images:
       - url: "https://images.nintendolife.com/5f91f1148e27f/1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Blizzard CEO Holds On to StarCraft; It's One of the Best IPs on the Market"
-    excerpt: "During a discussion on Twitter, Blizzard's CEO stated that StarCraft is one of the best IPs on the market. Perhaps this heralds work on the next installments."
-    publishedDateTime: 2023-06-22T13:24:00Z
-    webUrl: "https://www.gamepressure.com/newsroom/starcraft-may-return-blizzard-ceo-speaks-out-on-twitter/za5948"
-    type: article
-    provider:
-      name: XCOM 2 Game Guide
-      domain: gamepressure.com
-    quality: 35
-    images:
-      - url: "https://cdn.gracza.pl/i_gp/h/22/425127314.jpg"
         width: 1280
         height: 720
         isCached: true

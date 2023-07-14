@@ -159,6 +159,44 @@
       "publishedDateTime": "2022-11-14T02:34:43-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-astreas-late-game-cannon-rush.md",
+      "title": "StarCraft 2: Astrea's LATE GAME Cannon \"Rush\"!",
+      "excerpt": "Solar versus Astrea in a professional match of StarCraft 2. In this Zerg versus Protoss we see a game go the distance. Astrea executes some really cool moves by building a wall close to one of the outer Zerg bases and slowly shooting it down with Disruptors, High Templar and Oracles.  Support my work",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-astreas-late-game-cannon-rush/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-astreas-late-game-cannon-rush/",
+      "originalUrl": "https://youtube.com/watch?v=UtSTzwNOYE0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UtSTzwNOYE0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UtSTzwNOYE0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-16T03:40:15-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-astreas-proxy-nexus-vs-trap.md",
       "title": "StarCraft 2: Astrea's PROXY NEXUS vs Trap?!",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between Astrea and Trap. Probably the cheesiest way to open up versus a Nexus first in Protoss versus Protoss is a Nexus first... In their base!  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My",
@@ -625,6 +663,45 @@
       "publishedDateTime": "2021-12-18T01:36:38-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-can-serral-destroy-reynors-protoss-best-of-5.md",
+      "title": "StarCraft 2: Can Serral DESTROY Reynor's Protoss? (Best-of-5)",
+      "excerpt": "Professional match of StarCraft 2 between Serral and Reynor. In this best-of-5 series of TSL we see Reynor starting off with Protoss, but he's quickly forced to change to Zerg instead.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-can-serral-destroy-reynors-protoss-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-can-serral-destroy-reynors-protoss-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=XS0mAtx28aQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XS0mAtx28aQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M17S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XS0mAtx28aQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-15T05:00:53-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-can-showtime-stop-clems-domination-best-of-5.md",
       "title": "StarCraft 2: Can ShoWTimE Stop Clem's DOMINATION? (Best-of-5)",
       "excerpt": "Best-of-5 series of professional StarCraft 2 between Clem and ShoWTimE.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
@@ -1086,83 +1163,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-24T02:00:38-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-cheesiest-series-ever-showtime-vs-maxpax.md",
-      "title": "StarCraft 2: Cheesiest Series EVER?! (ShoWTimE vs MaxPax)",
-      "excerpt": "Extremely cheesy series of Protoss versus Protoss in StarCraft 2 between ShoWTimE and MaxPax.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cheesiest-series-ever-showtime-vs-maxpax/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cheesiest-series-ever-showtime-vs-maxpax/",
-      "originalUrl": "https://youtube.com/watch?v=UVEpX2i5668",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UVEpX2i5668\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M51S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UVEpX2i5668/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-12-12T02:43:08-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-clash-of-legends-maru-vs-zest.md",
-      "title": "StarCraft 2: Clash of Legends - Maru vs Zest!",
-      "excerpt": "A sick game of top-level professional StarCraft 2 between Maru and Zest.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-clash-of-legends-maru-vs-zest/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-clash-of-legends-maru-vs-zest/",
-      "originalUrl": "https://youtube.com/watch?v=zZPHjzdz3TU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zZPHjzdz3TU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zZPHjzdz3TU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-13T01:56:07-08:00"
     }
   ],
   "nextPage": 11

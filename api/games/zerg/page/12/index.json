@@ -159,45 +159,6 @@
       "publishedDateTime": "2022-03-25T05:57:47-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-heros-strange-proxy-vs-serral-best-of-3.md",
-      "title": "StarCraft 2: herO's STRANGE PROXY vs Serral! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between Serral (Zerg) and herO (Protoss). In this match herO decides to go for one of the strangest proxy cheeses as he builds a quick second Pylon and Gateway on the other side of the map.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-strange-proxy-vs-serral-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-strange-proxy-vs-serral-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=p3NE6-APgDg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p3NE6-APgDg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M5S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/p3NE6-APgDg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-18T03:04:02-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-heros-tempest-rush-vs-reynor-best-of-3.md",
       "title": "StarCraft 2: herO's TEMPEST Rush vs Reynor?! (Best-of-3)",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between Reynor (Zerg) and herO (Protoss). In this series herO decides to play some very aggressive strategies, as he opts for a two base all-in in pretty much every match.  Massive blunder - Reynor vs herO: https://youtu.be/PPPrcODpgc8  Support my work on",
@@ -273,6 +234,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-12T04:27:50-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-huge-tactical-nuke-again-solar-vs-time.md",
+      "title": "StarCraft 2: HUGE TACTICAL NUKE... Again! (Solar vs TIME)",
+      "excerpt": "Poor Solar... It happened again! In today's StarCraft 2 match I cast a game between Solar (Zerg) and TIME (Terran) from the ESL Open Cup Korea Grand Finals. In this match Solar once more takes a Nuke to the majority of his army.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-huge-tactical-nuke-again-solar-vs-time/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-huge-tactical-nuke-again-solar-vs-time/",
+      "originalUrl": "https://youtube.com/watch?v=4bhTDgW8ook",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4bhTDgW8ook\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M3S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4bhTDgW8ook/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-05T03:03:28-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-hyper-aggressive-zerg-vs-terran-bo5.md",
@@ -895,14 +895,14 @@
       "publishedDateTime": "2017-12-23T04:50:32-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-is-this-really-the-ultimate-terran-army-dark-vs-cure.md",
-      "title": "StarCraft 2: Is This REALLY The ULTIMATE Terran Army?! (Dark vs Cure)",
-      "excerpt": "Professional match of StarCraft 2 between Dark (Zerg) and Cure (Terran). While this game starts off with a Roach Ravager rush it quickly turns into a long macro game where both players make their ultimate armies.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-is-this-really-the-ultimate-terran-army-dark-vs-cure/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-is-this-really-the-ultimate-terran-army-dark-vs-cure/",
-      "originalUrl": "https://youtube.com/watch?v=hPWc5DKpkmI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hPWc5DKpkmI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M14S",
+      "path": "_games/lowkotv-starcraft-2-just-amazing-darks-crazy-strategies-vs-hero-best-of-5.md",
+      "title": "StarCraft 2: JUST AMAZING! - Dark's CRAZY Strategies vs herO! (Best-of-5)",
+      "excerpt": "Professional match of StarCraft 2 between Dark and herO, two of the best players in SC2. In these games Dark decides to throw all that he knows at herO, as he goes for strategies that sometimes just don't make a lot of sense.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-just-amazing-darks-crazy-strategies-vs-hero-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-just-amazing-darks-crazy-strategies-vs-hero-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=_a2Y-qIoLiQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_a2Y-qIoLiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M28S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -917,13 +917,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
+        "Protoss",
         "Zerg"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hPWc5DKpkmI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/_a2Y-qIoLiQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -931,7 +931,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-08-23T04:21:48-07:00"
+      "publishedDateTime": "2022-12-27T02:44:05-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-korean-vs-european-zerg-vs-zerg-solar-vs-serral.md",

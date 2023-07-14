@@ -4,52 +4,14 @@
   "page": 36,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-extremely-close-protoss-match.md",
-      "title": "StarCraft 2: EXTREMELY CLOSE Protoss Match!",
-      "excerpt": "I'm like 99% sure this should have a been a draw. Subscribe for more videos: http://lowko.tv/youtube Battlecruisers for breakfast: https://goo.gl/JYKAEC  An extremely close match of Protoss vs Protoss. In this Silver League game, one of the players decides to go for a hyper aggressive Zealot cheese.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-extremely-close-protoss-match/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-extremely-close-protoss-match/",
-      "originalUrl": "https://youtube.com/watch?v=QJTQv5zDBJA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QJTQv5zDBJA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M10S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QJTQv5zDBJA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-06-13T01:59:01-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-extremely-silly-terran-harassment-viewer-games.md",
-      "title": "StarCraft 2: EXTREME(LY Silly) Terran Harassment! (Viewer Games)",
-      "excerpt": "Just a ridiculous game of StarCraft 2 of Platinum League Terran vs Protoss. If you have a great game you'd like me to cast, you can send it to replays@lowko.tv.   Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips  Twitch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-extremely-silly-terran-harassment-viewer-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-extremely-silly-terran-harassment-viewer-games/",
-      "originalUrl": "https://youtube.com/watch?v=rnbf1u3HCPU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rnbf1u3HCPU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M55S",
+      "path": "_games/lowkotv-starcraft-2-extremely-tricky-gumiho-plays-himself-best-of-5.md",
+      "title": "StarCraft 2: EXTREMELY Tricky - GuMiho Plays HIMSELF?! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between GuMiho (Terran) and Solar (Zerg). This match is the Grand Finals of the ESL Open cup 137 Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-extremely-tricky-gumiho-plays-himself-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-extremely-tricky-gumiho-plays-himself-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=1pu2cQNaotk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1pu2cQNaotk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M47S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -69,7 +31,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/rnbf1u3HCPU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/1pu2cQNaotk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -77,7 +39,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-01-31T04:12:02-08:00"
+      "publishedDateTime": "2022-08-22T04:56:55-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-eye-for-an-eye-innovation-vs-soo.md",
@@ -759,43 +721,6 @@
       "publishedDateTime": "2020-05-08T03:20:19-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-florenico-the-vespene-gas-thief.md",
-      "title": "StarCraft 2: Florenico the Vespene GAS THIEF!",
-      "excerpt": "Two games of StarCraft 2 featuring Florencio with some very creative strategies. This time around however, his opponents respond in kind.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-florenico-the-vespene-gas-thief/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-florenico-the-vespene-gas-thief/",
-      "originalUrl": "https://youtube.com/watch?v=6yFvq_jH6eQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6yFvq_jH6eQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6yFvq_jH6eQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-17T09:46:09-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-forced-out-of-his-main.md",
       "title": "StarCraft 2: FORCED OUT OF HIS MAIN!",
       "excerpt": "Hurricane vs Ryung in a best-of-3 series. Subscribe for more videos: http://lowko.tv/youtube Solar vs INnoVation: https://goo.gl/gVzpyJ  A fun series of professional Protoss vs Terran. I don't cover either player in my casts as often as I should. They are both top-tier level players as shown in this",
@@ -1134,6 +1059,81 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-07-18T13:31:26-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-game-of-the-year-parting-vs-cure.md",
+      "title": "StarCraft 2: Game of the Year? (PartinG vs Cure)",
+      "excerpt": "A ridiculous game of top-level StarCraft 2 on the new patch between PartinG and Cure. This could very well be the best game of StarCraft 2 this year.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-game-of-the-year-parting-vs-cure/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-game-of-the-year-parting-vs-cure/",
+      "originalUrl": "https://youtube.com/watch?v=zZzXmwst1gw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zZzXmwst1gw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zZzXmwst1gw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-30T03:02:34-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-game-of-the-year-so-far.md",
+      "title": "StarCraft 2: GAME OF THE YEAR! (So Far)",
+      "excerpt": "Goblin versus Krystianer in an epic game of professional StarCraft 2. It's a bit early to call it the best game of SC2 of this year already, but it surely is the best so far. In this Protoss versus Protoss neither player ever manages to secure a solid economy so an intense micro battle is the only option.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-game-of-the-year-so-far/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-game-of-the-year-so-far/",
+      "originalUrl": "https://youtube.com/watch?v=N11AGSL2mE0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N11AGSL2mE0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M4S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N11AGSL2mE0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-04-07T03:42:07-07:00"
     }
   ],
   "nextPage": 37

@@ -4,44 +4,6 @@
   "page": 39,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-innovation-what-are-you-doing.md",
-      "title": "StarCraft 2: INnoVation... What are you doing?!",
-      "excerpt": "INnoVation, who are you and what have you done to INnoVation? Subscribe for more videos: http://lowko.tv/youtube Solar vs INnoVation: https://goo.gl/gVzpyJ  A very cheeky best-of-5 series of top-level StarCraft 2 between Rogue (the current world champion) and INnoVation. While game 1 is a standard match,",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-innovation-what-are-you-doing/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-innovation-what-are-you-doing/",
-      "originalUrl": "https://youtube.com/watch?v=GbTdrfG3fzo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GbTdrfG3fzo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M48S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GbTdrfG3fzo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-06-28T06:40:03-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-innovations-final-tournament.md",
       "title": "StarCraft 2: INnoVation's FINAL Tournament?!",
       "excerpt": "In this video I cast a best-of-3 series between INnoVation and Nice in StarCraft 2, a Terran versus Protoss. INnoVation will be starting his mandatory military service soon. He mentioned that because of his age he will likely not be coming back to StarCraft 2.  Support my work on Patreon: http://www.patreon.com/lowkotv",
@@ -1104,14 +1066,14 @@
       "publishedDateTime": "2017-12-23T04:50:32-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-is-this-really-the-ultimate-terran-army-dark-vs-cure.md",
-      "title": "StarCraft 2: Is This REALLY The ULTIMATE Terran Army?! (Dark vs Cure)",
-      "excerpt": "Professional match of StarCraft 2 between Dark (Zerg) and Cure (Terran). While this game starts off with a Roach Ravager rush it quickly turns into a long macro game where both players make their ultimate armies.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-is-this-really-the-ultimate-terran-army-dark-vs-cure/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-is-this-really-the-ultimate-terran-army-dark-vs-cure/",
-      "originalUrl": "https://youtube.com/watch?v=hPWc5DKpkmI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hPWc5DKpkmI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M14S",
+      "path": "_games/lowkotv-starcraft-2-it-is-not-a-draw-zest-wings-of-liberty-tournament-in-2021.md",
+      "title": "StarCraft 2: IT IS NOT A DRAW, ZEST - Wings of Liberty Tournament in 2021?!",
+      "excerpt": "Fun games of professional StarCraft 2 played in Wings of Liberty? In this video I cast a few of the games from the \"FilthyRake's WoL Brawl\" even that took place last weekend.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-it-is-not-a-draw-zest-wings-of-liberty-tournament-in-2021/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-it-is-not-a-draw-zest-wings-of-liberty-tournament-in-2021/",
+      "originalUrl": "https://youtube.com/watch?v=wqHAkxYgZUM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wqHAkxYgZUM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M45S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1126,13 +1088,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
-        "Zerg"
+        "Protoss"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hPWc5DKpkmI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wqHAkxYgZUM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1140,7 +1101,46 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-08-23T04:21:48-07:00"
+      "publishedDateTime": "2021-11-08T03:32:41-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-just-amazing-darks-crazy-strategies-vs-hero-best-of-5.md",
+      "title": "StarCraft 2: JUST AMAZING! - Dark's CRAZY Strategies vs herO! (Best-of-5)",
+      "excerpt": "Professional match of StarCraft 2 between Dark and herO, two of the best players in SC2. In these games Dark decides to throw all that he knows at herO, as he goes for strategies that sometimes just don't make a lot of sense.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-just-amazing-darks-crazy-strategies-vs-hero-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-just-amazing-darks-crazy-strategies-vs-hero-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=_a2Y-qIoLiQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_a2Y-qIoLiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M28S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_a2Y-qIoLiQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-27T02:44:05-08:00"
     }
   ],
   "nextPage": 40

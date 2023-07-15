@@ -4,6 +4,35 @@
   "page": 91,
   "value": [
     {
+      "path": "_games/pig-what-a-load-of-bull-youre-playing-the-game-wrong-icyfar-g1-g2.md",
+      "title": "“What a load of Bull§!@$” | You're Playing the game wrong! ICYFAR G1 & G2",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they played the “wrong” build for the matchup.   CURRENT ICYFAR CHALLANGE: \"Offshore Accounts\" - Hide your true earnings from the greedy tax office, use hidden bases as much as possible ! Send submissions",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-what-a-load-of-bull-youre-playing-the-game-wrong-icyfar-g1-g2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-what-a-load-of-bull-youre-playing-the-game-wrong-icyfar-g1-g2/",
+      "originalUrl": "https://youtube.com/watch?v=GRBvCeSJJRA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GRBvCeSJJRA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M9S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GRBvCeSJJRA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-what-average-joes-call-good-micro-icyfar-koprulu-globetrotters-compilation.md",
       "title": "WHAT AVERAGE JOE'S CALL \"GOOD MICRO\" | ICYFAR \"Koprulu Globetrotters\" Compilation",
       "excerpt": "🔥NEW ICYFAR CHALLENGE: \"DISTRACTION LUL\" - Distract and Annoy your opponent at every turn! Empty Nydus worms popping up, Nuking the corner of the map to scare them, blocking bases, dropping single units in mineral lines etc! and Send submissions to eonblu95@gmail.com as an attachment AND only ICYFAR",
@@ -855,36 +884,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-12-15T01:21:00-08:00"
-    },
-    {
-      "path": "_games/pig-when-youre-losing-and-tilting-hard-its-time-to-channel-serral-pig-vs-kiwian-part-3-sc2.md",
-      "title": "When you’re losing and tilting hard, it’s time to channel Serral! | PiG vs Kiwian (Part 3) - SC2",
-      "excerpt": "This is part 3 of my bo5 ZvT showmatch vs Kiwian (Top)! So far we've seen me struggle against BCs and tilt HARD in game 3. Can I make a comeback from 1-2 down in the series? -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-youre-losing-and-tilting-hard-its-time-to-channel-serral-pig-vs-kiwian-part-3-sc2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-youre-losing-and-tilting-hard-its-time-to-channel-serral-pig-vs-kiwian-part-3-sc2/",
-      "originalUrl": "https://youtube.com/watch?v=ijko1Ke8r4A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ijko1Ke8r4A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M6S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ijko1Ke8r4A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-22T00:54:39-07:00"
     }
   ],
   "nextPage": 92

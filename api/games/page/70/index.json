@@ -4,35 +4,6 @@
   "page": 70,
   "value": [
     {
-      "path": "_games/pig-no-secrets-icyfar-9-g1.md",
-      "title": "“No Secrets” | ICYFAR #9 G1",
-      "excerpt": "ICYFAR Challenge for this week! \"Confusion - You must take your 3rd base as your natural\" Submit replays to eonblu95@gmail.com as attachment. Latest submission is before the monday(US/EU) / tuesday(AUS) daily.\r Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-no-secrets-icyfar-9-g1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-no-secrets-icyfar-9-g1/",
-      "originalUrl": "https://youtube.com/watch?v=-n6QGKf3SHs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-n6QGKf3SHs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M17S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-n6QGKf3SHs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-no-secrets-icyfar-9-g2.md",
       "title": "“No Secrets”  | ICYFAR #9 G2",
       "excerpt": "ICYFAR Challenge for this week! \"Confusion - You must take your 3rd base as your natural\" Submit replays to eonblu95@gmail.com as attachment. Latest submission is before the monday(US/EU) / tuesday(AUS) daily.\r Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb",
@@ -890,6 +861,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-12T21:11:51-07:00"
+    },
+    {
+      "path": "_games/pig-pig-casts-an-epic-4v4-beast-of-the-hill-battle.md",
+      "title": "PiG casts an EPIC 4v4 Beast of the Hill battle!",
+      "excerpt": "If you haven't tried Beast of the Hill before, get on it! Whoever can stay on the red dot gets extra income. This 4v4 match was cast on stream during the subathon and was an absolute blast to watch🎤 More Pro SC2 Casts: https://www.youtube.com/playlist?list=PLFUDU8AOevUetBNFfypOKoKcE3BqgZdbt 🐷 Support",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-pig-casts-an-epic-4v4-beast-of-the-hill-battle/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-pig-casts-an-epic-4v4-beast-of-the-hill-battle/",
+      "originalUrl": "https://youtube.com/watch?v=AIZ_Qc0cdLA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AIZ_Qc0cdLA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M13S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AIZ_Qc0cdLA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-12T03:30:29-07:00"
     }
   ],
   "nextPage": 71

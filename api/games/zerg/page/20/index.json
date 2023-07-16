@@ -4,6 +4,82 @@
   "page": 20,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-zergling-flood.md",
+      "title": "StarCraft 2: ZERGLING FLOOD!",
+      "excerpt": "BeastyQT vs goblin in a nail-biter of a game in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://youtu.be/EQ_JvXQFDEU  Very cool match of high level StarCraft 2. BeastyQT decides to play hyper aggressive and focus on Zergling floods and Baneling busts. Whereas",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zergling-flood/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zergling-flood/",
+      "originalUrl": "https://youtube.com/watch?v=TYVIx0PTiQc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TYVIx0PTiQc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M27S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TYVIx0PTiQc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-06-18T00:55:11-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-zergling-massacre.md",
+      "title": "StarCraft 2: Zergling MASSACRE!",
+      "excerpt": "A Zergling massacre in Zerg versus Zerg. Subscribe for more videos: http://lowko.tv/youtube Hotkeys and control groups explained: https://goo.gl/E21s9v  In this Zerg versus Zerg match we have two players, one in Silver League and one in Gold League. Both decide to open up reasonably standard, however",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zergling-massacre/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zergling-massacre/",
+      "originalUrl": "https://youtube.com/watch?v=-WHixigCoIM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-WHixigCoIM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M40S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-WHixigCoIM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-02-15T03:31:46-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-zergling-rush.md",
       "title": "StarCraft 2: ZERGLING RUSH!",
       "excerpt": "Zergling rush in a pro game between Dark and Rogue. Subscribe for more videos: http://lowko.tv/youtube Super chaotic game of Dark vs Rogue: https://goo.gl/PRf8Gq  Solid game of professional Zerg vs Zerg. The level of play is intense. Both players try to play as greedy as possible, without overextending,",
@@ -40,45 +116,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-06-09T05:02:40-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-zerglings-countering-void-rays-viewer-games.md",
-      "title": "StarCraft 2: Zerglings COUNTERING Void Rays? (Viewer Games)",
-      "excerpt": "Two games of StarCraft 2 submitted by viewers. Some of the absolute worst StarCraft I've seen in a while... But a lot of fun! If you have an awesome game of SC2 you want me to cast, you can submit it to replays@lowko.tv.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zerglings-countering-void-rays-viewer-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zerglings-countering-void-rays-viewer-games/",
-      "originalUrl": "https://youtube.com/watch?v=zNHxv24Qycw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zNHxv24Qycw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M51S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zNHxv24Qycw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-01-25T03:50:28-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-zest-vs-rogue-on-all-new-maps-best-of-5.md",
@@ -931,36 +968,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-03T15:26:15-07:00"
-    },
-    {
-      "path": "_games/pig-how-quickly-can-reynor-dispose-of-noobs-part-44-holdout-challenge-starcraft-2.md",
-      "title": "How quickly can REYNOR dispose of noobs? (Part 4/4) | Holdout Challenge - StarCraft 2",
-      "excerpt": "We paid Reynor to 1v1 noobs in StarCraft 2. The challenge: the noobs needed to stay in the match for as long as possible. How did they fare against an actual Zerg Championship player? This is Part 4 out of 4  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-reynor-dispose-of-noobs-part-44-holdout-challenge-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-reynor-dispose-of-noobs-part-44-holdout-challenge-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=VYvf5zAPIQY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VYvf5zAPIQY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M11S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VYvf5zAPIQY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-03T15:29:45-07:00"
     }
   ],
   "nextPage": 21

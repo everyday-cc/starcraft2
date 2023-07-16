@@ -4,6 +4,36 @@
   "page": 6,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-the-winners-write-the-history-books-the-florencio-files-11.md",
+      "title": "StarCraft 2 - The Winners Write the History Books | The Florencio Files #11",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-winners-write-the-history-books-the-florencio-files-11/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-winners-write-the-history-books-the-florencio-files-11/",
+      "originalUrl": "https://youtube.com/watch?v=D1iJiYrW9cA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D1iJiYrW9cA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/D1iJiYrW9cA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-05-24T00:49:07-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-this-dude-nexus-rushed-florencio-florencio-files-215.md",
       "title": "StarCraft 2 - THIS DUDE NEXUS RUSHED FLORENCIO! | Florencio Files #215",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
@@ -325,14 +355,14 @@
       "publishedDateTime": "2018-10-16T07:22:02-07:00"
     },
     {
-      "path": "_games/sc2hl-supreme-late-game-protoss-vs-zerg-dark-vs-stats-starcraft-2-starleague.md",
-      "title": "SUPREME LATE GAME PROTOSS VS ZERG - Dark vs Stats - StarCraft 2 Starleague",
-      "excerpt": "Dark vs Stats in an epic 38 minute Protoss vs Zerg during the Starcraft 2 starleague. Going to the supreme late game.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Watch the Starcraft 2 Starleague on: http://youtube.com/esportstv    Thank you for watching our videos! Subscribe for more StarCraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-supreme-late-game-protoss-vs-zerg-dark-vs-stats-starcraft-2-starleague/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-supreme-late-game-protoss-vs-zerg-dark-vs-stats-starcraft-2-starleague/",
-      "originalUrl": "https://youtube.com/watch?v=8x9xoxB1DfI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8x9xoxB1DfI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M30S",
+      "path": "_games/sc2hl-5-vs-10-supply-28-minute-basetrade-starcraft-2-clem-vs-showtime.md",
+      "title": "5 vs 10 SUPPLY?! - 28 Minute BASETRADE - Starcraft 2: Clem vs Showtime",
+      "excerpt": "A crazy Protoss vs Terran between Showtime and Clem, the 16 year old Starcraft 2 pro. Who will win the Basetrade?   ► Find the WCS Valencia Vods here: https://www.youtube.com/user/WCSStarCraft ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-5-vs-10-supply-28-minute-basetrade-starcraft-2-clem-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-5-vs-10-supply-28-minute-basetrade-starcraft-2-clem-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=u3go0OeMyZk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u3go0OeMyZk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M37S",
       "provider": {
         "name": "SC2HL",
         "domain": "sc2hl.com",
@@ -347,13 +377,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
-        "Zerg"
+        "Protoss"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/8x9xoxB1DfI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/u3go0OeMyZk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -361,7 +390,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2017-08-04T12:34:48-07:00"
+      "publishedDateTime": "2018-10-16T07:21:19-07:00"
     },
     {
       "path": "_games/beastyqtsc2-chad-raying-people-a-beautiful-starcraft-2-life-story.md",
@@ -961,39 +990,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-09-24T12:15:42-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-chicken-calls-me-outchickens-out-.md",
-      "title": "StarCraft 2: Chicken Calls Me Out......Chickens Out 😂",
-      "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-chicken-calls-me-outchickens-out-/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-chicken-calls-me-outchickens-out-/",
-      "originalUrl": "https://youtube.com/watch?v=9cqRcjWCeic",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9cqRcjWCeic\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M34S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9cqRcjWCeic/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-13T03:54:27-07:00"
     }
   ],
   "nextPage": 7

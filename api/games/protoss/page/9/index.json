@@ -4,6 +4,39 @@
   "page": 9,
   "value": [
     {
+      "path": "_games/beastyqtsc2-starcraft-2-same-terran-3-games-in-a-row-blind-countered.md",
+      "title": "StarCraft 2: Same Terran 3 Games in a Row! (Blind Countered!)",
+      "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-same-terran-3-games-in-a-row-blind-countered/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-same-terran-3-games-in-a-row-blind-countered/",
+      "originalUrl": "https://youtube.com/watch?v=fuOKLHISsao",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fuOKLHISsao\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M15S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fuOKLHISsao/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-25T02:36:15-08:00"
+    },
+    {
       "path": "_games/beastyqtsc2-starcraft-2-scr-hype-sky-protoss-to-grandmaster-episode-6.md",
       "title": "StarCraft 2: SC:R HYPE! - Sky Protoss to Grandmaster Episode 6",
       "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
@@ -1000,45 +1033,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-11-06T04:37:03-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-amazing-game-mass-oracle-vs-queen-drop-hero-vs-reynor.md",
-      "title": "StarCraft 2: AMAZING GAME - Mass Oracle vs Queen Drop! (herO vs Reynor)",
-      "excerpt": "An amazing game of top level StarCraft 2 between herO and Reynor. This Protoss versus Zerg starts off with excellent mind games from both players, as they try to outsmart each other on Pride of Altaris. Reynor opts to go for the Gold base early, whereas herO decides to go double Stargate Oracle.   Support",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-amazing-game-mass-oracle-vs-queen-drop-hero-vs-reynor/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-amazing-game-mass-oracle-vs-queen-drop-hero-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=fa-5gB6uczc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fa-5gB6uczc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fa-5gB6uczc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-05-18T05:00:50-07:00"
     }
   ],
   "nextPage": 10

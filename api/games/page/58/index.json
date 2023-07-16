@@ -4,6 +4,122 @@
   "page": 58,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-very-close-terran-vs-protoss.md",
+      "title": "StarCraft 2: VERY CLOSE Terran vs Protoss!",
+      "excerpt": "A super close match of Terran vs Protoss in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://youtu.be/BfikSEkWzao  Cure and Trap are both top level competitors in StarCraft 2. The thing that makes this match extra interesting is the fact that they are both",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-very-close-terran-vs-protoss/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-very-close-terran-vs-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=C6TuN1chfAo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C6TuN1chfAo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M11S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/C6TuN1chfAo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-04-28T08:04:23-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-very-strange-terran-strategies-serral-vs-gumiho.md",
+      "title": "StarCraft 2: Very STRANGE Terran Strategies! (Serral vs GuMiho)",
+      "excerpt": "A fun best-of-3 series of professional StarCraft 2 between Serral (Zerg) and GuMiho (Terran). At this point I am fairly certain that GuMiho plays a different strategy in every game he plays. In this best-of-3 series he decides to play Mech, cheesy Marines and a very strange Bio based opener.   Vanya",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-very-strange-terran-strategies-serral-vs-gumiho/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-very-strange-terran-strategies-serral-vs-gumiho/",
+      "originalUrl": "https://youtube.com/watch?v=wz06FeEcy_s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wz06FeEcy_s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M14S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wz06FeEcy_s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-13T04:03:46-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-very-unusual-zerg-cheese-florencio-is-back.md",
+      "title": "StarCraft 2: Very Unusual Zerg Cheese... (Florencio is back!)",
+      "excerpt": "Florencio is back with a ridiculous Zerg strategy. In this game of StarCraft 2 he decides to Drone, Spine Crawler, Hatchery and Creep Tumor rush. All at once.  Get more videos & support my work: http://www.patreon.com/lowkotv Previous Florencio cheese: https://youtu.be/khgDUwR7Gvo  If you have an awesome",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-very-unusual-zerg-cheese-florencio-is-back/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-very-unusual-zerg-cheese-florencio-is-back/",
+      "originalUrl": "https://youtube.com/watch?v=2lPVk-WGeMQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2lPVk-WGeMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M2S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2lPVk-WGeMQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-02T03:25:02-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-viper-value-best-of-5.md",
       "title": "StarCraft 2: VIPER VALUE! (Best-of-5)",
       "excerpt": "An epic best-of-5 series between Gumiho and Reynor. Subscribe for more videos: http://lowko.tv/youtube Rogue vs Neeb: https://goo.gl/d2ZmY8  Bio, Mech, cheese, macro, early game, late game and lots of Roaches, Hydralisks, Hellions, Siege Tanks and Vipers. This is an awesome best-of-5 series where both",
@@ -951,45 +1067,6 @@
       "publishedDateTime": "2022-06-01T09:37:51-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-wombo-combos-serral-vs-neeb.md",
-      "title": "StarCraft 2: WOMBO COMBOS - Serral vs Neeb!",
-      "excerpt": "High level game of professional StarCraft 2 between Serral (Zerg) and Neeb (Protoss). This is a match that goes the distance as the entire map gets mostly mined out of Minerals and Vespene Gas.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-wombo-combos-serral-vs-neeb/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-wombo-combos-serral-vs-neeb/",
-      "originalUrl": "https://youtube.com/watch?v=qCQC3XpHIoE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qCQC3XpHIoE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT47M27S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qCQC3XpHIoE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-11T04:11:18-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-world-champion-vs-protoss-cheese-dark-vs-has.md",
       "title": "StarCraft 2: WORLD CHAMPION vs PROTOSS CHEESE! (Dark vs Has)",
       "excerpt": "Dark is the current world champion of StarCraft 2. In this best-of-3 series he goes up against Has, one of the trickiest Protoss players to go up against. In this series Has decides to play his regular style, that includes a lot of tricky build orders and strategies. Dark however is ready to counter",
@@ -1065,84 +1142,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-02-03T00:04:53-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-zerg-cheese-vs-protoss-cheese.md",
-      "title": "StarCraft 2: ZERG CHEESE vs PROTOSS CHEESE!",
-      "excerpt": "Proxy Hatcheries, Photon Cannons, Dark Templar and more! Subscribe for more videos: http://lowko.tv/youtube Battlecruiser death ball: https://goo.gl/cQoQgX  A really cool series of games played on the new ladder maps between Goblin and Nerchio in StarCraft 2. In this game both players decide to play",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zerg-cheese-vs-protoss-cheese/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zerg-cheese-vs-protoss-cheese/",
-      "originalUrl": "https://youtube.com/watch?v=pLNja26P-Sc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pLNja26P-Sc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M29S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pLNja26P-Sc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-11-20T10:59:41-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-zerg-cheese-vs-terran.md",
-      "title": "StarCraft 2: ZERG CHEESE vs Terran!",
-      "excerpt": "uThermal vs TLO in a best of three of Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube Psionic Storm value: https://goo.gl/KOhZfy  An epic series of professional StarCraft 2. In the first game, TLO decides to focus on an aggressive opener with a macro follow-up. Game number two is the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zerg-cheese-vs-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zerg-cheese-vs-terran/",
-      "originalUrl": "https://youtube.com/watch?v=DegG96FhA1g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DegG96FhA1g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M7S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DegG96FhA1g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-03-23T07:24:24-07:00"
     }
   ],
   "nextPage": 59

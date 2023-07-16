@@ -4,6 +4,44 @@
   "page": 55,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-the-queen-distraction.md",
+      "title": "StarCraft 2: The Queen Distraction!",
+      "excerpt": "A fun match of Gold League Zerg versus Zerg. Subscribe for more videos: http://lowko.tv/youtube How-to NOT Cannon Rush: https://goo.gl/TM36jZ  Why use the Queens defensively when you can load them into an Overlord and bring them with you on the offensive?  If you have an awesome replay of StarCraft 2",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-queen-distraction/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-queen-distraction/",
+      "originalUrl": "https://youtube.com/watch?v=jpC6e8RfIxQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jpC6e8RfIxQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M19S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jpC6e8RfIxQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-12-23T04:45:26-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-queen-push-reynor-vs-dream.md",
       "title": "StarCraft 2: THE QUEEN PUSH! (Reynor vs Dream)",
       "excerpt": "Fun best-of-3 series of professional StarCraft 2. In this series of games between Reynor and Dream, we see both players going for a variety of build orders. Dream decides to focus his attention on Hellbat pushes and Battlecruisers, Reynor goes for Roaches, Ravagers and the Queen march.  Get more videos",
@@ -829,44 +867,6 @@
       "publishedDateTime": "2020-08-01T04:20:27-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-ultimate-late-game-of-zerg-vs-zerg-dark-vs-reynor.md",
-      "title": "StarCraft 2: The ULTIMATE LATE GAME of Zerg vs Zerg! (Dark vs Reynor)",
-      "excerpt": "One long macro game of StarCraft 2 between Dark and Reynor. While most Zerg versus Zerg games end within a few minutes, this one goes well beyond the Zergling Baneling, Roach Ravager and even the Hydra Lurker stage.  Dark vs Zest: https://www.youtube.com/watch?v=mUG5ryGpiV8  Support my work on Patreon:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-ultimate-late-game-of-zerg-vs-zerg-dark-vs-reynor/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-ultimate-late-game-of-zerg-vs-zerg-dark-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=3FPvICJgx30",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3FPvICJgx30\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M55S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3FPvICJgx30/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-30T11:49:34-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-ultimate-patience-game-rogue-vs-showtime.md",
       "title": "StarCraft 2: THE ULTIMATE PATIENCE GAME! (Rogue vs ShoWTimE)",
       "excerpt": "While this professional match of StarCraft 2 starts off very slowly, it turns out to be one of the most spectacular matches of late game Zerg versus Protoss I've ever seen.   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel:",
@@ -943,45 +943,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-07-01T04:11:54-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-ultimate-zerg-protoss-armies-serral-vs-harstem.md",
-      "title": "StarCraft 2: THE ULTIMATE ZERG & PROTOSS ARMIES! (Serral vs Harstem)",
-      "excerpt": "One of the longest games of professional StarCraft 2 ever played. In this Protoss versus Zerg between Harstem and Serral we see both players building their ultimate armies and taking their sides of the map.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-ultimate-zerg-protoss-armies-serral-vs-harstem/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-ultimate-zerg-protoss-armies-serral-vs-harstem/",
-      "originalUrl": "https://youtube.com/watch?v=_9LLCJYb6K4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_9LLCJYb6K4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H9M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_9LLCJYb6K4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-27T05:29:46-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-ultra-late-game.md",
@@ -1131,6 +1092,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-04-14T01:32:42-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-upgrade-wars-vanya-vs-milkicow.md",
+      "title": "StarCraft 2: THE UPGRADE WARS! (Vanya vs MilkiCow)",
+      "excerpt": "Best-of-3 series of StarCraft 2 between Vanya and MilkiCow. In this tournament match we watch two Russian players face off in a Terran versus Zerg.   Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-upgrade-wars-vanya-vs-milkicow/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-upgrade-wars-vanya-vs-milkicow/",
+      "originalUrl": "https://youtube.com/watch?v=kBQIwZa2XrA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kBQIwZa2XrA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M9S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kBQIwZa2XrA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-09-10T04:50:19-07:00"
     }
   ],
   "nextPage": 56

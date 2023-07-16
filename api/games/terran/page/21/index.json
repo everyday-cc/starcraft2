@@ -4,36 +4,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-131-kill-battlecruisers-diamond-in-the-ruff-12.md",
-      "title": "StarCraft 2 - 131 KILL BATTLECRUISERS | Diamond in the Ruff #12",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Zerg opponent? Battlecruisers!  Check out all episodes of Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-131-kill-battlecruisers-diamond-in-the-ruff-12/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-131-kill-battlecruisers-diamond-in-the-ruff-12/",
-      "originalUrl": "https://youtube.com/watch?v=tlanAT12mK0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tlanAT12mK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M51S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tlanAT12mK0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-14T12:00:08-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-19-minute-tvz-musketeer-transition-the-florencio-files-158.md",
       "title": "StarCraft 2 - 19 Minute TvZ Musketeer Transition | The Florencio Files #158",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. Get ready for a crazy Terran versus Zerg musketeer transition!  Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
@@ -917,6 +887,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-08-07T20:35:31-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-ghost-mech-tvp-diamond-in-the-ruff-22.md",
+      "title": "StarCraft 2 - GHOST MECH TvP! | Diamond in the Ruff #22",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Terran opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-ghost-mech-tvp-diamond-in-the-ruff-22/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-ghost-mech-tvp-diamond-in-the-ruff-22/",
+      "originalUrl": "https://youtube.com/watch?v=_b5DQnSmzrM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_b5DQnSmzrM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M53S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_b5DQnSmzrM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-12T09:00:19-08:00"
     }
   ],
   "nextPage": 22

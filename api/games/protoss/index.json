@@ -29,7 +29,7 @@
         "Terran",
         "Protoss"
       ],
-      "heat": 313,
+      "heat": 261,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/IHm5Vo_UI5M/maxresdefault.jpg",
@@ -68,7 +68,7 @@
         "Terran",
         "Protoss"
       ],
-      "heat": 294,
+      "heat": 234,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/J5VXTeiQTwc/maxresdefault.jpg",
@@ -80,45 +80,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-05-08T03:18:53-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-darks-100-mutalisks-vs-classic-ksl-finals.md",
-      "title": "StarCraft 2: Dark's 100+ MUTALISKS vs Classic! (KSL Finals)",
-      "excerpt": "Finals of the Korean StarCraft League 17! This is a best-of-5 series of top level StarCraft 2 between Dark (Zerg) and Classic (Protoss). While Classic would be happy to play the macro game, Dark has different plans. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-100-mutalisks-vs-classic-ksl-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-100-mutalisks-vs-classic-ksl-finals/",
-      "originalUrl": "https://youtube.com/watch?v=2UP3f7vvLlA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2UP3f7vvLlA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M45S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 246,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2UP3f7vvLlA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-06T03:49:18-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-all-new-maps-scarlett-drone-rushes-hero-best-of-5.md",
@@ -353,6 +314,45 @@
       "publishedDateTime": "2022-04-14T04:56:30-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-darks-100-mutalisks-vs-classic-ksl-finals.md",
+      "title": "StarCraft 2: Dark's 100+ MUTALISKS vs Classic! (KSL Finals)",
+      "excerpt": "Finals of the Korean StarCraft League 17! This is a best-of-5 series of top level StarCraft 2 between Dark (Zerg) and Classic (Protoss). While Classic would be happy to play the macro game, Dark has different plans. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-100-mutalisks-vs-classic-ksl-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-100-mutalisks-vs-classic-ksl-finals/",
+      "originalUrl": "https://youtube.com/watch?v=2UP3f7vvLlA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2UP3f7vvLlA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M45S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 213,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2UP3f7vvLlA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-06T03:49:18-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-sneaky-psi-storm-drops-time-vs-trap.md",
       "title": "StarCraft 2: Sneaky PSI STORM Drops! (TIME vs Trap)",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between TIME (Terran) and Trap (Protoss). Game number one in particular is amazing. A constant back-and-forth between two players that have very small economies.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -533,7 +533,7 @@
         "Protoss",
         "Zerg"
       ],
-      "heat": 179,
+      "heat": 170,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/RMrA78emlEU/maxresdefault.jpg",
@@ -624,14 +624,14 @@
       "publishedDateTime": "2023-05-08T03:18:53-07:00"
     },
     {
-      "path": "_games/pig-simple-nexus-recall-rush-trick-fools-opponent-mape-the-ape-3-starcraft-2.md",
-      "title": "SIMPLE Nexus Recall Rush Trick FOOLS Opponent | Mape the Ape #3 - StarCraft 2",
-      "excerpt": "When Maplez met Honmono on the ladder, sewer mermaid strategies ensued. -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-simple-nexus-recall-rush-trick-fools-opponent-mape-the-ape-3-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-simple-nexus-recall-rush-trick-fools-opponent-mape-the-ape-3-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=Co1VFTUgzcI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Co1VFTUgzcI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M26S",
+      "path": "_games/pig-the-sewer-mermaid-slips-behind-enemy-lines-florencio-files-279-starcraft-2.md",
+      "title": "The Sewer Mermaid slips behind enemy lines | Florencio Files #279 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-sewer-mermaid-slips-behind-enemy-lines-florencio-files-279-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-sewer-mermaid-slips-behind-enemy-lines-florencio-files-279-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=qdGp6Rkvlok",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qdGp6Rkvlok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -640,10 +640,10 @@
         "StarCraft 2",
         "Protoss"
       ],
-      "heat": 146,
+      "heat": 147,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Co1VFTUgzcI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qdGp6Rkvlok/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -651,7 +651,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-07-06T14:50:04-07:00"
+      "publishedDateTime": "2023-04-22T22:23:01-07:00"
     },
     {
       "path": "_games/pig-flos-genius-hallucination-trick-florencio-files-281-starcraft-2.md",
@@ -684,30 +684,26 @@
       "publishedDateTime": "2023-05-03T22:47:03-07:00"
     },
     {
-      "path": "_games/pig-genius-carrier-siege-tactics-destroy-terran-kings-of-cannons-26-starcraft-2.md",
-      "title": "GENIUS carrier siege tactics DESTROY terran | Kings of Cannons #26 - StarCraft 2",
-      "excerpt": "Cannon rushes all day erry day! Watch printF, the KING of Cannons, do what he does best on the StarCraft 2 ladder  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf PrintF’s youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-genius-carrier-siege-tactics-destroy-terran-kings-of-cannons-26-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-genius-carrier-siege-tactics-destroy-terran-kings-of-cannons-26-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=Yodsx5bvh6I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yodsx5bvh6I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M20S",
+      "path": "_games/pig-simple-nexus-recall-rush-trick-fools-opponent-mape-the-ape-3-starcraft-2.md",
+      "title": "SIMPLE Nexus Recall Rush Trick FOOLS Opponent | Mape the Ape #3 - StarCraft 2",
+      "excerpt": "When Maplez met Honmono on the ladder, sewer mermaid strategies ensued. -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-simple-nexus-recall-rush-trick-fools-opponent-mape-the-ape-3-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-simple-nexus-recall-rush-trick-fools-opponent-mape-the-ape-3-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=Co1VFTUgzcI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Co1VFTUgzcI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M26S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
-        "Terran"
+        "Protoss"
       ],
-      "heat": 115,
-      "tags": [
-        "Cheese"
-      ],
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Yodsx5bvh6I/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Co1VFTUgzcI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -715,7 +711,79 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-05-05T17:58:23-07:00"
+      "publishedDateTime": "2023-07-06T14:50:04-07:00"
+    },
+    {
+      "path": "_games/pig-cannon-rusher-meets-1-base-nydus-swarmhosts-king-of-cannons-25-starcraft-2.md",
+      "title": "Cannon Rusher Meets 1-Base NYDUS SWARMHOSTS! | King of Cannons #25 - StarCraft 2",
+      "excerpt": "Cannon rushes all day erry day! Watch printF, the KING of Cannons, do what he does best on the StarCraft 2 ladder  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf PrintF’s youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-cannon-rusher-meets-1-base-nydus-swarmhosts-king-of-cannons-25-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-cannon-rusher-meets-1-base-nydus-swarmhosts-king-of-cannons-25-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=ijxJsbt3TZA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ijxJsbt3TZA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M44S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 110,
+      "tags": [
+        "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ijxJsbt3TZA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-05T01:48:11-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime.md",
+      "title": "StarCraft 2: BEST PRO Game of 2022 - Serral vs ShoWTimE!",
+      "excerpt": "Professional match of top level StarCraft 2 between Serral (Zerg) and ShoWTimE (Protoss). This is in my opinion the best pro game of SC2 of 2022 so far. Ridiculously close game between two of the best European pro gamers.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=cbQw9rvkado",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cbQw9rvkado\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 106,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cbQw9rvkado/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-05T04:02:46-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",
@@ -757,45 +825,6 @@
       "publishedDateTime": "2022-05-23T11:16:38-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime.md",
-      "title": "StarCraft 2: BEST PRO Game of 2022 - Serral vs ShoWTimE!",
-      "excerpt": "Professional match of top level StarCraft 2 between Serral (Zerg) and ShoWTimE (Protoss). This is in my opinion the best pro game of SC2 of 2022 so far. Ridiculously close game between two of the best European pro gamers.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=cbQw9rvkado",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cbQw9rvkado\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 98,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cbQw9rvkado/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-05T04:02:46-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-stuck-between-a-tempest-and-a-cannon-place-florencio-files-264.md",
       "title": "StarCraft 2 - Stuck between a Tempest and a Cannon Place | Florencio Files #264",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
@@ -824,36 +853,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-13T19:34:28-07:00"
-    },
-    {
-      "path": "_games/pig-the-sewer-mermaid-slips-behind-enemy-lines-florencio-files-279-starcraft-2.md",
-      "title": "The Sewer Mermaid slips behind enemy lines | Florencio Files #279 - StarCraft 2",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-sewer-mermaid-slips-behind-enemy-lines-florencio-files-279-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-sewer-mermaid-slips-behind-enemy-lines-florencio-files-279-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=qdGp6Rkvlok",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qdGp6Rkvlok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 87,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qdGp6Rkvlok/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-04-22T22:23:01-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-heros-double-proxy-nexus-vs-byun-best-of-3.md",

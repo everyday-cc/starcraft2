@@ -4,36 +4,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_games/pig-toss-has-rage-fit-cos-terran-bio-exists-salt-mines-26-starcraft-2.md",
-      "title": "Toss has RAGE FIT cos Terran bio exists | Salt Mines #26 - StarCraft 2",
-      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-toss-has-rage-fit-cos-terran-bio-exists-salt-mines-26-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-toss-has-rage-fit-cos-terran-bio-exists-salt-mines-26-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=ro3knys4sUg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ro3knys4sUg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M17S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ro3knys4sUg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-25T16:32:20-08:00"
-    },
-    {
       "path": "_games/pig-when-your-strat-is-sick-but-zerg-has-a-wrinkly-brain-florencio-files-272-starcraft-2.md",
       "title": "When your strat is SICK but zerg has a WRINKLY BRAIN | Florencio Files #272 - StarCraft 2",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
@@ -1100,6 +1070,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-05-02T03:42:02-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-florencios-disgusting-terran-plays.md",
+      "title": "StarCraft 2: FLORENCIO'S DISGUSTING TERRAN PLAYS!",
+      "excerpt": "I've casted quite a few of Florencio's Protoss games in StarCraft 2. This time around he's showing some of the strategies that he is working on with Terran. In this game he opens up with a Reaper Bunker rush, then transitions towards Battlecruisers and eventually leads to Mech and quadruple Nukes.  Florencio",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-florencios-disgusting-terran-plays/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-florencios-disgusting-terran-plays/",
+      "originalUrl": "https://youtube.com/watch?v=_DJFkHwH1H8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_DJFkHwH1H8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M35S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_DJFkHwH1H8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-07-18T05:07:54-07:00"
     }
   ],
   "nextPage": 14

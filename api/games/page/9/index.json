@@ -4,45 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-swarm-host-rush-vs-bio-terran-erik-vs-gumiho.md",
-      "title": "StarCraft 2: SWARM HOST Rush vs Bio Terran?! (Erik vs GuMiho)",
-      "excerpt": "Best-of-3 series from the StarCraft 2 ESL Open Cup between Erik (Zerg) and GuMiho. In this series Erik decides to go for some very strange build orders vs Terran. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  Dark vs Erik: https://youtu.be/InNm98MUfSg  My YouTube channels:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-swarm-host-rush-vs-bio-terran-erik-vs-gumiho/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-swarm-host-rush-vs-bio-terran-erik-vs-gumiho/",
-      "originalUrl": "https://youtube.com/watch?v=SuSs_jjH86Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SuSs_jjH86Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M5S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SuSs_jjH86Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-06T02:29:34-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-fourth-race-hybrid-vs-protoss-zerg-1v1-multiplayer.md",
       "title": "StarCraft 2: The Fourth Race - HYBRID vs Protoss & Zerg! (1v1 Multiplayer)",
       "excerpt": "Two games of StarCraft 2 from \"The Fourth Race Contest\" organised by Alex007. In this video I cast the Hybrid going up against Protoss and the Hybrid versus Zerg.  Alex's YouTube channel: https://www.youtube.com/c/Alex007SC2  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube",
@@ -1055,6 +1016,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-08T04:10:23-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-specials-new-battlecruiser-opener-best-of-3.md",
+      "title": "StarCraft 2: SpeCial's NEW Battlecruiser Opener! (Best-of-3)",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 between SpeCial and Elazer. In this series of Zerg versus Terran we watch a Terran play a variety of creative openers, that ultimately lead to Battlecruisers.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-specials-new-battlecruiser-opener-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-specials-new-battlecruiser-opener-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=KLQlwY1qhGc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KLQlwY1qhGc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT55M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KLQlwY1qhGc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-02-15T04:00:54-08:00"
     }
   ],
   "nextPage": 10

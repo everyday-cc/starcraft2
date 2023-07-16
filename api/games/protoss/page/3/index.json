@@ -4,36 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/pig-flo-hides-14-bases-in-one-game-florencio-files-276-starcraft-2.md",
-      "title": "Flo Hides 14 Bases in One Game | Florencio Files #276 - StarCraft 2",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-flo-hides-14-bases-in-one-game-florencio-files-276-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-flo-hides-14-bases-in-one-game-florencio-files-276-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=C64FK6g9Raw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C64FK6g9Raw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M39S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/C64FK6g9Raw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-05T02:30:43-08:00"
-    },
-    {
       "path": "_games/pig-genius-carrier-siege-tactics-destroy-terran-kings-of-cannons-26-starcraft-2.md",
       "title": "GENIUS carrier siege tactics DESTROY terran | Kings of Cannons #26 - StarCraft 2",
       "excerpt": "Cannon rushes all day erry day! Watch printF, the KING of Cannons, do what he does best on the StarCraft 2 ladder  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf PrintF’s youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng",
@@ -1086,6 +1056,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-03-27T05:29:46-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-weekly-finals-lots-of-early-game-cheeses-spirit-vs-showtime.md",
+      "title": "StarCraft 2: WEEKLY FINALS - Lots of Early Game Cheeses! (Spirit vs ShoWTimE)",
+      "excerpt": "Best-of-5 series of StarCraft 2 between ShoWTimE and Spirit. This series is the finals of the ESL Open Cup 172 Europe. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-weekly-finals-lots-of-early-game-cheeses-spirit-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-weekly-finals-lots-of-early-game-cheeses-spirit-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=-Eq-mViHpdM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-Eq-mViHpdM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M53S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-Eq-mViHpdM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-03T04:14:23-07:00"
     }
   ],
   "nextPage": 4

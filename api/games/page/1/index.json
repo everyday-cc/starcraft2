@@ -80,6 +80,45 @@
       "publishedDateTime": "2023-07-07T23:17:00-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-silver-league-heroes-proxy-nexus-in-the-terrans-main.md",
+      "title": "StarCraft 2: Silver League Heroes - Proxy NEXUS in the Terran's Main!",
+      "excerpt": "Two viewer submitted games of StarCraft 2, with some of the strangest strategies that I've ever seen. Proxy Refinery and a Proxy Nexus?!  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  00:00 Proxy Refinery 12:07 Proxy Nexus  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-silver-league-heroes-proxy-nexus-in-the-terrans-main/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-silver-league-heroes-proxy-nexus-in-the-terrans-main/",
+      "originalUrl": "https://youtube.com/watch?v=J5VXTeiQTwc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J5VXTeiQTwc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M25S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 294,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/J5VXTeiQTwc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-08T03:18:53-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-darks-100-mutalisks-vs-classic-ksl-finals.md",
       "title": "StarCraft 2: Dark's 100+ MUTALISKS vs Classic! (KSL Finals)",
       "excerpt": "Finals of the Korean StarCraft League 17! This is a best-of-5 series of top level StarCraft 2 between Dark (Zerg) and Classic (Protoss). While Classic would be happy to play the macro game, Dark has different plans. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
@@ -155,45 +194,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-27T05:02:26-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-silver-league-heroes-proxy-nexus-in-the-terrans-main.md",
-      "title": "StarCraft 2: Silver League Heroes - Proxy NEXUS in the Terran's Main!",
-      "excerpt": "Two viewer submitted games of StarCraft 2, with some of the strangest strategies that I've ever seen. Proxy Refinery and a Proxy Nexus?!  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  00:00 Proxy Refinery 12:07 Proxy Nexus  My YouTube channels: https://youtube.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-silver-league-heroes-proxy-nexus-in-the-terrans-main/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-silver-league-heroes-proxy-nexus-in-the-terrans-main/",
-      "originalUrl": "https://youtube.com/watch?v=J5VXTeiQTwc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J5VXTeiQTwc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 234,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/J5VXTeiQTwc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-08T03:18:53-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-all-new-maps-scarlett-drone-rushes-hero-best-of-5.md",

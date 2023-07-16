@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-30-reflections-on-a-decade-the-best-games-of-competitive-starcraft-ii-part-ii-heart-of-the-swarm.md",
+      "title": "Reflections on a Decade: The Best Games of Competitive StarCraft II, Part II: Heart of the Swarm",
+      "excerpt": "Ten years of StarCraft II. Ten years of truly unforgettable esports.",
+      "sourceUrl": null,
+      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23485203/reflections-on-a-decade-the-best-games-of-competitive-starcraft-ii-part-ii-heart-of-the-swarm",
+      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23485203/reflections-on-a-decade-the-best-games-of-competitive-starcraft-ii-part-ii-heart-of-the-swarm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GA3HR2WJELL11595530752347.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-30T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-reflections-on-a-decade-the-best-games-of-competitive-starcraft-ii-part-i-wings-of-liberty.md",
       "title": "Reflections on a Decade: The Best Games of Competitive StarCraft II, Part I: Wings of Liberty",
       "excerpt": "Ten years of StarCraft II. Ten years of truly unforgettable esports.",

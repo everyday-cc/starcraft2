@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-17-dark-horse-reveals-latest-ship-in-starcraft-line-the-zerg-brood-lord.md",
+      "title": "Dark Horse Reveals Latest Ship In STARCRAFT Line: The Zerg Brood Lord",
+      "excerpt": "Dark Horse has released their latest ship replica from their StarCraft line: the Zerg Brood Lord. Evolved to dominate the skies, the Brood Lord replica measures 15 inches long by 15 inches wide and stands 10 inches tall.",
+      "sourceUrl": null,
+      "webUrl": "https://geektyrant.com/news/dark-horse-reveals-latest-ship-in-starcraft-line-the-zerg-brood-lord",
+      "originalUrl": "https://geektyrant.com/news/dark-horse-reveals-latest-ship-in-starcraft-line-the-zerg-brood-lord",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/627ead1003a8f81f57e9ac8d/1652774428761/ZergBroodLordReplica.jpg?format=1500w",
+          "width": 1500,
+          "height": 845,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekTyrant",
+        "domain": "geektyrant.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-starcraft-dark-horses-zerg-brood-lord-statue-is-disgustingly-amazing.md",
       "title": "StarCraft: Dark Horse's Zerg Brood Lord Statue is Disgustingly Amazing",
       "excerpt": "Dark Horse Direct continues to release new statues inspired by the ships of Blizzard's StarCraft universe. Their latest StarCraft replica depicts one of the most imposing and disgusting ships in ...",
@@ -1143,48 +1186,6 @@
       "provider": {
         "name": "Forward",
         "domain": "portforward.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-starcraft-iis-extended-launch-trailer-revealed.md",
-      "title": "StarCraft II’s Extended Launch Trailer Revealed",
-      "excerpt": "You may remember that a month ago, Blizzard released a most excellent trailer for StarCraft II to coincide with the NBA finals (of all things): Now, just days before StarCraft II‘s world debut ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.themarysue.com/starcraft-ii-extended-launch-trailer/",
-      "originalUrl": "https://www.themarysue.com/starcraft-ii-extended-launch-trailer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.themarysue.com/wp-content/uploads/2020/12/themarysue-defult-social.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.themarysue.com/starcraft-ii-extended-launch-trailer/amp/",
-      "cdnAmpWebUrl": "https://www-themarysue-com.cdn.ampproject.org/c/s/www.themarysue.com/starcraft-ii-extended-launch-trailer/amp/",
-      "publishedDateTime": "2021-07-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mary Sue",
-        "domain": "themarysue.com",
         "images": null,
         "publishers": null,
         "authors": null

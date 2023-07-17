@@ -4,6 +4,39 @@
   "page": 14,
   "value": [
     {
+      "path": "_games/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster.md",
+      "title": "StarCraft 2: MASS Void Rays to Grandmaster!",
+      "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=qyvOV-b5TZs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qyvOV-b5TZs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M22S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qyvOV-b5TZs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-30T04:55:08-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-a-ridiculous-display-of-skill.md",
       "title": "StarCraft 2: A RIDICULOUS DISPLAY OF SKILL!",
       "excerpt": "Reynor vs MarineLord in an epic Zerg vs Terran match. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://goo.gl/HFczUz  I feel like I've been uploading a lot of epic matches lately, but seriously, this game is ridiculously good. So many great moments in this high level Zerg",
@@ -1111,43 +1144,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-11-23T04:53:20-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-ghosts-only-to-grandmaster-league.md",
-      "title": "StarCraft 2: GHOSTS ONLY to Grandmaster League!",
-      "excerpt": "Two games from uThermal's StarCraft 2 series \"Ghosts to Grandmaster\". The rules for this SC2 challenge are simple. Only Ghosts as attacking units until Grandmaster League.  Ghost to Grandmasters: https://www.youtube.com/playlist?list=PLhaCXeA_nfD0WplNJSlqY3q_qTP9-dMfY  Support my work on Patreon: https://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-ghosts-only-to-grandmaster-league/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-ghosts-only-to-grandmaster-league/",
-      "originalUrl": "https://youtube.com/watch?v=2hHIglbtw1k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2hHIglbtw1k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M33S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2hHIglbtw1k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-07-09T03:54:41-07:00"
     }
   ],
   "nextPage": 15

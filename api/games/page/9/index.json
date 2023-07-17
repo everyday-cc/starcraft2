@@ -4,6 +4,43 @@
   "page": 9,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-crazy-match-the-most-glorious-viewer-game-yet.md",
+      "title": "StarCraft 2: CRAZY MATCH - The Most Glorious Viewer Game Yet?",
+      "excerpt": "Amazing game of Platinum League StarCraft 2. Want me to cast your game next? Submit your best StarCraft 2 game to replays@lowko.tv. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-crazy-match-the-most-glorious-viewer-game-yet/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-crazy-match-the-most-glorious-viewer-game-yet/",
+      "originalUrl": "https://youtube.com/watch?v=9K26f4k6USQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9K26f4k6USQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9K26f4k6USQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-04-29T01:56:11-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-game-of-the-year-according-to-a-viewer.md",
       "title": "StarCraft 2: \"GAME OF THE YEAR\"... According to a Viewer!",
       "excerpt": "Two viewer submitted games in StarCraft 2. A crazy Diamond league match of Protoss versus Zerg and then a Platinum league game of Terran versus Protoss. If you have an awesome game of SC2 you'd like me to cast, you can submit it to replays@lowko.tv.  Painful SC2 game 00:00 Game of the year? 15:24  Support",
@@ -1021,44 +1058,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-04-07T03:26:07-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-gumihos-new-terran-late-game.md",
-      "title": "StarCraft 2: GuMiho's NEW TERRAN Late Game!",
-      "excerpt": "Amazing game of StarCraft 2 between GuMiho (Terran) and Dark (Zerg). Thanks for Gamers Without Borders for sponsoring this video!  https://www.twitch.tv/gwbps_en https://youtube.com/Gamers8Esports https://gamerswithoutborders.com  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumihos-new-terran-late-game/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumihos-new-terran-late-game/",
-      "originalUrl": "https://youtube.com/watch?v=aZOyDjgQ5i0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aZOyDjgQ5i0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M39S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aZOyDjgQ5i0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-04-19T03:56:44-07:00"
     }
   ],
   "nextPage": 10

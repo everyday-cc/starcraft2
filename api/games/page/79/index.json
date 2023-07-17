@@ -4,6 +4,37 @@
   "page": 79,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-get-in-the-butt-bunker-pretend-pvz-proxy-icyfar-g2.md",
+      "title": "StarCraft 2 - Get in the Butt Bunker! | Pretend PvZ Proxy ICYFAR G2",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they had to build fake proxies. Here's a fun game of Zerg versus Protoss completing the challenge in humorous fashion.  NEW ICYFAR CHALLENGE: \"Kick The Ant Hive\" - Swam Your Opponent",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-get-in-the-butt-bunker-pretend-pvz-proxy-icyfar-g2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-get-in-the-butt-bunker-pretend-pvz-proxy-icyfar-g2/",
+      "originalUrl": "https://youtube.com/watch?v=QpZtJlQ-t7A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QpZtJlQ-t7A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M43S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QpZtJlQ-t7A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-gg-please-stop-the-florencio-files-65.md",
       "title": "StarCraft 2 - “GG, please stop” | The Florencio Files #65",
       "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
@@ -871,37 +902,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-11-08T03:24:31-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-how-to-crush-a-cannon-battery-cheese-diamond-in-the-ruff-26.md",
-      "title": "StarCraft 2 - How to Crush a CANNON BATTERY CHEESE | Diamond in the Ruff #26",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Protoss opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-how-to-crush-a-cannon-battery-cheese-diamond-in-the-ruff-26/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-how-to-crush-a-cannon-battery-cheese-diamond-in-the-ruff-26/",
-      "originalUrl": "https://youtube.com/watch?v=X0yrS1oZIn8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X0yrS1oZIn8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M38S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/X0yrS1oZIn8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-12-26T09:00:24-08:00"
     }
   ],
   "nextPage": 80

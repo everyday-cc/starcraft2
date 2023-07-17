@@ -4,23 +4,23 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft.md",
-      "title": "Beginner Zerg Opening - Welcome to Starcraft",
-      "excerpt": "Sorry for the delay Guys, here's your \"last video\"!    Full Playlist(Videos may not be released yet) https://www.youtube.com/playlist?list=PLFUDU8AOevUfLTtmAeBf1mvJ1VIa7dy0g  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos dont appear in your feed and you want to get notified",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-beginner-zerg-opening-welcome-to-starcraft/",
-      "originalUrl": "https://youtube.com/watch?v=LQiqiMcbpGA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LQiqiMcbpGA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M14S",
+      "path": "_learning/videos/pig-be-a-tiger-in-the-grass-creep-overlords-and-ambushes-coaching-masters-zerg.md",
+      "title": "“Be a Tiger in the Grass!” Creep, overlords and Ambushes | Coaching Masters Zerg",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-be-a-tiger-in-the-grass-creep-overlords-and-ambushes-coaching-masters-zerg/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-be-a-tiger-in-the-grass-creep-overlords-and-ambushes-coaching-masters-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=OjEn1vFRTQ0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OjEn1vFRTQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H15M22S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2019-04-29T00:51:40-07:00",
+      "publishedDateTime": "2020-06-06T09:00:16-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/LQiqiMcbpGA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OjEn1vFRTQ0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -115,6 +115,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/gBJPF3xvJfw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-can-you-beat-grandmasters-with-bronze-builds-from-pigs-b2gm-starcraft-2.md",
+      "title": "Can you beat Grandmasters with Bronze Builds? (from PiG’s B2GM) - StarCraft 2",
+      "excerpt": "Some people think B2GM Bronze or Silver builds don't work, so I used them in Grandmaster games to show just how effective they can be! Watch the Bronze to GM Playlists: Zerg B2GM : https://youtube.com/playlist?list=PLFUDU8AOevUd6ej64SOB429mHyuRL-XC9 Terran B2GM: https://www.youtube.com/playlist?list=PLOrKQEirgvjC6wYzKFAYaIBI5kaIS9NX5",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-can-you-beat-grandmasters-with-bronze-builds-from-pigs-b2gm-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-can-you-beat-grandmasters-with-bronze-builds-from-pigs-b2gm-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=7OnKLUBf35U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7OnKLUBf35U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M46S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-05-18T03:20:43-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7OnKLUBf35U/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -905,37 +936,6 @@
           "url": "https://i.ytimg.com/vi/01uJkWHF9SQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-dont-be-a-sissy-zerg-plat-coaching.md",
-      "title": "\"Don't be a sissy\" - Zerg Plat Coaching",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-dont-be-a-sissy-zerg-plat-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-dont-be-a-sissy-zerg-plat-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=fkT90i3_HIg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fkT90i3_HIg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H15M15S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-04-21T07:46:30-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fkT90i3_HIg/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],

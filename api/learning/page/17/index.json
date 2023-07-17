@@ -4,6 +4,97 @@
   "page": 17,
   "value": [
     {
+      "path": "_learning/videos/pig-map-control-positioning-beginner-basics-daily-97.md",
+      "title": "Map Control + Positioning - Beginner Basics Daily #97",
+      "excerpt": "THIS WEEKS ICYFAR: Send through your replays playing “Knife Fight in a Phone Booth - You can't go above 40 workers ever”. The more back and forth or creative the better! Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as title! Lastest submission until the second daily of the week.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-map-control-positioning-beginner-basics-daily-97/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-map-control-positioning-beginner-basics-daily-97/",
+      "originalUrl": "https://youtube.com/watch?v=Enzt6HHtTd4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Enzt6HHtTd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M22S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2016-12-11T21:17:25-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Enzt6HHtTd4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-mass-roach-hydra-silver-1gold3-zerg-coaching.md",
+      "title": "Mass Roach Hydra | Silver 1/Gold3 Zerg Coaching",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-mass-roach-hydra-silver-1gold3-zerg-coaching/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-mass-roach-hydra-silver-1gold3-zerg-coaching/",
+      "originalUrl": "https://youtube.com/watch?v=-sPhbtbC_bs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-sPhbtbC_bs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H3M17S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-28T09:00:04-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-sPhbtbC_bs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-masters-coaching-highlight-how-to-direct-improvement-with-macro-play.md",
+      "title": "Masters Coaching Highlight - How to direct improvement with macro play",
+      "excerpt": "I go over the key points of finding ways to improve with macro play: Looking at 1) Macro, 2) Scouting, 3) Understanding other races builds and tells 4)  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-masters-coaching-highlight-how-to-direct-improvement-with-macro-play/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-masters-coaching-highlight-how-to-direct-improvement-with-macro-play/",
+      "originalUrl": "https://youtube.com/watch?v=JOtehbZI-jA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JOtehbZI-jA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M12S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-04-24T01:45:47-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JOtehbZI-jA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-mechanics-and-settings-coaching-protoss-d1.md",
       "title": "Mechanics and Settings | Coaching Protoss D1",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -617,6 +708,38 @@
       ]
     },
     {
+      "path": "_learning/videos/pig-pig-shows-how-to-deal-with-widow-mines-as-zerg-and-protoss-newbie-stream.md",
+      "title": "PiG Shows how to deal with widow mines as Zerg and Protoss - Newbie Stream",
+      "excerpt": "This is a section from my newbie/beginner stream where I analyse a players replay and answer their question. Notes that are shown on screen at some points: https://docs.google.com/document/d/1C87ZA4Zmsx9gaEdbYcDOmJZKe22XzORWQIlZN4AClpI/edit?usp=sharing  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-pig-shows-how-to-deal-with-widow-mines-as-zerg-and-protoss-newbie-stream/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-pig-shows-how-to-deal-with-widow-mines-as-zerg-and-protoss-newbie-stream/",
+      "originalUrl": "https://youtube.com/watch?v=nFigmzM_8Zk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nFigmzM_8Zk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M17S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-12-21T00:44:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nFigmzM_8Zk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-pig-shows-how-to-scout-and-set-up-map-vision-in-zvp-newbie-stream.md",
       "title": "PiG Shows how to scout and set up map vision in ZvP - Newbie Stream",
       "excerpt": "This is a section from my newbie/beginner stream where I analyse a players replay and answer their question. Notes that are shown on screen at some points: https://docs.google.com/document/d/1C87ZA4Zmsx9gaEdbYcDOmJZKe22XzORWQIlZN4AClpI/edit?usp=sharing -- Watch live at https://www.twitch.tv/x5_pig",
@@ -800,130 +923,6 @@
       "topics": [
         "StarCraft 2",
         "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-pvp-coaching-diamond-3-charge-immortal-macro-style.md",
-      "title": "PvP Coaching (Diamond 3) - Charge-Immortal macro style",
-      "excerpt": "A PvP coaching session! We look at how to strengthen Steve's earlygame and how to make his chargelot-immortal style work -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-pvp-coaching-diamond-3-charge-immortal-macro-style/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-pvp-coaching-diamond-3-charge-immortal-macro-style/",
-      "originalUrl": "https://youtube.com/watch?v=UZlNLg01BG8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UZlNLg01BG8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H7M21S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-03-25T23:29:14-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UZlNLg01BG8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-pvt-blink-collosus-coaching-masters-3.md",
-      "title": "PvT Blink Collosus | Coaching Masters 3",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-pvt-blink-collosus-coaching-masters-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-pvt-blink-collosus-coaching-masters-3/",
-      "originalUrl": "https://youtube.com/watch?v=wfFJ9110Zoc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wfFJ9110Zoc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H15M33S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-02-16T09:00:18-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wfFJ9110Zoc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-pvt-overextensions-securing-lategame-econ-and-hitting-hard-timings-coaching-d1.md",
-      "title": "PvT Overextensions, Securing lategame Econ and Hitting Hard Timings -  Coaching D1",
-      "excerpt": "Just a nice, solid Protoss vs Terran Coaching covering important aspects that are sometimes overlooked! ;)  -- Watch live at https://www.twitch.tv/x5_pig My NEW HP: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-pvt-overextensions-securing-lategame-econ-and-hitting-hard-timings-coaching-d1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-pvt-overextensions-securing-lategame-econ-and-hitting-hard-timings-coaching-d1/",
-      "originalUrl": "https://youtube.com/watch?v=kHy04E7Bewc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kHy04E7Bewc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H19M39S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-02-27T15:53:16-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kHy04E7Bewc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-pvz-defining-our-baseline-disrupting-the-zerg-and-winning-at-macro-masters-3-coaching.md",
-      "title": "PvZ - Defining our Baseline, Disrupting the Zerg and WINNING at macro - masters 3 Coaching",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-pvz-defining-our-baseline-disrupting-the-zerg-and-winning-at-macro-masters-3-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-pvz-defining-our-baseline-disrupting-the-zerg-and-winning-at-macro-masters-3-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=kRGDdUam69g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kRGDdUam69g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H5M25S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-08-07T09:00:08-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kRGDdUam69g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
         "Zerg"
       ]
     }

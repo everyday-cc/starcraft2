@@ -4,6 +4,94 @@
   "page": 71,
   "value": [
     {
+      "path": "_games/pig-no-upgrades-i-cast-your-freakin-awesome-replays-g2-the-pig-daily-171.md",
+      "title": "No Upgrades - I Cast Your Freakin Awesome Replays - G2 - The PiG Daily #171",
+      "excerpt": "In this week’s ICYFAR players had to win without making any attack or armour upgrades! ICYFAR is a fun weekly challenge where I cast games submitted by viewers of all skill levels.\r  \r Follow me on social media to keep up to date: https://twitter.com/x5_PiG https://twitter.com/x5_PiG https://www.instagram.com/pigsc2/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-no-upgrades-i-cast-your-freakin-awesome-replays-g2-the-pig-daily-171/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-no-upgrades-i-cast-your-freakin-awesome-replays-g2-the-pig-daily-171/",
+      "originalUrl": "https://youtube.com/watch?v=HjqSaE1QNCI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HjqSaE1QNCI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M5S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HjqSaE1QNCI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-no-upgrades-i-cast-your-freakin-awesome-replays-g3-the-pig-daily-171.md",
+      "title": "No Upgrades - I Cast Your Freakin Awesome Replays - G3 - The PiG Daily #171",
+      "excerpt": "In this week’s ICYFAR players had to win without making any attack or armour upgrades! ICYFAR is a fun weekly challenge where I cast games submitted by viewers of all skill levels.\r  \r Follow me on social media to keep up to date: https://twitter.com/x5_PiG https://twitter.com/x5_PiG https://www.instagram.com/pigsc2/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-no-upgrades-i-cast-your-freakin-awesome-replays-g3-the-pig-daily-171/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-no-upgrades-i-cast-your-freakin-awesome-replays-g3-the-pig-daily-171/",
+      "originalUrl": "https://youtube.com/watch?v=l_CQx1KpBaU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l_CQx1KpBaU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M26S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/l_CQx1KpBaU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-noob-outsmarts-reynor-in-the-holdout-challenge-starcraft-2.md",
+      "title": "Noob OUTSMARTS Reynor in the Holdout Challenge! - StarCraft 2",
+      "excerpt": "We paid Reynor to 1v1 noobs in StarCraft 2. The challenge: the noobs needed to stay in the match for as long as possible. How did they fare against an actual Zerg Championship player?  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j  Holdout Scoresheet:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-noob-outsmarts-reynor-in-the-holdout-challenge-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-noob-outsmarts-reynor-in-the-holdout-challenge-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=s-B2c4N1SpU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s-B2c4N1SpU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M7S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/s-B2c4N1SpU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-19T22:08:52-07:00"
+    },
+    {
       "path": "_games/pig-nukes-in-the-backdoor-one-two-punch-icyfar-g2.md",
       "title": "Nukes in the backdoor! - One-Two Punch ICYFAR G2",
       "excerpt": "Hey guys! we are back with a new person in charge of ICYFAR, yes this means that the email for submissions HAS CHANGED! In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were setting 2 (or more) pronged attacks in honor of eonblu!   CURRENT",
@@ -597,36 +685,6 @@
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
     },
     {
-      "path": "_games/pig-pf-rushing-a-guy-doing-a-mothership-rush-starcraft-2.md",
-      "title": "PF Rushing a guy doing a MOTHERSHIP RUSH | StarCraft 2",
-      "excerpt": "PiG does a planetary fortress rush against ladder opponent, HesiJimbo, who was doing a mothership rush! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-pf-rushing-a-guy-doing-a-mothership-rush-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-pf-rushing-a-guy-doing-a-mothership-rush-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=1esJE7KFBgI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1esJE7KFBgI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M6S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1esJE7KFBgI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-21T23:44:05-07:00"
-    },
-    {
       "path": "_games/pig-pheonix-surround-360-noscope-icyfar-g3.md",
       "title": "Pheonix SURROUND!? | 360 Noscope ICYFAR G3",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they set up flanks and surrounds to crush their enemies.  \"Surgical Warfare\" - Minimise your losses and try to achieve the cleanest victory possible! Even if it devolves into a shitshow, send it",
@@ -832,64 +890,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-pig-has-a-stroke-the-no-swearing-challenge-icyfar-backstabs-compilation.md",
-      "title": "PiG HAS A STROKE - THE NO SWEARING CHALLENGE | ICYFAR \"Backstabs!\" Compilation",
-      "excerpt": "Can PiG go just 1 hour without swearing (or using crude language or innuendos)? Seriously hilarious challenge for PiG only, because no one else relies so much on swearing and innuendos like he does! The penalty for each infraction was adding 150 seconds to the subathon timer.  0:00 Game 1 30:31 Game",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-pig-has-a-stroke-the-no-swearing-challenge-icyfar-backstabs-compilation/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-pig-has-a-stroke-the-no-swearing-challenge-icyfar-backstabs-compilation/",
-      "originalUrl": "https://youtube.com/watch?v=L9lHOmkhGcI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L9lHOmkhGcI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M47S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/L9lHOmkhGcI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-pig-im-a-baboon-i-know-nothing-about-starcraft-guess-the-mmr-2.md",
-      "title": "PiG: I’m a baboon, I know nothing about Starcraft! | Guess the MMR #2",
-      "excerpt": "*NEW SHOW* Guess the MMR: PiG will attempt to guess your exact MMR! Send your replay to RateMyStarcraft@gmail.com with \"Guess the MMR\" in the title + in the body add your IGN & MMR & region (e.g. Maru, 3600, EU). Name your replay in the format: IGN - Server (e.g. Maru - EU)  This was inspired by Harstem’s",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-pig-im-a-baboon-i-know-nothing-about-starcraft-guess-the-mmr-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-pig-im-a-baboon-i-know-nothing-about-starcraft-guess-the-mmr-2/",
-      "originalUrl": "https://youtube.com/watch?v=XAAsncF6JMM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XAAsncF6JMM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M55S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XAAsncF6JMM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-04-06T21:15:45-07:00"
     }
   ],
   "nextPage": 72

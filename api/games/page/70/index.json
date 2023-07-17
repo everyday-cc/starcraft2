@@ -4,6 +4,64 @@
   "page": 70,
   "value": [
     {
+      "path": "_games/pig-morphing-broodlords-inside-their-base-destroy-the-production-icyfar-g1.md",
+      "title": "Morphing Broodlords INSIDE THEIR BASE! | Destroy the Production ICYFAR G1",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they destroyed the means of production! Here’s a fun game of zerg versus terran completing the challenge in humorous fashion.  NEW ICYFAR CHALLENGE: Fighting Retreat - Set yourself up",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-morphing-broodlords-inside-their-base-destroy-the-production-icyfar-g1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-morphing-broodlords-inside-their-base-destroy-the-production-icyfar-g1/",
+      "originalUrl": "https://youtube.com/watch?v=W6sc9UafbCY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W6sc9UafbCY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M29S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/W6sc9UafbCY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-most-ridiculous-sc2-game-ive-cast-this-year-icyfar-g3.md",
+      "title": "MOST RIDICULOUS SC2 GAME I’VE CAST THIS YEAR | ICYFAR G3",
+      "excerpt": "I'm not joking - this was a ridiculous SC2 game.  In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they lured their opponents into a fighting retreat! Here’s a fun game of zerg versus terran completing the challenge in humorous fashion.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-most-ridiculous-sc2-game-ive-cast-this-year-icyfar-g3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-most-ridiculous-sc2-game-ive-cast-this-year-icyfar-g3/",
+      "originalUrl": "https://youtube.com/watch?v=tYKSiGBrtck",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tYKSiGBrtck\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M19S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tYKSiGBrtck/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-mothership-recall-into-the-main-twitch-plays-pig-47.md",
       "title": "Mothership Recall into the Main! | Twitch Plays PiG #47",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -844,65 +902,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-19T22:08:52-07:00"
-    },
-    {
-      "path": "_games/pig-nukes-in-the-backdoor-one-two-punch-icyfar-g2.md",
-      "title": "Nukes in the backdoor! - One-Two Punch ICYFAR G2",
-      "excerpt": "Hey guys! we are back with a new person in charge of ICYFAR, yes this means that the email for submissions HAS CHANGED! In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were setting 2 (or more) pronged attacks in honor of eonblu!   CURRENT",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-nukes-in-the-backdoor-one-two-punch-icyfar-g2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-nukes-in-the-backdoor-one-two-punch-icyfar-g2/",
-      "originalUrl": "https://youtube.com/watch?v=dFstzz9XJi0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dFstzz9XJi0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M40S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dFstzz9XJi0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-nydus-affairs-2-part-rate-my-starcraft-2.md",
-      "title": "NYDUS AFFAIRS (2-part) | Rate My StarCraft #2",
-      "excerpt": "Here's a 2-part episode of Rate my Starcraft, featuring some crafty backdoor surprises! Thanks for the fun submissions guys, looking forward to doing the next one :D  🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your awesome StarCraft plays. Send",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-nydus-affairs-2-part-rate-my-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-nydus-affairs-2-part-rate-my-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=W5lh_W3rxtY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W5lh_W3rxtY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/W5lh_W3rxtY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:47:22-07:00"
     }
   ],
   "nextPage": 71

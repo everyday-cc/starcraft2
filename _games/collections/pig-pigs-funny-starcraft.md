@@ -1052,6 +1052,7 @@ items:
   - pig-wings-of-liberty-nightmare-difficulty-the-great-train-robbery-part-8-starcraft-2
   - pig-dumb-proxy-rax-leaves-zerg-utterly-bewildered-icyfar-weird-harassment-starcraft-2
   - pig-wings-of-liberty-nightmare-difficulty-1st-protoss-mission-whispers-of-doom-part-9-starcraft-2
+  - pig-how-quickly-can-harstem-dispose-of-noobs-part-1-holdout-challenge-starcraft-2
 
 topics:
   - StarCraft 2

@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=ShriKBcuZto
 type: video
 length: PT1H14M41S
 publishedDateTime: 2021-08-05T11:58:49Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ShriKBcuZto\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "fl3X2718JoHqQSXG83ui7vWuhwDQcAIjBIg58ssxUjG7UqYfQy/EcFxhGzTrbCDo7PhacKDnmQN4sdhKip02ieZjWKrcKnNYchmnAO8gmYwtxBtrRhVH5HL8pegDmpt2nRw+JhPsvwLe4ma6pIiKKCZ+zJw74wLELiLyHfTbmFxipC3CQD1EnW4xOV6kU03Bp4k6jxWMQ7lylcuGSaZDQ39hzRD98dDOd11z1cz2dH/HRdqW53Jpj19lTp+nMUPpPS+TNuf1XZYfW7R4puvXgd/15/8b+1OOwpt7GHkMPgTKD2/W0jzf31LH9dfj7mD6WMfxjGYDZunQelxlSRIrXDpZrRqLWDfUYu6811lrnB7mZtxIkC2fWWNlCL5IDN69RUOc+e/yh54HDqw5CLqA/g6GzuGVFs+sMlTWDuLgkouQypdS9KaTd8a0hhCtzW0K;sexuuhmyj4+wet8V+O+zrA=="
+secured: "q/DyayIcVw3IP76YqFhWDQPqLGm3DUY4HZwvfUL8GqBNKRjf5sjpNH0YAfcd3PPb5BOvL//NmKNvAmTWlF9iniNzmlDSOkviFS15KWzJdpbwyMFMOTpZ98wH9sxRLdM+CupGBXjDMktoBRgCXSOp9NQWOx/S1LjZOorqerK7IejpJAU/PomgbpKJA+if/dG9SDl2hKUIpvTuW5PC9QBxMunPkEAFhPwRp4kbkFKwYnWGio/J6CbUtrIYjGMeWlB/SPvI0hT/ji2fck5QpDbS2LZyi0tLv1yLpde9KmwHLvlWUk9+7n3U5M0ZgyqSTb1r3j2ZEKSpisUy9N2tOuxMTH3wH0yVWB+6DlWGiXtWuBQOjPBAOqy4DS0j7DSB2DO9L3Qk/3RO4mu7EcIkxpoHN2reG2k0ue+g2KZOimgeE+c=;XlRZJOeP4cUKHDE2TpSjPw=="
 ---
 

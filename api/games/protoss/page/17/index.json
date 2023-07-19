@@ -4,84 +4,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-storm-drops-mana-vs-special.md",
-      "title": "StarCraft 2: STORM DROPS! (MaNa vs SpeCial)",
-      "excerpt": "Amazing game of professional Terran versus Protoss in StarCraft 2. This game is a constant back-and-forth between some of the best players outside of South Korea. One of the highlights are multiple storm drops that the Protoss player executes with a Warp Prism and several High Templar with Psionic Storm.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-storm-drops-mana-vs-special/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-storm-drops-mana-vs-special/",
-      "originalUrl": "https://youtube.com/watch?v=uWV0UC7SjkI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uWV0UC7SjkI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M14S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uWV0UC7SjkI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-12-27T10:07:42-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-strange-build-orders-serral-vs-neeb.md",
-      "title": "StarCraft 2: STRANGE BUILD ORDERS! (Serral vs Neeb)",
-      "excerpt": "Serral versus Neeb in a best-of-3 series of professional StarCraft 2. These games are a little bit different than what we normally see in StarCraft 2. Serral, who is well known to be the best player in StarCraft 2, decides to mix it up in these games and tech up towards  a Lair significantly quicker",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-strange-build-orders-serral-vs-neeb/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-strange-build-orders-serral-vs-neeb/",
-      "originalUrl": "https://youtube.com/watch?v=J11BdN1O3Ds",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J11BdN1O3Ds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M27S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/J11BdN1O3Ds/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-13T03:25:30-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-tactical-nukes-against-protoss.md",
       "title": "StarCraft 2: Tactical Nukes Against Protoss!",
       "excerpt": "Insane game of professional StarCraft 2 between Dream and Creator. One of the best matches of Terran versus Protoss I've seen recently.  Get more videos & support my work: http://www.patreon.com/lowkotv  Support Olimoleague and Korean StarCraft 2: https://www.patreon.com/olimoley  My second channel:",
@@ -1158,6 +1080,83 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-27T03:17:51-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-new-normal-reynor-vs-stats.md",
+      "title": "StarCraft 2: THE NEW NORMAL! (Reynor vs Stats)",
+      "excerpt": "Amazingly close game of professional StarCraft 2 between Reynor and Stats. This game starts off awkwardly as Reynor is forced right away to take his third base as his first expansion. Stats follows it up with a lethal Adept push but also a very late third base. The game very quickly turns into a chaotic",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-new-normal-reynor-vs-stats/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-new-normal-reynor-vs-stats/",
+      "originalUrl": "https://youtube.com/watch?v=4vvY5jmWU58",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4vvY5jmWU58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M25S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4vvY5jmWU58/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-07-20T03:54:17-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-new-world-champion-vs-hero-the-best-protoss-best-of-5.md",
+      "title": "StarCraft 2: The NEW World Champion vs herO, the BEST Protoss! (Best-of-5)",
+      "excerpt": "Best-of-5 series of high level StarCraft 2 between Oliveira (Terran) and herO (Protoss). While herO has been more succesful over the last few years, Oliveira recently won IEM Katowice and is therefore the current StarCraft 2 World Champion.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-new-world-champion-vs-hero-the-best-protoss-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-new-world-champion-vs-hero-the-best-protoss-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=Wt1Mf1TQqpM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Wt1Mf1TQqpM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M58S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Wt1Mf1TQqpM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-03T03:47:15-08:00"
     }
   ],
   "nextPage": 18

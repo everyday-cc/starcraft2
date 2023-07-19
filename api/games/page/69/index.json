@@ -4,39 +4,6 @@
   "page": 69,
   "value": [
     {
-      "path": "_games/pig-lasers-pvt-twitch-plays-pig-2.md",
-      "title": "LASERS! - PvT | Twitch Plays PiG #2",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-lasers-pvt-twitch-plays-pig-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-lasers-pvt-twitch-plays-pig-2/",
-      "originalUrl": "https://youtube.com/watch?v=Ie2UzSEU6SE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ie2UzSEU6SE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M37S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ie2UzSEU6SE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-06-21T07:24:38-07:00"
-    },
-    {
       "path": "_games/pig-like-a-boss-asserting-dominance-icyfar-g2.md",
       "title": "Like a Boss! | Asserting Dominance ICYFAR G2",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they announced their strategy to the opponent.   NEW ICYFAR CHALLENGE: \"Down and Dirty\" - You can't go past 35 workers! Send submissions to fluxiorsc@gmail.com as attachment AND only ICYFAR as the",
@@ -830,6 +797,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-07-23T14:00:05-07:00"
+    },
+    {
+      "path": "_games/pig-motorboating-immortal-king-of-cannons-2-starcraft-2.md",
+      "title": "Motorboating immortal! | King of Cannons #2 - StarCraft 2",
+      "excerpt": "Seems like we got ANOTHER new series bois(n girls), The King of Cannons!  be sure to follow him on, Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng  Like the content? Then consider to leave a thumbs",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-motorboating-immortal-king-of-cannons-2-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-motorboating-immortal-king-of-cannons-2-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=tH89RWEr_wY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tH89RWEr_wY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M43S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tH89RWEr_wY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-14T23:13:16-07:00"
     },
     {
       "path": "_games/pig-motorboating-immortal-king-of-cannons-2.md",

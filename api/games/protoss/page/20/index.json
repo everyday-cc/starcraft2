@@ -4,39 +4,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_games/pig-cannon-and-nexus-rush-twitch-plays-pig-7.md",
-      "title": "Cannon AND Nexus rush?  | Twitch Plays PiG #7",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-cannon-and-nexus-rush-twitch-plays-pig-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-cannon-and-nexus-rush-twitch-plays-pig-7/",
-      "originalUrl": "https://youtube.com/watch?v=_csoTK6apb0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_csoTK6apb0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M4S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_csoTK6apb0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-09-30T22:04:11-07:00"
-    },
-    {
       "path": "_games/pig-cannon-rush-into-complete-chaos-bet-u-cant-guess-who-wins-king-of-cannons-22-starcraft-2.md",
       "title": "Cannon rush into COMPLETE CHAOS! (Bet u can’t guess who wins) | King of Cannons #22 - StarCraft  2",
       "excerpt": "Cannon rushes all day erry day! Watch printF, the KING of Cannons, do what he does best on the StarCraft 2 ladder  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf PrintF’s youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng",
@@ -577,6 +544,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-07-23T14:00:05-07:00"
+    },
+    {
+      "path": "_games/pig-motorboating-immortal-king-of-cannons-2-starcraft-2.md",
+      "title": "Motorboating immortal! | King of Cannons #2 - StarCraft 2",
+      "excerpt": "Seems like we got ANOTHER new series bois(n girls), The King of Cannons!  be sure to follow him on, Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng  Like the content? Then consider to leave a thumbs",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-motorboating-immortal-king-of-cannons-2-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-motorboating-immortal-king-of-cannons-2-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=tH89RWEr_wY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tH89RWEr_wY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M43S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tH89RWEr_wY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-14T23:13:16-07:00"
     },
     {
       "path": "_games/pig-motorboating-immortal-king-of-cannons-2.md",

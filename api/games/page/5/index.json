@@ -4,6 +4,77 @@
   "page": 5,
   "value": [
     {
+      "path": "_games/pig-this-is-a-ridiculously-intense-game-of-starcraft-king-of-cannons-22-starcraft-2.md",
+      "title": "This is a RIDICULOUSLY INTENSE game of Starcraft! | King of Cannons #22 - StarCraft  2",
+      "excerpt": "Cannon rushes all day erry day! Watch printF, the KING of Cannons, do what he does best on the StarCraft 2 ladder  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf PrintF’s youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-is-a-ridiculously-intense-game-of-starcraft-king-of-cannons-22-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-is-a-ridiculously-intense-game-of-starcraft-king-of-cannons-22-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=jLaY4W0uW8M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jLaY4W0uW8M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M6S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 69,
+      "tags": [
+        "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jLaY4W0uW8M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-04T22:47:02-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-epic-match-clem-vs-dark-best-of-7.md",
+      "title": "StarCraft 2: EPIC MATCH - Clem vs Dark! (Best-of-7)",
+      "excerpt": "Epic match of professional StarCraft 2 between Clem and Dark. In this best-of-7 series from the TSL 7 we watch two top level pro gamers fight it out in some very clever games. Clem doesn't really lose Terran versus Zerg in Europe anymore, but Dark plays a Korean version of ZvT that's different than what",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-match-clem-vs-dark-best-of-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-match-clem-vs-dark-best-of-7/",
+      "originalUrl": "https://youtube.com/watch?v=EWWcg5XNqzM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EWWcg5XNqzM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H31M51S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EWWcg5XNqzM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-02T04:57:54-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-europes-strongest-terran-vs-the-number-1-protoss-clem-vs-maxpax.md",
       "title": "StarCraft 2: EUROPE's Strongest Terran vs the Number 1 Protoss! (Clem vs MaxPax)",
       "excerpt": "Best-of-3 series of high level StarCraft 2 between Clem (Terran) and MaxPax (Protoss). All games in this best-of-3 series are played on the maps from the Team Liquid Map Contest (TLMC). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
@@ -41,44 +112,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-06-22T04:34:37-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-epic-match-clem-vs-dark-best-of-7.md",
-      "title": "StarCraft 2: EPIC MATCH - Clem vs Dark! (Best-of-7)",
-      "excerpt": "Epic match of professional StarCraft 2 between Clem and Dark. In this best-of-7 series from the TSL 7 we watch two top level pro gamers fight it out in some very clever games. Clem doesn't really lose Terran versus Zerg in Europe anymore, but Dark plays a Korean version of ZvT that's different than what",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-match-clem-vs-dark-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-match-clem-vs-dark-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=EWWcg5XNqzM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EWWcg5XNqzM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H31M51S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 67,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EWWcg5XNqzM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-02T04:57:54-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-back-to-back-to-back-cheese-spirit-vs-elazer.md",
@@ -672,44 +705,6 @@
       "publishedDateTime": "2023-05-03T22:28:52-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-brilliant-game-1-maxpax-byuns-non-stop-aggression-best-of-3.md",
-      "title": "StarCraft 2: BRILLIANT GAME 1 - MaxPax & ByuN's Non-Stop Aggression! (Best-of-3)",
-      "excerpt": "Brilliant best-of-3 series of StarCraft 2 between ByuN and MaxPax, where both players decide to play as aggressively as possible. In this Terran versus Protoss neither player sits back and macros up, instead we get non-stop action throughout the series. Support my work: https://patreon.com/lowkotv Lowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-brilliant-game-1-maxpax-byuns-non-stop-aggression-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-brilliant-game-1-maxpax-byuns-non-stop-aggression-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=YKkH8S6lh8Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YKkH8S6lh8Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT52M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YKkH8S6lh8Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-05T04:56:20-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-just-epic-dark-is-a-monster-vs-clem.md",
       "title": "StarCraft 2: JUST EPIC - Dark is a MONSTER vs Clem!",
       "excerpt": "Amazing game of StarCraft 2 between Dark (Zerg) and Clem (Terran).  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips    Twitch livestream: https://twitch.tv/lowkotv Live most days 2-8 PM CET / CEST  The hardware I use:",
@@ -1037,25 +1032,35 @@
       "publishedDateTime": "2023-06-06T02:52:48-07:00"
     },
     {
-      "path": "_games/pig-artosis-plays-sc2-for-the-first-time-in-6-years.md",
-      "title": "ARTOSIS plays SC2 for the first time in 6 YEARS",
-      "excerpt": "@ArtosisTV  was playing StarCraft 2 for the first time in years! Give him a follow and check out his SC2 stream vod: https://www.twitch.tv/videos/1840460541 -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-artosis-plays-sc2-for-the-first-time-in-6-years/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-artosis-plays-sc2-for-the-first-time-in-6-years/",
-      "originalUrl": "https://youtube.com/watch?v=cw3dxjXOas0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cw3dxjXOas0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M29S",
+      "path": "_games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul.md",
+      "title": "StarCraft 2: PROFESSIONAL 2v2?! (Maru & sOs vs MaxPax & souL)",
+      "excerpt": "The standard competitive mode in StarCraft 2 is 1v1. However the OlimoLeague recently put on an event where they invited three teams of progamers to face off in a 2v2 (2 vs 2) event. In this video I cast a best-of-5 between Maru and sOs on one team, and MaxPax and souL on the other.  OlimoLeague on Patreon:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-professional-2v2-maru-sos-vs-maxpax-soul/",
+      "originalUrl": "https://youtube.com/watch?v=qk3OKS90ckA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qk3OKS90ckA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H7M4S",
       "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
       ],
       "heat": 61,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/cw3dxjXOas0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qk3OKS90ckA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1063,7 +1068,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-06-09T02:54:24-07:00"
+      "publishedDateTime": "2021-07-29T04:34:49-07:00"
     }
   ],
   "nextPage": 6

@@ -4,160 +4,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-cheesiest-series-ever-showtime-vs-maxpax.md",
-      "title": "StarCraft 2: Cheesiest Series EVER?! (ShoWTimE vs MaxPax)",
-      "excerpt": "Extremely cheesy series of Protoss versus Protoss in StarCraft 2 between ShoWTimE and MaxPax.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cheesiest-series-ever-showtime-vs-maxpax/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cheesiest-series-ever-showtime-vs-maxpax/",
-      "originalUrl": "https://youtube.com/watch?v=UVEpX2i5668",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UVEpX2i5668\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M51S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UVEpX2i5668/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-12-12T02:43:08-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-clash-of-legends-maru-vs-zest.md",
-      "title": "StarCraft 2: Clash of Legends - Maru vs Zest!",
-      "excerpt": "A sick game of top-level professional StarCraft 2 between Maru and Zest.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-clash-of-legends-maru-vs-zest/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-clash-of-legends-maru-vs-zest/",
-      "originalUrl": "https://youtube.com/watch?v=zZPHjzdz3TU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zZPHjzdz3TU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zZPHjzdz3TU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-13T01:56:07-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-classics-double-gateway-cheese-best-of-5.md",
-      "title": "StarCraft 2: Classic's DOUBLE GATEWAY Cheese! (Best-of-5)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between Classic (Protoss) and Cure (Terran). In this series Classic is the one who decides to play hyper aggressively with some powerful Protoss cheeses.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-classics-double-gateway-cheese-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-classics-double-gateway-cheese-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=jwtXY3vum04",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jwtXY3vum04\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M6S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jwtXY3vum04/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-03-30T09:32:19-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-classics-probe-army-vs-byun.md",
-      "title": "StarCraft 2: Classic’s PROBE ARMY vs ByuN!",
-      "excerpt": "Amazing game of Protoss versus Terran in StarCraft 2 between Classic and ByuN. While Classic can build up his ultimate Protoss deathball, ByuN refuses to lose to it because of ridiculously good micro.  Early morning StarCraft (video from 2013): https://youtu.be/9_8gR2crUw0  Support my work on Patreon:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-classics-probe-army-vs-byun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-classics-probe-army-vs-byun/",
-      "originalUrl": "https://youtube.com/watch?v=e6InC7Cr1_U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e6InC7Cr1_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/e6InC7Cr1_U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-05-10T03:03:07-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-clems-epicly-useless-micro-trick-vs-neeb-best-of-5.md",
       "title": "StarCraft 2: Clem's EPIC(LY USELESS) Micro Trick vs Neeb! (Best-of-5)",
       "excerpt": "Best-of-5 series of professional StarCraft 2 between Clem (Terran) and Neeb (Protoss).  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips: https://www.youtube.com/lowkoclips  Be part of the",
@@ -426,6 +272,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-21T03:28:00-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-dark-vs-zest-ultras-vs-protoss-best-of-5.md",
+      "title": "StarCraft 2: Dark vs Zest - ULTRAS vs Protoss?! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Dark and Zest. In this match we see both players constantly trying to outsmart each other with a variety of tactics, strategies and unit compositions.  Dark vs Zest on Beckett Industries: https://youtu.be/mUG5ryGpiV8  Support my work on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-dark-vs-zest-ultras-vs-protoss-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-dark-vs-zest-ultras-vs-protoss-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=NMlt6yJ-iKk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NMlt6yJ-iKk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H6M21S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NMlt6yJ-iKk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-22T03:28:09-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-darks-100-mutalisks-vs-skytoss-showtime-vs-dark.md",
@@ -1163,6 +1048,123 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-08-10T03:20:57-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-epic-terran-vs-protoss-bo5.md",
+      "title": "StarCraft 2: EPIC Terran vs Protoss! (Bo5)",
+      "excerpt": "GuMiho vs Stats in an epic Terran versus Protoss. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Protoss: https://goo.gl/qeUdf6  This is a best-of-5 series of professional StarCraft 2. In this match-up, both players play a variety of styles. They open up aggressively and defensive, there",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-terran-vs-protoss-bo5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-terran-vs-protoss-bo5/",
+      "originalUrl": "https://youtube.com/watch?v=LY7W8dG_qDk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LY7W8dG_qDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M8S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LY7W8dG_qDk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-12-23T04:49:29-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-epic-zerg-vs-protoss.md",
+      "title": "StarCraft 2: EPIC Zerg vs Protoss!",
+      "excerpt": "Ultralisks, Brood Lords, Mothership, Carriers. An epic pro match!  Subscribe for more videos: http://lowko.tv/youtube Bunker Rush: https://goo.gl/etjR16  Easily one of the best examples of late game Zerg versus Protoss. Both players continously try to set each other up for mistakes. In the end we see",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-zerg-vs-protoss/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-zerg-vs-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=-zn8IBTY9fI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-zn8IBTY9fI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M51S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-zn8IBTY9fI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-11-29T01:36:31-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-esl-open-cup-grand-finals-gumiho-vs-zest.md",
+      "title": "StarCraft 2: ESL Open Cup Grand Finals! (GuMiho vs Zest)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between GuMiho and Zest. This series of Protoss versus Terran is the Grand Finals of the ESL Open Cup 110 Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-esl-open-cup-grand-finals-gumiho-vs-zest/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-esl-open-cup-grand-finals-gumiho-vs-zest/",
+      "originalUrl": "https://youtube.com/watch?v=Ak3cmc56gLY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ak3cmc56gLY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M12S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Ak3cmc56gLY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-02-18T04:51:45-08:00"
     }
   ],
   "nextPage": 13

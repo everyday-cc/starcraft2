@@ -4,6 +4,44 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-8x-drone-drop-spine-crawler-rush-uthermal-vs-mixu.md",
+      "title": "StarCraft 2: 8x DRONE DROP Spine Crawler Rush?! (uThermal vs Mixu)",
+      "excerpt": "Ridiculous series of high level StarCraft 2 between uThermal (Terran) and Mixu (Zerg). Rather than letting uThermal go for a Planetary Fortress Rush, Mixu decides to cheese him back with an insane Drone drop. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-8x-drone-drop-spine-crawler-rush-uthermal-vs-mixu/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-8x-drone-drop-spine-crawler-rush-uthermal-vs-mixu/",
+      "originalUrl": "https://youtube.com/watch?v=S2ZFNibZA5M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S2ZFNibZA5M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M16S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 108,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/S2ZFNibZA5M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-03T08:33:12-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",
       "title": "StarCraft 2: Erik's SURPRISES GuMiho with Zerg Drops! (Best-of-3)",
       "excerpt": "Best-of-3 series of Zerg vs Terran in StarCraft 2 between Erik and GuMiho. This is a series with some very unique Zerg strategies and build orders. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
@@ -119,43 +157,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-05-19T01:44:05-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-official-viewer-tournament.md",
-      "title": "StarCraft 2: The OFFICIAL Viewer Tournament!",
-      "excerpt": "The best games from the first viewer tournament! This video features all the best matches of StarCraft 2 that were played during the \"LowkoTV Viewer Tournament #1\".  00:00:00 Introduction 00:07:32 Game 1 00:17:02 Game 2 00:30:39 Game 3 00:47:38 Game 4 01:00:16 Game 5  01:33:26 Game 6 01:48:26 Game 7",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-official-viewer-tournament/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-official-viewer-tournament/",
-      "originalUrl": "https://youtube.com/watch?v=8e8wvUOFAGc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8e8wvUOFAGc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3H49M29S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 103,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8e8wvUOFAGc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-26T04:06:39-07:00"
     },
     {
       "path": "_games/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starlords-filthy-adventures-15-starcraft-2.md",
@@ -573,6 +574,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-28T01:10:51-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-official-viewer-tournament.md",
+      "title": "StarCraft 2: The OFFICIAL Viewer Tournament!",
+      "excerpt": "The best games from the first viewer tournament! This video features all the best matches of StarCraft 2 that were played during the \"LowkoTV Viewer Tournament #1\".  00:00:00 Introduction 00:07:32 Game 1 00:17:02 Game 2 00:30:39 Game 3 00:47:38 Game 4 01:00:16 Game 5  01:33:26 Game 6 01:48:26 Game 7",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-official-viewer-tournament/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-official-viewer-tournament/",
+      "originalUrl": "https://youtube.com/watch?v=8e8wvUOFAGc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8e8wvUOFAGc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3H49M29S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 96,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8e8wvUOFAGc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-08-26T04:06:39-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-my-biggest-baneling-hit-ever-zerg-live-games.md",
@@ -1002,43 +1040,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-03T19:13:33-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-best-games-from-the-rextor-invitational-lowko-rushi.md",
-      "title": "StarCraft 2: The BEST GAMES from the Rextor Invitational! (Lowko & Rushi)",
-      "excerpt": "In this long video Rushi and myself cast a StarCraft 2 tournament called the \"Rextor Invitational #1\". This tournament features several up-and-coming players. This video features only the best games from this event.  Rushi's Twitch stream: https://www.twitch.tv/rushisc  Support my work on Patreon: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-best-games-from-the-rextor-invitational-lowko-rushi/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-best-games-from-the-rextor-invitational-lowko-rushi/",
-      "originalUrl": "https://youtube.com/watch?v=roaM0PoXd0Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/roaM0PoXd0Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3H51M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 88,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/roaM0PoXd0Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-12T03:02:20-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-stuck-between-a-tempest-and-a-cannon-place-florencio-files-264.md",

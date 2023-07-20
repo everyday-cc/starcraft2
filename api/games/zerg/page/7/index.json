@@ -4,277 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-terran-vs-zerg-insanity-clem-vs-reynor.md",
-      "title": "StarCraft 2: TERRAN VS ZERG INSANITY! (Clem vs Reynor)",
-      "excerpt": "An insane Terran versus Zerg between Clem and Reynor at the professional level of StarCraft 2. This game showcases some of the highest level SC2 with both players constantly trying out to outsmart and outmicro the other. The skill level of the game in general is continously rising and it's noticable,",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-vs-zerg-insanity-clem-vs-reynor/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-terran-vs-zerg-insanity-clem-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=TwXQfT_0DdU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TwXQfT_0DdU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M2S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TwXQfT_0DdU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-23T02:35:20-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-honorable-macro-protoss-reynor-vs-showtime.md",
-      "title": "StarCraft 2: The Honorable MACRO PROTOSS! (Reynor vs ShoWTimE)",
-      "excerpt": "Best-of-5 series of top level European StarCraft 2 between Reynor (Zerg) and ShoWTimE (Protoss). The new patch has made Zerg versus Protoss a far more interesting matchup. Reynor has always been mid-game focused, but how does ShoWTimE deal with the change in the meta?  ShoWTimE on Twitter: https://twitter.com/showtimesc2",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-honorable-macro-protoss-reynor-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-honorable-macro-protoss-reynor-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=OxvysgnKW68",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OxvysgnKW68\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M14S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OxvysgnKW68/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-04-26T03:00:16-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-map-is-mined-out-serral-vs-neeb.md",
-      "title": "StarCraft 2: THE MAP IS MINED OUT! (Serral vs Neeb)",
-      "excerpt": "One of the craziest ladder games of StarCraft 2. In this Zerg versus Protoss between Serral and Neeb we see what the ultimate late game of this matchup currently looks like.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-map-is-mined-out-serral-vs-neeb/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-map-is-mined-out-serral-vs-neeb/",
-      "originalUrl": "https://youtube.com/watch?v=CzyL0yWehb0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CzyL0yWehb0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H6M18S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CzyL0yWehb0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-21T03:51:32-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-ultimate-late-game-neeb-vs-scarlett.md",
-      "title": "StarCraft 2: THE ULTIMATE LATE GAME! (Neeb vs Scarlett)",
-      "excerpt": "Professional best-of-3 series of StarCraft 2. In this series of games between Neeb and Scarlett we have a variety of strategies. From an epic late game match, to cheesy mind games with Carriers into a Base Race between the Protoss and the Zerg player.  Get more videos & support my work: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-ultimate-late-game-neeb-vs-scarlett/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-ultimate-late-game-neeb-vs-scarlett/",
-      "originalUrl": "https://youtube.com/watch?v=lHTMCIDGfr8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lHTMCIDGfr8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H7M6S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lHTMCIDGfr8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-01T04:20:27-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-ultimate-zerg-protoss-armies-serral-vs-harstem.md",
-      "title": "StarCraft 2: THE ULTIMATE ZERG & PROTOSS ARMIES! (Serral vs Harstem)",
-      "excerpt": "One of the longest games of professional StarCraft 2 ever played. In this Protoss versus Zerg between Harstem and Serral we see both players building their ultimate armies and taking their sides of the map.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-ultimate-zerg-protoss-armies-serral-vs-harstem/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-ultimate-zerg-protoss-armies-serral-vs-harstem/",
-      "originalUrl": "https://youtube.com/watch?v=_9LLCJYb6K4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_9LLCJYb6K4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H9M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_9LLCJYb6K4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-27T05:29:46-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-top-level-sc2-reynor-vs-clem-best-of-5.md",
-      "title": "StarCraft 2: TOP LEVEL SC2 - Reynor vs Clem! (Best-of-5)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between Reynor and Clem. AT this point I've casted these two facing off against each other dozens of times but these games always deliver.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-level-sc2-reynor-vs-clem-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-level-sc2-reynor-vs-clem-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=ShriKBcuZto",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ShriKBcuZto\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H14M41S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ShriKBcuZto/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-05T04:58:49-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-uthermals-extreme-aggression-vs-reynor-best-of-3.md",
-      "title": "StarCraft 2: uThermal's EXTREME Aggression vs Reynor! (Best-of-3)",
-      "excerpt": "uThermal decides to play a very aggressive set of games versus Reynor in StarCraft 2 with a variety of build orders and strategies.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  uThermal on Twitch: https://twitch.tv/uthermalsc2 Reynor on",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-uthermals-extreme-aggression-vs-reynor-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-uthermals-extreme-aggression-vs-reynor-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=qfD2tmhk3hQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qfD2tmhk3hQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT47M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qfD2tmhk3hQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-04-19T04:42:23-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-zests-spicy-stargate-variety-best-of-5-vs-solar.md",
       "title": "StarCraft 2: Zest's SPICY Stargate Variety! (Best-of-5 vs Solar)",
       "excerpt": "Best-of-5 series of professional StarCraft 2 between Solar (Zerg) and Zest (Protoss). In this match Zest decides to play a vareity of Stargate openers, from Void Rays to Tempests and Phoenixes. This series is the grand finals of the ESL Open Cup 108 Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv",
@@ -1037,6 +766,237 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-09-13T03:56:29-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-is-the-red-dot-bugged.md",
+      "title": "StarCraft 2: Is the Red Dot BUGGED?",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  This video features a Zerg vs Terran game that",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-is-the-red-dot-bugged/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-is-the-red-dot-bugged/",
+      "originalUrl": "https://youtube.com/watch?v=S0NhB4flqJk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S0NhB4flqJk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M33S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/S0NhB4flqJk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-09-16T05:22:24-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-last-episode-of-mass-infestors-to-grandmaster.md",
+      "title": "StarCraft 2: LAST Episode of MASS Infestors to Grandmaster!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  Also, I will begin to make videos featuring strategies,",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-last-episode-of-mass-infestors-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-last-episode-of-mass-infestors-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=kj0AkyGqbhU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kj0AkyGqbhU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M19S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kj0AkyGqbhU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-23T05:56:24-08:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-lmao-what-on-earth-is-that.md",
+      "title": "StarCraft 2: LMAO.. WHAT ON EARTH IS THAT?",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  Also, I will soon begin to make videos featuring",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-lmao-what-on-earth-is-that/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-lmao-what-on-earth-is-that/",
+      "originalUrl": "https://youtube.com/watch?v=9ju9PIiKYXs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9ju9PIiKYXs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M11S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9ju9PIiKYXs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-08-25T15:39:23-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-lurkers-broodlords-vs-mass-infestors.md",
+      "title": "StarCraft 2: Lurkers & Broodlords VS Mass Infestors!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  Also, I will soon begin to make videos featuring",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-lurkers-broodlords-vs-mass-infestors/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-lurkers-broodlords-vs-mass-infestors/",
+      "originalUrl": "https://youtube.com/watch?v=2V4j66EVPGQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2V4j66EVPGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M59S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2V4j66EVPGQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-09-08T16:44:32-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-mass-ghost-splits-vs-banelings-never-attack-to-grandmaster.md",
+      "title": "StarCraft 2: MASS Ghost Splits vs Banelings! - Never Attack to Grandmaster",
+      "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-ghost-splits-vs-banelings-never-attack-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-ghost-splits-vs-banelings-never-attack-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=4CcnQeKLWs0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4CcnQeKLWs0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M50S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4CcnQeKLWs0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-05-06T05:35:25-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-mass-infestors-in-zvz-ishard.md",
+      "title": "StarCraft 2: MASS Infestors in ZvZ is.......HARD!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  Also, I will soon begin to make videos featuring",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-infestors-in-zvz-ishard/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-infestors-in-zvz-ishard/",
+      "originalUrl": "https://youtube.com/watch?v=_6i5diQ7aig",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_6i5diQ7aig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M34S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_6i5diQ7aig/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-09-07T06:31:35-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-mass-infestors-to-grandmaster.md",
+      "title": "StarCraft 2: MASS Infestors to Grandmaster!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  Also, I will soon begin to make videos featuring",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-infestors-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-infestors-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=r4EBNNY_olg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r4EBNNY_olg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M41S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/r4EBNNY_olg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-08-14T02:46:27-07:00"
     }
   ],
   "nextPage": 8

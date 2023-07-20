@@ -4,6 +4,39 @@
   "page": 21,
   "value": [
     {
+      "path": "_games/pig-special-tactics-tvt-mine-liberator-bc-twitch-plays-pig-20.md",
+      "title": "Special tactics TvT - Mine-Liberator-BC! | Twitch Plays PiG #20",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-special-tactics-tvt-mine-liberator-bc-twitch-plays-pig-20/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-special-tactics-tvt-mine-liberator-bc-twitch-plays-pig-20/",
+      "originalUrl": "https://youtube.com/watch?v=LRBYGtb8IlM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LRBYGtb8IlM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M48S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LRBYGtb8IlM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-09-13T02:01:15-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-12-virgins-vs-one-chad-who-wins-diamond-in-the-ruff-8.md",
       "title": "StarCraft 2 - 12 Virgins vs One Chad - Who WINS!? | Diamond in the RuFF #8",
       "excerpt": "Please check out this link and consider helping RuFF: https://www.gofundme.com/f/ruff-factory-home?utm_source=twitter&utm_medium=social&utm_campaign=p_cf+share-flow-1  Don't forget to show Ruff some love! Twitter: https://twitter.com/RuFF_SC2 Twitch: https://www.twitch.tv/ruff13 Youtube: https://www.youtube.com/user/WMRuFFKiD",
@@ -887,36 +920,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-ghost-mech-in-tvz-diamond-in-the-ruff-50.md",
-      "title": "StarCraft 2 - GHOST-MECH in TvZ?! | Diamond in the Ruff #50",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Zerg opponent? 🐷 Support PiG: https://www.pigstarcraft.com/support/  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-ghost-mech-in-tvz-diamond-in-the-ruff-50/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-ghost-mech-in-tvz-diamond-in-the-ruff-50/",
-      "originalUrl": "https://youtube.com/watch?v=S_1b0F3uV6I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S_1b0F3uV6I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M32S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/S_1b0F3uV6I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-07T20:35:31-07:00"
     }
   ],
   "nextPage": 22

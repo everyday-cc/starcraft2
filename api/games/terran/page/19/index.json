@@ -4,6 +4,44 @@
   "page": 19,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-updated-patch-heromarines-unscouted-battlecruisers-best-of-5.md",
+      "title": "StarCraft 2: UPDATED PATCH - HeroMarine's Unscouted Battlecruisers! (Best-of-5)",
+      "excerpt": "ESL Open Cup 156 European finals in StarCraft 2. In this Terran versus Terran between HeroMarine and uThermal I go over the new and updated patch notes in StarCraft 2 for the Terran. They're mostly similar to the previously announced list, but units such as Viking, the Liberator and the Cyclone get some",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-updated-patch-heromarines-unscouted-battlecruisers-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-updated-patch-heromarines-unscouted-battlecruisers-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=B5UMKPYIcqU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B5UMKPYIcqU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M33S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B5UMKPYIcqU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-06T03:22:22-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-uthermal-planetary-fortress-rushes-grandmasters.md",
       "title": "StarCraft 2: uThermal PLANETARY FORTRESS Rushes Grandmasters!",
       "excerpt": "Cheesing Grandmasters in StarCraft 2 with Planetary Fortress cheese. In this video uThermal rushes a Planetary Fortress against a Grandmaster MMR Zerg, Terran and Protoss. Make sure to check out @uThermal's YouTube channel.  Terran vs Zerg 00:00 Terran vs Terran 05:40 Terran vs Protoss 13:24  Support",
@@ -1027,36 +1065,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/QZmTY9duCFw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:47:10-07:00"
-    },
-    {
-      "path": "_games/pig-disrespectful-stargate-rush-in-their-face-grim-reaper-6-starcraft-2.md",
-      "title": "DISRESPECTFUL STARGATE RUSH IN THEIR FACE | Grim Reaper #6 - StarCraft 2",
-      "excerpt": "The one and only GrimReaper, destroyer of souls and ruining people's will to practice StarCraft 2.  -- 🐷 Like my videos? Help support me by being a patron: https://www.patreon.com/PiGSC2 🐖 Watch live at https://www.twitch.tv/x5_pig 🐽 Linktree: https://linktr.ee/PiGStarcraft 👕 Merch: https://teespring.com/stores/pig-sc2",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-disrespectful-stargate-rush-in-their-face-grim-reaper-6-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-disrespectful-stargate-rush-in-their-face-grim-reaper-6-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=GtW0lHjsC3s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GtW0lHjsC3s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M7S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GtW0lHjsC3s/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

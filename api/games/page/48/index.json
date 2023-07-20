@@ -4,6 +4,45 @@
   "page": 48,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-queen-drops-vs-battlecruiser-rush.md",
+      "title": "StarCraft 2: QUEEN DROPS vs BATTLECRUISER ‘RUSH'!",
+      "excerpt": "The best viewer game of StarCraft 2 so far? A crazy game of Diamond League Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 viewer games: https://youtu.be/J9NsfQ-g1DM  A ridiculous game of Zerg vs Terran. Even though the Terran player gets reduced to zero SCVs twice,",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-queen-drops-vs-battlecruiser-rush/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-queen-drops-vs-battlecruiser-rush/",
+      "originalUrl": "https://youtube.com/watch?v=doUqVe7vwYU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/doUqVe7vwYU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M35S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/doUqVe7vwYU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-06-10T01:58:32-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-queen-rush-in-a-pro-game.md",
       "title": "StarCraft 2: QUEEN RUSH IN A PRO GAME?!",
       "excerpt": "Elazer vs puCk in a really cool match of Zerg vs Protoss. Subscribe for more videos: http://lowko.tv/youtube MMA vs aLive: https://goo.gl/GW9L7H  Not quite your standard professional match of StarCraft 2, but quite a regular game for Redshift. In this game, Elazer decides to commit to a relatively cheap",
@@ -1114,44 +1153,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-11-14T02:39:28-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-roach-wars.md",
-      "title": "StarCraft 2: ROACH WARS!",
-      "excerpt": "Serral vs Elazer in a professional match of Zerg vs Zerg. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://youtu.be/BfikSEkWzao  Roach vs Roach battles are not uncommon. However, when good players execute this strategy they will fight at many different areas at the same",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-roach-wars/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-roach-wars/",
-      "originalUrl": "https://youtube.com/watch?v=HDCJm6CZa3I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HDCJm6CZa3I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HDCJm6CZa3I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-04-09T01:26:59-07:00"
     }
   ],
   "nextPage": 49

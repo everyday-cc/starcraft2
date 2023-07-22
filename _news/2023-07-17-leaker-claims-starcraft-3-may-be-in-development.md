@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/starcraft-3-in-development-lea
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/starcraft-3-in-development-leak-pc/"
 type: article
 quality: 57
-heat: 79
+heat: 80
 published: true
 
 provider:

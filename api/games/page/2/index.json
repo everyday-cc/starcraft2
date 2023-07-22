@@ -4,6 +4,45 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-75000-esl-masters-grand-finals-serral-vs-gumiho-best-of-7.md",
+      "title": "StarCraft 2: $75000 ESL Masters GRAND FINALS - Serral vs GuMiho! (Best-of-7)",
+      "excerpt": "Best-of-7 series of top level StarCraft 2 between Serral (Zerg) and GuMiho (Terran). This series is the grand finals of the ESL StarCraft 2 Masters Summer, a premier tournament with a total price pool of $75000.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-75000-esl-masters-grand-finals-serral-vs-gumiho-best-of-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-75000-esl-masters-grand-finals-serral-vs-gumiho-best-of-7/",
+      "originalUrl": "https://youtube.com/watch?v=YX4StuIsM_Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YX4StuIsM_Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H14M32S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 165,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YX4StuIsM_Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-06-20T04:52:00-07:00"
+    },
+    {
       "path": "_games/pig-how-did-a-game-that-was-over-at-8-min-go-for-50min-pig-vs-kiwian-showmatch-part-1-sc2.md",
       "title": "How did a game that was over at 8 min go for 50min?! | PiG vs Kiwian Showmatch (Part 1) - SC2",
       "excerpt": "Part 2 coming tomorrow! I played a best of 5 against Kiwian (Top) who is a former Terran pro who played in GSL. Neither of us could have predicted that game 1 would go like this... The showmatch went so long I had to split it up for youtube! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom",
@@ -636,45 +675,6 @@
       "publishedDateTime": "2023-07-15T14:53:10-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-incredible-micro-byun-vs-classic-grand-finals.md",
-      "title": "StarCraft 2: INCREDIBLE MICRO - ByuN vs Classic! (Grand Finals)",
-      "excerpt": "Best-of-5 series of high level StarCraft 2 between Classic (Protoss) and ByuN (Terran). This series is the Grand Finals of the ESL Open Cup 175 Korea. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-micro-byun-vs-classic-grand-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-incredible-micro-byun-vs-classic-grand-finals/",
-      "originalUrl": "https://youtube.com/watch?v=zblKV7sa2Bs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zblKV7sa2Bs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M29S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 122,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zblKV7sa2Bs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-01T04:06:27-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-clem-is-the-greatest-sc2-ive-ever-seen.md",
       "title": "StarCraft 2: Serral vs Clem is THE GREATEST SC2 I've ever seen!",
       "excerpt": "Amazing best-of-5 series of StarCraft 2. Serral (Zerg) vs Clem (Terran) is the highest level of SC2 I've seen all year, with a very unique strategy in the final game of this series. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
@@ -750,37 +750,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-12-24T13:58:31-08:00"
-    },
-    {
-      "path": "_games/pig-terran-forces-zerg-to-all-in-then-cries-about-it-salt-mines-37-starcraft-2.md",
-      "title": "Terran forces Zerg to all-in then cries about it | Salt Mines #37 - StarCraft 2",
-      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-terran-forces-zerg-to-all-in-then-cries-about-it-salt-mines-37-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-terran-forces-zerg-to-all-in-then-cries-about-it-salt-mines-37-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=ggirRxPfjCI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ggirRxPfjCI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M50S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 119,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ggirRxPfjCI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-08T03:41:50-07:00"
     },
     {
       "path": "_games/pig-when-winning-means-makes-you-a-devil-worshipper-salt-mines-31-starcraft-2.md",
@@ -908,6 +877,45 @@
       "publishedDateTime": "2023-01-18T18:34:08-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-gsl-code-s-hero-cannon-rushes-solar.md",
+      "title": "StarCraft 2: GSL CODE S - herO CANNON RUSHES Solar!",
+      "excerpt": "Amazing best-of-3 series from the GSL Code S where herO Cannon Rushes Solar. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gsl-code-s-hero-cannon-rushes-solar/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gsl-code-s-hero-cannon-rushes-solar/",
+      "originalUrl": "https://youtube.com/watch?v=v8Ox2vj34VM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v8Ox2vj34VM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M42S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 115,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/v8Ox2vj34VM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-02T03:15:24-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-crazy-strategies-you-will-never-see-this-from-the-pro-gamers.md",
       "title": "StarCraft 2: CRAZY STRATEGIES - You will NEVER see this from the Pro Gamers!",
       "excerpt": "Silver and Gold League games of StarCraft 2. In this video I cast two replays of SC2 games submitted by viewers. If you have an amazing game of StarCraft 2 you've recently played, you can submit to replays@lowko.tv and I might give commentary to your game next time! Support my work: https://patreon.com/lowkotv",
@@ -974,14 +982,14 @@
       "publishedDateTime": "2022-04-27T23:30:12-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-premier-tournament-grand-finals-serral-vs-maxpax-best-of-7.md",
-      "title": "StarCraft 2: Premier Tournament GRAND FINALS - Serral vs MaxPax! (Best-of-7)",
-      "excerpt": "Grand Finals of the ESL StarCraft 2 Masters Summer: European regionals. This is a best-of-7 series of top level StarCraft 2 between Serral (Zerg) and MaxPax (Protoss). The number 1 Protoss and Zerg player in the world at the moment. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-premier-tournament-grand-finals-serral-vs-maxpax-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-premier-tournament-grand-finals-serral-vs-maxpax-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=l3L6kBCAuRw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l3L6kBCAuRw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H29M52S",
+      "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",
+      "title": "StarCraft 2: Erik's SURPRISES GuMiho with Zerg Drops! (Best-of-3)",
+      "excerpt": "Best-of-3 series of Zerg vs Terran in StarCraft 2 between Erik and GuMiho. This is a series with some very unique Zerg strategies and build orders. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=TJezGProI74",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TJezGProI74\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M31S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -996,12 +1004,13 @@
       },
       "topics": [
         "StarCraft 2",
+        "Terran",
         "Zerg"
       ],
-      "heat": 110,
+      "heat": 106,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/l3L6kBCAuRw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/TJezGProI74/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1009,7 +1018,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-05-23T05:23:22-07:00"
+      "publishedDateTime": "2023-05-22T03:49:14-07:00"
     }
   ],
   "nextPage": 3

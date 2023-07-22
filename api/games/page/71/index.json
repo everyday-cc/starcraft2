@@ -4,101 +4,6 @@
   "page": 71,
   "value": [
     {
-      "path": "_games/pig-only-mines-hellbats-and-liberators-tvz-twitch-plays-pig-11.md",
-      "title": "Only Mines, Hellbats and Liberators TvZ?  | Twitch Plays PiG #11",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-only-mines-hellbats-and-liberators-tvz-twitch-plays-pig-11/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-only-mines-hellbats-and-liberators-tvz-twitch-plays-pig-11/",
-      "originalUrl": "https://youtube.com/watch?v=aDxRYZ9QGFM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aDxRYZ9QGFM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M41S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aDxRYZ9QGFM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-08-12T22:29:57-07:00"
-    },
-    {
-      "path": "_games/pig-only-room-for-one-gas-baron-on-this-planet-carbon-tax-icyfar-g2.md",
-      "title": "Only room for one Gas Baron on this planet! - Carbon Tax ICYFAR G2",
-      "excerpt": "Hey guys! we are back with a new person in charge of ICYFAR, yes this means that the email for submissions HAS CHANGED! In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were Interrupting their opponent's gas mining as much as possible!  NO",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-only-room-for-one-gas-baron-on-this-planet-carbon-tax-icyfar-g2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-only-room-for-one-gas-baron-on-this-planet-carbon-tax-icyfar-g2/",
-      "originalUrl": "https://youtube.com/watch?v=4BjpJdLOu8s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4BjpJdLOu8s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M37S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4BjpJdLOu8s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-oracle-into-tempests-twitch-plays-pig-46.md",
-      "title": "Oracle into Tempests | Twitch Plays PiG #46",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-oracle-into-tempests-twitch-plays-pig-46/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-oracle-into-tempests-twitch-plays-pig-46/",
-      "originalUrl": "https://youtube.com/watch?v=oSx3SzrjwD4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oSx3SzrjwD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M31S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oSx3SzrjwD4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-07-19T09:00:13-07:00"
-    },
-    {
       "path": "_games/pig-otter-destruction-360-noscope-icyfar-g2.md",
       "title": "Otter Destruction | 360 Noscope ICYFAR G2",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they set up flanks and surrounds to crush their enemies.  \"Surgical Warfare\" - Minimise your losses and try to achieve the cleanest victory possible! Even if it devolves into a shitshow, send it",
@@ -889,6 +794,94 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wOC0R1MvS44/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-pros-suck-at-defending-cannon-rushes-starcraft-2.md",
+      "title": "Pros SUCK at Defending Cannon Rushes! - StarCraft 2",
+      "excerpt": "Why do SC2 Pros struggle against Cannon Rushes so much!? -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-pros-suck-at-defending-cannon-rushes-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-pros-suck-at-defending-cannon-rushes-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=W26kBWYez7I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W26kBWYez7I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M8S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/W26kBWYez7I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-14T02:52:19-07:00"
+    },
+    {
+      "path": "_games/pig-protect-the-ozone-layer-1-gasbase-icyfar-g1-2-the-pig-daily-160.md",
+      "title": "Protect the Ozone Layer - 1 Gas/Base - ICYFAR - G1-2 The PiG Daily #160",
+      "excerpt": "In today’s ICYFAR players were challenged to help protect the ozone layer by reducing vespene emissions in the Koprulu Sector by 50%! They were allowed to only take 1 gas at each base and had to adapt to a much lower gas economy. \r \r ICYFAR is “I Cast Your Freakin Awesome Replays” where there’s a weekly",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-protect-the-ozone-layer-1-gasbase-icyfar-g1-2-the-pig-daily-160/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-protect-the-ozone-layer-1-gasbase-icyfar-g1-2-the-pig-daily-160/",
+      "originalUrl": "https://youtube.com/watch?v=q-gIJ-P2hL4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q-gIJ-P2hL4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M41S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q-gIJ-P2hL4/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-protect-the-ozone-layer-1-gasbase-icyfar-g3-the-pig-daily-160.md",
+      "title": "Protect the Ozone Layer - 1 Gas/Base - ICYFAR - G3 The PiG Daily #160",
+      "excerpt": "In today’s ICYFAR players were challenged to help protect the ozone layer by reducing vespene emissions in the Koprulu Sector by 50%! They were allowed to only take 1 gas at each base and had to adapt to a much lower gas economy. \r \r ICYFAR is “I Cast Your Freakin Awesome Replays” where there’s a weekly",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-protect-the-ozone-layer-1-gasbase-icyfar-g3-the-pig-daily-160/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-protect-the-ozone-layer-1-gasbase-icyfar-g3-the-pig-daily-160/",
+      "originalUrl": "https://youtube.com/watch?v=x84nvGl6xXo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x84nvGl6xXo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M21S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/x84nvGl6xXo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

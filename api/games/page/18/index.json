@@ -4,218 +4,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-oops-i-forgot-to-cancel-the-florencio-files-8.md",
-      "title": "StarCraft 2 - “Oops I Forgot to Cancel” | The Florencio Files #8",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-oops-i-forgot-to-cancel-the-florencio-files-8/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-oops-i-forgot-to-cancel-the-florencio-files-8/",
-      "originalUrl": "https://youtube.com/watch?v=6I_3E1igho0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6I_3E1igho0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M7S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6I_3E1igho0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-05-24T00:49:07-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-open-for-business-the-florencio-files-135.md",
-      "title": "StarCraft 2 - Open for Business | The Florencio Files #135",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-open-for-business-the-florencio-files-135/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-open-for-business-the-florencio-files-135/",
-      "originalUrl": "https://youtube.com/watch?v=7F69onXGKcg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7F69onXGKcg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7F69onXGKcg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-25T04:00:05-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-perfectly-stacked-battlecruisers-florencio-files-226.md",
-      "title": "StarCraft 2 - PERFECTLY STACKED BATTLECRUISERS! | Florencio Files #226",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-perfectly-stacked-battlecruisers-florencio-files-226/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-perfectly-stacked-battlecruisers-florencio-files-226/",
-      "originalUrl": "https://youtube.com/watch?v=sfoX7qLhcJg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sfoX7qLhcJg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M49S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sfoX7qLhcJg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-05-02T02:32:35-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-pig-eats-hot-wings-and-finally-comprehends-science-florencio-files-229.md",
-      "title": "StarCraft 2 - PiG EATS HOT WINGS AND FINALLY COMPREHENDS SCIENCE | Florencio Files #229",
-      "excerpt": "What happens when you combine Florencio Files with a Hot Wings challenge and a No Swearing (Sesame Street-friendly) challenge all in one?  0:00 Intro 2:22 Game 1 28:40 Game 2 45:01 Game 3  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-pig-eats-hot-wings-and-finally-comprehends-science-florencio-files-229/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-pig-eats-hot-wings-and-finally-comprehends-science-florencio-files-229/",
-      "originalUrl": "https://youtube.com/watch?v=DfI8ytoteNM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DfI8ytoteNM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H13M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DfI8ytoteNM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-25T04:49:59-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-rat-king-zergling-style-the-florencio-files-48.md",
-      "title": "StarCraft 2 - Rat King, Zergling Style | The Florencio Files #48",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  As you probably already noticed, this game was cast on Valentines Day :)  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-rat-king-zergling-style-the-florencio-files-48/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-rat-king-zergling-style-the-florencio-files-48/",
-      "originalUrl": "https://youtube.com/watch?v=a66dx6rdVaY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a66dx6rdVaY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M39S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/a66dx6rdVaY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-05-01T12:45:01-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-recall-rush-is-back-the-florencio-files-111.md",
-      "title": "StarCraft 2 - Recall RUSH is back! | The Florencio Files #111",
-      "excerpt": "Happy Holidays everyone!  I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-recall-rush-is-back-the-florencio-files-111/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-recall-rush-is-back-the-florencio-files-111/",
-      "originalUrl": "https://youtube.com/watch?v=HJLP3xUMu_w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HJLP3xUMu_w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M43S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HJLP3xUMu_w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-12-24T09:00:04-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-revved-up-overlord-the-florencio-files-61.md",
-      "title": "StarCraft 2 - Revved up Overlord | The Florencio Files #61",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-revved-up-overlord-the-florencio-files-61/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-revved-up-overlord-the-florencio-files-61/",
-      "originalUrl": "https://youtube.com/watch?v=XE4bzp1d898",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XE4bzp1d898\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M31S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XE4bzp1d898/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-05-01T12:59:27-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-reynors-pure-zergling-zvt-on-his-troll-account.md",
       "title": "StarCraft 2 - REYNOR'S PURE ZERGLING ZvT (on his troll account!)",
       "excerpt": "Reynor OP, clearly. Has an alt account that is still at 7K MMR wtf! The rest of us wish we can use zerglings with half the success he does. Really happy to see such tremendous skill in such a young player and hopefully we'll keep seeing his success in Starcraft for many years to come🎤 More Pro SC2 Casts:",
@@ -578,25 +366,26 @@
       "publishedDateTime": "2018-08-03T18:15:04-07:00"
     },
     {
-      "path": "_games/pig-stealing-mmr-from-gms-with-the-sneaky-corner-bases-starcraft-2.md",
-      "title": "Stealing MMR from GMs with the SNEAKY CORNER BASES - StarCraft 2",
-      "excerpt": "Sneaky corner bases are fun :D -- 🐷 Main Channel: https://www.youtube.com/user/PiGstarcraft 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2 🐷 PiG’s Discord: https://discord.gg/SkhbzCM",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-stealing-mmr-from-gms-with-the-sneaky-corner-bases-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-stealing-mmr-from-gms-with-the-sneaky-corner-bases-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=3heEH8JRoXo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3heEH8JRoXo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M22S",
+      "path": "_games/pig-terran-player-gets-so-angry-he-breaks-his-own-brain-salt-mines-6-starcraft-2.md",
+      "title": "Terran player gets so ANGRY he breaks his own brain | Salt Mines #6 - StarCraft 2",
+      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty. -- 🐷 Second Channel",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-terran-player-gets-so-angry-he-breaks-his-own-brain-salt-mines-6-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-terran-player-gets-so-angry-he-breaks-his-own-brain-salt-mines-6-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=_r7e4cSYy18",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_r7e4cSYy18\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M38S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Terran"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/3heEH8JRoXo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/_r7e4cSYy18/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -604,65 +393,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-01-10T17:25:26-08:00"
-    },
-    {
-      "path": "_games/pig-straight-up-psycho-has-deranged-outburst-salt-mines-15-starcraft-2.md",
-      "title": "Straight up Psycho has DERANGED OUTBURST | Salt Mines #15 - StarCraft 2",
-      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-straight-up-psycho-has-deranged-outburst-salt-mines-15-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-straight-up-psycho-has-deranged-outburst-salt-mines-15-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=Ul0QdsF5Ajg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ul0QdsF5Ajg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M1S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ul0QdsF5Ajg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-28T21:13:53-07:00"
-    },
-    {
-      "path": "_games/pig-the-dumb-strat-that-broke-my-brain-icyfar-budget-battles-starcraft-2.md",
-      "title": "The dumb strat that BROKE MY BRAIN | ICYFAR \"Budget Battles\" - StarCraft 2",
-      "excerpt": "🤯 NEW ICYFAR CHALLENGE: \"One, Two\" - Always attack two or more locations at once. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 30th March.  🤯 In this month’s episode of I Cast Your Freakin Awesome Replays (ICYFAR)",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-dumb-strat-that-broke-my-brain-icyfar-budget-battles-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-dumb-strat-that-broke-my-brain-icyfar-budget-battles-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=HXdR1j9I_mM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HXdR1j9I_mM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M58S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HXdR1j9I_mM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-01T21:10:06-08:00"
+      "publishedDateTime": "2022-06-17T03:57:27-07:00"
     },
     {
       "path": "_games/pig-the-genius-way-of-dealing-with-cannon-rushers-king-of-cannons-19-starcraft-2.md",
@@ -696,6 +427,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-18T17:18:10-07:00"
+    },
+    {
+      "path": "_games/pig-the-most-confusing-salt-ever-salt-mines-9-starcraft-2.md",
+      "title": "THE MOST CONFUSING SALT EVER | Salt Mines #9 - StarCraft 2",
+      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty. -- 🐷 Second Channel",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-most-confusing-salt-ever-salt-mines-9-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-most-confusing-salt-ever-salt-mines-9-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=QIEK9JQGx6I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QIEK9JQGx6I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QIEK9JQGx6I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-20T17:47:43-07:00"
     },
     {
       "path": "_games/pig-the-sewer-mermaid-nukes-himself-for-science-florencio-files-271-starcraft-2.md",
@@ -796,6 +556,36 @@
       "publishedDateTime": "2023-01-04T15:02:14-08:00"
     },
     {
+      "path": "_games/pig-they-begged-me-not-to-cannon-rush-them-most-annoying-player-ever-7-starcraft-2.md",
+      "title": "They begged me NOT to cannon rush them | Most Annoying Player Ever #7 - StarCraft 2",
+      "excerpt": "Let's see how annoying I can be :D - Most Annoying Player Ever Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUe9Q0nTIwZiTOqYlofC3jOQ -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-they-begged-me-not-to-cannon-rush-them-most-annoying-player-ever-7-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-they-begged-me-not-to-cannon-rush-them-most-annoying-player-ever-7-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=8MA37OLaxKY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8MA37OLaxKY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M3S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8MA37OLaxKY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-29T23:07:46-07:00"
+    },
+    {
       "path": "_games/pig-this-is-a-truly-unique-game-of-starcraft-icyfar-overly-aggressive-starcraft-2.md",
       "title": "This is a truly UNIQUE game of Starcraft | ICYFAR \"Overly Aggressive\" - StarCraft 2",
       "excerpt": "🤯 NEW ICYFAR TOPIC: Spooktober - Use cloaked, burrowed and invisible units as much as possible. Extra points for creativity. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 31st October -- 🤯 In this week’s episode",
@@ -854,6 +644,94 @@
       "publishedDateTime": "2022-06-23T17:55:59-07:00"
     },
     {
+      "path": "_games/pig-this-is-why-you-stop-queuing-when-youre-malding-most-annoying-player-ever-2-starcraft-2.md",
+      "title": "This is why you stop queuing when you’re MALDING | Most Annoying Player Ever #2 - StarCraft 2",
+      "excerpt": "Let's see how annoying I can be :D In this episode, my opponent cannot deal with the ping and starts malding non stop. Malding = being so mad you start to go bald -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-is-why-you-stop-queuing-when-youre-malding-most-annoying-player-ever-2-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-is-why-you-stop-queuing-when-youre-malding-most-annoying-player-ever-2-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=1wqTkd6WDE4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1wqTkd6WDE4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1wqTkd6WDE4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-08-24T23:36:00-07:00"
+    },
+    {
+      "path": "_games/pig-this-player-malds-so-much-they-own-themself-salt-mines-5-starcraft-2.md",
+      "title": "This player MALDS so much they own themself | Salt Mines #5 - StarCraft 2",
+      "excerpt": "The Salt Mines: Everyone has encountered a salty opponent on the StarCraft ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty. -- 🐷 Second Channel for",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-player-malds-so-much-they-own-themself-salt-mines-5-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-player-malds-so-much-they-own-themself-salt-mines-5-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=lKSt3D_-NNg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lKSt3D_-NNg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M43S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lKSt3D_-NNg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-02T01:59:07-07:00"
+    },
+    {
+      "path": "_games/pig-toss-has-rage-fit-cos-terran-bio-exists-salt-mines-26-starcraft-2.md",
+      "title": "Toss has RAGE FIT cos Terran bio exists | Salt Mines #26 - StarCraft 2",
+      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-toss-has-rage-fit-cos-terran-bio-exists-salt-mines-26-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-toss-has-rage-fit-cos-terran-bio-exists-salt-mines-26-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=ro3knys4sUg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ro3knys4sUg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M17S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ro3knys4sUg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-25T16:32:20-08:00"
+    },
+    {
       "path": "_games/pig-toss-is-mad-even-after-they-did-what-he-asked-salt-mines-10-starcraft-2.md",
       "title": "Toss is MAD even after they did what he asked!? | Salt Mines #10 - StarCraft 2",
       "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty. -- 🐷 Second Channel",
@@ -910,6 +788,128 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-09-11T20:56:15-07:00"
+    },
+    {
+      "path": "_games/pig-what-happens-when-pros-have-maphacks-to-prove-a-point-no-fog-of-war-mod-starcraft-2.md",
+      "title": "What happens when Pros have Maphacks TO PROVE A POINT? (No fog of war mod) - StarCraft 2",
+      "excerpt": "As part of PiG's Laboratory, I challenged StarCraft 2 pros to play with MAPHACKS on & to play with 50% hit points on everything. Special claims that Protoss is OP in any of these challenges. Lets see how his Protoss goes against Astrea's Terran to settle this balance debate! -- 🐷 Second Channel for",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-what-happens-when-pros-have-maphacks-to-prove-a-point-no-fog-of-war-mod-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-what-happens-when-pros-have-maphacks-to-prove-a-point-no-fog-of-war-mod-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=dwjRc4jjCNU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dwjRc4jjCNU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M39S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dwjRc4jjCNU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-10T01:20:09-07:00"
+    },
+    {
+      "path": "_games/pig-when-your-dts-get-scouted-but-youre-a-disgusting-genius-mape-the-ape-1-starcraft-2.md",
+      "title": "When your DTs get scouted but you’re a DISGUSTING GENIUS | Mape the Ape #1 - StarCraft 2",
+      "excerpt": "Here begins the legend of Mape the Ape https://www.twitch.tv/maplez | In this game he faces the North American champion, Neeb! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-your-dts-get-scouted-but-youre-a-disgusting-genius-mape-the-ape-1-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-your-dts-get-scouted-but-youre-a-disgusting-genius-mape-the-ape-1-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=93cJmfZe0z8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/93cJmfZe0z8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M12S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/93cJmfZe0z8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-22T23:32:51-07:00"
+    },
+    {
+      "path": "_games/pig-when-your-strat-is-sick-but-zerg-has-a-wrinkly-brain-florencio-files-272-starcraft-2.md",
+      "title": "When your strat is SICK but zerg has a WRINKLY BRAIN | Florencio Files #272 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-your-strat-is-sick-but-zerg-has-a-wrinkly-brain-florencio-files-272-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-your-strat-is-sick-but-zerg-has-a-wrinkly-brain-florencio-files-272-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=RwCMLZHIxUg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RwCMLZHIxUg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M26S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RwCMLZHIxUg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-13T00:35:52-07:00"
+    },
+    {
+      "path": "_games/pig-whose-ball-is-it-anyway-the-king-of-cannons-1.md",
+      "title": "Whose Ball is it Anyway!? | The King of Cannons #1",
+      "excerpt": "Seems like we got ANOTHER new series bois(n girls), The King of Cannons!  be sure to follow him on: Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng  Like the content? Then consider to leave a thumbs",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-whose-ball-is-it-anyway-the-king-of-cannons-1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-whose-ball-is-it-anyway-the-king-of-cannons-1/",
+      "originalUrl": "https://youtube.com/watch?v=6LShnUyxhUc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6LShnUyxhUc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M31S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "tags": [
+        "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6LShnUyxhUc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-03T15:59:09-07:00"
     }
   ],
   "nextPage": 19

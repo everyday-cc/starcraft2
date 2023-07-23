@@ -4,27 +4,26 @@
   "page": 7,
   "value": [
     {
-      "path": "_games/pig-a-genius-strategy-to-a-dumb-challenge-mouse-only-special-vs-cham-1-game-tvz-starcraft-2.md",
-      "title": "A Genius Strategy to a Dumb Challenge (Mouse ONLY) | Special vs Cham (1-game TvZ) - StarCraft 2",
-      "excerpt": "As part of PiG's Laboratory, I challenged pros to play with their mouse only (no keyboards!) to see what a pro StarCraft 2 game looks like with such a ridiculous rule. Here's Special (Terran) facing Cham (Zerg) trying it out! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-a-genius-strategy-to-a-dumb-challenge-mouse-only-special-vs-cham-1-game-tvz-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-a-genius-strategy-to-a-dumb-challenge-mouse-only-special-vs-cham-1-game-tvz-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=oBL0AwQhmdk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oBL0AwQhmdk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M53S",
+      "path": "_games/pig-how-quickly-can-dark-dispose-of-noobs-part-2-holdout-challenge-starcraft-2.md",
+      "title": "How quickly can DARK dispose of noobs? (Part 2) | Holdout Challenge - StarCraft 2",
+      "excerpt": "We paid Dark to 1v1 noobs in StarCraft 2. The challenge: the noobs needed to stay in the match for as long as possible. How did they fare against an actual Zerg Championship player?  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j  Holdout Scoresheet:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-dark-dispose-of-noobs-part-2-holdout-challenge-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-dark-dispose-of-noobs-part-2-holdout-challenge-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=0QyNvRXWCmw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0QyNvRXWCmw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M30S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
         "Zerg"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/oBL0AwQhmdk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/0QyNvRXWCmw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -32,17 +31,17 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-06-13T19:57:43-07:00"
+      "publishedDateTime": "2022-08-22T23:46:10-07:00"
     },
     {
-      "path": "_games/pig-how-quickly-can-dark-solar-dispose-of-a-noob-me-ept-na-holdout-challenge-starcraft-2.md",
-      "title": "How quickly can DARK & SOLAR dispose of a noob (ME)? | EPT NA Holdout Challenge - StarCraft 2",
-      "excerpt": "Want to play against Dark? The next Holdout Challenge will be held on 19th August 5pm PDT! For details see the Patreon post: https://www.patreon.com/posts/dark-holdout-70272758  Dark and Solar are ABSOLUTE BEASTS! Let's see how long PiG held on for in this unofficial Holdout Challenge. Each series was",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-dark-solar-dispose-of-a-noob-me-ept-na-holdout-challenge-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-dark-solar-dispose-of-a-noob-me-ept-na-holdout-challenge-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=AVpCZctKdew",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AVpCZctKdew\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M47S",
+      "path": "_games/pig-how-quickly-can-reynor-dispose-of-noobs-part-2-holdout-challenge-starcraft-2.md",
+      "title": "How quickly can REYNOR dispose of noobs? (Part 2) | Holdout Challenge - StarCraft 2",
+      "excerpt": "In part 2, the noobs are actually Grandmaster players but since they're not pros they're still considered noobs to Reynor.  We paid Reynor to 1v1 noobs in StarCraft 2. The challenge: the noobs needed to stay in the match for as long as possible. How did they fare against an actual Zerg Championship player?",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-reynor-dispose-of-noobs-part-2-holdout-challenge-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-reynor-dispose-of-noobs-part-2-holdout-challenge-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=NsblsSBrHz8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NsblsSBrHz8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M43S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -54,7 +53,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/AVpCZctKdew/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/NsblsSBrHz8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -62,127 +61,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-08-03T16:36:52-07:00"
-    },
-    {
-      "path": "_games/pig-how-quickly-can-reynor-dispose-of-noobs-part-3-holdout-challenge-starcraft-2.md",
-      "title": "How quickly can REYNOR dispose of noobs? (Part 3) | Holdout Challenge - StarCraft 2",
-      "excerpt": "We paid Reynor to 1v1 noobs in StarCraft 2. The challenge: the noobs needed to stay in the match for as long as possible. How did they fare against an actual Zerg Championship player? This is Part 3 out of 4  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-reynor-dispose-of-noobs-part-3-holdout-challenge-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-reynor-dispose-of-noobs-part-3-holdout-challenge-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=_AuwZjO6KWo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_AuwZjO6KWo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M28S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_AuwZjO6KWo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-03T15:26:15-07:00"
-    },
-    {
-      "path": "_games/pig-how-quickly-can-reynor-dispose-of-noobs-part-44-holdout-challenge-starcraft-2.md",
-      "title": "How quickly can REYNOR dispose of noobs? (Part 4/4) | Holdout Challenge - StarCraft 2",
-      "excerpt": "We paid Reynor to 1v1 noobs in StarCraft 2. The challenge: the noobs needed to stay in the match for as long as possible. How did they fare against an actual Zerg Championship player? This is Part 4 out of 4  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-reynor-dispose-of-noobs-part-44-holdout-challenge-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-reynor-dispose-of-noobs-part-44-holdout-challenge-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=VYvf5zAPIQY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VYvf5zAPIQY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M11S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VYvf5zAPIQY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-03T15:29:45-07:00"
-    },
-    {
-      "path": "_games/pig-how-quickly-can-scarlett-destroy-maphackers-holdout-challenge-starcraft-2.md",
-      "title": "How quickly can SCARLETT destroy MAPHACKERS? | Holdout Challenge - StarCraft 2",
-      "excerpt": "We paid Scarlett to do the Maphacker Challenge - like a Holdout Challenge, but noobs now have MAPHACKS!  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-scarlett-destroy-maphackers-holdout-challenge-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-scarlett-destroy-maphackers-holdout-challenge-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=Jvs8MkVcDPU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jvs8MkVcDPU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Jvs8MkVcDPU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-24T20:57:51-07:00"
-    },
-    {
-      "path": "_games/pig-pig-reacts-uthermals-1-vs-7-insane-zerg-ai-world-record-starcraft-2.md",
-      "title": "PIG REACTS: uThermal's 1 vs 7 Insane Zerg AI World Record! - StarCraft 2",
-      "excerpt": "I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! After three attempts by others, uThermal decided to step up and create a WORLD RECORD. Can it be done against Terran and Protoss? Can it be done against all random AIs? There are still records to be broken for sure! -- 🐷 Second",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-pig-reacts-uthermals-1-vs-7-insane-zerg-ai-world-record-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-pig-reacts-uthermals-1-vs-7-insane-zerg-ai-world-record-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=klZFXaFsX9o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/klZFXaFsX9o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H3M5S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/klZFXaFsX9o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-02T21:45:22-07:00"
+      "publishedDateTime": "2022-06-02T15:22:57-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-240apm-but-cant-spot-a-nuke-for-the-life-of-them-florencio-files-268.md",
@@ -217,14 +96,14 @@
       "publishedDateTime": "2022-05-11T20:17:42-07:00"
     },
     {
-      "path": "_games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-2-holdout-challenge.md",
-      "title": "StarCraft 2 - How Quickly Can SCARLETT Dispose Of Noobs? (PART 2) | Holdout Challenge",
-      "excerpt": "We paid Scarlett to 1v1 noobs. The challenge: the noobs needed to stay in the match as long as possible while Scarlett did her best to cheese the heck out of them. THIS TIME: She also faced off against the winner of the first Smooth Brain Audition, Santa Claws. Was his dome glassy enough to stay in the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-2-holdout-challenge/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-2-holdout-challenge/",
-      "originalUrl": "https://youtube.com/watch?v=pAjN0kOKxds",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pAjN0kOKxds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M7S",
+      "path": "_games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-3-holdout-challenge.md",
+      "title": "StarCraft 2 - How Quickly Can SCARLETT Dispose Of Noobs? (PART 3) | Holdout Challenge",
+      "excerpt": "We paid Scarlett to 1v1 noobs. The challenge: the noobs needed to stay in the match as long as possible while Scarlett did her best to cheese the heck out of them. This Holdout Challenge was a part of  PiG Sty Festival 2021.   Holdout Challenge Part 1: https://youtu.be/hpv300poAUE Holdout Challenge Part",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-3-holdout-challenge/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-3-holdout-challenge/",
+      "originalUrl": "https://youtube.com/watch?v=BOqUdp10r9A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BOqUdp10r9A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M5S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -236,7 +115,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/pAjN0kOKxds/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/BOqUdp10r9A/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -244,7 +123,37 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-11-15T01:42:53-08:00"
+      "publishedDateTime": "2021-11-21T21:29:25-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-lowko-is-an-f2-zerg-350-apm-0-control-groups.md",
+      "title": "StarCraft 2 - Lowko is an F2 Zerg! (350 APM, 0 Control Groups...)",
+      "excerpt": "I discovered Lowko's dirty secret - he's an F2 Zerg player! -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-lowko-is-an-f2-zerg-350-apm-0-control-groups/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-lowko-is-an-f2-zerg-350-apm-0-control-groups/",
+      "originalUrl": "https://youtube.com/watch?v=DX9tNY73RYA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DX9tNY73RYA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M3S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DX9tNY73RYA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-04-28T20:46:43-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-rat-king-zergling-style-the-florencio-files-48.md",
@@ -971,6 +880,105 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-10-08T15:07:23-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-terran-players-love-winfestors-.md",
+      "title": "StarCraft 2: Terran Players LOVE Winfestors 😂",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  Also, I will begin to make videos featuring strategies,",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-terran-players-love-winfestors-/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-terran-players-love-winfestors-/",
+      "originalUrl": "https://youtube.com/watch?v=arwk7J_qXBQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/arwk7J_qXBQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M19S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/arwk7J_qXBQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-10-28T08:27:26-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-terrans-and-protosses-rise-up.md",
+      "title": "StarCraft 2: Terrans and Protosses RISE UP!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  Also, I will begin to make videos featuring strategies,",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-terrans-and-protosses-rise-up/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-terrans-and-protosses-rise-up/",
+      "originalUrl": "https://youtube.com/watch?v=QY1TLfKax58",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QY1TLfKax58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT58M53S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QY1TLfKax58/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-10-16T05:28:38-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-tripple-nydus-mass-infestor-queen-attack.md",
+      "title": "StarCraft 2: TRIPPLE Nydus MASS Infestor & Queen Attack!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  The games in this video feature a TON of Infested",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-tripple-nydus-mass-infestor-queen-attack/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-tripple-nydus-mass-infestor-queen-attack/",
+      "originalUrl": "https://youtube.com/watch?v=5ATH3bj_wIw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5ATH3bj_wIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M51S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5ATH3bj_wIw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-08-25T15:34:36-07:00"
     }
   ],
   "nextPage": 8

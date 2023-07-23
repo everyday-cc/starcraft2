@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidheadlines.com/2023/07/blizzard-starcraft-3-develo
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/blizzard-starcraft-3-development-rumored-current.html?utm_content=buffer0ed8e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&amp"
 type: article
 quality: 57
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 1920
         height: 1155
         isCached: true
+  - title: "1994 Starcraft Prices, Values and Specs"
+    excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
+    publishedDateTime: 2023-07-19T08:33:00Z
+    webUrl: "https://www.jdpower.com/rvs/1994/starcraft"
+    type: article
+    provider:
+      name: jdpower
+      domain: jdpower.com
+    quality: 17
 
 secured: "Pb2XB+4DqvpSl7aoEXI7XW8xvBataf/SBQ7T+ML+7HI4ew0rvX25a0phMcO5y429ziFdB+neuvuwVlmbBN0AmfjouNPwqdDNLFIsMNBO9lA0iH/aTpS2LpzpkTtZWzGS3S9ls4cxzEG31RhGeWdkpIoVx5Xf4N6BAVWqPh/fvCZCpxidXUKLT4fomXFCsJz4b27whHp5iZYE1C4GkhwNYAomBIOuz1dQZGEx0VhFRM6lWKfjRt1p2cezlF1Jn5WicTVzvzbR/NuS7VVKW7W6oT57/ITCusdajq6zKZ4M68bi6E06yPLafq0X3CFgGdEHGnIDFO60Jht6LGHbPmnl1y96/Xr+sqhFOU9hccYOREE=;b2gKf0q4CVsTQcUGRbUn5w=="
 ---

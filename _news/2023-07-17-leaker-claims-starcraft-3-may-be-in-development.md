@@ -56,6 +56,15 @@ related:
         width: 1920
         height: 1155
         isCached: true
+  - title: "1994 Starcraft Prices, Values and Specs"
+    excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
+    publishedDateTime: 2023-07-19T08:33:00Z
+    webUrl: "https://www.jdpower.com/rvs/1994/starcraft"
+    type: article
+    provider:
+      name: jdpower
+      domain: jdpower.com
+    quality: 17
 
 secured: "PoYpK5mABxaVDgT4X8Njm7TtoKeXqlmNIfzqqWRfEexvlnW7z95k1Y6BrzB6xVKo+BaZMYkMpD7Awd0oSna7NzFyWRINHQmCX5lzM18brB05lvAE6Rzwv94mAhZaSfkBLSUUWBSkdQzjG240jq3kZbkMXt4v9Ecg//2KrRCKcWiuEu0QNAuRZOEi3LnEIuFxjC6PnrwqGAnzYTuXn0LGNo8+TycUgdNem4e4xBTiZDRcvYcoFClabeuHpFD69DIWiKLsvL2vAzgX62QhFrckoKM5gjilNlF51m2M5aMOdvVCQTDIZpe+R7MgN70Qgcz4vtiCloo9gpKJtgbC3FRKNiJBXq5U+1ZRvtk+b9rMMYb58ZbJFoEzIZQpP376W79dq/g0wq/as54a4ZVyySBbPFygs54FIv0hHQRny0bxVg9XfuBB+lO+dypiOJuScoV1aiLb2GmtwLSGi10GmmLTSx8LiCmnJE6ruZF7s7Sa5kNTrJqQqekjv0GV/VucXLA+hu0iHTFqgH2i+xWXbrIz9w==;qfyHbs/+N8RdWRK8nKekzQ=="
 ---

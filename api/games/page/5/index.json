@@ -4,14 +4,14 @@
   "page": 5,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-epic-match-clem-vs-dark-best-of-7.md",
-      "title": "StarCraft 2: EPIC MATCH - Clem vs Dark! (Best-of-7)",
-      "excerpt": "Epic match of professional StarCraft 2 between Clem and Dark. In this best-of-7 series from the TSL 7 we watch two top level pro gamers fight it out in some very clever games. Clem doesn't really lose Terran versus Zerg in Europe anymore, but Dark plays a Korean version of ZvT that's different than what",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-match-clem-vs-dark-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-match-clem-vs-dark-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=EWWcg5XNqzM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EWWcg5XNqzM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H31M51S",
+      "path": "_games/lowkotv-starcraft-2-scarlett-drone-rushes-hero-best-of-5.md",
+      "title": "StarCraft 2: Scarlett DRONE RUSHES herO! (Best-of-5)",
+      "excerpt": "High level match of StarCraft 2 played on brand new maps from the Team Liquid Map Contest (TLMC). This best-of-5 is between Scarlett and herO. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scarlett-drone-rushes-hero-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarlett-drone-rushes-hero-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=9-LpJ02EtNw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9-LpJ02EtNw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M17S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -26,12 +26,13 @@
       },
       "topics": [
         "StarCraft 2",
+        "Protoss",
         "Zerg"
       ],
       "heat": 66,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/EWWcg5XNqzM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9-LpJ02EtNw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -39,7 +40,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-07-02T04:57:54-07:00"
+      "publishedDateTime": "2023-06-21T05:36:29-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-the-twists-and-turns-in-this-one-game-pvz.md",

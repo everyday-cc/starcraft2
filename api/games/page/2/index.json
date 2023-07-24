@@ -529,45 +529,6 @@
       "publishedDateTime": "2022-08-24T19:41:45-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-scarlett-drone-rushes-hero-best-of-5.md",
-      "title": "StarCraft 2: Scarlett DRONE RUSHES herO! (Best-of-5)",
-      "excerpt": "High level match of StarCraft 2 played on brand new maps from the Team Liquid Map Contest (TLMC). This best-of-5 is between Scarlett and herO. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scarlett-drone-rushes-hero-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarlett-drone-rushes-hero-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=9-LpJ02EtNw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9-LpJ02EtNw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M17S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 126,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9-LpJ02EtNw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-21T05:36:29-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-darks-100-mutalisks-vs-classic-ksl-finals.md",
       "title": "StarCraft 2: Dark's 100+ MUTALISKS vs Classic! (KSL Finals)",
       "excerpt": "Finals of the Korean StarCraft League 17! This is a best-of-5 series of top level StarCraft 2 between Dark (Zerg) and Classic (Protoss). While Classic would be happy to play the macro game, Dark has different plans. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
@@ -925,6 +886,37 @@
       "publishedDateTime": "2023-05-23T05:23:22-07:00"
     },
     {
+      "path": "_games/pig-terran-forces-zerg-to-all-in-then-cries-about-it-salt-mines-37-starcraft-2.md",
+      "title": "Terran forces Zerg to all-in then cries about it | Salt Mines #37 - StarCraft 2",
+      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-terran-forces-zerg-to-all-in-then-cries-about-it-salt-mines-37-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-terran-forces-zerg-to-all-in-then-cries-about-it-salt-mines-37-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=ggirRxPfjCI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ggirRxPfjCI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M50S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 116,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ggirRxPfjCI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-06-08T03:41:50-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-seige-tactics-g1.md",
       "title": "StarCraft 2 - When You Build a Base In Their Base... | ICYFAR \"Seige Tactics\" G1",
       "excerpt": "🤯 NEW ICYFAR CHALLENGE: One Base Openers - You're not allowed to start building an expansion until after 5:00. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 21st May. -- 🤯 In this week’s episode of I Cast Your",
@@ -992,14 +984,14 @@
       "publishedDateTime": "2023-06-29T04:24:12-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-gsl-code-s-finals-maru-vs-cure.md",
-      "title": "StarCraft 2: GSL CODE S FINALS - Maru vs Cure!",
-      "excerpt": "Professional match of StarCraft 2 between Maru (Terran) and Cure (Terran). This match of SC2 is the final game of the GSL Code S 2023 Season 1 Grand Finals and is an absolute master class of Terran vs Terran. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gsl-code-s-finals-maru-vs-cure/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gsl-code-s-finals-maru-vs-cure/",
-      "originalUrl": "https://youtube.com/watch?v=kPYIzZNxuPM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kPYIzZNxuPM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M22S",
+      "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",
+      "title": "StarCraft 2: Erik's SURPRISES GuMiho with Zerg Drops! (Best-of-3)",
+      "excerpt": "Best-of-3 series of Zerg vs Terran in StarCraft 2 between Erik and GuMiho. This is a series with some very unique Zerg strategies and build orders. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=TJezGProI74",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TJezGProI74\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M31S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1014,12 +1006,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Terran",
+        "Zerg"
       ],
-      "heat": 111,
+      "heat": 106,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/kPYIzZNxuPM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/TJezGProI74/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1027,7 +1020,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-05-19T03:13:33-07:00"
+      "publishedDateTime": "2023-05-22T03:49:14-07:00"
     }
   ],
   "nextPage": 3

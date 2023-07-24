@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidheadlines.com/2023/07/blizzard-starcraft-3-develo
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/blizzard-starcraft-3-development-rumored-current.html?utm_content=buffer0ed8e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&amp"
 type: article
 quality: 57
-heat: 120
+heat: 121
 published: true
 
 provider:

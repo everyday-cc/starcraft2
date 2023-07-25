@@ -1049,6 +1049,7 @@ items:
   - pig-neural-parasite-triggers-rage-meltdown-from-toss-salt-mines-38-starcraft-2
   - pig-simple-nexus-recall-rush-trick-fools-opponent-mape-the-ape-3-starcraft-2
   - pig-genius-proxy-hatch-breaks-reynors-brain-starcraft-2
+  - pig-this-one-weird-trick-destroys-proxy-hatch-starcraft-2
   - pig-wings-of-liberty-nightmare-difficulty-the-great-train-robbery-part-8-starcraft-2
   - pig-dumb-proxy-rax-leaves-zerg-utterly-bewildered-icyfar-weird-harassment-starcraft-2
   - pig-wings-of-liberty-nightmare-difficulty-1st-protoss-mission-whispers-of-doom-part-9-starcraft-2

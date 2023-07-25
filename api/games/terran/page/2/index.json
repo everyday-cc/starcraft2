@@ -28,7 +28,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 71,
+      "heat": 74,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/jEbrekEvWZE/maxresdefault.jpg",
@@ -267,6 +267,45 @@
       "publishedDateTime": "2022-01-18T04:54:46-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-incredible-micro-byun-vs-classic-grand-finals.md",
+      "title": "StarCraft 2: INCREDIBLE MICRO - ByuN vs Classic! (Grand Finals)",
+      "excerpt": "Best-of-5 series of high level StarCraft 2 between Classic (Protoss) and ByuN (Terran). This series is the Grand Finals of the ESL Open Cup 175 Korea. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-micro-byun-vs-classic-grand-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-incredible-micro-byun-vs-classic-grand-finals/",
+      "originalUrl": "https://youtube.com/watch?v=zblKV7sa2Bs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zblKV7sa2Bs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M29S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zblKV7sa2Bs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-06-01T04:06:27-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-pro-2v2-serral-maru-solar-oliveira-best-of-7.md",
       "title": "StarCraft 2: PRO 2v2 - Serral, Maru, Solar & Oliveira! (Best-of-7)",
       "excerpt": "Best-of-7 series of top level StarCraft 2 in the 2v2 game mode! In this video I cast a series of 2 vs 2 between Serral (Zerg) & Oliveira (Terran) and Maru (Terran) and Solar (Zerg).  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko",
@@ -500,45 +539,6 @@
       "publishedDateTime": "2023-06-07T06:49:22-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-europes-strongest-terran-vs-the-number-1-protoss-clem-vs-maxpax.md",
-      "title": "StarCraft 2: EUROPE's Strongest Terran vs the Number 1 Protoss! (Clem vs MaxPax)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between Clem (Terran) and MaxPax (Protoss). All games in this best-of-3 series are played on the maps from the Team Liquid Map Contest (TLMC). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-europes-strongest-terran-vs-the-number-1-protoss-clem-vs-maxpax/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-europes-strongest-terran-vs-the-number-1-protoss-clem-vs-maxpax/",
-      "originalUrl": "https://youtube.com/watch?v=Z0LsR0wRI1g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z0LsR0wRI1g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M17S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Z0LsR0wRI1g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-22T04:34:37-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-great-series-serral-vs-maru-best-of-5.md",
       "title": "StarCraft 2: GREAT SERIES - Serral vs Maru! (Best-of-5)",
       "excerpt": "A best-of-5 series between the best players that StarCraft 2 has to offer. In this video I cast a Zerg versus Terran in SC2 between Serral, the current World Champion of StarCraft, and Maru, the most succesful player from South Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
@@ -578,14 +578,14 @@
       "publishedDateTime": "2022-05-04T04:56:34-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-incredible-micro-byun-vs-classic-grand-finals.md",
-      "title": "StarCraft 2: INCREDIBLE MICRO - ByuN vs Classic! (Grand Finals)",
-      "excerpt": "Best-of-5 series of high level StarCraft 2 between Classic (Protoss) and ByuN (Terran). This series is the Grand Finals of the ESL Open Cup 175 Korea. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-micro-byun-vs-classic-grand-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-incredible-micro-byun-vs-classic-grand-finals/",
-      "originalUrl": "https://youtube.com/watch?v=zblKV7sa2Bs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zblKV7sa2Bs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M29S",
+      "path": "_games/lowkotv-starcraft-2-europes-strongest-terran-vs-the-number-1-protoss-clem-vs-maxpax.md",
+      "title": "StarCraft 2: EUROPE's Strongest Terran vs the Number 1 Protoss! (Clem vs MaxPax)",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 between Clem (Terran) and MaxPax (Protoss). All games in this best-of-3 series are played on the maps from the Team Liquid Map Contest (TLMC). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-europes-strongest-terran-vs-the-number-1-protoss-clem-vs-maxpax/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-europes-strongest-terran-vs-the-number-1-protoss-clem-vs-maxpax/",
+      "originalUrl": "https://youtube.com/watch?v=Z0LsR0wRI1g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z0LsR0wRI1g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M17S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -606,7 +606,7 @@
       "heat": 60,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/zblKV7sa2Bs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Z0LsR0wRI1g/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -614,7 +614,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-06-01T04:06:27-07:00"
+      "publishedDateTime": "2023-06-22T04:34:37-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-rank-1-terran-vs-rank-1-protoss-maru-vs-hero.md",
@@ -1039,7 +1039,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 51,
+          "heat": 50,
           "tags": [
             "Live"
           ],

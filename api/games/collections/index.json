@@ -329,7 +329,7 @@
           "publishedDateTime": "2018-05-24T00:49:07-07:00"
         }
       ],
-      "size": 1045,
+      "size": 1046,
       "heat": 61,
       "images": [
         {
@@ -1654,7 +1654,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 51,
+          "heat": 50,
           "tags": [
             "Live"
           ],

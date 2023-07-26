@@ -4,36 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_games/pig-the-sewer-mermaid-slips-behind-enemy-lines-florencio-files-279-starcraft-2.md",
-      "title": "The Sewer Mermaid slips behind enemy lines | Florencio Files #279 - StarCraft 2",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-sewer-mermaid-slips-behind-enemy-lines-florencio-files-279-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-sewer-mermaid-slips-behind-enemy-lines-florencio-files-279-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=qdGp6Rkvlok",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qdGp6Rkvlok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 87,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qdGp6Rkvlok/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-04-22T22:23:01-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-amazing-grand-finals-dark-vs-maru-best-of-7.md",
       "title": "StarCraft 2: AMAZING Grand Finals - Dark vs Maru! (Best-of-7)",
       "excerpt": "Best-of-7 series of top level StarCraft 2 between Dark and Maru. This Zerg vs Terran is the Grand Finals of the AfreecaTV Champions Cup, a $15k tournament that recently took place.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
@@ -71,82 +41,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-11T02:14:17-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-violent-games-darks-strange-zerg-strategies-finals.md",
-      "title": "StarCraft 2: VIOLENT GAMES - Dark's STRANGE Zerg Strategies! (Finals)",
-      "excerpt": "Best-of-5 series of high level StarCraft 2 that's the finals of the Korean StarCraft League 16. This match is between herO (Protoss) and Dark (Zerg). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-violent-games-darks-strange-zerg-strategies-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-violent-games-darks-strange-zerg-strategies-finals/",
-      "originalUrl": "https://youtube.com/watch?v=wQZrEIkhWtc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wQZrEIkhWtc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT55M37S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 84,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wQZrEIkhWtc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-27T04:58:20-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-reynor-vs-spirit-is-the-longest-match-in-years.md",
-      "title": "StarCraft 2: Reynor vs Spirit is the LONGEST Match in Years?!",
-      "excerpt": "Professional match of StarCraft 2 between Reynor (Zerg) and Spirit (Terran). This is the longest game of high level StarCraft 2 that I've seen in a very long time.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynor-vs-spirit-is-the-longest-match-in-years/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynor-vs-spirit-is-the-longest-match-in-years/",
-      "originalUrl": "https://youtube.com/watch?v=cRLcG5uGcP4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cRLcG5uGcP4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H15M7S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 81,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cRLcG5uGcP4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-28T08:14:52-07:00"
     },
     {
       "path": "_games/pig-hero-drone-lets-me-get-away-with-3-hatch-before-pool-mac-or-cheese-4-starcraft-2.md",
@@ -216,6 +110,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-06-24T04:53:30-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-scarlett-gets-mech-rushed-by-kelazhur-best-of-5.md",
+      "title": "StarCraft 2: Scarlett gets MECH RUSHED by Kelazhur! (Best-of-5)",
+      "excerpt": "Best-of-5 series of high level StarCraft 2 from the ESL Masters Summer America between Scarlett (Zerg) and Kelazhur (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scarlett-gets-mech-rushed-by-kelazhur-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarlett-gets-mech-rushed-by-kelazhur-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=JxWurtvSGmw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JxWurtvSGmw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT51M10S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 80,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JxWurtvSGmw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-06-08T04:53:40-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-elazer-swarms-clem-best-of-5.md",
@@ -390,14 +322,14 @@
       "publishedDateTime": "2022-06-01T23:45:11-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-cure-best-of-5.md",
-      "title": "StarCraft 2: SERRAL vs CURE! (Best-of-5)",
-      "excerpt": "A best-of-5 series of top level StarCraft 2 between Serral and Cure, the current number 1 and 2 on Aligulac. While Serral is clearly the more accomplished of the two, Cure does a great job playing both Terran Mech and Terran Bio. Serral focuses primarily on Zerglings, Banelings and Hydralisks, but mixes",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-cure-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-cure-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=BZeCPfOKjvs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BZeCPfOKjvs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H22S",
+      "path": "_games/lowkotv-starcraft-2-violent-games-darks-strange-zerg-strategies-finals.md",
+      "title": "StarCraft 2: VIOLENT GAMES - Dark's STRANGE Zerg Strategies! (Finals)",
+      "excerpt": "Best-of-5 series of high level StarCraft 2 that's the finals of the Korean StarCraft League 16. This match is between herO (Protoss) and Dark (Zerg). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-violent-games-darks-strange-zerg-strategies-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-violent-games-darks-strange-zerg-strategies-finals/",
+      "originalUrl": "https://youtube.com/watch?v=wQZrEIkhWtc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wQZrEIkhWtc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT55M37S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -417,7 +349,7 @@
       "heat": 77,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/BZeCPfOKjvs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wQZrEIkhWtc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -425,7 +357,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-01-31T00:50:43-08:00"
+      "publishedDateTime": "2023-06-27T04:58:20-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-epic-match-clem-vs-dark-best-of-7.md",
@@ -466,14 +398,14 @@
       "publishedDateTime": "2021-07-02T04:57:54-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-scarlett-gets-mech-rushed-by-kelazhur-best-of-5.md",
-      "title": "StarCraft 2: Scarlett gets MECH RUSHED by Kelazhur! (Best-of-5)",
-      "excerpt": "Best-of-5 series of high level StarCraft 2 from the ESL Masters Summer America between Scarlett (Zerg) and Kelazhur (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scarlett-gets-mech-rushed-by-kelazhur-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarlett-gets-mech-rushed-by-kelazhur-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=JxWurtvSGmw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JxWurtvSGmw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT51M10S",
+      "path": "_games/lowkotv-starcraft-2-serral-vs-cure-best-of-5.md",
+      "title": "StarCraft 2: SERRAL vs CURE! (Best-of-5)",
+      "excerpt": "A best-of-5 series of top level StarCraft 2 between Serral and Cure, the current number 1 and 2 on Aligulac. While Serral is clearly the more accomplished of the two, Cure does a great job playing both Terran Mech and Terran Bio. Serral focuses primarily on Zerglings, Banelings and Hydralisks, but mixes",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-cure-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-cure-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=BZeCPfOKjvs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BZeCPfOKjvs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H22S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -493,7 +425,7 @@
       "heat": 76,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/JxWurtvSGmw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/BZeCPfOKjvs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -501,7 +433,45 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-06-08T04:53:40-07:00"
+      "publishedDateTime": "2020-01-31T00:50:43-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-zero-workers-clem-non-stop-cheese-vs-byun.md",
+      "title": "StarCraft 2: ZERO WORKERS - Clem NON-STOP CHEESE vs ByuN!",
+      "excerpt": "Professional match of StarCraft 2 (SC2) between ByuN and Clem. This Terran vs Terran is the finals of the ESL Open Cup 183. An amazing series where Clem won't stop cheesing ByuN. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zero-workers-clem-non-stop-cheese-vs-byun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zero-workers-clem-non-stop-cheese-vs-byun/",
+      "originalUrl": "https://youtube.com/watch?v=jhbEkxqRC7s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jhbEkxqRC7s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M38S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 76,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jhbEkxqRC7s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-12T04:45:37-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-proxy-hatch-and-burrow-is-this-a-new-dumb-zvt-build-icyfar-siege-tactics-g1.md",
@@ -531,6 +501,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-27T19:49:36-07:00"
+    },
+    {
+      "path": "_games/pig-the-craziest-response-to-a-proxy-hatch-ever-starcraft-2.md",
+      "title": "The CRAZIEST response to a Proxy Hatch EVER - StarCraft 2",
+      "excerpt": "Reaper (Zerg) does a proxy hatch to Nina (Protoss) and she responds with a mothership?!? -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-craziest-response-to-a-proxy-hatch-ever-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-craziest-response-to-a-proxy-hatch-ever-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=4wK7tNdg4BU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4wK7tNdg4BU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M39S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 76,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4wK7tNdg4BU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-06T16:56:05-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-american-grand-finals-scarlett-vs-astrea-best-of-7.md",
@@ -743,6 +742,44 @@
       "publishedDateTime": "2023-07-04T02:54:18-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-reynor-vs-spirit-is-the-longest-match-in-years.md",
+      "title": "StarCraft 2: Reynor vs Spirit is the LONGEST Match in Years?!",
+      "excerpt": "Professional match of StarCraft 2 between Reynor (Zerg) and Spirit (Terran). This is the longest game of high level StarCraft 2 that I've seen in a very long time.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynor-vs-spirit-is-the-longest-match-in-years/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynor-vs-spirit-is-the-longest-match-in-years/",
+      "originalUrl": "https://youtube.com/watch?v=cRLcG5uGcP4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cRLcG5uGcP4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H15M7S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 74,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cRLcG5uGcP4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-28T08:14:52-07:00"
+    },
+    {
       "path": "_games/pig-is-beating-1v7-insane-ai-even-possible-no-beastyqt-has-not-done-it-starcraft-2.md",
       "title": "Is beating 1v7 INSANE AI even possible? (no, Beastyqt has not done it) - StarCraft 2",
       "excerpt": "I have challenged StarCraft 2 Pros to take on 7 INSANE Cheater AIs at once! Serral has said it is impossible unless maybe they're all Zergs. The first person brave enough to try it is Spirit (Soul), a Terran player. He takes on 7 Random insane AIs all on Any Build. Then he tried 7 Zergs. Then he tries",
@@ -811,14 +848,14 @@
       "publishedDateTime": "2023-06-23T03:09:00-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-scarlett-drone-rushes-hero-best-of-5.md",
-      "title": "StarCraft 2: Scarlett DRONE RUSHES herO! (Best-of-5)",
-      "excerpt": "High level match of StarCraft 2 played on brand new maps from the Team Liquid Map Contest (TLMC). This best-of-5 is between Scarlett and herO. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scarlett-drone-rushes-hero-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarlett-drone-rushes-hero-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=9-LpJ02EtNw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9-LpJ02EtNw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M17S",
+      "path": "_games/lowkotv-starcraft-2-heros-double-proxy-nexus-vs-byun-best-of-3.md",
+      "title": "StarCraft 2: herO's DOUBLE Proxy Nexus vs ByuN! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between herO (Protoss) and ByuN (Terran). This series is from the ESL Open Cup 181 for South Korea. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-double-proxy-nexus-vs-byun-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-double-proxy-nexus-vs-byun-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=KKhZmvHbh7o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KKhZmvHbh7o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M2S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -833,13 +870,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
-        "Zerg"
+        "Terran",
+        "Protoss"
       ],
       "heat": 71,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/9-LpJ02EtNw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/KKhZmvHbh7o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -847,7 +884,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-06-21T05:36:29-07:00"
+      "publishedDateTime": "2023-06-28T02:16:47-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-innovation.md",
@@ -889,43 +926,6 @@
       "publishedDateTime": "2019-08-19T04:11:17-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-why-harstem-hates-carriers.md",
-      "title": "StarCraft 2: WHY?! Harstem HATES Carriers!",
-      "excerpt": "Professional match of StarCraft 2 from the ESL SC2 Masters Summer. This game is a Zerg versus Protoss between DRG and Harstem. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-why-harstem-hates-carriers/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-why-harstem-hates-carriers/",
-      "originalUrl": "https://youtube.com/watch?v=usbdkVOUNao",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/usbdkVOUNao\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M32S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 70,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/usbdkVOUNao/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-22T03:35:31-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-bad-manners-lowkos-4th-viewer-tournament-best-sc2-games.md",
       "title": "StarCraft 2: BAD MANNERS - Lowko's 4th Viewer Tournament! (Best SC2 Games)",
       "excerpt": "All the best StarCraft 2 games from the 4th Lowko Viewer Tournament. In this video I cast StarCraft matches together with Rushi, in an event that was open for players from Bronze League to Master League.  0:00:00 Intro 0:02:53 MALLEN vs SalyT 0:14:49 EchoSoldier vs Amemiya 0:25:52 AgentX vs Samme 0:31:46",
@@ -963,14 +963,14 @@
       "publishedDateTime": "2022-09-07T02:52:01-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-heros-double-proxy-nexus-vs-byun-best-of-3.md",
-      "title": "StarCraft 2: herO's DOUBLE Proxy Nexus vs ByuN! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between herO (Protoss) and ByuN (Terran). This series is from the ESL Open Cup 181 for South Korea. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-double-proxy-nexus-vs-byun-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-double-proxy-nexus-vs-byun-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=KKhZmvHbh7o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KKhZmvHbh7o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M2S",
+      "path": "_games/lowkotv-starcraft-2-why-harstem-hates-carriers.md",
+      "title": "StarCraft 2: WHY?! Harstem HATES Carriers!",
+      "excerpt": "Professional match of StarCraft 2 from the ESL SC2 Masters Summer. This game is a Zerg versus Protoss between DRG and Harstem. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-why-harstem-hates-carriers/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-why-harstem-hates-carriers/",
+      "originalUrl": "https://youtube.com/watch?v=usbdkVOUNao",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/usbdkVOUNao\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M32S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -984,14 +984,12 @@
         ]
       },
       "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
+        "StarCraft 2"
       ],
       "heat": 69,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/KKhZmvHbh7o/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/usbdkVOUNao/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -999,7 +997,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-06-28T02:16:47-07:00"
+      "publishedDateTime": "2023-06-22T03:35:31-07:00"
     },
     {
       "path": "_games/pig-i-made-sneaky-corner-bases-against-grandmasters-starcraft-2.md",

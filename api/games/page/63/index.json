@@ -4,64 +4,6 @@
   "page": 63,
   "value": [
     {
-      "path": "_games/pig-blink-twice-if-your-in-danger-recycling-icyfar-g3.md",
-      "title": "Blink Twice if Your in Danger | Recycling ICYFAR G3",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to use the same units as much as possible without losing them.   NEW ICYFAR CHALLENGE: \"Asserting Dominance\" - Announce your strategy to your opponent at the start of the game. Bonus",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-blink-twice-if-your-in-danger-recycling-icyfar-g3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-blink-twice-if-your-in-danger-recycling-icyfar-g3/",
-      "originalUrl": "https://youtube.com/watch?v=-LlGLqRdGz4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-LlGLqRdGz4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-LlGLqRdGz4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-blocking-literally-the-entire-map-observation-balloons-g2.md",
-      "title": "Blocking literally the ENTIRE map - Observation balloons G2",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they brought as many useless units or buildings to each fight as possible. Let the upper classes observe the peasants bleed for them!  CURRENT ICYFAR CHALLENGE: \"Binary Impersonation - Do your best",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-blocking-literally-the-entire-map-observation-balloons-g2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-blocking-literally-the-entire-map-observation-balloons-g2/",
-      "originalUrl": "https://youtube.com/watch?v=e1cZt8Nda5I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e1cZt8Nda5I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M47S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/e1cZt8Nda5I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-blood-sacrifice-blood-for-the-blood-gods-icyfar-7.md",
       "title": "Blood Sacrifice - Blood for the Blood Gods! | ICYFAR #7",
       "excerpt": "Next week's challenge: Proxcity - Send in your replays where you use at least one proxy tech or production - The more proxies, the better! Submit replays to eonblu95@gmail.com as attachment. Latest submission is before the monday(US/EU) / tuesday(AUS) daily.\r Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb",
@@ -910,6 +852,64 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-02T17:27:28-07:00"
+    },
+    {
+      "path": "_games/pig-cheesedown-3-has-vs-noregret.md",
+      "title": "Cheesedown #3 - Has vs NoRegret",
+      "excerpt": "The cheesiest Protoss fights against the cheesiest zerg in their 3rd best of 7 CHEESEDOWN showmatch . Big thanks to CraywithaK for sponsoring the prize money!  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-cheesedown-3-has-vs-noregret/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-cheesedown-3-has-vs-noregret/",
+      "originalUrl": "https://youtube.com/watch?v=cSVIEy7CWxs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cSVIEy7CWxs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT52M18S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cSVIEy7CWxs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-02T17:27:37-07:00"
+    },
+    {
+      "path": "_games/pig-cheesedown-has-vs-noregret-g1.md",
+      "title": "CHEESEDOWN! Has vs NoRegreT - G1",
+      "excerpt": "I cast a bo7 $100USD Showmatch between the two craziest players out there, Has and Noregret! Both play wild, aggressive, and all-in styles. They love proxies and 1-base plays and NEVER play standard. This series lived up to the hype as we decide who is the KING OF CHEESE! -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-cheesedown-has-vs-noregret-g1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-cheesedown-has-vs-noregret-g1/",
+      "originalUrl": "https://youtube.com/watch?v=figzGDNCrmo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/figzGDNCrmo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M42S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/figzGDNCrmo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-12-05T01:38:51-08:00"
     }
   ],
   "nextPage": 64

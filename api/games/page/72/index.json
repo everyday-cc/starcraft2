@@ -4,69 +4,6 @@
   "page": 72,
   "value": [
     {
-      "path": "_games/pig-protoss-bloodsport-observation-balloons-g1.md",
-      "title": "Protoss Bloodsport - Observation Balloons G1",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they brought as many useless units or buildings to each fight as possible. Let the upper classes observe the peasants bleed for them!  CURRENT ICYFAR CHALLENGE: \"Binary Impersonation - Do your best",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-protoss-bloodsport-observation-balloons-g1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-protoss-bloodsport-observation-balloons-g1/",
-      "originalUrl": "https://youtube.com/watch?v=qW4q-JN5zdU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qW4q-JN5zdU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M2S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qW4q-JN5zdU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-protoss-on-protoss-crime-king-of-cannons-15-starcraft-2.md",
-      "title": "PROTOSS ON PROTOSS CRIME | King of Cannons #15 - StarCraft 2",
-      "excerpt": "Cannon rushes all day erry day! The King is back! 🐷 Support PiG: https://www.pigstarcraft.com/support/  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf -- 🐖 Watch live on https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-protoss-on-protoss-crime-king-of-cannons-15-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-protoss-on-protoss-crime-king-of-cannons-15-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=BMpRDyR1wdg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BMpRDyR1wdg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Cheese"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BMpRDyR1wdg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-23T23:43:08-07:00"
-    },
-    {
       "path": "_games/pig-protoss-on-protoss-crime-king-of-cannons-15.md",
       "title": "PROTOSS ON PROTOSS CRIME | King of Cannons #15",
       "excerpt": "Cannon rushes all day erry day! The King is back! 🐷 Support PiG: https://www.pigstarcraft.com/support/  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf -- 🐖 Watch live on https://www.twitch.tv/x5_pig",
@@ -917,6 +854,64 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-25T14:29:34-08:00"
+    },
+    {
+      "path": "_games/pig-sacrificing-units-to-confuse-the-enemy-santa-claws-7.md",
+      "title": "Sacrificing units to confuse the enemy! | Santa Claws #7",
+      "excerpt": "🎅 Santa Claws impressed in his Starcraft Smooth Brain audition and has been granted an opportunity to be the next Smooth Brain. Will he impress or will his brain prove too wrinkled?   🎅 Santa Claws Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh -- 🐷 Second Channel",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-sacrificing-units-to-confuse-the-enemy-santa-claws-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-sacrificing-units-to-confuse-the-enemy-santa-claws-7/",
+      "originalUrl": "https://youtube.com/watch?v=bFuOQvTjXrg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bFuOQvTjXrg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M15S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bFuOQvTjXrg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-12-27T14:40:13-08:00"
+    },
+    {
+      "path": "_games/pig-sacrificing-units-to-confuse-the-enemy-smooth-brain-santa-claws-7.md",
+      "title": "Sacrificing units to confuse the enemy! | Smooth Brain Santa Claws #7",
+      "excerpt": "🎅 Santa Claws impressed in his Starcraft Smooth Brain audition and has been granted an opportunity to be the next Smooth Brain. Will he impress or will his brain prove too wrinkled?   🎅 Santa Claws Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh -- 🐷 Second Channel",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-sacrificing-units-to-confuse-the-enemy-smooth-brain-santa-claws-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-sacrificing-units-to-confuse-the-enemy-smooth-brain-santa-claws-7/",
+      "originalUrl": "https://youtube.com/watch?v=bFuOQvTjXrg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bFuOQvTjXrg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M15S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bFuOQvTjXrg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-12-27T14:40:13-08:00"
     }
   ],
   "nextPage": 73

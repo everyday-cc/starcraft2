@@ -56,6 +56,15 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "Blizzard may be working on StarCraft 3"
+    excerpt: "StarCraft 3 is rumored to be in development over at Blizzard, according to a new report from Insider Gaming. IG is sourcing the details from a now deleted"
+    publishedDateTime: 2023-07-16T22:43:00Z
+    webUrl: "https://www.inferse.com/618999/blizzard-may-be-working-on-starcraft-3/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 17
   - title: "1994 Starcraft Prices, Values and Specs"
     excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
     publishedDateTime: 2023-07-19T08:33:00Z

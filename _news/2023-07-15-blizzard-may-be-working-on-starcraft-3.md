@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidheadlines.com/2023/07/blizzard-starcraft-3-develo
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/blizzard-starcraft-3-development-rumored-current.html?utm_content=buffer0ed8e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&amp"
 type: article
 quality: 57
-heat: 133
+heat: 145
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 1920
         height: 1155
         isCached: true
+  - title: "Blizzard may be working on StarCraft 3"
+    excerpt: "StarCraft 3 is rumored to be in development over at Blizzard, according to a new report from Insider Gaming. IG is sourcing the details from a now deleted"
+    publishedDateTime: 2023-07-16T22:43:00Z
+    webUrl: "https://www.inferse.com/618999/blizzard-may-be-working-on-starcraft-3/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 17
   - title: "1994 Starcraft Prices, Values and Specs"
     excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
     publishedDateTime: 2023-07-19T08:33:00Z

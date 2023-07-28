@@ -64,6 +64,15 @@ related:
         width: 1920
         height: 1155
         isCached: true
+  - title: "Blizzard may be working on StarCraft 3"
+    excerpt: "StarCraft 3 is rumored to be in development over at Blizzard, according to a new report from Insider Gaming. IG is sourcing the details from a now deleted"
+    publishedDateTime: 2023-07-16T22:43:00Z
+    webUrl: "https://www.inferse.com/618999/blizzard-may-be-working-on-starcraft-3/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 17
 
 secured: "YqkCDkI99ocZiZbmXEC31H+rmOxf/yhY3Za5Rs6nKCbJ1L21on9P9gdo4iD91ZFR7UU5827ALIRyGhrLDBiC2fyTHTTF+6TMTyFaEFpkoYTx2ExEuukO0iZnZo0lZxBhijEBWk7H6ioxX2D1ZzyzOm2Diuvn6MUr+PB7moA+LMpwXvhxHLroKxm7n3SJEK5U2inDtrj/jWgTKIHvlKYUYEjMfcyW3tmrcnSH9sAUuDgr6Oc+M3lXgufP+1trSENM+xLAstIsPxiwhxDD1CMyqshNmrIRtKSHI/NquusBnxKu21HSp0ScGe5AviMSNEkWtoDPhwvPpGIss4xaWZ72b+MSzAVuT9J2JbG0ljsWDss=;zhSN5eR4fjyWjIH2qx5EfA=="
 ---

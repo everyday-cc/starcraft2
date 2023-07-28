@@ -4,6 +4,45 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",
+      "title": "StarCraft 2: soO's Spine Crawler Rush vs Zest! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between soO (Zerg) and Zest (Protoss). After macro games soO decides to go for a Spine Crawler rush versus Zest.  soO vs Cure: https://youtu.be/EfILZ7FPv70 soO vs ByuN: https://youtu.be/mSL43Z7w6A4  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=nQJJ-2RhILc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nQJJ-2RhILc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 106,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nQJJ-2RhILc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-23T11:16:38-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-dark-rushes-ultralisks-vs-byun-best-of-3.md",
       "title": "StarCraft 2: Dark Rushes ULTRALISKS vs ByuN?! (Best-of-3)",
       "excerpt": "Best-of-3 series of top level StarCraft 2 between Dark (Zerg) and ByuN (Terran) on brand new maps. In this series I cast games on the maps from the most recent TLMC (Team Liquid Map Contest).  Serral vs GuMiho (Grand Finals): https://youtu.be/YX4StuIsM_Q Support my work: https://patreon.com/lowkotv Lowko",
@@ -110,6 +149,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-11T05:45:43-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-darks-quickest-game-of-the-year.md",
+      "title": "StarCraft 2: Dark's QUICKEST Game of the Year?!",
+      "excerpt": "Best-of-3 series of StarCraft 2 between Dark (Zerg) and GuMiho (Terran). This series has some of the most creative decision making we see at this level of StarCraft 2. Battlecruisers, Marine cheeses and some very interesting build orders. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-quickest-game-of-the-year/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-quickest-game-of-the-year/",
+      "originalUrl": "https://youtube.com/watch?v=3gcrheWY5yo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3gcrheWY5yo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M39S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 102,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3gcrheWY5yo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-15T02:27:20-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-new-base-layouts-gumiho-vs-solar-on-lazarus-wastes.md",
@@ -1046,83 +1123,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-06-23T03:09:00-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-swarm-host-rush-vs-bio-terran-erik-vs-gumiho.md",
-      "title": "StarCraft 2: SWARM HOST Rush vs Bio Terran?! (Erik vs GuMiho)",
-      "excerpt": "Best-of-3 series from the StarCraft 2 ESL Open Cup between Erik (Zerg) and GuMiho. In this series Erik decides to go for some very strange build orders vs Terran. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  Dark vs Erik: https://youtu.be/InNm98MUfSg  My YouTube channels:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-swarm-host-rush-vs-bio-terran-erik-vs-gumiho/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-swarm-host-rush-vs-bio-terran-erik-vs-gumiho/",
-      "originalUrl": "https://youtube.com/watch?v=SuSs_jjH86Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SuSs_jjH86Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M5S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SuSs_jjH86Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-06T02:29:34-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3.md",
-      "title": "StarCraft 2: TOP-LEVEL SC2 IN 2023 - Dark vs Cure! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between Cure (Terran) and Dark (Zerg). Cure has been playing very well over the last few months, and in this series he takes on one of the best Zerg players. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=c00-MkxW404",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c00-MkxW404\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/c00-MkxW404/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-15T03:58:49-07:00"
     }
   ],
   "nextPage": 3

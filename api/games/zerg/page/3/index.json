@@ -4,6 +4,83 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-swarm-host-rush-vs-bio-terran-erik-vs-gumiho.md",
+      "title": "StarCraft 2: SWARM HOST Rush vs Bio Terran?! (Erik vs GuMiho)",
+      "excerpt": "Best-of-3 series from the StarCraft 2 ESL Open Cup between Erik (Zerg) and GuMiho. In this series Erik decides to go for some very strange build orders vs Terran. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  Dark vs Erik: https://youtu.be/InNm98MUfSg  My YouTube channels:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-swarm-host-rush-vs-bio-terran-erik-vs-gumiho/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-swarm-host-rush-vs-bio-terran-erik-vs-gumiho/",
+      "originalUrl": "https://youtube.com/watch?v=SuSs_jjH86Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SuSs_jjH86Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M5S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SuSs_jjH86Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-06T02:29:34-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3.md",
+      "title": "StarCraft 2: TOP-LEVEL SC2 IN 2023 - Dark vs Cure! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Cure (Terran) and Dark (Zerg). Cure has been playing very well over the last few months, and in this series he takes on one of the best Zerg players. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=c00-MkxW404",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c00-MkxW404\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M34S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/c00-MkxW404/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-15T03:58:49-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-super-high-apm-serrals-first-person-camera-vs-gumiho.md",
       "title": "StarCraft 2: SUPER HIGH APM - Serral's First Person Camera vs GuMiho!",
       "excerpt": "Professional match of StarCraft 2 between Serral and GuMiho. I do this cast completely from Serral's point of view, allowing us to have a look at what he sees during a match of SC2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
@@ -1174,67 +1251,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-07-06T16:49:13-07:00"
-    },
-    {
-      "path": "_games/pig-terran-experiment-confuses-zerg-opponent-2-tvz-games-diamond-in-the-ruff-66-starcraft-2.md",
-      "title": "Terran Experiment Confuses Zerg Opponent (2 TvZ games) | Diamond in the Ruff #66 - StarCraft 2",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-terran-experiment-confuses-zerg-opponent-2-tvz-games-diamond-in-the-ruff-66-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-terran-experiment-confuses-zerg-opponent-2-tvz-games-diamond-in-the-ruff-66-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=RxpSjmptAuM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RxpSjmptAuM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RxpSjmptAuM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-03-09T17:38:59-08:00"
-    },
-    {
-      "path": "_games/pig-zerg-hater-has-angry-meltdown-cos-queens-exist-salt-mines-19-starcraft-2.md",
-      "title": "Zerg hater has angry MELTDOWN cos queens exist | Salt Mines #19 - StarCraft 2",
-      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-zerg-hater-has-angry-meltdown-cos-queens-exist-salt-mines-19-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-zerg-hater-has-angry-meltdown-cos-queens-exist-salt-mines-19-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=bkNNJFQo3zc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bkNNJFQo3zc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M14S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bkNNJFQo3zc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-30T20:56:59-07:00"
     }
   ],
   "nextPage": 4

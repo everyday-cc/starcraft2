@@ -4,6 +4,44 @@
   "page": 29,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-battlecruiser-heroes-maru-vs-innovation.md",
+      "title": "StarCraft 2: BATTLECRUISER HEROES! (Maru vs INnoVation)",
+      "excerpt": "When it comes to top level Terran versus Terran in StarCraft 2, you can't really get a better match than INnoVation versus Maru. Both of these players are ridiculously good. In this game they both decide to play Terran Mech, but both play a different 'flavour' of Mech.  Get more videos & support my work:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-battlecruiser-heroes-maru-vs-innovation/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-battlecruiser-heroes-maru-vs-innovation/",
+      "originalUrl": "https://youtube.com/watch?v=MfPoT1p5Z-o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MfPoT1p5Z-o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M31S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MfPoT1p5Z-o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-20T02:36:53-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-battlecruiser-mayhem-special-vs-soo.md",
       "title": "StarCraft 2: Battlecruiser Mayhem - SpeCial vs soO!",
       "excerpt": "Awesome match of professional StarCraft 2 between SpeCial and soO.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup I use:",
@@ -1107,44 +1145,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-05-24T03:54:32-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-blys-crazy-roach-builds-best-of-3.md",
-      "title": "StarCraft 2: Bly's CRAZY Roach Builds! (Best-of-3)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between Bly and soul. In this series Bly decides to play hyper aggressive strategies, based around the good ol' Roach, a unit we don't see very often versus Bio Terran.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-blys-crazy-roach-builds-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-blys-crazy-roach-builds-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=1m3Ro99LOmo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1m3Ro99LOmo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1m3Ro99LOmo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-04-21T04:30:01-07:00"
     }
   ],
   "nextPage": 30

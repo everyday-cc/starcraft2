@@ -4,6 +4,37 @@
   "page": 13,
   "value": [
     {
+      "path": "_games/pig-the-depot-strategy-to-break-zerg-brains-florencio-files-282-starcraft-2.md",
+      "title": "THE DEPOT STRATEGY TO BREAK ZERG BRAINS | Florencio Files #282 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-depot-strategy-to-break-zerg-brains-florencio-files-282-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-depot-strategy-to-break-zerg-brains-florencio-files-282-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=6oSZOt5ROEo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6oSZOt5ROEo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M58S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6oSZOt5ROEo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-05T18:25:10-07:00"
+    },
+    {
       "path": "_games/pig-the-fastest-map-possible-is-ridiculous-esp-with-bw-units-pigs-lab-starcraft-2.md",
       "title": "The Fastest Map Possible is RIDICULOUS (esp with BW units) | PiG's Lab - StarCraft 2",
       "excerpt": "We paid Special (Terran) and Cham (Zerg) to play on the \"rayfggfer Fastest Map Possible\" arcade map! It is ridiculous from start to finish, including the brood war units available from the Wings of Liberty campaign -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷",
@@ -1040,45 +1071,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-02T04:54:20-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-clems-terran-vs-zerg-is-insane-solar-vs-clem.md",
-      "title": "StarCraft 2: Clem's Terran vs Zerg is INSANE! (Solar vs Clem)",
-      "excerpt": "Professional match of StarCraft 2 between Solar and Clem. In this Terran versus Zerg we watch Clem take control of the early game, but Solar managed to stay alive and strikes back in the late game.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-clems-terran-vs-zerg-is-insane-solar-vs-clem/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-clems-terran-vs-zerg-is-insane-solar-vs-clem/",
-      "originalUrl": "https://youtube.com/watch?v=jOgmyYJJ0Is",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jOgmyYJJ0Is\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M42S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jOgmyYJJ0Is/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-02T03:39:14-07:00"
     }
   ],
   "nextPage": 14

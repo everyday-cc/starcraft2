@@ -1,21 +1,27 @@
 ---
 category: news
-title: "1994 Starcraft Prices, Values and Specs"
-excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
-publishedDateTime: 2023-07-19T08:33:00Z
-originalUrl: "https://www.jdpower.com/rvs/1994/starcraft"
-webUrl: "https://www.jdpower.com/rvs/1994/starcraft"
+title: "StarCraft II Crashing to Desktop Issue Quick and Easy Fix"
+excerpt: "The StarCraft II crashing to desktop issue is usually caused by a corrupted or missing game file. There are also cases when it is caused by an outdated graphics driver or Windows 10 update."
+publishedDateTime: 2023-07-10T20:50:00Z
+originalUrl: "https://thedroidguy.com/starcraft-ii-crashing-to-desktop-issue-quick-and-easy-fix-1136191"
+webUrl: "https://thedroidguy.com/starcraft-ii-crashing-to-desktop-issue-quick-and-easy-fix-1136191"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: jdpower
-  domain: jdpower.com
+  name: The Droid Guy
+  domain: thedroidguy.com
 
 topics:
   - StarCraft 2
+
+images:
+  - url: "https://thedroidguy.com/wp-content/uploads/2020/07/Fixing-The-StarCraft-II-Crashing-to-Desktop-Issue.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Blizzard may be working on StarCraft 3"
@@ -50,20 +56,6 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "StarCraft II Crashing to Desktop Issue Quick and Easy Fix"
-    excerpt: "The StarCraft II crashing to desktop issue is usually caused by a corrupted or missing game file. There are also cases when it is caused by an outdated graphics driver or Windows 10 update."
-    publishedDateTime: 2023-07-10T20:50:00Z
-    webUrl: "https://thedroidguy.com/starcraft-ii-crashing-to-desktop-issue-quick-and-easy-fix-1136191"
-    type: article
-    provider:
-      name: The Droid Guy
-      domain: thedroidguy.com
-    quality: 37
-    images:
-      - url: "https://thedroidguy.com/wp-content/uploads/2020/07/Fixing-The-StarCraft-II-Crashing-to-Desktop-Issue.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Rumor: “Microsoft Won’t Need To Revive StarCraft”"
     excerpt: "Jez Corden has dropped teasers that a new StarCraft game is on the way, prompting the question if Blizzard is ready to make it."
     publishedDateTime: 2023-07-14T12:34:00Z
@@ -87,7 +79,16 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 17
+  - title: "1994 Starcraft Prices, Values and Specs"
+    excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
+    publishedDateTime: 2023-07-19T08:33:00Z
+    webUrl: "https://www.jdpower.com/rvs/1994/starcraft"
+    type: article
+    provider:
+      name: jdpower
+      domain: jdpower.com
+    quality: 17
 
-secured: "YqkCDkI99ocZiZbmXEC31H+rmOxf/yhY3Za5Rs6nKCbJ1L21on9P9gdo4iD91ZFR7UU5827ALIRyGhrLDBiC2fyTHTTF+6TMTyFaEFpkoYTx2ExEuukO0iZnZo0lZxBhijEBWk7H6ioxX2D1ZzyzOm2Diuvn6MUr+PB7moA+LMpwXvhxHLroKxm7n3SJEK5U2inDtrj/jWgTKIHvlKYUYEjMfcyW3tmrcnSH9sAUuDgr6Oc+M3lXgufP+1trSENM+xLAstIsPxiwhxDD1CMyqshNmrIRtKSHI/NquusBnxKu21HSp0ScGe5AviMSNEkWtoDPhwvPpGIss4xaWZ72b+MSzAVuT9J2JbG0ljsWDss=;zhSN5eR4fjyWjIH2qx5EfA=="
+secured: "mDdoY2ygFY9sXni5gHpUleo6Ry6p2mYhEkqgqRtibxx3qp4KVvQoi+76V39JKIGXQIfXku+azRf6CZQJJ+qfQPpXLQwgmxlaLWnIPCYLhHqwHY5wFYVjv2/WxRFGlfzxsCjMuiQfQ7FvDo4kCK5ef+iKYdNLkyc6F3HV+HXkz9sp4lIG+0hRXoJywEH8bDtDRWbXMRtYbpwEpQXW573TTUZwcHNwuuFItSOBKbPktMNjGd878NZM+JHsvdlsAPcusrF7wWMEoO5vHhWP/xbn/CLVsfrh9SCilRNp3P6ScfIBJiC2v8qmnJdAvMYItCwFljgM7GqbIp1JYThwBvSgk6DwLGxFbgk/GCHLDLVBCCk=;XNah1tCrRQvhFKYOuVQ+Sg=="
 ---
 

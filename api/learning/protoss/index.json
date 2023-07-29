@@ -4,6 +4,37 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-lambo-released-a-12-pool-guide-ive-got-the-counter-play.md",
+      "title": "Lambo released a 12 pool guide. I've got the counter play.",
+      "excerpt": "Protoss vs Zerg Guide / Tutorial  In today's video we're looking at an EXTREMELY detailed guide on how to defend 12 pool in the protoss vs zerg matchup. If you lose after watching the full guide, Ill have to ban you.  #ProtossVsZerg #sc2 #guide #tutorial #Starcraft2  Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-lambo-released-a-12-pool-guide-ive-got-the-counter-play/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-lambo-released-a-12-pool-guide-ive-got-the-counter-play/",
+      "originalUrl": "https://youtube.com/watch?v=lUWSahGFjJE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lUWSahGFjJE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M50S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-02-14T21:49:06-08:00",
+      "heat": 115,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lUWSahGFjJE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-guide-how-to-destroy-reaper-hellion-in-under-10-minutes.md",
       "title": "Guide | How To Destroy Reaper Hellion In Under 10 Minutes",
       "excerpt": "Guide | How To Destroy Reaper Hellion In Under 10 Minutes #Protoss #SC2 #Starcraft  ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and",
@@ -35,23 +66,23 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-lambo-released-a-12-pool-guide-ive-got-the-counter-play.md",
-      "title": "Lambo released a 12 pool guide. I've got the counter play.",
-      "excerpt": "Protoss vs Zerg Guide / Tutorial  In today's video we're looking at an EXTREMELY detailed guide on how to defend 12 pool in the protoss vs zerg matchup. If you lose after watching the full guide, Ill have to ban you.  #ProtossVsZerg #sc2 #guide #tutorial #Starcraft2  Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-lambo-released-a-12-pool-guide-ive-got-the-counter-play/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-lambo-released-a-12-pool-guide-ive-got-the-counter-play/",
-      "originalUrl": "https://youtube.com/watch?v=lUWSahGFjJE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lUWSahGFjJE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M50S",
+      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-protoss-build-order-2020.md",
+      "title": "Learn Starcraft 2: EASY Beginner Protoss Build Order (2020)",
+      "excerpt": "Let's learn a very easy, beginner friendly protoss build order! It's a starcraft 2 strategy called the \"four gate\" that attacks really early on. This is a fantastic build order to begin learning the basics of the game.   Click here to join the community: https://www.youtube.com/c/HuShangTutorials?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-protoss-build-order-2020/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-protoss-build-order-2020/",
+      "originalUrl": "https://youtube.com/watch?v=F_C9Vqv6lFE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/F_C9Vqv6lFE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M24S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2021-02-14T21:49:06-08:00",
-      "heat": 112,
+      "publishedDateTime": "2020-06-17T16:29:41-07:00",
+      "heat": 65,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/lUWSahGFjJE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/F_C9Vqv6lFE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -79,41 +110,10 @@
         "domain": "hushangcoaching.com"
       },
       "publishedDateTime": "2021-01-06T20:41:15-08:00",
-      "heat": 67,
+      "heat": 63,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/PD6PYQBfF6Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-protoss-build-order-2020.md",
-      "title": "Learn Starcraft 2: EASY Beginner Protoss Build Order (2020)",
-      "excerpt": "Let's learn a very easy, beginner friendly protoss build order! It's a starcraft 2 strategy called the \"four gate\" that attacks really early on. This is a fantastic build order to begin learning the basics of the game.   Click here to join the community: https://www.youtube.com/c/HuShangTutorials?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-protoss-build-order-2020/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-protoss-build-order-2020/",
-      "originalUrl": "https://youtube.com/watch?v=F_C9Vqv6lFE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/F_C9Vqv6lFE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M24S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-06-17T16:29:41-07:00",
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/F_C9Vqv6lFE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

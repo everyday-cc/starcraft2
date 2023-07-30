@@ -42,20 +42,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "StarCraft II Crashing to Desktop Issue Quick and Easy Fix"
-    excerpt: "The StarCraft II crashing to desktop issue is usually caused by a corrupted or missing game file. There are also cases when it is caused by an outdated graphics driver or Windows 10 update."
-    publishedDateTime: 2023-07-10T20:50:00Z
-    webUrl: "https://thedroidguy.com/starcraft-ii-crashing-to-desktop-issue-quick-and-easy-fix-1136191"
-    type: article
-    provider:
-      name: The Droid Guy
-      domain: thedroidguy.com
-    quality: 37
-    images:
-      - url: "https://thedroidguy.com/wp-content/uploads/2020/07/Fixing-The-StarCraft-II-Crashing-to-Desktop-Issue.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Rumor: “Microsoft Won’t Need To Revive StarCraft”"
     excerpt: "Jez Corden has dropped teasers that a new StarCraft game is on the way, prompting the question if Blizzard is ready to make it."
     publishedDateTime: 2023-07-14T12:34:00Z

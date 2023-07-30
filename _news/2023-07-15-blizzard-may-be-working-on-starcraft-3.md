@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidheadlines.com/2023/07/blizzard-starcraft-3-develo
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/blizzard-starcraft-3-development-rumored-current.html?utm_content=buffer0ed8e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&amp"
 type: article
 quality: 57
-heat: 171
+heat: 152
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://sportshub.cbsistatic.com/i/2023/07/03/67b6ae8d-7d61-42a3-82b8-04b86aebbbfd/new-games-out-this-month-july-2023.png?width=568&height=320"
         width: 568
         height: 320
-        isCached: true
-  - title: "StarCraft II Crashing to Desktop Issue Quick and Easy Fix"
-    excerpt: "The StarCraft II crashing to desktop issue is usually caused by a corrupted or missing game file. There are also cases when it is caused by an outdated graphics driver or Windows 10 update."
-    publishedDateTime: 2023-07-10T20:50:00Z
-    webUrl: "https://thedroidguy.com/starcraft-ii-crashing-to-desktop-issue-quick-and-easy-fix-1136191"
-    type: article
-    provider:
-      name: The Droid Guy
-      domain: thedroidguy.com
-    quality: 37
-    images:
-      - url: "https://thedroidguy.com/wp-content/uploads/2020/07/Fixing-The-StarCraft-II-Crashing-to-Desktop-Issue.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Rumor: “Microsoft Won’t Need To Revive StarCraft”"
     excerpt: "Jez Corden has dropped teasers that a new StarCraft game is on the way, prompting the question if Blizzard is ready to make it."

@@ -4,6 +4,66 @@
   "page": 76,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-dawn-of-the-dumb-the-florencio-files-98.md",
+      "title": "StarCraft 2 - Dawn of the Dumb | The Florencio Files #98",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-dawn-of-the-dumb-the-florencio-files-98/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-dawn-of-the-dumb-the-florencio-files-98/",
+      "originalUrl": "https://youtube.com/watch?v=ucrs1N-OgiA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ucrs1N-OgiA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M20S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ucrs1N-OgiA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-02T10:30:04-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-demon-of-despair-the-florencio-files-150.md",
+      "title": "StarCraft 2 - Demon of Despair | The Florencio Files #150",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-demon-of-despair-the-florencio-files-150/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-demon-of-despair-the-florencio-files-150/",
+      "originalUrl": "https://youtube.com/watch?v=4l9cdXgghEw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4l9cdXgghEw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M27S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4l9cdXgghEw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-07-15T14:00:01-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-denying-every-single-base-florencio-files-196.md",
       "title": "StarCraft 2 - DENYING EVERY SINGLE BASE! | Florencio Files #196",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  Links: Pissing video:  https://www.youtube.com/watch?v=fL7qco6haY4&feature=youtu.be&ab_channel=PoliceCHASE Florencio’s hotkeys: https://twitter.com/FlorencioSC2/status/1327474659365818369?s=20",
@@ -842,66 +902,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-23T19:12:36-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-flo-maxed-out-upgrades-for-the-wrong-units-florencio-files-265.md",
-      "title": "StarCraft 2 - Flo maxed out upgrades... for the wrong units! | Florencio Files #265",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-flo-maxed-out-upgrades-for-the-wrong-units-florencio-files-265/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-flo-maxed-out-upgrades-for-the-wrong-units-florencio-files-265/",
-      "originalUrl": "https://youtube.com/watch?v=nkJKBd8iBKQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nkJKBd8iBKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M10S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nkJKBd8iBKQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-04-20T18:14:08-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-flo-pushes-the-limits-of-one-base-play-florencio-files-264.md",
-      "title": "StarCraft 2 - Flo Pushes the Limits of One-Base Play | Florencio Files #264",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-flo-pushes-the-limits-of-one-base-play-florencio-files-264/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-flo-pushes-the-limits-of-one-base-play-florencio-files-264/",
-      "originalUrl": "https://youtube.com/watch?v=wx62592FMVY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wx62592FMVY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M39S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wx62592FMVY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-04-13T19:34:28-07:00"
     }
   ],
   "nextPage": 77

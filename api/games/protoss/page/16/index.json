@@ -4,6 +4,84 @@
   "page": 16,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-so-many-banelings-serral-vs-neeb.md",
+      "title": "StarCraft 2: SO MANY BANELINGS! (Serral vs Neeb)",
+      "excerpt": "A professional best-of-3 series of StarCraft 2 between two channel favourites, Serral and Neeb. Both of these progamers are considered to be amongst the very best in the world. Serral has been considered the number 1 in the world for several years now. Neeb is the rank 1 from the United States of America.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-so-many-banelings-serral-vs-neeb/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-so-many-banelings-serral-vs-neeb/",
+      "originalUrl": "https://youtube.com/watch?v=jT1Uq39lZO8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jT1Uq39lZO8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M28S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jT1Uq39lZO8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-02-13T04:28:56-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-storm-disruptor-drops-reynor-vs-harstem.md",
+      "title": "StarCraft 2: STORM & DISRUPTOR DROPS! (Reynor vs Harstem)",
+      "excerpt": "Reynor versus Harstem in a professional match of StarCraft 2. While Reynor mostly plays what we consider to be 'standard' at the pro level, Harstem brings some really cool moves to the game with Disruptor and High Templar Storm Drops.  Get more videos & support my work: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-storm-disruptor-drops-reynor-vs-harstem/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-storm-disruptor-drops-reynor-vs-harstem/",
+      "originalUrl": "https://youtube.com/watch?v=GM4VJo-uN5g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GM4VJo-uN5g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GM4VJo-uN5g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-15T02:06:48-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-storm-drops-mana-vs-special.md",
       "title": "StarCraft 2: STORM DROPS! (MaNa vs SpeCial)",
       "excerpt": "Amazing game of professional Terran versus Protoss in StarCraft 2. This game is a constant back-and-forth between some of the best players outside of South Korea. One of the highlights are multiple storm drops that the Protoss player executes with a Warp Prism and several High Templar with Psionic Storm.",
@@ -1082,83 +1160,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-15T04:50:44-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-new-best-protoss.md",
-      "title": "StarCraft 2: The NEW Best Protoss?!",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between MaxPax (Protoss) and Ragnarok (Zerg).  MaxPax recently overtook herO for the rank 1 position of Protoss players on Aligulac.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-new-best-protoss/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-new-best-protoss/",
-      "originalUrl": "https://youtube.com/watch?v=Rj6R2H3K9TM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Rj6R2H3K9TM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Rj6R2H3K9TM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-27T03:17:51-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-new-normal-reynor-vs-stats.md",
-      "title": "StarCraft 2: THE NEW NORMAL! (Reynor vs Stats)",
-      "excerpt": "Amazingly close game of professional StarCraft 2 between Reynor and Stats. This game starts off awkwardly as Reynor is forced right away to take his third base as his first expansion. Stats follows it up with a lethal Adept push but also a very late third base. The game very quickly turns into a chaotic",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-new-normal-reynor-vs-stats/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-new-normal-reynor-vs-stats/",
-      "originalUrl": "https://youtube.com/watch?v=4vvY5jmWU58",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4vvY5jmWU58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4vvY5jmWU58/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-07-20T03:54:17-07:00"
     }
   ],
   "nextPage": 17

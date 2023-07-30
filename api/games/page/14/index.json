@@ -4,83 +4,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-darks-amazing-strategic-variety-best-of-5.md",
-      "title": "StarCraft 2: Dark's AMAZING Strategic Variety! (Best-of-5)",
-      "excerpt": "Dark versus HeroMarine in a best-of-5 series of StarCraft 2. It turns out these two pro gamers are incredibly close in skill level.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-amazing-strategic-variety-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-amazing-strategic-variety-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=Zh-5vTuTMfM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zh-5vTuTMfM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT57M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Zh-5vTuTMfM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-27T04:35:55-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-darks-swarm-hosts-vs-maru.md",
-      "title": "StarCraft 2: Dark's SWARM HOSTS vs Maru?!",
-      "excerpt": "Professional match of StarCraft 2 between Maru and Dark. Maru has been playing a turtle style of Terran versus Zerg lately, and because of that Dark decides to give the most underused Zerg unit a try: The Swarm Host.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-swarm-hosts-vs-maru/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-swarm-hosts-vs-maru/",
-      "originalUrl": "https://youtube.com/watch?v=_HUE_txgIrA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_HUE_txgIrA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_HUE_txgIrA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-04T02:29:47-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-double-gold-rush-new-base-race-map-royal-blood.md",
       "title": "StarCraft 2: DOUBLE GOLD RUSH - New Base Race Map?! (Royal Blood)",
       "excerpt": "In this video I cast several games of StarCraft 2 on a new map called Royal Blood. This map placed 4th overall at the TLMC 17. Despite a short rush distance, this map provides a lot of safety early on by restricting movement of armies and allowing players to expand away from the main attack path. Bases",
@@ -1141,6 +1064,82 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-26T05:00:55-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-maxpaxs-sky-toss-vs-reynors-swarm.md",
+      "title": "StarCraft 2: MaxPax's SKY TOSS vs Reynor's SWARM!",
+      "excerpt": "Professional match of StarCraft 2 between MaxPax (Protoss) and Reynor (Zerg). A long match of Zerg versus Protoss where neither player really wants to fight.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpaxs-sky-toss-vs-reynors-swarm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpaxs-sky-toss-vs-reynors-swarm/",
+      "originalUrl": "https://youtube.com/watch?v=ckffPrVQhEA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ckffPrVQhEA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M3S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ckffPrVQhEA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-12-23T04:04:54-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-mothership-rush-in-a-pro-game-dreamhack-atlanta.md",
+      "title": "StarCraft 2: MOTHERSHIP Rush in a Pro Game?! (Dreamhack Atlanta)",
+      "excerpt": "High level match of StarCraft 2 between Shadown (Protoss) and KingCobra (Protoss) from Dreamhack Atlanta. In this game KingCobra decides to throw all the standard decision making out of the window, and decides to go for a Mothership rush.  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-mothership-rush-in-a-pro-game-dreamhack-atlanta/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-mothership-rush-in-a-pro-game-dreamhack-atlanta/",
+      "originalUrl": "https://youtube.com/watch?v=pXcfO4W4ICA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pXcfO4W4ICA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M10S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pXcfO4W4ICA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-10T04:57:13-08:00"
     }
   ],
   "nextPage": 15

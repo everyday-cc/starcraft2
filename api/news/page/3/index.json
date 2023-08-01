@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-04-starcraft-2-heart-of-the-swarm-walkthrough-skygeirr-3-phantoms-of-the-void.md",
+      "title": "Starcraft 2: Heart of the Swarm Walkthrough Skygeirr 3: Phantoms of the Void",
+      "excerpt": "When the virophage starts constructing, you will get some reinforcements and 2 spine crawlers. Starcraft 2: Heart of the Swarm Walkthrough - Starcraft 2-Heart-of-the-Swarm 788 There are 3 strategies i can think of. First one, the one i use, is mass ultralisks.",
+      "sourceUrl": null,
+      "webUrl": "https://portforward.com/games/walkthroughs/Starcraft-2-Heart-of-the-Swarm/Skygeirr-3-Phantoms-of-the-Void.htm",
+      "originalUrl": "https://portforward.com/games/walkthroughs/Starcraft-2-Heart-of-the-Swarm/Skygeirr-3-Phantoms-of-the-Void.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://portforward.com/games/walkthroughs/Starcraft-2-Heart-of-the-Swarm/default.webp",
+          "width": 1100,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forward",
+        "domain": "portforward.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-starcraft-iis-extended-launch-trailer-revealed.md",
       "title": "StarCraft II’s Extended Launch Trailer Revealed",
       "excerpt": "You may remember that a month ago, Blizzard released a most excellent trailer for StarCraft II to coincide with the NBA finals (of all things): Now, just days before StarCraft II‘s world debut ...",
@@ -1042,49 +1084,6 @@
       ],
       "topics": [
         "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-awesome-lego-starcraft-terran-battlecruiser.md",
-      "title": "Awesome LEGO Starcraft Terran Battlecruiser",
-      "excerpt": "Ah, seeing this Terran Battlecruiser takes me back to my Zerg-killing days. A true Starcraft fan built this awesome LEGO replica and was kind enough to post some photos. Thanks Jerac!",
-      "sourceUrl": null,
-      "webUrl": "https://www.odditycentral.com/tag/lego-starcraft",
-      "originalUrl": "https://www.odditycentral.com/tag/lego-starcraft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.odditycentral.com/wp-content/uploads/2021/01/snakes-750x489.jpg",
-          "width": 750,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-30T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oddity Central",
-        "domain": "odditycentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2",
-        "Terran"
       ]
     }
   ],

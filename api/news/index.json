@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-01-starcraft-ii-5011-hotfix-2-ptr-patch-notes.md",
+      "title": "StarCraft II 5.0.11 Hotfix 2 PTR Patch Notes",
+      "excerpt": "PTR Patch 5.0.11 Hotfix 2 has been released with various bug fixes. Check out the detail!",
+      "sourceUrl": null,
+      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23987086/starcraft-ii-5-0-11-hotfix-2-ptr-patch-notes",
+      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23987086/starcraft-ii-5-0-11-hotfix-2-ptr-patch-notes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T10:19:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2023-07-15-blizzard-may-be-working-on-starcraft-3.md",
       "title": "Blizzard may be working on StarCraft 3",
       "excerpt": "StarCraft 3 is rumored to be in development over at Blizzard, according to a new report from Insider Gaming. IG is sourcing the details from a now deleted tweet from Window’s Central’s Jez Corden.",
@@ -1153,49 +1204,6 @@
       ],
       "topics": [
         "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-seo-tossgirl-ji-soo-is-the-best-female-esports-player-in-starcraft-history.md",
-      "title": "Seo ToSsGirL Ji-soo is the best female eSports player in StarCraft history",
-      "excerpt": "Seo ToSsGirl Ji-soo is one of the most successful female eSports players in the world and was once considered the best female StarCraft player. She's had many notable victories and grand titles. She not only played in women's leagues but in men's too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomasia.net/blog/seo-tossgirl-ji-soo-is-the-best-female-esports-player-in-starcraft-history/",
-      "originalUrl": "https://www.telecomasia.net/blog/seo-tossgirl-ji-soo-is-the-best-female-esports-player-in-starcraft-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telecomasia.net/upload/iblock/bb0/bb010d4b1564f75f67a30f4060871b47.jpg",
-          "width": 660,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomasia.net/amp/blog/seo-tossgirl-ji-soo-is-the-best-female-esports-player-in-starcraft-history/",
-      "cdnAmpWebUrl": "https://www-telecomasia-net.cdn.ampproject.org/c/s/www.telecomasia.net/amp/blog/seo-tossgirl-ji-soo-is-the-best-female-esports-player-in-starcraft-history/",
-      "publishedDateTime": "2022-05-18T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telecomasia.net",
-        "domain": "telecomasia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
       ]
     }
   ],

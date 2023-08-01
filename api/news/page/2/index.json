@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-18-seo-tossgirl-ji-soo-is-the-best-female-esports-player-in-starcraft-history.md",
+      "title": "Seo ToSsGirL Ji-soo is the best female eSports player in StarCraft history",
+      "excerpt": "Seo ToSsGirl Ji-soo is one of the most successful female eSports players in the world and was once considered the best female StarCraft player. She's had many notable victories and grand titles. She not only played in women's leagues but in men's too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomasia.net/blog/seo-tossgirl-ji-soo-is-the-best-female-esports-player-in-starcraft-history/",
+      "originalUrl": "https://www.telecomasia.net/blog/seo-tossgirl-ji-soo-is-the-best-female-esports-player-in-starcraft-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telecomasia.net/upload/iblock/bb0/bb010d4b1564f75f67a30f4060871b47.jpg",
+          "width": 660,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomasia.net/amp/blog/seo-tossgirl-ji-soo-is-the-best-female-esports-player-in-starcraft-history/",
+      "cdnAmpWebUrl": "https://www-telecomasia-net.cdn.ampproject.org/c/s/www.telecomasia.net/amp/blog/seo-tossgirl-ji-soo-is-the-best-female-esports-player-in-starcraft-history/",
+      "publishedDateTime": "2022-05-18T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecomasia.net",
+        "domain": "telecomasia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-dark-horse-reveals-latest-ship-in-starcraft-line-the-zerg-brood-lord.md",
       "title": "Dark Horse Reveals Latest Ship In STARCRAFT Line: The Zerg Brood Lord",
       "excerpt": "Dark Horse has released their latest ship replica from their StarCraft line: the Zerg Brood Lord. Evolved to dominate the skies, the Brood Lord replica measures 15 inches long by 15 inches wide and stands 10 inches tall.",
@@ -1145,48 +1188,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-starcraft-2-heart-of-the-swarm-walkthrough-skygeirr-3-phantoms-of-the-void.md",
-      "title": "Starcraft 2: Heart of the Swarm Walkthrough Skygeirr 3: Phantoms of the Void",
-      "excerpt": "When the virophage starts constructing, you will get some reinforcements and 2 spine crawlers. Starcraft 2: Heart of the Swarm Walkthrough - Starcraft 2-Heart-of-the-Swarm 788 There are 3 strategies i can think of. First one, the one i use, is mass ultralisks.",
-      "sourceUrl": null,
-      "webUrl": "https://portforward.com/games/walkthroughs/Starcraft-2-Heart-of-the-Swarm/Skygeirr-3-Phantoms-of-the-Void.htm",
-      "originalUrl": "https://portforward.com/games/walkthroughs/Starcraft-2-Heart-of-the-Swarm/Skygeirr-3-Phantoms-of-the-Void.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://portforward.com/games/walkthroughs/Starcraft-2-Heart-of-the-Swarm/default.webp",
-          "width": 1100,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forward",
-        "domain": "portforward.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

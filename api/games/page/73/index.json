@@ -4,6 +4,39 @@
   "page": 73,
   "value": [
     {
+      "path": "_games/pig-proxy-bc-and-planetary-twitch-plays-pig-36.md",
+      "title": "Proxy BC and Planetary! | Twitch Plays PiG #36",
+      "excerpt": "Shoutout to Shyrshadi for helping me out!   Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-proxy-bc-and-planetary-twitch-plays-pig-36/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-proxy-bc-and-planetary-twitch-plays-pig-36/",
+      "originalUrl": "https://youtube.com/watch?v=6KwsLtCvfZw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6KwsLtCvfZw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M28S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6KwsLtCvfZw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-02-19T09:15:02-08:00"
+    },
+    {
       "path": "_games/pig-proxy-factory-in-their-base-diamond-in-the-ruff-29-starcraft-2.md",
       "title": "PROXY FACTORY IN THEIR BASE! | Diamond in the Ruff #29 - StarCraft 2",
       "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Protoss opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
@@ -872,35 +905,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-sc2-is-pretty-awful-now-no-longer-an-rts-dead-game-bnet-dumpster-dives-1.md",
-      "title": "\"SC2 is pretty awful now,  no longer an RTS + dead game\" | Bnet Dumpster Dives #1",
-      "excerpt": "Potential new show?? I came across this Bnet thread and it was so ridiculous I just had to do this. Hope you enjoy this dumpster diving of the battlenet forums  Bnet link: https://us.forums.blizzard.com/en/sc2/t/sc2-is-pretty-awful-now-no-longer-an-rts-dead-game/25241 -- 🐷 Second Channel for Learning",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-sc2-is-pretty-awful-now-no-longer-an-rts-dead-game-bnet-dumpster-dives-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-sc2-is-pretty-awful-now-no-longer-an-rts-dead-game-bnet-dumpster-dives-1/",
-      "originalUrl": "https://youtube.com/watch?v=ldK4SaCcFqI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ldK4SaCcFqI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M57S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ldK4SaCcFqI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-21T22:18:44-08:00"
     }
   ],
   "nextPage": 74

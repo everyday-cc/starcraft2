@@ -323,6 +323,35 @@
       "publishedDateTime": "2023-05-24T10:42:53-07:00"
     },
     {
+      "path": "_games/pig-giant-map-leads-to-the-greediest-game-100-workers-astrea-vs-mixu-starcraft-2.md",
+      "title": "GIANT map leads to the GREEDIEST game (100+ workers) | Astrea vs Mixu - StarCraft 2",
+      "excerpt": "Both Astrea (Protoss) and Mixu (Zerg) play this map from the Team Liquid Map-making Contest. There's an interesting gold base and lots of choke points. Zergs will HATE this, Protoss players will be happy -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-giant-map-leads-to-the-greediest-game-100-workers-astrea-vs-mixu-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-giant-map-leads-to-the-greediest-game-100-workers-astrea-vs-mixu-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=dPy6wpTmSh4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dPy6wpTmSh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M37S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 143,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dPy6wpTmSh4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-25T03:16:54-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-amazing-heromarines-mass-battlecruiser-rush.md",
       "title": "StarCraft 2: AMAZING - HeroMarine's MASS BATTLECRUISER Rush!",
       "excerpt": "Professional match of StarCraft 2 between HeroMarine (Terran) and trigger (Protoss). In this match played during HomeStory Cup 23, HeroMarine decides to Proxy a Starport and make one Battlecruiser a time. In the late game he makes a transition towards mass Tactical Nuke as well.  Support my work: https://patreon.com/lowkotv",
@@ -535,45 +564,6 @@
       "publishedDateTime": "2023-05-03T22:47:03-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-dark-rushes-ultralisks-vs-byun-best-of-3.md",
-      "title": "StarCraft 2: Dark Rushes ULTRALISKS vs ByuN?! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between Dark (Zerg) and ByuN (Terran) on brand new maps. In this series I cast games on the maps from the most recent TLMC (Team Liquid Map Contest).  Serral vs GuMiho (Grand Finals): https://youtu.be/YX4StuIsM_Q Support my work: https://patreon.com/lowkotv Lowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-dark-rushes-ultralisks-vs-byun-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-dark-rushes-ultralisks-vs-byun-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=m6cIajlMH9Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m6cIajlMH9Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M54S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 137,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/m6cIajlMH9Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-21T07:11:46-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-75000-esl-masters-grand-finals-serral-vs-gumiho-best-of-7.md",
       "title": "StarCraft 2: $75000 ESL Masters GRAND FINALS - Serral vs GuMiho! (Best-of-7)",
       "excerpt": "Best-of-7 series of top level StarCraft 2 between Serral (Zerg) and GuMiho (Terran). This series is the grand finals of the ESL StarCraft 2 Masters Summer, a premier tournament with a total price pool of $75000.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
@@ -716,35 +706,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-05-23T05:23:22-07:00"
-    },
-    {
-      "path": "_games/pig-artosis-plays-sc2-for-the-first-time-in-6-years.md",
-      "title": "ARTOSIS plays SC2 for the first time in 6 YEARS",
-      "excerpt": "@ArtosisTV  was playing StarCraft 2 for the first time in years! Give him a follow and check out his SC2 stream vod: https://www.twitch.tv/videos/1840460541 -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-artosis-plays-sc2-for-the-first-time-in-6-years/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-artosis-plays-sc2-for-the-first-time-in-6-years/",
-      "originalUrl": "https://youtube.com/watch?v=cw3dxjXOas0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cw3dxjXOas0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M29S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 128,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cw3dxjXOas0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-09T02:54:24-07:00"
     },
     {
       "path": "_games/pig-when-you-go-mass-ling-drops-but-theyve-got-skytoss-starcraft-2.md",
@@ -1006,6 +967,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-18T18:34:08-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-amazing-match-reynor-showtimes-zerg-vs-protoss-insanity.md",
+      "title": "StarCraft 2: AMAZING MATCH - Reynor & ShoWTimE's Zerg vs Protoss Insanity!",
+      "excerpt": "Reynor vs ShoWTimE in an amazing match of top level StarCraft 2. This is definitely one of the best games of 2023 so far. This SC2 match was played during HomeStory Cup 23. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-amazing-match-reynor-showtimes-zerg-vs-protoss-insanity/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-amazing-match-reynor-showtimes-zerg-vs-protoss-insanity/",
+      "originalUrl": "https://youtube.com/watch?v=RMrA78emlEU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RMrA78emlEU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M10S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 113,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RMrA78emlEU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-03T08:31:38-07:00"
     }
   ],
   "nextPage": 3

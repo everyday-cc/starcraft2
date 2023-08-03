@@ -50,20 +50,6 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "Rumor: “Microsoft Won’t Need To Revive StarCraft”"
-    excerpt: "Jez Corden has dropped teasers that a new StarCraft game is on the way, prompting the question if Blizzard is ready to make it."
-    publishedDateTime: 2023-07-14T12:34:00Z
-    webUrl: "https://gameranx.com/updates/id/470893/article/rumor-microsoft-wont-need-to-revive-starcraft/"
-    type: article
-    provider:
-      name: Gameranx
-      domain: gameranx.com
-    quality: 37
-    images:
-      - url: "http://gameranx.com/wp-content/uploads/2017/04/starcraft-03-31-17-1.jpg"
-        width: 1920
-        height: 1155
-        isCached: true
   - title: "Blizzard may be working on StarCraft 3"
     excerpt: "StarCraft 3 is rumored to be in development over at Blizzard, according to a new report from Insider Gaming. IG is sourcing the details from a now deleted"
     publishedDateTime: 2023-07-16T22:43:00Z

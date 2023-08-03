@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidheadlines.com/2023/07/blizzard-starcraft-3-develo
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/blizzard-starcraft-3-development-rumored-current.html?utm_content=buffer0ed8e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&amp"
 type: article
 quality: 57
-heat: 143
+heat: 123
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://sportshub.cbsistatic.com/i/2023/07/03/67b6ae8d-7d61-42a3-82b8-04b86aebbbfd/new-games-out-this-month-july-2023.png?width=568&height=320"
         width: 568
         height: 320
-        isCached: true
-  - title: "Rumor: “Microsoft Won’t Need To Revive StarCraft”"
-    excerpt: "Jez Corden has dropped teasers that a new StarCraft game is on the way, prompting the question if Blizzard is ready to make it."
-    publishedDateTime: 2023-07-14T12:34:00Z
-    webUrl: "https://gameranx.com/updates/id/470893/article/rumor-microsoft-wont-need-to-revive-starcraft/"
-    type: article
-    provider:
-      name: Gameranx
-      domain: gameranx.com
-    quality: 37
-    images:
-      - url: "http://gameranx.com/wp-content/uploads/2017/04/starcraft-03-31-17-1.jpg"
-        width: 1920
-        height: 1155
         isCached: true
   - title: "Blizzard may be working on StarCraft 3"
     excerpt: "StarCraft 3 is rumored to be in development over at Blizzard, according to a new report from Insider Gaming. IG is sourcing the details from a now deleted"

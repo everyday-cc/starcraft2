@@ -9,8 +9,8 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/starcraft-3-in-development-lea
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/starcraft-3-in-development-leak-pc/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Comicbook.com
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Blizzard may be working on StarCraft 3"
-    excerpt: "StarCraft 3 is rumored to be in development over at Blizzard, according to a new report from Insider Gaming. IG is sourcing the details from a now deleted tweet from Window’s Central’s Jez Corden."
-    publishedDateTime: 2023-07-14T20:35:00Z
-    webUrl: "https://www.androidheadlines.com/2023/07/blizzard-starcraft-3-development-rumored-current.html"
-    ampWebUrl: "https://www.androidheadlines.com/2023/07/blizzard-starcraft-3-development-rumored-current.html?utm_content=buffer0ed8e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/blizzard-starcraft-3-development-rumored-current.html?utm_content=buffer0ed8e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 57
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2023/07/StarCraft-2-StarCraft-3-Dev.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Blizzard may be working on StarCraft 3"
     excerpt: "StarCraft 3 is rumored to be in development over at Blizzard, according to a new report from Insider Gaming. IG is sourcing the details from a now deleted"
     publishedDateTime: 2023-07-16T22:43:00Z

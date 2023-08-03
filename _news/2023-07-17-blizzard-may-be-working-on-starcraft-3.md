@@ -18,22 +18,6 @@ topics:
   - StarCraft 2
 
 related:
-  - title: "Blizzard may be working on StarCraft 3"
-    excerpt: "StarCraft 3 is rumored to be in development over at Blizzard, according to a new report from Insider Gaming. IG is sourcing the details from a now deleted tweet from Window’s Central’s Jez Corden."
-    publishedDateTime: 2023-07-14T20:35:00Z
-    webUrl: "https://www.androidheadlines.com/2023/07/blizzard-starcraft-3-development-rumored-current.html"
-    ampWebUrl: "https://www.androidheadlines.com/2023/07/blizzard-starcraft-3-development-rumored-current.html?utm_content=buffer0ed8e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/blizzard-starcraft-3-development-rumored-current.html?utm_content=buffer0ed8e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 57
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2023/07/StarCraft-2-StarCraft-3-Dev.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Leaker Claims StarCraft 3 May Be In Development"
     excerpt: "Basically, someone asked Corden if Xbox would have any interest in bringing back the StarCraft franchise, and he responded that Microsoft \"won't need to revive [StarCraft].\" Someone then asked if Corden meant StarCraft 3 and he responded with a simple \"Yep."
     publishedDateTime: 2023-07-16T20:52:00Z

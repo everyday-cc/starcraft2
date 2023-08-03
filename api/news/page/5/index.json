@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-04-new-short-story-waking-dreams.md",
+      "title": "New Short Story: Waking Dreams",
+      "excerpt": "Defeated and captured by a formidable opponent, Ghost operative Stone must fight to escape a prison created by his own mind. Check out this excerpt, then download Waking Dreams by E.C. Myers, second in a new series of StarCraft II short stories to celebrate the game&amp;#39;s 10th anniversary.",
+      "sourceUrl": null,
+      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23491533/new-short-story-waking-dreams",
+      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23491533/new-short-story-waking-dreams",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/eg/EGVOSTQ1DB4H1596559598740.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-reflections-on-a-decade-the-best-games-of-competitive-starcraft-ii-part-iii-legacy-of-the-void.md",
       "title": "Reflections on a Decade: The Best Games of Competitive StarCraft II, Part III: Legacy of the Void",
       "excerpt": "Ten years of StarCraft II. Ten years of truly unforgettable esports.",

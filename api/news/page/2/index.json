@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-19-creators-of-the-starcraft-mmo-seek-80000-to-make-it-free-to-play.md",
+      "title": "Creators of the 'StarCraft MMO' Seek $80,000 to Make It Free-to-Play",
+      "excerpt": "StarCraft Universe, the \"StarCraft MMO\" concept that got a bunch of Blizzard's lawyers itchy and nervous a couple of years ago, is aiming toward a full fledged release—with Blizzard's permisson ...",
+      "sourceUrl": null,
+      "webUrl": "https://kotaku.com/creators-of-the-starcraft-mmo-seek-80-000-to-make-it-1121606136",
+      "originalUrl": "https://kotaku.com/creators-of-the-starcraft-mmo-seek-80-000-to-make-it-1121606136",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://kotaku.com/creators-of-the-starcraft-mmo-seek-80-000-to-make-it-1121606136/amp",
+      "cdnAmpWebUrl": "https://kotaku-com.cdn.ampproject.org/c/s/kotaku.com/creators-of-the-starcraft-mmo-seek-80-000-to-make-it-1121606136/amp",
+      "publishedDateTime": "2022-05-18T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kotaku",
+        "domain": "kotaku.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/kotaku.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-seo-tossgirl-ji-soo-is-the-best-female-esports-player-in-starcraft-history.md",
       "title": "Seo ToSsGirL Ji-soo is the best female eSports player in StarCraft history",
       "excerpt": "Seo ToSsGirl Ji-soo is one of the most successful female eSports players in the world and was once considered the best female StarCraft player. She's had many notable victories and grand titles. She not only played in women's leagues but in men's too.",
@@ -1130,57 +1172,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-blizzcon-hands-on-schooling-with-starcraft-2.md",
-      "title": "BlizzCon: hands-on schooling with Starcraft 2",
-      "excerpt": "During the recent BlizzCon, we sat down and got a ton of time with StarCraft 2, to the tune of roughly three hours or so. The upshot of it all? We were very impressed, and we had our asses handed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2007-08-07-blizzcon-hands-on-schooling-with-starcraft-2.html",
-      "originalUrl": "https://www.engadget.com/2007-08-07-blizzcon-hands-on-schooling-with-starcraft-2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/S5FPtUkm0yg3uI8WSqN9Tg--~B/aD0zMDA7dz00OTA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.joystiq.com/media/2007/08/starcraft21.jpg",
-          "width": 490,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-07T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

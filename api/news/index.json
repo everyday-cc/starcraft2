@@ -10,7 +10,7 @@
       "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23987086/starcraft-ii-5-0-11-hotfix-2-ptr-patch-notes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -41,6 +41,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-leaker-claims-starcraft-3-may-be-in-development.md",
+      "title": "Leaker Claims StarCraft 3 May Be In Development",
+      "excerpt": "Basically, someone asked Corden if Xbox would have any interest in bringing back the StarCraft franchise, and he responded that Microsoft \"won't need to revive [StarCraft].\" Someone then asked if Corden meant StarCraft 3 and he responded with a simple \"Yep.",
+      "sourceUrl": null,
+      "webUrl": "https://comicbook.com/gaming/news/starcraft-3-in-development-leak-pc/",
+      "originalUrl": "https://comicbook.com/gaming/news/starcraft-3-in-development-leak-pc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2023/07/03/67b6ae8d-7d61-42a3-82b8-04b86aebbbfd/new-games-out-this-month-july-2023.png?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/starcraft-3-in-development-leak-pc/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/starcraft-3-in-development-leak-pc/",
+      "publishedDateTime": "2023-07-16T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1162,48 +1204,6 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-creators-of-the-starcraft-mmo-seek-80000-to-make-it-free-to-play.md",
-      "title": "Creators of the 'StarCraft MMO' Seek $80,000 to Make It Free-to-Play",
-      "excerpt": "StarCraft Universe, the \"StarCraft MMO\" concept that got a bunch of Blizzard's lawyers itchy and nervous a couple of years ago, is aiming toward a full fledged release—with Blizzard's permisson ...",
-      "sourceUrl": null,
-      "webUrl": "https://kotaku.com/creators-of-the-starcraft-mmo-seek-80-000-to-make-it-1121606136",
-      "originalUrl": "https://kotaku.com/creators-of-the-starcraft-mmo-seek-80-000-to-make-it-1121606136",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://kotaku.com/creators-of-the-starcraft-mmo-seek-80-000-to-make-it-1121606136/amp",
-      "cdnAmpWebUrl": "https://kotaku-com.cdn.ampproject.org/c/s/kotaku.com/creators-of-the-starcraft-mmo-seek-80-000-to-make-it-1121606136/amp",
-      "publishedDateTime": "2022-05-18T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kotaku",
-        "domain": "kotaku.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/kotaku.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
       ]
     }
   ],

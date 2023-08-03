@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/23987086/starcraft-ii-5
 webUrl: "https://news.blizzard.com/en-us/starcraft2/23987086/starcraft-ii-5-0-11-hotfix-2-ptr-patch-notes"
 type: article
 quality: 177
-heat: 177
+heat: 197
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 960
     height: 540
     isCached: true
+
+related:
+  - title: "2005 Starcraft Co Values, Specs and Prices"
+    excerpt: "Possessing a long-running history in boat construction that reaches back to 1903, Starcraft is experienced in building boats with aluminum and fiberglass hulls. Starcraft produces a wide range of watercraft, offering a diverse assortment of fishing ..."
+    publishedDateTime: 2023-08-02T08:27:00Z
+    webUrl: "https://www.jdpower.com/boats/2005/starcraft-co"
+    type: article
+    provider:
+      name: jdpower
+      domain: jdpower.com
+    quality: 17
 
 secured: "mHgVulN1lKDDLE4xP8RjmpLAtytJ+K4Khf6R4FtUPqD/9pZS65mWMH17PD4e9MBGyhUDqOAsqQk4ESQOxVKDF7t5Mtmv7XTKuF2mCyM0fvIxF5W93URlXYzKXEFYyoxhDvY8LfAhwhBPsdEjwb0V6beis/TLDAnSH9TuBzS9kEDTDAVR6d3si4R0Tr8aJg+bLhNVoCKr5FqR62XnWHGchJWoi7nm0zucLs2wKhYGG7c17WDvvuGycIDBFqMsdOWSrXv/sfSHjyHpaKd5uLwzRLGpBQPU6w9LBZTgONVE2bmAOd1/Pp4sb0WWoKpLLv09nsag+eXiE0SigWSoe2hHBKqYp0E3qfggWDtyqZ7m7Hk=;Jv1MObTKEULvd0n3u1yUJQ=="
 ---

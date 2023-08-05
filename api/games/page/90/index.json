@@ -4,6 +4,35 @@
   "page": 90,
   "value": [
     {
+      "path": "_games/pig-these-are-my-minerals-now-new-years-resolutions-g2-g3-icyfar.md",
+      "title": "These are my minerals now! | New Year's Resolutions! G2 & G3 ICYFAR",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-these-are-my-minerals-now-new-years-resolutions-g2-g3-icyfar/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-these-are-my-minerals-now-new-years-resolutions-g2-g3-icyfar/",
+      "originalUrl": "https://youtube.com/watch?v=B5BDk6CZgH4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B5BDk6CZgH4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M47S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B5BDk6CZgH4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-they-came-from-behind-counterattack-icyfar-part-1-pig-daily-104.md",
       "title": "They Came From Behind - Counterattack ICYFAR - Part 1 - PiG Daily #104",
       "excerpt": "THIS WEEKS ICYFAR: Weird Harassment - Send in your replays using creative and unusual forms of harassment! Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as title! Lastest submission until the second daily of the week. 9/1/17 Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb",
@@ -855,35 +884,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-turns-out-mass-stasis-traps-is-sick-for-unexpected-reasons-starcraft-2.md",
-      "title": "Turns out MASS Stasis Traps is SICK! (for unexpected reasons) - StarCraft 2",
-      "excerpt": "I gave myself a challenge to set as many stasis traps as possible. Did not expect to accidentally do another challenge while I did this haha DISRUPTOR BALLS FOR THE WIN! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-turns-out-mass-stasis-traps-is-sick-for-unexpected-reasons-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-turns-out-mass-stasis-traps-is-sick-for-unexpected-reasons-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=eyiVBFua1ms",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eyiVBFua1ms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M13S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eyiVBFua1ms/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-03T17:41:30-07:00"
     }
   ],
   "nextPage": 91

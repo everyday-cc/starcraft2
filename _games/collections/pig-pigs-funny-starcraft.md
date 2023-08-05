@@ -1057,7 +1057,8 @@ items:
   - pig-bly-does-every-type-of-proxy-hatch-in-one-pro-series-starcraft-2
   - pig-giant-map-leads-to-the-greediest-game-100-workers-astrea-vs-mixu-starcraft-2
   - pig-this-isnt-so-bad-wings-of-liberty-nightmare-difficulty-part-10-starcraft-2
-  - pig-slammer-right-clicks-the-command-centre-slammer-vs-xkawaiian
+  - pig-how-is-this-maniac-better-than-99-of-sc2-players-slammer-vs-xkawaiian
+  - pig-twitch-chat-challenges-me-to-say-bacon-every-worker-kill-starcraft-2
 
 topics:
   - StarCraft 2

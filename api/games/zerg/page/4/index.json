@@ -4,45 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-heros-mass-oracle-vs-dark-esl-open-cup-finals.md",
-      "title": "StarCraft 2: herO's MASS ORACLE vs Dark! (ESL Open Cup Finals)",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 from the Korean server between herO (Protoss) and Dark (Zerg). This series is the finals of the ESL Open Cup Korea 177. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-mass-oracle-vs-dark-esl-open-cup-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-mass-oracle-vs-dark-esl-open-cup-finals/",
-      "originalUrl": "https://youtube.com/watch?v=aXDgrXQjQ2o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aXDgrXQjQ2o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M28S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aXDgrXQjQ2o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-08T02:16:38-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-scarlett-shuts-down-gumihos-tricks-best-of-3.md",
       "title": "StarCraft 2: Scarlett SHUTS DOWN GuMiho's Tricks! (Best-of-3)",
       "excerpt": "Best-of-3 series of high level StarCraft 2 between Scarlett (Zerg) and GuMiho (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
@@ -490,6 +451,44 @@
       "publishedDateTime": "2021-10-08T04:57:46-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-serral-gets-outplayed.md",
+      "title": "StarCraft 2: Serral Gets OUTPLAYED?!",
+      "excerpt": "Professional match of StarCraft 2 between Serral (Zerg) and Gerald (Protoss). This is a long macro game with a focus on Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-gets-outplayed/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-gets-outplayed/",
+      "originalUrl": "https://youtube.com/watch?v=WVwOW0XTO8s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WVwOW0XTO8s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M44S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WVwOW0XTO8s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-17T07:03:26-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-heromarine.md",
       "title": "StarCraft 2: SERRAL vs HEROMARINE!",
       "excerpt": "A great match of StarCraft 2 between some of the best pro gamers. Subscribe for more videos: http://lowko.tv/youtube The Nexus All-in?! https://goo.gl/HTTgHL  Serral and HeRoMaRinE are the best in their respective race currently in Europe. They are currently topping the ladder with both over 7000 MMR.",
@@ -736,14 +735,14 @@
       "publishedDateTime": "2022-06-10T19:40:59-07:00"
     },
     {
-      "path": "_games/sc2hl-does-he-see-the-nuke-starcraft-2-maru-vs-soo.md",
-      "title": "Does he see the Nuke!? - Starcraft 2: Maru vs soO",
-      "excerpt": "Maru vs soO in an intense Terran vs Zerg, featuring some Nukes on the Terran side! Playing during the GSL vs the World.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Full VOD: https://www.youtube.com/watch?v=Mw98Mg8pE4M  Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-does-he-see-the-nuke-starcraft-2-maru-vs-soo/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-does-he-see-the-nuke-starcraft-2-maru-vs-soo/",
-      "originalUrl": "https://youtube.com/watch?v=Jj-qIw_NMW0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jj-qIw_NMW0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M39S",
+      "path": "_games/sc2hl-speed-banshees-vs-swarm-hosts-starcraft-2-maru-vs-solar.md",
+      "title": "Speed BANSHEES vs SWARM HOSTS - StarCraft 2 - Maru vs Solar",
+      "excerpt": "An epic game between Maru & Solar during the Starcraft 2 GSL Code S. Mech, speed banshees, swarm hosts, ravens & an epic conclusion.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-speed-banshees-vs-swarm-hosts-starcraft-2-maru-vs-solar/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-speed-banshees-vs-swarm-hosts-starcraft-2-maru-vs-solar/",
+      "originalUrl": "https://youtube.com/watch?v=ZX1dmv6aTAE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZX1dmv6aTAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M32S",
       "provider": {
         "name": "SC2HL",
         "domain": "sc2hl.com",
@@ -764,7 +763,7 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Jj-qIw_NMW0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZX1dmv6aTAE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -772,46 +771,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-03-06T07:05:01-08:00"
-    },
-    {
-      "path": "_games/sc2hl-hero-builds-the-ultimate-protoss-wall-starcraft-2-hero-vs-dark.md",
-      "title": "herO Builds the Ultimate Protoss Wall - Starcraft 2: herO vs. Dark",
-      "excerpt": "herO vs. Dark in an absolutely amazing Starcraft 2 game, with herO building the ultimate protoss wall to contain Dark.   Match: herO vs. Dark  Tournament: Starcraft 2 - GSL Code S 2022  VODs: https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg  ► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-hero-builds-the-ultimate-protoss-wall-starcraft-2-hero-vs-dark/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-hero-builds-the-ultimate-protoss-wall-starcraft-2-hero-vs-dark/",
-      "originalUrl": "https://youtube.com/watch?v=wqxNTHqaLeI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wqxNTHqaLeI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M53S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wqxNTHqaLeI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-04-02T06:00:39-07:00"
+      "publishedDateTime": "2017-07-24T03:19:50-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-2-base-brood-lord-rush-bronze-league-heroes.md",
@@ -1121,6 +1081,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-02-22T03:33:20-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-gumihos-super-greed-mech-vs-dark-best-of-3.md",
+      "title": "StarCraft 2: GuMiho's SUPER GREED Mech vs Dark! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Dark (Zerg) and GuMiho. This series of Zerg vs Terran was recently played during the GSL Code S. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumihos-super-greed-mech-vs-dark-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumihos-super-greed-mech-vs-dark-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=ujZGtXbtVlU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ujZGtXbtVlU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M19S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ujZGtXbtVlU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-09T03:17:53-07:00"
     }
   ],
   "nextPage": 5

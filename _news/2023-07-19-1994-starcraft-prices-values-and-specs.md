@@ -18,31 +18,34 @@ topics:
   - StarCraft 2
 
 related:
-  - title: "Leaker Claims StarCraft 3 May Be In Development"
-    excerpt: "Basically, someone asked Corden if Xbox would have any interest in bringing back the StarCraft franchise, and he responded that Microsoft \"won't need to revive [StarCraft].\" Someone then asked if Corden meant StarCraft 3 and he responded with a simple \"Yep."
-    publishedDateTime: 2023-07-16T20:52:00Z
-    webUrl: "https://comicbook.com/gaming/news/starcraft-3-in-development-leak-pc/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/starcraft-3-in-development-leak-pc/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/starcraft-3-in-development-leak-pc/"
+  - title: "StarCraft meets Into The Breach in this beautiful Steam strategy game"
+    excerpt: "The Cantata release date has been announced, as the ambitious sci-fi strategy game looks like a superb blend of StarCraft, Factorio, and Into The Breach."
+    publishedDateTime: 2023-07-25T15:11:00Z
+    webUrl: "https://www.pcgamesn.com/cantata/release-date"
     type: article
     provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 57
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 37
     images:
-      - url: "https://sportshub.cbsistatic.com/i/2023/07/03/67b6ae8d-7d61-42a3-82b8-04b86aebbbfd/new-games-out-this-month-july-2023.png?width=568&height=320"
-        width: 568
-        height: 320
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/07/cantata-release-date.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Blizzard may be working on StarCraft 3"
-    excerpt: "StarCraft 3 is rumored to be in development over at Blizzard, according to a new report from Insider Gaming. IG is sourcing the details from a now deleted"
-    publishedDateTime: 2023-07-16T22:43:00Z
-    webUrl: "https://www.inferse.com/618999/blizzard-may-be-working-on-starcraft-3/"
+  - title: "StarCraft 2 to get its largest tournament in years"
+    excerpt: "StarCraft II is the fastest selling RTS of all-time. Game8 is hosting a $500,000 tournament. Four of the greatest players of all-time are returning. MVP, MMA, MC, and Stephano."
+    publishedDateTime: 2023-07-28T18:21:00Z
+    webUrl: "https://www.windowscentral.com/gaming/starcraft-2-to-get-its-largest-tournament-in-years"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 17
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/sDgHp4Fvxvf6EyMRpTjdGA-1200-80.jpg"
+        width: 1200
+        height: 733
+        isCached: true
 
 secured: "YqkCDkI99ocZiZbmXEC31H+rmOxf/yhY3Za5Rs6nKCbJ1L21on9P9gdo4iD91ZFR7UU5827ALIRyGhrLDBiC2fyTHTTF+6TMTyFaEFpkoYTx2ExEuukO0iZnZo0lZxBhijEBWk7H6ioxX2D1ZzyzOm2Diuvn6MUr+PB7moA+LMpwXvhxHLroKxm7n3SJEK5U2inDtrj/jWgTKIHvlKYUYEjMfcyW3tmrcnSH9sAUuDgr6Oc+M3lXgufP+1trSENM+xLAstIsPxiwhxDD1CMyqshNmrIRtKSHI/NquusBnxKu21HSp0ScGe5AviMSNEkWtoDPhwvPpGIss4xaWZ72b+MSzAVuT9J2JbG0ljsWDss=;zhSN5eR4fjyWjIH2qx5EfA=="
 ---

@@ -4,43 +4,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-back-and-forth-battles-neeblet-vs-heromarine.md",
-      "title": "StarCraft 2: BACK AND FORTH BATTLES! (Neeblet vs HeRoMaRinE)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2. In this match of Protoss versus Terran I cast a solid series between Neeb, also known as Neeblet, and HeRoMaRinE. It's a TvP with very close back and forth battles.  Support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-back-and-forth-battles-neeblet-vs-heromarine/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-back-and-forth-battles-neeblet-vs-heromarine/",
-      "originalUrl": "https://youtube.com/watch?v=T485okzAwlo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T485okzAwlo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/T485okzAwlo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-25T05:02:29-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-back-to-back-cheese-bo3.md",
       "title": "StarCraft 2: BACK-TO-BACK CHEESE! (Bo3)",
       "excerpt": "Macro and cheese. Macaroni and cheese? Okay no. Subscribe for more videos: http://lowko.tv/youtube Dark vs Rogue: https://goo.gl/iWUfxS  A great best-of-3 series between INnoVation and Solar. In these games, not only do we get a really solid and modern game of Zerg vs Terran, we also get to see INnoVation",
@@ -1139,6 +1102,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-05-02T02:03:47-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-best-unit-in-the-game.md",
+      "title": "StarCraft 2: BEST UNIT IN THE GAME?",
+      "excerpt": "Best-of-3 series of StarCraft 2 between Solar and Zest. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://youtu.be/ezD8-mETu74  A really fun series of games between two of the strongest players in SC2. Lots of mind games at play here as well, as both players are trying to outsmart",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-unit-in-the-game/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-unit-in-the-game/",
+      "originalUrl": "https://youtube.com/watch?v=3rUyo6Zzg3s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3rUyo6Zzg3s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M34S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3rUyo6Zzg3s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-05-17T05:11:48-07:00"
     }
   ],
   "nextPage": 28

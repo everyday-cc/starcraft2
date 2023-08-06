@@ -901,14 +901,14 @@
       "publishedDateTime": "2022-03-08T02:14:55-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-battle-royale-pro-gamer-free-for-all.md",
-      "title": "StarCraft 2: BATTLE ROYALE! (Pro Gamer Free-For-All)",
-      "excerpt": "StarCraft 2 Battle Royale 6-man free-for-all between Maru, INnoVation, Hurricane, Impact, Solar and Patience. These pro gamers are some of the best players from South Korea. In this video I give commentary to this Battle Royale mod of a series of games that was organised by Crank.  Get more videos &",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-battle-royale-pro-gamer-free-for-all/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-battle-royale-pro-gamer-free-for-all/",
-      "originalUrl": "https://youtube.com/watch?v=hmLp9wr8ASo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hmLp9wr8ASo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M19S",
+      "path": "_games/lowkotv-starcraft-2-beautiful-game-the-world-champion-oliveira-vs-dark.md",
+      "title": "StarCraft 2: BEAUTIFUL GAME - The World Champion Oliveira vs Dark!",
+      "excerpt": "Professional match of StarCraft 2 between Dark (Zerg) and Oliveira (Terran). This is a relatively 'standard' game in the Zerg vs Terran matchup, but played at an incredibly high skill level.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-beautiful-game-the-world-champion-oliveira-vs-dark/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-beautiful-game-the-world-champion-oliveira-vs-dark/",
+      "originalUrl": "https://youtube.com/watch?v=FSHSH275Xvw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FSHSH275Xvw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M47S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -922,12 +922,13 @@
         ]
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Zerg"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hmLp9wr8ASo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/FSHSH275Xvw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -935,7 +936,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-02-21T02:41:32-08:00"
+      "publishedDateTime": "2023-03-28T02:06:50-07:00"
     }
   ],
   "nextPage": 13

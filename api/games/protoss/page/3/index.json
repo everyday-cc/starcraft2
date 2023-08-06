@@ -4,14 +4,14 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-great-series-oliveira-vs-hero-in-the-ksl-finals.md",
-      "title": "StarCraft 2: GREAT SERIES - Oliveira vs herO in the KSL Finals!",
-      "excerpt": "Best-of-5 series of high level StarCraft 2 between Oliveira (Terran) and hero (Protoss). This series is the finals of the 13th weekly of the KSL. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-great-series-oliveira-vs-hero-in-the-ksl-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-great-series-oliveira-vs-hero-in-the-ksl-finals/",
-      "originalUrl": "https://youtube.com/watch?v=uKbiv9Dd7fc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uKbiv9Dd7fc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M47S",
+      "path": "_games/lowkotv-starcraft-2-epic-match-the-actual-game-of-the-year-clem-vs-showtime.md",
+      "title": "StarCraft 2: Epic Match - The ACTUAL(?) Game of the Year! (Clem vs ShoWTimE)",
+      "excerpt": "Clem (Terran) vs ShoWTimE (Protoss) in a top level game of professional StarCraft 2. Not quite your regular match of Terran versus Protoss.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-match-the-actual-game-of-the-year-clem-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-match-the-actual-game-of-the-year-clem-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=VyGDo32EyJQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VyGDo32EyJQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M28S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -31,7 +31,7 @@
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/uKbiv9Dd7fc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/VyGDo32EyJQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -39,7 +39,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-06-06T02:52:48-07:00"
+      "publishedDateTime": "2021-11-18T04:37:23-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-maxpax-cannon-rushes-serral-best-of-5.md",

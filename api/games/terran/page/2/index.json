@@ -4,6 +4,45 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-darks-strange-build-orders-vs-gumiho-best-of-3.md",
+      "title": "StarCraft 2: Dark's STRANGE BUILD ORDERS vs GuMiho! (Best-of-3)",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 between Dark (Zerg) and GuMiho (Terran). This is a match where Dark decides to play very aggressively, despite GuMiho's Reaper focused Terran build order. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-strange-build-orders-vs-gumiho-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-strange-build-orders-vs-gumiho-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=62Fy0dP0kik",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/62Fy0dP0kik\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M23S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 83,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/62Fy0dP0kik/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-11T05:01:40-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-cheese-clem-non-stop-agression-vs-byun.md",
       "title": "StarCraft 2: CHEESE - Clem NON-STOP AGRESSION vs ByuN!",
       "excerpt": "Professional match of StarCraft 2 (SC2) between ByuN and Clem. This Terran vs Terran is the finals of the ESL Open Cup 183. An amazing series where Clem won't stop cheesing ByuN. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
@@ -28,7 +67,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 77,
+      "heat": 80,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/jhbEkxqRC7s/maxresdefault.jpg",
@@ -487,6 +526,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-07-06T16:56:05-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-heros-double-proxy-nexus-vs-byun-best-of-3.md",
+      "title": "StarCraft 2: herO's DOUBLE Proxy Nexus vs ByuN! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between herO (Protoss) and ByuN (Terran). This series is from the ESL Open Cup 181 for South Korea. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-double-proxy-nexus-vs-byun-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-double-proxy-nexus-vs-byun-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=KKhZmvHbh7o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KKhZmvHbh7o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M2S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KKhZmvHbh7o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-06-28T02:16:47-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-pro-2v2-serral-maru-solar-oliveira-best-of-7.md",
@@ -1750,92 +1828,14 @@
       "publishedDateTime": "2022-01-18T04:54:46-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-heros-double-proxy-nexus-vs-byun-best-of-3.md",
-      "title": "StarCraft 2: herO's DOUBLE Proxy Nexus vs ByuN! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between herO (Protoss) and ByuN (Terran). This series is from the ESL Open Cup 181 for South Korea. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-double-proxy-nexus-vs-byun-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-double-proxy-nexus-vs-byun-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=KKhZmvHbh7o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KKhZmvHbh7o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M2S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KKhZmvHbh7o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-28T02:16:47-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-innovation-is-back-amazing-series-vs-dark-best-of-3.md",
-      "title": "StarCraft 2: INNOVATION IS BACK - Amazing Series vs Dark! (Best-of-3)",
-      "excerpt": "An amazing series of high level StarCraft 2 between INnoVation (Terran) and Dark (Zerg). INnoVation just came back from his military service in South Korea, and somehow is already back in form. As a champion of many tournaments such as the GSL, WESG, SSL, IEM, WCS, MLG, etc, he clearly does not need",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-innovation-is-back-amazing-series-vs-dark-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-innovation-is-back-amazing-series-vs-dark-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=PjCBveWrk5k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PjCBveWrk5k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PjCBveWrk5k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-13T04:03:14-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-rank-1-terran-vs-rank-1-protoss-maru-vs-hero.md",
-      "title": "StarCraft 2: Rank 1 TERRAN vs Rank 1 PROTOSS! (Maru vs herO)",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 between Maru (Terran) and herO (Protoss). These two players are the current best Terran and Protoss players in the world.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-rank-1-terran-vs-rank-1-protoss-maru-vs-hero/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-rank-1-terran-vs-rank-1-protoss-maru-vs-hero/",
-      "originalUrl": "https://youtube.com/watch?v=lRhMs6bNnCk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lRhMs6bNnCk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H26S",
+      "path": "_games/lowkotv-starcraft-2-gsl-code-s-a-world-champions-return-classic-vs-ty.md",
+      "title": "StarCraft 2: GSL Code S - A World Champion's Return?! (Classic vs TY)",
+      "excerpt": "Best-of-3 series of StarCraft 2 from the GSL Code S 2023 season 2 qualifiers. TY facing off against Classic in a fantastic series. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gsl-code-s-a-world-champions-return-classic-vs-ty/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gsl-code-s-a-world-champions-return-classic-vs-ty/",
+      "originalUrl": "https://youtube.com/watch?v=vSuuAIJVQ9k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vSuuAIJVQ9k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M1S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1856,7 +1856,7 @@
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/lRhMs6bNnCk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/vSuuAIJVQ9k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1864,7 +1864,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-09-10T01:29:33-07:00"
+      "publishedDateTime": "2023-06-26T03:38:19-07:00"
     }
   ],
   "nextPage": 3

@@ -1007,9 +1007,9 @@ items:
   - pig-beating-terran-with-mass-drones-workers-only-to-grandmaster-1-starcraft-2
   - pig-when-winning-makes-you-a-devil-worshipper-salt-mines-31-starcraft-2
   - pig-flo-pulls-off-69-iq-defense-after-baiting-all-in-florencio-files-277-starcraft-2
-  - pig-guess-the-secret-pro-player-flash-vs-bisu-hidden-name-tournament-2-part-1-starcraft-2
-  - pig-guess-the-secret-pro-part-2-jaedong-vs-boxer-hidden-name-tournament-2-starcraft-2
-  - pig-guess-the-secret-pro-part-33-grand-finals-hidden-name-tournament-2-starcraft-2
+  - pig-guess-the-secret-pro-ep1-flash-vs-bisu-hidden-name-tournament-2
+  - pig-guess-the-secret-pro-ep2-jaedong-vs-boxer-hidden-name-tournament-2
+  - pig-guess-the-secret-pro-grand-finals-hidden-name-tournament-2-starcraft-2
   - pig-squatting-protoss-refuses-to-leave-terran-premises-florencio-files-278-starcraft-2
   - pig-toss-rages-when-opponent-wont-give-him-a-free-win-salt-mines-32-starcraft-2
   - pig-the-silliest-planetary-fortress-rush-ever-florencio-files-279-starcraft-2
@@ -1058,6 +1058,7 @@ items:
   - pig-giant-map-leads-to-the-greediest-game-100-workers-astrea-vs-mixu-starcraft-2
   - pig-this-isnt-so-bad-wings-of-liberty-nightmare-difficulty-part-10-starcraft-2
   - pig-the-hardest-mission-ever-wings-of-liberty-nightmare-difficulty-part-11-starcraft-2
+  - pig-harstem-abuses-most-op-unit-against-my-protoss-team-commander-mode-3-starcraft-2
   - pig-ive-never-seen-a-cheeser-lose-an-argument-this-hard-salt-mines-39-starcraft-2
   - pig-how-is-this-maniac-better-than-99-of-sc2-players-slammer-vs-xkawaiian
   - pig-twitch-chat-challenges-me-to-say-bacon-every-worker-kill-starcraft-2

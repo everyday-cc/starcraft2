@@ -1058,6 +1058,7 @@ items:
   - pig-giant-map-leads-to-the-greediest-game-100-workers-astrea-vs-mixu-starcraft-2
   - pig-this-isnt-so-bad-wings-of-liberty-nightmare-difficulty-part-10-starcraft-2
   - pig-the-hardest-mission-ever-wings-of-liberty-nightmare-difficulty-part-11-starcraft-2
+  - pig-return-to-haven-wings-of-liberty-nightmare-difficulty-part-12-starcraft-2
   - pig-harstem-abuses-most-op-unit-against-my-protoss-team-commander-mode-3-starcraft-2
   - pig-ive-never-seen-a-cheeser-lose-an-argument-this-hard-salt-mines-39-starcraft-2
   - pig-how-is-this-maniac-better-than-99-of-sc2-players-slammer-vs-xkawaiian

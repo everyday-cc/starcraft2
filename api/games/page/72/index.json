@@ -4,6 +4,35 @@
   "page": 72,
   "value": [
     {
+      "path": "_games/pig-otter-destruction-360-noscope-icyfar-g2.md",
+      "title": "Otter Destruction | 360 Noscope ICYFAR G2",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they set up flanks and surrounds to crush their enemies.  \"Surgical Warfare\" - Minimise your losses and try to achieve the cleanest victory possible! Even if it devolves into a shitshow, send it",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-otter-destruction-360-noscope-icyfar-g2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-otter-destruction-360-noscope-icyfar-g2/",
+      "originalUrl": "https://youtube.com/watch?v=J4XAVIjftOM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J4XAVIjftOM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M43S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/J4XAVIjftOM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-out-of-the-frying-pan-into-the-fire-crash-course-all-in-liquid-reign-icyfar-g2.md",
       "title": "Out of the Frying Pan, into the Fire - Crash Course-ALL-IN Liquid Reign ICYFAR G2",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays that had the most all-in dedication!   CURRENT LIQUID REIGN ICYFAR CHALLENGE: “Bait n Switch” - Make your opponent believe they won and then crush them decisively! During Liquid Reign ICYFARs there is",
@@ -856,36 +885,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/x84nvGl6xXo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-protoss-always-stick-by-their-family-bastard-bace-icyfar-g1.md",
-      "title": "Protoss always stick by their Family - Bastard Bace ICYFAR G1",
-      "excerpt": "ATTENTION: There will be NO ICYFAR for the next 2 Weeks as PiG will be on vacation, he will announce a topic once he returns!  In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays that had them expand in secrecy.  Like the content? Then consider to leave",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-protoss-always-stick-by-their-family-bastard-bace-icyfar-g1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-protoss-always-stick-by-their-family-bastard-bace-icyfar-g1/",
-      "originalUrl": "https://youtube.com/watch?v=1lHUG2c-QYU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1lHUG2c-QYU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M45S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1lHUG2c-QYU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

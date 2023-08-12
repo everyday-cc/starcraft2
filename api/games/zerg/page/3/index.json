@@ -4,44 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-8x-drone-drop-spine-crawler-rush-uthermal-vs-mixu.md",
-      "title": "StarCraft 2: 8x DRONE DROP Spine Crawler Rush?! (uThermal vs Mixu)",
-      "excerpt": "Ridiculous series of high level StarCraft 2 between uThermal (Terran) and Mixu (Zerg). Rather than letting uThermal go for a Planetary Fortress Rush, Mixu decides to cheese him back with an insane Drone drop. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-8x-drone-drop-spine-crawler-rush-uthermal-vs-mixu/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-8x-drone-drop-spine-crawler-rush-uthermal-vs-mixu/",
-      "originalUrl": "https://youtube.com/watch?v=S2ZFNibZA5M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S2ZFNibZA5M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/S2ZFNibZA5M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-03T08:33:12-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-can-maxpax-outplay-serral-best-of-3.md",
       "title": "StarCraft 2: Can MaxPax OUTPLAY Serral?! (Best-of-3)",
       "excerpt": "Top-level series of StarCraft 2 featuring Serral and MaxPax. These two players are currently the best Zerg and Protoss in the world respectively.Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
@@ -156,44 +118,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-13T03:18:10-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-darks-drone-rush-in-the-finals-best-of-5.md",
-      "title": "StarCraft 2: Dark's DRONE RUSH in the Finals! (Best-of-5)",
-      "excerpt": "Best-of-5 series of high level StarCraft 2 between Dark (Zerg) and Creator (Protoss). This match is the finals of the ESL Open Cup 176 for the Korean SC2 server.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-drone-rush-in-the-finals-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-drone-rush-in-the-finals-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=q7g7G8ZvM9Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q7g7G8ZvM9Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M14S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/q7g7G8ZvM9Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-29T02:25:17-07:00"
     },
     {
       "path": "_games/collections/beastyqtsc2-mass-infestors-to-grandmaster.md",
@@ -357,45 +281,6 @@
       "type": "collection"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-epic-blunders-hero-vs-dark-best-of-5.md",
-      "title": "StarCraft 2: EPIC BLUNDERS - herO vs Dark! (Best-of-5)",
-      "excerpt": "Best-of-5 series of StarCraft 2 that is the finals of the KSL 7, betweek Dark (Zerg) and herO (Protoss). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-blunders-hero-vs-dark-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-blunders-hero-vs-dark-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=2uQMCcHq8p0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2uQMCcHq8p0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53M58S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2uQMCcHq8p0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-04-23T03:32:56-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-scarlett-gets-mech-rushed-by-kelazhur-best-of-5.md",
       "title": "StarCraft 2: Scarlett gets MECH RUSHED by Kelazhur! (Best-of-5)",
       "excerpt": "Best-of-5 series of high level StarCraft 2 from the ESL Masters Summer America between Scarlett (Zerg) and Kelazhur (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
@@ -508,6 +393,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-darks-drone-rush-in-the-finals-best-of-5.md",
+      "title": "StarCraft 2: Dark's DRONE RUSH in the Finals! (Best-of-5)",
+      "excerpt": "Best-of-5 series of high level StarCraft 2 between Dark (Zerg) and Creator (Protoss). This match is the finals of the ESL Open Cup 176 for the Korean SC2 server.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-drone-rush-in-the-finals-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-drone-rush-in-the-finals-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=q7g7G8ZvM9Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q7g7G8ZvM9Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M14S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q7g7G8ZvM9Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-29T02:25:17-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-gsl-code-s-darks-nasty-zerg-cheeses-vs-stats-best-of-3.md",
@@ -666,6 +589,44 @@
       "publishedDateTime": "2021-10-02T03:39:14-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-darks-unexpected-new-rival.md",
+      "title": "StarCraft 2: Dark's UNEXPECTED New Rival?!",
+      "excerpt": "Two best-of-3 series that Dark recently played versus Erik. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv Live most",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-unexpected-new-rival/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-unexpected-new-rival/",
+      "originalUrl": "https://youtube.com/watch?v=InNm98MUfSg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/InNm98MUfSg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/InNm98MUfSg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-04-28T04:47:31-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-gsl-code-s-hero-cannon-rushes-solar.md",
       "title": "StarCraft 2: GSL CODE S - herO CANNON RUSHES Solar!",
       "excerpt": "Amazing best-of-3 series from the GSL Code S where herO Cannon Rushes Solar. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
@@ -703,45 +664,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-05-02T03:15:24-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-heros-mass-oracle-vs-dark-esl-open-cup-finals.md",
-      "title": "StarCraft 2: herO's MASS ORACLE vs Dark! (ESL Open Cup Finals)",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 from the Korean server between herO (Protoss) and Dark (Zerg). This series is the finals of the ESL Open Cup Korea 177. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-mass-oracle-vs-dark-esl-open-cup-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-mass-oracle-vs-dark-esl-open-cup-finals/",
-      "originalUrl": "https://youtube.com/watch?v=aXDgrXQjQ2o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aXDgrXQjQ2o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M28S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aXDgrXQjQ2o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-08T02:16:38-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-insane-multi-tasking-serral-vs-clem-best-of-5.md",
@@ -819,83 +741,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-04-02T06:00:39-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-darks-nydus-rushes-gumiho.md",
-      "title": "StarCraft 2: Dark's NYDUS RUSHES GuMiho!",
-      "excerpt": "Best-of-3 series of StarCraft 2 between Dark (Zerg) and GuMiho (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-nydus-rushes-gumiho/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-nydus-rushes-gumiho/",
-      "originalUrl": "https://youtube.com/watch?v=le7eiib5RMI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/le7eiib5RMI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M17S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/le7eiib5RMI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-19T01:44:05-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-darks-unexpected-new-rival.md",
-      "title": "StarCraft 2: Dark's UNEXPECTED New Rival?!",
-      "excerpt": "Two best-of-3 series that Dark recently played versus Erik. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv Live most",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-unexpected-new-rival/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-unexpected-new-rival/",
-      "originalUrl": "https://youtube.com/watch?v=InNm98MUfSg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/InNm98MUfSg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/InNm98MUfSg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-04-28T04:47:31-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-game-of-the-year-dark-vs-cure.md",
@@ -1198,6 +1043,37 @@
       "publishedDateTime": "2023-05-03T22:28:52-07:00"
     },
     {
+      "path": "_games/pig-the-depot-strategy-to-break-zerg-brains-florencio-files-282-starcraft-2.md",
+      "title": "THE DEPOT STRATEGY TO BREAK ZERG BRAINS | Florencio Files #282 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-depot-strategy-to-break-zerg-brains-florencio-files-282-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-depot-strategy-to-break-zerg-brains-florencio-files-282-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=6oSZOt5ROEo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6oSZOt5ROEo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M58S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6oSZOt5ROEo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-05T18:25:10-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-darks-gold-base-proxy-hatch-best-of-5.md",
       "title": "StarCraft 2: Dark's GOLD BASE Proxy Hatch! (Best-of-5)",
       "excerpt": "Best-of-5 series of top level StarCraft 2 between Dark (Zerg) and Creator (Protoss). In this series of SC2 we see a huge variety of strategies, as both players try to outsmart each other. This series ends with a very emotional moment, as one of the players makes a massive mistake.  Game from IEM Katowice",
@@ -1273,6 +1149,123 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-23T04:09:55-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-heros-mass-oracle-vs-dark-esl-open-cup-finals.md",
+      "title": "StarCraft 2: herO's MASS ORACLE vs Dark! (ESL Open Cup Finals)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 from the Korean server between herO (Protoss) and Dark (Zerg). This series is the finals of the ESL Open Cup Korea 177. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-mass-oracle-vs-dark-esl-open-cup-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-mass-oracle-vs-dark-esl-open-cup-finals/",
+      "originalUrl": "https://youtube.com/watch?v=aXDgrXQjQ2o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aXDgrXQjQ2o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M28S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aXDgrXQjQ2o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-06-08T02:16:38-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-maxpax-cannon-rushes-serral-best-of-5.md",
+      "title": "StarCraft 2: MaxPax CANNON RUSHES Serral! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between MaxPax and Serral. MaxPax is quickly becoming one of the best players on the European server. However Serral Zerg versus Protoss is the best in the world.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpax-cannon-rushes-serral-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpax-cannon-rushes-serral-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=cAJRrpjEczc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cAJRrpjEczc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M56S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cAJRrpjEczc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-01-20T03:02:04-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun.md",
+      "title": "StarCraft 2: PRO GAMERS PLAY 2v2 - Scarlett & Astrea vs Dark & ByuN!",
+      "excerpt": "Professional match of StarCraft 2 between Astrea & Scarlett on team North America and ByuN and Dark on team South Korea. Fantastic game on the 2v2 map \"Nightscape LE\".  OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun/",
+      "originalUrl": "https://youtube.com/watch?v=q9Lu_Oo-vio",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q9Lu_Oo-vio\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M28S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q9Lu_Oo-vio/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-19T04:56:26-07:00"
     }
   ],
   "nextPage": 4

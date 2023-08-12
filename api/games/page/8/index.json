@@ -196,6 +196,44 @@
       "publishedDateTime": "2023-03-22T08:15:46-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3.md",
+      "title": "StarCraft 2: TOP-LEVEL SC2 IN 2023 - Dark vs Cure! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Cure (Terran) and Dark (Zerg). Cure has been playing very well over the last few months, and in this series he takes on one of the best Zerg players. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=c00-MkxW404",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c00-MkxW404\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M34S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/c00-MkxW404/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-15T03:58:49-07:00"
+    },
+    {
       "path": "_games/pig-beating-terran-with-mass-drones-workers-only-to-grandmaster-1-starcraft-2.md",
       "title": "Beating Terran with MASS DRONES | WORKERS ONLY to Grandmaster #1 - StarCraft 2",
       "excerpt": "Here's WORKERS ONLY to Grandmaster Episode 1! Players are volunteers from low Silver to low Gold (2200 - 2700 MMR). They do not know what's coming, but they're aware it's something for YT.  HOW TO VOLUNTEER: Hop onto the discord to find out more https://discord.gg/sCTYquEd -- 🐷 Main Channel: https://www.youtube.com/user/PiGstarcraft",
@@ -1025,36 +1063,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-05-05T18:25:10-07:00"
-    },
-    {
-      "path": "_games/pig-wings-of-liberty-nightmare-difficulty-1st-protoss-mission-whispers-of-doom-part-9-starcraft-2.md",
-      "title": "Wings of Liberty NIGHTMARE DIFFICULTY: 1st Protoss Mission Whispers of Doom. Part 9 - StarCraft 2",
-      "excerpt": "My first try at Nightmare Difficulty Mode StarCraft 2 Campaign created by GiantGrantGames and his amazing modding community. Having lots of fun with it! Here's the 9th part containing:  0:00 What is this range?! 0:12 Whispers of Doom  Here's a guide on how to play nightmare mode: https://www.reddit.com/r/StarcraftCampaigns/comments/tcxzii/wings_of_liberty_nightmare_difficulty/",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-wings-of-liberty-nightmare-difficulty-1st-protoss-mission-whispers-of-doom-part-9-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-wings-of-liberty-nightmare-difficulty-1st-protoss-mission-whispers-of-doom-part-9-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=tX_mStnV2Tw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tX_mStnV2Tw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M10S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tX_mStnV2Tw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-15T14:53:10-07:00"
     }
   ],
   "nextPage": 9

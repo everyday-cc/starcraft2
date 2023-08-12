@@ -4,35 +4,6 @@
   "page": 72,
   "value": [
     {
-      "path": "_games/pig-pig-has-a-stroke-the-no-swearing-challenge-icyfar-backstabs-compilation.md",
-      "title": "PiG HAS A STROKE - THE NO SWEARING CHALLENGE | ICYFAR \"Backstabs!\" Compilation",
-      "excerpt": "Can PiG go just 1 hour without swearing (or using crude language or innuendos)? Seriously hilarious challenge for PiG only, because no one else relies so much on swearing and innuendos like he does! The penalty for each infraction was adding 150 seconds to the subathon timer.  0:00 Game 1 30:31 Game",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-pig-has-a-stroke-the-no-swearing-challenge-icyfar-backstabs-compilation/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-pig-has-a-stroke-the-no-swearing-challenge-icyfar-backstabs-compilation/",
-      "originalUrl": "https://youtube.com/watch?v=L9lHOmkhGcI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L9lHOmkhGcI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M47S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/L9lHOmkhGcI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-pig-im-a-baboon-i-know-nothing-about-starcraft-guess-the-mmr-2.md",
       "title": "PiG: I’m a baboon, I know nothing about Starcraft! | Guess the MMR #2",
       "excerpt": "*NEW SHOW* Guess the MMR: PiG will attempt to guess your exact MMR! Send your replay to RateMyStarcraft@gmail.com with \"Guess the MMR\" in the title + in the body add your IGN & MMR & region (e.g. Maru, 3600, EU). Name your replay in the format: IGN - Server (e.g. Maru - EU)  This was inspired by Harstem’s",
@@ -914,6 +885,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:47:10-07:00"
+    },
+    {
+      "path": "_games/pig-quad-nuclear-strike-detected-sneaky-sneaky-kaelaris-icyfar-g5.md",
+      "title": "Quad Nuclear Strike Detected! | Sneaky Sneaky Kaelaris ICYFAR G5",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to utilize cloaked and burrowed units as much as posible!  NEW ICYFAR CHALLENGE: \"Oldschool” - bring out your out-dated strats from last year, HOTS/WOL, Starcraft 1 or a completely different",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-quad-nuclear-strike-detected-sneaky-sneaky-kaelaris-icyfar-g5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-quad-nuclear-strike-detected-sneaky-sneaky-kaelaris-icyfar-g5/",
+      "originalUrl": "https://youtube.com/watch?v=VBtNQv6IEQA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VBtNQv6IEQA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M52S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VBtNQv6IEQA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
     }
   ],
   "nextPage": 73

@@ -4,45 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-pro-build-darks-100-muta-army-vs-creator-best-of-3.md",
-      "title": "StarCraft 2: PRO BUILD - Dark's 100+ Muta Army vs Creator! (Best-of-3)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between Dark (Zerg) and Creator (Protoss).  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips    Twitch livestream: https://twitch.tv/lowkotv Live most days 2-8 PM CET / CEST  The",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-build-darks-100-muta-army-vs-creator-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-pro-build-darks-100-muta-army-vs-creator-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=5EhosW05La0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5EhosW05La0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M42S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5EhosW05La0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-22T08:15:46-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-reaper-surprises-professional-2v2-maru-byun-vs-solar-ryung.md",
       "title": "StarCraft 2: REAPER SURPRISES - Professional 2v2! (Maru & ByuN vs Solar & Ryung)",
       "excerpt": "Best-of-5 series of StarCraft 2 played in 2v2. Normally we don't see many pro games played in 2v2, but these games from the OlimoLeague are a lot of fun.  OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -311,6 +272,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-05T04:59:34-07:00"
+    },
+    {
+      "path": "_games/pig-dumb-proxy-rax-leaves-zerg-utterly-bewildered-icyfar-weird-harassment-starcraft-2.md",
+      "title": "Dumb proxy rax leaves Zerg utterly bewildered | ICYFAR \"Weird Harassment\" - StarCraft 2",
+      "excerpt": "🤯 NEW ICYFAR CHALLENGE: AIR STRIKES - Use flyers to harass or attack multiple places at once! Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 21st July  🤯 In this episode of I Cast Your Freakin Awesome Replays",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-dumb-proxy-rax-leaves-zerg-utterly-bewildered-icyfar-weird-harassment-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-dumb-proxy-rax-leaves-zerg-utterly-bewildered-icyfar-weird-harassment-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=FezDUNZKTbQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FezDUNZKTbQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M31S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FezDUNZKTbQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-10T20:00:16-07:00"
     },
     {
       "path": "_games/pig-how-quickly-can-dark-dispose-of-noobs-part-1-holdout-challenge-starcraft-2.md",
@@ -935,45 +926,6 @@
       "publishedDateTime": "2022-06-04T05:05:19-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-lurkers-nydus-worms-rogue-vs-parting.md",
-      "title": "StarCraft 2: LURKERS & NYDUS WORMS! (Rogue vs PartinG)",
-      "excerpt": "An awesome game of Zerg versus Protoss in StarCraft 2 between the previous world champion Rogue and one of the strongest Protoss players PartinG. In this game we see a unique style to countering Lurkers and Nydus Worms from PartinG. He focuses heavily on Stalkers and Colossus, while denying the Nydus",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-lurkers-nydus-worms-rogue-vs-parting/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-lurkers-nydus-worms-rogue-vs-parting/",
-      "originalUrl": "https://youtube.com/watch?v=7v88m6ADLXY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7v88m6ADLXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7v88m6ADLXY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-02-05T01:06:24-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-marus-massive-tactical-nuke-vs-solar-best-of-3.md",
       "title": "StarCraft 2: Maru's MASSIVE Tactical Nuke vs Solar! (Best-of-3)",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between Maru and Solar. Easily of the biggest Nukes in a professional match of SC2 ever.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
@@ -1127,6 +1079,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-02-28T02:47:38-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serral-baneling-busts-maru-best-of-5.md",
+      "title": "StarCraft 2: Serral BANELING BUSTS Maru! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Serral (Zerg) and Maru (Terran). These two are considered the best players in StarCraft 2 currently.  Swarm Host Mutalisk in Bronze League: https://youtu.be/Y4S6yaWWmJg  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-baneling-busts-maru-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-baneling-busts-maru-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=l0fKwYapXXM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l0fKwYapXXM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M40S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/l0fKwYapXXM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-03-17T05:37:16-07:00"
     }
   ],
   "nextPage": 6

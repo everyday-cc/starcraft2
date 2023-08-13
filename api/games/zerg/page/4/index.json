@@ -4,45 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun.md",
-      "title": "StarCraft 2: PRO GAMERS PLAY 2v2 - Scarlett & Astrea vs Dark & ByuN!",
-      "excerpt": "Professional match of StarCraft 2 between Astrea & Scarlett on team North America and ByuN and Dark on team South Korea. Fantastic game on the 2v2 map \"Nightscape LE\".  OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-pro-gamers-play-2v2-scarlett-astrea-vs-dark-byun/",
-      "originalUrl": "https://youtube.com/watch?v=q9Lu_Oo-vio",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q9Lu_Oo-vio\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M28S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/q9Lu_Oo-vio/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-19T04:56:26-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3.md",
       "title": "StarCraft 2: TOP-LEVEL SC2 IN 2023 - Dark vs Cure! (Best-of-3)",
       "excerpt": "Best-of-3 series of top level StarCraft 2 between Cure (Terran) and Dark (Zerg). Cure has been playing very well over the last few months, and in this series he takes on one of the best Zerg players. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
@@ -1124,6 +1085,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-05T03:03:28-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-pro-build-darks-100-muta-army-vs-creator-best-of-3.md",
+      "title": "StarCraft 2: PRO BUILD - Dark's 100+ Muta Army vs Creator! (Best-of-3)",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 between Dark (Zerg) and Creator (Protoss).  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips    Twitch livestream: https://twitch.tv/lowkotv Live most days 2-8 PM CET / CEST  The",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-build-darks-100-muta-army-vs-creator-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-pro-build-darks-100-muta-army-vs-creator-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=5EhosW05La0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5EhosW05La0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M42S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5EhosW05La0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-22T08:15:46-07:00"
     }
   ],
   "nextPage": 5

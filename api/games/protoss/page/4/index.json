@@ -4,6 +4,37 @@
   "page": 4,
   "value": [
     {
+      "path": "_games/pig-the-silliest-planetary-fortress-rush-ever-florencio-files-279-starcraft-2.md",
+      "title": "The Silliest Planetary Fortress Rush EVER | Florencio Files #279 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-silliest-planetary-fortress-rush-ever-florencio-files-279-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-silliest-planetary-fortress-rush-ever-florencio-files-279-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=uTujJVkvE0s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uTujJVkvE0s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M20S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uTujJVkvE0s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-21T19:26:50-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-a-protoss-legend-returns-the-shield-of-aiur-is-back-best-of-5.md",
       "title": "StarCraft 2: A Protoss LEGEND Returns - The SHIELD OF AIUR Is Back! (Best-of-5)",
       "excerpt": "After the return of TY and INnoVation, another StarCraft 2 pro also decided to come back to the scene: Stats. One of the best Protoss players of all time recently wrapped up his mandatory military service over in South Korea. In this best-of-5 he's facing off against INnoVation.  Support my work: https://patreon.com/lowkotv",
@@ -386,45 +417,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-13T03:43:54-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-lurkers-nydus-worms-rogue-vs-parting.md",
-      "title": "StarCraft 2: LURKERS & NYDUS WORMS! (Rogue vs PartinG)",
-      "excerpt": "An awesome game of Zerg versus Protoss in StarCraft 2 between the previous world champion Rogue and one of the strongest Protoss players PartinG. In this game we see a unique style to countering Lurkers and Nydus Worms from PartinG. He focuses heavily on Stalkers and Colossus, while denying the Nydus",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-lurkers-nydus-worms-rogue-vs-parting/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-lurkers-nydus-worms-rogue-vs-parting/",
-      "originalUrl": "https://youtube.com/watch?v=7v88m6ADLXY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7v88m6ADLXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7v88m6ADLXY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-02-05T01:06:24-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-maxpax-cannon-rushes-serral-best-of-5.md",

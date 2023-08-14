@@ -4,36 +4,6 @@
   "page": 81,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-hug-the-planetary-icyfar-g3-did-you-hear-that.md",
-      "title": "StarCraft 2 - HUG THE PLANETARY! ICYFAR G3 Did you hear that?",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they use invisible and burrowed units as much as possible (Did you hear that?)! Here’s a fun game of zerg versus terran completing the challenge in humorous fashion.   NEW ICYFAR CHALLENGE:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-hug-the-planetary-icyfar-g3-did-you-hear-that/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-hug-the-planetary-icyfar-g3-did-you-hear-that/",
-      "originalUrl": "https://youtube.com/watch?v=Q7aVFRktoL0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q7aVFRktoL0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M45S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Q7aVFRktoL0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-i-am-sorry-to-diamond-players-everwhere-guess-the-mmr-1.md",
       "title": "StarCraft 2 - I am Sorry to Diamond Players Everwhere! | Guess the MMR #1",
       "excerpt": "*NEW SHOW* Guess the MMR: PiG will attempt to guess your exact MMR! Send your replay to RateMyStarcraft@gmail.com with \"Guess the MMR\" in the title + in the body add your IGN & MMR & region (e.g. Maru, 3600, EU)  This was of course inspired by Harstem’s Rank Roulette. The thing about that show is that",
@@ -93,6 +63,36 @@
       "publishedDateTime": "2020-06-25T09:00:31-07:00"
     },
     {
+      "path": "_games/pig-starcraft-2-i-like-to-welcome-thieves-into-my-property-the-florencio-files-64.md",
+      "title": "StarCraft 2 - \"I like to welcome thieves into my property\" | The Florencio Files #64",
+      "excerpt": "YES that is indeed Florencio in the Thumbnail!  I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-i-like-to-welcome-thieves-into-my-property-the-florencio-files-64/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-i-like-to-welcome-thieves-into-my-property-the-florencio-files-64/",
+      "originalUrl": "https://youtube.com/watch?v=Y7jpp4xCa7k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y7jpp4xCa7k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M30S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Y7jpp4xCa7k/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-05-15T14:48:03-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-i-made-too-much-mistake-florencio-files-177.md",
       "title": "StarCraft 2 -  \"I MADE TOO MUCH MISTAKE\" | Florencio Files #177",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜 Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
@@ -121,6 +121,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-21T09:00:16-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-i-think-the-games-broken-the-florencio-files-36.md",
+      "title": "StarCraft 2 - “I think the game’s broken?” | The Florencio Files #36",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  Florencios twitch: https://www.twitch.tv/flol2encio Florencios youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-i-think-the-games-broken-the-florencio-files-36/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-i-think-the-games-broken-the-florencio-files-36/",
+      "originalUrl": "https://youtube.com/watch?v=VoF9J1ww7kU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VoF9J1ww7kU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M49S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VoF9J1ww7kU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-11-17T20:14:18-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-i-wouldnt-trust-this-guy-to-babysit-my-kids-the-florencio-files-100.md",
@@ -688,36 +718,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-04-18T02:55:47-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-less-apm-than-a-pocket-watch-the-florencio-files-106.md",
-      "title": "StarCraft 2 - \"Less APM than a pocket watch” | The Florencio Files #106",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-less-apm-than-a-pocket-watch-the-florencio-files-106/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-less-apm-than-a-pocket-watch-the-florencio-files-106/",
-      "originalUrl": "https://youtube.com/watch?v=r83Jo_9ZOb0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r83Jo_9ZOb0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M47S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/r83Jo_9ZOb0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-12-05T09:00:23-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-lets-take-the-kids-to-six-flags-the-florencio-files-62.md",

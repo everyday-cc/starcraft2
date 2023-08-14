@@ -1048,7 +1048,7 @@ items:
   - pig-wings-of-liberty-nightmare-difficulty-omg-part-7-starcraft-2
   - pig-neural-parasite-triggers-rage-meltdown-from-toss-salt-mines-38-starcraft-2
   - pig-simple-nexus-recall-trick-fools-opponent-mape-the-ape-3-starcraft-2
-  - pig-genius-proxy-hatch-breaks-reynors-brain-starcraft-2
+  - pig-genius-proxy-hatch-breaks-reynors-brain-reaper-starcraft-2
   - pig-the-craziest-response-to-a-proxy-hatch-ever-reaper-vs-nina-starcraft-2
   - pig-wings-of-liberty-nightmare-difficulty-the-great-train-robbery-part-8-starcraft-2
   - pig-dumb-proxy-rax-leaves-zerg-utterly-bewildered-icyfar-weird-harassment-starcraft-2
@@ -1064,6 +1064,7 @@ items:
   - pig-how-is-this-maniac-better-than-99-of-sc2-players-slammer-vs-xkawaiian
   - pig-twitch-chat-challenges-me-to-say-bacon-every-worker-kill-starcraft-2
   - pig-when-your-nydus-fails-but-youre-a-cheesy-genius-bly-vs-milkicow-starcraft-2
+  - pig-how-long-can-regular-players-last-vs-harstem-part-2-holdout-challenge-starcraft-2
 
 topics:
   - StarCraft 2

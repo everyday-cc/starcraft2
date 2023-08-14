@@ -522,6 +522,37 @@
       "publishedDateTime": "2022-03-03T19:13:33-08:00"
     },
     {
+      "path": "_games/pig-genius-proxy-hatch-breaks-reynors-brain-reaper-starcraft-2.md",
+      "title": "Genius proxy hatch BREAKS Reynor’s brain | Reaper - StarCraft 2",
+      "excerpt": "Reaper has been doing some DIRTY proxy hatch builds. Here's a couple games, one against Reynor!  Reaper's twitch: https://www.twitch.tv/gosu_reaper -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for daily Pro Casts: https://www.youtube.com/c/PiGCasts",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-genius-proxy-hatch-breaks-reynors-brain-reaper-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-genius-proxy-hatch-breaks-reynors-brain-reaper-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=5IjhWeYu8g8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5IjhWeYu8g8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M44S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 86,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5IjhWeYu8g8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-06T16:49:13-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-serral-takes-on-the-world-champion-best-of-5.md",
       "title": "StarCraft 2: Serral takes on the WORLD CHAMPION! (Best-of-5)",
       "excerpt": "Best-of-5 series of top level StarCraft 2 between the highestst ranked player in the world (Serral) and the current World Champion of SC2 (Oliveira). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
@@ -935,14 +966,14 @@
       "publishedDateTime": "2021-07-02T04:57:54-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-violent-games-darks-strange-zerg-strategies-finals.md",
-      "title": "StarCraft 2: VIOLENT GAMES - Dark's STRANGE Zerg Strategies! (Finals)",
-      "excerpt": "Best-of-5 series of high level StarCraft 2 that's the finals of the Korean StarCraft League 16. This match is between herO (Protoss) and Dark (Zerg). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-violent-games-darks-strange-zerg-strategies-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-violent-games-darks-strange-zerg-strategies-finals/",
-      "originalUrl": "https://youtube.com/watch?v=wQZrEIkhWtc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wQZrEIkhWtc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT55M37S",
+      "path": "_games/lowkotv-starcraft-2-gumihos-strange-blunder-vs-dark-best-of-3.md",
+      "title": "StarCraft 2: GuMiho's STRANGE BLUNDER vs Dark! (Best-of-3)",
+      "excerpt": "StarCraft 2 match from the ESL SC2 Masters Summer. In this best-of-3 series of Zerg vs Terran we watch Dark take on GuMiho, two pro gamers from South Korea. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumihos-strange-blunder-vs-dark-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumihos-strange-blunder-vs-dark-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=ixCfp-p_xSM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ixCfp-p_xSM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M57S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -957,12 +988,13 @@
       },
       "topics": [
         "StarCraft 2",
+        "Terran",
         "Zerg"
       ],
       "heat": 66,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/wQZrEIkhWtc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ixCfp-p_xSM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -970,7 +1002,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-06-27T04:58:20-07:00"
+      "publishedDateTime": "2023-06-27T04:59:02-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-super-high-apm-serrals-first-person-camera-vs-gumiho.md",
@@ -1050,44 +1082,14 @@
       "publishedDateTime": "2021-05-27T03:31:39-07:00"
     },
     {
-      "path": "_games/pig-neural-parasite-triggers-rage-meltdown-from-toss-salt-mines-38-starcraft-2.md",
-      "title": "Neural Parasite triggers RAGE MELTDOWN from Toss | Salt Mines #38 - StarCraft 2",
-      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-neural-parasite-triggers-rage-meltdown-from-toss-salt-mines-38-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-neural-parasite-triggers-rage-meltdown-from-toss-salt-mines-38-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=V2byAOGqV4Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V2byAOGqV4Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M4S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/V2byAOGqV4Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-03T18:08:44-07:00"
-    },
-    {
-      "path": "_games/lowkotv-cures-200-iq-cyclones-vs-solar-starcraft-2.md",
-      "title": "Cure's 200 IQ CYCLONES vs Solar! (StarCraft 2)",
-      "excerpt": "GSL Code S series of Zerg vs Terran in StarCraft 2. This best-of-3 is between Cure (Terran) and Solar (Zerg). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-cures-200-iq-cyclones-vs-solar-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-cures-200-iq-cyclones-vs-solar-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=xJ598Ld3uKw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xJ598Ld3uKw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M13S",
+      "path": "_games/lowkotv-starcraft-2-dark-rushes-ultralisks-vs-byun-best-of-3.md",
+      "title": "StarCraft 2: Dark Rushes ULTRALISKS vs ByuN?! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Dark (Zerg) and ByuN (Terran) on brand new maps. In this series I cast games on the maps from the most recent TLMC (Team Liquid Map Contest).  Serral vs GuMiho (Grand Finals): https://youtu.be/YX4StuIsM_Q Support my work: https://patreon.com/lowkotv Lowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-dark-rushes-ultralisks-vs-byun-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-dark-rushes-ultralisks-vs-byun-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=m6cIajlMH9Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m6cIajlMH9Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M54S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1102,12 +1104,13 @@
       },
       "topics": [
         "StarCraft 2",
+        "Terran",
         "Zerg"
       ],
-      "heat": 61,
+      "heat": 62,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/xJ598Ld3uKw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/m6cIajlMH9Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1115,7 +1118,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-07-14T05:00:09-07:00"
+      "publishedDateTime": "2023-06-21T07:11:46-07:00"
     }
   ],
   "nextPage": 3

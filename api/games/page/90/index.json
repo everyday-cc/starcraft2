@@ -4,6 +4,36 @@
   "page": 90,
   "value": [
     {
+      "path": "_games/pig-the-moves-they-never-see-coming-diamond-in-the-ruff-33-double-special-starcraft-2.md",
+      "title": "THE MOVES THEY NEVER SEE COMING | Diamond in the Ruff #33 Double Special - StarCraft 2",
+      "excerpt": "How will he ruff up his Protoss opponent? 🐷 Support PiG: https://www.patreon.com/PiGSC2  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13 | https://www.youtube.com/ruff_stuff -- 🐖 Watch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-moves-they-never-see-coming-diamond-in-the-ruff-33-double-special-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-moves-they-never-see-coming-diamond-in-the-ruff-33-double-special-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=q1GJkA5ii_I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q1GJkA5ii_I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M26S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q1GJkA5ii_I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-25T15:03:23-08:00"
+    },
+    {
       "path": "_games/pig-the-never-ending-tech-switches-icyfar-plot-twist-compilation.md",
       "title": "The Never-ending Tech Switches! ICYFAR Plot Twist Compilation",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they tech switch multiple times to get the better of their opponent (Plot Twist)! Chapters: 0:00 Game 1 33:52 Game 2  NEW ICYFAR CHALLENGE: \"Momentum\" - Attack at least once every 3",
@@ -860,36 +890,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-27T20:52:10-07:00"
-    },
-    {
-      "path": "_games/pig-this-crazy-double-swarm-host-strategy-guarantees-chaos-smooth-brain-stephen-3-starcraft-2.md",
-      "title": "This crazy double swarm host strategy guarantees CHAOS | Smooth Brain Stephen #3 - StarCraft 2",
-      "excerpt": "Stephen won Season 2 of the Smooth Brain Auditions with his Spawning Pool off creep game, which was 100% glassy. This new series is dedicated to his smoothness.  How Stephen won Season 2: https://youtu.be/1S7dlYy947Y Watch (A Collection of) Smooth Brains playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-crazy-double-swarm-host-strategy-guarantees-chaos-smooth-brain-stephen-3-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-crazy-double-swarm-host-strategy-guarantees-chaos-smooth-brain-stephen-3-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=foAtID-bt7A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/foAtID-bt7A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M53S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/foAtID-bt7A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-02T18:51:18-07:00"
     }
   ],
   "nextPage": 91

@@ -4,6 +4,45 @@
   "page": 1,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-all-new-maps-scarlett-drone-rushes-hero-best-of-5.md",
+      "title": "StarCraft 2: ALL NEW MAPS - Scarlett DRONE RUSHES herO! (Best-of-5)",
+      "excerpt": "High level match of StarCraft 2 played on brand new maps from the Team Liquid Map Contest (TLMC). This best-of-5 is between Scarlett and herO. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-all-new-maps-scarlett-drone-rushes-hero-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-all-new-maps-scarlett-drone-rushes-hero-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=9-LpJ02EtNw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9-LpJ02EtNw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M17S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 286,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9-LpJ02EtNw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-06-21T05:36:29-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-silver-league-heroes-proxy-nexus-in-the-terrans-main.md",
       "title": "StarCraft 2: Silver League Heroes - Proxy NEXUS in the Terran's Main!",
       "excerpt": "Two viewer submitted games of StarCraft 2, with some of the strangest strategies that I've ever seen. Proxy Refinery and a Proxy Nexus?!  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  00:00 Proxy Refinery 12:07 Proxy Nexus  My YouTube channels: https://youtube.com/lowkotv",
@@ -41,45 +80,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-05-08T03:18:53-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-all-new-maps-scarlett-drone-rushes-hero-best-of-5.md",
-      "title": "StarCraft 2: ALL NEW MAPS - Scarlett DRONE RUSHES herO! (Best-of-5)",
-      "excerpt": "High level match of StarCraft 2 played on brand new maps from the Team Liquid Map Contest (TLMC). This best-of-5 is between Scarlett and herO. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-all-new-maps-scarlett-drone-rushes-hero-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-all-new-maps-scarlett-drone-rushes-hero-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=9-LpJ02EtNw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9-LpJ02EtNw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M17S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 226,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9-LpJ02EtNw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-21T05:36:29-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-lowko-cries-over-zests-mass-void-ray-vs-soo-best-of-5.md",
@@ -545,6 +545,45 @@
       "publishedDateTime": "2023-05-08T03:18:53-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-mass-battlecruiser-vs-mass-carrier-ty-vs-classic.md",
+      "title": "StarCraft 2: MASS Battlecruiser vs MASS Carrier! (TY vs Classic)",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 from the GSL Code S between Classic (Protoss) and TY (Terran). This series starts off on NeoHumanity where TY decides to play a Turtle Terran style and go straight up to Terran Mech into Battlecruisers. Support my work: https://patreon.com/lowkotv Lowko Merch:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-mass-battlecruiser-vs-mass-carrier-ty-vs-classic/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-mass-battlecruiser-vs-mass-carrier-ty-vs-classic/",
+      "originalUrl": "https://youtube.com/watch?v=IHm5Vo_UI5M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IHm5Vo_UI5M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT48M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 147,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IHm5Vo_UI5M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-07T23:17:00-07:00"
+    },
+    {
       "path": "_games/pig-flos-genius-hallucination-trick-florencio-files-281-starcraft-2.md",
       "title": "Flo's GENIUS Hallucination Trick | Florencio Files #281 - StarCraft 2",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
@@ -600,7 +639,7 @@
         "Protoss",
         "Zerg"
       ],
-      "heat": 129,
+      "heat": 118,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/fqov7V2S3Lw/maxresdefault.jpg",
@@ -612,36 +651,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-07-15T23:50:10-07:00"
-    },
-    {
-      "path": "_games/pig-wings-of-liberty-nightmare-difficulty-1st-protoss-mission-whispers-of-doom-part-9-starcraft-2.md",
-      "title": "Wings of Liberty NIGHTMARE DIFFICULTY: 1st Protoss Mission Whispers of Doom. Part 9 - StarCraft 2",
-      "excerpt": "My first try at Nightmare Difficulty Mode StarCraft 2 Campaign created by GiantGrantGames and his amazing modding community. Having lots of fun with it! Here's the 9th part containing:  0:00 What is this range?! 0:12 Whispers of Doom  Here's a guide on how to play nightmare mode: https://www.reddit.com/r/StarcraftCampaigns/comments/tcxzii/wings_of_liberty_nightmare_difficulty/",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-wings-of-liberty-nightmare-difficulty-1st-protoss-mission-whispers-of-doom-part-9-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-wings-of-liberty-nightmare-difficulty-1st-protoss-mission-whispers-of-doom-part-9-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=tX_mStnV2Tw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tX_mStnV2Tw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M10S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 114,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tX_mStnV2Tw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-15T14:53:10-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime.md",
@@ -839,45 +848,6 @@
       "publishedDateTime": "2023-07-06T03:49:18-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-wtf-planetary-rush-vs-mothership-rush-uthermal-vs-shadown.md",
-      "title": "StarCraft 2: WTF?! Planetary Rush vs Mothership Rush! (uThermal vs Shadown)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 from HomeStory Cup 23 between uThermal (Terran) and Shadown (Protoss). In this series Shadown decides to fight fire with fire as he cheeses uThermal who's going for some very cheesy Terran build orders.  Support my work: https://patreon.com/lowkotv Lowko Merch:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-wtf-planetary-rush-vs-mothership-rush-uthermal-vs-shadown/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-wtf-planetary-rush-vs-mothership-rush-uthermal-vs-shadown/",
-      "originalUrl": "https://youtube.com/watch?v=6rEg2YyUzWY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6rEg2YyUzWY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M27S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 91,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6rEg2YyUzWY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-03T08:30:18-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-stuck-between-a-tempest-and-a-cannon-place-florencio-files-264.md",
       "title": "StarCraft 2 - Stuck between a Tempest and a Cannon Place | Florencio Files #264",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
@@ -906,45 +876,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-04-13T19:34:28-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-mass-battlecruiser-vs-mass-carrier-ty-vs-classic.md",
-      "title": "StarCraft 2: MASS Battlecruiser vs MASS Carrier! (TY vs Classic)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 from the GSL Code S between Classic (Protoss) and TY (Terran). This series starts off on NeoHumanity where TY decides to play a Turtle Terran style and go straight up to Terran Mech into Battlecruisers. Support my work: https://patreon.com/lowkotv Lowko Merch:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-mass-battlecruiser-vs-mass-carrier-ty-vs-classic/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-mass-battlecruiser-vs-mass-carrier-ty-vs-classic/",
-      "originalUrl": "https://youtube.com/watch?v=IHm5Vo_UI5M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IHm5Vo_UI5M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 87,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IHm5Vo_UI5M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-07T23:17:00-07:00"
     },
     {
       "path": "_games/pig-the-sewer-mermaid-slips-behind-enemy-lines-florencio-files-279-starcraft-2.md",
@@ -1038,6 +969,45 @@
       "publishedDateTime": "2022-08-03T21:25:26-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-wtf-planetary-rush-vs-mothership-rush-uthermal-vs-shadown.md",
+      "title": "StarCraft 2: WTF?! Planetary Rush vs Mothership Rush! (uThermal vs Shadown)",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 from HomeStory Cup 23 between uThermal (Terran) and Shadown (Protoss). In this series Shadown decides to fight fire with fire as he cheeses uThermal who's going for some very cheesy Terran build orders.  Support my work: https://patreon.com/lowkotv Lowko Merch:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-wtf-planetary-rush-vs-mothership-rush-uthermal-vs-shadown/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-wtf-planetary-rush-vs-mothership-rush-uthermal-vs-shadown/",
+      "originalUrl": "https://youtube.com/watch?v=6rEg2YyUzWY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6rEg2YyUzWY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M27S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 80,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6rEg2YyUzWY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-03T08:30:18-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-flo-maxes-out-ground-attack-for-his-skytoss-facepalm-florencio-files-265.md",
       "title": "StarCraft 2- Flo maxes out ground attack for his skytoss! FACEPALM | Florencio Files #265",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
@@ -1096,6 +1066,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-07-25T03:16:54-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-heros-carrier-rush-in-the-gsl-code-s-best-of-3.md",
+      "title": "StarCraft 2: herO's CARRIER RUSH in the GSL Code S! (Best-of-3)",
+      "excerpt": "In this video, I cast a thrilling best-of-three series between two of the best StarCraft 2 players in the world: herO (Protoss) and RagnaroK (Zerg). This match took place in the GSL Code S, where only one of them could advance to the final match. Watch as herO unveils a NEW BUILD that catches RagnaroK",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-carrier-rush-in-the-gsl-code-s-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-carrier-rush-in-the-gsl-code-s-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=qGp_UOK8034",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qGp_UOK8034\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M14S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qGp_UOK8034/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-11T01:55:05-07:00"
     }
   ],
   "nextPage": 2

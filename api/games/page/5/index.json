@@ -4,81 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-can-maxpax-outplay-serral-best-of-3.md",
-      "title": "StarCraft 2: Can MaxPax OUTPLAY Serral?! (Best-of-3)",
-      "excerpt": "Top-level series of StarCraft 2 featuring Serral and MaxPax. These two players are currently the best Zerg and Protoss in the world respectively.Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-can-maxpax-outplay-serral-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-can-maxpax-outplay-serral-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=d0YbG0fzMZ4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d0YbG0fzMZ4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M37S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/d0YbG0fzMZ4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-24T04:53:30-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-crazy-strategies-you-will-never-see-this-from-the-pro-gamers.md",
-      "title": "StarCraft 2: CRAZY STRATEGIES - You will NEVER see this from the Pro Gamers!",
-      "excerpt": "Silver and Gold League games of StarCraft 2. In this video I cast two replays of SC2 games submitted by viewers. If you have an amazing game of StarCraft 2 you've recently played, you can submit to replays@lowko.tv and I might give commentary to your game next time! Support my work: https://patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-crazy-strategies-you-will-never-see-this-from-the-pro-gamers/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-crazy-strategies-you-will-never-see-this-from-the-pro-gamers/",
-      "originalUrl": "https://youtube.com/watch?v=FtowtK3Wd-g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FtowtK3Wd-g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M7S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 70,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FtowtK3Wd-g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-13T04:36:12-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-innovation.md",
       "title": "StarCraft 2: Serral vs INnoVation!",
       "excerpt": "Who is the greatest StarCraft 2 player of all time? In the beginning of this game between Serral and INnoVation I discuss the players that are in my opinion up for the title of being the Greatest Of All Time.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community",
@@ -176,17 +101,58 @@
       "publishedDateTime": "2023-07-27T00:03:25-07:00"
     },
     {
-      "path": "_games/collections/sc2hl-epic-starcraft-2-games-collected-by-sc2hl.md",
-      "title": "EPIC Starcraft 2 Games collected by SC2HL",
-      "excerpt": "Highlights from some of the best Starcraft 2 games. Coming from the GSL, SSL, WCS and many other tournaments.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/sc2hl-epic-starcraft-2-games-collected-by-sc2hl/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/collections/sc2hl-epic-starcraft-2-games-collected-by-sc2hl/",
+      "path": "_games/lowkotv-starcraft-2-heros-carrier-rush-in-the-gsl-code-s-best-of-3.md",
+      "title": "StarCraft 2: herO's CARRIER RUSH in the GSL Code S! (Best-of-3)",
+      "excerpt": "In this video, I cast a thrilling best-of-three series between two of the best StarCraft 2 players in the world: herO (Protoss) and RagnaroK (Zerg). This match took place in the GSL Code S, where only one of them could advance to the final match. Watch as herO unveils a NEW BUILD that catches RagnaroK",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-carrier-rush-in-the-gsl-code-s-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-carrier-rush-in-the-gsl-code-s-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=qGp_UOK8034",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qGp_UOK8034\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M14S",
       "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qGp_UOK8034/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-11T01:55:05-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-this-cant-be-happening-jimmy-becomes-a-superhero.md",
+      "title": "StarCraft 2: This CAN'T BE Happening - Jimmy becomes a Superhero!",
+      "excerpt": "Three viewer games of StarCraft 2! Gold and Platinum League matches are right at that skill level where the games are somewhat similar to the pro level, but the outcome is surprising almost every time.  00:00 Superhero Jimmy 12:34 Planetary Fortress rush 33:40 Proxy Hatchery cheese  Support my work:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-this-cant-be-happening-jimmy-becomes-a-superhero/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-this-cant-be-happening-jimmy-becomes-a-superhero/",
+      "originalUrl": "https://youtube.com/watch?v=GwaqoqcoLuM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GwaqoqcoLuM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M3S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -196,175 +162,18 @@
       "topics": [
         "StarCraft 2"
       ],
-      "topItems": [
-        {
-          "path": "_games/sc2hl-marus-mass-ghost-strategy-starcraft-2-maru-vs-solar.md",
-          "title": "Maru's MASS GHOST STRATEGY - Starcraft 2: Maru vs. Solar",
-          "excerpt": "Maru playing Solar in a best of 5, with both players using different strategies. Maru's mass ghost style, Solar's baneling/zergling rush.  Match: Maru vs. Solar Tournament: IEM Katowice 2023 VODs: https://twitch.tv/esl_sc2   ► Enjoy the content? Buy me a coffee! https://www.ko-fi.com/SC2HL ► SUBSCRIBE",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-marus-mass-ghost-strategy-starcraft-2-maru-vs-solar/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-marus-mass-ghost-strategy-starcraft-2-maru-vs-solar/",
-          "originalUrl": "https://youtube.com/watch?v=QSw5xtKKe0Y",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QSw5xtKKe0Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT22M22S",
-          "provider": {
-            "name": "SC2HL",
-            "domain": "sc2hl.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran",
-            "Zerg"
-          ],
-          "heat": 60,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/QSw5xtKKe0Y/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2023-04-02T06:00:39-07:00"
-        },
-        {
-          "path": "_games/sc2hl-5-vs-10-supply-28-minute-basetrade-starcraft-2-clem-vs-showtime.md",
-          "title": "5 vs 10 SUPPLY?! - 28 Minute BASETRADE - Starcraft 2: Clem vs Showtime",
-          "excerpt": "A crazy Protoss vs Terran between Showtime and Clem, the 16 year old Starcraft 2 pro. Who will win the Basetrade?   ► Find the WCS Valencia Vods here: https://www.youtube.com/user/WCSStarCraft ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-5-vs-10-supply-28-minute-basetrade-starcraft-2-clem-vs-showtime/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-5-vs-10-supply-28-minute-basetrade-starcraft-2-clem-vs-showtime/",
-          "originalUrl": "https://youtube.com/watch?v=u3go0OeMyZk",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u3go0OeMyZk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT17M37S",
-          "provider": {
-            "name": "SC2HL",
-            "domain": "sc2hl.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "topics": [
-            "StarCraft 2",
-            "Protoss"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/u3go0OeMyZk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2018-10-16T07:21:19-07:00"
-        },
-        {
-          "path": "_games/sc2hl-heros-sneaky-double-gold-base-starcraft-2-maru-vs-hero.md",
-          "title": "herO's SNEAKY DOUBLE GOLD BASE - Starcraft 2: Maru vs. herO",
-          "excerpt": "herO and herO playing the Starcraft 2 GSL Code S finals, with hero going for a sneaky build in the first game.   Match: maru vs. herO Tournament: GSL Code S 2022 - Season 2 VODs: https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg  ► Enjoy the content? Buy me a coffee! https://www.ko-fi.com/SC2HL",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-heros-sneaky-double-gold-base-starcraft-2-maru-vs-hero/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-heros-sneaky-double-gold-base-starcraft-2-maru-vs-hero/",
-          "originalUrl": "https://youtube.com/watch?v=khCRMkX2zHI",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/khCRMkX2zHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT47M38S",
-          "provider": {
-            "name": "SC2HL",
-            "domain": "sc2hl.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran",
-            "Protoss"
-          ],
-          "heat": 59,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/khCRMkX2zHI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2023-04-02T06:00:39-07:00"
-        },
-        {
-          "path": "_games/sc2hl-hero-builds-the-ultimate-protoss-wall-starcraft-2-hero-vs-dark.md",
-          "title": "herO Builds the Ultimate Protoss Wall - Starcraft 2: herO vs. Dark",
-          "excerpt": "herO vs. Dark in an absolutely amazing Starcraft 2 game, with herO building the ultimate protoss wall to contain Dark.   Match: herO vs. Dark  Tournament: Starcraft 2 - GSL Code S 2022  VODs: https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg  ► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-hero-builds-the-ultimate-protoss-wall-starcraft-2-hero-vs-dark/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-hero-builds-the-ultimate-protoss-wall-starcraft-2-hero-vs-dark/",
-          "originalUrl": "https://youtube.com/watch?v=wqxNTHqaLeI",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wqxNTHqaLeI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT19M53S",
-          "provider": {
-            "name": "SC2HL",
-            "domain": "sc2hl.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "topics": [
-            "StarCraft 2",
-            "Protoss",
-            "Zerg"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/wqxNTHqaLeI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2023-04-02T06:00:39-07:00"
-        }
-      ],
-      "size": 38,
-      "heat": 70,
+      "heat": 69,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/QSw5xtKKe0Y/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GwaqoqcoLuM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "collection"
+      "type": "video",
+      "publishedDateTime": "2023-07-19T07:51:31-07:00"
     },
     {
       "path": "_games/pig-i-made-sneaky-corner-bases-against-grandmasters-starcraft-2.md",
@@ -497,42 +306,33 @@
       "publishedDateTime": "2023-07-11T05:01:40-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-heros-carrier-rush-in-the-gsl-code-s-best-of-3.md",
-      "title": "StarCraft 2: herO's CARRIER RUSH in the GSL Code S! (Best-of-3)",
-      "excerpt": "In this video, I cast a thrilling best-of-three series between two of the best StarCraft 2 players in the world: herO (Protoss) and RagnaroK (Zerg). This match took place in the GSL Code S, where only one of them could advance to the final match. Watch as herO unveils a NEW BUILD that catches RagnaroK",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-carrier-rush-in-the-gsl-code-s-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-carrier-rush-in-the-gsl-code-s-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=qGp_UOK8034",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qGp_UOK8034\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M14S",
+      "path": "_games/pig-how-to-win-with-people-you-dont-like-jocko-willink.md",
+      "title": "How To Win With People You Don't Like - Jocko Willink",
+      "excerpt": "Join the conversation on Twitter/Instagram: @jockowillink @echocharles    Excerpt from JOCKOPODCAST 131",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-to-win-with-people-you-dont-like-jocko-willink/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-to-win-with-people-you-dont-like-jocko-willink/",
+      "originalUrl": "https://youtube.com/watch?v=7c3edYWFqVA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7c3edYWFqVA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M9S",
       "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "PiG",
+        "domain": "youtube.com"
       },
       "topics": [
-        "StarCraft 2",
-        "Protoss"
+        "StarCraft 2"
       ],
       "heat": 68,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/qGp_UOK8034/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/7c3edYWFqVA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-07-11T01:55:05-07:00"
+      "publishedDateTime": "2021-10-08T02:24:11-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-solar-did-not-expect-battle-mech-from-cure-best-of-3.md",
@@ -600,6 +400,197 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-08-01T02:17:19-07:00"
+    },
+    {
+      "path": "_games/collections/sc2hl-epic-starcraft-2-games-collected-by-sc2hl.md",
+      "title": "EPIC Starcraft 2 Games collected by SC2HL",
+      "excerpt": "Highlights from some of the best Starcraft 2 games. Coming from the GSL, SSL, WCS and many other tournaments.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/sc2hl-epic-starcraft-2-games-collected-by-sc2hl/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/collections/sc2hl-epic-starcraft-2-games-collected-by-sc2hl/",
+      "provider": {
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "topItems": [
+        {
+          "path": "_games/sc2hl-marus-mass-ghost-strategy-starcraft-2-maru-vs-solar.md",
+          "title": "Maru's MASS GHOST STRATEGY - Starcraft 2: Maru vs. Solar",
+          "excerpt": "Maru playing Solar in a best of 5, with both players using different strategies. Maru's mass ghost style, Solar's baneling/zergling rush.  Match: Maru vs. Solar Tournament: IEM Katowice 2023 VODs: https://twitch.tv/esl_sc2   ► Enjoy the content? Buy me a coffee! https://www.ko-fi.com/SC2HL ► SUBSCRIBE",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-marus-mass-ghost-strategy-starcraft-2-maru-vs-solar/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-marus-mass-ghost-strategy-starcraft-2-maru-vs-solar/",
+          "originalUrl": "https://youtube.com/watch?v=QSw5xtKKe0Y",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QSw5xtKKe0Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT22M22S",
+          "provider": {
+            "name": "SC2HL",
+            "domain": "sc2hl.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran",
+            "Zerg"
+          ],
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/QSw5xtKKe0Y/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2023-04-02T06:00:39-07:00"
+        },
+        {
+          "path": "_games/sc2hl-5-vs-10-supply-28-minute-basetrade-starcraft-2-clem-vs-showtime.md",
+          "title": "5 vs 10 SUPPLY?! - 28 Minute BASETRADE - Starcraft 2: Clem vs Showtime",
+          "excerpt": "A crazy Protoss vs Terran between Showtime and Clem, the 16 year old Starcraft 2 pro. Who will win the Basetrade?   ► Find the WCS Valencia Vods here: https://www.youtube.com/user/WCSStarCraft ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-5-vs-10-supply-28-minute-basetrade-starcraft-2-clem-vs-showtime/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-5-vs-10-supply-28-minute-basetrade-starcraft-2-clem-vs-showtime/",
+          "originalUrl": "https://youtube.com/watch?v=u3go0OeMyZk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u3go0OeMyZk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT17M37S",
+          "provider": {
+            "name": "SC2HL",
+            "domain": "sc2hl.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/u3go0OeMyZk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-10-16T07:21:19-07:00"
+        },
+        {
+          "path": "_games/sc2hl-heros-sneaky-double-gold-base-starcraft-2-maru-vs-hero.md",
+          "title": "herO's SNEAKY DOUBLE GOLD BASE - Starcraft 2: Maru vs. herO",
+          "excerpt": "herO and herO playing the Starcraft 2 GSL Code S finals, with hero going for a sneaky build in the first game.   Match: maru vs. herO Tournament: GSL Code S 2022 - Season 2 VODs: https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg  ► Enjoy the content? Buy me a coffee! https://www.ko-fi.com/SC2HL",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-heros-sneaky-double-gold-base-starcraft-2-maru-vs-hero/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-heros-sneaky-double-gold-base-starcraft-2-maru-vs-hero/",
+          "originalUrl": "https://youtube.com/watch?v=khCRMkX2zHI",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/khCRMkX2zHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT47M38S",
+          "provider": {
+            "name": "SC2HL",
+            "domain": "sc2hl.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran",
+            "Protoss"
+          ],
+          "heat": 60,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/khCRMkX2zHI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2023-04-02T06:00:39-07:00"
+        },
+        {
+          "path": "_games/sc2hl-hero-builds-the-ultimate-protoss-wall-starcraft-2-hero-vs-dark.md",
+          "title": "herO Builds the Ultimate Protoss Wall - Starcraft 2: herO vs. Dark",
+          "excerpt": "herO vs. Dark in an absolutely amazing Starcraft 2 game, with herO building the ultimate protoss wall to contain Dark.   Match: herO vs. Dark  Tournament: Starcraft 2 - GSL Code S 2022  VODs: https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg  ► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-hero-builds-the-ultimate-protoss-wall-starcraft-2-hero-vs-dark/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-hero-builds-the-ultimate-protoss-wall-starcraft-2-hero-vs-dark/",
+          "originalUrl": "https://youtube.com/watch?v=wqxNTHqaLeI",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wqxNTHqaLeI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT19M53S",
+          "provider": {
+            "name": "SC2HL",
+            "domain": "sc2hl.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss",
+            "Zerg"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/wqxNTHqaLeI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2023-04-02T06:00:39-07:00"
+        }
+      ],
+      "size": 38,
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QSw5xtKKe0Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection"
     },
     {
       "path": "_games/lowkotv-drgs-brood-war-unit-only-challenge-starcraft-2.md",
@@ -815,35 +806,6 @@
       "publishedDateTime": "2022-09-08T03:08:29-07:00"
     },
     {
-      "path": "_games/pig-how-to-win-with-people-you-dont-like-jocko-willink.md",
-      "title": "How To Win With People You Don't Like - Jocko Willink",
-      "excerpt": "Join the conversation on Twitter/Instagram: @jockowillink @echocharles    Excerpt from JOCKOPODCAST 131",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-to-win-with-people-you-dont-like-jocko-willink/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-to-win-with-people-you-dont-like-jocko-willink/",
-      "originalUrl": "https://youtube.com/watch?v=7c3edYWFqVA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7c3edYWFqVA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M9S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7c3edYWFqVA/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-08T02:24:11-07:00"
-    },
-    {
       "path": "_games/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53.md",
       "title": "When the Protoss is Protossing, and you gotta Terran | Diamond in the Ruff #53",
       "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent? 🐷 Support PiG: https://www.patreon.com/PiGSC2  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff:",
@@ -987,45 +949,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-05-29T02:25:17-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-gumihos-strange-blunder-vs-dark-best-of-3.md",
-      "title": "StarCraft 2: GuMiho's STRANGE BLUNDER vs Dark! (Best-of-3)",
-      "excerpt": "StarCraft 2 match from the ESL SC2 Masters Summer. In this best-of-3 series of Zerg vs Terran we watch Dark take on GuMiho, two pro gamers from South Korea. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumihos-strange-blunder-vs-dark-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumihos-strange-blunder-vs-dark-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=ixCfp-p_xSM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ixCfp-p_xSM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT47M57S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ixCfp-p_xSM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-27T04:59:02-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-maxpax-stalker-rushes-maru-best-of-3.md",
@@ -1189,6 +1112,303 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-06-09T04:01:24-07:00"
+    },
+    {
+      "path": "_games/collections/pig-pigs-funny-starcraft.md",
+      "title": "PiG's FUNNY STARCRAFT",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/pig-pigs-funny-starcraft/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/collections/pig-pigs-funny-starcraft/",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "topItems": [
+        {
+          "path": "_games/pig-starcraft-2-recall-rush-the-florencio-files-1.md",
+          "title": "StarCraft 2 - Recall Rush | The Florencio Files #1",
+          "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-recall-rush-the-florencio-files-1/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-recall-rush-the-florencio-files-1/",
+          "originalUrl": "https://youtube.com/watch?v=7hGsrlWElnU",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7hGsrlWElnU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT10M24S",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/7hGsrlWElnU/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-05-24T00:49:07-07:00"
+        },
+        {
+          "path": "_games/pig-starcraft-2-micro-god-the-florencio-files-2.md",
+          "title": "StarCraft 2 - Micro God | The Florencio Files #2",
+          "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-micro-god-the-florencio-files-2/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-micro-god-the-florencio-files-2/",
+          "originalUrl": "https://youtube.com/watch?v=zwQ1vCzSljQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zwQ1vCzSljQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT18M13S",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/zwQ1vCzSljQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-05-24T00:49:07-07:00"
+        },
+        {
+          "path": "_games/pig-starcraft-2-florencio-vs-weedamins-the-florencio-files-3.md",
+          "title": "StarCraft 2 - Florencio vs Weedamins! | The Florencio Files #3",
+          "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-vs-weedamins-the-florencio-files-3/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-vs-weedamins-the-florencio-files-3/",
+          "originalUrl": "https://youtube.com/watch?v=fuBljqCclWU",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fuBljqCclWU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT4M49S",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/fuBljqCclWU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-05-24T00:49:07-07:00"
+        },
+        {
+          "path": "_games/pig-starcraft-2-florencio-vs-avilo-the-florencio-files-4.md",
+          "title": "StarCraft 2 - Florencio vs Avilo! | The Florencio Files #4",
+          "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush\r  -- Watch live at https://www.twitch.tv/x5_pig",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-vs-avilo-the-florencio-files-4/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-vs-avilo-the-florencio-files-4/",
+          "originalUrl": "https://youtube.com/watch?v=j4dkgFhTyGQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j4dkgFhTyGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT15M13S",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/j4dkgFhTyGQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-05-24T00:49:07-07:00"
+        }
+      ],
+      "size": 1056,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7hGsrlWElnU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection"
+    },
+    {
+      "path": "_games/collections/pig-the-florencio-files.md",
+      "title": "The Florencio Files",
+      "excerpt": "Welcome to this mystical StarCraft 2 playlist, the one-and-only™ documented archives of the legendary SEWER MERMAID!",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/pig-the-florencio-files/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/collections/pig-the-florencio-files/",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "topItems": [
+        {
+          "path": "_games/pig-starcraft-2-recall-rush-the-florencio-files-1.md",
+          "title": "StarCraft 2 - Recall Rush | The Florencio Files #1",
+          "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-recall-rush-the-florencio-files-1/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-recall-rush-the-florencio-files-1/",
+          "originalUrl": "https://youtube.com/watch?v=7hGsrlWElnU",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7hGsrlWElnU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT10M24S",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/7hGsrlWElnU/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-05-24T00:49:07-07:00"
+        },
+        {
+          "path": "_games/pig-starcraft-2-micro-god-the-florencio-files-2.md",
+          "title": "StarCraft 2 - Micro God | The Florencio Files #2",
+          "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-micro-god-the-florencio-files-2/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-micro-god-the-florencio-files-2/",
+          "originalUrl": "https://youtube.com/watch?v=zwQ1vCzSljQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zwQ1vCzSljQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT18M13S",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/zwQ1vCzSljQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-05-24T00:49:07-07:00"
+        },
+        {
+          "path": "_games/pig-starcraft-2-florencio-vs-weedamins-the-florencio-files-3.md",
+          "title": "StarCraft 2 - Florencio vs Weedamins! | The Florencio Files #3",
+          "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-vs-weedamins-the-florencio-files-3/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-vs-weedamins-the-florencio-files-3/",
+          "originalUrl": "https://youtube.com/watch?v=fuBljqCclWU",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fuBljqCclWU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT4M49S",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/fuBljqCclWU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-05-24T00:49:07-07:00"
+        },
+        {
+          "path": "_games/pig-starcraft-2-florencio-vs-avilo-the-florencio-files-4.md",
+          "title": "StarCraft 2 - Florencio vs Avilo! | The Florencio Files #4",
+          "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush\r  -- Watch live at https://www.twitch.tv/x5_pig",
+          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-florencio-vs-avilo-the-florencio-files-4/index.json",
+          "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-florencio-vs-avilo-the-florencio-files-4/",
+          "originalUrl": "https://youtube.com/watch?v=j4dkgFhTyGQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j4dkgFhTyGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT15M13S",
+          "provider": {
+            "name": "PiG",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/j4dkgFhTyGQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-05-24T00:49:07-07:00"
+        }
+      ],
+      "size": 283,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7hGsrlWElnU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection"
     }
   ],
   "nextPage": 6

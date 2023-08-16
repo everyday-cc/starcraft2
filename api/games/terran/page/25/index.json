@@ -96,36 +96,6 @@
       "publishedDateTime": "2023-03-21T19:26:50-07:00"
     },
     {
-      "path": "_games/pig-torturing-a-4-player-terran-archon-with-meme-builds-starcraft-2.md",
-      "title": "TORTURING a 4-Player Terran Archon with MEME Builds | StarCraft 2",
-      "excerpt": "PiG plays a StarCraft 2 1v1 game against a 4-player archon of his Twitch viewers -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-torturing-a-4-player-terran-archon-with-meme-builds-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-torturing-a-4-player-terran-archon-with-meme-builds-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=vFJE89H4n-4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vFJE89H4n-4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M30S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vFJE89H4n-4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-09T03:56:00-07:00"
-    },
-    {
       "path": "_games/pig-twitch-vs-avilo-bunker-rush-into-battle-mech-into-mass-thor-twitch-plays-pig-25.md",
       "title": "Twitch Vs Avilo!? Bunker rush into Battle Mech into Mass Thor | Twitch Plays PiG #25",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -494,6 +464,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-world-record-trifecta-uthermals-1-terran-vs-7-insane-protoss-ai-pig-reacts-starcraft-2.md",
+      "title": "World Record TRIFECTA! uThermal's 1 Terran vs 7 Insane Protoss AI (PiG Reacts) - StarCraft 2",
+      "excerpt": "I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! Like Thanos, uThermal is collecting every 1 Terran v 7 Insane AI challenge he can. This one is against 7 Protoss Insane AIs: https://www.youtube.com/watch?v=5FgDFNQENd0&ab_channel=uThermal . What challenge will he smash next?",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-world-record-trifecta-uthermals-1-terran-vs-7-insane-protoss-ai-pig-reacts-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-world-record-trifecta-uthermals-1-terran-vs-7-insane-protoss-ai-pig-reacts-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=0uIpIhniZoU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0uIpIhniZoU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M53S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0uIpIhniZoU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-14T01:51:44-07:00"
     },
     {
       "path": "_games/pig-world-record-uthermals-1-terran-v-7-insane-terran-ai-pig-reacts-starcraft-2.md",
@@ -888,6 +889,45 @@
       "publishedDateTime": "2017-07-24T03:19:50-07:00"
     },
     {
+      "path": "_games/sc2hl-serral-vs-mass-battlecruisers-starcraft-2-iem-2019.md",
+      "title": "Serral vs. Mass Battlecruisers - Starcraft 2 IEM 2019",
+      "excerpt": "Serral plays vs Gumiho Mass Battlecruisers in a crazy Terran vs Zerg at IEM katowice 2019  ► SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe   A crazy description   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload other content, such as",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-serral-vs-mass-battlecruisers-starcraft-2-iem-2019/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-serral-vs-mass-battlecruisers-starcraft-2-iem-2019/",
+      "originalUrl": "https://youtube.com/watch?v=X8jnYBGnyKU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X8jnYBGnyKU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M45S",
+      "provider": {
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/X8jnYBGnyKU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-03-06T07:05:01-08:00"
+    },
+    {
       "path": "_games/sc2hl-so-many-nukes-in-40-min-game-starcraft-2-serral-vs-innovation.md",
       "title": "SO MANY NUKES in 40 MIN+ GAME! - Starcraft 2: Serral vs Innovation",
       "excerpt": "Serral & Innovation play a looong Terran vs Zerg, bleeding out nearly the entire map. Who will survive? From Starcraft 2 IEM Katowice  Subscribe bitches   ► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL ► Submit your REPLAYS! - http://bit.ly/SC2HLsubmit   ► SUBSCRIBE to SC2HL!",
@@ -925,45 +965,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
-    },
-    {
-      "path": "_games/sc2hl-speed-banshees-vs-swarm-hosts-starcraft-2-maru-vs-solar.md",
-      "title": "Speed BANSHEES vs SWARM HOSTS - StarCraft 2 - Maru vs Solar",
-      "excerpt": "An epic game between Maru & Solar during the Starcraft 2 GSL Code S. Mech, speed banshees, swarm hosts, ravens & an epic conclusion.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-speed-banshees-vs-swarm-hosts-starcraft-2-maru-vs-solar/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-speed-banshees-vs-swarm-hosts-starcraft-2-maru-vs-solar/",
-      "originalUrl": "https://youtube.com/watch?v=ZX1dmv6aTAE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZX1dmv6aTAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M32S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZX1dmv6aTAE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-07-24T03:19:50-07:00"
     },
     {
       "path": "_games/sc2hl-tense-terran-vs-zerg-starcraft-2-serral-vs-bunny.md",

@@ -4,6 +4,37 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/videos/pig-coaching-masters-zerg-on-battlemech-coaching.md",
+      "title": "Coaching Masters Zerg on Battlemech | Coaching",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-masters-zerg-on-battlemech-coaching/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-masters-zerg-on-battlemech-coaching/",
+      "originalUrl": "https://youtube.com/watch?v=Rw5Qvu_4WtA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Rw5Qvu_4WtA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M58S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-02-22T09:00:20-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Rw5Qvu_4WtA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-coaching-masters-zvt-roach-based-playstyle-vs-terran.md",
       "title": "Coaching Masters ZvT - Roach based playstyle vs Terran!",
       "excerpt": "Coaching my student on how to play with roach/ravager based armies in a ZvT!  -- Watch live at https://www.twitch.tv/x5_pig My Twitter: https://twitter.com/x5_PiG My Instagram: https://www.instagram.com/pigsc2/ My Facebook: https://www.facebook.com/PiGSC2/  Link to my Discord: https://discordapp.com/invite/SkhbzCM",
@@ -880,38 +911,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/F9Q5wsLDpEw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-coaching-tvz-defending-early-pool-shenanigans-and-macroing-like-a-beast.md",
-      "title": "Coaching TvZ Defending Early Pool Shenanigans and MACROing like a Beast",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvz-defending-early-pool-shenanigans-and-macroing-like-a-beast/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvz-defending-early-pool-shenanigans-and-macroing-like-a-beast/",
-      "originalUrl": "https://youtube.com/watch?v=fT5hhMz7Gsg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fT5hhMz7Gsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H16M31S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-05-19T17:39:04-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fT5hhMz7Gsg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -4,25 +4,29 @@
   "page": 74,
   "value": [
     {
-      "path": "_games/pig-spine-crawler-ling-rush-hour-the-sex-panther-build-starcraft-2.md",
-      "title": "SPINE CRAWLER LING RUSH HOUR! (the Sex Panther build) | StarCraft 2",
-      "excerpt": "SEX PANTHER! I created this build years ago and yet somehow 60% of the time I win every time. -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-spine-crawler-ling-rush-hour-the-sex-panther-build-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-spine-crawler-ling-rush-hour-the-sex-panther-build-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=rfV7lOKKNgc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rfV7lOKKNgc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT59M38S",
+      "path": "_games/pig-special-tactics-tvt-mine-liberator-bc-twitch-plays-pig-20.md",
+      "title": "Special tactics TvT - Mine-Liberator-BC! | Twitch Plays PiG #20",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-special-tactics-tvt-mine-liberator-bc-twitch-plays-pig-20/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-special-tactics-tvt-mine-liberator-bc-twitch-plays-pig-20/",
+      "originalUrl": "https://youtube.com/watch?v=LRBYGtb8IlM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LRBYGtb8IlM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M48S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Terran"
       ],
       "heat": 50,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/rfV7lOKKNgc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/LRBYGtb8IlM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -30,7 +34,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-06-04T01:32:00-07:00"
+      "publishedDateTime": "2019-09-13T02:01:15-07:00"
     },
     {
       "path": "_games/pig-spines-in-the-backdoor-and-lurker-drops-inside-of-you-icyfar-g4.md",

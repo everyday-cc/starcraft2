@@ -4,6 +4,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-ai-vs-ai-epic-pro-bots-tournament-match.md",
+      "title": "StarCraft 2: AI vs AI - Epic Pro Bots Tournament Match!",
+      "excerpt": "Game of StarCraft 2 from the ProBots tournament. This match does not feature two humans that play against each other, instead it is a game between two custom made AIs (artificial intelligence). The gameplay reminds me a lot of Google's AlphaStar, but with far more APM.  Pro Bots YouTube channel: https://www.youtube.com/@ProBotsAI",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-ai-vs-ai-epic-pro-bots-tournament-match/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-ai-vs-ai-epic-pro-bots-tournament-match/",
+      "originalUrl": "https://youtube.com/watch?v=7jhfUv2WSo4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7jhfUv2WSo4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 438,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7jhfUv2WSo4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-08-16T05:35:28-07:00"
+    },
+    {
       "path": "_games/lowkotv-heromarines-bold-strategy-backfires-starcraft-2.md",
       "title": "HeroMarine's Bold Strategy BACKFIRES! (StarCraft 2)",
       "excerpt": "Best-of-3 series of StarCraft 2 between HeroMarine and Iba. This series was recently played during the ESL Open Cup. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
@@ -822,44 +859,6 @@
       "publishedDateTime": "2022-11-08T05:03:35-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-esl-masters-summer-grand-finals-scarlett-vs-astrea-best-of-7.md",
-      "title": "StarCraft 2: ESL Masters Summer GRAND FINALS - Scarlett vs Astrea! (Best-of-7)",
-      "excerpt": "Best-of-7 series of high level StarCraft 2 that's the Grand Finals of the ESL StarCraft 2 Masters Summer: American regionals. This series is between the Canadian Zerg Scarlett and the American Protoss Astrea.  Serral vs MaxPax: https://youtu.be/l3L6kBCAuRw  Support my work: https://patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-esl-masters-summer-grand-finals-scarlett-vs-astrea-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-esl-masters-summer-grand-finals-scarlett-vs-astrea-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=cR9dHAljNZA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cR9dHAljNZA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M50S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 203,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cR9dHAljNZA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-24T10:42:53-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-heros-massive-overextension-vs-reynor.md",
       "title": "StarCraft 2: herO's MASSIVE Overextension vs Reynor!",
       "excerpt": "Professional match of StarCraft 2 between Reynor and herO. In this macro game of Zerg versus Protoss we see Reynor constantly sending out Zergling runbys, while herO makes his ultimate Sky Toss army.   Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -1071,14 +1070,14 @@
       "publishedDateTime": "2021-12-23T15:35:13-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-ai-vs-ai-epic-pro-bots-tournament-match.md",
-      "title": "StarCraft 2: AI vs AI - Epic Pro Bots Tournament Match!",
-      "excerpt": "Game of StarCraft 2 from the ProBots tournament. This match does not feature two humans that play against each other, instead it is a game between two custom made AIs (artificial intelligence). The gameplay reminds me a lot of Google's AlphaStar, but with far more APM.  Pro Bots YouTube channel: https://www.youtube.com/@ProBotsAI",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-ai-vs-ai-epic-pro-bots-tournament-match/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-ai-vs-ai-epic-pro-bots-tournament-match/",
-      "originalUrl": "https://youtube.com/watch?v=7jhfUv2WSo4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7jhfUv2WSo4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M13S",
+      "path": "_games/lowkotv-starcraft-2-insane-tournament-run-scarlett-vs-nightmare.md",
+      "title": "StarCraft 2: INSANE Tournament Run! (Scarlett vs NightMare)",
+      "excerpt": "NightMare had an amazing StarCraft 2 tournament run at Dreamhack Atlanta. While almost eliminated at the very start of the tournament, he clawed his way through the knockout bracket to ultimately face off against Scarlett in the round-of-16.  Scarlett vs GungFuBanDa: https://youtu.be/0sbXRVPX_ZI  Support",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-tournament-run-scarlett-vs-nightmare/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-tournament-run-scarlett-vs-nightmare/",
+      "originalUrl": "https://youtube.com/watch?v=xhY-HfgVsoE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xhY-HfgVsoE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT51M11S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1092,12 +1091,13 @@
         ]
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Zerg"
       ],
-      "heat": 182,
+      "heat": 177,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/7jhfUv2WSo4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/xhY-HfgVsoE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1105,7 +1105,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-08-16T05:35:28-07:00"
+      "publishedDateTime": "2022-12-07T00:59:58-08:00"
     }
   ],
   "nextPage": 2

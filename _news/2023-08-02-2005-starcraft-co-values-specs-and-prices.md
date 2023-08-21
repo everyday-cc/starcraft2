@@ -7,7 +7,7 @@ originalUrl: "https://www.jdpower.com/boats/2005/starcraft-co"
 webUrl: "https://www.jdpower.com/boats/2005/starcraft-co"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - StarCraft 2
-
-related:
-  - title: "StarCraft II 5.0.11 Hotfix 2 PTR Patch Notes"
-    excerpt: "PTR Patch 5.0.11 Hotfix 2 has been released with various bug fixes. Check out the detail!"
-    publishedDateTime: 2023-08-01T17:19:42Z
-    webUrl: "https://news.blizzard.com/en-us/starcraft2/23987086/starcraft-ii-5-0-11-hotfix-2-ptr-patch-notes"
-    type: article
-    provider:
-      name: Blizzard
-      domain: blizzard.com
-    quality: 177
-    images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg"
-        width: 960
-        height: 540
-        isCached: true
 
 secured: "ilYS2Wa4r8ZxT4Jlbbl0ZzxgFW/esX8yt7K14ej8cxYZk5QMfmjpcfRTDiGp9XvJBAkaFTwobf/ueOekQF+VNlSTsArwO0wBa9+QeOIziMM8MiP9Eb7LZpTv7tbO1A6oKQ/KhbdXluraNDlw1Uc1+f8WYvVy1pK4ZWqnJAynfpzgM3ejeY8yJeRShoJS3/GD3/Z7qvHY+IbSOe07aaxHhiU9KDBta1W+7qyM8nRcdcWd3GUFIbJYMNdoPO31urpPPKlJyoOtn3ysKXbf9j7Ea6ufbOy6mL8+T4uCXLEKP6gaAkZYl4Y0IqhjwbdKCVRpgXlioN5Glxhb0CzdZ09X98sT5LpVlmuSTiV4z4EUu1c=;ku7q5a2A3qfeXGfvoiGYKw=="
 ---

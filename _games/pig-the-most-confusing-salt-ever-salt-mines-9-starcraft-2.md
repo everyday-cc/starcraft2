@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=QIEK9JQGx6I
 type: video
 length: PT18M55S
 publishedDateTime: 2022-07-21T00:47:43Z
-heat: 53
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QIEK9JQGx6I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "FyVle31bBIa298BkxxcXqndGa1y/vTDKKZrnfero55kwHNAwcCuoGdE6OlM6gRTaAIJgNFZT949N352VKKX+XVdTie+opsyUQ8IL5Avyj0X2YPpN/X/SHAm+wj41BjTiW1bwxqNGwB4I+ECUWFvmrH85ppMAna/FJl79+7gJSluWmEroYvO+Mig1P7LzSbUuqNjvX9Hdc2z72ShEsuFeRWN9dDZn4MgCBb7gYubIeglTzuGRyE9CXmR63WRcoYMcJaSc2PEJw6V3dBBJW+xkP0IFPxxukoXTzflcFRQ4saRspx+VEeObgi2HCiaodaR2Ym7rpqjQKvD3pj65O+toXTlOblzHT/TCd3RfoQsMUk+jnPG9ZZ2XlXos49DQu/HDoJpnIs1DTMPGebyEPZuBXL6mQfX6zSACPwYqonp48Rw=;jDZ9W/49lnuqyYPadzL4Fg=="
+secured: "wwwBNjf+fapG6n/kM0LDM8bLFpIapBdzinQ+Z7TVDdYh8vpIvjNGBkDrjNN2rh1hQ3EA6eNXQ1acv4zOfH1g5AN+DTNfsk6KWc0atHNsV5a5VY1+DkG0U20x74DrNTZd0YmYGL4x8xc+8F5x2dwVQeeD2O1LbPLh5vtLj7o8yBmo7q8IPIlYplIFlW0sxMoDZ6UTEuT4dq8TVgmSN4xir0ybipaF1yoSsthwcvP+3OnOznDog2IUpEK5lGZq37YfOlkdJoFzYHmrfpM/BnuDrFs8QA294LUu2AkhDk3NcwOASNxUwvgzT570P4G3yHTl9RYkGJ6rhUUCH7+f/qnFsjDbc2B2zcaSrV6LQbZ27iieVCTg53QsXPVx5eJVGHKSft6SM2brDGjq4UkQbzbbQt4RLEdGixcwE87yT6KjBks=;E/NJMQSFYqXWp8jDTpAo0Q=="
 ---
 

@@ -32,15 +32,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "1986 Starcraft Prices, Values and Specs"
-    excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
-    publishedDateTime: 2023-08-20T05:28:00Z
-    webUrl: "https://www.jdpower.com/rvs/1986/starcraft"
-    type: article
-    provider:
-      name: jdpower
-      domain: jdpower.com
-    quality: 17
   - title: "'ZeroSpace' Is A Cinematic Real-time Strategy Game By StarCraft Pro Players, Launches Kickstarter Campaign - Screens & Trailer"
     excerpt: "ZeroSpace is a cinematic real-time strategy game with an epic sci-fi story where your decisions determine the fate of the galaxy."
     publishedDateTime: 2023-08-18T23:59:00Z

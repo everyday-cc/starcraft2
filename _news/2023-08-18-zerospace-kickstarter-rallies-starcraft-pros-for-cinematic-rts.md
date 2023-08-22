@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/games/zerospace-kickstarter-rallies-starcr
 webUrl: "https://venturebeat.com/games/zerospace-kickstarter-rallies-starcraft-pros-for-cinematic-rts/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -28,15 +28,31 @@ images:
     isCached: true
 
 related:
-  - title: "2023 Starcraft Prices, Values and Specs"
-    excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
-    publishedDateTime: 2023-08-14T21:37:00Z
-    webUrl: "https://www.jdpower.com/rvs/2023/used/starcraft"
+  - title: "StarCraft Love Letter Stormgate Gets New Trailer With Second Playable Faction"
+    excerpt: "Stormgate players will be able to command hellish hordes against humanity's armies when the game arrives in 2024."
+    publishedDateTime: 2023-08-22T19:35:00Z
+    webUrl: "https://www.gamespot.com/articles/starcraft-love-letter-stormgate-gets-new-trailer-with-second-playable-faction/1100-6517052/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/starcraft-love-letter-stormgate-gets-new-trailer-with-second-playable-faction/1100-6517052/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-love-letter-stormgate-gets-new-trailer-with-second-playable-faction/1100-6517052/"
     type: article
     provider:
-      name: jdpower
-      domain: jdpower.com
-    quality: 17
+      name: GameSpot
+      domain: gamespot.com
+    quality: 74
+  - title: "StarCraft successor Stormgate unveils self-sacrificing Infernal Host"
+    excerpt: "Stormgate’s Infernal Host are a self-sacrificing, demonic alien race that spread a dangerous energy field called the Shroud, inspired by StarCraft’s Zerg Creep."
+    publishedDateTime: 2023-08-22T19:34:00Z
+    webUrl: "https://www.pcgamesn.com/stormgate/infernal-host"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 37
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/08/stormgate-infernal-host-faction-reveal-gamescom-imp.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "'ZeroSpace' Is A Cinematic Real-time Strategy Game By StarCraft Pro Players, Launches Kickstarter Campaign - Screens & Trailer"
     excerpt: "ZeroSpace is a cinematic real-time strategy game with an epic sci-fi story where your decisions determine the fate of the galaxy."
     publishedDateTime: 2023-08-18T23:59:00Z

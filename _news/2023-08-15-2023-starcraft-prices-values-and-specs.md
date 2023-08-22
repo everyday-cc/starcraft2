@@ -18,29 +18,20 @@ topics:
   - StarCraft 2
 
 related:
-  - title: "ZeroSpace Kickstarter rallies StarCraft pros for cinematic RTS"
-    excerpt: "ZeroSpace is crowdfunding for a brand new cinematic RTS that brings together some of StarCraft II's prominent pro players and creators."
-    publishedDateTime: 2023-08-18T16:01:00Z
-    webUrl: "https://venturebeat.com/games/zerospace-kickstarter-rallies-starcraft-pros-for-cinematic-rts/"
+  - title: "Microsoft News Roundup: Windows 365 Switch, sad Starcraft fans, and Windows 11 cutting support for 44 CPUs"
+    excerpt: "We saw plenty of news this week from the worlds of Windows, Xbox, and PC gaming, and you can catch up right here."
+    publishedDateTime: 2023-08-13T12:00:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/microsoft-news-roundup-windows-365-switch-sad-starcraft-fans-and-windows-11-cutting-support-for-44-cpus"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 37
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 19
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Splash_Kickstarter.png?w=1200&strip=all"
+      - url: "https://cdn.mos.cms.futurecdn.net/omzqrzJedVtwdWGbkBr7Tf-1200-80.jpg"
         width: 1200
-        height: 675
+        height: 681
         isCached: true
-  - title: "'ZeroSpace' Is A Cinematic Real-time Strategy Game By StarCraft Pro Players, Launches Kickstarter Campaign - Screens & Trailer"
-    excerpt: "ZeroSpace is a cinematic real-time strategy game with an epic sci-fi story where your decisions determine the fate of the galaxy."
-    publishedDateTime: 2023-08-18T23:59:00Z
-    webUrl: "https://www.worthplaying.com/article/2023/8/18/news/138723-zerospace-is-a-cinematic-real-time-strategy-game-by-starcraft-pro-players-launches-kickstarter-campaign-screens-trailer/"
-    type: article
-    provider:
-      name: Worth Playing
-      domain: worthplaying.com
-    quality: 0
 
 secured: "lbk5sn69jjECxpHn3IRWOJ9KUK19bCta3eY3kbOQ7/+UovL8v0RYrQBkbgffqY8tZ1YLpvdzvjwAmpqgHthsK6nKHkVxdy8WPq14RXuvoUMEjSVQDorb1DdAvVQml0AyfrNHNuYc/AGpKFw0m094ksxErrFxd4Um4E2nURd3hdRyKVUx7gO/QnqSSGQVSKpu2El5i295XoqptuZwH2avL6v6vQMDWJeEA7Gi9ZZHRRY7ASdkw724mrvar2CjmWoVEonOcTjbFRvy4cPjvXVIvGWFlkt721V7YZCkPCJwnCgfmycOOJhCWVlhtqq2wPfTlKHWaYJv3IbdMbuYzAiUg7RTSoz/r5sR/HL2zlCymaQ=;8oDCkomE4wK/p1u1LW0yhw=="
 ---

@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-23-vicarious-visions-move-to-blizzard-means-remastered-diablo-starcraft-warcraft.md",
+      "title": "Vicarious Visions move to Blizzard means remastered Diablo, Starcraft, Warcraft",
+      "excerpt": "The folks at Vicarious Visions will soon need to switch up their digital business cards. Back in the year 2005, the developer brand and its developers were acquired by the folks at Activision. In",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/vicarious-visions-move-to-blizzard-means-remastered-diablo-starcraft-warcraft-22656410/",
+      "originalUrl": "https://www.slashgear.com/vicarious-visions-move-to-blizzard-means-remastered-diablo-starcraft-warcraft-22656410/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/blizzard23.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/vicarious-visions-move-to-blizzard-means-remastered-diablo-starcraft-warcraft-22656410/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/vicarious-visions-move-to-blizzard-means-remastered-diablo-starcraft-warcraft-22656410/amp/",
+      "publishedDateTime": "2021-01-22T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-top-starcraft-2-cheats-and-easter-eggs.md",
       "title": "Top StarCraft 2 cheats and easter eggs",
       "excerpt": "It's a good idea to have a list of StarCraft 2 cheats handy while you're working your way through the game's singleplayer campaigns. It's also nice to pause and uncover all the neat Easter eggs ...",
@@ -1085,57 +1127,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-08-11T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-balance-update-august-6-2020.md",
-      "title": "Balance Update - August 6, 2020",
-      "excerpt": "We’d like to update you all on our thoughts on the state of the game since our last balance patch.",
-      "sourceUrl": null,
-      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23495671/balance-update-august-6-2020",
-      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23495671/balance-update-august-6-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-06T15:06:07-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Blizzard",

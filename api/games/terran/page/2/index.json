@@ -4,6 +4,45 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-serral-vs-innovation.md",
+      "title": "StarCraft 2: Serral vs INnoVation!",
+      "excerpt": "Who is the greatest StarCraft 2 player of all time? In the beginning of this game between Serral and INnoVation I discuss the players that are in my opinion up for the title of being the Greatest Of All Time.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-innovation/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-innovation/",
+      "originalUrl": "https://youtube.com/watch?v=Z8DlwTY9ce0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z8DlwTY9ce0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M52S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Z8DlwTY9ce0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-08-19T04:11:17-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-darks-strange-build-orders-vs-gumiho-best-of-3.md",
       "title": "StarCraft 2: Dark's STRANGE BUILD ORDERS vs GuMiho! (Best-of-3)",
       "excerpt": "Best-of-3 series of high level StarCraft 2 between Dark (Zerg) and GuMiho (Terran). This is a match where Dark decides to play very aggressively, despite GuMiho's Reaper focused Terran build order. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
@@ -1827,36 +1866,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-06-23T03:09:00-07:00"
-    },
-    {
-      "path": "_games/pig-beating-terran-with-mass-drones-workers-only-to-grandmaster-1-starcraft-2.md",
-      "title": "Beating Terran with MASS DRONES | WORKERS ONLY to Grandmaster #1 - StarCraft 2",
-      "excerpt": "Here's WORKERS ONLY to Grandmaster Episode 1! Players are volunteers from low Silver to low Gold (2200 - 2700 MMR). They do not know what's coming, but they're aware it's something for YT.  HOW TO VOLUNTEER: Hop onto the discord to find out more https://discord.gg/sCTYquEd -- 🐷 Main Channel: https://www.youtube.com/user/PiGstarcraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-beating-terran-with-mass-drones-workers-only-to-grandmaster-1-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-beating-terran-with-mass-drones-workers-only-to-grandmaster-1-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=wa_Qb70RlpI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wa_Qb70RlpI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT47M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wa_Qb70RlpI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-01T23:58:56-08:00"
     }
   ],
   "nextPage": 3

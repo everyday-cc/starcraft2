@@ -546,44 +546,6 @@
       "publishedDateTime": "2023-07-06T03:49:18-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-solar-did-not-expect-battle-mech-from-cure-best-of-3.md",
-      "title": "StarCraft 2: Solar did NOT EXPECT Battle Mech from Cure! (Best-of-3)",
-      "excerpt": "GSL Code S series of Zerg vs Terran in StarCraft 2. This best-of-3 is between Cure (Terran) and Solar (Zerg). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-solar-did-not-expect-battle-mech-from-cure-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-solar-did-not-expect-battle-mech-from-cure-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=xJ598Ld3uKw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xJ598Ld3uKw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 67,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xJ598Ld3uKw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-14T05:00:09-07:00"
-    },
-    {
       "path": "_games/pig-slammer-right-clicks-the-command-centre-slammer-vs-xkawaiian.md",
       "title": "SLAMMER right clicks the Command Centre | Slammer vs xKawaiian",
       "excerpt": "SLAMMER, Starcraft 2's very own Ogre, returns to do what he does best - SLAM his face into the enemy base over and over. As always, SLAMMER goes where SLAMMER pleases, but will he overcome getting slammed back?  -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third",
@@ -1196,6 +1158,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-04-02T06:00:39-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-wtf-planetary-rush-vs-mothership-rush-uthermal-vs-shadown.md",
+      "title": "StarCraft 2: WTF?! Planetary Rush vs Mothership Rush! (uThermal vs Shadown)",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 from HomeStory Cup 23 between uThermal (Terran) and Shadown (Protoss). In this series Shadown decides to fight fire with fire as he cheeses uThermal who's going for some very cheesy Terran build orders.  Support my work: https://patreon.com/lowkotv Lowko Merch:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-wtf-planetary-rush-vs-mothership-rush-uthermal-vs-shadown/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-wtf-planetary-rush-vs-mothership-rush-uthermal-vs-shadown/",
+      "originalUrl": "https://youtube.com/watch?v=6rEg2YyUzWY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6rEg2YyUzWY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M27S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6rEg2YyUzWY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-03T08:30:18-07:00"
     }
   ],
   "nextPage": 6

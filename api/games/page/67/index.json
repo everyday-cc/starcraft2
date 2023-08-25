@@ -4,6 +4,35 @@
   "page": 67,
   "value": [
     {
+      "path": "_games/pig-how-not-to-handle-widow-mines-rate-my-starcraft-3.md",
+      "title": "How NOT to handle Widow Mines | Rate My StarCraft #3",
+      "excerpt": "🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your awesome StarCraft plays. Send in your replay to RateMyStarCraft@gmail.com PLUS why you think it was so good (This is similar to ICYFAR but you choose the topic). Bonus points if you can say why in",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-not-to-handle-widow-mines-rate-my-starcraft-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-not-to-handle-widow-mines-rate-my-starcraft-3/",
+      "originalUrl": "https://youtube.com/watch?v=A_vO9C_ly7k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A_vO9C_ly7k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M10S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/A_vO9C_ly7k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-08-17T15:57:54-07:00"
+    },
+    {
       "path": "_games/pig-how-quickly-can-dark-solar-dispose-of-a-noob-me-ept-na-holdout-challenge-starcraft-2.md",
       "title": "How quickly can DARK & SOLAR dispose of a noob (ME)? | EPT NA Holdout Challenge - StarCraft 2",
       "excerpt": "Want to play against Dark? The next Holdout Challenge will be held on 19th August 5pm PDT! For details see the Patreon post: https://www.patreon.com/posts/dark-holdout-70272758  Dark and Solar are ABSOLUTE BEASTS! Let's see how long PiG held on for in this unofficial Holdout Challenge. Each series was",
@@ -836,39 +865,6 @@
       "excerpt": "The King of Cannons! Be sure to follow him on: Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed",
       "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-i-will-be-inside-of-you-the-king-of-cannons-10-starcraft-2/index.json",
       "webUrl": "https://everyday.cc/starcraft2/game/pig-i-will-be-inside-of-you-the-king-of-cannons-10-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=qR3n5whe9Ks",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qR3n5whe9Ks\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M12S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Cheese"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qR3n5whe9Ks/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-14T23:28:08-07:00"
-    },
-    {
-      "path": "_games/pig-i-will-be-inside-of-you-the-king-of-cannons-10.md",
-      "title": "I will be Inside of You | The King of Cannons #10",
-      "excerpt": "The King of Cannons! Be sure to follow him on: Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-i-will-be-inside-of-you-the-king-of-cannons-10/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-i-will-be-inside-of-you-the-king-of-cannons-10/",
       "originalUrl": "https://youtube.com/watch?v=qR3n5whe9Ks",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qR3n5whe9Ks\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT7M12S",

@@ -4,6 +4,45 @@
   "page": 1,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-the-best-of-the-best-serral-vs-maru-wtl-finals-best-of-3.md",
+      "title": "StarCraft 2: THE BEST OF THE BEST - Serral vs Maru, WTL Finals! (Best-of-3)",
+      "excerpt": "Watch as two of the best StarCraft 2 players in the world, Serral and Maru, face off in a best-of-3 series that will keep you on the edge of your seat. Who will emerge victorious in this epic showdown from the WTL? Find out in this video! Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-best-of-the-best-serral-vs-maru-wtl-finals-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-best-of-the-best-serral-vs-maru-wtl-finals-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=X8zRfGowK2s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X8zRfGowK2s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M25S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 403,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/X8zRfGowK2s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-08-17T01:42:06-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-silver-league-heroes-proxy-nexus-in-the-terrans-main.md",
       "title": "StarCraft 2: Silver League Heroes - Proxy NEXUS in the Terran's Main!",
       "excerpt": "Two viewer submitted games of StarCraft 2, with some of the strangest strategies that I've ever seen. Proxy Refinery and a Proxy Nexus?!  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  00:00 Proxy Refinery 12:07 Proxy Nexus  My YouTube channels: https://youtube.com/lowkotv",
@@ -236,45 +275,6 @@
       "publishedDateTime": "2022-05-10T03:03:07-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-best-of-the-best-serral-vs-maru-wtl-finals-best-of-3.md",
-      "title": "StarCraft 2: THE BEST OF THE BEST - Serral vs Maru, WTL Finals! (Best-of-3)",
-      "excerpt": "Watch as two of the best StarCraft 2 players in the world, Serral and Maru, face off in a best-of-3 series that will keep you on the edge of your seat. Who will emerge victorious in this epic showdown from the WTL? Find out in this video! Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-best-of-the-best-serral-vs-maru-wtl-finals-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-best-of-the-best-serral-vs-maru-wtl-finals-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=X8zRfGowK2s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X8zRfGowK2s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 174,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/X8zRfGowK2s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-08-17T01:42:06-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-75000-esl-masters-grand-finals-serral-vs-gumiho-best-of-7.md",
       "title": "StarCraft 2: $75000 ESL Masters GRAND FINALS - Serral vs GuMiho! (Best-of-7)",
       "excerpt": "Best-of-7 series of top level StarCraft 2 between Serral (Zerg) and GuMiho (Terran). This series is the grand finals of the ESL StarCraft 2 Masters Summer, a premier tournament with a total price pool of $75000.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
@@ -312,44 +312,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-06-20T04:52:00-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-gumiho-makes-battlecruisers-look-overpowered-gsl-code-s.md",
-      "title": "StarCraft 2: GuMiho makes Battlecruisers look OVERPOWERED! (GSL Code S)",
-      "excerpt": "GuMiho vs Creator in a best-of-3 series of StarCraft 2 from the GSL Code S. This series shows a variety of build orders and strategies, with a heavy focus on Protoss aggression and Terran defense.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumiho-makes-battlecruisers-look-overpowered-gsl-code-s/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumiho-makes-battlecruisers-look-overpowered-gsl-code-s/",
-      "originalUrl": "https://youtube.com/watch?v=b3uOdzu31pM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b3uOdzu31pM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M7S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 154,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/b3uOdzu31pM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-14T03:05:08-07:00"
     },
     {
       "path": "_games/lowkotv-gumihos-craziest-strategies-yet-starcraft-2-finals.md",
@@ -466,6 +428,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-12-24T13:58:31-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-incredible-micro-byun-vs-classic-grand-finals.md",
+      "title": "StarCraft 2: INCREDIBLE MICRO - ByuN vs Classic! (Grand Finals)",
+      "excerpt": "Best-of-5 series of high level StarCraft 2 between Classic (Protoss) and ByuN (Terran). This series is the Grand Finals of the ESL Open Cup 175 Korea. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-micro-byun-vs-classic-grand-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-incredible-micro-byun-vs-classic-grand-finals/",
+      "originalUrl": "https://youtube.com/watch?v=zblKV7sa2Bs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zblKV7sa2Bs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M29S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 122,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zblKV7sa2Bs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-06-01T04:06:27-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-lowkos-mass-hydra-vs-terran-mech.md",
@@ -923,6 +924,44 @@
       "publishedDateTime": "2023-01-28T01:10:51-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-gumiho-makes-battlecruisers-look-overpowered-gsl-code-s.md",
+      "title": "StarCraft 2: GuMiho makes Battlecruisers look OVERPOWERED! (GSL Code S)",
+      "excerpt": "GuMiho vs Creator in a best-of-3 series of StarCraft 2 from the GSL Code S. This series shows a variety of build orders and strategies, with a heavy focus on Protoss aggression and Terran defense.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumiho-makes-battlecruisers-look-overpowered-gsl-code-s/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumiho-makes-battlecruisers-look-overpowered-gsl-code-s/",
+      "originalUrl": "https://youtube.com/watch?v=b3uOdzu31pM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b3uOdzu31pM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT48M7S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 94,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/b3uOdzu31pM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-14T03:05:08-07:00"
+    },
+    {
       "path": "_games/pig-when-you-think-its-a-tvz-but-you-3-rax-a-terran-instead-diamond-in-the-ruff-65-starcraft-2.md",
       "title": "When you think it's a TvZ, but you 3-Rax a Terran instead | Diamond in the Ruff #65 - StarCraft 2",
       "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent?   💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
@@ -1106,44 +1145,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-07-08T04:41:56-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-zero-workers-clem-non-stop-cheese-vs-byun.md",
-      "title": "StarCraft 2: ZERO WORKERS - Clem NON-STOP CHEESE vs ByuN!",
-      "excerpt": "Professional match of StarCraft 2 (SC2) between ByuN and Clem. This Terran vs Terran is the finals of the ESL Open Cup 183. An amazing series where Clem won't stop cheesing ByuN. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zero-workers-clem-non-stop-cheese-vs-byun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zero-workers-clem-non-stop-cheese-vs-byun/",
-      "originalUrl": "https://youtube.com/watch?v=jhbEkxqRC7s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jhbEkxqRC7s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 76,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jhbEkxqRC7s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-12T04:45:37-07:00"
     }
   ],
   "nextPage": 2

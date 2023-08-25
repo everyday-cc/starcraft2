@@ -4,6 +4,45 @@
   "page": 36,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-fear-the-thunder-maru-vs-soo.md",
+      "title": "StarCraft 2: FEAR THE THUNDER! (Maru vs soO)",
+      "excerpt": "Terran Mech seems to be new gold standard in the Zerg versus Terran match-up in StarCraft 2. In this top-level match between Maru and soO the Terran also decides to go for an army composition based primarily around Thors, Siege Tanks and Battlecruisers. The Zerg player soO takes a different approach",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-fear-the-thunder-maru-vs-soo/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-fear-the-thunder-maru-vs-soo/",
+      "originalUrl": "https://youtube.com/watch?v=pCKBB5DRffM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pCKBB5DRffM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pCKBB5DRffM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-20T05:28:27-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-fighting-cheese-with-cheese-zest-vs-astrea.md",
       "title": "StarCraft 2: Fighting CHEESE with CHEESE! (Zest vs Astrea)",
       "excerpt": "Professional StarCraft 2 between Zest (Protoss) and Astrea (Protoss). This match is Grand Finals of the ESL Open Cup 103 America. Both players, but especially Astrea, decide to approach this game with aggression in mind.  Astrea vs Lambo: https://youtu.be/S2g_eOBQoms  Support my work on Patreon: https://www.patreon.com/lowkotv",
@@ -1092,43 +1131,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-13T01:56:52-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-guess-whos-back-a-legend-returns-and-leaves-best-of-5.md",
-      "title": "StarCraft 2: Guess Who's Back?! A LEGEND Returns... And Leaves! (Best-of-5)",
-      "excerpt": "Best-of-5 series of StarCraft 2 between a player who's leaving to start his mandatory military service, and one who just returned!  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: LowkoTV More Lowko Lowko Clips  Twitch livestream: https://twitch.tv/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-guess-whos-back-a-legend-returns-and-leaves-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-guess-whos-back-a-legend-returns-and-leaves-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=kwrG4AQ5Wq4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kwrG4AQ5Wq4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M59S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kwrG4AQ5Wq4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-10T01:36:21-08:00"
     }
   ],
   "nextPage": 37

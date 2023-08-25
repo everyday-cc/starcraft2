@@ -1066,6 +1066,7 @@ items:
   - pig-twitch-chat-challenges-me-to-say-bacon-every-worker-kill-starcraft-2
   - pig-when-your-nydus-fails-but-youre-a-cheesy-genius-bly-vs-milkicow-starcraft-2
   - pig-how-long-can-regular-players-last-vs-harstem-part-2-holdout-challenge-starcraft-2
+  - pig-cheesy-smurfs-brain-melts-when-they-lose-salt-mines-40-starcraft-2
 
 topics:
   - StarCraft 2

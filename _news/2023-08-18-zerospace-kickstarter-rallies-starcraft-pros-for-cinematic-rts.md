@@ -53,6 +53,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "StarCraft successor Stormgate is an RTS game everyone can enjoy"
+    excerpt: "Stormgate, the upcoming RTS game from Warcraft 3 and StarCraft 2 veterans, aims to invite players of all experience and skill levels to enjoy it together."
+    publishedDateTime: 2023-08-27T15:14:00Z
+    webUrl: "https://www.pcgamesn.com/stormgate/rts-for-everyone"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 37
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/08/stormgate-rts-game-starcraft-successor-warcraft-frost-giant-studios-face.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "'ZeroSpace' Is A Cinematic Real-time Strategy Game By StarCraft Pro Players, Launches Kickstarter Campaign - Screens & Trailer"
     excerpt: "ZeroSpace is a cinematic real-time strategy game with an epic sci-fi story where your decisions determine the fate of the galaxy."
     publishedDateTime: 2023-08-18T23:59:00Z

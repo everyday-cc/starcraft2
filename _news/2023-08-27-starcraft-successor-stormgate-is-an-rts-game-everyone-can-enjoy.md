@@ -1,21 +1,27 @@
 ---
 category: news
-title: "'ZeroSpace' Is A Cinematic Real-time Strategy Game By StarCraft Pro Players, Launches Kickstarter Campaign - Screens & Trailer"
-excerpt: "ZeroSpace is a cinematic real-time strategy game with an epic sci-fi story where your decisions determine the fate of the galaxy."
-publishedDateTime: 2023-08-18T23:59:00Z
-originalUrl: "https://www.worthplaying.com/article/2023/8/18/news/138723-zerospace-is-a-cinematic-real-time-strategy-game-by-starcraft-pro-players-launches-kickstarter-campaign-screens-trailer/"
-webUrl: "https://www.worthplaying.com/article/2023/8/18/news/138723-zerospace-is-a-cinematic-real-time-strategy-game-by-starcraft-pro-players-launches-kickstarter-campaign-screens-trailer/"
+title: "StarCraft successor Stormgate is an RTS game everyone can enjoy"
+excerpt: "Stormgate, the upcoming RTS game from Warcraft 3 and StarCraft 2 veterans, aims to invite players of all experience and skill levels to enjoy it together."
+publishedDateTime: 2023-08-27T15:14:00Z
+originalUrl: "https://www.pcgamesn.com/stormgate/rts-for-everyone"
+webUrl: "https://www.pcgamesn.com/stormgate/rts-for-everyone"
 type: article
-quality: 0
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Worth Playing
-  domain: worthplaying.com
+  name: PCGamesN
+  domain: pcgamesn.com
 
 topics:
   - StarCraft 2
+
+images:
+  - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/08/stormgate-rts-game-starcraft-successor-warcraft-frost-giant-studios-face.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
 
 related:
   - title: "StarCraft Love Letter Stormgate Gets New Trailer With Second Playable Faction"
@@ -57,21 +63,16 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "StarCraft successor Stormgate is an RTS game everyone can enjoy"
-    excerpt: "Stormgate, the upcoming RTS game from Warcraft 3 and StarCraft 2 veterans, aims to invite players of all experience and skill levels to enjoy it together."
-    publishedDateTime: 2023-08-27T15:14:00Z
-    webUrl: "https://www.pcgamesn.com/stormgate/rts-for-everyone"
+  - title: "'ZeroSpace' Is A Cinematic Real-time Strategy Game By StarCraft Pro Players, Launches Kickstarter Campaign - Screens & Trailer"
+    excerpt: "ZeroSpace is a cinematic real-time strategy game with an epic sci-fi story where your decisions determine the fate of the galaxy."
+    publishedDateTime: 2023-08-18T23:59:00Z
+    webUrl: "https://www.worthplaying.com/article/2023/8/18/news/138723-zerospace-is-a-cinematic-real-time-strategy-game-by-starcraft-pro-players-launches-kickstarter-campaign-screens-trailer/"
     type: article
     provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 37
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/08/stormgate-rts-game-starcraft-successor-warcraft-frost-giant-studios-face.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Worth Playing
+      domain: worthplaying.com
+    quality: 0
 
-secured: "/p/4cNEIRHAXI7cIfifSb9jqDY9MsXR892qJpuXBwxn+OFs4LOjnjmm2eKAc/BLPYDMhaUrvYI8Qh0bOaCFHKAyadGYIuwCvrEiN/sD8GApQuk36S7m53pLY6D9SADqIlo/ObcTPFLWTa3BGMt/agpd55lbjP48Wtr7xqvbkLArsA1OjuXtulH7Ti8fxLv3qkT4zh2NKWjArYxOUfTbrSa4lRvjPxxrce4B/ZO5jbWatiOOaG7MSnmXRjaId84OfEBsXSkPVzGmCFU9o3E3djPTsnTy2TVBaD5foRjZspH8cTyOheIE/At0ZEOAI45fZEC2hsHz04lg7G4p+95w1VHK2jjZO6hO0ECWmlxERuRE=;AyjyxcMIPZVe/veDy8z8tw=="
+secured: "GY2VxY88tsGcAHPG4em9ZrxIFE1EZ+wl/HonKufBxKxA+9sPSXI9yaOv2aWWMZ3LDnQMr1t8MT59Vrlw3JRRk9/CBFEeZSuJF+8ZHhJnP+ya0klfBPA7Rw0g1MjqF4N0l+mX6Jyr0aVLMAhveuneo8WNXuwLEY7VBRC7zLzqdYS6n11YnP/4J3akA0Rw9CQ9BSf/h5po07hK8YvmGcMQpo7CXG5HEPpmpL9TBa2EyL81jveqxYf7P6jSQ5TftbWYb/4FHmLXC9qqQQh8REUp1T8mRODq7Jjw7DXhcJ5ejZoRt0UN8y9eAPvh4Blf/ecUEp4N5E9y1BEr9kSteY31jz4fW0Sxsu6tTKBH5qO1RpQ=;YJi+HWzWDqbkyfJDV/aKkg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/starcraft-love-letter-stormgat
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-love-letter-stormgate-gets-new-trailer-with-second-playable-faction/1100-6517052/"
 type: article
 quality: 74
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
     quality: 37
     images:
       - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/08/stormgate-infernal-host-faction-reveal-gamescom-imp.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "StarCraft successor Stormgate is an RTS game everyone can enjoy"
+    excerpt: "Stormgate, the upcoming RTS game from Warcraft 3 and StarCraft 2 veterans, aims to invite players of all experience and skill levels to enjoy it together."
+    publishedDateTime: 2023-08-27T15:14:00Z
+    webUrl: "https://www.pcgamesn.com/stormgate/rts-for-everyone"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 37
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/08/stormgate-rts-game-starcraft-successor-warcraft-frost-giant-studios-face.jpg"
         width: 1920
         height: 1080
         isCached: true

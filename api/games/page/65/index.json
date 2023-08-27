@@ -4,35 +4,6 @@
   "page": 65,
   "value": [
     {
-      "path": "_games/pig-drones-chill-appeasement-icyfar-g3.md",
-      "title": "Drones & Chill? - Appeasement ICYFAR G3",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to avoid fighting their enemy until they had built 50 workers (60 as zerg).  CURRENT ICYFAR CHALLENGE: Santa Claus - Drop as many “gifts” on your enemies base as possible. Type !icyfar",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-drones-chill-appeasement-icyfar-g3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-drones-chill-appeasement-icyfar-g3/",
-      "originalUrl": "https://youtube.com/watch?v=lNtz6T8j_cA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lNtz6T8j_cA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M21S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lNtz6T8j_cA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-drones-vs-marines-the-best-new-zvt-rush-twitch-plays-pig-14.md",
       "title": "Drones vs MARINES - The best new ZvT RUSH  | Twitch Plays PiG #14",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -885,6 +856,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:47:39-07:00"
+    },
+    {
+      "path": "_games/pig-get-right-in-there-real-deep-like-inside-of-you-icyfar-g2.md",
+      "title": "Get RIGHT in there, real deep like | Inside of You ICYFAR G2",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they had to slide their base into their base.   NEW ICYFAR CHALLENGE: \"Inside of You\" - Slide your base into their base. e.g. Floating buildings in, proxy-hatch/Nexus in the main. Send submissions",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-get-right-in-there-real-deep-like-inside-of-you-icyfar-g2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-get-right-in-there-real-deep-like-inside-of-you-icyfar-g2/",
+      "originalUrl": "https://youtube.com/watch?v=YatN7zT7O5E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YatN7zT7O5E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M32S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YatN7zT7O5E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
     }
   ],
   "nextPage": 66

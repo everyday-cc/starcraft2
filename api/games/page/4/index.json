@@ -4,6 +4,35 @@
   "page": 4,
   "value": [
     {
+      "path": "_games/pig-when-youre-so-tilted-you-think-a-mirror-matchup-is-imbalanced-salt-mines-1-sc2.md",
+      "title": "When you’re so TILTED you think a mirror matchup is imbalanced | Salt Mines #1 - SC2",
+      "excerpt": "*NEW SHOW* The Salt Mines: Everyone has encountered a salty opponent on the ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty. -- 🐷 Second Channel for",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-youre-so-tilted-you-think-a-mirror-matchup-is-imbalanced-salt-mines-1-sc2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-youre-so-tilted-you-think-a-mirror-matchup-is-imbalanced-salt-mines-1-sc2/",
+      "originalUrl": "https://youtube.com/watch?v=1vjvR4nEJr8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1vjvR4nEJr8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M38S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 92,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1vjvR4nEJr8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-03-03T19:58:36-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-15-year-old-vs-scarletts-mass-brood-lord-arrogfire-vs-scarlett.md",
       "title": "StarCraft 2: 15 Year Old vs Scarlett's Mass Brood Lord! (Arrogfire vs Scarlett)",
       "excerpt": "Arrogfire is the most succesful player from the Junior Championships in StarCraft 2. In this SC2 cast he's facing off against Scarlett. How does the rookie do versus the veteran?  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
@@ -214,6 +243,45 @@
       "publishedDateTime": "2023-07-12T08:03:48-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-amazing-match-reynor-showtimes-zerg-vs-protoss-insanity.md",
+      "title": "StarCraft 2: AMAZING MATCH - Reynor & ShoWTimE's Zerg vs Protoss Insanity!",
+      "excerpt": "Reynor vs ShoWTimE in an amazing match of top level StarCraft 2. This is definitely one of the best games of 2023 so far. This SC2 match was played during HomeStory Cup 23. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-amazing-match-reynor-showtimes-zerg-vs-protoss-insanity/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-amazing-match-reynor-showtimes-zerg-vs-protoss-insanity/",
+      "originalUrl": "https://youtube.com/watch?v=RMrA78emlEU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RMrA78emlEU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M10S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 88,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RMrA78emlEU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-03T08:31:38-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-stuck-between-a-tempest-and-a-cannon-place-florencio-files-264.md",
       "title": "StarCraft 2 - Stuck between a Tempest and a Cannon Place | Florencio Files #264",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
@@ -272,83 +340,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-04-22T22:23:01-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-amazing-match-reynor-showtimes-zerg-vs-protoss-insanity.md",
-      "title": "StarCraft 2: AMAZING MATCH - Reynor & ShoWTimE's Zerg vs Protoss Insanity!",
-      "excerpt": "Reynor vs ShoWTimE in an amazing match of top level StarCraft 2. This is definitely one of the best games of 2023 so far. This SC2 match was played during HomeStory Cup 23. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-amazing-match-reynor-showtimes-zerg-vs-protoss-insanity/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-amazing-match-reynor-showtimes-zerg-vs-protoss-insanity/",
-      "originalUrl": "https://youtube.com/watch?v=RMrA78emlEU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RMrA78emlEU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M10S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 86,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RMrA78emlEU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-03T08:31:38-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serral-takes-on-the-world-champion-best-of-5.md",
-      "title": "StarCraft 2: Serral takes on the WORLD CHAMPION! (Best-of-5)",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 between the highestst ranked player in the world (Serral) and the current World Champion of SC2 (Oliveira). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-takes-on-the-world-champion-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-takes-on-the-world-champion-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=IThgrMzn1t0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IThgrMzn1t0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT47M42S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 86,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IThgrMzn1t0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-03T03:28:17-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-astreas-unexpected-tempest-switch-best-of-3.md",
@@ -427,14 +418,14 @@
       "publishedDateTime": "2023-07-21T02:37:06-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-gsl-code-s-hero-cannon-rushes-solar.md",
-      "title": "StarCraft 2: GSL CODE S - herO CANNON RUSHES Solar!",
-      "excerpt": "Amazing best-of-3 series from the GSL Code S where herO Cannon Rushes Solar. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gsl-code-s-hero-cannon-rushes-solar/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gsl-code-s-hero-cannon-rushes-solar/",
-      "originalUrl": "https://youtube.com/watch?v=v8Ox2vj34VM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v8Ox2vj34VM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M42S",
+      "path": "_games/lowkotv-starcraft-2-serral-takes-on-the-world-champion-best-of-5.md",
+      "title": "StarCraft 2: Serral takes on the WORLD CHAMPION! (Best-of-5)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between the highestst ranked player in the world (Serral) and the current World Champion of SC2 (Oliveira). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-takes-on-the-world-champion-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-takes-on-the-world-champion-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=IThgrMzn1t0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IThgrMzn1t0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M42S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -449,13 +440,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
         "Zerg"
       ],
       "heat": 84,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/v8Ox2vj34VM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/IThgrMzn1t0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -463,7 +453,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-05-02T03:15:24-07:00"
+      "publishedDateTime": "2023-06-03T03:28:17-07:00"
     },
     {
       "path": "_games/lowkotv-the-funniest-and-cheesiest-games-starcraft-2.md",
@@ -849,6 +839,44 @@
       "publishedDateTime": "2022-04-27T19:49:36-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-american-grand-finals-scarlett-vs-astrea-best-of-7.md",
+      "title": "StarCraft 2: AMERICAN GRAND FINALS - Scarlett vs Astrea! (Best-of-7)",
+      "excerpt": "Best-of-7 series of high level StarCraft 2 that's the Grand Finals of the ESL StarCraft 2 Masters Summer: American regionals. This series is between the Canadian Zerg Scarlett and the American Protoss Astrea.  Serral vs MaxPax: https://youtu.be/l3L6kBCAuRw  Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-american-grand-finals-scarlett-vs-astrea-best-of-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-american-grand-finals-scarlett-vs-astrea-best-of-7/",
+      "originalUrl": "https://youtube.com/watch?v=cR9dHAljNZA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cR9dHAljNZA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT48M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 75,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cR9dHAljNZA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-24T10:42:53-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-flo-maxes-out-ground-attack-for-his-skytoss-facepalm-florencio-files-265.md",
       "title": "StarCraft 2- Flo maxes out ground attack for his skytoss! FACEPALM | Florencio Files #265",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
@@ -909,14 +937,14 @@
       "publishedDateTime": "2023-07-25T03:16:54-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-sos-double-gold-rush-vs-innovation-best-of-7.md",
-      "title": "StarCraft 2: sOs' DOUBLE GOLD Rush vs INnoVation! (Best-of-7)",
-      "excerpt": "Best-of-7 series of high level StarCraft 2 between sOs and INnoVation. This series has a variety of macro and cheese, and is the first return of sOs after he recently completed his military service in South Korea.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-sos-double-gold-rush-vs-innovation-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-sos-double-gold-rush-vs-innovation-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=qbGglcnGcUE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qbGglcnGcUE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H6M20S",
+      "path": "_games/lowkotv-starcraft-2-gsl-code-s-hero-cannon-rushes-solar.md",
+      "title": "StarCraft 2: GSL CODE S - herO CANNON RUSHES Solar!",
+      "excerpt": "Amazing best-of-3 series from the GSL Code S where herO Cannon Rushes Solar. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gsl-code-s-hero-cannon-rushes-solar/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gsl-code-s-hero-cannon-rushes-solar/",
+      "originalUrl": "https://youtube.com/watch?v=v8Ox2vj34VM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v8Ox2vj34VM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M42S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -931,13 +959,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
-        "Protoss"
+        "Protoss",
+        "Zerg"
       ],
       "heat": 74,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/qbGglcnGcUE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/v8Ox2vj34VM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -945,7 +973,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-03-20T05:03:10-07:00"
+      "publishedDateTime": "2023-05-02T03:15:24-07:00"
     },
     {
       "path": "_games/pig-is-beating-1v7-insane-ai-even-possible-no-beastyqt-has-not-done-it-starcraft-2.md",
@@ -1012,197 +1040,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-07-19T07:51:31-07:00"
-    },
-    {
-      "path": "_games/collections/sc2hl-epic-starcraft-2-games-collected-by-sc2hl.md",
-      "title": "EPIC Starcraft 2 Games collected by SC2HL",
-      "excerpt": "Highlights from some of the best Starcraft 2 games. Coming from the GSL, SSL, WCS and many other tournaments.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/sc2hl-epic-starcraft-2-games-collected-by-sc2hl/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/collections/sc2hl-epic-starcraft-2-games-collected-by-sc2hl/",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "topItems": [
-        {
-          "path": "_games/sc2hl-marus-mass-ghost-strategy-starcraft-2-maru-vs-solar.md",
-          "title": "Maru's MASS GHOST STRATEGY - Starcraft 2: Maru vs. Solar",
-          "excerpt": "Maru playing Solar in a best of 5, with both players using different strategies. Maru's mass ghost style, Solar's baneling/zergling rush.  Match: Maru vs. Solar Tournament: IEM Katowice 2023 VODs: https://twitch.tv/esl_sc2   ► Enjoy the content? Buy me a coffee! https://www.ko-fi.com/SC2HL ► SUBSCRIBE",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-marus-mass-ghost-strategy-starcraft-2-maru-vs-solar/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-marus-mass-ghost-strategy-starcraft-2-maru-vs-solar/",
-          "originalUrl": "https://youtube.com/watch?v=QSw5xtKKe0Y",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QSw5xtKKe0Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT22M22S",
-          "provider": {
-            "name": "SC2HL",
-            "domain": "sc2hl.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran",
-            "Zerg"
-          ],
-          "heat": 61,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/QSw5xtKKe0Y/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2023-04-02T06:00:39-07:00"
-        },
-        {
-          "path": "_games/sc2hl-5-vs-10-supply-28-minute-basetrade-starcraft-2-clem-vs-showtime.md",
-          "title": "5 vs 10 SUPPLY?! - 28 Minute BASETRADE - Starcraft 2: Clem vs Showtime",
-          "excerpt": "A crazy Protoss vs Terran between Showtime and Clem, the 16 year old Starcraft 2 pro. Who will win the Basetrade?   ► Find the WCS Valencia Vods here: https://www.youtube.com/user/WCSStarCraft ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-5-vs-10-supply-28-minute-basetrade-starcraft-2-clem-vs-showtime/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-5-vs-10-supply-28-minute-basetrade-starcraft-2-clem-vs-showtime/",
-          "originalUrl": "https://youtube.com/watch?v=u3go0OeMyZk",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u3go0OeMyZk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT17M37S",
-          "provider": {
-            "name": "SC2HL",
-            "domain": "sc2hl.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "topics": [
-            "StarCraft 2",
-            "Protoss"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/u3go0OeMyZk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2018-10-16T07:21:19-07:00"
-        },
-        {
-          "path": "_games/sc2hl-heros-sneaky-double-gold-base-starcraft-2-maru-vs-hero.md",
-          "title": "herO's SNEAKY DOUBLE GOLD BASE - Starcraft 2: Maru vs. herO",
-          "excerpt": "herO and herO playing the Starcraft 2 GSL Code S finals, with hero going for a sneaky build in the first game.   Match: maru vs. herO Tournament: GSL Code S 2022 - Season 2 VODs: https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg  ► Enjoy the content? Buy me a coffee! https://www.ko-fi.com/SC2HL",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-heros-sneaky-double-gold-base-starcraft-2-maru-vs-hero/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-heros-sneaky-double-gold-base-starcraft-2-maru-vs-hero/",
-          "originalUrl": "https://youtube.com/watch?v=khCRMkX2zHI",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/khCRMkX2zHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT47M38S",
-          "provider": {
-            "name": "SC2HL",
-            "domain": "sc2hl.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran",
-            "Protoss"
-          ],
-          "heat": 67,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/khCRMkX2zHI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2023-04-02T06:00:39-07:00"
-        },
-        {
-          "path": "_games/sc2hl-hero-builds-the-ultimate-protoss-wall-starcraft-2-hero-vs-dark.md",
-          "title": "herO Builds the Ultimate Protoss Wall - Starcraft 2: herO vs. Dark",
-          "excerpt": "herO vs. Dark in an absolutely amazing Starcraft 2 game, with herO building the ultimate protoss wall to contain Dark.   Match: herO vs. Dark  Tournament: Starcraft 2 - GSL Code S 2022  VODs: https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg  ► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-hero-builds-the-ultimate-protoss-wall-starcraft-2-hero-vs-dark/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-hero-builds-the-ultimate-protoss-wall-starcraft-2-hero-vs-dark/",
-          "originalUrl": "https://youtube.com/watch?v=wqxNTHqaLeI",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wqxNTHqaLeI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT19M53S",
-          "provider": {
-            "name": "SC2HL",
-            "domain": "sc2hl.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "topics": [
-            "StarCraft 2",
-            "Protoss",
-            "Zerg"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/wqxNTHqaLeI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2023-04-02T06:00:39-07:00"
-        }
-      ],
-      "size": 38,
-      "heat": 73,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QSw5xtKKe0Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection"
     }
   ],
   "nextPage": 5

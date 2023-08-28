@@ -4,14 +4,14 @@
   "page": 17,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-turtle-royale-pro-gamer-ffa.md",
-      "title": "StarCraft 2: TURTLE ROYALE! (Pro Gamer FFA)",
-      "excerpt": "StarCraft 2 Battle Royale 6-man free-for-all between Maru, SuperNova, Taeja, Stats, Patience and Ragnarok. While it is a Battle Royale, both games very quickly become a Turtle Royale instead, as players try to control the center with as much static defense as possible.  Get more videos & support my work:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-turtle-royale-pro-gamer-ffa/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-turtle-royale-pro-gamer-ffa/",
-      "originalUrl": "https://youtube.com/watch?v=Bf7LdkuWV98",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bf7LdkuWV98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT47M",
+      "path": "_games/lowkotv-starcraft-2-tons-of-nukes-in-a-pro-game.md",
+      "title": "StarCraft 2: TONS OF NUKES IN A PRO GAME!",
+      "excerpt": "An incredible match between soO and INnoVation. Subscribe for more videos: http://lowko.tv/youtube Macro Wars: https://goo.gl/1c32tn  Tactical Nukes were usually considered to be mostly a unique mechanic. These days however, it gets used more and more in professional games and in this one... Tactical",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-tons-of-nukes-in-a-pro-game/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-tons-of-nukes-in-a-pro-game/",
+      "originalUrl": "https://youtube.com/watch?v=FcnhekTNHPg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FcnhekTNHPg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M39S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -25,12 +25,13 @@
         ]
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Terran"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Bf7LdkuWV98/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/FcnhekTNHPg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -38,17 +39,17 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-02-28T15:56:53-08:00"
+      "publishedDateTime": "2018-03-06T01:32:40-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-ultralisk-rush.md",
-      "title": "StarCraft 2: Ultralisk RUSH!",
-      "excerpt": "Nerchio vs aLive in a very high level Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube The Secret Base: https://goo.gl/TYl28K  In this professional match of StarCraft the Zerg player scouts exactly what is going on and decides to quickly rush up to Ultralisks. However, the defense and",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-ultralisk-rush/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-ultralisk-rush/",
-      "originalUrl": "https://youtube.com/watch?v=sdHfls4nl0o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sdHfls4nl0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M42S",
+      "path": "_games/lowkotv-starcraft-2-top-game-the-ultimate-deathballs-maru-vs-reynor.md",
+      "title": "StarCraft 2: TOP GAME - The ULTIMATE Deathballs! (Maru vs Reynor)",
+      "excerpt": "Amazing game of StarCraft 2 between Maru and Reynor. Maru starts off this game with a Blue Flame Hellion push into speedy Widow Mine drops. The game however doesn't end there and it goes the distance, as both players macro up.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-game-the-ultimate-deathballs-maru-vs-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-game-the-ultimate-deathballs-maru-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=cnIqUaraWOQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cnIqUaraWOQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M25S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -62,12 +63,14 @@
         ]
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/sdHfls4nl0o/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/cnIqUaraWOQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -75,7 +78,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2017-05-16T04:17:16-07:00"
+      "publishedDateTime": "2022-07-20T04:54:49-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-unique-new-maps-astrea-switches-to-random-best-of-5.md",
@@ -516,35 +519,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-13T19:57:43-07:00"
-    },
-    {
-      "path": "_games/pig-bly-does-every-type-of-proxy-hatch-in-one-pro-series-starcraft-2.md",
-      "title": "Bly does EVERY type of Proxy Hatch in one Pro Series - StarCraft 2",
-      "excerpt": "Bly does what he does best - PROXY HATCH! Here's a fun series where he proxies a hatchery in every game of a series against Strange (Protoss) in the ESL Summer Regionals -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for daily Pro Casts: https://www.youtube.com/c/PiGCasts",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-bly-does-every-type-of-proxy-hatch-in-one-pro-series-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-bly-does-every-type-of-proxy-hatch-in-one-pro-series-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=hrwcU8SHrHo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hrwcU8SHrHo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M40S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hrwcU8SHrHo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-21T01:18:54-07:00"
     },
     {
       "path": "_games/pig-cannon-rush-into-complete-chaos-bet-u-cant-guess-who-wins-king-of-cannons-22-starcraft-2.md",
@@ -996,6 +970,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-21T22:18:44-08:00"
+    },
+    {
+      "path": "_games/pig-squatting-protoss-refuses-to-leave-terran-premises-florencio-files-278-starcraft-2.md",
+      "title": "Squatting Protoss REFUSES To Leave Terran Premises | Florencio Files #278 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-squatting-protoss-refuses-to-leave-terran-premises-florencio-files-278-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-squatting-protoss-refuses-to-leave-terran-premises-florencio-files-278-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=J0g5XczG-iU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J0g5XczG-iU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M14S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/J0g5XczG-iU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-17T17:33:34-07:00"
     }
   ],
   "nextPage": 18

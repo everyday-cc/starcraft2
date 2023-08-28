@@ -62,6 +62,73 @@
       "publishedDateTime": "2023-01-18T18:34:08-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-cheese-clem-non-stop-agression-vs-byun.md",
+      "title": "StarCraft 2: CHEESE - Clem NON-STOP AGRESSION vs ByuN!",
+      "excerpt": "Professional match of StarCraft 2 (SC2) between ByuN and Clem. This Terran vs Terran is the finals of the ESL Open Cup 183. An amazing series where Clem won't stop cheesing ByuN. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cheese-clem-non-stop-agression-vs-byun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cheese-clem-non-stop-agression-vs-byun/",
+      "originalUrl": "https://youtube.com/watch?v=jhbEkxqRC7s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jhbEkxqRC7s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M38S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 116,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jhbEkxqRC7s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-12T04:45:37-07:00"
+    },
+    {
+      "path": "_games/pig-how-quickly-can-harstem-dispose-of-noobs-part-1-holdout-challenge-starcraft-2.md",
+      "title": "How quickly can HARSTEM dispose of noobs? (Part 1) | Holdout Challenge - StarCraft 2",
+      "excerpt": "We got Harstem to 1v1 noobs in StarCraft 2. The challenge: the noobs needed to stay in the match for as long as possible. How did they fare against the Captain?  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j  Holdout Scoresheet: https://docs.google.com/spreadsheets/d/14aDGMP3BEQOADiL-6muUoi6P6hbSY8_vJ_HCOIiqPqI/edit#gid=1811179909",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-harstem-dispose-of-noobs-part-1-holdout-challenge-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-harstem-dispose-of-noobs-part-1-holdout-challenge-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=dBj2FjV-3u8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dBj2FjV-3u8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M36S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 116,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dBj2FjV-3u8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-16T18:22:45-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-bring-snacks-this-match-is-incredible-cure-vs-classic.md",
       "title": "StarCraft 2: Bring Snacks. This Match is INCREDIBLE! (Cure vs Classic)",
       "excerpt": "One of the best games of StarCraft 2 this year. Cure vs Classic from Gamers8. Both pro gamers try to end this SC2 match as quickly as possible by  being in the opponents face the entire time, but neither of them gets the job done in the early game. A chaotic game with multiple base races ensues. Support",
@@ -272,35 +339,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-07-10T04:04:16-07:00"
-    },
-    {
-      "path": "_games/pig-spine-crawler-ling-rush-hour-the-sex-panther-build-starcraft-2.md",
-      "title": "SPINE CRAWLER LING RUSH HOUR! (the Sex Panther build) | StarCraft 2",
-      "excerpt": "SEX PANTHER! I created this build years ago and yet somehow 60% of the time I win every time. -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-spine-crawler-ling-rush-hour-the-sex-panther-build-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-spine-crawler-ling-rush-hour-the-sex-panther-build-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=rfV7lOKKNgc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rfV7lOKKNgc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT59M38S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rfV7lOKKNgc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-04T01:32:00-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-best-pro-game-of-2022-serral-vs-showtime.md",
@@ -1017,44 +1055,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-07-14T03:05:08-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-my-biggest-baneling-hit-ever-zerg-live-games.md",
-      "title": "StarCraft 2: My Biggest BANELING HIT Ever? (Zerg Live Games)",
-      "excerpt": "Some of the biggest Baneling hits and Fungal Growths in any games I've ever played. Two games of Zerg versus Terran in StarCraft 2 with live commentary.   00:00 Zerg vs Terran on Blackburn 34:50 Zerg vs Terran on Hardwire  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-my-biggest-baneling-hit-ever-zerg-live-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-my-biggest-baneling-hit-ever-zerg-live-games/",
-      "originalUrl": "https://youtube.com/watch?v=g49m6GedpxY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/g49m6GedpxY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT57M49S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 94,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/g49m6GedpxY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-04-13T08:59:18-07:00"
     }
   ],
   "nextPage": 4

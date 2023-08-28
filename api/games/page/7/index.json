@@ -4,156 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_games/collections/pig-diamond-in-the-ruff.md",
-      "title": "Diamond in the Ruff",
-      "excerpt": "Welcome to the creative StarCraft 2 gameplay of our Terran extroadinaire, Ruff.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/pig-diamond-in-the-ruff/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/collections/pig-diamond-in-the-ruff/",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "topItems": [
-        {
-          "path": "_games/pig-starcraft-2-divine-intervention-diamond-in-the-ruff-1.md",
-          "title": "StarCraft 2 - Divine Intervention | Diamond in the Ruff #1",
-          "excerpt": "Welcome to our new series, Diamond in the Ruff!  Don't forget to show Ruff some love! Twitter: https://twitter.com/RuFF_SC2 Twitch: https://www.twitch.tv/ruff13 Youtube: https://www.youtube.com/user/WMRuFFKiD Facebook: https://www.facebook.com/RuFF.StarCraft/  Like the content? Then consider to leave",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-divine-intervention-diamond-in-the-ruff-1/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-divine-intervention-diamond-in-the-ruff-1/",
-          "originalUrl": "https://youtube.com/watch?v=p_MBnTNLsFY",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p_MBnTNLsFY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT28M17S",
-          "provider": {
-            "name": "PiG",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/p_MBnTNLsFY/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2019-07-03T15:59:31-07:00"
-        },
-        {
-          "path": "_games/pig-starcraft-2-the-engineering-bay-zergs-dont-want-you-to-find-out-about-diamond-in-the-ruff-2.md",
-          "title": "StarCraft 2 - The Engineering Bay Zerg’s don’t want you to find out about! | Diamond in the Ruff #2",
-          "excerpt": "Welcome to our new series, Diamond in the Ruff!  Don't forget to show Ruff some love! Twitter: https://twitter.com/RuFF_SC2 Twitch: https://www.twitch.tv/ruff13 Youtube: https://www.youtube.com/user/WMRuFFKiD Facebook: https://www.facebook.com/RuFF.StarCraft/  Like the content? Then consider to leave",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-engineering-bay-zergs-dont-want-you-to-find-out-about-diamond-in-the-ruff-2/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-engineering-bay-zergs-dont-want-you-to-find-out-about-diamond-in-the-ruff-2/",
-          "originalUrl": "https://youtube.com/watch?v=-AWdJevz1jc",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-AWdJevz1jc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT13M29S",
-          "provider": {
-            "name": "PiG",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran",
-            "Zerg"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/-AWdJevz1jc/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2019-08-10T20:05:51-07:00"
-        },
-        {
-          "path": "_games/pig-starcraft-2-ruff-takes-neuro-to-nuke-town-diamond-in-the-ruff-3.md",
-          "title": "StarCraft 2 - RuFF takes Neuro to NUKE-Town | Diamond in the RuFF #3",
-          "excerpt": "Welcome to our new series, Diamond in the Ruff!  Don't forget to show Ruff some love! Twitter: https://twitter.com/RuFF_SC2 Twitch: https://www.twitch.tv/ruff13 Youtube: https://www.youtube.com/user/WMRuFFKiD Facebook: https://www.facebook.com/RuFF.StarCraft/  Like the content? Then consider to leave",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-ruff-takes-neuro-to-nuke-town-diamond-in-the-ruff-3/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-ruff-takes-neuro-to-nuke-town-diamond-in-the-ruff-3/",
-          "originalUrl": "https://youtube.com/watch?v=tU_qybMllX0",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tU_qybMllX0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT21M38S",
-          "provider": {
-            "name": "PiG",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/tU_qybMllX0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2019-07-25T20:04:01-07:00"
-        },
-        {
-          "path": "_games/pig-starcraft-2-captain-america-polt-takes-on-ruff-diamond-in-the-ruff-4.md",
-          "title": "StarCraft 2 - Captain AMERICA (Polt) takes on RuFF | Diamond in the Ruff #4",
-          "excerpt": "Welcome to our new series, Diamond in the Ruff! Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-captain-america-polt-takes-on-ruff-diamond-in-the-ruff-4/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-captain-america-polt-takes-on-ruff-diamond-in-the-ruff-4/",
-          "originalUrl": "https://youtube.com/watch?v=cQ9mRIk4xJQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cQ9mRIk4xJQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT13M49S",
-          "provider": {
-            "name": "PiG",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/cQ9mRIk4xJQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2019-08-18T07:19:22-07:00"
-        }
-      ],
-      "size": 76,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/p_MBnTNLsFY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection"
-    },
-    {
       "path": "_games/collections/pig-pigs-cheesedown.md",
       "title": "PiG's CHEESEDOWN",
       "excerpt": "",
@@ -1526,6 +1376,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-01-04T03:39:21-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3.md",
+      "title": "StarCraft 2: TOP-LEVEL SC2 IN 2023 - Dark vs Cure! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Cure (Terran) and Dark (Zerg). Cure has been playing very well over the last few months, and in this series he takes on one of the best Zerg players. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=c00-MkxW404",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c00-MkxW404\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M34S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/c00-MkxW404/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-15T03:58:49-07:00"
     }
   ],
   "nextPage": 8

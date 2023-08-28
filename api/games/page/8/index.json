@@ -4,6 +4,44 @@
   "page": 8,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3.md",
+      "title": "StarCraft 2: TOP-LEVEL SC2 IN 2023 - Dark vs Cure! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Cure (Terran) and Dark (Zerg). Cure has been playing very well over the last few months, and in this series he takes on one of the best Zerg players. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-level-sc2-in-2023-dark-vs-cure-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=c00-MkxW404",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c00-MkxW404\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M34S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/c00-MkxW404/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-15T03:58:49-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-uthermal-cheeses-every-game-in-this-400-tournament.md",
       "title": "StarCraft 2: uThermal Cheeses EVERY GAME In This $400 Tournament!",
       "excerpt": "Games from a recent StarCraft 2 tournament, the ESL Open Cup Europe, where @uThermal decides to cheese every game.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV​ @MoreLowko @LowkoClips  Twitch livestream: https://twitch.tv/lowkotv Live most",
@@ -786,35 +824,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-06-08T03:41:50-07:00"
-    },
-    {
-      "path": "_games/pig-the-hardest-mission-ever-wings-of-liberty-nightmare-difficulty-part-11-starcraft-2.md",
-      "title": "The Hardest Mission EVER | Wings of Liberty NIGHTMARE DIFFICULTY Part 11 - StarCraft 2",
-      "excerpt": "My first try at Nightmare Difficulty Mode StarCraft 2 Campaign created by GiantGrantGames and his amazing modding community. Having lots of fun with it! Here's the 11th part containing:  0:00 Stop sniping my good units! 0:07 In Utter Darkness  Here's a guide on how to play nightmare mode: https://www.reddit.com/r/StarcraftCampaigns/comments/tcxzii/wings_of_liberty_nightmare_difficulty/",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-hardest-mission-ever-wings-of-liberty-nightmare-difficulty-part-11-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-hardest-mission-ever-wings-of-liberty-nightmare-difficulty-part-11-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=nAJF-Vqjt0I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nAJF-Vqjt0I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H51M13S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nAJF-Vqjt0I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-27T00:03:25-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-250-worker-kills-bly-vs-arrogfire.md",

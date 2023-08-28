@@ -4,6 +4,45 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-insane-macro-showtimes-400-zealots-vs-maru.md",
+      "title": "StarCraft 2: INSANE MACRO - ShoWTimE's 400+ ZEALOTS vs Maru!",
+      "excerpt": "Professional match of StarCraft 2 between ShoWTimE (Protoss) and Maru (Terran). In this epic game of top level SC2 ShoWTimE takes the entire map and sends in waves of Zealots into a turtled up Terran.  Serral vs ShoWTimE: https://youtu.be/cbQw9rvkado  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-macro-showtimes-400-zealots-vs-maru/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-insane-macro-showtimes-400-zealots-vs-maru/",
+      "originalUrl": "https://youtube.com/watch?v=2d3DXYGphtI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2d3DXYGphtI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M10S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2d3DXYGphtI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-06T02:38:32-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-epic-match-the-actual-game-of-the-year-clem-vs-showtime.md",
       "title": "StarCraft 2: Epic Match - The ACTUAL(?) Game of the Year! (Clem vs ShoWTimE)",
       "excerpt": "Clem (Terran) vs ShoWTimE (Protoss) in a top level game of professional StarCraft 2. Not quite your regular match of Terran versus Protoss.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch:",
@@ -802,36 +841,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-31T18:59:06-07:00"
-    },
-    {
-      "path": "_games/pig-harstem-abuses-most-op-unit-against-my-protoss-team-commander-mode-3-starcraft-2.md",
-      "title": "Harstem ABUSES most OP unit against my Protoss team | Commander Mode #3 - StarCraft 2",
-      "excerpt": "What is Commander Mode? It is Archon Mode vs another streamer/player where we are the Commanders of our squadron of noobs but we can't actively control anything ourselves, we can only command them what to do!   This time we go up against an actual Captain, HARSTEM! Here's his viewpoint: https://www.youtube.com/watch?v=wIjJ2uA6_ig&ab_channel=Harstem",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-harstem-abuses-most-op-unit-against-my-protoss-team-commander-mode-3-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-harstem-abuses-most-op-unit-against-my-protoss-team-commander-mode-3-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=DbpHp_UTu6k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DbpHp_UTu6k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT52M19S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DbpHp_UTu6k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-29T19:55:51-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-florencio-vs-avilo-the-florencio-files-4.md",

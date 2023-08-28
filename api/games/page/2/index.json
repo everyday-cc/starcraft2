@@ -224,44 +224,6 @@
       "publishedDateTime": "2023-01-18T18:34:08-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-gumiho-makes-battlecruisers-look-overpowered-gsl-code-s.md",
-      "title": "StarCraft 2: GuMiho makes Battlecruisers look OVERPOWERED! (GSL Code S)",
-      "excerpt": "GuMiho vs Creator in a best-of-3 series of StarCraft 2 from the GSL Code S. This series shows a variety of build orders and strategies, with a heavy focus on Protoss aggression and Terran defense.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumiho-makes-battlecruisers-look-overpowered-gsl-code-s/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumiho-makes-battlecruisers-look-overpowered-gsl-code-s/",
-      "originalUrl": "https://youtube.com/watch?v=b3uOdzu31pM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b3uOdzu31pM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M7S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 154,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/b3uOdzu31pM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-14T03:05:08-07:00"
-    },
-    {
       "path": "_games/pig-i-was-bribed-to-one-shot-a-base-using-ravagers-only-strategy-bribes-starcraft-2.md",
       "title": "I was bribed to ONE SHOT a base using ravagers ONLY | Strategy Bribes - StarCraft 2",
       "excerpt": "Twitch chat bribed me to do challenges on stream. This is the result! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2",
@@ -571,6 +533,44 @@
       "publishedDateTime": "2023-05-24T10:42:53-07:00"
     },
     {
+      "path": "_games/lowkotv-gumihos-craziest-strategies-yet-starcraft-2-finals.md",
+      "title": "GuMiho's CRAZIEST Strategies Yet! (StarCraft 2 Finals)",
+      "excerpt": "Ragnarok vs GuMiho in a best-of-5 series of StarCraft 2. This series is the finals of the Korean StarCraft League 22 (the KSL). In these SC2 games GuMiho decides to go for some of the craziest build orders I've seen the man play ever. One base Battlecruisers, two base Thor and of course loads of proxy",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-gumihos-craziest-strategies-yet-starcraft-2-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-gumihos-craziest-strategies-yet-starcraft-2-finals/",
+      "originalUrl": "https://youtube.com/watch?v=ox89UL2CGtA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ox89UL2CGtA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M9S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 142,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ox89UL2CGtA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-08-10T04:12:21-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-what-he-loses-with-a-25k-bank-dark-vs-soo.md",
       "title": "StarCraft 2: WHAT?! He LOSES with a 25K BANK?! (Dark vs soO)",
       "excerpt": "Crazy ending to a game of top level SC2. Best-of-3 series of top level StarCraft 2 between Dark and soO. This is a match of South Korean Zerg versus Zerg.   Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
@@ -684,44 +684,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-05-22T03:49:14-07:00"
-    },
-    {
-      "path": "_games/lowkotv-gumihos-craziest-strategies-yet-starcraft-2-finals.md",
-      "title": "GuMiho's CRAZIEST Strategies Yet! (StarCraft 2 Finals)",
-      "excerpt": "Ragnarok vs GuMiho in a best-of-5 series of StarCraft 2. This series is the finals of the Korean StarCraft League 22 (the KSL). In these SC2 games GuMiho decides to go for some of the craziest build orders I've seen the man play ever. One base Battlecruisers, two base Thor and of course loads of proxy",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-gumihos-craziest-strategies-yet-starcraft-2-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-gumihos-craziest-strategies-yet-starcraft-2-finals/",
-      "originalUrl": "https://youtube.com/watch?v=ox89UL2CGtA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ox89UL2CGtA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M9S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 140,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ox89UL2CGtA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-08-10T04:12:21-07:00"
     },
     {
       "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1.md",
@@ -881,81 +843,6 @@
       "publishedDateTime": "2023-07-15T02:27:20-07:00"
     },
     {
-      "path": "_games/lowkotv-drgs-brood-war-unit-only-challenge-starcraft-2.md",
-      "title": "DRG's BROOD WAR Unit Only Challenge! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between DRG (Zerg) and Astrea (Protoss). In this SC2 match it's almost as if DRG decides to focus on making StarCraft: Brood War units only, as he really doesn't play any units that were added with the introduction of Wings of Liberty and StarCraft 2 overall.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-drgs-brood-war-unit-only-challenge-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-drgs-brood-war-unit-only-challenge-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=_kRUjds-8tk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_kRUjds-8tk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 126,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_kRUjds-8tk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-29T03:57:17-07:00"
-    },
-    {
-      "path": "_games/lowkotv-insane-micro-maxpax-vs-showtime-in-an-absolute-banger-starcraft-2.md",
-      "title": "INSANE MICRO - MaxPax vs ShoWTimE in an Absolute Banger! (StarCraft 2)",
-      "excerpt": "ShoWTimE vs MaxPax in an amazing series of StarCraft 2. Mass Phoenix wars, Stalker battles and fantastic micro in this best-of-3 series of SC2. One of the highest skilled games of PvP I've ever seen. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-insane-micro-maxpax-vs-showtime-in-an-absolute-banger-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-insane-micro-maxpax-vs-showtime-in-an-absolute-banger-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=yFY10niJlys",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yFY10niJlys\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M14S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 123,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yFY10niJlys/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-08-12T02:07:52-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-darks-ultra-rushes-clem-best-of-3.md",
       "title": "StarCraft 2: Dark's ULTRA RUSHES Clem! (Best-of-3)",
       "excerpt": "In this StarCraft 2 cast, we watch a thrilling match between Dark, the Korean Zerg master, and Clem, the French Terran. Dark surprises Clem with an early Ultralisk rush, while Clem tries to hold on with his bio army. Will Dark’s gamble pay off or will Clem’s micro skills save the day?  Support my work:",
@@ -1021,6 +908,112 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-08T21:00:22-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-lowkos-mass-hydra-vs-terran-mech.md",
+      "title": "StarCraft 2: Lowko's MASS HYDRA vs Terran Mech?!",
+      "excerpt": "Live gameplay of a Zerg vs Terran in StarCraft 2. In this game Lowko faces off against a Terran who decides to play Battle Mech into Ghost Mech. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  00:00 The StarCraft 2 Forums 02:49 Live Game of Zerg vs Terran 24:14 Game analysis",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-lowkos-mass-hydra-vs-terran-mech/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-lowkos-mass-hydra-vs-terran-mech/",
+      "originalUrl": "https://youtube.com/watch?v=UJ91d0VwshM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UJ91d0VwshM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M40S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 118,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UJ91d0VwshM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-06T01:32:37-07:00"
+    },
+    {
+      "path": "_games/lowkotv-uthermals-dirty-cheeses-vs-serral-showtime-starcraft-2.md",
+      "title": "uThermal's Dirty Cheeses vs SERRAL & SHOWTIME! (StarCraft 2)",
+      "excerpt": "Two best-of-3 series of high level StarCraft 2 from HomeStory Cup. In this video uThermal faces off against both ShoWTimE as well as Serral with some very dirty Terran all-ins. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  00:00 uThermal vs ShoWTimE 13:34 uThermal vs Serral",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-uthermals-dirty-cheeses-vs-serral-showtime-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-uthermals-dirty-cheeses-vs-serral-showtime-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=fqov7V2S3Lw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fqov7V2S3Lw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M30S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 118,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fqov7V2S3Lw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-15T23:50:10-07:00"
+    },
+    {
+      "path": "_games/pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-starcraft-2.md",
+      "title": "How to beat the 1v7 INSANE AI Challenge (no, Beastyqt has not done it) - StarCraft 2",
+      "excerpt": "I have challenged StarCraft 2 Pros to take on 7 INSANE Cheater AIs at once! Serral has said it is impossible unless maybe they're all Zergs. After Spirit (Soul) tried it first, the next person brave enough to try it is PiLiPiLi, a Protoss player. He took on 7 Random insane AIs all on Any Build. Then",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=nHr02rPDOMo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nHr02rPDOMo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M11S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 118,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nHr02rPDOMo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-19T01:16:44-07:00"
     }
   ],
   "nextPage": 3

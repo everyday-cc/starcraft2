@@ -4,6 +4,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-ai-vs-ai-epic-pro-bots-tournament-match.md",
+      "title": "StarCraft 2: AI vs AI - Epic Pro Bots Tournament Match!",
+      "excerpt": "Game of StarCraft 2 from the ProBots tournament. This match does not feature two humans that play against each other, instead it is a game between two custom made AIs (artificial intelligence). The gameplay reminds me a lot of Google's AlphaStar, but with far more APM.  Pro Bots YouTube channel: https://www.youtube.com/@ProBotsAI",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-ai-vs-ai-epic-pro-bots-tournament-match/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-ai-vs-ai-epic-pro-bots-tournament-match/",
+      "originalUrl": "https://youtube.com/watch?v=7jhfUv2WSo4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7jhfUv2WSo4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 325,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7jhfUv2WSo4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-08-16T05:35:28-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-hero-gets-spine-crawler-rushed.md",
       "title": "StarCraft 2: herO gets SPINE CRAWLER Rushed!",
       "excerpt": "Best-of-3 series of StarCraft 2 between herO (Protoss) and Fjant (Zerg). This match was played during a recent ESL Open Cup. Since herO is one of the greatest Protoss players in the world, Fjant decides to take a very aggressive approach in this series. Support my work: https://patreon.com/lowkotv Lowko",
@@ -28,7 +65,7 @@
         "StarCraft 2",
         "Protoss"
       ],
-      "heat": 346,
+      "heat": 299,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qoU8urcZCTI/maxresdefault.jpg",
@@ -40,81 +77,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-08-23T04:43:58-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-ai-vs-ai-epic-pro-bots-tournament-match.md",
-      "title": "StarCraft 2: AI vs AI - Epic Pro Bots Tournament Match!",
-      "excerpt": "Game of StarCraft 2 from the ProBots tournament. This match does not feature two humans that play against each other, instead it is a game between two custom made AIs (artificial intelligence). The gameplay reminds me a lot of Google's AlphaStar, but with far more APM.  Pro Bots YouTube channel: https://www.youtube.com/@ProBotsAI",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-ai-vs-ai-epic-pro-bots-tournament-match/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-ai-vs-ai-epic-pro-bots-tournament-match/",
-      "originalUrl": "https://youtube.com/watch?v=7jhfUv2WSo4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7jhfUv2WSo4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 342,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7jhfUv2WSo4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-08-16T05:35:28-07:00"
-    },
-    {
-      "path": "_games/lowkotv-bring-snacks-this-match-between-cure-and-classic-is-awesome-starcraft-2.md",
-      "title": "Bring Snacks. This Match between Cure and Classic is AWESOME! (StarCraft 2)",
-      "excerpt": "One of the best games of StarCraft 2 this year. Cure vs Classic from Gamers8. Both pro gamers try to end this SC2 match as quickly as possible by  being in the opponents face the entire time, but neither of them gets the job done in the early game. A chaotic game with multiple base races ensues. Support",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-bring-snacks-this-match-between-cure-and-classic-is-awesome-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-bring-snacks-this-match-between-cure-and-classic-is-awesome-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=LH3AKAuS1X0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LH3AKAuS1X0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M33S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 271,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LH3AKAuS1X0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-08-19T02:15:32-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-did-he-make-a-20000-mistake-serral-vs-ragnarok.md",
@@ -192,6 +154,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-08-17T01:42:06-07:00"
+    },
+    {
+      "path": "_games/lowkotv-bring-snacks-this-match-between-cure-and-classic-is-awesome-starcraft-2.md",
+      "title": "Bring Snacks. This Match between Cure and Classic is AWESOME! (StarCraft 2)",
+      "excerpt": "One of the best games of StarCraft 2 this year. Cure vs Classic from Gamers8. Both pro gamers try to end this SC2 match as quickly as possible by  being in the opponents face the entire time, but neither of them gets the job done in the early game. A chaotic game with multiple base races ensues. Support",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-bring-snacks-this-match-between-cure-and-classic-is-awesome-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-bring-snacks-this-match-between-cure-and-classic-is-awesome-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=LH3AKAuS1X0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LH3AKAuS1X0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M33S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 235,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LH3AKAuS1X0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-08-19T02:15:32-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-silver-league-heroes-proxy-nexus-in-the-terrans-main.md",

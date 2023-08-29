@@ -4,66 +4,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-no-expanding-allowed-florencio-files-236.md",
-      "title": "StarCraft 2 - NO EXPANDING ALLOWED | Florencio Files #236",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-no-expanding-allowed-florencio-files-236/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-no-expanding-allowed-florencio-files-236/",
-      "originalUrl": "https://youtube.com/watch?v=-TAhQ4DVjt8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-TAhQ4DVjt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M39S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-TAhQ4DVjt8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-11T03:16:55-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-nuclear-bbq-florencio-files-179.md",
-      "title": "StarCraft 2 - NUCLEAR BBQ | Florencio Files #179",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-nuclear-bbq-florencio-files-179/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-nuclear-bbq-florencio-files-179/",
-      "originalUrl": "https://youtube.com/watch?v=K8qPi-kCFaE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K8qPi-kCFaE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M39S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/K8qPi-kCFaE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-27T09:00:05-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-nuclear-trauma-victim-florencio-208-starcraft-2.md",
       "title": "StarCraft 2 - NUCLEAR TRAUMA VICTIM | Florencio #208 - StarCraft 2",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
@@ -909,6 +849,67 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-21T03:49:23-07:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-salt-in-the-wind-the-florencio-files-109.md",
+      "title": "StarCraft 2 - Salt in the Wind | The Florencio Files #109",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-salt-in-the-wind-the-florencio-files-109/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-salt-in-the-wind-the-florencio-files-109/",
+      "originalUrl": "https://youtube.com/watch?v=bEkI6z5WPac",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bEkI6z5WPac\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M24S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bEkI6z5WPac/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-16T09:00:14-08:00"
+    },
+    {
+      "path": "_games/pig-starcraft-2-salting-the-wounds-florencios-goes-terran-the-florencio-files-67.md",
+      "title": "StarCraft 2 - Salting the Wounds - Florencio’s goes Terran! | The Florencio Files #67",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-salting-the-wounds-florencios-goes-terran-the-florencio-files-67/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-salting-the-wounds-florencios-goes-terran-the-florencio-files-67/",
+      "originalUrl": "https://youtube.com/watch?v=snsoHnLEAyI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/snsoHnLEAyI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M20S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/snsoHnLEAyI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-06-09T08:44:59-07:00"
     }
   ],
   "nextPage": 27

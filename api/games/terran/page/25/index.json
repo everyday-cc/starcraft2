@@ -220,36 +220,6 @@
       "publishedDateTime": "2022-09-23T00:14:00-07:00"
     },
     {
-      "path": "_games/pig-torturing-a-4-player-terran-archon-with-meme-builds-starcraft-2.md",
-      "title": "TORTURING a 4-Player Terran Archon with MEME Builds | StarCraft 2",
-      "excerpt": "PiG plays a StarCraft 2 1v1 game against a 4-player archon of his Twitch viewers -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-torturing-a-4-player-terran-archon-with-meme-builds-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-torturing-a-4-player-terran-archon-with-meme-builds-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=vFJE89H4n-4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vFJE89H4n-4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M30S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vFJE89H4n-4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-06-09T03:56:00-07:00"
-    },
-    {
       "path": "_games/pig-twitch-vs-avilo-bunker-rush-into-battle-mech-into-mass-thor-twitch-plays-pig-25.md",
       "title": "Twitch Vs Avilo!? Bunker rush into Battle Mech into Mass Thor | Twitch Plays PiG #25",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -649,6 +619,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-14T01:51:44-07:00"
+    },
+    {
+      "path": "_games/pig-world-record-uthermals-1-terran-v-7-insane-terran-ai-pig-reacts-starcraft-2.md",
+      "title": "WORLD RECORD! uThermal's 1 Terran v 7 Insane Terran AI (PiG Reacts) - StarCraft 2",
+      "excerpt": "I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! uThermal already did 1 Terran vs 7 Zerg Insane AIs. Then HeroMarine stepped up with 1 Terran vs 7 Random Insane AIs. Now uThermal is back with 1 Terran vs 7 TERRAN Insane AIs. How many world records can these guys break?!",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-world-record-uthermals-1-terran-v-7-insane-terran-ai-pig-reacts-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-world-record-uthermals-1-terran-v-7-insane-terran-ai-pig-reacts-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=DUVC53u9kQI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DUVC53u9kQI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H22M26S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DUVC53u9kQI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-27T20:44:34-07:00"
     },
     {
       "path": "_games/pig-zerg-abuses-the-supply-cap-that-everyones-forgotten-about-diamond-in-the-ruff-75-starcraft-2.md",

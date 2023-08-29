@@ -4,6 +4,36 @@
   "page": 22,
   "value": [
     {
+      "path": "_games/pig-roaches-gone-wild-encirclement-icyfar-g3.md",
+      "title": "Roaches gone Wild - Encirclement ICYFAR G3",
+      "excerpt": "CURRENT ICYFAR CHALLENGE:\"Blast from the Past\" - Send in your best replays playing old Heart of the swarm, Wings of Liberty or Brood War Strats! Type !icyfar in my twitch chat (even when I’m not live) and it’ll show you the current challenge and where to send your replays https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-roaches-gone-wild-encirclement-icyfar-g3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-roaches-gone-wild-encirclement-icyfar-g3/",
+      "originalUrl": "https://youtube.com/watch?v=nQoD0osLCkM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nQoD0osLCkM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M45S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nQoD0osLCkM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-solar-got-nuked-again-how-is-he-the-unluckiest-sc2-player-ever.md",
       "title": "Solar got Nuked AGAIN: How is he the unluckiest SC2 player EVER?",
       "excerpt": "Subscribe to @PiGCasts for more Pro videos 🐷OMG ITS HAPPENED AGAIN! Here's a recount of his crazy bad luck plus the new nuke against TIME -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch",
@@ -679,36 +709,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-12-22T22:06:37-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-3-holdout-challenge.md",
-      "title": "StarCraft 2 - How Quickly Can SCARLETT Dispose Of Noobs? (PART 3) | Holdout Challenge",
-      "excerpt": "We paid Scarlett to 1v1 noobs. The challenge: the noobs needed to stay in the match as long as possible while Scarlett did her best to cheese the heck out of them. This Holdout Challenge was a part of  PiG Sty Festival 2021.   Holdout Challenge Part 1: https://youtu.be/hpv300poAUE Holdout Challenge Part",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-3-holdout-challenge/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-3-holdout-challenge/",
-      "originalUrl": "https://youtube.com/watch?v=BOqUdp10r9A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BOqUdp10r9A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M5S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BOqUdp10r9A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-21T21:29:25-08:00"
     },
     {
       "path": "_games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-part-44-holdout-challenge.md",

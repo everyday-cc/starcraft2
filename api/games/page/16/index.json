@@ -4,43 +4,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-proxy-spawning-pool.md",
-      "title": "StarCraft 2: Proxy… Spawning Pool?!",
-      "excerpt": "Viewer submitted games of StarCraft 2. If you have a great game you think I should cast that you recently played, you can submit the replay to replays@lowko.tv.   00:00 Proxy Spawning Pool 04:25 More cheese 13:01 Even more cheese  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-spawning-pool/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-proxy-spawning-pool/",
-      "originalUrl": "https://youtube.com/watch?v=3Bc6WNGFzJE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3Bc6WNGFzJE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3Bc6WNGFzJE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-07-05T02:29:27-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-reaper-surprises-professional-2v2-maru-byun-vs-solar-ryung.md",
       "title": "StarCraft 2: REAPER SURPRISES - Professional 2v2! (Maru & ByuN vs Solar & Ryung)",
       "excerpt": "Best-of-5 series of StarCraft 2 played in 2v2. Normally we don't see many pro games played in 2v2, but these games from the OlimoLeague are a lot of fun.  OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -1143,6 +1106,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-11T04:11:18-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-brood-war-6-legends-free-for-all.md",
+      "title": "StarCraft: Brood War - 6 Legends Free For All!",
+      "excerpt": "Free-for-all in StarCraft: Brood War between Last, Mvp, MC, Effort, Rain and Nestea.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-brood-war-6-legends-free-for-all/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-brood-war-6-legends-free-for-all/",
+      "originalUrl": "https://youtube.com/watch?v=FQkwt8r0C8k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FQkwt8r0C8k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M28S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FQkwt8r0C8k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-02-26T09:55:00-08:00"
     }
   ],
   "nextPage": 17

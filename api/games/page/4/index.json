@@ -312,6 +312,43 @@
       "publishedDateTime": "2023-04-22T22:23:01-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-astreas-unexpected-tempest-switch-best-of-3.md",
+      "title": "StarCraft 2: Astrea's UNEXPECTED Tempest Switch! (Best-of-3)",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 between DRG (Zerg) and Astrea (Protoss). In this SC2 match it's almost as if DRG decides to focus on making StarCraft: Brood War units only, as he really doesn't play any units that were added with the introduction of Wings of Liberty and StarCraft 2 overall.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-astreas-unexpected-tempest-switch-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-astreas-unexpected-tempest-switch-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=_kRUjds-8tk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_kRUjds-8tk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M34S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 82,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_kRUjds-8tk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-29T03:57:17-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-tier-3-rush-byuns-40-liberators-vs-hero.md",
       "title": "StarCraft 2: TIER 3 RUSH - ByuN's 40+ Liberators vs herO!",
       "excerpt": "Professional match of StarCraft 2 between soime of world's best Terran and Protoss players. In this match of Terran vs Protoss both players decide to sit back in the early game, and rush straight towards Tier 3 units. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
@@ -356,43 +393,6 @@
       "excerpt": "Best-of-3 series of high level StarCraft 2 between DRG (Zerg) and Astrea (Protoss). In this SC2 match it's almost as if DRG decides to focus on making StarCraft: Brood War units only, as he really doesn't play any units that were added with the introduction of Wings of Liberty and StarCraft 2 overall.",
       "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-insane-brood-war-unit-only-challenge-starcraft-2/index.json",
       "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-insane-brood-war-unit-only-challenge-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=_kRUjds-8tk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_kRUjds-8tk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 81,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_kRUjds-8tk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-29T03:57:17-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-astreas-unexpected-tempest-switch-best-of-3.md",
-      "title": "StarCraft 2: Astrea's UNEXPECTED Tempest Switch! (Best-of-3)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between DRG (Zerg) and Astrea (Protoss). In this SC2 match it's almost as if DRG decides to focus on making StarCraft: Brood War units only, as he really doesn't play any units that were added with the introduction of Wings of Liberty and StarCraft 2 overall.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-astreas-unexpected-tempest-switch-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-astreas-unexpected-tempest-switch-best-of-3/",
       "originalUrl": "https://youtube.com/watch?v=_kRUjds-8tk",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_kRUjds-8tk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT39M34S",
@@ -928,35 +928,6 @@
       "publishedDateTime": "2023-08-15T06:52:36-07:00"
     },
     {
-      "path": "_games/pig-ive-never-seen-a-cheeser-lose-an-argument-this-hard-salt-mines-39-starcraft-2.md",
-      "title": "I’ve never seen a Cheeser lose an argument THIS HARD | Salt Mines #39 - StarCraft 2",
-      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-ive-never-seen-a-cheeser-lose-an-argument-this-hard-salt-mines-39-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-ive-never-seen-a-cheeser-lose-an-argument-this-hard-salt-mines-39-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=aLcxxPe_Nbk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aLcxxPe_Nbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M57S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 73,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aLcxxPe_Nbk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-29T23:23:31-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-darks-strange-build-orders-vs-gumiho-best-of-3.md",
       "title": "StarCraft 2: Dark's STRANGE BUILD ORDERS vs GuMiho! (Best-of-3)",
       "excerpt": "Best-of-3 series of high level StarCraft 2 between Dark (Zerg) and GuMiho (Terran). This is a match where Dark decides to play very aggressively, despite GuMiho's Reaper focused Terran build order. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
@@ -1032,6 +1003,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-07-19T09:24:27-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serral-vs-innovation.md",
+      "title": "StarCraft 2: Serral vs INnoVation!",
+      "excerpt": "Who is the greatest StarCraft 2 player of all time? In the beginning of this game between Serral and INnoVation I discuss the players that are in my opinion up for the title of being the Greatest Of All Time.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-innovation/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-innovation/",
+      "originalUrl": "https://youtube.com/watch?v=Z8DlwTY9ce0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z8DlwTY9ce0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M52S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Z8DlwTY9ce0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-08-19T04:11:17-07:00"
     }
   ],
   "nextPage": 5

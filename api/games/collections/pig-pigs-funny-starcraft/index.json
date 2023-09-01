@@ -31365,11 +31365,11 @@
       "publishedDateTime": "2023-08-25T05:51:42-07:00"
     },
     {
-      "path": "_games/pig-how-is-this-madman-the-1-vietnamese-player-mad-meo-starcraft-2.md",
-      "title": "How is this MADMAN the #1 Vietnamese Player? | Mad Meo - StarCraft 2",
+      "path": "_games/pig-how-is-this-madman-the-1-vietnamese-pro-mad-meo-starcraft-2.md",
+      "title": "How is this MADMAN the #1 Vietnamese Pro? | Mad Meo - StarCraft 2",
       "excerpt": "Mad MeomaikA is the strangest zerg you'll ever see, but is also somehow Vietnam's #1 StarCraft 2 player! Lets take a dive into the filth that is Meo's devastating plays & insane army compositions. -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-is-this-madman-the-1-vietnamese-player-mad-meo-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-is-this-madman-the-1-vietnamese-player-mad-meo-starcraft-2/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-is-this-madman-the-1-vietnamese-pro-mad-meo-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-is-this-madman-the-1-vietnamese-pro-mad-meo-starcraft-2/",
       "originalUrl": "https://youtube.com/watch?v=wvCMHG4Mk7Y",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wvCMHG4Mk7Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT21M31S",
@@ -31380,7 +31380,7 @@
       "topics": [
         "StarCraft 2"
       ],
-      "heat": 214,
+      "heat": 164,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wvCMHG4Mk7Y/maxresdefault.jpg",
@@ -31392,6 +31392,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-08-29T06:19:16-07:00"
+    },
+    {
+      "path": "_games/pig-salty-protoss-calls-out-pig-during-complete-meltdown-salt-mines-41-starcraft-2.md",
+      "title": "Salty Protoss CALLS OUT PiG during complete meltdown | Salt Mines #41 - StarCraft 2",
+      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty.   Binge the Salt Mines",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-salty-protoss-calls-out-pig-during-complete-meltdown-salt-mines-41-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-salty-protoss-calls-out-pig-during-complete-meltdown-salt-mines-41-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=f94XQMvCQhM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f94XQMvCQhM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M14S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 259,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/f94XQMvCQhM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-09-01T06:32:30-07:00"
     }
   ]
 }

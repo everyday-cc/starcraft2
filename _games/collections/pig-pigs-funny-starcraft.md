@@ -1067,7 +1067,8 @@ items:
   - pig-when-your-nydus-fails-but-youre-a-cheesy-genius-bly-vs-milkicow-starcraft-2
   - pig-how-long-can-regular-players-last-vs-harstem-part-2-holdout-challenge-starcraft-2
   - pig-cheesy-smurfs-brain-melts-when-they-lose-salt-mines-40-starcraft-2
-  - pig-how-is-this-madman-the-1-vietnamese-player-mad-meo-starcraft-2
+  - pig-how-is-this-madman-the-1-vietnamese-pro-mad-meo-starcraft-2
+  - pig-salty-protoss-calls-out-pig-during-complete-meltdown-salt-mines-41-starcraft-2
 
 topics:
   - StarCraft 2

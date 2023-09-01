@@ -4,6 +4,35 @@
   "page": 92,
   "value": [
     {
+      "path": "_games/pig-too-big-to-fail-tricks-are-what-a-wh-does-for-money-icyfar-g4.md",
+      "title": "Too Big to Fail | Tricks are what a wh$% does for money ICYFAR G4",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to use spellcasters as creatively as possible.  NEW ICYFAR CHALLENGE: \"Forced Quarantine\" - Stop your opponent expanding and contain them as much as possible! Send submissions to fluxiorsc@gmail.com",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-too-big-to-fail-tricks-are-what-a-wh-does-for-money-icyfar-g4/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-too-big-to-fail-tricks-are-what-a-wh-does-for-money-icyfar-g4/",
+      "originalUrl": "https://youtube.com/watch?v=M7gDV718W40",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M7gDV718W40\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M29S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M7gDV718W40/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-too-much-eggnog-on-the-ladder-tis-the-season-for-giving-icyfar-g1.md",
       "title": "Too much Eggnog on the ladder! | Tis the season for giving ICYFAR G1",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were they would regularly gift their opponent a present!  NEW ICYFAR CHALLANGE: New Year's Resolutions! Declare your monobattle choice at the start of the game and then feel free to flake on",
@@ -867,35 +896,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-11-24T15:43:19-08:00"
-    },
-    {
-      "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-tempest-rush-twitch-plays-astrea-3-starcraft-2.md",
-      "title": "We paid a Pro to do Troll Builds: Tempest Rush! | Twitch Plays Astrea #3 - StarCraft 2",
-      "excerpt": "We paid Astrea to do some Troll builds on ladder. Like the Thundershaft that he is, he used his Rank 1 account and wowed us all with his skills - this time doing a tempest rush  Follow Astrea's Twitch: https://www.twitch.tv/zastrea -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-we-paid-a-pro-to-do-troll-builds-tempest-rush-twitch-plays-astrea-3-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-we-paid-a-pro-to-do-troll-builds-tempest-rush-twitch-plays-astrea-3-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=yHEqhhfFLnY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yHEqhhfFLnY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yHEqhhfFLnY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-02-14T23:05:57-08:00"
     }
   ],
   "nextPage": 93

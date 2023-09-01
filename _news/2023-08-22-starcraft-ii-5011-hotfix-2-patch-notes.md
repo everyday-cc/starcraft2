@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/23987086/starcraft-ii-5
 webUrl: "https://news.blizzard.com/en-us/starcraft2/23987086/starcraft-ii-5-0-11-hotfix-2-patch-notes"
 type: article
 quality: 177
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "The 20 Best RTS Games To Play If You Love Starcraft"
+    excerpt: "Many fans will be itching for a similar game to Starcraft to play with no new sequel in sight. Here are the best games to scratch that itch. The real-time strategy genre has been a cornerstone of ..."
+    publishedDateTime: 2023-08-18T19:31:00Z
+    webUrl: "https://gamerant.com/best-rts-games-like-starcraft/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 77
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/the-20-best-rts-games-to-play-if-you-love-starcraft.jpg"
+        width: 1800
+        height: 900
+        isCached: true
   - title: "1986 Starcraft Prices, Values and Specs"
     excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
     publishedDateTime: 2023-08-20T05:28:00Z

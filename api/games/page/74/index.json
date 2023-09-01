@@ -4,6 +4,64 @@
   "page": 74,
   "value": [
     {
+      "path": "_games/pig-santa-claws-slow-gas-diet-icyfar-g3.md",
+      "title": "Santa CLAWS | Slow Gas Diet ICYFAR G3",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where their gas mining was limited to one worker per structure!   NEW ICYFAR CHALLENGE: \"Yeah, Nah\" - block your opponents buildings at every turn. This week's ICYFAR powered by AMD. Send submissions",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-santa-claws-slow-gas-diet-icyfar-g3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-santa-claws-slow-gas-diet-icyfar-g3/",
+      "originalUrl": "https://youtube.com/watch?v=PyOdj4Nr39s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PyOdj4Nr39s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M50S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PyOdj4Nr39s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-santas-baubles-tis-the-season-for-giving-icyfar-g2.md",
+      "title": "Santa’s Baubles | Tis the season for giving ICYFAR G2",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were they would regularly gift their opponent a present!  NEW ICYFAR CHALLANGE: New Year's Resolutions! Declare your monobattle choice at the start of the game and then feel free to flake on",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-santas-baubles-tis-the-season-for-giving-icyfar-g2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-santas-baubles-tis-the-season-for-giving-icyfar-g2/",
+      "originalUrl": "https://youtube.com/watch?v=YMvkl2X33gs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YMvkl2X33gs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M43S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YMvkl2X33gs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-save-the-bunker-you-will-never-get-this-g3-icyfar.md",
       "title": "Save the Bunker | You will never get this! G3 ICYFAR",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were they deny their opponents expansions and contain them at all costs.  NEW ICYFAR CHALLANGE: Tis the season for giving! Donate one unit to your opponent every minute of the game, starting",
@@ -351,6 +409,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-simple-nexus-recall-trick-fools-opponent-mape-the-ape-3-starcraft-2.md",
+      "title": "SIMPLE Nexus Recall Trick FOOLS Opponent | Mape the Ape #3 - StarCraft 2",
+      "excerpt": "When Maplez met Honmono on the ladder, sewer mermaid strategies ensued. -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-simple-nexus-recall-trick-fools-opponent-mape-the-ape-3-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-simple-nexus-recall-trick-fools-opponent-mape-the-ape-3-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=Co1VFTUgzcI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Co1VFTUgzcI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M26S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Co1VFTUgzcI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-06T14:50:04-07:00"
     },
     {
       "path": "_games/pig-single-probe-contains-4-players-sneaky-sneaky-kaelaris-icyfar-g2.md",
@@ -802,94 +890,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-26T14:00:11-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-1hp-and-a-dream-the-florencio-files-42.md",
-      "title": "StarCraft 2 - 1HP and a Dream | The Florencio Files #42",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush  Florencios twitch: https://www.twitch.tv/flol2encio Florencios youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-1hp-and-a-dream-the-florencio-files-42/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-1hp-and-a-dream-the-florencio-files-42/",
-      "originalUrl": "https://youtube.com/watch?v=ul6VAEFg1sM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ul6VAEFg1sM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M18S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ul6VAEFg1sM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-01-18T00:47:08-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-1v2-comeback-destroy-the-production-icyfar-g3.md",
-      "title": "StarCraft 2 - 1v2 COMEBACK!? | Destroy the Production ICYFAR G3",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they destroyed the means of production! Here’s a 2v2 game completing the challenge in... torturous fashion. Got any braincells left?   NEW ICYFAR CHALLENGE: Fighting Retreat - Set yourself",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-1v2-comeback-destroy-the-production-icyfar-g3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-1v2-comeback-destroy-the-production-icyfar-g3/",
-      "originalUrl": "https://youtube.com/watch?v=rTC7VFPx5QU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rTC7VFPx5QU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M47S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rTC7VFPx5QU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-2-drones-in-a-trenchcoat-icyfar-queue-it-up-baby-compilation.md",
-      "title": "StarCraft 2 - 2 DRONES IN A TRENCHCOAT | ICYFAR \"Queue it up baby!\" Compilation",
-      "excerpt": "🔥NEW ICYFAR CHALLENGE: \"3 Units to Rule them All\" - Type 3 units into the chat at the start of the game, and only use these to win! (workers/injecting queens excluded) Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-2-drones-in-a-trenchcoat-icyfar-queue-it-up-baby-compilation/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-2-drones-in-a-trenchcoat-icyfar-queue-it-up-baby-compilation/",
-      "originalUrl": "https://youtube.com/watch?v=z_5_dJwiwcs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z_5_dJwiwcs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M52S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/z_5_dJwiwcs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-17T15:59:22-07:00"
     }
   ],
   "nextPage": 75

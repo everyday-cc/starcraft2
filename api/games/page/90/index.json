@@ -94,35 +94,6 @@
       "publishedDateTime": "2022-08-31T19:53:00-07:00"
     },
     {
-      "path": "_games/pig-the-dumb-strat-that-broke-my-brain-icyfar-budget-battles-starcraft-2.md",
-      "title": "The dumb strat that BROKE MY BRAIN | ICYFAR \"Budget Battles\" - StarCraft 2",
-      "excerpt": "🤯 NEW ICYFAR CHALLENGE: \"One, Two\" - Always attack two or more locations at once. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 30th March.  🤯 In this month’s episode of I Cast Your Freakin Awesome Replays (ICYFAR)",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-dumb-strat-that-broke-my-brain-icyfar-budget-battles-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-dumb-strat-that-broke-my-brain-icyfar-budget-battles-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=HXdR1j9I_mM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HXdR1j9I_mM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M58S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HXdR1j9I_mM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-01T21:10:06-08:00"
-    },
-    {
       "path": "_games/pig-the-fastest-viper-rush-strat-ive-ever-seen-also-the-dumbest-smooth-brain-santa-claws-8-sc2.md",
       "title": "The FASTEST Viper Rush Strat I’ve Ever Seen (also the Dumbest) | Smooth Brain Santa Claws #8 - SC2",
       "excerpt": "🎅 Santa Claws impressed in his Starcraft Smooth Brain audition and has been granted an opportunity to be the next Smooth Brain. Will he impress or will his brain prove too wrinkled?   🎅 Santa Claws Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh -- 🐷 Second Channel",
@@ -781,6 +752,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-the-pro-game-so-bad-a-caster-screamed-you-imbecile-starcraft-2.md",
+      "title": "The pro game SO BAD a caster screamed \"You imbecile!\" - StarCraft 2",
+      "excerpt": "I think this is the worst 1 hour pro game of all time. Ukko (Zerg) and Nina (Protoss) played in EPT Masters Winter NA. This game ended in a stalemate and Catz, one of the official casters, actually yelled “No! NO! You Idiot! You Imbecile!” when it happened LOL -- 🐷 Second Channel for Learning StarCraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-pro-game-so-bad-a-caster-screamed-you-imbecile-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-pro-game-so-bad-a-caster-screamed-you-imbecile-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=cPOn4UG0fAA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cPOn4UG0fAA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M10S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cPOn4UG0fAA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-20T21:06:25-07:00"
     },
     {
       "path": "_games/pig-the-prophet-of-d-town-unused-upgrades-the-odd-one-liquid-reign-icyfar-g1.md",

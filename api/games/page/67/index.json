@@ -4,6 +4,35 @@
   "page": 67,
   "value": [
     {
+      "path": "_games/pig-how-i-got-stuck-in-a-34-day-subathon-never-underestimate-twitch-chat.md",
+      "title": "How I got stuck in a 34 day Subathon (never underestimate Twitch chat)",
+      "excerpt": "I thought my subathon would last a day or two at most! Twitch chat had other ideas and locked me in for 34 days instead, allowing me to beat Ludwig's 726 hours on day 33.  To everyone who watched and supported, thank you so much! This was a crazy, challenging experience that will be remembered for some",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-i-got-stuck-in-a-34-day-subathon-never-underestimate-twitch-chat/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-i-got-stuck-in-a-34-day-subathon-never-underestimate-twitch-chat/",
+      "originalUrl": "https://youtube.com/watch?v=ZOo4vlMHFbk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZOo4vlMHFbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M2S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZOo4vlMHFbk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-08-17T16:05:01-07:00"
+    },
+    {
       "path": "_games/pig-how-many-ravagers-one-shot-a-command-center-strategy-bribes-starcraft-2.md",
       "title": "How many ravagers ONE SHOT a command center? | Strategy Bribes - StarCraft 2",
       "excerpt": "Twitch chat bribed me to do challenges on stream. This is the result! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2",
@@ -150,6 +179,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-08-03T16:36:52-07:00"
+    },
+    {
+      "path": "_games/pig-how-quickly-can-hero-dispose-of-a-noob-me-ept-na-holdout-challenge-bo3-pvz-starcraft-2.md",
+      "title": "How quickly can HERO dispose of a noob (ME)? | EPT NA Holdout Challenge (Bo3 PvZ) - StarCraft 2",
+      "excerpt": "PiG faced the best protoss in the world right now, herO, in EPT NA. Lets see how long PiG held on for in this unofficial Holdout Challenge. This series was a best of 3 -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for daily Pro Casts: https://www.youtube.com/c/PiGCasts",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-hero-dispose-of-a-noob-me-ept-na-holdout-challenge-bo3-pvz-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-hero-dispose-of-a-noob-me-ept-na-holdout-challenge-bo3-pvz-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=qz0Fun6MHVM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qz0Fun6MHVM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M2S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qz0Fun6MHVM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-25T17:24:20-07:00"
     },
     {
       "path": "_games/pig-how-quickly-can-pig-dispose-of-noobs-holdout-challenge-starcraft-2.md",
@@ -534,35 +593,6 @@
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
     },
     {
-      "path": "_games/pig-i-challenged-myself-to-do-the-fastest-bcs-ever-pigs-filthy-adventures-16-starcraft-2.md",
-      "title": "I challenged myself to do the FASTEST BCs EVER | PiG's Filthy Adventures #16 - StarCraft 2",
-      "excerpt": "After the success of my Fastest Nydus Swarm Host build, I wanted to see if I could replicate it with the Fastest Battlecruisers Ever. This is NOT effective at all, so can I actually steal anyone's MMR with it?  If you want my build notes they're in The Book of Filth 2.0: https://docs.google.com/document/d/1GbpZ-qjoUQ42ZwVsmk3cYgLZ1WYNcLc9l6KUo-Zuudk/edit?usp=sharing",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-i-challenged-myself-to-do-the-fastest-bcs-ever-pigs-filthy-adventures-16-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-i-challenged-myself-to-do-the-fastest-bcs-ever-pigs-filthy-adventures-16-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=DuMf0eD4pD8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DuMf0eD4pD8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M9S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DuMf0eD4pD8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-20T20:09:15-07:00"
-    },
-    {
       "path": "_games/pig-i-dont-know-how-i-lost-to-this-make-broodwar-great-again-icyfar-g1.md",
       "title": "“I don’t know how I lost to this” | Make Broodwar Great Again ICYFAR G1",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were they may only take 1 gas at each base, no warpgate, no reactors and no queens.  Invisible Man - Use cloaked units to spook your opponent. Send submissions to fluxiorsc@gmail.com as attachment",
@@ -649,35 +679,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-18T18:34:08-08:00"
-    },
-    {
-      "path": "_games/pig-i-faced-uthermals-meme-builds-in-a-pro-tournament-starcraft-2.md",
-      "title": "I Faced uThermal’s Meme Builds in a Pro Tournament! - StarCraft 2",
-      "excerpt": "The Youtube Man himself, uThermal, used his troll builds on me in a Pro Tournament, the EPT NA Weekly 143! Who will win this best of 3? Which crazy meme builds will be throw at me? -- 🐷 Main Channel: https://www.youtube.com/user/PiGstarcraft 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-i-faced-uthermals-meme-builds-in-a-pro-tournament-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-i-faced-uthermals-meme-builds-in-a-pro-tournament-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=n1NaAAnj5kY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n1NaAAnj5kY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT52M37S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/n1NaAAnj5kY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-03T21:39:35-07:00"
     },
     {
       "path": "_games/pig-i-love-the-smell-of-napalm-in-the-morning-unused-upgrades-the-odd-one-liquid-reign-icyfar-g3.md",

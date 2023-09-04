@@ -4,45 +4,6 @@
   "page": 41,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-is-this-really-the-ultimate-terran-army-dark-vs-cure.md",
-      "title": "StarCraft 2: Is This REALLY The ULTIMATE Terran Army?! (Dark vs Cure)",
-      "excerpt": "Professional match of StarCraft 2 between Dark (Zerg) and Cure (Terran). While this game starts off with a Roach Ravager rush it quickly turns into a long macro game where both players make their ultimate armies.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-is-this-really-the-ultimate-terran-army-dark-vs-cure/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-is-this-really-the-ultimate-terran-army-dark-vs-cure/",
-      "originalUrl": "https://youtube.com/watch?v=hPWc5DKpkmI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hPWc5DKpkmI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M14S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hPWc5DKpkmI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-08-23T04:21:48-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-it-is-not-a-draw-zest-wings-of-liberty-tournament-in-2021.md",
       "title": "StarCraft 2: IT IS NOT A DRAW, ZEST - Wings of Liberty Tournament in 2021?!",
       "excerpt": "Fun games of professional StarCraft 2 played in Wings of Liberty? In this video I cast a few of the games from the \"FilthyRake's WoL Brawl\" even that took place last weekend.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
@@ -723,6 +684,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-07-15T04:18:23-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-lurkers-nydus-worms-rogue-vs-parting.md",
+      "title": "StarCraft 2: LURKERS & NYDUS WORMS! (Rogue vs PartinG)",
+      "excerpt": "An awesome game of Zerg versus Protoss in StarCraft 2 between the previous world champion Rogue and one of the strongest Protoss players PartinG. In this game we see a unique style to countering Lurkers and Nydus Worms from PartinG. He focuses heavily on Stalkers and Colossus, while denying the Nydus",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-lurkers-nydus-worms-rogue-vs-parting/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-lurkers-nydus-worms-rogue-vs-parting/",
+      "originalUrl": "https://youtube.com/watch?v=7v88m6ADLXY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7v88m6ADLXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M53S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7v88m6ADLXY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-02-05T01:06:24-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-lurkers-vs-bio-innovation-vs-reynor.md",

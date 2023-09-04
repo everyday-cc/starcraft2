@@ -4,6 +4,82 @@
   "page": 6,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-special-cheeses-the-world-champion-best-of-3.md",
+      "title": "StarCraft 2: SpeCial CHEESES the World Champion! (Best-of-3)",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 between the new World Champion Oliveira (Terran) and SpeCial (Terran). Some very interesting build orders coming out of SpeCial here, but incredible micro from Oliveira seems to be the answer.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-special-cheeses-the-world-champion-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-special-cheeses-the-world-champion-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=E9Yd-NAwk_E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E9Yd-NAwk_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M55S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/E9Yd-NAwk_E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-21T03:39:38-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-special-strange-battlecruiser-build.md",
+      "title": "StarCraft 2: SpeCial Strange BATTLECRUISER Build!",
+      "excerpt": "Two best-of-3 series of StarCraft 2. In the first one SpeCial faces off against Scarlett, and in the second against ByuN.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips    Twitch livestream: https://twitch.tv/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-special-strange-battlecruiser-build/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-special-strange-battlecruiser-build/",
+      "originalUrl": "https://youtube.com/watch?v=RyCz0cgoVuM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RyCz0cgoVuM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M20S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RyCz0cgoVuM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-23T03:24:50-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-still-planetary-fortress-rushing-in-2022-viewer-games.md",
       "title": "StarCraft 2: Still PLANETARY FORTRESS RUSHING in 2022…? (Viewer Games)",
       "excerpt": "Two games of StarCraft 2 submitted to me by viewers. If you want to me make fun of your SC2 games as well, make sure to send your best replays to replays@lowko.tv.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
@@ -194,44 +270,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-22T03:20:22-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-tons-of-nukes-in-a-pro-game.md",
-      "title": "StarCraft 2: TONS OF NUKES IN A PRO GAME!",
-      "excerpt": "An incredible match between soO and INnoVation. Subscribe for more videos: http://lowko.tv/youtube Macro Wars: https://goo.gl/1c32tn  Tactical Nukes were usually considered to be mostly a unique mechanic. These days however, it gets used more and more in professional games and in this one... Tactical",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-tons-of-nukes-in-a-pro-game/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-tons-of-nukes-in-a-pro-game/",
-      "originalUrl": "https://youtube.com/watch?v=FcnhekTNHPg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FcnhekTNHPg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M39S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FcnhekTNHPg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-03-06T01:32:40-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-top-game-the-ultimate-deathballs-maru-vs-reynor.md",
@@ -1008,39 +1046,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-06T05:38:27-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-1000-apm-commentating-while-playing-mass-marines.md",
-      "title": "StarCraft 2: 1000 APM Commentating While Playing MASS Marines!",
-      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-1000-apm-commentating-while-playing-mass-marines/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-1000-apm-commentating-while-playing-mass-marines/",
-      "originalUrl": "https://youtube.com/watch?v=Iy61JeUJva8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Iy61JeUJva8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M34S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Iy61JeUJva8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-10-05T04:27:34-07:00"
     }
   ],
   "nextPage": 7

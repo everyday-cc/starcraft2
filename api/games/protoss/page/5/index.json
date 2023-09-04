@@ -4,6 +4,82 @@
   "page": 5,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-trash-talking-cannon-rusher-viewer-games.md",
+      "title": "StarCraft 2: TRASH TALKING Cannon Rusher! (Viewer Games)",
+      "excerpt": "Two viewer submitted games of StarCraft 2... With some very special tactics! If you have a great game of SC2 that you would like me to cast, you can send over your best game to replays@lowko.tv.   Supportlowko my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-trash-talking-cannon-rusher-viewer-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-trash-talking-cannon-rusher-viewer-games/",
+      "originalUrl": "https://youtube.com/watch?v=kA3oswPXFRg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kA3oswPXFRg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kA3oswPXFRg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-07T07:11:14-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-weird-cannon-rush-counters-viewer-games.md",
+      "title": "StarCraft 2: WEIRD Cannon Rush Counters! (Viewer Games)",
+      "excerpt": "Viewer submitted games of StarCraft 2. In these matches we have a look at some questionable Cannon Rushes, with even more questionable responses.  If you want me to cast your StarCraft 2 match next, you can submit your best game to replays@lowko.tv.   Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-weird-cannon-rush-counters-viewer-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-weird-cannon-rush-counters-viewer-games/",
+      "originalUrl": "https://youtube.com/watch?v=l56awCUm1pA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l56awCUm1pA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M25S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/l56awCUm1pA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-14T02:51:51-08:00"
+    },
+    {
       "path": "_games/pig-flos-genius-burrow-rush-trick-florencio-files-270-starcraft-2.md",
       "title": "Flo’s GENIUS Burrow Rush Trick | Florencio Files #270 - StarCraft 2",
       "excerpt": "Florencio Files is BACK! I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. I can't remember which episode first featued this burrow rush trick, but here's a link to another one where he does it: https://youtu.be/LOFfVLqbyWc",
@@ -876,73 +952,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-12-01T03:18:56-08:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-aoe-units-with-mass-void-rays-templar-colossus-disruptors.md",
-      "title": "StarCraft 2: AoE Units With MASS Void Rays! (Templar, Colossus, Disruptors!)",
-      "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right! At this point in the series, we are introducing AOE units into the composition to make the games",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-aoe-units-with-mass-void-rays-templar-colossus-disruptors/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-aoe-units-with-mass-void-rays-templar-colossus-disruptors/",
-      "originalUrl": "https://youtube.com/watch?v=k7uJ7zxHoNk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/k7uJ7zxHoNk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M24S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/k7uJ7zxHoNk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-12-26T04:14:03-08:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2.md",
-      "title": "StarCraft 2: Are You Jerking Me...? - Cannon Rushing to Grandmaster - Episode 2",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2/",
-      "originalUrl": "https://youtube.com/watch?v=zKB6EX4t-vM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zKB6EX4t-vM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT51M24S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Cheese",
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zKB6EX4t-vM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-10-26T03:26:41-07:00"
     }
   ],
   "nextPage": 6

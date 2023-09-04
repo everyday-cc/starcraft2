@@ -155,36 +155,6 @@
       "publishedDateTime": "2019-07-03T15:59:09-07:00"
     },
     {
-      "path": "_games/pig-wings-of-liberty-nightmare-difficulty-1st-protoss-mission-whispers-of-doom-part-9-starcraft-2.md",
-      "title": "Wings of Liberty NIGHTMARE DIFFICULTY: 1st Protoss Mission Whispers of Doom. Part 9 - StarCraft 2",
-      "excerpt": "My first try at Nightmare Difficulty Mode StarCraft 2 Campaign created by GiantGrantGames and his amazing modding community. Having lots of fun with it! Here's the 9th part containing:  0:00 What is this range?! 0:12 Whispers of Doom  Here's a guide on how to play nightmare mode: https://www.reddit.com/r/StarcraftCampaigns/comments/tcxzii/wings_of_liberty_nightmare_difficulty/",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-wings-of-liberty-nightmare-difficulty-1st-protoss-mission-whispers-of-doom-part-9-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-wings-of-liberty-nightmare-difficulty-1st-protoss-mission-whispers-of-doom-part-9-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=tX_mStnV2Tw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tX_mStnV2Tw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M10S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tX_mStnV2Tw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-15T14:53:10-07:00"
-    },
-    {
       "path": "_games/pig-world-record-uthermals-1-terran-v-7-insane-terran-ai-pig-reacts-starcraft-2.md",
       "title": "WORLD RECORD! uThermal's 1 Terran v 7 Insane Terran AI (PiG Reacts) - StarCraft 2",
       "excerpt": "I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! uThermal already did 1 Terran vs 7 Zerg Insane AIs. Then HeroMarine stepped up with 1 Terran vs 7 Random Insane AIs. Now uThermal is back with 1 Terran vs 7 TERRAN Insane AIs. How many world records can these guys break?!",
@@ -995,6 +965,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-01-28T04:45:29-08:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-60-zealots-crushing-the-terran-army.md",
+      "title": "StarCraft 2: 60+ Zealots Crushing the Terran Army!",
+      "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-60-zealots-crushing-the-terran-army/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-60-zealots-crushing-the-terran-army/",
+      "originalUrl": "https://youtube.com/watch?v=Nb-suB2yKZI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nb-suB2yKZI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M54S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Nb-suB2yKZI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-04T04:23:50-07:00"
     }
   ],
   "nextPage": 20

@@ -4,6 +4,35 @@
   "page": 18,
   "value": [
     {
+      "path": "_games/pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-2-starcraft-2.md",
+      "title": "How to beat the 1v7 INSANE AI Challenge (no, Beastyqt has not done it) #2 - StarCraft 2",
+      "excerpt": "I have challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! Serral has said it is impossible unless maybe they're all Zergs. After Spirit (Soul) tried it first, the next person brave enough to try it is PiLiPiLi, a Protoss player. He took on 7 Random insane AIs all on Any Build.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-2-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-2-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=nHr02rPDOMo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nHr02rPDOMo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M11S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nHr02rPDOMo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-19T01:16:44-07:00"
+    },
+    {
       "path": "_games/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-pigs-filthy-adventures-15-starcraft-2.md",
       "title": "Inflicting the Fastest Nydus Swarm Hosts EVER on GMs | PiG's Filthy Adventures #15 -StarCraft 2",
       "excerpt": "Subscribe to PiG Casts! 🐷 I said I would inflict this pain onto others - and it worked better than I thought it would! Protoss especially have a lot of trouble dealing with my version of the Fastest Nydus Swarm Hosts build. If you want my notes they're in The Book of Filth 2.0: https://docs.google.com/document/d/1GbpZ-qjoUQ42ZwVsmk3cYgLZ1WYNcLc9l6KUo-Zuudk/edit?usp=sharing",
@@ -842,35 +871,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-15T01:12:58-08:00"
-    },
-    {
-      "path": "_games/pig-twitch-chat-challenges-me-to-say-bacon-every-worker-kill-starcraft-2.md",
-      "title": "Twitch Chat CHALLENGES me to say \"BACON\" Every Worker Kill - Starcraft 2",
-      "excerpt": "PiG is challenged to say BACON for every single drone kill, building mass widow mine drops & frying enough drone bacon to feed a terran army, as well as PiG's brain. -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-twitch-chat-challenges-me-to-say-bacon-every-worker-kill-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-twitch-chat-challenges-me-to-say-bacon-every-worker-kill-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=QjvWPHH_vyk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QjvWPHH_vyk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M31S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QjvWPHH_vyk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-08-04T17:59:10-07:00"
     },
     {
       "path": "_games/pig-two-players-try-their-best-to-throw-the-game-rate-my-starcraft-6.md",

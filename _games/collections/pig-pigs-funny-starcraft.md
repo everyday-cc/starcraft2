@@ -1063,7 +1063,6 @@ items:
   - pig-harstem-abuses-most-op-unit-against-my-protoss-team-commander-mode-3-starcraft-2
   - pig-ive-never-seen-a-cheeser-lose-an-argument-this-hard-salt-mines-39-starcraft-2
   - pig-how-is-this-maniac-better-than-99-of-sc2-players-slammer-vs-xkawaiian
-  - pig-twitch-chat-challenges-me-to-say-bacon-every-worker-kill-starcraft-2
   - pig-when-your-nydus-fails-but-youre-a-cheesy-genius-bly-vs-milkicow-starcraft-2
   - pig-how-long-can-regular-players-last-vs-harstem-part-2-holdout-challenge-starcraft-2
   - pig-cheesy-smurfs-brain-melts-when-they-lose-salt-mines-40-starcraft-2

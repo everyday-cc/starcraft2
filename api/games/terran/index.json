@@ -29,7 +29,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 278,
+      "heat": 430,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/3CkTC5niVls/maxresdefault.jpg",
@@ -338,7 +338,7 @@
         "Terran",
         "Protoss"
       ],
-      "heat": 187,
+      "heat": 173,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/c0rUH67Fmuk/maxresdefault.jpg",
@@ -543,6 +543,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-05-06T01:32:37-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-europes-strongest-terran-vs-the-number-1-protoss-clem-vs-maxpax.md",
+      "title": "StarCraft 2: EUROPE's Strongest Terran vs the Number 1 Protoss! (Clem vs MaxPax)",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 between Clem (Terran) and MaxPax (Protoss). All games in this best-of-3 series are played on the maps from the Team Liquid Map Contest (TLMC). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-europes-strongest-terran-vs-the-number-1-protoss-clem-vs-maxpax/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-europes-strongest-terran-vs-the-number-1-protoss-clem-vs-maxpax/",
+      "originalUrl": "https://youtube.com/watch?v=Z0LsR0wRI1g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z0LsR0wRI1g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M17S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Z0LsR0wRI1g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-06-22T04:34:37-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",
@@ -1106,44 +1145,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-06-29T04:24:12-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-gumiho-makes-battlecruisers-look-overpowered-gsl-code-s.md",
-      "title": "StarCraft 2: GuMiho makes Battlecruisers look OVERPOWERED! (GSL Code S)",
-      "excerpt": "GuMiho vs Creator in a best-of-3 series of StarCraft 2 from the GSL Code S. This series shows a variety of build orders and strategies, with a heavy focus on Protoss aggression and Terran defense.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumiho-makes-battlecruisers-look-overpowered-gsl-code-s/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumiho-makes-battlecruisers-look-overpowered-gsl-code-s/",
-      "originalUrl": "https://youtube.com/watch?v=b3uOdzu31pM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b3uOdzu31pM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M7S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/b3uOdzu31pM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-14T03:05:08-07:00"
     }
   ],
   "nextPage": 2

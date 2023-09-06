@@ -4,6 +4,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/lowkotv-dark-gets-confused-by-40-archons-starcraft-2.md",
+      "title": "Dark gets CONFUSED by 40+ Archons! (StarCraft 2)",
+      "excerpt": "Professional match of StarCraft 2 between ShoWTimE and Dark where the German Protoss decides to go for Mass Archons in the late game. Rather than focusing on a Sky Toss based army he decides to face off against the Zerg mid game army without making that transition towards the conventional Carrier based",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-gets-confused-by-40-archons-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-gets-confused-by-40-archons-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=tJszwmX_XOI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tJszwmX_XOI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M31S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 103,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tJszwmX_XOI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-08-09T10:25:12-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-darks-gumiho-speedrun-goes-wrong.md",
       "title": "StarCraft 2: Dark's GuMiho SPEEDRUN Goes Wrong!",
       "excerpt": "Best-of-3 series of StarCraft 2 between Dark (Zerg) and GuMiho (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
@@ -181,44 +219,6 @@
       "publishedDateTime": "2022-10-24T20:57:51-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-darks-ultra-rushes-clem-best-of-3.md",
-      "title": "StarCraft 2: Dark's ULTRA RUSHES Clem! (Best-of-3)",
-      "excerpt": "In this StarCraft 2 cast, we watch a thrilling match between Dark, the Korean Zerg master, and Clem, the French Terran. Dark surprises Clem with an early Ultralisk rush, while Clem tries to hold on with his bio army. Will Dark’s gamble pay off or will Clem’s micro skills save the day?  Support my work:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-ultra-rushes-clem-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-ultra-rushes-clem-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=WyaY3llddkE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WyaY3llddkE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M59S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 95,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WyaY3llddkE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-21T04:59:49-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-my-biggest-baneling-hit-ever-zerg-live-games.md",
       "title": "StarCraft 2: My Biggest BANELING HIT Ever? (Zerg Live Games)",
       "excerpt": "Some of the biggest Baneling hits and Fungal Growths in any games I've ever played. Two games of Zerg versus Terran in StarCraft 2 with live commentary.   00:00 Zerg vs Terran on Blackburn 34:50 Zerg vs Terran on Hardwire  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
@@ -324,6 +324,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-03T19:13:33-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-darks-ultra-rushes-clem-best-of-3.md",
+      "title": "StarCraft 2: Dark's ULTRA RUSHES Clem! (Best-of-3)",
+      "excerpt": "In this StarCraft 2 cast, we watch a thrilling match between Dark, the Korean Zerg master, and Clem, the French Terran. Dark surprises Clem with an early Ultralisk rush, while Clem tries to hold on with his bio army. Will Dark’s gamble pay off or will Clem’s micro skills save the day?  Support my work:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-ultra-rushes-clem-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-ultra-rushes-clem-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=WyaY3llddkE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WyaY3llddkE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M59S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 87,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WyaY3llddkE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-21T04:59:49-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-maru-wtl-finals-best-of-3.md",
@@ -1085,45 +1123,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-05-24T10:42:53-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-incredible-game-darks-50-infestor-army-vs-byun.md",
-      "title": "StarCraft 2: INCREDIBLE GAME - Dark's 50+ INFESTOR ARMY vs ByuN!",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between Dark (Zerg) and ByuN (Terran). The first game on NeoHumanity is just an amazing game, where neither player really commits to a fight until the late game has arrived. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-game-darks-50-infestor-army-vs-byun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-incredible-game-darks-50-infestor-army-vs-byun/",
-      "originalUrl": "https://youtube.com/watch?v=CFepRFMi_zA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CFepRFMi_zA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M56S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CFepRFMi_zA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-08T04:41:56-07:00"
     }
   ],
   "nextPage": 3

@@ -1068,6 +1068,7 @@ items:
   - pig-cheesy-smurfs-brain-melts-when-they-lose-salt-mines-40-starcraft-2
   - pig-how-is-this-madman-the-1-vietnamese-pro-mad-meo-starcraft-2
   - pig-salty-protoss-calls-out-pig-during-complete-meltdown-salt-mines-41-starcraft-2
+  - pig-can-these-deranged-builds-take-down-a-grandmaster-mapetheape-vs-forgg-starcraft-2
 
 topics:
   - StarCraft 2

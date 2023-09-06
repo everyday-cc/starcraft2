@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/starcraft-love-letter-stormgat
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-love-letter-stormgate-gets-new-trailer-with-second-playable-faction/1100-6517052/"
 type: article
 quality: 74
-heat: 156
+heat: 154
 published: true
 
 provider:

@@ -4,40 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_games/beastyqtsc2-starcraft-2-no-stopping-now-speed-running-to-grandmaster-episode-2.md",
-      "title": "StarCraft 2: NO STOPPING NOW! - SPEED Running to Grandmaster Episode 2",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-no-stopping-now-speed-running-to-grandmaster-episode-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-no-stopping-now-speed-running-to-grandmaster-episode-2/",
-      "originalUrl": "https://youtube.com/watch?v=7nsu7cGdKOI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7nsu7cGdKOI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H4M56S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "tags": [
-        "Cheese",
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7nsu7cGdKOI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-01-14T07:00:19-08:00"
-    },
-    {
       "path": "_games/beastyqtsc2-starcraft-2-nuke-drops-n-u-k-e-s-episode-4.md",
       "title": "StarCraft 2: NUKE DROPS?! - N U K E S - Episode 4",
       "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
@@ -997,6 +963,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-02-10T04:02:19-08:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-that-sweet-juicy-grandmaster-with-hellbat-ghost-liberator.md",
+      "title": "That Sweet Juicy Grandmaster With Hellbat, Ghost & Liberator!",
+      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-that-sweet-juicy-grandmaster-with-hellbat-ghost-liberator/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-that-sweet-juicy-grandmaster-with-hellbat-ghost-liberator/",
+      "originalUrl": "https://youtube.com/watch?v=cfBqRFymELY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cfBqRFymELY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M8S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cfBqRFymELY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-26T06:20:57-07:00"
     }
   ],
   "nextPage": 9

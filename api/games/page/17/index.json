@@ -4,6 +4,44 @@
   "page": 17,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-trash-talking-cannon-rusher-viewer-games.md",
+      "title": "StarCraft 2: TRASH TALKING Cannon Rusher! (Viewer Games)",
+      "excerpt": "Two viewer submitted games of StarCraft 2... With some very special tactics! If you have a great game of SC2 that you would like me to cast, you can send over your best game to replays@lowko.tv.   Supportlowko my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-trash-talking-cannon-rusher-viewer-games/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-trash-talking-cannon-rusher-viewer-games/",
+      "originalUrl": "https://youtube.com/watch?v=kA3oswPXFRg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kA3oswPXFRg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kA3oswPXFRg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-07T07:11:14-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-ultralisk-rush.md",
       "title": "StarCraft 2: Ultralisk RUSH!",
       "excerpt": "Nerchio vs aLive in a very high level Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube The Secret Base: https://goo.gl/TYl28K  In this professional match of StarCraft the Zerg player scouts exactly what is going on and decides to quickly rush up to Ultralisks. However, the defense and",
@@ -822,36 +860,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-12-26T23:47:14-08:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-did-you-know-that-thors-should-beat-battlecruisers-diamond-in-the-ruff-73.md",
-      "title": "StarCraft 2 - Did you know that Thors should beat Battlecruisers? | Diamond in the Ruff #73",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-did-you-know-that-thors-should-beat-battlecruisers-diamond-in-the-ruff-73/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-did-you-know-that-thors-should-beat-battlecruisers-diamond-in-the-ruff-73/",
-      "originalUrl": "https://youtube.com/watch?v=JTWfS7F1_7U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JTWfS7F1_7U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M49S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JTWfS7F1_7U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-05-04T18:15:22-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-flo-maxed-out-upgrades-for-the-wrong-units-florencio-files-265.md",

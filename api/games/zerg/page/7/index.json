@@ -4,6 +4,37 @@
   "page": 7,
   "value": [
     {
+      "path": "_games/pig-a-genius-strategy-to-a-dumb-challenge-mouse-only-special-vs-cham-1-game-tvz-starcraft-2.md",
+      "title": "A Genius Strategy to a Dumb Challenge (Mouse ONLY) | Special vs Cham (1-game TvZ) - StarCraft 2",
+      "excerpt": "As part of PiG's Laboratory, I challenged pros to play with their mouse only (no keyboards!) to see what a pro StarCraft 2 game looks like with such a ridiculous rule. Here's Special (Terran) facing Cham (Zerg) trying it out! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-a-genius-strategy-to-a-dumb-challenge-mouse-only-special-vs-cham-1-game-tvz-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-a-genius-strategy-to-a-dumb-challenge-mouse-only-special-vs-cham-1-game-tvz-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=oBL0AwQhmdk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oBL0AwQhmdk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M53S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oBL0AwQhmdk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-13T19:57:43-07:00"
+    },
+    {
       "path": "_games/pig-how-quickly-can-reynor-dispose-of-noobs-part-2-holdout-challenge-starcraft-2.md",
       "title": "How quickly can REYNOR dispose of noobs? (Part 2) | Holdout Challenge - StarCraft 2",
       "excerpt": "In part 2, the noobs are actually Grandmaster players but since they're not pros they're still considered noobs to Reynor.  We paid Reynor to 1v1 noobs in StarCraft 2. The challenge: the noobs needed to stay in the match for as long as possible. How did they fare against an actual Zerg Championship player?",
@@ -964,44 +995,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-01T03:46:55-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-1000-iq-dark-templar.md",
-      "title": "StarCraft 2: 1000 IQ DARK TEMPLAR!",
-      "excerpt": "A really clever match of Protoss vs Protoss. Subscribe for more videos: http://lowko.tv/youtube Insane Protoss macro: https://goo.gl/kYVEow  Trap vs herO in a professional match of StarCraft 2 with commentary. While Trap gets a great position on his opponent, he didn't anticipate the 1000 IQ Dark Templar",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-1000-iq-dark-templar/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-1000-iq-dark-templar/",
-      "originalUrl": "https://youtube.com/watch?v=u_N23HnyN50",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u_N23HnyN50\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/u_N23HnyN50/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-05T23:33:50-08:00"
     }
   ],
   "nextPage": 8

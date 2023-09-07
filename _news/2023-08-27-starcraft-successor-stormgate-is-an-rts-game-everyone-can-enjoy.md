@@ -35,20 +35,6 @@ related:
       name: GameSpot
       domain: gamespot.com
     quality: 74
-  - title: "ZeroSpace Kickstarter rallies StarCraft pros for cinematic RTS"
-    excerpt: "ZeroSpace is crowdfunding for a brand new cinematic RTS that brings together some of StarCraft II's prominent pro players and creators."
-    publishedDateTime: 2023-08-18T16:01:00Z
-    webUrl: "https://venturebeat.com/games/zerospace-kickstarter-rallies-starcraft-pros-for-cinematic-rts/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 37
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Splash_Kickstarter.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "StarCraft successor Stormgate unveils self-sacrificing Infernal Host"
     excerpt: "Stormgate’s Infernal Host are a self-sacrificing, demonic alien race that spread a dangerous energy field called the Shroud, inspired by StarCraft’s Zerg Creep."
     publishedDateTime: 2023-08-22T19:34:00Z

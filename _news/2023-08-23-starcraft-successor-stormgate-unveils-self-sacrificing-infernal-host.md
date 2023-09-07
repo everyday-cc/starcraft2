@@ -35,20 +35,6 @@ related:
       name: GameSpot
       domain: gamespot.com
     quality: 74
-  - title: "ZeroSpace Kickstarter rallies StarCraft pros for cinematic RTS"
-    excerpt: "ZeroSpace is crowdfunding for a brand new cinematic RTS that brings together some of StarCraft II's prominent pro players and creators."
-    publishedDateTime: 2023-08-18T16:01:00Z
-    webUrl: "https://venturebeat.com/games/zerospace-kickstarter-rallies-starcraft-pros-for-cinematic-rts/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 37
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Splash_Kickstarter.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "StarCraft successor Stormgate is an RTS game everyone can enjoy"
     excerpt: "Stormgate, the upcoming RTS game from Warcraft 3 and StarCraft 2 veterans, aims to invite players of all experience and skill levels to enjoy it together."
     publishedDateTime: 2023-08-27T15:14:00Z

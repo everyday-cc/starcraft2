@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/starcraft-love-letter-stormgat
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-love-letter-stormgate-gets-new-trailer-with-second-playable-faction/1100-6517052/"
 type: article
 quality: 74
-heat: 134
+heat: 114
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "'ZeroSpace' Is A Cinematic Real-time Strategy Game By StarCraft Pro Players, Launches Kickstarter Campaign - Screens & Trailer"
-    excerpt: "ZeroSpace is a cinematic real-time strategy game with an epic sci-fi story where your decisions determine the fate of the galaxy."
-    publishedDateTime: 2023-08-18T23:59:00Z
-    webUrl: "https://www.worthplaying.com/article/2023/8/18/news/138723-zerospace-is-a-cinematic-real-time-strategy-game-by-starcraft-pro-players-launches-kickstarter-campaign-screens-trailer/"
-    type: article
-    provider:
-      name: Worth Playing
-      domain: worthplaying.com
-    quality: 0
 
 secured: "HEkgVyvwHCZsDZLduBC5Bj1Kz8nQTRV9gSYHvGeFLqEpA+q6YVSDbGTsuLz6M48ahl3yCt/bD/8NRPqEbprJ4ZDuPRUJnTam2D82SlqQJ/Txs1BrmjNfBUbN7h0/hdALrXBVkUk35R7o/7Q7RnRtx/Pp06XsE8qfYOT65HP5evK7Z0n6y1NOGa6TnFoDxm4Io1/JxYpkg0RHimxIkR67Kdkw9EEPUYO/DsL4DYgAiVHIxei047uheIlj3Dt2rfZLltTLGtKm2rYk7NDecvB6K/YWOi5rPH2/gXC36RasX1nOAKCuvvh9dSpdq/UMEOW24DLlknOn0UAJayhOBlrJYJg74buxlktQvnGTxFTuDQr2jcF0/f5qXcUiv4PaapQSiT2QicBFK35rFTzwCvkOuYN7VdW+CfckFnUeR1trGvCg814utlWOXfgjdnq3PJDh3larmFhoV/jpxJfuYuzrei51lrW7gH79YWxqXcaXlZ4FIm7uEfRE4ADFf5aPnFJu/AP+w8/ifCeo6dBkAYIxnA==;7ggDZJ4bL6qFrpc+6qNqNQ=="
 ---

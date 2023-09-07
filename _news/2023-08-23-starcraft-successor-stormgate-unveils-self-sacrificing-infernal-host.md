@@ -49,15 +49,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "'ZeroSpace' Is A Cinematic Real-time Strategy Game By StarCraft Pro Players, Launches Kickstarter Campaign - Screens & Trailer"
-    excerpt: "ZeroSpace is a cinematic real-time strategy game with an epic sci-fi story where your decisions determine the fate of the galaxy."
-    publishedDateTime: 2023-08-18T23:59:00Z
-    webUrl: "https://www.worthplaying.com/article/2023/8/18/news/138723-zerospace-is-a-cinematic-real-time-strategy-game-by-starcraft-pro-players-launches-kickstarter-campaign-screens-trailer/"
-    type: article
-    provider:
-      name: Worth Playing
-      domain: worthplaying.com
-    quality: 0
 
 secured: "c43Jhp5fy8Fva01lWvF5X3/d6NnjhKE1QjjewzuWYqUnC0dQ/nf4QP5c+/VXepUIDQY9ZmTh62HobFpZ7Wa2hqiY3xlNHXI2yAbPucVg97I+MWcA5K0BFWYhxXa80KGNhbYFwJCBtyxx0isVm/b5CrF8bDDcxfc3R03T1N+xzIhnIitLoVbz6h1Nwv/wFHij/yw3PhVqcbC7WdartEBdSyMxF4K2aN+JVmn8bntILG92oqxgqO0O0FMscKN6f4lHo8wt55BHb07ayGsGp1l5SYn5ZOjvCulbDnJ27ZyXxEl05pB3jV1p+ktTYUwdLoBE2w/B7cA4Af6u66GRh6EkLFHb5AvvvWFdSfbVPaQ1L76mnnrL/+Efk5eBoW3EgfYC20gKljbCBBZA5Zvap6YAL2vhLwb0rwJgj1yHpEKgJUIfe6rjM0b/+jWjZyJ85Y8aZ0aAtrDxcxgLmnIBVNFG1atU5AqqWzhIB/z1eQj++dhwghIPbm5e4s/5loR2slLNspv+LY/nsS9ifev448n5Dw==;xpFTx++Y7oxcy+ui8AYysA=="
 ---

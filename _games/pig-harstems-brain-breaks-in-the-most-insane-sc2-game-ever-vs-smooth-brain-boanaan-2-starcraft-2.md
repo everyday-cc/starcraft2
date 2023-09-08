@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=-ShGhFAKfmI
 type: video
 length: PT41M2S
 publishedDateTime: 2022-10-07T03:01:05Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-ShGhFAKfmI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "V1YeBub/8OZBRnKjgrojsGFibq2X+0bqTJplVPoZm+95U3BZJvvFF+IvdeY11QFfS9xDORQJfskUxwrZ1bt7AlegZjh+CWGF2ZigaRjQjGkt8Q/NVZDpu+wjp274HZTPQiXZ+xT8CUg7pr2JFNyl4xUv8Ebpr6k0giTzvgcyUBnb5rl787c9iFKMbgqO6PeLU/cWuqVYpuXlXA1JR3S6aIWT5/ulIDx2mt8QmOpR+1uzZAKl0FQjtxXVabXHEDfDbW55ygeGWGfxB+gKt3OrUrEnSBEiyEOWevm5hwayKhsIJq2OgXggibGMy/DGFLxV/XxjZvRO8RTQX5550Rg07hgsP4NmSlszhB8YmQ3SX/zhk63Xp54xa1eun1+uOA2hlDp5daGpSbc6QfPDCUYdCNAwh9wmRbiusQxy6DQLc2M=;0QYGJavkSe23RH+0hga1ag=="
+secured: "phzCARsNJUyjxDwwzskwlOefiswaHQtm2SYpYSVDURqbAQOtdTp+3ttAHH6IYFPAfo1HwZ4XiV8f5GQX3kDJKdeDyp4T3E3sxeyUmUlyalDUzNi6HMQuPvomATUZhkzAjgcAzbFwi3FFC//s3UmFheKheq/O+XjFFtxBhyGsknfpE1oE77BiCXEka3YOGLrfesqiajiTsUeyuwK8vd6X2PEAaM00YWKeg2VB4G5qIqlr9ZKtUtE+PhCGcSdwEKaApN4up9PCGVjdBs5OTexQnWDxbauIorJo6yO6B4DOw2IdGQP4iRjRXVpvwwa4LIfJMO9vHWYgl606tmEQ+cuA+rhyhKUh/Rxuvgh1WBID4DzGo3KxLvBqS9sxVfE0QufoQ/7RsDeyB9l+tIYDPbSdM16gnOSZHQTBjYpFrVClpxg=;MCTlUtthIJVNIdl1F/pr3w=="
 ---
 

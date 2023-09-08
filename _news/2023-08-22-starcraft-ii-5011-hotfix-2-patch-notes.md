@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/23987086/starcraft-ii-5
 webUrl: "https://news.blizzard.com/en-us/starcraft2/23987086/starcraft-ii-5-0-11-hotfix-2-patch-notes"
 type: article
 quality: 177
-heat: 202
+heat: 182
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 960
     height: 540
     isCached: true
-
-related:
-  - title: "1986 Starcraft Prices, Values and Specs"
-    excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
-    publishedDateTime: 2023-08-20T05:28:00Z
-    webUrl: "https://www.jdpower.com/rvs/1986/starcraft"
-    type: article
-    provider:
-      name: jdpower
-      domain: jdpower.com
-    quality: 17
 
 secured: "7Wlbt1tfTQDnLbMI/uKgNqKid23wxIbAIEy7+esYBeS6an9XKak3soSPX7jzVXpiHFzxLFCLT/YlIHqFRBkOpXLXHCqoOk8oZ2aAmDb0gXaNHzagvNmeb7pVaqBh4ofI/x7bddcLwqHHbFZkhmBfXRvas4Pg+5vGYv3JWbQROkFr55uoY0NDfampinnzKAQvedu+PnZl095jJz9DkXu6oOqtcxiWEua6XFkOLDOcOVOkJvxrxkeDdzm9kTOQfv6aeLJYkKQeEzBPc9tOovX6pbertNOBtdLCizKErEoOhxpmMezVaQf4GY4jeuwr0G5v/XwOWf5faWUKay0rAqlS0JG+Kyp1gEa7nR47dLnw4hU=;SzsvApYU3XM37Iq5I2lS3A=="
 ---

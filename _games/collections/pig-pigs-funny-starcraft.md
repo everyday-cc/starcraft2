@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 62
+heat: 61
 
 provider:
   name: PiG
@@ -1069,7 +1069,8 @@ items:
   - pig-how-is-this-madman-the-1-vietnamese-pro-mad-meo-starcraft-2
   - pig-salty-protoss-calls-out-pig-during-complete-meltdown-salt-mines-41-starcraft-2
   - pig-can-these-deranged-builds-take-down-a-grandmaster-mapetheape-vs-forgg-starcraft-2
-  - pig-when-they-mald-so-hard-they-forget-how-to-play-salt-mines-42-starcraft-2
+  - pig-when-they-rage-so-hard-they-forget-how-to-play-salt-mines-42-starcraft-2
+  - pig-are-the-balance-council-clowns-is-reddit-right-lets-find-out-rstarcraft2
 
 topics:
   - StarCraft 2

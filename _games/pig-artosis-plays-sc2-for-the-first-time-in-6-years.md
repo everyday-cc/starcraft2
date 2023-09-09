@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=cw3dxjXOas0
 type: video
 length: PT54M29S
 publishedDateTime: 2023-06-09T09:54:24Z
-heat: 60
+heat: 64
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cw3dxjXOas0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ZtjvQH4fnscR3it7qJu/7RuOBcy6Pn/Q7RrrUcoZHwuK7Ai+i0N3KsSjT4BeaWC8BEuYQTPuOGNXCfuJ1q5dbech8ED12Kqwv/X2XKoxVhfl4hwdYEugG3WzqyY9x1bpLeta77KKnuMj9OtaXF6NzI4yNEXyHWIzpacihhOuMlh465grRnxUZTAHpMjQynrvopVMYjLS4UM8CER5kJwb9Az5ex6AP8IK8P8v3jnQyr4efw2UzLxhOEGE6z5/vE9sT4HFwxISDC1brslQ4hn+q4O5rpx2yymaxe9fnhIXOSEir3uyDgHrwHQ4/4gdh1qffg96AOY4fTg5WwoTccoRsWXQAsGA9jk3gRH1B7ITTyOcs/cKGWuTmFGAAeqLmUPXUN9xsM6AryG8r82fr3FDLDhDE/XmVp9ng0jSkWoVHXc=;YpCAViGpJUaTUmR/wiBRAQ=="
+secured: "XsViviqgSQOlgJoI+9wm/b8KvoD92fTt3TNkNI+xq+uzQO7ZU9As9hyy5sYMlfImB80KMCXhke4WrILHP1wRdskc3wjR0XjM/sorJ2lKkH2zla+HjSaZsFn0LPz3RAufvslHp6RZDZSfABJGAUO3orJm0mHsftBVppAHaXlBIJ2ftmriG34sTRc1BEESmPdb3AEh9Bzr9Nhic8ys90U43H+oY+84jzklFEBA1YqoqDnYsGmVrN85ARd25NMWPTqhqd++bgdqu9HbPp6cczwx2gpaCaMjpXNRM7MmFX0d1+JCe08F1t29DdOnoi04b8eKk7c2g6A5qbGnOBzwleE3CWXlxqySHmA5TAJRCJPqxLdUJewenAbAf8uG/BQgmuWhzoP2QNCGu3YMp59L49kgv7oqRFRHKYV9CY0NO9+gGdk=;4lpPZl4EvMB8LB4I7M8pAA=="
 ---
 

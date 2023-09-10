@@ -274,6 +274,44 @@
       "publishedDateTime": "2021-12-27T04:58:41-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-domination-marus-brilliant-decisions-vs-ragnarok-best-of-5.md",
+      "title": "StarCraft 2: DOMINATION - Maru's BRILLIANT Decisions vs Ragnarok! (Best-of-5)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between Maru (Terran) and Ragnarok (Zerg). This series was played as part of the Korean StarCraft League (KSL) Summer Slam. In this match Maru controls the pace of the game brilliantly, as he forces Ragnarok to make decisions he would have rather not made. Support",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-domination-marus-brilliant-decisions-vs-ragnarok-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-domination-marus-brilliant-decisions-vs-ragnarok-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=sybR4v9h2-4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sybR4v9h2-4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M4S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 206,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sybR4v9h2-4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-09-09T00:49:48-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-epic-game-maru-the-medivac-magician.md",
       "title": "StarCraft 2: EPIC GAME - Maru, the Medivac Magician!",
       "excerpt": "Amazing game of top level StarCraft 2 between ByuN (Terran) and Maru (Terran). The current number 1 and number 2 Terrans on the planet. One of the best games of SC2 this year for sure.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
@@ -415,7 +453,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 130,
+      "heat": 122,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/NtD2vnq5rTY/maxresdefault.jpg",
@@ -427,44 +465,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-12-24T13:58:31-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-gumihos-battlecruisers-surprise-astrea.md",
-      "title": "StarCraft 2: Gumiho's BATTLECRUISERS Surprise Astrea!",
-      "excerpt": "Best-of-3 series from the Korean StarCraft League between Astrea (Protoss) and GuMiho (Terran). Both of these players are very creative with their decision making and strategies, and this series is no different. A very cheesy start catches Astrea off guard, but his quick Sentry rush helps him survive",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumihos-battlecruisers-surprise-astrea/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumihos-battlecruisers-surprise-astrea/",
-      "originalUrl": "https://youtube.com/watch?v=9_J48-YG6Xs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9_J48-YG6Xs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M57S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 128,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9_J48-YG6Xs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-08-25T04:00:16-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-classics-new-mass-robotics-style-vs-byun.md",
@@ -544,6 +544,44 @@
       "publishedDateTime": "2023-05-06T01:32:37-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-gumihos-battlecruisers-surprise-astrea.md",
+      "title": "StarCraft 2: Gumiho's BATTLECRUISERS Surprise Astrea!",
+      "excerpt": "Best-of-3 series from the Korean StarCraft League between Astrea (Protoss) and GuMiho (Terran). Both of these players are very creative with their decision making and strategies, and this series is no different. A very cheesy start catches Astrea off guard, but his quick Sentry rush helps him survive",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumihos-battlecruisers-surprise-astrea/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumihos-battlecruisers-surprise-astrea/",
+      "originalUrl": "https://youtube.com/watch?v=9_J48-YG6Xs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9_J48-YG6Xs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 116,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9_J48-YG6Xs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-08-25T04:00:16-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-75000-esl-masters-grand-finals-serral-vs-gumiho-best-of-7.md",
       "title": "StarCraft 2: $75000 ESL Masters GRAND FINALS - Serral vs GuMiho! (Best-of-7)",
       "excerpt": "Best-of-7 series of top level StarCraft 2 between Serral (Zerg) and GuMiho (Terran). This series is the grand finals of the ESL StarCraft 2 Masters Summer, a premier tournament with a total price pool of $75000.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
@@ -569,7 +607,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 112,
+      "heat": 111,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/YX4StuIsM_Q/maxresdefault.jpg",
@@ -581,6 +619,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-06-20T04:52:00-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-best-of-the-best-serral-vs-maru-wtl-finals-best-of-3.md",
+      "title": "StarCraft 2: THE BEST OF THE BEST - Serral vs Maru, WTL Finals! (Best-of-3)",
+      "excerpt": "Watch as two of the best StarCraft 2 players in the world, Serral and Maru, face off in a best-of-3 series that will keep you on the edge of your seat. Who will emerge victorious in this epic showdown from the WTL? Find out in this video! Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-best-of-the-best-serral-vs-maru-wtl-finals-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-best-of-the-best-serral-vs-maru-wtl-finals-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=X8zRfGowK2s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X8zRfGowK2s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M25S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 109,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/X8zRfGowK2s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-08-17T01:42:06-07:00"
     },
     {
       "path": "_games/lowkotv-gumihos-epic-battlecruiser-switch-surprises-astrea-starcraft-2.md",
@@ -699,45 +776,6 @@
       "publishedDateTime": "2023-05-19T01:44:05-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-best-of-the-best-serral-vs-maru-wtl-finals-best-of-3.md",
-      "title": "StarCraft 2: THE BEST OF THE BEST - Serral vs Maru, WTL Finals! (Best-of-3)",
-      "excerpt": "Watch as two of the best StarCraft 2 players in the world, Serral and Maru, face off in a best-of-3 series that will keep you on the edge of your seat. Who will emerge victorious in this epic showdown from the WTL? Find out in this video! Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-best-of-the-best-serral-vs-maru-wtl-finals-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-best-of-the-best-serral-vs-maru-wtl-finals-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=X8zRfGowK2s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X8zRfGowK2s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 103,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/X8zRfGowK2s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-08-17T01:42:06-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-new-base-layouts-gumiho-vs-solar-on-lazarus-wastes.md",
       "title": "StarCraft 2: NEW Base Layouts - GuMiho vs Solar on Lazarus Wastes!",
       "excerpt": "Lazarus Wastes is one of the winning maps in StarCraft 2 with the Team Liquid Map Contest 17 (TLMC17). Map is made by HoperONE and has a few unique features. The central terran is inspired by Dreamcatcher, a map from 2018. While the first four bases are standard, the remaining three for each player have",
@@ -840,7 +878,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 100,
+      "heat": 97,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/kz9M2uYcFyE/maxresdefault.jpg",
@@ -1069,14 +1107,14 @@
       "publishedDateTime": "2023-08-17T01:42:06-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-gumiho-makes-battlecruisers-look-overpowered-gsl-code-s.md",
-      "title": "StarCraft 2: GuMiho makes Battlecruisers look OVERPOWERED! (GSL Code S)",
-      "excerpt": "GuMiho vs Creator in a best-of-3 series of StarCraft 2 from the GSL Code S. This series shows a variety of build orders and strategies, with a heavy focus on Protoss aggression and Terran defense.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumiho-makes-battlecruisers-look-overpowered-gsl-code-s/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumiho-makes-battlecruisers-look-overpowered-gsl-code-s/",
-      "originalUrl": "https://youtube.com/watch?v=b3uOdzu31pM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b3uOdzu31pM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M7S",
+      "path": "_games/lowkotv-starcraft-2-sos-double-gold-rush-vs-innovation-best-of-7.md",
+      "title": "StarCraft 2: sOs' DOUBLE GOLD Rush vs INnoVation! (Best-of-7)",
+      "excerpt": "Best-of-7 series of high level StarCraft 2 between sOs and INnoVation. This series has a variety of macro and cheese, and is the first return of sOs after he recently completed his military service in South Korea.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-sos-double-gold-rush-vs-innovation-best-of-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-sos-double-gold-rush-vs-innovation-best-of-7/",
+      "originalUrl": "https://youtube.com/watch?v=qbGglcnGcUE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qbGglcnGcUE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H6M20S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1091,12 +1129,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Terran",
+        "Protoss"
       ],
-      "heat": 76,
+      "heat": 79,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/b3uOdzu31pM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qbGglcnGcUE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1104,45 +1143,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-07-14T03:05:08-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-zero-workers-clem-non-stop-cheese-vs-byun.md",
-      "title": "StarCraft 2: ZERO WORKERS - Clem NON-STOP CHEESE vs ByuN!",
-      "excerpt": "Professional match of StarCraft 2 (SC2) between ByuN and Clem. This Terran vs Terran is the finals of the ESL Open Cup 183. An amazing series where Clem won't stop cheesing ByuN. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zero-workers-clem-non-stop-cheese-vs-byun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zero-workers-clem-non-stop-cheese-vs-byun/",
-      "originalUrl": "https://youtube.com/watch?v=jhbEkxqRC7s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jhbEkxqRC7s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 76,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jhbEkxqRC7s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-12T04:45:37-07:00"
+      "publishedDateTime": "2023-03-20T05:03:10-07:00"
     }
   ],
   "nextPage": 2

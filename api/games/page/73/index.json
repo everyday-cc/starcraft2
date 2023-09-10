@@ -273,6 +273,36 @@
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
     },
     {
+      "path": "_games/pig-pros-suck-at-defending-cannon-rushes-starcraft-2.md",
+      "title": "Pros SUCK at Defending Cannon Rushes! - StarCraft 2",
+      "excerpt": "Why do SC2 Pros struggle against Cannon Rushes so much!? -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-pros-suck-at-defending-cannon-rushes-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-pros-suck-at-defending-cannon-rushes-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=W26kBWYez7I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W26kBWYez7I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M8S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/W26kBWYez7I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-14T02:52:19-07:00"
+    },
+    {
       "path": "_games/pig-protect-the-ozone-layer-1-gasbase-icyfar-g1-2-the-pig-daily-160.md",
       "title": "Protect the Ozone Layer - 1 Gas/Base - ICYFAR - G1-2 The PiG Daily #160",
       "excerpt": "In today’s ICYFAR players were challenged to help protect the ozone layer by reducing vespene emissions in the Koprulu Sector by 50%! They were allowed to only take 1 gas at each base and had to adapt to a much lower gas economy. \r \r ICYFAR is “I Cast Your Freakin Awesome Replays” where there’s a weekly",
@@ -885,38 +915,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-04-24T04:00:16-07:00"
-    },
-    {
-      "path": "_games/pig-raining-death-mass-mine-tvp-twitch-plays-pig-16.md",
-      "title": "Raining Death - Mass Mine TvP | Twitch Plays PiG #16",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-raining-death-mass-mine-tvp-twitch-plays-pig-16/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-raining-death-mass-mine-tvp-twitch-plays-pig-16/",
-      "originalUrl": "https://youtube.com/watch?v=SxIPkRjMKtU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SxIPkRjMKtU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M43S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SxIPkRjMKtU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-08-18T07:28:43-07:00"
     }
   ],
   "nextPage": 74

@@ -4,118 +4,6 @@
   "page": 46,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-overlord-drops-bo5.md",
-      "title": "StarCraft 2: OVERLORD DROPS! (Bo5)",
-      "excerpt": "An awesome best-of-5 series of professional Zerg vs Protoss. Subscribe for more videos: http://lowko.tv/youtube Drone rush vs Drone rush: https://goo.gl/GsDVVk  In this series between PtitDrogo and Reynor we see a variety of strategies. While Drogo mostly goes for similar unit compositions, it is Reynor",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-overlord-drops-bo5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-overlord-drops-bo5/",
-      "originalUrl": "https://youtube.com/watch?v=K4TyE0jcLac",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K4TyE0jcLac\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M15S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/K4TyE0jcLac/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-10-03T04:22:02-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-overwhelming-the-opponent.md",
-      "title": "StarCraft 2: OVERWHELMING THE OPPONENT!",
-      "excerpt": "An epic macro game of Zerg vs Terran in Starcraft 2. Subscribe for more videos: http://lowko.tv/youtube The Best Protoss unit: https://goo.gl/VC5o1i  Stephano vs TIME in a professional game of StarCraft 2. Both players try to out multitasking each other with both micro and macro. TIME shows some phenomenal",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-overwhelming-the-opponent/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-overwhelming-the-opponent/",
-      "originalUrl": "https://youtube.com/watch?v=Jt4Izu_6XCw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jt4Izu_6XCw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M44S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Jt4Izu_6XCw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-09-13T02:47:43-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-parting-bowls-a-strike-best-of-5-vs-clem.md",
-      "title": "StarCraft 2: PartinG Bowls A STRIKE! (Best-of-5 vs Clem)",
-      "excerpt": "Clem versus PartinG in a best-of-5 series of top level StarCraft 2.   Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-parting-bowls-a-strike-best-of-5-vs-clem/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-parting-bowls-a-strike-best-of-5-vs-clem/",
-      "originalUrl": "https://youtube.com/watch?v=2MktB2LSerY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2MktB2LSerY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H5M40S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2MktB2LSerY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-08-20T03:59:37-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-parting-feels-cheesy-best-of-3.md",
       "title": "StarCraft 2: PartinG Feels CHEESY! (Best-of-3)",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between PartinG and Ragnarok. In this particular series PartinG is feeling cheesy as he opens up as aggressively as possible versus his Zerg opponent.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -688,6 +576,44 @@
       "publishedDateTime": "2018-07-06T04:04:57-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-planetary-problems-florencio.md",
+      "title": "StarCraft 2: PLANETARY PROBLEMS! (Florencio)",
+      "excerpt": "Fun game of Terran versus Zerg in StarCraft 2 submited by Florencio. Florencio decides to go for an aggressive Planetary Fortress rush.  Florencio on Twitch: http://twitch.tv/florenciosc  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-planetary-problems-florencio/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-planetary-problems-florencio/",
+      "originalUrl": "https://youtube.com/watch?v=SOyIjRfiqDg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SOyIjRfiqDg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M59S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SOyIjRfiqDg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-18T11:25:36-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-plantetary-fortress-push.md",
       "title": "StarCraft 2: PLANTETARY FORTRESS PUSH!",
       "excerpt": "I guess we call that... Planetary Fortress value? Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/5H4Xq7  Planetary Fortresses are usually only made when defending a third or fourth base. However, if you manage to use it offensively it is extremely powerful.",
@@ -834,14 +760,14 @@
       "publishedDateTime": "2023-02-02T04:04:49-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-pro-2v2-mech-skytoss-wars.md",
-      "title": "StarCraft 2: PRO 2v2 - Mech & SkyToss Wars!",
-      "excerpt": "Professional match of 2v2 (2 versus 2) in StarCraft 2 between SpeCial (Terran) and Astrea (Protoss) versus Kelazhur (Terran) and MaxPax (Protoss). A close game with proxy Battlecruisers, and maxed out Sky Toss armies.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-2v2-mech-skytoss-wars/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-pro-2v2-mech-skytoss-wars/",
-      "originalUrl": "https://youtube.com/watch?v=OifLRfD8laQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OifLRfD8laQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M33S",
+      "path": "_games/lowkotv-starcraft-2-pro-build-darks-100-muta-army-vs-creator-best-of-3.md",
+      "title": "StarCraft 2: PRO BUILD - Dark's 100+ Muta Army vs Creator! (Best-of-3)",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 between Dark (Zerg) and Creator (Protoss).  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips    Twitch livestream: https://twitch.tv/lowkotv Live most days 2-8 PM CET / CEST  The",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-build-darks-100-muta-army-vs-creator-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-pro-build-darks-100-muta-army-vs-creator-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=5EhosW05La0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5EhosW05La0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M42S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -855,12 +781,14 @@
         ]
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/OifLRfD8laQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/5EhosW05La0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -868,7 +796,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-04-15T04:33:20-07:00"
+      "publishedDateTime": "2023-03-22T08:15:46-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-pro-gamer-drama.md",
@@ -1134,6 +1062,81 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-07-08T13:00:23-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-professional-2v2-team-game.md",
+      "title": "StarCraft 2: PROFESSIONAL 2V2! (Team Game)",
+      "excerpt": "Cure and Trap vs uThermal and Elazer in 2v2 in StarCraft 2! Subscribe for more videos: http://lowko.tv/youtube Epic archon match: https://goo.gl/echvbd  Not something I usually get to cast! In this video I give commentary to a professional team game in StarCraft 2.  Check out Lowko merchandise: http://lowko.tv/merch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-professional-2v2-team-game/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-professional-2v2-team-game/",
+      "originalUrl": "https://youtube.com/watch?v=QJM7wa9N7-4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QJM7wa9N7-4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M29S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QJM7wa9N7-4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-01-14T04:10:23-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-professional-bronze-league-heroes-clem-vs-creator.md",
+      "title": "StarCraft 2: PROFESSIONAL Bronze League Heroes?! (Clem vs Creator)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between Creator (Protoss) and Clem (Terran). Creator feels sneaky and decides to proxy Dark Shrines. Can Clem find them in time?  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-professional-bronze-league-heroes-clem-vs-creator/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-professional-bronze-league-heroes-clem-vs-creator/",
+      "originalUrl": "https://youtube.com/watch?v=HUI8SQtrmyI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HUI8SQtrmyI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M16S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HUI8SQtrmyI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-05-09T12:04:58-07:00"
     }
   ],
   "nextPage": 47

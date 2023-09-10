@@ -4,37 +4,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_learning/videos/pig-midgame-or-die-trying-coaching-m1-zerg.md",
-      "title": "Midgame Or Die Trying! | Coaching M1 Zerg",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-midgame-or-die-trying-coaching-m1-zerg/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-midgame-or-die-trying-coaching-m1-zerg/",
-      "originalUrl": "https://youtube.com/watch?v=MerK1plElX8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MerK1plElX8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H20M44S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-06-05T09:00:18-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MerK1plElX8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-mine-drop-marine-pressure-opening-diamond-tvp-coaching-session.md",
       "title": "Mine drop + marine pressure opening - Diamond TvP Coaching session",
       "excerpt": "There is like a solid 10 min of strategy talk at the start, if you are not interested feel free to skip this ;)   Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live",
@@ -928,6 +897,36 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-qxc-youve-probably-heard-of-me-origins-explained.md",
+      "title": "qxc \"You've probably heard of me\" origins explained",
+      "excerpt": "QXC explains the sign \"I'm QXC, you've probably heard of me\" -- Recorded live on Justin.tv - http://j-tv.me/jsdJyy",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-qxc-youve-probably-heard-of-me-origins-explained/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-qxc-youve-probably-heard-of-me-origins-explained/",
+      "originalUrl": "https://youtube.com/watch?v=VMPKT2hcpNE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VMPKT2hcpNE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M5S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-09-16T23:00:12-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VMPKT2hcpNE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
       ]
     }
   ],

@@ -66,37 +66,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023.md",
-      "title": "Standard Terran vs Terran | Build Order Guide (2023)",
-      "excerpt": "Rock Solid Terran vs Terran Build Order that will keep you safe early game & allow you to build a large economy without dieing too easily. It's not the easiest build order, but it's worth learning with how powerful it is in this matchup!  Standard Terran vs Terran | Build Order Guide (2023) #terran",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023/",
-      "originalUrl": "https://youtube.com/watch?v=eaa-Trta5hY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eaa-Trta5hY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M7S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2023-01-09T15:08:45-08:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eaa-Trta5hY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-terran-vs-terrantvt-build-order-guide-easy-safe-starcraft-2-2020.md",
       "title": "Terran vs Terran(TvT) Build Order Guide - EASY & SAFE [Starcraft 2 2020]",
       "excerpt": "In today's guide/lesson we're looking at how to execute a terran vs terran (tvt) build order. Was supposed to be just the opening but I got a little carried away so you're getting 19 minutes of raw TvT information. Get out your notepads ;)  #BuildOrder #TerranVsTerran #TvT Terran vs Terran(TvT) Build",
@@ -114,6 +83,68 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/CupNHJotqmQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023.md",
+      "title": "Standard Terran vs Terran | Build Order Guide (2023)",
+      "excerpt": "Rock Solid Terran vs Terran Build Order that will keep you safe early game & allow you to build a large economy without dieing too easily. It's not the easiest build order, but it's worth learning with how powerful it is in this matchup!  Standard Terran vs Terran | Build Order Guide (2023) #terran",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-standard-terran-vs-terran-build-order-guide-2023/",
+      "originalUrl": "https://youtube.com/watch?v=eaa-Trta5hY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eaa-Trta5hY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M7S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2023-01-09T15:08:45-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eaa-Trta5hY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021.md",
+      "title": "Starcraft 2: Terran vs Protoss Gameplay with Commentary [2021]",
+      "excerpt": "In today's video we're looking at some Starcraft 2: Terran vs Protoss gameplay. We'll be covering TvP all week. Let's get to it!  0:00 - Intro/Cinematic 1:12 - SC2 Terran Gameplay  19:00 - Like/Share/Subscribe!  #terran #gameplay #Starcraft2 #ladder #commentary Starcraft 2: Terran vs Protoss Gameplay",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021/",
+      "originalUrl": "https://youtube.com/watch?v=YS3zcgrN5IE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YS3zcgrN5IE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M56S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-01-15T18:18:51-08:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YS3zcgrN5IE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -149,7 +180,7 @@
         ]
       },
       "publishedDateTime": "2021-04-28T02:19:50-07:00",
-      "heat": 57,
+      "heat": 55,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/rGa7TwyZa_4/maxresdefault.jpg",
@@ -168,37 +199,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021.md",
-      "title": "Starcraft 2: Terran vs Protoss Gameplay with Commentary [2021]",
-      "excerpt": "In today's video we're looking at some Starcraft 2: Terran vs Protoss gameplay. We'll be covering TvP all week. Let's get to it!  0:00 - Intro/Cinematic 1:12 - SC2 Terran Gameplay  19:00 - Like/Share/Subscribe!  #terran #gameplay #Starcraft2 #ladder #commentary Starcraft 2: Terran vs Protoss Gameplay",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021/",
-      "originalUrl": "https://youtube.com/watch?v=YS3zcgrN5IE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YS3zcgrN5IE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M56S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-01-15T18:18:51-08:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YS3zcgrN5IE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-very-powerful-3-rax-attack-terran-build-order-guide-2021.md",
       "title": "Very Powerful 3 Rax Attack | Terran Build Order Guide (2021)",
       "excerpt": "This is a super strong & really fun Starcraft 2 Terran build order that I've been playing in my TvP's almost exclusively. You get right into the action super fast and it's very difficult for protoss to defend your first push never mind the second one. ` Very Powerful 3 Rax Attack | Terran Build Order",
@@ -212,49 +212,10 @@
         "domain": "hushangcoaching.com"
       },
       "publishedDateTime": "2021-10-20T23:24:37-07:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RhFvVHWc6x8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-co-op-swarming-infested-terran-stukov-guide.md",
-      "title": "StarCraft 2 Co-op: SWARMING INFESTED TERRAN! (Stukov Guide)",
-      "excerpt": "A guide on how to play Stukov and swarm the map with the infested. Subscribe for more videos: http://lowko.tv/youtube More co-op: https://goo.gl/08VRI9  Stukov is an incredibly powerful commander in the co-op version of StarCraft 2. After leveling him up to level 15 I figured out several great unit compositions",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-co-op-swarming-infested-terran-stukov-guide/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-co-op-swarming-infested-terran-stukov-guide/",
-      "originalUrl": "https://youtube.com/watch?v=OwowRArz5Do",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OwowRArz5Do\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M1S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-12-16T08:09:20-08:00",
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/OwowRArz5Do/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/RhFvVHWc6x8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -348,6 +309,76 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hp5Ap6rdxfE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-co-op-swarming-infested-terran-stukov-guide.md",
+      "title": "StarCraft 2 Co-op: SWARMING INFESTED TERRAN! (Stukov Guide)",
+      "excerpt": "A guide on how to play Stukov and swarm the map with the infested. Subscribe for more videos: http://lowko.tv/youtube More co-op: https://goo.gl/08VRI9  Stukov is an incredibly powerful commander in the co-op version of StarCraft 2. After leveling him up to level 15 I figured out several great unit compositions",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-co-op-swarming-infested-terran-stukov-guide/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-co-op-swarming-infested-terran-stukov-guide/",
+      "originalUrl": "https://youtube.com/watch?v=OwowRArz5Do",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OwowRArz5Do\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M1S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-12-16T08:09:20-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OwowRArz5Do/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020.md",
+      "title": "Learn Starcraft 2: Terran Build Order - EASY & SAFE [Starcraft 2 2020]",
+      "excerpt": "In today's guide/lesson we're looking at how to execute a terran vs terran (tvt) build order. Was supposed to be just the opening but I got a little carried away so you're getting 19 minutes of raw TvT information. Get out your notepads ;)  #BuildOrder #TerranVsTerran #TvT Terran vs Terran(TvT) Build",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020/",
+      "originalUrl": "https://youtube.com/watch?v=CupNHJotqmQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CupNHJotqmQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M42S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-12-08T18:09:09-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CupNHJotqmQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -511,37 +542,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/tccZgx9HqXo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020.md",
-      "title": "Learn Starcraft 2: Terran Build Order - EASY & SAFE [Starcraft 2 2020]",
-      "excerpt": "In today's guide/lesson we're looking at how to execute a terran vs terran (tvt) build order. Was supposed to be just the opening but I got a little carried away so you're getting 19 minutes of raw TvT information. Get out your notepads ;)  #BuildOrder #TerranVsTerran #TvT Terran vs Terran(TvT) Build",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020/",
-      "originalUrl": "https://youtube.com/watch?v=CupNHJotqmQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CupNHJotqmQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M42S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-12-08T18:09:09-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CupNHJotqmQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

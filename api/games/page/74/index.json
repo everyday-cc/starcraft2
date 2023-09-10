@@ -4,36 +4,6 @@
   "page": 74,
   "value": [
     {
-      "path": "_games/pig-roaches-gone-wild-encirclement-icyfar-g3.md",
-      "title": "Roaches gone Wild - Encirclement ICYFAR G3",
-      "excerpt": "CURRENT ICYFAR CHALLENGE:\"Blast from the Past\" - Send in your best replays playing old Heart of the swarm, Wings of Liberty or Brood War Strats! Type !icyfar in my twitch chat (even when I’m not live) and it’ll show you the current challenge and where to send your replays https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-roaches-gone-wild-encirclement-icyfar-g3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-roaches-gone-wild-encirclement-icyfar-g3/",
-      "originalUrl": "https://youtube.com/watch?v=nQoD0osLCkM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nQoD0osLCkM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M45S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nQoD0osLCkM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
       "path": "_games/pig-ruffs-creative-rush-diamond-in-the-ruff-31-starcraft-2.md",
       "title": "RUFF'S CREATIVE RUSH | Diamond in the Ruff #31 - StarCraft 2",
       "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. What will he pull out of the hat against his Protoss opponent?  Check out all episodes of 💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l Follow Ruff: https://www.twitch.tv/ruff13",
@@ -527,6 +497,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-simple-nexus-recall-trick-fools-opponent-mape-the-ape-3-starcraft-2.md",
+      "title": "SIMPLE Nexus Recall Trick FOOLS Opponent | Mape the Ape #3 - StarCraft 2",
+      "excerpt": "When Maplez met Honmono on the ladder, sewer mermaid strategies ensued. -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-simple-nexus-recall-trick-fools-opponent-mape-the-ape-3-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-simple-nexus-recall-trick-fools-opponent-mape-the-ape-3-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=Co1VFTUgzcI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Co1VFTUgzcI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M26S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Co1VFTUgzcI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-06T14:50:04-07:00"
     },
     {
       "path": "_games/pig-single-probe-contains-4-players-sneaky-sneaky-kaelaris-icyfar-g2.md",

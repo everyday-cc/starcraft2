@@ -24,30 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "StarCraft Love Letter Stormgate Gets New Trailer With Second Playable Faction"
-    excerpt: "Stormgate players will be able to command hellish hordes against humanity's armies when the game arrives in 2024."
-    publishedDateTime: 2023-08-22T19:35:00Z
-    webUrl: "https://www.gamespot.com/articles/starcraft-love-letter-stormgate-gets-new-trailer-with-second-playable-faction/1100-6517052/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/starcraft-love-letter-stormgate-gets-new-trailer-with-second-playable-faction/1100-6517052/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-love-letter-stormgate-gets-new-trailer-with-second-playable-faction/1100-6517052/"
+  - title: "Free RTS From StarCraft 2 Devs Reveals Trailer at Gamescom"
+    excerpt: "Yesterday's show Gamescom Opening Night Live 2023 was densely packed with video footage of upcoming games. One of them is a new trailer for Stormgate, an RTS being developed by Frost Giant, a studio founded by Blizzard veterans - including people who played key roles in the development of such productions as Warcraft III or StarCraft 2."
+    publishedDateTime: 2023-08-23T11:34:00Z
+    webUrl: "https://www.gamepressure.com/newsroom/stormgate-new-trailer-for-f2p-rts-from-blizzard-veterans/zd5dbb"
     type: article
     provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 74
-  - title: "StarCraft successor Stormgate unveils self-sacrificing Infernal Host"
-    excerpt: "Stormgate’s Infernal Host are a self-sacrificing, demonic alien race that spread a dangerous energy field called the Shroud, inspired by StarCraft’s Zerg Creep."
-    publishedDateTime: 2023-08-22T19:34:00Z
-    webUrl: "https://www.pcgamesn.com/stormgate/infernal-host"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
+      name: XCOM 2 Game Guide
+      domain: gamepressure.com
     quality: 37
     images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/08/stormgate-infernal-host-faction-reveal-gamescom-imp.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.gracza.pl/i_gp/h/22/430489102.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "RJD6I+cjywdd9b+BhK6QfFtE6zrAxUEIHShNv93vDxNRD4EWDDFizAb8+Opv7M5Y2By9c2tjmS0XfKsxY6OXlJ4MMiE6Kp71y0IuLqnGNtKJmMy+vkA11cnDLsn1Y67TuO9/9fi9lrqiZDjX7vz9JGQoMRpBboIJXSGYLok34XNlvK12bm36pQnzU0z87fQ43m7k2Tt5mISocUz1yHVMC9ScFhLiwJCK7QkNhVKl+g4NfpHV4CNUfJ+MF3RS12yejfAjFmwPMLxOzDnl7UcRXv+/1hmXkAbIYULM4M3HTunEgN+P4Sn5JjoUcNJh3hTn6F6E0PCQ9qPytvPq5IAJMi45ge5TibFpOuwVNVFOkpLUZIeN/NtPJKopRpF4CqV3Ss79bLoN59glImPE+3dy6Hk+TvFw7l5UGytwVyBZKB6ACfGBMqkFZ7Ft5BeHdHcwGzDLQtuUayc7AorR61Tj3D6qh1G/VYDVXzAcr16FnosJv8b3q+SEz4wFhjPfU8Lx2dvSM9veULXohCW8U6jJAw==;WiU7hjwWeyr8FWp9L2AZmA=="

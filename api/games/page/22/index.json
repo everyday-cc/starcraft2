@@ -4,14 +4,14 @@
   "page": 22,
   "value": [
     {
-      "path": "_games/beastyqtsc2-starcraft-2-mass-marines-mass-drops.md",
-      "title": "StarCraft 2: MASS Marines MASS Drops!",
+      "path": "_games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster.md",
+      "title": "StarCraft 2: MASS Marines to Grandmaster!",
       "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-mass-drops/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-mass-drops/",
-      "originalUrl": "https://youtube.com/watch?v=e06Mf8oU41E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e06Mf8oU41E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M11S",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=dTWvlG6Lork",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dTWvlG6Lork\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M15S",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -26,7 +26,7 @@
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/e06Mf8oU41E/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/dTWvlG6Lork/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -34,7 +34,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-09-18T03:20:11-07:00"
+      "publishedDateTime": "2019-09-14T04:35:04-07:00"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-mass-marines-vs-colossus.md",

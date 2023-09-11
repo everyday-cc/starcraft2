@@ -447,6 +447,44 @@
       "publishedDateTime": "2022-06-01T01:22:54-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-premier-tournament-grand-finals-serral-vs-maxpax-best-of-7.md",
+      "title": "StarCraft 2: Premier Tournament GRAND FINALS - Serral vs MaxPax! (Best-of-7)",
+      "excerpt": "Grand Finals of the ESL StarCraft 2 Masters Summer: European regionals. This is a best-of-7 series of top level StarCraft 2 between Serral (Zerg) and MaxPax (Protoss). The number 1 Protoss and Zerg player in the world at the moment. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-premier-tournament-grand-finals-serral-vs-maxpax-best-of-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-premier-tournament-grand-finals-serral-vs-maxpax-best-of-7/",
+      "originalUrl": "https://youtube.com/watch?v=l3L6kBCAuRw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l3L6kBCAuRw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H29M52S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 144,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/l3L6kBCAuRw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-23T05:23:22-07:00"
+    },
+    {
       "path": "_games/pig-redacted-how-long-can-regular-players-last-vs-harstem-part-2-holdout-challenge-starcraft-2.md",
       "title": "(REDACTED) How long can regular players LAST vs HARSTEM? (Part 2) | Holdout Challenge - StarCraft 2",
       "excerpt": "We got Harstem to 1v1 noobs in StarCraft 2. The challenge: the noobs needed to stay in the match for as long as possible. How did they fare against the Captain?  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j  Holdout Scoresheet: https://docs.google.com/spreadsheets/d/14aDGMP3BEQOADiL-6muUoi6P6hbSY8_vJ_HCOIiqPqI/edit#gid=1811179909",
@@ -542,44 +580,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-05-24T10:42:53-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-premier-tournament-grand-finals-serral-vs-maxpax-best-of-7.md",
-      "title": "StarCraft 2: Premier Tournament GRAND FINALS - Serral vs MaxPax! (Best-of-7)",
-      "excerpt": "Grand Finals of the ESL StarCraft 2 Masters Summer: European regionals. This is a best-of-7 series of top level StarCraft 2 between Serral (Zerg) and MaxPax (Protoss). The number 1 Protoss and Zerg player in the world at the moment. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-premier-tournament-grand-finals-serral-vs-maxpax-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-premier-tournament-grand-finals-serral-vs-maxpax-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=l3L6kBCAuRw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l3L6kBCAuRw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H29M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 143,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/l3L6kBCAuRw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-23T05:23:22-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-what-he-loses-with-a-25k-bank-dark-vs-soo.md",
@@ -847,7 +847,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 130,
+      "heat": 129,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/D9G5nCxXZW4/maxresdefault.jpg",
@@ -882,14 +882,14 @@
       "publishedDateTime": "2022-08-24T19:41:45-07:00"
     },
     {
-      "path": "_games/lowkotv-reynor-vs-cure-the-ultimate-starcraft-2-showdown.md",
-      "title": "Reynor vs Cure: The ULTIMATE StarCraft 2 Showdown!",
-      "excerpt": "This video features the amazing performance of Reynor and Cure, two of the top SC2 players in the world, as they clash in a series of intense and exciting games. Witness their incredible micro, macro, and decision-making as they push each other to the limit. This is StarCraft 2 at its best! Support my",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-reynor-vs-cure-the-ultimate-starcraft-2-showdown/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-reynor-vs-cure-the-ultimate-starcraft-2-showdown/",
-      "originalUrl": "https://youtube.com/watch?v=tHasSQyjMWc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tHasSQyjMWc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M10S",
+      "path": "_games/lowkotv-starcraft-2-amazing-match-reynor-showtimes-zerg-vs-protoss-insanity.md",
+      "title": "StarCraft 2: AMAZING MATCH - Reynor & ShoWTimE's Zerg vs Protoss Insanity!",
+      "excerpt": "Reynor vs ShoWTimE in an amazing match of top level StarCraft 2. This is definitely one of the best games of 2023 so far. This SC2 match was played during HomeStory Cup 23. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-amazing-match-reynor-showtimes-zerg-vs-protoss-insanity/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-amazing-match-reynor-showtimes-zerg-vs-protoss-insanity/",
+      "originalUrl": "https://youtube.com/watch?v=RMrA78emlEU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RMrA78emlEU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M10S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -904,12 +904,13 @@
       },
       "topics": [
         "StarCraft 2",
+        "Protoss",
         "Zerg"
       ],
-      "heat": 122,
+      "heat": 125,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tHasSQyjMWc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/RMrA78emlEU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -917,7 +918,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-07-17T02:46:07-07:00"
+      "publishedDateTime": "2023-07-03T08:31:38-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
@@ -945,7 +946,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 122,
+      "heat": 124,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/NtD2vnq5rTY/maxresdefault.jpg",
@@ -959,14 +960,14 @@
       "publishedDateTime": "2021-12-24T13:58:31-08:00"
     },
     {
-      "path": "_games/lowkotv-bring-snacks-this-match-between-cure-and-classic-is-awesome-starcraft-2.md",
-      "title": "Bring Snacks. This Match between Cure and Classic is AWESOME! (StarCraft 2)",
-      "excerpt": "One of the best games of StarCraft 2 this year. Cure vs Classic from Gamers8. Both pro gamers try to end this SC2 match as quickly as possible by  being in the opponents face the entire time, but neither of them gets the job done in the early game. A chaotic game with multiple base races ensues. Support",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-bring-snacks-this-match-between-cure-and-classic-is-awesome-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-bring-snacks-this-match-between-cure-and-classic-is-awesome-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=LH3AKAuS1X0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LH3AKAuS1X0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M33S",
+      "path": "_games/lowkotv-starcraft-2-gumihos-battlecruisers-surprise-astrea.md",
+      "title": "StarCraft 2: Gumiho's BATTLECRUISERS Surprise Astrea!",
+      "excerpt": "Best-of-3 series from the Korean StarCraft League between Astrea (Protoss) and GuMiho (Terran). Both of these players are very creative with their decision making and strategies, and this series is no different. A very cheesy start catches Astrea off guard, but his quick Sentry rush helps him survive",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumihos-battlecruisers-surprise-astrea/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumihos-battlecruisers-surprise-astrea/",
+      "originalUrl": "https://youtube.com/watch?v=9_J48-YG6Xs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9_J48-YG6Xs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M57S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -981,12 +982,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Terran"
       ],
-      "heat": 119,
+      "heat": 121,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/LH3AKAuS1X0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9_J48-YG6Xs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -994,7 +995,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-08-19T02:15:32-07:00"
+      "publishedDateTime": "2023-08-25T04:00:16-07:00"
     }
   ],
   "nextPage": 3

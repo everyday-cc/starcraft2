@@ -4,6 +4,36 @@
   "page": 68,
   "value": [
     {
+      "path": "_games/pig-how-quickly-can-scarlett-destroy-maphackers-part-3-holdout-challenge-starcraft-2.md",
+      "title": "How quickly can SCARLETT destroy MAPHACKERS? (Part 3) | Holdout Challenge - StarCraft 2",
+      "excerpt": "We paid Scarlett to do the Maphacker Challenge - like a Holdout Challenge, but noobs now have MAPHACKS!  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-scarlett-destroy-maphackers-part-3-holdout-challenge-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-scarlett-destroy-maphackers-part-3-holdout-challenge-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=pZ54HXvS2VY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pZ54HXvS2VY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pZ54HXvS2VY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-05T18:29:52-07:00"
+    },
+    {
       "path": "_games/pig-how-to-beat-the-1v7-insane-ai-challenge-2-starcraft-2.md",
       "title": "How to beat the 1v7 INSANE AI Challenge #2 - StarCraft 2",
       "excerpt": "I have challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! Serral has said it is impossible unless maybe they're all Zergs. After Spirit (Soul) tried it first, the next person brave enough to try it is PiLiPiLi, a Protoss player. He took on 7 Random insane AIs all on Any Build.",
@@ -235,6 +265,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
+      "path": "_games/pig-i-challenged-myself-to-do-the-fastest-bcs-ever-pigs-filthy-adventures-16-starcraft-2.md",
+      "title": "I challenged myself to do the FASTEST BCs EVER | PiG's Filthy Adventures #16 - StarCraft 2",
+      "excerpt": "After the success of my Fastest Nydus Swarm Host build, I wanted to see if I could replicate it with the Fastest Battlecruisers Ever. This is NOT effective at all, so can I actually steal anyone's MMR with it?  If you want my build notes they're in The Book of Filth 2.0: https://docs.google.com/document/d/1GbpZ-qjoUQ42ZwVsmk3cYgLZ1WYNcLc9l6KUo-Zuudk/edit?usp=sharing",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-i-challenged-myself-to-do-the-fastest-bcs-ever-pigs-filthy-adventures-16-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-i-challenged-myself-to-do-the-fastest-bcs-ever-pigs-filthy-adventures-16-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=DuMf0eD4pD8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DuMf0eD4pD8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M9S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DuMf0eD4pD8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-20T20:09:15-07:00"
     },
     {
       "path": "_games/pig-i-dont-know-how-i-lost-to-this-make-broodwar-great-again-icyfar-g1.md",
@@ -827,66 +886,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/AIWQcyEYTJE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-icyfar-an-ode-to-byun-sick-micro-g3-the-pig-daily-145.md",
-      "title": "ICYFAR - An Ode to Byun - Sick Micro - G3 - The PiG Daily #145",
-      "excerpt": "THIS WEEKS ICYFAR: \"Suprise Motherfucker - Always attack at two locations at once\" - Send submissions to pigrandom88@gmail.com as attachment AND only ICYFAR as title! Latest submission is 24 hours before the show airs on the tuesday (AM/EU) /wednesday (AU) daily.\r  Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-icyfar-an-ode-to-byun-sick-micro-g3-the-pig-daily-145/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-icyfar-an-ode-to-byun-sick-micro-g3-the-pig-daily-145/",
-      "originalUrl": "https://youtube.com/watch?v=NNnjqxoW5Gg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NNnjqxoW5Gg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M1S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NNnjqxoW5Gg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-icyfar-new-unitsabilities-g1-vibes-burrowed-infestor-tactics-the-pig-daily-96.md",
-      "title": "ICYFAR - New Units/Abilities! G1 - Vibe’s Burrowed-Infestor tactics - The PiG Daily #96",
-      "excerpt": "THIS WEEKS ICYFAR: Send through your replays playing “Knife Fight in a Phone Booth - You can't go above 40 workers ever”. The more back and forth or creative the better! Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as title! Lastest submission until the second daily of the week.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-icyfar-new-unitsabilities-g1-vibes-burrowed-infestor-tactics-the-pig-daily-96/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-icyfar-new-unitsabilities-g1-vibes-burrowed-infestor-tactics-the-pig-daily-96/",
-      "originalUrl": "https://youtube.com/watch?v=C7vAs01GFmI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C7vAs01GFmI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/C7vAs01GFmI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

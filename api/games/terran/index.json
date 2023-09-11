@@ -42,6 +42,45 @@
       "publishedDateTime": "2023-09-09T00:49:48-07:00"
     },
     {
+      "path": "_games/lowkotv-clem-vs-maxpax-grand-finals-ultimate-terran-vs-protoss-showdown-starcraft-2.md",
+      "title": "Clem vs MaxPax GRAND FINALS - Ultimate Terran vs Protoss Showdown! (StarCraft 2)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 that is the finals of the ESL Open Cup 191 for the European region and server. In this series we watch MaxPax (Protoss) and Clem (Terran) play an incredible close match, as both players are evenly matched and capable of winning at any time. Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-clem-vs-maxpax-grand-finals-ultimate-terran-vs-protoss-showdown-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-clem-vs-maxpax-grand-finals-ultimate-terran-vs-protoss-showdown-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=M4eV6AD2OjU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M4eV6AD2OjU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H10M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 266,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M4eV6AD2OjU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-09-11T03:57:31-07:00"
+    },
+    {
       "path": "_games/lowkotv-gumihos-proxy-everything-vs-astrea-starcraft-2.md",
       "title": "GuMiho's Proxy EVERYTHING vs Astrea! (StarCraft 2)",
       "excerpt": "Best-of-5 series of high level StarCraft 2 between GuMiho (Terran) and Astrea (Protoss). In this series GuMiho goes for some of his classic proxy strategies, where he builds basically everything on the other side of the map and has the Protoss player deal with the early game aggression. Support my work:",
@@ -428,6 +467,44 @@
       "publishedDateTime": "2023-05-22T03:49:14-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-epic-battlecruiser-transitions-maru-vs-gumiho.md",
+      "title": "StarCraft 2: EPIC Battlecruiser Transitions! (Maru vs GuMiho)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 from the ESL SC2 Masters Summer, between Maru (Terran) and GuMiho (Terran).  Serral vs GuMiho (Grand Finals): https://youtu.be/YX4StuIsM_Q  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-battlecruiser-transitions-maru-vs-gumiho/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-battlecruiser-transitions-maru-vs-gumiho/",
+      "originalUrl": "https://youtube.com/watch?v=AiwTVTnjlhM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AiwTVTnjlhM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H12M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 140,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AiwTVTnjlhM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-06-29T04:24:12-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
       "title": "StarCraft 2: SERRAL vs MARU! (Best-of-7)",
       "excerpt": "Merry Christmas everyone! The two best players currently in StarCraft 2 face off in a best-of-7 series. Serral (Zerg) takes on Maru (Terran). This is the Grand Finals of King of Battles 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
@@ -503,45 +580,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-08-25T04:00:16-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-tier-3-rush-byuns-40-liberators-vs-hero.md",
-      "title": "StarCraft 2: TIER 3 RUSH - ByuN's 40+ Liberators vs herO!",
-      "excerpt": "Professional match of StarCraft 2 between soime of world's best Terran and Protoss players. In this match of Terran vs Protoss both players decide to sit back in the early game, and rush straight towards Tier 3 units. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-tier-3-rush-byuns-40-liberators-vs-hero/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-tier-3-rush-byuns-40-liberators-vs-hero/",
-      "originalUrl": "https://youtube.com/watch?v=M92U2b1-7xg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M92U2b1-7xg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M57S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 120,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/M92U2b1-7xg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-08-09T02:07:45-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-classics-new-mass-robotics-style-vs-byun.md",
@@ -1105,45 +1143,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-03-03T19:13:33-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-maru-wtl-finals-best-of-3.md",
-      "title": "StarCraft 2: Serral vs Maru - WTL Finals! (Best-of-3)",
-      "excerpt": "Watch as two of the best StarCraft 2 players in the world, Serral and Maru, face off in a best-of-3 series that will keep you on the edge of your seat. Who will emerge victorious in this epic showdown from the WTL? Find out in this video! Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-maru-wtl-finals-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-maru-wtl-finals-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=X8zRfGowK2s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X8zRfGowK2s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 87,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/X8zRfGowK2s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-08-17T01:42:06-07:00"
     }
   ],
   "nextPage": 2

@@ -79,6 +79,45 @@
       "publishedDateTime": "2023-09-08T04:12:12-07:00"
     },
     {
+      "path": "_games/lowkotv-clem-vs-maxpax-grand-finals-ultimate-terran-vs-protoss-showdown-starcraft-2.md",
+      "title": "Clem vs MaxPax GRAND FINALS - Ultimate Terran vs Protoss Showdown! (StarCraft 2)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 that is the finals of the ESL Open Cup 191 for the European region and server. In this series we watch MaxPax (Protoss) and Clem (Terran) play an incredible close match, as both players are evenly matched and capable of winning at any time. Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-clem-vs-maxpax-grand-finals-ultimate-terran-vs-protoss-showdown-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-clem-vs-maxpax-grand-finals-ultimate-terran-vs-protoss-showdown-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=M4eV6AD2OjU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M4eV6AD2OjU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H10M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 266,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M4eV6AD2OjU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-09-11T03:57:31-07:00"
+    },
+    {
       "path": "_games/lowkotv-gumihos-proxy-everything-vs-astrea-starcraft-2.md",
       "title": "GuMiho's Proxy EVERYTHING vs Astrea! (StarCraft 2)",
       "excerpt": "Best-of-5 series of high level StarCraft 2 between GuMiho (Terran) and Astrea (Protoss). In this series GuMiho goes for some of his classic proxy strategies, where he builds basically everything on the other side of the map and has the Protoss player deal with the early game aggression. Support my work:",
@@ -1069,44 +1108,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-05-12T01:49:53-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-best-zerg-vs-zerg-of-the-year-best-of-5.md",
-      "title": "StarCraft 2: The BEST Zerg vs Zerg... Of the Year?! (Best-of-5)",
-      "excerpt": "One of the best series of Zerg versus Zerg in StarCraft 2 that I've ever seen. A best-of-5 match between Dark and Solar. This series has a little bit of everything, macro, cheese, comebacks, crazy strategies and fantastic micro.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-best-zerg-vs-zerg-of-the-year-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-best-zerg-vs-zerg-of-the-year-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=_Q-6UB0k3bc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Q-6UB0k3bc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H5M41S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 192,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_Q-6UB0k3bc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-13T02:08:28-07:00"
     }
   ],
   "nextPage": 2

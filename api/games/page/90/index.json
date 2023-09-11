@@ -4,6 +4,35 @@
   "page": 90,
   "value": [
     {
+      "path": "_games/pig-the-afk-build-rate-my-starcraft-4.md",
+      "title": "THE AFK BUILD | Rate My StarCraft #4",
+      "excerpt": "This submission for Rate My Starcraft features the AFK Build, where you pretend to be AFK to your unsuspecting opponent.  🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your awesome StarCraft plays. Send in your replay to RateMyStarCraft@gmail.com PLUS",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-afk-build-rate-my-starcraft-4/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-afk-build-rate-my-starcraft-4/",
+      "originalUrl": "https://youtube.com/watch?v=8UFZgMif_FU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8UFZgMif_FU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M29S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8UFZgMif_FU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-08-20T21:02:46-07:00"
+    },
+    {
       "path": "_games/pig-the-almost-perfect-defensive-nukes-florencio-files-271-starcraft-2.md",
       "title": "The almost PERFECT defensive nukes | Florencio Files #271 - StarCraft 2",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has discovered the Ranged Liberator  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
@@ -870,35 +899,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-25T15:03:23-08:00"
-    },
-    {
-      "path": "_games/pig-the-never-ending-tech-switches-icyfar-plot-twist-compilation.md",
-      "title": "The Never-ending Tech Switches! ICYFAR Plot Twist Compilation",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they tech switch multiple times to get the better of their opponent (Plot Twist)! Chapters: 0:00 Game 1 33:52 Game 2  NEW ICYFAR CHALLENGE: \"Momentum\" - Attack at least once every 3",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-never-ending-tech-switches-icyfar-plot-twist-compilation/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-never-ending-tech-switches-icyfar-plot-twist-compilation/",
-      "originalUrl": "https://youtube.com/watch?v=XZ14OWGLHXE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XZ14OWGLHXE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT59M17S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XZ14OWGLHXE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
     }
   ],
   "nextPage": 91

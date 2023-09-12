@@ -4,38 +4,6 @@
   "page": 63,
   "value": [
     {
-      "path": "_games/pig-bane-ultra-drops-vs-pacomike-twitch-plays-pig-48.md",
-      "title": "Bane & Ultra drops vs PacoMike! | Twitch Plays PiG #48",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-bane-ultra-drops-vs-pacomike-twitch-plays-pig-48/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-bane-ultra-drops-vs-pacomike-twitch-plays-pig-48/",
-      "originalUrl": "https://youtube.com/watch?v=iqQHbqlHxkE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iqQHbqlHxkE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M20S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iqQHbqlHxkE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-07-24T14:00:14-07:00"
-    },
-    {
       "path": "_games/pig-baneling-baptism-kick-the-ant-hive-icyfar-g3.md",
       "title": "BANELING BAPTISM | Kick the Ant Hive! ICYFAR G3",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they had to swarm their enemy with a ton of low tier units. Here’s a fun game of Zerg versus terran completing the challenge in humorous fashion.   NEW ICYFAR CHALLENGE: \"Resurrection",
@@ -894,6 +862,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-09-01T04:09:52-07:00"
+    },
+    {
+      "path": "_games/pig-brood-war-in-sc2-blast-from-the-past-icyfar-g3.md",
+      "title": "Brood War in SC2!? - Blast from the Past ICYFAR G3",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they tried to play “old school” builds of broodwar or even SC2 WoL or HotS!  CURRENT ICYFAR CHALLENGE: \"Toddler Tantrums\" - Send in your replays where your ladder opponents act their age! Type !icyfar",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-brood-war-in-sc2-blast-from-the-past-icyfar-g3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-brood-war-in-sc2-blast-from-the-past-icyfar-g3/",
+      "originalUrl": "https://youtube.com/watch?v=Z9PIespjyCs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z9PIespjyCs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M52S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Z9PIespjyCs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
     }
   ],
   "nextPage": 64

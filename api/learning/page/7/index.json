@@ -4,6 +4,77 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-zest-glaives-vs-a-progamer-i-got-owned-maybe-.md",
+      "title": "Zest Glaives vs a PROGAMER?! I got OWNED... maybe ;)",
+      "excerpt": "Zest Glaives vs a PROGAMER?! I got OWNED... maybe... In this Starcraft 2 guide we take a look at an example replay of the build we learned yesterday! I had a hard time finding a good opponent to show you guys an example but after dieing to cannon rushes many time, I found one: previous progamer golden.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-zest-glaives-vs-a-progamer-i-got-owned-maybe-/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-zest-glaives-vs-a-progamer-i-got-owned-maybe-/",
+      "originalUrl": "https://youtube.com/watch?v=78iQDZqODDE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/78iQDZqODDE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M40S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-06-06T17:20:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/78iQDZqODDE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-complete-zerg-versus-protoss-build-order-3-hatchery-build-starcraft-2-heart-of-the-swarm.md",
+      "title": "COMPLETE Zerg versus Protoss Build Order - 3 Hatchery Build -  StarCraft 2 Heart of the Swarm",
+      "excerpt": "StarCraft II: Heart of the Swarm build order for Zerg players in SC2. In this build order I go over a standard 3 Hatchery build order versus Protoss.  The video shows you how to execute it, when and why. Don't forget to make drones!  More LowkoTV ▶ Subscribe | http://www.lowkotv.com/youtube ▶ Livestream",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-complete-zerg-versus-protoss-build-order-3-hatchery-build-starcraft-2-heart-of-the-swarm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-complete-zerg-versus-protoss-build-order-3-hatchery-build-starcraft-2-heart-of-the-swarm/",
+      "originalUrl": "https://youtube.com/watch?v=4dFMm-FM2Sw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4dFMm-FM2Sw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M44S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2013-07-21T14:33:37-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4dFMm-FM2Sw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-egidras-heart-of-the-swarm-zerg-versus-zerg-build-order-starcraft-ii-study.md",
       "title": "EG.IdrA's Heart of the Swarm Zerg versus Zerg Build Order - StarCraft II Study",
       "excerpt": "Greg 'IdrA' Fields is a professional StarCraft II from the United States who plays Zerg for StarCraft II and is currently playing for the team Evil Geniuses. In this video of StarCraft II: Heart of the Swarm Beta we take a look at EGIdrA's Zerg versus Zerg Build order. StarCraft II: Heart of the Swarm",
@@ -1097,83 +1168,6 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-guide-optimising-settings-for-competitive-play.md",
-      "title": "StarCraft 2 Guide: Optimising Settings For Competitive Play!",
-      "excerpt": "An essential video for those looking to improve in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Hotkey & Control groups guide: https://goo.gl/VQQQQ7  In this video I go over all of the settings that you should run in StarCraft 2: Legacy of the Void if you are looking to play competitively.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-guide-optimising-settings-for-competitive-play/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-guide-optimising-settings-for-competitive-play/",
-      "originalUrl": "https://youtube.com/watch?v=O0Mi7Ygd47I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O0Mi7Ygd47I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M49S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-11-01T14:54:41-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/O0Mi7Ygd47I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-heart-of-the-swarm-zerg-build-order-leenocks-zergling-ultralisk-queen-strategy.md",
-      "title": "StarCraft 2 Heart of the Swarm Zerg Build Order - Leenocks Zergling Ultralisk Queen Strategy",
-      "excerpt": "In StarCraft 2 there are a few new viable build orders in Zerg versus Protoss. In this episode of StarCraft 2 Heart of the Swarm study we take a look at a build order that Leenock recently executed during the Dreamhack StarCraft 2 event versus players such as NaNiwa.  Zerg Build Order 15hatch 16pool",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-heart-of-the-swarm-zerg-build-order-leenocks-zergling-ultralisk-queen-strategy/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-heart-of-the-swarm-zerg-build-order-leenocks-zergling-ultralisk-queen-strategy/",
-      "originalUrl": "https://youtube.com/watch?v=Pr5Ov16LX5A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Pr5Ov16LX5A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M15S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2013-05-04T05:20:17-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Pr5Ov16LX5A/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
       ]
     }
   ],

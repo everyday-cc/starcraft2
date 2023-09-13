@@ -4,7 +4,7 @@ excerpt: "I coach a player on how to make use of the incredible \"control group 
 originalUrl: https://youtube.com/watch?v=KlvmdaX9tE8
 type: video
 price: Free
-length: PT27M37S
+length: PT27M36S
 publishedDateTime: 2018-12-21T08:42:45Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "uwueTAlCsmlyo8x4Lwgx2QR66xDnkDX8hwUziEfYrTJ4Dx5ABXYbf4Vobpg/Vgm074dOV3aLmjk/THVt9Lqp36UHAM7Dqly6jD+yLPl/FddZ5C/XWbzYFic8D+CmuudwLJN3sFYjtxCJ/Jn3kWgEKIZpJ0p7vYAfexVwD3zxIN9TUqpthnVAjxFPMLTWvytwA8m1CVuatctvkUBxs1lMC5qnSFmxnrUeeBt3+OeVTD5jX4ly5iUC5O+N9n0u2SQtQ4oRMm7FefoZRmJotqdjHEPsBPxp11Kx/JW0c9c5w9qU71/QEGXGnIiN3koWDZmYRFior+5WJL0uBw68NazVo824N96RCYv/K1ufAC+fKZLIbP8sDjKMyrrEFtURz9l+VCa2/jT4g61CVZ6JTDKpz0PRECJpOFQ+KLjh/0D5aTs=;M/g6HvlhkOv/2TgE2bI9eQ=="
+secured: "AyQMytNhYtIgbuGLZkfzEn0SAN5eRaCjUIGwZJSomyrgS36i17SY7joZySdXEuI75GCTRagIquGxGC3B5LF6MrZrB5dj6CPTPubAdkWnep6/FSQ5K4+HnvSFrYdPgneXXCqP+N1QH4conCJ9ozvzwLiMOwuHZSPw6JWYS3x35qgcFyiYRvojdfgobavFpmen8hkCVfZgG/IQXQpaLmvi4IG/DSVmnA0O/EbTnCKV8c2FxWXLZ47e7fhWuytQ7SbYmAXa7Ohj9W9Mx4Ec1Lx/9lJ7aduQXRT6i6zgbP81Nr3+qXcKRCrN9kXXVaK9Gb+PP3qVXdLphmEukYCDUbLKDE1Vf9WQELlDfs6RREwFcnt9zdW6EbLA/MWGrgXvWBivXYw4ozVuKMLa5DnU13QGmDa3iceDLOglQmdRrnUOMro=;2vX/2WdR0TdcQljUFsIBZA=="
 ---
 

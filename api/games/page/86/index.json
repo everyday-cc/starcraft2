@@ -4,6 +4,36 @@
   "page": 86,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-speed-banshees-vs-nydus-roach-icyfar-g2-social-distancing.md",
+      "title": "StarCraft 2 - SPEED BANSHEES vs NYDUS ROACH | ICYFAR G2 Social Distancing",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they leave at least one empty base between each of your expansions (Social Distancing)! Here’s a fun game of zerg versus terran completing the challenge in humorous fashion.   NEW ICYFAR",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-speed-banshees-vs-nydus-roach-icyfar-g2-social-distancing/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-speed-banshees-vs-nydus-roach-icyfar-g2-social-distancing/",
+      "originalUrl": "https://youtube.com/watch?v=s2b9FY-laFc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s2b9FY-laFc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M57S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/s2b9FY-laFc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-splashgasm-the-florencio-files-60.md",
       "title": "StarCraft 2 - Splashgasm | The Florencio Files #60",
       "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
@@ -871,36 +901,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-04-12T21:17:01-07:00"
-    },
-    {
-      "path": "_games/pig-starcraft-2-the-nukes-to-end-all-nukes-fighting-retreat-icyfar-g1.md",
-      "title": "StarCraft 2 - THE NUKES TO END ALL NUKES | Fighting Retreat ICYFAR G1",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they lured their opponents into a fighting retreat! Here’s a fun game of terran versus terran completing the challenge in humorous fashion.  NEW ICYFAR CHALLENGE: \"It Takes Two to Tango\"",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-nukes-to-end-all-nukes-fighting-retreat-icyfar-g1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-nukes-to-end-all-nukes-fighting-retreat-icyfar-g1/",
-      "originalUrl": "https://youtube.com/watch?v=Lm7TYOmzKl4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Lm7TYOmzKl4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M51S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Lm7TYOmzKl4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
     }
   ],
   "nextPage": 87

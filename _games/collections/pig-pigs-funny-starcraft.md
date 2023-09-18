@@ -1071,6 +1071,7 @@ items:
   - pig-can-these-deranged-builds-take-down-a-grandmaster-mapetheape-vs-forgg-starcraft-2
   - pig-when-they-rage-so-hard-they-forget-how-to-play-salt-mines-42-starcraft-2
   - pig-are-the-balance-council-clowns-is-reddit-right-lets-find-out-rstarcraft2
+  - pig-they-always-do-this-when-they-start-losing-salt-mines-43-starcraft-2
 
 topics:
   - StarCraft 2

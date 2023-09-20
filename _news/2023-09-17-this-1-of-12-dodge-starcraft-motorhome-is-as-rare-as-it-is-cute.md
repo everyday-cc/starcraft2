@@ -29,7 +29,7 @@ related:
   - title: "StarCraft II 5.0.12 PTR Patch Notes"
     excerpt: "PTR Patch 5.0.12 has arrived with balance changes, bug fixes, and map pool update."
     publishedDateTime: 2023-09-20T17:00:00Z
-    webUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5-0-12-patch-notes"
+    webUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5-0-12-ptr-patch-notes"
     type: article
     provider:
       name: Blizzard

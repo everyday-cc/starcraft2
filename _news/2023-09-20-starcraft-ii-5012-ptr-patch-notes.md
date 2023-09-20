@@ -3,8 +3,8 @@ category: news
 title: "StarCraft II 5.0.12 PTR Patch Notes"
 excerpt: "PTR Patch 5.0.12 has arrived with balance changes, bug fixes, and map pool update."
 publishedDateTime: 2023-09-20T17:00:00Z
-originalUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5-0-12-patch-notes"
-webUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5-0-12-patch-notes"
+originalUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5-0-12-ptr-patch-notes"
+webUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5-0-12-ptr-patch-notes"
 type: article
 quality: 177
 heat: 197
@@ -45,6 +45,6 @@ related:
         height: 1238
         isCached: true
 
-secured: "TVjoMcBrKl0C6NYGX6Y3E3Ywsov0aMXkCDPdrZXQh4wwiwaujjVv3N7dOPxcN634ElnAlANPLNKvQOjKYkvuGgf+DyKnRf2ILjmDqA7v/ucuUYfU+GN89UpMHPgPQHgA8XvFgaOhSlID4NKcPRaUj0h0bbaeFOXNRUEB7JCUDrasxO0aJ6cABn8F8aQPSoH9d6rqrulrEUGB8w0ieyJbHmQyJwkPpimn3X6KxGLh25JqmFnjmm7Y7rR3Pf2D/M0tuQ2X6MX/Yc8FN+i1kaH5EvaEhGc85+FWfutHsSNdUNoWKwPdy+gPUgcpgPzAX/YMf9DGwSm3FyiaoULL8BUBuyQ7tdukN4bRzAKla8r0w70=;fI3camF5YlteLloyB1E7Mg=="
+secured: "T98CxckQpUE0DfrVcL7VwG7DfL8VS3AbtQV39sRuXH5h1QgLKTpjX4AJv0kUZQrS4GekQEz4pvv53VPSFfOM77Q7+R5TuuKBy+SDMnnsLEDjFsgJv+PDi2nBvxgK/8xv8yitWRZnnqPDDRpRQCD9hIun7FBMv6d2hed7YtAFXjkJfZDOq/tAoZubLN82o60qlSl7R579s22lULySq0oWlhf4lSBHrf/YeCkq37GvP3vojjRJXdpJ+YF0mB3+AoV8jbRbsaZj0uJ/1Xh9neINqgeQ/fUraTpe11h1ozFQPbOBNJIVx7xMwlLXOQlarkhGqFXLefHq9OznquaWe2NFCaKNpbAY6uzljn3VtNE7jkY=;O75l3+9VY25X+U9c84v2mQ=="
 ---
 

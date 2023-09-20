@@ -4,7 +4,7 @@ excerpt: "A new and hopefully improved version of my guides for each race where 
 originalUrl: https://youtube.com/watch?v=qL9Ns0ORolo
 type: video
 price: Free
-length: PT44M51S
+length: PT44M50S
 publishedDateTime: 2017-11-19T17:08:52Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "QDGOW63TDwg4Ita4/eeR9i4m2IX2GWe7bV2jYWYTjXvV7zKkpSAsY3+qyU4bR7f84chd3imIDQIeVJtmXqStFAKnaq0Df1imYkhLXPu703NjeHB4Wy+GNXRsnAPKn9BiNjhJ6UbG8+AGxWsRjfj732lwoLg3WSIeKs/+cs7mBbMatJMav6pjzNWrGV2kUZdy6rZMPipsWHA0eCTgEXhi4yzQ416yajvB9AM4exCoSqgabEquBwtuc7W7Nrsc6/ZRbdly8SQmmYiXNhg0eKuuWHSg7VjBPpBHSeXN0rk9Rz37j7ES1PJ7WGuW2mag2qg2TBwaHYo9c+7ENp7B5aRJ9PUGJvzjpy/qtsBb9S4Tq80PJSXSoZmtk7AuCBW9vGjyTDf28gNI6H5DxC/0wPXoyAd+mJnTH8mfPs/sIpNAoV4lPziAjBhVkqMxA48iu93w;rEy1plqQAnVZj4imEkxisg=="
+secured: "vDveqKJMydtDb5t/tAPuMAGPnbMXXamFKl/2BcAe808/rGGCIPJ7cjvnvNXqijgJ5loz8nQqYaWfUkmvFX5NNMq4JL4OXH+79JL8RFpBXS+zbOBhGuNaSOT0Mep9lmnCbIlPAoAMmbFUfiHhJN63AzXsNjEtJQB4EJz3kFb/poyTtj0BXFS08n6p14vEThuW8DCv9bxm2gPlc1xXFpCEYRcLze2dpc5q0Kd6x/SJ1PjheBZeycsUmlpVVR4akLa4ll8AzINVFHvey8P3RqJHAxLknJpmCQOhfcFj1vBibOy/4Y1iPzX4I7TyOloiIehKhQrQUy6nxFJ+ms6hOYf3CakZrcVoMLwdTOQbuQ6Lft6KbdjdRR5oYernRzN+7mpkKFKOR1to1QIitBrxGOYOgwLkXhlItFjuB0S8A0zCZ5dopRoRxVmLF02ulxwL5DS+;67I04RDGH2ycW0/6WS/dGw=="
 ---
 

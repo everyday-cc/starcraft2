@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2023/09/this-1-of-12-dodge-starcraft-motor
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/09/this-1-of-12-dodge-starcraft-motorhome-is-as-rare-as-it-is-cute/amp/"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 2200
     height: 1238
     isCached: true
+
+related:
+  - title: "StarCraft II 5.0.12 PTR Patch Notes"
+    excerpt: "PTR Patch 5.0.12 has arrived with balance changes, bug fixes, and map pool update."
+    publishedDateTime: 2023-09-20T17:00:00Z
+    webUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5-0-12-patch-notes"
+    type: article
+    provider:
+      name: Blizzard
+      domain: blizzard.com
+    quality: 177
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "mdJuZdXKSaxAoPmPdBGbgRg8pYCIRFejzKVeShYp5SEwmunElm0zvPzcrd/a5/FYnSk/BR4LnBx86WbO2VyAnAgJD5V9MOBnQOim4L9Tzlxgwr/IL8aygxAf8BzL3Z0SQO5NRFcagCzjAXRsOQEm9QtQUJXHX/kCSKMjyW1erBUncG4VkQjWHn5CBD8nVfPuU++9/RS9xrvXYKA6zvG0T5yhBwFBnft678eiMYaojuFf+9jJplLPivIuzUaMFVhAV/da14MN4G1dBGssDNHIMeNrel+/pfEyGTlJ3N093RUC6M6c8i/f3mPfECBRT4cZKgyJ/I08I+iFsDHRCtuDBetwIepjRJezosLS/h2CMShprB2KvNMxou0cV8+4t/ap5b2YqSssSew3p+hAqulGnkp0uqTWerRXeig26/OwNMkZGW/Yfd29lPbOPG7sLNR+r+SxEmtZJDZiDq1ONFwNgANC/GW0Brq0FywAH3wJfc147VaI9+X3QwV+/qL2lStOPd+rkpnKDkfYh62S90762w==;P2WY4FalFSP0pC/2kHlUMw=="
 ---

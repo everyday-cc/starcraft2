@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 62
+heat: 61
 
 provider:
   name: PiG
@@ -1072,6 +1072,7 @@ items:
   - pig-when-they-rage-so-hard-they-forget-how-to-play-salt-mines-42-starcraft-2
   - pig-are-the-balance-council-clowns-is-reddit-right-lets-find-out-rstarcraft2
   - pig-they-always-do-this-when-they-start-losing-salt-mines-43-starcraft-2
+  - pig-can-clem-1v3-the-supertoss-archon-of-3x-legendary-pros-starcraft-2
 
 topics:
   - StarCraft 2

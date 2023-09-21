@@ -4,6 +4,45 @@
   "page": 8,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-the-fourth-race-hybrid-vs-protoss-zerg-1v1-multiplayer.md",
+      "title": "StarCraft 2: The Fourth Race - HYBRID vs Protoss & Zerg! (1v1 Multiplayer)",
+      "excerpt": "Two games of StarCraft 2 from \"The Fourth Race Contest\" organised by Alex007. In this video I cast the Hybrid going up against Protoss and the Hybrid versus Zerg.  Alex's YouTube channel: https://www.youtube.com/c/Alex007SC2  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-fourth-race-hybrid-vs-protoss-zerg-1v1-multiplayer/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-fourth-race-hybrid-vs-protoss-zerg-1v1-multiplayer/",
+      "originalUrl": "https://youtube.com/watch?v=6lKZ2g5reX0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6lKZ2g5reX0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M34S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6lKZ2g5reX0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-11T03:35:31-08:00"
+    },
+    {
       "path": "_games/pig-can-these-deranged-builds-take-down-a-grandmaster-mapetheape-vs-forgg-starcraft-2.md",
       "title": "Can these DERANGED builds take down a GrandMaster?? MapeTheApe vs ForGG | StarCraft 2",
       "excerpt": "MapeTheApe returns to fight ForGG, an OG StarCraft & SC2 Legend! This is Maplez's #4 appearance on the PiG channel, and continues to bring out the most deranged and psychopathic builds & plays you've ever seen. I don't think MapeTheApe has ever played a serious game of SC2 in their life!  -- 🐷 Second",
@@ -727,36 +766,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-06-05T23:42:43-07:00"
-    },
-    {
-      "path": "_games/pig-genius-proxy-hatch-breaks-reynors-brain-starcraft-2.md",
-      "title": "Genius proxy hatch BREAKS Reynor’s brain - StarCraft 2",
-      "excerpt": "Reaper has been doing some DIRTY proxy hatch builds. Here's a couple games, one against Reynor! -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-genius-proxy-hatch-breaks-reynors-brain-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-genius-proxy-hatch-breaks-reynors-brain-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=5IjhWeYu8g8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5IjhWeYu8g8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M44S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5IjhWeYu8g8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-06T16:49:13-07:00"
     },
     {
       "path": "_games/pig-neural-parasite-triggers-rage-meltdown-from-toss-salt-mines-38-starcraft-2.md",

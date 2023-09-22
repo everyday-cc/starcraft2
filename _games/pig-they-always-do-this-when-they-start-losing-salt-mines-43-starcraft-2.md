@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=2g8es0tCSLM
 type: video
 length: PT26M16S
 publishedDateTime: 2023-09-18T13:42:57Z
-heat: 177
+heat: 155
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2g8es0tCSLM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1YBbJDW6jvSx5YRIZWNfpFEo0wLlFSOQoxgmYrA+i12yzOL+9/5rfvyiqWFLuIFSNkzd+wzyHLUTlp+O3OCiTKiojmWnPMxwtTNMv9KwU8pWFMXHI7mUlLNeWTeLPe1nokvyxnhv40LdeNSavd1o04aNEfMlmwW/hVf7a0MCiqdw7MoJ9B9ZsQNjnOuCZllgxhlaimcK1rq4Wdjk9NTd7N3odHsrPgYU0A+IY3RXNXaBnqrsqBEeBMR4ahdKtkdQqCupk23cqJvT2btjt+Ig4LDPSqpEhSPZhuj4noczKJLZYeNqa8CDM8D6KIzyrgJyo3fciYkGSOiWtjytYpHiEiHzWBSO7uLghRXkt5kt27UQ1cgm7U3DDW3BZr3VxXaAGH4WFVdu7Nvd9upK43CDklKvMpg5Cf0PHduf8azTG3Y=;nVOiN0rsoT01RQOr5VwAeg=="
+secured: "FJILD+Wubnb9c8rtaKuBDKSN5zalxU2IPMrUvw/qpue+Ipe1NeV1lAsO2YPRlaDALImkPMKq3vkjeGxN2Y73EH8blntP0e3TiHvAsa6Vkk0SIDlptCHi8xF9vT1Srnq4VY3t5zx9mYr87WpJdQnCBXhx5r+OzBNTtZX2RduSMbSBcqt8z/naZSJCcj6vMtrNnj+SBLr/rU1A/8coqUPiwXdrmSTsqXTOMiozhN1dBUQg1JzcnFpyaNyrQc7NznY8Y67VN/0OyrX0wmiD1uOqLpNU/VGIFM437TPxJwMPwe38rS0asLgzHFBj2y6QPpZlEU8cY8cm7Moh+/7KLxE148OFP4pGkwQXcT8B1hsiK+araksbIQbOR2mkSj0OfIz5cPjJ7zx7sUMuKgH6kb+P3XmcJFbaXxfuEW+VCVt5Lj0=;txKReKzOJaNyHzsPCEPbhw=="
 ---
 

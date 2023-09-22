@@ -1072,7 +1072,8 @@ items:
   - pig-when-they-rage-so-hard-they-forget-how-to-play-salt-mines-42-starcraft-2
   - pig-are-the-balance-council-clowns-is-reddit-right-lets-find-out-rstarcraft2
   - pig-they-always-do-this-when-they-start-losing-salt-mines-43-starcraft-2
-  - pig-can-clem-1v3-the-supertoss-archon-of-3x-legendary-pros-starcraft-2
+  - pig-the-fastest-terran-in-the-world-faced-three-protoss-pros-at-once-clem-vs-maxpax-harstem-mana-sc2
+  - pig-what-is-this-ludicrous-starcraft-2-free-for-all-strategy-beast-of-the-hill-starcraft-2
 
 topics:
   - StarCraft 2

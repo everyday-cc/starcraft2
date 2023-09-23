@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5
 webUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5-0-12-ptr-patch-notes"
 type: article
 quality: 177
-heat: 199
+heat: 220
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 2200
         height: 1238
         isCached: true
+  - title: "2007 Starcraft Prices, Values and Specs"
+    excerpt: "Starblazer 6'6\" Truck Camper - Telescopic Cab Over Side Gaucho No Lonestar 8' Truck Camper - Telescopic Cab Over Rear Kitchen No Lonestar S 8' Truck Camper - Telescopic Cab Over Rear Kitchen No M-800 8' Truck Camper - Telescopic Cab Over Rear Bathroom Yes ..."
+    publishedDateTime: 2023-09-22T10:08:00Z
+    webUrl: "https://www.jdpower.com/rvs/2007/starcraft"
+    type: article
+    provider:
+      name: jdpower
+      domain: jdpower.com
+    quality: 17
 
 secured: "T98CxckQpUE0DfrVcL7VwG7DfL8VS3AbtQV39sRuXH5h1QgLKTpjX4AJv0kUZQrS4GekQEz4pvv53VPSFfOM77Q7+R5TuuKBy+SDMnnsLEDjFsgJv+PDi2nBvxgK/8xv8yitWRZnnqPDDRpRQCD9hIun7FBMv6d2hed7YtAFXjkJfZDOq/tAoZubLN82o60qlSl7R579s22lULySq0oWlhf4lSBHrf/YeCkq37GvP3vojjRJXdpJ+YF0mB3+AoV8jbRbsaZj0uJ/1Xh9neINqgeQ/fUraTpe11h1ozFQPbOBNJIVx7xMwlLXOQlarkhGqFXLefHq9OznquaWe2NFCaKNpbAY6uzljn3VtNE7jkY=;O75l3+9VY25X+U9c84v2mQ=="
 ---

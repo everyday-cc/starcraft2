@@ -642,35 +642,6 @@
       "publishedDateTime": "2022-08-04T03:50:00-07:00"
     },
     {
-      "path": "_games/pig-how-is-this-maniac-better-than-99-of-sc2-players-slammer-vs-xkawaiian.md",
-      "title": "How is this MANIAC better than 99% of SC2 players? | Slammer vs xKawaiian",
-      "excerpt": "SLAMMER, Starcraft 2's very own Ogre, returns to do what he does best - SLAM his face into the enemy base over and over. As always, SLAMMER goes where SLAMMER pleases, but will he overcome getting slammed back?  -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-is-this-maniac-better-than-99-of-sc2-players-slammer-vs-xkawaiian/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-is-this-maniac-better-than-99-of-sc2-players-slammer-vs-xkawaiian/",
-      "originalUrl": "https://youtube.com/watch?v=KIoZcSGasuQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KIoZcSGasuQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M10S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KIoZcSGasuQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-08-01T02:17:19-07:00"
-    },
-    {
       "path": "_games/pig-how-quickly-can-hero-dispose-of-a-noob-me-ept-na-holdout-challenge-bo3-pvz-starcraft-2.md",
       "title": "How quickly can HERO dispose of a noob (ME)? | EPT NA Holdout Challenge (Bo3 PvZ) - StarCraft 2",
       "excerpt": "PiG faced the best protoss in the world right now, herO, in EPT NA. Lets see how long PiG held on for in this unofficial Holdout Challenge. This series was a best of 3 -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for daily Pro Casts: https://www.youtube.com/c/PiGCasts",
@@ -967,6 +938,35 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-07-28T19:36:17-07:00"
+    },
+    {
+      "path": "_games/pig-sc2-is-pretty-awful-now-no-longer-an-rts-dead-game-bnet-dumpster-dives-1.md",
+      "title": "\"SC2 is pretty awful now,  no longer an RTS + dead game\" | Bnet Dumpster Dives #1",
+      "excerpt": "Potential new show?? I came across this Bnet thread and it was so ridiculous I just had to do this. Hope you enjoy this dumpster diving of the battlenet forums  Bnet link: https://us.forums.blizzard.com/en/sc2/t/sc2-is-pretty-awful-now-no-longer-an-rts-dead-game/25241 -- 🐷 Second Channel for Learning",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-sc2-is-pretty-awful-now-no-longer-an-rts-dead-game-bnet-dumpster-dives-1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-sc2-is-pretty-awful-now-no-longer-an-rts-dead-game-bnet-dumpster-dives-1/",
+      "originalUrl": "https://youtube.com/watch?v=ldK4SaCcFqI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ldK4SaCcFqI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M57S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ldK4SaCcFqI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-21T22:18:44-08:00"
     }
   ],
   "nextPage": 17

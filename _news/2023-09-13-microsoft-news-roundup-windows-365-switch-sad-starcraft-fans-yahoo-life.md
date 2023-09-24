@@ -7,7 +7,7 @@ originalUrl: "https://www.inferse.com/712454/microsoft-news-roundup-windows-365-
 webUrl: "https://www.inferse.com/712454/microsoft-news-roundup-windows-365-switch-sad-starcraft-fans-yahoo-life/"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 1200
     height: 681
     isCached: true
+
+related:
+  - title: "StarCraft Wraith Recreated in Starfield"
+    excerpt: "A player uses the tools provided by the ship builder in Starfield to recreate the Terran Wraith from Starcraft 2 with impressive accuracy. Starfield's ship builder has allowed players to recreate ..."
+    publishedDateTime: 2023-09-10T14:54:00Z
+    webUrl: "https://gamerant.com/starfield-wraith-starcraft/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 77
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/starfield-11.jpg"
+        width: 1800
+        height: 900
+        isCached: true
+  - title: "‘Starfield’ Players Are Already Building ‘Star Wars,’ ‘StarCraft’ And ‘Halo’ Ships"
+    excerpt: "Starfield’s ship builder is not exactly the easiest thing to learn how to use, but after a few days now, players have begun figuring it out and making insane creations."
+    publishedDateTime: 2023-09-05T13:27:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2023/09/05/starfield-players-are-already-building-star-wars-starcraft-and-halo-ships/"
+    ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/09/05/starfield-players-are-already-building-star-wars-starcraft-and-halo-ships/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/09/05/starfield-players-are-already-building-star-wars-starcraft-and-halo-ships/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 51
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f7297ea04142914685cc97/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ho42voRAnM+qReVJLX92rK3BCUBNiagQHizj9SDayAehliECRQMkpQoHTypfBWASi2jrRXs6tL1PM+lPurVOuKSPNXZQafeq+Wc1lafXCEj7So2MW18UbdwdK1l1KV4cItJ38N1iPYKniEEYoUr4pf+3FggsSVydYdKcI/cskb8H64xc4LCCdMbn7mF8QjeMrnRo3YlVdN7rbOmIRNfaj4yHPkv75Rlrzu7KxCe4I3NURk5PqXD5IgVlCO9VSfHlp+QhHN1JSH+2j3m24JdI0WkESJ8sY5ItlokSFSQYtsHjwBKRPhB7LO0o6PfE4DBuS6VAoubugnbGAH9ArfdezjmvxquO7CjXDnTvryudova58FmAwDhE4WgzWwfHaPi9l3XfeYcPuhkxFI6hzNa/X3q9X/yuXUFnpxdGmSbA2YxGQ8hlQozWY1abRISG+Je14b5bT6M5qPtVCNB7fzq8IV+H4sIDCy3Aj28f7afTJZDpFbNPsLSVU2km6GodSeKTYEP9Kp89/vQv0WSdC+kJtg==;PC/r3G5HQ+UgyGiyRK92Wg=="
 ---

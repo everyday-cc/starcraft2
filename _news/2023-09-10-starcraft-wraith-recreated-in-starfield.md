@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/starfield-wraith-starcraft/"
 webUrl: "https://gamerant.com/starfield-wraith-starcraft/"
 type: article
 quality: 77
-heat: 119
+heat: 120
 published: true
 
 provider:

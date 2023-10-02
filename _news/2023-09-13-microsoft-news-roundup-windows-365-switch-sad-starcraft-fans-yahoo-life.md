@@ -7,7 +7,7 @@ originalUrl: "https://www.inferse.com/712454/microsoft-news-roundup-windows-365-
 webUrl: "https://www.inferse.com/712454/microsoft-news-roundup-windows-365-switch-sad-starcraft-fans-yahoo-life/"
 type: article
 quality: 51
-heat: -1
+heat: 51
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 681
     isCached: true
-
-related:
-  - title: "StarCraft Wraith Recreated in Starfield"
-    excerpt: "A player uses the tools provided by the ship builder in Starfield to recreate the Terran Wraith from Starcraft 2 with impressive accuracy. Starfield's ship builder has allowed players to recreate ..."
-    publishedDateTime: 2023-09-10T14:54:00Z
-    webUrl: "https://gamerant.com/starfield-wraith-starcraft/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 77
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/starfield-11.jpg"
-        width: 1800
-        height: 900
-        isCached: true
 
 secured: "ho42voRAnM+qReVJLX92rK3BCUBNiagQHizj9SDayAehliECRQMkpQoHTypfBWASi2jrRXs6tL1PM+lPurVOuKSPNXZQafeq+Wc1lafXCEj7So2MW18UbdwdK1l1KV4cItJ38N1iPYKniEEYoUr4pf+3FggsSVydYdKcI/cskb8H64xc4LCCdMbn7mF8QjeMrnRo3YlVdN7rbOmIRNfaj4yHPkv75Rlrzu7KxCe4I3NURk5PqXD5IgVlCO9VSfHlp+QhHN1JSH+2j3m24JdI0WkESJ8sY5ItlokSFSQYtsHjwBKRPhB7LO0o6PfE4DBuS6VAoubugnbGAH9ArfdezjmvxquO7CjXDnTvryudova58FmAwDhE4WgzWwfHaPi9l3XfeYcPuhkxFI6hzNa/X3q9X/yuXUFnpxdGmSbA2YxGQ8hlQozWY1abRISG+Je14b5bT6M5qPtVCNB7fzq8IV+H4sIDCy3Aj28f7afTJZDpFbNPsLSVU2km6GodSeKTYEP9Kp89/vQv0WSdC+kJtg==;PC/r3G5HQ+UgyGiyRK92Wg=="
 ---

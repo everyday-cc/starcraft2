@@ -1,14 +1,14 @@
 ---
 category: news
-title: "StarCraft II 5.0.12 PTR Patch Notes"
-excerpt: "PTR Patch 5.0.12 has arrived with balance changes, bug fixes, and map pool update."
-publishedDateTime: 2023-09-20T17:00:00Z
-originalUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5-0-12-ptr-patch-notes"
-webUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5-0-12-ptr-patch-notes"
+title: "StarCraft II 5.0.12 Patch Notes"
+excerpt: "Patch 5.0.12 has arrived with balance changes, bug fixes, and map pool update."
+publishedDateTime: 2023-09-28T20:10:00Z
+originalUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5-0-12-patch-notes"
+webUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5-0-12-patch-notes"
 type: article
 quality: 177
-heat: 244
-published: true
+heat: -1
+published: false
 
 provider:
   name: Blizzard
@@ -28,10 +28,10 @@ images:
     isCached: true
 
 related:
-  - title: "StarCraft II 5.0.12 Patch Notes"
-    excerpt: "Patch 5.0.12 has arrived with balance changes, bug fixes, and map pool update."
-    publishedDateTime: 2023-09-28T20:10:00Z
-    webUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5-0-12-patch-notes"
+  - title: "StarCraft II 5.0.12 PTR Patch Notes"
+    excerpt: "PTR Patch 5.0.12 has arrived with balance changes, bug fixes, and map pool update."
+    publishedDateTime: 2023-09-20T17:00:00Z
+    webUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5-0-12-ptr-patch-notes"
     type: article
     provider:
       name: Blizzard
@@ -68,6 +68,6 @@ related:
       domain: jdpower.com
     quality: 17
 
-secured: "T98CxckQpUE0DfrVcL7VwG7DfL8VS3AbtQV39sRuXH5h1QgLKTpjX4AJv0kUZQrS4GekQEz4pvv53VPSFfOM77Q7+R5TuuKBy+SDMnnsLEDjFsgJv+PDi2nBvxgK/8xv8yitWRZnnqPDDRpRQCD9hIun7FBMv6d2hed7YtAFXjkJfZDOq/tAoZubLN82o60qlSl7R579s22lULySq0oWlhf4lSBHrf/YeCkq37GvP3vojjRJXdpJ+YF0mB3+AoV8jbRbsaZj0uJ/1Xh9neINqgeQ/fUraTpe11h1ozFQPbOBNJIVx7xMwlLXOQlarkhGqFXLefHq9OznquaWe2NFCaKNpbAY6uzljn3VtNE7jkY=;O75l3+9VY25X+U9c84v2mQ=="
+secured: "/U52dZoaFJPSnF+ms7rHIzhdO1H6k3i69msWgpTMhpib26enqzwlR9SfX9glweKV5m7eln/xk9zN/aYmxKyidedbw44JzKsd4fr19VlwYrilvnX7o4fbl24LvRU7KR4xGQ+5at2vaTugvxayC92ktDWc51ENgW6a9rkvpLuMCFL9Fgmkh5XkASfg1ueJ7QD6KG9l/vGqzcYlZgMXVfa5RfmXqEQFk6DtTwPs7Op4HFdX5grt76Zg9NiV/uNuzqXtFjX3364iI7rNujwK2BEJganafwjWBpYeiMMPaElf3wiJH4urb47WCglQd8OPL3tiD0/jDxLRAYFrOLyNb3Zekp6cEZDNNKzb5AkIonxpznY=;Y+A148zM50dXuWM9/OfP8g=="
 ---
 

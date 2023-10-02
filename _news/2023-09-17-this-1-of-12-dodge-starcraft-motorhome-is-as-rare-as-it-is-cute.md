@@ -40,6 +40,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "StarCraft II 5.0.12 Patch Notes"
+    excerpt: "Patch 5.0.12 has arrived with balance changes, bug fixes, and map pool update."
+    publishedDateTime: 2023-09-28T20:10:00Z
+    webUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5-0-12-patch-notes"
+    type: article
+    provider:
+      name: Blizzard
+      domain: blizzard.com
+    quality: 177
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "2007 Starcraft Prices, Values and Specs"
     excerpt: "Starblazer 6'6\" Truck Camper - Telescopic Cab Over Side Gaucho No Lonestar 8' Truck Camper - Telescopic Cab Over Rear Kitchen No Lonestar S 8' Truck Camper - Telescopic Cab Over Rear Kitchen No M-800 8' Truck Camper - Telescopic Cab Over Rear Bathroom Yes ..."
     publishedDateTime: 2023-09-22T10:08:00Z

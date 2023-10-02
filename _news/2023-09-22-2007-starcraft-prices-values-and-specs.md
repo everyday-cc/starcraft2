@@ -32,6 +32,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "StarCraft II 5.0.12 Patch Notes"
+    excerpt: "Patch 5.0.12 has arrived with balance changes, bug fixes, and map pool update."
+    publishedDateTime: 2023-09-28T20:10:00Z
+    webUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5-0-12-patch-notes"
+    type: article
+    provider:
+      name: Blizzard
+      domain: blizzard.com
+    quality: 177
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "This 1-Of-12 Dodge Starcraft Motorhome Is As Rare As It Is Cute"
     excerpt: "This exceptionally rare motorhome is powered by a 318 ci Dodge V8, features air conditioning, a kitchen, an awning, and could be yours"
     publishedDateTime: 2023-09-16T23:09:00Z

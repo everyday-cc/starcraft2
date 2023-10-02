@@ -120,44 +120,6 @@
       "publishedDateTime": "2023-08-29T06:19:16-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-domination-serral-gets-cheesed-by-cure.md",
-      "title": "StarCraft 2: DOMINATION - Serral gets CHEESED by Cure!",
-      "excerpt": "Professional match of StarCraft 2 from the World Team League between Serral (Zerg) and Cure (Terran). Serral is the highest ranked pro gamer in the world, Cure is currently the number 3 overall. These games are overall pretty one-sided but they showcase the incredible skill that a select few players",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-domination-serral-gets-cheesed-by-cure/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-domination-serral-gets-cheesed-by-cure/",
-      "originalUrl": "https://youtube.com/watch?v=aGKWy1E42dY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aGKWy1E42dY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M56S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 160,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aGKWy1E42dY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-08-22T03:13:57-07:00"
-    },
-    {
       "path": "_games/pig-how-did-a-game-that-was-over-at-8-min-go-for-50min-pig-vs-kiwian-showmatch-part-1-sc2.md",
       "title": "How did a game that was over at 8 min go for 50min?! | PiG vs Kiwian Showmatch (Part 1) - SC2",
       "excerpt": "Part 2 coming tomorrow! I played a best of 5 against Kiwian (Top) who is a former Terran pro who played in GSL. Neither of us could have predicted that game 1 would go like this... The showmatch went so long I had to split it up for youtube! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom",
@@ -377,6 +339,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-09-21T06:35:56-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-bring-snacks-this-match-is-incredible-cure-vs-classic.md",
+      "title": "StarCraft 2: Bring Snacks. This Match is INCREDIBLE! (Cure vs Classic)",
+      "excerpt": "One of the best games of StarCraft 2 this year. Cure vs Classic from Gamers8. Both pro gamers try to end this SC2 match as quickly as possible by  being in the opponents face the entire time, but neither of them gets the job done in the early game. A chaotic game with multiple base races ensues. Support",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-bring-snacks-this-match-is-incredible-cure-vs-classic/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-bring-snacks-this-match-is-incredible-cure-vs-classic/",
+      "originalUrl": "https://youtube.com/watch?v=LH3AKAuS1X0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LH3AKAuS1X0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M33S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 150,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LH3AKAuS1X0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-08-19T02:15:32-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-proxy-nexus-into-mass-sentry.md",

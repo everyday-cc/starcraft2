@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT20M22S
 publishedDateTime: 2017-05-06T09:01:43Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/76PmBDv7-ww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "nC2cNne5+VHTPyy5SV3vfRm23hBId4HGKRwid1XZn2aUTFIO0b61o64IeSp7+4bzXmxOLt0v5RreO1cCdiNkKoVi6hl1ziLX6cRF7Vv5lyhrtxqKT5rNZkGsFYEVcV/RnH/vf+RYDJEBpN7zdPf2Zu7z3W4XxA0TN3j/oTejiOOlafOdD5gmomOQh/frVsPCzg+JrJtcSdD+0BnYn8oUps5bqYDWwPNGUtIA4giuGmGG7OjtiCn9lXiabD71nb9ejXfw+ADiZ77czgh3ai1xSJOFddaZm4U+BuXZ2JPE3tFz/PV1Jpcl5tPlA9AXBWF8uIUpXNp2gvn+oI20mQ9/NShoLgoBoD9TZAsdlWKtyP03A2rxBM4c3SbxUojRMgFSvwPvJN4J/ixZVsCk+JBtaPnbzQbeXuCUax32s8y0xjxiBE/2Fd/LILu/eofhNHa0;H69xqM0lRPzRGVFargoHug=="
+secured: "+evRsUPUUPK7gfTffCa5nYFr2e9YUAesWD7La1abcezYJYwW91+x0pxPuu+ilqedTdgkVKmHOQCEKK8Q1ZoGsVPwAtjcVst+O6iMtgOYBXUVaBjgUU8oed6ls45BiH6kVBB9Y2xp+L6kiDIz8LJuzvUtYRVIVg7hiPTob8H7XvHFp/5j5Zd/WgTCL7c1LRK+h4QgnP2c7Dfomrpy+ksYZWjv0GeOWZXPZTqoGztFfk0NZTc1OlxwW/Wri6FUpyYLVVLK9mNh4yGAgrAVK+8y7WnJFtQuQk2+BnY7I6eMF6gYCF44FbMyOmnd8OEdqDHdBGp9G96vluaYQYlXMXxIpLtCg/El4NjZGa4xjG70Wgtcspgxb/LhFxi+0QE2PotIuykAmumF+VmTf6yhykQM1b4/GuHnGSuATmpyufSSF9yXR8X6mhMcmIb/eEifcusk;xLOTmxT6n6Gz0RcBO7LpYw=="
 ---
 

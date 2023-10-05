@@ -4,6 +4,44 @@
   "page": 32,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-cheese-clem-non-stop-agression-vs-byun.md",
+      "title": "StarCraft 2: CHEESE - Clem NON-STOP AGRESSION vs ByuN!",
+      "excerpt": "Professional match of StarCraft 2 (SC2) between ByuN and Clem. This Terran vs Terran is the finals of the ESL Open Cup 183. An amazing series where Clem won't stop cheesing ByuN. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cheese-clem-non-stop-agression-vs-byun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cheese-clem-non-stop-agression-vs-byun/",
+      "originalUrl": "https://youtube.com/watch?v=jhbEkxqRC7s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jhbEkxqRC7s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M38S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jhbEkxqRC7s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-12T04:45:37-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-cheese-galore.md",
       "title": "StarCraft 2: CHEESE GALORE!",
       "excerpt": "Just your regular Gold and Platinum League Protoss vs Protoss. Subscribe for more videos: http://lowko.tv/youtube Zerg vs Protoss misdirection: https://goo.gl/ByS50z  In this video I cast a Protoss versus Protoss. As per usual, one of the players has to Cannon Rush. However, the counter with the Dark",
@@ -1092,45 +1130,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-05-03T03:50:10-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-crazy-new-map-purity-and-industry-dark-vs-stats.md",
-      "title": "StarCraft 2: CRAZY NEW MAP - Purity and Industry! (Dark vs Stats)",
-      "excerpt": "Amazing game of Zerg versus Protoss at the highest level of StarCraft 2. Stats is also known as the Shield of Aiur and is one of the most succesful Protoss players of all time. Dark is the current World Champion of StarCraft 2 and as such is obviously amazing at playing Zerg. In this game they face off",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-crazy-new-map-purity-and-industry-dark-vs-stats/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-crazy-new-map-purity-and-industry-dark-vs-stats/",
-      "originalUrl": "https://youtube.com/watch?v=cKIouVThGPE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cKIouVThGPE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M32S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cKIouVThGPE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-03-23T04:40:11-07:00"
     }
   ],
   "nextPage": 33

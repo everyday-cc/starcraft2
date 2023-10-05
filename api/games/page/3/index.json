@@ -4,6 +4,45 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-ksl-finals-hero-cannon-rushes-dark-best-of-5.md",
+      "title": "StarCraft 2: KSL FINALS - herO Cannon Rushes Dark! (Best-of-5)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between herO and Dark. This Protoss versus Zerg is one of the most chaotic games of SC2 I've recently seen. These pro gamers are team mates, friends and practice partners and it clearly shows. This series is the finals of the Korean StarCraft League, the KSL.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-ksl-finals-hero-cannon-rushes-dark-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-ksl-finals-hero-cannon-rushes-dark-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=6m66Xw5RuK0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6m66Xw5RuK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H10M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 115,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6m66Xw5RuK0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-09-20T03:32:23-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
       "title": "StarCraft 2: SERRAL vs MARU! (Best-of-7)",
       "excerpt": "Merry Christmas everyone! The two best players currently in StarCraft 2 face off in a best-of-7 series. Serral (Zerg) takes on Maru (Terran). This is the Grand Finals of King of Battles 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
@@ -182,35 +221,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-09-08T04:12:12-07:00"
-    },
-    {
-      "path": "_games/pig-how-is-this-madman-the-1-vietnamese-pro-mad-meo-starcraft-2.md",
-      "title": "How is this MADMAN the #1 Vietnamese Pro? | Mad Meo - StarCraft 2",
-      "excerpt": "Mad MeomaikA is the strangest zerg you'll ever see, but is also somehow Vietnam's #1 StarCraft 2 player! Lets take a dive into the filth that is Meo's devastating plays & insane army compositions. -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-is-this-madman-the-1-vietnamese-pro-mad-meo-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-is-this-madman-the-1-vietnamese-pro-mad-meo-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=wvCMHG4Mk7Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wvCMHG4Mk7Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M31S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wvCMHG4Mk7Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-08-29T06:19:16-07:00"
     },
     {
       "path": "_games/lowkotv-gumihos-epic-battlecruiser-switch-surprises-astrea-starcraft-2.md",
@@ -573,6 +583,44 @@
       "publishedDateTime": "2022-10-24T20:57:51-07:00"
     },
     {
+      "path": "_games/lowkotv-bring-snacks-this-match-between-cure-and-classic-is-awesome-starcraft-2.md",
+      "title": "Bring Snacks. This Match between Cure and Classic is AWESOME! (StarCraft 2)",
+      "excerpt": "One of the best games of StarCraft 2 this year. Cure vs Classic from Gamers8. Both pro gamers try to end this SC2 match as quickly as possible by  being in the opponents face the entire time, but neither of them gets the job done in the early game. A chaotic game with multiple base races ensues. Support",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-bring-snacks-this-match-between-cure-and-classic-is-awesome-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-bring-snacks-this-match-between-cure-and-classic-is-awesome-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=LH3AKAuS1X0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LH3AKAuS1X0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M33S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 100,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LH3AKAuS1X0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-08-19T02:15:32-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-clem-is-the-greatest-sc2-ive-ever-seen.md",
       "title": "StarCraft 2: Serral vs Clem is THE GREATEST SC2 I've ever seen!",
       "excerpt": "Amazing best-of-5 series of StarCraft 2. Serral (Zerg) vs Clem (Terran) is the highest level of SC2 I've seen all year, with a very unique strategy in the final game of this series. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
@@ -638,45 +686,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-10-09T03:18:53-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serral-roach-rushes-maru-best-of-3.md",
-      "title": "StarCraft 2: Serral ROACH RUSHES Maru?! (Best-of-3)",
-      "excerpt": "In this video, I cast a best-of-3 series of StarCraft 2 between Serral, the Finnish Zerg phenom, and Maru, the Korean Terran legend. This series was played during the Masters Coliseum 6, a prestigious tournament featuring the best players from around the world.  In this series Serral surprises Maru with",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-roach-rushes-maru-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-roach-rushes-maru-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=3CkTC5niVls",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3CkTC5niVls\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M20S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 98,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3CkTC5niVls/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-09-05T03:53:06-07:00"
     },
     {
       "path": "_games/pig-starcraft-2-when-troll-strats-ruin-your-economy-diamond-in-the-ruff-72.md",

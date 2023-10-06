@@ -46,22 +46,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "This 1-Of-12 Dodge Starcraft Motorhome Is As Rare As It Is Cute"
-    excerpt: "This exceptionally rare motorhome is powered by a 318 ci Dodge V8, features air conditioning, a kitchen, an awning, and could be yours"
-    publishedDateTime: 2023-09-16T23:09:00Z
-    webUrl: "https://www.carscoops.com/2023/09/this-1-of-12-dodge-starcraft-motorhome-is-as-rare-as-it-is-cute/"
-    ampWebUrl: "https://www.carscoops.com/2023/09/this-1-of-12-dodge-starcraft-motorhome-is-as-rare-as-it-is-cute/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/09/this-1-of-12-dodge-starcraft-motorhome-is-as-rare-as-it-is-cute/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 57
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2023/09/1970-Dodge-Starcraft-Motorhome-1.jpg"
-        width: 2200
-        height: 1238
-        isCached: true
 
 secured: "kWBqpE+uD7/GPukjSOTl0B6CAZTWwiWpl9krCxbQK+4ty1huTCNahweXuLAK5+VjaI+4dyrkF/LwwROKh0W28ZKx4n1n53Yssm535E+8/rnsOsYgNhhrFkE4i0M5G/S5ezuedrAOY4PP/HJC6qHQGWvUW4XWhnAF4IWjAsS4GD3NG7ujiGz1I6HvN/Vo6NqD3LYoX6/IddJgKqCnDyayuSNU+wj0NlYBquGj/4FvVubPg0EBzCoLOph1nSGT/UjZ2v+cUgl6Q0TS4vyEFxTJuEeXWDaYIeEbYvz9+9Dy1HFcPLUwfvU2R5pN6zsDmPYrof5vy4NfsaJVeUkTr/2Ahjm0p2P67za0jZ8bJxrQdDQ=;c4+JhyULR8ujqJ+a2UQ1fg=="
 ---

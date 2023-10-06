@@ -1074,6 +1074,7 @@ items:
   - pig-they-always-do-this-when-they-start-losing-salt-mines-43-starcraft-2
   - pig-the-fastest-terran-in-the-world-faced-three-protoss-pros-at-once-clem-vs-maxpax-harstem-mana-sc2
   - pig-what-is-this-ludicrous-starcraft-2-free-for-all-strategy-beast-of-the-hill-starcraft-2
+  - pig-he-melted-down-when-his-cheese-fell-apart-salt-mines-44-starcraft-2
 
 topics:
   - StarCraft 2

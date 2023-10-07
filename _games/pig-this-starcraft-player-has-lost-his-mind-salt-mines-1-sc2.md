@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=1vjvR4nEJr8
 type: video
 length: PT28M38S
 publishedDateTime: 2022-03-04T03:58:36Z
-heat: 53
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1vjvR4nEJr8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "2ug8fYn7uJTWJJCScYsj3leGl0tGF8OpMqI0iT4VUQ82zFMfjRQj4oip4QB6knBSuGQSqpeR0fICExklITeDgOxuync7NnSPBJc+9koj4ZHY5elpqmRHHEEGWuCo3GWOKQfjuTNu34vZGSzKjVoUWSgyw69UqEkhbgSfstnqccuEkltA3guPmRpckXGL599WLFLTdfeHfZy5TQL2TV7WOA2ji9s1JUVdTo9eVkYbPmWLD5j1SmzPyw3+2/+sQZ9ninari5x62fcAiwzdnioMySOU2cqTziaoyxMPCrzfBo03LLDHu4FdDoHQkU/0LgJIWMrHEDg4HLQeD+8iAb031YaB6pYazgrrhtrdQCGlE/aK65GmpqzyXhR08MgVsVv4RRd4wHtQ/LMqNT5bmUIrB0B1dlfp/6odHzHrIeVnhag=;azGjDqyvk1lDakf+EdN4MA=="
+secured: "ueFYt/qi/MAGiq+Xm7ENz0DgLUPpxmU5NA/vVIn9mgYNKjBys9X5v3N290B6N6eGbU4ifhAScnRBkO1YQh2o3nt9LzphocQnPgXDLit6vsqiP1nHDSFhHjpg2ILb75YZplTfjNxGJgbBHunJuYajjY9J6Kr/L+yNv8kXWBcNYEg26FRGIVMiKXascrnBVRDoi3qg3ktwXsOFhquHAeN0DBhnczOLUCbUKIlxi7Z+oXtScBpBPa37QgWwD91uG23/vVbmR12c9hOiUIDBf7MwmI2VOq9hwTt9N9LG+86qhYjzFRyMWp6XH9Mp6jlDQFCdg8ojLznuNt3Flji6JC99DIIYvN0QEG/T6is9yUfvJFAqfDxkgaFF6dVUj6z+1sQaPzZyK/TtYenqyJ25vM7pOR7qcBaAxbzdvzyKT06A94A=;76qvlCZXpIwNFeYwo1OX9A=="
 ---
 

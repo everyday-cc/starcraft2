@@ -4,6 +4,130 @@
   "page": 6,
   "value": [
     {
+      "path": "_games/pig-the-sewer-mermaid-nukes-himself-for-science-florencio-files-271-starcraft-2.md",
+      "title": "The Sewer Mermaid Nukes Himself For Science | Florencio Files #271 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has discovered the Ranged Liberator  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-sewer-mermaid-nukes-himself-for-science-florencio-files-271-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-sewer-mermaid-nukes-himself-for-science-florencio-files-271-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=LAwa7cWh0fQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LAwa7cWh0fQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M52S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LAwa7cWh0fQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-23T00:14:00-07:00"
+    },
+    {
+      "path": "_games/pig-when-your-strategy-is-mint-but-your-opponent-has-300-apm-florencio-files-252-starcraft-2.md",
+      "title": "When your strategy is mint but your opponent has 300 APM | Florencio Files #252 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, he faces an opponent with very high APM.   🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-your-strategy-is-mint-but-your-opponent-has-300-apm-florencio-files-252-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-your-strategy-is-mint-but-your-opponent-has-300-apm-florencio-files-252-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=dAwxby8_M5E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dAwxby8_M5E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M13S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dAwxby8_M5E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-12-15T01:21:00-08:00"
+    },
+    {
+      "path": "_games/pig-whose-ball-is-it-anyway-the-king-of-cannons-1.md",
+      "title": "Whose Ball is it Anyway!? | The King of Cannons #1",
+      "excerpt": "Seems like we got ANOTHER new series bois(n girls), The King of Cannons!  be sure to follow him on: Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng  Like the content? Then consider to leave a thumbs",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-whose-ball-is-it-anyway-the-king-of-cannons-1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-whose-ball-is-it-anyway-the-king-of-cannons-1/",
+      "originalUrl": "https://youtube.com/watch?v=6LShnUyxhUc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6LShnUyxhUc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M31S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "tags": [
+        "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6LShnUyxhUc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-03T15:59:09-07:00"
+    },
+    {
+      "path": "_games/pig-wings-of-liberty-nightmare-difficulty-1st-protoss-mission-whispers-of-doom-part-9-starcraft-2.md",
+      "title": "Wings of Liberty NIGHTMARE DIFFICULTY: 1st Protoss Mission Whispers of Doom. Part 9 - StarCraft 2",
+      "excerpt": "My first try at Nightmare Difficulty Mode StarCraft 2 Campaign created by GiantGrantGames and his amazing modding community. Having lots of fun with it! Here's the 9th part containing:  0:00 What is this range?! 0:12 Whispers of Doom  Here's a guide on how to play nightmare mode: https://www.reddit.com/r/StarcraftCampaigns/comments/tcxzii/wings_of_liberty_nightmare_difficulty/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-wings-of-liberty-nightmare-difficulty-1st-protoss-mission-whispers-of-doom-part-9-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-wings-of-liberty-nightmare-difficulty-1st-protoss-mission-whispers-of-doom-part-9-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=tX_mStnV2Tw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tX_mStnV2Tw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M10S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tX_mStnV2Tw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-07-15T14:53:10-07:00"
+    },
+    {
       "path": "_games/sc2hl-5-vs-10-supply-28-minute-basetrade-starcraft-2-clem-vs-showtime.md",
       "title": "5 vs 10 SUPPLY?! - 28 Minute BASETRADE - Starcraft 2: Clem vs Showtime",
       "excerpt": "A crazy Protoss vs Terran between Showtime and Clem, the 16 year old Starcraft 2 pro. Who will win the Basetrade?   ► Find the WCS Valencia Vods here: https://www.youtube.com/user/WCSStarCraft ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more",
@@ -42,14 +166,14 @@
       "publishedDateTime": "2018-10-16T07:21:19-07:00"
     },
     {
-      "path": "_games/sc2hl-supreme-late-game-protoss-vs-zerg-dark-vs-stats-starcraft-2-starleague.md",
-      "title": "SUPREME LATE GAME PROTOSS VS ZERG - Dark vs Stats - StarCraft 2 Starleague",
-      "excerpt": "Dark vs Stats in an epic 38 minute Protoss vs Zerg during the Starcraft 2 starleague. Going to the supreme late game.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Watch the Starcraft 2 Starleague on: http://youtube.com/esportstv    Thank you for watching our videos! Subscribe for more StarCraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-supreme-late-game-protoss-vs-zerg-dark-vs-stats-starcraft-2-starleague/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-supreme-late-game-protoss-vs-zerg-dark-vs-stats-starcraft-2-starleague/",
-      "originalUrl": "https://youtube.com/watch?v=8x9xoxB1DfI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8x9xoxB1DfI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M30S",
+      "path": "_games/sc2hl-epic-starcraft-2-game-1-hour-long-protoss-vs-terran-creator-vs-ty.md",
+      "title": "EPIC STARCRAFT 2 GAME - 1 HOUR LONG Protoss vs Terran - Creator vs TY",
+      "excerpt": "One of the most epic starcraft games of the year, between Classic and TY During the RO16 of GSL Super Tournament. A crazy Protoss vs Terran.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-epic-starcraft-2-game-1-hour-long-protoss-vs-terran-creator-vs-ty/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-epic-starcraft-2-game-1-hour-long-protoss-vs-terran-creator-vs-ty/",
+      "originalUrl": "https://youtube.com/watch?v=iHS8M4VUwrI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iHS8M4VUwrI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M15S",
       "provider": {
         "name": "SC2HL",
         "domain": "sc2hl.com",
@@ -64,13 +188,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
-        "Zerg"
+        "Terran",
+        "Protoss"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/8x9xoxB1DfI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/iHS8M4VUwrI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -78,7 +202,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2017-08-04T12:34:48-07:00"
+      "publishedDateTime": "2018-10-16T07:21:19-07:00"
     },
     {
       "path": "_games/beastyqtsc2-chad-raying-people-a-beautiful-starcraft-2-life-story.md",
@@ -877,138 +1001,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-03-29T16:53:45-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-deadliest-hallucinated-oracle-you-have-ever-seen.md",
-      "title": "StarCraft 2: Deadliest Hallucinated Oracle You Have EVER Seen!",
-      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  This set of games continues onward in the Mass Sentry Series, and we even start facing Grand Master opponents! One thing we learn about",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-deadliest-hallucinated-oracle-you-have-ever-seen/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-deadliest-hallucinated-oracle-you-have-ever-seen/",
-      "originalUrl": "https://youtube.com/watch?v=oIp2AvYqqgI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oIp2AvYqqgI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M15S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oIp2AvYqqgI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-07-31T17:11:56-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-disruptor-drops-into-void-rays.md",
-      "title": "StarCraft 2: Disruptor Drops Into Void Rays!",
-      "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right! At this point in the series, we are introducing other units into the composition to make the games",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-disruptor-drops-into-void-rays/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-disruptor-drops-into-void-rays/",
-      "originalUrl": "https://youtube.com/watch?v=_Fj4NmkQQE0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Fj4NmkQQE0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M54S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_Fj4NmkQQE0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-01-05T04:39:53-08:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-dont-think-chad-rays-are-viable.md",
-      "title": "StarCraft 2: Don't Think Chad Rays are Viable?",
-      "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-dont-think-chad-rays-are-viable/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-dont-think-chad-rays-are-viable/",
-      "originalUrl": "https://youtube.com/watch?v=mlE5UJf16bg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mlE5UJf16bg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M57S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mlE5UJf16bg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-12-11T02:48:55-08:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-expanding-to-the-island-base-mass-zealots-phoenix.md",
-      "title": "StarCraft 2: Expanding to the Island Base! - MASS Zealots & Phoenix!",
-      "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-expanding-to-the-island-base-mass-zealots-phoenix/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-expanding-to-the-island-base-mass-zealots-phoenix/",
-      "originalUrl": "https://youtube.com/watch?v=7UwwC9aiEkw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7UwwC9aiEkw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M2S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7UwwC9aiEkw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-03-27T04:29:39-07:00"
     }
   ],
   "nextPage": 7

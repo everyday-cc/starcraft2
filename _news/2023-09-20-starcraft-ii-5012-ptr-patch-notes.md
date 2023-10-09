@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5
 webUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5-0-12-ptr-patch-notes"
 type: article
 quality: 177
-heat: 223
+heat: 224
 published: true
 
 provider:

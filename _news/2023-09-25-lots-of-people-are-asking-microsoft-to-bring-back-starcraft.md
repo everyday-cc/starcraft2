@@ -7,7 +7,7 @@ originalUrl: "https://www.gamereactor.eu/lots-of-people-are-asking-microsoft-to-
 webUrl: "https://www.gamereactor.eu/lots-of-people-are-asking-microsoft-to-bring-back-starcraft-1308353/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,20 +24,38 @@ images:
     isCached: true
 
 related:
-  - title: "Fans Want Xbox To Bring Back StarCraft, But Phil Spencer Wants MechAssault"
-    excerpt: "MechWarrior is an interesting choice from Phil, but something of a licensing nightmare. The franchise really starts with Battletech, a wargaming board game published and created by FASA Corporation. MechWarrior is a spinoff of Battletech, and it is an RPG board game where you play a mech pilot."
-    publishedDateTime: 2023-09-25T12:37:00Z
-    webUrl: "https://gameranx.com/updates/id/476955/article/fans-want-xbox-to-bring-back-starcraft-but-phil-spencer-wants-mechassault/"
+  - title: "StarCraft II 5.0.12 Patch Notes"
+    excerpt: "Patch 5.0.12 has arrived with balance changes, bug fixes, and map pool update."
+    publishedDateTime: 2023-09-28T20:10:00Z
+    webUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5-0-12-patch-notes"
     type: article
     provider:
-      name: Gameranx
-      domain: gameranx.com
-    quality: 35
+      name: Blizzard
+      domain: blizzard.com
+    quality: 177
     images:
-      - url: "http://gameranx.com/wp-content/uploads/2017/08/StarcraftR1-1024x512.jpg"
-        width: 1024
-        height: 512
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg"
+        width: 960
+        height: 540
         isCached: true
+  - title: "2007 Starcraft Prices, Values and Specs"
+    excerpt: "Starblazer 6'6\" Truck Camper - Telescopic Cab Over Side Gaucho No Lonestar 8' Truck Camper - Telescopic Cab Over Rear Kitchen No Lonestar S 8' Truck Camper - Telescopic Cab Over Rear Kitchen No M-800 8' Truck Camper - Telescopic Cab Over Rear Bathroom Yes ..."
+    publishedDateTime: 2023-09-22T10:08:00Z
+    webUrl: "https://www.jdpower.com/rvs/2007/starcraft"
+    type: article
+    provider:
+      name: jdpower
+      domain: jdpower.com
+    quality: 17
+  - title: "1999 Starcraft Prices, Values and Specs"
+    excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
+    publishedDateTime: 2023-10-02T19:58:00Z
+    webUrl: "https://www.jdpower.com/rvs/1999/used/starcraft"
+    type: article
+    provider:
+      name: jdpower
+      domain: jdpower.com
+    quality: 17
 
 secured: "2gcxcjQom0OOm145TsesDPoPUf0aM8mmDqzm0VbqIp4GvWFUwb8LcPUeZb548mQJ3drkTyP2a5VFOv/PoT3/aF5SjulaDPy/S1TKjLgBxl56qxWW3zGMNJ7XZUwubDthq0YXLdyvrxTDaFyYVg2r7iHDlRba5msFdXMcD6wKzmUh0fHO1eZjrNJqrQB4Wg8xMjsGkOU6o6WPW8wb72sZebgKJ2Cd3UuArMa2iyzGQf0vIwpXfDWrh8Sl9GVv0x16H1oto5LaFVurJuTeNza7vqgrYUBNIbYorGZg6F3Ksm+IjBG9bSH74S9mFaaz8UmYxjHk6W3Ri8K1ANHN3cHk2J5lpSGavTP+P8SHAlkgil4SMTEWyhBeoY9uMQ1AUOuWqfg0N7XbVtlVjDsx9v6+/Oe6s3rPfMC/VGEYf3zak+zzW/5cZ6COfHIQ5gbHVilUW7ywnZbUqgY6V8zBtcm/+mAI2U0sCyD4KNG7Fp1Mgm6nVJnAGukOuoQfDHS5zz1B88inatjTAcmCUuAnQfbt1g==;hd+5HnTREyVZa1uEEkdhKg=="
 ---

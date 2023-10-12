@@ -46,15 +46,6 @@ related:
         width: 3360
         height: 1890
         isCached: true
-  - title: "2007 Starcraft Prices, Values and Specs"
-    excerpt: "Starblazer 6'6\" Truck Camper - Telescopic Cab Over Side Gaucho No Lonestar 8' Truck Camper - Telescopic Cab Over Rear Kitchen No Lonestar S 8' Truck Camper - Telescopic Cab Over Rear Kitchen No M-800 8' Truck Camper - Telescopic Cab Over Rear Bathroom Yes ..."
-    publishedDateTime: 2023-09-22T10:08:00Z
-    webUrl: "https://www.jdpower.com/rvs/2007/starcraft"
-    type: article
-    provider:
-      name: jdpower
-      domain: jdpower.com
-    quality: 17
 
 secured: "uVJ5tEoRyALPZNoDREwf8t4DWeuEgC22BcNzD2HdZiC83KP6gVkS4tTTWKdEKSEaBlVULFfHxQt1GH2go6/k96iE007K+OPUGPorkycmlHPDwsWu5tLRP9ZmzCntbfP9m4e35XaF7zDYYekCyRbUXtlMqoiLgK/AheDq/EJnnbQ5kL2LFfqWTB9i+5j5MxQ0yjvfLWOrY2CntHKk+M34GWdFUHo/5r9nUFaMydmaFsoKT7yaAjSqfBm0KpXfKtoAByQO++v8r1ORZ6aruGjnpCO9dtmwuQsVbPiLIeXtJ70EGFG/NkYpKzkHWPK1GPLONbNqp4KQxOA+4wlK0amLpZk7uvMhaCFd2M4wVDqzbA4=;hapqLbnM+CeVv23kw29tbw=="
 ---

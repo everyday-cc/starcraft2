@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5
 webUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5-0-12-patch-notes"
 type: article
 quality: 177
-heat: 237
+heat: 217
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 3360
         height: 1890
         isCached: true
-  - title: "2007 Starcraft Prices, Values and Specs"
-    excerpt: "Starblazer 6'6\" Truck Camper - Telescopic Cab Over Side Gaucho No Lonestar 8' Truck Camper - Telescopic Cab Over Rear Kitchen No Lonestar S 8' Truck Camper - Telescopic Cab Over Rear Kitchen No M-800 8' Truck Camper - Telescopic Cab Over Rear Bathroom Yes ..."
-    publishedDateTime: 2023-09-22T10:08:00Z
-    webUrl: "https://www.jdpower.com/rvs/2007/starcraft"
-    type: article
-    provider:
-      name: jdpower
-      domain: jdpower.com
-    quality: 17
   - title: "1999 Starcraft Prices, Values and Specs"
     excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
     publishedDateTime: 2023-10-02T19:58:00Z

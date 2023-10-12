@@ -4,6 +4,44 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-lowkos-mass-hydra-vs-terran-mech.md",
+      "title": "StarCraft 2: Lowko's MASS HYDRA vs Terran Mech?!",
+      "excerpt": "Live gameplay of a Zerg vs Terran in StarCraft 2. In this game Lowko faces off against a Terran who decides to play Battle Mech into Ghost Mech. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  00:00 The StarCraft 2 Forums 02:49 Live Game of Zerg vs Terran 24:14 Game analysis",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-lowkos-mass-hydra-vs-terran-mech/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-lowkos-mass-hydra-vs-terran-mech/",
+      "originalUrl": "https://youtube.com/watch?v=UJ91d0VwshM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UJ91d0VwshM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M40S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 118,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UJ91d0VwshM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-05-06T01:32:37-07:00"
+    },
+    {
       "path": "_games/pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-starcraft-2.md",
       "title": "How to beat the 1v7 INSANE AI Challenge (no, Beastyqt has not done it) - StarCraft 2",
       "excerpt": "I have challenged StarCraft 2 Pros to take on 7 INSANE Cheater AIs at once! Serral has said it is impossible unless maybe they're all Zergs. After Spirit (Soul) tried it first, the next person brave enough to try it is PiLiPiLi, a Protoss player. He took on 7 Random insane AIs all on Any Build. Then",
@@ -99,43 +137,6 @@
       "publishedDateTime": "2021-08-26T04:06:39-07:00"
     },
     {
-      "path": "_games/lowkotv-the-funniest-and-cheesiest-games-starcraft-2.md",
-      "title": "The Funniest and CHEESIEST Games! (StarCraft 2)",
-      "excerpt": "Three viewer submitted games of StarCraft 2. All of these games feature very cheesy and aggressive SC2 build orders.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  00:00 Game 1 (Platinum League) 13:03 Game 2 (Grandmaster League) 24:02 Game 3 (Unranked)  My YouTube channels:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-the-funniest-and-cheesiest-games-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-the-funniest-and-cheesiest-games-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=U2UXzNG7BxQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/U2UXzNG7BxQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 114,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/U2UXzNG7BxQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-27T03:27:28-07:00"
-    },
-    {
       "path": "_games/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-seige-tactics-g1.md",
       "title": "StarCraft 2 - When You Build a Base In Their Base... | ICYFAR \"Seige Tactics\" G1",
       "excerpt": "🤯 NEW ICYFAR CHALLENGE: One Base Openers - You're not allowed to start building an expansion until after 5:00. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 21st May. -- 🤯 In this week’s episode of I Cast Your",
@@ -165,14 +166,14 @@
       "publishedDateTime": "2022-04-27T23:30:12-07:00"
     },
     {
-      "path": "_games/pig-nova-here-moebius-factor-wings-of-liberty-nightmare-difficulty-part-13-starcraft-2.md",
-      "title": "NOVA HERE & Moebius Factor! | Wings of Liberty NIGHTMARE DIFFICULTY Part 13 - StarCraft 2",
-      "excerpt": "My first try at Nightmare Difficulty Mode StarCraft 2 Campaign created by GiantGrantGames and his amazing modding community. Having lots of fun with it! Here's the 13th part  0:00 Intro Clip 0:13 Ghost Of A Chance 41:45 The Moebius Factor  Here's a guide on how to play nightmare mode: https://www.reddit.com/r/StarcraftCampaigns/comments/tcxzii/wings_of_liberty_nightmare_difficulty/",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-nova-here-moebius-factor-wings-of-liberty-nightmare-difficulty-part-13-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-nova-here-moebius-factor-wings-of-liberty-nightmare-difficulty-part-13-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=_a4BPpKkrzU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_a4BPpKkrzU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H16M39S",
+      "path": "_games/pig-the-hardest-mission-ever-wings-of-liberty-nightmare-difficulty-part-11-starcraft-2.md",
+      "title": "The Hardest Mission EVER | Wings of Liberty NIGHTMARE DIFFICULTY Part 11 - StarCraft 2",
+      "excerpt": "My first try at Nightmare Difficulty Mode StarCraft 2 Campaign created by GiantGrantGames and his amazing modding community. Having lots of fun with it! Here's the 11th part containing:  0:00 Stop sniping my good units! 0:07 In Utter Darkness  Here's a guide on how to play nightmare mode: https://www.reddit.com/r/StarcraftCampaigns/comments/tcxzii/wings_of_liberty_nightmare_difficulty/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-hardest-mission-ever-wings-of-liberty-nightmare-difficulty-part-11-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-hardest-mission-ever-wings-of-liberty-nightmare-difficulty-part-11-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=nAJF-Vqjt0I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nAJF-Vqjt0I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H51M13S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -180,10 +181,10 @@
       "topics": [
         "StarCraft 2"
       ],
-      "heat": 110,
+      "heat": 112,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/_a4BPpKkrzU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/nAJF-Vqjt0I/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -191,7 +192,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-07-29T18:55:45-07:00"
+      "publishedDateTime": "2023-07-27T00:03:25-07:00"
     },
     {
       "path": "_games/lowkotv-gumihos-epic-battlecruiser-switch-surprises-astrea-starcraft-2.md",

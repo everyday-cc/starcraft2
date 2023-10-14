@@ -4,6 +4,83 @@
   "page": 6,
   "value": [
     {
+      "path": "_games/lowkotv-gumihos-craziest-strategies-yet-starcraft-2-finals.md",
+      "title": "GuMiho's CRAZIEST Strategies Yet! (StarCraft 2 Finals)",
+      "excerpt": "Ragnarok vs GuMiho in a best-of-5 series of StarCraft 2. This series is the finals of the Korean StarCraft League 22 (the KSL). In these SC2 games GuMiho decides to go for some of the craziest build orders I've seen the man play ever. One base Battlecruisers, two base Thor and of course loads of proxy",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-gumihos-craziest-strategies-yet-starcraft-2-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-gumihos-craziest-strategies-yet-starcraft-2-finals/",
+      "originalUrl": "https://youtube.com/watch?v=ox89UL2CGtA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ox89UL2CGtA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M9S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ox89UL2CGtA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-08-10T04:12:21-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-classics-new-mass-robotics-style-vs-byun.md",
+      "title": "StarCraft 2: Classic's NEW Mass Robotics Style vs ByuN!",
+      "excerpt": "ByuN vs Classic in a best-of-3 series of StarCraft 2. In this match Classic decides to bring out mass Robo facility in the late game, rather than transition towards Sky Toss. This series was recently played during the $400 000 Gamers8 StarCraft 2 tournament. Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-classics-new-mass-robotics-style-vs-byun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-classics-new-mass-robotics-style-vs-byun/",
+      "originalUrl": "https://youtube.com/watch?v=c0rUH67Fmuk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c0rUH67Fmuk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/c0rUH67Fmuk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-08-25T00:50:30-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-epic-match-clem-vs-dark-best-of-7.md",
       "title": "StarCraft 2: EPIC MATCH - Clem vs Dark! (Best-of-7)",
       "excerpt": "Epic match of professional StarCraft 2 between Clem and Dark. In this best-of-7 series from the TSL 7 we watch two top level pro gamers fight it out in some very clever games. Clem doesn't really lose Terran versus Zerg in Europe anymore, but Dark plays a Korean version of ZvT that's different than what",
@@ -337,45 +414,6 @@
       ],
       "content": "\r\n",
       "type": "collection"
-    },
-    {
-      "path": "_games/lowkotv-can-byun-counter-serrals-supremacy-starcraft-2.md",
-      "title": "Can ByuN Counter Serral's SUPREMACY? (StarCraft 2)",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 between Serral (Zerg) and ByuN (Terran). Some very strange and powerful build orders get played by both players in this game, as both players try to outsmart each other. They're trying to put the word strategy in to the Real Time Strategy category.  Support my",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-can-byun-counter-serrals-supremacy-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-can-byun-counter-serrals-supremacy-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=j5QLBeG_u3Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j5QLBeG_u3Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/j5QLBeG_u3Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-09-12T02:19:21-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-amazing-match-reynor-showtimes-zerg-vs-protoss-insanity.md",
@@ -3364,36 +3402,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-08T03:08:29-07:00"
-    },
-    {
-      "path": "_games/pig-bm-zerg-loser-bullies-opponent-to-save-face-salt-mines-35-starcraft-2.md",
-      "title": "BM Zerg loser BULLIES opponent to save face | Salt Mines #35 - StarCraft 2",
-      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-bm-zerg-loser-bullies-opponent-to-save-face-salt-mines-35-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-bm-zerg-loser-bullies-opponent-to-save-face-salt-mines-35-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=l9XvaWyvJrI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l9XvaWyvJrI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M56S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/l9XvaWyvJrI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-03T22:28:52-07:00"
     }
   ],
   "nextPage": 7

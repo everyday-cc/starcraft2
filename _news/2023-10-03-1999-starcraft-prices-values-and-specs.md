@@ -32,20 +32,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Lots of people are asking Microsoft to bring back StarCraft"
-    excerpt: "It turns out people are really hoping Microsoft will bring StarCraft back, now that it actually looks like the acquisition of Activision Blizzard will happen. And fortunately enough, it doesn't seem tom be anything Microsoft is ruling out, as Bond also added: \"It will be fun to see if we can do something with that in the future\""
-    publishedDateTime: 2023-09-24T23:57:00Z
-    webUrl: "https://www.gamereactor.eu/lots-of-people-are-asking-microsoft-to-bring-back-starcraft-1308353/"
-    type: article
-    provider:
-      name: Gamereactor
-      domain: gamereactor.eu
-    quality: 37
-    images:
-      - url: "https://www.gamereactor.eu/media/30/philspencerwants_3723063b.jpg"
-        width: 3360
-        height: 1890
-        isCached: true
 
 secured: "uVJ5tEoRyALPZNoDREwf8t4DWeuEgC22BcNzD2HdZiC83KP6gVkS4tTTWKdEKSEaBlVULFfHxQt1GH2go6/k96iE007K+OPUGPorkycmlHPDwsWu5tLRP9ZmzCntbfP9m4e35XaF7zDYYekCyRbUXtlMqoiLgK/AheDq/EJnnbQ5kL2LFfqWTB9i+5j5MxQ0yjvfLWOrY2CntHKk+M34GWdFUHo/5r9nUFaMydmaFsoKT7yaAjSqfBm0KpXfKtoAByQO++v8r1ORZ6aruGjnpCO9dtmwuQsVbPiLIeXtJ70EGFG/NkYpKzkHWPK1GPLONbNqp4KQxOA+4wlK0amLpZk7uvMhaCFd2M4wVDqzbA4=;hapqLbnM+CeVv23kw29tbw=="
 ---

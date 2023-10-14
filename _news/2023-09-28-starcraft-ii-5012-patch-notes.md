@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5
 webUrl: "https://news.blizzard.com/en-us/starcraft2/24009150/starcraft-ii-5-0-12-patch-notes"
 type: article
 quality: 177
-heat: 220
+heat: 200
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lots of people are asking Microsoft to bring back StarCraft"
-    excerpt: "It turns out people are really hoping Microsoft will bring StarCraft back, now that it actually looks like the acquisition of Activision Blizzard will happen. And fortunately enough, it doesn't seem tom be anything Microsoft is ruling out, as Bond also added: \"It will be fun to see if we can do something with that in the future\""
-    publishedDateTime: 2023-09-24T23:57:00Z
-    webUrl: "https://www.gamereactor.eu/lots-of-people-are-asking-microsoft-to-bring-back-starcraft-1308353/"
-    type: article
-    provider:
-      name: Gamereactor
-      domain: gamereactor.eu
-    quality: 37
-    images:
-      - url: "https://www.gamereactor.eu/media/30/philspencerwants_3723063b.jpg"
-        width: 3360
-        height: 1890
-        isCached: true
   - title: "1999 Starcraft Prices, Values and Specs"
     excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
     publishedDateTime: 2023-10-02T19:58:00Z

@@ -4,7 +4,7 @@ excerpt: "I coach a silver 1 terran player on some key mechanics, how to learn a
 originalUrl: https://youtube.com/watch?v=f0chGt6IVBo
 type: video
 price: Free
-length: PT1H10M53S
+length: PT1H10M52S
 publishedDateTime: 2017-05-11T09:13:10Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "W/SrKB73fhhrgPWF9L90XQRZFyQDTdDq9TOp8l5scRzHNEFLclNjbOEZ3GIonF8pkhmh6DFHYjbxEbKJpnepkMepRMxXOyikBPbDftVgfgwMJtWGQInnl3ma9NfRoW3BwfjHUr7CV49uKIZIjeJcV1IeUVwXAgpQGNI4MisndSsIy4k7Kv7QsrXL/OfZkIr2eeGJT6T7pl58Lcvs5UloJu3p9TaVdjFZwUakd1SHrR4MBBJmgYk6QimI0q/PYHSkOY78QAVhfeMtNVVmCojuK7xRJDzOZCtxIKXsKTt5A11klcZDjRk2POHn7X03oLs924MBwpRVJv3XJIldT6E4Wp0qi+5eA/2zEsKtEzLJoYYiyssr4YeBh0wP3JHt0Gh/2WPJZ8pDJooHN6pO6agBC5ij3wHkCDOfpT5QAv56mmw=;x7Q5JzhjzEcazL3XVtscxQ=="
+secured: "G5Wmds234Cw1JiIPimxvZGI/HwHHjlH5CDhu3aDyzoZN+E9xoc/kh875jedFcl8HYIWljOk0WObqIkjlTDcZap90HA0DhFdQQn0aECm18mFVyor/Fxwg0aMe51iEzurUSI3OkvnMrU648nzdRxTPGv3oumPCCaP+lT6hp6d5uZnDeOYu9Hxmp4D8N8dGivOV0EyHSMM3IYHMmHvHc9rR4uXcQ5EjlB3bhUIzl/UrC0psdR15AjMvVdCrS0t9PqdhKsL9yzgovJHHq7F0TRtgn17MVtMhGQGSGBGfi7qmeDHO4SgzV0wPGWDLzXdgebIsMQWlzqQa26nwnG5KLa2y0GUg8VwgYYLvm8h0JXt9fsmCDmswLwdAS6qb01QDMzhqxmN1Fhlx3rw4ANNaEIGrW/rT3AbD3x1ssW0BoJ3EH+I=;6dJDlf+fmv3mPLubP65FDg=="
 ---
 

@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=2glNc-uueK8
 type: video
 length: PT41M45S
 publishedDateTime: 2023-07-28T18:12:31Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2glNc-uueK8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1cqA6kKECDdwu0uFUPmkFPLEQmbRsYeqEX8zQWfbEYzRFQl0IobicEU/80Rt+HXN8iRARxeFeCT2rzclU5W/st5gf/w4Wls/hFYLBNHRLSUK3GdOmloynZ7GssGcSpuHShfuGUoFXIrOUI0FDL3f0dwFdguSzGrVE33w8uzBlbIQFcFpvk9vtM+cHgk1NzhSYMvcbt8b9J4ZBFV3/LVFJ1pcL/7aW2FG2lxr0UyayV/I9TdXLDby1Ky9GRDc4k0VKCVQfdj8KaaFA7fTyU0rmPXJeVSgehnAxMiHSy6zdB8AZjmAb4jB3u3GU7JVl+GKSDzsEJ4pBPJbE6m5PnGTTD0mjrcVkcbWkAO840j49KcgTgsdLMRI9WGRgE2ljS5t7BW4n9sppW4ElecnSzHmHcByEn7NaRpBZnNimu4WMI0=;WJFxwtilxd/cibDoriu+SA=="
+secured: "5/Fs/i24BALV32sFvbmYS+ktZHKePEnt0vwdMK9/az6CHsX3uBCm5ZNUrvBku0FNGI+EsHeTiQzj5wcz2Zfp3MGqK+TB0PRUVHhiqps32lVbucBxZVJgbn9hp8qrmJmxGe0IPdY/fWQZFRtsQ8FlA+Hb9kAgXrEkFw4r2eCe27em0OekLKw2+oKOYsjHiFS+Z1qPm0DIefuG3W+HNvNvit/fSckGyAFE/AeocptFF4u9XZWlV7qUoJs5nIDe+u5iYNN12cvgAE3l+m6wEDBw1MpPDtt2AFDdP2qHdXjn3U7iRJymYYuNBAlOOcTXSaJp12kAKvcNgQfiO6QFOnW+ImcvIIVNcL9IxPLj/L/ip/EpGydopE7zXzW8vtDFTa/NX7SEdolcZu2VmMgSQsWtmjA5lg1f7C4i5zCrtAMsSRg=;m7xTq1AKV/GrjhgpuUd9iQ=="
 ---
 

@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=lKSt3D_-NNg
 type: video
 length: PT16M43S
 publishedDateTime: 2022-06-02T08:59:07Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lKSt3D_-NNg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "T0uU2niABxjDyLojYHMavAVPwBWuzU5TFmW92/RLJu8pcirO0lHhVInI84G9qr5pGs2wYOMuep3RUh3Hs1o1bFdJ936sm4UepaeG7CaihCoPuMS0VeUnpo28ec/AKT6lSgeV4tYpoW0+sybYLca5QLnE6JTBO6KHfkvFvDFx1x3TZ+g5yv2ESQlVq0s8rpp4Tt2vfauxSlSdDWtvNmK7MF5aJCz96ygn78ZTa350wbk0lW4S4MT1skkQXqQHla0RsBv4B7xgrNPwyzbArnpL0ZFW9H4HR+x1U5zibh1SxlMRXnNN9mX/lr7ZjSCt0LjVhiAbKeGEd3eNm6kMogZpHKEnymXU4TZLGWPqSwk4mF8Y/lBtPyFjBmV1XSeWI2pwPbxCq7nNce+3SyeAGryJprIUe5dXfThdC9nkty/ga0k=;mJTITbUXDtaI2RoDrm7x4Q=="
+secured: "7k8CmcJVD5yBb4sw8DzqvEqU0/apk/CJUDudxDizbU2sRWWk8R60JF7sshtFA2lQcTKL4PBnKvAZmsqmMTITz/wYYQeseekk00liaT3RUENqmxrTNRtDto9G1fJ/D0lZX6/nvn6c5vtqSIQ1R6mqCgS+pRxFAQBCSUQTzsK2y5yaMTZew8M0kCfAQpSjMwgrtZS+c/BBhMLe1JkzYv6nR/3fjQx0Nm5a8O5/d9a8FVyZ9p2UcfjB4l5CgyLoLrTX4WGU7hJzQjzUnHabeFB7PmXgBpkJq44LReNyVd4QsCCqZMH6jCiY3//Msx6gliP2jx3Ytsqnzyz3cpZsfLJ2QlduguzEKlPU5etfeexZTA9Lh1UneXoOVlI4+kydF8FFoH6k1BU/KPMidYs68TZtAPdqL3TYiB2cg+eI5aMX9YA=;2VCZws2EcizLfQ/3o27IzQ=="
 ---
 

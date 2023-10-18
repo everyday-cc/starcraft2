@@ -4,6 +4,37 @@
   "page": 19,
   "value": [
     {
+      "path": "_learning/videos/pig-starcraft-2-4-gate-chargelot-dts-pvz-coaching.md",
+      "title": "StarCraft 2 - 4 Gate Chargelot DTs! PvZ Coaching",
+      "excerpt": "Bunch of scheduling/lobby stuff i cut from this vid, hope you like the end though! :) Here is the reddit post from the start of the coaching if you are curious: https://www.reddit.com/r/allthingsprotoss/comments/a7dlpo/build_of_the_week_pvz_traps_4gate_chargelotdt/  -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-4-gate-chargelot-dts-pvz-coaching/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-4-gate-chargelot-dts-pvz-coaching/",
+      "originalUrl": "https://youtube.com/watch?v=YCvMROEJTL4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YCvMROEJTL4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M43S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-02-19T16:46:37-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YCvMROEJTL4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-starcraft-2-66-drone-hydra-bane-smash-coaching-zvp-m3.md",
       "title": "StarCraft 2 - 66 drone hydra-bane SMASH | Coaching ZvP M3",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -889,38 +920,6 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-cheesy-terran-learns-macro-tvz-coaching-d2.md",
-      "title": "StarCraft 2 - Cheesy Terran learns macro TvZ - Coaching D2",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-cheesy-terran-learns-macro-tvz-coaching-d2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-cheesy-terran-learns-macro-tvz-coaching-d2/",
-      "originalUrl": "https://youtube.com/watch?v=uTFq0TFVs_k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uTFq0TFVs_k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H14M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-06-12T06:36:21-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uTFq0TFVs_k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
       ]
     }
   ],

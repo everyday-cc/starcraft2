@@ -494,7 +494,7 @@
         "Protoss",
         "Zerg"
       ],
-      "heat": 192,
+      "heat": 176,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/1FXUxm7jGlU/maxresdefault.jpg",
@@ -653,14 +653,14 @@
       "publishedDateTime": "2023-10-09T02:47:18-07:00"
     },
     {
-      "path": "_games/lowkotv-serral-vs-classic-epic-late-game-masterclass-starcraft-2.md",
-      "title": "Serral vs Classic - Epic Late Game MASTERCLASS! (StarCraft 2)",
-      "excerpt": "Epic match of StarCraft 2 from Gamers8 between Serral (Zerg) and Classic (Protoss). This match goes the distance as both players get dangerously close to 200 Army supply with the entire map of Gresvan mined out. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-serral-vs-classic-epic-late-game-masterclass-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-serral-vs-classic-epic-late-game-masterclass-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=gd0jagMJnR8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gd0jagMJnR8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT50M18S",
+      "path": "_games/lowkotv-starcraft-2-classics-new-mass-robotics-style-vs-byun.md",
+      "title": "StarCraft 2: Classic's NEW Mass Robotics Style vs ByuN!",
+      "excerpt": "ByuN vs Classic in a best-of-3 series of StarCraft 2. In this match Classic decides to bring out mass Robo facility in the late game, rather than transition towards Sky Toss. This series was recently played during the $400 000 Gamers8 StarCraft 2 tournament. Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-classics-new-mass-robotics-style-vs-byun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-classics-new-mass-robotics-style-vs-byun/",
+      "originalUrl": "https://youtube.com/watch?v=c0rUH67Fmuk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c0rUH67Fmuk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M13S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -675,13 +675,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
-        "Zerg"
+        "Terran",
+        "Protoss"
       ],
-      "heat": 118,
+      "heat": 114,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/gd0jagMJnR8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/c0rUH67Fmuk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -689,7 +689,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-08-16T04:23:14-07:00"
+      "publishedDateTime": "2023-08-25T00:50:30-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",

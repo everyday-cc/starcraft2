@@ -7,7 +7,7 @@ originalUrl: "https://techraptor.net/gaming/news/starcraft-spiritual-successor-s
 webUrl: "https://techraptor.net/gaming/news/starcraft-spiritual-successor-stormgate-reveals-alpha-results-new-phase-announced"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Battlefront meets Starcraft as FPS strategy game launches on Steam"
+    excerpt: "As Executive Assault 2 leaves Steam Early Access, this hybrid of RTS and FPS combines space combat and ground warfare in a blend of C&C, Halo, and Battlefront."
+    publishedDateTime: 2023-10-19T13:46:00Z
+    webUrl: "https://www.pcgamesn.com/executive-assault-2/steam"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 37
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/10/executive-assault-2-rts-fps-hybrid-strategy-game-shooter-battlefront-starcraft-command-and-conquer-halo-steam-release-date.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "2024 Starcraft Delta 188 DC Pro"
     excerpt: "The Starcraft Delta 188 DC Pro is a multispecies aluminum fishing boat designed for the serious angler who wants to get after it in all kinds of weather. The Vertex Performance Strake hull tapers to 15 degrees at the transom, providing quick planing and ..."
     publishedDateTime: 2023-10-12T19:51:00Z

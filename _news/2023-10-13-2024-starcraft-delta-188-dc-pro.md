@@ -18,6 +18,20 @@ topics:
   - StarCraft 2
 
 related:
+  - title: "Battlefront meets Starcraft as FPS strategy game launches on Steam"
+    excerpt: "As Executive Assault 2 leaves Steam Early Access, this hybrid of RTS and FPS combines space combat and ground warfare in a blend of C&C, Halo, and Battlefront."
+    publishedDateTime: 2023-10-19T13:46:00Z
+    webUrl: "https://www.pcgamesn.com/executive-assault-2/steam"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 37
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/10/executive-assault-2-rts-fps-hybrid-strategy-game-shooter-battlefront-starcraft-command-and-conquer-halo-steam-release-date.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Starcraft Spiritual Successor Stormgate Reveals Alpha Results; New Phase Announced"
     excerpt: "Today the good folks at Frost Giant Studios revealed a report for the first two alpha testing phases of their Starcraft spiritual successor Stormgate."
     publishedDateTime: 2023-10-18T17:55:00Z

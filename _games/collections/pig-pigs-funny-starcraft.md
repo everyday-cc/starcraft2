@@ -1075,6 +1075,7 @@ items:
   - pig-the-fastest-terran-in-the-world-faced-three-protoss-pros-at-once-clem-vs-maxpax-harstem-mana-sc2
   - pig-what-is-this-ludicrous-starcraft-2-free-for-all-strategy-beast-of-the-hill-starcraft-2
   - pig-he-melted-down-when-his-cheese-fell-apart-salt-mines-44-starcraft-2
+  - pig-the-most-deranged-post-game-rant-in-starcraft-history-salt-mines-45-starcraft-2
 
 topics:
   - StarCraft 2

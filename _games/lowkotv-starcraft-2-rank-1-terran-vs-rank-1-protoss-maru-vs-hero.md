@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=lRhMs6bNnCk
 type: video
 length: PT1H26S
 publishedDateTime: 2022-09-10T08:29:33Z
-heat: 51
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lRhMs6bNnCk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "icUBH6KMxp5Hk1Gl5N4IiVL/iX+dsYVXAYWF5jQFUuWMtGz6BYCApsJSOm9Ai8mZhY6278h71oBeIVE8LjgtLxY/vknEssfHSENKvJf5CgdsjYqnHYBoyKxqqeA0N8fyzFc4FgZ6G1KyAkIw04Xjg9RuhA+hgaaDHZxWWeRBVlKwga1ygEPg6XJ9gj/ycI49ZZSUvDR8mIUGwHLQl/LgChcT27GVELkWHctCOJkWD6G1LMcvAfzIFWHg/72/Xi6g6Ec/PVnRfRcD3fJtlIKFMxhlxI2wJw0Y4MBw+gLBbR6fOxPdkfFs/VZJjQlj/nGbmmr0scATOXAAyfCd1YzCL17BjJ2S2aB7NZm/mE5Xnue8qQ1k+WmkaPF4AL3poQV1aDgHRBrjQGGjbjzR0xbsH9JDNQz/Eynz+YgirlKraxDIescsaWUx5QRV8yhDCZuH;VqmEwX/E0adSoxRtgAAbeg=="
+secured: "pd4H8Ctx0BzKj4VM+eRyYE/uLPGAT3U2SL65aQ759t9qArbdUXTXD5lEFbV97HzEZYWIr+i6FK/LSXCyIUSv3IE26qxk75Xdp9wQDW44Sj/K5aC9VYakwP0exhrUnbRCQmhsqB1ZsIKRnL+BIaioyntcIN63OyC6rjvI77hFJGwjR0TAtB7XwDs/M5Q72/MUwCdJ99wjNtEgBw4Kmkn+1mik2FDdz0jVMRnqbYOZVFROzfDAoR19GUh7v2zMVSd54w2ST2Yevkk49tK0Z1WtO1VYtMq0XE8Y4XIyAs+9qvrESEtNG2a2h9y0pzWm5IaiGXFIjgqXicRWYO8GDoe7j/dIpEL9HCmuUsTk1pzXnBjsNmRcZRU3aVkrSWg0J7JjNBjwSA91RyaW1ERR5I2/T8+8fO/tp2vXM0+Ewx5V+4n0A4MRCtiurx2olMqqjrAB;F0ARV303dtxAypBD7sPQ+g=="
 ---
 

@@ -4,6 +4,36 @@
   "page": 24,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-speed-banshees-vs-nydus-roach-icyfar-g2-social-distancing.md",
+      "title": "StarCraft 2 - SPEED BANSHEES vs NYDUS ROACH | ICYFAR G2 Social Distancing",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they leave at least one empty base between each of your expansions (Social Distancing)! Here’s a fun game of zerg versus terran completing the challenge in humorous fashion.   NEW ICYFAR",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-speed-banshees-vs-nydus-roach-icyfar-g2-social-distancing/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-speed-banshees-vs-nydus-roach-icyfar-g2-social-distancing/",
+      "originalUrl": "https://youtube.com/watch?v=s2b9FY-laFc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s2b9FY-laFc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M57S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/s2b9FY-laFc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-terran-vs-zerg-exorcist-icyfar-g3-trend-breaker.md",
       "title": "StarCraft 2 - TERRAN VS ZERG EXORCIST | ICYFAR G3 Trend-Breaker",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they buck the norms and use an off-meta comp to confuse their enemies (Trend-Breaker)! Here’s a fun game of zerg versus terran completing the challenge in humorous fashion.   NEW ICYFAR",
@@ -835,6 +865,36 @@
       "publishedDateTime": "2022-10-12T23:16:49-07:00"
     },
     {
+      "path": "_games/pig-zerg-rages-even-tho-his-ovie-sees-it-coming-salt-mines-17-starcraft-2.md",
+      "title": "Zerg RAGES even tho his ovie sees it coming?! | Salt Mines #17 - StarCraft 2",
+      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-zerg-rages-even-tho-his-ovie-sees-it-coming-salt-mines-17-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-zerg-rages-even-tho-his-ovie-sees-it-coming-salt-mines-17-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=wPdt65_asW8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wPdt65_asW8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M2S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wPdt65_asW8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-13T00:32:23-07:00"
+    },
+    {
       "path": "_games/pig-zerg-rush-make-broodwar-great-again-icyfar-g4.md",
       "title": "Zerg Rush! | Make Broodwar Great Again ICYFAR G4",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were they may only take 1 gas at each base, no warpgate, no reactors and no queens.  Invisible Man - Use cloaked units to spook your opponent. Send submissions to fluxiorsc@gmail.com as attachment",
@@ -863,67 +923,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-zerglings-dont-need-a-good-education-one-geyser-to-rule-them-all-g2.md",
-      "title": "Zerglings Don’t Need a Good Education - One Geyser to Rule Them All - G2",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players were only allowed to mine from one gas!\r \r THIS WEEKS ICYFAR CHALLENGE: \"Fakeout - Trick Your opponent with fake rushes, attacks and tech paths\". Examples: Fake cannon/bunker rush, empty drops, proxy tech that you show on",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-zerglings-dont-need-a-good-education-one-geyser-to-rule-them-all-g2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-zerglings-dont-need-a-good-education-one-geyser-to-rule-them-all-g2/",
-      "originalUrl": "https://youtube.com/watch?v=KfA6S8WUEjE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KfA6S8WUEjE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M48S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KfA6S8WUEjE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
-    },
-    {
-      "path": "_games/pig-zergs-sick-burrowed-banelings-breaks-terrans-brain-pig-vs-catz-starcraft-2.md",
-      "title": "Zerg's SICK Burrowed Banelings Breaks Terran's Brain (PiG vs Catz) - StarCraft 2",
-      "excerpt": "Subscribe to PiG Casts! 🐷 Catz has such a wild playstyle, always so much fun to play against him! You never know what to expect, like a wild burrowed baneling bomb that shatters your brain haha -- 🐷 Main Channel: https://www.youtube.com/user/PiGstarcraft 🐷 Second Channel for Learning StarCraft 2:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-zergs-sick-burrowed-banelings-breaks-terrans-brain-pig-vs-catz-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-zergs-sick-burrowed-banelings-breaks-terrans-brain-pig-vs-catz-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=uZqynTBigQc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uZqynTBigQc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M36S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uZqynTBigQc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-05-05T01:51:02-07:00"
     }
   ],
   "nextPage": 25

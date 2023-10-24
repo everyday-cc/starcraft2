@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Why We Love Starcraft RVs"
+    excerpt: "Spread the loveIntroduction For many of us, the name Starcraft brings back fond memories of our childhood, with family vacations and campground adventures in tow. Starcraft RVs have been a staple of American recreation for decades,"
+    publishedDateTime: 2023-10-24T19:31:00Z
+    webUrl: "https://www.thetechedvocate.org/why-we-love-starcraft-rvs/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 37
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/10/Telluride-292RLS-starcraft-rv.png"
+        width: 800
+        height: 400
+        isCached: true
   - title: "2024 Starcraft Delta 188 DC Pro"
     excerpt: "The Starcraft Delta 188 DC Pro is a multispecies aluminum fishing boat designed for the serious angler who wants to get after it in all kinds of weather. The Vertex Performance Strake hull tapers to 15 degrees at the transom, providing quick planing and ..."
     publishedDateTime: 2023-10-12T19:51:00Z

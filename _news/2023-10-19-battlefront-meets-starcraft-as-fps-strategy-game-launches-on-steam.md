@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why We Love Starcraft RVs"
+    excerpt: "Spread the loveIntroduction For many of us, the name Starcraft brings back fond memories of our childhood, with family vacations and campground adventures in tow. Starcraft RVs have been a staple of American recreation for decades,"
+    publishedDateTime: 2023-10-24T19:31:00Z
+    webUrl: "https://www.thetechedvocate.org/why-we-love-starcraft-rvs/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 37
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/10/Telluride-292RLS-starcraft-rv.png"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Starcraft Spiritual Successor Stormgate Reveals Alpha Results; New Phase Announced"
     excerpt: "Today the good folks at Frost Giant Studios revealed a report for the first two alpha testing phases of their Starcraft spiritual successor Stormgate."
     publishedDateTime: 2023-10-18T17:55:00Z

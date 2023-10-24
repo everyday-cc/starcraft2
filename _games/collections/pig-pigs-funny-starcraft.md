@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 61
+heat: 62
 
 provider:
   name: PiG
@@ -1076,6 +1076,7 @@ items:
   - pig-what-is-this-ludicrous-starcraft-2-free-for-all-strategy-beast-of-the-hill-starcraft-2
   - pig-he-melted-down-when-his-cheese-fell-apart-salt-mines-44-starcraft-2
   - pig-the-most-deranged-post-game-rant-in-starcraft-history-salt-mines-45-starcraft-2
+  - pig-i-lost-my-mind-trying-to-play-like-florencio-starcraft-2
 
 topics:
   - StarCraft 2

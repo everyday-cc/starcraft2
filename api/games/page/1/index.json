@@ -4,6 +4,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-scion-custom-races-tournament-xayid-vs-keiron.md",
+      "title": "StarCraft 2: Scion CUSTOM RACES Tournament - Xayid vs Keiron!",
+      "excerpt": "Best-of-3 series of StarCraft 2 played in the Scion Custom Races Mod. In this match between eGGz and You the players play the custom made factions Xayid and Keiron. This series was played as part of the Scion cup, a tournament where players had to play one of the fan made modded races. Support my work:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scion-custom-races-tournament-xayid-vs-keiron/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scion-custom-races-tournament-xayid-vs-keiron/",
+      "originalUrl": "https://youtube.com/watch?v=98IF1UeIehI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/98IF1UeIehI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT55M8S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 437,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/98IF1UeIehI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgVShlMA8=&rs=AOn4CLCNQcjJhUE3o2kpO8a2ySPfWIvQng",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-10-24T03:14:17-07:00"
+    },
+    {
       "path": "_games/lowkotv-byun-gets-the-reaper-nerfed-again-starcraft-2.md",
       "title": "ByuN gets the Reaper nerfed... AGAIN! (StarCraft 2)",
       "excerpt": "GL HF GG Mug: https://lowko.shop/products/gl-hf-gg-mug Best-of-3 series of top level StarCraft 2 between ByuN (Terran) and Solar (Zerg). In these games ByuN decides to make Reapers... and then more Reapers... and then in the next game he decides to go more Reapers. He loves Reapers, what else can I say?",
@@ -42,33 +79,25 @@
       "publishedDateTime": "2023-10-20T02:17:16-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-scion-custom-races-tournament-xayid-vs-keiron.md",
-      "title": "StarCraft 2: Scion CUSTOM RACES Tournament - Xayid vs Keiron!",
-      "excerpt": "Best-of-3 series of StarCraft 2 played in the Scion Custom Races Mod. In this match between eGGz and You the players play the custom made factions Xayid and Keiron. This series was played as part of the Scion cup, a tournament where players had to play one of the fan made modded races. Support my work:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scion-custom-races-tournament-xayid-vs-keiron/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scion-custom-races-tournament-xayid-vs-keiron/",
-      "originalUrl": "https://youtube.com/watch?v=98IF1UeIehI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/98IF1UeIehI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT55M8S",
+      "path": "_games/pig-i-lost-my-mind-trying-to-play-like-florencio-starcraft-2.md",
+      "title": "I LOST MY MIND trying to play like Florencio | StarCraft 2",
+      "excerpt": "I try to play like FLORENCIO, and it goes so weird, so fast. I can't believe how much I have to change to get anywhere close to the madness that is Florencio's playstyle. Absolutely ridiculous.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-i-lost-my-mind-trying-to-play-like-florencio-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-i-lost-my-mind-trying-to-play-like-florencio-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=76JEFeNiQhA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/76JEFeNiQhA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M2S",
       "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "PiG",
+        "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2"
       ],
-      "heat": 298,
+      "heat": 279,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/98IF1UeIehI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgVShlMA8=&rs=AOn4CLCNQcjJhUE3o2kpO8a2ySPfWIvQng",
+          "url": "https://i.ytimg.com/vi/76JEFeNiQhA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -76,7 +105,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-10-24T03:14:17-07:00"
+      "publishedDateTime": "2023-10-24T06:53:59-07:00"
     },
     {
       "path": "_games/lowkotv-byun-gets-the-reaper-nerfed-again.md",
@@ -1088,35 +1117,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-13T02:08:28-07:00"
-    },
-    {
-      "path": "_games/pig-a-pro-player-underestimates-a-diamond-player-santa-claws-06.md",
-      "title": "A Pro player underestimates a Diamond player! | Santa Claws #06",
-      "excerpt": "🎅 Santa Claws impressed in his Starcraft Smooth Brain audition and has been granted an opportunity to be the next Smooth Brain. Will he impress or will his brain prove too wrinkled?   🎅 Santa Claws Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh -- 🐷 Second Channel",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-a-pro-player-underestimates-a-diamond-player-santa-claws-06/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-a-pro-player-underestimates-a-diamond-player-santa-claws-06/",
-      "originalUrl": "https://youtube.com/watch?v=sYgcZ68ykB8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sYgcZ68ykB8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M34S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 186,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sYgcZ68ykB8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-12-23T15:35:13-08:00"
     }
   ],
   "nextPage": 2

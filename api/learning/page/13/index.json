@@ -4,6 +4,70 @@
   "page": 13,
   "value": [
     {
+      "path": "_learning/videos/pig-coaching-tvz-defending-early-pool-shenanigans-and-macroing-like-a-beast.md",
+      "title": "Coaching TvZ Defending Early Pool Shenanigans and MACROing like a Beast",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My NEW website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvz-defending-early-pool-shenanigans-and-macroing-like-a-beast/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvz-defending-early-pool-shenanigans-and-macroing-like-a-beast/",
+      "originalUrl": "https://youtube.com/watch?v=fT5hhMz7Gsg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fT5hhMz7Gsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H16M31S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-05-19T17:39:04-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fT5hhMz7Gsg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-coaching-tvz-medivacmarine-micro-diamond-3.md",
+      "title": "Coaching TvZ - Medivac+Marine Micro - Diamond 3",
+      "excerpt": "I coach a Terran player on how to micro his marine-medivac, with a focus on manually flying medivacs over marines to allow hot pickups during fights. -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-coaching-tvz-medivacmarine-micro-diamond-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-coaching-tvz-medivacmarine-micro-diamond-3/",
+      "originalUrl": "https://youtube.com/watch?v=zCyHG1RBbag",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zCyHG1RBbag\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M25S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-08-15T03:29:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zCyHG1RBbag/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-coaching-winters-zvt-12.md",
       "title": "Coaching Winter's ZvT 1/2",
       "excerpt": "I coach popular random GM streamer Winter's ZvT -- Watch live at https://www.twitch.tv/x5_pig",
@@ -856,67 +920,6 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-defending-cyclones1-base-pvt-coaching.md",
-      "title": "Defending Cyclones/1-base PvT - Coaching",
-      "excerpt": "I coach a gold protoss on defending 1-base builds as well as his macro play -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-defending-cyclones1-base-pvt-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-defending-cyclones1-base-pvt-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=0cTz7sBNqUg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0cTz7sBNqUg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H4M43S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:42:45-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0cTz7sBNqUg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-defending-early-pools-with-pool-first-zvz-coaching.md",
-      "title": "Defending Early Pools with Pool First - ZvZ Coaching",
-      "excerpt": "I coach my diamond zerg student on how to defend early pools in ZvZ with a pool-first opening -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-defending-early-pools-with-pool-first-zvz-coaching/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-defending-early-pools-with-pool-first-zvz-coaching/",
-      "originalUrl": "https://youtube.com/watch?v=bduNr3LSz-c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bduNr3LSz-c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT57M",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-12-21T00:44:06-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bduNr3LSz-c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
       ]
     }
   ],

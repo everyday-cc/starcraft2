@@ -613,83 +613,6 @@
       "publishedDateTime": "2023-05-03T22:47:03-07:00"
     },
     {
-      "path": "_games/lowkotv-serral-vs-classic-epic-late-game-masterclass-starcraft-2.md",
-      "title": "Serral vs Classic - Epic Late Game MASTERCLASS! (StarCraft 2)",
-      "excerpt": "Epic match of StarCraft 2 from Gamers8 between Serral (Zerg) and Classic (Protoss). This match goes the distance as both players get dangerously close to 200 Army supply with the entire map of Gresvan mined out. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-serral-vs-classic-epic-late-game-masterclass-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-serral-vs-classic-epic-late-game-masterclass-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=gd0jagMJnR8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gd0jagMJnR8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT50M18S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 119,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gd0jagMJnR8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-08-16T04:23:14-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-hero-gets-spine-crawler-rushed.md",
-      "title": "StarCraft 2: herO gets SPINE CRAWLER Rushed!",
-      "excerpt": "Best-of-3 series of StarCraft 2 between herO (Protoss) and Fjant (Zerg). This match was played during a recent ESL Open Cup. Since herO is one of the greatest Protoss players in the world, Fjant decides to take a very aggressive approach in this series. Support my work: https://patreon.com/lowkotv Lowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-hero-gets-spine-crawler-rushed/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-hero-gets-spine-crawler-rushed/",
-      "originalUrl": "https://youtube.com/watch?v=qoU8urcZCTI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qoU8urcZCTI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M47S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 114,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qoU8urcZCTI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-08-23T04:43:58-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-ksl-finals-hero-cannon-rushes-dark-best-of-5.md",
       "title": "StarCraft 2: KSL FINALS - herO Cannon Rushes Dark! (Best-of-5)",
       "excerpt": "Best-of-5 series of top level StarCraft 2 between herO and Dark. This Protoss versus Zerg is one of the most chaotic games of SC2 I've recently seen. These pro gamers are team mates, friends and practice partners and it clearly shows. This series is the finals of the Korean StarCraft League, the KSL.",
@@ -768,45 +691,6 @@
       "publishedDateTime": "2022-05-23T11:16:38-07:00"
     },
     {
-      "path": "_games/lowkotv-heros-new-tempest-rush-vs-dark-starcraft-2.md",
-      "title": "herO's NEW Tempest Rush vs Dark! (StarCraft 2)",
-      "excerpt": "Best-of-5 series of StarCraft 2 between herO and Dark. This match of SC2 is the finals of the Korean StarCraft League (KSL). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  KSL on Patreon: https://patreon.com/KoreanStarcraftLeague/  My YouTube channels: https://youtube.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-heros-new-tempest-rush-vs-dark-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-heros-new-tempest-rush-vs-dark-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=1FXUxm7jGlU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1FXUxm7jGlU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M9S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 100,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1FXUxm7jGlU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-10-07T04:54:44-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-heros-gumihos-strangest-build-orders-ever.md",
       "title": "StarCraft 2: herO's & GuMiho's STRANGEST Build Orders... Ever?",
       "excerpt": "Best-of-3 series of high level StarCraft 2 between herO (Protoss) and GuMiho (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
@@ -882,6 +766,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-08-19T02:15:32-07:00"
+    },
+    {
+      "path": "_games/lowkotv-heros-new-tempest-rush-vs-dark-starcraft-2.md",
+      "title": "herO's NEW Tempest Rush vs Dark! (StarCraft 2)",
+      "excerpt": "Best-of-5 series of StarCraft 2 between herO and Dark. This match of SC2 is the finals of the Korean StarCraft League (KSL). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  KSL on Patreon: https://patreon.com/KoreanStarcraftLeague/  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-heros-new-tempest-rush-vs-dark-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-heros-new-tempest-rush-vs-dark-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=1FXUxm7jGlU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1FXUxm7jGlU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M9S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 91,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1FXUxm7jGlU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-10-07T04:54:44-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-bring-snacks-this-match-is-incredible-cure-vs-classic.md",
@@ -1110,6 +1033,78 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-07-25T03:16:54-07:00"
+    },
+    {
+      "path": "_games/lowkotv-clem-vs-maxpax-grand-finals-ultimate-terran-vs-protoss-showdown-starcraft-2.md",
+      "title": "Clem vs MaxPax GRAND FINALS - Ultimate Terran vs Protoss Showdown! (StarCraft 2)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 that is the finals of the ESL Open Cup 191 for the European region and server. In this series we watch MaxPax (Protoss) and Clem (Terran) play an incredible close match, as both players are evenly matched and capable of winning at any time. Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-clem-vs-maxpax-grand-finals-ultimate-terran-vs-protoss-showdown-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-clem-vs-maxpax-grand-finals-ultimate-terran-vs-protoss-showdown-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=M4eV6AD2OjU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M4eV6AD2OjU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H10M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 72,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M4eV6AD2OjU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-09-11T03:57:31-07:00"
+    },
+    {
+      "path": "_games/pig-this-is-a-ridiculously-intense-game-of-starcraft-king-of-cannons-22-starcraft-2.md",
+      "title": "This is a RIDICULOUSLY INTENSE game of Starcraft! | King of Cannons #22 - StarCraft  2",
+      "excerpt": "Cannon rushes all day erry day! Watch printF, the KING of Cannons, do what he does best on the StarCraft 2 ladder  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf PrintF’s youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-is-a-ridiculously-intense-game-of-starcraft-king-of-cannons-22-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-is-a-ridiculously-intense-game-of-starcraft-king-of-cannons-22-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=jLaY4W0uW8M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jLaY4W0uW8M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M6S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 69,
+      "tags": [
+        "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jLaY4W0uW8M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-04T22:47:02-08:00"
     }
   ],
   "nextPage": 2

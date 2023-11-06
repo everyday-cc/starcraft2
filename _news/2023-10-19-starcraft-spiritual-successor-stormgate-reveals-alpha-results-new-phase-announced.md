@@ -52,15 +52,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "2024 Starcraft Delta 188 DC Pro"
-    excerpt: "The Starcraft Delta 188 DC Pro is a multispecies aluminum fishing boat designed for the serious angler who wants to get after it in all kinds of weather. The Vertex Performance Strake hull tapers to 15 degrees at the transom, providing quick planing and ..."
-    publishedDateTime: 2023-10-12T19:51:00Z
-    webUrl: "https://www.boatingmag.com/boats/2024-starcraft-delta-188-dc-pro-fwbbg/"
-    type: article
-    provider:
-      name: Boating
-      domain: boatingmag.com
-    quality: 17
 
 secured: "rjNGLsXqzl53xM7KpXvUJyNAdl2vq4te11hsEKvsM9XWREbjHDznvdelr+tJdFYi108S73nIkkEzbIBsqB4pb9XmzN623DDBJaq1EbTrlig13H07ojcpjLehqg89cgWE34TFA6+YHh7fjgPlEnQtAYupFjWqdlk4DNixSDC3MCypQxlVz0rTCXKwFWnkxgBoHjmt5nLgwUkB8r1heRmUejgIsSvXGri6BVtgtj6piKb3HjZwexRS0RIYL1OPXm1d/P9LpkpyKGDrICYxWL2+KUngDUSh8LVNnquDD/kPifW/apOtjmYocBemGiTMGUWY/QZBALcisNWKdvU/RYVvfMJTmWDnn7toXU1hb8dXAMg=;69xjBO34osT9D+ub/Qneww=="
 ---

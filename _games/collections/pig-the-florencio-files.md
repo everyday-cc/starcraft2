@@ -293,6 +293,7 @@ items:
   - pig-the-depot-strategy-to-break-zerg-brains-florencio-files-282-starcraft-2
   - pig-flo-fights-a-maphacker-florencio-riles-283-starcraft-2
   - pig-florencio-refuses-to-macro-probes-have-better-uses-florencio-files-284-starcraft-2
+  - pig-florencios-sneakiest-probe-of-all-time-florencio-files-285-starcraft-2
 
 topics:
   - StarCraft 2

@@ -1077,6 +1077,7 @@ items:
   - pig-he-melted-down-when-his-cheese-fell-apart-salt-mines-44-starcraft-2
   - pig-the-most-deranged-post-game-rant-in-starcraft-history-salt-mines-45-starcraft-2
   - pig-i-lost-my-mind-trying-to-play-like-florencio-starcraft-2
+  - pig-most-delusional-player-in-all-starcraft-is-back-salt-mines-46-starcraft-2
 
 topics:
   - StarCraft 2

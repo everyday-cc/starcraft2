@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The next Starcraft might not be a strategy game"
+    excerpt: "We certainly wouldn't mind a revival of Starcraft: Ghost which was cancelled in 2006 (although got a tiny revival with the DLC Starcraft II: Nova Covert Ops), but there is frankly quite a lot that could be made with Starcraft in just about any genre."
+    publishedDateTime: 2023-11-07T20:33:00Z
+    webUrl: "https://www.gamereactor.eu/news/1324343/The+next+Starcraft+might+not+be+a+strategy+game/"
+    type: article
+    provider:
+      name: Gamereactor
+      domain: gamereactor.eu
+    quality: 37
+    images:
+      - url: "https://www.gamereactor.eu/media/44/starcraft2_1734413b.png"
+        width: 670
+        height: 320
+        isCached: true
   - title: "Blizzard opens door for StarCraft revival though next game may not be an RTS"
     excerpt: "A StarCraft revival is certainly in the cards, according to Blizzard President Mike Ybarra. Though the next installment may not be an RTS."
     publishedDateTime: 2023-11-06T23:32:00Z

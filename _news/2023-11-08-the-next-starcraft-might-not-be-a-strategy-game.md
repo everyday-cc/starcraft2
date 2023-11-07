@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Blizzard opens door for StarCraft revival though next game may not be an RTS"
-excerpt: "A StarCraft revival is certainly in the cards, according to Blizzard President Mike Ybarra. Though the next installment may not be an RTS."
-publishedDateTime: 2023-11-06T23:32:00Z
-originalUrl: "https://www.dexerto.com/gaming/blizzard-opens-door-for-starcraft-revival-though-next-game-may-not-be-an-rts-2370688/"
-webUrl: "https://www.dexerto.com/gaming/blizzard-opens-door-for-starcraft-revival-though-next-game-may-not-be-an-rts-2370688/"
+title: "The next Starcraft might not be a strategy game"
+excerpt: "We certainly wouldn't mind a revival of Starcraft: Ghost which was cancelled in 2006 (although got a tiny revival with the DLC Starcraft II: Nova Covert Ops), but there is frankly quite a lot that could be made with Starcraft in just about any genre."
+publishedDateTime: 2023-11-07T20:33:00Z
+originalUrl: "https://www.gamereactor.eu/news/1324343/The+next+Starcraft+might+not+be+a+strategy+game/"
+webUrl: "https://www.gamereactor.eu/news/1324343/The+next+Starcraft+might+not+be+a+strategy+game/"
 type: article
-quality: 34
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Dexerto
-  domain: dexerto.com
+  name: Gamereactor
+  domain: gamereactor.eu
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://editors.dexerto.com/wp-content/uploads/2023/11/06/StarCraft-new-project.jpg"
-    width: 1602
-    height: 900
+  - url: "https://www.gamereactor.eu/media/44/starcraft2_1734413b.png"
+    width: 670
+    height: 320
     isCached: true
 
 related:
@@ -68,21 +68,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The next Starcraft might not be a strategy game"
-    excerpt: "We certainly wouldn't mind a revival of Starcraft: Ghost which was cancelled in 2006 (although got a tiny revival with the DLC Starcraft II: Nova Covert Ops), but there is frankly quite a lot that could be made with Starcraft in just about any genre."
-    publishedDateTime: 2023-11-07T20:33:00Z
-    webUrl: "https://www.gamereactor.eu/news/1324343/The+next+Starcraft+might+not+be+a+strategy+game/"
+  - title: "Blizzard opens door for StarCraft revival though next game may not be an RTS"
+    excerpt: "A StarCraft revival is certainly in the cards, according to Blizzard President Mike Ybarra. Though the next installment may not be an RTS."
+    publishedDateTime: 2023-11-06T23:32:00Z
+    webUrl: "https://www.dexerto.com/gaming/blizzard-opens-door-for-starcraft-revival-though-next-game-may-not-be-an-rts-2370688/"
     type: article
     provider:
-      name: Gamereactor
-      domain: gamereactor.eu
-    quality: 37
+      name: Dexerto
+      domain: dexerto.com
+    quality: 34
     images:
-      - url: "https://www.gamereactor.eu/media/44/starcraft2_1734413b.png"
-        width: 670
-        height: 320
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/11/06/StarCraft-new-project.jpg"
+        width: 1602
+        height: 900
         isCached: true
 
-secured: "OTtYsz/JrCzfLqjDcRcWibeksSBUQMbfSqO+kFluem641DFb+SvPJ2GQ0LNkciIU7tk4aAO9D+kOatn/WZekokF9rRvVel72F96RaBIvKOFuUuSxIJaQgxEHqTrG0zCXoy37ahAxfEWAohNuWvaK2BOz4vYzfeTQOJRE1V9ydI+A0x0xf1uOb7fv7hh2SjzRtdXCGBwGTXy39PEe3FnXwDMqWjO9x9Cr5PmG2oc5tKTfkiUdrSRTnX6tvgx3j/yj7GxB07JtksPJZXuk+tBXkAFpoFLrBNeHJ49f5hLjktYqbmrw8MVEExjLE4/6YAwrFPBtsi5e3FR3SfT5a4lY40N5nMPRT2tLQHNr0RmHf1YwNQt6uoSLNdWsoXiOG1GPgN+Xek13I2zfxj9WAplkP7lD46yfezRyS8CQhs0JSNqqmnvdtxK4m8v7iSKMnB1ghU/z0Mr2s05LKhGLXPCB8GH/YrBeLnd/glTJ5ZYQErfqEdG/cCIm3qNybKoSkbYCPJixk1jJHwEBXw7UoyUm1w==;eeWRh60yS75R0iLTrmGKQg=="
+secured: "HTVIIr+lyJBzI55x95FIktURYQ7enrueolRjwYtDY7D4qsPYX0M929CMb/CrYPuh/iuTuaQqVQUyMpcFNyIJvgRh1mqZbKKVoJ5WLzdgpdLY9s/gdWPOPsjj1OImcafpls7mpWgI4voiz6P7SIHJnksLCtoLZmgJgs6+EUQ9Ne9APIjXykf/oc+tMpfZ+D6qpO0lhTvpoNoo+oev+Qy/KVNjZLRwSwYk4MmZHUUHaoll7wcs2FlNffkIg6BPeuSAVX0kxqeHgnG2ylpdV/qouSITIYvn7224SQbk+Caw/GXoZqdgmP4fiJ7AXpGuHVOcvErLgxOP3Ld+o1RfApk9DzNP9u4sLkj5DUtrKMwRq5U=;VvNSc+rnvZRd45Kxp/ZvKQ=="
 ---
 

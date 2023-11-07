@@ -40,6 +40,20 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "StarCraft might return, but maybe not as a strategy game"
+    excerpt: "Blizzard's president has hinted at the possibility of a StarCraft revival, but a new game may not stick to the series' RTS roots"
+    publishedDateTime: 2023-11-07T12:04:00Z
+    webUrl: "https://www.gamesradar.com/starcraft-might-return-but-maybe-not-as-a-strategy-game/"
+    type: article
+    provider:
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/tJG5EsLY7LiR5oDmV8NYXP-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Blizzard opens door for StarCraft revival though next game may not be an RTS"
     excerpt: "A StarCraft revival is certainly in the cards, according to Blizzard President Mike Ybarra. Though the next installment may not be an RTS."
     publishedDateTime: 2023-11-06T23:32:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/starcraft-3-iii-blizzcon-2023-
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/starcraft-3-iii-blizzcon-2023-react/"
 type: article
 quality: 57
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://editors.dexerto.com/wp-content/uploads/2023/11/05/blizzcon-2023.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "StarCraft might return, but maybe not as a strategy game"
+    excerpt: "Blizzard's president has hinted at the possibility of a StarCraft revival, but a new game may not stick to the series' RTS roots"
+    publishedDateTime: 2023-11-07T12:04:00Z
+    webUrl: "https://www.gamesradar.com/starcraft-might-return-but-maybe-not-as-a-strategy-game/"
+    type: article
+    provider:
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/tJG5EsLY7LiR5oDmV8NYXP-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Blizzard opens door for StarCraft revival though next game may not be an RTS"
     excerpt: "A StarCraft revival is certainly in the cards, according to Blizzard President Mike Ybarra. Though the next installment may not be an RTS."

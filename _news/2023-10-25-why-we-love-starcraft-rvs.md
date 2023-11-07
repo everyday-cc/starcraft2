@@ -38,20 +38,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Starcraft Spiritual Successor Stormgate Reveals Alpha Results; New Phase Announced"
-    excerpt: "Today the good folks at Frost Giant Studios revealed a report for the first two alpha testing phases of their Starcraft spiritual successor Stormgate."
-    publishedDateTime: 2023-10-18T17:55:00Z
-    webUrl: "https://techraptor.net/gaming/news/starcraft-spiritual-successor-stormgate-reveals-alpha-results-new-phase-announced"
-    type: article
-    provider:
-      name: TechRaptor
-      domain: techraptor.net
-    quality: 31
-    images:
-      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2023-10/stormgate-art-and-gameplay.jpg?itok=SUi7vHp3"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "0pRJWTWlTfvNs4prRoAlVkANdPjiE3Dz0YrPims6ZvuINy4CrgaNGvRXgrE0AdS0exyq2IlbB6wyGd7P6ydlvv/M4Uc1xSRxssQ9GivDTfXkOG1aC31fpdqyFWKU3UC3Gfe5H4pTs6KmGZbm9vfXrbg2aKIdfvbdsLDAxYGwzyE2VrV+jDqirLXL/JmUlDn3XvoaXQi8hJv298cgxPV2aipoaCBL+Ea2SYix7v8sZH9JO2+PI7ygN1ASPLqeye4gYfcleVm8+hfl0vH69kV+24FxdIjrx7phTUsrlm3zlnndPECKEXr8Q5ZvZcL4xuu9urJwY3kVoCt2nkKgXmdpZznnRmeob+pI9TGwOJQmhD/GClQUODWBDEwe2enWOTSGXaqz3TZnYgpwtUSyffjAjPjgj8vY09XgMYNQbwQkhtvwIjq1wM9THyKdTibj1MWFIo/Fv8MNtmK5Fw5kiyVDelei4UGD/f4YTbwDxoeDdiXsEnqjU1RcHBjETyCKAaWU1g4khjsE4LzpA27LvhxRaA==;voyymkKdjD71bUHhqWq4cg=="
 ---

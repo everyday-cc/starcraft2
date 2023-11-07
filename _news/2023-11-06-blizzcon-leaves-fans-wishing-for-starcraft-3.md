@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/starcraft-3-iii-blizzcon-2023-
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/starcraft-3-iii-blizzcon-2023-react/"
 type: article
 quality: 57
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
     images:
       - url: "https://editors.dexerto.com/wp-content/uploads/2023/11/05/blizzcon-2023.jpg"
         width: 1600
+        height: 900
+        isCached: true
+  - title: "Blizzard opens door for StarCraft revival though next game may not be an RTS"
+    excerpt: "A StarCraft revival is certainly in the cards, according to Blizzard President Mike Ybarra. Though the next installment may not be an RTS."
+    publishedDateTime: 2023-11-06T23:32:00Z
+    webUrl: "https://www.dexerto.com/gaming/blizzard-opens-door-for-starcraft-revival-though-next-game-may-not-be-an-rts-2370688/"
+    type: article
+    provider:
+      name: Dexerto
+      domain: dexerto.com
+    quality: 34
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/11/06/StarCraft-new-project.jpg"
+        width: 1602
         height: 900
         isCached: true
 

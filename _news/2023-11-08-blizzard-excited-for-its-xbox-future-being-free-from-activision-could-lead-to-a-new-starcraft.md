@@ -1,26 +1,26 @@
 ---
 category: news
-title: "The next Starcraft might not be a strategy game"
-excerpt: "We certainly wouldn't mind a revival of Starcraft: Ghost which was cancelled in 2006 (although got a tiny revival with the DLC Starcraft II: Nova Covert Ops), but there is frankly quite a lot that could be made with Starcraft in just about any genre."
-publishedDateTime: 2023-11-07T20:33:00Z
-originalUrl: "https://www.gamereactor.eu/news/1324343/The+next+Starcraft+might+not+be+a+strategy+game/"
-webUrl: "https://www.gamereactor.eu/news/1324343/The+next+Starcraft+might+not+be+a+strategy+game/"
+title: "Blizzard excited for its Xbox future, being free from Activision could lead to a new StarCraft"
+excerpt: "Now a part of Xbox, the leadership at Blizzard is excited to be back in control of the studio's future - and that could mean the return of StarCraft."
+publishedDateTime: 2023-11-08T08:28:00Z
+originalUrl: "https://www.tweaktown.com/news/94260/blizzard-excited-for-its-xbox-future-being-free-from-activision-could-lead-to-new-starcraft/index.html"
+webUrl: "https://www.tweaktown.com/news/94260/blizzard-excited-for-its-xbox-future-being-free-from-activision-could-lead-to-new-starcraft/index.html"
 type: article
-quality: 37
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Gamereactor
-  domain: gamereactor.eu
+  name: TweakTown
+  domain: tweaktown.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.gamereactor.eu/media/44/starcraft2_1734413b.png"
-    width: 670
-    height: 320
+  - url: "https://static.tweaktown.com/news/9/4/94260_03_blizzard-excited-for-its-xbox-future-being-free-from-activision-could-lead-to-new-starcraft_full.jpg"
+    width: 1500
+    height: 1000
     isCached: true
 
 related:
@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The next Starcraft might not be a strategy game"
+    excerpt: "We certainly wouldn't mind a revival of Starcraft: Ghost which was cancelled in 2006 (although got a tiny revival with the DLC Starcraft II: Nova Covert Ops), but there is frankly quite a lot that could be made with Starcraft in just about any genre."
+    publishedDateTime: 2023-11-07T20:33:00Z
+    webUrl: "https://www.gamereactor.eu/news/1324343/The+next+Starcraft+might+not+be+a+strategy+game/"
+    type: article
+    provider:
+      name: Gamereactor
+      domain: gamereactor.eu
+    quality: 37
+    images:
+      - url: "https://www.gamereactor.eu/media/44/starcraft2_1734413b.png"
+        width: 670
+        height: 320
+        isCached: true
   - title: "Blizzard opens door for StarCraft revival though next game may not be an RTS"
     excerpt: "A StarCraft revival is certainly in the cards, according to Blizzard President Mike Ybarra. Though the next installment may not be an RTS."
     publishedDateTime: 2023-11-06T23:32:00Z
@@ -82,21 +96,7 @@ related:
         width: 1602
         height: 900
         isCached: true
-  - title: "Blizzard excited for its Xbox future, being free from Activision could lead to a new StarCraft"
-    excerpt: "Now a part of Xbox, the leadership at Blizzard is excited to be back in control of the studio's future - and that could mean the return of StarCraft."
-    publishedDateTime: 2023-11-08T08:28:00Z
-    webUrl: "https://www.tweaktown.com/news/94260/blizzard-excited-for-its-xbox-future-being-free-from-activision-could-lead-to-new-starcraft/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 25
-    images:
-      - url: "https://static.tweaktown.com/news/9/4/94260_03_blizzard-excited-for-its-xbox-future-being-free-from-activision-could-lead-to-new-starcraft_full.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
 
-secured: "D8E5kyu6U6iqLiBJx/K/qkev/Q8jw/lSDCqc0BVkwO1k379WIykuzbzBhBsjOSwIYkbRuInoCVAfVwUD7kHfbaTNy/QklufEtO4mnYb+QUe7OwQAa2EXS5IJybZUekxl9nTO6DvqF9ShIPNHkqRGaK0Iw+2R9HS0MmGpFN4WH2CDbUI6nAFCNZXpfm2aNcyyOF3SsazS5fSibRXuvw+8Z784M63DULE8NyhuTOMcXechkG5tNDGjRl/ZiFx2S5uOmmZeYtLzL9EF+xAaJcfDA37xcAvEpxbktvsZeLWm0T3Neq4W3nRQYh40NZYCuCMnT7OH33R9BKosJa2som/CaPTzqRWJ8b2n7EqilqbMEij9KY0SuZ7AmEv33ye+/uKMqUM0qoXH7UgtZcVER070FbQCbzqiVHJ9g7Vn8dvtak2qlINRRj+zOlNWDpDuIOM4MMJz/U8Q/Zckvl/CEHpLA97NPRfRlBE3l+0Y7hW0MHzFS9HVZLXAFloxTW9mtczsj/4fwvN+InM5wxjRHEImEw==;yy/gDpQHwTxlK2+03dZVmw=="
+secured: "1NZbQcNhqN6l9emVdw0XCpjZICANo9SsKmilYBHU/bUBKaPJrg2Kkdz3T8+Oe+rOjkvqSdBMWovGUQxB7+CKAE2CQA1vA0qTBVlGtsTiyA+rE811KnygIyMIVf3X9kpWsUhYkX+QPkhn8SRvc2XZdfhImXgtpKuRQS+PEE/y2uutVU0hpUt34/b/sw+3SvMApkATmle75/aK49MoVfYhElrqSGZKe/1b2/n7R9PnyFLtCxZ8IE6C/JJJlQEA7LLxqvEEAN12zR3jk3OmhQ4idTrTkh7TQEHecBEny8uRNbRrWp7+635f0ybw0lkvNl/L8GZ07i6ZFzNDrVYtYSv+cpNmmvx3kfvQGTk6OUEPYRU=;k9ywhc1CZwCqerZPBmSABA=="
 ---
 

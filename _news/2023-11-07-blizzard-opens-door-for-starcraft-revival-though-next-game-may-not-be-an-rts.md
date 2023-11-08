@@ -82,6 +82,20 @@ related:
         width: 670
         height: 320
         isCached: true
+  - title: "Blizzard excited for its Xbox future, being free from Activision could lead to a new StarCraft"
+    excerpt: "Now a part of Xbox, the leadership at Blizzard is excited to be back in control of the studio's future - and that could mean the return of StarCraft."
+    publishedDateTime: 2023-11-08T08:28:00Z
+    webUrl: "https://www.tweaktown.com/news/94260/blizzard-excited-for-its-xbox-future-being-free-from-activision-could-lead-to-new-starcraft/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 25
+    images:
+      - url: "https://static.tweaktown.com/news/9/4/94260_03_blizzard-excited-for-its-xbox-future-being-free-from-activision-could-lead-to-new-starcraft_full.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
 
 secured: "OTtYsz/JrCzfLqjDcRcWibeksSBUQMbfSqO+kFluem641DFb+SvPJ2GQ0LNkciIU7tk4aAO9D+kOatn/WZekokF9rRvVel72F96RaBIvKOFuUuSxIJaQgxEHqTrG0zCXoy37ahAxfEWAohNuWvaK2BOz4vYzfeTQOJRE1V9ydI+A0x0xf1uOb7fv7hh2SjzRtdXCGBwGTXy39PEe3FnXwDMqWjO9x9Cr5PmG2oc5tKTfkiUdrSRTnX6tvgx3j/yj7GxB07JtksPJZXuk+tBXkAFpoFLrBNeHJ49f5hLjktYqbmrw8MVEExjLE4/6YAwrFPBtsi5e3FR3SfT5a4lY40N5nMPRT2tLQHNr0RmHf1YwNQt6uoSLNdWsoXiOG1GPgN+Xek13I2zfxj9WAplkP7lD46yfezRyS8CQhs0JSNqqmnvdtxK4m8v7iSKMnB1ghU/z0Mr2s05LKhGLXPCB8GH/YrBeLnd/glTJ5ZYQErfqEdG/cCIm3qNybKoSkbYCPJixk1jJHwEBXw7UoyUm1w==;eeWRh60yS75R0iLTrmGKQg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/starcraft-3-iii-blizzcon-2023-
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/starcraft-3-iii-blizzcon-2023-react/"
 type: article
 quality: 57
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -81,6 +81,20 @@ related:
       - url: "https://editors.dexerto.com/wp-content/uploads/2023/11/06/StarCraft-new-project.jpg"
         width: 1602
         height: 900
+        isCached: true
+  - title: "Blizzard excited for its Xbox future, being free from Activision could lead to a new StarCraft"
+    excerpt: "Now a part of Xbox, the leadership at Blizzard is excited to be back in control of the studio's future - and that could mean the return of StarCraft."
+    publishedDateTime: 2023-11-08T08:28:00Z
+    webUrl: "https://www.tweaktown.com/news/94260/blizzard-excited-for-its-xbox-future-being-free-from-activision-could-lead-to-new-starcraft/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 25
+    images:
+      - url: "https://static.tweaktown.com/news/9/4/94260_03_blizzard-excited-for-its-xbox-future-being-free-from-activision-could-lead-to-new-starcraft_full.jpg"
+        width: 1500
+        height: 1000
         isCached: true
 
 secured: "rQD4s5e0hN1xiQvt7Uza+c5ry1cing5YXAEOBhtL6o2ewd4rOW1scZmf4NOPnc/7QhJP2Xh/tJbdw1X5EY6JSI6JV3Mogj4K6w4xhGuvEgtDmudQ0b4h2AqIrXpmwuODO/86jWa5jrEjDHY33UxoxU5jQAHvtI89ejeKXvxc+ks9/lfwnWzFqigrTbC2Cw6vAgixs9eZf9UCm0DUJf6foRzJT+H/agdqYL0wH3kPHrO5/XAvotRPvKPJ/XyDS09M5nDezcZTwdNYXhdYoV0h+x7nXxLTi/NKsdLOiRCkH3Nr971fxTFQy6hrhGzI1Xq70RIRdotAAj1XR4NuC7DHvyMP+ixIzY5pzHkjVX2USv+90LYrltu738sV+dY/jpVWwYRsdPvezWo8zZ2kniwoESR/cQMXNaFgwX7xrM5D2YS6E9LG7pAWJ815c5FHJAOmdPkNtd54iDgrYHD5NmaL/68s+hMaqbZZgEqibdmGYVryagSDLu5k2uqbZkjuzIlM7D0XVsZIvMISkKrqSKb8Rw==;lUVH+6OtV8BaKiDq1J1RXA=="

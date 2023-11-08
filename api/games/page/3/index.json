@@ -236,6 +236,44 @@
       "publishedDateTime": "2023-01-18T18:34:08-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-epic-serrals-unexpected-nydus-vs-clem-best-of-5.md",
+      "title": "StarCraft 2: EPIC  - Serral's UNEXPECTED NYDUS vs Clem! (Best-of-5)",
+      "excerpt": "StarCraft 2 series between Serral, the number one Zerg and player in the world, and Clem, Europe's greatest Terran player. Lately Serral has been beating players like Maru, Cure and ByuN and he's been making it look easy. In this match he goes up against another Terran, but this time one that's a little",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-serrals-unexpected-nydus-vs-clem-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-serrals-unexpected-nydus-vs-clem-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=kNcnjT1D6Fw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kNcnjT1D6Fw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT55M41S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 115,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kNcnjT1D6Fw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-09-18T03:24:43-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-domination-marus-brilliant-decisions-vs-ragnarok-best-of-5.md",
       "title": "StarCraft 2: DOMINATION - Maru's BRILLIANT Decisions vs Ragnarok! (Best-of-5)",
       "excerpt": "Best-of-5 series of top level StarCraft 2 between Maru (Terran) and Ragnarok (Zerg). This series was played as part of the Korean StarCraft League (KSL) Summer Slam. In this match Maru controls the pace of the game brilliantly, as he forces Ragnarok to make decisions he would have rather not made. Support",
@@ -341,14 +379,14 @@
       "publishedDateTime": "2023-05-25T04:07:42-07:00"
     },
     {
-      "path": "_games/pig-they-always-do-this-when-they-start-losing-salt-mines-43-starcraft-2.md",
-      "title": "They ALWAYS Do This When They Start Losing | Salt Mines #43 - StarCraft 2",
-      "excerpt": "Welcome to Salt Mines #43! Everyone has encountered a salty or BM opponent on the StarCraft ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty.   Binge",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-they-always-do-this-when-they-start-losing-salt-mines-43-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-they-always-do-this-when-they-start-losing-salt-mines-43-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=2g8es0tCSLM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2g8es0tCSLM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M16S",
+      "path": "_games/pig-are-the-balance-council-clowns-is-reddit-right-lets-find-out-rstarcraft2.md",
+      "title": "Are the Balance Council CLOWNS? Is Reddit RIGHT? Lets find out! | r/StarCraft2",
+      "excerpt": "With all the commotion around the recent patch notes, lets dive onto reddit and see what some members of the community have on their minds, some of which comes off as interesting criticism, and other as mindless rambling. Lets go dumpster diving into r/StarCraft2!  -- 🐷 Second Channel for Learning StarCraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-are-the-balance-council-clowns-is-reddit-right-lets-find-out-rstarcraft2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-are-the-balance-council-clowns-is-reddit-right-lets-find-out-rstarcraft2/",
+      "originalUrl": "https://youtube.com/watch?v=_jq8lQpxKpM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_jq8lQpxKpM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M10S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -356,10 +394,10 @@
       "topics": [
         "StarCraft 2"
       ],
-      "heat": 111,
+      "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2g8es0tCSLM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/_jq8lQpxKpM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -367,7 +405,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-09-18T06:42:57-07:00"
+      "publishedDateTime": "2023-09-09T06:48:09-07:00"
     },
     {
       "path": "_games/lowkotv-gumihos-epic-battlecruiser-switch-surprises-astrea-starcraft-2.md",
@@ -1004,44 +1042,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-28T01:10:51-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-my-biggest-baneling-hit-ever-zerg-live-games.md",
-      "title": "StarCraft 2: My Biggest BANELING HIT Ever? (Zerg Live Games)",
-      "excerpt": "Some of the biggest Baneling hits and Fungal Growths in any games I've ever played. Two games of Zerg versus Terran in StarCraft 2 with live commentary.   00:00 Zerg vs Terran on Blackburn 34:50 Zerg vs Terran on Hardwire  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-my-biggest-baneling-hit-ever-zerg-live-games/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-my-biggest-baneling-hit-ever-zerg-live-games/",
-      "originalUrl": "https://youtube.com/watch?v=g49m6GedpxY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/g49m6GedpxY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT57M49S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 94,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/g49m6GedpxY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-04-13T08:59:18-07:00"
     }
   ],
   "nextPage": 4

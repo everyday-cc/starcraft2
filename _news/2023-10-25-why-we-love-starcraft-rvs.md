@@ -7,7 +7,7 @@ originalUrl: "https://www.thetechedvocate.org/why-we-love-starcraft-rvs/"
 webUrl: "https://www.thetechedvocate.org/why-we-love-starcraft-rvs/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 800
     height: 400
     isCached: true
-
-related:
-  - title: "Battlefront meets Starcraft as FPS strategy game launches on Steam"
-    excerpt: "As Executive Assault 2 leaves Steam Early Access, this hybrid of RTS and FPS combines space combat and ground warfare in a blend of C&C, Halo, and Battlefront."
-    publishedDateTime: 2023-10-19T13:46:00Z
-    webUrl: "https://www.pcgamesn.com/executive-assault-2/steam"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 37
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/10/executive-assault-2-rts-fps-hybrid-strategy-game-shooter-battlefront-starcraft-command-and-conquer-halo-steam-release-date.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "0pRJWTWlTfvNs4prRoAlVkANdPjiE3Dz0YrPims6ZvuINy4CrgaNGvRXgrE0AdS0exyq2IlbB6wyGd7P6ydlvv/M4Uc1xSRxssQ9GivDTfXkOG1aC31fpdqyFWKU3UC3Gfe5H4pTs6KmGZbm9vfXrbg2aKIdfvbdsLDAxYGwzyE2VrV+jDqirLXL/JmUlDn3XvoaXQi8hJv298cgxPV2aipoaCBL+Ea2SYix7v8sZH9JO2+PI7ygN1ASPLqeye4gYfcleVm8+hfl0vH69kV+24FxdIjrx7phTUsrlm3zlnndPECKEXr8Q5ZvZcL4xuu9urJwY3kVoCt2nkKgXmdpZznnRmeob+pI9TGwOJQmhD/GClQUODWBDEwe2enWOTSGXaqz3TZnYgpwtUSyffjAjPjgj8vY09XgMYNQbwQkhtvwIjq1wM9THyKdTibj1MWFIo/Fv8MNtmK5Fw5kiyVDelei4UGD/f4YTbwDxoeDdiXsEnqjU1RcHBjETyCKAaWU1g4khjsE4LzpA27LvhxRaA==;voyymkKdjD71bUHhqWq4cg=="
 ---

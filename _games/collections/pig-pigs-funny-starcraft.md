@@ -1068,7 +1068,7 @@ items:
   - pig-cheesy-smurfs-brain-melts-when-they-lose-salt-mines-40-starcraft-2
   - pig-how-is-this-madman-the-1-vietnamese-pro-mad-meo-starcraft-2
   - pig-salty-protoss-calls-out-pig-during-complete-meltdown-salt-mines-41-starcraft-2
-  - pig-can-these-deranged-builds-take-down-a-grandmaster-mapetheape-vs-forgg-starcraft-2
+  - pig-can-these-deranged-builds-take-down-a-grandmaster-mape-the-ape-4-starcraft-2
   - pig-when-they-rage-so-hard-they-forget-how-to-play-salt-mines-42-starcraft-2
   - pig-are-the-balance-council-clowns-is-reddit-right-lets-find-out-rstarcraft2
   - pig-they-always-do-this-when-they-start-losing-salt-mines-43-starcraft-2
@@ -1078,6 +1078,7 @@ items:
   - pig-the-most-deranged-post-game-rant-in-starcraft-history-salt-mines-45-starcraft-2
   - pig-i-lost-my-mind-trying-to-play-like-florencio-starcraft-2
   - pig-most-delusional-player-in-all-starcraft-is-back-salt-mines-46-starcraft-2
+  - pig-this-should-never-work-against-a-terran-grand-master-mape-the-ape-5-starcraft-2
 
 topics:
   - StarCraft 2

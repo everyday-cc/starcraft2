@@ -3,8 +3,8 @@ category: news
 title: "The next Starcraft might not be a strategy game"
 excerpt: "We certainly wouldn't mind a revival of Starcraft: Ghost which was cancelled in 2006 (although got a tiny revival with the DLC Starcraft II: Nova Covert Ops), but there is frankly quite a lot that could be made with Starcraft in just about any genre."
 publishedDateTime: 2023-11-07T20:33:00Z
-originalUrl: "https://www.gamereactor.eu/news/1324343/The+next+Starcraft+might+not+be+a+strategy+game/"
-webUrl: "https://www.gamereactor.eu/news/1324343/The+next+Starcraft+might+not+be+a+strategy+game/"
+originalUrl: "https://www.gamereactor.eu/the-next-starcraft-might-not-be-a-strategy-game-1324343/"
+webUrl: "https://www.gamereactor.eu/the-next-starcraft-might-not-be-a-strategy-game-1324343/"
 type: article
 quality: 37
 heat: -1
@@ -97,6 +97,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "D8E5kyu6U6iqLiBJx/K/qkev/Q8jw/lSDCqc0BVkwO1k379WIykuzbzBhBsjOSwIYkbRuInoCVAfVwUD7kHfbaTNy/QklufEtO4mnYb+QUe7OwQAa2EXS5IJybZUekxl9nTO6DvqF9ShIPNHkqRGaK0Iw+2R9HS0MmGpFN4WH2CDbUI6nAFCNZXpfm2aNcyyOF3SsazS5fSibRXuvw+8Z784M63DULE8NyhuTOMcXechkG5tNDGjRl/ZiFx2S5uOmmZeYtLzL9EF+xAaJcfDA37xcAvEpxbktvsZeLWm0T3Neq4W3nRQYh40NZYCuCMnT7OH33R9BKosJa2som/CaPTzqRWJ8b2n7EqilqbMEij9KY0SuZ7AmEv33ye+/uKMqUM0qoXH7UgtZcVER070FbQCbzqiVHJ9g7Vn8dvtak2qlINRRj+zOlNWDpDuIOM4MMJz/U8Q/Zckvl/CEHpLA97NPRfRlBE3l+0Y7hW0MHzFS9HVZLXAFloxTW9mtczsj/4fwvN+InM5wxjRHEImEw==;yy/gDpQHwTxlK2+03dZVmw=="
+secured: "To/c4T1zVxSFNGhB+gttmHZkTk3zM0ttbIdCkkVjQfjxzo5Gx6/0orm9JegDWMZjXhQ8vaNoyJxRlsoJYuqzYAVAUloN0dS/PrYZhLNkX1JnwBPKEQ06snBP/3CVNvCAvwBCtJubVOEkRixR2TO2SUNAzjfw8BgmX6QshcqoKD0mjfInDVj3QvvFuBRmtBnKCDsHCC+i23cFCJ3Eo7NI7BLAPb949D4cH9GUu5rc+rLzd8T/bPdF8A7FvvmBDhX0KBstusMtPFKIYelnf/KCgATs1UKiXR2uuITUy7nLvg90visXzGtGdS6dBK4y1IHdH7nX7+E8bUXIUINOjSl0sMM+9Kdhj+m/2R98nxNWJr4=;k26jbcO9fOr53PrnAGGlnA=="
 ---
 

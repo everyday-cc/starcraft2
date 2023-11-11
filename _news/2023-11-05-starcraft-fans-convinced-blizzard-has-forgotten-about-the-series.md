@@ -82,6 +82,20 @@ related:
         width: 1602
         height: 900
         isCached: true
+  - title: "After 32 years, the Blizzard artist who defined Warcraft, StarCraft, and Diablo is retiring"
+    excerpt: "Sam 'Samwise' Didier, the longtime Blizzard art director who defined the iconic look of the studio's games, has announced that he's retiring after 32 years with the company."
+    publishedDateTime: 2023-11-10T22:03:00Z
+    webUrl: "https://www.gamesradar.com/after-32-years-the-blizzard-artist-who-defined-warcraft-starcraft-and-diablo-is-retiring/"
+    type: article
+    provider:
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 27
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/GsTCT2s74gUWhfio7wUfKZ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Blizzard excited for its Xbox future, being free from Activision could lead to a new StarCraft"
     excerpt: "Now a part of Xbox, the leadership at Blizzard is excited to be back in control of the studio's future - and that could mean the return of StarCraft."
     publishedDateTime: 2023-11-08T08:28:00Z

@@ -82,6 +82,20 @@ related:
         width: 1602
         height: 900
         isCached: true
+  - title: "After 32 years, the Blizzard artist who defined Warcraft, StarCraft, and Diablo is retiring"
+    excerpt: "Sam 'Samwise' Didier, the longtime Blizzard art director who defined the iconic look of the studio's games, has announced that he's retiring after 32 years with the company."
+    publishedDateTime: 2023-11-10T22:03:00Z
+    webUrl: "https://www.gamesradar.com/after-32-years-the-blizzard-artist-who-defined-warcraft-starcraft-and-diablo-is-retiring/"
+    type: article
+    provider:
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 27
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/GsTCT2s74gUWhfio7wUfKZ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Blizzard excited for its Xbox future, being free from Activision could lead to a new StarCraft"
     excerpt: "Now a part of Xbox, the leadership at Blizzard is excited to be back in control of the studio's future - and that could mean the return of StarCraft."
     publishedDateTime: 2023-11-08T08:28:00Z
@@ -97,6 +111,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "To/c4T1zVxSFNGhB+gttmHZkTk3zM0ttbIdCkkVjQfjxzo5Gx6/0orm9JegDWMZjXhQ8vaNoyJxRlsoJYuqzYAVAUloN0dS/PrYZhLNkX1JnwBPKEQ06snBP/3CVNvCAvwBCtJubVOEkRixR2TO2SUNAzjfw8BgmX6QshcqoKD0mjfInDVj3QvvFuBRmtBnKCDsHCC+i23cFCJ3Eo7NI7BLAPb949D4cH9GUu5rc+rLzd8T/bPdF8A7FvvmBDhX0KBstusMtPFKIYelnf/KCgATs1UKiXR2uuITUy7nLvg90visXzGtGdS6dBK4y1IHdH7nX7+E8bUXIUINOjSl0sMM+9Kdhj+m/2R98nxNWJr4=;k26jbcO9fOr53PrnAGGlnA=="
+secured: "9+HgZKFQA8ETWOwcTpUIf8FXbm4dkHQMmrvZc58wSVBVNINh3MgUxexgd9swx7rVOJ2DGyQfQLq4mZp5pV9ctza4RonF3OUhNSuQlSP7XsjXit313sIO5fZIqcK8AWLvmHRSFMHi7byYEabFS64rwMzBJpP9C2tU8IM3h3mM4MqEto4aw5NkbLwBuVvlb0EQIgGZPT+omAQQ8rw0qS+Pf5pl0T3GO51VXfzBFMtUjNdQbpf4NVvFeeRQBtpUFwibeDyI9zig7RD0+XndLJqTxmsr5B8vm7s811pXUfIraEH8LiD63XTPm7TOeV/TvZerzalqmyR1SJOnvT4uk8K4qtxR9JckZfiePJgXVyg8hoiECz92O8sGmlpoFZohnL4Dc/WyHtuE+zY125mYlnScgH3Da6LBF5+hbcxmbhIyxOve6uegzh5nk397L9/KXG5VayvJ70WI8UOPuNgEr5mayaIQGs9Y/rbqBxWCSxFk8YpWr8mQLZt2dDI8JO/LPF2qtLxJibO/7l72dV7QFoIIag==;0NEH5sS50hNXm84ff74UHg=="
 ---
 

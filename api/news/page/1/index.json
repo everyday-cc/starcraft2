@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-11-06-blizzcon-leaves-fans-wishing-for-starcraft-3.md",
-      "title": "BlizzCon Leaves Fans Wishing for StarCraft 3",
-      "excerpt": "Where is StarCraft 3? That's the question that many Blizzard fans have had in the wake of BlizzCon 2023 taking place this weekend. During its opening ceremony of BlizzCon, Blizzard announced a variety of new expansions and updates tied to Diablo IV,",
+      "path": "_news/2023-11-08-blizzard-addresses-possibility-of-new-starcraft-game.md",
+      "title": "Blizzard Addresses Possibility of New StarCraft Game",
+      "excerpt": "After Microsoft's record-breaking acquisition of Activision Blizzard, Blizzard head Mike Ybarra hints at the potential for a future StarCraft sequel. The President of Blizzard Entertainment hints ...",
       "sourceUrl": null,
-      "webUrl": "https://comicbook.com/gaming/news/starcraft-3-iii-blizzcon-2023-react/",
-      "originalUrl": "https://comicbook.com/gaming/news/starcraft-3-iii-blizzcon-2023-react/",
+      "webUrl": "https://gamerant.com/blizzard-new-starcraft-game-comments/",
+      "originalUrl": "https://gamerant.com/blizzard-new-starcraft-game-comments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 297,
       "tags": null,
       "images": [
         {
-          "url": "https://sportshub.cbsistatic.com/i/2023/10/23/f37dfd00-6dea-4365-8236-16dc6719efd1/out-this-month-november-2023.png?width=568&height=320",
-          "width": 568,
-          "height": 320,
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/11/blizzard-logo-starcraft-revival.jpg",
+          "width": 1800,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/starcraft-3-iii-blizzcon-2023-react/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/starcraft-3-iii-blizzcon-2023-react/",
-      "publishedDateTime": "2023-11-05T16:39:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T16:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

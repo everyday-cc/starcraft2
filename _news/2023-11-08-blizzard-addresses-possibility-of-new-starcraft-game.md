@@ -1,43 +1,33 @@
 ---
 category: news
-title: "After 32 years, the Blizzard artist who defined Warcraft, StarCraft, and Diablo is retiring"
-excerpt: "Sam 'Samwise' Didier, the longtime Blizzard art director who defined the iconic look of the studio's games, has announced that he's retiring after 32 years with the company."
-publishedDateTime: 2023-11-10T22:03:00Z
-originalUrl: "https://www.gamesradar.com/after-32-years-the-blizzard-artist-who-defined-warcraft-starcraft-and-diablo-is-retiring/"
-webUrl: "https://www.gamesradar.com/after-32-years-the-blizzard-artist-who-defined-warcraft-starcraft-and-diablo-is-retiring/"
+title: "Blizzard Addresses Possibility of New StarCraft Game"
+excerpt: "After Microsoft's record-breaking acquisition of Activision Blizzard, Blizzard head Mike Ybarra hints at the potential for a future StarCraft sequel. The President of Blizzard Entertainment hints ..."
+publishedDateTime: 2023-11-08T00:34:00Z
+originalUrl: "https://gamerant.com/blizzard-new-starcraft-game-comments/"
+webUrl: "https://gamerant.com/blizzard-new-starcraft-game-comments/"
 type: article
-quality: 27
-heat: -1
-published: false
+quality: 77
+heat: 297
+published: true
 
 provider:
-  name: GamesRadar+
-  domain: gamesradar.com
+  name: Game Rant
+  domain: gamerant.com
+  images:
+    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/gamerant.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/GsTCT2s74gUWhfio7wUfKZ-1200-80.jpg"
-    width: 1200
-    height: 675
+  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/11/blizzard-logo-starcraft-revival.jpg"
+    width: 1800
+    height: 900
     isCached: true
 
 related:
-  - title: "Blizzard Addresses Possibility of New StarCraft Game"
-    excerpt: "After Microsoft's record-breaking acquisition of Activision Blizzard, Blizzard head Mike Ybarra hints at the potential for a future StarCraft sequel. The President of Blizzard Entertainment hints ..."
-    publishedDateTime: 2023-11-08T00:34:00Z
-    webUrl: "https://gamerant.com/blizzard-new-starcraft-game-comments/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 77
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/11/blizzard-logo-starcraft-revival.jpg"
-        width: 1800
-        height: 900
-        isCached: true
   - title: "BlizzCon Leaves Fans Wishing for StarCraft 3"
     excerpt: "Where is StarCraft 3? That's the question that many Blizzard fans have had in the wake of BlizzCon 2023 taking place this weekend. During its opening ceremony of BlizzCon, Blizzard announced a variety of new expansions and updates tied to Diablo IV,"
     publishedDateTime: 2023-11-06T00:39:00Z
@@ -152,6 +142,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "After 32 years, the Blizzard artist who defined Warcraft, StarCraft, and Diablo is retiring"
+    excerpt: "Sam 'Samwise' Didier, the longtime Blizzard art director who defined the iconic look of the studio's games, has announced that he's retiring after 32 years with the company."
+    publishedDateTime: 2023-11-10T22:03:00Z
+    webUrl: "https://www.gamesradar.com/after-32-years-the-blizzard-artist-who-defined-warcraft-starcraft-and-diablo-is-retiring/"
+    type: article
+    provider:
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 27
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/GsTCT2s74gUWhfio7wUfKZ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The $15 Celestial Steed item in World of Warcraft made more money than all of StarCraft II"
     excerpt: "Jason Hall started Washington state-based indie team Pirate Software in 2017 after many years of being an employee at Blizzard, where he worked on games such"
     publishedDateTime: 2023-11-14T13:55:00Z
@@ -181,6 +185,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "rVyjFRxCsiBCqaHvUStowRkLtYKva1gZHaM0wqVVhranslhkSpw/5fdq2Luf4meeo063pngy2WrMQb8yI3Qe8AEevsVUEysjFK38u5K1LzSeuGpHCBI3FVibc3k8veDAohejoLKeAxZNTpe9BcMADm/RVZBNk2/qxJi7GHZlPoFhT4hLHdLruQb9zczycAQMDWubooNczqkHcSzqVQ4rVXf+ui7JC+iWzNiKec6dlRtSlKEkpWic6CfRiiUNTyv0CMSpyQzKJ1FQWNXl+bAMwKvi7i45JQ3O4xE6xOpa+ohaKNsgQ0gqxYeQZKE6+YZpM/bDt/a0303jw3l7CZFCUOhDzodlGt0OrOsUO9Ub8Ow=;FMn6GIzroex18b0PgiAPcQ=="
+secured: "fVODlvloSICRUMDOrFRwMVVcoQoud4jUj8ylnlOSqgk5QkoaM41Ht5SMcBcpsaTMbzxX0dA2Lhx2S9FJrjwiltr1qzPiJrYOyZWrQo0PHB0mXrrhYx7cdPW5pl/hFmMgD03FwDyWcRE6+dtXzX8MECMjzctpFMz3/6EMPhp0DdDklPX2+9CTJ4mhG1NZ4o2iXc3yPht7/0p5mO3Ya4wL3KQonzY7QDCou+XlDdyAQE3PTr2wtC0WO4nD2yXC903liOAcekCvyL56Gcji+ZYoL1gvX9rc9wc6gz3Af09VQDHUWzP+106+SZLTU6lWPpRRlJnFTOSDalfdhmnhh2HXM75b3PkEjVh/0y7O7MuCTPU=;QhAJYGlWA4tmTBAzeIVchQ=="
 ---
 

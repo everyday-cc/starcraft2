@@ -1,26 +1,26 @@
 ---
 category: news
-title: "After 32 years, the Blizzard artist who defined Warcraft, StarCraft, and Diablo is retiring"
-excerpt: "Sam 'Samwise' Didier, the longtime Blizzard art director who defined the iconic look of the studio's games, has announced that he's retiring after 32 years with the company."
-publishedDateTime: 2023-11-10T22:03:00Z
-originalUrl: "https://www.gamesradar.com/after-32-years-the-blizzard-artist-who-defined-warcraft-starcraft-and-diablo-is-retiring/"
-webUrl: "https://www.gamesradar.com/after-32-years-the-blizzard-artist-who-defined-warcraft-starcraft-and-diablo-is-retiring/"
+title: "Former Blizzard dev claims one WoW cosmetic made more money than all of Starcraft 2"
+excerpt: "Jason Hall, a former developer at Blizzard Entertainment, claims StarCraft 2: Wings of Liberty brought in less revenue than World of Warcraft’s first “sparkle pony horse” mount."
+publishedDateTime: 2023-11-13T11:15:00Z
+originalUrl: "https://dotesports.com/wow/news/former-blizzard-dev-claims-one-wow-cosmetic-made-more-money-than-all-of-starcraft-2"
+webUrl: "https://dotesports.com/wow/news/former-blizzard-dev-claims-one-wow-cosmetic-made-more-money-than-all-of-starcraft-2"
 type: article
-quality: 27
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar+
-  domain: gamesradar.com
+  name: Dot Esports
+  domain: dotesports.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/GsTCT2s74gUWhfio7wUfKZ-1200-80.jpg"
-    width: 1200
-    height: 675
+  - url: "https://dotesports.com/wp-content/uploads/2023/06/World-of-Warcraft-WoW-inn.png?resize=768,432"
+    width: 768
+    height: 432
     isCached: true
 
 related:
@@ -124,20 +124,6 @@ related:
         width: 1602
         height: 900
         isCached: true
-  - title: "Former Blizzard dev claims one WoW cosmetic made more money than all of Starcraft 2"
-    excerpt: "Jason Hall, a former developer at Blizzard Entertainment, claims StarCraft 2: Wings of Liberty brought in less revenue than World of Warcraft’s first “sparkle pony horse” mount."
-    publishedDateTime: 2023-11-13T11:15:00Z
-    webUrl: "https://dotesports.com/wow/news/former-blizzard-dev-claims-one-wow-cosmetic-made-more-money-than-all-of-starcraft-2"
-    type: article
-    provider:
-      name: Dot Esports
-      domain: dotesports.com
-    quality: 31
-    images:
-      - url: "https://dotesports.com/wp-content/uploads/2023/06/World-of-Warcraft-WoW-inn.png?resize=768,432"
-        width: 768
-        height: 432
-        isCached: true
   - title: "StarCraft 2 Earned Less Than WoW's Shiny Pony; Blizzard Thrives on Microtransactions"
     excerpt: "Wings of Liberty says in the first two years after its release the game earned less for Blizzard than a certain mount for World of Warcraft. 'This is why companies rely on microtransactions,' he says."
     publishedDateTime: 2023-11-13T11:52:00Z
@@ -151,6 +137,20 @@ related:
       - url: "https://cdn.gracza.pl/i_gp/h/22/437572491.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "After 32 years, the Blizzard artist who defined Warcraft, StarCraft, and Diablo is retiring"
+    excerpt: "Sam 'Samwise' Didier, the longtime Blizzard art director who defined the iconic look of the studio's games, has announced that he's retiring after 32 years with the company."
+    publishedDateTime: 2023-11-10T22:03:00Z
+    webUrl: "https://www.gamesradar.com/after-32-years-the-blizzard-artist-who-defined-warcraft-starcraft-and-diablo-is-retiring/"
+    type: article
+    provider:
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 27
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/GsTCT2s74gUWhfio7wUfKZ-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The $15 Celestial Steed item in World of Warcraft made more money than all of StarCraft II"
     excerpt: "Jason Hall started Washington state-based indie team Pirate Software in 2017 after many years of being an employee at Blizzard, where he worked on games such"
@@ -181,6 +181,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "rVyjFRxCsiBCqaHvUStowRkLtYKva1gZHaM0wqVVhranslhkSpw/5fdq2Luf4meeo063pngy2WrMQb8yI3Qe8AEevsVUEysjFK38u5K1LzSeuGpHCBI3FVibc3k8veDAohejoLKeAxZNTpe9BcMADm/RVZBNk2/qxJi7GHZlPoFhT4hLHdLruQb9zczycAQMDWubooNczqkHcSzqVQ4rVXf+ui7JC+iWzNiKec6dlRtSlKEkpWic6CfRiiUNTyv0CMSpyQzKJ1FQWNXl+bAMwKvi7i45JQ3O4xE6xOpa+ohaKNsgQ0gqxYeQZKE6+YZpM/bDt/a0303jw3l7CZFCUOhDzodlGt0OrOsUO9Ub8Ow=;FMn6GIzroex18b0PgiAPcQ=="
+secured: "XQ1Ine8hHR7gra6hvXUk7z75PmcntNaZhMWoX34qfJz3X5zRfTfmnA/Xtl1DnGbvPOyrBDs+fftXMA9ZrYdM43H5YrwSmnNg4OL1yTQ7EZROAzarfYBi6FXgahISMZ6EXV85M4C2GJanA62yzbhJ/RwdRU0o+zcOcMhZms+/mOo2t0sklYjLcasomNZlsMedX/qcVUDK/23eMz3V849jNnfINQaOd1kKZUR2GR2pctk0k6EfVyC0CLzgUFNqOYK9E/eDPFjDvmEeigWkoyz7nEzb8LuREXtif/G+9CYLmxSJITlrf5seYZHqWaZSFT2XiPa/7ME0XLLHxCRFyEwkThrBRsQ2TB7tsLwgnDd6f4Q=;r/L3qze5kAq7S/n6/NL07g=="
 ---
 

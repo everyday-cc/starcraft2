@@ -1,26 +1,26 @@
 ---
 category: news
-title: "After 32 years, the Blizzard artist who defined Warcraft, StarCraft, and Diablo is retiring"
-excerpt: "Sam 'Samwise' Didier, the longtime Blizzard art director who defined the iconic look of the studio's games, has announced that he's retiring after 32 years with the company."
-publishedDateTime: 2023-11-10T22:03:00Z
-originalUrl: "https://www.gamesradar.com/after-32-years-the-blizzard-artist-who-defined-warcraft-starcraft-and-diablo-is-retiring/"
-webUrl: "https://www.gamesradar.com/after-32-years-the-blizzard-artist-who-defined-warcraft-starcraft-and-diablo-is-retiring/"
+title: "StarCraft 2 Earned Less Than WoW's Shiny Pony; Blizzard Thrives on Microtransactions"
+excerpt: "Wings of Liberty says in the first two years after its release the game earned less for Blizzard than a certain mount for World of Warcraft. 'This is why companies rely on microtransactions,' he says."
+publishedDateTime: 2023-11-13T11:52:00Z
+originalUrl: "https://www.gamepressure.com/newsroom/blizzard-thrives-on-microtransactions/z56393"
+webUrl: "https://www.gamepressure.com/newsroom/blizzard-thrives-on-microtransactions/z56393"
 type: article
-quality: 27
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar+
-  domain: gamesradar.com
+  name: XCOM 2 Game Guide
+  domain: gamepressure.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/GsTCT2s74gUWhfio7wUfKZ-1200-80.jpg"
-    width: 1200
-    height: 675
+  - url: "https://cdn.gracza.pl/i_gp/h/22/437572491.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -138,19 +138,19 @@ related:
         width: 768
         height: 432
         isCached: true
-  - title: "StarCraft 2 Earned Less Than WoW's Shiny Pony; Blizzard Thrives on Microtransactions"
-    excerpt: "Wings of Liberty says in the first two years after its release the game earned less for Blizzard than a certain mount for World of Warcraft. 'This is why companies rely on microtransactions,' he says."
-    publishedDateTime: 2023-11-13T11:52:00Z
-    webUrl: "https://www.gamepressure.com/newsroom/blizzard-thrives-on-microtransactions/z56393"
+  - title: "After 32 years, the Blizzard artist who defined Warcraft, StarCraft, and Diablo is retiring"
+    excerpt: "Sam 'Samwise' Didier, the longtime Blizzard art director who defined the iconic look of the studio's games, has announced that he's retiring after 32 years with the company."
+    publishedDateTime: 2023-11-10T22:03:00Z
+    webUrl: "https://www.gamesradar.com/after-32-years-the-blizzard-artist-who-defined-warcraft-starcraft-and-diablo-is-retiring/"
     type: article
     provider:
-      name: XCOM 2 Game Guide
-      domain: gamepressure.com
-    quality: 30
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 27
     images:
-      - url: "https://cdn.gracza.pl/i_gp/h/22/437572491.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn.mos.cms.futurecdn.net/GsTCT2s74gUWhfio7wUfKZ-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The $15 Celestial Steed item in World of Warcraft made more money than all of StarCraft II"
     excerpt: "Jason Hall started Washington state-based indie team Pirate Software in 2017 after many years of being an employee at Blizzard, where he worked on games such"
@@ -181,6 +181,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "rVyjFRxCsiBCqaHvUStowRkLtYKva1gZHaM0wqVVhranslhkSpw/5fdq2Luf4meeo063pngy2WrMQb8yI3Qe8AEevsVUEysjFK38u5K1LzSeuGpHCBI3FVibc3k8veDAohejoLKeAxZNTpe9BcMADm/RVZBNk2/qxJi7GHZlPoFhT4hLHdLruQb9zczycAQMDWubooNczqkHcSzqVQ4rVXf+ui7JC+iWzNiKec6dlRtSlKEkpWic6CfRiiUNTyv0CMSpyQzKJ1FQWNXl+bAMwKvi7i45JQ3O4xE6xOpa+ohaKNsgQ0gqxYeQZKE6+YZpM/bDt/a0303jw3l7CZFCUOhDzodlGt0OrOsUO9Ub8Ow=;FMn6GIzroex18b0PgiAPcQ=="
+secured: "NPuciL3gBhXs61heANDbJf1NhFZ66LyETvEdk8VIi2C+1FWZd0XvWtKPQVGEgUA1r53eji/BT6bISqFoAJG4QLcAYvJwzJnCpbuODaVWp6RFGYfjxPlk4kOb4iemWdhQCy+jPJ50kh0xIvhlkzBScyjfDXG7AjAl5cRNTwHMGlRIIyVNxCJCY3grXDdFL9jdw4Ghm8ogbFLbt9tfSp7qmpRxi1b8L8K8YYm89ucm5ngtHylgaRyWMT9Cq6bRYAmQBLBo/gS9m1my57rdcb9P4H8mYbFpLeh5x6R8+fUy7SQEdWtGa85lDOTC1gHyU94UVffreDvEChOliT84uOZjQdsBNfWTg2ZlsttUmOiSS5o=;2Zmds7K8stw3kd9w5/zVdw=="
 ---
 

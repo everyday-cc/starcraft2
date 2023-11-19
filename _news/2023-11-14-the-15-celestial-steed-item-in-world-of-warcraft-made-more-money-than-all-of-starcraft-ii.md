@@ -1,26 +1,26 @@
 ---
 category: news
-title: "After 32 years, the Blizzard artist who defined Warcraft, StarCraft, and Diablo is retiring"
-excerpt: "Sam 'Samwise' Didier, the longtime Blizzard art director who defined the iconic look of the studio's games, has announced that he's retiring after 32 years with the company."
-publishedDateTime: 2023-11-10T22:03:00Z
-originalUrl: "https://www.gamesradar.com/after-32-years-the-blizzard-artist-who-defined-warcraft-starcraft-and-diablo-is-retiring/"
-webUrl: "https://www.gamesradar.com/after-32-years-the-blizzard-artist-who-defined-warcraft-starcraft-and-diablo-is-retiring/"
+title: "The $15 Celestial Steed item in World of Warcraft made more money than all of StarCraft II"
+excerpt: "Jason Hall started Washington state-based indie team Pirate Software in 2017 after many years of being an employee at Blizzard, where he worked on games such"
+publishedDateTime: 2023-11-14T13:55:00Z
+originalUrl: "https://www.techspot.com/news/100833-former-blizzard-worker-reveals-celestial-steed-microtransaction-wow.html"
+webUrl: "https://www.techspot.com/news/100833-former-blizzard-worker-reveals-celestial-steed-microtransaction-wow.html"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar+
-  domain: gamesradar.com
+  name: TechSpot
+  domain: techspot.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/GsTCT2s74gUWhfio7wUfKZ-1200-80.jpg"
-    width: 1200
-    height: 675
+  - url: "https://www.techspot.com/images2/news/bigimage/2023/11/2023-11-14-image-5.jpg"
+    width: 1240
+    height: 868
     isCached: true
 
 related:
@@ -152,19 +152,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The $15 Celestial Steed item in World of Warcraft made more money than all of StarCraft II"
-    excerpt: "Jason Hall started Washington state-based indie team Pirate Software in 2017 after many years of being an employee at Blizzard, where he worked on games such"
-    publishedDateTime: 2023-11-14T13:55:00Z
-    webUrl: "https://www.techspot.com/news/100833-former-blizzard-worker-reveals-celestial-steed-microtransaction-wow.html"
+  - title: "After 32 years, the Blizzard artist who defined Warcraft, StarCraft, and Diablo is retiring"
+    excerpt: "Sam 'Samwise' Didier, the longtime Blizzard art director who defined the iconic look of the studio's games, has announced that he's retiring after 32 years with the company."
+    publishedDateTime: 2023-11-10T22:03:00Z
+    webUrl: "https://www.gamesradar.com/after-32-years-the-blizzard-artist-who-defined-warcraft-starcraft-and-diablo-is-retiring/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
+      name: GamesRadar+
+      domain: gamesradar.com
     quality: 27
     images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/11/2023-11-14-image-5.jpg"
-        width: 1240
-        height: 868
+      - url: "https://cdn.mos.cms.futurecdn.net/GsTCT2s74gUWhfio7wUfKZ-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Blizzard excited for its Xbox future, being free from Activision could lead to a new StarCraft"
     excerpt: "Now a part of Xbox, the leadership at Blizzard is excited to be back in control of the studio's future - and that could mean the return of StarCraft."
@@ -181,6 +181,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "rVyjFRxCsiBCqaHvUStowRkLtYKva1gZHaM0wqVVhranslhkSpw/5fdq2Luf4meeo063pngy2WrMQb8yI3Qe8AEevsVUEysjFK38u5K1LzSeuGpHCBI3FVibc3k8veDAohejoLKeAxZNTpe9BcMADm/RVZBNk2/qxJi7GHZlPoFhT4hLHdLruQb9zczycAQMDWubooNczqkHcSzqVQ4rVXf+ui7JC+iWzNiKec6dlRtSlKEkpWic6CfRiiUNTyv0CMSpyQzKJ1FQWNXl+bAMwKvi7i45JQ3O4xE6xOpa+ohaKNsgQ0gqxYeQZKE6+YZpM/bDt/a0303jw3l7CZFCUOhDzodlGt0OrOsUO9Ub8Ow=;FMn6GIzroex18b0PgiAPcQ=="
+secured: "7vV8wzBiWnQW/m772yLyseWHCjkcg+zGeqw2a+uB76Bea7QZTJpqUuW3DKFXTUEUl0PZ8/Wv8VM2O2wgi2D6E9+AzNV3/WkEOqCg8NkjNJkIGy9yWwkofy2hWv4NBvWdUcIGXEqK87jNAvhxr5v51bGUfzuSjDMEGg3D6QQSEKaD+0hfmarF6TjQN+wqpQiqj9zXjcNqbcGveF0sDYvWTRloRgYj6jFxcPyEaLqPQE+sqku4Wr0d8fBK8rV1e0mNtH8EUbzbVdO0LaTlCIGS3k1goeD6qD1d79TbCsx5z2OUwP+c07doITp93wViPsd2WVsoyFOSj6JrlktdZbVTBAfPOIKDRJDGQapuDSgt2Mk=;Vr9w+F4fs9ZCtG2yEdZekw=="
 ---
 

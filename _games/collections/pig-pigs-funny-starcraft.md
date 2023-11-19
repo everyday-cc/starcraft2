@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 61
+heat: 62
 
 provider:
   name: PiG
@@ -1079,6 +1079,10 @@ items:
   - pig-i-lost-my-mind-trying-to-play-like-florencio-starcraft-2
   - pig-most-delusional-player-in-all-starcraft-is-back-salt-mines-46-starcraft-2
   - pig-this-should-never-work-against-a-terran-grand-master-mape-the-ape-5-starcraft-2
+  - pig-flo-mentally-destroys-zerg-with-incredible-nuke-florencio-files-286-starcraft-2
+  - pig-cannon-rusher-pauses-game-to-take-a-dump-salt-mines-47-starcraft-2
+  - pig-i-challenged-two-pros-to-face-six-amateurs-at-once-harstem-elazer-starcraft-2
+  - pig-the-most-disgusting-finish-to-beast-of-the-hill-ever-starcraft-2
 
 topics:
   - StarCraft 2

@@ -4,36 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/pig-zergs-will-rage-if-this-map-gets-on-ladder-protoss-will-love-it-astrea-vs-mixu-starcraft-2.md",
-      "title": "Zergs will RAGE if this Map gets on Ladder (Protoss will LOVE it) | Astrea vs Mixu - StarCraft 2",
-      "excerpt": "Both Astrea (Protoss) and Mixu (Zerg) play this map from the Team Liquid Map-making Contest. There's an interesting gold base and lots of choke points. Zergs will HATE this, Protoss players will be happy -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-zergs-will-rage-if-this-map-gets-on-ladder-protoss-will-love-it-astrea-vs-mixu-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-zergs-will-rage-if-this-map-gets-on-ladder-protoss-will-love-it-astrea-vs-mixu-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=dPy6wpTmSh4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dPy6wpTmSh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M37S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 75,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dPy6wpTmSh4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-07-25T03:16:54-07:00"
-    },
-    {
       "path": "_games/pig-florencios-sneakiest-probe-of-all-time-florencio-files-285-starcraft-2.md",
       "title": "Florencio's SNEAKIEST Probe of All Time | Florencio Files # 285- StarCraft 2",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
@@ -1953,6 +1923,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-07-06T14:50:04-07:00"
+    },
+    {
+      "path": "_games/lowkotv-heros-new-protoss-all-ins-against-cure-starcraft-2.md",
+      "title": "herO's NEW Protoss All-Ins Against Cure! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Cure (Terran) and herO (Protoss). Both of these South Korean pro gamers are some of the best in SC2 and they are very familiar with each other's playstyle. In this series herO decides to play very aggressive games, by bringing out old build orders such",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-heros-new-protoss-all-ins-against-cure-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-heros-new-protoss-all-ins-against-cure-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=ja467IrDNyY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ja467IrDNyY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ja467IrDNyY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-10-09T02:47:18-07:00"
     },
     {
       "path": "_games/lowkotv-serral-vs-classic-epic-late-game-masterclass-starcraft-2.md",

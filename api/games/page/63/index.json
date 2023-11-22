@@ -4,6 +4,43 @@
   "page": 63,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-for-charity-tournament-grand-finals-cast.md",
+      "title": "StarCraft for Charity - Tournament Grand Finals! (Cast)",
+      "excerpt": "On Saturday the 4th of June we ran the very first charity event for LowkoTV. A StarCraft 2: Legacy of the Void tournament with 32 players, all random, all between Bronze and Diamond league. Blizzard provided thirty of keys for giveaways, and with thousands unique views it's been an incredible event.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-for-charity-tournament-grand-finals-cast/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-for-charity-tournament-grand-finals-cast/",
+      "originalUrl": "https://youtube.com/watch?v=3QObYNFqnVM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3QObYNFqnVM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3QObYNFqnVM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2016-06-06T14:29:26Z"
+    },
+    {
       "path": "_games/lowkotv-stracraft-2-the-first-best-match-of-the-year-gumiho-vs-classic.md",
       "title": "StraCraft 2: The FIRST \"Best Match of the Year\"?! (GuMiho vs Classic)",
       "excerpt": "Amazing game of professional StarCraft 2 between GuMiho (Terran) and Classic (Protoss).  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips: https://www.youtube.com/lowkoclips  Be part of the",
@@ -38,9 +75,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2022-02-10T03:28:05-08:00"
+      "publishedDateTime": "2022-02-10T11:28:05Z"
     },
     {
       "path": "_games/pig-0-micro-or-400apm-who-wins-mineral-maverick-icyfar-g2.md",
@@ -67,9 +104,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+      "publishedDateTime": "2021-06-01T12:46:41Z"
     },
     {
       "path": "_games/pig-1-base-thor-vs-1-base-bc-who-wins-pig-vs-nathanias-twitch-plays-pig-12.md",
@@ -99,9 +136,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2019-08-15T04:20:31-07:00"
+      "publishedDateTime": "2019-08-15T11:20:31Z"
     },
     {
       "path": "_games/pig-1000-marine-meat-grinder-icyfar-fighting-the-tide-compilation.md",
@@ -129,9 +166,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+      "publishedDateTime": "2021-06-01T12:46:41Z"
     },
     {
       "path": "_games/pig-15-to-2-millimetres-surgical-warfare-icyfar-g4.md",
@@ -158,9 +195,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+      "publishedDateTime": "2021-06-01T12:46:41Z"
     },
     {
       "path": "_games/pig-2-probe-comeback-youre-playing-the-game-wrong-icyfar-g3.md",
@@ -188,9 +225,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+      "publishedDateTime": "2021-06-01T12:46:41Z"
     },
     {
       "path": "_games/pig-2300-zerglings-make-broodwar-great-again-icyfar-g2.md",
@@ -218,9 +255,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+      "publishedDateTime": "2021-06-01T12:46:41Z"
     },
     {
       "path": "_games/pig-27-kill-zergling-duo-icyfar-i-do-what-i-want-sc2-compilation.md",
@@ -248,9 +285,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+      "publishedDateTime": "2021-06-01T12:46:41Z"
     },
     {
       "path": "_games/pig-3-cheeses-in-16-minutes-24-seconds-king-of-cannons-13-starcraft-2.md",
@@ -281,9 +318,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-01-05T00:41:13-08:00"
+      "publishedDateTime": "2021-01-05T08:41:13Z"
     },
     {
       "path": "_games/pig-300-iq-gas-block-carbon-tax-icyfar-g1.md",
@@ -310,9 +347,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+      "publishedDateTime": "2021-06-01T12:46:41Z"
     },
     {
       "path": "_games/pig-300-movement-speed-is-bonkers-pigs-laboratory-starcraft-2.md",
@@ -339,9 +376,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2022-09-12T20:42:43-07:00"
+      "publishedDateTime": "2022-09-13T03:42:43Z"
     },
     {
       "path": "_games/pig-35-worker-cap-lets-rush-3-base-tech-prison-fight-icyfar-g1.md",
@@ -368,9 +405,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+      "publishedDateTime": "2021-06-01T12:46:41Z"
     },
     {
       "path": "_games/pig-4-hatch-before-pool-into-lurker-drops-twitch-plays-pig-8.md",
@@ -400,9 +437,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2019-07-23T18:02:05-07:00"
+      "publishedDateTime": "2019-07-24T01:02:05Z"
     },
     {
       "path": "_games/pig-4-marauder-commando-drop-icyfar-g2-backstab-butcher.md",
@@ -429,9 +466,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+      "publishedDateTime": "2021-06-01T12:46:41Z"
     },
     {
       "path": "_games/pig-40-kill-widow-mine-drop-diamond-in-the-ruff-32-starcraft-2.md",
@@ -459,9 +496,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-01-29T18:01:31-08:00"
+      "publishedDateTime": "2021-01-30T02:01:31Z"
     },
     {
       "path": "_games/pig-50-barracks-out-of-gas-g2-the-pig-daily-196.md",
@@ -488,9 +525,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+      "publishedDateTime": "2021-06-01T12:46:41Z"
     },
     {
       "path": "_games/pig-50-shades-of-corruptors-blood-sacrifice-icyfar-g4.md",
@@ -518,9 +555,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+      "publishedDateTime": "2021-06-01T12:46:41Z"
     },
     {
       "path": "_games/pig-6-pool-is-back-oldschool-icyfar-g1-g2.md",
@@ -547,9 +584,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+      "publishedDateTime": "2021-06-01T12:46:41Z"
     },
     {
       "path": "_games/pig-6-pool-vs-12-pool-what-wins-blood-sacrifice-icyfar-g1.md",
@@ -576,9 +613,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+      "publishedDateTime": "2021-06-01T12:46:41Z"
     },
     {
       "path": "_games/pig-6-times-sc2-pros-failed-including-the-goat-serral-starcraft-2.md",
@@ -606,38 +643,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2022-05-29T04:41:48-07:00"
-    },
-    {
-      "path": "_games/pig-6-times-sc2-pros-failed.md",
-      "title": "6 times SC2 Pros FAILED",
-      "excerpt": "We often think of our StarCraft 2 pros as being gods of skill, but once in a while they prove they're still human and have fails - even players like Serral, Dark, Clem and Zest! They prove they're still one of us one of us one us one of us... -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-6-times-sc2-pros-failed/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-6-times-sc2-pros-failed/",
-      "originalUrl": "https://youtube.com/watch?v=J15eFNuRquo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J15eFNuRquo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M8S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/J15eFNuRquo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-05-29T04:41:48-07:00"
+      "publishedDateTime": "2022-05-29T11:41:48Z"
     },
     {
       "path": "_games/pig-a-bridge-too-far-360-noscope-icyfar-g1.md",
@@ -664,9 +672,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+      "publishedDateTime": "2021-06-01T12:46:41Z"
     },
     {
       "path": "_games/pig-a-byun-in-the-bush-is-worth-two-in-the-hand-oldschool-icyfar-g3.md",
@@ -694,9 +702,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+      "publishedDateTime": "2021-06-01T12:46:41Z"
     },
     {
       "path": "_games/pig-a-deep-probing-about-tree-fiddy-icyfar-g1.md",
@@ -723,9 +731,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+      "publishedDateTime": "2021-06-01T12:46:41Z"
     },
     {
       "path": "_games/pig-a-genius-strategy-to-a-dumb-challenge-mouse-only-pigs-laboratory-starcraft-2.md",
@@ -752,9 +760,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2022-06-13T19:57:43-07:00"
+      "publishedDateTime": "2022-06-14T02:57:43Z"
     },
     {
       "path": "_games/pig-a-gentleman-never-attacks-without-warning-icyfar-ffa-the-pig-daily-136.md",
@@ -781,9 +789,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+      "publishedDateTime": "2021-06-01T12:46:41Z"
     },
     {
       "path": "_games/pig-a-gentleman-never-attacks-without-warning-icyfar-g1-3-the-pig-daily-136.md",
@@ -810,9 +818,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-06-01T05:46:41-07:00"
+      "publishedDateTime": "2021-06-01T12:46:41Z"
     },
     {
       "path": "_games/pig-a-pair-of-chads-and-the-golden-armada-twitch-plays-pig-31.md",
@@ -842,9 +850,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2019-11-06T09:00:12-08:00"
+      "publishedDateTime": "2019-11-06T17:00:12Z"
     },
     {
       "path": "_games/pig-a-pro-player-underestimates-a-diamond-player-santa-claws-6.md",
@@ -871,9 +879,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-12-23T15:35:13-08:00"
+      "publishedDateTime": "2021-12-23T23:35:13Z"
     },
     {
       "path": "_games/pig-a-pro-player-underestimates-a-diamond-player-smooth-brain-santa-claws-6.md",
@@ -900,9 +908,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2021-12-23T15:35:13-08:00"
+      "publishedDateTime": "2021-12-23T23:35:13Z"
     }
   ],
   "nextPage": 64

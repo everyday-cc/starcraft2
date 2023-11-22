@@ -4,6 +4,39 @@
   "page": 22,
   "value": [
     {
+      "path": "_games/beastyqtsc2-starcraft-2-protoss-army-gets-obliterated-by-widow-mines.md",
+      "title": "StarCraft 2: Protoss Army Gets Obliterated by Widow Mines!",
+      "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-protoss-army-gets-obliterated-by-widow-mines/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-protoss-army-gets-obliterated-by-widow-mines/",
+      "originalUrl": "https://youtube.com/watch?v=9rMvdk25H-4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9rMvdk25H-4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M49S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9rMvdk25H-4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2020-02-20T09:59:13Z"
+    },
+    {
       "path": "_games/beastyqtsc2-starcraft-2-protoss-doctor-calls-mesick-never-attack-to-grandmaster.md",
       "title": "StarCraft 2: Protoss Doctor Calls me......SICK! - Never Attack to Grandmaster",
       "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
@@ -32,9 +65,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2020-04-29T03:12:20-07:00"
+      "publishedDateTime": "2020-04-29T10:12:20Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-protoss-proxy-tempest-rushes-me-wrong-choice-mate.md",
@@ -65,9 +98,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2020-05-03T04:22:38-07:00"
+      "publishedDateTime": "2020-05-03T11:22:38Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-proxy-hatch-sky-protoss-to-grandmaster-episode-7.md",
@@ -98,9 +131,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2017-09-24T12:15:42-07:00"
+      "publishedDateTime": "2017-09-24T19:15:42Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-proxy-nexus-expand-sky-protoss-to-grandmaster-episode-2.md",
@@ -131,9 +164,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2017-08-04T07:43:59-07:00"
+      "publishedDateTime": "2017-08-04T14:43:59Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-proxy-nexus-warp-in-cannon-rushing-to-grandmaster-episode-3.md",
@@ -165,9 +198,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2018-10-29T05:14:09-07:00"
+      "publishedDateTime": "2018-10-29T12:14:09Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-proxy-tempests-sky-protoss-to-grandmaster-episode-3.md",
@@ -198,9 +231,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2017-09-24T12:15:42-07:00"
+      "publishedDateTime": "2017-09-24T19:15:42Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-pylon-rush-contain-sky-protoss-to-grandmaster-episode-11.md",
@@ -231,9 +264,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2017-09-24T12:15:42-07:00"
+      "publishedDateTime": "2017-09-24T19:15:42Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-random-player-stream-snipes-me.md",
@@ -264,9 +297,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2019-12-29T03:23:15-08:00"
+      "publishedDateTime": "2019-12-29T11:23:15Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-random-slow-zealot-timing.md",
@@ -297,9 +330,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2020-03-23T01:51:26-07:00"
+      "publishedDateTime": "2020-03-23T08:51:26Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-revealing-my-true-identity-sultan-qt.md",
@@ -330,9 +363,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2020-04-03T04:47:59-07:00"
+      "publishedDateTime": "2020-04-03T11:47:59Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-right-in-the-nuts-never-attack-to-grandmaster.md",
@@ -362,9 +395,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2020-05-08T03:30:12-07:00"
+      "publishedDateTime": "2020-05-08T10:30:12Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-rip-the-dream-disruptors-to-grandmaster-episode-5.md",
@@ -395,9 +428,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2017-09-24T12:23:24-07:00"
+      "publishedDateTime": "2017-09-24T19:23:24Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-running-from-the-protoss-army-to-buy-more-time-never-attack-to-grandmaster.md",
@@ -428,9 +461,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2020-05-20T05:14:59-07:00"
+      "publishedDateTime": "2020-05-20T12:14:59Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-salty-noob-calls-me-pig-.md",
@@ -461,9 +494,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2019-12-14T15:12:25-08:00"
+      "publishedDateTime": "2019-12-14T23:12:25Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-salty-opponent-calls-me-a-god-.md",
@@ -493,9 +526,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2020-04-28T05:08:18-07:00"
+      "publishedDateTime": "2020-04-28T12:08:18Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-salty-protoss-calls-me-a-fkin-rat.md",
@@ -526,9 +559,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2020-01-26T04:47:35-08:00"
+      "publishedDateTime": "2020-01-26T12:47:35Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-same-terran-3-games-in-a-row-blind-countered.md",
@@ -559,9 +592,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2019-12-25T02:36:15-08:00"
+      "publishedDateTime": "2019-12-25T10:36:15Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-scr-hype-sky-protoss-to-grandmaster-episode-6.md",
@@ -592,9 +625,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2017-09-24T12:15:42-07:00"
+      "publishedDateTime": "2017-09-24T19:15:42Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-sickest-blink-bait-of-all-time.md",
@@ -625,9 +658,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2020-02-05T01:20:59-08:00"
+      "publishedDateTime": "2020-02-05T09:20:59Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-sniping-all-orbital-commands-with-chad-rays.md",
@@ -658,9 +691,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2019-12-06T15:32:01-08:00"
+      "publishedDateTime": "2019-12-06T23:32:01Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-so-many-motherships-yoinked.md",
@@ -691,9 +724,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2019-12-12T02:26:41-08:00"
+      "publishedDateTime": "2019-12-12T10:26:41Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-so-much-pressure-from-a-terran.md",
@@ -724,9 +757,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2020-02-13T05:26:08-08:00"
+      "publishedDateTime": "2020-02-13T13:26:08Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-speed-prism-sentry-doom-drop.md",
@@ -757,9 +790,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2019-07-24T15:57:51-07:00"
+      "publishedDateTime": "2019-07-24T22:57:51Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-speed-running-to-grandmaster-episode-1.md",
@@ -791,9 +824,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2018-01-13T05:02:11-08:00"
+      "publishedDateTime": "2018-01-13T13:02:11Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-split-map-mass-battlecruisers-vs-mass-tempests-never-attack-to-grandmaster.md",
@@ -824,9 +857,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2020-05-04T03:42:59-07:00"
+      "publishedDateTime": "2020-05-04T10:42:59Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-split-map-nukesyummy-n-u-k-e-s-episode-9.md",
@@ -857,9 +890,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2018-03-14T04:42:04-07:00"
+      "publishedDateTime": "2018-03-14T11:42:04Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-stream-cheater-sky-protoss-to-grandmaster-episode-9.md",
@@ -890,9 +923,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2017-09-24T12:15:42-07:00"
+      "publishedDateTime": "2017-09-24T19:15:42Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-stream-sniper-claims-innocence-from-ep1.md",
@@ -923,9 +956,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2019-08-19T03:31:08-07:00"
+      "publishedDateTime": "2019-08-19T10:31:08Z"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-stuck-at-5400-5500-mmr-with-the-series-.md",
@@ -956,42 +989,9 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
-      "publishedDateTime": "2020-02-18T04:49:28-08:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-stupid-strats-gz-mass-zealot-phoenix.md",
-      "title": "StarCraft 2: \"STUPID STRATS GZ\" - MASS Zealot & Phoenix!",
-      "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-stupid-strats-gz-mass-zealot-phoenix/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-stupid-strats-gz-mass-zealot-phoenix/",
-      "originalUrl": "https://youtube.com/watch?v=QKN0KMN9HEY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QKN0KMN9HEY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M2S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QKN0KMN9HEY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-06T03:59:28-07:00"
+      "publishedDateTime": "2020-02-18T12:49:28Z"
     }
   ],
   "nextPage": 23

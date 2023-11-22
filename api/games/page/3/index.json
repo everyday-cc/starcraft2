@@ -4,45 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/lowkotv-gumihos-new-mech-build-vs-soo-starcraft-2.md",
-      "title": "GuMiho's NEW MECH BUILD vs soO! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between GuMiho (Terran) and soO (Zerg). This series was played as part of the GSL Code S season 3, 2023 just earlier this week. In this match GuMiho decides to bring out the Cyclone, a lot of Cyclones! Support my work: https://patreon.com/lowkotv Lowko Merch:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-gumihos-new-mech-build-vs-soo-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-gumihos-new-mech-build-vs-soo-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=zdba0i2J8dc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zdba0i2J8dc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M31S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 120,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zdba0i2J8dc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-10-21T02:37:04-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-oliveiras-confusing-terran-build-orders.md",
       "title": "StarCraft 2: Oliveira's CONFUSING Terran Build Orders!",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between Lambo (Zerg) and Oliveira (Terran). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko Twitch livestream: https://twitch.tv/lowkotv Live",
@@ -244,6 +205,44 @@
       "publishedDateTime": "2023-11-13T04:51:40-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-darks-overwhelming-aggression-backfires.md",
+      "title": "StarCraft 2: Dark's OVERWHELMING Aggression... Backfires!",
+      "excerpt": "In this video I cast a StarCraft 2 match between Dark, a Korean Zerg player, and Cyan, a Chinese Protoss player. Dark tries to overwhelm Cyan with his aggressive and relentless attacks, but Cyan manages to defend and counter with his superior army and technology. Watch as Dark’s overconfidence backfires",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-overwhelming-aggression-backfires/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-overwhelming-aggression-backfires/",
+      "originalUrl": "https://youtube.com/watch?v=9RCbJjRa-j4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9RCbJjRa-j4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M41S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 113,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9RCbJjRa-j4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-09-07T02:41:04-07:00"
+    },
+    {
       "path": "_games/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-seige-tactics-g1.md",
       "title": "StarCraft 2 - When You Build a Base In Their Base... | ICYFAR \"Seige Tactics\" G1",
       "excerpt": "🤯 NEW ICYFAR CHALLENGE: One Base Openers - You're not allowed to start building an expansion until after 5:00. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 21st May. -- 🤯 In this week’s episode of I Cast Your",
@@ -311,17 +310,25 @@
       "publishedDateTime": "2023-11-09T02:53:02-08:00"
     },
     {
-      "path": "_games/pig-are-the-balance-council-clowns-is-reddit-right-lets-find-out-rstarcraft2.md",
-      "title": "Are the Balance Council CLOWNS? Is Reddit RIGHT? Lets find out! | r/StarCraft2",
-      "excerpt": "With all the commotion around the recent patch notes, lets dive onto reddit and see what some members of the community have on their minds, some of which comes off as interesting criticism, and other as mindless rambling. Lets go dumpster diving into r/StarCraft2!  -- 🐷 Second Channel for Learning StarCraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-are-the-balance-council-clowns-is-reddit-right-lets-find-out-rstarcraft2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-are-the-balance-council-clowns-is-reddit-right-lets-find-out-rstarcraft2/",
-      "originalUrl": "https://youtube.com/watch?v=_jq8lQpxKpM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_jq8lQpxKpM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M10S",
+      "path": "_games/lowkotv-starcraft-2-pro-archon-mode-8-grandmasters-play-1v1.md",
+      "title": "StarCraft 2: Pro ARCHON MODE - 8 Grandmasters play 1v1!",
+      "excerpt": "Crazy game of StarCraft 2 played in Archon Mode! Archon Mode allows multiple players to play at the same time and in this match we Lambo, Elazer and Spirit playing Zerg and HeroMarine, Creed, CuKu, BattleB and iba controlling the Terran. have Support my work: https://patreon.com/lowkotv Lowko Merch:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-archon-mode-8-grandmasters-play-1v1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-pro-archon-mode-8-grandmasters-play-1v1/",
+      "originalUrl": "https://youtube.com/watch?v=2SRHSXOCs00",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2SRHSXOCs00\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M49S",
       "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "StarCraft 2"
@@ -329,7 +336,7 @@
       "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/_jq8lQpxKpM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2SRHSXOCs00/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -337,7 +344,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-09-09T06:48:09-07:00"
+      "publishedDateTime": "2023-09-15T01:50:20-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-unexpected-tournament-results.md",

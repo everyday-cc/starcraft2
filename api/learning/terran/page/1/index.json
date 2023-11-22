@@ -16,7 +16,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-12-08T18:09:09-08:00",
+      "publishedDateTime": "2020-12-09T02:09:09Z",
       "heat": 102,
       "images": [
         {
@@ -26,7 +26,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -47,7 +47,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-10-09T16:03:01-07:00",
+      "publishedDateTime": "2020-10-09T23:03:01Z",
       "heat": 85,
       "images": [
         {
@@ -57,7 +57,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -78,7 +78,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-12-08T18:09:09-08:00",
+      "publishedDateTime": "2020-12-09T02:09:09Z",
       "heat": 59,
       "images": [
         {
@@ -88,7 +88,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -109,7 +109,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2023-01-09T15:08:45-08:00",
+      "publishedDateTime": "2023-01-09T23:08:45Z",
       "heat": 56,
       "images": [
         {
@@ -119,7 +119,38 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-very-powerful-fun-build-order-2021.md",
+      "title": "Very Powerful & Fun Build Order (2021)",
+      "excerpt": "This is a super strong & really fun build order that I've been playing in my TvP's almost exclusively. You get right into the action super fast and it's very difficult for protoss to defend your first push never mind the second one. ` Very Powerful & Fun Build Order #Starcraft #SC2 #Terran  ♦ Coaching",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-very-powerful-fun-build-order-2021/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-very-powerful-fun-build-order-2021/",
+      "originalUrl": "https://youtube.com/watch?v=RhFvVHWc6x8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RhFvVHWc6x8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M3S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-10-21T06:24:37Z",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RhFvVHWc6x8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -140,7 +171,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2021-01-15T18:18:51-08:00",
+      "publishedDateTime": "2021-01-16T02:18:51Z",
       "heat": 55,
       "images": [
         {
@@ -150,7 +181,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -171,7 +202,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2021-10-20T23:24:37-07:00",
+      "publishedDateTime": "2021-10-21T06:24:37Z",
       "heat": 53,
       "images": [
         {
@@ -181,7 +212,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -202,7 +233,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-09-12T16:22:54-07:00",
+      "publishedDateTime": "2020-09-12T23:22:54Z",
       "heat": 52,
       "images": [
         {
@@ -212,7 +243,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -233,7 +264,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-06-14T10:06:06-07:00",
+      "publishedDateTime": "2020-06-14T17:06:06Z",
       "heat": 52,
       "images": [
         {
@@ -243,7 +274,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -264,7 +295,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-10-09T16:03:01-07:00",
+      "publishedDateTime": "2020-10-09T23:03:01Z",
       "heat": 51,
       "images": [
         {
@@ -274,7 +305,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -303,7 +334,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-12-16T08:09:20-08:00",
+      "publishedDateTime": "2016-12-16T16:09:20Z",
       "heat": 51,
       "images": [
         {
@@ -313,7 +344,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -342,7 +373,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-04-28T02:19:50-07:00",
+      "publishedDateTime": "2021-04-28T09:19:50Z",
       "heat": 51,
       "images": [
         {
@@ -352,7 +383,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -374,7 +405,7 @@
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2018-12-21T00:44:33-08:00",
+      "publishedDateTime": "2018-12-21T08:44:33Z",
       "heat": 51,
       "images": [
         {
@@ -384,7 +415,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -405,7 +436,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2022-06-17T16:52:50-07:00",
+      "publishedDateTime": "2022-06-17T23:52:50Z",
       "heat": 50,
       "images": [
         {
@@ -415,7 +446,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -436,7 +467,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-05-30T17:18:13-07:00",
+      "publishedDateTime": "2020-05-31T00:18:13Z",
       "heat": 50,
       "images": [
         {
@@ -446,7 +477,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -467,7 +498,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2021-06-16T16:02:10-07:00",
+      "publishedDateTime": "2021-06-16T23:02:10Z",
       "heat": 50,
       "images": [
         {
@@ -477,7 +508,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -498,7 +529,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2021-02-09T16:22:06-08:00",
+      "publishedDateTime": "2021-02-10T00:22:06Z",
       "heat": 50,
       "images": [
         {
@@ -508,7 +539,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -529,7 +560,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-12-08T18:09:09-08:00",
+      "publishedDateTime": "2020-12-09T02:09:09Z",
       "heat": 50,
       "images": [
         {
@@ -539,7 +570,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -560,7 +591,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2022-09-18T10:37:54-07:00",
+      "publishedDateTime": "2022-09-18T17:37:54Z",
       "heat": 50,
       "images": [
         {
@@ -570,7 +601,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -591,7 +622,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2021-10-25T21:46:28-07:00",
+      "publishedDateTime": "2021-10-26T04:46:28Z",
       "heat": 50,
       "images": [
         {
@@ -601,7 +632,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -622,7 +653,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-07-09T15:48:00-07:00",
+      "publishedDateTime": "2020-07-09T22:48:00Z",
       "heat": 50,
       "images": [
         {
@@ -632,7 +663,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -653,7 +684,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-07-20T19:06:02-07:00",
+      "publishedDateTime": "2020-07-21T02:06:02Z",
       "heat": 50,
       "images": [
         {
@@ -663,7 +694,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -684,7 +715,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-07-18T21:09:10-07:00",
+      "publishedDateTime": "2020-07-19T04:09:10Z",
       "heat": 50,
       "images": [
         {
@@ -694,7 +725,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -715,7 +746,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-07-12T19:38:57-07:00",
+      "publishedDateTime": "2020-07-13T02:38:57Z",
       "heat": 50,
       "images": [
         {
@@ -725,7 +756,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -746,7 +777,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-07-10T18:37:19-07:00",
+      "publishedDateTime": "2020-07-11T01:37:19Z",
       "heat": 50,
       "images": [
         {
@@ -756,7 +787,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -777,7 +808,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-11-08T12:36:07-08:00",
+      "publishedDateTime": "2020-11-08T20:36:07Z",
       "heat": 50,
       "images": [
         {
@@ -787,7 +818,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -808,7 +839,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-11-26T16:44:32-08:00",
+      "publishedDateTime": "2020-11-27T00:44:32Z",
       "heat": 50,
       "images": [
         {
@@ -818,7 +849,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -839,7 +870,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2021-01-16T20:26:50-08:00",
+      "publishedDateTime": "2021-01-17T04:26:50Z",
       "heat": 50,
       "images": [
         {
@@ -849,7 +880,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -870,7 +901,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-09-02T20:18:04-07:00",
+      "publishedDateTime": "2020-09-03T03:18:04Z",
       "heat": 50,
       "images": [
         {
@@ -880,7 +911,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -901,7 +932,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2021-04-03T19:06:13-07:00",
+      "publishedDateTime": "2021-04-04T02:06:13Z",
       "heat": 50,
       "images": [
         {
@@ -911,38 +942,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-terran-vs-protoss-keep-it-simple-stop-microing-like-maru.md",
-      "title": "Terran vs Protoss | Keep it SIMPLE, stop microing like MARU",
-      "excerpt": "Today we look at microing vs chargelot archon as Terran. You don't need to do any flashy/wild micro to get effective results vs protoss! Keep it SIMPLE and follow a set plan of steps and you'll be crushing :)  Terran vs Protoss | Keep it SIMPLE, stop microing like MARU #StarCraft2 #Terran #Micro #TvP",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-vs-protoss-keep-it-simple-stop-microing-like-maru/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-terran-vs-protoss-keep-it-simple-stop-microing-like-maru/",
-      "originalUrl": "https://youtube.com/watch?v=HmIGYeoXzTA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HmIGYeoXzTA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M49S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-30T19:03:30-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HmIGYeoXzTA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

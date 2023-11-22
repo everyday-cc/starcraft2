@@ -16,7 +16,7 @@
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2019-08-23T09:00:01-07:00",
+      "publishedDateTime": "2019-08-23T16:00:01Z",
       "heat": 50,
       "images": [
         {
@@ -26,7 +26,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -48,7 +48,7 @@
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2017-02-15T19:41:58-08:00",
+      "publishedDateTime": "2017-02-16T03:41:58Z",
       "heat": 50,
       "images": [
         {
@@ -58,7 +58,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -79,7 +79,7 @@
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2018-12-21T00:44:06-08:00",
+      "publishedDateTime": "2018-12-21T08:44:06Z",
       "heat": 50,
       "images": [
         {
@@ -89,7 +89,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -110,7 +110,7 @@
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2017-03-01T03:14:39-08:00",
+      "publishedDateTime": "2017-03-01T11:14:39Z",
       "heat": 50,
       "images": [
         {
@@ -120,7 +120,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -141,7 +141,7 @@
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2019-04-16T09:00:01-07:00",
+      "publishedDateTime": "2019-04-16T16:00:01Z",
       "heat": 50,
       "images": [
         {
@@ -151,7 +151,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -172,7 +172,7 @@
         "name": "QuasarGamers",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2018-10-18T09:45:37-07:00",
+      "publishedDateTime": "2018-10-18T16:45:37Z",
       "heat": 50,
       "images": [
         {
@@ -182,7 +182,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -203,7 +203,7 @@
         "name": "QuasarGamers",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2018-12-17T08:16:48-08:00",
+      "publishedDateTime": "2018-12-17T16:16:48Z",
       "heat": 50,
       "images": [
         {
@@ -213,7 +213,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -234,7 +234,7 @@
         "name": "QuasarGamers",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2019-03-04T07:30:39-08:00",
+      "publishedDateTime": "2019-03-04T15:30:39Z",
       "heat": 50,
       "images": [
         {
@@ -244,7 +244,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -265,7 +265,7 @@
         "name": "WinterStarcraft",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2018-09-21T15:07:42-07:00",
+      "publishedDateTime": "2018-09-21T22:07:42Z",
       "heat": 50,
       "images": [
         {
@@ -275,7 +275,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -296,7 +296,7 @@
         "name": "WinterStarcraft",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2018-09-21T15:07:00-07:00",
+      "publishedDateTime": "2018-09-21T22:07:00Z",
       "heat": 50,
       "images": [
         {
@@ -306,7 +306,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -327,7 +327,7 @@
         "name": "WinterStarcraft",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2018-09-21T15:07:57-07:00",
+      "publishedDateTime": "2018-09-21T22:07:57Z",
       "heat": 50,
       "images": [
         {
@@ -337,7 +337,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -360,7 +360,7 @@
         "name": "WinterStarcraft",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2018-09-21T15:07:28-07:00",
+      "publishedDateTime": "2018-09-21T22:07:28Z",
       "heat": 50,
       "images": [
         {
@@ -370,7 +370,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -393,7 +393,7 @@
         "name": "WinterStarcraft",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2017-11-20T04:23:53-08:00",
+      "publishedDateTime": "2017-11-20T12:23:53Z",
       "heat": 50,
       "images": [
         {
@@ -403,7 +403,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -425,7 +425,7 @@
         "name": "WinterStarcraft",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2018-09-21T15:07:07-07:00",
+      "publishedDateTime": "2018-09-21T22:07:07Z",
       "heat": 50,
       "images": [
         {
@@ -435,7 +435,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -458,7 +458,7 @@
         "name": "WinterStarcraft",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2017-11-20T04:22:45-08:00",
+      "publishedDateTime": "2017-11-20T12:22:45Z",
       "heat": 50,
       "images": [
         {
@@ -468,7 +468,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -490,7 +490,7 @@
         "name": "WinterStarcraft",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2017-11-20T04:21:36-08:00",
+      "publishedDateTime": "2017-11-20T12:21:36Z",
       "heat": 50,
       "images": [
         {
@@ -500,7 +500,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -522,7 +522,7 @@
         "name": "WinterStarcraft",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2018-09-21T15:08:36-07:00",
+      "publishedDateTime": "2018-09-21T22:08:36Z",
       "heat": 50,
       "images": [
         {
@@ -532,7 +532,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -553,7 +553,7 @@
         "name": "WinterStarcraft",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2017-11-19T09:09:08-08:00",
+      "publishedDateTime": "2017-11-19T17:09:08Z",
       "heat": 50,
       "images": [
         {
@@ -563,7 +563,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -584,7 +584,7 @@
         "name": "WinterStarcraft",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2018-09-21T15:08:11-07:00",
+      "publishedDateTime": "2018-09-21T22:08:11Z",
       "heat": 50,
       "images": [
         {
@@ -594,7 +594,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -615,7 +615,7 @@
         "name": "WinterStarcraft",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2018-09-21T15:07:18-07:00",
+      "publishedDateTime": "2018-09-21T22:07:18Z",
       "heat": 50,
       "images": [
         {
@@ -625,7 +625,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -646,7 +646,7 @@
         "name": "WinterStarcraft",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2018-09-21T15:09:51-07:00",
+      "publishedDateTime": "2018-09-21T22:09:51Z",
       "heat": 50,
       "images": [
         {
@@ -656,7 +656,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

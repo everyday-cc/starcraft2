@@ -4,6 +4,37 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-2-silver-league-b2gm.md",
+      "title": "StarCraft 2 - Zerg Bronze to GM #2: Silver League (B2GM)",
+      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 -- GAME 1 - Practice your build order along with PiG 0:28 How to introduce scouting to the beginner build order 5:19 How to deal with air units 7:37 Worst thing you can do - reacting to previous",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-2-silver-league-b2gm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-2-silver-league-b2gm/",
+      "originalUrl": "https://youtube.com/watch?v=9af29q6sMg4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9af29q6sMg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H27M11S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-08-03T06:48:57Z",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9af29q6sMg4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-3-gold-league-b2gm.md",
       "title": "StarCraft 2 - Zerg Bronze to GM #3: Gold League (B2GM)",
       "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 Introducing new things in Gold League 1:36 -- GAME 1: Practice build order along with PiG 12:04 How many control groups do you need in Gold? 13:07 How to be safer in ZvZ 15:57 Having a different",
@@ -16,7 +47,7 @@
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-08-05T22:43:17-07:00",
+      "publishedDateTime": "2021-08-06T05:43:17Z",
       "heat": 55,
       "images": [
         {
@@ -26,7 +57,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -47,7 +78,7 @@
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-08-20T16:32:56-07:00",
+      "publishedDateTime": "2021-08-20T23:32:56Z",
       "heat": 55,
       "images": [
         {
@@ -57,7 +88,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -78,7 +109,7 @@
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-09-11T03:11:47-07:00",
+      "publishedDateTime": "2021-09-11T10:11:47Z",
       "heat": 55,
       "images": [
         {
@@ -88,7 +119,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -109,7 +140,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2021-02-14T21:49:06-08:00",
+      "publishedDateTime": "2021-02-15T05:49:06Z",
       "heat": 54,
       "images": [
         {
@@ -119,7 +150,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -148,7 +179,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-09-19T13:46:31-07:00",
+      "publishedDateTime": "2016-09-19T20:46:31Z",
       "heat": 54,
       "images": [
         {
@@ -158,7 +189,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -178,7 +209,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2021-04-22T18:58:19-07:00",
+      "publishedDateTime": "2021-04-23T01:58:19Z",
       "heat": 53,
       "images": [
         {
@@ -188,7 +219,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -209,7 +240,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2021-10-20T23:24:37-07:00",
+      "publishedDateTime": "2021-10-21T06:24:37Z",
       "heat": 53,
       "images": [
         {
@@ -219,7 +250,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -240,7 +271,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-08-31T22:12:47-07:00",
+      "publishedDateTime": "2020-09-01T05:12:47Z",
       "heat": 53,
       "images": [
         {
@@ -250,7 +281,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -271,7 +302,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-06-08T12:45:54-07:00",
+      "publishedDateTime": "2020-06-08T19:45:54Z",
       "heat": 53,
       "images": [
         {
@@ -281,7 +312,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -302,7 +333,7 @@
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-09-16T22:06:45-07:00",
+      "publishedDateTime": "2021-09-17T05:06:45Z",
       "heat": 53,
       "images": [
         {
@@ -312,7 +343,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -333,7 +364,7 @@
         "name": "WinterStarcraft",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2017-11-19T09:03:49-08:00",
+      "publishedDateTime": "2017-11-19T17:03:49Z",
       "heat": 53,
       "images": [
         {
@@ -343,7 +374,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -363,7 +394,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-06-17T16:29:41-07:00",
+      "publishedDateTime": "2020-06-17T23:29:41Z",
       "heat": 52,
       "images": [
         {
@@ -373,7 +404,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -394,7 +425,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2021-01-06T20:41:15-08:00",
+      "publishedDateTime": "2021-01-07T04:41:15Z",
       "heat": 52,
       "images": [
         {
@@ -404,7 +435,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -425,7 +456,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-09-10T15:12:11-07:00",
+      "publishedDateTime": "2020-09-10T22:12:11Z",
       "heat": 52,
       "images": [
         {
@@ -435,7 +466,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -456,7 +487,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-09-12T16:22:54-07:00",
+      "publishedDateTime": "2020-09-12T23:22:54Z",
       "heat": 52,
       "images": [
         {
@@ -466,7 +497,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -487,7 +518,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-06-14T10:06:06-07:00",
+      "publishedDateTime": "2020-06-14T17:06:06Z",
       "heat": 52,
       "images": [
         {
@@ -497,7 +528,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -526,7 +557,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-04-28T08:10:09-07:00",
+      "publishedDateTime": "2019-04-28T15:10:09Z",
       "heat": 52,
       "images": [
         {
@@ -536,7 +567,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -564,7 +595,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-01-12T08:03:44-08:00",
+      "publishedDateTime": "2017-01-12T16:03:44Z",
       "heat": 52,
       "images": [
         {
@@ -574,7 +605,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -594,7 +625,7 @@
         "name": "PiG",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-08-27T02:06:59-07:00",
+      "publishedDateTime": "2021-08-27T09:06:59Z",
       "heat": 52,
       "images": [
         {
@@ -604,7 +635,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -625,7 +656,7 @@
         "name": "WinterStarcraft",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2017-11-19T09:03:49-08:00",
+      "publishedDateTime": "2017-11-19T17:03:49Z",
       "heat": 52,
       "images": [
         {
@@ -635,7 +666,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -655,7 +686,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-12-23T18:19:56-08:00",
+      "publishedDateTime": "2020-12-24T02:19:56Z",
       "heat": 51,
       "images": [
         {
@@ -665,7 +696,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -686,7 +717,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2022-09-11T13:21:39-07:00",
+      "publishedDateTime": "2022-09-11T20:21:39Z",
       "heat": 51,
       "images": [
         {
@@ -696,7 +727,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -717,7 +748,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-10-09T16:03:01-07:00",
+      "publishedDateTime": "2020-10-09T23:03:01Z",
       "heat": 51,
       "images": [
         {
@@ -727,7 +758,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -748,7 +779,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-05-26T14:13:47-07:00",
+      "publishedDateTime": "2020-05-26T21:13:47Z",
       "heat": 51,
       "images": [
         {
@@ -758,7 +789,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -779,7 +810,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2021-06-08T20:40:41-07:00",
+      "publishedDateTime": "2021-06-09T03:40:41Z",
       "heat": 51,
       "images": [
         {
@@ -789,7 +820,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -810,7 +841,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-05-31T15:48:59-07:00",
+      "publishedDateTime": "2020-05-31T22:48:59Z",
       "heat": 51,
       "images": [
         {
@@ -820,7 +851,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -841,7 +872,7 @@
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-07-11T16:09:19-07:00",
+      "publishedDateTime": "2020-07-11T23:09:19Z",
       "heat": 51,
       "images": [
         {
@@ -851,7 +882,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -880,7 +911,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-05-06T02:00:27-07:00",
+      "publishedDateTime": "2017-05-06T09:00:27Z",
       "heat": 51,
       "images": [
         {
@@ -890,7 +921,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -918,7 +949,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-11-18T13:43:36-08:00",
+      "publishedDateTime": "2017-11-18T21:43:36Z",
       "heat": 51,
       "images": [
         {
@@ -928,50 +959,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
         "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-co-op-swarming-infested-terran-stukov-guide.md",
-      "title": "StarCraft 2 Co-op: SWARMING INFESTED TERRAN! (Stukov Guide)",
-      "excerpt": "A guide on how to play Stukov and swarm the map with the infested. Subscribe for more videos: http://lowko.tv/youtube More co-op: https://goo.gl/08VRI9  Stukov is an incredibly powerful commander in the co-op version of StarCraft 2. After leveling him up to level 15 I figured out several great unit compositions",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-co-op-swarming-infested-terran-stukov-guide/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-co-op-swarming-infested-terran-stukov-guide/",
-      "originalUrl": "https://youtube.com/watch?v=OwowRArz5Do",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OwowRArz5Do\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M1S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-12-16T08:09:20-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OwowRArz5Do/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
       ]
     }
   ],

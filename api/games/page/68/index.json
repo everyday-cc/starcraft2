@@ -4,35 +4,6 @@
   "page": 68,
   "value": [
     {
-      "path": "_games/pig-everybody-dance-now-interpretive-dance-icyfar-g1.md",
-      "title": "Everybody Dance Now! | Interpretive Dance ICYFAR G1",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they had to play in accordance to their favorite song!  NEW ICYFAR CHALLENGE: \"\"Slow gas diet\" - it's time to get rid of those smelly vespene farts! You're only allowed to mine each geyser with",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-everybody-dance-now-interpretive-dance-icyfar-g1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-everybody-dance-now-interpretive-dance-icyfar-g1/",
-      "originalUrl": "https://youtube.com/watch?v=qk7oZQ2dmb4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qk7oZQ2dmb4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M32S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qk7oZQ2dmb4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T12:46:41Z"
-    },
-    {
       "path": "_games/pig-everyone-sentry-buff-is-useless-astrea-hold-my-beer.md",
       "title": "Everyone: Sentry buff is USELESS! Astrea: Hold my beer.",
       "excerpt": "Imagine if mass sentries becomes the meta in PvT... love watching Astrea's creative plays -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support",
@@ -876,6 +847,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/EAux5krPEmk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T12:46:41Z"
+    },
+    {
+      "path": "_games/pig-going-fishing-for-epic-nukes-icyfar-hot-potato-compilation.md",
+      "title": "GOING FISHING FOR EPIC NUKES! | ICYFAR \"Hot Potato\" Compilation",
+      "excerpt": "🔥NEW ICYFAR CHALLENGE: \"Interpretive Dance 2.0 - Post a song name at the start of the game and use a strategy inspired by the song! Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 24th April.  0:00 Game 1 22:06",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-going-fishing-for-epic-nukes-icyfar-hot-potato-compilation/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-going-fishing-for-epic-nukes-icyfar-hot-potato-compilation/",
+      "originalUrl": "https://youtube.com/watch?v=ivpCWx4UMGg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ivpCWx4UMGg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M29S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ivpCWx4UMGg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

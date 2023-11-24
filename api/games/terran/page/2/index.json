@@ -4,45 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/lowkotv-gumihos-new-mech-all-in-vs-protoss-starcraft-2.md",
-      "title": "GuMiho's NEW Mech All-In vs Protoss?! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between GuMiho and Classic. This series is one of the two semi-finals of the GSL Code S, season 3 of 2023. In these games both players clearly have build orders prepared for the opponent, as GuMiho decides to do the same new Mech all-in twice in a row. Support my work:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-gumihos-new-mech-all-in-vs-protoss-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-gumihos-new-mech-all-in-vs-protoss-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=VxXRwXyIeEs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VxXRwXyIeEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M19S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 80,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VxXRwXyIeEs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-11-07T11:10:45Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-gumihos-three-battlecruisers-surprise-cure-gsl-code-s.md",
       "title": "StarCraft 2: GuMiho's THREE Battlecruisers Surprise Cure! (GSL Code S)",
       "excerpt": "Awesome game of StarCraft 2 from the GSL Code S between GuMiho and Cure, featuring Battlecruisers and Terran Mech played far more aggressively than they usually do. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
@@ -418,6 +379,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2019-03-22T10:12:45Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-gumihos-mass-battlecruiser-transition.md",
+      "title": "StarCraft 2: GuMiho's MASS BATTLECRUISER Transition!",
+      "excerpt": "Professional match of StarCraft 2 between GuMiho and Cure. In this Terran versus Terran GuMi decides to play Bio, whereas Cure focuses on Terran Mech. In the later stages of the game however, GuMiho finds himself with an opportunity to transition towards mass Battlecruiser. Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumihos-mass-battlecruiser-transition/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumihos-mass-battlecruiser-transition/",
+      "originalUrl": "https://youtube.com/watch?v=mE6kuwN9WBo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mE6kuwN9WBo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M42S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mE6kuwN9WBo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-10-24T11:08:08Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-scarlett-shuts-down-maru-gsl-code-s.md",

@@ -334,26 +334,35 @@
       "publishedDateTime": "2023-11-13T12:51:40Z"
     },
     {
-      "path": "_games/pig-florencio-refuses-to-macro-probes-have-better-uses-florencio-files-284-starcraft-2.md",
-      "title": "Florencio REFUSES to macro, probes have better uses | Florencio Files #284 - StarCraft 2",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, our Sewer Mermaid revisits some of his classic strats, but things get really weird REALLY fast...  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-florencio-refuses-to-macro-probes-have-better-uses-florencio-files-284-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-florencio-refuses-to-macro-probes-have-better-uses-florencio-files-284-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=Vb3cqClQkx4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vb3cqClQkx4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M14S",
+      "path": "_games/lowkotv-gumihos-new-mech-build-vs-soo-starcraft-2.md",
+      "title": "GuMiho's NEW MECH BUILD vs soO! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 between GuMiho (Terran) and soO (Zerg). This series was played as part of the GSL Code S season 3, 2023 just earlier this week. In this match GuMiho decides to bring out the Cyclone, a lot of Cyclones! Support my work: https://patreon.com/lowkotv Lowko Merch:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-gumihos-new-mech-build-vs-soo-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-gumihos-new-mech-build-vs-soo-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=zdba0i2J8dc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zdba0i2J8dc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M31S",
       "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Terran",
+        "Zerg"
       ],
       "heat": 119,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Vb3cqClQkx4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/zdba0i2J8dc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -361,7 +370,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-10-07T13:19:19Z"
+      "publishedDateTime": "2023-10-21T09:37:04Z"
     },
     {
       "path": "_games/pig-how-to-beat-the-1v7-insane-ai-challenge-no-beastyqt-has-not-done-it-starcraft-2.md",
@@ -420,35 +429,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-01-19T02:34:08Z"
-    },
-    {
-      "path": "_games/pig-the-most-deranged-post-game-rant-in-starcraft-history-salt-mines-45-starcraft-2.md",
-      "title": "The MOST DERANGED post-game rant in StarCraft History | Salt Mines #45 - StarCraft 2",
-      "excerpt": "WOW, what an insane post-game rant. I can't believe the amount of salt mined in a single game of StarCraft 2. Everyone has encountered a salty or BM opponent on the StarCraft ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-most-deranged-post-game-rant-in-starcraft-history-salt-mines-45-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-most-deranged-post-game-rant-in-starcraft-history-salt-mines-45-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=fKjoQzn9Koo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fKjoQzn9Koo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M50S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 117,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fKjoQzn9Koo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-10-20T14:42:10Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-clem-is-the-greatest-sc2-ive-ever-seen.md",
@@ -1036,6 +1016,36 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-01-28T09:10:51Z"
+    },
+    {
+      "path": "_games/pig-starcraft-2-when-troll-strats-ruin-your-economy-diamond-in-the-ruff-72.md",
+      "title": "StarCraft 2 - When TROLL STRATS ruin your economy | Diamond in the Ruff #72",
+      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Zerg opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-when-troll-strats-ruin-your-economy-diamond-in-the-ruff-72/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-when-troll-strats-ruin-your-economy-diamond-in-the-ruff-72/",
+      "originalUrl": "https://youtube.com/watch?v=4A01Z-xwidQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4A01Z-xwidQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M39S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 97,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4A01Z-xwidQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-05-03T01:51:47Z"
     }
   ],
   "nextPage": 4

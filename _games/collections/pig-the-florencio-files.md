@@ -295,6 +295,7 @@ items:
   - pig-florencio-refuses-to-macro-probes-have-better-uses-florencio-files-284-starcraft-2
   - pig-florencios-sneakiest-probe-of-all-time-florencio-files-285-starcraft-2
   - pig-flo-mentally-destroys-zerg-with-incredible-nuke-florencio-files-286-starcraft-2
+  - pig-florencio-excretes-the-sewer-mothership-florencio-files-287-starcraft-2
 
 topics:
   - StarCraft 2

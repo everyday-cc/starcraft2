@@ -1045,7 +1045,7 @@ items:
   - pig-wings-of-liberty-nightmare-difficulty-wtf-guys-part-4-starcraft-2
   - pig-wings-of-liberty-nightmare-difficulty-help-part-5-starcraft-2
   - pig-wings-of-liberty-nightmare-difficulty-this-is-impossible-seriously-part-6-starcraft-2
-  - pig-wings-of-liberty-nightmare-difficulty-omg-part-7-starcraft-2
+  - pig-wings-of-liberty-nightmare-difficulty-omg-part-7-plus-kitty-cam-starcraft-2
   - pig-neural-parasite-triggers-rage-meltdown-from-toss-salt-mines-38-starcraft-2
   - pig-simple-nexus-recall-trick-fools-opponent-mape-the-ape-3-starcraft-2
   - pig-genius-proxy-hatch-breaks-reynors-brain-reaper-starcraft-2
@@ -1083,6 +1083,7 @@ items:
   - pig-cannon-rusher-pauses-game-to-take-a-dump-salt-mines-47-starcraft-2
   - pig-i-challenged-two-pros-to-face-six-amateurs-at-once-harstem-elazer-starcraft-2
   - pig-the-most-disgusting-finish-to-beast-of-the-hill-ever-starcraft-2
+  - pig-florencio-excretes-the-sewer-mothership-florencio-files-287-starcraft-2
 
 topics:
   - StarCraft 2

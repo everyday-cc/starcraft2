@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/blizzard-new-starcraft-game-comments/"
 webUrl: "https://gamerant.com/blizzard-new-starcraft-game-comments/"
 type: article
 quality: 77
-heat: 297
+heat: 277
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://sportshub.cbsistatic.com/i/2023/10/23/f37dfd00-6dea-4365-8236-16dc6719efd1/out-this-month-november-2023.png?width=568&height=320"
         width: 568
         height: 320
-        isCached: true
-  - title: "StarCraft fans convinced Blizzard has forgotten about the series"
-    excerpt: "StarCraft fans are feeling like the franchise has been forgotten as Blizzard pushes Diablo, Overwatch, World of Warcraft and more at BlizzCon 2023."
-    publishedDateTime: 2023-11-05T06:39:00Z
-    webUrl: "https://www.dexerto.com/gaming/starcraft-fans-convinced-blizzard-has-forgotten-about-the-series-2368169/"
-    type: article
-    provider:
-      name: Dexerto
-      domain: dexerto.com
-    quality: 37
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/11/05/blizzcon-2023.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "StarCraft might return, but maybe not as a strategy game"
     excerpt: "Blizzard's president has hinted at the possibility of a StarCraft revival, but a new game may not stick to the series' RTS roots"

@@ -54,20 +54,6 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "StarCraft fans convinced Blizzard has forgotten about the series"
-    excerpt: "StarCraft fans are feeling like the franchise has been forgotten as Blizzard pushes Diablo, Overwatch, World of Warcraft and more at BlizzCon 2023."
-    publishedDateTime: 2023-11-05T06:39:00Z
-    webUrl: "https://www.dexerto.com/gaming/starcraft-fans-convinced-blizzard-has-forgotten-about-the-series-2368169/"
-    type: article
-    provider:
-      name: Dexerto
-      domain: dexerto.com
-    quality: 37
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/11/05/blizzcon-2023.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "The next Starcraft might not be a strategy game"
     excerpt: "We certainly wouldn't mind a revival of Starcraft: Ghost which was cancelled in 2006 (although got a tiny revival with the DLC Starcraft II: Nova Covert Ops), but there is frankly quite a lot that could be made with Starcraft in just about any genre."
     publishedDateTime: 2023-11-07T20:33:00Z

@@ -38,22 +38,6 @@ related:
         width: 1800
         height: 900
         isCached: true
-  - title: "BlizzCon Leaves Fans Wishing for StarCraft 3"
-    excerpt: "Where is StarCraft 3? That's the question that many Blizzard fans have had in the wake of BlizzCon 2023 taking place this weekend. During its opening ceremony of BlizzCon, Blizzard announced a variety of new expansions and updates tied to Diablo IV,"
-    publishedDateTime: 2023-11-06T00:39:00Z
-    webUrl: "https://comicbook.com/gaming/news/starcraft-3-iii-blizzcon-2023-react/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/starcraft-3-iii-blizzcon-2023-react/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/starcraft-3-iii-blizzcon-2023-react/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 57
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2023/10/23/f37dfd00-6dea-4365-8236-16dc6719efd1/out-this-month-november-2023.png?width=568&height=320"
-        width: 568
-        height: 320
-        isCached: true
   - title: "The next Starcraft might not be a strategy game"
     excerpt: "We certainly wouldn't mind a revival of Starcraft: Ghost which was cancelled in 2006 (although got a tiny revival with the DLC Starcraft II: Nova Covert Ops), but there is frankly quite a lot that could be made with Starcraft in just about any genre."
     publishedDateTime: 2023-11-07T20:33:00Z

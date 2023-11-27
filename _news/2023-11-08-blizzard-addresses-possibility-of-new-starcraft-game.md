@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/blizzard-new-starcraft-game-comments/"
 webUrl: "https://gamerant.com/blizzard-new-starcraft-game-comments/"
 type: article
 quality: 77
-heat: 217
+heat: 197
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The next Starcraft might not be a strategy game"
-    excerpt: "We certainly wouldn't mind a revival of Starcraft: Ghost which was cancelled in 2006 (although got a tiny revival with the DLC Starcraft II: Nova Covert Ops), but there is frankly quite a lot that could be made with Starcraft in just about any genre."
-    publishedDateTime: 2023-11-07T20:33:00Z
-    webUrl: "https://www.gamereactor.eu/the-next-starcraft-might-not-be-a-strategy-game-1324343/"
-    type: article
-    provider:
-      name: Gamereactor
-      domain: gamereactor.eu
-    quality: 37
-    images:
-      - url: "https://www.gamereactor.eu/media/44/starcraft2_1734413b.png"
-        width: 670
-        height: 320
-        isCached: true
   - title: "StarCraft 2 keeps crashing or freezing on Windows PC"
     excerpt: "If StarCraft 2 is crashing or freezing on your Windows 11/10 PC, you can fix the issue using the following methods. Your PC configuration should match or exceed the minimum requirements laid out ..."
     publishedDateTime: 2023-11-10T00:01:00Z

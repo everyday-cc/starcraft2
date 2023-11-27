@@ -38,20 +38,6 @@ related:
         width: 1800
         height: 900
         isCached: true
-  - title: "The next Starcraft might not be a strategy game"
-    excerpt: "We certainly wouldn't mind a revival of Starcraft: Ghost which was cancelled in 2006 (although got a tiny revival with the DLC Starcraft II: Nova Covert Ops), but there is frankly quite a lot that could be made with Starcraft in just about any genre."
-    publishedDateTime: 2023-11-07T20:33:00Z
-    webUrl: "https://www.gamereactor.eu/the-next-starcraft-might-not-be-a-strategy-game-1324343/"
-    type: article
-    provider:
-      name: Gamereactor
-      domain: gamereactor.eu
-    quality: 37
-    images:
-      - url: "https://www.gamereactor.eu/media/44/starcraft2_1734413b.png"
-        width: 670
-        height: 320
-        isCached: true
   - title: "Former Blizzard dev claims one WoW cosmetic made more money than all of Starcraft 2"
     excerpt: "Jason Hall, a former developer at Blizzard Entertainment, claims StarCraft 2: Wings of Liberty brought in less revenue than World of Warcraft’s first “sparkle pony horse” mount."
     publishedDateTime: 2023-11-13T11:15:00Z

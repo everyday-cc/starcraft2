@@ -525,14 +525,53 @@
       "publishedDateTime": "2023-01-19T02:34:08Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-clems-new-ghosts-vs-maxpax-esl-finals.md",
-      "title": "StarCraft 2: Clem's NEW Ghosts vs MaxPax! (ESL Finals)",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 played on the new multiplayer balance patch. In this series of games we have MaxPax facing off against Clem. The most significant changes for Terran for this matchup on the new patch are the Cyclone rework, the Ghost nerf and the Raven nerf. For Protoss the Tempest",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-clems-new-ghosts-vs-maxpax-esl-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-clems-new-ghosts-vs-maxpax-esl-finals/",
-      "originalUrl": "https://youtube.com/watch?v=-aIqIqsm-Is",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-aIqIqsm-Is\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M56S",
+      "path": "_games/lowkotv-heros-mothership-wins-vs-byun-starcraft-2.md",
+      "title": "herO's MOTHERSHIP Wins vs ByuN! (StarCraft 2)",
+      "excerpt": "Best-of-5 series of StarCraft 2 that is the finals of the ESL Open Cup Korea. This match is played between the South-Korean pro gamers herO (Protoss) and ByuN (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-heros-mothership-wins-vs-byun-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-heros-mothership-wins-vs-byun-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=vJKBbsTGHx4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vJKBbsTGHx4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT55M52S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 117,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vJKBbsTGHx4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD4gUyhyMA8=&rs=AOn4CLAB-9pnfn5MyJRpL9Gcb-ihJ4JyqQ",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-10-13T08:40:31Z"
+    },
+    {
+      "path": "_games/lowkotv-cures-will-not-stop-cheesing-maxpax-starcraft-2.md",
+      "title": "Cure's Will NOT Stop Cheesing MaxPax! (StarCraft 2)",
+      "excerpt": "Awesome series of top level StarCraft 2 between MaxPax (Protoss) and Cure (Terran). Game is from the StarCraft 2 Tournament the Master's Coliseum 2023 $40,000, by World Team League (WTL). This is a best-of-5 series of SC2. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-cures-will-not-stop-cheesing-maxpax-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-cures-will-not-stop-cheesing-maxpax-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=psctVnAVBaY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/psctVnAVBaY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT53M34S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -551,7 +590,7 @@
       "heat": 116,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-aIqIqsm-Is/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/psctVnAVBaY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -559,7 +598,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-10-05T10:30:35Z"
+      "publishedDateTime": "2023-09-22T11:02:19Z"
     },
     {
       "path": "_games/lowkotv-dark-refuses-to-stop-cheesing-classic-starcraft-2.md",
@@ -1004,36 +1043,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-09-11T12:45:43Z"
-    },
-    {
-      "path": "_games/pig-how-quickly-can-scarlett-dispose-of-maphackers-holdout-challenge-starcraft-2.md",
-      "title": "How quickly can SCARLETT dispose of MAPHACKERS? | Holdout Challenge - StarCraft 2",
-      "excerpt": "We paid Scarlett to do the Maphacker Challenge - like a Holdout Challenge, but noobs now have MAPHACKS!  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-scarlett-dispose-of-maphackers-holdout-challenge-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-scarlett-dispose-of-maphackers-holdout-challenge-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=Jvs8MkVcDPU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jvs8MkVcDPU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 101,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Jvs8MkVcDPU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-10-25T03:57:51Z"
     }
   ],
   "nextPage": 4

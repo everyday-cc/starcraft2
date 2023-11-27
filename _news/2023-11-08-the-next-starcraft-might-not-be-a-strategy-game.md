@@ -38,20 +38,6 @@ related:
         width: 1800
         height: 900
         isCached: true
-  - title: "StarCraft might return, but maybe not as a strategy game"
-    excerpt: "Blizzard's president has hinted at the possibility of a StarCraft revival, but a new game may not stick to the series' RTS roots"
-    publishedDateTime: 2023-11-07T12:04:00Z
-    webUrl: "https://www.gamesradar.com/starcraft-might-return-but-maybe-not-as-a-strategy-game/"
-    type: article
-    provider:
-      name: GamesRadar+
-      domain: gamesradar.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/tJG5EsLY7LiR5oDmV8NYXP-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "StarCraft 2 keeps crashing or freezing on Windows PC"
     excerpt: "If StarCraft 2 is crashing or freezing on your Windows 11/10 PC, you can fix the issue using the following methods. Your PC configuration should match or exceed the minimum requirements laid out ..."
     publishedDateTime: 2023-11-10T00:01:00Z

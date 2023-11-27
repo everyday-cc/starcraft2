@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/blizzard-new-starcraft-game-comments/"
 webUrl: "https://gamerant.com/blizzard-new-starcraft-game-comments/"
 type: article
 quality: 77
-heat: 237
+heat: 217
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "StarCraft might return, but maybe not as a strategy game"
-    excerpt: "Blizzard's president has hinted at the possibility of a StarCraft revival, but a new game may not stick to the series' RTS roots"
-    publishedDateTime: 2023-11-07T12:04:00Z
-    webUrl: "https://www.gamesradar.com/starcraft-might-return-but-maybe-not-as-a-strategy-game/"
-    type: article
-    provider:
-      name: GamesRadar+
-      domain: gamesradar.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/tJG5EsLY7LiR5oDmV8NYXP-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The next Starcraft might not be a strategy game"
     excerpt: "We certainly wouldn't mind a revival of Starcraft: Ghost which was cancelled in 2006 (although got a tiny revival with the DLC Starcraft II: Nova Covert Ops), but there is frankly quite a lot that could be made with Starcraft in just about any genre."
     publishedDateTime: 2023-11-07T20:33:00Z

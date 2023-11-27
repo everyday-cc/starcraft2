@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/blizzard-new-starcraft-game-comments/"
 webUrl: "https://gamerant.com/blizzard-new-starcraft-game-comments/"
 type: article
 quality: 77
-heat: 257
+heat: 237
 published: true
 
 provider:
@@ -69,20 +69,6 @@ related:
       - url: "https://www.thewindowsclub.com/wp-content/uploads/2022/02/Reset-In-game-options.jpg"
         width: 726
         height: 374
-        isCached: true
-  - title: "Blizzard opens door for StarCraft revival though next game may not be an RTS"
-    excerpt: "A StarCraft revival is certainly in the cards, according to Blizzard President Mike Ybarra. Though the next installment may not be an RTS."
-    publishedDateTime: 2023-11-06T23:32:00Z
-    webUrl: "https://www.dexerto.com/gaming/blizzard-opens-door-for-starcraft-revival-though-next-game-may-not-be-an-rts-2370688/"
-    type: article
-    provider:
-      name: Dexerto
-      domain: dexerto.com
-    quality: 34
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/11/06/StarCraft-new-project.jpg"
-        width: 1602
-        height: 900
         isCached: true
   - title: "Former Blizzard dev claims one WoW cosmetic made more money than all of Starcraft 2"
     excerpt: "Jason Hall, a former developer at Blizzard Entertainment, claims StarCraft 2: Wings of Liberty brought in less revenue than World of Warcraft’s first “sparkle pony horse” mount."

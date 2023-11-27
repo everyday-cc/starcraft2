@@ -80,20 +80,6 @@ related:
         width: 726
         height: 374
         isCached: true
-  - title: "Blizzard opens door for StarCraft revival though next game may not be an RTS"
-    excerpt: "A StarCraft revival is certainly in the cards, according to Blizzard President Mike Ybarra. Though the next installment may not be an RTS."
-    publishedDateTime: 2023-11-06T23:32:00Z
-    webUrl: "https://www.dexerto.com/gaming/blizzard-opens-door-for-starcraft-revival-though-next-game-may-not-be-an-rts-2370688/"
-    type: article
-    provider:
-      name: Dexerto
-      domain: dexerto.com
-    quality: 34
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/11/06/StarCraft-new-project.jpg"
-        width: 1602
-        height: 900
-        isCached: true
   - title: "StarCraft 2 Earned Less Than WoW's Shiny Pony; Blizzard Thrives on Microtransactions"
     excerpt: "Wings of Liberty says in the first two years after its release the game earned less for Blizzard than a certain mount for World of Warcraft. 'This is why companies rely on microtransactions,' he says."
     publishedDateTime: 2023-11-13T11:52:00Z

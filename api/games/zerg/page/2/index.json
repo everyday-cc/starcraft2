@@ -157,14 +157,14 @@
       "publishedDateTime": "2023-11-02T12:58:32Z"
     },
     {
-      "path": "_games/lowkotv-darks-desperate-all-ins-vs-gumiho-starcraft-2.md",
-      "title": "Dark's DESPERATE All-Ins vs GuMiho! (StarCraft 2)",
-      "excerpt": "Best-of-3 series in the new StarCraft 2 multiplayer balance on the new maps. In this match from the Korean StarCraft League GuMiho is facing off against Dark. New SC2 Patch: https://youtu.be/aqg_0JVw8HU Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-darks-desperate-all-ins-vs-gumiho-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-darks-desperate-all-ins-vs-gumiho-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=r-UvAyIthOc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r-UvAyIthOc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M34S",
+      "path": "_games/lowkotv-starcraft-2-darks-overwhelming-aggression-backfires.md",
+      "title": "StarCraft 2: Dark's OVERWHELMING Aggression... Backfires!",
+      "excerpt": "In this video I cast a StarCraft 2 match between Dark, a Korean Zerg player, and Cyan, a Chinese Protoss player. Dark tries to overwhelm Cyan with his aggressive and relentless attacks, but Cyan manages to defend and counter with his superior army and technology. Watch as Dark’s overconfidence backfires",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-overwhelming-aggression-backfires/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-overwhelming-aggression-backfires/",
+      "originalUrl": "https://youtube.com/watch?v=9RCbJjRa-j4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9RCbJjRa-j4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M41S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -179,13 +179,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
         "Zerg"
       ],
       "heat": 112,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/r-UvAyIthOc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgVShyMA8=&rs=AOn4CLA_4sShXjErG0dFSEsrVnshD7Gk_w",
+          "url": "https://i.ytimg.com/vi/9RCbJjRa-j4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -193,7 +192,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-09-30T11:06:14Z"
+      "publishedDateTime": "2023-09-07T09:41:04Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",

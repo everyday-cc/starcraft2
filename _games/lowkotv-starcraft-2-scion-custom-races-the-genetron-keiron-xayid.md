@@ -2,6 +2,7 @@
 title: "StarCraft 2: Scion Custom Races - The Genetron, Keiron & Xayid!"
 excerpt: "Three games played in the StarCraft 2 Scion Custom Races Mod. In this video I cast matches played with the fan-made Genetron, Keiron and Xayid. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko"
 originalUrl: https://youtube.com/watch?v=m1XUPkN62_c
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scion-custom-races-the-genetron-keiron-xayid/
 type: video
 length: PT41M9S
 publishedDateTime: 2023-11-28T08:50:37Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "MKP0/beG4mCxJIrTLfQnvlHf4oOUyVmfR+PBOEj4clrDIig5DwypIQIS/uYWrnMlFj6mVgcGzJg30XEwBjDe/3tjWFTdMiOCvHyeAw9BxlhogZbvJJknKAYSrR9b9uPKsjconeKtlSvRVDufOnI20O+mNeo0C8J5I6sW3WN2XrybbkfrwSia5+ET3YxEIfO5AFTEruvVSTxwvrLS/2SYBNsSvUziYUWEXAPOqnlg9dRJLQD+SyZ9GdecdbnFgoHeRL/9MKagTRwTzktrY0ITLMu2PpqZ5fU4/sGam2350G4jPip4X4avvkFPvctmXOYeap7w7azQQ5x6mcCb2C5FGxe/zgQfXwONHQqcmEQ6ffONILdwPwpe0CjeWvZ8koTF6BwzbW+19JXuoLkQUogFxA==;XAWq8RhuHqm+cv8EiPiOFg=="
+secured: "7DTKkTWaV2fFOY8cHY+0aQLTuhBqmAguUTufBIs/ow/FAOSoPcemAqNVEYxA1jxu94haPB41HVc2R/YQ50cW66p7IQHfVBFR6XUdql6I3O/jM757w3yXlCyeE82axIu2v9AvJt+m9rZ3JG/lU1cOKc3e34ntZxKsTuZ+6n9x9OY/LE7CGEC+9E7FqDJOGcLlhvvdx59/n2hIK7iiLRH+JQI9RmqDu5zKHfHdmPRlxESn1pH2jeuJMV8TNv8KHS+Q44mYlN/3QKBZ/koPFRsSpXX/90VtVKC2IypN+0bC7xhtDn1YIDBYXP57nQQnfG6Y0NEkKSV/So5GOfMBqyXa1I5P9eS8GMfDvUh19WMJ7a3axzrshjGYsvsw+6OzkZQMeha1c0DWeOB/yV+gRFaNIA==;zzMDglg4NaTW0UcYVUWAPg=="
 ---
 

@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/pig-florencio-excretes-the-sewer-mot
 type: video
 length: PT24M2S
 publishedDateTime: 2023-11-23T14:04:04Z
-heat: 175
+heat: 155
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/THwDo6vDyYw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "YISxHXWKnM9tsKojdd388Sy3wAs/yl89T/WQX+a6ZCmb/IIqDQKUPhY9y8/mzgAi2fGIxArnfIC8eJtS7Bsun/zG+X6eu19hdWiSSU8RtsJdYhUHx9KPO3uRKuS20STQYAORMM7mjXVMWFFfuS9nxPf/GVk5nxIF0X6rTGYc0hIv/5XMuyhq/lHIjO7Q5vjSEKrZr4xvPxjpCfPmHZ3UD7awo9NiG13ewdU69vgC01lP8oWQK3XXABvm9w2aH5Fd2az85HwBvmO54/LL/xJk8R7+pa4uxJd6/BqYjnNjqgfsVHNyPaDi/RZ1UjquJGStgbFYTlaH3Pnym3dSqWTbi/FsIunYzJ9G/EKVo3dsqCayHNjs2fBgSpDslyqU0pZ1P77oGzbWPge4v0uScTZFuMTP0qHwDCZmkYoJDuqorhU=;vCf4giyCajVuM9/IS57iMA=="
+secured: "ut8woIifoLPUxU/zF3rsmTvnI7mvp+XuWYKTSWrwMqsrKkpVmDY1eauH4sTIHVq8AudJF4/HF37BtYl8uNljUNnDOp8zVKzGAA5vySjFqhdfpW6K/M47p9IAi6zXZ+BrAMKqA2kCSA1pJnfnddw611RhgTMb1agvDWGV1FGIYaib5ddsLO6s/MnerovDBh1zFQrBrkpsS+2o7EL6S3TNLmPgIDIlHAy9I4MLzdHaduGKGrQAChum/ePK3qBDbU3CIq85ljDEoCRILSFa2GpMz8mhdw1wqsEI/Gx51vb8kLORiVGeovohKHFd50JB9t0lZ4smijRa5MVYGW3jllZhRgQugHvU1k/ourTx288N8Z4MPSiDgN5hosgDM+3+pnLC57JJysDx47/SKDyyt9QvlHMubgZJtWyla+O/6DEmK7g=;brqz+V7HqBI/BPnxmpkqLA=="
 ---
 

@@ -4,328 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_games/collections/beastyqtsc2-mass-widow-mines-ravens.md",
-      "title": "MASS Widow Mines & Ravens!",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/beastyqtsc2-mass-widow-mines-ravens/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/collections/beastyqtsc2-mass-widow-mines-ravens/",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "topItems": [
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-new-series-mass-widow-mines-ravens-to-grandmaster.md",
-          "title": "StarCraft 2: *NEW* Series! MASS Widow Mines & Ravens to Grandmaster!",
-          "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-new-series-mass-widow-mines-ravens-to-grandmaster/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-new-series-mass-widow-mines-ravens-to-grandmaster/",
-          "originalUrl": "https://youtube.com/watch?v=uTf8FZN9x68",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uTf8FZN9x68\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT43M4S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 50,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/uTf8FZN9x68/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "publishedDateTime": "2020-01-18T11:52:13Z"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-planetary-fortress-rushing-with-mines-and-ravens.md",
-          "title": "StarCraft 2: Planetary Fortress Rushing With Mines and Ravens!",
-          "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-planetary-fortress-rushing-with-mines-and-ravens/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-planetary-fortress-rushing-with-mines-and-ravens/",
-          "originalUrl": "https://youtube.com/watch?v=lCxdH0tQn9Y",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lCxdH0tQn9Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT31M16S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 50,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/lCxdH0tQn9Y/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "publishedDateTime": "2020-01-19T12:30:50Z"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-widow-mine-medivac-doom-drops.md",
-          "title": "StarCraft 2: Widow Mine & Medivac DOOM DROPS!",
-          "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-widow-mine-medivac-doom-drops/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-widow-mine-medivac-doom-drops/",
-          "originalUrl": "https://youtube.com/watch?v=oWq4sG1LDi0",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oWq4sG1LDi0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT35M7S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 50,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/oWq4sG1LDi0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "publishedDateTime": "2020-01-24T10:41:14Z"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-brutal-widow-mine-connections-vs-terran.md",
-          "title": "StarCraft 2: BRUTAL Widow Mine Connections vs Terran!",
-          "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-brutal-widow-mine-connections-vs-terran/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-brutal-widow-mine-connections-vs-terran/",
-          "originalUrl": "https://youtube.com/watch?v=yegQnJoexJ4",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yegQnJoexJ4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT36M53S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 50,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/yegQnJoexJ4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "publishedDateTime": "2020-01-24T18:10:59Z"
-        }
-      ],
-      "size": 27,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uTf8FZN9x68/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "collection"
-    },
-    {
-      "path": "_games/collections/beastyqtsc2-n-u-k-e-s-series.md",
-      "title": "N U K E S - Series",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/collections/beastyqtsc2-n-u-k-e-s-series/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/collections/beastyqtsc2-n-u-k-e-s-series/",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "topItems": [
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-new-series-n-u-k-e-s-episode-1.md",
-          "title": "StarCraft 2: NEW SERIES!!! - N U K E S - Episode 1",
-          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-new-series-n-u-k-e-s-episode-1/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-new-series-n-u-k-e-s-episode-1/",
-          "originalUrl": "https://youtube.com/watch?v=c4-3LPtoRDg",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c4-3LPtoRDg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT15M45S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 50,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/c4-3LPtoRDg/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "publishedDateTime": "2017-12-27T19:44:50Z"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-nukes-counter-carriers-n-u-k-e-s-episode-2.md",
-          "title": "StarCraft 2: NUKES COUNTER CARRIERS?! - N U K E S - Episode 2",
-          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-nukes-counter-carriers-n-u-k-e-s-episode-2/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-nukes-counter-carriers-n-u-k-e-s-episode-2/",
-          "originalUrl": "https://youtube.com/watch?v=ENe2iT3FrYQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ENe2iT3FrYQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT15M28S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 50,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/ENe2iT3FrYQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "publishedDateTime": "2017-12-28T18:33:35Z"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-mech-explosions-n-u-k-e-s-episode-3.md",
-          "title": "StarCraft 2: MECH EXPLOSIONS! - N U K E S - Episode 3",
-          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mech-explosions-n-u-k-e-s-episode-3/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mech-explosions-n-u-k-e-s-episode-3/",
-          "originalUrl": "https://youtube.com/watch?v=ERGKdsH-Cns",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ERGKdsH-Cns\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT26M10S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 50,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/ERGKdsH-Cns/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "publishedDateTime": "2018-01-03T13:00:49Z"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-nuke-drops-n-u-k-e-s-episode-4.md",
-          "title": "StarCraft 2: NUKE DROPS?! - N U K E S - Episode 4",
-          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-          "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-nuke-drops-n-u-k-e-s-episode-4/index.json",
-          "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-nuke-drops-n-u-k-e-s-episode-4/",
-          "originalUrl": "https://youtube.com/watch?v=yDeJawVKIlQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yDeJawVKIlQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT17M24S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 50,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/yDeJawVKIlQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "publishedDateTime": "2018-01-07T11:35:08Z"
-        }
-      ],
-      "size": 10,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/c4-3LPtoRDg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "collection"
-    },
-    {
       "path": "_games/collections/beastyqtsc2-never-attack-to-grandmaster.md",
       "title": "Never Attack to Grandmaster",
       "excerpt": "",
@@ -1582,45 +1260,6 @@
       "type": "collection"
     },
     {
-      "path": "_games/lowkotv-heros-mothership-wins-vs-byun-starcraft-2.md",
-      "title": "herO's MOTHERSHIP Wins vs ByuN! (StarCraft 2)",
-      "excerpt": "Best-of-5 series of StarCraft 2 that is the finals of the ESL Open Cup Korea. This match is played between the South-Korean pro gamers herO (Protoss) and ByuN (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-heros-mothership-wins-vs-byun-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-heros-mothership-wins-vs-byun-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=vJKBbsTGHx4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vJKBbsTGHx4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT55M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vJKBbsTGHx4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD4gUyhyMA8=&rs=AOn4CLAB-9pnfn5MyJRpL9Gcb-ihJ4JyqQ",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-10-13T08:40:31Z"
-    },
-    {
       "path": "_games/lowkotv-heros-new-tempest-rush-vs-dark-starcraft-2.md",
       "title": "herO's NEW Tempest Rush vs Dark! (StarCraft 2)",
       "excerpt": "Best-of-5 series of StarCraft 2 between herO and Dark. This match of SC2 is the finals of the Korean StarCraft League (KSL). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  KSL on Patreon: https://patreon.com/KoreanStarcraftLeague/  My YouTube channels: https://youtube.com/lowkotv",
@@ -1736,6 +1375,44 @@
       "publishedDateTime": "2023-10-24T11:08:08Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-serrals-late-game-masterclass.md",
+      "title": "StarCraft 2: Serral's Late Game MASTERCLASS!",
+      "excerpt": "Professional match of StarCraft 2 between Serral (Zerg) and Cure (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serrals-late-game-masterclass/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serrals-late-game-masterclass/",
+      "originalUrl": "https://youtube.com/watch?v=g-i_P8YgnD4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/g-i_P8YgnD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/g-i_P8YgnD4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-10-10T09:21:00Z"
+    },
+    {
       "path": "_games/pig-creative-insults-in-starcraft-salt-mines-3.md",
       "title": "Creative Insults in StarCraft | Salt Mines #3",
       "excerpt": "*NEW SHOW* The Salt Mines: Everyone has encountered a salty opponent on the ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty. -- 🐷 Second Channel for",
@@ -1792,37 +1469,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-08-09T10:07:28Z"
-    },
-    {
-      "path": "_games/pig-the-depot-strategy-to-break-zerg-brains-florencio-files-282-starcraft-2.md",
-      "title": "THE DEPOT STRATEGY TO BREAK ZERG BRAINS | Florencio Files #282 - StarCraft 2",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-depot-strategy-to-break-zerg-brains-florencio-files-282-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-depot-strategy-to-break-zerg-brains-florencio-files-282-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=6oSZOt5ROEo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6oSZOt5ROEo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M58S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6oSZOt5ROEo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-05-06T01:25:10Z"
     },
     {
       "path": "_games/lowkotv-gumihos-new-mech-build-vs-soo-starcraft-2.md",
@@ -2056,6 +1702,36 @@
       "publishedDateTime": "2023-10-06T11:16:33Z"
     },
     {
+      "path": "_games/pig-florencios-sneakiest-probe-of-all-time-florencio-files-285-starcraft-2.md",
+      "title": "Florencio's SNEAKIEST Probe of All Time | Florencio Files # 285- StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-florencios-sneakiest-probe-of-all-time-florencio-files-285-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-florencios-sneakiest-probe-of-all-time-florencio-files-285-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=-tlQv_r5w_s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-tlQv_r5w_s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M11S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-tlQv_r5w_s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-02T12:36:06Z"
+    },
+    {
       "path": "_games/pig-terran-saltlord-wrestles-with-reality-salt-mines-24-starcraft-2.md",
       "title": "Terran Saltlord Wrestles With Reality | Salt Mines #24 - StarCraft 2",
       "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
@@ -2084,6 +1760,37 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-12-22T00:32:53Z"
+    },
+    {
+      "path": "_games/pig-the-depot-strategy-to-break-zerg-brains-florencio-files-282-starcraft-2.md",
+      "title": "THE DEPOT STRATEGY TO BREAK ZERG BRAINS | Florencio Files #282 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-depot-strategy-to-break-zerg-brains-florencio-files-282-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-depot-strategy-to-break-zerg-brains-florencio-files-282-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=6oSZOt5ROEo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6oSZOt5ROEo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M58S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6oSZOt5ROEo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-05-06T01:25:10Z"
     },
     {
       "path": "_games/pig-what-happens-when-pros-have-maphacks-no-fog-of-war-mod-pigs-lab-starcraft-2.md",
@@ -2301,6 +2008,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-07-13T11:36:12Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-epic-battlecruiser-transitions-maru-vs-gumiho.md",
+      "title": "StarCraft 2: EPIC Battlecruiser Transitions! (Maru vs GuMiho)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 from the ESL SC2 Masters Summer, between Maru (Terran) and GuMiho (Terran).  Serral vs GuMiho (Grand Finals): https://youtu.be/YX4StuIsM_Q  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-battlecruiser-transitions-maru-vs-gumiho/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-battlecruiser-transitions-maru-vs-gumiho/",
+      "originalUrl": "https://youtube.com/watch?v=AiwTVTnjlhM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AiwTVTnjlhM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H12M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AiwTVTnjlhM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-06-29T11:24:12Z"
     }
   ],
   "nextPage": 8

@@ -128,6 +128,44 @@
       "publishedDateTime": "2021-10-09T10:18:53Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-beautiful-games-dark-vs-oliveira.md",
+      "title": "StarCraft 2: BEAUTIFUL GAMES - Dark vs Oliveira!",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Oliveira, the current World Champion, and South Korea's best Zerg Dark. This series is amazing, with constant back-and-forths and high level decision making. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-beautiful-games-dark-vs-oliveira/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-beautiful-games-dark-vs-oliveira/",
+      "originalUrl": "https://youtube.com/watch?v=2w5HfegfXMw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2w5HfegfXMw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT51M33S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 138,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2w5HfegfXMw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGE8gTyhlMA8=&rs=AOn4CLBLFQjw-NAam2tWC1PLdDIYxP2ENg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-10-26T07:32:32Z"
+    },
+    {
       "path": "_games/pig-flos-genius-hallucination-trick-florencio-files-281-starcraft-2.md",
       "title": "Flo's GENIUS Hallucination Trick | Florencio Files #281 - StarCraft 2",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
@@ -475,14 +513,14 @@
       "publishedDateTime": "2023-11-16T11:39:37Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-serrals-late-game-masterclass.md",
-      "title": "StarCraft 2: Serral's Late Game MASTERCLASS!",
-      "excerpt": "Professional match of StarCraft 2 between Serral (Zerg) and Cure (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serrals-late-game-masterclass/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serrals-late-game-masterclass/",
-      "originalUrl": "https://youtube.com/watch?v=g-i_P8YgnD4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/g-i_P8YgnD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M50S",
+      "path": "_games/lowkotv-heros-mothership-wins-vs-byun-starcraft-2.md",
+      "title": "herO's MOTHERSHIP Wins vs ByuN! (StarCraft 2)",
+      "excerpt": "Best-of-5 series of StarCraft 2 that is the finals of the ESL Open Cup Korea. This match is played between the South-Korean pro gamers herO (Protoss) and ByuN (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-heros-mothership-wins-vs-byun-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-heros-mothership-wins-vs-byun-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=vJKBbsTGHx4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vJKBbsTGHx4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT55M52S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -497,12 +535,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Zerg"
+        "Terran",
+        "Protoss"
       ],
       "heat": 119,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/g-i_P8YgnD4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/vJKBbsTGHx4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD4gUyhyMA8=&rs=AOn4CLAB-9pnfn5MyJRpL9Gcb-ihJ4JyqQ",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -510,7 +549,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-10-10T09:21:00Z"
+      "publishedDateTime": "2023-10-13T08:40:31Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-clem-is-the-greatest-sc2-ive-ever-seen.md",
@@ -646,44 +685,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-05-22T10:49:14Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-specials-strange-missile-turret-and-cyclone-army.md",
-      "title": "StarCraft 2: SpeCial's STRANGE Missile Turret(!) and Cyclone Army!",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between SpeCial (Terran) and Nice (Protoss). In this series SpeCial decides to go for a very strange Terran unit composition that we haven't really seen before, as he focuses on Cyclones together with Missile Turrets. Nice responds by making Phoenixes and Immortals.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-specials-strange-missile-turret-and-cyclone-army/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-specials-strange-missile-turret-and-cyclone-army/",
-      "originalUrl": "https://youtube.com/watch?v=QOMrUoq7wd8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QOMrUoq7wd8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QOMrUoq7wd8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-09-26T11:17:25Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-darks-queen-all-in-vs-clem-esl-finals.md",

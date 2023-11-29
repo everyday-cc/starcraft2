@@ -138,44 +138,6 @@
       "publishedDateTime": "2022-02-11T01:37:20Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-beautiful-games-dark-vs-oliveira.md",
-      "title": "StarCraft 2: BEAUTIFUL GAMES - Dark vs Oliveira!",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between Oliveira, the current World Champion, and South Korea's best Zerg Dark. This series is amazing, with constant back-and-forths and high level decision making. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-beautiful-games-dark-vs-oliveira/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-beautiful-games-dark-vs-oliveira/",
-      "originalUrl": "https://youtube.com/watch?v=2w5HfegfXMw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2w5HfegfXMw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT51M33S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 139,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2w5HfegfXMw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGE8gTyhlMA8=&rs=AOn4CLBLFQjw-NAam2tWC1PLdDIYxP2ENg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-10-26T07:32:32Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-official-viewer-tournament.md",
       "title": "StarCraft 2: The OFFICIAL Viewer Tournament!",
       "excerpt": "The best games from the first viewer tournament! This video features all the best matches of StarCraft 2 that were played during the \"LowkoTV Viewer Tournament #1\".  00:00:00 Introduction 00:07:32 Game 1 00:17:02 Game 2 00:30:39 Game 3 00:47:38 Game 4 01:00:16 Game 5  01:33:26 Game 6 01:48:26 Game 7",
@@ -648,14 +610,14 @@
       "publishedDateTime": "2023-01-19T02:34:08Z"
     },
     {
-      "path": "_games/lowkotv-the-world-champions-new-builds-vs-dark-starcraft-2.md",
-      "title": "The World Champion's NEW BUILDS vs Dark! (StarCraft 2)",
-      "excerpt": "Oliveira vs Dark in a best-of-5 series of top-level StarCraft 2. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv Live",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-the-world-champions-new-builds-vs-dark-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-the-world-champions-new-builds-vs-dark-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=ydW2cPZyuTg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ydW2cPZyuTg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT55M33S",
+      "path": "_games/lowkotv-dark-refuses-to-play-the-new-banelings-starcraft-2.md",
+      "title": "Dark REFUSES to play the NEW Banelings?! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of StarCraft 2 between Dark (Zerg) and Astrea (Protoss). This series features the new Mothership, albeit for only a very short amount of time. SC2 match is from the Korean StarCraft League. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-refuses-to-play-the-new-banelings-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-refuses-to-play-the-new-banelings-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=RxvEB-CBQxw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RxvEB-CBQxw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M41S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -672,10 +634,10 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 114,
+      "heat": 112,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ydW2cPZyuTg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/RxvEB-CBQxw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -683,7 +645,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-10-06T11:16:33Z"
+      "publishedDateTime": "2023-10-03T12:11:45Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",
@@ -723,6 +685,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-05-22T10:49:14Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-heros-gumihos-strangest-build-orders-ever.md",
+      "title": "StarCraft 2: herO's & GuMiho's STRANGEST Build Orders... Ever?",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 between herO (Protoss) and GuMiho (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-gumihos-strangest-build-orders-ever/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-gumihos-strangest-build-orders-ever/",
+      "originalUrl": "https://youtube.com/watch?v=ZqfIW8Xkz1Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZqfIW8Xkz1Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M38S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZqfIW8Xkz1Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-10-28T11:02:42Z"
     },
     {
       "path": "_games/lowkotv-gumihos-epic-battlecruiser-switch-surprises-astrea-starcraft-2.md",

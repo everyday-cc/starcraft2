@@ -2,6 +2,7 @@
 title: "He Got SO Mad He DOXED HIMSELF? | Salt Mines #49 - StarCraft 2"
 excerpt: "Another incredible show of skill and sportsmanship!  Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty.   Binge the Salt Mines playlist: https://youtube.com/playlist?list=PLFUDU8AOevUePkIO6d3vLr0SSVKeZBdsZ"
 originalUrl: https://youtube.com/watch?v=RhQe8vG_wVs
+webUrl: https://everyday.cc/starcraft2/game/pig-he-got-so-mad-he-doxed-himself-salt-mines-49-starcraft-2/
 type: video
 length: PT27M32S
 publishedDateTime: 2023-12-11T14:30:36Z
@@ -22,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "cl9jwintU4YvnFyEQ4Y8hecbbfrK4UNTzbkk5xoOnzDZ1Wao3l4+orlLile4+kT9ynpjv6DXaLZfVICdrbE+8s9gKeru51Lxd4IXY3fAZpu0Ltnby4mNrJBehgzwjBPHiJzZUj5jWXHx0geK5F4lCjtlMyEh6Ez42KowFGfVq3FJQ9diKN2Z1gPlZTlVttF4HctBgzzGRt7qAHE/tGvTgvKUy9ylUAUDDfUFHFCvVX2YPWm/MLUFG+GdFwHsDwtdmDi2p9toR+7enVrhB8OktGT8K7h5UnxIG+hLuop54cnWtlAPwhFHggjZnI8dVFMzXMziEtbrgfjLIeiOrmiHVYv/SfkV6aFsCXrOhoXsDLe5ABhCC2UfDUJxwGuZwp7tgZti0DGtXOUKqN6UqN0Y1A==;8JG5ySMfvx4ple2CET/A9g=="
+secured: "eAqo9N+vQLo1yAIrTVcUnyhojAgAJdidNXnzzIxhJklsnpM8BO9XNLLzh2L9QBKPPnnolvK/42QyKAuS2TYc5ZPl1RriYptK+39F17ZLEcKpUOB2qeoNQNssy0ONYS7TqaTFxYtvqLDi0oDBQfET/a5rOh7G64+EmGLAPlGhqjqcRZIT4vixZJYFdCj56mLkh1crICRyKm0GYg2mIrCeE/I/jioXgNN/4Ljg/fyJ/ih8lmCJK+fJDjv02U9MaMNk8Kb2K3XDR4ZPqqJNCaCxKCRFxZSpTDAenHE/jBlkyR6Q4h4Pogo1j8GE1fEcz+iBIr3DGCUN04LwZQSQUVHGVabkheF6t5bqm4Xs2mV4iii6x/t649QKQM51yYR3AFbbnS3Rq2MlOhWGKy0kpDfXoA==;IVntw7LyEJd/kyZkLRXJxA=="
 ---
 

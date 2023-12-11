@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-30-stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers.md",
+      "title": "Stormgate Is a Very StarCraft-y RTS Made By Ex-StarCraft Developers",
+      "excerpt": "The Infernal Host is the kind of RTS faction that takes some getting used to, in contrast to the more standard Vanguard. But it really is a riot once you get the hang of it, with battles that look hopeless to a newcomer turning into a clean sweep as the ground is replaced with Fiends and your enemy winds up completely inundated by death.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ign.com/articles/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers",
+      "originalUrl": "https://www.ign.com/articles/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2023/11/29/stormgate-blogroll-1701220624610.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T16:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-blizzard-addresses-possibility-of-new-starcraft-game.md",
       "title": "Blizzard Addresses Possibility of New StarCraft Game",
       "excerpt": "After Microsoft's record-breaking acquisition of Activision Blizzard, Blizzard head Mike Ybarra hints at the potential for a future StarCraft sequel. The President of Blizzard Entertainment hints ...",
@@ -1126,57 +1177,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-starcraft-2-sells-1m-day-one-15m-in-first-48-hours-roughly-620k-in-the-us.md",
-      "title": "StarCraft 2 sells 1m day-one, 1.5m in first 48 hours, roughly 620K in the US",
-      "excerpt": "Blizzard just trumpeted the sales numbers for StarCraft 2: Wings of Liberty, the first installment in its long-time-coming sequel to the strategy classic. The numbers: \"a day-one sales milestone ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2010-08-03-starcraft-2-sells-1m-day-one-1-5m-in-first-48-hours-roughly-62.html",
-      "originalUrl": "https://www.engadget.com/2010-08-03-starcraft-2-sells-1m-day-one-1-5m-in-first-48-hours-roughly-62.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/NJfJ2Tn1tczkVro26FX6NA--~B/aD0zNTA7dz01MzA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.joystiq.com/media/2010/07/starcraft2raynor530.jpg",
-          "width": 530,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

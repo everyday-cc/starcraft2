@@ -1086,6 +1086,7 @@ items:
   - pig-florencio-excretes-the-sewer-mothership-florencio-files-287-starcraft-2
   - pig-these-ffa-gods-destroy-pro-players-in-beast-of-the-hill-starcraft-2
   - pig-beat-this-salty-guy-and-hell-invade-your-home-salt-mines-48-starcraft-2
+  - pig-he-got-so-mad-he-doxed-himself-salt-mines-49-starcraft-2
 
 topics:
   - StarCraft 2

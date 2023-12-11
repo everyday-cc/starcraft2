@@ -4,6 +4,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_games/lowkotv-byun-gets-the-reaper-nerfed-again-starcraft-2.md",
+      "title": "ByuN gets the Reaper nerfed... AGAIN! (StarCraft 2)",
+      "excerpt": "GL HF GG Mug: https://lowko.shop/products/gl-hf-gg-mug Best-of-3 series of top level StarCraft 2 between ByuN (Terran) and Solar (Zerg). In these games ByuN decides to make Reapers... and then more Reapers... and then in the next game he decides to go more Reapers. He loves Reapers, what else can I say?",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-byun-gets-the-reaper-nerfed-again-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-byun-gets-the-reaper-nerfed-again-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=El07mk2fT8E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/El07mk2fT8E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 389,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/El07mk2fT8E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-10-20T09:17:16Z"
+    },
+    {
+      "path": "_games/lowkotv-heromarine-trolls-reynor-with-cyclones-starcraft-2.md",
+      "title": "HeroMarine TROLLS Reynor with Cyclones? (StarCraft 2)",
+      "excerpt": "Best-of-3 series of Terran versus Zerg featuring HeroMarine and Reynor. In these games, played at HomeStory Cup, HeroMarine decides to play Terran Mech. In game one of this match he goes for a Cyclone all-in that I have not seen before, and one that I've been losing against regularly on the SC2 ladder",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-heromarine-trolls-reynor-with-cyclones-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-heromarine-trolls-reynor-with-cyclones-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=4NuxABBTv_c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4NuxABBTv_c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 372,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4NuxABBTv_c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-12-09T10:31:32Z"
+    },
+    {
+      "path": "_games/pig-he-got-so-mad-he-doxed-himself-salt-mines-49-starcraft-2.md",
+      "title": "He Got SO Mad He DOXED HIMSELF? | Salt Mines #49 - StarCraft 2",
+      "excerpt": "Another incredible show of skill and sportsmanship!  Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty.   Binge the Salt Mines playlist: https://youtube.com/playlist?list=PLFUDU8AOevUePkIO6d3vLr0SSVKeZBdsZ",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-he-got-so-mad-he-doxed-himself-salt-mines-49-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-he-got-so-mad-he-doxed-himself-salt-mines-49-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=RhQe8vG_wVs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RhQe8vG_wVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M32S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 338,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RhQe8vG_wVs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-12-11T14:30:36Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-reynors-epic-protoss-vs-serral.md",
       "title": "StarCraft 2: Reynor's EPIC PROTOSS vs Serral!",
       "excerpt": "StarCraft 2 professional tournament game between Serral and Reynor. Rather than playing Zerg, Reynor decides to play Protoss in this match. Very impressive game from two of the very best pro gamers in all of SC2.  Serral Spine rushes Reynor: https://youtu.be/djxl-vImiP8 Support my work: https://patreon.com/lowkotv",
@@ -41,44 +146,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-12-05T10:51:53Z"
-    },
-    {
-      "path": "_games/lowkotv-byun-gets-the-reaper-nerfed-again-starcraft-2.md",
-      "title": "ByuN gets the Reaper nerfed... AGAIN! (StarCraft 2)",
-      "excerpt": "GL HF GG Mug: https://lowko.shop/products/gl-hf-gg-mug Best-of-3 series of top level StarCraft 2 between ByuN (Terran) and Solar (Zerg). In these games ByuN decides to make Reapers... and then more Reapers... and then in the next game he decides to go more Reapers. He loves Reapers, what else can I say?",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-byun-gets-the-reaper-nerfed-again-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-byun-gets-the-reaper-nerfed-again-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=El07mk2fT8E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/El07mk2fT8E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 329,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/El07mk2fT8E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-10-20T09:17:16Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-did-he-make-a-20000-mistake-serral-vs-ragnarok.md",
@@ -1066,74 +1133,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-11-24T12:58:18Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-byuns-amazing-micro-vs-classics-maxed-out-army.md",
-      "title": "StarCraft 2: ByuN's AMAZING MICRO vs Classic's Maxed Out Army!",
-      "excerpt": "Amazing game of Protoss versus Terran in StarCraft 2 between Classic and ByuN. While Classic can build up his ultimate Protoss deathball, ByuN refuses to lose to it because of ridiculously good micro.  Early morning StarCraft (video from 2013): https://youtu.be/9_8gR2crUw0  Support my work on Patreon:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-amazing-micro-vs-classics-maxed-out-army/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-amazing-micro-vs-classics-maxed-out-army/",
-      "originalUrl": "https://youtube.com/watch?v=e6InC7Cr1_U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e6InC7Cr1_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 232,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/e6InC7Cr1_U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-05-10T10:03:07Z"
-    },
-    {
-      "path": "_games/pig-can-clem-1v3-the-supertoss-archon-of-3x-legendary-pros-starcraft-2.md",
-      "title": "Can CLEM 1v3 The SUPERTOSS Archon of 3x Legendary Pros?? | StarCraft 2",
-      "excerpt": "Clem takes on the ultimate archon - Harstem, Maxpax & Mana join forces as a Pro Protoss archon to take down the French terran. It's insane that Clem is fast enough to even compete, but can he WIN? Lets find out! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-can-clem-1v3-the-supertoss-archon-of-3x-legendary-pros-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-can-clem-1v3-the-supertoss-archon-of-3x-legendary-pros-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=_YQJ86Ii5Mk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_YQJ86Ii5Mk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H21M28S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 232,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_YQJ86Ii5Mk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-09-21T13:35:56Z"
     }
   ],
   "nextPage": 2

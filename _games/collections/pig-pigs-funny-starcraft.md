@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 62
+heat: 61
 
 provider:
   name: PiG
@@ -1084,6 +1084,8 @@ items:
   - pig-i-challenged-two-pros-to-face-six-amateurs-at-once-harstem-elazer-starcraft-2
   - pig-the-most-disgusting-finish-to-beast-of-the-hill-ever-starcraft-2
   - pig-florencio-excretes-the-sewer-mothership-florencio-files-287-starcraft-2
+  - pig-these-ffa-gods-destroy-pro-players-in-beast-of-the-hill-starcraft-2
+  - pig-beat-this-salty-guy-and-hell-invade-your-home-salt-mines-48-starcraft-2
 
 topics:
   - StarCraft 2

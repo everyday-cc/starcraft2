@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-11-30-stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers.md",
+      "path": "_news/2023-11-29-stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers.md",
       "title": "Stormgate Is a Very StarCraft-y RTS Made By Ex-StarCraft Developers",
       "excerpt": "The Infernal Host is the kind of RTS faction that takes some getting used to, in contrast to the more standard Vanguard. But it really is a riot once you get the hang of it, with battles that look hopeless to a newcomer turning into a clean sweep as the ground is replaced with Fiends and your enemy winds up completely inundated by death.",
       "sourceUrl": null,
-      "webUrl": "https://www.ign.com/articles/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers",
-      "originalUrl": "https://www.ign.com/articles/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers",
+      "webUrl": "https://za.ign.com/frost-giant-studios-project/186755/preview/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers",
+      "originalUrl": "https://za.ign.com/frost-giant-studios-project/186755/preview/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 177,
       "tags": null,
       "images": [
         {
-          "url": "https://assets-prd.ignimgs.com/2023/11/29/stormgate-blogroll-1701220624610.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
+          "url": "https://sm.ign.com/t/ign_za/preview/s/stormgate-/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-dev_k38s.1200.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T16:35:00Z",
+      "publishedDateTime": "2023-11-29T03:11:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IGN",

@@ -1,43 +1,33 @@
 ---
 category: news
-title: "First Success of New Game From StarCraft 2 Devs; Stormgate Raises Millions"
-excerpt: "It looks like the developers from Frost Giant Studios don't need to fear for the popularity of their game. After all, it only took 15 minutes for Stormgate to reach its goal on Kickstarter."
-publishedDateTime: 2023-12-07T21:25:00Z
-originalUrl: "https://www.gamepressure.com/newsroom/stormgate-raises-millions/z06550"
-webUrl: "https://www.gamepressure.com/newsroom/stormgate-raises-millions/z06550"
+title: "Stormgate Is a Very StarCraft-y RTS Made By Ex-StarCraft Developers"
+excerpt: "The Infernal Host is the kind of RTS faction that takes some getting used to, in contrast to the more standard Vanguard. But it really is a riot once you get the hang of it, with battles that look hopeless to a newcomer turning into a clean sweep as the ground is replaced with Fiends and your enemy winds up completely inundated by death."
+publishedDateTime: 2023-11-29T03:11:00Z
+originalUrl: "https://za.ign.com/frost-giant-studios-project/186755/preview/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers"
+webUrl: "https://za.ign.com/frost-giant-studios-project/186755/preview/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers"
 type: article
-quality: 35
-heat: -1
-published: false
+quality: 77
+heat: 177
+published: true
 
 provider:
-  name: XCOM 2 Game Guide
-  domain: gamepressure.com
+  name: IGN
+  domain: ign.com
+  images:
+    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://cdn.gracza.pl/i_gp/h/22/439663892.jpg"
-    width: 1280
-    height: 720
+  - url: "https://sm.ign.com/t/ign_za/preview/s/stormgate-/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-dev_k38s.1200.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
-  - title: "Stormgate Is a Very StarCraft-y RTS Made By Ex-StarCraft Developers"
-    excerpt: "The Infernal Host is the kind of RTS faction that takes some getting used to, in contrast to the more standard Vanguard. But it really is a riot once you get the hang of it, with battles that look hopeless to a newcomer turning into a clean sweep as the ground is replaced with Fiends and your enemy winds up completely inundated by death."
-    publishedDateTime: 2023-11-29T03:11:00Z
-    webUrl: "https://za.ign.com/frost-giant-studios-project/186755/preview/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 77
-    images:
-      - url: "https://sm.ign.com/t/ign_za/preview/s/stormgate-/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-dev_k38s.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Stormgate Is a Very StarCraft-y RTS Made By Ex-StarCraft Developers"
     excerpt: "The Infernal Host is the kind of RTS faction that takes some getting used to, in contrast to the more standard Vanguard. But it really is a riot once you get the hang of it, with battles that look hopeless to a newcomer turning into a clean sweep as the ground is replaced with Fiends and your enemy winds up completely inundated by death."
     publishedDateTime: 2023-11-29T16:35:00Z
@@ -65,6 +55,20 @@ related:
       - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/12/stormgate-warz-simu-liu-starcraft-successor-rts-game-blizzard-chris-metzen-frost-giant-studios.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "First Success of New Game From StarCraft 2 Devs; Stormgate Raises Millions"
+    excerpt: "It looks like the developers from Frost Giant Studios don't need to fear for the popularity of their game. After all, it only took 15 minutes for Stormgate to reach its goal on Kickstarter."
+    publishedDateTime: 2023-12-07T21:25:00Z
+    webUrl: "https://www.gamepressure.com/newsroom/stormgate-raises-millions/z06550"
+    type: article
+    provider:
+      name: XCOM 2 Game Guide
+      domain: gamepressure.com
+    quality: 35
+    images:
+      - url: "https://cdn.gracza.pl/i_gp/h/22/439663892.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Starcraft Spiritual Successor Stormgate Achieves Kickstarter Goal in 15 Minutes"
     excerpt: "Frost Giant Studios launched today a Kickstarter crowdfunding campaign for its upcoming RTS game Stormgate. It was fully funded in 15 Minutes."
@@ -95,6 +99,6 @@ related:
         height: 900
         isCached: true
 
-secured: "sGpOXd5PeNP8NIhVHXY6Tc+VepKWAv0v6E5dVt0eoMDwzGiuEMwEKF2KWkAexyKxYFhn7wkGBk+fGugLkrjIvRB2vMMAbfDADynWUE+CLk1R4ncO3LjbDn7lxIIk1iatXzP1D6YWqJ3w3t/KA7+nPZBBfBFbFvzG0HrzhpWVWjVMHoyySR80rNYBbhHzfpuXZ0NnsUnlD77t3xHSNBp6lWXwA9FdRVvw6Fb/XKtA94zdTPEo8HHs2FfWynfRcqdZRCbYzewSgspNWErCnPQJnQ5AOr5v6DzNB0LO8zgiG8w0EMsWKIFva+lXbEcKulEIvlD8X61pSSFnpDIbvjXZJXwfHp7yvmxFkdyI+K77ufc=;Cbk+7MANrpE3r7cXit54Iw=="
+secured: "E44oOARJPkspxUcujril0aBO1ByJxBP7LtvpBkE0dsc0Z86SGXn21ssZoDsX+UehM0kZ0aWagbGVC8W7HErnnC5oEPVmw3JM9hFV5bIVC7yjtJwV4ajyUrTWhU04u1dDWjc2Ejqft+qekA9YwoRPCSuyPY8Kd9bUIdM8NcYdTd0f6UoI+q34srktjau5EnKEzgFXjORQ84DhZfOrUBTmhO1pttNum/PYLM7tttxosSZZl7bSntSKTGWY4j/tGqT974HYtYxBAz3C1NJvftP+6mMeyEar+fpKTdtZNBkXq9pg8YzTtkf6TceH5KpFTcF8BecxLzk/LKoHV7s90H0ExRF/QgjoSPVWv/csFMTo2BQ=;y8s+ik1aWo99/BRGzH7m7A=="
 ---
 

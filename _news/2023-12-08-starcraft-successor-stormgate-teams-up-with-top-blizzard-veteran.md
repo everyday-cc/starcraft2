@@ -26,6 +26,20 @@ images:
 related:
   - title: "Stormgate Is a Very StarCraft-y RTS Made By Ex-StarCraft Developers"
     excerpt: "The Infernal Host is the kind of RTS faction that takes some getting used to, in contrast to the more standard Vanguard. But it really is a riot once you get the hang of it, with battles that look hopeless to a newcomer turning into a clean sweep as the ground is replaced with Fiends and your enemy winds up completely inundated by death."
+    publishedDateTime: 2023-11-29T03:11:00Z
+    webUrl: "https://za.ign.com/frost-giant-studios-project/186755/preview/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 77
+    images:
+      - url: "https://sm.ign.com/t/ign_za/preview/s/stormgate-/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-dev_k38s.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Stormgate Is a Very StarCraft-y RTS Made By Ex-StarCraft Developers"
+    excerpt: "The Infernal Host is the kind of RTS faction that takes some getting used to, in contrast to the more standard Vanguard. But it really is a riot once you get the hang of it, with battles that look hopeless to a newcomer turning into a clean sweep as the ground is replaced with Fiends and your enemy winds up completely inundated by death."
     publishedDateTime: 2023-11-29T16:35:00Z
     webUrl: "https://www.ign.com/articles/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers"
     type: article

@@ -73,44 +73,6 @@
       "publishedDateTime": "2023-06-20T11:52:00Z"
     },
     {
-      "path": "_games/lowkotv-scarletts-thousands-of-zerglings-vs-astrea-starcraft-2.md",
-      "title": "Scarlett's THOUSANDS of Zerglings vs Astrea! (StarCraft 2)",
-      "excerpt": "StarCraft 2 pro match, best-of-5 series. Top level StarCraft 2 from the American region. Scarlett (Zerg) takes on Astrea (Protoss), the best Canadian and American pro gamers. This match is the upper bracket semi finals of the ESL Masters Winter AM regionals.   Support my work: https://patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-scarletts-thousands-of-zerglings-vs-astrea-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-scarletts-thousands-of-zerglings-vs-astrea-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=9yx8tDfp64Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9yx8tDfp64Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9yx8tDfp64Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-11-29T09:57:45Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-premier-tournament-grand-finals-serral-vs-maxpax-best-of-7.md",
       "title": "StarCraft 2: Premier Tournament GRAND FINALS - Serral vs MaxPax! (Best-of-7)",
       "excerpt": "Grand Finals of the ESL StarCraft 2 Masters Summer: European regionals. This is a best-of-7 series of top level StarCraft 2 between Serral (Zerg) and MaxPax (Protoss). The number 1 Protoss and Zerg player in the world at the moment. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
@@ -187,44 +149,6 @@
       "publishedDateTime": "2023-05-25T11:07:42Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-darks-unexpected-swarm-hosts-transition.md",
-      "title": "StarCraft 2: Dark's Unexpected SWARM HOSTS Transition!",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between Dark (Zerg) and Creator (Protoss). This series is from the ESL StarCraft 2 Open Cup 191 Korea and features some very cool and unexpected SC2 strategies. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-unexpected-swarm-hosts-transition/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-unexpected-swarm-hosts-transition/",
-      "originalUrl": "https://youtube.com/watch?v=2BAZlnxg7P4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2BAZlnxg7P4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M49S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2BAZlnxg7P4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-09-14T10:10:58Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",
       "title": "StarCraft 2: Erik's SURPRISES GuMiho with Zerg Drops! (Best-of-3)",
       "excerpt": "Best-of-3 series of Zerg vs Terran in StarCraft 2 between Erik and GuMiho. This is a series with some very unique Zerg strategies and build orders. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
@@ -262,6 +186,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-05-22T10:49:14Z"
+    },
+    {
+      "path": "_games/lowkotv-scarletts-thousands-of-zerglings-vs-astrea-starcraft-2.md",
+      "title": "Scarlett's THOUSANDS of Zerglings vs Astrea! (StarCraft 2)",
+      "excerpt": "StarCraft 2 pro match, best-of-5 series. Top level StarCraft 2 from the American region. Scarlett (Zerg) takes on Astrea (Protoss), the best Canadian and American pro gamers. This match is the upper bracket semi finals of the ESL Masters Winter AM regionals.   Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-scarletts-thousands-of-zerglings-vs-astrea-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-scarletts-thousands-of-zerglings-vs-astrea-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=9yx8tDfp64Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9yx8tDfp64Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M53S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 108,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9yx8tDfp64Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-29T09:57:45Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-blys-dirty-zerg-rushes-vs-harstem-esl-masters.md",
@@ -1115,6 +1077,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-10-26T07:32:32Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-maxpax-dark-templar-rushes-byun-esl-finals.md",
+      "title": "StarCraft 2: MaxPax DARK TEMPLAR Rushes ByuN! (ESL Finals)",
+      "excerpt": "Watch the Epic Clash of MaxPax vs ByuN in the StarCraft 2 ESL Open Cup North America Finals. Apparently the Dark Templar is the unit of this week! Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpax-dark-templar-rushes-byun-esl-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpax-dark-templar-rushes-byun-esl-finals/",
+      "originalUrl": "https://youtube.com/watch?v=7AzjAzJYlrI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7AzjAzJYlrI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M59S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7AzjAzJYlrI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-15T14:07:49Z"
     }
   ],
   "nextPage": 3

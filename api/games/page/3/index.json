@@ -235,44 +235,6 @@
       "publishedDateTime": "2023-11-22T11:35:41Z"
     },
     {
-      "path": "_games/lowkotv-scarletts-thousands-of-zerglings-vs-astrea-starcraft-2.md",
-      "title": "Scarlett's THOUSANDS of Zerglings vs Astrea! (StarCraft 2)",
-      "excerpt": "StarCraft 2 pro match, best-of-5 series. Top level StarCraft 2 from the American region. Scarlett (Zerg) takes on Astrea (Protoss), the best Canadian and American pro gamers. This match is the upper bracket semi finals of the ESL Masters Winter AM regionals.   Support my work: https://patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-scarletts-thousands-of-zerglings-vs-astrea-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-scarletts-thousands-of-zerglings-vs-astrea-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=9yx8tDfp64Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9yx8tDfp64Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9yx8tDfp64Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-11-29T09:57:45Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-premier-tournament-grand-finals-serral-vs-maxpax-best-of-7.md",
       "title": "StarCraft 2: Premier Tournament GRAND FINALS - Serral vs MaxPax! (Best-of-7)",
       "excerpt": "Grand Finals of the ESL StarCraft 2 Masters Summer: European regionals. This is a best-of-7 series of top level StarCraft 2 between Serral (Zerg) and MaxPax (Protoss). The number 1 Protoss and Zerg player in the world at the moment. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
@@ -475,6 +437,44 @@
       "publishedDateTime": "2023-11-30T08:58:36Z"
     },
     {
+      "path": "_games/lowkotv-specials-100-cyclones-vs-elazer-starcraft-2.md",
+      "title": "SpeCial's 100+ CYCLONES vs Elazer! (StarCraft  2)",
+      "excerpt": "Best-of-5 series of high level StarCraft 2 on the new multiplayer balance patch with the brand-new SC2 maps! In this series between SpeCial (Terran) and Elazer (Zerg), both players try to make use of the new options that the new patch unlocked. SpeCial decides to play a variety of early game build orders",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-specials-100-cyclones-vs-elazer-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-specials-100-cyclones-vs-elazer-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=6g3GLsLbNl0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6g3GLsLbNl0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H19M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 120,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6g3GLsLbNl0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-10-03T10:08:09Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-official-viewer-tournament.md",
       "title": "StarCraft 2: The OFFICIAL Viewer Tournament!",
       "excerpt": "The best games from the first viewer tournament! This video features all the best matches of StarCraft 2 that were played during the \"LowkoTV Viewer Tournament #1\".  00:00:00 Introduction 00:07:32 Game 1 00:17:02 Game 2 00:30:39 Game 3 00:47:38 Game 4 01:00:16 Game 5  01:33:26 Game 6 01:48:26 Game 7",
@@ -570,43 +570,14 @@
       "publishedDateTime": "2023-01-19T02:34:08Z"
     },
     {
-      "path": "_games/pig-the-most-deranged-post-game-rant-in-starcraft-history-salt-mines-45-starcraft-2.md",
-      "title": "The MOST DERANGED post-game rant in StarCraft History | Salt Mines #45 - StarCraft 2",
-      "excerpt": "WOW, what an insane post-game rant. I can't believe the amount of salt mined in a single game of StarCraft 2. Everyone has encountered a salty or BM opponent on the StarCraft ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-most-deranged-post-game-rant-in-starcraft-history-salt-mines-45-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-most-deranged-post-game-rant-in-starcraft-history-salt-mines-45-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=fKjoQzn9Koo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fKjoQzn9Koo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M50S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fKjoQzn9Koo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-10-20T14:42:10Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-darks-unexpected-swarm-hosts-transition.md",
-      "title": "StarCraft 2: Dark's Unexpected SWARM HOSTS Transition!",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between Dark (Zerg) and Creator (Protoss). This series is from the ESL StarCraft 2 Open Cup 191 Korea and features some very cool and unexpected SC2 strategies. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-unexpected-swarm-hosts-transition/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-unexpected-swarm-hosts-transition/",
-      "originalUrl": "https://youtube.com/watch?v=2BAZlnxg7P4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2BAZlnxg7P4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M49S",
+      "path": "_games/lowkotv-starcraft-2-gumihos-mass-battlecruiser-transition.md",
+      "title": "StarCraft 2: GuMiho's MASS BATTLECRUISER Transition!",
+      "excerpt": "Professional match of StarCraft 2 between GuMiho and Cure. In this Terran versus Terran GuMi decides to play Bio, whereas Cure focuses on Terran Mech. In the later stages of the game however, GuMiho finds himself with an opportunity to transition towards mass Battlecruiser. Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumihos-mass-battlecruiser-transition/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumihos-mass-battlecruiser-transition/",
+      "originalUrl": "https://youtube.com/watch?v=mE6kuwN9WBo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mE6kuwN9WBo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M42S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -621,12 +592,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Zerg"
+        "Terran"
       ],
-      "heat": 111,
+      "heat": 114,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2BAZlnxg7P4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mE6kuwN9WBo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -634,7 +605,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-09-14T10:10:58Z"
+      "publishedDateTime": "2023-10-24T11:08:08Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",
@@ -712,6 +683,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-08-25T11:00:16Z"
+    },
+    {
+      "path": "_games/lowkotv-scarletts-thousands-of-zerglings-vs-astrea-starcraft-2.md",
+      "title": "Scarlett's THOUSANDS of Zerglings vs Astrea! (StarCraft 2)",
+      "excerpt": "StarCraft 2 pro match, best-of-5 series. Top level StarCraft 2 from the American region. Scarlett (Zerg) takes on Astrea (Protoss), the best Canadian and American pro gamers. This match is the upper bracket semi finals of the ESL Masters Winter AM regionals.   Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-scarletts-thousands-of-zerglings-vs-astrea-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-scarletts-thousands-of-zerglings-vs-astrea-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=9yx8tDfp64Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9yx8tDfp64Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M53S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 108,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9yx8tDfp64Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-29T09:57:45Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-blys-dirty-zerg-rushes-vs-harstem-esl-masters.md",

@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-07-xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcraft.md",
+      "title": "Xbox Head Phil Spencer Is Excited About Possibility of Reviving Old Titles Like StarCraft and Warcraft",
+      "excerpt": "Xbox CEO Phil Spencer has said that there is a possibility of revisiting old titles such as StarCraft or Warcraft. With the Activision Blizzard purchase, there are many questions regarding the future of these classic titles.",
+      "sourceUrl": null,
+      "webUrl": "https://in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra",
+      "originalUrl": "https://in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 281,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.ign.com/t/ign_in/video/b/blizzard-r/blizzard-rewards-fan-for-returning-starcraft-source-code-ign_vxtv.620.jpg",
+          "width": 620,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra?amp=1",
+      "cdnAmpWebUrl": "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft/176255/news/xbox-head-phil-spencer-is-excited-about-possibility-of-reviving-old-titles-like-starcraft-and-warcra?amp=1",
+      "publishedDateTime": "2022-11-07T06:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-starcraft-2-sells-1m-day-one-15m-in-first-48-hours-roughly-620k-in-the-us.md",
       "title": "StarCraft 2 sells 1m day-one, 1.5m in first 48 hours, roughly 620K in the US",
       "excerpt": "Blizzard just trumpeted the sales numbers for StarCraft 2: Wings of Liberty, the first installment in its long-time-coming sequel to the strategy classic. The numbers: \"a day-one sales milestone ...",
@@ -1166,48 +1217,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-2022-starcraft-svx-210-io.md",
-      "title": "2022 Starcraft SVX 210 IO",
-      "excerpt": "If Starcraft’s SVX 210 IO looks familiar, it’s because a similar boat already resides in the manufacturer’s lineup. The difference here is that the boat is now available with sterndrive power rather than the previous outboard-only option, meaning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.boatingmag.com/boats/2022-starcraft-svx-210-io-bbg/",
-      "originalUrl": "https://www.boatingmag.com/boats/2022-starcraft-svx-210-io-bbg/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mlclell2icph.i.optimole.com/hp8H5UE.n_9p~52d1/w:auto/h:auto/q:80/https://www.boatingmag.com/wp-content/uploads/sites/16/2021/11/BTGBG22_RUN_Starcraft-SVX-210-IO_02.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.boatingmag.com/boats/2022-starcraft-svx-210-io-bbg/?amp=1",
-      "cdnAmpWebUrl": "https://www-boatingmag-com.cdn.ampproject.org/c/s/www.boatingmag.com/boats/2022-starcraft-svx-210-io-bbg/?amp=1",
-      "publishedDateTime": "2021-12-06T19:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boating",
-        "domain": "boatingmag.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Stormgate Is a Very StarCraft-y RTS Made By Ex-StarCraft Developers"
-excerpt: "The Infernal Host is the kind of RTS faction that takes some getting used to, in contrast to the more standard Vanguard. But it really is a riot once you get the hang of it, with battles that look hopeless to a newcomer turning into a clean sweep as the ground is replaced with Fiends and your enemy winds up completely inundated by death."
-publishedDateTime: 2023-11-29T03:11:00Z
-originalUrl: "https://za.ign.com/frost-giant-studios-project/186755/preview/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers"
-webUrl: "https://za.ign.com/frost-giant-studios-project/186755/preview/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers"
+excerpt: "Stormgate is a very StarCraft-y RTS made by a number of ex-StarCraft developers. We went hands-on with the Zerg-like Infernal Host faction in our exclusive new preview."
+publishedDateTime: 2023-11-29T15:00:00Z
+originalUrl: "https://za.ign.com/frost-giant-studios-project/186757/video/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers"
+webUrl: "https://za.ign.com/frost-giant-studios-project/186757/video/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers"
 type: article
 quality: 77
 heat: 177
@@ -22,7 +22,7 @@ topics:
   - StarCraft 2
 
 images:
-  - url: "https://sm.ign.com/t/ign_za/preview/s/stormgate-/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-dev_k38s.1200.jpg"
+  - url: "https://sm.ign.com/t/ign_za/video/s/stormgate-/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-dev_ydtm.1200.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -99,6 +99,6 @@ related:
         height: 900
         isCached: true
 
-secured: "JOegV90p5oV/11lj2FSK8rmd/svr6rZfelAa4bs5kUL0+1j8OMA6VFEDna7KnJi7QxAHWhPQxPr5rYHN8d2Ebeo44/kwYIeGxh/6/Yx/MwVhCArxulgr3N98GCylD5+rAFYtxoqrSvMP7vkKo44Y6OPK6X9r6z1qnEyu/iFadPOe5oE0f8zuUqsdheT2xGlmyCG1ynyUqiOmF3e8XLUlSytsnmxucB9IVANkD06EoZvKnxBnR9uGv+gxDKaZT8tcnKmH4IBy87JLGMVcFSUW3JvUfJf5qzkxJxzmcZ8/GVl9qxdINyweOeS3E/c9jTy/oQsjj+KCT6QKu2Y4WldVXTmsLubIUBhkfR5otHmXiDYqNyDYt1ALo7M68RzLzavzJlCNSE2UnTxTnLl1yOH6LnFqO4+L5yUpXQlyCNC564xJkUb0XWZpA6UNJmCpE7jSFTRItp7BZ99aDmvLcopNnab/pXMJtp8XY6gorb6QgKHO6+d+nyWi20A6xOl9QhHlYWjVj0PpxDzaRCiKfVFeJw==;aFhmn9QfvrbvJFDBjn8ZwQ=="
+secured: "yeZmDRn7LGHfmjI/uVx6CMna+w8YPP4qYe0jXL6gvUDzbcC4UFBL39iD54Xczs21k0R1/kWqNWwUc37XEZ7PeVUVMdf0P1a3NF7fT0nqKS3bhggOO7l2t+FPCabwDwuaLlnBBj0u/MvDTIlqeAxUCVbiSgccLWuEcUB66q+pwpcwKKCwKQnM2iB8wpTPEzJXmjRh9jXK6PWs1DpxDkhAKWXP86H4jArksx7C4CYsZfm3LLM7Ez/sPZu3VVnZ+hyXDNWaJlrVZGsQWzdmZTAsuPwgSboALLqINpUua7RgGiPMEDjnL/mS3ALNTDikAfq8nMy2b85osRDaC3u0Xbqy4RQ9YPznHlSejNYsAZ7YYzU=;fNxD4CBv+7lwvXmE5HsHuw=="
 ---
 

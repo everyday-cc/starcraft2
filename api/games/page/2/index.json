@@ -302,35 +302,6 @@
       "publishedDateTime": "2021-12-23T23:35:13Z"
     },
     {
-      "path": "_games/pig-he-got-so-mad-he-doxed-himself-salt-mines-49-starcraft-2.md",
-      "title": "He Got SO Mad He DOXED HIMSELF? | Salt Mines #49 - StarCraft 2",
-      "excerpt": "Another incredible show of skill and sportsmanship!  Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty.   Binge the Salt Mines playlist: https://youtube.com/playlist?list=PLFUDU8AOevUePkIO6d3vLr0SSVKeZBdsZ",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-he-got-so-mad-he-doxed-himself-salt-mines-49-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-he-got-so-mad-he-doxed-himself-salt-mines-49-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=RhQe8vG_wVs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RhQe8vG_wVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M32S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 182,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RhQe8vG_wVs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-12-11T14:30:36Z"
-    },
-    {
       "path": "_games/pig-redacted-how-long-can-regular-players-last-vs-harstem-part-2-holdout-challenge-starcraft-2.md",
       "title": "(REDACTED) How long can regular players LAST vs HARSTEM? (Part 2) | Holdout Challenge - StarCraft 2",
       "excerpt": "We got Harstem to 1v1 noobs in StarCraft 2. The challenge: the noobs needed to stay in the match for as long as possible. How did they fare against the Captain?  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j  Holdout Scoresheet: https://docs.google.com/spreadsheets/d/14aDGMP3BEQOADiL-6muUoi6P6hbSY8_vJ_HCOIiqPqI/edit#gid=1811179909",
@@ -530,6 +501,35 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-05-08T10:18:53Z"
+    },
+    {
+      "path": "_games/pig-he-got-so-mad-he-doxed-himself-salt-mines-49-starcraft-2.md",
+      "title": "He Got SO Mad He DOXED HIMSELF? | Salt Mines #49 - StarCraft 2",
+      "excerpt": "Another incredible show of skill and sportsmanship!  Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty.   Binge the Salt Mines playlist: https://youtube.com/playlist?list=PLFUDU8AOevUePkIO6d3vLr0SSVKeZBdsZ",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-he-got-so-mad-he-doxed-himself-salt-mines-49-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-he-got-so-mad-he-doxed-himself-salt-mines-49-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=RhQe8vG_wVs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RhQe8vG_wVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M32S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 160,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RhQe8vG_wVs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-12-11T14:30:36Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-esl-masters-summer-grand-finals-scarlett-vs-astrea-best-of-7.md",

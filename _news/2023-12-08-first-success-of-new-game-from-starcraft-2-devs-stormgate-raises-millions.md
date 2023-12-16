@@ -94,6 +94,15 @@ related:
         width: 1800
         height: 900
         isCached: true
+  - title: "Stormgate: Not StarCraft 3 but the next best thing?"
+    excerpt: "Developed by a team of veteran devs who made up a substantial part of the StarCraft II team, Stormgate is a 2024 real-time strategy (RTS) game, featuring \"next generation\" 1v1 competition alongside a single-player campaign with \"additional chapters ..."
+    publishedDateTime: 2023-12-15T00:00:00Z
+    webUrl: "https://arstechnica.com/civis/threads/stormgate-not-starcraft-3-but-the-next-best-thing.1497748/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 17
 
 secured: "sGpOXd5PeNP8NIhVHXY6Tc+VepKWAv0v6E5dVt0eoMDwzGiuEMwEKF2KWkAexyKxYFhn7wkGBk+fGugLkrjIvRB2vMMAbfDADynWUE+CLk1R4ncO3LjbDn7lxIIk1iatXzP1D6YWqJ3w3t/KA7+nPZBBfBFbFvzG0HrzhpWVWjVMHoyySR80rNYBbhHzfpuXZ0NnsUnlD77t3xHSNBp6lWXwA9FdRVvw6Fb/XKtA94zdTPEo8HHs2FfWynfRcqdZRCbYzewSgspNWErCnPQJnQ5AOr5v6DzNB0LO8zgiG8w0EMsWKIFva+lXbEcKulEIvlD8X61pSSFnpDIbvjXZJXwfHp7yvmxFkdyI+K77ufc=;Cbk+7MANrpE3r7cXit54Iw=="
 ---

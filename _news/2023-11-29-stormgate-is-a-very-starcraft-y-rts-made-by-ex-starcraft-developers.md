@@ -7,7 +7,7 @@ originalUrl: "https://za.ign.com/frost-giant-studios-project/186757/video/stormg
 webUrl: "https://za.ign.com/frost-giant-studios-project/186757/video/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers"
 type: article
 quality: 77
-heat: 177
+heat: 197
 published: true
 
 provider:
@@ -98,6 +98,15 @@ related:
         width: 1800
         height: 900
         isCached: true
+  - title: "Stormgate: Not StarCraft 3 but the next best thing?"
+    excerpt: "Developed by a team of veteran devs who made up a substantial part of the StarCraft II team, Stormgate is a 2024 real-time strategy (RTS) game, featuring \"next generation\" 1v1 competition alongside a single-player campaign with \"additional chapters ..."
+    publishedDateTime: 2023-12-15T00:00:00Z
+    webUrl: "https://arstechnica.com/civis/threads/stormgate-not-starcraft-3-but-the-next-best-thing.1497748/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 17
 
 secured: "iqGzS6YfvgYEJkxdCRkm3z35k5AGu65xhyQDp3HoJLHCj3FtJ+dlXRDeWj0r9+OK1atifu3rszwcDFJEBwBUMcZm6EygsgGfNanwqmHnQ2H2Fdiju6aRX4ipb9Zy8TKcRcouZpAHetvCYkipkHNzFXHJ9v7PYvyOH4RfoJTMqPfQ7n1OYX1u7qqxLMdT+LZ6eaQwfnQlaAeslRF6ke5UzqvBuJZcN5FP4mwkoxWD2P1HpvIrYbqpfLhsY+CA+mZWcE6hdxvLrpZY/LY8HImUAbgO13rV8CffzvVA8yqhumOQtD7K+b7slgYFylPYUB2U8cvGe+m0sarc7Onj8XozbG0mdKnfA9f8Dhe8FVZkrFgpKBu6Bhe3CzIrrg28+6dv5+fcMZaKoune31QfEZQSxiSowuWR9L7xgzHppjQ0bOMCrZ8ItiUoe/kt97bgDbs/n9TIUueSfdcsEb3hXKNnLZTj8O2xYy93U538iwYGYIVRuMSKGgW+SHKsFuFnO8FONYaDUsk0Scu432js7xjghg==;5vftb6QNYIMAU5Mgi2J2jQ=="
 ---

@@ -1,31 +1,25 @@
 ---
 category: news
-title: "Stormgate Is a Very StarCraft-y RTS Made By Ex-StarCraft Developers"
-excerpt: "The Infernal Host is the kind of RTS faction that takes some getting used to, in contrast to the more standard Vanguard. But it really is a riot once you get the hang of it, with battles that look hopeless to a newcomer turning into a clean sweep as the ground is replaced with Fiends and your enemy winds up completely inundated by death."
-publishedDateTime: 2023-11-29T16:35:00Z
-originalUrl: "https://www.ign.com/articles/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers"
-webUrl: "https://www.ign.com/articles/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers"
+title: "Stormgate: Not StarCraft 3 but the next best thing?"
+excerpt: "Developed by a team of veteran devs who made up a substantial part of the StarCraft II team, Stormgate is a 2024 real-time strategy (RTS) game, featuring \"next generation\" 1v1 competition alongside a single-player campaign with \"additional chapters ..."
+publishedDateTime: 2023-12-15T00:00:00Z
+originalUrl: "https://arstechnica.com/civis/threads/stormgate-not-starcraft-3-but-the-next-best-thing.1497748/"
+webUrl: "https://arstechnica.com/civis/threads/stormgate-not-starcraft-3-but-the-next-best-thing.1497748/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: IGN
-  domain: ign.com
+  name: Ars Technica
+  domain: arstechnica.com
   images:
-    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/arstechnica.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - StarCraft 2
-
-images:
-  - url: "https://assets-prd.ignimgs.com/2023/11/29/stormgate-blogroll-1701220624610.jpg?width=1280"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Stormgate Is a Very StarCraft-y RTS Made By Ex-StarCraft Developers"
@@ -41,6 +35,20 @@ related:
       - url: "https://sm.ign.com/t/ign_za/video/s/stormgate-/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-dev_ydtm.1200.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Stormgate Is a Very StarCraft-y RTS Made By Ex-StarCraft Developers"
+    excerpt: "The Infernal Host is the kind of RTS faction that takes some getting used to, in contrast to the more standard Vanguard. But it really is a riot once you get the hang of it, with battles that look hopeless to a newcomer turning into a clean sweep as the ground is replaced with Fiends and your enemy winds up completely inundated by death."
+    publishedDateTime: 2023-11-29T16:35:00Z
+    webUrl: "https://www.ign.com/articles/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 77
+    images:
+      - url: "https://assets-prd.ignimgs.com/2023/11/29/stormgate-blogroll-1701220624610.jpg?width=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "StarCraft successor Stormgate teams up with top Blizzard veteran"
     excerpt: "Stormgate, the RTS game from Warcraft 3 and StarCraft 2 veterans, teams up with Blizzard veteran Chris Metzen and Marvel actor Simu Liu."
@@ -98,16 +106,7 @@ related:
         width: 1800
         height: 900
         isCached: true
-  - title: "Stormgate: Not StarCraft 3 but the next best thing?"
-    excerpt: "Developed by a team of veteran devs who made up a substantial part of the StarCraft II team, Stormgate is a 2024 real-time strategy (RTS) game, featuring \"next generation\" 1v1 competition alongside a single-player campaign with \"additional chapters ..."
-    publishedDateTime: 2023-12-15T00:00:00Z
-    webUrl: "https://arstechnica.com/civis/threads/stormgate-not-starcraft-3-but-the-next-best-thing.1497748/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 17
 
-secured: "TZuXBBOn+csAeZFA4F5QLWv6tOVXMCjrEXgMtWiEfN3KyLJOAS5fqcmlVn8JWqwkVVHUXUIsYP0evWo+nkxv6ycfeO8qqybpYletlvoenQN8wDr/nOFZG+SapFtb7yLuYcPpigCGqVItRB0v7Ps2zuCXRXXS8KmRh0DL5WB7KkcRqqhnQPODYH34IuhRfOJ2pZQC+PGSscKmK+rrcT01UnMB9ik6nhbzX0m6E0E1iCmDgt1/eFR6WEffb2BQ9WBJ46O4NPDPP1cgQSwe4Ktn+uZJzLp13rWCzcu8IPyksZjHW3NXzV8CugHtvQgohxrL04xvJgloTEWkTA7sp4GPeWfh76W9GlBBfg59hekkbrRcj7xtvVjjjnASTU8LvIdRtBd0SWHmPipGOGIq/WCmiQcOAuxhMUA8Z7M9HNpGFVXrJ2Zmu6pqqrSNrk2Rcuw2URr0AagQf0RsHtfNfTW+zrgsChvz9h7KxngRHMJO0t1SBlkdBr3AWqWgJ3kQcVss19r1ufTXIt5ln0n85tzwQQ==;Sj5Mmu85OrF78XcEWrkMJQ=="
+secured: "SyjScm1QAnilCn2ln3HuAs8myRzh9GXeAJfxNuQ2Ci6i1a4TEvJwPWqlSBOcIIGVH/hEuEBQ4HpmqsGpFnrIaa7WXwWh1Iaj9UpV0SgpLASLxDN2dUxz6zcKIid43h6m37/QdIK/wJ1pXjUlbIBvDzy3o7gC7l+A1JamlxS8MGqcrCwnkmrtop4GY0KN9klLLWAIg8bSB/qJ4KE1YIO4xMFOzsBIVDrFc7V9TQKrVFcPib2tWFatQZOPkGmIPthpHeiChUQvPTWD4lpo/O/IrzqU5bRgDJUVT6kx6NNs/bVO0qlC+EZFLTREOjX0lIXg36c273iLROr46S+59+I54MvHu/bo2b2t4bvQar3HmpY=;Sa9EUU7Mel1Bp1ioVPTRZQ=="
 ---
 

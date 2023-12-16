@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'We didn't set out to recruit a Hollywood cast': Marvel star Simu Liu's love of StarCraft led to a big role in upcoming RTS Stormgate"
+    excerpt: "Stormgate is an upcoming real-time strategy game from a company with a great RTS development pedigree going back to StarCraft, but not one you'd necessarily expect to attract big Hollywood actors."
+    publishedDateTime: 2023-12-08T00:00:00Z
+    webUrl: "https://www.pcgamer.com/we-didnt-set-out-to-recruit-a-hollywood-cast-marvel-star-simu-lius-love-of-starcraft-led-to-a-big-role-in-upcoming-rts-stormgate/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 46
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/JJvQu4prnyKwiNZQPVYG3-1200-80.png"
+        width: 1200
+        height: 696
+        isCached: true
   - title: "StarCraft successor Stormgate teams up with top Blizzard veteran"
     excerpt: "Stormgate, the RTS game from Warcraft 3 and StarCraft 2 veterans, teams up with Blizzard veteran Chris Metzen and Marvel actor Simu Liu."
     publishedDateTime: 2023-12-08T03:30:00Z

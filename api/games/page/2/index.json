@@ -4,35 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/pig-when-they-mald-so-hard-they-forget-how-to-play-salt-mines-42-starcraft-2.md",
-      "title": "When they MALD SO HARD they forget how to play - Salt Mines #42 | StarCraft 2",
-      "excerpt": "Welcome to Salt Mines #42! Everyone has encountered a salty or BM opponent on the StarCraft ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty.   Binge",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-they-mald-so-hard-they-forget-how-to-play-salt-mines-42-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-they-mald-so-hard-they-forget-how-to-play-salt-mines-42-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=BHbfF4SksA0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BHbfF4SksA0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M31S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 227,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BHbfF4SksA0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-09-08T11:32:40Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-best-zerg-vs-zerg-of-the-year-best-of-5.md",
       "title": "StarCraft 2: The BEST Zerg vs Zerg... Of the Year?! (Best-of-5)",
       "excerpt": "One of the best series of Zerg versus Zerg in StarCraft 2 that I've ever seen. A best-of-5 match between Dark and Solar. This series has a little bit of everything, macro, cheese, comebacks, crazy strategies and fantastic micro.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
@@ -196,6 +167,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-09-11T12:45:43Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-harstems-proxy-nexus-vs-serral.md",
+      "title": "StarCraft 2: Harstem's PROXY NEXUS vs Serral!",
+      "excerpt": "Professional match of StarCraft 2 between Serral (Zerg) and Harstem (Protoss) from HomeStory Cup 24, played in early December 2024. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko Twitch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-harstems-proxy-nexus-vs-serral/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-harstems-proxy-nexus-vs-serral/",
+      "originalUrl": "https://youtube.com/watch?v=CehYzjUlaKQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CehYzjUlaKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M25S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 215,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CehYzjUlaKQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-12-11T10:00:53Z"
     },
     {
       "path": "_games/lowkotv-the-most-cinematic-protoss-fight-of-all-time-no-seriously.md",
@@ -427,45 +437,6 @@
       "publishedDateTime": "2023-06-06T08:35:40Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-maru-vs-serral-the-highest-skilled-series-of-the-year.md",
-      "title": "StarCraft 2: Maru vs Serral - The Highest Skilled Series of the Year!",
-      "excerpt": "StarCraft 2 pro match between Serral and Maru. These two pro gamers have been the number 1 and 2 in the world for years. It does not get any higher level than this Zerg versus Terran. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maru-vs-serral-the-highest-skilled-series-of-the-year/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maru-vs-serral-the-highest-skilled-series-of-the-year/",
-      "originalUrl": "https://youtube.com/watch?v=6NJKJ0c5coM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6NJKJ0c5coM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT55M37S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 160,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6NJKJ0c5coM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgSShlMA8=&rs=AOn4CLCs1mkcx2HbOHe9SJK75GSQ0kBAZQ",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-11-17T11:44:02Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-proxy-nexus-into-mass-sentry.md",
       "title": "StarCraft 2: Proxy NEXUS into Mass SENTRY!",
       "excerpt": "Two viewer submitted games of StarCraft 2, with some of the strangest strategies that I've ever seen. Proxy Refinery and a Proxy Nexus?!  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  00:00 Proxy Refinery 12:07 Proxy Nexus  My YouTube channels: https://youtube.com/lowkotv",
@@ -628,45 +599,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-06-01T08:22:54Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-gumihos-barracks-rushes-dark-esl-finals.md",
-      "title": "StarCraft 2: GuMiho's BARRACKS RUSHES Dark! (ESL Finals)",
-      "excerpt": "Best-of-5 series of South Korean StarCraft 2 between GuMiho (Terran) and Dark (Zerg). This match is the finals of the ESL Open Cup 203 North America. GuMiho decides to build multiple Barracks on his opponent's side of the map in every game. Some good ol' Terran cheese. Support my work: https://patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumihos-barracks-rushes-dark-esl-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumihos-barracks-rushes-dark-esl-finals/",
-      "originalUrl": "https://youtube.com/watch?v=x_fi6gI0Zy0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x_fi6gI0Zy0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M51S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 154,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/x_fi6gI0Zy0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-12-06T11:48:49Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-what-he-loses-with-a-25k-bank-dark-vs-soo.md",
@@ -918,14 +850,14 @@
       "publishedDateTime": "2023-05-22T10:49:14Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-reynors-epic-protoss-vs-serral.md",
-      "title": "StarCraft 2: Reynor's EPIC PROTOSS vs Serral!",
-      "excerpt": "StarCraft 2 professional tournament game between Serral and Reynor. Rather than playing Zerg, Reynor decides to play Protoss in this match. Very impressive game from two of the very best pro gamers in all of SC2.  Serral Spine rushes Reynor: https://youtu.be/djxl-vImiP8 Support my work: https://patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynors-epic-protoss-vs-serral/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-epic-protoss-vs-serral/",
-      "originalUrl": "https://youtube.com/watch?v=Ayg4tUhwMjM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ayg4tUhwMjM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M48S",
+      "path": "_games/lowkotv-starcraft-2-maru-vs-serral-the-highest-skilled-series-of-the-year.md",
+      "title": "StarCraft 2: Maru vs Serral - The Highest Skilled Series of the Year!",
+      "excerpt": "StarCraft 2 pro match between Serral and Maru. These two pro gamers have been the number 1 and 2 in the world for years. It does not get any higher level than this Zerg versus Terran. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maru-vs-serral-the-highest-skilled-series-of-the-year/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maru-vs-serral-the-highest-skilled-series-of-the-year/",
+      "originalUrl": "https://youtube.com/watch?v=6NJKJ0c5coM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6NJKJ0c5coM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT55M37S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -940,13 +872,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
+        "Terran",
         "Zerg"
       ],
-      "heat": 144,
+      "heat": 145,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Ayg4tUhwMjM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6NJKJ0c5coM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgSShlMA8=&rs=AOn4CLCs1mkcx2HbOHe9SJK75GSQ0kBAZQ",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -954,7 +886,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-12-05T10:51:53Z"
+      "publishedDateTime": "2023-11-17T11:44:02Z"
     },
     {
       "path": "_games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-holdout-challenge.md",
@@ -1022,6 +954,74 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-09-22T11:02:19Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-reynors-epic-protoss-vs-serral.md",
+      "title": "StarCraft 2: Reynor's EPIC PROTOSS vs Serral!",
+      "excerpt": "StarCraft 2 professional tournament game between Serral and Reynor. Rather than playing Zerg, Reynor decides to play Protoss in this match. Very impressive game from two of the very best pro gamers in all of SC2.  Serral Spine rushes Reynor: https://youtu.be/djxl-vImiP8 Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynors-epic-protoss-vs-serral/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-epic-protoss-vs-serral/",
+      "originalUrl": "https://youtube.com/watch?v=Ayg4tUhwMjM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ayg4tUhwMjM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 141,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Ayg4tUhwMjM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-12-05T10:51:53Z"
+    },
+    {
+      "path": "_games/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-seige-tactics-g1.md",
+      "title": "StarCraft 2 - When You Build a Base In Their Base... | ICYFAR \"Seige Tactics\" G1",
+      "excerpt": "🤯 NEW ICYFAR CHALLENGE: One Base Openers - You're not allowed to start building an expansion until after 5:00. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 21st May. -- 🤯 In this week’s episode of I Cast Your",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-seige-tactics-g1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-seige-tactics-g1/",
+      "originalUrl": "https://youtube.com/watch?v=e4q2aK8jjW0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e4q2aK8jjW0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M45S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 140,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/e4q2aK8jjW0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-04-28T06:30:12Z"
     }
   ],
   "nextPage": 3

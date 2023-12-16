@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=zgfgqU0pspk
 type: video
 length: PT36M52S
 publishedDateTime: 2023-08-16T08:48:25Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zgfgqU0pspk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8YoWHBIKKzPz4VCZeRtstZe+5Il75BrY8KSNQLUdwRaCCpz+djCeJdDcBEbXbehT+3OwGn1CAOMyU8tbYWddWq8R6h2ErbeKGCRsWZS8waMiKhDUmUUB+yciB0FIiuSb4LR25D3sx7iLAVklgFFydJPTgbkUJ/t7C+VCsuFox140eIJBSfnJS73AzLrOnS9hhqRyRbPh/ZY3WB7e1WKGuYuORzcxQS15w5CW96VZy93RU47L3mw0u7M3k/KzDVWCfSBkyu8CCenOWoG8sHVdGSRqUWll0qmY89ysFor7HLKfzsude4FiD6MImrqi0AYXa5JS5rsA2t5Wv7sgUMYwP5007YHvSaAR2/Q8czBOTrEP1JurLqBYT+HO/1vx93+2Vxx4pT8ah6c7bAokEnk+DhtRk7275EMzC3SeMqunFto=;WfPnkbmv7Wuk18wyb5CTjg=="
+secured: "qvWswPSm1sSCnA3n/crus+JMHVksp0bxm8rh0+I5KANWIBIUYPVS1BwaId4t7cTzgkYU1s34GdER5N3NPIuE9lnoNE50grVWVS0oIVIOW+nUPlehTq9pTDFHhR71QFXSPJswRcVAK7jVa0eLI/trDp4s5yln2yY+SEIZa0J20LD22N6PTJkHVOXN9FO0ISbYFCxoX9BMxLvUPmxi4BIKNkJz5cDnweof264n8UTnMtdPXZgI2+ucJRxWNz2NIYpSkxQjJWtna7+XE6pSt6suzLwl9O0VgMZOSQfqLINieygbNSmOIJOno5aYCS+6W0KdjRfIybRAjWNBVkoEoVtZfVFW7tPclDsfyUNtkOcjopuQd9itUodFQQ7Ilpjr/x3BXkxeSRahwGh3DDisLUIeFK1WrQWC1VDJGklm6SMAFzo=;Nl7tIgRj2ZD+iEmkTdvNXQ=="
 ---
 

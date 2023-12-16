@@ -565,14 +565,14 @@
       "publishedDateTime": "2019-08-15T10:48:50Z"
     },
     {
-      "path": "_games/lowkotv-dark-refuses-to-play-the-new-banelings-starcraft-2.md",
-      "title": "Dark REFUSES to play the NEW Banelings?! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between Dark (Zerg) and Astrea (Protoss). This series features the new Mothership, albeit for only a very short amount of time. SC2 match is from the Korean StarCraft League. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-refuses-to-play-the-new-banelings-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-refuses-to-play-the-new-banelings-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=RxvEB-CBQxw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RxvEB-CBQxw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M41S",
+      "path": "_games/lowkotv-cures-200-iq-cyclones-vs-solar-starcraft-2.md",
+      "title": "Cure's 200 IQ CYCLONES vs Solar! (StarCraft 2)",
+      "excerpt": "GSL Code S series of Zerg vs Terran in StarCraft 2. This best-of-3 is between Cure (Terran) and Solar (Zerg). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-cures-200-iq-cyclones-vs-solar-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-cures-200-iq-cyclones-vs-solar-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=xJ598Ld3uKw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xJ598Ld3uKw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M13S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -592,7 +592,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/RxvEB-CBQxw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/xJ598Ld3uKw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -600,7 +600,45 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-10-03T12:11:45Z"
+      "publishedDateTime": "2023-07-14T12:00:09Z"
+    },
+    {
+      "path": "_games/lowkotv-dark-surprises-cure-in-the-gsl-code-s-starcraft-2.md",
+      "title": "Dark SURPRISES Cure in the GSL Code S! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Cure (Terran) and Dark (Zerg). This series was played in the round-of-8 of the GSL Code S in South Korea.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-surprises-cure-in-the-gsl-code-s-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-surprises-cure-in-the-gsl-code-s-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=_a-eUwDqXUc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_a-eUwDqXUc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_a-eUwDqXUc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-08-10T18:48:58Z"
     },
     {
       "path": "_games/lowkotv-pro-zerg-makes-protoss-look-overpowered-starcraft-2.md",
@@ -640,6 +678,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-09-18T11:03:09Z"
+    },
+    {
+      "path": "_games/lowkotv-reynor-vs-cure-the-ultimate-starcraft-2-showdown.md",
+      "title": "Reynor vs Cure: The ULTIMATE StarCraft 2 Showdown!",
+      "excerpt": "This video features the amazing performance of Reynor and Cure, two of the top SC2 players in the world, as they clash in a series of intense and exciting games. Witness their incredible micro, macro, and decision-making as they push each other to the limit. This is StarCraft 2 at its best! Support my",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-reynor-vs-cure-the-ultimate-starcraft-2-showdown/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-reynor-vs-cure-the-ultimate-starcraft-2-showdown/",
+      "originalUrl": "https://youtube.com/watch?v=tHasSQyjMWc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tHasSQyjMWc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M10S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tHasSQyjMWc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-07-17T09:46:07Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-100-drones-maru-vs-reynor.md",
@@ -986,83 +1062,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2019-03-01T13:09:18Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-a-symphony-of-zerg-rogue-vs-zoun.md",
-      "title": "StarCraft 2: A Symphony of ZERG! (Rogue vs Zoun)",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 between Rogue and Zoun.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-a-symphony-of-zerg-rogue-vs-zoun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-a-symphony-of-zerg-rogue-vs-zoun/",
-      "originalUrl": "https://youtube.com/watch?v=22xNrXWRNIw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/22xNrXWRNIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT59M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/22xNrXWRNIw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2021-08-16T10:53:32Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-aggressive-zerg-swarms-ty-vs-armani.md",
-      "title": "StarCraft 2: AGGRESSIVE ZERG SWARMS! (TY vs Armani)",
-      "excerpt": "Awesome best-of-3 series of professional StarCraft 2 between TY and Armani. While I've casted quite a far TY games at this point, Armani is a name that many people are not as familiar with. He plays a macro focused style but plays very aggressively once he maxes out on Drones. A very cool series with",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-aggressive-zerg-swarms-ty-vs-armani/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-aggressive-zerg-swarms-ty-vs-armani/",
-      "originalUrl": "https://youtube.com/watch?v=R-ruEnZG_VU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R-ruEnZG_VU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/R-ruEnZG_VU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2020-07-08T11:26:49Z"
     }
   ],
   "nextPage": 8

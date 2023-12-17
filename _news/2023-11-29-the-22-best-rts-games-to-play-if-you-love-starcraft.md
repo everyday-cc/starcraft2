@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Stormgate Is a Very StarCraft-y RTS Made By Ex-StarCraft Developers"
-excerpt: "The Infernal Host is the kind of RTS faction that takes some getting used to, in contrast to the more standard Vanguard. But it really is a riot once you get the hang of it, with battles that look hopeless to a newcomer turning into a clean sweep as the ground is replaced with Fiends and your enemy winds up completely inundated by death."
-publishedDateTime: 2023-11-29T16:35:00Z
-originalUrl: "https://www.ign.com/articles/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers"
-webUrl: "https://www.ign.com/articles/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers"
+title: "The 22 Best RTS Games To Play If You Love Starcraft"
+excerpt: "Many fans will be itching for a similar game to Starcraft to play with no new sequel in sight. Here are the best games to scratch that itch. StarCraft is a highly acclaimed RTS game, with the ..."
+publishedDateTime: 2023-11-28T22:46:00Z
+originalUrl: "https://gamerant.com/best-rts-games-like-starcraft/"
+webUrl: "https://gamerant.com/best-rts-games-like-starcraft/"
 type: article
 quality: 77
 heat: -1
 published: false
 
 provider:
-  name: IGN
-  domain: ign.com
+  name: Game Rant
+  domain: gamerant.com
   images:
-    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/gamerant.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,9 +22,9 @@ topics:
   - StarCraft 2
 
 images:
-  - url: "https://assets-prd.ignimgs.com/2023/11/29/stormgate-blogroll-1701220624610.jpg?width=1280"
-    width: 1280
-    height: 720
+  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/the-20-best-rts-games-to-play-if-you-love-starcraft.jpg"
+    width: 1800
+    height: 900
     isCached: true
 
 related:
@@ -42,19 +42,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The 22 Best RTS Games To Play If You Love Starcraft"
-    excerpt: "Many fans will be itching for a similar game to Starcraft to play with no new sequel in sight. Here are the best games to scratch that itch. StarCraft is a highly acclaimed RTS game, with the ..."
-    publishedDateTime: 2023-11-28T22:46:00Z
-    webUrl: "https://gamerant.com/best-rts-games-like-starcraft/"
+  - title: "Stormgate Is a Very StarCraft-y RTS Made By Ex-StarCraft Developers"
+    excerpt: "The Infernal Host is the kind of RTS faction that takes some getting used to, in contrast to the more standard Vanguard. But it really is a riot once you get the hang of it, with battles that look hopeless to a newcomer turning into a clean sweep as the ground is replaced with Fiends and your enemy winds up completely inundated by death."
+    publishedDateTime: 2023-11-29T16:35:00Z
+    webUrl: "https://www.ign.com/articles/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers"
     type: article
     provider:
-      name: Game Rant
-      domain: gamerant.com
+      name: IGN
+      domain: ign.com
     quality: 77
     images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/the-20-best-rts-games-to-play-if-you-love-starcraft.jpg"
-        width: 1800
-        height: 900
+      - url: "https://assets-prd.ignimgs.com/2023/11/29/stormgate-blogroll-1701220624610.jpg?width=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "'We didn't set out to recruit a Hollywood cast': Marvel star Simu Liu's love of StarCraft led to a big role in upcoming RTS Stormgate"
     excerpt: "Stormgate is an upcoming real-time strategy game from a company with a great RTS development pedigree going back to StarCraft, but not one you'd necessarily expect to attract big Hollywood actors."
@@ -136,6 +136,6 @@ related:
       domain: arstechnica.com
     quality: 17
 
-secured: "TZuXBBOn+csAeZFA4F5QLWv6tOVXMCjrEXgMtWiEfN3KyLJOAS5fqcmlVn8JWqwkVVHUXUIsYP0evWo+nkxv6ycfeO8qqybpYletlvoenQN8wDr/nOFZG+SapFtb7yLuYcPpigCGqVItRB0v7Ps2zuCXRXXS8KmRh0DL5WB7KkcRqqhnQPODYH34IuhRfOJ2pZQC+PGSscKmK+rrcT01UnMB9ik6nhbzX0m6E0E1iCmDgt1/eFR6WEffb2BQ9WBJ46O4NPDPP1cgQSwe4Ktn+uZJzLp13rWCzcu8IPyksZjHW3NXzV8CugHtvQgohxrL04xvJgloTEWkTA7sp4GPeWfh76W9GlBBfg59hekkbrRcj7xtvVjjjnASTU8LvIdRtBd0SWHmPipGOGIq/WCmiQcOAuxhMUA8Z7M9HNpGFVXrJ2Zmu6pqqrSNrk2Rcuw2URr0AagQf0RsHtfNfTW+zrgsChvz9h7KxngRHMJO0t1SBlkdBr3AWqWgJ3kQcVss19r1ufTXIt5ln0n85tzwQQ==;Sj5Mmu85OrF78XcEWrkMJQ=="
+secured: "0RKpokIw6Z7n7pb/Clb7uKSx6dn0UEU/33WKykqDJ5cQ1D7+hNO3yy4Y3/j8pEt5/54WaB4ZCo8xY8lf2KLIOeNGpZkkWQYtYjAAh+C7IaTlUWtSFmv+RCM6+kHOUPbK2iTosgvjVFkce3St3HD5OaECpplwf1VK9DiIHr43VvkZOkgFeXX2E2Xd8hWkXtAHy315NS6TlGYUjzfZP0GoxLM6pVIzrbFpgBNxFK/AzTwgUC9gTEjj+7tc+k/bhSptoOG6wvNdfelinUjvlbFIRHhQmU8v+SJ7yHAF7XyRtetMb+hIrozbDbhTtCVovHhpe60g6+01Eq3Y55nzXmZLgS5RP9GQZbFouX26N67KtRU=;V889Ork89EPtiXGk1c/Mkw=="
 ---
 

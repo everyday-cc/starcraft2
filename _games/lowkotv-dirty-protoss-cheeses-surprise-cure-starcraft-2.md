@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=LaFwQLyDm8k
 type: video
 length: PT33M53S
 publishedDateTime: 2023-11-13T12:51:40Z
-heat: 68
+heat: 77
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LaFwQLyDm8k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "tEQsjICfuqh4G1foPp7rvsJz5zBjUW0Hw2UVwmbLKT3BZZUelgcVEJAhlluI1CUY9YI/Hay2OSNOr2gwRbgHOBQ6trEbGPRQE99yjOc8gH9sheJvD6NRjx1ZXYMAeCPY/XoqnReo8s18QYoBY5utfISEdCNXmCzA6fpwiIcaAOV2ZIDY0/ARTcymqCu1LSd7vlef4VXaBM9mx3l6CJ5pt/Z57ZztD4BjEEo/0cXgqnOgv+AIYajG2lMZufZksetBK3/mu5hhXIs9CPqvGQhnkOQlpBHu8T/obeZ+1fZk2slkNA5Prx6DDpc9NbKbFCm6ddiYCQGiClzy3hHYwH0h7knadfrhNJJ00gIsPHDtGerTUp120YTCADtWBgyEGIUoeBC+U0PLXzIF6W6AThaQzfwqZifrhVxe+B3KRfvDljU=;zdGK/g5qKfzlPlmARPFMEA=="
+secured: "/AZTV/qCp3MqbvuBIz/CHlJw20xLSUxzCJ/HaC00TacjBVyO9kPmC+sxq/W8eNEtTStMEr58l3a1msO0ns22RSqp6BBCLLctLInxmHoYrHve0SZFADwbP9nlzncOw9q+4+Ox6jGSGlKUulmiMwy1SQCkiQo+RcLuRl+U/d+Gez77mbcHBTeuh6QKXGRUIXhP2ZyufIv6AD6Hp6BrxYFGmzFqGoOIaw5252NGSQhJO+WrsWr4+C0kI4nyl92FHdDfkTgeDPs0zoLmaocDJ8oARdHH8r5a9KUsFTxAH/eCOrSSuRpUOWhrZ+HuqfHTNR7B/gyYo3gdm8AzdIqwRDjauQtHaezd7clGclUglrPVKuqOeBLF3ojsFbiTk6RKGk+1+p1jWI/SkuBD9N1AOEK9wx0Q37WSocLVzJu6VywQo5A=;FOqRJRFpkF1kuGSE1x64bg=="
 ---
 

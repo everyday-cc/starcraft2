@@ -126,6 +126,29 @@ related:
         width: 1800
         height: 900
         isCached: true
+  - title: "\"Banjo fans, I hear you,\" Xbox offers a roadmap for getting new Banjo Kazooie, StarCraft, and other classic Microsoft-owned games"
+    excerpt: "What makes Microsoft different? And what does that mean for classic games like Banjo-Kazooie, StarCraft, and more? Well, we recently got the opportunity to ask the head of Xbox himself."
+    publishedDateTime: 2023-12-04T00:00:00Z
+    webUrl: "https://www.windowscentral.com/gaming/xbox-offers-a-roadmap-for-getting-new-banjo-kazooie-starcraft-and-other-classic-microsoft-owned-games"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 25
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/wemQJGaBAHrCsa3vuHbisV-1200-80.jpg"
+        width: 1110
+        height: 624
+        isCached: true
+  - title: "2024 Starcraft RX 23 R DC"
+    excerpt: "Starcraft’s RX 23 is part of its new flagship pontoon series, pampering family buyers with plush furniture and performance. Rather than traditional aluminum panels or molded fiberglass, Starcraft debuts industry-first acrylic-capped ABS plastic panels ..."
+    publishedDateTime: 2023-12-15T00:00:00Z
+    webUrl: "https://www.boatingmag.com/boats/2024-starcraft-rx-23-r-dc-bbg/"
+    type: article
+    provider:
+      name: Boating
+      domain: boatingmag.com
+    quality: 17
   - title: "Stormgate: Not StarCraft 3 but the next best thing?"
     excerpt: "Developed by a team of veteran devs who made up a substantial part of the StarCraft II team, Stormgate is a 2024 real-time strategy (RTS) game, featuring \"next generation\" 1v1 competition alongside a single-player campaign with \"additional chapters ..."
     publishedDateTime: 2023-12-15T00:00:00Z

@@ -1,26 +1,27 @@
 ---
 category: news
-title: "First Success of New Game From StarCraft 2 Devs; Stormgate Raises Millions"
-excerpt: "It looks like the developers from Frost Giant Studios don't need to fear for the popularity of their game. After all, it only took 15 minutes for Stormgate to reach its goal on Kickstarter."
-publishedDateTime: 2023-12-07T21:25:00Z
-originalUrl: "https://www.gamepressure.com/newsroom/stormgate-raises-millions/z06550"
-webUrl: "https://www.gamepressure.com/newsroom/stormgate-raises-millions/z06550"
+title: "\"Banjo fans, I hear you,\" Xbox offers a roadmap for getting new Banjo Kazooie, StarCraft, and other classic Microsoft-owned games"
+excerpt: "What makes Microsoft different? And what does that mean for classic games like Banjo-Kazooie, StarCraft, and more? Well, we recently got the opportunity to ask the head of Xbox himself."
+publishedDateTime: 2023-12-04T00:00:00Z
+originalUrl: "https://www.windowscentral.com/gaming/xbox-offers-a-roadmap-for-getting-new-banjo-kazooie-starcraft-and-other-classic-microsoft-owned-games"
+webUrl: "https://www.windowscentral.com/gaming/xbox-offers-a-roadmap-for-getting-new-banjo-kazooie-starcraft-and-other-classic-microsoft-owned-games"
 type: article
-quality: 35
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: XCOM 2 Game Guide
-  domain: gamepressure.com
+  name: Windows Central
+  domain: windowscentral.com
 
 topics:
   - StarCraft 2
+  - Protoss
 
 images:
-  - url: "https://cdn.gracza.pl/i_gp/h/22/439663892.jpg"
-    width: 1280
-    height: 720
+  - url: "https://cdn.mos.cms.futurecdn.net/wemQJGaBAHrCsa3vuHbisV-1200-80.jpg"
+    width: 1110
+    height: 624
     isCached: true
 
 related:
@@ -94,6 +95,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "First Success of New Game From StarCraft 2 Devs; Stormgate Raises Millions"
+    excerpt: "It looks like the developers from Frost Giant Studios don't need to fear for the popularity of their game. After all, it only took 15 minutes for Stormgate to reach its goal on Kickstarter."
+    publishedDateTime: 2023-12-07T21:25:00Z
+    webUrl: "https://www.gamepressure.com/newsroom/stormgate-raises-millions/z06550"
+    type: article
+    provider:
+      name: XCOM 2 Game Guide
+      domain: gamepressure.com
+    quality: 35
+    images:
+      - url: "https://cdn.gracza.pl/i_gp/h/22/439663892.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Starcraft Spiritual Successor Stormgate Achieves Kickstarter Goal in 15 Minutes"
     excerpt: "Frost Giant Studios launched today a Kickstarter crowdfunding campaign for its upcoming RTS game Stormgate. It was fully funded in 15 Minutes."
     publishedDateTime: 2023-12-05T20:31:00Z
@@ -122,20 +137,6 @@ related:
         width: 1800
         height: 900
         isCached: true
-  - title: "\"Banjo fans, I hear you,\" Xbox offers a roadmap for getting new Banjo Kazooie, StarCraft, and other classic Microsoft-owned games"
-    excerpt: "What makes Microsoft different? And what does that mean for classic games like Banjo-Kazooie, StarCraft, and more? Well, we recently got the opportunity to ask the head of Xbox himself."
-    publishedDateTime: 2023-12-04T00:00:00Z
-    webUrl: "https://www.windowscentral.com/gaming/xbox-offers-a-roadmap-for-getting-new-banjo-kazooie-starcraft-and-other-classic-microsoft-owned-games"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 25
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/wemQJGaBAHrCsa3vuHbisV-1200-80.jpg"
-        width: 1110
-        height: 624
-        isCached: true
   - title: "2024 Starcraft RX 23 R DC"
     excerpt: "Starcraft’s RX 23 is part of its new flagship pontoon series, pampering family buyers with plush furniture and performance. Rather than traditional aluminum panels or molded fiberglass, Starcraft debuts industry-first acrylic-capped ABS plastic panels ..."
     publishedDateTime: 2023-12-15T00:00:00Z
@@ -155,6 +156,6 @@ related:
       domain: arstechnica.com
     quality: 17
 
-secured: "sGpOXd5PeNP8NIhVHXY6Tc+VepKWAv0v6E5dVt0eoMDwzGiuEMwEKF2KWkAexyKxYFhn7wkGBk+fGugLkrjIvRB2vMMAbfDADynWUE+CLk1R4ncO3LjbDn7lxIIk1iatXzP1D6YWqJ3w3t/KA7+nPZBBfBFbFvzG0HrzhpWVWjVMHoyySR80rNYBbhHzfpuXZ0NnsUnlD77t3xHSNBp6lWXwA9FdRVvw6Fb/XKtA94zdTPEo8HHs2FfWynfRcqdZRCbYzewSgspNWErCnPQJnQ5AOr5v6DzNB0LO8zgiG8w0EMsWKIFva+lXbEcKulEIvlD8X61pSSFnpDIbvjXZJXwfHp7yvmxFkdyI+K77ufc=;Cbk+7MANrpE3r7cXit54Iw=="
+secured: "lP+RX8UYDRteG5OySp1cAb0lMVRNsQaAXh0ncwIAJZyL37OWDiat2YGgbd/9fkCNid5ExD7QUY/amgFMldnbfvU6C+edkFSqx0OgoeCiS3Jzc4Gmx8uBl48tUVbSydv3EjtzOSXgjXpMmWncobIjXy8hhz/oz6+uRE+oLIW2UI6fCROjoGwZ62WqCHN8YvfvsyXeordGlEETNGyPwNLOudk/KfRbYolaW4g06sQG4Wb17ft6wwCUupwGXvt2JYc5QP1wYLnhuGoOk/gTZL/vYRQE0e6inZlHwf3cuvD/uWMvjr5KY0pM6M3txlmrUNEnszJ3L+8zdWmKHSVEGdtkzNb3WLi3wZAbfpmOlbS/6mc=;P8bbiOB5J33wsDEBx1Alhg=="
 ---
 

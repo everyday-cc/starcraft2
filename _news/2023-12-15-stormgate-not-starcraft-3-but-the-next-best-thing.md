@@ -134,6 +134,29 @@ related:
         width: 1800
         height: 900
         isCached: true
+  - title: "\"Banjo fans, I hear you,\" Xbox offers a roadmap for getting new Banjo Kazooie, StarCraft, and other classic Microsoft-owned games"
+    excerpt: "What makes Microsoft different? And what does that mean for classic games like Banjo-Kazooie, StarCraft, and more? Well, we recently got the opportunity to ask the head of Xbox himself."
+    publishedDateTime: 2023-12-04T00:00:00Z
+    webUrl: "https://www.windowscentral.com/gaming/xbox-offers-a-roadmap-for-getting-new-banjo-kazooie-starcraft-and-other-classic-microsoft-owned-games"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 25
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/wemQJGaBAHrCsa3vuHbisV-1200-80.jpg"
+        width: 1110
+        height: 624
+        isCached: true
+  - title: "2024 Starcraft RX 23 R DC"
+    excerpt: "Starcraft’s RX 23 is part of its new flagship pontoon series, pampering family buyers with plush furniture and performance. Rather than traditional aluminum panels or molded fiberglass, Starcraft debuts industry-first acrylic-capped ABS plastic panels ..."
+    publishedDateTime: 2023-12-15T00:00:00Z
+    webUrl: "https://www.boatingmag.com/boats/2024-starcraft-rx-23-r-dc-bbg/"
+    type: article
+    provider:
+      name: Boating
+      domain: boatingmag.com
+    quality: 17
 
 secured: "SyjScm1QAnilCn2ln3HuAs8myRzh9GXeAJfxNuQ2Ci6i1a4TEvJwPWqlSBOcIIGVH/hEuEBQ4HpmqsGpFnrIaa7WXwWh1Iaj9UpV0SgpLASLxDN2dUxz6zcKIid43h6m37/QdIK/wJ1pXjUlbIBvDzy3o7gC7l+A1JamlxS8MGqcrCwnkmrtop4GY0KN9klLLWAIg8bSB/qJ4KE1YIO4xMFOzsBIVDrFc7V9TQKrVFcPib2tWFatQZOPkGmIPthpHeiChUQvPTWD4lpo/O/IrzqU5bRgDJUVT6kx6NNs/bVO0qlC+EZFLTREOjX0lIXg36c273iLROr46S+59+I54MvHu/bo2b2t4bvQar3HmpY=;Sa9EUU7Mel1Bp1ioVPTRZQ=="
 ---

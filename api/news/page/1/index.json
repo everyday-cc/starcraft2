@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-30-stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers.md",
+      "title": "Stormgate Is a Very StarCraft-y RTS Made By Ex-StarCraft Developers",
+      "excerpt": "The Infernal Host is the kind of RTS faction that takes some getting used to, in contrast to the more standard Vanguard. But it really is a riot once you get the hang of it, with battles that look hopeless to a newcomer turning into a clean sweep as the ground is replaced with Fiends and your enemy winds up completely inundated by death.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ign.com/articles/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers",
+      "originalUrl": "https://www.ign.com/articles/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 237,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2023/11/29/stormgate-blogroll-1701220624610.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T16:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers.md",
       "title": "Stormgate Is a Very StarCraft-y RTS Made By Ex-StarCraft Developers",
       "excerpt": "Stormgate is a very StarCraft-y RTS made by a number of ex-StarCraft developers. We went hands-on with the Zerg-like Infernal Host faction in our exclusive new preview.",
@@ -1124,57 +1175,6 @@
         "name": "Shacknews",
         "domain": "shacknews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-phil-spencer-excited-at-the-idea-of-more-starcraft.md",
-      "title": "Phil Spencer 'excited' at the idea of more StarCraft",
-      "excerpt": "One of those may possibly be beloved RTS StarCraft, something which Spencer seems pretty excited about. The Xbox boss sat down with Wired to talk about Age of Empire's 25th anniversary, and the series' foray onto console—which has also meant controller ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/phil-spencer-excited-at-the-idea-of-more-starcraft/",
-      "originalUrl": "https://www.pcgamer.com/phil-spencer-excited-at-the-idea-of-more-starcraft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/2kepUFtQ2fW2LpF5WhYmdG-1200-80.jpg",
-          "width": 925,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T13:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

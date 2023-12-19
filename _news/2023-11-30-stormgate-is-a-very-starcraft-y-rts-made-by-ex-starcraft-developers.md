@@ -7,8 +7,8 @@ originalUrl: "https://www.ign.com/articles/stormgate-is-a-very-starcraft-y-rts-m
 webUrl: "https://www.ign.com/articles/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 237
+published: true
 
 provider:
   name: IGN
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stormgate Is a Very StarCraft-y RTS Made By Ex-StarCraft Developers"
-    excerpt: "Stormgate is a very StarCraft-y RTS made by a number of ex-StarCraft developers. We went hands-on with the Zerg-like Infernal Host faction in our exclusive new preview."
-    publishedDateTime: 2023-11-29T15:00:00Z
-    webUrl: "https://za.ign.com/frost-giant-studios-project/186757/video/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 77
-    images:
-      - url: "https://sm.ign.com/t/ign_za/video/s/stormgate-/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-dev_ydtm.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "'We didn't set out to recruit a Hollywood cast': Marvel star Simu Liu's love of StarCraft led to a big role in upcoming RTS Stormgate"
     excerpt: "Stormgate is an upcoming real-time strategy game from a company with a great RTS development pedigree going back to StarCraft, but not one you'd necessarily expect to attract big Hollywood actors."
     publishedDateTime: 2023-12-08T00:00:00Z

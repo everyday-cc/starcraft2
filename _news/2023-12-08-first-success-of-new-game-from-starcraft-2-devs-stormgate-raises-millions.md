@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stormgate Is a Very StarCraft-y RTS Made By Ex-StarCraft Developers"
-    excerpt: "The Infernal Host is the kind of RTS faction that takes some getting used to, in contrast to the more standard Vanguard. But it really is a riot once you get the hang of it, with battles that look hopeless to a newcomer turning into a clean sweep as the ground is replaced with Fiends and your enemy winds up completely inundated by death."
-    publishedDateTime: 2023-11-29T16:35:00Z
-    webUrl: "https://www.ign.com/articles/stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 77
-    images:
-      - url: "https://assets-prd.ignimgs.com/2023/11/29/stormgate-blogroll-1701220624610.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "'We didn't set out to recruit a Hollywood cast': Marvel star Simu Liu's love of StarCraft led to a big role in upcoming RTS Stormgate"
     excerpt: "Stormgate is an upcoming real-time strategy game from a company with a great RTS development pedigree going back to StarCraft, but not one you'd necessarily expect to attract big Hollywood actors."
     publishedDateTime: 2023-12-08T00:00:00Z
@@ -79,34 +65,6 @@ related:
       - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2023-12/stormgate-kickstarter.jpg?itok=ereTpG6X"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Starcraft's 2024 Autumn Ridge Lineup May Be the Cheapest Family-Friendly Travel Trailers"
-    excerpt: "Let's face it; most of us don't have tens of thousands of dollars to spend on a travel trailer, and funny enough, America's Starcraft RV"
-    publishedDateTime: 2023-12-04T23:36:00Z
-    webUrl: "https://www.autoevolution.com/news/the-2024-autumn-ridge-lineup-is-the-cheapest-bunch-of-family-friendly-travel-trailers-225569.html"
-    type: article
-    provider:
-      name: autoevolution
-      domain: autoevolution.com
-    quality: 28
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/starcraft-s-hot-2024-autumn-ridge-lineup-has-the-cheapest-family-travel-trailers-ever-225569_1.jpg"
-        width: 1800
-        height: 900
-        isCached: true
-  - title: "\"Banjo fans, I hear you,\" Xbox offers a roadmap for getting new Banjo Kazooie, StarCraft, and other classic Microsoft-owned games"
-    excerpt: "What makes Microsoft different? And what does that mean for classic games like Banjo-Kazooie, StarCraft, and more? Well, we recently got the opportunity to ask the head of Xbox himself."
-    publishedDateTime: 2023-12-04T00:00:00Z
-    webUrl: "https://www.windowscentral.com/gaming/xbox-offers-a-roadmap-for-getting-new-banjo-kazooie-starcraft-and-other-classic-microsoft-owned-games"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 25
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/wemQJGaBAHrCsa3vuHbisV-1200-80.jpg"
-        width: 1110
-        height: 624
         isCached: true
   - title: "2024 Starcraft RX 23 R DC"
     excerpt: "Starcraft’s RX 23 is part of its new flagship pontoon series, pampering family buyers with plush furniture and performance. Rather than traditional aluminum panels or molded fiberglass, Starcraft debuts industry-first acrylic-capped ABS plastic panels ..."

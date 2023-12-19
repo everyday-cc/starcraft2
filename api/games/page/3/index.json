@@ -62,6 +62,45 @@
       "publishedDateTime": "2022-02-11T01:37:20Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-ksl-finals-hero-cannon-rushes-dark-best-of-5.md",
+      "title": "StarCraft 2: KSL FINALS - herO Cannon Rushes Dark! (Best-of-5)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between herO and Dark. This Protoss versus Zerg is one of the most chaotic games of SC2 I've recently seen. These pro gamers are team mates, friends and practice partners and it clearly shows. This series is the finals of the Korean StarCraft League, the KSL.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-ksl-finals-hero-cannon-rushes-dark-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-ksl-finals-hero-cannon-rushes-dark-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=6m66Xw5RuK0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6m66Xw5RuK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H10M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 139,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6m66Xw5RuK0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-09-20T10:32:23Z"
+    },
+    {
       "path": "_games/pig-how-to-win-without-killing-a-single-worker-icyfar-rules-of-engagement-compilation-starcraft-2.md",
       "title": "How to Win WITHOUT Killing A Single Worker | ICYFAR \"Rules of Engagement\" Compilation - StarCraft 2",
       "excerpt": "🔥NEW ICYFAR CHALLENGE: Halloween - Use invisible, cloaked and burrowed units to scare your opponent out of the game! Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 30th October  0:00 Game 1: Widow Mines vs the",
@@ -157,6 +196,43 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-11-22T11:35:41Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-scion-custom-races-tournament-xayid-vs-keiron.md",
+      "title": "StarCraft 2: Scion CUSTOM RACES Tournament - Xayid vs Keiron!",
+      "excerpt": "Best-of-3 series of StarCraft 2 played in the Scion Custom Races Mod. In this match between eGGz and You the players play the custom made factions Xayid and Keiron. This series was played as part of the Scion cup, a tournament where players had to play one of the fan made modded races. Support my work:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scion-custom-races-tournament-xayid-vs-keiron/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scion-custom-races-tournament-xayid-vs-keiron/",
+      "originalUrl": "https://youtube.com/watch?v=98IF1UeIehI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/98IF1UeIehI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT55M8S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/98IF1UeIehI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgVShlMA8=&rs=AOn4CLCNQcjJhUE3o2kpO8a2ySPfWIvQng",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-10-24T10:14:17Z"
     },
     {
       "path": "_games/pig-when-winning-means-makes-you-a-devil-worshipper-salt-mines-31-starcraft-2.md",
@@ -420,44 +496,6 @@
       "publishedDateTime": "2023-01-19T02:34:08Z"
     },
     {
-      "path": "_games/lowkotv-dark-refuses-to-play-the-new-banelings-starcraft-2.md",
-      "title": "Dark REFUSES to play the NEW Banelings?! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between Dark (Zerg) and Astrea (Protoss). This series features the new Mothership, albeit for only a very short amount of time. SC2 match is from the Korean StarCraft League. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-refuses-to-play-the-new-banelings-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-refuses-to-play-the-new-banelings-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=RxvEB-CBQxw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RxvEB-CBQxw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M41S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 113,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RxvEB-CBQxw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-10-03T12:11:45Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-grand-finals-serral-vs-clem-best-of-7.md",
       "title": "StarCraft 2: GRAND FINALS - Serral vs Clem! (Best-of-7)",
       "excerpt": "Serral versus Clem in a best-of-7 series of top level StarCraft 2. This match is the Grand Finals of the ESL SC2 Masters 2023 Winter: European Regionals and displays some of the best SC2 in the world. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
@@ -494,45 +532,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-11-21T11:58:57Z"
-    },
-    {
-      "path": "_games/lowkotv-darks-desperate-all-ins-vs-gumiho-starcraft-2.md",
-      "title": "Dark's DESPERATE All-Ins vs GuMiho! (StarCraft 2)",
-      "excerpt": "Best-of-3 series in the new StarCraft 2 multiplayer balance on the new maps. In this match from the Korean StarCraft League GuMiho is facing off against Dark. New SC2 Patch: https://youtu.be/aqg_0JVw8HU Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-darks-desperate-all-ins-vs-gumiho-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-darks-desperate-all-ins-vs-gumiho-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=r-UvAyIthOc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r-UvAyIthOc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/r-UvAyIthOc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgVShyMA8=&rs=AOn4CLA_4sShXjErG0dFSEsrVnshD7Gk_w",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-09-30T11:06:14Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The 22 Best RTS Games To Play If You Love Starcraft"
-    excerpt: "Many fans will be itching for a similar game to Starcraft to play with no new sequel in sight. Here are the best games to scratch that itch. StarCraft is a highly acclaimed RTS game, with the ..."
-    publishedDateTime: 2023-11-28T22:46:00Z
-    webUrl: "https://gamerant.com/best-rts-games-like-starcraft/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 77
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/the-20-best-rts-games-to-play-if-you-love-starcraft.jpg"
-        width: 1800
-        height: 900
-        isCached: true
   - title: "'We didn't set out to recruit a Hollywood cast': Marvel star Simu Liu's love of StarCraft led to a big role in upcoming RTS Stormgate"
     excerpt: "Stormgate is an upcoming real-time strategy game from a company with a great RTS development pedigree going back to StarCraft, but not one you'd necessarily expect to attract big Hollywood actors."
     publishedDateTime: 2023-12-08T00:00:00Z

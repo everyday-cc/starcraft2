@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The 22 Best RTS Games To Play If You Love Starcraft"
-    excerpt: "Many fans will be itching for a similar game to Starcraft to play with no new sequel in sight. Here are the best games to scratch that itch. StarCraft is a highly acclaimed RTS game, with the ..."
-    publishedDateTime: 2023-11-28T22:46:00Z
-    webUrl: "https://gamerant.com/best-rts-games-like-starcraft/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 77
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/the-20-best-rts-games-to-play-if-you-love-starcraft.jpg"
-        width: 1800
-        height: 900
-        isCached: true
   - title: "Stormgate Is a Very StarCraft-y RTS Made By Ex-StarCraft Developers"
     excerpt: "The Infernal Host is the kind of RTS faction that takes some getting used to, in contrast to the more standard Vanguard. But it really is a riot once you get the hang of it, with battles that look hopeless to a newcomer turning into a clean sweep as the ground is replaced with Fiends and your enemy winds up completely inundated by death."
     publishedDateTime: 2023-11-29T16:35:00Z

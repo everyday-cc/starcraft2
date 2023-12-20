@@ -2,7 +2,7 @@
 title: "The Florencio Files"
 excerpt: "Welcome to this mystical StarCraft 2 playlist, the one-and-only™ documented archives of the legendary SEWER MERMAID!"
 type: collection
-heat: 62
+heat: 61
 
 provider:
   name: PiG
@@ -296,6 +296,7 @@ items:
   - pig-florencios-sneakiest-probe-of-all-time-florencio-files-285-starcraft-2
   - pig-flo-mentally-destroys-zerg-with-incredible-nuke-florencio-files-286-starcraft-2
   - pig-florencio-excretes-the-sewer-mothership-florencio-files-287-starcraft-2
+  - pig-florencio-strategically-mass-pees-on-the-nexus-florencio-files-288-starcraft-2
 
 topics:
   - StarCraft 2

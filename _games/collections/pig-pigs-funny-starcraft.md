@@ -1087,7 +1087,8 @@ items:
   - pig-these-ffa-gods-destroy-pro-players-in-beast-of-the-hill-starcraft-2
   - pig-beat-this-salty-guy-and-hell-invade-your-home-salt-mines-48-starcraft-2
   - pig-he-got-so-mad-he-doxed-himself-salt-mines-49-starcraft-2
-  - pig-florencio-strategically-mass-pees-on-the-nexus-florencio-files-288-starcraft-2
+  - pig-florencio-mass-pees-on-the-nexus-strategically-florencio-files-288-starcraft-2
+  - pig-how-did-he-make-this-salty-terran-so-mad-so-fast-salt-mines-50-starcraft-2
 
 topics:
   - StarCraft 2

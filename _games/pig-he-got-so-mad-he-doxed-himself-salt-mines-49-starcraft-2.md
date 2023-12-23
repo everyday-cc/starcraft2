@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/pig-he-got-so-mad-he-doxed-himself-s
 type: video
 length: PT27M32S
 publishedDateTime: 2023-12-11T14:30:36Z
-heat: 97
+heat: 105
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RhQe8vG_wVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "scHVOMdHhxwNPhcDBfaQhFjsd5MJ/qfIT7uU+BQUZdzuBxm3HxYC9pvC4pJgyMpENiEC17wiPj6+JTbZRAi2tAmd7yahflKydSaOlyKdopzUkQ+o6142ku3kVx0DcKuIWf9bSKDpodawqbPcac95w98LxcTcBIcsnrDh+agsXfyiU8kKEccdiSdDZvyBuBTh7GtyJ/GdNVB0poiKPMuaJV9TrM4hwc3cvlteRZJ8fIjtJ/qMWv30Z0tJV/sh/y3Rm9MDs//IBNlK7nGHA+h18ch2jxUaHXDkPj73Lf9LKr/e0FRzzf+3kuxkdojIzn2dCRB2dZsx/BZS+spPrr2PsHCiBcxgVczN+seIW/ED2G9JHozaHLsYJFsBcz75HMebk7d7JdIexnHip3XDovHdfSs304k13efDuDnC9lM5s14=;BBAQ8SVErE/fGfvE9kyVVw=="
+secured: "vKZOJqRliKZFi8HUrVBHJVrvvX/GBBhTNSzfvJQR1hcS4uJxSsp70M2x5B3f2hIk/bYlkisJe20yoV1FkP2NAMwhlh+ydsZBjDi8ZvfVBQHP/J5YDfNf4bv66fK5Dka49gZKdxv/ODYK8dQfFHeFdekGf7KabKIfPWEMx69ZIIW7f/Fc96gTQuGYaKEK1Dk51wVl10lFa3n3Ho/snUZFGaarFhVtPlcPMNSf8GFsiAlNLvqb3qPZ98NOQT+MfgzbADiD2jxJ2jrLtHS/TNN7Kv484JvtlWhKps8st436jwLrOt5tOI93whAET57cdqU9EK8bTHyeZ6WuXjeU1gk/vmv5AhL3V3zBwckxA3umObqG2JuEPSolevWr9o8276skJdLuuxsVxFHJ14cQh99cOcc7DmidyVpOFEfXN3qO1Us=;bQLAWTOZarRfVZISssTZ5w=="
 ---
 

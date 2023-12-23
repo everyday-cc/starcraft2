@@ -4,6 +4,45 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-scarlett-gets-mothership-rushed.md",
+      "title": "StarCraft 2: Scarlett gets MOTHERSHIP Rushed!",
+      "excerpt": "Best-of-2 series of StarCraft 2 from the World Team League (WTL) between Scarlett (Zerg) and Goblin (Protoss) Serral vs Maru: https://youtu.be/6NJKJ0c5coM Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scarlett-gets-mothership-rushed/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarlett-gets-mothership-rushed/",
+      "originalUrl": "https://youtube.com/watch?v=9vkZmNBD8ME",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9vkZmNBD8ME\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M6S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9vkZmNBD8ME/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-18T11:54:45Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-innovation.md",
       "title": "StarCraft 2: Serral vs INnoVation!",
       "excerpt": "Who is the greatest StarCraft 2 player of all time? In the beginning of this game between Serral and INnoVation I discuss the players that are in my opinion up for the title of being the Greatest Of All Time.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community",
@@ -464,44 +503,6 @@
       "publishedDateTime": "2023-08-09T17:25:12Z"
     },
     {
-      "path": "_games/lowkotv-the-new-rank-1-korean-zerg-starcraft-2.md",
-      "title": "The NEW Rank #1 Korean Zerg! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between Solar (Zerg) and herO (Protoss). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko Twitch livestream: https://twitch.tv/lowkotv Live most",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-the-new-rank-1-korean-zerg-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-the-new-rank-1-korean-zerg-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=w-oDRDFZXaQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/w-oDRDFZXaQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M45S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/w-oDRDFZXaQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-11-11T10:53:19Z"
-    },
-    {
       "path": "_games/lowkotv-uthermals-dirty-cheeses-vs-serral-showtime-starcraft-2.md",
       "title": "uThermal's Dirty Cheeses vs SERRAL & SHOWTIME! (StarCraft 2)",
       "excerpt": "Two best-of-3 series of high level StarCraft 2 from HomeStory Cup. In this video uThermal faces off against both ShoWTimE as well as Serral with some very dirty Terran all-ins. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  00:00 uThermal vs ShoWTimE 13:34 uThermal vs Serral",
@@ -700,6 +701,45 @@
       ],
       "content": "",
       "type": "collection"
+    },
+    {
+      "path": "_games/lowkotv-dark-refuses-to-stop-cheesing-classic-starcraft-2.md",
+      "title": "Dark REFUSES to stop cheesing Classic! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of the highest level of StarCraft 2. In these games Dark decides to play the most aggresive Zerg cheeses in all of SC2. Later in the series however, Classic decides to respond in kind with his own Protoss rush. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-refuses-to-stop-cheesing-classic-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-refuses-to-stop-cheesing-classic-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=mMUgq7r59eA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mMUgq7r59eA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M28S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mMUgq7r59eA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-14T11:05:49Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-blys-new-zerg-cheese-vs-lambo-best-of-3.md",
@@ -1223,36 +1263,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-07-06T23:49:13Z"
-    },
-    {
-      "path": "_games/pig-zerg-hater-has-angry-meltdown-cos-queens-exist-salt-mines-19-starcraft-2.md",
-      "title": "Zerg hater has angry MELTDOWN cos queens exist | Salt Mines #19 - StarCraft 2",
-      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-zerg-hater-has-angry-meltdown-cos-queens-exist-salt-mines-19-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-zerg-hater-has-angry-meltdown-cos-queens-exist-salt-mines-19-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=bkNNJFQo3zc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bkNNJFQo3zc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M14S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bkNNJFQo3zc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-10-31T03:56:59Z"
     }
   ],
   "nextPage": 4

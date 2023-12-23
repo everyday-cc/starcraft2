@@ -4,6 +4,45 @@
   "page": 34,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-crazy-zerg-cheeses-bly-vs-neeb.md",
+      "title": "StarCraft 2: CRAZY ZERG CHEESES! (Bly vs Neeb)",
+      "excerpt": "An awesome best-of-3 series between Bly and Neeb in StarCraft 2. In this Zerg versus Protoss we see Bly going for a variety of Zerg cheese and Zerg rushes, constantly trying to end the game by getting units on his opponent's side of the map as fast as possible. Especially the final game of this series",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-crazy-zerg-cheeses-bly-vs-neeb/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-crazy-zerg-cheeses-bly-vs-neeb/",
+      "originalUrl": "https://youtube.com/watch?v=l-l-EvdcG5U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l-l-EvdcG5U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/l-l-EvdcG5U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2020-05-07T10:15:21Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-crazy-zerg-strategies.md",
       "title": "StarCraft 2: CRAZY ZERG STRATEGIES!",
       "excerpt": "Bly vs uThermal in a wild game of Zerg vs Terran in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://youtu.be/RXG4YYnO5Qw  Bly scouts a Biological based army from uThermal in this match, but decides to go for quick Roaches, Ravagers and Tunneling Claws.",
@@ -1118,45 +1157,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-07-18T08:24:50Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-darks-strange-protoss-strategy-best-of-3.md",
-      "title": "StarCraft 2: Dark's STRANGE Protoss Strategy! (Best-of-3)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between Dark and Rikka. This match is a best-of-3 series and the quarter finals of the ESL Open Cup Korea 124. In these games Dark, who is one of the best Zergs in the world, decides to play Protoss.  Dark vs Scarlett: https://youtu.be/5tTMSsX3w7s  Support my work on Patreon:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-strange-protoss-strategy-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-strange-protoss-strategy-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=4vBHu-XSBXc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4vBHu-XSBXc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4vBHu-XSBXc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-12-22T12:57:49Z"
     }
   ],
   "nextPage": 35

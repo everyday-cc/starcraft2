@@ -340,14 +340,14 @@
       "publishedDateTime": "2023-05-06T08:32:37Z"
     },
     {
-      "path": "_games/lowkotv-dark-refuses-to-stop-cheesing-classic-starcraft-2.md",
-      "title": "Dark REFUSES to stop cheesing Classic! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of the highest level of StarCraft 2. In these games Dark decides to play the most aggresive Zerg cheeses in all of SC2. Later in the series however, Classic decides to respond in kind with his own Protoss rush. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-refuses-to-stop-cheesing-classic-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-refuses-to-stop-cheesing-classic-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=mMUgq7r59eA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mMUgq7r59eA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M28S",
+      "path": "_games/lowkotv-the-new-rank-1-korean-zerg-starcraft-2.md",
+      "title": "The NEW Rank #1 Korean Zerg! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Solar (Zerg) and herO (Protoss). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko Twitch livestream: https://twitch.tv/lowkotv Live most",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-the-new-rank-1-korean-zerg-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-the-new-rank-1-korean-zerg-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=w-oDRDFZXaQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/w-oDRDFZXaQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M45S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -362,13 +362,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
         "Zerg"
       ],
-      "heat": 119,
+      "heat": 120,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mMUgq7r59eA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/w-oDRDFZXaQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -376,7 +375,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-11-14T11:05:49Z"
+      "publishedDateTime": "2023-11-11T10:53:19Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
@@ -476,34 +475,26 @@
       "publishedDateTime": "2023-01-19T02:34:08Z"
     },
     {
-      "path": "_games/lowkotv-specials-100-cyclones-vs-elazer-starcraft-2.md",
-      "title": "SpeCial's 100+ CYCLONES vs Elazer! (StarCraft  2)",
-      "excerpt": "Best-of-5 series of high level StarCraft 2 on the new multiplayer balance patch with the brand-new SC2 maps! In this series between SpeCial (Terran) and Elazer (Zerg), both players try to make use of the new options that the new patch unlocked. SpeCial decides to play a variety of early game build orders",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-specials-100-cyclones-vs-elazer-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-specials-100-cyclones-vs-elazer-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=6g3GLsLbNl0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6g3GLsLbNl0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H19M22S",
+      "path": "_games/pig-cannon-rusher-pauses-game-to-take-a-dump-salt-mines-47-starcraft-2.md",
+      "title": "Cannon Rusher PAUSES GAME to take a DUMP? | Salt Mines #47 - StarCraft 2",
+      "excerpt": "I can't believe he thought he could get away with this!. Everyone has encountered a salty or BM opponent on the StarCraft ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-cannon-rusher-pauses-game-to-take-a-dump-salt-mines-47-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-cannon-rusher-pauses-game-to-take-a-dump-salt-mines-47-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=qTQqq90KR1Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qTQqq90KR1Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M48S",
       "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "PiG",
+        "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Protoss"
       ],
-      "heat": 113,
+      "heat": 117,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6g3GLsLbNl0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qTQqq90KR1Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -511,7 +502,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-10-03T10:08:09Z"
+      "publishedDateTime": "2023-11-13T11:47:37Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",

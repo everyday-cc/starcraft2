@@ -141,7 +141,7 @@
         "domain": "hushangcoaching.com"
       },
       "publishedDateTime": "2020-12-09T02:09:09Z",
-      "heat": 104,
+      "heat": 105,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/CupNHJotqmQ/maxresdefault.jpg",
@@ -172,7 +172,7 @@
         "domain": "hushangcoaching.com"
       },
       "publishedDateTime": "2020-10-09T23:03:01Z",
-      "heat": 90,
+      "heat": 91,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/X1g4O2PTOtQ/maxresdefault.jpg",
@@ -245,7 +245,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-07-30T01:26:51Z",
-          "heat": 62,
+          "heat": 63,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Tr1_8C6CjMQ/maxresdefault.jpg",
@@ -276,7 +276,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-08-03T06:48:57Z",
-          "heat": 54,
+          "heat": 53,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/9af29q6sMg4/maxresdefault.jpg",
@@ -307,7 +307,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-08-06T05:43:17Z",
-          "heat": 54,
+          "heat": 53,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/sSHIv0ihLjw/maxresdefault.jpg",
@@ -338,7 +338,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2021-08-12T09:36:45Z",
-          "heat": 55,
+          "heat": 57,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/2Wvw27j3NqA/maxresdefault.jpg",
@@ -357,7 +357,7 @@
         }
       ],
       "size": 12,
-      "heat": 66,
+      "heat": 68,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Tr1_8C6CjMQ/maxresdefault.jpg",
@@ -480,7 +480,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2021-07-30T01:26:51Z",
-      "heat": 62,
+      "heat": 63,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Tr1_8C6CjMQ/maxresdefault.jpg",
@@ -826,7 +826,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2016-06-28T05:13:59Z",
-          "heat": 52,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/iMBgp-OA9Jc/maxresdefault.jpg",
@@ -1523,7 +1523,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2019-04-29T07:51:40Z",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/LQiqiMcbpGA/maxresdefault.jpg",
@@ -1582,7 +1582,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2018-06-11T02:39:42Z",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/wMr0sbrj7gk/maxresdefault.jpg",
@@ -1988,6 +1988,37 @@
       ]
     },
     {
+      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-4-platinum-league-b2gm.md",
+      "title": "StarCraft 2 - Zerg Bronze to GM #4: Platinum League (B2GM)",
+      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 GAME 1 -- Practice build order along with PiG 13:55 How to check if someone is Searching for Game? 14:30 GAME 2 -- Practice build order along with PiG 28:20 REVIEW: Gold + Plat things to learn 46:53",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-4-platinum-league-b2gm/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-4-platinum-league-b2gm/",
+      "originalUrl": "https://youtube.com/watch?v=2Wvw27j3NqA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2Wvw27j3NqA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H28M21S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-08-12T09:36:45Z",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2Wvw27j3NqA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-very-powerful-fun-build-order-2021.md",
       "title": "Very Powerful & Fun Build Order (2021)",
       "excerpt": "This is a super strong & really fun build order that I've been playing in my TvP's almost exclusively. You get right into the action super fast and it's very difficult for protoss to defend your first push never mind the second one. ` Very Powerful & Fun Build Order #Starcraft #SC2 #Terran  ♦ Coaching",
@@ -2109,37 +2140,6 @@
       "topics": [
         "StarCraft 2",
         "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-4-platinum-league-b2gm.md",
-      "title": "StarCraft 2 - Zerg Bronze to GM #4: Platinum League (B2GM)",
-      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 GAME 1 -- Practice build order along with PiG 13:55 How to check if someone is Searching for Game? 14:30 GAME 2 -- Practice build order along with PiG 28:20 REVIEW: Gold + Plat things to learn 46:53",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-4-platinum-league-b2gm/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-4-platinum-league-b2gm/",
-      "originalUrl": "https://youtube.com/watch?v=2Wvw27j3NqA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2Wvw27j3NqA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H28M21S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-08-12T09:36:45Z",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2Wvw27j3NqA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
       ]
     }
   ],

@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=A1Y-pOl4V4Q
 type: video
 length: PT32M16S
 publishedDateTime: 2021-08-28T07:58:30Z
-heat: 52
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A1Y-pOl4V4Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "IlcVMRkYh64L+ixh+MDAA6GwDGj4WpNjP6PwSH6diVUyM4G+zjOCaP9PRVi00JSAQd9oYs9pPe7NAvGkukuAOW6t+x9KOtSlI2zI2qrO/jAqvnCYeCKKQh+/eUKLDjctuGzGzgW+4NyKiS0vcRCMbCk5BcIAr6FbBYcO3xz6Onh+XpdU5RHWR5IABNoj+ZoNkdaDu8KLDmNiuBvFKRzpQ6imWqwu5/yA5mxWCLk/dQz6vJELb1KT9+nSrrmfkQnzJQcHHnW06r4wecX3s+OquS5xjhOomxZFPW18/84+1v/Rdse2pCeiKhC8crIh7jcZiLWGNYMZn4YfBvU0GdlSE3l7ybWx08usOMpc0tn9vxxflw9yx+eOxpju67jFGZHltXXvdBJPKxt0Ez4YYPEYXAZXum/gSuit5ZoCl/zoDHPK2c1V8IwKSbtJFVzPR8AP;PS4/WbSzYW4q4EIL9GLs+w=="
+secured: "XSRPzshpmEvz4nrEAp2a1M6ZLzsFYwEEehJS8YdPu+46mDe0LxVGQxEeWo8I6mMu5XC3NlMQ+HqK8/fOnKorYD3ahYpbDfhF1Sk6tMVZyN1LBlR1BSxd3BY93OskU/d/rEj5AHLnvyIhAJMwCRpl5EGHnTCoT1yu1Qc8GCHX2nRJlS8Ko6BRuMpBocDWFI4og2Qt0nzpi0KaybKdb4CiyLy0LZb9S7o5fwF0OOxGNblDX7BbS5fFq3hDLwgqCx9yLBe1JTdcJGZ5zZDhhExeUrLQdpeOhyW4CO+s9Xr4kAnETKajRON7q52hanU2x3NJD0TTd4iIDhvSoz0TJggHor6el4DlqBz6aWVNSNZKtHH8RgnZyeDA0kE2pIn5AE4Ro41X6nhBu6YkOSNWyl7EnxR7DPGnJeGjbF5QSry3jc6GznYRTmZrQQNgAsQ0HfQA;C6PM/PS9gaO1co4qTQVing=="
 ---
 

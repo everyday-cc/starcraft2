@@ -4,6 +4,39 @@
   "page": 94,
   "value": [
     {
+      "path": "_games/pig-the-genius-way-of-dealing-with-cannon-rushers-king-of-cannons-19-starcraft-2.md",
+      "title": "The GENIUS way of dealing with Cannon Rushers | King of Cannons #19 - StarCraft 2",
+      "excerpt": "Cannon rushes all day erry day! Watch printF, the KING of Cannons, do what he does best on the StarCraft 2 ladder  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf PrintF’s youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-genius-way-of-dealing-with-cannon-rushers-king-of-cannons-19-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-genius-way-of-dealing-with-cannon-rushers-king-of-cannons-19-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=OZDwjDR8dF8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OZDwjDR8dF8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M33S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Cheese"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OZDwjDR8dF8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-07-19T00:18:10Z"
+    },
+    {
       "path": "_games/pig-the-great-wall-of-cannons-kick-the-ant-hive-icyfar-g4.md",
       "title": "The Great Wall of CANNONS! | Kick the Ant Hive! ICYFAR G4",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they had to swarm their enemy with a ton of low tier units. Here’s a fun game of protoss versus zerg completing the challenge in humorous fashion.   NEW ICYFAR CHALLENGE: \"Resurrection",
@@ -749,37 +782,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2021-09-19T09:29:28Z"
-    },
-    {
-      "path": "_games/pig-the-silliest-planetary-fortress-rush-ever-florencio-files-279-starcraft-2.md",
-      "title": "The Silliest Planetary Fortress Rush EVER | Florencio Files #279 - StarCraft 2",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-silliest-planetary-fortress-rush-ever-florencio-files-279-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-silliest-planetary-fortress-rush-ever-florencio-files-279-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=uTujJVkvE0s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uTujJVkvE0s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M20S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uTujJVkvE0s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-03-22T02:26:50Z"
     },
     {
       "path": "_games/pig-the-stuff-zerg-nightmares-are-made-of-kings-of-cannons-16.md",

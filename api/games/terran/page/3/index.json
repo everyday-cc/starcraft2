@@ -119,14 +119,14 @@
       "publishedDateTime": "2023-05-01T11:13:05Z"
     },
     {
-      "path": "_games/pig-flo-mentally-destroys-zerg-with-incredible-nuke-florencio-files-286-starcraft-2.md",
-      "title": "Flo mentally DESTROYS Zerg with incredible NUKE | Florencio Files #286 - StarCraft 2",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-flo-mentally-destroys-zerg-with-incredible-nuke-florencio-files-286-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-flo-mentally-destroys-zerg-with-incredible-nuke-florencio-files-286-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=hx-_rt_fHoM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hx-_rt_fHoM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M13S",
+      "path": "_games/pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261.md",
+      "title": "StarCraft 2 - Flo Locks Them Out With A Mass Widow Mine Drop! | Florencio Files #261",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-flo-locks-them-out-with-a-mass-widow-mine-drop-florencio-files-261/",
+      "originalUrl": "https://youtube.com/watch?v=WrILME9CWO8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WrILME9CWO8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M48S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -134,13 +134,12 @@
       "topics": [
         "StarCraft 2",
         "Protoss",
-        "Terran",
-        "Zerg"
+        "Terran"
       ],
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hx-_rt_fHoM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/WrILME9CWO8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -148,7 +147,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-11-11T00:57:28Z"
+      "publishedDateTime": "2022-03-24T02:12:36Z"
     },
     {
       "path": "_games/pig-terran-experiment-confuses-zerg-opponent-2-tvz-games-diamond-in-the-ruff-66-starcraft-2.md",
@@ -411,6 +410,37 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-08-09T09:07:45Z"
+    },
+    {
+      "path": "_games/pig-the-silliest-planetary-fortress-rush-ever-florencio-files-279-starcraft-2.md",
+      "title": "The Silliest Planetary Fortress Rush EVER | Florencio Files #279 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-silliest-planetary-fortress-rush-ever-florencio-files-279-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-silliest-planetary-fortress-rush-ever-florencio-files-279-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=uTujJVkvE0s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uTujJVkvE0s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M20S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uTujJVkvE0s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-03-22T02:26:50Z"
     },
     {
       "path": "_games/pig-what-happens-when-pros-have-maphacks-no-fog-of-war-mod-special-vs-cham-bo3-tvz-starcraft-2.md",
@@ -1045,14 +1075,14 @@
       "publishedDateTime": "2022-12-08T02:46:03Z"
     },
     {
-      "path": "_games/pig-starcraft-2-flos-sick-counter-to-battlecruisers-florencio-files-259.md",
-      "title": "StarCraft 2 - Flo’s sick counter to Battlecruisers | Florencio Files #259",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-flos-sick-counter-to-battlecruisers-florencio-files-259/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-flos-sick-counter-to-battlecruisers-florencio-files-259/",
-      "originalUrl": "https://youtube.com/watch?v=78bDMwTPTWI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/78bDMwTPTWI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M6S",
+      "path": "_games/pig-flo-mentally-destroys-zerg-with-incredible-nuke-florencio-files-286-starcraft-2.md",
+      "title": "Flo mentally DESTROYS Zerg with incredible NUKE | Florencio Files #286 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-flo-mentally-destroys-zerg-with-incredible-nuke-florencio-files-286-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-flo-mentally-destroys-zerg-with-incredible-nuke-florencio-files-286-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=hx-_rt_fHoM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hx-_rt_fHoM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M13S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -1060,43 +1090,13 @@
       "topics": [
         "StarCraft 2",
         "Protoss",
-        "Terran"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/78bDMwTPTWI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-02-17T02:13:43Z"
-    },
-    {
-      "path": "_games/pig-terran-forces-zerg-to-all-in-then-cries-about-it-salt-mines-37-starcraft-2.md",
-      "title": "Terran forces Zerg to all-in then cries about it | Salt Mines #37 - StarCraft 2",
-      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-terran-forces-zerg-to-all-in-then-cries-about-it-salt-mines-37-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-terran-forces-zerg-to-all-in-then-cries-about-it-salt-mines-37-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=ggirRxPfjCI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ggirRxPfjCI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M50S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
         "Terran",
         "Zerg"
       ],
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ggirRxPfjCI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hx-_rt_fHoM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1104,7 +1104,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-06-08T10:41:50Z"
+      "publishedDateTime": "2023-11-11T00:57:28Z"
     }
   ],
   "nextPage": 4

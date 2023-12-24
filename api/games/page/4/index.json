@@ -4,6 +4,44 @@
   "page": 4,
   "value": [
     {
+      "path": "_games/lowkotv-reynors-unexpected-sky-toss-switches-vs-scarlett-best-of-3.md",
+      "title": "Reynor's UNEXPECTED Sky Toss Switches vs Scarlett! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Reynor and Scarlett. In this series Reynor decides to play Protoss, rather than make this a Zerg versus Zerg.  Reynor's Protoss vs Serral: https://youtu.be/Ayg4tUhwMjM Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-reynors-unexpected-sky-toss-switches-vs-scarlett-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-reynors-unexpected-sky-toss-switches-vs-scarlett-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=Vd9zA9xDXXg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vd9zA9xDXXg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M3S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 98,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Vd9zA9xDXXg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEMgZShjMA8=&rs=AOn4CLARVAoJy5T8qvTt9OByt3TwgJmItw",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-12-08T12:55:03Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-super-close-astreas-offraces-terran-vs-neuro.md",
       "title": "StarCraft 2: SUPER CLOSE - Astrea's OFFRACES TERRAN vs Neuro!",
       "excerpt": "High level match of StarCraft 2 between Neuro (Zerg) and Astrea. In this game Astrea decides to play Terran rather than Protoss. This is easily one of the very best games played on the new patch with the new maps so far.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My",
@@ -995,36 +1033,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-12-16T10:09:58Z"
-    },
-    {
-      "path": "_games/pig-starcraft-2-flo-maxes-out-ground-attack-for-his-skytoss-facepalm-florencio-files-265.md",
-      "title": "StarCraft 2- Flo maxes out ground attack for his skytoss! FACEPALM | Florencio Files #265",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-flo-maxes-out-ground-attack-for-his-skytoss-facepalm-florencio-files-265/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-flo-maxes-out-ground-attack-for-his-skytoss-facepalm-florencio-files-265/",
-      "originalUrl": "https://youtube.com/watch?v=nkJKBd8iBKQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nkJKBd8iBKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M10S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 75,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nkJKBd8iBKQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-04-21T01:14:08Z"
     }
   ],
   "nextPage": 5

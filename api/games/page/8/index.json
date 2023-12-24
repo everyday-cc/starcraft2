@@ -4,6 +4,35 @@
   "page": 8,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-the-superbowl-wants-its-quarterbacks-back-rate-my-starcraft-7.md",
+      "title": "StarCraft 2 - The Superbowl wants its Quarterbacks back | Rate My StarCraft #7",
+      "excerpt": "🔥 Submit your RATE MY STARCRAFT replays! Like Gordon Ramsay judges people's dishes, PiG will rate your awesome StarCraft plays. Send in your replay to RateMyStarCraft@gmail.com PLUS why you think it was so good (This is similar to ICYFAR but you choose the topic). Bonus points if you can say why in",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-the-superbowl-wants-its-quarterbacks-back-rate-my-starcraft-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-the-superbowl-wants-its-quarterbacks-back-rate-my-starcraft-7/",
+      "originalUrl": "https://youtube.com/watch?v=_mihzE8PQNU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_mihzE8PQNU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M29S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_mihzE8PQNU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2021-09-28T11:46:30Z"
+    },
+    {
       "path": "_games/pig-this-starcraft-player-has-lost-his-mind-salt-mines-1-sc2.md",
       "title": "This Starcraft player has lost his mind | Salt Mines #1 - SC2",
       "excerpt": "*NEW SHOW* The Salt Mines: Everyone has encountered a salty opponent on the ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty. -- 🐷 Second Channel for",
@@ -366,36 +395,6 @@
       "publishedDateTime": "2023-10-24T10:14:17Z"
     },
     {
-      "path": "_games/pig-flo-fights-a-maphacker-florencio-riles-283-starcraft-2.md",
-      "title": "FLO FIGHTS A MAPHACKER! | Florencio Riles #283 - StarCraft 2",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-flo-fights-a-maphacker-florencio-riles-283-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-flo-fights-a-maphacker-florencio-riles-283-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=K_zmwZUvh0o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K_zmwZUvh0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT58M27S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/K_zmwZUvh0o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-06-06T06:42:43Z"
-    },
-    {
       "path": "_games/pig-ive-never-seen-a-cheeser-lose-an-argument-this-hard-salt-mines-39-starcraft-2.md",
       "title": "I’ve never seen a Cheeser lose an argument THIS HARD | Salt Mines #39 - StarCraft 2",
       "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
@@ -491,44 +490,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-04-02T13:00:39Z"
-    },
-    {
-      "path": "_games/lowkotv-specials-100-cyclones-vs-elazer-starcraft-2.md",
-      "title": "SpeCial's 100+ CYCLONES vs Elazer! (StarCraft  2)",
-      "excerpt": "Best-of-5 series of high level StarCraft 2 on the new multiplayer balance patch with the brand-new SC2 maps! In this series between SpeCial (Terran) and Elazer (Zerg), both players try to make use of the new options that the new patch unlocked. SpeCial decides to play a variety of early game build orders",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-specials-100-cyclones-vs-elazer-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-specials-100-cyclones-vs-elazer-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=6g3GLsLbNl0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6g3GLsLbNl0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H19M22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6g3GLsLbNl0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-10-03T10:08:09Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-darks-quickest-game-of-the-year.md",
@@ -738,36 +699,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-08-25T12:51:42Z"
-    },
-    {
-      "path": "_games/pig-florencio-excretes-the-sewer-mothership-florencio-files-287-starcraft-2.md",
-      "title": "Florencio Excretes the SEWER MOTHERSHIP | Florencio Files #287 - StarCraft 2",
-      "excerpt": "Florencio is back with some sick strats, like AFKing for the first part of the game!  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc 🧜Florencio Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-florencio-excretes-the-sewer-mothership-florencio-files-287-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-florencio-excretes-the-sewer-mothership-florencio-files-287-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=THwDo6vDyYw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/THwDo6vDyYw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M2S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/THwDo6vDyYw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-11-23T14:04:04Z"
     },
     {
       "path": "_games/pig-genius-proxy-hatch-breaks-reynors-brain-starcraft-2.md",
@@ -1010,6 +941,84 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-09-22T11:02:19Z"
+    },
+    {
+      "path": "_games/lowkotv-gumihos-new-mech-all-in-vs-protoss-starcraft-2.md",
+      "title": "GuMiho's NEW Mech All-In vs Protoss?! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of StarCraft 2 between GuMiho and Classic. This series is one of the two semi-finals of the GSL Code S, season 3 of 2023. In these games both players clearly have build orders prepared for the opponent, as GuMiho decides to do the same new Mech all-in twice in a row. Support my work:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-gumihos-new-mech-all-in-vs-protoss-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-gumihos-new-mech-all-in-vs-protoss-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=VxXRwXyIeEs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VxXRwXyIeEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M19S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VxXRwXyIeEs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-07T11:10:45Z"
+    },
+    {
+      "path": "_games/lowkotv-heros-new-tempest-rush-vs-dark-starcraft-2.md",
+      "title": "herO's NEW Tempest Rush vs Dark! (StarCraft 2)",
+      "excerpt": "Best-of-5 series of StarCraft 2 between herO and Dark. This match of SC2 is the finals of the Korean StarCraft League (KSL). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  KSL on Patreon: https://patreon.com/KoreanStarcraftLeague/  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-heros-new-tempest-rush-vs-dark-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-heros-new-tempest-rush-vs-dark-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=1FXUxm7jGlU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1FXUxm7jGlU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M9S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1FXUxm7jGlU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-10-07T11:54:44Z"
     }
   ],
   "nextPage": 9

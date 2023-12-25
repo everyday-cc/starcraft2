@@ -60,20 +60,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Starcraft Spiritual Successor Stormgate Achieves Kickstarter Goal in 15 Minutes"
-    excerpt: "Frost Giant Studios launched today a Kickstarter crowdfunding campaign for its upcoming RTS game Stormgate. It was fully funded in 15 Minutes."
-    publishedDateTime: 2023-12-05T20:31:00Z
-    webUrl: "https://techraptor.net/gaming/news/starcraft-spiritual-successor-stormgate-achieves-kickstarter-goal-in-15-minutes"
-    type: article
-    provider:
-      name: TechRaptor
-      domain: techraptor.net
-    quality: 33
-    images:
-      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2023-12/stormgate-kickstarter.jpg?itok=ereTpG6X"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "2024 Starcraft RX 23 R DC"
     excerpt: "Starcraft’s RX 23 is part of its new flagship pontoon series, pampering family buyers with plush furniture and performance. Rather than traditional aluminum panels or molded fiberglass, Starcraft debuts industry-first acrylic-capped ABS plastic panels ..."
     publishedDateTime: 2023-12-15T00:00:00Z

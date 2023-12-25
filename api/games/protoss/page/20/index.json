@@ -4,69 +4,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_games/pig-3-cheeses-in-16-minutes-24-seconds-king-of-cannons-13-starcraft-2.md",
-      "title": "3 CHEESES IN 16 MINUTES 24 SECONDS!? | King of Cannons #13 - StarCraft 2",
-      "excerpt": "PrintF does not disappoint with this trio of cheeses for each match up! Chapters: 0:00 Game 1 6:04 Game 2 15:22 Game 3  King of Cannons playlist: https://www.youtube.com/watch?v=6LShnUyxhUc&list=PLFUDU8AOevUc-JGoqf5rE1PKuLmJ7hgfw PrintF’s stream: https://www.twitch.tv/quasarprintf -- 🐷 Like my videos?",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-3-cheeses-in-16-minutes-24-seconds-king-of-cannons-13-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-3-cheeses-in-16-minutes-24-seconds-king-of-cannons-13-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=dblK383xEk0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dblK383xEk0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M6S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Cheese"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dblK383xEk0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2021-01-05T08:41:13Z"
-    },
-    {
-      "path": "_games/pig-420-iq-hallucination-trick-fools-protoss-florencio-files-281-starcraft-2.md",
-      "title": "420 IQ Hallucination Trick fools Protoss! | Florencio Files #281 - StarCraft 2",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-420-iq-hallucination-trick-fools-protoss-florencio-files-281-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-420-iq-hallucination-trick-fools-protoss-florencio-files-281-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=ys9Oega52XM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ys9Oega52XM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M4S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ys9Oega52XM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-05-04T05:47:03Z"
-    },
-    {
       "path": "_games/pig-blink-dt-and-voidray-pvz-twitch-plays-pig-52.md",
       "title": "Blink DT and Voidray PvZ! | Twitch Plays PiG #52",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -517,6 +454,36 @@
       "publishedDateTime": "2020-04-19T11:00:03Z"
     },
     {
+      "path": "_games/pig-failed-cannon-rusher-has-crazy-meltdown-salt-mines-13-starcraft-2.md",
+      "title": "Failed cannon rusher has CRAZY MELTDOWN | Salt Mines #13 - StarCraft 2",
+      "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-failed-cannon-rusher-has-crazy-meltdown-salt-mines-13-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-failed-cannon-rusher-has-crazy-meltdown-salt-mines-13-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=7bjEqRj_hBo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7bjEqRj_hBo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M29S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7bjEqRj_hBo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-09-15T10:24:04Z"
+    },
+    {
       "path": "_games/pig-fake-pylons-fake-probes-full-fakeout-g2.md",
       "title": "Fake Pylons, Fake Probes, Full Fakeout - G2",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players had to show their best Fakeouts - tricking their opponents with fake rushes, drops and tech paths!\r \r THIS WEEKS ICYFAR CHALLENGE: 1A - You arent allowed to micro your units. Interpretation is as always up to you! Send submissions",
@@ -958,6 +925,39 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2019-10-01T05:04:11Z"
+    },
+    {
+      "path": "_games/pig-mass-sentry-pvt-twitch-plays-pig-35.md",
+      "title": "Mass Sentry PvT! | Twitch Plays PiG #35",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-mass-sentry-pvt-twitch-plays-pig-35/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-mass-sentry-pvt-twitch-plays-pig-35/",
+      "originalUrl": "https://youtube.com/watch?v=3KrHan2tklE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3KrHan2tklE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M7S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3KrHan2tklE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2020-02-17T11:49:19Z"
     }
   ],
   "nextPage": 21

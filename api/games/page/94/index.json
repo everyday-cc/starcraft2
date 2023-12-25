@@ -4,6 +4,37 @@
   "page": 94,
   "value": [
     {
+      "path": "_games/pig-the-fastest-terran-in-the-world-faced-three-protoss-pros-at-once-clem-vs-maxpax-harstem-mana-sc2.md",
+      "title": "The FASTEST Terran in the world faced THREE Protoss Pros at once | Clem vs MaxPax Harstem MaNa - SC2",
+      "excerpt": "Clem takes on the ultimate archon - Harstem, Maxpax & Mana join forces as a Pro Protoss archon to take down the French terran. It's insane that Clem is fast enough to even compete, but can he WIN? Lets find out! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-fastest-terran-in-the-world-faced-three-protoss-pros-at-once-clem-vs-maxpax-harstem-mana-sc2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-fastest-terran-in-the-world-faced-three-protoss-pros-at-once-clem-vs-maxpax-harstem-mana-sc2/",
+      "originalUrl": "https://youtube.com/watch?v=_YQJ86Ii5Mk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_YQJ86Ii5Mk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H21M28S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_YQJ86Ii5Mk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-09-21T13:35:56Z"
+    },
+    {
       "path": "_games/pig-the-fastest-viper-rush-strat-ive-ever-seen-also-the-dumbest-smooth-brain-santa-claws-8-sc2.md",
       "title": "The FASTEST Viper Rush Strat I’ve Ever Seen (also the Dumbest) | Smooth Brain Santa Claws #8 - SC2",
       "excerpt": "🎅 Santa Claws impressed in his Starcraft Smooth Brain audition and has been granted an opportunity to be the next Smooth Brain. Will he impress or will his brain prove too wrinkled?   🎅 Santa Claws Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh -- 🐷 Second Channel",
@@ -872,36 +903,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-04-23T05:23:01Z"
-    },
-    {
-      "path": "_games/pig-the-sickest-probe-block-trick-ive-ever-seen-icyfar-aggression-starcraft-2.md",
-      "title": "The Sickest Probe Block Trick I’ve Ever Seen | ICYFAR \"Aggression\" - StarCraft 2",
-      "excerpt": "🤯 In this month’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they try to be overly aggressive (Tryhard) -- 🤯 ICYFAR Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUczdbU-zuY0-vykRSR1YsLC -- 🐷 Second Channel for Learning StarCraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-sickest-probe-block-trick-ive-ever-seen-icyfar-aggression-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-sickest-probe-block-trick-ive-ever-seen-icyfar-aggression-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=oFDJnntIDac",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oFDJnntIDac\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M32S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oFDJnntIDac/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-11-03T03:09:43Z"
     }
   ],
   "nextPage": 95

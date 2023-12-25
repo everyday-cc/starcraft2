@@ -4,6 +4,36 @@
   "page": 68,
   "value": [
     {
+      "path": "_games/pig-drone-sashimi-all-your-bases-are-belong-to-us-liquid-reign-icyfar-g3.md",
+      "title": "Drone Sashimi - All Your Bases Are Belong To Us Liquid Reign ICYFAR G3",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their craziest basetrades!  CURRENT LIQUID REIGN ICYFAR CHALLENGE: \"Tale of a Knife and a Telephone booth” - You are not allowed to have more than 40 workers at any point during the game! - During Liquid Reign ICYFARs",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-drone-sashimi-all-your-bases-are-belong-to-us-liquid-reign-icyfar-g3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-drone-sashimi-all-your-bases-are-belong-to-us-liquid-reign-icyfar-g3/",
+      "originalUrl": "https://youtube.com/watch?v=bPeNJAnaZC0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bPeNJAnaZC0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M45S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bPeNJAnaZC0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T12:46:41Z"
+    },
+    {
       "path": "_games/pig-dronekanda-forever-corporate-greed-liquid-reign-icyfar-g1.md",
       "title": "Dronekanda Forever! - Corporate Greed Liquid Reign ICYFAR G1",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays that had at least 100 workers at one point during the game!  CURRENT LIQUID REIGN ICYFAR CHALLENGE:“Extremely Inefficient Weapon” - Beat your opponent in the least efficient way possible! During Liquid",
@@ -858,36 +888,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-01-26T01:57:29Z"
-    },
-    {
-      "path": "_games/pig-flos-genius-burrow-rush-trick-florencio-files-270-starcraft-2.md",
-      "title": "Flo’s GENIUS Burrow Rush Trick | Florencio Files #270 - StarCraft 2",
-      "excerpt": "Florencio Files is BACK! I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. I can't remember which episode first featued this burrow rush trick, but here's a link to another one where he does it: https://youtu.be/LOFfVLqbyWc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-flos-genius-burrow-rush-trick-florencio-files-270-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-flos-genius-burrow-rush-trick-florencio-files-270-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=4GYCdlK-2nc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4GYCdlK-2nc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M21S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4GYCdlK-2nc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-09-01T01:59:06Z"
     }
   ],
   "nextPage": 69

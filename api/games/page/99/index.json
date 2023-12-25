@@ -4,6 +4,35 @@
   "page": 99,
   "value": [
     {
+      "path": "_games/pig-worker-massacre-icyfar-16-the-pig-daily-68-part-2.md",
+      "title": "Worker Massacre ICYFAR #16| The PiG Daily #68 (Part 2)",
+      "excerpt": "THIS WEEKS ICYFAR: \"Star Crafts Mod!\" - Submit your most entertaining games playing in Carbot’s Star Crafts Mod!. Send submissions to eonblu95@gmail.com as attachment. Lastest submission until the second daily of the week (Monday in EU/US, Tuesday in AUS/KR).\r Full Playlist of Daily VoDs: https://www.youtube.com/playlist?list=PLFUDU8AOevUdOq5x--TBFC-p54CMWM4Fb",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-worker-massacre-icyfar-16-the-pig-daily-68-part-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-worker-massacre-icyfar-16-the-pig-daily-68-part-2/",
+      "originalUrl": "https://youtube.com/watch?v=Oz2f8d8bGqE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Oz2f8d8bGqE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M10S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Oz2f8d8bGqE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T12:46:41Z"
+    },
+    {
       "path": "_games/pig-world-record-uthermals-1-terran-v-7-insane-terran-ai-pig-reacts-starcraft-2.md",
       "title": "WORLD RECORD! uThermal's 1 Terran v 7 Insane Terran AI (PiG Reacts) - StarCraft 2",
       "excerpt": "I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! uThermal already did 1 Terran vs 7 Zerg Insane AIs. Then HeroMarine stepped up with 1 Terran vs 7 Random Insane AIs. Now uThermal is back with 1 Terran vs 7 TERRAN Insane AIs. How many world records can these guys break?!",
@@ -939,44 +968,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2019-03-06T15:05:01Z"
-    },
-    {
-      "path": "_games/sc2hl-battlecruiser-operational-maru-vs-ty-starcraft-2.md",
-      "title": "BATTLECRUISER OPERATIONAL - Maru vs TY - Starcraft 2",
-      "excerpt": "A great game between Maru and TY, showing some of the highest level terran vs terran gameplay ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload other content, such as trailers & montages.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-battlecruiser-operational-maru-vs-ty-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-battlecruiser-operational-maru-vs-ty-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=EKHhBVON3zY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EKHhBVON3zY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M3S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EKHhBVON3zY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2018-10-16T14:21:19Z"
     }
   ],
   "nextPage": 100

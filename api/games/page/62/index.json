@@ -4,6 +4,44 @@
   "page": 62,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-weekly-finals-lots-of-early-game-cheeses-spirit-vs-showtime.md",
+      "title": "StarCraft 2: WEEKLY FINALS - Lots of Early Game Cheeses! (Spirit vs ShoWTimE)",
+      "excerpt": "Best-of-5 series of StarCraft 2 between ShoWTimE and Spirit. This series is the finals of the ESL Open Cup 172 Europe. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-weekly-finals-lots-of-early-game-cheeses-spirit-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-weekly-finals-lots-of-early-game-cheeses-spirit-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=-Eq-mViHpdM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-Eq-mViHpdM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M53S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-Eq-mViHpdM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-05-03T11:14:23Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-welcome-to-aiur.md",
       "title": "StarCraft 2: WELCOME TO AIUR!",
       "excerpt": "Pretty sure he's recreating the Legacy of the Void trailer. Subscribe for more videos: http://lowko.tv/youtube Void Ray memes: https://goo.gl/uAxRqD  A spectacular match of silver league gameplay in StarCraft 2. Why make any production facilities while building your economy if you can first take 6 bases",
@@ -1112,45 +1150,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2018-01-09T14:12:03Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-zerg-vs-terran-on-the-new-patch-is-wild-byun-vs-rogue.md",
-      "title": "StarCraft 2: Zerg vs Terran on the NEW PATCH is WILD! (ByuN vs Rogue)",
-      "excerpt": "Byun (Terran) versus Rogue (Zerg) on the new multiplayer balance patch in StarCraft 2. While the new patch was mostly made with Zerg versus Protoss in mind, Terran versus Zerg was definitely not unaffected.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zerg-vs-terran-on-the-new-patch-is-wild-byun-vs-rogue/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zerg-vs-terran-on-the-new-patch-is-wild-byun-vs-rogue/",
-      "originalUrl": "https://youtube.com/watch?v=NzkJp5sUfj4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NzkJp5sUfj4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NzkJp5sUfj4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-03-22T13:00:49Z"
     }
   ],
   "nextPage": 63

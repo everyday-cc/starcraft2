@@ -4,6 +4,36 @@
   "page": 69,
   "value": [
     {
+      "path": "_games/pig-flos-clever-double-spine-rush-is-foiled-by-himself-florencio-files-275-starcraft-2.md",
+      "title": "Flo's clever double spine rush is foiled by... himself | Florencio Files #275 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-flos-clever-double-spine-rush-is-foiled-by-himself-florencio-files-275-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-flos-clever-double-spine-rush-is-foiled-by-himself-florencio-files-275-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=1JB5hslOLnY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1JB5hslOLnY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M57S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1JB5hslOLnY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-01-26T01:57:29Z"
+    },
+    {
       "path": "_games/pig-flos-genius-burrow-rush-trick-florencio-files-270-starcraft-2.md",
       "title": "Flo’s GENIUS Burrow Rush Trick | Florencio Files #270 - StarCraft 2",
       "excerpt": "Florencio Files is BACK! I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. I can't remember which episode first featued this burrow rush trick, but here's a link to another one where he does it: https://youtu.be/LOFfVLqbyWc",
@@ -858,36 +888,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-10-07T03:01:05Z"
-    },
-    {
-      "path": "_games/pig-has-disgusting-cheese-makes-solar-literally-facepalm-starcraft-2.md",
-      "title": "Has’ disgusting cheese makes Solar literally FACEPALM - StarCraft 2",
-      "excerpt": "Subscribe to @PiGCasts for more Pro videos 🐷 Has makes Solar facepalm during World Team League -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-has-disgusting-cheese-makes-solar-literally-facepalm-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-has-disgusting-cheese-makes-solar-literally-facepalm-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=x4PX-rgbLws",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x4PX-rgbLws\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M45S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/x4PX-rgbLws/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-01-04T06:33:34Z"
     }
   ],
   "nextPage": 70

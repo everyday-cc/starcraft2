@@ -4,6 +4,44 @@
   "page": 14,
   "value": [
     {
+      "path": "_games/sc2hl-111-banelings-in-a-professional-starcraft-2-match.md",
+      "title": "111 BANELINGS In a Professional StarCraft 2 Match",
+      "excerpt": "Dark going for a massive massive amount of banelings vs Alive in a Terran vs Zerg  ► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL ► Submit your REPLAYS! - http://bit.ly/SC2HLsubmit   ► SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe   A crazy description   Thank you for watching",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-111-banelings-in-a-professional-starcraft-2-match/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-111-banelings-in-a-professional-starcraft-2-match/",
+      "originalUrl": "https://youtube.com/watch?v=ut6nCoAXiP4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ut6nCoAXiP4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M14S",
+      "provider": {
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ut6nCoAXiP4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2019-03-06T15:05:01Z"
+    },
+    {
       "path": "_games/sc2hl-marus-impossible-defense-starcraft-2-maru-vs-dark.md",
       "title": "Maru's IMPOSSIBLE DEFENSE - Starcraft 2: Maru vs. Dark",
       "excerpt": "Maru vs. Dark in an incredible Starcraft 2 match during the GSL, both players stretching themselves to the limit showing their macro skills. Maru playing the impossible defense.   Watch the Starcraft 2 - GSL Code S 2022: https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg   ► Enjoy the content?",
@@ -1106,45 +1144,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2021-05-25T09:31:15Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-heromarines-mass-banshee-vs-reynor-best-of-3.md",
-      "title": "StarCraft 2: HeroMarine's MASS BANSHEE vs Reynor! (Best-of-3)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between Reynor (Zerg) and HeroMarine (Terran). In this series HeroMarine decides to test out the new mech Terarn changes, as he masses both Banshees as well as Cyclones.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heromarines-mass-banshee-vs-reynor-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heromarines-mass-banshee-vs-reynor-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=a_27uSeA7i8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a_27uSeA7i8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M8S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/a_27uSeA7i8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-01-23T12:09:55Z"
     }
   ],
   "nextPage": 15

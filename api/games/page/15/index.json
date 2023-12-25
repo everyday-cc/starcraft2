@@ -4,6 +4,45 @@
   "page": 15,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-heromarines-mass-banshee-vs-reynor-best-of-3.md",
+      "title": "StarCraft 2: HeroMarine's MASS BANSHEE vs Reynor! (Best-of-3)",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 between Reynor (Zerg) and HeroMarine (Terran). In this series HeroMarine decides to test out the new mech Terarn changes, as he masses both Banshees as well as Cyclones.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heromarines-mass-banshee-vs-reynor-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heromarines-mass-banshee-vs-reynor-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=a_27uSeA7i8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a_27uSeA7i8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M8S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/a_27uSeA7i8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-01-23T12:09:55Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-heros-2-base-carrier-rush-vs-reynor.md",
       "title": "StarCraft 2: herO's 2 BASE CARRIER RUSH vs Reynor!",
       "excerpt": "In this video, you will see a StarCraft 2 match between herO, a Protoss player, and Reynor, a Zerg player. herO uses a risky strategy of rushing to build Carriers, powerful flying units that can attack multiple targets at once. Reynor tries to counter with  Corruptors, but is he able to shut down this",
@@ -1108,43 +1147,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-04-16T11:04:55Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-keiron-very-high-quality-custom-race-fourth-race-contest.md",
-      "title": "StarCraft 2: THE KEIRON - Very High Quality Custom Race! (Fourth Race Contest)",
-      "excerpt": "A few games in StarCraft 2 from \"The Fourth Race Contest\" organised by Alex007. In this video I feature the Keiron, easily the highest quality custom made faction for StarCraft 2 that I've seen so far.  Alex's YouTube channel: https://www.youtube.com/c/Alex007SC2  Support my work on Patreon: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-keiron-very-high-quality-custom-race-fourth-race-contest/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-keiron-very-high-quality-custom-race-fourth-race-contest/",
-      "originalUrl": "https://youtube.com/watch?v=iJ1qBjOSr0Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iJ1qBjOSr0Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iJ1qBjOSr0Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2021-11-16T12:32:54Z"
     }
   ],
   "nextPage": 16

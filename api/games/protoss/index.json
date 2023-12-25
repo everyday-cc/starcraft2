@@ -720,45 +720,6 @@
       "publishedDateTime": "2023-12-16T10:09:58Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-classics-dark-templar-surprise-gsl-code-s.md",
-      "title": "StarCraft 2: Classic's DARK TEMPLAR Surprise! (GSL Code S)",
-      "excerpt": "Chaotic series of StarCraft 2 from the GSL Code S, round-of-8. The winner of this match of Protoss vs Protoss in SC2 goes on to the semi finals. This is a series between Creator and Classic. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-classics-dark-templar-surprise-gsl-code-s/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-classics-dark-templar-surprise-gsl-code-s/",
-      "originalUrl": "https://youtube.com/watch?v=oMDPJQzKy_0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oMDPJQzKy_0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M5S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oMDPJQzKy_0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-10-27T11:03:46Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-amazing-dark-did-not-expect-this-from-classic.md",
       "title": "StarCraft 2: AMAZING - Dark did NOT expect this from Classic!",
       "excerpt": "Best-of-3 series of top level StarCraft 2 from the GSL Code S in South Korea. This series between Classic and Dark is not the Protoss versus Zerg I expected it to be. Loads of cheese and aggressive build orders to try and catch the opponent off guard. Minor mistakes that lead to major results. Support",
@@ -1102,6 +1063,36 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-04-21T01:14:08Z"
+    },
+    {
+      "path": "_games/pig-zergs-will-rage-if-this-map-gets-on-ladder-protoss-will-love-it-astrea-vs-mixu-starcraft-2.md",
+      "title": "Zergs will RAGE if this Map gets on Ladder (Protoss will LOVE it) | Astrea vs Mixu - StarCraft 2",
+      "excerpt": "Both Astrea (Protoss) and Mixu (Zerg) play this map from the Team Liquid Map-making Contest. There's an interesting gold base and lots of choke points. Zergs will HATE this, Protoss players will be happy -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-zergs-will-rage-if-this-map-gets-on-ladder-protoss-will-love-it-astrea-vs-mixu-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-zergs-will-rage-if-this-map-gets-on-ladder-protoss-will-love-it-astrea-vs-mixu-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=dPy6wpTmSh4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dPy6wpTmSh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M37S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 75,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dPy6wpTmSh4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-07-25T10:16:54Z"
     }
   ],
   "nextPage": 2

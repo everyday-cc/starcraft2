@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT11M50S
 publishedDateTime: 2022-09-11T20:21:39Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9Fsc01NwDoU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "BPHbEIVjYsdlIfmIW2k+wGG7tcQUELE0Mo3VzCt65NCr1or/g8L8SDtZTE+xy5HpNGDkBH70pzuQNI3ZL50/eWhWF1SxIKBr7Q8c4cFJHQNn70Da/JS3yNRVCbsAy+l4mMRfCaTZVaBAk5enIIpCYsVQ/hrQW4RJCgSd6p5xlcbsPw/6zKj/qoq5Dp6NciVO1/CV8xg8N0Ji1810lDJ1+yc4+2osc6KUW3FFEmLtA+NqnWUUdVSIDr7EW9AgTQ47tGGg+JjPmhLHOblLXmPpxlqPHrCmVLEpNbPV/cysmH5Dr2Yg6ZkdpNVp+3WZcvrsP2xhtkFvNbDrhAv2xSoYBxw99WqH0F6ydI9SnrYpzfYaUSBu5u9tARr7jHR74jv1ILxxkkj+g1b+WuHsW9pV/CQRSGDOZ+DEIrZ05zj5U6Q=;7MHETZumoKc0JS3VGqeVMA=="
+secured: "f/J+vpn+xYPqR75b8FTYPtWPh3TrHwazqibJ6k0WekNOFwG8l9KuaKRMc5jOXk5tBAfIW3fvgt8s+dm766shQdc1IfSkgmW4WpQF9kuoNKdLzDygT8OJx3mqawy7FkJ5bPcBhYn6iV00UcoJslhh7CvE3XPDWfqcUhllzpj2gU3ioMStK5j9NmWcMH1dR4w11gUMfZezLc/aJ2BTZ1CXaSr0TT59y+9qk9KC5MSD6CpLrYT7f2v+zBF2rVemybJmlz+bcUeqs2XNXVefiyybQjn36aZHWpQh3MdI06AYviAbRyRpNSWq7Mt2p1NTEj1HAmoTf3woYxghD+j8uvD4DeN2AIhjEOsqFntnGk1X0WuGQY/0mn6gflX8lzCJgU9K6NQVpb9x/65fcgsXNfD+Ouqg8Xf7YIZTCM3fvjgMvdE=;zfzIj5NElKVQJqIL33h8aA=="
 ---
 

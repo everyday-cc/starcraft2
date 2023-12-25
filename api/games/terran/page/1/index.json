@@ -652,6 +652,44 @@
       "publishedDateTime": "2023-05-22T10:49:14Z"
     },
     {
+      "path": "_games/lowkotv-will-byun-get-the-reaper-nerfed-again-starcraft-2.md",
+      "title": "Will ByuN get the Reaper NERFED... Again?! (StarCraft 2)",
+      "excerpt": "GL HF GG Mug: https://lowko.shop/products/gl-hf-gg-mug Best-of-3 series of top level StarCraft 2 between ByuN (Terran) and Solar (Zerg). In these games ByuN decides to make Reapers... and then more Reapers... and then in the next game he decides to go more Reapers. He loves Reapers, what else can I say?",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-will-byun-get-the-reaper-nerfed-again-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-will-byun-get-the-reaper-nerfed-again-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=El07mk2fT8E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/El07mk2fT8E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 111,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/El07mk2fT8E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-10-20T09:17:16Z"
+    },
+    {
       "path": "_games/lowkotv-gumihos-epic-battlecruiser-switch-surprises-astrea-starcraft-2.md",
       "title": "Gumiho's Epic BATTLECRUISER Switch Surprises Astrea! (StarCraft 2)",
       "excerpt": "Best-of-3 series from the Korean StarCraft League between Astrea (Protoss) and GuMiho (Terran). Both of these players are very creative with their decision making and strategies, and this series is no different. A very cheesy start catches Astrea off guard, but his quick Sentry rush helps him survive",
@@ -1097,44 +1135,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-12-06T11:48:49Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-75-ravens-maru-vs-clem.md",
-      "title": "StarCraft 2: 75+ RAVENS - Maru vs Clem!",
-      "excerpt": "Professional match of top level StarCraft 2, a Terran vs Terran, between Maru and Clem. Two of the highest ranked players in all of SC2. This match was recently played during the Master's Coliseum 6 tournament. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-75-ravens-maru-vs-clem/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-75-ravens-maru-vs-clem/",
-      "originalUrl": "https://youtube.com/watch?v=9M8GuqrdXIU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9M8GuqrdXIU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M9S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9M8GuqrdXIU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-09-13T08:40:58Z"
     }
   ],
   "nextPage": 2

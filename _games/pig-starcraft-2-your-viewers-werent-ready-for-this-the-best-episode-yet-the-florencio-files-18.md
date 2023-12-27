@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=jU2q4VsPMmQ
 type: video
 length: PT39M31S
 publishedDateTime: 2018-08-04T01:15:04Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jU2q4VsPMmQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "2870H2grIHgrPHL/f+c7P5mJREP0KViT/uCKB4wwe6l9CZO9bCHI7HXTwotYVyevOoZzgjbmr/9m/NnzT0RdcuV7wQmgI48vcUWsuKHXcjsGCvughvczJhQNDov8DDezpXF4SR97auyrO0FsIvM2pHZjcsB2nCIYSf8wrHPtG2rivq79x+7sIc938Hhge2hn1Z590Q18tQEK4St7j2ffSGlx0PAdpqq0qe+RT8y4bDBNDPRtX2ePwrw8OOOvgmPp9RZPw7kf1ZuBCp2/CkRqbcmsqQdSI+dkgKvXRp7zSvbuvmdSbuAslIJHULz3kbvVDAOEFHPOQpZTh6S94dp5Dg7f464s4+o6C2hfdPigzDRbmwBxEYkUv6zoN+zOSBHdGF6GlhuFlYrQemqOKFBVpmno4rhNc+hG7KyxaaIOWyY=;fsoDgFqAbnkNiST/BNpHow=="
+secured: "nVIFRiiBL+54Nd123P3PHbu5X6s0OxClZ2v+MmHWgCk99g4QP+OooceaE9uVoVG3RYJo1kCCyQeI4WCjnElJY1dOUFSExuy1hAP8DF3CtgbqHM2sobwOoppHhP6hln/gdK/46nSTqN19nZE9NffNQQ9wRULtQFVcfu2K6O8krgljAlk6e5myFGaTdjKPGtHArFYB+eeo887NVSsCkaHbF1McsXF6+Kt3+b7bmAItfModWvNkzZOP06PCcJsg6v9NgaoxPdFsVnhthJRbykC39cDhkl2WQpSkkIlDOHIrNiwBGf1aroMdaj28TjrIj4KtfjbOZWE3EYBEMfki6bG6KEEyqxRySNjqo9l06+sevIXnR4g8D14TU24O/B2zjRHO6VSeHphgYOLmOfLFTfzHgpIMTuAPf9HnIiFOM/Pm09Y=;6vbvpik6Q5LbN47mooHXkA=="
 ---
 

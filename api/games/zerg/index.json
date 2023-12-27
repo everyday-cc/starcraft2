@@ -4,6 +4,45 @@
   "page": 1,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-can-scarlett-shut-down-marus-cheeses-gsl-code-s.md",
+      "title": "StarCraft 2: Can Scarlett SHUT DOWN Maru's Cheeses?! (GSL Code S)",
+      "excerpt": "Best-of-3 series from the StarCraft 2 GSL Code S. In this match between Maru (Terran) and Scarlett (Zerg), Maru decides to play hyper aggressive games of StarCraft 2. Going for both two and three Command Center all-ins. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-can-scarlett-shut-down-marus-cheeses-gsl-code-s/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-can-scarlett-shut-down-marus-cheeses-gsl-code-s/",
+      "originalUrl": "https://youtube.com/watch?v=nXILA_THYdU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nXILA_THYdU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M1S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 337,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nXILA_THYdU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDkgWihlMA8=&rs=AOn4CLDQbt76xF0tifXpVl_LGuMPz5EwXQ",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-10-14T10:22:15Z"
+    },
+    {
       "path": "_games/lowkotv-serral-vs-clem-starcraft-2-game-of-the-year.md",
       "title": "SERRAL vs CLEM: StarCraft 2 Game of the Year!",
       "excerpt": "Amazing game of StarCraft 2 between Clem (Terran) and Serral (Zerg). When it comes to Zerg versus Terran it really doesn't get better than these two pro gamers facing off against each other. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
@@ -156,45 +195,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-11-22T11:13:30Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-can-scarlett-shut-down-marus-cheeses-gsl-code-s.md",
-      "title": "StarCraft 2: Can Scarlett SHUT DOWN Maru's Cheeses?! (GSL Code S)",
-      "excerpt": "Best-of-3 series from the StarCraft 2 GSL Code S. In this match between Maru (Terran) and Scarlett (Zerg), Maru decides to play hyper aggressive games of StarCraft 2. Going for both two and three Command Center all-ins. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-can-scarlett-shut-down-marus-cheeses-gsl-code-s/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-can-scarlett-shut-down-marus-cheeses-gsl-code-s/",
-      "originalUrl": "https://youtube.com/watch?v=nXILA_THYdU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nXILA_THYdU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M1S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 277,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nXILA_THYdU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDkgWihlMA8=&rs=AOn4CLDQbt76xF0tifXpVl_LGuMPz5EwXQ",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-10-14T10:22:15Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-darks-new-unexpected-rivalry.md",
@@ -669,44 +669,6 @@
       "publishedDateTime": "2023-12-20T15:02:11Z"
     },
     {
-      "path": "_games/lowkotv-blys-unexpected-zerg-rushes-vs-harstem-starcraft-2.md",
-      "title": "Bly's UNEXPECTED Zerg Rushes vs Harstem!  (StarCraft 2)",
-      "excerpt": "Best-of-5 series of StarCraft 2 from the European regionals of the ESL Masters Winter StarCraft 2 tournament. This match is a Zerg versus Protoss between Bly and Harstem, and features loads of creative Zerg rushes and cheeses. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-blys-unexpected-zerg-rushes-vs-harstem-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-blys-unexpected-zerg-rushes-vs-harstem-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=niiuXzoTUVU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/niiuXzoTUVU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT47M42S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 208,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/niiuXzoTUVU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-11-23T11:34:26Z"
-    },
-    {
       "path": "_games/lowkotv-darks-zerg-rush-proxy-hatcheries-best-of-3.md",
       "title": "Dark's ZERG RUSH Proxy Hatcheries! (Best-of-3)",
       "excerpt": "Best-of-3 series of high level StarCraft 2 between Dark (Zerg) and NightMare (Protoss). In this series Dark decides to play some questionable strategies against his Protoss opponent but as per usual he somehow makes it work. A proxy hatchery is a strategy where a Zerg player builds a Hatchery near the",
@@ -927,6 +889,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-11-18T11:54:45Z"
+    },
+    {
+      "path": "_games/lowkotv-blys-unexpected-zerg-rushes-vs-harstem-starcraft-2.md",
+      "title": "Bly's UNEXPECTED Zerg Rushes vs Harstem!  (StarCraft 2)",
+      "excerpt": "Best-of-5 series of StarCraft 2 from the European regionals of the ESL Masters Winter StarCraft 2 tournament. This match is a Zerg versus Protoss between Bly and Harstem, and features loads of creative Zerg rushes and cheeses. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-blys-unexpected-zerg-rushes-vs-harstem-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-blys-unexpected-zerg-rushes-vs-harstem-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=niiuXzoTUVU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/niiuXzoTUVU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M42S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 148,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/niiuXzoTUVU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-23T11:34:26Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-queen-dropping-terran-gumiho-vs-erik.md",

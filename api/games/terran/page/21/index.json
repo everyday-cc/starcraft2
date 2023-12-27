@@ -4,36 +4,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_games/pig-beating-terran-with-mass-drones-workers-only-to-grandmaster-1-starcraft-2.md",
-      "title": "Beating Terran with MASS DRONES | WORKERS ONLY to Grandmaster #1 - StarCraft 2",
-      "excerpt": "Here's WORKERS ONLY to Grandmaster Episode 1! Players are volunteers from low Silver to low Gold (2200 - 2700 MMR). They do not know what's coming, but they're aware it's something for YT.  HOW TO VOLUNTEER: Hop onto the discord to find out more https://discord.gg/sCTYquEd -- 🐷 Main Channel: https://www.youtube.com/user/PiGstarcraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-beating-terran-with-mass-drones-workers-only-to-grandmaster-1-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-beating-terran-with-mass-drones-workers-only-to-grandmaster-1-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=wa_Qb70RlpI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wa_Qb70RlpI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT47M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wa_Qb70RlpI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-03-02T07:58:56Z"
-    },
-    {
       "path": "_games/pig-blink-dt-charge-surround-grim-reaper-5-starcraft-2.md",
       "title": "BLINK DT CHARGE SURROUND! | Grim Reaper #5 - StarCraft 2",
       "excerpt": "Here's Grimmy against a Terran player! -- 🐷 Like my videos? Help support me by being a patron: https://www.patreon.com/PiGSC2 🐖 Watch live at https://www.twitch.tv/x5_pig 🐽 Linktree: https://linktr.ee/PiGStarcraft 👕 Merch: https://teespring.com/stores/pig-sc2 -- 🤯 ICYFAR Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUczdbU-zuY0-vykRSR1YsLC",
@@ -927,6 +897,36 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2021-06-01T12:47:10Z"
+    },
+    {
+      "path": "_games/pig-pretty-fly-for-a-widow-mine-the-unlikely-couple-liquid-reign-icyfar-g1.md",
+      "title": "Pretty Fly for a Widow Mine - The Unlikely Couple Liquid Reign ICYFAR G1",
+      "excerpt": "ATTENTION: ICYFAR Schedule has changed!  In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays that had the most unlikely units pair up!  CURRENT ICYFAR CHALLENGE: \"DIversity Hire\" - Use as many different units as possible. Send submissions to eonblu95@gmail.com",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-pretty-fly-for-a-widow-mine-the-unlikely-couple-liquid-reign-icyfar-g1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-pretty-fly-for-a-widow-mine-the-unlikely-couple-liquid-reign-icyfar-g1/",
+      "originalUrl": "https://youtube.com/watch?v=wOC0R1MvS44",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wOC0R1MvS44\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M51S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wOC0R1MvS44/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T12:46:41Z"
     }
   ],
   "nextPage": 22

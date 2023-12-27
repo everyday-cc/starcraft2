@@ -46,20 +46,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "First Success of New Game From StarCraft 2 Devs; Stormgate Raises Millions"
-    excerpt: "It looks like the developers from Frost Giant Studios don't need to fear for the popularity of their game. After all, it only took 15 minutes for Stormgate to reach its goal on Kickstarter."
-    publishedDateTime: 2023-12-07T21:25:00Z
-    webUrl: "https://www.gamepressure.com/newsroom/stormgate-raises-millions/z06550"
-    type: article
-    provider:
-      name: XCOM 2 Game Guide
-      domain: gamepressure.com
-    quality: 35
-    images:
-      - url: "https://cdn.gracza.pl/i_gp/h/22/439663892.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "2024 Starcraft RX 23 R DC"
     excerpt: "Starcraft’s RX 23 is part of its new flagship pontoon series, pampering family buyers with plush furniture and performance. Rather than traditional aluminum panels or molded fiberglass, Starcraft debuts industry-first acrylic-capped ABS plastic panels ..."
     publishedDateTime: 2023-12-15T00:00:00Z

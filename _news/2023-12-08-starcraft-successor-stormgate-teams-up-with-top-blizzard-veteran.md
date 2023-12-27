@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 696
         isCached: true
-  - title: "First Success of New Game From StarCraft 2 Devs; Stormgate Raises Millions"
-    excerpt: "It looks like the developers from Frost Giant Studios don't need to fear for the popularity of their game. After all, it only took 15 minutes for Stormgate to reach its goal on Kickstarter."
-    publishedDateTime: 2023-12-07T21:25:00Z
-    webUrl: "https://www.gamepressure.com/newsroom/stormgate-raises-millions/z06550"
-    type: article
-    provider:
-      name: XCOM 2 Game Guide
-      domain: gamepressure.com
-    quality: 35
-    images:
-      - url: "https://cdn.gracza.pl/i_gp/h/22/439663892.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "2024 Starcraft SVX 231 OB CC"
     excerpt: "The SVX series deck boat has proven one of Starcraft’s most versatile platforms. It combines a stable reverse-chine hull that excels in a variety of water conditions with a rectangular profile topside, which maintains beam width nearly all the way ..."
     publishedDateTime: 2023-12-13T00:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamesn.com/stormgate/chris-metzen-simu-liu"
 webUrl: "https://www.pcgamesn.com/stormgate/chris-metzen-simu-liu"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "'We didn't set out to recruit a Hollywood cast': Marvel star Simu Liu's love of StarCraft led to a big role in upcoming RTS Stormgate"
-    excerpt: "Stormgate is an upcoming real-time strategy game from a company with a great RTS development pedigree going back to StarCraft, but not one you'd necessarily expect to attract big Hollywood actors."
-    publishedDateTime: 2023-12-08T00:00:00Z
-    webUrl: "https://www.pcgamer.com/we-didnt-set-out-to-recruit-a-hollywood-cast-marvel-star-simu-lius-love-of-starcraft-led-to-a-big-role-in-upcoming-rts-stormgate/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 46
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/JJvQu4prnyKwiNZQPVYG3-1200-80.png"
-        width: 1200
-        height: 696
-        isCached: true
   - title: "2024 Starcraft SVX 231 OB CC"
     excerpt: "The SVX series deck boat has proven one of Starcraft’s most versatile platforms. It combines a stable reverse-chine hull that excels in a variety of water conditions with a rectangular profile topside, which maintains beam width nearly all the way ..."
     publishedDateTime: 2023-12-13T00:00:00Z

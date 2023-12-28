@@ -7,7 +7,7 @@ originalUrl: "https://www.boatingmag.com/boats/2024-starcraft-svx-231-ob-cc-bbg/
 webUrl: "https://www.boatingmag.com/boats/2024-starcraft-svx-231-ob-cc-bbg/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,20 +18,6 @@ topics:
   - StarCraft 2
 
 related:
-  - title: "StarCraft successor Stormgate teams up with top Blizzard veteran"
-    excerpt: "Stormgate, the RTS game from Warcraft 3 and StarCraft 2 veterans, teams up with Blizzard veteran Chris Metzen and Marvel actor Simu Liu."
-    publishedDateTime: 2023-12-08T03:30:00Z
-    webUrl: "https://www.pcgamesn.com/stormgate/chris-metzen-simu-liu"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 37
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/12/stormgate-warz-simu-liu-starcraft-successor-rts-game-blizzard-chris-metzen-frost-giant-studios.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "2024 Starcraft RX 23 R DC"
     excerpt: "Starcraft’s RX 23 is part of its new flagship pontoon series, pampering family buyers with plush furniture and performance. Rather than traditional aluminum panels or molded fiberglass, Starcraft debuts industry-first acrylic-capped ABS plastic panels ..."
     publishedDateTime: 2023-12-15T00:00:00Z

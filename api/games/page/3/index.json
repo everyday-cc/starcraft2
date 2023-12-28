@@ -286,44 +286,6 @@
       "publishedDateTime": "2023-05-06T08:32:37Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-oliveiras-confusing-terran-build-orders.md",
-      "title": "StarCraft 2: Oliveira's CONFUSING Terran Build Orders!",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between Lambo (Zerg) and Oliveira (Terran). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko Twitch livestream: https://twitch.tv/lowkotv Live",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-oliveiras-confusing-terran-build-orders/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-oliveiras-confusing-terran-build-orders/",
-      "originalUrl": "https://youtube.com/watch?v=TTlsAz-TBsU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TTlsAz-TBsU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M49S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 123,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TTlsAz-TBsU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-11-10T10:45:53Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-maxpaxs-incredible-stalker-micro-esl-finals.md",
       "title": "StarCraft 2: MaxPax's INCREDIBLE Stalker Micro! (ESL Finals)",
       "excerpt": "Best-of-5 series of StarCraft 2 that's the finals of the ESL Open Cup 204 Europe. This match is between MaxPax (Protoss) and HeroMarine (Terran). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
@@ -457,6 +419,44 @@
       "publishedDateTime": "2023-12-14T12:16:00Z"
     },
     {
+      "path": "_games/lowkotv-heros-new-protoss-all-ins-against-cure-starcraft-2.md",
+      "title": "herO's NEW Protoss All-Ins Against Cure! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Cure (Terran) and herO (Protoss). Both of these South Korean pro gamers are some of the best in SC2 and they are very familiar with each other's playstyle. In this series herO decides to play very aggressive games, by bringing out old build orders such",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-heros-new-protoss-all-ins-against-cure-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-heros-new-protoss-all-ins-against-cure-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=ja467IrDNyY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ja467IrDNyY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 113,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ja467IrDNyY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-10-09T09:47:18Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-premier-tournament-grand-finals-serral-vs-maxpax-best-of-7.md",
       "title": "StarCraft 2: Premier Tournament GRAND FINALS - Serral vs MaxPax! (Best-of-7)",
       "excerpt": "Grand Finals of the ESL StarCraft 2 Masters Summer: European regionals. This is a best-of-7 series of top level StarCraft 2 between Serral (Zerg) and MaxPax (Protoss). The number 1 Protoss and Zerg player in the world at the moment. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
@@ -493,6 +493,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-05-23T12:23:22Z"
+    },
+    {
+      "path": "_games/lowkotv-can-the-world-champion-stop-serral-starcraft-2.md",
+      "title": "Can the World Champion STOP Serral? (StarCraft 2)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Serral (Zerg) and Oliveira (Terran). Oliveira is the World Champion of StarCraft 2 of 2023, but Serral's Zerg versus Terran is looking incredible. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-can-the-world-champion-stop-serral-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-can-the-world-champion-stop-serral-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=UQtumXrCI0k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UQtumXrCI0k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M9S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UQtumXrCI0k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-01T11:16:42Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",
@@ -995,36 +1033,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2021-08-26T11:06:39Z"
-    },
-    {
-      "path": "_games/pig-starcraft-2-when-troll-strats-ruin-your-economy-diamond-in-the-ruff-72.md",
-      "title": "StarCraft 2 - When TROLL STRATS ruin your economy | Diamond in the Ruff #72",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Zerg opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-when-troll-strats-ruin-your-economy-diamond-in-the-ruff-72/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-when-troll-strats-ruin-your-economy-diamond-in-the-ruff-72/",
-      "originalUrl": "https://youtube.com/watch?v=4A01Z-xwidQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4A01Z-xwidQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M39S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 97,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4A01Z-xwidQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-05-03T01:51:47Z"
     }
   ],
   "nextPage": 4

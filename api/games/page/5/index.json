@@ -4,45 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_games/lowkotv-harstem-cannon-rushes-reynor-in-a-premier-tournament-starcraft-2.md",
-      "title": "Harstem CANNON RUSHES Reynor in a Premier Tournament! (StarCraft 2)",
-      "excerpt": "Best-of-5 series of pro StarCraft 2 between Reynor and Harstem. This Zerg versus Protoss was recently played during the ESL Masters European Regionals in the Upper Bracket of the tournament. Some of the wildest games of StarCraft 2 that I've recently seen. Support my work: https://patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-harstem-cannon-rushes-reynor-in-a-premier-tournament-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-harstem-cannon-rushes-reynor-in-a-premier-tournament-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=yYSij7HZw28",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yYSij7HZw28\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 75,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yYSij7HZw28/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD4gYChyMA8=&rs=AOn4CLArEU6xaYewm2SlnFr0i9xhSOwapA",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-11-20T11:37:54Z"
-    },
-    {
       "path": "_games/lowkotv-heromarine-trolls-reynor-with-cyclones-starcraft-2.md",
       "title": "HeroMarine TROLLS Reynor with Cyclones? (StarCraft 2)",
       "excerpt": "Best-of-3 series of Terran versus Zerg featuring HeroMarine and Reynor. In these games, played at HomeStory Cup, HeroMarine decides to play Terran Mech. In game one of this match he goes for a Cyclone all-in that I have not seen before, and one that I've been losing against regularly on the SC2 ladder",
@@ -1079,6 +1040,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-07-14T12:00:09Z"
+    },
+    {
+      "path": "_games/lowkotv-clem-didnt-expect-this-zerg-rush-starcraft-2.md",
+      "title": "Clem didn't expect this ZERG RUSH! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between Clem (Terran) and Wayne (Zerg). Match was played during the European Regionals of the ESL StarCraft 2 Masters Winter. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-clem-didnt-expect-this-zerg-rush-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-clem-didnt-expect-this-zerg-rush-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=usduQ_czBCk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/usduQ_czBCk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M19S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/usduQ_czBCk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-27T10:26:00Z"
     }
   ],
   "nextPage": 6

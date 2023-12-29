@@ -31,6 +31,15 @@ related:
       name: Boating
       domain: boatingmag.com
     quality: 17
+  - title: "2024 Starcraft MVX 230 Surf"
+    excerpt: "Starcraft may call the MVX 230 Surf a deck boat, but it’s got the unmistakable look and feel of today’s hottest wake-sports models. A trendy gray and black hull, with choice of a red, blue or tan accent, is bolder and darker than the typical Starcraft ..."
+    publishedDateTime: 2023-12-15T00:00:00Z
+    webUrl: "https://www.boatingmag.com/boats/2024-starcraft-mvx-230-surf-bbg/"
+    type: article
+    provider:
+      name: Boating
+      domain: boatingmag.com
+    quality: 17
   - title: "2024 Starcraft RX 23 R DC"
     excerpt: "Starcraft’s RX 23 is part of its new flagship pontoon series, pampering family buyers with plush furniture and performance. Rather than traditional aluminum panels or molded fiberglass, Starcraft debuts industry-first acrylic-capped ABS plastic panels ..."
     publishedDateTime: 2023-12-15T00:00:00Z

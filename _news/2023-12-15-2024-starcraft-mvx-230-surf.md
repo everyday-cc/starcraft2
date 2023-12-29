@@ -1,13 +1,13 @@
 ---
 category: news
-title: "2024 Starcraft SVX 231 OB CC"
-excerpt: "The SVX series deck boat has proven one of Starcraft’s most versatile platforms. It combines a stable reverse-chine hull that excels in a variety of water conditions with a rectangular profile topside, which maintains beam width nearly all the way ..."
-publishedDateTime: 2023-12-13T00:00:00Z
-originalUrl: "https://www.boatingmag.com/boats/2024-starcraft-svx-231-ob-cc-bbg/"
-webUrl: "https://www.boatingmag.com/boats/2024-starcraft-svx-231-ob-cc-bbg/"
+title: "2024 Starcraft MVX 230 Surf"
+excerpt: "Starcraft may call the MVX 230 Surf a deck boat, but it’s got the unmistakable look and feel of today’s hottest wake-sports models. A trendy gray and black hull, with choice of a red, blue or tan accent, is bolder and darker than the typical Starcraft ..."
+publishedDateTime: 2023-12-15T00:00:00Z
+originalUrl: "https://www.boatingmag.com/boats/2024-starcraft-mvx-230-surf-bbg/"
+webUrl: "https://www.boatingmag.com/boats/2024-starcraft-mvx-230-surf-bbg/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -18,10 +18,10 @@ topics:
   - StarCraft 2
 
 related:
-  - title: "2024 Starcraft MVX 230 Surf"
-    excerpt: "Starcraft may call the MVX 230 Surf a deck boat, but it’s got the unmistakable look and feel of today’s hottest wake-sports models. A trendy gray and black hull, with choice of a red, blue or tan accent, is bolder and darker than the typical Starcraft ..."
-    publishedDateTime: 2023-12-15T00:00:00Z
-    webUrl: "https://www.boatingmag.com/boats/2024-starcraft-mvx-230-surf-bbg/"
+  - title: "2024 Starcraft SVX 231 OB CC"
+    excerpt: "The SVX series deck boat has proven one of Starcraft’s most versatile platforms. It combines a stable reverse-chine hull that excels in a variety of water conditions with a rectangular profile topside, which maintains beam width nearly all the way ..."
+    publishedDateTime: 2023-12-13T00:00:00Z
+    webUrl: "https://www.boatingmag.com/boats/2024-starcraft-svx-231-ob-cc-bbg/"
     type: article
     provider:
       name: Boating
@@ -46,6 +46,6 @@ related:
       domain: arstechnica.com
     quality: 17
 
-secured: "SROxJbeomUfcdi77FNDRJWNCPT0TchLpJ+vnRh5Exort5De6jzDaoU93DNsH4MG7M+c3juZcGk062kP1pUiZq6RdPwpKLBF+FWp5XYMLuz/3+wFQaGVMY9QvMfAB06oQimhx7zzs3ItH99Bay4i6Tf4VtSVWeRp6jg7oSaynoUp/RzHff47zloxvDhjrGyxXcvYkskqhwPne7KNETM0WgiHoZxa0C++PkDcUjoooxeVjQIGRsFKSeHvZacUdIqrSsexVuAJrCwpg15CZ/VGNPXGomLL7+N8ckeNlVJp2xmTkt+/UbPfQpLFgg8a8Bx8EiXJiZw6stHB2gDVZ5vJzp/6uvmKhJS2eSu6bQfIsu50=;v/O7pmtVJ4hGyZFso8A7gQ=="
+secured: "RX/XpJhb8CvV0QOzIwZS6nUu5zC28uZ7+rn/R4xG/tIvfeFZshqvJjk5vifuMZxOElPgFc7n3u3SZCrDSccrHGw7XeQQETdl9mQNC72p8V4muyf5Xtvr3MEFsfDg/KgCQCWgeVjziVFNhiXJdT/VCTLJ97fWHBnf3NFUS0Uma/9DXvQwj5jRuZ5Fp/vOkzFRc88OLSUWm/K447lM+PcCAFM8Fzpj4kfODiyh1fGdI3khiXh7LIrZzEW9FGKnII9oXZ5InEsa2dzOFBRK0zsxQPmBiltkhGlDTGmdR/I16T6q7N9y7+fwu9NVZlGVWmT/QkAJlDUrx6iDyO6hUw5rUJrvexiTMlyqSYcr0shyDhM=;ZEp3hZlustxVDikC1bIWdw=="
 ---
 

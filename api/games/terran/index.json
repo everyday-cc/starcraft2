@@ -196,45 +196,6 @@
       "publishedDateTime": "2023-09-07T10:01:13Z"
     },
     {
-      "path": "_games/lowkotv-clem-vs-solar-the-most-intense-terran-vs-zerg-series-starcraft-2.md",
-      "title": "CLEM vs SOLAR: The Most INTENSE Terran vs Zerg Series! (StarCraft 2)",
-      "excerpt": "Amazing series of StarCraft 2 between Clem (Terran) and Solar (Zerg). This best-of-5 match of SC2 was played during the Dreamhack Atlanta tournament, with a prize pool of $75000. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-clem-vs-solar-the-most-intense-terran-vs-zerg-series-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-clem-vs-solar-the-most-intense-terran-vs-zerg-series-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=Q6HJJL3NBTA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q6HJJL3NBTA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H15M22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 266,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Q6HJJL3NBTA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-05T09:54:10Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-sky-terran-vs-sky-toss-hero-vs-ryung.md",
       "title": "StarCraft 2: SKY Terran vs SKY Toss! (herO vs Ryung)",
       "excerpt": "Professional match of StarCraft 2 between Ryung (Terran) and herO (Protoss).  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
@@ -464,6 +425,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-05-08T10:18:53Z"
+    },
+    {
+      "path": "_games/lowkotv-clem-vs-solar-the-most-intense-terran-vs-zerg-series-starcraft-2.md",
+      "title": "CLEM vs SOLAR: The Most INTENSE Terran vs Zerg Series! (StarCraft 2)",
+      "excerpt": "Amazing series of StarCraft 2 between Clem (Terran) and Solar (Zerg). This best-of-5 match of SC2 was played during the Dreamhack Atlanta tournament, with a prize pool of $75000. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-clem-vs-solar-the-most-intense-terran-vs-zerg-series-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-clem-vs-solar-the-most-intense-terran-vs-zerg-series-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=Q6HJJL3NBTA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q6HJJL3NBTA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H15M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 241,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Q6HJJL3NBTA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-05T09:54:10Z"
     },
     {
       "path": "_games/lowkotv-the-new-highest-ranked-1-terran-1-protoss-starcraft-2.md",
@@ -816,6 +816,45 @@
       "publishedDateTime": "2023-05-06T08:32:37Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-gumihos-barracks-rushes-dark-esl-finals.md",
+      "title": "StarCraft 2: GuMiho's BARRACKS RUSHES Dark! (ESL Finals)",
+      "excerpt": "Best-of-5 series of South Korean StarCraft 2 between GuMiho (Terran) and Dark (Zerg). This match is the finals of the ESL Open Cup 203 North America. GuMiho decides to build multiple Barracks on his opponent's side of the map in every game. Some good ol' Terran cheese. Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumihos-barracks-rushes-dark-esl-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumihos-barracks-rushes-dark-esl-finals/",
+      "originalUrl": "https://youtube.com/watch?v=x_fi6gI0Zy0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x_fi6gI0Zy0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M51S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 122,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/x_fi6gI0Zy0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-12-06T11:48:49Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",
       "title": "StarCraft 2: Erik's SURPRISES GuMiho with Zerg Drops! (Best-of-3)",
       "excerpt": "Best-of-3 series of Zerg vs Terran in StarCraft 2 between Erik and GuMiho. This is a series with some very unique Zerg strategies and build orders. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
@@ -1114,45 +1153,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-05-03T01:51:47Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-maru-wtl-finals-best-of-3.md",
-      "title": "StarCraft 2: Serral vs Maru - WTL Finals! (Best-of-3)",
-      "excerpt": "Watch as two of the best StarCraft 2 players in the world, Serral and Maru, face off in a best-of-3 series that will keep you on the edge of your seat. Who will emerge victorious in this epic showdown from the WTL? Find out in this video! Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-maru-wtl-finals-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-maru-wtl-finals-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=X8zRfGowK2s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X8zRfGowK2s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 89,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/X8zRfGowK2s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-08-17T08:42:06Z"
     }
   ],
   "nextPage": 2

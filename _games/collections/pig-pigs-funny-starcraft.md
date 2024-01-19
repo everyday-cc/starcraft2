@@ -2,7 +2,7 @@
 title: "PiG's FUNNY STARCRAFT"
 excerpt: ""
 type: collection
-heat: 62
+heat: 61
 
 provider:
   name: PiG
@@ -1089,6 +1089,11 @@ items:
   - pig-he-got-so-mad-he-doxed-himself-salt-mines-49-starcraft-2
   - pig-florencio-mass-pees-on-the-nexus-strategically-florencio-files-288-starcraft-2
   - pig-how-did-he-make-this-salty-terran-so-mad-so-fast-salt-mines-50-starcraft-2
+  - pig-when-cannon-rushers-both-want-to-do-the-exact-same-rush-king-of-cannons-x-boanaan-starcraft-2
+  - pig-parting-gets-trolled-hard-by-a-secret-pro-holdout-challenge-starcraft-2
+  - pig-astrea-has-become-a-tournament-level-florencio
+  - pig-2024-liberators-are-the-new-cyclones-starcraft-2
+  - pig-everyone-you-cant-beat-solar-hero-and-clem-in-one-tourney-astrea
 
 topics:
   - StarCraft 2

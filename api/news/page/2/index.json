@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-08-phil-spencer-excited-at-the-prospect-of-new-starcraft-warcraft.md",
+      "title": "Phil Spencer excited at the prospect of new StarCraft & Warcraft",
+      "excerpt": "In a recent interview with Wired, Phil Spencer touches on Blizzard properties like StarCraft and Warcraft, and how he's excited about the opportunity both hold.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard",
+      "originalUrl": "https://www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/11/07/phil-spencer-interview-starcraft-warcraft-activision-blizzard-king-wired_feature.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard?amphtml=1",
+      "publishedDateTime": "2022-11-07T18:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shacknews",
+        "domain": "shacknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-phil-spencer-excited-at-the-idea-of-more-starcraft.md",
       "title": "Phil Spencer 'excited' at the idea of more StarCraft",
       "excerpt": "One of those may possibly be beloved RTS StarCraft, something which Spencer seems pretty excited about. The Xbox boss sat down with Wired to talk about Age of Empire's 25th anniversary, and the series' foray onto console—which has also meant controller ...",
@@ -1159,57 +1201,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-free-prologue-missions-for-starcraft-2-legacy-of-void-available-now.md",
-      "title": "Free Prologue Missions for StarCraft 2: Legacy of Void Available Now",
-      "excerpt": "Patch 3.0 for StarCraft 2 opens up access to \"Whispers of Oblivion,\" which let players \"witness the beginning of the end through the eyes of Zeratul as he searches the galaxy in an effort to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/free-prologue-missions-for-starcraft-2-legacy-of-v/1100-6431212/",
-      "originalUrl": "https://www.gamespot.com/articles/free-prologue-missions-for-starcraft-2-legacy-of-v/1100-6431212/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1197/11970954/2888805-e32015-youtube--video-template.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/free-prologue-missions-for-starcraft-2-legacy-of-v/1100-6431212/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/free-prologue-missions-for-starcraft-2-legacy-of-v/1100-6431212/",
-      "publishedDateTime": "2022-01-14T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/gamespot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

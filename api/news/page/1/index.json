@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-05-heroes-of-the-storm-is-sort-of-receiving-new-content-in-the-form-of-a-starcraft-2-mod.md",
+      "title": "Heroes Of The Storm Is, Sort Of, Receiving New Content In The Form Of A Starcraft 2 Mod",
+      "excerpt": "Active development on Heroes of the Storm, Blizzard's MOBA starring heroes and villains from across its iconic game franchises, ended in 2022, but one group of dedicated fans is bringing the game back in a big way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamespot.com/articles/heroes-of-the-storm-is-sort-of-receiving-new-content-in-the-form-of-a-starcraft-2-mod/1100-6520123/",
+      "originalUrl": "https://www.gamespot.com/articles/heroes-of-the-storm-is-sort-of-receiving-new-content-in-the-form-of-a-starcraft-2-mod/1100-6520123/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_kubrick/1647/16470614/4242080-heroesofthestormmodrecreatesblizzardmoba.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-04T17:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_news/2023-11-30-stormgate-is-a-very-starcraft-y-rts-made-by-ex-starcraft-developers.md",
       "title": "Stormgate Is a Very StarCraft-y RTS Made By Ex-StarCraft Developers",
       "excerpt": "The Infernal Host is the kind of RTS faction that takes some getting used to, in contrast to the more standard Vanguard. But it really is a riot once you get the hang of it, with battles that look hopeless to a newcomer turning into a clean sweep as the ground is replaced with Fiends and your enemy winds up completely inundated by death.",
@@ -1133,48 +1185,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-phil-spencer-excited-at-the-prospect-of-new-starcraft-warcraft.md",
-      "title": "Phil Spencer excited at the prospect of new StarCraft & Warcraft",
-      "excerpt": "In a recent interview with Wired, Phil Spencer touches on Blizzard properties like StarCraft and Warcraft, and how he's excited about the opportunity both hold.",
-      "sourceUrl": null,
-      "webUrl": "https://www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard",
-      "originalUrl": "https://www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/11/07/phil-spencer-interview-starcraft-warcraft-activision-blizzard-king-wired_feature.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard?amphtml=1",
-      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/133000/phil-spencer-new-starcraft-warcraft-blizzard?amphtml=1",
-      "publishedDateTime": "2022-11-07T18:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Shacknews",
-        "domain": "shacknews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

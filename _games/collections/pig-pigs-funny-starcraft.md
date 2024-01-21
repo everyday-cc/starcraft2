@@ -1091,9 +1091,10 @@ items:
   - pig-how-did-he-make-this-salty-terran-so-mad-so-fast-salt-mines-50-starcraft-2
   - pig-when-cannon-rushers-both-want-to-do-the-exact-same-rush-king-of-cannons-x-boanaan-starcraft-2
   - pig-parting-gets-trolled-hard-by-a-secret-pro-holdout-challenge-starcraft-2
-  - pig-astrea-has-become-a-tournament-level-florencio
+  - pig-astrea-has-become-a-tournament-level-florencio-astrea-archives-1-starcraft-2
   - pig-2024-liberators-are-the-new-cyclones-starcraft-2
   - pig-everyone-you-cant-beat-solar-hero-and-clem-in-one-tourney-astrea
+  - pig-starcraft-pros-read-mean-youtube-comments
 
 topics:
   - StarCraft 2

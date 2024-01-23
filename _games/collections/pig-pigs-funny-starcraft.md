@@ -1095,6 +1095,7 @@ items:
   - pig-2024-liberators-are-the-new-cyclones-starcraft-2
   - pig-everyone-you-cant-beat-solar-hero-and-clem-in-one-tourney-astrea
   - pig-starcraft-pros-read-mean-youtube-comments
+  - pig-this-devious-spire-strategy-destroys-on-ladder-starcraft
 
 topics:
   - StarCraft 2

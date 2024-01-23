@@ -2,6 +2,7 @@
 title: "This DEVIOUS Spire Strategy Destroys On Ladder | StarCraft"
 excerpt: "Hiding Spires is... Surprising effective on the ladder. -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2"
 originalUrl: https://youtube.com/watch?v=PUWSod33byk
+webUrl: https://everyday.cc/starcraft2/game/pig-this-devious-spire-strategy-destroys-on-ladder-starcraft/
 type: video
 length: PT32M41S
 publishedDateTime: 2024-01-23T12:50:29Z
@@ -22,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ummlaodxNo2tbrytle41YQVLtnrKKlsKfHNVCLi6T95O24fX7fPr5fnpSJKtYOVbxwEbjR7702uh7wmJG3cx8gAZZeM4dVeXW1kQeK3r00idtYw4dhtA45VhNIFVTAIV8MgCCfhtfgVw/Bh1tCMQfaPRlaE/Sog1gz80QIdQvHxH4ri3TeEyV1ghWOIMTFqCgbUdn1FYWEI9JlFr70r3u2uNSGWH4P0JsuQUehwp6QyA32f5tEdMbxn/ddbw2sRpjaexFf0YlqWZyRRuWkSiVfdeEyU4aAOiD6huKslc3N1c7rw9pt9GQtDwWWVtEDX6rXg45ZaX2ed6u+YduAmDjcsSeSKNPEzM0wKUbu3jU16YeQHccWa56SAXlL8xXhY4JJcqGNT7l8CV0ptfnYKChQ==;G4KsN4YCzwwR7fsQyEEp0w=="
+secured: "Mujy00CLn0hCkZ4LQ5QnV4lbMu3sWJh5JiZBvQT8ZHIUV1AWgJFNLqBQhV5YZlKv/6HE/TJ3Bw3xy2YEmxs9PhkcveFphRjQuJ3Uo4Nq8WBmg1mKrN2m7E8ZVCzI4tYwL8OFNu7ti+hpsA6ejwODpMJGEUTr443USLzLy4y73Fus1oDfbNqp38IbkAi1D++UWiEKIrESYxHb3Dn2LdCgs96zg4CFtOIUC6liSuyYlEzQ3isnCybZ+5VatVabQi0iLHD4NzoT1hDS7OmTS8RozS63YgmDlWX0ItMOkeVuQ0S01KPZgf++wV8WjfTHuWl/XrtwOZfMFLf25PugGmNCfnJ/PYtG/HOLOYLDWRDMkrG+XynEkVz8v6dTZgYP9xSu0Wq9coXxt0xOg4zuI8D+Ng==;SyYzbjUZFr2hyEOpL8wisg=="
 ---
 

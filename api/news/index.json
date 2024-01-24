@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-05-heroes-of-the-storm-is-getting-a-quasi-successor-in-the-form-of-a-starcraft-2-mod.md",
+      "title": "Heroes of the Storm is Getting A Quasi-Successor In The Form of a Starcraft 2 Mod",
+      "excerpt": "While Resurgence of the Storm is limited to what can be done in a Starcraft 2 mod, it is already introducing new characters into the fray, while doing its best to get as much Heroes of the Storm content into the fray.",
+      "sourceUrl": null,
+      "webUrl": "https://comicbook.com/gaming/news/heroes-of-the-storm-successor-starcraft-2-mod-pc/",
+      "originalUrl": "https://comicbook.com/gaming/news/heroes-of-the-storm-successor-starcraft-2-mod-pc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2023/12/29/413db634-7abb-4e5f-95d7-6fe6590090ff/hellblade-2.png?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/heroes-of-the-storm-successor-starcraft-2-mod-pc/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/heroes-of-the-storm-successor-starcraft-2-mod-pc/",
+      "publishedDateTime": "2024-01-04T23:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_news/2024-01-05-heroes-of-the-storm-is-sort-of-receiving-new-content-in-the-form-of-a-starcraft-2-mod.md",
       "title": "Heroes Of The Storm Is, Sort Of, Receiving New Content In The Form Of A Starcraft 2 Mod",
       "excerpt": "Active development on Heroes of the Storm, Blizzard's MOBA starring heroes and villains from across its iconic game franchises, ended in 2022, but one group of dedicated fans is bringing the game back in a big way.",
@@ -1120,57 +1163,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-12-07T23:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-starcraft-ii-5010-hotfix-patch-notes.md",
-      "title": "StarCraft II 5.0.10 Hotfix Patch Notes",
-      "excerpt": "Patch 5.0.10 Hotfix has arrived which contains a number of co-op bugfixes that were gathered by the community. Check out the detail!",
-      "sourceUrl": null,
-      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23882276/starcraft-ii-5-0-10-hotfix-patch-notes",
-      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23882276/starcraft-ii-5-0-10-hotfix-patch-notes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T21:54:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Blizzard",

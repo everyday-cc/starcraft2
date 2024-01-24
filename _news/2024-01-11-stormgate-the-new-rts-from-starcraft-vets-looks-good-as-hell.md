@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Heroes Of The Storm Is, Sort Of, Receiving New Content In The Form Of A Starcraft 2 Mod"
-    excerpt: "Active development on Heroes of the Storm, Blizzard's MOBA starring heroes and villains from across its iconic game franchises, ended in 2022, but one group of dedicated fans is bringing the game back in a big way."
-    publishedDateTime: 2024-01-04T17:32:00Z
-    webUrl: "https://www.gamespot.com/articles/heroes-of-the-storm-is-sort-of-receiving-new-content-in-the-form-of-a-starcraft-2-mod/1100-6520123/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 101
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_kubrick/1647/16470614/4242080-heroesofthestormmodrecreatesblizzardmoba.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Heroes of the Storm is Getting A Quasi-Successor In The Form of a Starcraft 2 Mod"
     excerpt: "While Resurgence of the Storm is limited to what can be done in a Starcraft 2 mod, it is already introducing new characters into the fray, while doing its best to get as much Heroes of the Storm content into the fray."
     publishedDateTime: 2024-01-04T23:31:00Z

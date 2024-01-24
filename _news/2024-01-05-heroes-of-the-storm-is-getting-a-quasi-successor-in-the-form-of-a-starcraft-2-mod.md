@@ -9,8 +9,8 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/heroes-of-the-storm-successor-
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/heroes-of-the-storm-successor-starcraft-2-mod-pc/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Comicbook.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Heroes Of The Storm Is, Sort Of, Receiving New Content In The Form Of A Starcraft 2 Mod"
-    excerpt: "Active development on Heroes of the Storm, Blizzard's MOBA starring heroes and villains from across its iconic game franchises, ended in 2022, but one group of dedicated fans is bringing the game back in a big way."
-    publishedDateTime: 2024-01-04T17:32:00Z
-    webUrl: "https://www.gamespot.com/articles/heroes-of-the-storm-is-sort-of-receiving-new-content-in-the-form-of-a-starcraft-2-mod/1100-6520123/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 101
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_kubrick/1647/16470614/4242080-heroesofthestormmodrecreatesblizzardmoba.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Stormgate, The New RTS From Starcraft Vets, Looks Good As Hell"
     excerpt: "Stormgate, the new RTS from a team of Starcraft veterans at Frost Giant Studios, held its first pro level esports event in late December. This 25-minute showmatch provides one of the clearest looks at the game anyone has had to date."
     publishedDateTime: 2024-01-10T21:58:00Z

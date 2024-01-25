@@ -769,14 +769,14 @@
       "publishedDateTime": "2023-11-22T11:35:41Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-harstems-proxy-nexus-vs-serral.md",
-      "title": "StarCraft 2: Harstem's PROXY NEXUS vs Serral!",
-      "excerpt": "Professional match of StarCraft 2 between Serral (Zerg) and Harstem (Protoss) from HomeStory Cup 24, played in early December 2024. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko Twitch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-harstems-proxy-nexus-vs-serral/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-harstems-proxy-nexus-vs-serral/",
-      "originalUrl": "https://youtube.com/watch?v=CehYzjUlaKQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CehYzjUlaKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M25S",
+      "path": "_games/lowkotv-gumihos-new-mech-all-in-vs-protoss-starcraft-2.md",
+      "title": "GuMiho's NEW Mech All-In vs Protoss?! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of StarCraft 2 between GuMiho and Classic. This series is one of the two semi-finals of the GSL Code S, season 3 of 2023. In these games both players clearly have build orders prepared for the opponent, as GuMiho decides to do the same new Mech all-in twice in a row. Support my work:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-gumihos-new-mech-all-in-vs-protoss-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-gumihos-new-mech-all-in-vs-protoss-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=VxXRwXyIeEs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VxXRwXyIeEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M19S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -791,13 +791,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
-        "Zerg"
+        "Terran",
+        "Protoss"
       ],
-      "heat": 115,
+      "heat": 111,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/CehYzjUlaKQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/VxXRwXyIeEs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -805,7 +805,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-12-11T10:00:53Z"
+      "publishedDateTime": "2023-11-07T11:10:45Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",

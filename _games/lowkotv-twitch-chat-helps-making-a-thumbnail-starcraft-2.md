@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-twitch-chat-helps-making-a-t
 type: video
 length: PT45S
 publishedDateTime: 2024-01-18T11:23:34Z
-heat: 179
+heat: 154
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0wFGYIlkCaE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "B6XThN0aDEaswY9Eb/ezxyGOZs4xftuvg5Wzh/MM/2uoAYNW5nOCLbLXizDtAQYHksiXtEP6GJjzQKXdy31aHK/NJhctAGokqGBJQZuhIe0fUoaM/f/8BmO4yuKdomlOFwlw1FaUnO577WtKWqPDLXHS735wBa6Vh0hvDrXUfHi9ur7m+VNoIwCNKpy8J7d/Fq/M2afI1uqee97CrDUFwFoHLU1nLFF8gjbJEz9h1+gZ1z/mHNl3tt62qpTBcmMbHhESIy3Whm47Zj8LZ7SLVBJ8UrPXaxGJ5za7I1/j68Gkn/s1K755JyHRdtLeANYWbaVgvcDao/vMoq1+VpVQTJjA3XC8yUBcpf6vUednBFATc8OI/QJNIbwwvDTT3peGmWMAR8dYWaI//EZFZEQPM+kwhTfzGvjK9MoNuO3FdXo=;DgBjB8nY4Drjpb6AMzZW2Q=="
+secured: "ZYEUT0662hiHCzV7ZDJ5HOcu/uTj4nmhfsvfxxcOdnJecLkw/B4tFiaPcUUCTUftBkXYuw1j1ORQiD9CGnrj8O5s/VYTe77NpoQJx+i/GEzuSqgBTO0QavPVDhqMctJJkaaAPmbKWXrh9Y7ZEKdSbouprM6iVV6vsT3oaicOqVkmEqwHF1SK7TmqQrHV9Dd/doM/+U7yqrq4ZKSAe/uxYn1CN6SPOQiCy/j9kTkclBOeCaw0R4/gO6wmsz7tgaxr+SZAAVOUxobODG25bWVV5xleyPUWMuQuFXDdPuna3gcpsPchh7fE6fA6aklbJ9Dupw2VLZHxMnRUnmP4T9jznlaBun+WcBHAdKaytFprSKVZrkH2H5gx8ng0VOQFTUsxCm2FgLwTH9gJZbYyLVicKio3THLAgic7vSGy+lDBe9M=;tyf5JaouNjfq6smSkZo7Yw=="
 ---
 

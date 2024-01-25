@@ -7,7 +7,7 @@ originalUrl: "https://www.kotaku.com.au/2024/01/stormgate-the-new-rts-from-starc
 webUrl: "https://www.kotaku.com.au/2024/01/stormgate-the-new-rts-from-starcraft-vets-looks-good-as-hell/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,21 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Heroes of the Storm is Getting A Quasi-Successor In The Form of a Starcraft 2 Mod"
-    excerpt: "While Resurgence of the Storm is limited to what can be done in a Starcraft 2 mod, it is already introducing new characters into the fray, while doing its best to get as much Heroes of the Storm content into the fray."
-    publishedDateTime: 2024-01-04T23:31:00Z
-    webUrl: "https://comicbook.com/gaming/news/heroes-of-the-storm-successor-starcraft-2-mod-pc/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/heroes-of-the-storm-successor-starcraft-2-mod-pc/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/heroes-of-the-storm-successor-starcraft-2-mod-pc/"
+  - title: "StarCraft 2 Devs Invite to Test New Strategy Game. Stormgate Available at Steam Next Fest"
+    excerpt: "RTS fans are in for quite a treat at the upcoming Steam Next Fest. Consisting of the co-creators of StarCraft 2, Frost Giant studio has announced that its upcoming game, Stormgate, will be available to check out at the event."
+    publishedDateTime: 2024-01-15T09:19:00Z
+    webUrl: "https://www.gamepressure.com/newsroom/starcraft-2-devs-invite-to-test-new-strategy-game-stormgate-avail/z7676d"
     type: article
     provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 84
+      name: XCOM 2 Game Guide
+      domain: gamepressure.com
+    quality: 28
     images:
-      - url: "https://sportshub.cbsistatic.com/i/2023/12/29/413db634-7abb-4e5f-95d7-6fe6590090ff/hellblade-2.png?width=568&height=320"
-        width: 568
-        height: 320
+      - url: "https://cdn.gracza.pl/i_gp/h/22/442787316.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Warcraft and StarCraft devs' upcoming RTS game Stormgate manages to raise 1875% of its Kickstarter goal with over $1.8 million in the bank"
+    excerpt: "An upcoming RTS game from Warcraft and StarCraft veterans has managed to gain 1875% of its original Kickstarter goal, with just over two weeks left to go on its campaign. Last month, we reported ..."
+    publishedDateTime: 2024-01-16T00:00:00Z
+    webUrl: "https://www.gamesradar.com/warcraft-and-starcraft-devs-upcoming-rts-game-stormgate-manages-to-raise-1875-of-its-kickstarter-goal-with-over-dollar18-million-in-the-bank/"
+    type: article
+    provider:
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 3
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/n9NWEyfZrduJRR7b6ac5W6-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "7e46fde+SD9IY8x5BRYoBzB3mb9h4IOPBOSd6QSM7b5hbzv8caeRRO/17Yi2N7dw3PtLdzSHO3sfMC8ppDwzCmeseU0ej0W/Dp2b6rxwc6T9txIxeacAuZcLaNGxXlQSF3ijozLYsHAgMHTXr4UUkun7NWnb86zYWRvD5r5L9O1rZ5TKNyLjeq3DGO7zuf529XOHG7v6gNExvxWhpw9fJk9NeQJGh/Vf5dC4HfqYxI6nyzzleB1gt7h+qmet8cqeSKoSkdec4Xan8HQ/lW2WqMErofFW0f+r/BGsMhRQZMRr44morolGcQCSV4FuLiy2S8fdjssNyNIwNTZ12F6Xco/qVPgwhoz55r74bRryyXHwctyscyBvQi3Y0b/MdDTJEJJsLJbZJB/C7VYfqt6TWNXBywfeWV8c3riAhRp1TYkdSd2pOhOcsKb54guQDcgyJpI23/CnDIjRNz6pWvdcEx6J6GOp2ZHs+gQ73HnW6zfIMcUyXJb3p0P786p9C8TPFlxA4YatrWQ+r2h+uE+hPQ==;DlewMAwNRjYWNClLvy5GTw=="

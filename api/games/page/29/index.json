@@ -4,45 +4,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-beautiful-zerg-vs-terran.md",
-      "title": "StarCraft 2: BEAUTIFUL Zerg vs Terran!",
-      "excerpt": "An awesome match of Zerg vs Terran between Solar and Bunny. Subscribe for more videos: http://lowko.tv/youtube Intense Terran vs Terran: https://goo.gl/gmjtDH  In this Zerg versus Terran cast I cover a high level professional game of StarCraft 2. Both players decide to play a \"tier based\" style. Meaning",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-beautiful-zerg-vs-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-beautiful-zerg-vs-terran/",
-      "originalUrl": "https://youtube.com/watch?v=iU0-YGcJbLg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iU0-YGcJbLg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M5S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iU0-YGcJbLg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2017-04-08T09:10:00Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-best-game-of-2020-byun-vs-serral.md",
       "title": "StarCraft 2: BEST Game Of 2020?! (ByuN vs Serral)",
       "excerpt": "One of the best games of the year in StarCraft 2. An epic match of Zerg versus Terran between Serral and ByuN. Two previous world champions of the game.   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
@@ -1140,6 +1101,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-05-17T11:26:57Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-bunnys-mass-bunker-slow-push-best-of-3.md",
+      "title": "StarCraft 2: Bunny's MASS BUNKER Slow Push! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Bunny (Terran) and Classic (Protoss). In this series Bunny decides to play hyper aggressively against one of the best defensive Protoss players in the world.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-bunnys-mass-bunker-slow-push-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-bunnys-mass-bunker-slow-push-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=K1S6p0Doq5w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K1S6p0Doq5w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M2S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/K1S6p0Doq5w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-02-16T16:26:18Z"
     }
   ],
   "nextPage": 30

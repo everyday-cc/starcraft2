@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/pig-everyone-you-cant-beat-solar-her
 type: video
 length: PT1H8M10S
 publishedDateTime: 2024-01-18T08:31:55Z
-heat: 98
+heat: 89
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1irfC_i6D4c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "lwi2BLxzk+YuTGZAsDrVTPFUWeKEQbzq4mGWqG3CeQb4Bt+eicoaTqyT5nBREqKQZJjdoJrnAuh26guG+RJk6mGZ186dYvkKShec9w67YTSHR1OqFtuLunrL9YOtu3VKqReOkiIUupz6vFv6Jexh0a0DJ2QJjzslNkgqGryqs+rvk+knBWXOiLZHUW6mI5g3QNScjGxa6uP/wZArGDvNssIXD5CpgTYkUNeyxHNxpzbAwbPPcZn91ZIqaP+hDcXBoeJpUNUN114tpV5cL/jMUK9DAjHJPjrLvHaOLOiWNXmsMzjXhjIVqFarH2TU9CSdtdvX5GeGI+ocGRQPM0Gio1avwkz/TjP0qRlzzeRuL0j06fUnq4JZYZo/I6FYvX6ynYuXuVLa2FMc9kkXVNSV9WO1DeJjiCVm4LZcBnhwhrU=;qpslFxloKEjDqUjOgv/ITA=="
+secured: "OnkJvylG9LhAjbtIdpXl8PC0zW9dNNS7eY9NO6hJvgGqqBdE6+CVWOoJQYDiBed3siMUs6vXM9nNPSHRw+u7WCa3jyGvG87RvO37zQFV+LnxNjAFCyZc2ibZKmDGfWL7Sx8q/xZ6XCjTzRpVVaruzEN6wkJ+Y/cSoKCqY4zjOqjP6XgAE+V7h+GwkmZC+icY2vDqVGYU6WhgNwGrvq0p9QqZYpe0gj0Se80tf3AP2mY69XKq80ulHhl48BcVaYh7Plt6KlrDdVoOp0uHlXJzMWCxRGZrPgAkVMvdi6igREwng3Hg9ghAxZBNvcO0tRAc3tPx0WZ/y0OiBurDDg9pR/mqx1sB00QW1LN4cIRxXLutyr+GFkFiX5pgI6dJjb8PmWUbNlnfEQyCeBhnrABnvYEZqMMMXbKxLj1xJR+XunI=;mtKynk5szRv227+FnAC7CA=="
 ---
 

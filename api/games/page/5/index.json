@@ -706,44 +706,6 @@
       "publishedDateTime": "2024-01-04T11:07:44Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-maxpaxs-surprising-dark-templar-switch.md",
-      "title": "StarCraft 2: MaxPax's SURPRISING Dark Templar Switch!",
-      "excerpt": "Best-of-5 series of European StarCraft 2, played on the 25th of December 2023. This series between MaxPax and HeroMarine is a Protoss versus Terran that is the finals of the ESL Open Cup 207 Europe. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpaxs-surprising-dark-templar-switch/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpaxs-surprising-dark-templar-switch/",
-      "originalUrl": "https://youtube.com/watch?v=CEZI08BOOV0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CEZI08BOOV0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M30S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 73,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CEZI08BOOV0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-12-29T11:32:29Z"
-    },
-    {
       "path": "_games/lowkotv-oliveiras-60-marine-swarm-vs-solar-starcraft-2.md",
       "title": "Oliveira's 60+ MARINE SWARM vs Solar!  (StarCraft 2)",
       "excerpt": "Professional match of StarCraft 2 between Oliveira (Terran) and Solar (Zerg).  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko Twitch livestream: https://twitch.tv/lowkotv Live most days",
@@ -1059,6 +1021,36 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2021-09-28T11:46:30Z"
+    },
+    {
+      "path": "_games/pig-starcraft-2-three-basetrades-in-one-game-rocker-vs-ukko-pvz.md",
+      "title": "StarCraft 2 - THREE BASETRADES IN ONE GAME | Rocker vs Ukko (PvZ)",
+      "excerpt": "These Smooth Brain players, Rocker (P) and Ukko (Z), are very high level GM players. Please enjoy this 40 minute basetrade extravaganza, like a game of musical chairs but for bases 🐷 https://www.patreon.com/PiGSC2  🐖 Watch PiGFest live on https://www.twitch.tv/x5_pig where these players plus 6 more",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-three-basetrades-in-one-game-rocker-vs-ukko-pvz/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-three-basetrades-in-one-game-rocker-vs-ukko-pvz/",
+      "originalUrl": "https://youtube.com/watch?v=1HGdRas4k9o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1HGdRas4k9o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M35S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1HGdRas4k9o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2021-10-24T07:21:00Z"
     }
   ],
   "nextPage": 6

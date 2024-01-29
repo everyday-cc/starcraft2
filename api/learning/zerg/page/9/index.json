@@ -4,6 +4,68 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/videos/pig-starcraft-2-simplifying-zvz-and-improving-reactions-in-zvt-coaching-plat-1-zerg.md",
+      "title": "StarCraft 2 - Simplifying ZvZ and improving reactions in ZvT | Coaching Plat 1 Zerg",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-simplifying-zvz-and-improving-reactions-in-zvt-coaching-plat-1-zerg/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-simplifying-zvz-and-improving-reactions-in-zvt-coaching-plat-1-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=PthL6nPFNQk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PthL6nPFNQk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H7M44S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-01-28T17:00:10Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PthL6nPFNQk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/pig-starcraft-2-solid-macro-zvp-roach-hydra-style-coaching-d3.md",
+      "title": "StarCraft 2 - Solid Macro ZvP - Roach Hydra Style - Coaching D3",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos dont appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig My Website: https://pigstarcraft.com/ My Twitter: https://twitter.com/x5_PiG My Instagram:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-solid-macro-zvp-roach-hydra-style-coaching-d3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-solid-macro-zvp-roach-hydra-style-coaching-d3/",
+      "originalUrl": "https://youtube.com/watch?v=TOgN0GHRHNA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TOgN0GHRHNA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H5M56S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-06-23T17:29:54Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TOgN0GHRHNA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/pig-starcraft-2-solid-roach-into-muta-zvp-coaching-d2.md",
       "title": "StarCraft 2 - Solid Roach into Muta ZvP! Coaching D2",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -383,37 +445,6 @@
       ]
     },
     {
-      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-6-muta-play-in-diamond-2-b2gm.md",
-      "title": "StarCraft 2 - Zerg Bronze to GM #6: Muta Play in Diamond 2 (B2GM)",
-      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 Introducing Muta Ling Bane play to Diamond 2 3:09 Game 1 vs Terran 15:36 How to Muta micro 22:22 Adding more detail to the Muta Ling Bane build 22:18 Game 2 vs Zerg 31:17 Game 3 vs Terran 48:47 Game",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-6-muta-play-in-diamond-2-b2gm/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-6-muta-play-in-diamond-2-b2gm/",
-      "originalUrl": "https://youtube.com/watch?v=jJdx9VGt3BE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jJdx9VGt3BE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4H35M",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-08-27T09:06:59Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jJdx9VGt3BE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-7-2-base-mutas-in-diamond-1-b2gm.md",
       "title": "StarCraft 2 - Zerg Bronze to GM #7: 2 Base Mutas in Diamond 1 (B2GM)",
       "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 New 2 Base Muta Build 3:29 Game 1 vs Terran 26:22 Game 2 vs Terran 47:55 Game 3 vs Terran 1:24:17 Game 4 vs Protoss 1:55:47 Game 5 vs Terran 2:06:50 Game 6 vs Terran 2:27:46 Game 7 vs Terran 2:47:20",
@@ -433,37 +464,6 @@
           "url": "https://i.ytimg.com/vi/m0wrhOKMnBs/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/pig-starcraft-2-zerg-bronze-to-gm-8-aggressive-builds-in-masters-3-b2gm.md",
-      "title": "StarCraft 2 - Zerg Bronze to GM #8: Aggressive Builds in Masters 3 (B2GM)",
-      "excerpt": "🐷 If you're enjoying my B2GM series, consider supporting my Patreon: https://www.patreon.com/PiGSC2 0:00 Masters 3 Plan 5:48 Game 1 vs Terran 19:43 Game 2 vs Terran 35:42 Game 3 vs Terran 49:40 Game 4 vs Zerg 52:13 Game 5 vs Terran 1:05:07 Game 6 vs Terran 1:14:05 Viewer questions 1:24:57 Game 7 vs",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-8-aggressive-builds-in-masters-3-b2gm/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/pig-starcraft-2-zerg-bronze-to-gm-8-aggressive-builds-in-masters-3-b2gm/",
-      "originalUrl": "https://youtube.com/watch?v=rCpmMe0iDPY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rCpmMe0iDPY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3H41M10S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-09-11T10:11:47Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rCpmMe0iDPY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
           "isCached": true
         }
       ],

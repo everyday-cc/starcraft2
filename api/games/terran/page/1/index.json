@@ -623,45 +623,6 @@
       "publishedDateTime": "2023-05-22T10:49:14Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-epic-marus-battlcruisers-vs-heros-carriers.md",
-      "title": "StarCraft 2: EPIC! - Maru's Battlcruisers vs herO's Carriers!",
-      "excerpt": "Amazing best-of-5 series of top level StarCraft 2 from the ESL Masters Winter Tournament. Maru versus herO is the highest level of Terran versus Protoss between South Korean pro gamers in all of SC2.   Serral vs Maru: https://youtu.be/6NJKJ0c5coM?si=m0UrBz8XnHWYb_xt Support my work: https://patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-marus-battlcruisers-vs-heros-carriers/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-marus-battlcruisers-vs-heros-carriers/",
-      "originalUrl": "https://youtube.com/watch?v=b3sJ7Ho7Ogo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b3sJ7Ho7Ogo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H9M22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 145,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/b3sJ7Ho7Ogo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-12-28T08:50:41Z"
-    },
-    {
       "path": "_games/lowkotv-clem-vs-solar-the-most-intense-terran-vs-zerg-series-starcraft-2.md",
       "title": "CLEM vs SOLAR: The Most INTENSE Terran vs Zerg Series! (StarCraft 2)",
       "excerpt": "Amazing series of StarCraft 2 between Clem (Terran) and Solar (Zerg). This best-of-5 match of SC2 was played during the Dreamhack Atlanta tournament, with a prize pool of $75000. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
@@ -854,6 +815,36 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-05-22T10:49:14Z"
+    },
+    {
+      "path": "_games/pig-this-should-never-work-against-a-terran-grand-master-mape-the-ape-5-starcraft-2.md",
+      "title": "This should NEVER work against a Terran Grand Master | Mape The Ape #5 - StarCraft 2",
+      "excerpt": "The Adept is meant to be an early game harassment unit. But Mape shows that if you get +1 attack vs Terran they go 3-shotting down to 2-shotting SCVs and marines, really cute build.   -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-should-never-work-against-a-terran-grand-master-mape-the-ape-5-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-should-never-work-against-a-terran-grand-master-mape-the-ape-5-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=U1kedJ3iAOA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/U1kedJ3iAOA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M22S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/U1kedJ3iAOA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-09T06:30:49Z"
     },
     {
       "path": "_games/lowkotv-gumihos-epic-battlecruiser-switch-surprises-astrea-starcraft-2.md",

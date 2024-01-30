@@ -42,45 +42,6 @@
       "publishedDateTime": "2023-03-27T12:02:26Z"
     },
     {
-      "path": "_games/lowkotv-solar-gets-terran-rushed-repeatedly-by-byun-starcraft-2.md",
-      "title": "Solar gets TERRAN RUSHED REPEATEDLY by ByuN! (StarCraft 2)",
-      "excerpt": "Best-of-5 series that's the StarCraft 2 finals of the ESL Open Cup 210 for the Korean server. This series is between ByuN (Terran) and Solar (Zerg). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-solar-gets-terran-rushed-repeatedly-by-byun-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-solar-gets-terran-rushed-repeatedly-by-byun-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=57NUag1kW00",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/57NUag1kW00\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M10S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 320,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/57NUag1kW00/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-17T10:31:41Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-all-new-maps-scarlett-drone-rushes-hero-best-of-5.md",
       "title": "StarCraft 2: ALL NEW MAPS - Scarlett DRONE RUSHES herO! (Best-of-5)",
       "excerpt": "High level match of StarCraft 2 played on brand new maps from the Team Liquid Map Contest (TLMC). This best-of-5 is between Scarlett and herO. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
@@ -118,6 +79,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-06-21T12:36:29Z"
+    },
+    {
+      "path": "_games/lowkotv-solar-gets-terran-rushed-repeatedly-by-byun-starcraft-2.md",
+      "title": "Solar gets TERRAN RUSHED REPEATEDLY by ByuN! (StarCraft 2)",
+      "excerpt": "Best-of-5 series that's the StarCraft 2 finals of the ESL Open Cup 210 for the Korean server. This series is between ByuN (Terran) and Solar (Zerg). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-solar-gets-terran-rushed-repeatedly-by-byun-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-solar-gets-terran-rushed-repeatedly-by-byun-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=57NUag1kW00",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/57NUag1kW00\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M10S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 282,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/57NUag1kW00/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-17T10:31:41Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-new-maps-roach-rush-vs-protoss-maxpax-vs-meomaika.md",
@@ -1078,14 +1078,14 @@
       "publishedDateTime": "2024-01-15T09:24:19Z"
     },
     {
-      "path": "_games/lowkotv-darks-shocking-proxy-hatcheries-best-of-3.md",
-      "title": "Dark's SHOCKING Proxy Hatcheries! (Best-of-3)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between Dark (Zerg) and NightMare (Protoss). In this series Dark decides to play some questionable strategies against his Protoss opponent but as per usual he somehow makes it work. A proxy hatchery is a strategy where a Zerg player builds a Hatchery near the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-darks-shocking-proxy-hatcheries-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-darks-shocking-proxy-hatcheries-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=wBAEBaUcmlY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wBAEBaUcmlY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M10S",
+      "path": "_games/lowkotv-reynors-unexpected-sky-toss-switches-vs-scarlett-best-of-3.md",
+      "title": "Reynor's UNEXPECTED Sky Toss Switches vs Scarlett! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Reynor and Scarlett. In this series Reynor decides to play Protoss, rather than make this a Zerg versus Zerg.  Reynor's Protoss vs Serral: https://youtu.be/Ayg4tUhwMjM Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-reynors-unexpected-sky-toss-switches-vs-scarlett-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-reynors-unexpected-sky-toss-switches-vs-scarlett-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=Vd9zA9xDXXg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vd9zA9xDXXg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M3S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1102,10 +1102,10 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 117,
+      "heat": 118,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/wBAEBaUcmlY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Vd9zA9xDXXg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEMgZShjMA8=&rs=AOn4CLARVAoJy5T8qvTt9OByt3TwgJmItw",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1113,7 +1113,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-12-14T12:16:00Z"
+      "publishedDateTime": "2023-12-08T12:55:03Z"
     }
   ],
   "nextPage": 2

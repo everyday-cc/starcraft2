@@ -7,7 +7,7 @@ originalUrl: "https://www.gamepressure.com/newsroom/starcraft-2-devs-invite-to-t
 webUrl: "https://www.gamepressure.com/newsroom/starcraft-2-devs-invite-to-test-new-strategy-game-stormgate-avail/z7676d"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stormgate, The New RTS From Starcraft Vets, Looks Good As Hell"
-    excerpt: "Stormgate, the new RTS from a team of Starcraft veterans at Frost Giant Studios, held its first pro level esports event in late December. This 25-minute showmatch provides one of the clearest looks at the game anyone has had to date."
-    publishedDateTime: 2024-01-10T21:58:00Z
-    webUrl: "https://www.kotaku.com.au/2024/01/stormgate-the-new-rts-from-starcraft-vets-looks-good-as-hell/"
-    type: article
-    provider:
-      name: Kotaku Australia
-      domain: kotaku.com.au
-    quality: 37
-    images:
-      - url: "https://www.kotaku.com.au/wp-content/uploads/2024/01/ss_2981ceadb7bda4f8757c7624dc0f78e07ba8de13.1920x1080-e1704923850776.jpg?quality=75"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Warcraft and StarCraft devs' upcoming RTS game Stormgate manages to raise 1875% of its Kickstarter goal with over $1.8 million in the bank"
     excerpt: "An upcoming RTS game from Warcraft and StarCraft veterans has managed to gain 1875% of its original Kickstarter goal, with just over two weeks left to go on its campaign. Last month, we reported ..."
     publishedDateTime: 2024-01-16T00:00:00Z

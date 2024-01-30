@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stormgate, The New RTS From Starcraft Vets, Looks Good As Hell"
-    excerpt: "Stormgate, the new RTS from a team of Starcraft veterans at Frost Giant Studios, held its first pro level esports event in late December. This 25-minute showmatch provides one of the clearest looks at the game anyone has had to date."
-    publishedDateTime: 2024-01-10T21:58:00Z
-    webUrl: "https://www.kotaku.com.au/2024/01/stormgate-the-new-rts-from-starcraft-vets-looks-good-as-hell/"
-    type: article
-    provider:
-      name: Kotaku Australia
-      domain: kotaku.com.au
-    quality: 37
-    images:
-      - url: "https://www.kotaku.com.au/wp-content/uploads/2024/01/ss_2981ceadb7bda4f8757c7624dc0f78e07ba8de13.1920x1080-e1704923850776.jpg?quality=75"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "StarCraft 2 Devs Invite to Test New Strategy Game. Stormgate Available at Steam Next Fest"
     excerpt: "RTS fans are in for quite a treat at the upcoming Steam Next Fest. Consisting of the co-creators of StarCraft 2, Frost Giant studio has announced that its upcoming game, Stormgate, will be available to check out at the event."
     publishedDateTime: 2024-01-15T09:19:00Z

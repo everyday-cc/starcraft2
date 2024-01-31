@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-30-iem-katowice-2024-everything-to-know-about-cs2-and-starcraft-ii.md",
+      "title": "IEM Katowice 2024: Everything To Know About ‘CS2’ And ‘StarCraft II’",
+      "excerpt": "Here’s everything you need to know about the two biggest 'CS2' and 'StarCraft II' esports competitions coming your way in the next few days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mattgardner1/2024/01/29/iem-katowice-2024-everything-you-need-to-know-about-esls-cs2-and-starcraft-ii-events/",
+      "originalUrl": "https://www.forbes.com/sites/mattgardner1/2024/01/29/iem-katowice-2024-everything-you-need-to-know-about-esls-cs2-and-starcraft-ii-events/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b811bce582df0d1ae7146f/0x0.jpg?format=jpg&crop=2731,1537,x0,y716,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mattgardner1/2024/01/29/iem-katowice-2024-everything-you-need-to-know-about-esls-cs2-and-starcraft-ii-events/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattgardner1/2024/01/29/iem-katowice-2024-everything-you-need-to-know-about-esls-cs2-and-starcraft-ii-events/amp/",
+      "publishedDateTime": "2024-01-29T21:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2024-01-05-heroes-of-the-storm-is-getting-a-quasi-successor-in-the-form-of-a-starcraft-2-mod.md",
       "title": "Heroes of the Storm is Getting A Quasi-Successor In The Form of a Starcraft 2 Mod",
       "excerpt": "While Resurgence of the Storm is limited to what can be done in a Starcraft 2 mod, it is already introducing new characters into the fray, while doing its best to get as much Heroes of the Storm content into the fray.",
@@ -1126,57 +1177,6 @@
         "name": "IBTimes UK",
         "domain": "ibtimes.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-starcraft-ii-5011-ptr-patch-notes.md",
-      "title": "StarCraft II 5.0.11 PTR Patch Notes",
-      "excerpt": "We are excited to push Patch 5.0.11 to PTR which features various amounts of balance, bugfixes, and quality of life improvement done by our community members.",
-      "sourceUrl": null,
-      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23891308/starcraft-ii-5-0-11-ptr-patch-notes",
-      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23891308/starcraft-ii-5-0-11-ptr-patch-notes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 251,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T23:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

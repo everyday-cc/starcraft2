@@ -46,6 +46,22 @@ related:
         width: 1599
         height: 900
         isCached: true
+  - title: "Team Vitality Unveils New ‘StarCraft II’ Squad For IEM Katowice 2024"
+    excerpt: "After an incredible 2023, the French esports club is now competing in one of the most foundational titles in esports."
+    publishedDateTime: 2024-02-01T10:19:00Z
+    webUrl: "https://www.forbes.com/sites/mattgardner1/2024/02/01/team-vitality-unveils-new-starcraft-ii-squad-for-iem-katowice-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/mattgardner1/2024/02/01/team-vitality-unveils-new-starcraft-ii-squad-for-iem-katowice-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattgardner1/2024/02/01/team-vitality-unveils-new-starcraft-ii-squad-for-iem-katowice-2024/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 57
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65bb6e3bc1c7d82c9cd8a6fb/0x0.jpg?format=jpg&crop=1080,608,x0,y220,safe&height=900&width=1600&fit=bounds"
+        width: 1599
+        height: 900
+        isCached: true
 
 secured: "PEpNgrIXX+rQq4gpP0zy81N8kYtL/OTlf9i1BjHIvYlTTY8dW+oFexCo/heYIaUhA0BVXnjMUCKe1splWRQpxI1j2VUeQByJ1soaj8VwD4UyJgb7xhFLAab1MhzgSpDdWtFxqBY/cdpsyBSQ/8wB8MHR1HrGy7ne8U6PMkZvNOZ5frWPjDLF82DNn7KpY6/TTlW/YONtGSjWyOq8IiSYvYMcVokkiaX0SQT62CeXm85aBR9Zb0B/fXPpwXqsUGFqeQnIz0EpIRFBfw3lprUGPLIqRx33OtGagDyuCb2f5wZLmTAivvmrBqiqZBYtjqECLgT7tLDMA/Zmh2wJLMOuB0uB+i9SQIj8OHoYRqtIpwM=;dSfMoiVlazNPVQRRxKnLFQ=="
 ---

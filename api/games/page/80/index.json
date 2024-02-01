@@ -4,6 +4,35 @@
   "page": 80,
   "value": [
     {
+      "path": "_games/pig-star-crafts-mod-icyfar-the-pig-daily-73-part-2.md",
+      "title": "Star Crafts MoD - ICYFAR - The PiG Daily #73 (Part 2)",
+      "excerpt": "THIS WEEKS ICYFAR: \"Thinking outside the box\" - send in your replays using compositions and style that are outside the regular meta!. Send submissions to eonblu95@gmail.com as attachment. Lastest submission until the second daily of the week (Monday in EU/US, Tuesday in AUS/KR).\r Full Playlist of Daily",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-star-crafts-mod-icyfar-the-pig-daily-73-part-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-star-crafts-mod-icyfar-the-pig-daily-73-part-2/",
+      "originalUrl": "https://youtube.com/watch?v=aguRUJ24NGs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aguRUJ24NGs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M40S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aguRUJ24NGs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T12:46:41Z"
+    },
+    {
       "path": "_games/pig-star-crafts-mod-icyfar-the-pig-daily-73-part-3.md",
       "title": "Star Crafts MoD - ICYFAR - The PiG Daily #73 (Part 3)",
       "excerpt": "THIS WEEKS ICYFAR: \"Thinking outside the box\" - send in your replays using compositions and style that are outside the regular meta!. Send submissions to eonblu95@gmail.com as attachment. Lastest submission until the second daily of the week (Monday in EU/US, Tuesday in AUS/KR).\r Full Playlist of Daily",
@@ -874,35 +903,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2021-06-01T12:46:41Z"
-    },
-    {
-      "path": "_games/pig-starcraft-2-an-even-larger-brain-than-florencio-ka-boom-baby-2.md",
-      "title": "StarCraft 2 - An Even Larger Brain than Florencio | Ka BOOM Baby #2",
-      "excerpt": "Check out her twitch:  https://www.twitch.tv/booooooooooooooooooom/   Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-an-even-larger-brain-than-florencio-ka-boom-baby-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-an-even-larger-brain-than-florencio-ka-boom-baby-2/",
-      "originalUrl": "https://youtube.com/watch?v=dFTXhLvsNcA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dFTXhLvsNcA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M15S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dFTXhLvsNcA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T12:47:39Z"
     }
   ],
   "nextPage": 81

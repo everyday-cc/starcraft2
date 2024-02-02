@@ -4,82 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_games/lowkotv-this-dark-vs-cure-finals-is-amazing-bring-popcorn-starcraft-2.md",
-      "title": "This Dark vs Cure Finals is AMAZING! Bring Popcorn. (StarCraft 2)",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 between Dark (Zerg) and Cure (Terran). This match is the grand finals of the Korean StarCraft League 18 (KSL 18). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-this-dark-vs-cure-finals-is-amazing-bring-popcorn-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-this-dark-vs-cure-finals-is-amazing-bring-popcorn-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=b-SN_ZgRtIo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b-SN_ZgRtIo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53M56S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/b-SN_ZgRtIo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-07-10T11:04:16Z"
-    },
-    {
-      "path": "_games/lowkotv-will-byun-get-the-reaper-nerfed-again-starcraft-2.md",
-      "title": "Will ByuN get the Reaper NERFED... Again?! (StarCraft 2)",
-      "excerpt": "GL HF GG Mug: https://lowko.shop/products/gl-hf-gg-mug Best-of-3 series of top level StarCraft 2 between ByuN (Terran) and Solar (Zerg). In these games ByuN decides to make Reapers... and then more Reapers... and then in the next game he decides to go more Reapers. He loves Reapers, what else can I say?",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-will-byun-get-the-reaper-nerfed-again-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-will-byun-get-the-reaper-nerfed-again-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=El07mk2fT8E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/El07mk2fT8E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/El07mk2fT8E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-10-20T09:17:16Z"
-    },
-    {
       "path": "_games/pig-artosis-plays-sc2-for-the-first-time-in-6-years.md",
       "title": "ARTOSIS plays SC2 for the first time in 6 YEARS",
       "excerpt": "@ArtosisTV  was playing StarCraft 2 for the first time in years! Give him a follow and check out his SC2 stream vod: https://www.twitch.tv/videos/1840460541 -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
@@ -109,14 +33,14 @@
       "publishedDateTime": "2023-06-09T09:54:24Z"
     },
     {
-      "path": "_games/pig-starcraft-2-recall-rush-the-florencio-files-1.md",
-      "title": "StarCraft 2 - Recall Rush | The Florencio Files #1",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-recall-rush-the-florencio-files-1/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-recall-rush-the-florencio-files-1/",
-      "originalUrl": "https://youtube.com/watch?v=7hGsrlWElnU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7hGsrlWElnU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M24S",
+      "path": "_games/pig-flo-fights-a-maphacker-florencio-riles-283-starcraft-2.md",
+      "title": "FLO FIGHTS A MAPHACKER! | Florencio Riles #283 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-flo-fights-a-maphacker-florencio-riles-283-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-flo-fights-a-maphacker-florencio-riles-283-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=K_zmwZUvh0o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K_zmwZUvh0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT58M27S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -128,15 +52,45 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/7hGsrlWElnU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/K_zmwZUvh0o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2018-05-24T07:49:07Z"
+      "publishedDateTime": "2023-06-06T06:42:43Z"
+    },
+    {
+      "path": "_games/pig-florencio-mass-pees-on-the-nexus-strategically-florencio-files-288-starcraft-2.md",
+      "title": "Florencio MASS PEEs on the Nexus \"Strategically\" | Florencio Files #288 - StarCraft 2",
+      "excerpt": "Florencio goes gas first as a zerg player to rush burrow, but things get out of hand faster than anyone is ready for...  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc 🧜Florencio Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-florencio-mass-pees-on-the-nexus-strategically-florencio-files-288-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-florencio-mass-pees-on-the-nexus-strategically-florencio-files-288-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=qhds-neyxqs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qhds-neyxqs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M41S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qhds-neyxqs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-12-16T10:09:58Z"
     },
     {
       "path": "_games/pig-this-is-why-sc2-isnt-played-on-50-hit-points-pigs-lab-starcraft-2.md",
@@ -1103,6 +1057,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-09-06T09:02:54Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-heros-colossus-juggling-vs-cure-ksl-finals.md",
+      "title": "StarCraft 2: herO's COLOSSUS JUGGLING vs Cure! (KSL Finals)",
+      "excerpt": "Best-of-5 series of StarCraft 2 that's the grand finals of the Korean StarCraft League 35. This series is between herO (Protoss) and Cure (Terran). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-colossus-juggling-vs-cure-ksl-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-colossus-juggling-vs-cure-ksl-finals/",
+      "originalUrl": "https://youtube.com/watch?v=g5BlcfKRUIQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/g5BlcfKRUIQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M15S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/g5BlcfKRUIQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-30T08:58:36Z"
     }
   ],
   "nextPage": 11

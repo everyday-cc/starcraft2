@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Team Vitality enters StarCraft II esports"
+    excerpt: "Team Vitality has continued its expansive efforts by now signing an all-South Korean roster that will be competing in the Asian StarCraft II circuit. The roster has been created in partnership with South Korean organisation Onsyde,"
+    publishedDateTime: 2024-02-02T10:02:00Z
+    webUrl: "https://www.gamereactor.eu/team-vitality-enters-starcraft-ii-esports-1354603/"
+    type: article
+    provider:
+      name: Gamereactor
+      domain: gamereactor.eu
+    quality: 37
+    images:
+      - url: "https://www.gamereactor.eu/media/29/teamvitalityenters_4192933b.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "naJinoywiOWLPZPpmaluXBu6M9eKQqaMWVTKi38AcOW9WSbJOV5v1KAR1xP1sDHMsahgH6lkrVi/UrfJvUz8JK/raE4PfGxFeaEEf1dU92JbLT+yFjSdJ3pTX0dZUxNNMMN8eyxrk3i9OCT7s0eD8OY6g08+OXHlgKleY/vzgFU2YKXUailFA7bzM6CI5uw/VtTOPTwb4pfxXNMEVk/WhHjH5I8Kq5F1vBU/WfLlLQRvAM+duCMrMOHPIFYtFuYAPZgr+nx1oaSKb9somdj/PjjmKd+XOmYOwswvzWhLTC31U+uixddEjzu2F5D9lQxVPRofxr6Kv5gG+FUv2G7C33RS1iQ/cYFsu0zk9BBgrfw=;jgBPAAt2GX66xP6CWQzZPw=="
 ---

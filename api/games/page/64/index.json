@@ -4,6 +4,43 @@
   "page": 64,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-for-charity-tournament-grand-finals-cast.md",
+      "title": "StarCraft for Charity - Tournament Grand Finals! (Cast)",
+      "excerpt": "On Saturday the 4th of June we ran the very first charity event for LowkoTV. A StarCraft 2: Legacy of the Void tournament with 32 players, all random, all between Bronze and Diamond league. Blizzard provided thirty of keys for giveaways, and with thousands unique views it's been an incredible event.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-for-charity-tournament-grand-finals-cast/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-for-charity-tournament-grand-finals-cast/",
+      "originalUrl": "https://youtube.com/watch?v=3QObYNFqnVM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3QObYNFqnVM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3QObYNFqnVM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2016-06-06T14:29:26Z"
+    },
+    {
       "path": "_games/lowkotv-stracraft-2-the-first-best-match-of-the-year-gumiho-vs-classic.md",
       "title": "StraCraft 2: The FIRST \"Best Match of the Year\"?! (GuMiho vs Classic)",
       "excerpt": "Amazing game of professional StarCraft 2 between GuMiho (Terran) and Classic (Protoss).  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko Clips: https://www.youtube.com/lowkoclips  Be part of the",
@@ -889,38 +926,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2021-06-01T12:46:41Z"
-    },
-    {
-      "path": "_games/pig-a-pair-of-chads-and-the-golden-armada-twitch-plays-pig-31.md",
-      "title": "A pair of Chads and the Golden Armada | Twitch Plays PiG #31",
-      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-a-pair-of-chads-and-the-golden-armada-twitch-plays-pig-31/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-a-pair-of-chads-and-the-golden-armada-twitch-plays-pig-31/",
-      "originalUrl": "https://youtube.com/watch?v=wOEk44oACJY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wOEk44oACJY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M30S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wOEk44oACJY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2019-11-06T17:00:12Z"
     }
   ],
   "nextPage": 65

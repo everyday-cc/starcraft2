@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=kHkKW7iKFkc
 type: video
 length: PT28M44S
 publishedDateTime: 2022-12-15T03:00:10Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kHkKW7iKFkc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "urh5Sv95znn57QQQvUBjHB33mXOZxZg61Y8L+aNSj3mr2yoi8PEPIjokgYPH1iUIFCEq2M5Ym6TxNRqfJ8sXfc6nHinmZmcf7VX1gXsQ+4S4pqshLV2uPZ7UpQdsE5zOAFA357NBP/73RYo2vFi7VvJv7wNBOVNEEAozqXUNRItLttpB1e41sQiXs/WaDMe1Av7rm3eKmaM/gUhA78x81gIGUdYQqGtZjuhUpztGRFZPtVoI7JMbbDkWTRJKsHc0OHthEJBhf/3dwAYsTA+jdk1TeO6IbXT7mKQZtTwvwtpaJfdsNW/JIHTgDaBQo1dz92xy6kfZXe4PLkQsAwGuFvtD/hBrrT7OWLND7Qjs7tanjJ93iJP35l4nFMqEPXUGmSPZZ8tDqXhiWSnbnEOg5JyDmpQcghkWoy52pRi7IFo=;eklybsZcuCIA5rkzENzgqg=="
+secured: "LygrzooGUOVan3PbkWgoptkrlGMi5H5V0um4pxC/cnUpCvDHRgnf+a0n5QwVIvWvako87OZbHVaKMr9pJyFPtJZjyIRCBPAhGnE1t4GCKMDZgMjCxBxzXkvHrpN/AUNKw9QkLY6fIHf18uOX9CTBJpPqIsj517tZ0uzDX4KnRLg2G2LGiJaSyPsUG/5mu23zfj6f/hLrk5ZZabAUQSMumkNIO+bz0KcZp3B+NrW68qmtNzqm5zZuP9QuuefJfEtHquSifocQrhTkNrk88xf7QwdeKxtveoP6DMLI++daBz+7BYwsUY60FdvMS6chqEumDKjG0BsJEC0BwVQQ5wR1IsoCqPvVFmTaUn8UAvx2PgxQjkLScXfDIIOg+68Y6TAssct2QE/xplho//2dbYJ9fihLVpr1evR54ymuunnPUEQ=;BiXcnnLMUygVrubFKMN1hw=="
 ---
 

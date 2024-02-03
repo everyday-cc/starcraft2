@@ -4,76 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-maru-wtl-finals-best-of-3.md",
-      "title": "StarCraft 2: Serral vs Maru - WTL Finals! (Best-of-3)",
-      "excerpt": "Watch as two of the best StarCraft 2 players in the world, Serral and Maru, face off in a best-of-3 series that will keep you on the edge of your seat. Who will emerge victorious in this epic showdown from the WTL? Find out in this video! Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-maru-wtl-finals-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-maru-wtl-finals-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=X8zRfGowK2s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X8zRfGowK2s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 89,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/X8zRfGowK2s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-08-17T08:42:06Z"
-    },
-    {
-      "path": "_games/pig-when-you-think-its-a-tvz-but-you-3-rax-a-terran-instead-diamond-in-the-ruff-65-starcraft-2.md",
-      "title": "When you think it's a TvZ, but you 3-Rax a Terran instead | Diamond in the Ruff #65 - StarCraft 2",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Protoss opponent?   💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-you-think-its-a-tvz-but-you-3-rax-a-terran-instead-diamond-in-the-ruff-65-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-you-think-its-a-tvz-but-you-3-rax-a-terran-instead-diamond-in-the-ruff-65-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=Fi8Svuvdlxs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Fi8Svuvdlxs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M39S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 89,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Fi8Svuvdlxs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-03-04T03:13:33Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-epic-marus-battlcruisers-vs-heros-carriers.md",
       "title": "StarCraft 2: EPIC! - Maru's Battlcruisers vs herO's Carriers!",
       "excerpt": "Amazing best-of-5 series of top level StarCraft 2 from the ESL Masters Winter Tournament. Maru versus herO is the highest level of Terran versus Protoss between South Korean pro gamers in all of SC2.   Serral vs Maru: https://youtu.be/6NJKJ0c5coM?si=m0UrBz8XnHWYb_xt Support my work: https://patreon.com/lowkotv",
@@ -1636,6 +1566,45 @@
       "publishedDateTime": "2023-11-29T11:21:59Z"
     },
     {
+      "path": "_games/lowkotv-serral-vs-byun-ridiculously-bad-terran-build-orders-starcraft-2.md",
+      "title": "SERRAL vs BYUN - Ridiculous(ly bad) Terran Build Orders! (StarCraft 2)",
+      "excerpt": "Best-of-3 series from the StarCraft 2 ESL Masters Winter tournament. In this match between Serral and ByuN, ByuN (Terran) decides to execute some of the strangest two-base all-ins I have seen all year against Serral (Zerg). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-serral-vs-byun-ridiculously-bad-terran-build-orders-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-serral-vs-byun-ridiculously-bad-terran-build-orders-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=VtW25yWa9wc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VtW25yWa9wc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VtW25yWa9wc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-12-22T11:29:28Z"
+    },
+    {
       "path": "_games/pig-how-did-he-make-this-salty-terran-so-mad-so-fast-salt-mines-50-starcraft-2.md",
       "title": "How did he make this Salty Terran So MAD So FAST?? | Salt Mines #50 - StarCraft 2",
       "excerpt": "And he didn't stop being mad. Some say, to this day, he's mad.  Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty.   Binge the Salt Mines playlist: https://youtube.com/playlist?list=PLFUDU8AOevUePkIO6d3vLr0SSVKeZBdsZ",
@@ -1850,6 +1819,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-09-21T13:35:56Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-florencios-disgusting-terran-plays.md",
+      "title": "StarCraft 2: FLORENCIO'S DISGUSTING TERRAN PLAYS!",
+      "excerpt": "I've casted quite a few of Florencio's Protoss games in StarCraft 2. This time around he's showing some of the strategies that he is working on with Terran. In this game he opens up with a Reaper Bunker rush, then transitions towards Battlecruisers and eventually leads to Mech and quadruple Nukes.  Florencio",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-florencios-disgusting-terran-plays/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-florencios-disgusting-terran-plays/",
+      "originalUrl": "https://youtube.com/watch?v=_DJFkHwH1H8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_DJFkHwH1H8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M35S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_DJFkHwH1H8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2020-07-18T12:07:54Z"
     }
   ],
   "nextPage": 3

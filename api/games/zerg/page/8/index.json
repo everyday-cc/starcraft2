@@ -4,6 +4,78 @@
   "page": 8,
   "value": [
     {
+      "path": "_games/beastyqtsc2-starcraft-2-zerg-siege-tanks.md",
+      "title": "StarCraft 2: ZERG Siege Tanks!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  When you play against Terran with Mass Infestors,",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-zerg-siege-tanks/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-zerg-siege-tanks/",
+      "originalUrl": "https://youtube.com/watch?v=GqYa9T86FEM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GqYa9T86FEM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M59S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GqYa9T86FEM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2019-08-15T10:48:50Z"
+    },
+    {
+      "path": "_games/lowkotv-can-byun-counter-serrals-supremacy-starcraft-2.md",
+      "title": "Can ByuN Counter Serral's SUPREMACY? (StarCraft 2)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between Serral (Zerg) and ByuN (Terran). Some very strange and powerful build orders get played by both players in this game, as both players try to outsmart each other. They're trying to put the word strategy in to the Real Time Strategy category.  Support my",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-can-byun-counter-serrals-supremacy-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-can-byun-counter-serrals-supremacy-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=j5QLBeG_u3Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j5QLBeG_u3Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M38S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/j5QLBeG_u3Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-09-12T09:19:21Z"
+    },
+    {
       "path": "_games/lowkotv-dark-surprises-cure-in-the-gsl-code-s-starcraft-2.md",
       "title": "Dark SURPRISES Cure in the GSL Code S! (StarCraft 2)",
       "excerpt": "Best-of-3 series of top level StarCraft 2 between Cure (Terran) and Dark (Zerg). This series was played in the round-of-8 of the GSL Code S in South Korea.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
@@ -1079,82 +1151,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-01-03T12:56:23Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-baneling-bust-brutality-lambo-vs-soul.md",
-      "title": "StarCraft 2: BANELING BUST BRUTALITY! (Lambo vs souL)",
-      "excerpt": "Baneling Busts are popular especially on the lower end of the ladder as one of the first build orders and strategies that Zerg players in StarCraft 2 learn. However that does not mean it's a strategy that is not viable at the professional level of SC2. In this Zerg versus Terran between Lambo and souL",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-baneling-bust-brutality-lambo-vs-soul/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-baneling-bust-brutality-lambo-vs-soul/",
-      "originalUrl": "https://youtube.com/watch?v=i5ssM0-S5zQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i5ssM0-S5zQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/i5ssM0-S5zQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2020-04-06T11:06:02Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-baneling-explosions.md",
-      "title": "StarCraft 2: BANELING EXPLOSIONS!",
-      "excerpt": "Professional game of StarCraft 2 with commentary. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://youtu.be/RXG4YYnO5Qw  A very action packed game of Zerg vs Terran between INnoVation and Leenock.  Check out Lowko merchandise: http://lowko.tv/merch Support me on Patreon:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-baneling-explosions/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-baneling-explosions/",
-      "originalUrl": "https://youtube.com/watch?v=quQB9mCZV8c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/quQB9mCZV8c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M58S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/quQB9mCZV8c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2019-04-28T15:00:24Z"
     }
   ],
   "nextPage": 9

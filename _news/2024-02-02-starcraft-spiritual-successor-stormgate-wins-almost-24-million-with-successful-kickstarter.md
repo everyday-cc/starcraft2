@@ -23,6 +23,22 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "Warcraft and StarCraft devs' upcoming RTS game Stormgate manages to raise 1875% of its Kickstarter goal with over $1.8 million in the bank"
+    excerpt: "An upcoming RTS game from Warcraft and StarCraft veterans has managed to gain 1875% of its original Kickstarter goal, with just over two weeks left to go on its campaign. Last month, we reported ..."
+    publishedDateTime: 2024-01-16T00:00:00Z
+    webUrl: "https://www.gamesradar.com/warcraft-and-starcraft-devs-upcoming-rts-game-stormgate-manages-to-raise-1875-of-its-kickstarter-goal-with-over-dollar18-million-in-the-bank/"
+    type: article
+    provider:
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 3
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/n9NWEyfZrduJRR7b6ac5W6-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "Yp2UTGSY26XqFADX+n2FvLXpr+3enuT1sx2U6CI76cjyMby3AW3j7yJGkHKr3UShsD4VOTh1oG03GiEs3HqhxPS15pphPIn4zO76WpM87pN+6NP2Q/VovkCFo1JiUeg2wTeU4w5Lim5MfbCqUxSiGA6Xla4UD9ZQhzFtvaMiFT/TncxKEONBFF9x52DP06jZ8KOJltCrAp3FN5zu86bJg4bdzOTUE0oLS6XoSu/HNz33yXYavuTXaMXQ+xeBKpnvJhuEHMyXIQK55XmBZ3msHPK6I4E9F9bPgncK3RrmEsRp4v5KgnzIFXyBXSyD7QVz6oHoIMr/TxEVDE1MuT1ebkwiZ3l2fHMlwuwYItVgH5keub6DDHPQQft03MM+Sd/aRPrJ8M9bSM+VwWwer2qnC/Lw4cu7GxWJteOmw5Cp8xhmXtNO6vBrLM/OFQJh6CRzmbmbZ0fQCyNZQ0PxbS93tJxqnwMpuAUX6R2+OY8R02U961jeGrxTx8+wv27uf42dSxcAxMZF1UCaajfIeGq+8A==;ryI5OgRDZwdS9b2I9SLquQ=="
 ---
 

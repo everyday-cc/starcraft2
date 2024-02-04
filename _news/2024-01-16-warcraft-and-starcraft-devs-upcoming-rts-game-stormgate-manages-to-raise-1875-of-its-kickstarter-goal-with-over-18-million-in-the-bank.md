@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "StarCraft 2 Devs Invite to Test New Strategy Game. Stormgate Available at Steam Next Fest"
-    excerpt: "RTS fans are in for quite a treat at the upcoming Steam Next Fest. Consisting of the co-creators of StarCraft 2, Frost Giant studio has announced that its upcoming game, Stormgate, will be available to check out at the event."
-    publishedDateTime: 2024-01-15T09:19:00Z
-    webUrl: "https://www.gamepressure.com/newsroom/starcraft-2-devs-invite-to-test-new-strategy-game-stormgate-avail/z7676d"
+  - title: "Starcraft Spiritual Successor Stormgate Wins Almost $2.4 Million with Successful Kickstarter"
+    excerpt: "The Kickstarter campaign for Stormgate, a spiritual successor of Starcraft by Frost Giant Studios, has just concluded successfully with $2,380,556 pledged."
+    publishedDateTime: 2024-02-01T18:13:00Z
+    webUrl: "https://techraptor.net/gaming/news/starcraft-spiritual-successor-stormgate-wins-almost-24-million-with-successful"
     type: article
     provider:
-      name: XCOM 2 Game Guide
-      domain: gamepressure.com
-    quality: 28
+      name: TechRaptor
+      domain: techraptor.net
+    quality: 26
     images:
-      - url: "https://cdn.gracza.pl/i_gp/h/22/442787316.jpg"
-        width: 1280
-        height: 720
+      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2024-02/kickstarter-stormgate.jpg?itok=r6RaYSNS"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "rhe5lJx8d+FnXoKa9nlTJIp9h8PX7dV8zAQJWTycbj3XMTUhLbIpDoPbgCIJvqw9C2j1zlLQ+3cAq4hGUSjZrvo0UNeS5gYnsMycFjJ6RcFQ1Reme4GbZZxoezC9LXzT19S0+48CNBw2HMGtzIwFbwC2Axa+O93OwjruM0t1CLQp9Wg8OZQ+rTMkf2Y451dm7EDkA7bdijW3z4JFAyq7Fp76pFVzfc3N4DSdgbheHBcK6aPQERZA2Cekw0mRVqhgS475VvlhFpgbBQM7lvNLhlXom8aMYJ+WZkuysrpQ94VpuOswCLy6aTM3WVACTFvVouoyaBSpwxML2UqXhaShgyTKr/2Y+5Xcu8BbaPN6/Z8=;ahFlKJKZyAUrV2apZK11OA=="

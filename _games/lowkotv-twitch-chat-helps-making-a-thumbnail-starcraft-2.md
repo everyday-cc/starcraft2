@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-twitch-chat-helps-making-a-t
 type: video
 length: PT45S
 publishedDateTime: 2024-01-18T11:23:34Z
-heat: 79
+heat: 75
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0wFGYIlkCaE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "b37KFA/rtkX9EP6YipsKRSiMYXKj/SfLA7DSv8mxV4BTYKDcExBFQOwpXzRokA/33o2X9t+xgyH0MypIOHsoGtUAnnPsO5u0Jq3WcYjLoyCfOZpXG5uUMB8OtOI98DRGBcdfN7sdrT4tJrBRffPFVgmDiA8KCWMPGT3b84MatBmtPBk14LMl5HqqVW5tXWiwdfHdMXV3LHENaWaacJR3h9iuAAbROaW/FhLLh4+i3JYh9m7ANC/ZDU9lNrs2eLi2nraV71XMSL+mPG/bZoAQ0vf/qredhrZipkVKwZmrn6JdTkB0rq7Z/k87GqJ1+smJ7rSKwh81AlpvU0JockKQvSzfTQJdRzEKmQiw3KxeX6QJe0+X3xtTL8skOn3SEcPHmu2fwI1QRay1lSlucaau5jcFTnk4hAEPhIWDD9M6jRc=;eTSRp2AXyVSP31t+Kz+DMA=="
+secured: "gQmvjLbaQMulH0ynGdLAuqMpuueZ3MHYHXAyz/EA0+yMy0CBRmAsIYFyZus+4oP2scpz5dlEmqqgxNqW4ahxIUpvjXLBNhFjFVrybKPaCGKkXPLRHvczUe5GeUuqpCN2VhVQJtaQMsFwiYE0c7ZhgsmLL+3aheN+DfDyzNwbcmD/Bsp6u25/F9TONP7dI9CLVx/tp0q+1rhQH0d4HoCSBvrtCUfMIC9Fn5UKExZ9A3kIZ8gYSbMBfaCd/tVtgA803Ub9niCTPxc9AtzQqNIJbNazHFYf+eiCk3lAHQwoQcJ8KRgzrEJxp7xXcPQP8j+3/dlE5uLvbhaNpZSIJnILDAyURkrIblatCmh6yuF2vnVER5/EPJ4KXHab+r0UbdV0G3nrY2CFYPeHn8YV7SsaiDa8yCPa/DUzxBge58vqGxI=;eEmGLuaPTcV77YL2W7msIg=="
 ---
 

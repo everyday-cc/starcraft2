@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-05-starcraft-fans-should-try-this-new-free-game.md",
+      "title": "StarCraft Fans Should Try This New Free Game",
+      "excerpt": "For a limited time, players can participate in a free open beta test for a new real-time strategy game created by former StarCraft and Blizzard devs. Stormgate, the upcoming free-to-play real-time ...",
+      "sourceUrl": null,
+      "webUrl": "https://gamerant.com/stormgate-rts-free-beta-test/",
+      "originalUrl": "https://gamerant.com/stormgate-rts-free-beta-test/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/02/stormgate-beta-free-to-play-this-week.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-iem-katowice-2024-everything-to-know-about-cs2-and-starcraft-ii.md",
       "title": "IEM Katowice 2024: Everything To Know About ‘CS2’ And ‘StarCraft II’",
       "excerpt": "Here’s everything you need to know about the two biggest 'CS2' and 'StarCraft II' esports competitions coming your way in the next few days.",
@@ -1135,48 +1186,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2022-12-27-starcraft-3-update-blizzard-appears-to-be-teasing-about-a-new-starcraft-game.md",
-      "title": "'StarCraft 3' update: Blizzard appears to be teasing about a new StarCraft game",
-      "excerpt": "Blizzard's \"StarCraft\" is considered one of the best games in the real-time strategy genre. While fans remain hopeful that the company will eventually confirm the existence of \"StarCraft 3,\" it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.uk/starcraft-3-update-blizzard-appears-teasing-about-new-starcraft-game-1710590",
-      "originalUrl": "https://www.ibtimes.co.uk/starcraft-3-update-blizzard-appears-teasing-about-new-starcraft-game-1710590",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.co.uk/en/full/1703475/gamer.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.co.uk/starcraft-3-update-blizzard-appears-teasing-about-new-starcraft-game-1710590",
-      "cdnAmpWebUrl": "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/starcraft-3-update-blizzard-appears-teasing-about-new-starcraft-game-1710590",
-      "publishedDateTime": "2022-12-27T14:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes UK",
-        "domain": "ibtimes.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

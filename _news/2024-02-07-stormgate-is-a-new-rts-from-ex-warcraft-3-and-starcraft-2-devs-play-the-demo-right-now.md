@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Team Vitality is included in StarCraft II"
-excerpt: "Team Vitality, a renowned European esports organization, has successfully ventured into the world of StarCraft II by forming a strategic alliance with ONSYDE, a prominent South Korean team."
-publishedDateTime: 2024-02-01T10:59:00Z
-originalUrl: "https://www.vpesports.com/team-vitality-is-included-in-starcraft-ii"
-webUrl: "https://www.vpesports.com/team-vitality-is-included-in-starcraft-ii"
+title: "Stormgate is a new RTS from ex-Warcraft 3 and StarCraft 2 devs, play the demo right now"
+excerpt: "The Steam Next Fest event is currently underway and there's a playable demo for Stormgate, the spiritual successor to Blizzard's StarCraft."
+publishedDateTime: 2024-02-07T05:34:00Z
+originalUrl: "https://www.tweaktown.com/news/96050/stormgate-is-new-rts-from-ex-warcraft-3-and-starcraft-2-devs-play-the-demo-right-now/index.html"
+webUrl: "https://www.tweaktown.com/news/96050/stormgate-is-new-rts-from-ex-warcraft-3-and-starcraft-2-devs-play-the-demo-right-now/index.html"
 type: article
-quality: 37
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: vpesports.com
-  domain: vpesports.com
+  name: TweakTown
+  domain: tweaktown.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.vpesports.com/wp-content/uploads/2024/02/Screenshot_4.png"
-    width: 1022
-    height: 572
+  - url: "https://static.tweaktown.com/news/9/6/96050_01_stormgate-is-new-rts-from-ex-warcraft-3-and-starcraft-2-devs-play-the-demo-right-now_full.jpg"
+    width: 1500
+    height: 843
     isCached: true
 
 related:
@@ -38,6 +38,20 @@ related:
         width: 1800
         height: 900
         isCached: true
+  - title: "Team Vitality is included in StarCraft II"
+    excerpt: "Team Vitality, a renowned European esports organization, has successfully ventured into the world of StarCraft II by forming a strategic alliance with ONSYDE, a prominent South Korean team."
+    publishedDateTime: 2024-02-01T10:59:00Z
+    webUrl: "https://www.vpesports.com/team-vitality-is-included-in-starcraft-ii"
+    type: article
+    provider:
+      name: vpesports.com
+      domain: vpesports.com
+    quality: 37
+    images:
+      - url: "https://www.vpesports.com/wp-content/uploads/2024/02/Screenshot_4.png"
+        width: 1022
+        height: 572
+        isCached: true
   - title: "Team Vitality enters StarCraft II esports"
     excerpt: "Team Vitality has continued its expansive efforts by now signing an all-South Korean roster that will be competing in the Asian StarCraft II circuit. The roster has been created in partnership with South Korean organisation Onsyde,"
     publishedDateTime: 2024-02-02T10:02:00Z
@@ -51,20 +65,6 @@ related:
       - url: "https://www.gamereactor.eu/media/29/teamvitalityenters_4192933b.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Stormgate is a new RTS from ex-Warcraft 3 and StarCraft 2 devs, play the demo right now"
-    excerpt: "The Steam Next Fest event is currently underway and there's a playable demo for Stormgate, the spiritual successor to Blizzard's StarCraft."
-    publishedDateTime: 2024-02-07T05:34:00Z
-    webUrl: "https://www.tweaktown.com/news/96050/stormgate-is-new-rts-from-ex-warcraft-3-and-starcraft-2-devs-play-the-demo-right-now/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 29
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96050_01_stormgate-is-new-rts-from-ex-warcraft-3-and-starcraft-2-devs-play-the-demo-right-now_full.jpg"
-        width: 1500
-        height: 843
         isCached: true
   - title: "Starcraft Spiritual Successor Stormgate Wins Almost $2.4 Million with Successful Kickstarter"
     excerpt: "The Kickstarter campaign for Stormgate, a spiritual successor of Starcraft by Frost Giant Studios, has just concluded successfully with $2,380,556 pledged."
@@ -90,6 +90,6 @@ related:
       domain: jdpower.com
     quality: 17
 
-secured: "naJinoywiOWLPZPpmaluXBu6M9eKQqaMWVTKi38AcOW9WSbJOV5v1KAR1xP1sDHMsahgH6lkrVi/UrfJvUz8JK/raE4PfGxFeaEEf1dU92JbLT+yFjSdJ3pTX0dZUxNNMMN8eyxrk3i9OCT7s0eD8OY6g08+OXHlgKleY/vzgFU2YKXUailFA7bzM6CI5uw/VtTOPTwb4pfxXNMEVk/WhHjH5I8Kq5F1vBU/WfLlLQRvAM+duCMrMOHPIFYtFuYAPZgr+nx1oaSKb9somdj/PjjmKd+XOmYOwswvzWhLTC31U+uixddEjzu2F5D9lQxVPRofxr6Kv5gG+FUv2G7C33RS1iQ/cYFsu0zk9BBgrfw=;jgBPAAt2GX66xP6CWQzZPw=="
+secured: "+/5XOpg+Ds0rIhIZCozz4TzdYKPhdPKhbdwJZFrcHF6UhZHoLlfPRL9DO0KQnGzsDJ6dbzsbmJTeutSgF3yVnPt61lbRA3LGumwetf5X2LWYPQSeXiDF6YuR/MvrvSE9oLAdum/zgmVZwRUvT/+6S+ZjOIp2G8J+XFq8Jsf0bvEU839Ibc2o01pddpj0CosqKBlRmKyOjCqueYZIMzZPQjcP8+2XxT2Nu5TSb7M8X8w6YQd0YqYV7pJL5gN4C/GZIhVJ8x5Sy8SabPSNZuzhPMWJE+C9Dqf+WI/7FUss7rOLHqnfbLROU06MAjpSnXa6riDROEZVv3yyrz9Y6g0pu0PT0UAkUGu+CxfraLH7UB4=;UuHHkM7MVpI+iq5onvlKsg=="
 ---
 

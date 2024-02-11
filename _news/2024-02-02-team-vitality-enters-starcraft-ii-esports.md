@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Team Vitality enters StarCraft II with South Korean team ONSYDE"
-    excerpt: "European esports organisation Team Vitality has expanded into StarCraft II through a strategic partnership with South Korean team ONSYDE. As a result of the collaboration, Team Vitlaty’s new roster will have its commercial partners Tezos,"
-    publishedDateTime: 2024-02-01T09:00:00Z
-    webUrl: "https://esportsinsider.com/2024/02/team-vitality-starcraft-2-south-korean-team-onsyde"
+  - title: "StarCraft Fans Should Try This New Free Game"
+    excerpt: "For a limited time, players can participate in a free open beta test for a new real-time strategy game created by former StarCraft and Blizzard devs. Stormgate, the upcoming free-to-play real-time ..."
+    publishedDateTime: 2024-02-05T00:00:00Z
+    webUrl: "https://gamerant.com/stormgate-rts-free-beta-test/"
     type: article
     provider:
-      name: Esports Insider
-      domain: esportsinsider.com
-    quality: 37
+      name: Game Rant
+      domain: gamerant.com
+    quality: 77
     images:
-      - url: "https://resources.esportsinsider.com/esportsinsider/2024/02/16x9_Welcome_CS2.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/02/stormgate-beta-free-to-play-this-week.jpg"
+        width: 1800
+        height: 900
         isCached: true
   - title: "Team Vitality is included in StarCraft II"
     excerpt: "Team Vitality, a renowned European esports organization, has successfully ventured into the world of StarCraft II by forming a strategic alliance with ONSYDE, a prominent South Korean team."
@@ -52,6 +52,43 @@ related:
         width: 1022
         height: 572
         isCached: true
+  - title: "Stormgate is a new RTS from ex-Warcraft 3 and StarCraft 2 devs, play the demo right now"
+    excerpt: "The Steam Next Fest event is currently underway and there's a playable demo for Stormgate, the spiritual successor to Blizzard's StarCraft."
+    publishedDateTime: 2024-02-07T05:34:00Z
+    webUrl: "https://www.tweaktown.com/news/96050/stormgate-is-new-rts-from-ex-warcraft-3-and-starcraft-2-devs-play-the-demo-right-now/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 29
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96050_01_stormgate-is-new-rts-from-ex-warcraft-3-and-starcraft-2-devs-play-the-demo-right-now_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
+  - title: "Starcraft Spiritual Successor Stormgate Wins Almost $2.4 Million with Successful Kickstarter"
+    excerpt: "The Kickstarter campaign for Stormgate, a spiritual successor of Starcraft by Frost Giant Studios, has just concluded successfully with $2,380,556 pledged."
+    publishedDateTime: 2024-02-01T18:13:00Z
+    webUrl: "https://techraptor.net/gaming/news/starcraft-spiritual-successor-stormgate-wins-almost-24-million-with-successful"
+    type: article
+    provider:
+      name: TechRaptor
+      domain: techraptor.net
+    quality: 26
+    images:
+      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2024-02/kickstarter-stormgate.jpg?itok=r6RaYSNS"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "2024 Starcraft Prices, Values and Specs"
+    excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
+    publishedDateTime: 2024-02-08T05:30:00Z
+    webUrl: "https://www.jdpower.com/rvs/2024/starcraft"
+    type: article
+    provider:
+      name: jdpower
+      domain: jdpower.com
+    quality: 17
 
 secured: "edemBqX8KT5QldHlZNxouWimoR0tjYKlNN8RPsI9cljDGyoa4w8o07dUstLwk6dyGcOPtj/ocemCcJMGmUqlDUD0akLq/79y6S09wb8WK4aMooSjyTKhnpvJXeBq4Kx4LoOW/ogJD1JhQHCfD3WjWJjRKtK74kU13+UeujXK9v+q5TUUB1hXDO3rz35e/VgZfX/1FyMU3hLtMaJGm8MFwiOYbc7XB1UtBYOazpzu7Au5saXXChWmXRxwWf6irRm0q8SiiaWG8lFDFijedyIVKi2YoMyBLiwgyiGYg+uPSS3SRwNjm1AfqP4BdL8RKoa4Jh6rhuPiR7fHmsVR6OfhROR1DdjdO47O/CC2qLOSoWc=;Go8n5wePVNDL97Nk9SS9+g=="
 ---

@@ -1,42 +1,46 @@
 ---
 category: news
-title: "Team Vitality is included in StarCraft II"
-excerpt: "Team Vitality, a renowned European esports organization, has successfully ventured into the world of StarCraft II by forming a strategic alliance with ONSYDE, a prominent South Korean team."
-publishedDateTime: 2024-02-01T10:59:00Z
-originalUrl: "https://www.vpesports.com/team-vitality-is-included-in-starcraft-ii"
-webUrl: "https://www.vpesports.com/team-vitality-is-included-in-starcraft-ii"
+title: "StarCraft Fans Should Try This New Free Game"
+excerpt: "For a limited time, players can participate in a free open beta test for a new real-time strategy game created by former StarCraft and Blizzard devs. Stormgate, the upcoming free-to-play real-time ..."
+publishedDateTime: 2024-02-05T00:00:00Z
+originalUrl: "https://gamerant.com/stormgate-rts-free-beta-test/"
+webUrl: "https://gamerant.com/stormgate-rts-free-beta-test/"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 77
+heat: 177
+published: true
 
 provider:
-  name: vpesports.com
-  domain: vpesports.com
+  name: Game Rant
+  domain: gamerant.com
+  images:
+    - url: "https://everyday-cc.github.io/starcraft2/assets/images/organizations/gamerant.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.vpesports.com/wp-content/uploads/2024/02/Screenshot_4.png"
-    width: 1022
-    height: 572
+  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/02/stormgate-beta-free-to-play-this-week.jpg"
+    width: 1800
+    height: 900
     isCached: true
 
 related:
-  - title: "StarCraft Fans Should Try This New Free Game"
-    excerpt: "For a limited time, players can participate in a free open beta test for a new real-time strategy game created by former StarCraft and Blizzard devs. Stormgate, the upcoming free-to-play real-time ..."
-    publishedDateTime: 2024-02-05T00:00:00Z
-    webUrl: "https://gamerant.com/stormgate-rts-free-beta-test/"
+  - title: "Team Vitality is included in StarCraft II"
+    excerpt: "Team Vitality, a renowned European esports organization, has successfully ventured into the world of StarCraft II by forming a strategic alliance with ONSYDE, a prominent South Korean team."
+    publishedDateTime: 2024-02-01T10:59:00Z
+    webUrl: "https://www.vpesports.com/team-vitality-is-included-in-starcraft-ii"
     type: article
     provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 77
+      name: vpesports.com
+      domain: vpesports.com
+    quality: 37
     images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/02/stormgate-beta-free-to-play-this-week.jpg"
-        width: 1800
-        height: 900
+      - url: "https://www.vpesports.com/wp-content/uploads/2024/02/Screenshot_4.png"
+        width: 1022
+        height: 572
         isCached: true
   - title: "Team Vitality enters StarCraft II esports"
     excerpt: "Team Vitality has continued its expansive efforts by now signing an all-South Korean roster that will be competing in the Asian StarCraft II circuit. The roster has been created in partnership with South Korean organisation Onsyde,"
@@ -90,6 +94,6 @@ related:
       domain: jdpower.com
     quality: 17
 
-secured: "naJinoywiOWLPZPpmaluXBu6M9eKQqaMWVTKi38AcOW9WSbJOV5v1KAR1xP1sDHMsahgH6lkrVi/UrfJvUz8JK/raE4PfGxFeaEEf1dU92JbLT+yFjSdJ3pTX0dZUxNNMMN8eyxrk3i9OCT7s0eD8OY6g08+OXHlgKleY/vzgFU2YKXUailFA7bzM6CI5uw/VtTOPTwb4pfxXNMEVk/WhHjH5I8Kq5F1vBU/WfLlLQRvAM+duCMrMOHPIFYtFuYAPZgr+nx1oaSKb9somdj/PjjmKd+XOmYOwswvzWhLTC31U+uixddEjzu2F5D9lQxVPRofxr6Kv5gG+FUv2G7C33RS1iQ/cYFsu0zk9BBgrfw=;jgBPAAt2GX66xP6CWQzZPw=="
+secured: "/NJW7FrB2rvuQag/KUZjly3p4piJkGyo5qeBthVlxeBCz2NaJHBaKWOx/jzOXkOwDdkdk6tjUra2P+XymuzkYS092Mi/cEkGwgx6mMqm5Q/GhW+FtGeLkbBl9EOfPa2edttxa5ifgTUKUgnPkxKDhSBiQ9JFLX3q/y8Lu7blUOdGGg8VHFE2YQJeBxa4jnmL6G1qQo8GqN3QAbSkSi7H7f9SDMpf0Q0+ArqfsqZVVkQVknjDPdJ+jXVpPBVRskSy7C0M7UCHXRy7jpOjk5POPLTnjYnW5PDn7FCEgnwsJdezOUc7/yJlvsQNqBBmeDAtbSStyFF1KWsNd0GN9d+9hKf1hdC2QektBCvtYYL5Fwc=;voMXFNp7KWHYqAW4Hwvv7A=="
 ---
 

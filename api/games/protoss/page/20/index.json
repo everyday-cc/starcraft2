@@ -4,6 +4,44 @@
   "page": 20,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-zests-final-tournament-match-best-of-3.md",
+      "title": "StarCraft 2: Zest's FINAL Tournament Match! (Best-of-3)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between Zest (Protoss) and Clem (Terran). Zest has announced that he is starting up his mandatory military service in South Korea very soon, and because of that he is forced to retire from StarCraft 2. In this video I cast Zest's final tournament games, when",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zests-final-tournament-match-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zests-final-tournament-match-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=Gh5t0rKUW-s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gh5t0rKUW-s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M6S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Gh5t0rKUW-s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-06-27T10:30:20Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-zests-spicy-stargate-variety-best-of-5-vs-solar.md",
       "title": "StarCraft 2: Zest's SPICY Stargate Variety! (Best-of-5 vs Solar)",
       "excerpt": "Best-of-5 series of professional StarCraft 2 between Solar (Zerg) and Zest (Protoss). In this match Zest decides to play a vareity of Stargate openers, from Void Rays to Tempests and Phoenixes. This series is the grand finals of the ESL Open Cup 108 Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv",
@@ -143,6 +181,36 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2021-01-05T08:41:13Z"
+    },
+    {
+      "path": "_games/pig-420-iq-hallucination-trick-fools-protoss-florencio-files-281-starcraft-2.md",
+      "title": "420 IQ Hallucination Trick fools Protoss! | Florencio Files #281 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-420-iq-hallucination-trick-fools-protoss-florencio-files-281-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-420-iq-hallucination-trick-fools-protoss-florencio-files-281-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=ys9Oega52XM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ys9Oega52XM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M4S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ys9Oega52XM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-05-04T05:47:03Z"
     },
     {
       "path": "_games/pig-blink-dt-and-voidray-pvz-twitch-plays-pig-52.md",
@@ -689,6 +757,38 @@
       "publishedDateTime": "2022-10-14T08:51:44Z"
     },
     {
+      "path": "_games/pig-flo-mentally-destroys-zerg-with-incredible-nuke-florencio-files-286-starcraft-2.md",
+      "title": "Flo mentally DESTROYS Zerg with incredible NUKE | Florencio Files #286 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-flo-mentally-destroys-zerg-with-incredible-nuke-florencio-files-286-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-flo-mentally-destroys-zerg-with-incredible-nuke-florencio-files-286-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=hx-_rt_fHoM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hx-_rt_fHoM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M13S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hx-_rt_fHoM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-11T00:57:28Z"
+    },
+    {
       "path": "_games/pig-florencio-strategically-mass-pees-on-the-nexus-florencio-files-288-starcraft-2.md",
       "title": "Florencio \"Strategically\" Mass Pees on the Nexus | Florencio Files #288 - StarCraft 2",
       "excerpt": "Florencio goes gas first as a zerg player to rush burrow, but things get out of hand faster than anyone is ready for...  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc 🧜Florencio Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA",
@@ -871,102 +971,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-06-26T00:24:20Z"
-    },
-    {
-      "path": "_games/pig-i-made-them-feel-bad-with-my-protoss-shenanigans-s-most-annoying-player-ever-3-starcraft-2.md",
-      "title": "I made them feel bad with my Protoss shenanigans :S | Most Annoying Player Ever #3 - StarCraft 2",
-      "excerpt": "Let's see how annoying I can be :D -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2 🐷 PiG’s Discord:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-i-made-them-feel-bad-with-my-protoss-shenanigans-s-most-annoying-player-ever-3-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-i-made-them-feel-bad-with-my-protoss-shenanigans-s-most-annoying-player-ever-3-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=TVpDHI9mv1Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TVpDHI9mv1Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M57S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TVpDHI9mv1Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-08-25T06:27:31Z"
-    },
-    {
-      "path": "_games/pig-i-swear-this-has-never-happened-before-depot-dysfunction-the-king-of-cannons-7-starcraft-2.md",
-      "title": "\"I Swear this has never happened before\" - Depot Dysfunction | The King of Cannons #7 - StarCraft 2",
-      "excerpt": "The King of Cannons! Be sure to follow him on: Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-i-swear-this-has-never-happened-before-depot-dysfunction-the-king-of-cannons-7-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-i-swear-this-has-never-happened-before-depot-dysfunction-the-king-of-cannons-7-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=mU9VvLOo--E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mU9VvLOo--E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M49S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Cheese"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mU9VvLOo--E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2020-01-05T16:24:34Z"
-    },
-    {
-      "path": "_games/pig-i-swear-this-has-never-happened-before-depot-dysfunction-the-king-of-cannons-7.md",
-      "title": "\"I Swear this has never happened before\" - Depot Dysfunction | The King of Cannons #7",
-      "excerpt": "The King of Cannons! Be sure to follow him on: Twitter: https://twitter.com/quasarprintf Twitch: https://www.twitch.tv/Quasarprintf Youtube: https://www.youtube.com/channel/UCHkQTEInf2NXaMCDuJ3q-Ng  Like the content? Then consider to leave a thumbs up and subscribe! ;) Videos don’t appear in your feed",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-i-swear-this-has-never-happened-before-depot-dysfunction-the-king-of-cannons-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-i-swear-this-has-never-happened-before-depot-dysfunction-the-king-of-cannons-7/",
-      "originalUrl": "https://youtube.com/watch?v=mU9VvLOo--E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mU9VvLOo--E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M49S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Cheese"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mU9VvLOo--E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2020-01-05T16:24:34Z"
     }
   ],
   "nextPage": 21

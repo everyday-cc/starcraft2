@@ -4,6 +4,72 @@
   "page": 9,
   "value": [
     {
+      "path": "_games/beastyqtsc2-starcraft-2-two-base-mothership-void-ray-rush.md",
+      "title": "StarCraft 2: TWO Base Mothership & Void Ray RUSH!",
+      "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-two-base-mothership-void-ray-rush/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-two-base-mothership-void-ray-rush/",
+      "originalUrl": "https://youtube.com/watch?v=MlSI04na-Cc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MlSI04na-Cc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M10S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MlSI04na-Cc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2019-12-24T11:22:12Z"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-whats-the-worst-thing-that-can-happen-mass-zealots-phoenix.md",
+      "title": "StarCraft 2: What's the Worst Thing That Can Happen? - MASS Zealots & Phoenix!",
+      "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-whats-the-worst-thing-that-can-happen-mass-zealots-phoenix/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-whats-the-worst-thing-that-can-happen-mass-zealots-phoenix/",
+      "originalUrl": "https://youtube.com/watch?v=8NjPDN9O01Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8NjPDN9O01Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M21S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8NjPDN9O01Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2020-03-25T11:11:44Z"
+    },
+    {
       "path": "_games/beastyqtsc2-starcraft-2-where-are-you-going-cannon-rushing-to-grandmaster-episode-10.md",
       "title": "StarCraft 2: WHERE ARE YOU GOING?! - Cannon Rushing to Grandmaster - Episode 10",
       "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5-7 days a week. Stream start time is around 7 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
@@ -135,83 +201,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2019-08-02T07:59:47Z"
-    },
-    {
-      "path": "_games/lowkotv-gumihos-new-mech-all-in-vs-protoss-starcraft-2.md",
-      "title": "GuMiho's NEW Mech All-In vs Protoss?! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between GuMiho and Classic. This series is one of the two semi-finals of the GSL Code S, season 3 of 2023. In these games both players clearly have build orders prepared for the opponent, as GuMiho decides to do the same new Mech all-in twice in a row. Support my work:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-gumihos-new-mech-all-in-vs-protoss-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-gumihos-new-mech-all-in-vs-protoss-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=VxXRwXyIeEs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VxXRwXyIeEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M19S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VxXRwXyIeEs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-11-07T11:10:45Z"
-    },
-    {
-      "path": "_games/lowkotv-heros-new-protoss-all-ins-against-cure-starcraft-2.md",
-      "title": "herO's NEW Protoss All-Ins Against Cure! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between Cure (Terran) and herO (Protoss). Both of these South Korean pro gamers are some of the best in SC2 and they are very familiar with each other's playstyle. In this series herO decides to play very aggressive games, by bringing out old build orders such",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-heros-new-protoss-all-ins-against-cure-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-heros-new-protoss-all-ins-against-cure-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=ja467IrDNyY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ja467IrDNyY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ja467IrDNyY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-10-09T09:47:18Z"
     },
     {
       "path": "_games/lowkotv-insane-micro-maxpax-vs-showtime-in-an-absolute-banger-starcraft-2.md",
@@ -715,14 +704,14 @@
       "publishedDateTime": "2023-03-31T10:46:52Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-astreas-amazing-protoss-build-orders-best-of-3-vs-lambo.md",
-      "title": "StarCraft 2: Astrea's AMAZING Protoss Build Orders! (Best-of-3 vs Lambo)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between Astrea (Protoss) and Lambo (Zerg). Astrea has been playing some crazy Protoss strategies, and this series is no different.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-astreas-amazing-protoss-build-orders-best-of-3-vs-lambo/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-astreas-amazing-protoss-build-orders-best-of-3-vs-lambo/",
-      "originalUrl": "https://youtube.com/watch?v=Avb3qbMZEXg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Avb3qbMZEXg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M44S",
+      "path": "_games/lowkotv-starcraft-2-amazing-skill-the-perfect-protoss-game-archon-mode.md",
+      "title": "StarCraft 2: AMAZING SKILL - The PERFECT Protoss Game?! (Archon Mode)",
+      "excerpt": "Nine StarCraft Grandmasters face off against each other in the finals of the Archon tournament in StarCraft 2 that was recently hosted by Harstem. In this series of Protoss vs Terran I cast MaxPax, Goblin, Skillous and Trigger face off against HeroMarine, Cuku, BattleB, Iba and Creed. Support my work:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-amazing-skill-the-perfect-protoss-game-archon-mode/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-amazing-skill-the-perfect-protoss-game-archon-mode/",
+      "originalUrl": "https://youtube.com/watch?v=3ILtfOq1kOc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3ILtfOq1kOc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M9S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -742,7 +731,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Avb3qbMZEXg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/3ILtfOq1kOc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -750,7 +739,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2022-03-08T10:14:55Z"
+      "publishedDateTime": "2023-09-19T11:08:09Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-astreas-crazy-protoss-builds-best-of-3.md",

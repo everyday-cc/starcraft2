@@ -4,83 +4,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-extremely-tricky-gumiho-plays-himself-best-of-5.md",
-      "title": "StarCraft 2: EXTREMELY Tricky - GuMiho Plays HIMSELF?! (Best-of-5)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between GuMiho (Terran) and Solar (Zerg). This match is the Grand Finals of the ESL Open cup 137 Korea.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko Lowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-extremely-tricky-gumiho-plays-himself-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-extremely-tricky-gumiho-plays-himself-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=1pu2cQNaotk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1pu2cQNaotk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT57M47S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1pu2cQNaotk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-08-22T11:56:55Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-eye-for-an-eye-innovation-vs-soo.md",
-      "title": "StarCraft 2: EYE FOR AN EYE! (INnoVation vs soO)",
-      "excerpt": "An epic match of professional level Zerg vs Terran in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Professional best-of-7: https://goo.gl/cLp2ev  In this match both players keep making trades back and forth. We arrive at the late game without either player really being ahead. Because",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-eye-for-an-eye-innovation-vs-soo/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-eye-for-an-eye-innovation-vs-soo/",
-      "originalUrl": "https://youtube.com/watch?v=dVd9yF7u9Ck",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dVd9yF7u9Ck\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M55S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dVd9yF7u9Ck/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2017-10-07T08:36:41Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-fastest-grand-finals-ever-dark-vs-byun.md",
       "title": "StarCraft 2: Fastest GRAND FINALS Ever? (Dark vs ByuN)",
       "excerpt": "The Grand Finals of the ESL Open Cup 124 Korea. In this best-of-5 series of professional StarCraft 2 I cast ByuN (Terran) versus Dark (Zerg). Easily one of the fastest Grand Finals ever in StarCraft 2. The fastest StarCraft 2 speedrun?  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
@@ -196,44 +119,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-09-20T11:29:40Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-florencios-disgusting-terran-strategies.md",
-      "title": "StarCraft 2: Florencio's DISGUSTING Terran Strategies!",
-      "excerpt": "Florencio is back! This time with fresh Terran strategies in StarCraft 2.   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-florencios-disgusting-terran-strategies/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-florencios-disgusting-terran-strategies/",
-      "originalUrl": "https://youtube.com/watch?v=S4QD2UMm9nY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S4QD2UMm9nY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/S4QD2UMm9nY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2020-11-23T12:53:20Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-full-economy-cheese-serral-vs-ty.md",
@@ -582,6 +467,44 @@
       "publishedDateTime": "2022-12-29T11:40:22Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-gumihos-battlecruisers-surprise-astrea.md",
+      "title": "StarCraft 2: Gumiho's BATTLECRUISERS Surprise Astrea!",
+      "excerpt": "Best-of-3 series from the Korean StarCraft League between Astrea (Protoss) and GuMiho (Terran). Both of these players are very creative with their decision making and strategies, and this series is no different. A very cheesy start catches Astrea off guard, but his quick Sentry rush helps him survive",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-gumihos-battlecruisers-surprise-astrea/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-gumihos-battlecruisers-surprise-astrea/",
+      "originalUrl": "https://youtube.com/watch?v=9_J48-YG6Xs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9_J48-YG6Xs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9_J48-YG6Xs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-08-25T11:00:16Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-gumihos-never-ending-all-in-vs-dark.md",
       "title": "StarCraft 2: GuMiho's NEVER-ENDING ALL-IN vs Dark!",
       "excerpt": "GuMiho decides to play very aggressively in this game of StarCraft 2. After Dark opens up with a quick Spawning Pool and catches his Terran opponent off guard with Zerglings, GuMiho decides to return the favour by never making a fourth Command Center and going for a never-ending all-in.  Support my work",
@@ -927,44 +850,6 @@
       "publishedDateTime": "2021-08-24T10:11:40Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-has-amazing-eco-cheese-vs-byun-best-of-3.md",
-      "title": "StarCraft 2: Has' AMAZING Eco Cheese vs ByuN! (Best-of-3)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between Has (Protoss) and ByuN (Terran). In this series Has decides to do Has things, as he focuses on an insane Protoss economy, going toe to toe versus ByuN in macro games. I guess we can call this economy cheese?  Support my work on Patreon: https://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-has-amazing-eco-cheese-vs-byun-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-has-amazing-eco-cheese-vs-byun-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=7Yz5qmTZ29A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7Yz5qmTZ29A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7Yz5qmTZ29A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-12-06T11:52:07Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-has-speedruns-a-best-of-7-vs-gumiho.md",
       "title": "StarCraft 2: Has SPEEDRUNS a Best-of-7 vs GuMiho!",
       "excerpt": "Best-of-7 series of high level StarCraft 2 between Has and GuMiho. In this Protoss versus Terran Has decides to speed run the games, as he just simply won't stop cheesing. The issue however, is that he's playing against one of the trickiest Terran players. GuMiho is well familiar with this early game",
@@ -1081,45 +966,6 @@
       "publishedDateTime": "2023-01-23T12:09:55Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-heros-double-proxy-nexus-vs-byun-best-of-3.md",
-      "title": "StarCraft 2: herO's DOUBLE Proxy Nexus vs ByuN! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between herO (Protoss) and ByuN (Terran). This series is from the ESL Open Cup 181 for South Korea. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-double-proxy-nexus-vs-byun-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-double-proxy-nexus-vs-byun-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=KKhZmvHbh7o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KKhZmvHbh7o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M2S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KKhZmvHbh7o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-06-28T09:16:47Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-heros-gumihos-strangest-build-orders-ever.md",
       "title": "StarCraft 2: herO's & GuMiho's STRANGEST Build Orders... Ever?",
       "excerpt": "Best-of-3 series of high level StarCraft 2 between herO (Protoss) and GuMiho (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
@@ -1157,6 +1003,161 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-10-28T11:02:42Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-high-templar-drops-ty-vs-zest.md",
+      "title": "StarCraft 2: HIGH TEMPLAR DROPS! (TY vs Zest)",
+      "excerpt": "Best of 3 between TY and Zest in professional StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Professional best-of-7: https://goo.gl/cLp2ev  A super high level series of Terran versus Protoss in StarCraft 2. In this series of games we see different strategies from both players. Both decide",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-high-templar-drops-ty-vs-zest/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-high-templar-drops-ty-vs-zest/",
+      "originalUrl": "https://youtube.com/watch?v=GxFqUo75WPc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GxFqUo75WPc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GxFqUo75WPc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2017-10-12T13:40:40Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-highest-level-terran-vs-protoss-maru-vs-stats.md",
+      "title": "StarCraft 2: HIGHEST LEVEL Terran vs Protoss - Maru vs Stats!",
+      "excerpt": "Finally more Maru games! Maru vs Stats in a best-of-3! Subscribe for more videos: http://lowko.tv/youtube Insane game of StarCraft 2: https://goo.gl/HFczUz  In this series of top-level StarCraft 2 I cast a match between Maru and Stats. Both players are likely to be the current best in their respective",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-highest-level-terran-vs-protoss-maru-vs-stats/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-highest-level-terran-vs-protoss-maru-vs-stats/",
+      "originalUrl": "https://youtube.com/watch?v=maMCrrSDEVo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/maMCrrSDEVo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M41S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/maMCrrSDEVo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2018-12-13T11:47:05Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-his-main-base-is-the-entire-map-gumiho-vs-byun.md",
+      "title": "StarCraft 2: HIS MAIN BASE is the ENTIRE MAP?! (GuMiho vs ByuN)",
+      "excerpt": "In this game of high level StarCraft 2 GuMiho (Terran) decides to proxy most of his buildings in the early game. It is as if the entire map is his main base. This is a Terran versus Terarn where he's facing off against ByuN (Terran).  Support my work on Patreon: https://www.patreon.com/lowkotv Become",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-his-main-base-is-the-entire-map-gumiho-vs-byun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-his-main-base-is-the-entire-map-gumiho-vs-byun/",
+      "originalUrl": "https://youtube.com/watch?v=hwDaBoQLbuw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hwDaBoQLbuw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M42S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hwDaBoQLbuw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-10-03T10:30:53Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-hyper-aggressive-terran-cure-vs-zest.md",
+      "title": "StarCraft 2: HYPER AGGRESSIVE TERRAN! (Cure vs Zest)",
+      "excerpt": "A very aggressive game of Terran versus Protoss in StarCraft 2. In this professional match Cure, the Terran player, decides to start off with a double proxy Barracks. While the response from Zest was solid, a lot of damage still gets dealt. However, when going for Terran cheese the Command Center does",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-hyper-aggressive-terran-cure-vs-zest/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-hyper-aggressive-terran-cure-vs-zest/",
+      "originalUrl": "https://youtube.com/watch?v=uWGEYmZ0WnA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uWGEYmZ0WnA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M44S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uWGEYmZ0WnA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2019-12-18T12:48:16Z"
     }
   ],
   "nextPage": 14

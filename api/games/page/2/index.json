@@ -80,14 +80,14 @@
       "publishedDateTime": "2022-12-07T08:59:58Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-marus-perfect-bunker-rush-best-of-3.md",
-      "title": "StarCraft 2: Maru's PERFECT Bunker Rush! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between Maru (Terran) and Dark (Zerg). This match of SC2 starts off with a brilliant proxy gold Hatchery counter by Maru, who checks for the base with an early game SCV. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marus-perfect-bunker-rush-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marus-perfect-bunker-rush-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=Zj5A2wPL8dc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zj5A2wPL8dc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M33S",
+      "path": "_games/lowkotv-starcraft-2-byuns-accidental-bronze-league-strategy.md",
+      "title": "StarCraft 2: ByuN's ACCIDENTAL Bronze League Strategy!",
+      "excerpt": "Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko Twitch livestream: https://twitch.tv/lowkotv Live most days, starting at 2 PM CET / CEST  StarCraft",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-accidental-bronze-league-strategy/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-accidental-bronze-league-strategy/",
+      "originalUrl": "https://youtube.com/watch?v=8FwN7deeWds",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8FwN7deeWds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M30S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -104,10 +104,10 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 220,
+      "heat": 222,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Zj5A2wPL8dc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/8FwN7deeWds/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -115,7 +115,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-01-22T11:29:01Z"
+      "publishedDateTime": "2024-01-28T09:48:16Z"
     },
     {
       "path": "_games/pig-how-quickly-can-reynor-dispose-of-noobs-holdout-challenge-starcraft-2.md",
@@ -245,45 +245,6 @@
       "publishedDateTime": "2023-11-22T11:35:41Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero.md",
-      "title": "StarCraft 2: GAME OF THE YEAR? - Reynor vs herO!",
-      "excerpt": "Insanely good game of StarCraft 2 between Reynor (Zerg) and herO (Protoss). This match features a comeback that we rarely see at this level of SC2. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero/",
-      "originalUrl": "https://youtube.com/watch?v=utciQXyMw8Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/utciQXyMw8Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 210,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/utciQXyMw8Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-03T10:31:38Z"
-    },
-    {
       "path": "_games/pig-a-pro-player-underestimates-a-diamond-player-santa-claws-06.md",
       "title": "A Pro player underestimates a Diamond player! | Santa Claws #06",
       "excerpt": "🎅 Santa Claws impressed in his Starcraft Smooth Brain audition and has been granted an opportunity to be the next Smooth Brain. Will he impress or will his brain prove too wrinkled?   🎅 Santa Claws Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh -- 🐷 Second Channel",
@@ -342,14 +303,14 @@
       "publishedDateTime": "2023-08-14T09:09:57Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-byuns-accidental-bronze-league-strategy.md",
-      "title": "StarCraft 2: ByuN's ACCIDENTAL Bronze League Strategy!",
-      "excerpt": "Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko Twitch livestream: https://twitch.tv/lowkotv Live most days, starting at 2 PM CET / CEST  StarCraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-accidental-bronze-league-strategy/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-accidental-bronze-league-strategy/",
-      "originalUrl": "https://youtube.com/watch?v=8FwN7deeWds",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8FwN7deeWds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M30S",
+      "path": "_games/lowkotv-starcraft-2-maru-vs-serral-the-highest-skilled-series-of-the-year.md",
+      "title": "StarCraft 2: Maru vs Serral - The Highest Skilled Series of the Year!",
+      "excerpt": "StarCraft 2 pro match between Serral and Maru. These two pro gamers have been the number 1 and 2 in the world for years. It does not get any higher level than this Zerg versus Terran. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maru-vs-serral-the-highest-skilled-series-of-the-year/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maru-vs-serral-the-highest-skilled-series-of-the-year/",
+      "originalUrl": "https://youtube.com/watch?v=6NJKJ0c5coM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6NJKJ0c5coM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT55M37S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -364,51 +325,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 177,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8FwN7deeWds/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-28T09:48:16Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-maxpaxs-triple-stargate-phoenix-rush-vs-reynor-best-of-3.md",
-      "title": "StarCraft 2: MaxPax's TRIPLE STARGATE PHOENIX Rush vs Reynor! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between MaxPax (Protoss) and Reynor (Zerg). This series features a macro game as well as a focus on a cheeky Stargate opener by MaxPax, where he tries to rush out as many Phoenixes as possible with a triple Stargate start. Support my work: https://patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpaxs-triple-stargate-phoenix-rush-vs-reynor-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpaxs-triple-stargate-phoenix-rush-vs-reynor-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=iQbJkOR_oEE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iQbJkOR_oEE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M8S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
+        "Terran",
         "Zerg"
       ],
-      "heat": 174,
+      "heat": 173,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/iQbJkOR_oEE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6NJKJ0c5coM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgSShlMA8=&rs=AOn4CLCs1mkcx2HbOHe9SJK75GSQ0kBAZQ",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -416,7 +339,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-01-23T11:16:30Z"
+      "publishedDateTime": "2023-11-17T11:44:02Z"
     },
     {
       "path": "_games/pig-the-craziest-response-to-a-proxy-hatch-ever-starcraft-2.md",
@@ -649,6 +572,45 @@
       "publishedDateTime": "2022-08-09T08:02:14Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-maxpaxs-triple-stargate-phoenix-rush-vs-reynor-best-of-3.md",
+      "title": "StarCraft 2: MaxPax's TRIPLE STARGATE PHOENIX Rush vs Reynor! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between MaxPax (Protoss) and Reynor (Zerg). This series features a macro game as well as a focus on a cheeky Stargate opener by MaxPax, where he tries to rush out as many Phoenixes as possible with a triple Stargate start. Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpaxs-triple-stargate-phoenix-rush-vs-reynor-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpaxs-triple-stargate-phoenix-rush-vs-reynor-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=iQbJkOR_oEE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iQbJkOR_oEE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M8S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 158,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iQbJkOR_oEE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-23T11:16:30Z"
+    },
+    {
       "path": "_games/pig-i-embarrassed-a-pro-player-so-he-embarrassed-me-back-pig-vs-astrea-starcraft-2.md",
       "title": "I EMBARRASSED a Pro Player so he embarrassed me back | PiG vs Astrea - StarCraft 2",
       "excerpt": "This is a story about RANDOM and REVENGE - between me and top 20 player in the world, Astrea, also known as Chadstrea -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig",
@@ -812,44 +774,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-11-18T11:54:45Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-dark-refuses-to-play-late-game-vs-cure-best-of-3.md",
-      "title": "StarCraft 2: Dark REFUSES to play Late Game vs Cure! (Best-of-3)",
-      "excerpt": "Amazing series of StarCraft 2 between Dark (Zerg) and Cure (Terran). This series was played as part of the Master's Coliseum 7 tournament, the first premier SC2 event of 2024. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-dark-refuses-to-play-late-game-vs-cure-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-dark-refuses-to-play-late-game-vs-cure-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=o-IP_SC9jWU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o-IP_SC9jWU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M54S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 150,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/o-IP_SC9jWU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-20T12:47:58Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-maxpaxs-riduclous-colossus-micro-vs-clem.md",
@@ -1031,6 +955,64 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-09-22T11:02:19Z"
+    },
+    {
+      "path": "_games/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-seige-tactics-g1.md",
+      "title": "StarCraft 2 - When You Build a Base In Their Base... | ICYFAR \"Seige Tactics\" G1",
+      "excerpt": "🤯 NEW ICYFAR CHALLENGE: One Base Openers - You're not allowed to start building an expansion until after 5:00. Send submissions to eonblu95@gmail.com as attachment AND only ICYFAR as the subject. Max 1 replay per person. Latest submission is on the 21st May. -- 🤯 In this week’s episode of I Cast Your",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-seige-tactics-g1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-seige-tactics-g1/",
+      "originalUrl": "https://youtube.com/watch?v=e4q2aK8jjW0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e4q2aK8jjW0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M45S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 140,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/e4q2aK8jjW0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-04-28T06:30:12Z"
+    },
+    {
+      "path": "_games/pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1.md",
+      "title": "We paid a Pro to do Troll builds and it was LEGENDARY | Twitch Plays Astrea #1",
+      "excerpt": "It is rumoured that a Legend is born when immortals save the world from destruction. A being so powerful rises from the clutches of near death and is then known to the world as CHADSTREA THUNDERSHAFT. Here is his origin story.  Follow Astrea's Twitch: https://www.twitch.tv/zastrea -- 🐷 Second Channel",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-we-paid-a-pro-to-do-troll-builds-and-it-was-legendary-twitch-plays-astrea-1/",
+      "originalUrl": "https://youtube.com/watch?v=SariYo8-VNI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SariYo8-VNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M5S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 140,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SariYo8-VNI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-02-11T01:37:20Z"
     }
   ],
   "nextPage": 3

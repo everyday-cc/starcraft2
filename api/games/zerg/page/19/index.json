@@ -4,121 +4,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-time.md",
-      "title": "StarCraft 2: Serral vs TIME!",
-      "excerpt": "For years StarCraft 2 felt like a game that was focusing primarily on the \"real-time\" aspect of RTS. This game is an epic example of the strategic part. A brilliant game of professional StarCraft 2 between Serral and TIME.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-time/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-time/",
-      "originalUrl": "https://youtube.com/watch?v=YEIOen2vUo4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YEIOen2vUo4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M9S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YEIOen2vUo4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2019-08-10T09:24:39Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-ty.md",
-      "title": "StarCraft 2: SERRAL vs TY!",
-      "excerpt": "Serral is the current World Champion of StarCraft 2. TY is easily one of the best Terran players in the world. In today's video they face off against in each other in an epic match of top level professional StarCraft. This is a tournament match that was recently played at Homestory Cup.  Get exclusive",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-ty/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-ty/",
-      "originalUrl": "https://youtube.com/watch?v=3gh-U20ZUUY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3gh-U20ZUUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M33S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3gh-U20ZUUY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2019-07-04T09:33:13Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-uthermal-bo5.md",
-      "title": "StarCraft 2: SERRAL vs UTHERMAL! (Bo5)",
-      "excerpt": "A very high level best-of-5 series of Zerg versus Terran. Subscribe for more videos: http://lowko.tv/youtube Bunker Rush: https://goo.gl/etjR16  Serral is currently the highest ranked player in the game, statistically speaking. He's an absolute monster and great at the Zerg versus Terran matchup.  uThermal",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-uthermal-bo5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-uthermal-bo5/",
-      "originalUrl": "https://youtube.com/watch?v=7bFOTtzNzBQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7bFOTtzNzBQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT51M55S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7bFOTtzNzBQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2017-12-02T13:39:35Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-serrals-fresh-new-queen-drop-vs-classic-best-of-3.md",
       "title": "StarCraft 2: Serral's FRESH NEW Queen Drop vs Classic! (Best-of-3)",
       "excerpt": "Serral has gotten more aggressive lately in StarCraft 2. In this best-of-3 series versus Classic, the World Champion decides to go for a Queen drop using an Overlord to harass the Probes inside of Classic's bases.  Thumbnail picture by Marco Wutz: https://www.flickr.com/photos/detriplem/45180648705/",
@@ -308,6 +193,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-11-28T13:00:31Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serrals-sneaky-zergling-all-in-vs-dark-best-of-5.md",
+      "title": "StarCraft 2: Serral's SNEAKY ZERGLING ALL-IN vs Dark! (Best-of-5)",
+      "excerpt": "Top level series of professional StarCraft 2 between Serral (Zerg) and Dark (Zerg). Both of these players are looking very good currently and represent some of the best players in all of SC2.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serrals-sneaky-zergling-all-in-vs-dark-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serrals-sneaky-zergling-all-in-vs-dark-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=pQojL_cRMB8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pQojL_cRMB8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT50M59S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pQojL_cRMB8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-09-01T11:12:22Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serrals-swarm-hosts-vs-dreams-mech-best-of-3.md",
@@ -1152,6 +1075,84 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2020-08-15T09:06:48Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-strange-build-orders-serral-vs-neeb.md",
+      "title": "StarCraft 2: STRANGE BUILD ORDERS! (Serral vs Neeb)",
+      "excerpt": "Serral versus Neeb in a best-of-3 series of professional StarCraft 2. These games are a little bit different than what we normally see in StarCraft 2. Serral, who is well known to be the best player in StarCraft 2, decides to mix it up in these games and tech up towards  a Lair significantly quicker",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-strange-build-orders-serral-vs-neeb/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-strange-build-orders-serral-vs-neeb/",
+      "originalUrl": "https://youtube.com/watch?v=J11BdN1O3Ds",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J11BdN1O3Ds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M27S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/J11BdN1O3Ds/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2020-04-13T10:25:30Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-strange-games-scarletts-ultralisk-rush-vs-protoss-best-of-5.md",
+      "title": "StarCraft 2: STRANGE GAMES - Scarlett's Ultralisk Rush vs Protoss? (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Scarlett (Zerg) and SKillous (Protoss). This Zerg versus Protoss is the Grand Finals of the ESL Open Cup 128 Americas.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-strange-games-scarletts-ultralisk-rush-vs-protoss-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-strange-games-scarletts-ultralisk-rush-vs-protoss-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=MaV4tHe877g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MaV4tHe877g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT51M5S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MaV4tHe877g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-07-04T08:54:23Z"
     }
   ],
   "nextPage": 20

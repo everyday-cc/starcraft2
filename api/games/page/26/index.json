@@ -174,6 +174,44 @@
       "publishedDateTime": "2023-07-14T12:00:09Z"
     },
     {
+      "path": "_games/lowkotv-dark-refuses-to-play-the-new-banelings-starcraft-2.md",
+      "title": "Dark REFUSES to play the NEW Banelings?! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of StarCraft 2 between Dark (Zerg) and Astrea (Protoss). This series features the new Mothership, albeit for only a very short amount of time. SC2 match is from the Korean StarCraft League. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-refuses-to-play-the-new-banelings-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-refuses-to-play-the-new-banelings-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=RxvEB-CBQxw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RxvEB-CBQxw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M41S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RxvEB-CBQxw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-10-03T12:11:45Z"
+    },
+    {
       "path": "_games/lowkotv-dark-surprises-cure-in-the-gsl-code-s-starcraft-2.md",
       "title": "Dark SURPRISES Cure in the GSL Code S! (StarCraft 2)",
       "excerpt": "Best-of-3 series of top level StarCraft 2 between Cure (Terran) and Dark (Zerg). This series was played in the round-of-8 of the GSL Code S in South Korea.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
@@ -250,45 +288,6 @@
       "publishedDateTime": "2023-09-07T10:01:13Z"
     },
     {
-      "path": "_games/lowkotv-gumihos-new-mech-all-in-vs-protoss-starcraft-2.md",
-      "title": "GuMiho's NEW Mech All-In vs Protoss?! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between GuMiho and Classic. This series is one of the two semi-finals of the GSL Code S, season 3 of 2023. In these games both players clearly have build orders prepared for the opponent, as GuMiho decides to do the same new Mech all-in twice in a row. Support my work:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-gumihos-new-mech-all-in-vs-protoss-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-gumihos-new-mech-all-in-vs-protoss-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=VxXRwXyIeEs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VxXRwXyIeEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M19S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VxXRwXyIeEs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-11-07T11:10:45Z"
-    },
-    {
       "path": "_games/lowkotv-heromarines-bold-strategy-backfires-starcraft-2.md",
       "title": "HeroMarine's Bold Strategy BACKFIRES! (StarCraft 2)",
       "excerpt": "Best-of-3 series of StarCraft 2 between HeroMarine and Iba. This series was recently played during the ESL Open Cup. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
@@ -324,44 +323,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-08-16T08:48:25Z"
-    },
-    {
-      "path": "_games/lowkotv-heros-new-protoss-all-ins-against-cure-starcraft-2.md",
-      "title": "herO's NEW Protoss All-Ins Against Cure! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between Cure (Terran) and herO (Protoss). Both of these South Korean pro gamers are some of the best in SC2 and they are very familiar with each other's playstyle. In this series herO decides to play very aggressive games, by bringing out old build orders such",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-heros-new-protoss-all-ins-against-cure-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-heros-new-protoss-all-ins-against-cure-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=ja467IrDNyY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ja467IrDNyY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ja467IrDNyY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-10-09T09:47:18Z"
     },
     {
       "path": "_games/lowkotv-insane-micro-maxpax-vs-showtime-in-an-absolute-banger-starcraft-2.md",
@@ -478,44 +439,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-09-18T11:03:09Z"
-    },
-    {
-      "path": "_games/lowkotv-serral-is-surprised-by-cures-cyclones-starcraft-2.md",
-      "title": "Serral is SURPRISED by Cure's Cyclones! (StarCraft 2)",
-      "excerpt": "Professional match of StarCraft 2 played on the new balance patch on the map Radhuset Station. This new map is the strangest one in the new map pool. You really can't wish for a better first match on this map than Serral versus Cure. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-serral-is-surprised-by-cures-cyclones-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-serral-is-surprised-by-cures-cyclones-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=ShyvxR2KEnQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ShyvxR2KEnQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M42S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ShyvxR2KEnQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-10-06T08:57:31Z"
     },
     {
       "path": "_games/lowkotv-serral-vs-clem-this-starcraft-2-match-is-amazing.md",
@@ -970,43 +893,6 @@
       "publishedDateTime": "2020-06-02T09:23:01Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-250-worker-kills-bly-vs-arrogfire.md",
-      "title": "StarCraft 2: 250+ WORKER KILLS - Bly vs Arrogfire!",
-      "excerpt": "High level match of StarCraft 2 between Bly (Zerg) and Arrogfire (Protoss). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-250-worker-kills-bly-vs-arrogfire/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-250-worker-kills-bly-vs-arrogfire/",
-      "originalUrl": "https://youtube.com/watch?v=kNqdcQJ_7xo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kNqdcQJ_7xo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M28S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kNqdcQJ_7xo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-05-13T10:53:17Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-3d-chess-mind-games.md",
       "title": "StarCraft 2: 3D CHESS MIND GAMES!",
       "excerpt": "Cannon Rush, Nydus Worm and 3D Chess mind games. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://youtu.be/BfikSEkWzao  A really clever game of Protoss vs Zerg between Patience and soO. Both players try to outsmart each other constantly, trying to think one step ahead",
@@ -1119,6 +1005,119 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2019-02-23T10:39:17Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-75-lurkers-50-ghosts-reynor-vs-clem.md",
+      "title": "StarCraft 2: 75+ LURKERS & 50+ GHOSTS! (Reynor vs Clem)",
+      "excerpt": "A game of professional StarCraft 2 played at the highest professional level. In this Zerg versus Terran we see an epic game featuring loads of Ghosts and tons of Lurkers.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-75-lurkers-50-ghosts-reynor-vs-clem/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-75-lurkers-50-ghosts-reynor-vs-clem/",
+      "originalUrl": "https://youtube.com/watch?v=TgjmN9X7vJY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TgjmN9X7vJY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M45S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TgjmN9X7vJY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2021-07-22T11:42:29Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-75-siege-tanks-kelazhur-vs-lambo.md",
+      "title": "StarCraft 2: 75+ SIEGE TANKS?! (Kelazhur vs Lambo)",
+      "excerpt": "Professional match of StarCraft 2 from HomeStory Cup 23 between Lambo (Zerg) and Kelazhur (Terran). This game is a long macro match on Gresan between a swarmy Zerg and Terran Mech. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-75-siege-tanks-kelazhur-vs-lambo/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-75-siege-tanks-kelazhur-vs-lambo/",
+      "originalUrl": "https://youtube.com/watch?v=jEbrekEvWZE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jEbrekEvWZE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M17S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jEbrekEvWZE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-07-04T18:08:11Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-8-year-old-plays-sc2.md",
+      "title": "StarCraft 2: 8-Year-Old Plays SC2!",
+      "excerpt": "This is a highlight video from a charity livestream I did recently that was sponsored by World Vision. In this game we have an 8-year-old who decided to donate her chore money to charity and let me commentate her first game that she played all alone.  Join the community on discord: http://lowko.tv/discord",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-8-year-old-plays-sc2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-8-year-old-plays-sc2/",
+      "originalUrl": "https://youtube.com/watch?v=fYl_2fqqKqc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fYl_2fqqKqc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fYl_2fqqKqc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2019-06-24T10:19:48Z"
     }
   ],
   "nextPage": 27

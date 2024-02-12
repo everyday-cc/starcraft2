@@ -4,120 +4,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-zergling-flood.md",
-      "title": "StarCraft 2: ZERGLING FLOOD!",
-      "excerpt": "BeastyQT vs goblin in a nail-biter of a game in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://youtu.be/EQ_JvXQFDEU  Very cool match of high level StarCraft 2. BeastyQT decides to play hyper aggressive and focus on Zergling floods and Baneling busts. Whereas",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zergling-flood/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zergling-flood/",
-      "originalUrl": "https://youtube.com/watch?v=TYVIx0PTiQc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TYVIx0PTiQc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M27S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TYVIx0PTiQc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2019-06-18T07:55:11Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-zergling-massacre.md",
-      "title": "StarCraft 2: Zergling MASSACRE!",
-      "excerpt": "A Zergling massacre in Zerg versus Zerg. Subscribe for more videos: http://lowko.tv/youtube Hotkeys and control groups explained: https://goo.gl/E21s9v  In this Zerg versus Zerg match we have two players, one in Silver League and one in Gold League. Both decide to open up reasonably standard, however",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zergling-massacre/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zergling-massacre/",
-      "originalUrl": "https://youtube.com/watch?v=-WHixigCoIM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-WHixigCoIM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M40S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-WHixigCoIM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2017-02-15T11:31:46Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-zergling-rush.md",
-      "title": "StarCraft 2: ZERGLING RUSH!",
-      "excerpt": "Zergling rush in a pro game between Dark and Rogue. Subscribe for more videos: http://lowko.tv/youtube Super chaotic game of Dark vs Rogue: https://goo.gl/PRf8Gq  Solid game of professional Zerg vs Zerg. The level of play is intense. Both players try to play as greedy as possible, without overextending,",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-zergling-rush/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-zergling-rush/",
-      "originalUrl": "https://youtube.com/watch?v=Bvropp9TgHY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bvropp9TgHY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M54S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Bvropp9TgHY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2018-06-09T12:02:40Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-zest-vs-rogue-on-all-new-maps-best-of-5.md",
       "title": "StarCraft 2: Zest vs Rogue on ALL NEW MAPS! (Best-of-5)",
       "excerpt": "A series of professional StarCraft 2 between Rogue (Zerg) and Zest (Protoss) on all new maps that have recently been added to StarCraft 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch:",
@@ -233,6 +119,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-02-12T13:00:07Z"
+    },
+    {
+      "path": "_games/lowkotv-the-world-champions-new-builds-vs-dark-starcraft-2.md",
+      "title": "The World Champion's NEW BUILDS vs Dark! (StarCraft 2)",
+      "excerpt": "Oliveira vs Dark in a best-of-5 series of top-level StarCraft 2. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv Live",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-the-world-champions-new-builds-vs-dark-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-the-world-champions-new-builds-vs-dark-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=ydW2cPZyuTg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ydW2cPZyuTg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT55M33S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ydW2cPZyuTg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-10-06T11:16:33Z"
     },
     {
       "path": "_games/pig-2300-zerglings-make-broodwar-great-again-icyfar-g2.md",
@@ -791,6 +715,38 @@
       "publishedDateTime": "2019-10-01T05:04:11Z"
     },
     {
+      "path": "_games/pig-flo-mentally-destroys-zerg-with-incredible-nuke-florencio-files-286-starcraft-2.md",
+      "title": "Flo mentally DESTROYS Zerg with incredible NUKE | Florencio Files #286 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-flo-mentally-destroys-zerg-with-incredible-nuke-florencio-files-286-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-flo-mentally-destroys-zerg-with-incredible-nuke-florencio-files-286-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=hx-_rt_fHoM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hx-_rt_fHoM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M13S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hx-_rt_fHoM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-11T00:57:28Z"
+    },
+    {
       "path": "_games/pig-genius-proxy-hatch-breaks-reynors-brain-reaper-starcraft-2.md",
       "title": "Genius proxy hatch BREAKS Reynor’s brain | Reaper - StarCraft 2",
       "excerpt": "Reaper has been doing some DIRTY proxy hatch builds. Here's a couple games, one against Reynor!  Reaper's twitch: https://www.twitch.tv/gosu_reaper -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for daily Pro Casts: https://www.youtube.com/c/PiGCasts",
@@ -973,6 +929,36 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-08-23T06:46:10Z"
+    },
+    {
+      "path": "_games/pig-how-quickly-can-dark-solar-dispose-of-a-noob-me-ept-na-holdout-challenge-starcraft-2.md",
+      "title": "How quickly can DARK & SOLAR dispose of a noob (ME)? | EPT NA Holdout Challenge - StarCraft 2",
+      "excerpt": "Want to play against Dark? The next Holdout Challenge will be held on 19th August 5pm PDT! For details see the Patreon post: https://www.patreon.com/posts/dark-holdout-70272758  Dark and Solar are ABSOLUTE BEASTS! Let's see how long PiG held on for in this unofficial Holdout Challenge. Each series was",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-dark-solar-dispose-of-a-noob-me-ept-na-holdout-challenge-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-dark-solar-dispose-of-a-noob-me-ept-na-holdout-challenge-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=AVpCZctKdew",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AVpCZctKdew\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M47S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AVpCZctKdew/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-08-03T23:36:52Z"
     }
   ],
   "nextPage": 24

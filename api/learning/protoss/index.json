@@ -17,7 +17,7 @@
         "domain": "hushangcoaching.com"
       },
       "publishedDateTime": "2021-02-15T05:49:06Z",
-      "heat": 189,
+      "heat": 190,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/lUWSahGFjJE/maxresdefault.jpg",
@@ -52,37 +52,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Qfgy6uw65uQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-protoss-build-order-voidray-into-adept-glaives.md",
-      "title": "PROTOSS BUILD ORDER | Voidray into Adept Glaives",
-      "excerpt": "Title: PROTOSS TUTORIAL | Voidray into Adept Glaives Tags: #starcraft #sc2 #protoss   ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-build-order-voidray-into-adept-glaives/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-protoss-build-order-voidray-into-adept-glaives/",
-      "originalUrl": "https://youtube.com/watch?v=nquwO64rHZA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nquwO64rHZA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M47S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2024-01-06T01:25:25Z",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nquwO64rHZA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -426,6 +395,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/F_C9Vqv6lFE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-protoss-build-order-voidray-into-adept-glaives.md",
+      "title": "PROTOSS BUILD ORDER | Voidray into Adept Glaives",
+      "excerpt": "Title: PROTOSS TUTORIAL | Voidray into Adept Glaives Tags: #starcraft #sc2 #protoss   ♦ Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-build-order-voidray-into-adept-glaives/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-protoss-build-order-voidray-into-adept-glaives/",
+      "originalUrl": "https://youtube.com/watch?v=nquwO64rHZA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nquwO64rHZA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M47S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2024-01-06T01:25:25Z",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nquwO64rHZA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

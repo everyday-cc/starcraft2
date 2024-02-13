@@ -2,6 +2,7 @@
 title: "Salty Toss clings to HAMSTER WHEEL of RAGE | Salt Mines #51 - StarCraft 2"
 excerpt: "Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty.   Binge the Salt Mines playlist: https://youtube.com/playlist?list=PLFUDU8AOevUePkIO6d3vLr0SSVKeZBdsZ -- 🐷 Second"
 originalUrl: https://youtube.com/watch?v=KJS_r_P_t-M
+webUrl: https://everyday.cc/starcraft2/game/pig-salty-toss-clings-to-hamster-wheel-of-rage-salt-mines-51-starcraft-2/
 type: video
 length: PT24M16S
 publishedDateTime: 2024-02-13T03:46:43Z
@@ -22,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "63shtoYXdoctCU63lK+UgoW8WLDc0aoUHx4wGRcgIWY9sTrhQ3jAnFx1xKrDt/76cin9DhYrxRviu0qGnhMcG5Y+W5xkcQdURbiaAfpK5CO0wpRQHovU+nCEyfc3IXcZKiuU73i35tvkanF0HKkIUgOIu1sU2ISPymEzdm/WlKlijY0iHmKdaJACDSIhJvFQz8NNfjLbDn62f5TJEyHdfmh330yU4lTS81kH5Fc+AaGirh+3dSYosSq3SnJ6mubNakMYAaH/s8vlRRr7pWRykboyA7Sy0Fx4enkg0d10pppK2wH4p/ww70nqpfpstE3pHQb5PavXPuSBPuhXLf7EHSVgTtm2yMlNd3Q4mprL+I59GdgfTentG6DEvD+NxnzDYICT9RV3+PhP58KrBh3A7A==;T4RpByiPLIKXSug2Xm9rXw=="
+secured: "eltIvJdTEKeHz1Ql7Wl9nBGR6PIO5sc9oWNLbPwtOnN2lT2bGvQjoPOpnUUbi0E/TWejG98PvcddZ+EkXpCnLaxSzvSBRiYQk3Uxx7rWa01mzVsZWi/lbTHiBVU5rjND86HgEt50EZkZQgn2WnHKGdXeAiB5/3dAdl7Aj7nQZqF7X8GyBjGZtDKpbhg2NcC6E6emGgpRx9LeziILHoCmGNjTnDmcj9ZC9OAiLaI28PVuesVEDrjFtnWQZLq926OybFJhGQhRozWR+SPyiq6/E3gdkR22s86kui0HmMvIEsX0rIyygjlODL3A6RbCGdw8wtUYiNmnyyHcd8K58SwrF71rATGvvzqftjaMYfimPEdFDS1SHzX6CKNTV7y1h6tscEBTv7htAuXBNUdRRHT1Bw==;3RTlMvAU4wWuzN5i5Rx+Uw=="
 ---
 

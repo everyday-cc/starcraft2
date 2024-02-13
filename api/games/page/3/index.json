@@ -398,39 +398,6 @@
       "publishedDateTime": "2021-12-24T21:58:31Z"
     },
     {
-      "path": "_games/pig-when-cannon-rushers-both-want-to-do-the-exact-same-rush-king-of-cannons-x-boanaan-starcraft-2.md",
-      "title": "When cannon rushers both want to do the EXACT same rush | King of Cannons x Boanaan - StarCraft 2",
-      "excerpt": "Boanaan won Season 3 of the Smooth Brain Auditions with his Planetry Fortress rush that both failed and... succeeded. Very glassy. In this game he's up against PrintF, another cannon rusher, and we get to witness PEAK STARCRAFT  Watch (A Collection of) Smooth Brains playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-cannon-rushers-both-want-to-do-the-exact-same-rush-king-of-cannons-x-boanaan-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-cannon-rushers-both-want-to-do-the-exact-same-rush-king-of-cannons-x-boanaan-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=lCGemqx5ckU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lCGemqx5ckU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M56S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 113,
-      "tags": [
-        "Cheese"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lCGemqx5ckU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-12-30T06:43:16Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",
       "title": "StarCraft 2: Erik's SURPRISES GuMiho with Zerg Drops! (Best-of-3)",
       "excerpt": "Best-of-3 series of Zerg vs Terran in StarCraft 2 between Erik and GuMiho. This is a series with some very unique Zerg strategies and build orders. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
@@ -470,26 +437,34 @@
       "publishedDateTime": "2023-05-22T10:49:14Z"
     },
     {
-      "path": "_games/pig-florencio-strategically-mass-pees-on-the-nexus-florencio-files-288-starcraft-2.md",
-      "title": "Florencio \"Strategically\" Mass Pees on the Nexus | Florencio Files #288 - StarCraft 2",
-      "excerpt": "Florencio goes gas first as a zerg player to rush burrow, but things get out of hand faster than anyone is ready for...  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc 🧜Florencio Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-florencio-strategically-mass-pees-on-the-nexus-florencio-files-288-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-florencio-strategically-mass-pees-on-the-nexus-florencio-files-288-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=qhds-neyxqs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qhds-neyxqs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M41S",
+      "path": "_games/lowkotv-heromarine-trolls-reynor-with-cyclones-starcraft-2.md",
+      "title": "HeroMarine TROLLS Reynor with Cyclones? (StarCraft 2)",
+      "excerpt": "Best-of-3 series of Terran versus Zerg featuring HeroMarine and Reynor. In these games, played at HomeStory Cup, HeroMarine decides to play Terran Mech. In game one of this match he goes for a Cyclone all-in that I have not seen before, and one that I've been losing against regularly on the SC2 ladder",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-heromarine-trolls-reynor-with-cyclones-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-heromarine-trolls-reynor-with-cyclones-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=4NuxABBTv_c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4NuxABBTv_c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M13S",
       "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Zerg"
       ],
       "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/qhds-neyxqs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/4NuxABBTv_c/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -497,7 +472,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-12-16T10:09:58Z"
+      "publishedDateTime": "2023-12-09T10:31:32Z"
     },
     {
       "path": "_games/lowkotv-gumihos-epic-battlecruiser-switch-surprises-astrea-starcraft-2.md",
@@ -1039,6 +1014,35 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-05-03T01:51:47Z"
+    },
+    {
+      "path": "_games/pig-the-1v7-insane-ai-challenge-is-impossible-no-beastyqt-has-not-done-it-starcraft-2.md",
+      "title": "The 1v7 INSANE AI Challenge is impossible (no, Beastyqt has not done it) - StarCraft 2",
+      "excerpt": "I have challenged StarCraft 2 Pros to take on 7 INSANE Cheater AIs at once! Serral has said it is impossible unless maybe they're all Zergs. The first person brave enough to try it is Spirit (Soul), a Terran player. He takes on 7 Random insane AIs all on Any Build. Then he tried 7 Zergs. Then he tries",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-1v7-insane-ai-challenge-is-impossible-no-beastyqt-has-not-done-it-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-1v7-insane-ai-challenge-is-impossible-no-beastyqt-has-not-done-it-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=CcFX72zESgU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CcFX72zESgU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M27S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 97,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CcFX72zESgU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-06-10T23:30:09Z"
     }
   ],
   "nextPage": 4

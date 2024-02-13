@@ -1096,6 +1096,7 @@ items:
   - pig-everyone-you-cant-beat-solar-hero-and-clem-in-one-tourney-astrea
   - pig-starcraft-pros-read-mean-youtube-comments
   - pig-this-devious-spire-strategy-destroys-on-ladder-starcraft
+  - pig-salty-toss-clings-to-hamster-wheel-of-rage-salt-mines-51-starcraft-2
 
 topics:
   - StarCraft 2

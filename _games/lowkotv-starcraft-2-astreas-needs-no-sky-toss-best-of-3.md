@@ -2,6 +2,7 @@
 title: "StarCraft 2: Astreas needs NO SKY TOSS?! (Best-of-3)"
 excerpt: "Best-of-3 series of StarCraft 2 from the Korean Starcraft 2 League between Dark (Zerg) and Astrea (Protoss). This match features some very stubborn gameplay decisions from both players. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord"
 originalUrl: https://youtube.com/watch?v=PB4dkS7v03Q
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-astreas-needs-no-sky-toss-best-of-3/
 type: video
 length: PT48M32S
 publishedDateTime: 2024-02-14T10:18:06Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UoDuIQ43ArbigufLIxGD3C2Ov3zjcN2MFHjx8xxyALRnEh0PqdNEHAFYGmHEgUAHxIp31LTr5cFQy/cEjQBidSfEXkbLuygQOxeBobp/wiHNIyw9ZxYUanyGYhG0tUpVlVs42+J95dAP1UkswgLl81Iez4JMS1g4oohTXOyAGLjIglGCAnmy73pfFCJyk+eMZh0t+qSRSqJO2T7bDidF/1hPEJn41zERy7n/Fx7DB+6ng10bBXHCZ8+p6E+J5l+U0/l1IkOUkIX7yBeENkO6qIi/LFNOHIh0tSaSB3DTKIipD6d6pvsYuLTi7V84Tvx5dNxL8xxKX3ullWX8P7HABmbDQnHzlX2mFlBakH2di4NcY7OnIfRZuUyIQC+RoZjYX9VlmoxcWHDJz+iInkEdUQ==;XbWOns8DY2h+37lyP54fYA=="
+secured: "kAvJuNSIm6VN17dVOeUJ1RKEK4m2KiTLmACzEPvNQM1/Y8KmDifUBYPfkErg9jczayNFW28nTM3AMZvCShZoBOCtsb8XZrB5G9jMTA3SsrVH5FJ2Q2gck0UKDzQA1LA/oPRWwZXOB7oKgUFM8yFPxTBh0gOYzc6RF3udcbjGUaU/XUab9iN/fTv2Db5iVpFKmDubdpOp0Pso2vzglcy0B/gaIDBGAzdcBKPQARcGWTnoDQGi2SbRFHfs8U+zG491E3BTLdZzzFbogSUq/eE3a8h2Jo/5mrmXxOAudhc4DdD6VgjlcawEzbNM8/Fgv+jMHU3BvWZoAZmflnXqkO4fWFdQc/56EFt43j/Aw4X4CF6AOM6qVzt6xUp0dcsY1+lZ6yUWKdXhkzCd4MHq9oIrKQ==;pC4daofBmsjA+fmHeuLmSA=="
 ---
 

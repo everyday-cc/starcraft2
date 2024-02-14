@@ -4,6 +4,36 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/pig-6-times-sc2-pros-failed-including-the-goat-serral.md",
+      "title": "6 times SC2 Pros FAILED (including the GOAT Serral!)",
+      "excerpt": "We often think of our StarCraft 2 pros as being gods of skill, but once in a while they prove they're still human and have fails - even players like Serral, Dark, Clem and Zest! They prove they're still one of us one of us one us one of us... -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-6-times-sc2-pros-failed-including-the-goat-serral/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-6-times-sc2-pros-failed-including-the-goat-serral/",
+      "originalUrl": "https://youtube.com/watch?v=J15eFNuRquo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J15eFNuRquo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M8S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 229,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/J15eFNuRquo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-05-29T11:41:48Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-lowko-cries-over-zests-mass-void-ray-vs-soo-best-of-5.md",
       "title": "StarCraft 2; Lowko Cries over Zest’s Mass Void Ray vs soO! (Best-of-5)",
       "excerpt": "Best-of-5 series of professional StarCraft 2 between soO (Zerg) and Zest (Protoss). After macro games soO decides to go for a Spine Crawler rush versus Zest.  soO vs Cure: https://youtu.be/EfILZ7FPv70 soO vs ByuN: https://youtu.be/mSL43Z7w6A4  Support my work on Patreon: https://www.patreon.com/lowkotv",
@@ -70,44 +100,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-09-08T11:32:40Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-clem-vs-dark-premier-tournament-grand-finals.md",
-      "title": "StarCraft 2: Clem vs Dark - Premier Tournament Grand Finals!",
-      "excerpt": "Best-of-7 series of top level StarCraft 2. This SC2 match is the Grand Finals of the ESL SC2 Masters 2023 Winter, between Dark (Zerg) and Clem (Terran). Total prize pool for this event is $75000. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-clem-vs-dark-premier-tournament-grand-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-clem-vs-dark-premier-tournament-grand-finals/",
-      "originalUrl": "https://youtube.com/watch?v=_VcgvVuxq0w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_VcgvVuxq0w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H24M30S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 226,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_VcgvVuxq0w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-12-20T15:02:11Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-best-zerg-vs-zerg-of-the-year-best-of-5.md",
@@ -313,14 +305,14 @@
       "publishedDateTime": "2023-11-22T11:35:41Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-epic-mothership-wars-maxpax-vs-showtime.md",
-      "title": "StarCraft 2: Epic MOTHERSHIP Wars - MaxPax vs ShoWTimE!",
-      "excerpt": "Professional match of the StarCraft 2 ESL Masters European Regionals between MaxPax and ShoWTimE. In this game of Protoss versus Protoss both players decide to open Phoenixes, and rush to a Mothership as quickly as possible. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-mothership-wars-maxpax-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-mothership-wars-maxpax-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=JqBcPCa2XYY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JqBcPCa2XYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M5S",
+      "path": "_games/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero.md",
+      "title": "StarCraft 2: GAME OF THE YEAR? - Reynor vs herO!",
+      "excerpt": "Insanely good game of StarCraft 2 between Reynor (Zerg) and herO (Protoss). This match features a comeback that we rarely see at this level of SC2. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero/",
+      "originalUrl": "https://youtube.com/watch?v=utciQXyMw8Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/utciQXyMw8Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M52S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -335,12 +327,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Protoss",
+        "Zerg"
       ],
-      "heat": 195,
+      "heat": 200,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/JqBcPCa2XYY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCcgVChyMA8=&rs=AOn4CLDmaTHLyU9rX8n-F3eevQQ_An1hjQ",
+          "url": "https://i.ytimg.com/vi/utciQXyMw8Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -348,7 +341,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-11-22T11:35:41Z"
+      "publishedDateTime": "2024-02-03T10:31:38Z"
     },
     {
       "path": "_games/pig-a-pro-player-underestimates-a-diamond-player-santa-claws-06.md",
@@ -409,6 +402,45 @@
       "publishedDateTime": "2023-08-14T09:09:57Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-this-is-starcraft-in-2024-maru-vs-serral.md",
+      "title": "StarCraft 2: THIS is StarCraft in 2024! (Maru vs Serral)",
+      "excerpt": "Amazing match of StarCraft 2 between Maru (Terran) and Serral (Zerg). It really doesn't get much better than these two playing against each other. What an amazing match of Terran versus Zerg. A late game war over the final resources on the map. Support my work: https://patreon.com/lowkotv  Lowko merch:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-this-is-starcraft-in-2024-maru-vs-serral/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-this-is-starcraft-in-2024-maru-vs-serral/",
+      "originalUrl": "https://youtube.com/watch?v=_8CklxD4I88",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_8CklxD4I88\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M59S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 171,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_8CklxD4I88/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-30T09:34:33Z"
+    },
+    {
       "path": "_games/pig-the-craziest-response-to-a-proxy-hatch-ever-starcraft-2.md",
       "title": "The CRAZIEST response to a Proxy Hatch EVER - StarCraft 2",
       "excerpt": "Reaper (Zerg) does a proxy hatch to Nina (Protoss) and she responds with a mothership?!? -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support",
@@ -438,45 +470,6 @@
       "publishedDateTime": "2023-07-06T23:56:05Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-this-is-starcraft-in-2024-maru-vs-serral.md",
-      "title": "StarCraft 2: THIS is StarCraft in 2024! (Maru vs Serral)",
-      "excerpt": "Amazing match of StarCraft 2 between Maru (Terran) and Serral (Zerg). It really doesn't get much better than these two playing against each other. What an amazing match of Terran versus Zerg. A late game war over the final resources on the map. Support my work: https://patreon.com/lowkotv  Lowko merch:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-this-is-starcraft-in-2024-maru-vs-serral/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-this-is-starcraft-in-2024-maru-vs-serral/",
-      "originalUrl": "https://youtube.com/watch?v=_8CklxD4I88",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_8CklxD4I88\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M59S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 168,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_8CklxD4I88/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-30T09:34:33Z"
-    },
-    {
       "path": "_games/pig-wings-of-liberty-nightmare-difficulty-hardest-rts-campaign-ever-1-starcraft-2.md",
       "title": "Wings of Liberty NIGHTMARE DIFFICULTY: Hardest RTS Campaign Ever #1 - StarCraft 2",
       "excerpt": "My first try at Nightmare Difficulty Mode StarCraft 2 Campaign created by GiantGrantGames and his amazing modding community. Having lots of fun with it! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
@@ -504,6 +497,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-06-06T08:35:40Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-clem-vs-dark-premier-tournament-grand-finals.md",
+      "title": "StarCraft 2: Clem vs Dark - Premier Tournament Grand Finals!",
+      "excerpt": "Best-of-7 series of top level StarCraft 2. This SC2 match is the Grand Finals of the ESL SC2 Masters 2023 Winter, between Dark (Zerg) and Clem (Terran). Total prize pool for this event is $75000. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-clem-vs-dark-premier-tournament-grand-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-clem-vs-dark-premier-tournament-grand-finals/",
+      "originalUrl": "https://youtube.com/watch?v=_VcgvVuxq0w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_VcgvVuxq0w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H24M30S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 166,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_VcgvVuxq0w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-12-20T15:02:11Z"
     },
     {
       "path": "_games/pig-astrea-has-become-a-tournament-level-florencio.md",
@@ -907,44 +938,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-11-23T11:34:26Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-byuns-accidental-bronze-league-strategy.md",
-      "title": "StarCraft 2: ByuN's ACCIDENTAL Bronze League Strategy!",
-      "excerpt": "Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko Twitch livestream: https://twitch.tv/lowkotv Live most days, starting at 2 PM CET / CEST  StarCraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-accidental-bronze-league-strategy/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-accidental-bronze-league-strategy/",
-      "originalUrl": "https://youtube.com/watch?v=8FwN7deeWds",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8FwN7deeWds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M30S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 147,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8FwN7deeWds/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-28T09:48:16Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-queen-dropping-terran-gumiho-vs-erik.md",

@@ -4,6 +4,45 @@
   "page": 1,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-serral-zerg-rushes-hero.md",
+      "title": "StarCraft 2: Serral ZERG RUSHES herO!",
+      "excerpt": "Easily the most painful game of StarCraft 2 I've seen in a long time. This game between Serral and herO features the biggest throw in a pro game of 2024 so far. Reynor's Protoss vs Serral: https://youtu.be/Ayg4tUhwMjM Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-zerg-rushes-hero/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-zerg-rushes-hero/",
+      "originalUrl": "https://youtube.com/watch?v=0l1W_D8jqoY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0l1W_D8jqoY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M31S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 356,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0l1W_D8jqoY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-31T09:04:45Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-all-new-maps-scarlett-drone-rushes-hero-best-of-5.md",
       "title": "StarCraft 2: ALL NEW MAPS - Scarlett DRONE RUSHES herO! (Best-of-5)",
       "excerpt": "High level match of StarCraft 2 played on brand new maps from the Team Liquid Map Contest (TLMC). This best-of-5 is between Scarlett and herO. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips",
@@ -41,6 +80,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-06-21T12:36:29Z"
+    },
+    {
+      "path": "_games/lowkotv-the-new-highest-ranked-1-terran-1-protoss-starcraft-2.md",
+      "title": "The NEW Highest Ranked #1 Terran & #1 Protoss! (StarCraft 2)",
+      "excerpt": "Professional match of StarCraft 2 between the new rank 1 Terran and the new rank 1 Protoss in the world. This match is from the ESL Open Cup Europe. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-the-new-highest-ranked-1-terran-1-protoss-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-the-new-highest-ranked-1-terran-1-protoss-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=eD5UevCxvgA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eD5UevCxvgA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M52S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 296,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eD5UevCxvgA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFYgTChlMA8=&rs=AOn4CLDHWsVjV5T7D5YEfmYVFK6VESQKPQ",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-24T12:58:18Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-europes-best-terran-vs-protoss-clem-vs-maxpax.md",
@@ -313,45 +391,6 @@
       "publishedDateTime": "2023-05-08T10:18:53Z"
     },
     {
-      "path": "_games/lowkotv-the-new-highest-ranked-1-terran-1-protoss-starcraft-2.md",
-      "title": "The NEW Highest Ranked #1 Terran & #1 Protoss! (StarCraft 2)",
-      "excerpt": "Professional match of StarCraft 2 between the new rank 1 Terran and the new rank 1 Protoss in the world. This match is from the ESL Open Cup Europe. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-the-new-highest-ranked-1-terran-1-protoss-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-the-new-highest-ranked-1-terran-1-protoss-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=eD5UevCxvgA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eD5UevCxvgA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 236,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eD5UevCxvgA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFYgTChlMA8=&rs=AOn4CLDHWsVjV5T7D5YEfmYVFK6VESQKPQ",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-11-24T12:58:18Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-byuns-amazing-micro-vs-classics-maxed-out-army.md",
       "title": "StarCraft 2: ByuN's AMAZING MICRO vs Classic's Maxed Out Army!",
       "excerpt": "Amazing game of Protoss versus Terran in StarCraft 2 between Classic and ByuN. While Classic can build up his ultimate Protoss deathball, ByuN refuses to lose to it because of ridiculously good micro.  Early morning StarCraft (video from 2013): https://youtu.be/9_8gR2crUw0  Support my work on Patreon:",
@@ -428,45 +467,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-08-30T08:40:44Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero.md",
-      "title": "StarCraft 2: GAME OF THE YEAR? - Reynor vs herO!",
-      "excerpt": "Insanely good game of StarCraft 2 between Reynor (Zerg) and herO (Protoss). This match features a comeback that we rarely see at this level of SC2. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero/",
-      "originalUrl": "https://youtube.com/watch?v=utciQXyMw8Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/utciQXyMw8Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 229,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/utciQXyMw8Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-03T10:31:38Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-lowko-cries-over-zests-mass-void-ray-vs-soo-best-of-5.md",
@@ -546,14 +546,14 @@
       "publishedDateTime": "2023-11-22T11:35:41Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-epic-mothership-wars-maxpax-vs-showtime.md",
-      "title": "StarCraft 2: Epic MOTHERSHIP Wars - MaxPax vs ShoWTimE!",
-      "excerpt": "Professional match of the StarCraft 2 ESL Masters European Regionals between MaxPax and ShoWTimE. In this game of Protoss versus Protoss both players decide to open Phoenixes, and rush to a Mothership as quickly as possible. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-mothership-wars-maxpax-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-mothership-wars-maxpax-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=JqBcPCa2XYY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JqBcPCa2XYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M5S",
+      "path": "_games/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero.md",
+      "title": "StarCraft 2: GAME OF THE YEAR? - Reynor vs herO!",
+      "excerpt": "Insanely good game of StarCraft 2 between Reynor (Zerg) and herO (Protoss). This match features a comeback that we rarely see at this level of SC2. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero/",
+      "originalUrl": "https://youtube.com/watch?v=utciQXyMw8Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/utciQXyMw8Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M52S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -568,12 +568,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Protoss",
+        "Zerg"
       ],
-      "heat": 195,
+      "heat": 200,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/JqBcPCa2XYY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCcgVChyMA8=&rs=AOn4CLDmaTHLyU9rX8n-F3eevQQ_An1hjQ",
+          "url": "https://i.ytimg.com/vi/utciQXyMw8Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -581,7 +582,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-11-22T11:35:41Z"
+      "publishedDateTime": "2024-02-03T10:31:38Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-proxy-nexus-into-mass-sentry.md",
@@ -691,6 +692,44 @@
       "publishedDateTime": "2023-05-04T05:47:03Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-epic-mothership-wars-maxpax-vs-showtime.md",
+      "title": "StarCraft 2: Epic MOTHERSHIP Wars - MaxPax vs ShoWTimE!",
+      "excerpt": "Professional match of the StarCraft 2 ESL Masters European Regionals between MaxPax and ShoWTimE. In this game of Protoss versus Protoss both players decide to open Phoenixes, and rush to a Mothership as quickly as possible. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-mothership-wars-maxpax-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-mothership-wars-maxpax-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=JqBcPCa2XYY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JqBcPCa2XYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M5S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 135,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JqBcPCa2XYY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCcgVChyMA8=&rs=AOn4CLDmaTHLyU9rX8n-F3eevQQ_An1hjQ",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-22T11:35:41Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-maxpaxs-triple-stargate-phoenix-rush-vs-reynor-best-of-3.md",
       "title": "StarCraft 2: MaxPax's TRIPLE STARGATE PHOENIX Rush vs Reynor! (Best-of-3)",
       "excerpt": "Best-of-3 series of top level StarCraft 2 between MaxPax (Protoss) and Reynor (Zerg). This series features a macro game as well as a focus on a cheeky Stargate opener by MaxPax, where he tries to rush out as many Phoenixes as possible with a triple Stargate start. Support my work: https://patreon.com/lowkotv",
@@ -716,7 +755,7 @@
         "Protoss",
         "Zerg"
       ],
-      "heat": 133,
+      "heat": 124,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/iQbJkOR_oEE/maxresdefault.jpg",
@@ -728,6 +767,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-01-23T11:16:30Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-parting-destroys-byuns-turtle-terran.md",
+      "title": "StarCraft 2: PartinG DESTROYS ByuN's Turtle Terran!",
+      "excerpt": "Best-of-3 series of South Korean StarCraft 2 between PartinG (Protoss) and ByuN (Terran). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko Twitch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-parting-destroys-byuns-turtle-terran/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-parting-destroys-byuns-turtle-terran/",
+      "originalUrl": "https://youtube.com/watch?v=dqdgCJS6ERk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dqdgCJS6ERk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 121,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dqdgCJS6ERk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-15T11:45:35Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",
@@ -794,7 +872,7 @@
         "Protoss",
         "Zerg"
       ],
-      "heat": 98,
+      "heat": 93,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qPmZQKWQIgo/maxresdefault.jpg",
@@ -906,45 +984,6 @@
       "publishedDateTime": "2022-04-14T02:34:28Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-serral-zerg-rushes-hero.md",
-      "title": "StarCraft 2: Serral ZERG RUSHES herO!",
-      "excerpt": "Easily the most painful game of StarCraft 2 I've seen in a long time. This game between Serral and herO features the biggest throw in a pro game of 2024 so far. Reynor's Protoss vs Serral: https://youtu.be/Ayg4tUhwMjM Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-zerg-rushes-hero/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-zerg-rushes-hero/",
-      "originalUrl": "https://youtube.com/watch?v=0l1W_D8jqoY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0l1W_D8jqoY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M31S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 82,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0l1W_D8jqoY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-31T09:04:45Z"
-    },
-    {
       "path": "_games/pig-hero-drone-lets-me-get-away-with-3-hatch-before-pool-mac-or-cheese-4-starcraft-2.md",
       "title": "Hero Drone lets me get away with 3-hatch before pool! | Mac or Cheese #4 - StarCraft 2",
       "excerpt": "NEW SHOW! I secretly played a few games on a dirty barcode account and offered my StarCraft 2 opponents a choice: Macro or Cheese? How the game plays out is up to them!  Watch the Full Playlist: https://youtube.com/playlist?list=PLFUDU8AOevUfPxBiGAdbbg9sRfRF9ZV28 -- 🐷 Second Channel for Learning StarCraft",
@@ -976,6 +1015,83 @@
       "publishedDateTime": "2022-08-04T04:25:26Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-reynors-epic-protoss-vs-serral.md",
+      "title": "StarCraft 2: Reynor's EPIC PROTOSS vs Serral!",
+      "excerpt": "StarCraft 2 professional tournament game between Serral and Reynor. Rather than playing Zerg, Reynor decides to play Protoss in this match. Very impressive game from two of the very best pro gamers in all of SC2.  Serral Spine rushes Reynor: https://youtu.be/djxl-vImiP8 Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynors-epic-protoss-vs-serral/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-epic-protoss-vs-serral/",
+      "originalUrl": "https://youtube.com/watch?v=Ayg4tUhwMjM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ayg4tUhwMjM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 80,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Ayg4tUhwMjM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-12-05T10:51:53Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-return-of-the-legendary-world-champion-protoss.md",
+      "title": "StarCraft 2: Return of the LEGENDARY World Champion Protoss!",
+      "excerpt": "PartinG is back! One of StarCraft 2's most accomplished pro gamers has returned from his military service in South Korea. He was forced to retire in 2021, but has now returned to the game. In this series from the Korean Starcraft League (KSL) he's facing off against the Chinese Terran player Coffee.",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-return-of-the-legendary-world-champion-protoss/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-return-of-the-legendary-world-champion-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=aUmf0m1MT3E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aUmf0m1MT3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M41S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 79,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aUmf0m1MT3E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-03T11:51:52Z"
+    },
+    {
       "path": "_games/pig-starcraft-2-flo-maxes-out-ground-attack-for-his-skytoss-facepalm-florencio-files-265.md",
       "title": "StarCraft 2- Flo maxes out ground attack for his skytoss! FACEPALM | Florencio Files #265",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
@@ -1004,113 +1120,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-04-21T01:14:08Z"
-    },
-    {
-      "path": "_games/pig-zergs-will-rage-if-this-map-gets-on-ladder-protoss-will-love-it-astrea-vs-mixu-starcraft-2.md",
-      "title": "Zergs will RAGE if this Map gets on Ladder (Protoss will LOVE it) | Astrea vs Mixu - StarCraft 2",
-      "excerpt": "Both Astrea (Protoss) and Mixu (Zerg) play this map from the Team Liquid Map-making Contest. There's an interesting gold base and lots of choke points. Zergs will HATE this, Protoss players will be happy -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-zergs-will-rage-if-this-map-gets-on-ladder-protoss-will-love-it-astrea-vs-mixu-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-zergs-will-rage-if-this-map-gets-on-ladder-protoss-will-love-it-astrea-vs-mixu-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=dPy6wpTmSh4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dPy6wpTmSh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M37S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 75,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dPy6wpTmSh4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-07-25T10:16:54Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-epic-marus-battlcruisers-vs-heros-carriers.md",
-      "title": "StarCraft 2: EPIC! - Maru's Battlcruisers vs herO's Carriers!",
-      "excerpt": "Amazing best-of-5 series of top level StarCraft 2 from the ESL Masters Winter Tournament. Maru versus herO is the highest level of Terran versus Protoss between South Korean pro gamers in all of SC2.   Serral vs Maru: https://youtu.be/6NJKJ0c5coM?si=m0UrBz8XnHWYb_xt Support my work: https://patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-marus-battlcruisers-vs-heros-carriers/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-marus-battlcruisers-vs-heros-carriers/",
-      "originalUrl": "https://youtube.com/watch?v=b3sJ7Ho7Ogo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b3sJ7Ho7Ogo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H9M22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/b3sJ7Ho7Ogo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-12-28T08:50:41Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-classics-new-immortal-adept-all-in-best-of-3.md",
-      "title": "StarCraft 2: Classic's NEW Immortal Adept All-In! (Best-of-3)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between Classic (Protoss) and Solar (Zerg). In this series Classic showcases a new followup to his Adept opener as he rushes out Immortals to go for a double layered attack. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-classics-new-immortal-adept-all-in-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-classics-new-immortal-adept-all-in-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=iNKrA_YHhNs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iNKrA_YHhNs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M58S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iNKrA_YHhNs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-19T09:54:29Z"
     }
   ],
   "nextPage": 2

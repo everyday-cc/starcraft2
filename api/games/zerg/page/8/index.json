@@ -4,105 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_games/beastyqtsc2-starcraft-2-mass-infestors-to-grandmaster.md",
-      "title": "StarCraft 2: MASS Infestors to Grandmaster!",
-      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  Also, I will soon begin to make videos featuring",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-infestors-to-grandmaster/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-infestors-to-grandmaster/",
-      "originalUrl": "https://youtube.com/watch?v=r4EBNNY_olg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r4EBNNY_olg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M41S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/r4EBNNY_olg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2019-08-14T09:46:27Z"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-mass-infestors-vs-brood-lords-basetrade.md",
-      "title": "StarCraft 2: MASS Infestors VS Brood Lords BASETRADE!",
-      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  This video features a Zerg vs Zerg where I play",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-infestors-vs-brood-lords-basetrade/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-infestors-vs-brood-lords-basetrade/",
-      "originalUrl": "https://youtube.com/watch?v=0rpuF_YI5Yc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0rpuF_YI5Yc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M38S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0rpuF_YI5Yc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2019-08-21T09:36:16Z"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-mass-infestors-vs-mass-ravens-ft-ketroc.md",
-      "title": "StarCraft 2: MASS Infestors vs MASS Ravens! (ft Ketroc)",
-      "excerpt": "Twitch Chat vs Cheater INSANE AI: https://www.youtube.com/watch?v=qxeUsyW569g  Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that,",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-infestors-vs-mass-ravens-ft-ketroc/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-mass-infestors-vs-mass-ravens-ft-ketroc/",
-      "originalUrl": "https://youtube.com/watch?v=EJu24FSdS0s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EJu24FSdS0s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT52M39S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EJu24FSdS0s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2019-08-25T22:51:07Z"
-    },
-    {
       "path": "_games/beastyqtsc2-starcraft-2-neuraling-opponentsvoice-pack.md",
       "title": "StarCraft 2: Neuraling Opponents....Voice Pack!",
       "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  In this episode, we learn that when you neural",
@@ -444,6 +345,83 @@
       "publishedDateTime": "2023-07-14T12:00:09Z"
     },
     {
+      "path": "_games/lowkotv-dark-refuses-to-play-the-new-banelings-starcraft-2.md",
+      "title": "Dark REFUSES to play the NEW Banelings?! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of StarCraft 2 between Dark (Zerg) and Astrea (Protoss). This series features the new Mothership, albeit for only a very short amount of time. SC2 match is from the Korean StarCraft League. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-refuses-to-play-the-new-banelings-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-refuses-to-play-the-new-banelings-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=RxvEB-CBQxw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RxvEB-CBQxw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M41S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RxvEB-CBQxw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-10-03T12:11:45Z"
+    },
+    {
+      "path": "_games/lowkotv-dark-refuses-to-stop-cheesing-classic-starcraft-2.md",
+      "title": "Dark REFUSES to stop cheesing Classic! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of the highest level of StarCraft 2. In these games Dark decides to play the most aggresive Zerg cheeses in all of SC2. Later in the series however, Classic decides to respond in kind with his own Protoss rush. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-refuses-to-stop-cheesing-classic-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-refuses-to-stop-cheesing-classic-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=mMUgq7r59eA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mMUgq7r59eA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M28S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mMUgq7r59eA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-14T11:05:49Z"
+    },
+    {
       "path": "_games/lowkotv-dark-surprises-cure-in-the-gsl-code-s-starcraft-2.md",
       "title": "Dark SURPRISES Cure in the GSL Code S! (StarCraft 2)",
       "excerpt": "Best-of-3 series of top level StarCraft 2 between Cure (Terran) and Dark (Zerg). This series was played in the round-of-8 of the GSL Code S in South Korea.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
@@ -480,6 +458,123 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-08-10T18:48:58Z"
+    },
+    {
+      "path": "_games/lowkotv-darks-desperate-all-ins-vs-gumiho-starcraft-2.md",
+      "title": "Dark's DESPERATE All-Ins vs GuMiho! (StarCraft 2)",
+      "excerpt": "Best-of-3 series in the new StarCraft 2 multiplayer balance on the new maps. In this match from the Korean StarCraft League GuMiho is facing off against Dark. New SC2 Patch: https://youtu.be/aqg_0JVw8HU Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-darks-desperate-all-ins-vs-gumiho-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-darks-desperate-all-ins-vs-gumiho-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=r-UvAyIthOc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r-UvAyIthOc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M34S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/r-UvAyIthOc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgVShyMA8=&rs=AOn4CLA_4sShXjErG0dFSEsrVnshD7Gk_w",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-09-30T11:06:14Z"
+    },
+    {
+      "path": "_games/lowkotv-darks-proxy-spine-crawlers-vs-reynors-protoss-starcraft-2.md",
+      "title": "Dark's Proxy SPINE CRAWLERS vs Reynor's PROTOSS?! (StarCraft 2)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between Reynor and Dark. In this series from the Master's Coliseum 6 Reynor starts this series not playing Zerg, but Protoss instead. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-darks-proxy-spine-crawlers-vs-reynors-protoss-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-darks-proxy-spine-crawlers-vs-reynors-protoss-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=mRIIhjED9rY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mRIIhjED9rY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M15S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mRIIhjED9rY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-09-22T07:41:36Z"
+    },
+    {
+      "path": "_games/lowkotv-mc-vs-stephano-in-a-40-000-starcraft-2-legends-tournament-finals.md",
+      "title": "MC vs Stephano in a $40 000 StarCraft 2 Legends Tournament Finals!",
+      "excerpt": "Stephano vs MC in a best-of-5 series of StarCraft 2. This SC2 Legends showmatch was played at Gamers8 alongside the StarCraft: Brood War Legends tournament as well as the StarCraft 2 main event. These players used to play at the highest level of the game literally a decade ago. How good are they in 2023?",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-mc-vs-stephano-in-a-40-000-starcraft-2-legends-tournament-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-mc-vs-stephano-in-a-40-000-starcraft-2-legends-tournament-finals/",
+      "originalUrl": "https://youtube.com/watch?v=IksFDfceR8I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IksFDfceR8I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT51M44S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IksFDfceR8I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-08-14T07:31:22Z"
     },
     {
       "path": "_games/lowkotv-pro-zerg-makes-protoss-look-overpowered-starcraft-2.md",
@@ -1017,83 +1112,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2019-03-01T13:09:18Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-a-symphony-of-zerg-rogue-vs-zoun.md",
-      "title": "StarCraft 2: A Symphony of ZERG! (Rogue vs Zoun)",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 between Rogue and Zoun.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-a-symphony-of-zerg-rogue-vs-zoun/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-a-symphony-of-zerg-rogue-vs-zoun/",
-      "originalUrl": "https://youtube.com/watch?v=22xNrXWRNIw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/22xNrXWRNIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT59M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/22xNrXWRNIw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2021-08-16T10:53:32Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-aggressive-zerg-swarms-ty-vs-armani.md",
-      "title": "StarCraft 2: AGGRESSIVE ZERG SWARMS! (TY vs Armani)",
-      "excerpt": "Awesome best-of-3 series of professional StarCraft 2 between TY and Armani. While I've casted quite a far TY games at this point, Armani is a name that many people are not as familiar with. He plays a macro focused style but plays very aggressively once he maxes out on Drones. A very cool series with",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-aggressive-zerg-swarms-ty-vs-armani/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-aggressive-zerg-swarms-ty-vs-armani/",
-      "originalUrl": "https://youtube.com/watch?v=R-ruEnZG_VU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R-ruEnZG_VU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/R-ruEnZG_VU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2020-07-08T11:26:49Z"
     }
   ],
   "nextPage": 9

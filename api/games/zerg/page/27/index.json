@@ -35,6 +35,37 @@
       "publishedDateTime": "2022-03-10T01:38:59Z"
     },
     {
+      "path": "_games/pig-when-your-strat-is-sick-but-zerg-has-a-wrinkly-brain-florencio-files-272-starcraft-2.md",
+      "title": "When your strat is SICK but zerg has a WRINKLY BRAIN | Florencio Files #272 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-your-strat-is-sick-but-zerg-has-a-wrinkly-brain-florencio-files-272-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-your-strat-is-sick-but-zerg-has-a-wrinkly-brain-florencio-files-272-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=RwCMLZHIxUg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RwCMLZHIxUg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M26S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RwCMLZHIxUg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-10-13T07:35:52Z"
+    },
+    {
       "path": "_games/pig-when-youre-losing-and-tilting-hard-its-time-to-channel-serral-pig-vs-kiwian-part-3-sc2.md",
       "title": "When you’re losing and tilting hard, it’s time to channel Serral! | PiG vs Kiwian (Part 3) - SC2",
       "excerpt": "This is part 3 of my bo5 ZvT showmatch vs Kiwian (Top)! So far we've seen me struggle against BCs and tilt HARD in game 3. Can I make a comeback from 1-2 down in the series? -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
@@ -775,6 +806,45 @@
       "publishedDateTime": "2017-07-27T16:48:48Z"
     },
     {
+      "path": "_games/sc2hl-serral-vs-mass-battlecruisers-starcraft-2-iem-2019.md",
+      "title": "Serral vs. Mass Battlecruisers - Starcraft 2 IEM 2019",
+      "excerpt": "Serral plays vs Gumiho Mass Battlecruisers in a crazy Terran vs Zerg at IEM katowice 2019  ► SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe   A crazy description   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload other content, such as",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-serral-vs-mass-battlecruisers-starcraft-2-iem-2019/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-serral-vs-mass-battlecruisers-starcraft-2-iem-2019/",
+      "originalUrl": "https://youtube.com/watch?v=X8jnYBGnyKU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X8jnYBGnyKU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M45S",
+      "provider": {
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/X8jnYBGnyKU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2019-03-06T15:05:01Z"
+    },
+    {
       "path": "_games/sc2hl-so-many-nukes-in-40-min-game-starcraft-2-serral-vs-innovation.md",
       "title": "SO MANY NUKES in 40 MIN+ GAME! - Starcraft 2: Serral vs Innovation",
       "excerpt": "Serral & Innovation play a looong Terran vs Zerg, bleeding out nearly the entire map. Who will survive? From Starcraft 2 IEM Katowice  Subscribe bitches   ► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL ► Submit your REPLAYS! - http://bit.ly/SC2HLsubmit   ► SUBSCRIBE to SC2HL!",
@@ -851,45 +921,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2017-07-24T10:19:50Z"
-    },
-    {
-      "path": "_games/sc2hl-supreme-late-game-protoss-vs-zerg-dark-vs-stats-starcraft-2-starleague.md",
-      "title": "SUPREME LATE GAME PROTOSS VS ZERG - Dark vs Stats - StarCraft 2 Starleague",
-      "excerpt": "Dark vs Stats in an epic 38 minute Protoss vs Zerg during the Starcraft 2 starleague. Going to the supreme late game.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Watch the Starcraft 2 Starleague on: http://youtube.com/esportstv    Thank you for watching our videos! Subscribe for more StarCraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-supreme-late-game-protoss-vs-zerg-dark-vs-stats-starcraft-2-starleague/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-supreme-late-game-protoss-vs-zerg-dark-vs-stats-starcraft-2-starleague/",
-      "originalUrl": "https://youtube.com/watch?v=8x9xoxB1DfI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8x9xoxB1DfI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M30S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8x9xoxB1DfI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2017-08-04T19:34:48Z"
     },
     {
       "path": "_games/sc2hl-tense-terran-vs-zerg-starcraft-2-serral-vs-bunny.md",

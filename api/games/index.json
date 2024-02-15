@@ -685,6 +685,35 @@
       "publishedDateTime": "2022-08-26T11:56:26Z"
     },
     {
+      "path": "_games/pig-nightmare-difficulty-heart-of-the-swarm-begins-part-1-starcraft-2.md",
+      "title": "NIGHTMARE DIFFICULTY: Heart of the Swarm Begins! | Part 1 - StarCraft 2",
+      "excerpt": "My first try at Heart of the Swarm Nightmare Difficulty StarCraft 2 Campaign created by Rhyme! I actually didn't like the original HotS campaign much because it was too easy and too Diablo-esque mechanics. I've been told this Nighmare Difficulty mod will change my mind though - can't wait!  Here's a",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-nightmare-difficulty-heart-of-the-swarm-begins-part-1-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-nightmare-difficulty-heart-of-the-swarm-begins-part-1-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=TK4n7hib8f0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TK4n7hib8f0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H31M41S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 256,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TK4n7hib8f0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-14T06:58:20Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-epic-game-maru-the-medivac-magician.md",
       "title": "StarCraft 2: EPIC GAME - Maru, the Medivac Magician!",
       "excerpt": "Amazing game of top level StarCraft 2 between ByuN (Terran) and Maru (Terran). The current number 1 and number 2 Terrans on the planet. One of the best games of SC2 this year for sure.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More Lowko:",
@@ -1095,36 +1124,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-08-30T08:40:44Z"
-    },
-    {
-      "path": "_games/pig-6-times-sc2-pros-failed-including-the-goat-serral.md",
-      "title": "6 times SC2 Pros FAILED (including the GOAT Serral!)",
-      "excerpt": "We often think of our StarCraft 2 pros as being gods of skill, but once in a while they prove they're still human and have fails - even players like Serral, Dark, Clem and Zest! They prove they're still one of us one of us one us one of us... -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-6-times-sc2-pros-failed-including-the-goat-serral/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-6-times-sc2-pros-failed-including-the-goat-serral/",
-      "originalUrl": "https://youtube.com/watch?v=J15eFNuRquo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J15eFNuRquo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M8S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 229,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/J15eFNuRquo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-05-29T11:41:48Z"
     }
   ],
   "nextPage": 2

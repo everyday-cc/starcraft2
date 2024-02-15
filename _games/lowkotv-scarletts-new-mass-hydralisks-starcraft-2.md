@@ -2,6 +2,7 @@
 title: "Scarlett's NEW Mass Hydralisks! (StarCraft 2)"
 excerpt: "StarCraft 2 $500,000 tournament match in 2024. This Zerg vs Terran is from IEM Katowice and features Scarlett reinventing the Zerg mid game as she masses one of the worst units that Zerg has available: the Hydralisk.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech"
 originalUrl: https://youtube.com/watch?v=LRSaVHM1nZ0
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-scarletts-new-mass-hydralisks-starcraft-2/
 type: video
 length: PT47M6S
 publishedDateTime: 2024-02-15T11:45:46Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "taq52fkftYUHGYihkWNegWfeYDDurcs3UA6pi2VOgmrWz9qjKbpRCFNusWG9XI2kpkKrsKD7BkTGiPj+0T5RxoWOcgfAdnyztDq9DTFz2vm4opHAlGHa7ji0twSBxZZxzyCwTbEdFjU4spiLEBg8crMCyNn/Lg/t1jJwNoXld2+hZgkaXxILiXbAE3r3nU+uRck6Ef9FldohVMOsbFHgie0gZ0Hf1mcWiugxVf3sk08rlh+uiQHYkvxseoso84H4jw0EKINVNqc3zFMMgyDG8jbZYXz5znuXJpEh9j/tpDFFiMgMi3f1vmCc/ej2zltgU2CnDclYT5aR1UFBFfwfJfbGslEOYEnL9ctouRlzC10QgjoNPTE7syB5ARFWYdkWafB3RMUovJX8oUdQYbKVVA==;ISfbZmXOHj1O4jY/gOZGNg=="
+secured: "oFiB9SkziYOVwqMk9CKXOP1dTYsRlcvWPWIwG4zjW3rcAPbE2yf919+jlizF6iixxgm6qSDMEZFo5VUn8tkKVoXOyRyUFDYbR+CVK8md0MBmzknRGSP2lEJNsnk+iF1i7VtQgJmdBdEmHdqMLVKSsUPrmq42MDz21U95ZFwj0+NkBv0JDuSbd8vFcIydAT2ZG/woaZ2C4+obykCCEShDISttdK/KSanLlg9kic4GlA0RBzReBOX1DUYJBYBbNNNCluEG2J62umuF+7fu40r6ANWm0ZUB7JJmFNoogEEZhF3CAiTu2uYRPhHedlt7oLn3OZ6zg+8rBx9JLHI8tDXTRwxRSQC1Mz6mvNQuqX1v+9cxEBmUSTvzamZ649azq2rJbBTq2co/Ge3w+1TwFPTtbQ==;wUTkNurLfpZtPoyDebWuCA=="
 ---
 

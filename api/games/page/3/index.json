@@ -4,36 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-holdout-challenge.md",
-      "title": "StarCraft 2 - How Quickly Can SCARLETT Dispose Of Noobs? | Holdout Challenge",
-      "excerpt": "We paid Scarlett to 1v1 noobs. The challenge: the noobs needed to stay in the match as long as possible. Scarlett unleashed her cheesy plays to stop the clock. This Holdout Challenge was a part of  PiG Sty Festival 2021 https://www.pigstarcraft.com/about/pig-sty-festival/  🐷 https://www.patreon.com/PiGSC2",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-holdout-challenge/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-how-quickly-can-scarlett-dispose-of-noobs-holdout-challenge/",
-      "originalUrl": "https://youtube.com/watch?v=hpv300poAUE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hpv300poAUE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M26S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 144,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hpv300poAUE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2021-11-02T07:55:49Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-cures-marauder-all-in-vs-maxpax-best-of-5.md",
       "title": "StarCraft 2: Cure's Marauder ALL-IN vs MaxPax! (Best-of-5)",
       "excerpt": "Awesome series of top level StarCraft 2 between MaxPax (Protoss) and Cure (Terran). Game is from the StarCraft 2 Tournament the Master's Coliseum 2023 $40,000, by World Team League (WTL). This is a best-of-5 series of SC2. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
@@ -469,6 +439,44 @@
       "publishedDateTime": "2021-12-24T21:58:31Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-incredible-game-dark-vs-maxpax.md",
+      "title": "StarCraft 2: INCREDIBLE Game - Dark vs MaxPax!",
+      "excerpt": "Professional match of StarCraft 2 played between Dark (Zerg) and MaxPax (Protoss). This game has an incredibly scrappy ending as Dark somehow manages to stay alive and make a round of Infestors. MaxPax however has detection as well as a powerful Sky Toss army. Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-game-dark-vs-maxpax/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-incredible-game-dark-vs-maxpax/",
+      "originalUrl": "https://youtube.com/watch?v=XOyns__mQSE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XOyns__mQSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 122,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XOyns__mQSE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-04T11:07:44Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-maxpaxs-incredible-stalker-micro-esl-finals.md",
       "title": "StarCraft 2: MaxPax's INCREDIBLE Stalker Micro! (ESL Finals)",
       "excerpt": "Best-of-5 series of StarCraft 2 that's the finals of the ESL Open Cup 204 Europe. This match is between MaxPax (Protoss) and HeroMarine (Terran). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
@@ -600,6 +608,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-12-14T12:16:00Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-scarlett-gets-mothership-rushed.md",
+      "title": "StarCraft 2: Scarlett gets MOTHERSHIP Rushed!",
+      "excerpt": "Best-of-2 series of StarCraft 2 from the World Team League (WTL) between Scarlett (Zerg) and Goblin (Protoss) Serral vs Maru: https://youtu.be/6NJKJ0c5coM Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scarlett-gets-mothership-rushed/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarlett-gets-mothership-rushed/",
+      "originalUrl": "https://youtube.com/watch?v=9vkZmNBD8ME",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9vkZmNBD8ME\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M6S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9vkZmNBD8ME/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-18T11:54:45Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",
@@ -1012,36 +1059,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-11-05T11:06:24Z"
-    },
-    {
-      "path": "_games/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starlords-filthy-adventures-15-starcraft-2.md",
-      "title": "Inflicting the Fastest Nydus Swarm Hosts EVER on GMs | Starlord's Filthy Adventures #15 -StarCraft 2",
-      "excerpt": "Subscribe to PiG Casts! 🐷 I said I would inflict this pain onto others - and it worked better than I thought it would! Protoss especially have a lot of trouble dealing with my version of the Fastest Nydus Swarm Hosts build. If you want my notes they're in The Book of Filth 2.0: https://docs.google.com/document/d/1GbpZ-qjoUQ42ZwVsmk3cYgLZ1WYNcLc9l6KUo-Zuudk/edit?usp=sharing",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starlords-filthy-adventures-15-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starlords-filthy-adventures-15-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=FH8HSBuhhM4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FH8HSBuhhM4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M11S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 103,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FH8HSBuhhM4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-09-11T12:45:43Z"
     }
   ],
   "nextPage": 4

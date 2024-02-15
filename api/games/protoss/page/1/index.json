@@ -623,45 +623,6 @@
       "publishedDateTime": "2023-05-08T10:18:53Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-three-minute-dark-shrine.md",
-      "title": "StarCraft 2: THREE MINUTE Dark Shrine?!",
-      "excerpt": "Two viewer submitted games of StarCraft 2. If you have an amazing match of Sc2 that you would like me to cast, submit it to replays@lowko.tv. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-three-minute-dark-shrine/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-three-minute-dark-shrine/",
-      "originalUrl": "https://youtube.com/watch?v=qPmZQKWQIgo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qPmZQKWQIgo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M46S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 153,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qPmZQKWQIgo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-11T15:05:52Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-scarlett-gets-recall-rushed-by-the-mothership.md",
       "title": "StarCraft 2: Scarlett gets RECALL RUSHED by the Mothership!",
       "excerpt": "Best-of-2 series of StarCraft 2 from the World Team League (WTL) between Scarlett (Zerg) and Goblin (Protoss) Serral vs Maru: https://youtu.be/6NJKJ0c5coM Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
@@ -808,6 +769,45 @@
       "publishedDateTime": "2024-01-23T11:16:30Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-scarlett-gets-mothership-rushed.md",
+      "title": "StarCraft 2: Scarlett gets MOTHERSHIP Rushed!",
+      "excerpt": "Best-of-2 series of StarCraft 2 from the World Team League (WTL) between Scarlett (Zerg) and Goblin (Protoss) Serral vs Maru: https://youtu.be/6NJKJ0c5coM Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scarlett-gets-mothership-rushed/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarlett-gets-mothership-rushed/",
+      "originalUrl": "https://youtube.com/watch?v=9vkZmNBD8ME",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9vkZmNBD8ME\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M6S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9vkZmNBD8ME/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-18T11:54:45Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",
       "title": "StarCraft 2: soO's Spine Crawler Rush vs Zest! (Best-of-5)",
       "excerpt": "Best-of-5 series of professional StarCraft 2 between soO (Zerg) and Zest (Protoss). After macro games soO decides to go for a Spine Crawler rush versus Zest.  soO vs Cure: https://youtu.be/EfILZ7FPv70 soO vs ByuN: https://youtu.be/mSL43Z7w6A4  Support my work on Patreon: https://www.patreon.com/lowkotv",
@@ -845,6 +845,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-05-23T18:16:38Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-three-minute-dark-shrine.md",
+      "title": "StarCraft 2: THREE MINUTE Dark Shrine?!",
+      "excerpt": "Two viewer submitted games of StarCraft 2. If you have an amazing match of Sc2 that you would like me to cast, submit it to replays@lowko.tv. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-three-minute-dark-shrine/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-three-minute-dark-shrine/",
+      "originalUrl": "https://youtube.com/watch?v=qPmZQKWQIgo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qPmZQKWQIgo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M46S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 93,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qPmZQKWQIgo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-11T15:05:52Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-bring-snacks-this-match-is-incredible-cure-vs-classic.md",
@@ -1081,36 +1120,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-04-21T01:14:08Z"
-    },
-    {
-      "path": "_games/pig-zergs-will-rage-if-this-map-gets-on-ladder-protoss-will-love-it-astrea-vs-mixu-starcraft-2.md",
-      "title": "Zergs will RAGE if this Map gets on Ladder (Protoss will LOVE it) | Astrea vs Mixu - StarCraft 2",
-      "excerpt": "Both Astrea (Protoss) and Mixu (Zerg) play this map from the Team Liquid Map-making Contest. There's an interesting gold base and lots of choke points. Zergs will HATE this, Protoss players will be happy -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-zergs-will-rage-if-this-map-gets-on-ladder-protoss-will-love-it-astrea-vs-mixu-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-zergs-will-rage-if-this-map-gets-on-ladder-protoss-will-love-it-astrea-vs-mixu-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=dPy6wpTmSh4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dPy6wpTmSh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M37S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 75,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dPy6wpTmSh4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-07-25T10:16:54Z"
     }
   ],
   "nextPage": 2

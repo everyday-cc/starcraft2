@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mattgardner1/2024/02/01/team-vitality-u
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattgardner1/2024/02/01/team-vitality-unveils-new-starcraft-ii-squad-for-iem-katowice-2024/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -28,40 +28,6 @@ images:
     width: 1599
     height: 900
     isCached: true
-
-related:
-  - title: "IEM Katowice 2024: Everything To Know About ‘CS2’ And ‘StarCraft II’"
-    excerpt: "Here’s everything you need to know about the two biggest 'CS2' and 'StarCraft II' esports competitions coming your way in the next few days."
-    publishedDateTime: 2024-01-29T21:05:00Z
-    webUrl: "https://www.forbes.com/sites/mattgardner1/2024/01/29/iem-katowice-2024-everything-you-need-to-know-about-esls-cs2-and-starcraft-ii-events/"
-    ampWebUrl: "https://www.forbes.com/sites/mattgardner1/2024/01/29/iem-katowice-2024-everything-you-need-to-know-about-esls-cs2-and-starcraft-ii-events/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattgardner1/2024/01/29/iem-katowice-2024-everything-you-need-to-know-about-esls-cs2-and-starcraft-ii-events/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 57
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b811bce582df0d1ae7146f/0x0.jpg?format=jpg&crop=2731,1537,x0,y716,safe&height=900&width=1600&fit=bounds"
-        width: 1599
-        height: 900
-        isCached: true
-  - title: "IEM Katowice 2024: Everything You Need To Know About ESL’s ‘CS2’ And ‘StarCraft II’ Events"
-    excerpt: "Here’s everything you need to know about the two biggest 'CS2' and 'StarCraft II' esports competitions coming your way in the next few days."
-    publishedDateTime: 2024-01-29T21:05:00Z
-    webUrl: "https://www.forbes.com/sites/mattgardner1/2024/01/29/iem-katowice-2024-everything-you-need-to-know-about-esls-cs2-and-starcraft-ii-events/"
-    ampWebUrl: "https://www.forbes.com/sites/mattgardner1/2024/01/29/iem-katowice-2024-everything-you-need-to-know-about-esls-cs2-and-starcraft-ii-events/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattgardner1/2024/01/29/iem-katowice-2024-everything-you-need-to-know-about-esls-cs2-and-starcraft-ii-events/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b811bce582df0d1ae7146f/0x0.jpg?format=jpg&crop=2731,1537,x0,y716,safe&height=900&width=1600&fit=bounds"
-        width: 1599
-        height: 900
-        isCached: true
 
 secured: "oG/41G3G2zM5ob8x6VmYI6r/dzjlcJfCHbJgNo15ji41oVe4a9FHr1rQ1mU0kJlwWSfqdpnBS8Io4bcMQWEWXDaMZEfLByk0E6phHmZf6nwWrjR7bCCJKKYsJopDSbdcwlXACKeXJkkzhJwJdAEVM74HWhM7s/sWDze8kQv9QfjKGKumPPR6CMEuNq7/Q42MQt6/di1Do5aefNH8wghVjqwNec2fkJMznCkOfy3pNFdBguqB6K700tE3H3zmIou9+M4rcYIMLN932iV2mvsq2K9DjFG5H1W5O9X3NNR9sUU6AdX1+q7lzvNyZxYo+uhROXtPcPlAyRxFAz29QP/P2R1qjZDo0zbSqYbqwrBOCHUFnHcl6jQ3yM+jyNEvqgG6qUYyiG3XaJHvoF5L5lZi7yBy0Ta5h9WZ9J7yJyaPvOef6whBrFST2Jyhp4AfaksjYqVxiTRgCzEGdhBxQut77EJmg8n6G9rwEbaKN1FCxTlNfz8VJbMCSzszHzHS/wVrQl3jJ9vaic75zjK7JNW/vA==;PYiOu10J2jikXbulIF4iBQ=="
 ---

@@ -2,6 +2,7 @@
 title: "Serral vs Maru - $500,000 SC2 Grand Finals! (StarCraft 2)"
 excerpt: "Professional match of StarCraft 2 between Serral and Maru from the Grand Finals of the IEM Katowice SC2 tournament. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko"
 originalUrl: https://youtube.com/watch?v=wiol7QL9psw
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-serral-vs-maru-500000-sc2-grand-finals-starcraft-2/
 type: video
 length: PT42M40S
 publishedDateTime: 2024-02-19T12:42:03Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+jyCTjjXkOgE/C+guy45+Ms91laOOO13hexgsm7CkD5NNJ4Nj6yjpP2vSiQTcl8pW73lIzT+iQmyaD232VVYYifDEEWJTz+BlD/PXJ4jmdXNGpfYRNdPjTVBBIAecZN5xjkvL/0Bwe/p1azODgCHS6Y9LYxlVn0t0TAqFVO0ft+NSWP+b3o6/xwy1/N80RZSv74cs+QaJOaZZFIKbUNP/OYYDojiIAKjzd7ABjYqW1QcTKH+xwbm5GXdAUTxYs780OYmuYPJWHWrvfXD0jexJ/k56j/FrvWdR0tbGOksrMv+iARDVjwj8MnCaozrF3X3ZGrcy3Kw0HLWs8oQDntr3TPTsN2nwExaZV3X4MHpVq5Cz2vZYHsKRgjD/76r0OcVvUjvsSS35ET6x7YczsQXfg==;PFAqNhDkDC6MAUtf5y+MaQ=="
+secured: "B0NMuNLmLQoEcHvkbZkdNDuaH74LgfJDcXpiubj7gKH3tLaZxGN2x14P1/ulxcN3YLqOJEkGxKbQSLuGWiMu65PIRiZEkTFijNqe27BQbTR2FBCQmolqrQkQCVYRajL8wUiKsjIAtUQ92cM4XO4qczPswTFLzNHyMczjm+ljfi6TYHjxVya+VQ0uBOQR6KJQ36V6DTjq8kchh3+bPCjr3Al/WzM5K6eLqCc7lNvL8FXwXM3l+/Mtzbv+PvLoxYiYgXfnsBMWPno90uJhfb8fjISs6qxxsabZhWF6FQpdL8rgQjvXyY29v12A78kLf8pJp9jkVMhGXMZZoFxXiZ6z36kx15PRbPqahC4RrdGGlet0Q/Mvd/lX7/vfIJ3sbjrLb55iieLe26x6ihWcdgAwOw==;LcQEEtmlIDZLi6YeatdSNw=="
 ---
 

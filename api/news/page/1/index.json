@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-19-starfield-player-unveils-perfect-recreation-of-starcraft-battlecruiser.md",
+      "title": "Starfield player unveils perfect recreation of StarCraft Battlecruiser",
+      "excerpt": "While Starfield's aesthetic is more NASA-punk than far future, one player still managed to recreate a ship from Starfield.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dexerto.com/starfield/starfield-player-unveils-perfect-recreation-of-starcraft-battlecruiser-2541773/",
+      "originalUrl": "https://www.dexerto.com/starfield/starfield-player-unveils-perfect-recreation-of-starcraft-battlecruiser-2541773/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://editors.dexerto.com/wp-content/uploads/2023/11/07/starfield-landing.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T15:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dexerto",
+        "domain": "dexerto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_news/2024-02-05-starcraft-fans-should-try-this-new-free-game.md",
       "title": "StarCraft Fans Should Try This New Free Game",
       "excerpt": "For a limited time, players can participate in a free open beta test for a new real-time strategy game created by former StarCraft and Blizzard devs. Stormgate, the upcoming free-to-play real-time ...",
@@ -1135,57 +1178,6 @@
         "name": "jdpower",
         "domain": "jdpower.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-starcraft-ii-5011-patch-notes.md",
-      "title": "StarCraft II 5.0.11 Patch Notes",
-      "excerpt": "Patch 5.0.11 has arrived, featuring a wide range of balance, quality of life changes and bug fixes, which were curated by our very own StarCraft II community!",
-      "sourceUrl": null,
-      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23893118/starcraft-ii-5-0-11-patch-notes",
-      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23893118/starcraft-ii-5-0-11-patch-notes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-23T18:52:12Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

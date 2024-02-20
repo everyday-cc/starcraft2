@@ -2,6 +2,7 @@
 title: "Clem's SUPERSONIC Speed vs Solar! (StarCraft 2)"
 excerpt: "Amazing game of StarCraft 2 from the IEM Katowice SC2 tournament between Solar and Clem. Both players in this match play incredibly fast, with APM reaching over 1000 (!) at some moments. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord"
 originalUrl: https://youtube.com/watch?v=dZl4YqSxVN0
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-clems-supersonic-speed-vs-solar-starcraft-2/
 type: video
 length: PT27M
 publishedDateTime: 2024-02-20T07:49:11Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Z6mXROVMf6Grnm3YiXsc9YAxRUpcPonuXvdmaY/KiUaQbNBLSl6ZmmCJfiliFQ45f+nYj4z66QlZu7SHNcTH2niK6RTZ28WFu6xKwtFVkvp+giUgjcPyF/n5oaEwxZk9ShSO+WVynuPRPtdn+L9gjvfNKI16pvij7IondotPyk7RpvjQ+D4Kq14+V97szFqYsnOfkYWMeGliuZl8/r0uNzCouFAh4LBQfyxqdIKDF9j08gg+K2CgihZTZ7SLEOhklO1UL/gZctdyRFtVlCJOhE07/jjppUNSuSWXlirIowVHfug4raMo5nWoQpHbYMhAc2kYpNLX/pQqjz8UbAbuPhTym/OCxG4Nu0d29z6bNZSVzq5xYcxXAVYWFOMrpO8fZzlHxpqPK/b+bvQ4n5CMkA==;Az54Se6mfW7Vt3wVH2mi2w=="
+secured: "5SqJtzjQKni+EFWb2sx0QadhdSx7H6zGsvoNMz3r1gByyqAoqwxXjeOMsKdD4v+4yPvP+O5iJviAqcLozp1wYdXcBHifPNRgjh/gryH23Fa5O9yrsYopbN045mbnypcbTIbPnKAtQDtzl5z1Vk9GzFfarfREZeHqvcvBxaxltcyFvjlH1bZDOi84jOeDh4i75Dd0xmtlu0sVKdv1gr3RhAMjdIaS1BR7CxBZZ7U1qoK8RL9Ruf9wIE5j327jSpkC129gSooB7Pw4oLZwRKmE2Z6vLYW+kWjX9MkCjFdf0yB9RvpO9pEkvIm8XqglnAcAlxN89SK/3IzPFZIUMDsbMN9cevQHQf8TfhyEGPX58p+RAVCYz0690Ckh6O60dqYiiLFv8BYAkkkTYhEKHssCMw==;5IQQqEFIQ4qDrEVFs4zYWw=="
 ---
 

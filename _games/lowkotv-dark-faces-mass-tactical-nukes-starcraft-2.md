@@ -2,6 +2,7 @@
 title: "Dark faces MASS Tactical Nukes! (StarCraft 2)"
 excerpt: "Mass Tactical Nukes in the StarCraft 2 GSL Code S 2024 season 1 qualifiers! This is a best-of-3 series of SC2 between Dark and Bunny, a high level Zerg versus Terran. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv"
 originalUrl: https://youtube.com/watch?v=6pr0CZSvUyQ
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2/
 type: video
 length: PT1H10M56S
 publishedDateTime: 2024-02-21T10:22:51Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "m/FgFwDmPkhVWrx4moJF79spoR5GVQ7RnbCNugOM2MAW/3gVfe/9f3bzrNb6yBnqTd3SOlUC1yKfGNfVorah/d/+4TSIhFl8iTyPllCD2pjyOh+Tt4J7d/c8m84U4GpvJ868DEbaunfco4IMe29ohgzJRe6zvqCnGr9TijtKUixWuSe3Fl5W4sUBh0VZG80XOl9w5bWEoKYSRedyrIlv3l1oOBcGbweBq/QWHWOWVE6aRCJp4IRSe03/JA+491vXkM6+Jmoqkn3c1q1gjb0nZpLFjnT1ew0pGdxLys8Z3GJmvn5xYv+c8muzRZ19uCApR21J6Xwj+Shmq/x+r4jk5PomOF3tms3qm6kpnFttuCl1t8pt1fuYu9S9lXhkpjGc7/Y5Me6k7o8txVQNgs5pPA==;DnqMQxiz51SJfeuNWJrN2w=="
+secured: "G0P62UMJu+bjlpqKILkxEBry2tBKLEDULYhmZNppf2nhfVi4hcfCQcaQbujkf9VCodT5+cgJCg8OBS6MJagWMGjbgcmFXPwdFwmZGhz9MDiWeGxzNMAZAv/Mln554NVw+CaM5SXJq0um9sURfDFERMqEFmodbupX28BogZJrIdz/FrsJD+qEPpeW7uP97QdO0q6VcBmqHWq39L0cg1YpesRl90bXXQC6K1adysVkYVS2q/PRUxoKmGxVGgyYXS0XOsp+/GY/GgnRdpXKqRzGCobncX/KG2eZoGlNg/LmX1JS0k1a2kj9YnUXDtnc17v9YvdGdiclGKhRQVzQkPnuXtMHbctuz7ekfdARTBPMCaog7w7cDiXAPs/6aso1klhl3WTBvS+vWTBSxjnAb9cZfw==;Ou2HsRRSsXzQzhrrnGw4Jw=="
 ---
 

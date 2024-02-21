@@ -4,14 +4,14 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
-      "title": "StarCraft 2: SERRAL vs MARU! (Best-of-7)",
-      "excerpt": "Merry Christmas everyone! The two best players currently in StarCraft 2 face off in a best-of-7 series. Serral (Zerg) takes on Maru (Terran). This is the Grand Finals of King of Battles 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-maru-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-maru-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=NtD2vnq5rTY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NtD2vnq5rTY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H22M32S",
+      "path": "_games/lowkotv-starcraft-2-strangest-games-this-year-hero-vs-dark-grand-finals.md",
+      "title": "StarCraft 2: STRANGEST Games this Year - herO vs Dark! (Grand Finals)",
+      "excerpt": "Best-of-5 series of StarCraft 2 between herO (Protoss) and Dark (Zerg). This series is the grand finals of the Korean Starcraft League, the KSL. The KSL on Patreon: https://patreon.com/KoreanStarcraftLeague/ Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-strangest-games-this-year-hero-vs-dark-grand-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-strangest-games-this-year-hero-vs-dark-grand-finals/",
+      "originalUrl": "https://youtube.com/watch?v=1G7mRzop1YE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1G7mRzop1YE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H48S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -26,13 +26,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
+        "Protoss",
         "Zerg"
       ],
-      "heat": 128,
+      "heat": 126,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/NtD2vnq5rTY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/1G7mRzop1YE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgSihCMA8=&rs=AOn4CLBm3M1CPiRKBp-qTXn_omgP1Y-iKQ",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -40,7 +40,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2021-12-24T21:58:31Z"
+      "publishedDateTime": "2024-01-13T11:14:58Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero.md",
@@ -118,44 +118,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-12-14T12:16:00Z"
-    },
-    {
-      "path": "_games/lowkotv-clem-didnt-expect-this-zerg-rush-starcraft-2.md",
-      "title": "Clem didn't expect this ZERG RUSH! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between Clem (Terran) and Wayne (Zerg). Match was played during the European Regionals of the ESL StarCraft 2 Masters Winter. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-clem-didnt-expect-this-zerg-rush-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-clem-didnt-expect-this-zerg-rush-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=usduQ_czBCk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/usduQ_czBCk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M19S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 113,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/usduQ_czBCk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-11-27T10:26:00Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-this-is-starcraft-in-2024-maru-vs-serral.md",
@@ -602,6 +564,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-07-12T09:03:51Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-three-minute-dark-shrine.md",
+      "title": "StarCraft 2: THREE MINUTE Dark Shrine?!",
+      "excerpt": "Two viewer submitted games of StarCraft 2. If you have an amazing match of Sc2 that you would like me to cast, submit it to replays@lowko.tv. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-three-minute-dark-shrine/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-three-minute-dark-shrine/",
+      "originalUrl": "https://youtube.com/watch?v=qPmZQKWQIgo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qPmZQKWQIgo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M46S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 92,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qPmZQKWQIgo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-11T15:05:52Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-darks-queen-all-in-vs-clem-esl-finals.md",

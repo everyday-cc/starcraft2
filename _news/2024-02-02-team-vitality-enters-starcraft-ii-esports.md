@@ -52,20 +52,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "Starcraft Spiritual Successor Stormgate Wins Almost $2.4 Million with Successful Kickstarter"
-    excerpt: "The Kickstarter campaign for Stormgate, a spiritual successor of Starcraft by Frost Giant Studios, has just concluded successfully with $2,380,556 pledged."
-    publishedDateTime: 2024-02-01T18:13:00Z
-    webUrl: "https://techraptor.net/gaming/news/starcraft-spiritual-successor-stormgate-wins-almost-24-million-with-successful"
-    type: article
-    provider:
-      name: TechRaptor
-      domain: techraptor.net
-    quality: 26
-    images:
-      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2024-02/kickstarter-stormgate.jpg?itok=r6RaYSNS"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "2024 Starcraft Prices, Values and Specs"
     excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
     publishedDateTime: 2024-02-08T05:30:00Z

@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=Age4eNRUMrk
 type: video
 length: PT28M30S
 publishedDateTime: 2018-01-04T11:39:21Z
-heat: 55
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Age4eNRUMrk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "OSWwF2a7P5cXQBjG4CiIDFQeFVkxPoAKMKJykWSqfQgjtBT6kAdYPCnV305UwFcTd6UC/IcAgiEFw2FUdhlX9G09MWk8KfsXC2edEojf7ULHxGLVQtdZma0pP6SgRxjpFuwQNYkYW32IhlsTYqtxX0bRcUjsm/1zgDrixyg8JrHFyzBzSLnJo7j7S5KqYsWiwVuGJOZ49IDMiWlHjj0kbCYWggX9wIo5a1wWjHmxb6qMhh34ud10h3DkfsoQ2INLqN+kRgBcXN004fW/tZih9n3V3y3TWgTUPgmKkz4ZQwSL2LtxucqDxq2RBleBVI1EXJoPkgiu9cXDXZMmJgWYqA7hNzw4KwovXPWcEm/jC3wy1ZAgLykji2LM4bxJpvTpMH4j5GcEgy0B0mWH7c51QOFLApe/Fw/hXtvdfjiYfR9ZDpiAAOGwvu3JNAStRVk8;A/LsatK9PmAnWSSy3K6xgg=="
+secured: "Vs+pZownD0PQozNSrtYGtNXEunANRnIABP25rtvgMY12Pn3AabmhghfCCtZXiLJBJr1tDgiuU/gOzAqigOCyCCEEbx3Yo5uGnyAGax4uRgdkXuwBr36W9IohkiWFBI2pNkHzb+CCT4slzDJEpame5MqJrjJHsFg92pOoMQ1NgRqFdmma8fyyFlMjrWUunseHn9pri/vgy62+iPyVUSiDFkDWXLT6T/aspCvjgPG3ffQVKh7BYpnVkhEM+d750CxB7tSSbeBpFzd2bHE4JYSe8Sp4+W6FN4qHCz35xOUrtlMkQMPTaNamTUSjTHdtckyYXkMiQLCr9nx6rXJN7L2EC7X9fuJqvasUhV9XFQ0LnyqG5BpmNzTJfsqYC0TS22BF1Ff+HlB2q/39ZnFifbkMN6bparX6NqRJ2sK6rHp9LCOF1vEJBkeZbQ8RNEu10zxT;/Km6KPR+iBvaybJL8esEcQ=="
 ---
 

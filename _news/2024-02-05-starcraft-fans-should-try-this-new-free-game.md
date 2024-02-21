@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/stormgate-rts-free-beta-test/"
 webUrl: "https://gamerant.com/stormgate-rts-free-beta-test/"
 type: article
 quality: 77
-heat: 177
+heat: 157
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Team Vitality is included in StarCraft II"
-    excerpt: "Team Vitality, a renowned European esports organization, has successfully ventured into the world of StarCraft II by forming a strategic alliance with ONSYDE, a prominent South Korean team."
-    publishedDateTime: 2024-02-01T10:59:00Z
-    webUrl: "https://www.vpesports.com/team-vitality-is-included-in-starcraft-ii"
-    type: article
-    provider:
-      name: vpesports.com
-      domain: vpesports.com
-    quality: 37
-    images:
-      - url: "https://www.vpesports.com/wp-content/uploads/2024/02/Screenshot_4.png"
-        width: 1022
-        height: 572
-        isCached: true
   - title: "Team Vitality enters StarCraft II esports"
     excerpt: "Team Vitality has continued its expansive efforts by now signing an all-South Korean roster that will be competing in the Asian StarCraft II circuit. The roster has been created in partnership with South Korean organisation Onsyde,"
     publishedDateTime: 2024-02-02T10:02:00Z

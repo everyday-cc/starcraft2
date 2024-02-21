@@ -38,20 +38,6 @@ related:
         width: 1800
         height: 900
         isCached: true
-  - title: "Team Vitality is included in StarCraft II"
-    excerpt: "Team Vitality, a renowned European esports organization, has successfully ventured into the world of StarCraft II by forming a strategic alliance with ONSYDE, a prominent South Korean team."
-    publishedDateTime: 2024-02-01T10:59:00Z
-    webUrl: "https://www.vpesports.com/team-vitality-is-included-in-starcraft-ii"
-    type: article
-    provider:
-      name: vpesports.com
-      domain: vpesports.com
-    quality: 37
-    images:
-      - url: "https://www.vpesports.com/wp-content/uploads/2024/02/Screenshot_4.png"
-        width: 1022
-        height: 572
-        isCached: true
   - title: "Stormgate is a new RTS from ex-Warcraft 3 and StarCraft 2 devs, play the demo right now"
     excerpt: "The Steam Next Fest event is currently underway and there's a playable demo for Stormgate, the spiritual successor to Blizzard's StarCraft."
     publishedDateTime: 2024-02-07T05:34:00Z

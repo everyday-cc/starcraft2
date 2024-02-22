@@ -38,20 +38,6 @@ related:
         width: 1800
         height: 900
         isCached: true
-  - title: "Team Vitality enters StarCraft II esports"
-    excerpt: "Team Vitality has continued its expansive efforts by now signing an all-South Korean roster that will be competing in the Asian StarCraft II circuit. The roster has been created in partnership with South Korean organisation Onsyde,"
-    publishedDateTime: 2024-02-02T10:02:00Z
-    webUrl: "https://www.gamereactor.eu/team-vitality-enters-starcraft-ii-esports-1354603/"
-    type: article
-    provider:
-      name: Gamereactor
-      domain: gamereactor.eu
-    quality: 37
-    images:
-      - url: "https://www.gamereactor.eu/media/29/teamvitalityenters_4192933b.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "2024 Starcraft Prices, Values and Specs"
     excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
     publishedDateTime: 2024-02-08T05:30:00Z

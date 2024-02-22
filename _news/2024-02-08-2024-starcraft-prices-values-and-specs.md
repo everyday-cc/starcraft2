@@ -32,20 +32,6 @@ related:
         width: 1800
         height: 900
         isCached: true
-  - title: "Team Vitality enters StarCraft II esports"
-    excerpt: "Team Vitality has continued its expansive efforts by now signing an all-South Korean roster that will be competing in the Asian StarCraft II circuit. The roster has been created in partnership with South Korean organisation Onsyde,"
-    publishedDateTime: 2024-02-02T10:02:00Z
-    webUrl: "https://www.gamereactor.eu/team-vitality-enters-starcraft-ii-esports-1354603/"
-    type: article
-    provider:
-      name: Gamereactor
-      domain: gamereactor.eu
-    quality: 37
-    images:
-      - url: "https://www.gamereactor.eu/media/29/teamvitalityenters_4192933b.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Stormgate is a new RTS from ex-Warcraft 3 and StarCraft 2 devs, play the demo right now"
     excerpt: "The Steam Next Fest event is currently underway and there's a playable demo for Stormgate, the spiritual successor to Blizzard's StarCraft."
     publishedDateTime: 2024-02-07T05:34:00Z

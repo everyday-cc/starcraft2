@@ -1076,14 +1076,14 @@
       "publishedDateTime": "2021-11-02T07:55:49Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
-      "title": "StarCraft 2: SERRAL vs MARU! (Best-of-7)",
-      "excerpt": "Merry Christmas everyone! The two best players currently in StarCraft 2 face off in a best-of-7 series. Serral (Zerg) takes on Maru (Terran). This is the Grand Finals of King of Battles 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-maru-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-maru-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=NtD2vnq5rTY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NtD2vnq5rTY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H22M32S",
+      "path": "_games/lowkotv-solar-gets-terran-rushed-repeatedly-by-byun-starcraft-2.md",
+      "title": "Solar gets TERRAN RUSHED REPEATEDLY by ByuN! (StarCraft 2)",
+      "excerpt": "Best-of-5 series that's the StarCraft 2 finals of the ESL Open Cup 210 for the Korean server. This series is between ByuN (Terran) and Solar (Zerg). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-solar-gets-terran-rushed-repeatedly-by-byun-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-solar-gets-terran-rushed-repeatedly-by-byun-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=57NUag1kW00",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/57NUag1kW00\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M10S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1104,7 +1104,7 @@
       "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/NtD2vnq5rTY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/57NUag1kW00/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1112,7 +1112,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2021-12-24T21:58:31Z"
+      "publishedDateTime": "2024-01-17T10:31:41Z"
     }
   ],
   "nextPage": 2

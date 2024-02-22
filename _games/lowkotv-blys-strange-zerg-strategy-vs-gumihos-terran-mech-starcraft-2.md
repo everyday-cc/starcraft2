@@ -2,6 +2,7 @@
 title: "Bly's STRANGE Zerg Strategy vs GuMiho's Terran Mech! (StarCraft 2)"
 excerpt: "Best-of-5 series of high level StarCraft 2 between Bly (Zerg) and GuMiho (Terran). This match of SC2 was played as a qualification game of the IEM Katowice StarCraft 2 tournament. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord"
 originalUrl: https://youtube.com/watch?v=8JKSa62oGL8
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-blys-strange-zerg-strategy-vs-gumihos-terran-mech-starcraft-2/
 type: video
 length: PT45M17S
 publishedDateTime: 2024-02-22T11:57:58Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "bxqzmcraN8SMliDRRH/SKPjR+HwlqYBDoEH6iuR5sSO4yTOUG5hS27JUReezd54tvRTlInBRZ9e47Ut8ZbMRZNns9AMxPe+s2nqH7bDYUQ27mkzgm3l/R3LDWHOZyBaIJ4RzV86/NiowELT7CKXPp3/a9aGmoNnLe5PjvCPsUoehCKz+yqW9jZkCySmEnV7VXqEU1faEigRcEQZ6cWHnKvRD7yT3oc0e1TXvNpuG/Dd9va8VdVmQ919o3p5E+e7HQbx7ppca9XSea7+dkjMTmuwN4RynM7FV5Z918Dhubzyzy6wPn15EupFYStGNGFOF2ZtXo4/1simW1KFgp80O/tHYQt3FmJ2jubHJDw09UWLaUFIl11jnbC12WXo4JtdpzfUYsMwUAhK4jNgRvVgQ/Q==;t4hm1odMMAI85G18tPG+zw=="
+secured: "zzxsUJQR+EVGHdfrwjcvTbHl2+6cXnsKJp5Lcg5N1MugezlQgeYtLNB40zab474gKpTSaLZ1SYLLf8DhY5g2CFc0W0GSrWyZpRFCwYxr+di7FIbkl0NIJOCV/BlHmpmbgcyrGiX1VLBYLEkpQ59xhQZVfXm07iztEYymxaghXh3gi/O2hR875AHSDEGeD99SYB7On/L5cmj18IIJW2nsw8JlcL3txEbLRAmnVeo33jgBkPxFXERCKg2WP52XF38Lbhmp9aTMAZOUBMuxkOF1MCIZvy7Nq1OmgTkcxfm2E/vkR3o+Qv3Bz3h0nxWSn3CcBXyfKbq0vajz2We7VF0Dk9p41vkmMgFy6TRpb1zomX5MkGvH7g8R+BI0nJ7ADLIna9/zke9IqCbrlRZAoaoKaQ==;NVoYAJUW4LuHdwFeyzmjAQ=="
 ---
 

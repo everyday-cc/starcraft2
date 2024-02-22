@@ -2,6 +2,7 @@
 title: "Bly's BIZARRE Zerg Build Orders vs GuMiho! (StarCraft 2)"
 excerpt: "Best-of-5 series of high level StarCraft 2 between Bly (Zerg) and GuMiho (Terran). This match of SC2 was played as a qualification game of the IEM Katowice StarCraft 2 tournament. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord"
 originalUrl: https://youtube.com/watch?v=8JKSa62oGL8
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-blys-bizarre-zerg-build-orders-vs-gumiho-starcraft-2/
 type: video
 length: PT45M17S
 publishedDateTime: 2024-02-22T11:57:58Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "B2k6FYY1L+zlFVSpHRDrxnN80Vb6K1GdMzlHkrUtHQsFSIZhUZbhV2i5wdyF4WWWjcab4sXnGasaDDoul0eAV7aZJlZXsX8QNLheMR5cT027GgZWzwJEdt2sGzrx1QuWu6ZoNwL/H+9WmNUVUQ4S65PhrNkDVgGfTqTcTZLYZy+8ZCHXZs9SD+sxYqo/AhuNvIZ/lzzjVpMlx2k/wvJu5zVEidVJ5zBh/TJwMeGYKMBjOS1sThqqbuCCS4V70S/isY6nN/vw6U44HjpNZJZs94FzWPxZ0xUo6hEkxqHI+wP89MIRkgZ/IObGHvaLune/upSnkF/p2fLFTN9cAJscb/43QvpYVyMeovtLL5QZT+6XNBGQUuWngXOFWxt3asMvih5KPkFCf+DQEHMs1fZN5Q==;mXROH52yVctLZvG1BdAWdQ=="
+secured: "6PFgvJEpj2aU6ENwpBH+eb3G/oBE78TabAp2juX6K4NSdJeU03I+u1eZwitbzYM+4gPwJSxRTbyAfmukVSCHzeSwMANA/HGkdqDHMehyPrcbFsRDA/i8oD/SsAhRUrZMV8LtHpVIL3cF0GJwr24Kl6y99yoknY2KiFPs0N4zc+OWVxG+E75ZpPunx/c2uRWdgOgEQm67NnVu1fuD7sJl29Gqtj3CPr75EQyuufA5apl1yrjgegjZ84pg35Lq5Y0x7o8AZt2n2OhiVPja+pcGNTZA2eW1AXJ06ymvhRG4oNtLi8KWrdaXQ0wHDjuOnaTvd/OuEvjYXl7xX3Up8PWNNdk3bpxBl7MnIz206PCTe/gznMa0jZH4MjINNSkQKOKVx537E5ukocp5POzRzzU58Q==;W8rWdF+boqHjd8xyxJtCGQ=="
 ---
 

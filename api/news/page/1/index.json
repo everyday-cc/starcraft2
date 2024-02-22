@@ -96,6 +96,48 @@
       ]
     },
     {
+      "path": "_news/2024-02-02-top-starcraft-ii-players-in-south-korea-2024-by-prize-money-earned.md",
+      "title": "Top StarCraft II players in South Korea 2024, by prize money earned",
+      "excerpt": "Leading eSports players in StarCraft II from South Korea as of January 2024, by prize money earned (in 1,000 U.S. dollars) Player ID (name) Prize money in thousand U.S. dollars",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/statistics/963551/south-korea-top-starcraft-ii-players-by-prize-money/",
+      "originalUrl": "https://www.statista.com/statistics/963551/south-korea-top-starcraft-ii-players-by-prize-money/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/Statistic/960000/963551-blank-355.png",
+          "width": 355,
+          "height": 253,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T01:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-iem-katowice-2024-everything-to-know-about-cs2-and-starcraft-ii.md",
       "title": "IEM Katowice 2024: Everything To Know About ‘CS2’ And ‘StarCraft II’",
       "excerpt": "Here’s everything you need to know about the two biggest 'CS2' and 'StarCraft II' esports competitions coming your way in the next few days.",
@@ -1145,39 +1187,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2023-01-29-2023-starcraft-prices-values-and-specs.md",
-      "title": "2023 Starcraft Prices, Values and Specs",
-      "excerpt": "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jdpower.com/rvs/2023/starcraft",
-      "originalUrl": "https://www.jdpower.com/rvs/2023/starcraft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-29T06:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jdpower",
-        "domain": "jdpower.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

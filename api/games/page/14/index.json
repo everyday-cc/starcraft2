@@ -4,6 +4,35 @@
   "page": 14,
   "value": [
     {
+      "path": "_games/pig-they-always-do-this-when-they-start-losing-salt-mines-43-starcraft-2.md",
+      "title": "They ALWAYS Do This When They Start Losing | Salt Mines #43 - StarCraft 2",
+      "excerpt": "Welcome to Salt Mines #43! Everyone has encountered a salty or BM opponent on the StarCraft ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty.   Binge",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-they-always-do-this-when-they-start-losing-salt-mines-43-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-they-always-do-this-when-they-start-losing-salt-mines-43-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=2g8es0tCSLM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2g8es0tCSLM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M16S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2g8es0tCSLM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-09-18T13:42:57Z"
+    },
+    {
       "path": "_games/pig-when-theyre-so-bad-that-everyone-else-is-a-cheater-salt-mines-11-starcraft-2.md",
       "title": "When they’re SO BAD that everyone else is a cheater | Salt Mines #11 - StarCraft 2",
       "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got",
@@ -774,44 +803,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-08-25T07:50:30Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-darks-nydus-rushes-vs-oliveira-best-of-3.md",
-      "title": "StarCraft 2: Dark's NYDUS RUSHES vs Oliveira! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between the World Champion of SC2 Oliveira and Dark, one of the best Zergs in the world. Dark is known for his aggressive approach to the game, and in this series he decides to play a Nydus Rush twice.  Support my work: https://patreon.com/lowkotv  Lowko merch:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-nydus-rushes-vs-oliveira-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-nydus-rushes-vs-oliveira-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=jFRckyfV2NM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jFRckyfV2NM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M29S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jFRckyfV2NM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGYgZihmMA8=&rs=AOn4CLCtTZgxrYe5WhvbFDb6M2Y9fVbv1w",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-12-12T11:50:42Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-darks-unexpected-swarm-hosts-transition.md",

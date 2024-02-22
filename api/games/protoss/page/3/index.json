@@ -4,45 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-heros-insane-defense-vs-darks-zerg-rushes.md",
-      "title": "StarCraft 2: herO's INSANE DEFENSE vs Dark's Zerg Rushes!",
-      "excerpt": "Happy 2024! Best-of-5 series of top level StarCraft 2. This match of SC2 is the finals of the ESL Open Cup 207 between Dark (Zerg) and herO (Protoss).  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-insane-defense-vs-darks-zerg-rushes/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-insane-defense-vs-darks-zerg-rushes/",
-      "originalUrl": "https://youtube.com/watch?v=SWaXWZJ7Yo8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SWaXWZJ7Yo8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SWaXWZJ7Yo8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-12-28T10:28:11Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-heros-strangest-decision-yet.md",
       "title": "StarCraft 2: herO's STRANGEST Decision... Yet!",
       "excerpt": "Best-of-3 series of high level StarCraft 2 between herO (Protoss) and GuMiho (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
@@ -376,6 +337,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-05-06T01:25:10Z"
+    },
+    {
+      "path": "_games/lowkotv-classics-risky-carrier-rush-fails-starcraft-2.md",
+      "title": "Classic's Risky Carrier Rush... FAILS! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of StarCraft 2 between Classic (Protoss) and SHIN (Zerg), the new username of the Korean Zerg Ragnarok. In these games, Classic is the one with the build order variety as he keeps changing it up. In the second game he decides to execute a five minute double Stargate Carrier Rush... and",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-classics-risky-carrier-rush-fails-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-classics-risky-carrier-rush-fails-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=Z6KnVRk-dyI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z6KnVRk-dyI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M30S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Z6KnVRk-dyI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-12-16T10:52:19Z"
     },
     {
       "path": "_games/lowkotv-clem-vs-maxpax-grand-finals-ultimate-terran-vs-protoss-showdown-starcraft-2.md",

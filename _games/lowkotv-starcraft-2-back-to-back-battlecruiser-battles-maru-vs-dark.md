@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=sMDTPvO4faY
 type: video
 length: PT1H8M49S
 publishedDateTime: 2022-01-18T12:54:46Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sMDTPvO4faY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "RxNrSF33rFJBWD0E5s7O/TgmrvEihtksVOt12+xRoFTWlqxatpFMsM4025pTgbQbKVDaQvFQasjtDkHs9lnczQpYdkLdrB5W9+ORr3t+DS6ZA5Eho0YO9Uq3/LUs4Sg/1UuUeijqFTo5XoeKjz6cf7OvLD9C+yUPPeQhg4i1y8724B15xvEPTB8VsIwz9pZrT2BUXyov4kVUzT9tmN6Vfwst8Fhqjvi7vWScNKnBWDR+BlxTq8qCLYSB7SQe9fHbB3mZlv5JS9Xv3ULqdUudpTKQ1231HaHqAnXb8xXEnLJ9+WSLPhSzBTi81YPYbHbdBW3iarW1+KK+p3KPjzD0s+ggUvDzwvmIgVnY/1b7UMtvWr1I0k/hSDU0pX1WDpGDtbt5zdZURJIBtZusne9XkViEEzj4Oc4YNKV5R64y5pSqnt9Ot2dZpNgl351VnRH0;sci/+RT/k6pa+vePgUFCVQ=="
+secured: "PSPlze+MGTz/z1x5vtK71fvLps2bdx0pejWr3ehtyOB6U3bM4Y4m9Sueb0zLPLWt3M1egXQtliin4oKqIVl8pyRzUHJyltXyqSIo96THQrHHA/ygbxAMKwIm3IPh/bUS8QLO+qcex53yKPACJTyST1qYfErTD2AmzB4KDqK1ziERRS1EKCcTbUN2Qg7YLK8xvUApEqAE4w5g+cNDxnsUcIyclziPIpnlJlvyM5+Eek9npgCmAru2o/+PY68Z0hKy79UU13I0HYo3dhQxxqYn3qkk+LvzkOUgHgguELAsM0Pm+LqCxbH0cwD5n8zAa4NMHs+IUMfjf6DOjT/gmS4U0fYJJGdSWhyKcCYA5ppnwsSG1y/Q2IXh66QF467RJFxoaRQAOq1Vu/kTzDzUDw1ypfvruRevaJL8Nj8L/+r3KyKn/6ucYILYxex+6V4fz4zt;KxeQDMBsAVg50MZe1kMpUQ=="
 ---
 

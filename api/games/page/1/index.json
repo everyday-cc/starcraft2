@@ -1067,45 +1067,6 @@
       "publishedDateTime": "2023-10-26T07:32:32Z"
     },
     {
-      "path": "_games/lowkotv-serral-vs-maru-500000-sc2-grand-finals-starcraft-2.md",
-      "title": "Serral vs Maru - $500,000 SC2 Grand Finals! (StarCraft 2)",
-      "excerpt": "Professional match of StarCraft 2 between Serral and Maru from the Grand Finals of the IEM Katowice SC2 tournament. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-serral-vs-maru-500000-sc2-grand-finals-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-serral-vs-maru-500000-sc2-grand-finals-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=wiol7QL9psw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wiol7QL9psw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M40S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 242,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wiol7QL9psw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTyhNMA8=&rs=AOn4CLCZm5sNWXpVibw8SP7DGQ_nfF6S4g",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-19T12:42:03Z"
-    },
-    {
       "path": "_games/lowkotv-the-new-highest-ranked-1-terran-1-protoss-starcraft-2.md",
       "title": "The NEW Highest Ranked #1 Terran & #1 Protoss! (StarCraft 2)",
       "excerpt": "Professional match of StarCraft 2 between the new rank 1 Terran and the new rank 1 Protoss in the world. This match is from the ESL Open Cup Europe. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
@@ -1143,6 +1104,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-11-24T12:58:18Z"
+    },
+    {
+      "path": "_games/lowkotv-scarletts-new-mass-hydralisks-starcraft-2.md",
+      "title": "Scarlett's NEW Mass Hydralisks! (StarCraft 2)",
+      "excerpt": "StarCraft 2 $500,000 tournament match in 2024. This Zerg vs Terran is from IEM Katowice and features Scarlett reinventing the Zerg mid game as she masses one of the worst units that Zerg has available: the Hydralisk.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-scarletts-new-mass-hydralisks-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-scarletts-new-mass-hydralisks-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=LRSaVHM1nZ0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LRSaVHM1nZ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M6S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 232,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LRSaVHM1nZ0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGggaChoMA8=&rs=AOn4CLBKGFyj7bGj7bORLzUN4NAn2OL_LA",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-15T11:45:46Z"
     }
   ],
   "nextPage": 2

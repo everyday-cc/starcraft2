@@ -2,6 +2,7 @@
 title: "The ULTIMATE StarCraft 2 Blunder?! (NOBODY WINS)"
 excerpt: "StarCraft 2 viewer submitted games! A Silver League Terran versus Protoss and a Platinum League Zerg versus Protoss. Unconventional strategies... to say the least! If you have an amazing game of StarCraft 2 you would like me to cast, you can submit it to replays@lowko.tv. Support my work: https://patreon.com/lowkotv"
 originalUrl: https://youtube.com/watch?v=E07YGCIa3Og
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-the-ultimate-starcraft-2-blunder-nobody-wins/
 type: video
 length: PT30M53S
 publishedDateTime: 2024-02-24T10:59:08Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "BL8Os2s+N/WzxvCz5e1GnOjb0WRW8pIw9N2NFIHpX76JCFTjmRSwchYhP1Gq8SiYEMitcIpEKvDp/P99fYfOS8MCffh2oOxjZRKPGkyB//ramQylCVAnFe6Wtzb6BKUsgAWcHJAA26Q0GQ4HSDL78bXoSuB+DtQoEDaeWXybIOvS9QzIdq4GWrwGQkOfAyaSX/6BlgcBHWxQPHeJZyQ6vqQd7R+iVxIfycNCHDow47M1ADn4v05vvXAEUcuIrjJ3dzp0xab9c3Ig6ZTNXrUS9Em9TgpH4Orwkb8p/NCLq7TrhPMhzOej8MVyKpv1pGylcaFWe9pKcYJz+PS70LdGX/5JLZP+CFkLZJdH92iVa3Ba0ir5KVVsMY7FVKvxtkMFAzWh+hDx2AXfom+GgNPWxw==;3AQkiWApvVIvTLrV7nxFEA=="
+secured: "YGj1BnDLYMr0lHmU59gPClkI4tTGsSJS/034/6J4s80NfLvZAVnTRK2vz/Q537GQun2ftqmPMxbBleHlMWK9u0G/YHZBvRw2BHDer81jhnuEArun8R8Am2NJHHufCYd/zBVzMDp0D7MbWV9p0iNK35m9DK+7yOZIJfAfShM3vzQdcCQ6S3XsoMTUR7jWl98XANQT3opYsKUjlJF/IGrby9nw1ZYEiLJFdQDTfvfh17e1JM0l811yQ6nU1hKrTghEARNsdlYP1tUNDp7DT0k/NsCcgXzE+WcYwTEPqnCgs+GqqR8NB1lsiozJdggXVpK/mBggbnJp0Ir6KU8JqPDV/bzcgcGxZly2uaZ2C5Pbf269aTiZeNtCtom1WwF3dcN0G9bvTRh8QkTWNjz9DHxTtg==;INi2FNOS8BkmYGaJBuAj5g=="
 ---
 

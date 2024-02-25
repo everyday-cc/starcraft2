@@ -18,21 +18,19 @@ topics:
   - StarCraft 2
 
 related:
-  - title: "StarCraft II and Counter-Strike 2 events announced for Esports World Cup"
-    excerpt: "Multi-title esports festival Esports World Cup has announced that StarCraft II and Counter-Strike 2 tournaments will be held at this year’s event in Saudi Arabia. Details surrounding the CS2 event have been scarce."
-    publishedDateTime: 2024-02-05T15:02:00Z
-    webUrl: "https://esportsinsider.com/2024/02/starcraft-2-counter-strike-2-esports-world-cup"
-    ampWebUrl: "https://esportsinsider.com/2024/02/starcraft-2-counter-strike-2-esports-world-cup?amp"
-    cdnAmpWebUrl: "https://esportsinsider-com.cdn.ampproject.org/c/s/esportsinsider.com/2024/02/starcraft-2-counter-strike-2-esports-world-cup?amp"
+  - title: "Stormgate is a new RTS from ex-Warcraft 3 and StarCraft 2 devs, play the demo right now"
+    excerpt: "The Steam Next Fest event is currently underway and there's a playable demo for Stormgate, the spiritual successor to Blizzard's StarCraft."
+    publishedDateTime: 2024-02-07T05:34:00Z
+    webUrl: "https://www.tweaktown.com/news/96050/stormgate-is-new-rts-from-ex-warcraft-3-and-starcraft-2-devs-play-the-demo-right-now/index.html"
     type: article
     provider:
-      name: Esports Insider
-      domain: esportsinsider.com
-    quality: 56
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 29
     images:
-      - url: "https://resources.esportsinsider.com/esportsinsider/2024/02/Screenshot-2024-02-05-at-15.58.06-min.png"
-        width: 1920
-        height: 1170
+      - url: "https://static.tweaktown.com/news/9/6/96050_01_stormgate-is-new-rts-from-ex-warcraft-3-and-starcraft-2-devs-play-the-demo-right-now_full.jpg"
+        width: 1500
+        height: 843
         isCached: true
 
 secured: "XKyWKAJuZgUsz1lhCZbI1nKv40L/3o/HjsrSAFQYABRbDEUf13ZfyuacP4r4Sn73Qgg2M5bwhlPBmnQJvLlOQr8+ILlHrqMfDNCy42m6/FTR15Ybj0B9sg+BZg2tPOBqrsYjwOZbmqRiRjgYQe76J8kvrIG+OcH/usTIeWLk++Jjz8vVARwZAEp1ynOF20HvZfl0BHwSTw+x77yEXLJ6Nf8bFQm0jfjnJCj4/O1eX66xlcsyiiw6/+1Z0kGXRSbxXuyzWKA36nHADHd3yfwQVDlHD6HpVSo3ErXpJgZhzbBWlAbRD80jVGnghdusA/e4GRBUEHYna5Xiw5dhYp9E7aFOtPEcK1v03MbttGkKdh8=;Nt38/rrqr51NXSBY1qZ1tw=="

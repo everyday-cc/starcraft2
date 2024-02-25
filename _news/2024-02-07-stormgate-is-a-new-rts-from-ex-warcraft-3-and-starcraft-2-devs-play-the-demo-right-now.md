@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/96050/stormgate-is-new-rts-from-ex-
 webUrl: "https://www.tweaktown.com/news/96050/stormgate-is-new-rts-from-ex-warcraft-3-and-starcraft-2-devs-play-the-demo-right-now/index.html"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -22,31 +22,6 @@ images:
     width: 1500
     height: 843
     isCached: true
-
-related:
-  - title: "StarCraft Fans Should Try This New Free Game"
-    excerpt: "For a limited time, players can participate in a free open beta test for a new real-time strategy game created by former StarCraft and Blizzard devs. Stormgate, the upcoming free-to-play real-time ..."
-    publishedDateTime: 2024-02-05T00:00:00Z
-    webUrl: "https://gamerant.com/stormgate-rts-free-beta-test/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 77
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/02/stormgate-beta-free-to-play-this-week.jpg"
-        width: 1800
-        height: 900
-        isCached: true
-  - title: "2024 Starcraft Prices, Values and Specs"
-    excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
-    publishedDateTime: 2024-02-08T05:30:00Z
-    webUrl: "https://www.jdpower.com/rvs/2024/starcraft"
-    type: article
-    provider:
-      name: jdpower
-      domain: jdpower.com
-    quality: 17
 
 secured: "yLcX4r6V2lJS0gKq/zccvqxZ8wF8UUqWzxMnR2jeUgdJANDRvqt5yLSMEAH/N0Lwjos94CkQweKfk2CLVDVRGylBHmihtI2HU6Qezp2c0z156Gdu3OrlcVyY84KQX86psQOQKbbc2PlfIYPxekf3eXR1SFSld0Cm86AZ8yMJ/Tq3eWossjDb6ARrUxPKA48VspVgadapPdr/CwL0Ittb/nirl7SpZI1rcNI26RP0dOK1ecnNFAF/lURNzNHf0Qkzz0LJmvb6bSf7DjaOTS/bNTw1rgH717cBLCdV3haCn3RxDhRSeAmt/Ot46jajDKTGL4tnkz/tUR/X8YDAMppzR7ggJYBwL5OqvfCPUPcKZiAdZ9WoDiEg6AYai+UkjhgQOSr2fekNiVqz/l6dq5BtYEQEgjIx1P2Hnf/QLkADq5itYMeWdWYx24DmZPXkqmSY009+atqv+8z6HLtEtJGwxAnUf9pmrDvDtIgdMYRzcRtuu113VtMADq1oAXR4NTZAylPtA6H1yKI/KAkwj2AgZA==;MlgqIpO9sZRlVqez8hIdwg=="
 ---

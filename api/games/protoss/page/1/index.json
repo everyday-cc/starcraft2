@@ -690,14 +690,14 @@
       "publishedDateTime": "2023-11-22T11:35:41Z"
     },
     {
-      "path": "_games/lowkotv-byun-calls-heros-bluff-starcraft-2.md",
-      "title": "ByuN CALLS herO's BLUFF! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between herO (Protoss) and ByuN (Terran). This match was played during the ESL Open Cup Korea 209, a weekly SC2 tournament. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-byun-calls-heros-bluff-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-byun-calls-heros-bluff-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=0HgIa8nhFHI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0HgIa8nhFHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M51S",
+      "path": "_games/lowkotv-starcraft-2-reynors-epic-protoss-vs-serral.md",
+      "title": "StarCraft 2: Reynor's EPIC PROTOSS vs Serral!",
+      "excerpt": "StarCraft 2 professional tournament game between Serral and Reynor. Rather than playing Zerg, Reynor decides to play Protoss in this match. Very impressive game from two of the very best pro gamers in all of SC2.  Serral Spine rushes Reynor: https://youtu.be/djxl-vImiP8 Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynors-epic-protoss-vs-serral/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-epic-protoss-vs-serral/",
+      "originalUrl": "https://youtube.com/watch?v=Ayg4tUhwMjM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ayg4tUhwMjM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M48S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -712,13 +712,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
-        "Protoss"
+        "Protoss",
+        "Zerg"
       ],
-      "heat": 117,
+      "heat": 133,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/0HgIa8nhFHI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Ayg4tUhwMjM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -726,7 +726,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-01-16T11:31:26Z"
+      "publishedDateTime": "2023-12-05T10:51:53Z"
     },
     {
       "path": "_games/lowkotv-clem-did-not-expect-the-mothership-starcraft-2.md",
@@ -765,6 +765,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-02-16T12:24:05Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serral-zerg-rushes-hero.md",
+      "title": "StarCraft 2: Serral ZERG RUSHES herO!",
+      "excerpt": "Easily the most painful game of StarCraft 2 I've seen in a long time. This game between Serral and herO features the biggest throw in a pro game of 2024 so far. Reynor's Protoss vs Serral: https://youtu.be/Ayg4tUhwMjM Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-zerg-rushes-hero/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-zerg-rushes-hero/",
+      "originalUrl": "https://youtube.com/watch?v=0l1W_D8jqoY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0l1W_D8jqoY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M31S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0l1W_D8jqoY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-31T09:04:45Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",
@@ -806,45 +845,6 @@
       "publishedDateTime": "2022-05-23T18:16:38Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-serral-zerg-rushes-hero.md",
-      "title": "StarCraft 2: Serral ZERG RUSHES herO!",
-      "excerpt": "Easily the most painful game of StarCraft 2 I've seen in a long time. This game between Serral and herO features the biggest throw in a pro game of 2024 so far. Reynor's Protoss vs Serral: https://youtu.be/Ayg4tUhwMjM Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-zerg-rushes-hero/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-zerg-rushes-hero/",
-      "originalUrl": "https://youtube.com/watch?v=0l1W_D8jqoY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0l1W_D8jqoY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M31S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 104,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0l1W_D8jqoY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-31T09:04:45Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero.md",
       "title": "StarCraft 2: GAME OF THE YEAR? - Reynor vs herO!",
       "excerpt": "Insanely good game of StarCraft 2 between Reynor (Zerg) and herO (Protoss). This match features a comeback that we rarely see at this level of SC2. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
@@ -870,7 +870,7 @@
         "Protoss",
         "Zerg"
       ],
-      "heat": 98,
+      "heat": 97,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/utciQXyMw8Q/maxresdefault.jpg",
@@ -1077,7 +1077,7 @@
         "Protoss",
         "Zerg"
       ],
-      "heat": 80,
+      "heat": 75,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/1G7mRzop1YE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgSihCMA8=&rs=AOn4CLBm3M1CPiRKBp-qTXn_omgP1Y-iKQ",

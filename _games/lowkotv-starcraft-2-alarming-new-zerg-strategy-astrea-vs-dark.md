@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-alarming-new-zer
 type: video
 length: PT48M32S
 publishedDateTime: 2024-02-14T10:18:06Z
-heat: 148
+heat: 127
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PB4dkS7v03Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ZyO27PmVPYUQPcUwDlQRPn+9/c0HG/HbuTbDiX9rOVRs7fcet86EZ/m4omvU74FnjpZzs7aWoGKSfLBgAbhP8KYqlYDc+gxVDNWUfOCYfp5Zx3oCwI5eOlF+WeESh997H5jrWTsIZ23/R3Cd0rvuKd8FQOJIqomLw7CjA3iP6SK/8Zg8whaJLhHjs5Fjh6kb98T7npD35+KS7J4yX5Wy95HjudZ4R8RY/ONH7RPszXhT++eNlHSSEusleZTMUSvOHt/JbtWoiic2KZT43b7f063QanUa8NKcd59U1MDkzCVbNAGpzYlp2fbcVlSI4iVRIC+3zXAZP073f6aaWPRiDq14RIpS/Bq37BttwTIAiie9D8ya35mXyhpK+zWPJgur9YmqhQ3KV5IfRN+Z8zFAh+Ya0J+rUwqJg1KqJ55RD84=;lcVeWgb/NLfeYii/fjCJkA=="
+secured: "NocyuC6rRjW+6hud0WgMymAd1aygoSnPLAOXtY8QHE8XS/6SUXyJgjbwgxTi6wY5Rbg9/tq7Q1xC+ZKkAgwI32VFXw3EaPcYR9oc6Lb7csdsN3VHzDm46oC5bI815f4v5yh+WKFE4zriGrewNzFrM1gXoULyyFeoiV09RR5KE7f4Cpb1w1cM5nOPkqe1MZpQGZbdAs/X7YKuaj4hhPliY5/BUImoyYBZPtgDBWlK0UmteNmt7WmWvgdYJ1IAVuYGAx8lUYMhxnfbcbnRx4fpSndF5WrRi4MFYikj8xdlIUCuUrEDuefllBGBL8O4p3n2mj9fuI/xR2Qr7mPqDp53CRGZShwIUH7CzJsHFE01J+FqbB6UWtmDhgD5KI3n3t1bd9b44p+jxCbrlUdtlTPWfjy5G4dG/sVyRxx/J6H0vc8=;2mpJ+o0gHsg/uuwFBU610w=="
 ---
 

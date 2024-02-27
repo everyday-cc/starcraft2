@@ -7,7 +7,7 @@ originalUrl: "https://www.jdpower.com/rvs/2024/starcraft"
 webUrl: "https://www.jdpower.com/rvs/2024/starcraft"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - StarCraft 2
-
-related:
-  - title: "Stormgate is a new RTS from ex-Warcraft 3 and StarCraft 2 devs, play the demo right now"
-    excerpt: "The Steam Next Fest event is currently underway and there's a playable demo for Stormgate, the spiritual successor to Blizzard's StarCraft."
-    publishedDateTime: 2024-02-07T05:34:00Z
-    webUrl: "https://www.tweaktown.com/news/96050/stormgate-is-new-rts-from-ex-warcraft-3-and-starcraft-2-devs-play-the-demo-right-now/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 29
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96050_01_stormgate-is-new-rts-from-ex-warcraft-3-and-starcraft-2-devs-play-the-demo-right-now_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
 
 secured: "XKyWKAJuZgUsz1lhCZbI1nKv40L/3o/HjsrSAFQYABRbDEUf13ZfyuacP4r4Sn73Qgg2M5bwhlPBmnQJvLlOQr8+ILlHrqMfDNCy42m6/FTR15Ybj0B9sg+BZg2tPOBqrsYjwOZbmqRiRjgYQe76J8kvrIG+OcH/usTIeWLk++Jjz8vVARwZAEp1ynOF20HvZfl0BHwSTw+x77yEXLJ6Nf8bFQm0jfjnJCj4/O1eX66xlcsyiiw6/+1Z0kGXRSbxXuyzWKA36nHADHd3yfwQVDlHD6HpVSo3ErXpJgZhzbBWlAbRD80jVGnghdusA/e4GRBUEHYna5Xiw5dhYp9E7aFOtPEcK1v03MbttGkKdh8=;Nt38/rrqr51NXSBY1qZ1tw=="
 ---

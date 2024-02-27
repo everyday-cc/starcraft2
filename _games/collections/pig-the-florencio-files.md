@@ -296,7 +296,8 @@ items:
   - pig-florencios-sneakiest-probe-of-all-time-florencio-files-285-starcraft-2
   - pig-flo-mentally-destroys-zerg-with-incredible-nuke-florencio-files-286-starcraft-2
   - pig-florencio-excretes-the-sewer-mothership-florencio-files-287-starcraft-2
-  - pig-florencio-strategically-mass-pees-on-the-nexus-florencio-files-288-starcraft-2
+  - pig-florencio-mass-pees-on-the-nexus-strategically-florencio-files-288-starcraft-2
+  - pig-florencios-terrible-cyclone-all-in-florencio-files-289-starcraft-2
 
 topics:
   - StarCraft 2

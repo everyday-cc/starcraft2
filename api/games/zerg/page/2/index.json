@@ -119,45 +119,6 @@
       "publishedDateTime": "2024-02-14T10:18:06Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-reynors-epic-protoss-vs-serral.md",
-      "title": "StarCraft 2: Reynor's EPIC PROTOSS vs Serral!",
-      "excerpt": "StarCraft 2 professional tournament game between Serral and Reynor. Rather than playing Zerg, Reynor decides to play Protoss in this match. Very impressive game from two of the very best pro gamers in all of SC2.  Serral Spine rushes Reynor: https://youtu.be/djxl-vImiP8 Support my work: https://patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynors-epic-protoss-vs-serral/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-epic-protoss-vs-serral/",
-      "originalUrl": "https://youtube.com/watch?v=Ayg4tUhwMjM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ayg4tUhwMjM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M48S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 123,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ayg4tUhwMjM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-12-05T10:51:53Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
       "title": "StarCraft 2: SERRAL vs MARU! (Best-of-7)",
       "excerpt": "Merry Christmas everyone! The two best players currently in StarCraft 2 face off in a best-of-7 series. Serral (Zerg) takes on Maru (Terran). This is the Grand Finals of King of Battles 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
@@ -233,6 +194,83 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-12-14T12:16:00Z"
+    },
+    {
+      "path": "_games/lowkotv-the-worst-zerg-cheese-ive-ever-seen-starcraft-2.md",
+      "title": "The WORST Zerg Cheese... I've Ever Seen! (StarCraft 2)",
+      "excerpt": "Two incredible games of StarCraft 2. Incredible in the sense of 'incredibly bad' or 'incredibly questionable' or 'what in the incredible world were they thinking?!'. If you have played a great game of SC2 you would like me to make fun of and cast, you cansend it over to replays@lowko.tv.  Support my",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-the-worst-zerg-cheese-ive-ever-seen-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-the-worst-zerg-cheese-ive-ever-seen-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=hGlljXVMoOQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hGlljXVMoOQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M8S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 116,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hGlljXVMoOQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-12-21T10:56:23Z"
+    },
+    {
+      "path": "_games/lowkotv-oliveiras-75-marine-swarm-vs-solar-starcraft-2.md",
+      "title": "Oliveira's 75+ MARINE SWARM vs Solar!  (StarCraft 2)",
+      "excerpt": "Professional match of StarCraft 2 between Oliveira (Terran) and Solar (Zerg).  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko Twitch livestream: https://twitch.tv/lowkotv Live most days",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-oliveiras-75-marine-swarm-vs-solar-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-oliveiras-75-marine-swarm-vs-solar-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=2nohS6JPFc8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2nohS6JPFc8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M40S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2nohS6JPFc8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-12-17T07:34:26Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",
@@ -1089,45 +1127,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-01-05T09:54:10Z"
-    },
-    {
-      "path": "_games/lowkotv-oliveiras-60-marine-swarm-vs-solar-starcraft-2.md",
-      "title": "Oliveira's 60+ MARINE SWARM vs Solar!  (StarCraft 2)",
-      "excerpt": "Professional match of StarCraft 2 between Oliveira (Terran) and Solar (Zerg).  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko Twitch livestream: https://twitch.tv/lowkotv Live most days",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-oliveiras-60-marine-swarm-vs-solar-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-oliveiras-60-marine-swarm-vs-solar-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=2nohS6JPFc8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2nohS6JPFc8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M40S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2nohS6JPFc8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-12-17T07:34:26Z"
     }
   ],
   "nextPage": 3

@@ -128,6 +128,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-why-you-should-place-your-pylon-on-the-highground-vs-random.md",
+      "title": "Why you should place your PYLON on the HIGHGROUND vs RANDOM",
+      "excerpt": "This random player tried to cheese me after forcing me to place my pylon in an undesirable position. He gets really toxic afterwards, enjoy!  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons?",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/hushang-tutorials-why-you-should-place-your-pylon-on-the-highground-vs-random/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/learning/videos/hushang-tutorials-why-you-should-place-your-pylon-on-the-highground-vs-random/",
+      "originalUrl": "https://youtube.com/watch?v=6Aq1oBZWDTc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6Aq1oBZWDTc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M44S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-12-03T19:57:12Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6Aq1oBZWDTc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-zest-glaives-vs-a-progamer-i-got-owned-maybe-.md",
       "title": "Zest Glaives vs a PROGAMER?! I got OWNED... maybe ;)",
       "excerpt": "Zest Glaives vs a PROGAMER?! I got OWNED... maybe... In this Starcraft 2 guide we take a look at an example replay of the build we learned yesterday! I had a hard time finding a good opponent to show you guys an example but after dieing to cannon rushes many time, I found one: previous progamer golden.",
@@ -780,45 +811,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/YsiIVvPAPhY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-the-end-of-protoss-new-balance-patch.md",
-      "title": "StarCraft 2: The End of Protoss? (New Balance Patch)",
-      "excerpt": "The new StarCraft 2 balance patch is live. In this video I go over all the changes made to Zerg, Protoss and Terran and ramble about a few things related to SC2.  https://news.blizzard.com/en-us/starcraft2/23893118/starcraft-ii-5-0-11-patch-notes  Support my work: https://patreon.com/lowkotv Lowko Merch:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-the-end-of-protoss-new-balance-patch/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/learning/videos/lowkotv-starcraft-2-the-end-of-protoss-new-balance-patch/",
-      "originalUrl": "https://youtube.com/watch?v=-Anug-kaAYM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-Anug-kaAYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-01-24T11:26:01Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-Anug-kaAYM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

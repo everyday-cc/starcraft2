@@ -412,44 +412,6 @@
       "publishedDateTime": "2023-11-22T11:35:41Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-proxy-marauder-rush-in-a-500000-tournament-hero-vs-cure.md",
-      "title": "StarCraft 2: PROXY Marauder Rush(?!) in a $500,000 Tournament! (herO vs Cure)",
-      "excerpt": "Best-of-5 series from the StarCraft 2 IEM Katowice tournament. This match of SC2 is between herO (Protoss) and Cure (Terran). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-marauder-rush-in-a-500000-tournament-hero-vs-cure/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-proxy-marauder-rush-in-a-500000-tournament-hero-vs-cure/",
-      "originalUrl": "https://youtube.com/watch?v=fMQ-PYMUGwI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fMQ-PYMUGwI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M51S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 209,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fMQ-PYMUGwI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXCg6MA8=&rs=AOn4CLCWgMIHgyqr8duQrcAHME8vqM32rQ",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-23T12:46:32Z"
-    },
-    {
       "path": "_games/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2.md",
       "title": "Dark faces MASS Tactical Nukes! (StarCraft 2)",
       "excerpt": "Mass Tactical Nukes in the StarCraft 2 GSL Code S 2024 season 1 qualifiers! This is a best-of-3 series of SC2 between Dark and Bunny, a high level Zerg versus Terran. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
@@ -487,6 +449,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-02-21T10:22:51Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-proxy-marauder-rush-in-a-500000-tournament-hero-vs-cure.md",
+      "title": "StarCraft 2: PROXY Marauder Rush(?!) in a $500,000 Tournament! (herO vs Cure)",
+      "excerpt": "Best-of-5 series from the StarCraft 2 IEM Katowice tournament. This match of SC2 is between herO (Protoss) and Cure (Terran). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-marauder-rush-in-a-500000-tournament-hero-vs-cure/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-proxy-marauder-rush-in-a-500000-tournament-hero-vs-cure/",
+      "originalUrl": "https://youtube.com/watch?v=fMQ-PYMUGwI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fMQ-PYMUGwI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M51S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 187,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fMQ-PYMUGwI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXCg6MA8=&rs=AOn4CLCWgMIHgyqr8duQrcAHME8vqM32rQ",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-23T12:46:32Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-byun-surprised-by-proxy-dark-templar.md",
@@ -555,43 +555,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2021-12-23T23:35:13Z"
-    },
-    {
-      "path": "_games/lowkotv-the-ultimate-starcraft-2-blunder-nobody-wins.md",
-      "title": "The ULTIMATE StarCraft 2 Blunder?! (NOBODY WINS)",
-      "excerpt": "StarCraft 2 viewer submitted games! A Silver League Terran versus Protoss and a Platinum League Zerg versus Protoss. Unconventional strategies... to say the least! If you have an amazing game of StarCraft 2 you would like me to cast, you can submit it to replays@lowko.tv. Support my work: https://patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-the-ultimate-starcraft-2-blunder-nobody-wins/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-the-ultimate-starcraft-2-blunder-nobody-wins/",
-      "originalUrl": "https://youtube.com/watch?v=E07YGCIa3Og",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E07YGCIa3Og\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 184,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/E07YGCIa3Og/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-24T10:59:08Z"
     },
     {
       "path": "_games/pig-florencios-ridiculous-cyclone-all-in-florencio-files-289-starcraft-2.md",
@@ -920,6 +883,43 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-08-09T08:02:14Z"
+    },
+    {
+      "path": "_games/lowkotv-the-ultimate-starcraft-2-blunder-nobody-wins.md",
+      "title": "The ULTIMATE StarCraft 2 Blunder?! (NOBODY WINS)",
+      "excerpt": "StarCraft 2 viewer submitted games! A Silver League Terran versus Protoss and a Platinum League Zerg versus Protoss. Unconventional strategies... to say the least! If you have an amazing game of StarCraft 2 you would like me to cast, you can submit it to replays@lowko.tv. Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-the-ultimate-starcraft-2-blunder-nobody-wins/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-the-ultimate-starcraft-2-blunder-nobody-wins/",
+      "originalUrl": "https://youtube.com/watch?v=E07YGCIa3Og",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E07YGCIa3Og\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M53S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 156,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/E07YGCIa3Og/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-24T10:59:08Z"
     },
     {
       "path": "_games/pig-i-embarrassed-a-pro-player-so-he-embarrassed-me-back-pig-vs-astrea-starcraft-2.md",

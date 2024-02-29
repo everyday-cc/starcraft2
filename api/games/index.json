@@ -4,45 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho.md",
-      "title": "StarCraft 2: Marine BLOOD BATH! (herO vs GuMiho)",
-      "excerpt": "StarCraft 2 ESL Open Cup 215 Grand Finals for the Korean server. In this series of Terran versus Protoss we watch GuMiho play hyper aggressive Terran strategies versus herO. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho/",
-      "originalUrl": "https://youtube.com/watch?v=DK68MQv_9QE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DK68MQv_9QE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M14S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 380,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DK68MQv_9QE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-26T11:34:09Z"
-    },
-    {
       "path": "_games/lowkotv-blys-strange-zerg-strategy-vs-gumihos-terran-mech-starcraft-2.md",
       "title": "Bly's STRANGE Zerg Strategy vs GuMiho's Terran Mech! (StarCraft 2)",
       "excerpt": "Best-of-5 series of high level StarCraft 2 between Bly (Zerg) and GuMiho (Terran). This match of SC2 was played as a qualification game of the IEM Katowice StarCraft 2 tournament. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord",
@@ -68,7 +29,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 369,
+      "heat": 344,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/8JKSa62oGL8/maxresdefault.jpg",
@@ -197,45 +158,6 @@
       "publishedDateTime": "2023-06-21T12:36:29Z"
     },
     {
-      "path": "_games/lowkotv-blys-new-strange-zerg-builder-orders-vs-gumiho-starcraft-2.md",
-      "title": "Bly's NEW Strange Zerg Builder Orders vs GuMiho! (StarCraft 2)",
-      "excerpt": "Best-of-5 series of high level StarCraft 2 between Bly (Zerg) and GuMiho (Terran). This match of SC2 was played as a qualification game of the IEM Katowice StarCraft 2 tournament. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-blys-new-strange-zerg-builder-orders-vs-gumiho-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-blys-new-strange-zerg-builder-orders-vs-gumiho-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=8JKSa62oGL8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8JKSa62oGL8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M17S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 316,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8JKSa62oGL8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-22T11:57:58Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-simply-amazing-reynor-vs-showtime-in-a-500000-tournament-best-of-3.md",
       "title": "StarCraft 2: SIMPLY AMAZING - Reynor vs ShoWTimE in a $500,000 Tournament! (Best-of-3)",
       "excerpt": "StarCraft 2 pro match from the IEM Katowice 2024 SC2 tournament. This best-of-3 series is played between two European pro gamers, Reynor and ShoWTimE. This Zerg versus Protoss features hyper aggression from the Zerg in the mid-game, going up against solid defensive play from the Protoss. Support my work:",
@@ -273,6 +195,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-02-24T12:02:37Z"
+    },
+    {
+      "path": "_games/lowkotv-blys-new-strange-zerg-builder-orders-vs-gumiho-starcraft-2.md",
+      "title": "Bly's NEW Strange Zerg Builder Orders vs GuMiho! (StarCraft 2)",
+      "excerpt": "Best-of-5 series of high level StarCraft 2 between Bly (Zerg) and GuMiho (Terran). This match of SC2 was played as a qualification game of the IEM Katowice StarCraft 2 tournament. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-blys-new-strange-zerg-builder-orders-vs-gumiho-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-blys-new-strange-zerg-builder-orders-vs-gumiho-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=8JKSa62oGL8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8JKSa62oGL8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M17S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 291,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8JKSa62oGL8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-22T11:57:58Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-europes-best-terran-vs-protoss-clem-vs-maxpax.md",
@@ -497,6 +458,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-10-20T09:17:16Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho.md",
+      "title": "StarCraft 2: Marine BLOOD BATH! (herO vs GuMiho)",
+      "excerpt": "StarCraft 2 ESL Open Cup 215 Grand Finals for the Korean server. In this series of Terran versus Protoss we watch GuMiho play hyper aggressive Terran strategies versus herO. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho/",
+      "originalUrl": "https://youtube.com/watch?v=DK68MQv_9QE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DK68MQv_9QE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M14S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 272,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DK68MQv_9QE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-26T11:34:09Z"
     },
     {
       "path": "_games/pig-how-is-this-madman-the-1-vietnamese-player-mad-meo-starcraft-2.md",

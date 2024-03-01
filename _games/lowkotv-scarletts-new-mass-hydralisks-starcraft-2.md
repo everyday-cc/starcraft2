@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-scarletts-new-mass-hydralisk
 type: video
 length: PT47M6S
 publishedDateTime: 2024-02-15T11:45:46Z
-heat: 171
+heat: 159
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LRSaVHM1nZ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "LQlpT4Xy7B8V70IOujRSeVDZ7zk7eoNEmqtYwe3pNm/IpUkdeCwHLaBHBx+wOa4gRcDLeGDdQ2mJaH94HvPInipV8a9xZVAlQUEe0PDEwNRM7ATFASkc5X5rLgHOVTlzuMHtkaltH6EuarO4kvamUL4ala2oYXGa7J/BKl/LHiKez1GLP9mdm0XDNXsFi5xqR0i0jMJCJZ4Q4oNbMzv4J+rOB6PLOIC3qD+YH7evplHdzWxg9ShovwPEB983xe0EmjUYpHkx7te+UIKvb7MUrr1oQRGfEpR6lu2Z520achYdSTZIah9BP5FyQgiTeT0I8rJx6EOAsxH9Elb6tz7svJyfHz1yb92/4OKMZtHZ5+uhaNMXVEbVVuMk7+qvPFvpeWNKwEIx8W7SqEdkVxNqHE0tSRbzKAf2RmgUHLzeHEc=;jrxsdiqGikScZFcKez7IsQ=="
+secured: "pmPiHKyuC8bAUjgk1NMvW9iucSFFRGZSnnp4WOp/8qqVSfWVgsUa3HfIzXC4aMuY/orw1liFLjdfsHUka0tR95ZhU6un5C2pGSVaj3NuAzYQfNkxWER+3ElB2CNFLbPEAcHXbTd8t4DdM/l5klqH4DneuyDX2hKHsC2vkpi519z2hfxBkoiVORUJOYOHT/8vHX6iaSni+1lxzVlSxoFmw0jgPoRPWfwqVgVZqaF0pVEaOqbMQKvZyKBIOliAmOZr275Zp3/lVZtQgqlx9NR1FnRkWYJjCXSM2GP0wtnpnd/SGWyletrdHfaaAZ9VgWm2a9wL3oU+n1saR4KKsQTulHnFqj3Vp2ZzBDMfETd5SEocaMsSMwDmMCClePYsdn530hGAFT3ctdJHMpT/AQqR13aGUuJ6Zsa/uxcfX2MQBV0=;LdEJcpXxTKgXDCAcikCZzQ=="
 ---
 

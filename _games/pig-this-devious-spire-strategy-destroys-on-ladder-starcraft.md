@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/pig-this-devious-spire-strategy-dest
 type: video
 length: PT32M41S
 publishedDateTime: 2024-01-23T12:50:29Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PUWSod33byk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "t1PAJ4c+hc59hhQ/hwyJYEcBw1uQPEmNtpiesvhJ8PHb7nDKkZdrmrLcpPzDeMnKqbQDhxaWcguXFgmFjjbQWOxejVTjVITYd1bkj5V3kfs1eLN1iq0ejJi1gadExS344upIw+3y11RNWJ7xVhwCFihXfBbXFxWMn7fv25dmNm0n9LpzWqLsN7JiVZ66W5g9hb2bX6VBF/xIgc9Ln2QMIx6LVEOu3ihAxbrtzCg3FlMUJUBCAM9gBWdG4uKvpPgVdfFdgNBxetvzOsMJT/Zh5XO/oy0K4StOc1s79+zFPqTgdAZJsiYPOkjHvFu23yg0gT79s1ju9bn4jqLL+XCc2MRM3P4Pnl402mtnAtFQ64RhQfDLAoBIDURvqrASCHiB6fM1LrcpD+uyKOkT9xb14UDx0Yb46E68Ve+pVyScgjw=;WnrvVIR5BnKce9gxgOJpIA=="
+secured: "0kksli3Ti3mxPkKzeboKS+Ap19Ftq+p75t8zgABJ8vEDmpaHltFz/Sh/eLaktMkxQxlP0PlH2JYx3EIjCR1muPKgIX7twHLLNwGISLceiSrr06QSlfWCLJ/qM3OcgDwseA4f1kMrt++LDW1C0XyDpWmSNK/23bFA/U7So7Rg3Yv+VjmY/fOLCcOnLeyFI0XITE1kJt2U2R+AL7T2wuLvmjKX+02yUX9gjxsH8fgopEeUhVjKQL+oaN5F9Zq+VfUEG50nDnaifzhfw7GVLsPQ85e3UBXLzkdjbI3hl/F8Qd/lwyy+pjUpt61gKzNCktB66HeSyO9nEA6o80t/q6/fj9vmoAv+cEcL6yMdjfUGG/lu9vA4sVU1SaFG4ImH368O+HKFOWONyTTaDz1a9/d1sb+xV/06cpoVEx9+5pBC6es=;ROgtWrCz71igtNJsFTy1fA=="
 ---
 

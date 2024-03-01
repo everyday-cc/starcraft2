@@ -557,37 +557,6 @@
       "publishedDateTime": "2021-12-23T23:35:13Z"
     },
     {
-      "path": "_games/pig-florencios-ridiculous-cyclone-all-in-florencio-files-289-starcraft-2.md",
-      "title": "Florencio’s RIDICULOUS Cyclone All-In | Florencio Files #289 - StarCraft 2",
-      "excerpt": "This cyclone SCV all in is legit horrible. He somehow took a really cool build and sprinkled sewer dust all over it. I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-florencios-ridiculous-cyclone-all-in-florencio-files-289-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-florencios-ridiculous-cyclone-all-in-florencio-files-289-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=uPqwjlJKaAA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uPqwjlJKaAA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Terran"
-      ],
-      "heat": 180,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uPqwjlJKaAA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-23T00:21:09Z"
-    },
-    {
       "path": "_games/pig-redacted-how-long-can-regular-players-last-vs-harstem-part-2-holdout-challenge-starcraft-2.md",
       "title": "(REDACTED) How long can regular players LAST vs HARSTEM? (Part 2) | Holdout Challenge - StarCraft 2",
       "excerpt": "We got Harstem to 1v1 noobs in StarCraft 2. The challenge: the noobs needed to stay in the match for as long as possible. How did they fare against the Captain?  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j  Holdout Scoresheet: https://docs.google.com/spreadsheets/d/14aDGMP3BEQOADiL-6muUoi6P6hbSY8_vJ_HCOIiqPqI/edit#gid=1811179909",
@@ -615,44 +584,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-08-14T09:09:57Z"
-    },
-    {
-      "path": "_games/lowkotv-darks-shocking-proxy-hatcheries-best-of-3.md",
-      "title": "Dark's SHOCKING Proxy Hatcheries! (Best-of-3)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between Dark (Zerg) and NightMare (Protoss). In this series Dark decides to play some questionable strategies against his Protoss opponent but as per usual he somehow makes it work. A proxy hatchery is a strategy where a Zerg player builds a Hatchery near the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-darks-shocking-proxy-hatcheries-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-darks-shocking-proxy-hatcheries-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=wBAEBaUcmlY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wBAEBaUcmlY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M10S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 177,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wBAEBaUcmlY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-12-14T12:16:00Z"
     },
     {
       "path": "_games/lowkotv-scarletts-new-mass-hydralisks-starcraft-2.md",
@@ -989,6 +920,45 @@
       "publishedDateTime": "2023-01-19T02:34:08Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-this-is-starcraft-in-2024-maru-vs-serral.md",
+      "title": "StarCraft 2: THIS is StarCraft in 2024! (Maru vs Serral)",
+      "excerpt": "Amazing match of StarCraft 2 between Maru (Terran) and Serral (Zerg). It really doesn't get much better than these two playing against each other. What an amazing match of Terran versus Zerg. A late game war over the final resources on the map. Support my work: https://patreon.com/lowkotv  Lowko merch:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-this-is-starcraft-in-2024-maru-vs-serral/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-this-is-starcraft-in-2024-maru-vs-serral/",
+      "originalUrl": "https://youtube.com/watch?v=_8CklxD4I88",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_8CklxD4I88\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M59S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 155,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_8CklxD4I88/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-30T09:34:33Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-zesty-mind-games-vs-rogue-best-of-5.md",
       "title": "StarCraft 2: Zesty MIND GAMES vs Rogue! (Best-of-5)",
       "excerpt": "Fun best-of-5 series of professional StarCraft 2 between Zest and Rogue. Zest decides to confuse his opponent in any way he can think of, and try to win mostly based off of mind games.  Zest vs soO: https://youtu.be/nQJJ-2RhILc  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube",
@@ -1017,6 +987,37 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-06-01T08:22:54Z"
+    },
+    {
+      "path": "_games/pig-florencios-ridiculous-cyclone-all-in-florencio-files-289-starcraft-2.md",
+      "title": "Florencio’s RIDICULOUS Cyclone All-In | Florencio Files #289 - StarCraft 2",
+      "excerpt": "This cyclone SCV all in is legit horrible. He somehow took a really cool build and sprinkled sewer dust all over it. I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-florencios-ridiculous-cyclone-all-in-florencio-files-289-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-florencios-ridiculous-cyclone-all-in-florencio-files-289-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=uPqwjlJKaAA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uPqwjlJKaAA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M35S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran"
+      ],
+      "heat": 155,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uPqwjlJKaAA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-23T00:21:09Z"
     }
   ],
   "nextPage": 3

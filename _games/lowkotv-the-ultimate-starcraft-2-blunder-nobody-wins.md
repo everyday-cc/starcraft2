@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-the-ultimate-starcraft-2-blu
 type: video
 length: PT30M53S
 publishedDateTime: 2024-02-24T10:59:08Z
-heat: 120
+heat: 113
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E07YGCIa3Og\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "apuLbjaAFXM2h6j0YW0keOYaYgPtllRszKri5eBG/xYqRFfFSi9j1S49iM7OsHggZ3QzO2YR6XesYxGXW5pJ+2hbdqDgam5UmMtSTTudtsvbIhEW6tGZ599+bX4WX0GEVvsJfPxE4gVMd9XhUe7qgmoMy3p0WhzZlOfpztLCqhK0YvWIAn+8+SYaYot+IkcDEpnhd9J4mjMMjf89wNmZa8F0nyJg5eYJ8mqDhr52jyqCMjJ1us6CfqHyCIEqGs+zC0hIfd/2vQvw8ZS5BEhoVeAtvgR7r8gFYk0MTo6Q2cGTj7xAjbs5CuxyOl0EIEC5vpTi3HPpxwAikWC+VZ2C4AzbyJBCwD2XLk/ZZZQWDEWnPRRUS0VXG1aDvQZRmK79NHVweRR7iFPENE/G2qE5GAl9/jL+E8Y7xSpi48tacXk=;img+16QeKRQSM3RSwoHiZg=="
+secured: "+LVXtOVg4iM8+6wrObRSwInTc2+vrEpW7nizafiB0mt9aEmpIp05FzkvRb6fAINuCFmqrDgVuxf6e8zFOeTjfwsT6F+0ACSFAULhFWBK19KHb6B8wnc0sd3cNOFgoQpaSJy13JTPeEgyoLCq2F1y7tIea+zI9WIWI57jAikLImjciA1bClmIGJU4Rcp+OFMO5Y+vQKM7GEKaPA0IpxmuWQ6P8+tdRLih1U9/f6G02mTSxmWf7hDSgAAstGJAHTEvvaGWrqnUifxe5qyhlvB1ZUDAv2M89OR1DCOsmf15kUGc7M/rZ7LaiBrlrkj5xvQ3s6otvPyY5AGgK3mN+gj4I/50tpr4qcATTZ6Pn3d5AiLF5CNGFrMXwAz9KH/2wX81ByUYND0jQRQiavD3NylFV0wMNqbsjRota0zRL9pBw4M=;Za2M+MnZZktVPRDqr8TD9g=="
 ---
 

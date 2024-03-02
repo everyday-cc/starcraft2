@@ -1,13 +1,13 @@
 ---
 title: "StarCraft 2: SERRAL vs HEROMARINE!"
-excerpt: "A great match of StarCraft 2 between some of the best pro gamers. Subscribe for more videos: http://lowko.tv/youtube The Nexus All-in?! https://goo.gl/HTTgHL  Serral and HeRoMaRinE are the best in their respective race currently in Europe. They are currently topping the ladder with both over 7000 MMR."
-originalUrl: https://youtube.com/watch?v=PnecLuthYfA
+excerpt: "Top-level match of Zerg versus Terran in StarCraft 2 between Serral and HeRoMaRinE.   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on"
+originalUrl: https://youtube.com/watch?v=DlRntQEKEv8
 type: video
-length: PT18M57S
-publishedDateTime: 2018-05-10T10:36:51Z
-heat: 53
+length: PT22M2S
+publishedDateTime: 2020-09-29T11:18:11Z
+heat: 60
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PnecLuthYfA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DlRntQEKEv8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: LowkoTV
@@ -22,11 +22,11 @@ topics:
   - Zerg
 
 images:
-  - url: https://i.ytimg.com/vi/PnecLuthYfA/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/DlRntQEKEv8/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
 
-secured: "V+QNG05QmeXbSpMkycwuL+svXcV/hIZWAqJNVBx3PBUUJi37Pca05D/s/0bHHeJ2IPZknwb1Ze40gXaMUvtY6N9dbm/cV2dJ+bssiIqys376lhr+K9U1v5ZJgcviSpiYUO5KP92EwNwuVnu8mCwCWtAJ1nzlyiAiWI53zf6Slxgzn9ZIMc1CK0rieKG9QBVTC8TsMZqFPbIifm8iL9s3irRAUeJLNVb1NlAU2hERXXmLRdZYVA6joKVxfDeThmRRI1ZSWmg6NT6tkZ4C9P39hGcb11YIJEmrdqDFkFLW9q+RoV82uwr7HkCoTf/uy1qXfLOtUPblvhTVX+cMbeLtnyNG9Dy7v3RvQ2kf8z+XQ+xYbTPtku4fT2b8C2SCgfpUTgbZMCoPQRbulMWM8211IQ==;prt+iAz4R/pInXt4ixob0Q=="
+secured: "DmkXXx9wSNB1VhxLOaMIAh0qD8KeKLH7gMnDrkJLxHePHzo5aLQpJf4W8Y82R09CBA36Te2PrjdRvuZq3P+mirW006Zz4VM+hHqWhK2aaUR1iB4x0GBf66kUtkZVlUX1NR14V5EmykeW98SQorC3Ow3VD0EvXUZznqvJdQc873HV52HtbTzWR1QyYPisCgk3pvDYRlrk0iqVyP4+8Xq09okahptBisxuB/edIDtpiZ10S4uTwgGHx4vhPMCqVJHJJ/LF0Jc6QYnLB9uPOzc0TDBflPX8ThQGhQqJ/IVNf8eScEvuLxbMXk8qe47uJRAFbNU/24FakHB8PR3g8B0reeJvgq8ZOZSluovgGZXgphoGe4WOFh+GTprxGE2qUJkTOdcfAMNz7INfypI6fl+SrQ==;9VWSCRqnNwFYLga4tWEzxg=="
 ---
 

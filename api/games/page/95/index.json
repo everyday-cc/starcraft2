@@ -4,6 +4,66 @@
   "page": 95,
   "value": [
     {
+      "path": "_games/pig-starcraft-2-who-wants-a-treat-the-florencio-files-153.md",
+      "title": "StarCraft 2 - Who Wants a Treat? | The Florencio Files #153",
+      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-who-wants-a-treat-the-florencio-files-153/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-who-wants-a-treat-the-florencio-files-153/",
+      "originalUrl": "https://youtube.com/watch?v=O5gMow4oSp0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O5gMow4oSp0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M7S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/O5gMow4oSp0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2020-08-07T16:00:09Z"
+    },
+    {
+      "path": "_games/pig-starcraft-2-why-are-you-hitting-yourself-florencio-files-238.md",
+      "title": "StarCraft 2 - WHY ARE YOU HITTING YOURSELF? | Florencio Files #238",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. And this time he's neural parasiting his poor Protoss opponent 🐷 Support PiG: https://www.pigstarcraft.com/support/  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-why-are-you-hitting-yourself-florencio-files-238/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-why-are-you-hitting-yourself-florencio-files-238/",
+      "originalUrl": "https://youtube.com/watch?v=t6RJhbFPG60",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t6RJhbFPG60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M4S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/t6RJhbFPG60/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2021-08-25T13:10:06Z"
+    },
+    {
       "path": "_games/pig-starcraft-2-will-the-real-sewer-mermaid-please-stand-up-the-florencio-files-124-125.md",
       "title": "StarCraft 2 - Will the real Sewer Mermaid please stand up? | The Florencio Files #124 & #125",
       "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/florenciosc Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
@@ -241,36 +301,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2018-10-13T23:35:08Z"
-    },
-    {
-      "path": "_games/pig-starcraft-2-your-viewers-werent-ready-for-this-the-best-episode-yet-the-florencio-files-18.md",
-      "title": "StarCraft 2 - “Your viewers weren’t ready for this” | The Best Episode yet?- The Florencio Files #18",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-your-viewers-werent-ready-for-this-the-best-episode-yet-the-florencio-files-18/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-your-viewers-werent-ready-for-this-the-best-episode-yet-the-florencio-files-18/",
-      "originalUrl": "https://youtube.com/watch?v=jU2q4VsPMmQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jU2q4VsPMmQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M31S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jU2q4VsPMmQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2018-08-04T01:15:04Z"
     },
     {
       "path": "_games/pig-starcraft-2-zerg-mind-games-florencio-files-217.md",
@@ -861,37 +891,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-01-05T21:10:05Z"
-    },
-    {
-      "path": "_games/pig-terran-colonists-vs-zerg-and-their-pointy-sticks-cloak-icyfar-g2.md",
-      "title": "Terran Colonists vs Zerg and their Pointy Sticks - Cloak ICYFAR G2",
-      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players showed off their best cloaked and invisible unit plays.\r THIS WEEKS ICYFAR CHALLENGE: “One Geyser to Rule Them All” - You may only mine from one gas geyser for the entire game. Send submissions to eonblu95@gmail.com as attachment",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-terran-colonists-vs-zerg-and-their-pointy-sticks-cloak-icyfar-g2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-terran-colonists-vs-zerg-and-their-pointy-sticks-cloak-icyfar-g2/",
-      "originalUrl": "https://youtube.com/watch?v=l2EBkwmjbSo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l2EBkwmjbSo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M55S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/l2EBkwmjbSo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T12:46:41Z"
     }
   ],
   "nextPage": 96

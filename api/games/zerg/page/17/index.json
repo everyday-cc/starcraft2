@@ -4,6 +4,45 @@
   "page": 17,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-new-patch-byun-vs-dark-grand-finals.md",
+      "title": "StarCraft 2: NEW PATCH - ByuN vs Dark! (Grand Finals)",
+      "excerpt": "Best-of-5 series of high level StarCraft 2 between Dark (Zerg) and ByuN (Terran). These games are played on the StarCraft 2 PTR with all the new balance changes.   New SC2 patch: https://youtu.be/y87c1xp3I3Q  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-patch-byun-vs-dark-grand-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-patch-byun-vs-dark-grand-finals/",
+      "originalUrl": "https://youtube.com/watch?v=G6EOaBTKXhg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G6EOaBTKXhg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/G6EOaBTKXhg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-12-29T08:20:05Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-new-patch-is-live-zerg-vs-protoss-is-good-hero-vs-rogue.md",
       "title": "StarCraft 2: NEW PATCH IS LIVE - Zerg vs Protoss is GOOD?! (herO vs Rogue)",
       "excerpt": "The new multiplayer balance patch is finally live in StarCraft 2. In this best-of-5 series I cast a Zerg versus Protoss between herO and Rogue. The new patch primarily addresses this ZvP matchup, nerfing Shield Batteries, Dark Templar, Queens, Lurkers, Void Rays and buffing the Nydus Worm slightly.",
@@ -1123,45 +1162,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-07-11T09:55:05Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-reynor-as-protoss-again-kelazhur-vs-reynor.md",
-      "title": "StarCraft 2: REYNOR AS PROTOSS... AGAIN! (Kelazhur vs Reynor)",
-      "excerpt": "Reynor decides to pick Protoss up again in a recent tournament. In this video I cast a best-of-3 series at the professional level of StarCraft 2 between Kelazhur and Reynor, a Terran versus Protoss.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynor-as-protoss-again-kelazhur-vs-reynor/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynor-as-protoss-again-kelazhur-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=Gvbv5On206Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gvbv5On206Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Gvbv5On206Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2020-10-26T11:40:37Z"
     }
   ],
   "nextPage": 18

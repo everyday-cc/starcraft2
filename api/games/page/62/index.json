@@ -4,6 +4,44 @@
   "page": 62,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-the-zerg-book-of-cheese.md",
+      "title": "StarCraft 2: The Zerg Book of CHEESE!",
+      "excerpt": "A very cheesy Zerg vs Protoss in StarCraft 2 Subscribe for more videos: http://lowko.tv/youtube Zergling Rush: https://goo.gl/iWUfxS  Usually people think of the Protoss as the cheesy race. However, there is no denying that Zerg has a little of little tricks they can execute as well. In this game the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-zerg-book-of-cheese/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-zerg-book-of-cheese/",
+      "originalUrl": "https://youtube.com/watch?v=kcMIuJrsGoE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kcMIuJrsGoE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M46S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kcMIuJrsGoE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2018-06-15T06:46:38Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-zerg-forcefield.md",
       "title": "StarCraft 2: THE ZERG... FORCEFIELD?!",
       "excerpt": "A great game of Zerg versus Zerg between JustMonika and Alika. Subscribe for more videos: http://lowko.tv/youtube The Zerg... Mothership?! https://goo.gl/bZtVFG  Using Infestors as a main army unit used to be quite common, but these days it almost barely happens. They're usually used as spell casters",
@@ -1100,44 +1138,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2021-07-08T20:18:51Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-top-tier-terrans-maru-vs-time.md",
-      "title": "StarCraft 2: TOP-TIER TERRANS! (Maru vs TIME)",
-      "excerpt": "Incredible match of top-level Terran versus Terran in StarCraft 2. In this professional match between Maru and TIME, both players take very few early game commitments and play an epic macro game.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-tier-terrans-maru-vs-time/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-top-tier-terrans-maru-vs-time/",
-      "originalUrl": "https://youtube.com/watch?v=jIeP5C-RRxE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jIeP5C-RRxE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M3S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jIeP5C-RRxE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2019-11-26T08:40:53Z"
     }
   ],
   "nextPage": 63

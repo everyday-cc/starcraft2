@@ -4,6 +4,45 @@
   "page": 5,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-classics-dark-templar-surprise-gsl-code-s.md",
+      "title": "StarCraft 2: Classic's DARK TEMPLAR Surprise! (GSL Code S)",
+      "excerpt": "Chaotic series of StarCraft 2 from the GSL Code S, round-of-8. The winner of this match of Protoss vs Protoss in SC2 goes on to the semi finals. This is a series between Creator and Classic. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-classics-dark-templar-surprise-gsl-code-s/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-classics-dark-templar-surprise-gsl-code-s/",
+      "originalUrl": "https://youtube.com/watch?v=oMDPJQzKy_0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oMDPJQzKy_0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M5S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oMDPJQzKy_0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-10-27T11:03:46Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-darks-dangerous-infestors-vs-hero-best-of-5.md",
       "title": "StarCraft 2: Dark's DANGEROUS Infestors vs herO! (Best-of-5)",
       "excerpt": "Best-of-5 series of top level StarCraft 2 between herO (Protoss) and Dark (Zerg). This series is the grand finals of the ESL Open Cup 159 Korea. While the build orders in this match are mostly standard, the executions in the mid game are very versatile. The micro and decision making from both pro gamers",
@@ -1017,36 +1056,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2020-05-16T16:00:14Z"
-    },
-    {
-      "path": "_games/pig-starcraft-2-saltus-interruptus-the-florencio-files-94.md",
-      "title": "StarCraft 2 - Saltus Interruptus | The Florencio Files #94",
-      "excerpt": "I cast one of the mysterious and deranged builds of the one and only Florencio, the dude that invented the proxy nexus recall rush.  Florencios Twitch: https://www.twitch.tv/flol2encio Florencios Youtube: https://www.youtube.com/channel/UCPVDzgavABEYvzf6ABjgSVA Florencios Twitter: https://twitter.com/craft_dank",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-saltus-interruptus-the-florencio-files-94/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-saltus-interruptus-the-florencio-files-94/",
-      "originalUrl": "https://youtube.com/watch?v=InhzjDmpcTs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/InhzjDmpcTs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M16S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/InhzjDmpcTs/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2019-09-29T16:00:03Z"
     }
   ],
   "nextPage": 6

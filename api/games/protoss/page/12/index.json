@@ -4,6 +4,45 @@
   "page": 12,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-epic-blunders-hero-vs-dark-best-of-5.md",
+      "title": "StarCraft 2: EPIC BLUNDERS - herO vs Dark! (Best-of-5)",
+      "excerpt": "Best-of-5 series of StarCraft 2 that is the finals of the KSL 7, betweek Dark (Zerg) and herO (Protoss). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-blunders-hero-vs-dark-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-blunders-hero-vs-dark-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=2uQMCcHq8p0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2uQMCcHq8p0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT53M58S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2uQMCcHq8p0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-04-23T10:32:56Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-epic-brawl-sneaky-psi-storm-drops-time-vs-trap.md",
       "title": "StarCraft 2: Epic Brawl - Sneaky PSI STORM Drops! (TIME vs Trap)",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between TIME (Terran) and Trap (Protoss). Game number one in particular is amazing. A constant back-and-forth between two players that have very small economies.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join",
@@ -1119,44 +1158,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-08-09T11:56:34Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-has-is-playing-next-year-strategies-creator-vs-has.md",
-      "title": "StarCraft 2: HAS Is Playing Next-Year Strategies?! (Creator vs Has)",
-      "excerpt": "Fun match of Protoss versus Protoss in StarCraft 2 between Has and Creator.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-has-is-playing-next-year-strategies-creator-vs-has/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-has-is-playing-next-year-strategies-creator-vs-has/",
-      "originalUrl": "https://youtube.com/watch?v=EY33CBhYJIs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EY33CBhYJIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M46S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EY33CBhYJIs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2021-04-22T11:32:10Z"
     }
   ],
   "nextPage": 13

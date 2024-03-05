@@ -4,6 +4,36 @@
   "page": 32,
   "value": [
     {
+      "path": "_games/pig-the-d-head-duo-break-a-protoss-brain-carbon-tax-icyfar-g3.md",
+      "title": "The D-Head Duo Break a Protoss’ “Brain” - Carbon Tax ICYFAR G3",
+      "excerpt": "Hey guys! we are back with a new person in charge of ICYFAR, yes this means that the email for submissions HAS CHANGED! In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they were Interrupting their opponent's gas mining as much as possible!  NO",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-d-head-duo-break-a-protoss-brain-carbon-tax-icyfar-g3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-d-head-duo-break-a-protoss-brain-carbon-tax-icyfar-g3/",
+      "originalUrl": "https://youtube.com/watch?v=Rv2XC4-pWCA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Rv2XC4-pWCA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M39S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Rv2XC4-pWCA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T12:46:41Z"
+    },
+    {
       "path": "_games/pig-the-fastest-terran-in-the-world-faced-three-protoss-pros-at-once-clem-vs-maxpax-harstem-mana-sc2.md",
       "title": "The FASTEST Terran in the world faced THREE Protoss Pros at once | Clem vs MaxPax Harstem MaNa - SC2",
       "excerpt": "Clem takes on the ultimate archon - Harstem, Maxpax & Mana join forces as a Pro Protoss archon to take down the French terran. It's insane that Clem is fast enough to even compete, but can he WIN? Lets find out! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third",
@@ -943,45 +973,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2017-07-24T10:20:07Z"
-    },
-    {
-      "path": "_games/sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s.md",
-      "title": "DARK SHRINE VS DARK SHRINE - sOs vs herO - GSL Code S",
-      "excerpt": "A crazy Best of 3 between sOs vs herO, Both going for Dark shrine rushes in the first game! Some great Cheddar cheese from both players  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s/",
-      "originalUrl": "https://youtube.com/watch?v=4stL2OicyNw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4stL2OicyNw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M48S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4stL2OicyNw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2018-03-03T23:41:54Z"
     }
   ],
   "nextPage": 33

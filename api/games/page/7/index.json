@@ -4,45 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_games/lowkotv-oliveiras-battlecruiser-anti-timing-vs-dark-starcraft-2.md",
-      "title": "Oliveira's BATTLECRUISER Anti-Timing vs Dark! (StarCraft 2)",
-      "excerpt": "Professional match of StarCraft 2 between Dark (Zerg) and Oliveira (Terran). This match is easily one of the best games of SC2 I've seen recently.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-oliveiras-battlecruiser-anti-timing-vs-dark-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-oliveiras-battlecruiser-anti-timing-vs-dark-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=FWFMDHXNY-k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FWFMDHXNY-k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M15S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FWFMDHXNY-k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-11-29T11:21:59Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-ai-vs-ai-epic-pro-bots-tournament-match.md",
       "title": "StarCraft 2: AI vs AI - Epic Pro Bots Tournament Match!",
       "excerpt": "Game of StarCraft 2 from the ProBots tournament. This match does not feature two humans that play against each other, instead it is a game between two custom made AIs (artificial intelligence). The gameplay reminds me a lot of Google's AlphaStar, but with far more APM.  Pro Bots YouTube channel: https://www.youtube.com/@ProBotsAI",
@@ -416,6 +377,44 @@
       "publishedDateTime": "2023-11-20T11:37:54Z"
     },
     {
+      "path": "_games/lowkotv-reynors-unexpected-sky-toss-switches-vs-scarlett-best-of-3.md",
+      "title": "Reynor's UNEXPECTED Sky Toss Switches vs Scarlett! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Reynor and Scarlett. In this series Reynor decides to play Protoss, rather than make this a Zerg versus Zerg.  Reynor's Protoss vs Serral: https://youtu.be/Ayg4tUhwMjM Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-reynors-unexpected-sky-toss-switches-vs-scarlett-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-reynors-unexpected-sky-toss-switches-vs-scarlett-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=Vd9zA9xDXXg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vd9zA9xDXXg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M3S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Vd9zA9xDXXg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEMgZShjMA8=&rs=AOn4CLARVAoJy5T8qvTt9OByt3TwgJmItw",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-12-08T12:55:03Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-maxpaxs-surprising-dark-templar-switch.md",
       "title": "StarCraft 2: MaxPax's SURPRISING Dark Templar Switch!",
       "excerpt": "Best-of-5 series of European StarCraft 2, played on the 25th of December 2023. This series between MaxPax and HeroMarine is a Protoss versus Terran that is the finals of the ESL Open Cup 207 Europe. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
@@ -452,6 +451,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-12-29T11:32:29Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-parting-destroys-byuns-turtle-terran.md",
+      "title": "StarCraft 2: PartinG DESTROYS ByuN's Turtle Terran!",
+      "excerpt": "Best-of-3 series of South Korean StarCraft 2 between PartinG (Protoss) and ByuN (Terran). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko Twitch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-parting-destroys-byuns-turtle-terran/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-parting-destroys-byuns-turtle-terran/",
+      "originalUrl": "https://youtube.com/watch?v=dqdgCJS6ERk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dqdgCJS6ERk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dqdgCJS6ERk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-15T11:45:35Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-return-of-the-legendary-world-champion-protoss.md",
@@ -3371,44 +3409,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-01-10T14:50:00Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-reynor-vs-spirit-is-the-longest-match-in-years.md",
-      "title": "StarCraft 2: Reynor vs Spirit is the LONGEST Match in Years?!",
-      "excerpt": "Professional match of StarCraft 2 between Reynor (Zerg) and Spirit (Terran). This is the longest game of high level StarCraft 2 that I've seen in a very long time.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynor-vs-spirit-is-the-longest-match-in-years/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynor-vs-spirit-is-the-longest-match-in-years/",
-      "originalUrl": "https://youtube.com/watch?v=cRLcG5uGcP4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cRLcG5uGcP4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H15M7S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cRLcG5uGcP4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-05-28T15:14:52Z"
     }
   ],
   "nextPage": 8

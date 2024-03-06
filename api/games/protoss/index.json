@@ -761,6 +761,45 @@
       "publishedDateTime": "2023-11-22T11:35:41Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-serral-zerg-rushes-hero.md",
+      "title": "StarCraft 2: Serral ZERG RUSHES herO!",
+      "excerpt": "Easily the most painful game of StarCraft 2 I've seen in a long time. This game between Serral and herO features the biggest throw in a pro game of 2024 so far. Reynor's Protoss vs Serral: https://youtu.be/Ayg4tUhwMjM Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-zerg-rushes-hero/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-zerg-rushes-hero/",
+      "originalUrl": "https://youtube.com/watch?v=0l1W_D8jqoY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0l1W_D8jqoY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M31S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0l1W_D8jqoY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-31T09:04:45Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-proxy-marauder-rush-in-a-500000-tournament-hero-vs-cure.md",
       "title": "StarCraft 2: PROXY Marauder Rush(?!) in a $500,000 Tournament! (herO vs Cure)",
       "excerpt": "Best-of-5 series from the StarCraft 2 IEM Katowice tournament. This match of SC2 is between herO (Protoss) and Cure (Terran). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel:",
@@ -799,11 +838,11 @@
       "publishedDateTime": "2024-02-23T12:46:32Z"
     },
     {
-      "path": "_games/lowkotv-no-way-heros-mothership-recall-goes-wrong-starcraft-2.md",
-      "title": "NO WAY! herO's Mothership Recall GOES WRONG! (StarCraft 2)",
+      "path": "_games/lowkotv-heros-mothership-recall-goes-wrong-starcraft-2.md",
+      "title": "herO's Mothership Recall GOES WRONG! (StarCraft 2)",
       "excerpt": "Best-of-5 series of top level StarCraft 2 between herO (Protoss) and Cure (Terran). This series is the finals of the ESL Open Cup Korea. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-no-way-heros-mothership-recall-goes-wrong-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-no-way-heros-mothership-recall-goes-wrong-starcraft-2/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-heros-mothership-recall-goes-wrong-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-heros-mothership-recall-goes-wrong-starcraft-2/",
       "originalUrl": "https://youtube.com/watch?v=lfbMocO4z_M",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lfbMocO4z_M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT1H16M59S",
@@ -823,7 +862,7 @@
         "StarCraft 2",
         "Protoss"
       ],
-      "heat": 121,
+      "heat": 128,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/lfbMocO4z_M/maxresdefault.jpg",
@@ -835,45 +874,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-01-16T09:06:41Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho.md",
-      "title": "StarCraft 2: Marine BLOOD BATH! (herO vs GuMiho)",
-      "excerpt": "StarCraft 2 ESL Open Cup 215 Grand Finals for the Korean server. In this series of Terran versus Protoss we watch GuMiho play hyper aggressive Terran strategies versus herO. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho/",
-      "originalUrl": "https://youtube.com/watch?v=DK68MQv_9QE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DK68MQv_9QE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M14S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 118,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DK68MQv_9QE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-26T11:34:09Z"
     },
     {
       "path": "_games/pig-florencios-ridiculous-cyclone-all-in-florencio-files-289-starcraft-2.md",
@@ -944,6 +944,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-05-23T18:16:38Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho.md",
+      "title": "StarCraft 2: Marine BLOOD BATH! (herO vs GuMiho)",
+      "excerpt": "StarCraft 2 ESL Open Cup 215 Grand Finals for the Korean server. In this series of Terran versus Protoss we watch GuMiho play hyper aggressive Terran strategies versus herO. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho/",
+      "originalUrl": "https://youtube.com/watch?v=DK68MQv_9QE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DK68MQv_9QE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M14S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 104,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DK68MQv_9QE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-26T11:34:09Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-bring-snacks-this-match-is-incredible-cure-vs-classic.md",
@@ -1081,37 +1120,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-04-14T02:34:28Z"
-    },
-    {
-      "path": "_games/pig-hero-drone-lets-me-get-away-with-3-hatch-before-pool-mac-or-cheese-4-starcraft-2.md",
-      "title": "Hero Drone lets me get away with 3-hatch before pool! | Mac or Cheese #4 - StarCraft 2",
-      "excerpt": "NEW SHOW! I secretly played a few games on a dirty barcode account and offered my StarCraft 2 opponents a choice: Macro or Cheese? How the game plays out is up to them!  Watch the Full Playlist: https://youtube.com/playlist?list=PLFUDU8AOevUfPxBiGAdbbg9sRfRF9ZV28 -- 🐷 Second Channel for Learning StarCraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-hero-drone-lets-me-get-away-with-3-hatch-before-pool-mac-or-cheese-4-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-hero-drone-lets-me-get-away-with-3-hatch-before-pool-mac-or-cheese-4-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=1p5nCTvqFJU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1p5nCTvqFJU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M26S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 81,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1p5nCTvqFJU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-08-04T04:25:26Z"
     }
   ],
   "nextPage": 2

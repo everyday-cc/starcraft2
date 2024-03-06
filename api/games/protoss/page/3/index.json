@@ -4,44 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-the-new-rank-1-protoss-best-of-3.md",
-      "title": "StarCraft 2: The NEW Rank 1 Protoss! (Best-of-3)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between herO (Protoss) and Dark (Zerg). herO just recently overtook Zest for the highest ranked Protoss player in the world.   Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  Thumbnail picture of",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-new-rank-1-protoss-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-new-rank-1-protoss-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=FHH48M74Vc8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FHH48M74Vc8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M9S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FHH48M74Vc8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-04-18T09:06:36Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-weird-new-maps-byun-vs-hero-3000-grand-finals.md",
       "title": "StarCraft 2: WEIRD New MAPS - ByuN vs herO $3000 Grand Finals!",
       "excerpt": "Grand Finals of the Team Liquid Map Contest! In this best-of-5 series of StarCraft 2 I cast ByuN (Terran) and herO (Protoss) as they face off on strange new maps from the TLMC. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
@@ -1086,6 +1048,37 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-09-01T13:32:30Z"
+    },
+    {
+      "path": "_games/pig-starcraft-2-how-to-beat-turtle-terran-the-florencio-files-165.md",
+      "title": "StarCraft 2 - How to Beat Turtle Terran! The Florencio Files #165",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk  Follow Florencio: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-how-to-beat-turtle-terran-the-florencio-files-165/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-how-to-beat-turtle-terran-the-florencio-files-165/",
+      "originalUrl": "https://youtube.com/watch?v=XwWFfkedI4k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XwWFfkedI4k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M6S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XwWFfkedI4k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2020-09-11T16:00:12Z"
     }
   ],
   "nextPage": 4

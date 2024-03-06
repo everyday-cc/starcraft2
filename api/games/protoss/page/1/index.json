@@ -838,45 +838,6 @@
       "publishedDateTime": "2024-02-26T11:34:09Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-harstems-proxy-nexus-vs-serral.md",
-      "title": "StarCraft 2: Harstem's PROXY NEXUS vs Serral!",
-      "excerpt": "Professional match of StarCraft 2 between Serral (Zerg) and Harstem (Protoss) from HomeStory Cup 24, played in early December 2024. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko Twitch",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-harstems-proxy-nexus-vs-serral/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-harstems-proxy-nexus-vs-serral/",
-      "originalUrl": "https://youtube.com/watch?v=CehYzjUlaKQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CehYzjUlaKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CehYzjUlaKQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-12-11T10:00:53Z"
-    },
-    {
       "path": "_games/pig-florencios-ridiculous-cyclone-all-in-florencio-files-289-starcraft-2.md",
       "title": "Florencio’s RIDICULOUS Cyclone All-In | Florencio Files #289 - StarCraft 2",
       "excerpt": "This cyclone SCV all in is legit horrible. He somehow took a really cool build and sprinkled sewer dust all over it. I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
@@ -1113,6 +1074,36 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-08-04T04:25:26Z"
+    },
+    {
+      "path": "_games/pig-starcraft-2-flo-maxes-out-ground-attack-for-his-skytoss-facepalm-florencio-files-265.md",
+      "title": "StarCraft 2- Flo maxes out ground attack for his skytoss! FACEPALM | Florencio Files #265",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush.  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-2-flo-maxes-out-ground-attack-for-his-skytoss-facepalm-florencio-files-265/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-2-flo-maxes-out-ground-attack-for-his-skytoss-facepalm-florencio-files-265/",
+      "originalUrl": "https://youtube.com/watch?v=nkJKBd8iBKQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nkJKBd8iBKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M10S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 75,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nkJKBd8iBKQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-04-21T01:14:08Z"
     }
   ],
   "nextPage": 2

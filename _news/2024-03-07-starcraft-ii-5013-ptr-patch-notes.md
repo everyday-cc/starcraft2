@@ -38,6 +38,6 @@ related:
       domain: jdpower.com
     quality: 17
 
-secured: "v9pLYGjXfQ74uz9aU7uCJ9zTIe3ZUNHrX/gBq1lbcoOGV2igqhtoO3yrBowY4ZqLMGTd5i25FxFhb1W5HBTG/e3ndSBWX8ZwhPYtVoEUv6hqertx6+p5/kDx/svEkGS4LVpcYT/pDQUlD7Rn7TI5nTbdzv1Q/WovdscAVmA1oHi3uoF70+wjl5dl8z2MfLvjfcbXSAxL6EVmyZHI2tNqfamLgedYaLqdtRKLGtNDaUb05ri38v1dpsQHnuFaAhsT61IS4G9FUmGDcl2Te5HloPPS10v6PWmrhnTXC/wWiZwix4Y1xSKE9/5eotClJtCR107VXcppWs82dfR78hFFFzY3WJ/VZ0I2ld2MQy4/GJo=;bgSiBut2n5G3z4FkDW/YjA=="
+secured: "8rOk0G/SQrUlgy4+kBgVnMjOMkDJ2pp4TdPYfiW77rsqw4ha7mRzUnCfzkRUSlRrHtEO/Mrce+/UaXVl2OlvP66VFPTDn/vi83I/Vdo4Iu9RZNRT7lb8d3IoJYjgVIp3+RSW3YqqVZeMktlCbSexS4kTjkAdY4+9hI6725X1RcyAXp+WW2daGdOkeFsi8hPFpLUBo4T4ibcBejJpyOzqx/6CtFc2aKFq23UAAhm+1SyqOZc64Czbe2swJui5J7twt1R0RuTqmOAbG+D7+nejn/cr+jyxK1OFza5XiCUx7kh6Ds2KLvn8KeVuAZveuhMrlQqmr+aYTixxemhAHuVEDVxePH+FlXawGVbfPTHZY6k=;PzWPrWGypSm3+6CXFSFF3Q=="
 ---
 

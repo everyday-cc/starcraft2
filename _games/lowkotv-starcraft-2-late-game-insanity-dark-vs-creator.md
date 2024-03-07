@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-late-game-insani
 type: video
 length: PT54M48S
 publishedDateTime: 2020-11-02T11:15:03Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZGBQn1UbR5g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "AoGhNwcrICPot9c+x0GLO50WMj009Vk1ygCHi+5Un48Kw3/FSch4kQeRpUWwT1SUFqGg0vXCLvc6/YyvzGs9J7iwpEZ9tK3EaZ+9zt3TMP1EgqrZy+3ZB8l7kLPi3EFr0jYinT5ggumt7acmxYP5Ykbon4bYwUvv0nIP8iAVfOPxm6eHYb7tFebvgBz4i2oMRdDKI0EVbppiJYNEns8x6kv55AGcUzE2S2R2C9ClUdPemQcv6bOag3sKn4cfnRyUkQHmA5MTwj0Rpz2/Ct7wGOP8SH7Ur2jbQ2/rgknfdMmiMS9P8CMdVyc2VwVrqWNDHFDtw81tbF1/TyBxQ3NhBe4rXPrX2ccSmHognKlOmU6feeoTxAcYMOQvJl0YyFzDvUgEBED8Mjo4Hg/1UUpA+6gstA5owpbKPjzLLrPoaaauBelZBq3R/emXcux0tqXv;qtyR6+zlnnpvJoygQ5w4nA=="
+secured: "cgndxxpbyPhKru/6kFDDd00qPxfu4drY+y9MDXqUAlUwaI9Ee0tTtbVJUWm+07jPioT02P+DekR3/dM3keifKCaA3g65L+s1l1Y98bFB5qUJQOD9oQO45BoECaFykPtHaQuPyR4PMQQxkQ/F+mOyt6wn5bv7Tjoo4Gs7fMEbY5p9on8u+B/0YMn+UKDhijIC2fQQ4hjzE+/6y08D/UKgcWgnh3wyVPEMxCjeLfysl4wQ/cv9oI+YYvOfYqc+/HJ3iNvjt4RkHCvlCVYeQn87UBCapk38AqdUpNnx7qSBM8pBofwFFBTPa+TbLNS+75lz+4LnxxbcM9risTfA0DA2AJGe4yrUKKn6u1d4RbMQ+EIb0xMEHaW4Jy3vs+6fX01wkOuh8xy0HwRD69uUspvmZ1n8+szNaG+gGrbnXHQGFr/cwBBOtJH0bExrLAusUu4h;dkG8zqbqNFSCt3xvAHyjEA=="
 ---
 

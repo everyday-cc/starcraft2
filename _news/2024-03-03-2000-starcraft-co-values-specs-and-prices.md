@@ -18,21 +18,19 @@ topics:
   - StarCraft 2
 
 related:
-  - title: "US Army Is Looking Into AI's Potential for Battle Planning Through Starcraft II"
-    excerpt: "The US Army is exploring AI for enhanced battle planning. Promising results in simulated scenarios raise cautious optimism amid ethical and practical concerns."
-    publishedDateTime: 2024-03-06T10:00:00Z
-    webUrl: "https://www.techtimes.com/articles/302351/20240306/army-looking-ais-potential-battle-planning-through-starcraft-ii.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/302351/20240306/army-looking-ais-potential-battle-planning-through-starcraft-ii.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302351/20240306/army-looking-ais-potential-battle-planning-through-starcraft-ii.htm"
+  - title: "StarCraft II 5.0.13 PTR Patch Notes"
+    excerpt: "We are happy to push 5.0.13 to PTR which features a variety of Map Pool Updates and Balance."
+    publishedDateTime: 2024-03-07T18:24:43Z
+    webUrl: "https://news.blizzard.com/en-us/starcraft2/24061893/starcraft-ii-5-0-13-ptr-patch-notes"
     type: article
     provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 53
+      name: Blizzard
+      domain: blizzard.com
+    quality: 177
     images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444458/us-army.jpg"
-        width: 1024
-        height: 701
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "iYCuP9CYyFeEt55i9QDRHU3fJ5ix5NOjasULg8QYyPSuvISqtb29jpAzcrCfu4tyZ/SAVktThjTm4RleNJ3TWTOeewWzWTzUtkNEP/af8V1e9K4YH7JroG6r62dWjnu9hLp6HSRSMFM/HIkIlYDG80Ter2VZ7XyZrX5djQw3mANHwQPjGGVOMZopuwetLm7Z6OY4Fn1GqLVyww0UwCprSc06afxdspRFgv9d4fYB6Bae522axuyHYdvhc5rGlvjJ3e2AjqRNkVxr8Fw5U0boW/8V78exIboK7dZr8W1dTCC1EipYn5iqt1qgPezERW9hYnH1d8xEQJNrmBiZsmSEQasvp0vFuNm0/jz4WpGl6t0=;3+x1SlQVpCDv62HGw8Qmrw=="

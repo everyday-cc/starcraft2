@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-03-06-us-army-is-looking-into-ais-potential-for-battle-planning-through-starcraft-ii.md",
-      "title": "US Army Is Looking Into AI's Potential for Battle Planning Through Starcraft II",
-      "excerpt": "The US Army is exploring AI for enhanced battle planning. Promising results in simulated scenarios raise cautious optimism amid ethical and practical concerns.",
+      "path": "_news/2024-03-07-starcraft-ii-5013-ptr-patch-notes.md",
+      "title": "StarCraft II 5.0.13 PTR Patch Notes",
+      "excerpt": "We are happy to push 5.0.13 to PTR which features a variety of Map Pool Updates and Balance.",
       "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/302351/20240306/army-looking-ais-potential-battle-planning-through-starcraft-ii.htm",
-      "originalUrl": "https://www.techtimes.com/articles/302351/20240306/army-looking-ais-potential-battle-planning-through-starcraft-ii.htm",
+      "webUrl": "https://news.blizzard.com/en-us/starcraft2/24061893/starcraft-ii-5-0-13-ptr-patch-notes",
+      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/24061893/starcraft-ii-5-0-13-ptr-patch-notes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 197,
       "tags": null,
       "images": [
         {
-          "url": "https://1734811051.rsc.cdn77.org/data/images/full/444458/us-army.jpg",
-          "width": 1024,
-          "height": 701,
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg",
+          "width": 960,
+          "height": 540,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.techtimes.com/amp/articles/302351/20240306/army-looking-ais-potential-battle-planning-through-starcraft-ii.htm",
-      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302351/20240306/army-looking-ais-potential-battle-planning-through-starcraft-ii.htm",
-      "publishedDateTime": "2024-03-06T10:00:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T18:24:43Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
-        "images": null,
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/pig-starcraft-pros-read-mean-youtube
 type: video
 length: PT13M55S
 publishedDateTime: 2024-01-21T10:43:29Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xQW09QiRg4Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "RTskrzqAd0oiXNcGK+cikaWoIqo+/Krid4ivWK/eyY1LQN4y+i46MZW/163jWQYxaRmM+9luqOr1Mifws/Cnn94q1QYzYcYSrdEAbt5CLHao3YvDyz2lZ3ZEJv/JolMCO+JREpiLsf0UiS5CuJrCsfqa6Tr5D1twlacGZRrtEUodptRbmVZse8V4bKpgBorUvPvfbvED8X9bVcq8C7+S1KrhmZCc/fSICWOqve/1w/6pGJGqtw2/HKi9gx3qvqcHR+uMYmDW78UrIK4wvZ8prNBYgIBBxuP5ytOlpdII5KPvBuIO/9bLT0ds/ksTNCki1cu2ZFZWwbDT/Y0zI0GWdIcCUFyA4FbvUwnm9ikpY/F+v0JhWytEZ3Yy1cxDyY2PCvpSF/Z8sjaEwgbF7ivCR6nYb2Wp08y0WtQAo3UFOV0=;WRnnefO74qK8vQNRughmbQ=="
+secured: "28Vfa3MHewqjeELId9/8Lg1wavHmQsfimcSnyHQNqZZOR5IcXKtePel4aD5oVXmScVT3lWbxdKPOmxjnwNNcZwgKdwGOlF3T49BYeaj5B0fImkyWUed0s1VBMJzgPMtgUHT+vFmFakjl58LRhL9fwfepzkhh8I0h/XOtRVnKMthJRFG9VFokENtEIE8toEtDRVfFu6j4TEGADbaUcrGlfiNYsYBvZt7LKghdZgRg9JxvHLKV7ACW+BaLjOfDxRUKaFHEma9p1+DwxwNxCPzlzXVP8pvYrFvPHOV+znda+w4VgM4bEIhM/erflqvKKQw96bv8lSEPnkItXLBvGtdxYP+8P11k+lJKHB9WDp6dCPRYzhYs3k4YjcJVZFS4ACFRktEabkaolTWDoxwwg7w6r+54AMdarfmlTkYAoZ8WOSQ=;b4cwcvhvG+O1DIX7khZXZw=="
 ---
 

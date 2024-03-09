@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/pig-salty-toss-clings-to-hamster-whe
 type: video
 length: PT24M16S
 publishedDateTime: 2024-02-13T03:46:43Z
-heat: 58
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KJS_r_P_t-M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "RA9MFIbA2lYsSPrFge2g9FgArpKyR4X1Z1SnPHqsf4eCIMCleeszy9dHe6AjacYOQtOIIf5bDuscYujKz85mOk2BLd91Dbj4En74zdt3TijfEwjP3/tpcmFR7ymsx7U4l06Y1YThVFl63GspTSw+WG/V35eM46pGfq10vV/+wfP3563s8XFVg023s62TZjJ+NcI/x1TaIaplIZ0bl0yfxBFke9rpqrHwtUpTKonRbmczUcwTaxUX3GfIJC8R6468ce5pwdS1p/bbaQpOTuUj+Ym6Zi0nbEXSoWnNfkXOWnfZbzyx+zkd8HoszoiAZpVB9wO4nX5iHP7f8+InnsJbKZdv+WqL6qEv/i3Zg3Pl4Y9PXFYbGT24+XmMjs455/IqT+WOUlMQvDn2xfR9AqmY6AfUNXZBE0q2eUFbvNWwPaE=;nWp9m87w0ALOaIzcp0OqNw=="
+secured: "twrYQrwUapeCPfMksHADaccmSeYKAFybD1nQ7WilboHoZrM+U0zqw3tkyJGNqKUFepSeoIv2l7fKu+7hEj2eyDdNe3GN1yXlRP0zTyVvQ4gbjBg5wF70/9q9Ew28cbmVm3RrfJFFSyptxSOylRgJLc4cyQioZz57pHhVA79APITjgWLGrHCMlmm1GLfJ1TqyFAcw+rAMg5nnVN90nCnPDEH3beuoxkPMjA8dTJ5I7zlTeJKOwCpQEtxqBhOjcMcw5jxkseOLRyVLP/uurV8uK4Pe6regbJnArSHi/abVm62yAfhCnn7tLfyE98ZswjUHmp4Xjc2/ibnhPYkc7fNXZDJYr93AXk3IOeq4tBP40azILgdCafdBc3WIjs4N/YJNOGNStBfYVxoWm15t0tGOLOBlp2gjmJ2PLPDMrQPOFy4=;NVmQonNOBCQ9Pr4HiGIQ4Q=="
 ---
 

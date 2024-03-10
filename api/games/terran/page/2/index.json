@@ -220,6 +220,45 @@
       "publishedDateTime": "2022-03-04T03:13:33Z"
     },
     {
+      "path": "_games/lowkotv-clem-vs-solar-the-most-intense-terran-vs-zerg-series-starcraft-2.md",
+      "title": "CLEM vs SOLAR: The Most INTENSE Terran vs Zerg Series! (StarCraft 2)",
+      "excerpt": "Amazing series of StarCraft 2 between Clem (Terran) and Solar (Zerg). This best-of-5 match of SC2 was played during the Dreamhack Atlanta tournament, with a prize pool of $75000. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-clem-vs-solar-the-most-intense-terran-vs-zerg-series-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-clem-vs-solar-the-most-intense-terran-vs-zerg-series-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=Q6HJJL3NBTA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q6HJJL3NBTA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H15M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 84,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Q6HJJL3NBTA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-05T09:54:10Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-75000-esl-masters-grand-finals-serral-vs-gumiho-best-of-7.md",
       "title": "StarCraft 2: $75000 ESL Masters GRAND FINALS - Serral vs GuMiho! (Best-of-7)",
       "excerpt": "Best-of-7 series of top level StarCraft 2 between Serral (Zerg) and GuMiho (Terran). This series is the grand finals of the ESL StarCraft 2 Masters Summer, a premier tournament with a total price pool of $75000.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
@@ -366,44 +405,6 @@
       "publishedDateTime": "2023-07-12T11:45:37Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-marus-perfect-bunker-rush-best-of-3.md",
-      "title": "StarCraft 2: Maru's PERFECT Bunker Rush! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between Maru (Terran) and Dark (Zerg). This match of SC2 starts off with a brilliant proxy gold Hatchery counter by Maru, who checks for the base with an early game SCV. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marus-perfect-bunker-rush-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marus-perfect-bunker-rush-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=Zj5A2wPL8dc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zj5A2wPL8dc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M33S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 75,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Zj5A2wPL8dc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-22T11:29:01Z"
-    },
-    {
       "path": "_games/lowkotv-oliveiras-60-marine-swarm-vs-solar-starcraft-2.md",
       "title": "Oliveira's 60+ MARINE SWARM vs Solar!  (StarCraft 2)",
       "excerpt": "Professional match of StarCraft 2 between Oliveira (Terran) and Solar (Zerg).  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko Twitch livestream: https://twitch.tv/lowkotv Live most days",
@@ -480,37 +481,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-01-16T11:31:26Z"
-    },
-    {
-      "path": "_games/pig-florencios-ridiculous-cyclone-all-in-florencio-files-289-starcraft-2.md",
-      "title": "Florencio’s RIDICULOUS Cyclone All-In | Florencio Files #289 - StarCraft 2",
-      "excerpt": "This cyclone SCV all in is legit horrible. He somehow took a really cool build and sprinkled sewer dust all over it. I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-florencios-ridiculous-cyclone-all-in-florencio-files-289-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-florencios-ridiculous-cyclone-all-in-florencio-files-289-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=uPqwjlJKaAA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uPqwjlJKaAA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M35S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Terran"
-      ],
-      "heat": 70,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uPqwjlJKaAA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-23T00:21:09Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-pro-2v2-serral-maru-solar-oliveira-best-of-7.md",
@@ -667,6 +637,37 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-09-08T10:08:29Z"
+    },
+    {
+      "path": "_games/pig-florencios-ridiculous-cyclone-all-in-florencio-files-289-starcraft-2.md",
+      "title": "Florencio’s RIDICULOUS Cyclone All-In | Florencio Files #289 - StarCraft 2",
+      "excerpt": "This cyclone SCV all in is legit horrible. He somehow took a really cool build and sprinkled sewer dust all over it. I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-florencios-ridiculous-cyclone-all-in-florencio-files-289-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-florencios-ridiculous-cyclone-all-in-florencio-files-289-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=uPqwjlJKaAA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uPqwjlJKaAA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M35S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uPqwjlJKaAA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-23T00:21:09Z"
     },
     {
       "path": "_games/pig-when-the-protoss-is-protossing-and-you-gotta-terran-diamond-in-the-ruff-53.md",

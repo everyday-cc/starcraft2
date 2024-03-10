@@ -73,45 +73,6 @@
       "publishedDateTime": "2021-11-02T07:55:49Z"
     },
     {
-      "path": "_games/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2.md",
-      "title": "Dark faces MASS Tactical Nukes! (StarCraft 2)",
-      "excerpt": "Mass Tactical Nukes in the StarCraft 2 GSL Code S 2024 season 1 qualifiers! This is a best-of-3 series of SC2 between Dark and Bunny, a high level Zerg versus Terran. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=6pr0CZSvUyQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6pr0CZSvUyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M56S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 134,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6pr0CZSvUyQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgPChBMA8=&rs=AOn4CLBia_8m6TG5f_mVbYYiilMR4QuOSw",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-21T10:22:51Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
       "title": "StarCraft 2: SERRAL vs MARU! (Best-of-7)",
       "excerpt": "Merry Christmas everyone! The two best players currently in StarCraft 2 face off in a best-of-7 series. Serral (Zerg) takes on Maru (Terran). This is the Grand Finals of King of Battles 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
@@ -226,6 +187,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-01-04T11:07:44Z"
+    },
+    {
+      "path": "_games/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2.md",
+      "title": "Dark faces MASS Tactical Nukes! (StarCraft 2)",
+      "excerpt": "Mass Tactical Nukes in the StarCraft 2 GSL Code S 2024 season 1 qualifiers! This is a best-of-3 series of SC2 between Dark and Bunny, a high level Zerg versus Terran. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=6pr0CZSvUyQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6pr0CZSvUyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H10M56S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 120,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6pr0CZSvUyQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgPChBMA8=&rs=AOn4CLBia_8m6TG5f_mVbYYiilMR4QuOSw",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-21T10:22:51Z"
     },
     {
       "path": "_games/lowkotv-byun-surprised-by-proxy-dark-templar-into-sky-toss-starcraft-2.md",
@@ -344,6 +344,44 @@
       "publishedDateTime": "2024-02-03T09:51:23Z"
     },
     {
+      "path": "_games/lowkotv-darks-nydus-worms-gone-wild-starcraft-2.md",
+      "title": "Dark's Nydus Worms GONE WILD! (StarCraft 2)",
+      "excerpt": "Amazing series of StarCraft 2 between two of the very best pro gamers, MaxPax and Dark. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko Twitch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-darks-nydus-worms-gone-wild-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-darks-nydus-worms-gone-wild-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=wNnDoaVaKMw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wNnDoaVaKMw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M10S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wNnDoaVaKMw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-09T11:34:15Z"
+    },
+    {
       "path": "_games/lowkotv-reynors-comeback-of-the-year-vs-clem-starcraft-2-finals.md",
       "title": "Reynor's COMEBACK OF THE YEAR vs Clem! (StarCraft 2 Finals)",
       "excerpt": "Grand Finals of the StarCraft 2 ESL Open Cup 216 for the EU server between Clem (Terran) and Reynor (Zerg). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
@@ -419,45 +457,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-05-22T10:49:14Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-heros-insane-defense-vs-darks-zerg-rushes.md",
-      "title": "StarCraft 2: herO's INSANE DEFENSE vs Dark's Zerg Rushes!",
-      "excerpt": "Happy 2024! Best-of-5 series of top level StarCraft 2. This match of SC2 is the finals of the ESL Open Cup 207 between Dark (Zerg) and herO (Protoss).  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-insane-defense-vs-darks-zerg-rushes/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-insane-defense-vs-darks-zerg-rushes/",
-      "originalUrl": "https://youtube.com/watch?v=SWaXWZJ7Yo8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SWaXWZJ7Yo8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SWaXWZJ7Yo8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-12-28T10:28:11Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",

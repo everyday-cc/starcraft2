@@ -33,35 +33,6 @@
       "publishedDateTime": "2022-08-09T10:07:28Z"
     },
     {
-      "path": "_games/pig-salty-toss-clings-to-hamster-wheel-of-rage-salt-mines-51-starcraft-2.md",
-      "title": "Salty Toss clings to HAMSTER WHEEL of RAGE | Salt Mines #51 - StarCraft 2",
-      "excerpt": "Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty.   Binge the Salt Mines playlist: https://youtube.com/playlist?list=PLFUDU8AOevUePkIO6d3vLr0SSVKeZBdsZ -- 🐷 Second",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-salty-toss-clings-to-hamster-wheel-of-rage-salt-mines-51-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-salty-toss-clings-to-hamster-wheel-of-rage-salt-mines-51-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=KJS_r_P_t-M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KJS_r_P_t-M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M16S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KJS_r_P_t-M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-13T03:46:43Z"
-    },
-    {
       "path": "_games/lowkotv-oliveiras-battlecruiser-anti-timing-vs-dark-starcraft-2.md",
       "title": "Oliveira's BATTLECRUISER Anti-Timing vs Dark! (StarCraft 2)",
       "excerpt": "Professional match of StarCraft 2 between Dark (Zerg) and Oliveira (Terran). This match is easily one of the best games of SC2 I've seen recently.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
@@ -138,6 +109,35 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-01-05T20:08:23Z"
+    },
+    {
+      "path": "_games/pig-salty-toss-clings-to-hamster-wheel-of-rage-salt-mines-51-starcraft-2.md",
+      "title": "Salty Toss clings to HAMSTER WHEEL of RAGE | Salt Mines #51 - StarCraft 2",
+      "excerpt": "Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty.   Binge the Salt Mines playlist: https://youtube.com/playlist?list=PLFUDU8AOevUePkIO6d3vLr0SSVKeZBdsZ -- 🐷 Second",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-salty-toss-clings-to-hamster-wheel-of-rage-salt-mines-51-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-salty-toss-clings-to-hamster-wheel-of-rage-salt-mines-51-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=KJS_r_P_t-M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KJS_r_P_t-M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M16S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KJS_r_P_t-M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-13T03:46:43Z"
     },
     {
       "path": "_games/pig-what-happens-when-pros-have-maphacks-no-fog-of-war-mod-pigs-lab-starcraft-2.md",

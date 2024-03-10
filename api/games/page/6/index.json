@@ -698,6 +698,45 @@
       "publishedDateTime": "2024-02-22T11:57:58Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-epic-marus-battlcruisers-vs-heros-carriers.md",
+      "title": "StarCraft 2: EPIC! - Maru's Battlcruisers vs herO's Carriers!",
+      "excerpt": "Amazing best-of-5 series of top level StarCraft 2 from the ESL Masters Winter Tournament. Maru versus herO is the highest level of Terran versus Protoss between South Korean pro gamers in all of SC2.   Serral vs Maru: https://youtu.be/6NJKJ0c5coM?si=m0UrBz8XnHWYb_xt Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-marus-battlcruisers-vs-heros-carriers/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-marus-battlcruisers-vs-heros-carriers/",
+      "originalUrl": "https://youtube.com/watch?v=b3sJ7Ho7Ogo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b3sJ7Ho7Ogo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H9M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/b3sJ7Ho7Ogo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-12-28T08:50:41Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-premier-tournament-grand-finals-clem-vs-dark.md",
       "title": "StarCraft 2: Premier Tournament GRAND FINALS! (Clem vs Dark)",
       "excerpt": "Best-of-7 series of top level StarCraft 2. This SC2 match is the Grand Finals of the ESL SC2 Masters 2023 Winter, between Dark (Zerg) and Clem (Terran). Total prize pool for this event is $75000. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
@@ -1198,44 +1237,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2021-07-02T11:57:54Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-incredible-game-dark-vs-maxpax.md",
-      "title": "StarCraft 2: INCREDIBLE Game - Dark vs MaxPax!",
-      "excerpt": "Professional match of StarCraft 2 played between Dark (Zerg) and MaxPax (Protoss). This game has an incredibly scrappy ending as Dark somehow manages to stay alive and make a round of Infestors. MaxPax however has detection as well as a powerful Sky Toss army. Support my work: https://patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-game-dark-vs-maxpax/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-incredible-game-dark-vs-maxpax/",
-      "originalUrl": "https://youtube.com/watch?v=XOyns__mQSE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XOyns__mQSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XOyns__mQSE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-04T11:07:44Z"
     }
   ],
   "nextPage": 7

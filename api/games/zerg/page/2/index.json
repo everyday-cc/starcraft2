@@ -190,14 +190,14 @@
       "publishedDateTime": "2023-11-17T11:44:02Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-huge-friendly-fire-reynor-vs-clem-ept-finals.md",
-      "title": "StarCraft 2: HUGE FRIENDLY FIRE! - Reynor vs Clem! (EPT Finals)",
-      "excerpt": "Best-of-5 series between two StarCraft 2 pro gamers, Reynor and Clem. This Zerg versus Terran features some of the best gameplay possible in the ZvT matchup in SC2. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-huge-friendly-fire-reynor-vs-clem-ept-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-huge-friendly-fire-reynor-vs-clem-ept-finals/",
-      "originalUrl": "https://youtube.com/watch?v=DzUM5uOzdqg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DzUM5uOzdqg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H8M45S",
+      "path": "_games/lowkotv-starcraft-2-incredible-game-dark-vs-maxpax.md",
+      "title": "StarCraft 2: INCREDIBLE Game - Dark vs MaxPax!",
+      "excerpt": "Professional match of StarCraft 2 played between Dark (Zerg) and MaxPax (Protoss). This game has an incredibly scrappy ending as Dark somehow manages to stay alive and make a round of Infestors. MaxPax however has detection as well as a powerful Sky Toss army. Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-game-dark-vs-maxpax/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-incredible-game-dark-vs-maxpax/",
+      "originalUrl": "https://youtube.com/watch?v=XOyns__mQSE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XOyns__mQSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M43S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -214,10 +214,10 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 119,
+      "heat": 121,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/DzUM5uOzdqg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTyhAMA8=&rs=AOn4CLBT3x7R3zrH1y2-SLNg87a8BB-8_A",
+          "url": "https://i.ytimg.com/vi/XOyns__mQSE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -225,7 +225,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-01-15T09:24:19Z"
+      "publishedDateTime": "2024-01-04T11:07:44Z"
     },
     {
       "path": "_games/lowkotv-byun-surprised-by-proxy-dark-templar-into-sky-toss-starcraft-2.md",
@@ -419,6 +419,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-05-22T10:49:14Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-heros-insane-defense-vs-darks-zerg-rushes.md",
+      "title": "StarCraft 2: herO's INSANE DEFENSE vs Dark's Zerg Rushes!",
+      "excerpt": "Happy 2024! Best-of-5 series of top level StarCraft 2. This match of SC2 is the finals of the ESL Open Cup 207 between Dark (Zerg) and herO (Protoss).  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-heros-insane-defense-vs-darks-zerg-rushes/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-heros-insane-defense-vs-darks-zerg-rushes/",
+      "originalUrl": "https://youtube.com/watch?v=SWaXWZJ7Yo8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SWaXWZJ7Yo8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 111,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SWaXWZJ7Yo8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-12-28T10:28:11Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",
@@ -1081,44 +1120,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-06-20T11:52:00Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-dark-refuses-to-play-late-game-vs-cure-best-of-3.md",
-      "title": "StarCraft 2: Dark REFUSES to play Late Game vs Cure! (Best-of-3)",
-      "excerpt": "Amazing series of StarCraft 2 between Dark (Zerg) and Cure (Terran). This series was played as part of the Master's Coliseum 7 tournament, the first premier SC2 event of 2024. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-dark-refuses-to-play-late-game-vs-cure-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-dark-refuses-to-play-late-game-vs-cure-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=o-IP_SC9jWU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o-IP_SC9jWU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M54S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 78,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/o-IP_SC9jWU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-20T12:47:58Z"
     }
   ],
   "nextPage": 3

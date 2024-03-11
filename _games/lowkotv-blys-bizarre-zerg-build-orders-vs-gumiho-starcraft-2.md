@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-blys-bizarre-zerg-build-orde
 type: video
 length: PT45M17S
 publishedDateTime: 2024-02-22T11:57:58Z
-heat: 60
+heat: 68
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8JKSa62oGL8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "QmAJdF+JD9ki8no+ye+C6PqEutVy7d42PBGpWvcQFO+JNvzcCo5K//mKZJ+Y16Z0VaTBoKseF/VbPnEDfuX0nz+ihScCnp6TYWa8eaMRMA2ECSka34Qh5hViR3rgyX2SVnHDOm5+FSebDKoJ/rPI6Yi+Lhc7imOqDBiwgXmsS3S2TbWkWvkCIASmxeFgO3xMEt7Ay6vkD5Zg5e0aC5pe4oXrU7Ktyp/2DpLGY4leWiX/qYSC9gniBwXUDq9YQFNbXr1wA2QxC2z46jN/VaceoSYxhY2ZqieFdsrqKsOVHkykyi1b16khsl07ZcA5Dua8qmbOKgP7QfvQ92q/DCHykzbZaq0Bkz/vMngfZS/KQ+22DmuaN8sLvpZkd3QvkVsLjJ9t1eoNV1+1bXRmfwZZckaYUgihRdIa3xED2ldHBZc=;2g8mJiTWAHjjQA/E6sybuQ=="
+secured: "Kg9fVV9+bSoXr6nPj+9b4tN1rGxkBtFjqyoe71H2nKcUsdXcE9dQNYVeS/oB02CNC6Q8By30ENbs28IzFVS9qEhbxm2xizVB6MxB+uUHYKHaBS3oDePFQsxz0MlIppLCt4yTALm5qSszX9TnwuTyVB05kEMFvc+8BlhVY1hksetkx5WmhdCfGZAHW6itaHWdIwkOrOuDHXZINWIEg5lbncl+aYNFqBBCEg7CKrIFLlG2lH6fc1fds/j1ZzEa+rros4IulVaAPppvlJBp2RZozZQP1HrbjF8seIKJj2Jm9wonZioVl44lsRv+2P3FzKrT93kt8tluL4krinACqUETwUDvAAN4XPrVO66WNZE+vTFhKQ2Z3ORCLMjaHxpXxcZSsT4H7kSuR0r/elXP30ZcGY0nTFoVn0TW4z9BCxi3HF4=;i3gSDhVld+biUwvCXdR6gw=="
 ---
 

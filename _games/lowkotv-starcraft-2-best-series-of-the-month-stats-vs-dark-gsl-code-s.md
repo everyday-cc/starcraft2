@@ -2,6 +2,7 @@
 title: "StarCraft 2: BEST Series of the Month! - Stats vs Dark! (GSL Code S)"
 excerpt: "Amazing series of StarCraft 2 between Dark (Zerg) and Stats (Protoss). This best-of-3 match was played during the SC2 GSL Code S round-of-16.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv"
 originalUrl: https://youtube.com/watch?v=hX3oGEuB0x0
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s/
 type: video
 length: PT1H18M53S
 publishedDateTime: 2024-03-11T12:54:59Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Y3DZONeVc1loO0myjlvK+zk8B436KegvlQ1IXjiZI9DIasWzZN6iNTg/6FR0AcnZNPyik6Qwff04NMqrZl5O3Vh38fK/NfqtFa2oy0437FgXRNp1NZPrXp23avnsO4W1Iov9gP66V9gIkFkEHJfJmfTB+X2Z1RAS5he0gcXHWTD80NnJ1b/hj9Rxh+2BEIoARw8bT+7BoV+6KrdNokvLnA9tnJD95LkQzfxvBB52q6L8CtWA1DjVHD6Efa3TSwNWp0qH2zhzxDLuMHe1W6GIghiSJj1Nr8o62wDxK4zqRevg7H/ch1HP++4xpeVskbraOKnCmYipFIoTOMMWhx0dSo3GYDtNgaPLmYfgxlVO4RE1TSjxoy3nPwtOx8lDLG4VscVjicaQ8gC6WjDkKksDwg==;HzBgwjCIENDh/Al4Wb7Sdw=="
+secured: "DCvQlTARxSQ5MgO1TfkQSvfem/588VQZDiSjHqUlR+ZOYUlXTDFGMKw+ONjZ9rVsZs3228+Itg5vy7kUZ2I6BESaZP0SHu9HDNNPT1qhMUdIa+SKnqrgnNshZzW8ikJDq5FnsjmWFAJc4gbwq015PmhcIBi2Zmn7VKPQo4o9/umuB3SbEZizJbd29soHKkqzcDlS7tvtnkEYz8qRdNRWndFk2nxl8jRSgMeKyC7xPQ3PRTilbV2rETzsggUC7dksBK8PiKSWW0g+M903rH1EdwiJfcAtj4zrfnEPIR4OY655Kss1LYyX2HTMrTRn1GnabZQfyQFZ07DVKKBwgBVNirPI/Z1VFaw+9jtYat4XVqYijDiTymkM9Q90Pd3YTD0kcQBsZtn53Drp7mYFyBWSPw==;gWa3vqN5zwMax7BICOxpLg=="
 ---
 

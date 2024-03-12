@@ -4,84 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-new-base-layouts-gumiho-vs-solar-on-lazarus-wastes.md",
-      "title": "StarCraft 2: NEW Base Layouts - GuMiho vs Solar on Lazarus Wastes!",
-      "excerpt": "Lazarus Wastes is one of the winning maps in StarCraft 2 with the Team Liquid Map Contest 17 (TLMC17). Map is made by HoperONE and has a few unique features. The central terran is inspired by Dreamcatcher, a map from 2018. While the first four bases are standard, the remaining three for each player have",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-base-layouts-gumiho-vs-solar-on-lazarus-wastes/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-new-base-layouts-gumiho-vs-solar-on-lazarus-wastes/",
-      "originalUrl": "https://youtube.com/watch?v=rk0MTdp0law",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rk0MTdp0law\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M45S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 104,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rk0MTdp0law/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-11-05T11:06:24Z"
-    },
-    {
-      "path": "_games/lowkotv-serral-vs-maru-500000-sc2-grand-finals-starcraft-2.md",
-      "title": "Serral vs Maru - $500,000 SC2 Grand Finals! (StarCraft 2)",
-      "excerpt": "Professional match of StarCraft 2 between Serral and Maru from the Grand Finals of the IEM Katowice SC2 tournament. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-serral-vs-maru-500000-sc2-grand-finals-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-serral-vs-maru-500000-sc2-grand-finals-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=wiol7QL9psw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wiol7QL9psw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M40S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 98,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wiol7QL9psw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTyhNMA8=&rs=AOn4CLCZm5sNWXpVibw8SP7DGQ_nfF6S4g",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-19T12:42:03Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-super-close-astreas-offraces-terran-vs-neuro.md",
       "title": "StarCraft 2: SUPER CLOSE - Astrea's OFFRACES TERRAN vs Neuro!",
       "excerpt": "High level match of StarCraft 2 between Neuro (Zerg) and Astrea. In this game Astrea decides to play Terran rather than Protoss. This is easily one of the very best games played on the new patch with the new maps so far.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My",
@@ -218,6 +140,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-03-04T03:13:33Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-marus-perfect-bunker-rush-best-of-3.md",
+      "title": "StarCraft 2: Maru's PERFECT Bunker Rush! (Best-of-3)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Maru (Terran) and Dark (Zerg). This match of SC2 starts off with a brilliant proxy gold Hatchery counter by Maru, who checks for the base with an early game SCV. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marus-perfect-bunker-rush-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marus-perfect-bunker-rush-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=Zj5A2wPL8dc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zj5A2wPL8dc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M33S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 85,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Zj5A2wPL8dc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-22T11:29:01Z"
     },
     {
       "path": "_games/pig-angry-terran-has-the-the-wildest-insults-ive-ever-heard-salt-mines-52-starcraft-2.md",
@@ -551,6 +511,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-02-23T00:21:09Z"
+    },
+    {
+      "path": "_games/lowkotv-byun-calls-heros-insane-bluff-starcraft-2.md",
+      "title": "ByuN CALLS herO's INSANE BLUFF! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of StarCraft 2 between herO (Protoss) and ByuN (Terran). This match was played during the ESL Open Cup Korea 209, a weekly SC2 tournament. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-byun-calls-heros-insane-bluff-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-byun-calls-heros-insane-bluff-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=0HgIa8nhFHI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0HgIa8nhFHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M51S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0HgIa8nhFHI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-16T11:31:26Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-pro-2v2-serral-maru-solar-oliveira-best-of-7.md",

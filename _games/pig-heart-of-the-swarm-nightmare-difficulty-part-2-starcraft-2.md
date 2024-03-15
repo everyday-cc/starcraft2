@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/pig-heart-of-the-swarm-nightmare-dif
 type: video
 length: PT53M46S
 publishedDateTime: 2024-03-12T06:57:41Z
-heat: 172
+heat: 132
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7QquaDMKiNY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "TSGjkjn5hvwNJsoMWkSKSLxgRZwVnVhkBEpECJb9XLWzlxFc733jLRE5ZcARU/GII8Fv2s3Dl8pU/lAAlLkNV/SYg4JKgMfFWUSUb/kI+SYD8zKY1qchmKoKUK1t9TByXNjSPFzy2rQT+jXvDAZim2BkKSiZkfmfNTT6r28FIfOSm6FZBhHB0ErAReKZnIxdgr63HtJ1d/tGxc8WaeOeL5HYc1kNJ8U4NBhTcdjceAPkwaKTlh5VXWeBZVPKF/uXM33N8drswsSGctc0kc21HoT/ra6Rd1kMf10K20MOq0I1LVKvYicB67onnDcqyZbqOTWUn/HPTsA3oIPaUT7qBhpKCkuFNRcgUsqcv9Do5CC2xnDYVRhedTcik+pGwSdDEeKiK9OOKqCVwJ1Tp6dC2QrCuq6Bnz1+SLgA1T3Jjes=;ugJaJsdiwn0PV93lNzjPhw=="
+secured: "t6835C+X9KBCLyw9iFvckZIm5XJ1ZR32N0Dwz0WHzIf9uaTMOUH3S5UUqf969lPSh/fY8itBtrKDRGSbUSg7Gl62iiSRucdoKu+DTZxGDmgfHYxKmK+fOlX4K07alH1zSNweMGGKbSu3/jozzA4b0paorgINmeOD9NKQaDD42QkLJOsAnBWqUlMxcSc5B/qpqMFI/KI7L9vczDCIpN1MBmBCAb/f849X0OcHG/XKqcqOsGcBSGHElWv6AbmrYITODytb7IMRNmkMVkFa9ikDB1G3uNpRsB67nwLWus9FztH2AlLlidJiI2/f4yZyAF1/AgEkxgGr/NgIOmP70l8THm7WftjrYhMRsUmdLnYpGhOu6ovMxAjqh6uppUir9kdbo17lU8G5sFCKqxpxemj9KL8UNtKCPYElbil9b+wjDVY=;9yiqN9rFY6NrI+QcCyNgzg=="
 ---
 

@@ -1102,6 +1102,7 @@ items:
   - pig-angry-terran-has-the-the-wildest-insults-ive-ever-heard-salt-mines-52-starcraft-2
   - pig-heart-of-the-swarm-nightmare-difficulty-part-2-starcraft-2
   - pig-flo-sets-up-sick-baits-but-the-opponent-has-69-iq-florencio-files-290-starcraft-2
+  - pig-studies-show-incoherent-rage-and-sc-incompetence-is-linked-salt-mines-53
 
 topics:
   - StarCraft 2

@@ -2,6 +2,7 @@
 title: "StarCraft 2: Reynor's DOUBLE LURKER Rushes MaxPax!"
 excerpt: "Best-of-3 series of top level StarCraft 2 between MaxPax (Protoss) and Reynor (Zerg). Fantastic set of games of high level SC2 from the European server's ESL Open Cup. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv"
 originalUrl: https://youtube.com/watch?v=3oOQKD2Vbtc
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-double-lurker-rushes-maxpax/
 type: video
 length: PT49M44S
 publishedDateTime: 2024-03-16T11:15:18Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "sWt+eZgmDXqH4XVbK9z3/gw2TT64ho31H62mpUSyEk8bEbwbdhc6VHNvh4Z+ZUFaaEy60Tq59m0/PCNlte87VUeNNc5mAtfeS8B5DwyovIz+lTB6LqgFOZJLV69AuX1sazsmaDIGsAqCqADwqHBpeYV8GdpW0MkWvmjdIA1WlNGMuveoCZgi4T5UkWMvbtk+8HTEgkT+brBlVf7AbIeSvU+8oldkYI11H7KZimy8V6yZIowvrjb5dRIJclxmzro4296IK02kwjwL5FPYrBsIbLB5XKMNA8h7uWFeLGk2RdT6MuMCuqAL5z/ylCy8gkh0CezgY6g6wLkG2DhhO7LqlWjC9GI1DcE2hWdkTo4GRddCJSrccjFJUQcc2hxMehmIje4Rzlq7qyaZ5TfYi7VTyg==;RwCbKRBK4xQTvkYNMccMOQ=="
+secured: "BpQDZZZQIGZnE0fxSQN/vLSPP9UKmYzO/a4AG3sCoXoFRz0vQq0+Ft/vczdbvn43Q2lPpPCK+IAklW49qAaK4MGXK1Oc4+HpN/iUr4wrI3ebChuNkaMxtHwhDx7gCpfduO36czkPdHiuXcmd0QxUN6K3afiG3G4bCDMeafIFTppY6uIVL41icOfCXHfF88f1PnZIk6aqoJ32WCxv4wOok0g+ciswm7Fii3LnGOx6HfJIVjxlalha/0T57uqYZ5HG69eChVcgp8zax9e2pEeuX48gcIXlra7ia6m+1kPEVUAdJLopxJoDlHAqP37h3nFdUw12qACaXjUvruaYs+RG7Gq6B+j7o/qx8aZzbSnXwaJv1w3cz+82OS2BH4p2ObS3Jh0yUERBPhojxXLOsm8YuQ==;rU9HuWYk3prZBYltoDtpEQ=="
 ---
 

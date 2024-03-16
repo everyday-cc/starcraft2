@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-serral-vs-maru-500000-sc2-gr
 type: video
 length: PT42M40S
 publishedDateTime: 2024-02-19T12:42:03Z
-heat: 93
+heat: 88
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wiol7QL9psw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "m6qRhlH3yPmniEz4yAL9/SLfWyQR0XXVX/WLbbIb1LYpHWreNe9FNQ+rB+syF709MnslMzIwEP0mHplQi7+yUg89r2UkYY1ZUqvZ+4X+agW1AMk4GVW6pnRpvMdbisAeQjY7ZEXY3CpbuFNEG3LkLPn/7rjTrP+dzlK53YL3vi9KOAUKeL3DirVyteFhBogkoz85kKdI5xlrbPZX3azX+4KoORJEppESM15P71YB5ctT/uIxjHtQzxluq10ClYBnjTL0yRoNl8VtW2tRRgBFGspNSOLOTieRm6GUxWmEujGSo5nSS0EYhIgnYRc33QUZzeQXBvuaVHDBzwh8lUz5grSKFpDawdDrWa/LNfwjOi+6+zuXN0Fo/fmxEGrYmYKgpMewx4jUgdY4O3o21daYNcN3f13QyTNw1lT5XUJiIYI=;+hhlZpYCjw8QXc8cIF0YoQ=="
+secured: "Abyl/Tow5Po92Sr7p77pNorgXkk+vmFzv+PqXRuuWNSrPGZi2+fKuJamppqECLGcmJFfTABvhkhka+3ZO2w/KRjebW8hM88hQ0j7lh0em3/u1KhAc/uaN3NBODwQnRcXWUbA//6OY6i78NAbp+LmXIZadbq93BfYoJgQ+1s7Ae5kohSVNeRXNa+YW6cthWYWwhJpYU+7VoTPy5Ai5DaHdaP/xhuYcjXJSP48Ez4NUIetZk3uj3Rjvf/H5AhdQVGdus3PGOWAhW8KD8HJibVfk6lV4f4Nt8cimqNE5dW6KVVAmYwi8ubDcvB4fAZ1cR+e8+dZGFsIQ2fK+S4tkHXcvrBztYZEUpsGabp3SI1XFhK2G2kp8Ff0QpmBBhuFle8DvzmawScA5g5+L/+g6fINN3tatpPBz0nH41uEJ7sxA5c=;T00XcGrmz/sI8T8wjPBm0w=="
 ---
 

@@ -851,14 +851,14 @@
       "publishedDateTime": "2022-08-08T01:44:00Z"
     },
     {
-      "path": "_games/pig-what-is-this-ludicrous-starcraft-2-free-for-all-strategy-beast-of-the-hill-starcraft-2.md",
-      "title": "What is this LUDICROUS StarCraft 2 Free For All strategy?? | Beast of The Hill - StarCraft 2",
-      "excerpt": "PiG Casts Beast Of The Hill, a free-for-all game made by BeastyQT! This is a whole new way to play StarCraft 2 FFA, with a King-Of-The-Hill element, providing income & an additional win condition.  -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-what-is-this-ludicrous-starcraft-2-free-for-all-strategy-beast-of-the-hill-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-what-is-this-ludicrous-starcraft-2-free-for-all-strategy-beast-of-the-hill-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=K6pofWgpBs8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K6pofWgpBs8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M36S",
+      "path": "_games/pig-what-the-hell-is-this-about-tree-fiddy-icyfar-g2.md",
+      "title": "What the hell is this? | About Tree Fiddy ICYFAR G2",
+      "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider doing so through my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-what-the-hell-is-this-about-tree-fiddy-icyfar-g2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-what-the-hell-is-this-about-tree-fiddy-icyfar-g2/",
+      "originalUrl": "https://youtube.com/watch?v=8i9XnVA3-6Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8i9XnVA3-6Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M20S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -869,7 +869,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/K6pofWgpBs8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/8i9XnVA3-6Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -877,7 +877,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-09-22T13:32:37Z"
+      "publishedDateTime": "2021-06-01T12:46:41Z"
     }
   ],
   "nextPage": 101

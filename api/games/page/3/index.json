@@ -486,6 +486,44 @@
       "publishedDateTime": "2023-11-22T11:35:41Z"
     },
     {
+      "path": "_games/lowkotv-heros-mothership-recall-goes-wrong-starcraft-2.md",
+      "title": "herO's Mothership Recall GOES WRONG! (StarCraft 2)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between herO (Protoss) and Cure (Terran). This series is the finals of the ESL Open Cup Korea. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-heros-mothership-recall-goes-wrong-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-heros-mothership-recall-goes-wrong-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=lfbMocO4z_M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lfbMocO4z_M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H16M59S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 128,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lfbMocO4z_M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-16T09:06:41Z"
+    },
+    {
       "path": "_games/pig-when-winning-means-makes-you-a-devil-worshipper-salt-mines-31-starcraft-2.md",
       "title": "When winning means makes you a DEVIL WORSHIPPER?! | Salt Mines #31- StarCraft 2",
       "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
@@ -965,14 +1003,14 @@
       "publishedDateTime": "2024-02-24T12:02:37Z"
     },
     {
-      "path": "_games/lowkotv-the-worst-zerg-cheese-ive-ever-seen-starcraft-2.md",
-      "title": "The WORST Zerg Cheese... I've Ever Seen! (StarCraft 2)",
-      "excerpt": "Two incredible games of StarCraft 2. Incredible in the sense of 'incredibly bad' or 'incredibly questionable' or 'what in the incredible world were they thinking?!'. If you have played a great game of SC2 you would like me to make fun of and cast, you cansend it over to replays@lowko.tv.  Support my",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-the-worst-zerg-cheese-ive-ever-seen-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-the-worst-zerg-cheese-ive-ever-seen-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=hGlljXVMoOQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hGlljXVMoOQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M8S",
+      "path": "_games/lowkotv-cures-200-iq-empty-medivac-drop-starcraft-2.md",
+      "title": "Cure's 200+ IQ Empty Medivac Drop! (StarCraft 2)",
+      "excerpt": "Best-of-2 series of top level StarCraft 2 between SHIN (Zerg) and Cure (Terran). In this series Cure plays very differently than what he recently did against Reynor, as he decides to play an active and very cheeky style of Terran. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-cures-200-iq-empty-medivac-drop-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-cures-200-iq-empty-medivac-drop-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=9OsHyZSWkJM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9OsHyZSWkJM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M15S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -986,13 +1024,12 @@
         ]
       },
       "topics": [
-        "StarCraft 2",
-        "Zerg"
+        "StarCraft 2"
       ],
       "heat": 113,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hGlljXVMoOQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9OsHyZSWkJM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEkgSyhlMA8=&rs=AOn4CLD9mF5pW3BDaXkeWdsQvvMZpiejww",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1000,45 +1037,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-12-21T10:56:23Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-cure-did-what-vs-reynor.md",
-      "title": "StarCraft 2: Cure did WHAT vs Reynor?!",
-      "excerpt": "Professional match of StarCraft 2 between Cure (Terran) and Reynor (Zerg). This series was recently played as part of the WTL, the World Team League in SC2.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cure-did-what-vs-reynor/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cure-did-what-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=oDPxMOfsRS0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oDPxMOfsRS0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M4S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oDPxMOfsRS0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-10T14:49:13Z"
+      "publishedDateTime": "2024-01-10T15:38:01Z"
     }
   ],
   "nextPage": 4

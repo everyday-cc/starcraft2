@@ -34,45 +34,6 @@
       "publishedDateTime": "2021-11-02T07:55:49Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-maxpaxs-triple-stargate-phoenix-rush-vs-reynor-best-of-3.md",
-      "title": "StarCraft 2: MaxPax's TRIPLE STARGATE PHOENIX Rush vs Reynor! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between MaxPax (Protoss) and Reynor (Zerg). This series features a macro game as well as a focus on a cheeky Stargate opener by MaxPax, where he tries to rush out as many Phoenixes as possible with a triple Stargate start. Support my work: https://patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpaxs-triple-stargate-phoenix-rush-vs-reynor-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpaxs-triple-stargate-phoenix-rush-vs-reynor-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=iQbJkOR_oEE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iQbJkOR_oEE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M8S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 140,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iQbJkOR_oEE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-23T11:16:30Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-byun-surprised-by-proxy-dark-templar.md",
       "title": "StarCraft 2: ByuN surprised by PROXY Dark Templar!",
       "excerpt": "Best-of-3 series of StarCraft 2 between ByuN (Terran) and Creator (Protoss). This match of SC2 was played during the ESL Open Cup Korea. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second",
@@ -151,6 +112,44 @@
       "publishedDateTime": "2021-12-24T21:58:31Z"
     },
     {
+      "path": "_games/lowkotv-reynors-comeback-of-the-year-vs-clem-starcraft-2-finals.md",
+      "title": "Reynor's COMEBACK OF THE YEAR vs Clem! (StarCraft 2 Finals)",
+      "excerpt": "Grand Finals of the StarCraft 2 ESL Open Cup 216 for the EU server between Clem (Terran) and Reynor (Zerg). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-reynors-comeback-of-the-year-vs-clem-starcraft-2-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-reynors-comeback-of-the-year-vs-clem-starcraft-2-finals/",
+      "originalUrl": "https://youtube.com/watch?v=xODdqUQJOnY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xODdqUQJOnY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT58M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 126,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xODdqUQJOnY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVChMMA8=&rs=AOn4CLAHBXDuzsndSvUJefLoCX4gQ7bF5A",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-02T21:10:04Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-brilliant-reynors-double-lurker-rushes-maxpax.md",
       "title": "StarCraft 2: BRILLIANT - Reynor's DOUBLE LURKER Rushes MaxPax!",
       "excerpt": "Best-of-3 series of top level StarCraft 2 between MaxPax (Protoss) and Reynor (Zerg). Fantastic set of games of high level SC2 from the European server's ESL Open Cup. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
@@ -187,44 +186,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-03-16T11:15:18Z"
-    },
-    {
-      "path": "_games/lowkotv-reynors-comeback-of-the-year-vs-clem-starcraft-2-finals.md",
-      "title": "Reynor's COMEBACK OF THE YEAR vs Clem! (StarCraft 2 Finals)",
-      "excerpt": "Grand Finals of the StarCraft 2 ESL Open Cup 216 for the EU server between Clem (Terran) and Reynor (Zerg). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-reynors-comeback-of-the-year-vs-clem-starcraft-2-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-reynors-comeback-of-the-year-vs-clem-starcraft-2-finals/",
-      "originalUrl": "https://youtube.com/watch?v=xODdqUQJOnY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xODdqUQJOnY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT58M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 121,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xODdqUQJOnY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVChMMA8=&rs=AOn4CLAHBXDuzsndSvUJefLoCX4gQ7bF5A",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-02T21:10:04Z"
     },
     {
       "path": "_games/lowkotv-dark-goes-5-hatch-before-gas-starcraft-2.md",
@@ -301,6 +262,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-12-14T12:16:00Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-incredible-game-dark-vs-maxpax.md",
+      "title": "StarCraft 2: INCREDIBLE Game - Dark vs MaxPax!",
+      "excerpt": "Professional match of StarCraft 2 played between Dark (Zerg) and MaxPax (Protoss). This game has an incredibly scrappy ending as Dark somehow manages to stay alive and make a round of Infestors. MaxPax however has detection as well as a powerful Sky Toss army. Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-game-dark-vs-maxpax/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-incredible-game-dark-vs-maxpax/",
+      "originalUrl": "https://youtube.com/watch?v=XOyns__mQSE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XOyns__mQSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 117,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XOyns__mQSE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-04T11:07:44Z"
     },
     {
       "path": "_games/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2.md",
@@ -418,37 +417,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-05-22T10:49:14Z"
-    },
-    {
-      "path": "_games/pig-everyone-you-cant-beat-solar-hero-and-clem-in-one-tourney-astrea.md",
-      "title": "Everyone: You can't beat Solar, herO AND Clem in ONE tourney! Astrea:",
-      "excerpt": "There's a reason why anytime I host a showmatch, I ALWAYS invite Astrea - He is just TOO fun to watch. These games are from a pro tournament against low level noobs such as Solar, herO and even Clem...  -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-everyone-you-cant-beat-solar-hero-and-clem-in-one-tourney-astrea/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-everyone-you-cant-beat-solar-hero-and-clem-in-one-tourney-astrea/",
-      "originalUrl": "https://youtube.com/watch?v=1irfC_i6D4c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1irfC_i6D4c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H8M10S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1irfC_i6D4c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-18T08:31:55Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-premier-tournament-grand-finals-serral-vs-maxpax-best-of-7.md",
@@ -819,6 +787,45 @@
       "publishedDateTime": "2022-07-12T09:03:51Z"
     },
     {
+      "path": "_games/lowkotv-marus-disrespects-this-zerg-player-in-the-gsl-code-s-starcraft-2.md",
+      "title": "Maru's disrespects this Zerg player in the GSL Code S! (StarCraft 2)",
+      "excerpt": "StarCraft 2 GSL Code S match of a best-of-3 series of Zerg versus Terran between Maru (Terran) and soO (Zerg). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-marus-disrespects-this-zerg-player-in-the-gsl-code-s-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-marus-disrespects-this-zerg-player-in-the-gsl-code-s-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=qWSKWM1Ak60",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qWSKWM1Ak60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M4S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 91,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qWSKWM1Ak60/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTyhHMA8=&rs=AOn4CLCgzpWN8DfJOVUALGcdw3fsxNMVmw",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-02T09:24:05Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-75000-esl-masters-grand-finals-serral-vs-gumiho-best-of-7.md",
       "title": "StarCraft 2: $75000 ESL Masters GRAND FINALS - Serral vs GuMiho! (Best-of-7)",
       "excerpt": "Best-of-7 series of top level StarCraft 2 between Serral (Zerg) and GuMiho (Terran). This series is the grand finals of the ESL StarCraft 2 Masters Summer, a premier tournament with a total price pool of $75000.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube",
@@ -967,45 +974,6 @@
       "publishedDateTime": "2024-01-05T09:54:10Z"
     },
     {
-      "path": "_games/lowkotv-marus-disrespects-this-zerg-player-in-the-gsl-code-s-starcraft-2.md",
-      "title": "Maru's disrespects this Zerg player in the GSL Code S! (StarCraft 2)",
-      "excerpt": "StarCraft 2 GSL Code S match of a best-of-3 series of Zerg versus Terran between Maru (Terran) and soO (Zerg). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-marus-disrespects-this-zerg-player-in-the-gsl-code-s-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-marus-disrespects-this-zerg-player-in-the-gsl-code-s-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=qWSKWM1Ak60",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qWSKWM1Ak60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M4S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 85,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qWSKWM1Ak60/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTyhHMA8=&rs=AOn4CLCgzpWN8DfJOVUALGcdw3fsxNMVmw",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-02T09:24:05Z"
-    },
-    {
       "path": "_games/lowkotv-serral-vs-maru-500000-sc2-grand-finals-starcraft-2.md",
       "title": "Serral vs Maru - $500,000 SC2 Grand Finals! (StarCraft 2)",
       "excerpt": "Professional match of StarCraft 2 between Serral and Maru from the Grand Finals of the IEM Katowice SC2 tournament. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
@@ -1120,6 +1088,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-02-14T10:18:06Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-grand-finals-serral-vs-clem-best-of-7.md",
+      "title": "StarCraft 2: GRAND FINALS - Serral vs Clem! (Best-of-7)",
+      "excerpt": "Serral versus Clem in a best-of-7 series of top level StarCraft 2. This match is the Grand Finals of the ESL SC2 Masters 2023 Winter: European Regionals and displays some of the best SC2 in the world. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-grand-finals-serral-vs-clem-best-of-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-grand-finals-serral-vs-clem-best-of-7/",
+      "originalUrl": "https://youtube.com/watch?v=zHMlOnKYr3A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zHMlOnKYr3A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H9M18S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 81,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zHMlOnKYr3A/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWihZMA8=&rs=AOn4CLC9ztigNi83adE12vzWgv9r2NkmkA",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-21T11:58:57Z"
     }
   ],
   "nextPage": 3

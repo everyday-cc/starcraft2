@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=0XrfLNltJDU
 type: video
 length: PT1H17M32S
 publishedDateTime: 2023-07-07T05:18:07Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0XrfLNltJDU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "0IYgPTxSQ3xMSE5lpylUlDT3si18uQpNPj/B0EZhzbAMfLqw1TCoOs9QAPt1fFgAnXPD8pZ5vbljFnumaQWFOZQcHN1HvUJgMxaGl7WuzxHTFgy8mDmsLOz0ggWuXBTHHO7yw8tmZS+Qjq8pfuhq4E6Yodi7OMh3wTFszPM+j1C84IgWJhbbCpdqlvljNMAB0eDvjLSePMGDREbdCdWm7Q9C3vjHj3GdaAvCzzZJhXxsvxGkAzWCnKNJsnJBPUNCiX10+puotT8uX5hvZOwNuj5JzdkzZMGbVEu46U1Wxy40E0CAsJ0V9I3DuVTMIevLSXb9Hbz84HdyczC9RWecHC2xztf+0ThceS1+7l9c4xMTM9ti4/JpwOLBJwhekQFLuIGbMHUv4Ft2uIifM+JF7arBagHW61cP2zmKac7dn7Y=;VBHyAkNj4WMRU2NTHxCexA=="
+secured: "NJ/BAUph/FA13s7VqZgumKt+I0yCwp3818O4Tn41LLTNWRmrquWyoEa+EC6vHsiIbRos8Jsf5MdElZXDV01V99SR1fak4wZHNNe1R3Eaw7Vid+MhqiaFxX4GPt4Ixuximzr4dGWUiQuyIYdY2bCXq1Y7dxi0Mqil3G9/yrt3ujPKyd+Zuz9741PWIUv2WV6tg6HOO1qbi1KIYM/r6jPuo62hLB4/mt54/4Pzw6lveU5U8JzV2pQAysokuYCK7AKcT/4YkOAGcbu9tM4SpevjVrHtUMK8PIB5TBkPu07dPiT1ZvHUgIpfLvH3i0FKY+qpdrMCmWXYEbC+zSVVEvb6L9ACLYRYS/T4xPQCD+Y3Z7/lmHFRlkKxCjZgFQ4DeowzcasbVZU0Cs1BkeKGQtnAr8yk0Tyzt497hE3PQi4gCIk=;mqSYaQ56wkhfiU+XczEAeA=="
 ---
 

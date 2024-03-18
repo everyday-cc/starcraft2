@@ -80,44 +80,6 @@
       "publishedDateTime": "2024-03-16T11:15:18Z"
     },
     {
-      "path": "_games/lowkotv-serral-vs-clem-mine-out-this-huge-map-starcraft-2.md",
-      "title": "Serral vs Clem MINE OUT this huge map! (StarCraft 2)",
-      "excerpt": "Amazing game of StarCraft 2 between the best Zerg versus Terran players in the world. Clem takes on Serral in a 1v1 of StarCraft 2 in a long drawn out macro game. Maru vs SHIN: https://youtu.be/4NI5KH9Yn2U Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-serral-vs-clem-mine-out-this-huge-map-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-serral-vs-clem-mine-out-this-huge-map-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=CQaLbuYqyBs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CQaLbuYqyBs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M36S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 332,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CQaLbuYqyBs/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGE4gZShXMA8=&rs=AOn4CLDHy4TCVEfjm2q1LugtL6pOPBC1EA",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-13T12:10:01Z"
-    },
-    {
       "path": "_games/lowkotv-byun-gets-the-reaper-nerfed-again-starcraft-2.md",
       "title": "ByuN gets the Reaper nerfed... AGAIN! (StarCraft 2)",
       "excerpt": "GL HF GG Mug: https://lowko.shop/products/gl-hf-gg-mug Best-of-3 series of top level StarCraft 2 between ByuN (Terran) and Solar (Zerg). In these games ByuN decides to make Reapers... and then more Reapers... and then in the next game he decides to go more Reapers. He loves Reapers, what else can I say?",
@@ -270,6 +232,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-02-22T11:57:58Z"
+    },
+    {
+      "path": "_games/lowkotv-serral-vs-clem-mine-out-this-huge-map-starcraft-2.md",
+      "title": "Serral vs Clem MINE OUT this huge map! (StarCraft 2)",
+      "excerpt": "Amazing game of StarCraft 2 between the best Zerg versus Terran players in the world. Clem takes on Serral in a 1v1 of StarCraft 2 in a long drawn out macro game. Maru vs SHIN: https://youtu.be/4NI5KH9Yn2U Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-serral-vs-clem-mine-out-this-huge-map-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-serral-vs-clem-mine-out-this-huge-map-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=CQaLbuYqyBs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CQaLbuYqyBs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M36S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 311,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CQaLbuYqyBs/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGE4gZShXMA8=&rs=AOn4CLDHy4TCVEfjm2q1LugtL6pOPBC1EA",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-13T12:10:01Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-europes-best-terran-vs-protoss-clem-vs-maxpax.md",
@@ -1103,25 +1103,35 @@
       "publishedDateTime": "2024-02-14T10:18:06Z"
     },
     {
-      "path": "_games/pig-studies-show-incoherent-rage-and-sc-incompetence-is-linked-salt-mines-53.md",
-      "title": "Studies show incoherent RAGE and SC incompetence is linked | Salt Mines #53",
-      "excerpt": "Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty.   Binge the Salt Mines playlist: https://youtube.com/playlist?list=PLFUDU8AOevUePkIO6d3vLr0SSVKeZBdsZ -- 🐷 Second",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-studies-show-incoherent-rage-and-sc-incompetence-is-linked-salt-mines-53/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-studies-show-incoherent-rage-and-sc-incompetence-is-linked-salt-mines-53/",
-      "originalUrl": "https://youtube.com/watch?v=DwBmhjqSFA0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DwBmhjqSFA0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M15S",
+      "path": "_games/lowkotv-the-new-highest-ranked-1-terran-1-protoss-starcraft-2.md",
+      "title": "The NEW Highest Ranked #1 Terran & #1 Protoss! (StarCraft 2)",
+      "excerpt": "Professional match of StarCraft 2 between the new rank 1 Terran and the new rank 1 Protoss in the world. This match is from the ESL Open Cup Europe. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-the-new-highest-ranked-1-terran-1-protoss-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-the-new-highest-ranked-1-terran-1-protoss-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=eD5UevCxvgA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eD5UevCxvgA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M52S",
       "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
       ],
-      "heat": 237,
+      "heat": 236,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/DwBmhjqSFA0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/eD5UevCxvgA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFYgTChlMA8=&rs=AOn4CLDHWsVjV5T7D5YEfmYVFK6VESQKPQ",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1129,7 +1139,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-03-14T10:13:50Z"
+      "publishedDateTime": "2023-11-24T12:58:18Z"
     }
   ],
   "nextPage": 2

@@ -2,6 +2,7 @@
 title: "StarCraft 2: PartinG MASS SENTRY Attacks Dark?!"
 excerpt: "Best-of-3 series of professional StarCraft 2 between Dark and PartinG. This series was played in the ESL Open Cup for the North American server. In this match of SC2 the Protoss player decides to play old-school strategies versus one of the best Zergs in the world.  Support my work: https://patreon.com/lowkotv"
 originalUrl: https://youtube.com/watch?v=v5gyRij2nTE
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-parting-mass-sentry-attacks-dark/
 type: video
 length: PT20M2S
 publishedDateTime: 2024-03-18T11:26:44Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "fMEuzfuP2y5zgCiTJ9slcFCtG9XoyJuxgAFR+bkIp8AmR5kUShwIKX9Dqxd6Byro0dToCNaKuAgr1fe+V6aq/+1CRIBaLZ/2W7J0Q8eF0xTJmSuGuYgdNcnnHM7nT86Ice34HvvLXccaf6IdbLcgvqxEGkC1njWFw7deBr6siJm7/wsyDhSzmBQgmA88lJNxw8DqA+RYPAkEOrRoQFJP+AyYvd3+nKr6Z+eMNNyuMYMS3MFiwAE1Nj2Kv6AV2YwrCkhk6YYDAxvDx/QCOej/t5EDCUjyz3UHNf27QwqqyHdD2KvHK8VGWhU8m8oDzEDo6uLKYulWuDnCjxIzYRhitEsgu0MFny7uBCSwCqacdaYDgi/bgvmRHxtmpeUR42NNJKXsu5EqCMP01WQ4iEezhQ==;Vz6mJaBv/crgQtpDRoGAMg=="
+secured: "PU6zFmbtn8sF8c8jAM41laAq3jETw5pwzFRi9gy2U/QJG1oUtujJ7Z8YG+jie5Elj2OXGDJ9CNPka7HcJIhkcAGs1b9NdhVhm47ZtZhHunrP1Qu4Rd7X3Ntxi1yfC7qtt8tPwXY1LFhckbPzhd2XyWHrvGih4KM/TBXSzHVFhnEfpcI4KvNTYFumQcaOZ7wT5Dt7BD/HC/4WPkfwupBUlt0piTHwXUrmq7tLGKf9k58gbc3oKIxIcdTtjofRGFrjPKZoSk9fYS1G/ecjI3npbiSb8PBe3SA/4QfeZNlbNDmFsnaCtLeRMKZ+iT4iU+X7cgVXCQdhfA/D0lP2C75AhAX3RheSJNkwxQJ3LZVI7DeI0rfekHeiF14O1MH+a6wG;aEAxMJpDDLJP+xzxQwnVhA=="
 ---
 

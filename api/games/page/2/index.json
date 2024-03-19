@@ -323,6 +323,44 @@
       "publishedDateTime": "2022-12-07T08:59:58Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-maru-is-a-mech-monster-in-the-gsl-code-s.md",
+      "title": "StarCraft 2: Maru is a MECH MONSTER in the GSL Code S!",
+      "excerpt": "GSL Code S StarCraft 2 match between Maru and SHIN. One of the best recoveries in a pro level Terran versus Zerg I have ever seen.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maru-is-a-mech-monster-in-the-gsl-code-s/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maru-is-a-mech-monster-in-the-gsl-code-s/",
+      "originalUrl": "https://youtube.com/watch?v=4NI5KH9Yn2U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4NI5KH9Yn2U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M53S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 225,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4NI5KH9Yn2U/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEsgZShAMA8=&rs=AOn4CLA3pWFj4_AwXnOSKVBUK-RNOy1x1g",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-12T11:28:21Z"
+    },
+    {
       "path": "_games/pig-how-quickly-can-reynor-dispose-of-noobs-holdout-challenge-starcraft-2.md",
       "title": "How quickly can REYNOR dispose of noobs? | Holdout Challenge - StarCraft 2",
       "excerpt": "We paid Reynor to 1v1 noobs in StarCraft 2. The challenge: the noobs needed to stay in the match for as long as possible. How did they fare against an actual Zerg Championship player?  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j  Holdout Scoresheet:",
@@ -960,45 +998,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-11-04T03:36:28Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-scarlett-gets-recall-rushed-by-the-mothership.md",
-      "title": "StarCraft 2: Scarlett gets RECALL RUSHED by the Mothership!",
-      "excerpt": "Best-of-2 series of StarCraft 2 from the World Team League (WTL) between Scarlett (Zerg) and Goblin (Protoss) Serral vs Maru: https://youtu.be/6NJKJ0c5coM Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scarlett-gets-recall-rushed-by-the-mothership/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarlett-gets-recall-rushed-by-the-mothership/",
-      "originalUrl": "https://youtube.com/watch?v=9vkZmNBD8ME",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9vkZmNBD8ME\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M6S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 152,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9vkZmNBD8ME/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-11-18T11:54:45Z"
     }
   ],
   "nextPage": 3

@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/pig-how-did-he-make-this-salty-terra
 type: video
 length: PT33M18S
 publishedDateTime: 2023-12-22T15:35:33Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MP9g7Oq90Xg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Al03ug7yPVFPQl6whSg06NDb/b4pn6tfEeJuLMjzNYCB4FLkoc+8yI04serUIva+JtbihStSjJzI0ZgcpeS7/3v3khBvxbpdjaplKUgjGCxMKxScLQYIks4yzXQI4UaVWXkVZXifCqhCWPbupDyaFl6/X09ehguz8ybIQCNpd3J56KFhHNjoQ9Pp2FO72SYud8y2fVmddkfFbZ+q7dGubJU4KihXF3w6YRTlJtcpRY9siE79vf5wL97llFaHQsfy/g5pHdcG19XjeRqTyLuONb7scOBYTYOxCQ8IKgYpTGGSJL+ywBt612Y+nelyVQPfUUtq9mgRIFKe6SKcSa4ZLnbS3GUzMbF9LIdd52b8ONJNmc80g5a8ermO6cGN4e18koxoVut+2xffXXZFYiWLILdrCax5dECN0SmYVMrGfHU=;ZJujoy6VlJyRjSAnVHYLfA=="
+secured: "E3WEiq3JFPAhpcmoT5lNx14bVutlt55032Xp3tGXLhxOlhVnBX25tLKE1RQd1HTwuIANxDSGtTzI885x+VVxQTN3ljP8N6eHFAbw6pm6xIiYXq+2HbtlXo+c/LmCG+EaAqte1nO4lGyyR4p3eMSvbPnhnlI/7xqBl0o2EdjKN5JHZlJhP5zSl5iHIO/ZI4xoyBEMKhGF8oBK5rtRiTUJF6AbCXUS2eAOmVqSGsqyxNlVKYxhQBM+oPtiDWNoxGOSO+LVtq0CIL9BHee7f9Nis4YW4T7XA6HiggjyFj71pWJaaq1/CqnVS5jrfLAgntCYe+iuXvrFDUL1u6e0XPlafq+9fJe5b00eL5lhQSD4JBYdYJLnIriYwBhI7Er12uU9LJCnQuj3pfcgpCWrAPSiliUG0uQQ7xhRjfvhTy5ZCiE=;yN0OrjLjgc3tqHCb+//UTQ=="
 ---
 

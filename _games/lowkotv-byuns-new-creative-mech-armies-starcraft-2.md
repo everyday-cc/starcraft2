@@ -2,6 +2,7 @@
 title: "ByuN's New CREATIVE Mech Armies! (StarCraft 2)"
 excerpt: "StarCraft 2 finals of the weekly ESL Open Cup, best-of-5 series of Terran versus Zerg between ByuN and Solar. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko"
 originalUrl: https://youtube.com/watch?v=8_ym1GbzaK0
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-byuns-new-creative-mech-armies-starcraft-2/
 type: video
 length: PT45M4S
 publishedDateTime: 2024-03-19T12:27:00Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "pFSEBKqkDzs7UjumfpKXiwhUbmnFNI80tVemkopT8APUOCO00bnJJVhPgBUVGfoTtzJFr8Dna6wvxtH50vAse/nEDZXEUCUiPFMLmnP2HwN8aMLGgGIr/JwYl21bU0RSPEsBqJQETsvzohHtpnH3o5sTJaXx7GRWndBtXBqt3seN1+qg7XvLoeHIyFQ9vVffE7dAdJu8F/xg8Z0eRuIQEaBILeEnqQvKLC2TBb3v3w9GW7ePPOFVSqPFRQhYgFzE4JGeh054GZk+ojXkVKruHXFa5L3uhiakq/WrKnSCO045FVLEw1icZutqatTelXtv1PvcveFhvecBXoeGWgWQrU7it2J2J/4LXNa1HJ+1rCwF4z26B0d8mak2GvrGq1ozbQqNp+OqSZaSs7+IWBn78g==;lfpw1G4Xny8O6getqpRcOg=="
+secured: "LSd5v0xdmdMkSk5HAlpy8jOJmSdXOqoVO3hK6RUuOakyItfpoP56BjyoQuQcX5+mwFzKD2tU4wF71I5n1PXX7eSL+iPZplvHBDgLb84yAtxGNuW4GGcNnZWfK0cn/UUY4wmXrhzHdlOogAK+QpWdqlcbjIjaIMNYsjmU/v4B7trVrlDszTM2CN7TTNdaWkjwfSmvoNpvXU2U9jjW6r7HRy7uXfW+lGr1seRyWz8jCK7mbncGtEnsVyvmyyVQA/SnRtsZmtlJVjdZ8loDa79IOMaSVf7zwCtVE27z0KjaWS6WBp33kfj+Xi0ZNuLqRg9ZVdarvkb0gwpvY4L13pA5Fk7TV9umfYWPsUuH0NtTx3wU5AeV9FlyxTjkm3Ol3xZ6KdjUPyReBPdW6Qixi++fRg==;NQyfETCjD42XS0mLRRU/dw=="
 ---
 

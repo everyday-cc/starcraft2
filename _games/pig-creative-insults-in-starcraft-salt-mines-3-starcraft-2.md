@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=O-bSLmrqzf8
 type: video
 length: PT21M56S
 publishedDateTime: 2022-04-21T02:43:33Z
-heat: 54
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O-bSLmrqzf8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "A/KIF2DCdVhPnY5VtTjz7FWaQTz8Xow3gmU9DqtRVh62eXWQPiEgQ4z1Ss50FYuw+J4r2pK2ZEOYw3byr/G0Dx7LWUd8HJd+TTxtgt0OVmE2N2VwU7WORaisp3sg0YLIVt6L3B0PIR4va2+ZHEY9qVCvr9XCSf1VxGzkTUu5D5Zm42DlUH3FIDKloaIAEg9Yh1SN0YCYCYF0cRALCJl3rG7rSYwt3zlBq62jsV7V/3DjYBJ/CzsSRPOKUaMml7cD7tnJ1vUioeVmK681QVv7iZaj3Glyc0/UUKNZqakh+wkpE3UIoRCNH8b9KEG8c1oizcPB4KU45lERpzjoJrYG/sIPIKd4i0KlbLAUILTW8EoFT2Q/gpf5tQf91jbcPaZgNXU+W+XH6lcnY+axa4FazEpnj3nd2Sp13sdq+W/rpgU=;ceO1D8B0NAQybfyZXzTWHw=="
+secured: "B90LMLanu8uVCG0Db3xfVLlvDVATgbKniiyc+EL+Yp7kZ96eCnNXpbCQfyQcALW4jQrZD2juHOLPSDiHDayS3HBzz58NQvubtm+N/YWKOLDXirg1ruUmGjWe9SKAe58Wr+dVmfXkrS9K5Hlj0tfh2V5zm5Nj6sPcUbI9Hl1AzmhQ3TITJ1HfEkkHaSsrn9rd8tnGTe4/9lc824YtPTMsDWA1uLve7PZOyFWe5cC3kvuXN4bQMUt/yakcGU5GSdEKeIsSEzy3RR2IOe4fNYiDqlkzUXIpQ0QjjcatyO9O7vAzf2PJQE9s6wwR97N1g/M5IvYq7IZYvbvYIzAwnecGMXpbsnHYzljAsY9f5NW38p5xvDYxQPu/eZ+FH+ZWQZuMVfERVtkXka25imLFO6GE2iEBDokIELze/koqGnvrOEw=;ztw2rA4MBVCAC50IROSIoQ=="
 ---
 

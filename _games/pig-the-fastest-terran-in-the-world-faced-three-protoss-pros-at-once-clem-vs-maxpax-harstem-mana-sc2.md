@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=_YQJ86Ii5Mk
 type: video
 length: PT1H21M28S
 publishedDateTime: 2023-09-21T13:35:56Z
-heat: 51
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_YQJ86Ii5Mk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "mHzID8FH0AeHBT5IVG2x3MeEGX2ksZQDdAd7tcgs6wZUXOpxqbJqIdgZRjsih0siIke7lbn1kjk2y66fjtHkmMpE6XzjHgzi8ScMaVjnQO889WTVOTa/ijD1+0JcQ2OLmSzA9wJnVJw2XSNlbb+uDrwCV+eOsxZAnOg+VcYEFtYqECOyPOBMKA+9LxigSSB9xo5iQ/tOQfsAFbPLYAdTzgKg2DEb16swWinsFSNDERFyMmFRtNyyYMVVMxLmblsveMOyjxi9gEkarxNkPJ0pTaFnoLGDuvcvRiXKsI8pHZxG+Cfv62x48znkZhzCBJtXZIczBNWOkRpZm158k4yQCVTnNIpXmHhwP0SY9pyE0Ps8JUWGAKamPZikdO/1YDzgdJxYZIMHK6RFvId2kFadfA8fDZNe0SlusvQ5zkL860U=;fb6bvHuzWeeBGjqsKXxF9Q=="
+secured: "GSK/9xl+8+llP6CNq8UR5iX3f/gqIS4QFIb4UBeKhGjC3RC2ArA4DB8t08Vn0MVrpBXm9Ovj/b9DEqilfFywa3U5JzzIk/d92fCENNhnuzWLvvDmYLQ5ZpofUYj7PkxKxJvGs6pUHiKZnyigv/5DiNoQKy8bu4R0n49jrnFpz94mjJIkfwcdljIl4NoF0XAj82c1wogkWbtrW5SxC3UuaA9uMlWabrwtIgf7IIfL4TZfVvdWdsVrmBLaXab8FVl9+mvVWtM7BcBNhAPK/hIBDydY6qiECTK3jcXaJ0CSGB5RJJufCmYhNgbt8oaa2ytM7Jk1X3e+AuIIoDn6fhGt75iZq+4qVIbLlpH0DHdKE3wrL9doL+K2fldlW3AHsxufRrphQgsa3nHS6q0ghhM/S0KitBmCM+FjIt81kPiYHqQ=;x0FrfwYE4WYqmGKkVBp8gg=="
 ---
 

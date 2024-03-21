@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/24061893/starcraft-ii-5
 webUrl: "https://news.blizzard.com/en-us/starcraft2/24061893/starcraft-ii-5-0-13-ptr-patch-notes"
 type: article
 quality: 177
-heat: 197
+heat: 217
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Best RTS Games To Play If You Love Starcraft"
+    excerpt: "Many fans will be itching for a similar game to Starcraft to play with no new sequel in sight. Here are the best games to scratch that itch. StarCraft's success lies in its versatile genres like ..."
+    publishedDateTime: 2024-03-10T11:44:00Z
+    webUrl: "https://gamerant.com/best-rts-games-like-starcraft/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 77
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/the-20-best-rts-games-to-play-if-you-love-starcraft.jpg"
+        width: 1800
+        height: 900
+        isCached: true
   - title: "2000 Starcraft Co Values, Specs and Prices"
     excerpt: "Possessing a long-running history in boat construction that reaches back to 1903, Starcraft is experienced in building boats with aluminum and fiberglass hulls. Starcraft produces a wide range of watercraft, offering a diverse assortment of fishing ..."
     publishedDateTime: 2024-03-02T22:17:00Z

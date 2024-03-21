@@ -2,6 +2,7 @@
 title: "StarCraft 2: CRAZY STRATS - Astrea's Builds SHOULD NEVER work!"
 excerpt: "Best-of-3 series of professional StarCraft 2 from the ESL Open Cup between Astrea and MeomaikA. All games in this series of SC2 are played on the brand-new tournament maps. Picture of Astrea on the thumbnail of this video is from IEM Katowice 2022 and owned by ESL. Support my work: https://patreon.com/lowkotv"
 originalUrl: https://youtube.com/watch?v=YygztHmBCNg
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-crazy-strats-astreas-builds-should-never-work/
 type: video
 length: PT34M54S
 publishedDateTime: 2024-03-21T10:22:48Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ZYPosTFTAxmSruTY/UHmHu5BWQ8yL25JPN8TMrOdQmwPJkKdDI+qqBpomzmgPod3l9ALhDE8HWVf3RcNFg/P5xi5hzHQvClbAViOL/xYiN2fJQdMZ5iqLjtSZsXrISNc233ezQfia51/ha3JDe0PjTOaFeDoFKqrW2WqeYwdvdEPijRq+JVG1qeUlwfxGmsjHReqPhMaycx6/1R+QbfRz4UKRUboIEV9kvOy7fZHiNbupq8Adg2cy7+Pr1jeaUMBk1tv0iUM9x5pB2cQxwFsDZASGbqmHszppVh7eiWw5ospqSJoDMpb8o61TcTjqS7+Z2K5N4VUmBlSMrqIlfU9O/Ubx/dC/w0bhsp+FcZ/PhARKTkDXCldQmKG90ariCK1yJ4GwsEP1uwWduDtoxVJoA==;cXwq8sQkSyX3u76SxdiqEQ=="
+secured: "dRg+j2HQsKD2uUVut1gBQTYpvr4wYpydyDn3xDLZuKK6ejBsINK8VfssASW7bWrOdbcRnhcoL0EEkTQ7Tt3Omk1x1dzHONdKEumTtDMx0xaHriv4ezM593e8XTYpuxcuR2pyP578ot29/+b2w18FCxIhKl6f7oVtizduGdM6iS7WkHl9TyP0eHH3skzzlYVD3dPwXSXZSG9hiIBHlsMIRyyVUgxJqBkFj/Y72Zj97SUk7s5QHMPckWARTZgHdnFmKnUeGN3CIARlXWYT/RnsKpUCTGh81t+Diz16NTCY8O6eG6s+sdQ5qLm4dxjD7Dvr3acphTaA8+q5SzuyzSofFIw023JHqSRhuVsG73V79+UND0hvI76xcyGGdixPC9X57/zKPyAGPzN1aDQK96hVZA==;C0T92Si56DfYGOJSSRAByw=="
 ---
 

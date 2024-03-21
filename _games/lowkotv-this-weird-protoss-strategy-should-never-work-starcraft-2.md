@@ -2,6 +2,7 @@
 title: "This weird Protoss strategy SHOULD NEVER work! (StarCraft 2)"
 excerpt: "Best-of-3 series of professional StarCraft 2 from the ESL Open Cup between Astrea and MeomaikA. All games in this series of SC2 are played on the brand-new tournament maps. Picture of Astrea on the thumbnail of this video is from IEM Katowice 2022 and owned by ESL. Support my work: https://patreon.com/lowkotv"
 originalUrl: https://youtube.com/watch?v=YygztHmBCNg
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-this-weird-protoss-strategy-should-never-work-starcraft-2/
 type: video
 length: PT34M54S
 publishedDateTime: 2024-03-21T10:22:48Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "yd/XaqSyOh7xOH7oIVZYyPNmMp6iQPkNuXI3sNZS8pZFDTU7pps4ieH3A0XqG7vgBcy4gPhRm77WF9sgHA5NIGtjSuNw/1ObeQfn2C/joKFADCCq05tP0ck/sLP55HyAYEcIS2bUzKiiFegptfBc7nlyEw6MPkTMw3Qy97hTMmatK9ml3YUo5qVW8OrSDmGH6CV3mXHNjevd9xHt9iIJFrGpY2B+bfP2Eh+BGggpE/rO2pZO2QewZgQBW9yRg/uEEBSwq0Ai2xSHQitYpj8eu1WE0/we6D9rfFbegL+RNzfmncSV5G1nb0LeQy+S4AGSxumk4SsnXCFJncYj5g3mjMlNcCQY9CVnM+ejkeisbg3fjTFGwle8tszZM0RjanYyHfDd/JstFMSSftoIR+HnNw==;JFlLQ1QefT9D76naFbpHbA=="
+secured: "Gk+t1Zvm3n0BGzj/LDGFv+d+tmhFIJx72YhepHFqD8cp5uFMRqSxgDymXWR+hpgSporEi/kx+lybMLsbu2YQ4gvta030XLs2MVAba/s3Rf7tSZQJ4hpDvzrkw532L8ReAzcygcw66yq/Tr5PQi0vUo8hJNpG3crnlm3F3bxgHM6vziuvkh5Dto/3KVLFD228N+OqpCrQArKl2pnjqJly0dYFokcUREET5k6OCvLClHDYI/xK+ceiuN7o9339UwUo5QJSnLeK+LfkenP0j2D4hbueTCVP8U6cJU/+nziX7VbJ2bL6aJiZEjCcD+aNyWEBmu0LlDkg+F0/W7Jwa+Y5oUdU0x2vUGTNO64wQ3IILtFkdNthXRYSO3q/RBpufceK;VLsNhAhSdx3T9+lSQnz9MQ=="
 ---
 

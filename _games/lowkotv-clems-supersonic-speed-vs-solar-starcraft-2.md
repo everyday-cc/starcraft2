@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-clems-supersonic-speed-vs-so
 type: video
 length: PT27M
 publishedDateTime: 2024-02-20T07:49:11Z
-heat: 119
+heat: 61
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dZl4YqSxVN0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "X1cRmm0isnPIwQ/a2Rk4j2N6e/0NGiYMjyd2/px+VF+BRl8AWZNz8mbNz8OC+67Lq99vSo+wZ7/T/WuZmvS9sLZjrfxm7Xo+uplkZX9Am0Gk4GDT5S+FDA4TbGTa6w9HUZ1i6nefe5IMoWK/8krHbThDd7iVr1RPJFOzNafZ03HZpgWslEI90L8GkqY12ugEqWOcCtpVD5RfnJEafAydszzFny1rsdxJ2YpUPI9do65W4UkZtsDQRNJSI/NWv3H0GT+e/kyyIGpjzhlcUzKwYn4YmCF85HqiklvcjKR3Ay+brlt057IFe8phNp9XPOVTTNayNHQxVgxIAZgi0S8Mnv920TP8eMtE45KTFIvV9EJJ2B9ZYDuA6LwgZvs2MKlChw4WZ8Nu2PRXTSlE7hakx0hSBhhu75Y4fzOS4z8U8eE=;jsu/mvxyNTp7ZaVvnir49w=="
+secured: "JXgnUZuy++5dE78xCUuolXMt6XIE1ldlbpHI7MbjyvGnGx0L0tBmES6HWKwpjBJpCY0QM7CuGPWzUnwX6Cn7v2kygGqp9VN/pL3fFN8ETLyV5muho5e1jlywIDR30rNFjMRgufI/aC2LoRv38bbyyQ1D45OCH+gmdLCGVd2qF6pUGrWN5LIWnK/GJXl97E91BEja6Ze7YryNw0r0N1nryBeezIAMuL/Gikg4os0O/DSYImxJQHbfL5dM5OnGFu780yxbM1cJiZECD/DZbvXD516INMFAXUIn/DJKp087JRaE/Fz7OmR34KKp90Dl40jBL1zdc94CcrkcgzOcjhUx4I7cLUN3HSKdI9baPf8hHlM4Lus5AtlO1hnszXegoIzq6GAsGXLrqafEdYJ22qcDXfad3e9PUHUEBzPlKamquNM=;udZJduPOXuXrmBE+EcEkqw=="
 ---
 

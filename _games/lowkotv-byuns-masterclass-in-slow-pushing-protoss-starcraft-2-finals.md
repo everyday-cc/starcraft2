@@ -2,6 +2,7 @@
 title: "ByuN’s Masterclass in SLOW PUSHING Protoss! (StarCraft 2 Finals)"
 excerpt: "Professional series of StarCraft 2 between ByuN (Terran) and MaxPax (Protoss). This match is the finals of this week's ESL Open Cup. New StarCraft 2 patch:  https://youtu.be/dP2hx7mpZ1k?si=CvJuwObaVpVvKCVZ Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup"
 originalUrl: https://youtube.com/watch?v=M2VwLzwC4gg
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-byuns-masterclass-in-slow-pushing-protoss-starcraft-2-finals/
 type: video
 length: PT44M32S
 publishedDateTime: 2024-03-23T11:15:26Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ajzZC/mj0yZ0WE7Y3i9LGKAB+PpC+kwk5I7ke1J8U0BreWAZ73DsmtnrK7kJmjEWrUllOKxbOP3m0xgBfz4P9sMHnDLMIEzwVDjqKIyytTZBrImvfPw1JGpkvDACTcrP4J4dx30cSRzzc/y0oB2dvcJc2buqu4BkqJi4lS1JIhDsYvYwBhqMcazZpwnfFwYSptwdUZW3p1e6koX+1TC6yCYRpN+WZyDOaygTVKKNrOHr6bz3MU4GGPsG1D5FH0rvjg3dSVExqWQDmoLdMuHK+lixlA1m3URHB2V7TLW3Sa7sxkOBkGXhW0NotHlhXZ+r8G8NTiprDGR0sibOUrQkh6xErl9qvPDPfxJrdoj0OIyqFCVLjegzRSIGX486RWkMxgZ/qDpH3IB+QdSJ0Nicmw==;vK0xEpkARUdQ3derefOQkw=="
+secured: "hsjPd3omEsdqf5F0dJHsTo9JpmbASh00e+STC5yOts3PGG22QUFjZbCxRklaU0UrxHpz0MCDK9EMQBy/fvs5rvYK0cpIpSJS/7N3C8gepJukgK9razNe5uoYa39S9arz5TllNuB+uYMheZQT58Hy/dbBYbK9eN41i9Cg5wXhPWZGrdtAZy9kvqeCQbmA9xs13tiwjPE/N9ed7nBI+ou9s/cIYupdCBaTtpHs1UPABAgolj0k3knE3lM4w/Oe+o5goRn/UoiT4SZ9sJ9iRNMC7ZZnSkVtzjBQJ9Th8R4vwcQvwGDjz4plfRBDMI0Yc8HVXHIBcKtTtcoaPSHNPlFY0yd8PKolzNO4NFsaER3fiik2DjBgcABgCDvQT9YgZlVMgN5FAZ0+nkvBaNi8aH6ANQ==;FkocLtadU8x92pYF2kp41A=="
 ---
 

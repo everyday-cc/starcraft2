@@ -4,6 +4,45 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-byuns-amazing-micro-vs-classics-maxed-out-army.md",
+      "title": "StarCraft 2: ByuN's AMAZING MICRO vs Classic's Maxed Out Army!",
+      "excerpt": "Amazing game of Protoss versus Terran in StarCraft 2 between Classic and ByuN. While Classic can build up his ultimate Protoss deathball, ByuN refuses to lose to it because of ridiculously good micro.  Early morning StarCraft (video from 2013): https://youtu.be/9_8gR2crUw0  Support my work on Patreon:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-amazing-micro-vs-classics-maxed-out-army/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-amazing-micro-vs-classics-maxed-out-army/",
+      "originalUrl": "https://youtube.com/watch?v=e6InC7Cr1_U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e6InC7Cr1_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 232,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/e6InC7Cr1_U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-05-10T10:03:07Z"
+    },
+    {
       "path": "_games/pig-can-clem-1v3-the-supertoss-archon-of-3x-legendary-pros-starcraft-2.md",
       "title": "Can CLEM 1v3 The SUPERTOSS Archon of 3x Legendary Pros?? | StarCraft 2",
       "excerpt": "Clem takes on the ultimate archon - Harstem, Maxpax & Mana join forces as a Pro Protoss archon to take down the French terran. It's insane that Clem is fast enough to even compete, but can he WIN? Lets find out! -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third",
@@ -976,45 +1015,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-11-04T03:36:28Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-scarlett-gets-recall-rushed-by-the-mothership.md",
-      "title": "StarCraft 2: Scarlett gets RECALL RUSHED by the Mothership!",
-      "excerpt": "Best-of-2 series of StarCraft 2 from the World Team League (WTL) between Scarlett (Zerg) and Goblin (Protoss) Serral vs Maru: https://youtu.be/6NJKJ0c5coM Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scarlett-gets-recall-rushed-by-the-mothership/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scarlett-gets-recall-rushed-by-the-mothership/",
-      "originalUrl": "https://youtube.com/watch?v=9vkZmNBD8ME",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9vkZmNBD8ME\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M6S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 152,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9vkZmNBD8ME/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-11-18T11:54:45Z"
     }
   ],
   "nextPage": 3

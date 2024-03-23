@@ -120,6 +120,45 @@
       "publishedDateTime": "2023-08-16T11:23:14Z"
     },
     {
+      "path": "_games/lowkotv-solar-gets-terran-rushed-repeatedly-by-byun-starcraft-2.md",
+      "title": "Solar gets TERRAN RUSHED REPEATEDLY by ByuN! (StarCraft 2)",
+      "excerpt": "Best-of-5 series that's the StarCraft 2 finals of the ESL Open Cup 210 for the Korean server. This series is between ByuN (Terran) and Solar (Zerg). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-solar-gets-terran-rushed-repeatedly-by-byun-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-solar-gets-terran-rushed-repeatedly-by-byun-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=57NUag1kW00",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/57NUag1kW00\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M10S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/57NUag1kW00/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-17T10:31:41Z"
+    },
+    {
       "path": "_games/lowkotv-specials-100-cyclones-vs-elazer-starcraft-2.md",
       "title": "SpeCial's 100+ CYCLONES vs Elazer! (StarCraft  2)",
       "excerpt": "Best-of-5 series of high level StarCraft 2 on the new multiplayer balance patch with the brand-new SC2 maps! In this series between SpeCial (Terran) and Elazer (Zerg), both players try to make use of the new options that the new patch unlocked. SpeCial decides to play a variety of early game build orders",
@@ -1104,45 +1143,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-02-17T12:57:13Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-epic-semi-finals-maru-vs-hero-best-of-5.md",
-      "title": "StarCraft 2: EPIC Semi Finals - Maru vs herO! (Best-of-5)",
-      "excerpt": "The best Terran facing off against the best Protoss. This series of StarCraft 2 is the semi finals of Dreamhack Atlanta. Maru is considered to be the best Terran player of all time in SC2, and herO has once again grabbed the title of best Protoss after completing his military service some time ago. This",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-semi-finals-maru-vs-hero-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-semi-finals-maru-vs-hero-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=Z9RJVeYTDzo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z9RJVeYTDzo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H13M55S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Z9RJVeYTDzo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-11-26T12:55:34Z"
     }
   ],
   "nextPage": 16

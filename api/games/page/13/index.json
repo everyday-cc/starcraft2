@@ -4,6 +4,43 @@
   "page": 13,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-scion-custom-races-tournament-xayid-vs-keiron.md",
+      "title": "StarCraft 2: Scion CUSTOM RACES Tournament - Xayid vs Keiron!",
+      "excerpt": "Best-of-3 series of StarCraft 2 played in the Scion Custom Races Mod. In this match between eGGz and You the players play the custom made factions Xayid and Keiron. This series was played as part of the Scion cup, a tournament where players had to play one of the fan made modded races. Support my work:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-scion-custom-races-tournament-xayid-vs-keiron/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scion-custom-races-tournament-xayid-vs-keiron/",
+      "originalUrl": "https://youtube.com/watch?v=98IF1UeIehI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/98IF1UeIehI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT55M8S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/98IF1UeIehI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgVShlMA8=&rs=AOn4CLCNQcjJhUE3o2kpO8a2ySPfWIvQng",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-10-24T10:14:17Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-serral-roach-rushes-maru-best-of-3.md",
       "title": "StarCraft 2: Serral ROACH RUSHES Maru?! (Best-of-3)",
       "excerpt": "In this video, I cast a best-of-3 series of StarCraft 2 between Serral, the Finnish Zerg phenom, and Maru, the Korean Terran legend. This series was played during the Masters Coliseum 6, a prestigious tournament featuring the best players from around the world.  In this series Serral surprises Maru with",
@@ -968,35 +1005,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-01-06T07:34:18Z"
-    },
-    {
-      "path": "_games/pig-most-delusional-player-in-all-starcraft-is-back-salt-mines-46-starcraft-2.md",
-      "title": "Most Delusional Player in all StarCraft is BACK! | Salt Mines #46 - StarCraft 2",
-      "excerpt": "The FIRST EVER man to be salt mined on this channel is BACK for Salt Mines #46! Not only that, he's hosting a tournament, where all his salt has trickled into the rules. The entire thing is so ridiculous!  Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-most-delusional-player-in-all-starcraft-is-back-salt-mines-46-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-most-delusional-player-in-all-starcraft-is-back-salt-mines-46-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=f2oCdlXtSsI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f2oCdlXtSsI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M30S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/f2oCdlXtSsI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-11-02T15:57:35Z"
     }
   ],
   "nextPage": 14

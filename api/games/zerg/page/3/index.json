@@ -235,6 +235,84 @@
       "publishedDateTime": "2022-09-05T11:02:46Z"
     },
     {
+      "path": "_games/lowkotv-protoss-genius-or-fool-solar-vs-hero.md",
+      "title": "Protoss GENIUS or FOOL?! Solar vs herO",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 from the ESL Open Cup between Solar (Zerg) and herO (Protoss). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-protoss-genius-or-fool-solar-vs-hero/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-protoss-genius-or-fool-solar-vs-hero/",
+      "originalUrl": "https://youtube.com/watch?v=Z-mRnnVT7JA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z-mRnnVT7JA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M27S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Z-mRnnVT7JA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-02T21:08:20Z"
+    },
+    {
+      "path": "_games/lowkotv-serral-vs-maru-500000-sc2-grand-finals-starcraft-2.md",
+      "title": "Serral vs Maru - $500,000 SC2 Grand Finals! (StarCraft 2)",
+      "excerpt": "Professional match of StarCraft 2 between Serral and Maru from the Grand Finals of the IEM Katowice SC2 tournament. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-serral-vs-maru-500000-sc2-grand-finals-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-serral-vs-maru-500000-sc2-grand-finals-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=wiol7QL9psw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wiol7QL9psw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M40S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wiol7QL9psw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTyhNMA8=&rs=AOn4CLCZm5sNWXpVibw8SP7DGQ_nfF6S4g",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-19T12:42:03Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-solar-did-not-expect-battle-mech-from-cure-best-of-3.md",
       "title": "StarCraft 2: Solar did NOT EXPECT Battle Mech from Cure! (Best-of-3)",
       "excerpt": "GSL Code S series of Zerg vs Terran in StarCraft 2. This best-of-3 is between Cure (Terran) and Solar (Zerg). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch",
@@ -504,45 +582,6 @@
       "publishedDateTime": "2022-09-08T10:08:29Z"
     },
     {
-      "path": "_games/lowkotv-serral-vs-maru-500000-sc2-grand-finals-starcraft-2.md",
-      "title": "Serral vs Maru - $500,000 SC2 Grand Finals! (StarCraft 2)",
-      "excerpt": "Professional match of StarCraft 2 between Serral and Maru from the Grand Finals of the IEM Katowice SC2 tournament. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-serral-vs-maru-500000-sc2-grand-finals-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-serral-vs-maru-500000-sc2-grand-finals-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=wiol7QL9psw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wiol7QL9psw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M40S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wiol7QL9psw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTyhNMA8=&rs=AOn4CLCZm5sNWXpVibw8SP7DGQ_nfF6S4g",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-19T12:42:03Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-darks-queen-all-in-vs-clem-esl-finals.md",
       "title": "StarCraft 2: Dark's QUEEN ALL-IN vs Clem! (ESL Finals)",
       "excerpt": "Best-of-5 series of top level StarCraft 2 between Dark (Zerg) and Clem (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
@@ -658,6 +697,44 @@
       "publishedDateTime": "2024-01-11T15:05:52Z"
     },
     {
+      "path": "_games/lowkotv-clems-supersonic-speed-vs-solar-starcraft-2.md",
+      "title": "Clem's SUPERSONIC Speed vs Solar! (StarCraft 2)",
+      "excerpt": "Amazing game of StarCraft 2 from the IEM Katowice SC2 tournament between Solar and Clem. Both players in this match play incredibly fast, with APM reaching over 1000 (!) at some moments. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-clems-supersonic-speed-vs-solar-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-clems-supersonic-speed-vs-solar-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=dZl4YqSxVN0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dZl4YqSxVN0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dZl4YqSxVN0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChKMA8=&rs=AOn4CLDACxoz2AkgsEybQx4VtSR1IlwsLQ",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-20T07:49:11Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-serral-zerg-rushes-hero.md",
       "title": "StarCraft 2: Serral ZERG RUSHES herO!",
       "excerpt": "Easily the most painful game of StarCraft 2 I've seen in a long time. This game between Serral and herO features the biggest throw in a pro game of 2024 so far. Reynor's Protoss vs Serral: https://youtu.be/Ayg4tUhwMjM Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech",
@@ -734,45 +811,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-02-28T08:20:44Z"
-    },
-    {
-      "path": "_games/lowkotv-protoss-genius-or-fool-solar-vs-hero.md",
-      "title": "Protoss GENIUS or FOOL?! Solar vs herO",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 from the ESL Open Cup between Solar (Zerg) and herO (Protoss). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-protoss-genius-or-fool-solar-vs-hero/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-protoss-genius-or-fool-solar-vs-hero/",
-      "originalUrl": "https://youtube.com/watch?v=Z-mRnnVT7JA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z-mRnnVT7JA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M27S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Z-mRnnVT7JA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-02T21:08:20Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-reynor-vs-spirit-is-the-longest-match-in-years.md",
@@ -888,83 +926,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-01-30T09:34:33Z"
-    },
-    {
-      "path": "_games/lowkotv-clems-supersonic-speed-vs-solar-starcraft-2.md",
-      "title": "Clem's SUPERSONIC Speed vs Solar! (StarCraft 2)",
-      "excerpt": "Amazing game of StarCraft 2 from the IEM Katowice SC2 tournament between Solar and Clem. Both players in this match play incredibly fast, with APM reaching over 1000 (!) at some moments. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-clems-supersonic-speed-vs-solar-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-clems-supersonic-speed-vs-solar-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=dZl4YqSxVN0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dZl4YqSxVN0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dZl4YqSxVN0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChKMA8=&rs=AOn4CLDACxoz2AkgsEybQx4VtSR1IlwsLQ",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-20T07:49:11Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero.md",
-      "title": "StarCraft 2: GAME OF THE YEAR? - Reynor vs herO!",
-      "excerpt": "Insanely good game of StarCraft 2 between Reynor (Zerg) and herO (Protoss). This match features a comeback that we rarely see at this level of SC2. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero/",
-      "originalUrl": "https://youtube.com/watch?v=utciQXyMw8Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/utciQXyMw8Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/utciQXyMw8Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-03T10:31:38Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-maxpaxs-triple-stargate-phoenix-rush-vs-reynor-best-of-3.md",
@@ -1204,6 +1165,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-12-05T10:51:53Z"
+    },
+    {
+      "path": "_games/lowkotv-can-clem-destroy-serral-starcraft-2.md",
+      "title": "Can Clem DESTROY Serral?! (StarCraft 2)",
+      "excerpt": "Ever since winning ESL Winter last month, Clem has been on a new all-time high. He's destroying all competition left right and center and is looking better than ever before. In this best-of-2 series of top level StarCraft 2 Clem takes on Serral, the highest ranked player in the world. Support my work:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-can-clem-destroy-serral-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-can-clem-destroy-serral-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=Bsz8f5lo8YA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bsz8f5lo8YA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M19S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Bsz8f5lo8YA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-09T09:42:29Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-takes-on-the-world-champion-best-of-5.md",

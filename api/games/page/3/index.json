@@ -418,14 +418,14 @@
       "publishedDateTime": "2021-12-24T21:58:31Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s.md",
-      "title": "StarCraft 2: BEST Series of the Month! - Stats vs Dark! (GSL Code S)",
-      "excerpt": "Amazing series of StarCraft 2 between Dark (Zerg) and Stats (Protoss). This best-of-3 match was played during the SC2 GSL Code S round-of-16.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s/",
-      "originalUrl": "https://youtube.com/watch?v=hX3oGEuB0x0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hX3oGEuB0x0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H18M53S",
+      "path": "_games/lowkotv-heros-mothership-recall-goes-wrong-starcraft-2.md",
+      "title": "herO's Mothership Recall GOES WRONG! (StarCraft 2)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between herO (Protoss) and Cure (Terran). This series is the finals of the ESL Open Cup Korea. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-heros-mothership-recall-goes-wrong-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-heros-mothership-recall-goes-wrong-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=lfbMocO4z_M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lfbMocO4z_M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H16M59S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -440,13 +440,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
-        "Zerg"
+        "Protoss"
       ],
-      "heat": 129,
+      "heat": 128,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hX3oGEuB0x0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDAgZSg4MA8=&rs=AOn4CLD03g7vsqkP90QMUZXc5r8ndJFhJA",
+          "url": "https://i.ytimg.com/vi/lfbMocO4z_M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -454,7 +453,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-03-11T12:54:59Z"
+      "publishedDateTime": "2024-01-16T09:06:41Z"
     },
     {
       "path": "_games/pig-when-winning-means-makes-you-a-devil-worshipper-salt-mines-31-starcraft-2.md",
@@ -545,45 +544,6 @@
       "publishedDateTime": "2024-03-16T11:15:18Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-simply-amazing-maru-vs-dark-best-of-7.md",
-      "title": "StarCraft 2: SIMPLY AMAZING -  Maru vs Dark! (Best-of-7)",
-      "excerpt": "Best-of-7 series of StarCraft 2 between Maru versus Dark, two of the best players in all of SC2. In this match they go toe-to-toe in an epic series. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-simply-amazing-maru-vs-dark-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-simply-amazing-maru-vs-dark-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=ZAN3yhKvOVc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZAN3yhKvOVc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H22M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 124,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZAN3yhKvOVc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVShVMA8=&rs=AOn4CLAt1vsrL_-QxtTQfJ-qqRx-3g7yWQ",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-03T09:51:23Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-lowkos-mass-hydra-vs-terran-mech.md",
       "title": "StarCraft 2: Lowko's MASS HYDRA vs Terran Mech?!",
       "excerpt": "Live gameplay of a Zerg vs Terran in StarCraft 2. In this game Lowko faces off against a Terran who decides to play Battle Mech into Ghost Mech. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  00:00 The StarCraft 2 Forums 02:49 Live Game of Zerg vs Terran 24:14 Game analysis",
@@ -661,14 +621,14 @@
       "publishedDateTime": "2023-11-17T11:44:02Z"
     },
     {
-      "path": "_games/lowkotv-can-clem-destroy-serral-starcraft-2.md",
-      "title": "Can Clem DESTROY Serral?! (StarCraft 2)",
-      "excerpt": "Ever since winning ESL Winter last month, Clem has been on a new all-time high. He's destroying all competition left right and center and is looking better than ever before. In this best-of-2 series of top level StarCraft 2 Clem takes on Serral, the highest ranked player in the world. Support my work:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-can-clem-destroy-serral-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-can-clem-destroy-serral-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=Bsz8f5lo8YA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bsz8f5lo8YA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M19S",
+      "path": "_games/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s.md",
+      "title": "StarCraft 2: BEST Series of the Month! - Stats vs Dark! (GSL Code S)",
+      "excerpt": "Amazing series of StarCraft 2 between Dark (Zerg) and Stats (Protoss). This best-of-3 match was played during the SC2 GSL Code S round-of-16.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s/",
+      "originalUrl": "https://youtube.com/watch?v=hX3oGEuB0x0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hX3oGEuB0x0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H18M53S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -683,12 +643,13 @@
       },
       "topics": [
         "StarCraft 2",
+        "Protoss",
         "Zerg"
       ],
-      "heat": 118,
+      "heat": 120,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Bsz8f5lo8YA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hX3oGEuB0x0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDAgZSg4MA8=&rs=AOn4CLD03g7vsqkP90QMUZXc5r8ndJFhJA",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -696,7 +657,46 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-01-09T09:42:29Z"
+      "publishedDateTime": "2024-03-11T12:54:59Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero.md",
+      "title": "StarCraft 2: GAME OF THE YEAR? - Reynor vs herO!",
+      "excerpt": "Insanely good game of StarCraft 2 between Reynor (Zerg) and herO (Protoss). This match features a comeback that we rarely see at this level of SC2. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero/",
+      "originalUrl": "https://youtube.com/watch?v=utciQXyMw8Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/utciQXyMw8Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M52S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 120,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/utciQXyMw8Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-03T10:31:38Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-maxpaxs-incredible-stalker-micro-esl-finals.md",
@@ -870,43 +870,6 @@
       "publishedDateTime": "2024-02-15T11:45:46Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-clems-50-liberator-army.md",
-      "title": "StarCraft 2: Clem's 50(!) LIBERATOR Army!",
-      "excerpt": "Professional match of StarCraft 2 between Clem (Terran) and Trigger (Protoss). A great macro game between two pro gamers. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-clems-50-liberator-army/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-clems-50-liberator-army/",
-      "originalUrl": "https://youtube.com/watch?v=4G9437zCc_Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4G9437zCc_Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M15S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 113,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4G9437zCc_Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-10T14:50:00Z"
-    },
-    {
       "path": "_games/lowkotv-byuns-ultimate-slow-push-vs-maxpax-starcraft-2-finals.md",
       "title": "ByuN's ULTIMATE Slow Push vs MaxPax! (StarCraft 2 Finals)",
       "excerpt": "Professional series of StarCraft 2 between ByuN (Terran) and MaxPax (Protoss). This match is the finals of this week's ESL Open Cup. New StarCraft 2 patch:  https://youtu.be/dP2hx7mpZ1k?si=CvJuwObaVpVvKCVZ Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
@@ -1021,25 +984,34 @@
       "publishedDateTime": "2021-10-12T10:02:20Z"
     },
     {
-      "path": "_games/pig-wtfffffff-heart-of-the-swarm-nightmare-difficulty-part-3-starcraft-2.md",
-      "title": "WTFFFFFFF! Heart of the Swarm NIGHTMARE DIFFICULTY: Part 3 - StarCraft 2",
-      "excerpt": "My first try at Heart of the Swarm Nightmare Difficulty StarCraft 2 Campaign created by Rhyme! I actually didn't like the original HotS campaign much because it was too easy and too Diablo-esque mechanics. I've been told this Nighmare Difficulty mod will change my mind though - can't wait!  Here's a",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-wtfffffff-heart-of-the-swarm-nightmare-difficulty-part-3-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-wtfffffff-heart-of-the-swarm-nightmare-difficulty-part-3-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=uk_1gfrnhVs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uk_1gfrnhVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H14M34S",
+      "path": "_games/lowkotv-gumihos-epic-battlecruiser-switch-surprises-astrea-starcraft-2.md",
+      "title": "Gumiho's Epic BATTLECRUISER Switch Surprises Astrea! (StarCraft 2)",
+      "excerpt": "Best-of-3 series from the Korean StarCraft League between Astrea (Protoss) and GuMiho (Terran). Both of these players are very creative with their decision making and strategies, and this series is no different. A very cheesy start catches Astrea off guard, but his quick Sentry rush helps him survive",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-gumihos-epic-battlecruiser-switch-surprises-astrea-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-gumihos-epic-battlecruiser-switch-surprises-astrea-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=9_J48-YG6Xs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9_J48-YG6Xs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M57S",
       "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Terran"
       ],
-      "heat": 110,
+      "heat": 108,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/uk_1gfrnhVs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9_J48-YG6Xs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1047,7 +1019,46 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-03-12T07:26:33Z"
+      "publishedDateTime": "2023-08-25T11:00:16Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",
+      "title": "StarCraft 2: soO's Spine Crawler Rush vs Zest! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between soO (Zerg) and Zest (Protoss). After macro games soO decides to go for a Spine Crawler rush versus Zest.  soO vs Cure: https://youtu.be/EfILZ7FPv70 soO vs ByuN: https://youtu.be/mSL43Z7w6A4  Support my work on Patreon: https://www.patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=nQJJ-2RhILc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nQJJ-2RhILc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 108,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nQJJ-2RhILc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-05-23T18:16:38Z"
     }
   ],
   "nextPage": 4

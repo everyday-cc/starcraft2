@@ -4,6 +4,45 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/lowkotv-clem-vs-maxpax-grand-finals-ultimate-terran-vs-protoss-showdown-starcraft-2.md",
+      "title": "Clem vs MaxPax GRAND FINALS - Ultimate Terran vs Protoss Showdown! (StarCraft 2)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 that is the finals of the ESL Open Cup 191 for the European region and server. In this series we watch MaxPax (Protoss) and Clem (Terran) play an incredible close match, as both players are evenly matched and capable of winning at any time. Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-clem-vs-maxpax-grand-finals-ultimate-terran-vs-protoss-showdown-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-clem-vs-maxpax-grand-finals-ultimate-terran-vs-protoss-showdown-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=M4eV6AD2OjU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M4eV6AD2OjU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H10M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M4eV6AD2OjU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-09-11T10:57:31Z"
+    },
+    {
       "path": "_games/lowkotv-oliveiras-battlecruiser-anti-timing-vs-dark-starcraft-2.md",
       "title": "Oliveira's BATTLECRUISER Anti-Timing vs Dark! (StarCraft 2)",
       "excerpt": "Professional match of StarCraft 2 between Dark (Zerg) and Oliveira (Terran). This match is easily one of the best games of SC2 I've seen recently.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
@@ -41,45 +80,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-11-29T11:21:59Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho.md",
-      "title": "StarCraft 2: Marine BLOOD BATH! (herO vs GuMiho)",
-      "excerpt": "StarCraft 2 ESL Open Cup 215 Grand Finals for the Korean server. In this series of Terran versus Protoss we watch GuMiho play hyper aggressive Terran strategies versus herO. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho/",
-      "originalUrl": "https://youtube.com/watch?v=DK68MQv_9QE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DK68MQv_9QE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M14S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DK68MQv_9QE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-26T11:34:09Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-pro-2v2-serral-maru-solar-oliveira-best-of-7.md",

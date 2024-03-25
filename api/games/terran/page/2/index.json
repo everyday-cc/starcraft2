@@ -4,45 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2.md",
-      "title": "Dark faces MASS Tactical Nukes! (StarCraft 2)",
-      "excerpt": "Mass Tactical Nukes in the StarCraft 2 GSL Code S 2024 season 1 qualifiers! This is a best-of-3 series of SC2 between Dark and Bunny, a high level Zerg versus Terran. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=6pr0CZSvUyQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6pr0CZSvUyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M56S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 103,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6pr0CZSvUyQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgPChBMA8=&rs=AOn4CLBia_8m6TG5f_mVbYYiilMR4QuOSw",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-21T10:22:51Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-super-close-astreas-offraces-terran-vs-neuro.md",
       "title": "StarCraft 2: SUPER CLOSE - Astrea's OFFRACES TERRAN vs Neuro!",
       "excerpt": "High level match of StarCraft 2 between Neuro (Zerg) and Astrea. In this game Astrea decides to play Terran rather than Protoss. This is easily one of the very best games played on the new patch with the new maps so far.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My",
@@ -490,45 +451,6 @@
       "publishedDateTime": "2024-02-19T12:42:03Z"
     },
     {
-      "path": "_games/lowkotv-marus-disrespects-this-zerg-player-in-the-gsl-code-s-starcraft-2.md",
-      "title": "Maru's disrespects this Zerg player in the GSL Code S! (StarCraft 2)",
-      "excerpt": "StarCraft 2 GSL Code S match of a best-of-3 series of Zerg versus Terran between Maru (Terran) and soO (Zerg). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-marus-disrespects-this-zerg-player-in-the-gsl-code-s-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-marus-disrespects-this-zerg-player-in-the-gsl-code-s-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=qWSKWM1Ak60",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qWSKWM1Ak60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M4S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 67,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qWSKWM1Ak60/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTyhHMA8=&rs=AOn4CLCgzpWN8DfJOVUALGcdw3fsxNMVmw",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-02T09:24:05Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-innovation.md",
       "title": "StarCraft 2: Serral vs INnoVation!",
       "excerpt": "Who is the greatest StarCraft 2 player of all time? In the beginning of this game between Serral and INnoVation I discuss the players that are in my opinion up for the title of being the Greatest Of All Time.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community",
@@ -605,6 +527,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-09-08T10:08:29Z"
+    },
+    {
+      "path": "_games/lowkotv-marus-disrespects-this-zerg-player-in-the-gsl-code-s-starcraft-2.md",
+      "title": "Maru's disrespects this Zerg player in the GSL Code S! (StarCraft 2)",
+      "excerpt": "StarCraft 2 GSL Code S match of a best-of-3 series of Zerg versus Terran between Maru (Terran) and soO (Zerg). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-marus-disrespects-this-zerg-player-in-the-gsl-code-s-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-marus-disrespects-this-zerg-player-in-the-gsl-code-s-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=qWSKWM1Ak60",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qWSKWM1Ak60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M4S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qWSKWM1Ak60/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTyhHMA8=&rs=AOn4CLCgzpWN8DfJOVUALGcdw3fsxNMVmw",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-02T09:24:05Z"
     },
     {
       "path": "_games/lowkotv-oliveiras-battlecruiser-anti-timing-vs-dark-starcraft-2.md",
@@ -1819,6 +1780,45 @@
       ],
       "content": "",
       "type": "collection"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-this-is-starcraft-in-2024-maru-vs-serral.md",
+      "title": "StarCraft 2: THIS is StarCraft in 2024! (Maru vs Serral)",
+      "excerpt": "Amazing match of StarCraft 2 between Maru (Terran) and Serral (Zerg). It really doesn't get much better than these two playing against each other. What an amazing match of Terran versus Zerg. A late game war over the final resources on the map. Support my work: https://patreon.com/lowkotv  Lowko merch:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-this-is-starcraft-in-2024-maru-vs-serral/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-this-is-starcraft-in-2024-maru-vs-serral/",
+      "originalUrl": "https://youtube.com/watch?v=_8CklxD4I88",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_8CklxD4I88\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M59S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_8CklxD4I88/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-30T09:34:33Z"
     },
     {
       "path": "_games/sc2hl-marus-mass-ghost-strategy-starcraft-2-maru-vs-solar.md",

@@ -2,6 +2,7 @@
 title: "MaxPax Mass ZEALOT RUSHES Reynor?! (StarCraft 2)"
 excerpt: "StarCraft 2 series of top level SC2 from the ESL Open Cup Europe between MaxPax (Protoss) and Reynor (Zerg). This series features some strange new Protoss build orders. Some I love, others not so much. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup"
 originalUrl: https://youtube.com/watch?v=YvPBY5yB3nw
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-maxpax-mass-zealot-rushes-reynor-starcraft-2/
 type: video
 length: PT33M10S
 publishedDateTime: 2024-03-25T11:03:12Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "x/mD1iLS/Mc8g3FhktMilQbN0V9jTwgQ84ajPGdsgBeT/c8RIkjvfvrXCIwwgesFAjzletlTaqEIeO0qq6OMieGbrfnk1BxUGZ918Y9mOJt13hUOXkCNJIoHafTH4s+o6mNnjGSZL5IDZsATLKWDgiMZBBkqlOTFrFzDJEgINoocOiq8E5+HIE+u2Lo2uMw540sTBv8T71UXyPTyoiqT7UcSP9OJXQ+z8f5SEu/aMckEn4Hi08qSXbvuV2ngM0HuydR6F5gBTdUdFcku7x6uBRfBX1YY3+a1l3bwGvEIJEkTfm9sLAAPT4o8mtmteF/LtF0wkz9W09yENilT10xw+vOgxFl1GhsLQWJokM1khb5T0fa0Cp0R/KRpM+hrwtdHWuwNa+CjOTw3azC1sZYG6Q==;EQpnAKnVxUO9Kht3dywjgw=="
+secured: "EZIsXxdYChtNAnMwiXm/pty88ipT54tpTOWcT5BncMQR2HFFDKqVHac6nWJ4aJ8D+34ZBuP7WSBh2VCrNppJ9vpUIwuawOLARejBrDAPdqQ4YsstA2Uk/fDsqlRI8Y4rHUZ4C+65DyWKuRrQ+25Lv3TQIarfgeGDY2UpR5xN7A+DLNStqGCIKgTOUFuER2Y+TPRgiElXkqW3ob2DtlQfvM0SB7qhsgp+P4SJj77FlRlQ0QjJABlUBZg2BWJeeX1VNaWoaYFAACjJ9EscvUOyMJtaMHIKNb2UGTkSadxGA3Q6MrHqRtJW7p3L5wu4CVZb8q304UWfdH50p5PZIiTlWqW8nvXIH3oxocstWh3lJosn5+a/hlVK1eVn7OPPdXqUifS+C+TmPE7DvO6R/H0uvA==;sMos8fCRvLJxxvIg7nJkFg=="
 ---
 

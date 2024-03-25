@@ -118,44 +118,6 @@
       "publishedDateTime": "2021-07-29T11:34:49Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-return-of-the-legendary-world-champion-protoss.md",
-      "title": "StarCraft 2: Return of the LEGENDARY World Champion Protoss!",
-      "excerpt": "PartinG is back! One of StarCraft 2's most accomplished pro gamers has returned from his military service in South Korea. He was forced to retire in 2021, but has now returned to the game. In this series from the Korean Starcraft League (KSL) he's facing off against the Chinese Terran player Coffee.",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-return-of-the-legendary-world-champion-protoss/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-return-of-the-legendary-world-champion-protoss/",
-      "originalUrl": "https://youtube.com/watch?v=aUmf0m1MT3E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aUmf0m1MT3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M41S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aUmf0m1MT3E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-03T11:51:52Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-serrals-spine-rushes-reynor-best-of-5.md",
       "title": "StarCraft 2: Serral's SPINE RUSHES Reynor! (Best-of-5)",
       "excerpt": "Best-of-5 series of top level StarCraft 2 between Reynor (Zerg) and Serral (Zerg). This match is from the ESL SC2 Masters Winter Europe Regionals. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
@@ -1030,6 +992,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2021-08-28T07:58:30Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-cure-did-what-vs-reynor.md",
+      "title": "StarCraft 2: Cure did WHAT vs Reynor?!",
+      "excerpt": "Professional match of StarCraft 2 between Cure (Terran) and Reynor (Zerg). This series was recently played as part of the WTL, the World Team League in SC2.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cure-did-what-vs-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cure-did-what-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=oDPxMOfsRS0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oDPxMOfsRS0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M4S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oDPxMOfsRS0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-10T14:49:13Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-epic-serrals-unexpected-nydus-vs-clem-best-of-5.md",

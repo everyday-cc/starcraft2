@@ -4,44 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_games/lowkotv-darks-zerg-rush-proxy-hatcheries-best-of-3.md",
-      "title": "Dark's ZERG RUSH Proxy Hatcheries! (Best-of-3)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between Dark (Zerg) and NightMare (Protoss). In this series Dark decides to play some questionable strategies against his Protoss opponent but as per usual he somehow makes it work. A proxy hatchery is a strategy where a Zerg player builds a Hatchery near the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-darks-zerg-rush-proxy-hatcheries-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-darks-zerg-rush-proxy-hatcheries-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=wBAEBaUcmlY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wBAEBaUcmlY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M10S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wBAEBaUcmlY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-12-14T12:16:00Z"
-    },
-    {
       "path": "_games/lowkotv-reynors-protoss-vs-solar-in-a-75000-tournament-starcraft-2.md",
       "title": "Reynor's Protoss vs Solar in a $75000 Tournament! (StarCraft 2)",
       "excerpt": "Serral vs Reynor: https://youtu.be/Ayg4tUhwMjM?si=ng2dXD73zDGkFl8d Best-of-3 series of top level StarCraft 2 between Reynor and Solar. Rather than playing Zerg, Reynor decided to switch to Protoss in this match. Series from the ESL Masters Winter tournament, from the Winner's Stage.  Support my work:",
@@ -272,6 +234,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2021-08-28T07:58:30Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-cure-did-what-vs-reynor.md",
+      "title": "StarCraft 2: Cure did WHAT vs Reynor?!",
+      "excerpt": "Professional match of StarCraft 2 between Cure (Terran) and Reynor (Zerg). This series was recently played as part of the WTL, the World Team League in SC2.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-cure-did-what-vs-reynor/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-cure-did-what-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=oDPxMOfsRS0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oDPxMOfsRS0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M4S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oDPxMOfsRS0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-10T14:49:13Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-epic-serrals-unexpected-nydus-vs-clem-best-of-5.md",

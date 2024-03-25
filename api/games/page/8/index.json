@@ -414,6 +414,45 @@
       "publishedDateTime": "2024-01-23T11:16:30Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-reynors-late-game-war-vs-showtime.md",
+      "title": "StarCraft 2: Reynor's Late Game WAR  vs ShoWTimE!",
+      "excerpt": "Best-of-3 series of top level European StarCraft 2 that's a qualification match for the Masters Coliseum 7, the first premier SC2 tournament of 2024. In this video I cast a series of Zerg versus Protoss between Reynor and ShoWTimE. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynors-late-game-war-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-late-game-war-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=Mjo5zpxy5lY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mjo5zpxy5lY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT53M52S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Mjo5zpxy5lY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-07T22:11:20Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-weird-new-maps-byun-vs-hero-3000-grand-finals.md",
       "title": "StarCraft 2: WEIRD New MAPS - ByuN vs herO $3000 Grand Finals!",
       "excerpt": "Grand Finals of the Team Liquid Map Contest! In this best-of-5 series of StarCraft 2 I cast ByuN (Terran) and herO (Protoss) as they face off on strange new maps from the TLMC. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
@@ -1171,44 +1210,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-01-05T20:11:54Z"
-    },
-    {
-      "path": "_games/lowkotv-reynors-unexpected-sky-toss-switches-vs-scarlett-best-of-3.md",
-      "title": "Reynor's UNEXPECTED Sky Toss Switches vs Scarlett! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between Reynor and Scarlett. In this series Reynor decides to play Protoss, rather than make this a Zerg versus Zerg.  Reynor's Protoss vs Serral: https://youtu.be/Ayg4tUhwMjM Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-reynors-unexpected-sky-toss-switches-vs-scarlett-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-reynors-unexpected-sky-toss-switches-vs-scarlett-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=Vd9zA9xDXXg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vd9zA9xDXXg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M3S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Vd9zA9xDXXg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEMgZShjMA8=&rs=AOn4CLARVAoJy5T8qvTt9OByt3TwgJmItw",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-12-08T12:55:03Z"
     }
   ],
   "nextPage": 9

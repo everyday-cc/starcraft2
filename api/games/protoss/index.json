@@ -29,7 +29,7 @@
         "Terran",
         "Protoss"
       ],
-      "heat": 391,
+      "heat": 337,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/M2VwLzwC4gg/maxresdefault.jpg",
@@ -577,45 +577,6 @@
       "publishedDateTime": "2023-11-22T11:35:41Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-parting-mass-sentry-attacks-dark.md",
-      "title": "StarCraft 2: PartinG MASS SENTRY Attacks Dark?!",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between Dark and PartinG. This series was played in the ESL Open Cup for the North American server. In this match of SC2 the Protoss player decides to play old-school strategies versus one of the best Zergs in the world.  Support my work: https://patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-parting-mass-sentry-attacks-dark/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-parting-mass-sentry-attacks-dark/",
-      "originalUrl": "https://youtube.com/watch?v=v5gyRij2nTE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v5gyRij2nTE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M2S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 166,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/v5gyRij2nTE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-18T11:26:44Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-proxy-nexus-into-mass-sentry.md",
       "title": "StarCraft 2: Proxy NEXUS into Mass SENTRY!",
       "excerpt": "Two viewer submitted games of StarCraft 2, with some of the strangest strategies that I've ever seen. Proxy Refinery and a Proxy Nexus?!  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  00:00 Proxy Refinery 12:07 Proxy Nexus  My YouTube channels: https://youtube.com/lowkotv",
@@ -693,6 +654,45 @@
       "publishedDateTime": "2023-11-18T11:54:45Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-parting-mass-sentry-attacks-dark.md",
+      "title": "StarCraft 2: PartinG MASS SENTRY Attacks Dark?!",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between Dark and PartinG. This series was played in the ESL Open Cup for the North American server. In this match of SC2 the Protoss player decides to play old-school strategies versus one of the best Zergs in the world.  Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-parting-mass-sentry-attacks-dark/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-parting-mass-sentry-attacks-dark/",
+      "originalUrl": "https://youtube.com/watch?v=v5gyRij2nTE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v5gyRij2nTE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M2S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 141,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/v5gyRij2nTE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-18T11:26:44Z"
+    },
+    {
       "path": "_games/pig-flos-genius-hallucination-trick-florencio-files-281-starcraft-2.md",
       "title": "Flo's GENIUS Hallucination Trick | Florencio Files #281 - StarCraft 2",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
@@ -759,45 +759,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-11-22T11:35:41Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s.md",
-      "title": "StarCraft 2: BEST Series of the Month! - Stats vs Dark! (GSL Code S)",
-      "excerpt": "Amazing series of StarCraft 2 between Dark (Zerg) and Stats (Protoss). This best-of-3 match was played during the SC2 GSL Code S round-of-16.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s/",
-      "originalUrl": "https://youtube.com/watch?v=hX3oGEuB0x0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hX3oGEuB0x0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H18M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 120,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hX3oGEuB0x0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDAgZSg4MA8=&rs=AOn4CLD03g7vsqkP90QMUZXc5r8ndJFhJA",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-11T12:54:59Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",
@@ -954,6 +915,45 @@
       "publishedDateTime": "2024-03-21T10:22:48Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s.md",
+      "title": "StarCraft 2: BEST Series of the Month! - Stats vs Dark! (GSL Code S)",
+      "excerpt": "Amazing series of StarCraft 2 between Dark (Zerg) and Stats (Protoss). This best-of-3 match was played during the SC2 GSL Code S round-of-16.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s/",
+      "originalUrl": "https://youtube.com/watch?v=hX3oGEuB0x0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hX3oGEuB0x0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H18M53S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 95,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hX3oGEuB0x0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDAgZSg4MA8=&rs=AOn4CLD03g7vsqkP90QMUZXc5r8ndJFhJA",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-11T12:54:59Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-bring-snacks-this-match-is-incredible-cure-vs-classic.md",
       "title": "StarCraft 2: Bring Snacks. This Match is INCREDIBLE! (Cure vs Classic)",
       "excerpt": "One of the best games of StarCraft 2 this year. Cure vs Classic from Gamers8. Both pro gamers try to end this SC2 match as quickly as possible by  being in the opponents face the entire time, but neither of them gets the job done in the early game. A chaotic game with multiple base races ensues. Support",
@@ -1082,27 +1082,34 @@
       "publishedDateTime": "2022-04-14T02:34:28Z"
     },
     {
-      "path": "_games/pig-hero-drone-lets-me-get-away-with-3-hatch-before-pool-mac-or-cheese-4-starcraft-2.md",
-      "title": "Hero Drone lets me get away with 3-hatch before pool! | Mac or Cheese #4 - StarCraft 2",
-      "excerpt": "NEW SHOW! I secretly played a few games on a dirty barcode account and offered my StarCraft 2 opponents a choice: Macro or Cheese? How the game plays out is up to them!  Watch the Full Playlist: https://youtube.com/playlist?list=PLFUDU8AOevUfPxBiGAdbbg9sRfRF9ZV28 -- 🐷 Second Channel for Learning StarCraft",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-hero-drone-lets-me-get-away-with-3-hatch-before-pool-mac-or-cheese-4-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-hero-drone-lets-me-get-away-with-3-hatch-before-pool-mac-or-cheese-4-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=1p5nCTvqFJU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1p5nCTvqFJU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M26S",
+      "path": "_games/lowkotv-starcraft-2-proxy-marauder-rush-in-a-500000-tournament-hero-vs-cure.md",
+      "title": "StarCraft 2: PROXY Marauder Rush(?!) in a $500,000 Tournament! (herO vs Cure)",
+      "excerpt": "Best-of-5 series from the StarCraft 2 IEM Katowice tournament. This match of SC2 is between herO (Protoss) and Cure (Terran). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-marauder-rush-in-a-500000-tournament-hero-vs-cure/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-proxy-marauder-rush-in-a-500000-tournament-hero-vs-cure/",
+      "originalUrl": "https://youtube.com/watch?v=fMQ-PYMUGwI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fMQ-PYMUGwI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M51S",
       "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
-        "Zerg"
+        "Protoss"
       ],
       "heat": 81,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/1p5nCTvqFJU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/fMQ-PYMUGwI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXCg6MA8=&rs=AOn4CLCWgMIHgyqr8duQrcAHME8vqM32rQ",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1110,7 +1117,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2022-08-04T04:25:26Z"
+      "publishedDateTime": "2024-02-23T12:46:32Z"
     }
   ],
   "nextPage": 2

@@ -4,44 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_games/lowkotv-maxpaxs-protoss-looks-overpowered-starcraft-2.md",
-      "title": "MaxPax's Protoss looks OVERPOWERED?! (StarCraft 2)",
-      "excerpt": "Grand Finals of the StarCraft 2 ESL Open Cup 127 Europe. This SC2 match is between MaxPax (Protoss) and Spirit (Terran). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-maxpaxs-protoss-looks-overpowered-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-maxpaxs-protoss-looks-overpowered-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=MX2Nj4hSx-A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MX2Nj4hSx-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M46S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 107,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MX2Nj4hSx-A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-14T11:20:36Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-simply-amazing-maru-vs-dark-best-of-7.md",
       "title": "StarCraft 2: SIMPLY AMAZING -  Maru vs Dark! (Best-of-7)",
       "excerpt": "Best-of-7 series of StarCraft 2 between Maru versus Dark, two of the best players in all of SC2. In this match they go toe-to-toe in an epic series. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
@@ -602,6 +564,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-06-10T23:30:09Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s.md",
+      "title": "StarCraft 2: BEST Series of the Month! - Stats vs Dark! (GSL Code S)",
+      "excerpt": "Amazing series of StarCraft 2 between Dark (Zerg) and Stats (Protoss). This best-of-3 match was played during the SC2 GSL Code S round-of-16.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s/",
+      "originalUrl": "https://youtube.com/watch?v=hX3oGEuB0x0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hX3oGEuB0x0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H18M53S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 95,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hX3oGEuB0x0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDAgZSg4MA8=&rs=AOn4CLD03g7vsqkP90QMUZXc5r8ndJFhJA",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-11T12:54:59Z"
     },
     {
       "path": "_games/lowkotv-dark-goes-5-hatch-before-gas-starcraft-2.md",

@@ -4,43 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-maxpaxs-riduclous-colossus-micro-vs-clem.md",
-      "title": "StarCraft 2: MaxPax's Riduclous COLOSSUS MICRO vs Clem!",
-      "excerpt": "Professional match of StarCraft 2 between the new rank 1 Terran and the new rank 1 Protoss in the world. This match is from the ESL Open Cup Europe. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpaxs-riduclous-colossus-micro-vs-clem/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpaxs-riduclous-colossus-micro-vs-clem/",
-      "originalUrl": "https://youtube.com/watch?v=eD5UevCxvgA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eD5UevCxvgA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 149,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eD5UevCxvgA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-11-24T12:58:18Z"
-    },
-    {
       "path": "_games/lowkotv-blys-unexpected-zerg-rushes-vs-harstem-starcraft-2.md",
       "title": "Bly's UNEXPECTED Zerg Rushes vs Harstem!  (StarCraft 2)",
       "excerpt": "Best-of-5 series of StarCraft 2 from the European regionals of the ESL Masters Winter StarCraft 2 tournament. This match is a Zerg versus Protoss between Bly and Harstem, and features loads of creative Zerg rushes and cheeses. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
@@ -183,6 +146,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-09-22T11:02:19Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-parting-mass-sentry-attacks-dark.md",
+      "title": "StarCraft 2: PartinG MASS SENTRY Attacks Dark?!",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between Dark and PartinG. This series was played in the ESL Open Cup for the North American server. In this match of SC2 the Protoss player decides to play old-school strategies versus one of the best Zergs in the world.  Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-parting-mass-sentry-attacks-dark/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-parting-mass-sentry-attacks-dark/",
+      "originalUrl": "https://youtube.com/watch?v=v5gyRij2nTE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v5gyRij2nTE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M2S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 141,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/v5gyRij2nTE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-18T11:26:44Z"
     },
     {
       "path": "_games/pig-starcraft-2-when-you-build-a-base-in-their-base-icyfar-seige-tactics-g1.md",
@@ -545,6 +547,44 @@
       "publishedDateTime": "2024-03-16T11:15:18Z"
     },
     {
+      "path": "_games/lowkotv-dark-refuses-to-play-late-game-starcraft-2.md",
+      "title": "Dark REFUSES to play Late Game! (StarCraft 2)",
+      "excerpt": "Amazing series of StarCraft 2 between Dark (Zerg) and Cure (Terran). This series was played as part of the Master's Coliseum 7 tournament, the first premier SC2 event of 2024. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-refuses-to-play-late-game-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-refuses-to-play-late-game-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=o-IP_SC9jWU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o-IP_SC9jWU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H10M54S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 126,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/o-IP_SC9jWU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-20T12:47:58Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-lowkos-mass-hydra-vs-terran-mech.md",
       "title": "StarCraft 2: Lowko's MASS HYDRA vs Terran Mech?!",
       "excerpt": "Live gameplay of a Zerg vs Terran in StarCraft 2. In this game Lowko faces off against a Terran who decides to play Battle Mech into Ghost Mech. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  00:00 The StarCraft 2 Forums 02:49 Live Game of Zerg vs Terran 24:14 Game analysis",
@@ -581,45 +621,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-05-06T08:32:37Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s.md",
-      "title": "StarCraft 2: BEST Series of the Month! - Stats vs Dark! (GSL Code S)",
-      "excerpt": "Amazing series of StarCraft 2 between Dark (Zerg) and Stats (Protoss). This best-of-3 match was played during the SC2 GSL Code S round-of-16.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s/",
-      "originalUrl": "https://youtube.com/watch?v=hX3oGEuB0x0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hX3oGEuB0x0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H18M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 120,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hX3oGEuB0x0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDAgZSg4MA8=&rs=AOn4CLD03g7vsqkP90QMUZXc5r8ndJFhJA",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-11T12:54:59Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-maxpaxs-incredible-stalker-micro-esl-finals.md",
@@ -755,35 +756,6 @@
       "publishedDateTime": "2023-12-14T12:16:00Z"
     },
     {
-      "path": "_games/pig-nightmare-difficulty-heart-of-the-swarm-begins-part-1-starcraft-2.md",
-      "title": "NIGHTMARE DIFFICULTY: Heart of the Swarm Begins! | Part 1 - StarCraft 2",
-      "excerpt": "My first try at Heart of the Swarm Nightmare Difficulty StarCraft 2 Campaign created by Rhyme! I actually didn't like the original HotS campaign much because it was too easy and too Diablo-esque mechanics. I've been told this Nighmare Difficulty mod will change my mind though - can't wait!  Here's a",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-nightmare-difficulty-heart-of-the-swarm-begins-part-1-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-nightmare-difficulty-heart-of-the-swarm-begins-part-1-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=TK4n7hib8f0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TK4n7hib8f0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H31M41S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 115,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TK4n7hib8f0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-14T06:58:20Z"
-    },
-    {
       "path": "_games/lowkotv-scarletts-new-mass-hydralisks-starcraft-2.md",
       "title": "Scarlett's NEW Mass Hydralisks! (StarCraft 2)",
       "excerpt": "StarCraft 2 $500,000 tournament match in 2024. This Zerg vs Terran is from IEM Katowice and features Scarlett reinventing the Zerg mid game as she masses one of the worst units that Zerg has available: the Hydralisk.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech",
@@ -897,44 +869,6 @@
       "publishedDateTime": "2024-03-23T11:15:26Z"
     },
     {
-      "path": "_games/lowkotv-scarletts-swarm-hosts-are-no-problem-for-harstem-starcraft-2.md",
-      "title": "Scarlett's SWARM HOSTS are no problem for Harstem! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between Scarlett and Harstem. This match is from the ESL SC2 Masters 2023 Winter open stage, where the winner of this match gets to move on to the main event knockout stage.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-scarletts-swarm-hosts-are-no-problem-for-harstem-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-scarletts-swarm-hosts-are-no-problem-for-harstem-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=h_VHRmPRpbA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h_VHRmPRpbA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M32S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/h_VHRmPRpbA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-02T11:35:16Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",
       "title": "StarCraft 2: Erik's SURPRISES GuMiho with Zerg Drops! (Best-of-3)",
       "excerpt": "Best-of-3 series of Zerg vs Terran in StarCraft 2 between Erik and GuMiho. This is a series with some very unique Zerg strategies and build orders. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
@@ -972,6 +906,35 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-05-22T10:49:14Z"
+    },
+    {
+      "path": "_games/pig-starcraft-pros-read-mean-youtube-comments.md",
+      "title": "StarCraft Pros read MEAN Youtube Comments",
+      "excerpt": "We asked StarCraft 2 pro players to read Youtube mean comments for PiG Sty Festival 4 in September 2023. Here's how they reacted! Video includes Serral, Maru, Clem, HeroMarine, MaxPax and Reynor -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-pros-read-mean-youtube-comments/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-pros-read-mean-youtube-comments/",
+      "originalUrl": "https://youtube.com/watch?v=xQW09QiRg4Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xQW09QiRg4Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xQW09QiRg4Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-21T10:43:29Z"
     },
     {
       "path": "_games/lowkotv-gumihos-epic-battlecruiser-switch-surprises-astrea-starcraft-2.md",
@@ -1049,6 +1012,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-05-23T18:16:38Z"
+    },
+    {
+      "path": "_games/lowkotv-maxpaxs-protoss-looks-overpowered-starcraft-2.md",
+      "title": "MaxPax's Protoss looks OVERPOWERED?! (StarCraft 2)",
+      "excerpt": "Grand Finals of the StarCraft 2 ESL Open Cup 127 Europe. This SC2 match is between MaxPax (Protoss) and Spirit (Terran). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-maxpaxs-protoss-looks-overpowered-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-maxpaxs-protoss-looks-overpowered-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=MX2Nj4hSx-A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MX2Nj4hSx-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M46S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 107,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MX2Nj4hSx-A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-14T11:20:36Z"
     }
   ],
   "nextPage": 4

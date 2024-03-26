@@ -4,35 +4,6 @@
   "page": 77,
   "value": [
     {
-      "path": "_games/pig-lurkers-vs-dts-eonblu-vs-llllll-icyfar-2.md",
-      "title": "Lurkers vs DTs! Eonblu vs llllll | ICYFAR #2",
-      "excerpt": "I cast your freakin awesome replay #2 -- Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-lurkers-vs-dts-eonblu-vs-llllll-icyfar-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-lurkers-vs-dts-eonblu-vs-llllll-icyfar-2/",
-      "originalUrl": "https://youtube.com/watch?v=oAfYSsDyFGg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oAfYSsDyFGg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M22S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oAfYSsDyFGg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2021-06-01T12:46:41Z"
-    },
-    {
       "path": "_games/pig-mamas-chads-that-belongs-in-a-museum-icyfar-g2.md",
       "title": "Mama’s Chads | That Belongs in a Museum ICYFAR G2",
       "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays where they had to use the “rarest” upgrades!   NEW ICYFAR CHALLENGE: \"Inside of You\" - Slide your base into their base. e.g. Floating buildings in, proxy-hatch/Nexus in the main. Send submissions to fluxiorsc@gmail.com",
@@ -553,35 +524,6 @@
       "publishedDateTime": "2021-06-01T12:46:41Z"
     },
     {
-      "path": "_games/pig-most-delusional-player-in-all-starcraft-is-back-salt-mines-46-starcraft-2.md",
-      "title": "Most Delusional Player in all StarCraft is BACK! | Salt Mines #46 - StarCraft 2",
-      "excerpt": "The FIRST EVER man to be salt mined on this channel is BACK for Salt Mines #46! Not only that, he's hosting a tournament, where all his salt has trickled into the rules. The entire thing is so ridiculous!  Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-most-delusional-player-in-all-starcraft-is-back-salt-mines-46-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-most-delusional-player-in-all-starcraft-is-back-salt-mines-46-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=f2oCdlXtSsI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f2oCdlXtSsI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M30S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/f2oCdlXtSsI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-11-02T15:57:35Z"
-    },
-    {
       "path": "_games/pig-most-ridiculous-sc2-game-ive-cast-this-year-icyfar-g3.md",
       "title": "MOST RIDICULOUS SC2 GAME I’VE CAST THIS YEAR | ICYFAR G3",
       "excerpt": "I'm not joking - this was a ridiculous SC2 game.  In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their StarCraft 2 replays where they lured their opponents into a fighting retreat! Here’s a fun game of zerg versus terran completing the challenge in humorous fashion.",
@@ -921,6 +863,67 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2021-06-12T10:30:43Z"
+    },
+    {
+      "path": "_games/pig-new-world-record-1-protoss-v-7-insane-protoss-ai-by-goblin-pig-reacts-starcraft-2.md",
+      "title": "New World Record! 1 Protoss v 7 Insane Protoss AI by Goblin (PiG Reacts) - StarCraft 2",
+      "excerpt": "Like and Sub to Goblin NOW https://youtu.be/I592jQfZyKA ~~~ I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! World Records have been falling left and right since uThermal did his 1 Terran vs 7 Zerg Insane AIs video. We've seen HeroMarine step up to do 1 Terran vs 7 Random",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-new-world-record-1-protoss-v-7-insane-protoss-ai-by-goblin-pig-reacts-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-new-world-record-1-protoss-v-7-insane-protoss-ai-by-goblin-pig-reacts-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=xVyt1M-Goaw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xVyt1M-Goaw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H21M7S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xVyt1M-Goaw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-10-05T02:50:55Z"
+    },
+    {
+      "path": "_games/pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2.md",
+      "title": "NEW WORLD RECORD! 1 Protoss v 7 Insane ZERG AI by Goblin (PiG Reacts) - StarCraft 2",
+      "excerpt": "Like and Sub to Goblin NOW https://youtu.be/hGO4tszOnYw ~~~ I challenged StarCraft 2 Pros to take on 7 Random INSANE Cheater AIs at once! Here is Goblin's second world record, this time against 7 INSANE Zerg AIs -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-new-world-record-1-protoss-v-7-insane-zerg-ai-by-goblin-pig-reacts-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=NfEfTFo1-Nk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NfEfTFo1-Nk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H1M22S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NfEfTFo1-Nk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-11-12T06:53:41Z"
     }
   ],
   "nextPage": 78

@@ -4,14 +4,14 @@
   "page": 74,
   "value": [
     {
-      "path": "_games/pig-how-long-can-regular-players-last-vs-harstem-part-2-holdout-challenge-starcraft-2.md",
-      "title": "How long can regular players LAST vs HARSTEM? (Part 2) | Holdout Challenge - StarCraft 2",
-      "excerpt": "We got Harstem to 1v1 noobs in StarCraft 2. The challenge: the noobs needed to stay in the match for as long as possible. How did they fare against the Captain?   Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j  Holdout Scoresheet: https://docs.google.com/spreadsheets/d/14aDGMP3BEQOADiL-6muUoi6P6hbSY8_vJ_HCOIiqPqI/edit#gid=1811179909",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-long-can-regular-players-last-vs-harstem-part-2-holdout-challenge-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-long-can-regular-players-last-vs-harstem-part-2-holdout-challenge-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=U9dq4yj8Lpk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/U9dq4yj8Lpk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H8M18S",
+      "path": "_games/pig-how-is-this-maniac-better-than-99-of-sc2-players-slammer-vs-xkawaiian.md",
+      "title": "How is this MANIAC better than 99% of SC2 players? | Slammer vs xKawaiian",
+      "excerpt": "SLAMMER, Starcraft 2's very own Ogre, returns to do what he does best - SLAM his face into the enemy base over and over. As always, SLAMMER goes where SLAMMER pleases, but will he overcome getting slammed back?  -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-is-this-maniac-better-than-99-of-sc2-players-slammer-vs-xkawaiian/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-is-this-maniac-better-than-99-of-sc2-players-slammer-vs-xkawaiian/",
+      "originalUrl": "https://youtube.com/watch?v=KIoZcSGasuQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KIoZcSGasuQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M10S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -22,7 +22,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/U9dq4yj8Lpk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/KIoZcSGasuQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -30,7 +30,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-08-15T13:52:36Z"
+      "publishedDateTime": "2023-08-01T09:17:19Z"
     },
     {
       "path": "_games/pig-how-many-ravagers-one-shot-a-command-center-strategy-bribes-starcraft-2.md",
@@ -89,36 +89,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2021-08-17T22:57:54Z"
-    },
-    {
-      "path": "_games/pig-how-quickly-can-dark-dispose-of-noobs-part-1-holdout-challenge-starcraft-2.md",
-      "title": "How quickly can DARK dispose of noobs? (Part 1) | Holdout Challenge - StarCraft 2",
-      "excerpt": "We paid Dark to 1v1 noobs in StarCraft 2. The challenge: the noobs needed to stay in the match for as long as possible. How did they fare against an actual Zerg Championship player?  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j  Holdout Scoresheet:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-how-quickly-can-dark-dispose-of-noobs-part-1-holdout-challenge-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-how-quickly-can-dark-dispose-of-noobs-part-1-holdout-challenge-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=K6kV3pd2MZ4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K6kV3pd2MZ4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M45S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/K6kV3pd2MZ4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-08-22T23:33:55Z"
     },
     {
       "path": "_games/pig-how-quickly-can-dark-dispose-of-noobs-part-2-holdout-challenge-starcraft-2.md",
@@ -884,6 +854,36 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2021-06-01T12:46:41Z"
+    },
+    {
+      "path": "_games/pig-i-made-them-feel-bad-with-my-protoss-shenanigans-s-most-annoying-player-ever-3-starcraft-2.md",
+      "title": "I made them feel bad with my Protoss shenanigans :S | Most Annoying Player Ever #3 - StarCraft 2",
+      "excerpt": "Let's see how annoying I can be :D -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2 🐷 PiG’s Discord:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-i-made-them-feel-bad-with-my-protoss-shenanigans-s-most-annoying-player-ever-3-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-i-made-them-feel-bad-with-my-protoss-shenanigans-s-most-annoying-player-ever-3-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=TVpDHI9mv1Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TVpDHI9mv1Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M57S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TVpDHI9mv1Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-08-25T06:27:31Z"
     }
   ],
   "nextPage": 75

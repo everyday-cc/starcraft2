@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=usduQ_czBCk
 type: video
 length: PT27M19S
 publishedDateTime: 2023-11-27T10:26:00Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/usduQ_czBCk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "JwTSir0DRiI4GZ46yannleaoh628U35/suEX8WvFW5QRZQBElNjcD31e3z8G14zNquzCKpO4CpuqC+nOqd+L+gmBYEtmSJspU9w8/dDaH710ddp970+pQDONqm2gNCzdx3JcsEWOt2Gywbwtw9nUFlRN0gF4Lc+vxJS4GrVtLUJ7PegwzkR9Y1lS/ck6wnrSmnuSBTx1JiekpVRqIfepiIcyz1bHQ/05PeNW6Vx9yRindM1W7Ynqk/5krtUVQQjwZpqwJuHCcOtmUHKlNZKLyBfiXmDVYk+etZgpfxmrgw/oZ5cbm82jFXZi0TMyt9S+jv9YvLpQwNT+9V3bBj/3Y9noCJkINYsxc3Dqj2JrB9uR/zUrpB8idul2h1ab7h5efGwi6t4y7gMcibS7su0hbOSc2JkIX/htsixdbDg2bI4=;WLU8dEfBODIF8R+bkoivOQ=="
+secured: "mma+8hJXoo30KeV4ZHAJ1RMIy7K8Bq4VcDE2evSKbyqLMbgrXlLWAf8HAoFxEnxtFLXfC4rZREGOLlL9qLHgAnRs3GCQnNr8LGV9byVYIAnx8mSuY39XED47DtfcXB/eo99W1DRuOC0a1tgWb/hEXdoW8faTEn9Wg0rY1USK7l1cyz7D3+XJ0EJ6vOWs54aZ5gLEfQXIrmH0UxEdYHYlFgv+TXUwCZr45I2JRZBoD98s2Wm1l6rDi7ausyunnPJKNL74xKYlogZPiKaqCGY+qQ2z/IpcedP1b9KGOJIPo1hGnvZxZ0wkDvGHCOurskc2ZLaoU2z54QVc0vGhyOgP13D3qg+H+jJCFAF/BdkEyCjSLuRl6zgY526YXsjY3FYjPd8jVZULR96fIfwQLrtdFZAJgZdxLR8onQ2kn7boDY0=;STLmABM6CyM8wganv09NFQ=="
 ---
 

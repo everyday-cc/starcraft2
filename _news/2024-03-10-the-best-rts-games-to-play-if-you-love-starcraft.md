@@ -42,6 +42,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "StarCraft II 5.0.13 Patch Notes"
+    excerpt: "We happy to push 5.0.13 to which features a variety of Map Pool Updates and Balance."
+    publishedDateTime: 2024-03-26T18:05:04Z
+    webUrl: "https://news.blizzard.com/en-us/starcraft2/24078322/starcraft-ii-5-0-13-patch-notes"
+    type: article
+    provider:
+      name: Blizzard
+      domain: blizzard.com
+    quality: 177
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "uYqf4Imvz2wTpHmTlG5xtLvUBw9Un78rjwiHRi11GWbq9/abigakkaKkaJs3o+ziowc/EWGLyi+Lz+4bil3d4W0BxbQPb9KJdC+oZhd25a6uuWKZNwy7VXNltDHF+Cbd/+rC06JCEA4uBXbmJNrH1ZnpgvxcRr5NZdUBo62k9MQS2F4gTuWL48NJ7kvt4SgzLU9QXmgRgdO8CeRZUth4hoAAVgFaZWtuP3AFLyLciR7xjptWC19k1XzD1ujUuaQkIhBayI17pIwZWxL9YMjKz9lH8OzqgThUe9OPKDLZTbDKSNo30w9C+VcdyFTeCYWzzJultQj0ZZz6y2MpsJhny185baN4bf8EwMnLFCy3afA=;OR8gMNxzPg46hXYD7lVGZw=="
 ---

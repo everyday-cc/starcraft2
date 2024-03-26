@@ -1,14 +1,14 @@
 ---
 category: news
-title: "StarCraft II 5.0.13 PTR Patch Notes"
-excerpt: "We are happy to push 5.0.13 to PTR which features a variety of Map Pool Updates and Balance."
-publishedDateTime: 2024-03-07T18:24:43Z
-originalUrl: "https://news.blizzard.com/en-us/starcraft2/24061893/starcraft-ii-5-0-13-ptr-patch-notes"
-webUrl: "https://news.blizzard.com/en-us/starcraft2/24061893/starcraft-ii-5-0-13-ptr-patch-notes"
+title: "StarCraft II 5.0.13 Patch Notes"
+excerpt: "We happy to push 5.0.13 to which features a variety of Map Pool Updates and Balance."
+publishedDateTime: 2024-03-26T18:05:04Z
+originalUrl: "https://news.blizzard.com/en-us/starcraft2/24078322/starcraft-ii-5-0-13-patch-notes"
+webUrl: "https://news.blizzard.com/en-us/starcraft2/24078322/starcraft-ii-5-0-13-patch-notes"
 type: article
 quality: 177
-heat: 217
-published: true
+heat: -1
+published: false
 
 provider:
   name: Blizzard
@@ -28,10 +28,10 @@ images:
     isCached: true
 
 related:
-  - title: "StarCraft II 5.0.13 Patch Notes"
-    excerpt: "We happy to push 5.0.13 to which features a variety of Map Pool Updates and Balance."
-    publishedDateTime: 2024-03-26T18:05:04Z
-    webUrl: "https://news.blizzard.com/en-us/starcraft2/24078322/starcraft-ii-5-0-13-patch-notes"
+  - title: "StarCraft II 5.0.13 PTR Patch Notes"
+    excerpt: "We are happy to push 5.0.13 to PTR which features a variety of Map Pool Updates and Balance."
+    publishedDateTime: 2024-03-07T18:24:43Z
+    webUrl: "https://news.blizzard.com/en-us/starcraft2/24061893/starcraft-ii-5-0-13-ptr-patch-notes"
     type: article
     provider:
       name: Blizzard
@@ -57,6 +57,6 @@ related:
         height: 900
         isCached: true
 
-secured: "8rOk0G/SQrUlgy4+kBgVnMjOMkDJ2pp4TdPYfiW77rsqw4ha7mRzUnCfzkRUSlRrHtEO/Mrce+/UaXVl2OlvP66VFPTDn/vi83I/Vdo4Iu9RZNRT7lb8d3IoJYjgVIp3+RSW3YqqVZeMktlCbSexS4kTjkAdY4+9hI6725X1RcyAXp+WW2daGdOkeFsi8hPFpLUBo4T4ibcBejJpyOzqx/6CtFc2aKFq23UAAhm+1SyqOZc64Czbe2swJui5J7twt1R0RuTqmOAbG+D7+nejn/cr+jyxK1OFza5XiCUx7kh6Ds2KLvn8KeVuAZveuhMrlQqmr+aYTixxemhAHuVEDVxePH+FlXawGVbfPTHZY6k=;PzWPrWGypSm3+6CXFSFF3Q=="
+secured: "T/YSnT6Q9lGDW+jfvv8GLVl99kvEA5mTEj/gNGzRn/f2jUKAX+P+hBXuC280ZOjz7l4T38bciMirQPfGP68imVjgWu1qCf23iMzgjrteVvQgmfS6nXhTcAie37F25SVaCNrqFMVDe9RODXDHSy99wJn4jeVZlpK52hQbWkGwtqPp3WRvUe1yoQvR5XUiHmqwNBx/S2pUvg97Fqp51fNEeprw1V76d6MR0+oMcqqYGn+GV8XoRhTCZHd9+q++29NOkvq85hGYQ/OKXniM1DFwyuxslkzwhxXv0Va2yASMbztLLk4sEGLNC4cGH1wY+EMgnkFfVO9vB1u10s9+Eh+FfjM84VNyNkFu3k7Om+Bv5tY=;PIBxEYHX6MH17HvOKcA2iQ=="
 ---
 

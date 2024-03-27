@@ -2,6 +2,7 @@
 title: "Clem looks UNSTOPPABLE versus Reynor's Zerg! (StarCraft 2 Finals)"
 excerpt: "Finals of the StarCraft 2 ESL Open Cup European weekly tournament. This is a top level series of SC2 between Clem and Reynor. New StarCraft 2 balance patch: https://youtu.be/dP2hx7mpZ1k Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord"
 originalUrl: https://youtube.com/watch?v=TVhSO9vI8fY
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-clem-looks-unstoppable-versus-reynors-zerg-starcraft-2-finals/
 type: video
 length: PT58M7S
 publishedDateTime: 2024-03-27T12:55:00Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "JD7CVIeAzTqcG2FTpsGC7Mf+dZEoQFnnIemY3DxzDHwJWxqo9fj+zL7pzp8PpsLLEaZD/dcTJOcSXnFrE//DhH/kdaM4XneETklDLjU4i6mPQVeM8T7oXTRY37i/iu7e2O9/QLMcFM10XA2sU5AuIRqJjNJPAZ+HbdQaUs7EtinMySsoXeCQypmzElJKQ+fMlatz4e1re1Y1wee09DbjYWVzM6P//chISiumwC+/YEjjdRlg/o1Q+k6SmgqjvF6BRir/ldQ6xHHV6y3BtMyO3uAVxOHPr3WVMIYef6n+bMdxttxfxk2dw3XFG4XpPzB8zTtB6ExVWVw8Gxz8Eq8jxmy7cCh788fbzmtXMR8Bsd/QiN68T2mTK3XwAx1P7qjSh2WpqQvcI9AYuVHkCvBDXA==;rtI1wFB4ke2HmP3JyRYkIA=="
+secured: "rBAlxINbpkMDounFgWcJvuB51RkyWTJPX7CS5BNJKLod3qKRCotyKBCl0k7x7RRarOitGiIjDCjtymwDDfx6fFkOYe+YvlUhjz7qRWWDOT+jMyztkbMaetPSBwYK9R4r00LJ8t4wyLP2oRVbMXotTm2zuNlCLmkpYLixTFhoGF9VarpP2X6hYUwBFAtl6YnGFwaqJO9oe+9qIlJa+v0eD8AZJ1jjWtM3LQfZZM6D4ennaMeJNOirpokd6NMrB0tCKqh3p/ic+BNCgD2YB7arezT82CbOzMca0ugnV12vBjCeEaJlfOhjvFgUnC+9ELLOcBf30yBx69/8MALyErgQMbpMxkWFIh+DhK9MumziAu1GAhH4jUaMM0gko6Sdh/zK;SWCth706k50bkvWOfPVR1Q=="
 ---
 

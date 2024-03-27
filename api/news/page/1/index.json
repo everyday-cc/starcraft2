@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-26-starcraft-ii-5013-patch-notes.md",
+      "title": "StarCraft II 5.0.13 Patch Notes",
+      "excerpt": "We happy to push 5.0.13 to which features a variety of Map Pool Updates and Balance.",
+      "sourceUrl": null,
+      "webUrl": "https://news.blizzard.com/en-us/starcraft2/24078322/starcraft-ii-5-0-13-patch-notes",
+      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/24078322/starcraft-ii-5-0-13-patch-notes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-26T18:05:04Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_news/2024-03-10-the-best-rts-games-to-play-if-you-love-starcraft.md",
+      "title": "The Best RTS Games To Play If You Love Starcraft",
+      "excerpt": "Many fans will be itching for a similar game to Starcraft to play with no new sequel in sight. Here are the best games to scratch that itch. StarCraft's success lies in its versatile genres like ...",
+      "sourceUrl": null,
+      "webUrl": "https://gamerant.com/best-rts-games-like-starcraft/",
+      "originalUrl": "https://gamerant.com/best-rts-games-like-starcraft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/the-20-best-rts-games-to-play-if-you-love-starcraft.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-10T11:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-starcraft-ii-5013-ptr-patch-notes.md",
       "title": "StarCraft II 5.0.13 PTR Patch Notes",
       "excerpt": "We are happy to push 5.0.13 to PTR which features a variety of Map Pool Updates and Balance.",
@@ -1087,99 +1189,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-sci-fi-rts-and-fps-hybrid-silica-blends-arma-with-starcraft-and-im-here-for-it.md",
-      "title": "Sci-Fi RTS And FPS Hybrid Silica Blends Arma With StarCraft And I'm Here For It",
-      "excerpt": "Silica is an upcoming RTS and First-Person Shooter hybrid that basically asks the question of what you get when you mix Arma III and Starship Troopers. Dropping into Early Access today, we took an early look at what this new multiplayer title from Bohemia Interactive fares.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mmorpg.com/previews/sci-fi-rts-and-fps-hybrid-silica-blends-arma-with-starcraft-and-im-here-for-it-2000127867",
-      "originalUrl": "https://www.mmorpg.com/previews/sci-fi-rts-and-fps-hybrid-silica-blends-arma-with-starcraft-and-im-here-for-it-2000127867",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.mmorpg.com/images/heroes/posts/127867.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.mmorpg.com/previews/sci-fi-rts-and-fps-hybrid-silica-blends-arma-with-starcraft-and-im-here-for-it-2000127867?amp=true",
-      "cdnAmpWebUrl": "https://www-mmorpg-com.cdn.ampproject.org/c/s/www.mmorpg.com/previews/sci-fi-rts-and-fps-hybrid-silica-blends-arma-with-starcraft-and-im-here-for-it-2000127867?amp=true",
-      "publishedDateTime": "2023-05-03T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MMORPG",
-        "domain": "mmorpg.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-the-17-best-rts-games-to-play-if-you-love-starcraft.md",
-      "title": "The 17 Best RTS Games To Play If You Love Starcraft",
-      "excerpt": "Many fans will be itching for a similar game to Starcraft to play with no new sequel in sight. Here are the 15 best games to scratch that itch. Updated April 22, 2023, by Kristy Ambrose ...",
-      "sourceUrl": null,
-      "webUrl": "https://gamerant.com/rts-games-similar-starcraft/",
-      "originalUrl": "https://gamerant.com/rts-games-similar-starcraft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/04/RTS-Games-Like-Starcraft.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-22T15:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/gamerant.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -7,8 +7,8 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/24078322/starcraft-ii-5
 webUrl: "https://news.blizzard.com/en-us/starcraft2/24078322/starcraft-ii-5-0-13-patch-notes"
 type: article
 quality: 177
-heat: -1
-published: false
+heat: 197
+published: true
 
 provider:
   name: Blizzard
@@ -28,33 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "StarCraft II 5.0.13 PTR Patch Notes"
-    excerpt: "We are happy to push 5.0.13 to PTR which features a variety of Map Pool Updates and Balance."
-    publishedDateTime: 2024-03-07T18:24:43Z
-    webUrl: "https://news.blizzard.com/en-us/starcraft2/24061893/starcraft-ii-5-0-13-ptr-patch-notes"
+  - title: "Boat Test: 2024 Starcraft SVX 231 OB CC"
+    excerpt: "We’ve tested many variations of Starcraft’s SVX series. Now, the SVX’s stable, reverse-chine hull and deep cockpit adds a family-friendly center-console to its fleet. Our SVX 231 OB CC handled chop and wakes, while offering angling amenities—such ..."
+    publishedDateTime: 2024-03-19T00:00:00Z
+    webUrl: "https://www.boatingmag.com/boats/2024-starcraft-svx-231-ob-cc-boat-test/"
     type: article
     provider:
-      name: Blizzard
-      domain: blizzard.com
-    quality: 177
+      name: Boating
+      domain: boatingmag.com
+    quality: 37
     images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "The Best RTS Games To Play If You Love Starcraft"
-    excerpt: "Many fans will be itching for a similar game to Starcraft to play with no new sequel in sight. Here are the best games to scratch that itch. StarCraft's success lies in its versatile genres like ..."
-    publishedDateTime: 2024-03-10T11:44:00Z
-    webUrl: "https://gamerant.com/best-rts-games-like-starcraft/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 77
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/the-20-best-rts-games-to-play-if-you-love-starcraft.jpg"
-        width: 1800
-        height: 900
+      - url: "https://www.boatingmag.com/uploads/2023/12/BTGBG24-RUN-Starcraft-SVX-231-OB-CC-02.jpg"
+        width: 2000
+        height: 1500
         isCached: true
 
 secured: "T/YSnT6Q9lGDW+jfvv8GLVl99kvEA5mTEj/gNGzRn/f2jUKAX+P+hBXuC280ZOjz7l4T38bciMirQPfGP68imVjgWu1qCf23iMzgjrteVvQgmfS6nXhTcAie37F25SVaCNrqFMVDe9RODXDHSy99wJn4jeVZlpK52hQbWkGwtqPp3WRvUe1yoQvR5XUiHmqwNBx/S2pUvg97Fqp51fNEeprw1V76d6MR0+oMcqqYGn+GV8XoRhTCZHd9+q++29NOkvq85hGYQ/OKXniM1DFwyuxslkzwhxXv0Va2yASMbztLLk4sEGLNC4cGH1wY+EMgnkFfVO9vB1u10s9+Eh+FfjM84VNyNkFu3k7Om+Bv5tY=;PIBxEYHX6MH17HvOKcA2iQ=="

@@ -1104,6 +1104,7 @@ items:
   - pig-wtfffffff-heart-of-the-swarm-nightmare-difficulty-part-3-starcraft-2
   - pig-flo-sets-up-sick-baits-but-the-opponent-has-69-iq-florencio-files-290-starcraft-2
   - pig-studies-show-incoherent-rage-and-sc-incompetence-is-linked-salt-mines-53
+  - pig-traumatized-terrans-brain-breaks-vs-cannon-rusher-smooth-brain-boanaan-6-starcraft-2
   - pig-this-is-the-strangest-zerg-pro-youll-ever-see-mad-meo-starcraft-2
   - pig-2v2-player-is-furious-cos-he-thinks-sc2-is-a-moba-salt-mines-54
 

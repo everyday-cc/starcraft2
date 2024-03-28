@@ -544,6 +544,44 @@
       "publishedDateTime": "2023-05-06T08:32:37Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-maxpaxs-surprising-dark-templar-switch.md",
+      "title": "StarCraft 2: MaxPax's SURPRISING Dark Templar Switch!",
+      "excerpt": "Best-of-5 series of European StarCraft 2, played on the 25th of December 2023. This series between MaxPax and HeroMarine is a Protoss versus Terran that is the finals of the ESL Open Cup 207 Europe. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpaxs-surprising-dark-templar-switch/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpaxs-surprising-dark-templar-switch/",
+      "originalUrl": "https://youtube.com/watch?v=CEZI08BOOV0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CEZI08BOOV0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M30S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 122,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CEZI08BOOV0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-12-29T11:32:29Z"
+    },
+    {
       "path": "_games/lowkotv-serral-vs-clem-mine-out-this-huge-map-starcraft-2.md",
       "title": "Serral vs Clem MINE OUT this huge map! (StarCraft 2)",
       "excerpt": "Amazing game of StarCraft 2 between the best Zerg versus Terran players in the world. Clem takes on Serral in a 1v1 of StarCraft 2 in a long drawn out macro game. Maru vs SHIN: https://youtu.be/4NI5KH9Yn2U Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
@@ -790,45 +828,6 @@
       "publishedDateTime": "2021-10-12T10:02:20Z"
     },
     {
-      "path": "_games/lowkotv-reynors-protoss-vs-solar-in-a-75000-tournament-starcraft-2.md",
-      "title": "Reynor's Protoss vs Solar in a $75000 Tournament! (StarCraft 2)",
-      "excerpt": "Serral vs Reynor: https://youtu.be/Ayg4tUhwMjM?si=ng2dXD73zDGkFl8d Best-of-3 series of top level StarCraft 2 between Reynor and Solar. Rather than playing Zerg, Reynor decided to switch to Protoss in this match. Series from the ESL Masters Winter tournament, from the Winner's Stage.  Support my work:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-reynors-protoss-vs-solar-in-a-75000-tournament-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-reynors-protoss-vs-solar-in-a-75000-tournament-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=rW7euekxPAw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rW7euekxPAw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M33S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 114,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rW7euekxPAw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-12-30T11:41:19Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-maru-is-a-mech-monster-in-the-gsl-code-s.md",
       "title": "StarCraft 2: Maru is a MECH MONSTER in the GSL Code S!",
       "excerpt": "GSL Code S StarCraft 2 match between Maru and SHIN. One of the best recoveries in a pro level Terran versus Zerg I have ever seen.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second",
@@ -982,27 +981,25 @@
       "publishedDateTime": "2023-05-22T10:49:14Z"
     },
     {
-      "path": "_games/pig-everyone-you-cant-beat-solar-hero-and-clem-in-one-tourney-astrea.md",
-      "title": "Everyone: You can't beat Solar, herO AND Clem in ONE tourney! Astrea:",
-      "excerpt": "There's a reason why anytime I host a showmatch, I ALWAYS invite Astrea - He is just TOO fun to watch. These games are from a pro tournament against low level noobs such as Solar, herO and even Clem...  -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-everyone-you-cant-beat-solar-hero-and-clem-in-one-tourney-astrea/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-everyone-you-cant-beat-solar-hero-and-clem-in-one-tourney-astrea/",
-      "originalUrl": "https://youtube.com/watch?v=1irfC_i6D4c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1irfC_i6D4c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H8M10S",
+      "path": "_games/pig-this-devious-spire-strategy-destroys-on-ladder-starcraft.md",
+      "title": "This DEVIOUS Spire Strategy Destroys On Ladder | StarCraft",
+      "excerpt": "Hiding Spires is... Surprising effective on the ladder. -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-devious-spire-strategy-destroys-on-ladder-starcraft/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-devious-spire-strategy-destroys-on-ladder-starcraft/",
+      "originalUrl": "https://youtube.com/watch?v=PUWSod33byk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PUWSod33byk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M41S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
       },
       "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
+        "StarCraft 2"
       ],
-      "heat": 110,
+      "heat": 111,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/1irfC_i6D4c/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/PUWSod33byk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1010,7 +1007,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-01-18T08:31:55Z"
+      "publishedDateTime": "2024-01-23T12:50:29Z"
     },
     {
       "path": "_games/lowkotv-gumihos-epic-battlecruiser-switch-surprises-astrea-starcraft-2.md",

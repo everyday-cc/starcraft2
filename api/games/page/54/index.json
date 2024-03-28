@@ -4,44 +4,6 @@
   "page": 54,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-ridiculous-protoss-cheeses.md",
-      "title": "StarCraft 2: RIDICULOUS PROTOSS CHEESES!",
-      "excerpt": "A very interesting \"best-of-3\" series between Elazer and Goblin. Subscribe for more videos: http://lowko.tv/youtube More fun Zerg vs Protoss: https://goo.gl/kFUSLt  This match is not quite like the others. In this round of Zerg vs Protoss, the Protoss player decides to play extremely aggressive. A super",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-ridiculous-protoss-cheeses/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-ridiculous-protoss-cheeses/",
-      "originalUrl": "https://youtube.com/watch?v=nzOpoHANWro",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nzOpoHANWro\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M17S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nzOpoHANWro/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2018-12-18T13:00:54Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-ridiculous-strategies-bly-rushes-ultralisks-vs-protoss.md",
       "title": "StarCraft 2: RIDICULOUS Strategies - Bly Rushes ULTRALISKS vs Protoss!",
       "excerpt": "High level match of StarCraft 2 between Bly (Zerg) and KingCobra (Protoss). Overall the strategies that are played in this game are very far from the ordinary build orders we usually see.  Support my work on Patreon: https://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  More",
@@ -1147,6 +1109,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-05-17T14:03:26Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serral-infestor-rushes-clem.md",
+      "title": "StarCraft 2: Serral INFESTOR RUSHES Clem!",
+      "excerpt": "Two games of top level StarCraft 2 between Serral (Zerg) and Clem (Terran). These are games they recently played against one another on the ladder. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-infestor-rushes-clem/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-infestor-rushes-clem/",
+      "originalUrl": "https://youtube.com/watch?v=vwsL5X2J1Fc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vwsL5X2J1Fc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M3S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vwsL5X2J1Fc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-05-12T10:49:19Z"
     }
   ],
   "nextPage": 55

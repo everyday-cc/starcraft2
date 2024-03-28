@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-byuns-masterclass-in-slow-pu
 type: video
 length: PT44M32S
 publishedDateTime: 2024-03-23T11:15:26Z
-heat: 231
+heat: 195
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M2VwLzwC4gg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "cKiKBQkhiirCWUydbYUsJ2PpTR5OF+MrJ+x8ekvVQjW3whYXv3rheVE0AJR7Y/SRJRBv/oNps7Wf8cn/+W5XK86mgN4HdBixxwy60w192VyJgFsZs1WvUDf9/WMDNRNhg1NAa9lhESSd4cdkashYI6smwxR3MqZHxAE2Sr8dc8d/hEtQfKm1Duc5uie23+vbw1kLA6Yx+T6RvzxiF0jpGdjvh2wQA+oPE/QRrnwgfUTemuIh587uSIl8XW9E2TqkbpP1Jzb3GVQahPvfv1ObG+OSNLqJJ3j6zVNS1Pyc/fNEy/1Z7gdOopgsmPlbZU2CT+hqoxC+GXUBayoeSGUuRdtEEuCWekczSedL3YtCDbL9YPt21atNKb3J/1RlabasM61xz4pL31YE+759eh+p7heit0fW2U+a+Bd1d1/M4Rg=;bPSvJBQroYqeO0/C3DPcXw=="
+secured: "L9fylHDEi3rb+EwZbLUS0wsA+9zmfHQ1xpK0+VH9x9EQxDMXLvqXMO6UP0julBfr15/pFk9Wmb5lYZudmsVp7YxndbXxhvJgNbGuUle8QfuirsWkE2FoUfZSap63kpV1ULN5zmSNuboCDv5qpo9jNGDw4MBq5nCL2th9VFPsWj/chyuPC9TyhyLx02kB+JAfIDVZZZpPeyRAq5Ao1Cg45oC2BCK9jxhncs7u1f9wsA/jt7Gzm4qBQSTqi9VW2QUKEYh0ff7BSVl+uVkxzCnrVAh8UDYKb8XVp+1rWEgbvCLMLV6VsA2ECzw5HLFgMFZwFsDjCA9wvpm1oFgytrnLVWxYAyi/aoEHYX5oMD4JHkLiX+l27H4kxQHFtJyWAaYdofZATuQUGz5M4T0/0gpzMUscPfVJJ+c7dPjtivskjwI=;eACGd5arNKaHsgdU7G1geQ=="
 ---
 

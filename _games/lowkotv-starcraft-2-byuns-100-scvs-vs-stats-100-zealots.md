@@ -2,6 +2,7 @@
 title: "StarCraft  2: ByuN's 100+ SCVs vs Stats' 100+ ZEALOTS!"
 excerpt: "Best-of-3 series of Korean StarCraft 2 between Stats (Protoss) and ByuN (Terran). This match starts off very messy, but turns into a spectacular series with some very funky decision making. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup"
 originalUrl: https://youtube.com/watch?v=BUHjLE8KvHo
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-byuns-100-scvs-vs-stats-100-zealots/
 type: video
 length: PT33M28S
 publishedDateTime: 2024-03-28T10:02:42Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "qqCw+Zdb8h7hFfNh4v6nVcyM04UZ+6OLdv7sifG8A4b0w3TrhH/PIETIDg6sSHRgtGRCDLLtGn9LoikJ1TCfsxlQuxbNZGu5OqXqRjaeZ5GjTI6oJ2wp/as5z9RuiMrZNchwF4cOtR0pd9Fh4wPhyN4CpiAhiOvErr81IWYEBLiHAqLuRWXeifFa6m5GVONcvGVosSwBRRRFSTvzOCsQ5L/MSQsukTJXX5sKDmh/DssxXZMvvMuTRpNwZarVOHxRk9ITZnu9PiT4U4ZUPacTlh2baon9osA6H/9i1tye/DSqYIc2GPuq/TX6P0yqqvy/GWI0mLg1K48lWIRyhiR7YkhaXezkhOmAJVFMLxkMzIGvuiE8/TW90YoidvD/uUi+sy+9zqOI3krYNeW4gX8uNQ==;7LCly+Gu6BLGbzHy1eRb/w=="
+secured: "tA3wOuVr36RID79P5pGV3b2JL8B+wL0q/uGOVOhmu0YUazv7Lzs91f05ll0bJsIyWRoCEXQYC6mJNidHLb3bar3mSm1/KHWk2MWW90i75N4zCdkhLJiZyNKLKcTXOCKTEpDCNLKXuLi8p1p5B9ykQK8ssp3siOx4sLQMGPbJJdO7HIZKFgMvs7z2FnlEcKPT2YPlrHkNA6VpSTWHK2203LR1/sJiiHwV/abncALeoG/sDD0lA6+8+4UiwjJYi+XH9tCtpHe23prK/1jdwyqs+1hpLL3eYTpLTe3y8MEihIOt4CnyXSAHWPD9Cc1AgeLEhw3UWirGZO/7c7ywxoahWcFrnWggzLcQVQn79spAfMu3mVvmWfg3GlbsvWLBdnyGrXVvaC/xKkSjNmlwrjWXyw==;UNkmKjhiOpv0I47uu9q+7w=="
 ---
 

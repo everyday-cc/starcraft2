@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maru-is-a-mech-m
 type: video
 length: PT25M53S
 publishedDateTime: 2024-03-12T11:28:21Z
-heat: 114
+heat: 125
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4NI5KH9Yn2U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "3COb8iyiA7MPmn6FM1gBVWTkRJ3vFPddLwTlsqJcux2avgtztrPv1l8TVMtPKPC/n0rfsTkVZRyL5ABxmaoYpqsm1klNS5tEb7+TAcB9kTZuKaIe0kGTSie7k5KxVUx65sAjnFGeBJkO4y/ApdQCoa/DqNfu8i+HjMU/kgk0acu9uHGkgjyw2zVhQxgUEOC6NMykeHWfOT4HnJ69njKb+zR53uS0X2GntyErbA9h1M+m0H+GdrFsc7JbuPLM8hlqaZyGc2ZkhaPiszqVPpdzJ+/IkDoLdsGjN40bEPhflZVRsjZbyGHLxzjD2uaUYEORqTXXrD5bF5DYZkugRdowUZzpn+5Qqw4VZD8rTrP8prvSelTG7lrBQd5cBqFz1YMB4UI5DYugoOC+0UPrPaXmDRJPdrZMqHpRSYjH+AN18J8=;g4OuxAJtC/JlXsJ6gQNbhA=="
+secured: "/m4bdW32MuBp9hOpi+wIiBQXzG9TSoR2vbJTQE0wcVZTMxB4fTBWu8v/1qOsDCd5e9IHUNFZYDXLeUPWThh2zjRK6P9C3F2xIkEaeaRX5d7sMb2QQmwAnCertt93eUe7uLp6DsfcDf/w+xxnqb9W3q3RaWhcqYsC4nX3ouXb1zwtF0YERNfxo2j6Ej4HEnOXj5NmtYTTN+4THZ7T8dSdyF2yRDL1OZqqtZSEW3LR4ds6c8sZ1vOf5fiUjUYLZNhv3Q1AFrhoTEakyzMXTZbc9l9V1j0CP7s6N7owOHyWRNu/YlafoUCfPkNFxIXTGh49PCRKiAG6KqH0RJCxL0739H2nVf1iQ//E/56pXumCOYtP8tIq79jk0u6HBGjySTg//9avjktr+gjz7XeRmYpBSH9TEng4yAGxeTXX6onwWYo=;v283IPzZgtOGDKYUeDwghg=="
 ---
 

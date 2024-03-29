@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-series-of-t
 type: video
 length: PT1H18M53S
 publishedDateTime: 2024-03-11T12:54:59Z
-heat: 102
+heat: 107
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hX3oGEuB0x0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "soytByZZvg+RMtAgqlmyhAeqJfqaY74Y4b1/i2yuWLRZn3veMbY+k+S81UaAUMr0EDE2hECyZ7G8Xovd52caslfnTeGPEJKfqXPTQ3mQGR/c5XtBzhDM2QOalJDztUWddYuXzZbKOM9WEqCKlZE2dk0qUOxxH6sDDoCnQ+WdR215bA7gxdAPH1EBSz5BrFr5OC1O/C3Xxx27tNMKZuww+pUlo/2tujwSERhFDYz/Tv5zQrOkPw2CiADlGC5Dw5vovHt+Qxr5dPZwKrVbcWZo/I8i/KYVtBAIgPNeH7VSWCHO6VSAMHid98YvY9M38X/low20+5ZnZk/RuvOOOm1yWp9ITv/TFwl9Rge0INIDSEqbbo7ca3ee9TQ9b4rCJ4QTwOKaUsKSZDEJColeUlGUv1bwYj9b94xt7QIt7v7ZRLc=;qI4C3VSFn0r2LEYmPdDuRw=="
+secured: "ekdEJDPESLH8bbPIUIxlYlwscnSV+IxbOPCw/ZtYmv8m7/Zr5yHqDE6s2cKTXU0GInVFLBnZoXvI0AwWuQvCx1Bx1K2+Q4ZyaqY9Xm2euNuOY2jAV/3xDLv2xaegZj+QxP8S+IM2KfgE5p4mX2TY9jVitx7v1HnkVx1r8tPYARNmNp5qydS7VSGnGsgG000kS9KKfHw5E5MQRPdo7ZdZKjHQSe8Pv/EAsbCz0+ic/xG2vqSLbQscxiAbfc2EI35od+2T3/col7/4QmNQgnW3DTiyNF35Gv7NJBcjvtvn5wmI1CvnzxC+L5ywDJ0QDPMGuu1VLJ/zuwhVPNGPjkSL1UIUlg5ht9dBf7s0qrugCk3pNPi6ZeJ3xTlGIEwl0bPxpkCCrItI+WMnYEGa7B7JgNNlGET8bg9sAcJU58i0Cls=;idqmLlyDyOyxh/F4XGeY+Q=="
 ---
 

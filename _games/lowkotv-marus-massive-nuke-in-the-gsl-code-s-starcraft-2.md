@@ -2,6 +2,7 @@
 title: "Maru's MASSIVE NUKE in the GSL Code S! (StarCraft 2)"
 excerpt: "Best-of-3 series of StarCraft 2 played on the new SC2 balance patch. This match is between Maru (Terran) and Classic (Protoss) and played in the round-of-8 of the GSL Code S season 1 of 2024. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup"
 originalUrl: https://youtube.com/watch?v=d7H8RL9nv28
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-marus-massive-nuke-in-the-gsl-code-s-starcraft-2/
 type: video
 length: PT47M16S
 publishedDateTime: 2024-03-29T11:38:09Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "/4fCJV7y7Pbv+H1t7nUoSxK6qoXykXIHJoBj5q3HIcdjdWIwow0PgXmlIgYMGxLH8WkrLskV3vXvOuKlfFF3YWz7ahxTGdMtwV7WFY0SdkG7IvbByJ50tV/450CIzPeFz+zLUzOwNJBIUNbazUjtJbnHsq1LAkb+WeJu8u15Hl53WRJEbRjt9PRKC/w3biQVmlkbWsEycJK8FK4+PvG69+4nsa9gRBID/kdqjykp1m8Sbmn8kfp42ELXG3oLOkzMPuhVJObcAVlF5u3mU6XxlWQ/Fjp3xEYiA5hmbW/3C1KAKWw9Zu8OyUF614Bq3S7ANATHx/833+2jIAVGEz/2O+bM2yldYs5xYrktDyzaf3K9PAzAXRWm3k6lpfyMEtFU3Zj4mcSzaBHhfLIqGKA/AA==;YXY4+4+qOfFX5d8WPzLIJg=="
+secured: "fO0MHaoBf/p3grfL7NLMoORrmF1jGtwK6SxXe0TA65Ab2A9KZ0iWkfl16t6Ez9lPQvvwUwhfD+kuaVjvCYO0ucCuXb03kqg0RacD8/bLrFyxI0Ql00JBa+X1837tpH1LYwn0VEbigPlE+DnjuPU6fkjZtkzY94C7AS6dHpSB19LTlrglCsMW6I+cpf7TbjwZi5V5+BGgaXwEOqTpvj2+8iBCrfyrsTgSfGk0gicncpC56urn3PSz2uesqy15AsQKD7oVxEEe61s1tamdEZLL+F9EzBffw5p96T8yttB14zfdFRPBGqqMD/5NIjaNUtmGjvjIz7ZzU9jqhXLISiUkJW4HusXoSkkaqmJakAgLNNJ+1Yc96oa/cN8T3xEJLQWsZqTdtijeiLNBl4l2FfqKug==;5QKTUAALSgK1AIfBoahpIw=="
 ---
 

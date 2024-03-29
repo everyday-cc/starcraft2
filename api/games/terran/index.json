@@ -4,11 +4,11 @@
   "page": 1,
   "value": [
     {
-      "path": "_games/lowkotv-marus-lands-a-huge-nuke-in-the-gsl-code-s-starcraft-2.md",
-      "title": "Maru's lands a HUGE NUKE in the GSL Code S! (StarCraft 2)",
+      "path": "_games/lowkotv-marus-massive-nuke-in-the-gsl-code-s-starcraft-2.md",
+      "title": "Maru's MASSIVE NUKE in the GSL Code S! (StarCraft 2)",
       "excerpt": "Best-of-3 series of StarCraft 2 played on the new SC2 balance patch. This match is between Maru (Terran) and Classic (Protoss) and played in the round-of-8 of the GSL Code S season 1 of 2024. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-marus-lands-a-huge-nuke-in-the-gsl-code-s-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-marus-lands-a-huge-nuke-in-the-gsl-code-s-starcraft-2/",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-marus-massive-nuke-in-the-gsl-code-s-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-marus-massive-nuke-in-the-gsl-code-s-starcraft-2/",
       "originalUrl": "https://youtube.com/watch?v=d7H8RL9nv28",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d7H8RL9nv28\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT47M16S",
@@ -28,7 +28,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 370,
+      "heat": 388,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/d7H8RL9nv28/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVChHMA8=&rs=AOn4CLAnrYSCy9S8pQfYoyMewm9GdFrosg",
@@ -67,7 +67,7 @@
         "Terran",
         "Protoss"
       ],
-      "heat": 361,
+      "heat": 378,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/BUHjLE8KvHo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF4gXiheMA8=&rs=AOn4CLCWLkNXewUwfNS3mL_sYYf41CxCKQ",
@@ -79,6 +79,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-03-28T10:02:42Z"
+    },
+    {
+      "path": "_games/lowkotv-marus-lands-a-huge-nuke-in-the-gsl-code-s-starcraft-2.md",
+      "title": "Maru's lands a HUGE NUKE in the GSL Code S! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of StarCraft 2 played on the new SC2 balance patch. This match is between Maru (Terran) and Classic (Protoss) and played in the round-of-8 of the GSL Code S season 1 of 2024. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-marus-lands-a-huge-nuke-in-the-gsl-code-s-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-marus-lands-a-huge-nuke-in-the-gsl-code-s-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=d7H8RL9nv28",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d7H8RL9nv28\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M16S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 370,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/d7H8RL9nv28/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVChHMA8=&rs=AOn4CLAnrYSCy9S8pQfYoyMewm9GdFrosg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-29T11:38:09Z"
     },
     {
       "path": "_games/lowkotv-byun-gets-the-reaper-nerfed-again-starcraft-2.md",
@@ -799,45 +837,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-02-28T08:20:44Z"
-    },
-    {
-      "path": "_games/lowkotv-byun-calls-heros-insane-bluff-starcraft-2.md",
-      "title": "ByuN CALLS herO's INSANE BLUFF! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between herO (Protoss) and ByuN (Terran). This match was played during the ESL Open Cup Korea 209, a weekly SC2 tournament. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-byun-calls-heros-insane-bluff-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-byun-calls-heros-insane-bluff-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=0HgIa8nhFHI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0HgIa8nhFHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M51S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0HgIa8nhFHI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-16T11:31:26Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-lowkos-mass-hydra-vs-terran-mech.md",

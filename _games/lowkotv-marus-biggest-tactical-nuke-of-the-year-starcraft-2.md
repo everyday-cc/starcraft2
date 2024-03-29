@@ -2,6 +2,7 @@
 title: "Maru's BIGGEST TACTICAL NUKE of the Year! (StarCraft 2)"
 excerpt: "Best-of-3 series of StarCraft 2 played on the new SC2 balance patch. This match is between Maru (Terran) and Classic (Protoss) and played in the round-of-8 of the GSL Code S season 1 of 2024. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup"
 originalUrl: https://youtube.com/watch?v=d7H8RL9nv28
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-marus-biggest-tactical-nuke-of-the-year-starcraft-2/
 type: video
 length: PT47M16S
 publishedDateTime: 2024-03-29T11:38:09Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "3T/MgW0YqMQasiURq76nPCi/K8bcPgvO5G2H74Jq0WykQau0QCChKmzUybOWxMpB1N8fxK1eoMqUC9LF2I823AAL2hlFAGM38GHpuDWt3ffInXuPXZikf1OHSgl+6LoIOJ/Kp4nMCGUQXJnjF9sxpHpn4+uFjjMJqa5NXl6PxAxpX3M0XpVCAwC7F2w2PIHMYGsrJmMGTVwIpA9UyKCYk/Gc1tzC0z0ClI9BJVDgviDzlZEK45Zz+TlC2Qkn8Gns70DLG7CPHui6+JK7zyYK7uNkuK7LRXrRILOPRF3xEPUq8/UjeEpXUNZOTF5VwXxRxb72khE+jiSRswabBGt04wwLMbjj/8w2XCt/Da3ADekyb4DYGPloqAK8KqXDKf+dZtCcnmRfMcKINj7+3WlzZg==;vVYg5vIK/+Zzwe/XSajVzg=="
+secured: "rum0VWnnA1ygWPikn5uui0OvUrOr233ujhTMzKv2rMVILaTPSlxaQNk83F8MrBIJ7kcVVyVjOCmM8Lkfkvzpcm2hlWkJ7UIzwwr+PHqCWt2LzeEHYqY5ONmXktnnL77n2yLTzStvpNI+9txurk+L+pJXaN/tNRV8MBi0P0t1XMb3gIM+m7vchz+1WBTa08we2HRI4oMTtG9iI29W0ZdWdWD8mIWwc7gyvf5BL+Artory9zs+04Mz2vig+JkR0ZDkuV+GxtNfCtCNrHSTnnkL5KMb8cKyM9ip12cMQVVQ+CKJ4q/6GFhzA4AHcdG7jJjzUpNcAsd2NhUnk4aKacbGXThumVCAUN/Bmw7a4d1zSCQ0Mii49R8Tu+I7BuAoY/Ol3KZT/xJLJzZlH0i5zbwb9g==;1mCqlN7laizwYWiiEuQmcQ=="
 ---
 

@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-maxpax-mass-zealot-rushes-re
 type: video
 length: PT33M10S
 publishedDateTime: 2024-03-25T11:03:12Z
-heat: 213
+heat: 194
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YvPBY5yB3nw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "PKrmrD8XwE5KJOWZPLQYHGcX1EN1RB0eabgkKDKV/D10MPrn5s8V8bkfipUDzL/znqN7OJRDv2mEkSp+NVTdOKZ/7V9TJ7rthEO0D0IO/1zd/ZLquzjd/51rrMgtd5MDe6hDPOMN/fN/neq+OE5EtUjPv5XlSpJyQr9WzeWOc8ana6QrxkoO59458q2n0CK6xV/7nyV1fUZLUQpYgbP/n9AlXtkdj6xLecrpNpT/XaeQrajA3Rg7slXhWvTTPwbibiQ2FTn06n7K0fZtFh/lJ6FWl0GOSlFdCbt8NNTZmVUJNyCSrD46wAwriSVhE8m+HCQam/gjXt0JzuijiBhRPd85m62yL8mOmHcRp0OdM/AYi5zlzZ+lQiofDbf/TzVqn7FYk9zd7c4gKaoPDHSNuVlkHyF6ZYvgRWET67vFbG8=;BCmK2k52QFnRw68LKp4YkQ=="
+secured: "+1ATY6z9rYABWvmK2eYrerij027pNMDZ3uKXEtRf2RUyDeONevZf7G7ab5saFITDGD3caBZ1zUK7lR5hp+5kqKdo+2CRzo4eKGHW8iyezvuYmA/5ibWJbw7SeScbEFr0AAfflp2EmcCg0C+LgdXtj9BaUTBDdmHV66q7Z1YKo5OZu3TD7uCKKWws++fZnqt81anEjcF0Ere2djkKKX7fulHk6WtVeXRPyk437qZqseGZNZX9taQAF8DNDFy903GjtWbK2y1QIIg8yy/ni+T07CW9iqzxY5+wKXz+flUjjpwBcZTiN6Mkiq1sKGJmZNXHFJlscGh9P7IwAhWpSHRbCWWhKbOIHAiQAt7ZYR37w/6CcVw5phgJ/qaiey8dFR0RaBBlEKVWuObrzx3is6eTWmdXPZxuBUxsiqy+5pUxfOI=;nyms05hfvocS5iLYOoDHSw=="
 ---
 

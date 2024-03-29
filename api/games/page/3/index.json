@@ -719,43 +719,6 @@
       "publishedDateTime": "2024-03-28T10:02:42Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-maxpax-plays-even-faster-than-clem.md",
-      "title": "StarCraft 2: MaxPax plays EVEN FASTER than Clem?!",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 between MaxPax (Protoss) and Clem (Terran). This series is the finals of the ESL Open Cup Europe. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpax-plays-even-faster-than-clem/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpax-plays-even-faster-than-clem/",
-      "originalUrl": "https://youtube.com/watch?v=JFrElthRViM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JFrElthRViM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M32S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 120,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JFrElthRViM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-15T11:46:49Z"
-    },
-    {
       "path": "_games/lowkotv-byuns-new-creative-mech-armies-starcraft-2.md",
       "title": "ByuN's New CREATIVE Mech Armies! (StarCraft 2)",
       "excerpt": "StarCraft 2 finals of the weekly ESL Open Cup, best-of-5 series of Terran versus Zerg between ByuN and Solar. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
@@ -792,6 +755,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-03-19T12:27:00Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero.md",
+      "title": "StarCraft 2: GAME OF THE YEAR? - Reynor vs herO!",
+      "excerpt": "Insanely good game of StarCraft 2 between Reynor (Zerg) and herO (Protoss). This match features a comeback that we rarely see at this level of SC2. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-game-of-the-year-reynor-vs-hero/",
+      "originalUrl": "https://youtube.com/watch?v=utciQXyMw8Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/utciQXyMw8Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M52S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 118,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/utciQXyMw8Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-03T10:31:38Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-maxpaxs-incredible-stalker-micro-esl-finals.md",
@@ -1002,14 +1004,14 @@
       "publishedDateTime": "2024-03-13T12:10:01Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-incredible-game-dark-vs-maxpax.md",
-      "title": "StarCraft 2: INCREDIBLE Game - Dark vs MaxPax!",
-      "excerpt": "Professional match of StarCraft 2 played between Dark (Zerg) and MaxPax (Protoss). This game has an incredibly scrappy ending as Dark somehow manages to stay alive and make a round of Infestors. MaxPax however has detection as well as a powerful Sky Toss army. Support my work: https://patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-game-dark-vs-maxpax/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-incredible-game-dark-vs-maxpax/",
-      "originalUrl": "https://youtube.com/watch?v=XOyns__mQSE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XOyns__mQSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M43S",
+      "path": "_games/lowkotv-starcraft-2-parting-destroys-byuns-turtle-terran.md",
+      "title": "StarCraft 2: PartinG DESTROYS ByuN's Turtle Terran!",
+      "excerpt": "Best-of-3 series of South Korean StarCraft 2 between PartinG (Protoss) and ByuN (Terran). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko Twitch",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-parting-destroys-byuns-turtle-terran/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-parting-destroys-byuns-turtle-terran/",
+      "originalUrl": "https://youtube.com/watch?v=dqdgCJS6ERk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dqdgCJS6ERk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M26S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1024,12 +1026,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Zerg"
+        "Terran",
+        "Protoss"
       ],
-      "heat": 114,
+      "heat": 115,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/XOyns__mQSE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/dqdgCJS6ERk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1037,7 +1040,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-01-04T11:07:44Z"
+      "publishedDateTime": "2024-01-15T11:45:35Z"
     }
   ],
   "nextPage": 4

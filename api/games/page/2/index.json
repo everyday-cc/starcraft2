@@ -653,37 +653,6 @@
       "publishedDateTime": "2023-08-14T09:09:57Z"
     },
     {
-      "path": "_games/pig-traumatized-terrans-brain-breaks-vs-cannon-rusher-smooth-brain-boanaan-6-starcraft-2.md",
-      "title": "Traumatized Terran's Brain BREAKS vs Cannon Rusher | Smooth Brain Boanaan #6 - StarCraft 2",
-      "excerpt": "Boanaan won Season 3 of the Smooth Brain Auditions with his Planetry Fortress rush that both failed and succeeded. Very glassy. In this game he traumatizes a Terran player  Watch (A Collection of) Smooth Brains playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh -- 🐷 Second",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-traumatized-terrans-brain-breaks-vs-cannon-rusher-smooth-brain-boanaan-6-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-traumatized-terrans-brain-breaks-vs-cannon-rusher-smooth-brain-boanaan-6-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=oP9viAcIJ3k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oP9viAcIJ3k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M9S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 175,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oP9viAcIJ3k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-22T02:52:42Z"
-    },
-    {
       "path": "_games/pig-the-craziest-response-to-a-proxy-hatch-ever-starcraft-2.md",
       "title": "The CRAZIEST response to a Proxy Hatch EVER - StarCraft 2",
       "excerpt": "Reaper (Zerg) does a proxy hatch to Nina (Protoss) and she responds with a mothership?!? -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support",
@@ -874,6 +843,37 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-05-08T10:18:53Z"
+    },
+    {
+      "path": "_games/pig-traumatized-terrans-brain-breaks-vs-cannon-rusher-smooth-brain-boanaan-6-starcraft-2.md",
+      "title": "Traumatized Terran's Brain BREAKS vs Cannon Rusher | Smooth Brain Boanaan #6 - StarCraft 2",
+      "excerpt": "Boanaan won Season 3 of the Smooth Brain Auditions with his Planetry Fortress rush that both failed and succeeded. Very glassy. In this game he traumatizes a Terran player  Watch (A Collection of) Smooth Brains playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh -- 🐷 Second",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-traumatized-terrans-brain-breaks-vs-cannon-rusher-smooth-brain-boanaan-6-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-traumatized-terrans-brain-breaks-vs-cannon-rusher-smooth-brain-boanaan-6-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=oP9viAcIJ3k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oP9viAcIJ3k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M9S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 160,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oP9viAcIJ3k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-22T02:52:42Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-esl-masters-summer-grand-finals-scarlett-vs-astrea-best-of-7.md",

@@ -721,45 +721,6 @@
       "publishedDateTime": "2024-03-22T02:52:42Z"
     },
     {
-      "path": "_games/lowkotv-byuns-masterclass-in-slow-pushing-protoss-starcraft-2-finals.md",
-      "title": "ByuN’s Masterclass in SLOW PUSHING Protoss! (StarCraft 2 Finals)",
-      "excerpt": "Professional series of StarCraft 2 between ByuN (Terran) and MaxPax (Protoss). This match is the finals of this week's ESL Open Cup. New StarCraft 2 patch:  https://youtu.be/dP2hx7mpZ1k?si=CvJuwObaVpVvKCVZ Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-byuns-masterclass-in-slow-pushing-protoss-starcraft-2-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-byuns-masterclass-in-slow-pushing-protoss-starcraft-2-finals/",
-      "originalUrl": "https://youtube.com/watch?v=M2VwLzwC4gg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M2VwLzwC4gg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M32S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 156,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/M2VwLzwC4gg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-23T11:15:26Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-queen-dropping-terran-gumiho-vs-erik.md",
       "title": "StarCraft 2: QUEEN DROPPING Terran?! (GuMiho vs Erik)",
       "excerpt": "Best-of-3 series of Zerg vs Terran in StarCraft 2 between Erik and GuMiho. This is a series with some very unique Zerg strategies and build orders. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
@@ -836,6 +797,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-02-28T08:20:44Z"
+    },
+    {
+      "path": "_games/lowkotv-byuns-masterclass-in-slow-pushing-protoss-starcraft-2-finals.md",
+      "title": "ByuN’s Masterclass in SLOW PUSHING Protoss! (StarCraft 2 Finals)",
+      "excerpt": "Professional series of StarCraft 2 between ByuN (Terran) and MaxPax (Protoss). This match is the finals of this week's ESL Open Cup. New StarCraft 2 patch:  https://youtu.be/dP2hx7mpZ1k?si=CvJuwObaVpVvKCVZ Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-byuns-masterclass-in-slow-pushing-protoss-starcraft-2-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-byuns-masterclass-in-slow-pushing-protoss-starcraft-2-finals/",
+      "originalUrl": "https://youtube.com/watch?v=M2VwLzwC4gg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M2VwLzwC4gg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M32S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M2VwLzwC4gg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-23T11:15:26Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-lowkos-mass-hydra-vs-terran-mech.md",
@@ -993,6 +993,45 @@
       "publishedDateTime": "2021-12-24T21:58:31Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho.md",
+      "title": "StarCraft 2: Marine BLOOD BATH! (herO vs GuMiho)",
+      "excerpt": "StarCraft 2 ESL Open Cup 215 Grand Finals for the Korean server. In this series of Terran versus Protoss we watch GuMiho play hyper aggressive Terran strategies versus herO. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho/",
+      "originalUrl": "https://youtube.com/watch?v=DK68MQv_9QE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DK68MQv_9QE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M14S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 115,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DK68MQv_9QE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-26T11:34:09Z"
+    },
+    {
       "path": "_games/lowkotv-byuns-new-creative-mech-armies-starcraft-2.md",
       "title": "ByuN's New CREATIVE Mech Armies! (StarCraft 2)",
       "excerpt": "StarCraft 2 finals of the weekly ESL Open Cup, best-of-5 series of Terran versus Zerg between ByuN and Solar. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
@@ -1029,44 +1068,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-03-19T12:27:00Z"
-    },
-    {
-      "path": "_games/lowkotv-byuns-ultimate-slow-push-vs-maxpax-starcraft-2-finals.md",
-      "title": "ByuN's ULTIMATE Slow Push vs MaxPax! (StarCraft 2 Finals)",
-      "excerpt": "Professional series of StarCraft 2 between ByuN (Terran) and MaxPax (Protoss). This match is the finals of this week's ESL Open Cup. New StarCraft 2 patch:  https://youtu.be/dP2hx7mpZ1k?si=CvJuwObaVpVvKCVZ Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-byuns-ultimate-slow-push-vs-maxpax-starcraft-2-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-byuns-ultimate-slow-push-vs-maxpax-starcraft-2-finals/",
-      "originalUrl": "https://youtube.com/watch?v=M2VwLzwC4gg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M2VwLzwC4gg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M32S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/M2VwLzwC4gg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-23T11:15:26Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",

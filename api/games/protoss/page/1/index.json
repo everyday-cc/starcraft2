@@ -831,14 +831,14 @@
       "publishedDateTime": "2024-03-23T11:15:26Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-reynors-late-game-war-vs-showtime.md",
-      "title": "StarCraft 2: Reynor's Late Game WAR  vs ShoWTimE!",
-      "excerpt": "Best-of-3 series of top level European StarCraft 2 that's a qualification match for the Masters Coliseum 7, the first premier SC2 tournament of 2024. In this video I cast a series of Zerg versus Protoss between Reynor and ShoWTimE. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynors-late-game-war-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-late-game-war-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=Mjo5zpxy5lY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mjo5zpxy5lY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53M52S",
+      "path": "_games/lowkotv-no-way-heros-mothership-recall-goes-wrong-starcraft-2.md",
+      "title": "NO WAY! herO's Mothership Recall GOES WRONG! (StarCraft 2)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between herO (Protoss) and Cure (Terran). This series is the finals of the ESL Open Cup Korea. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-no-way-heros-mothership-recall-goes-wrong-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-no-way-heros-mothership-recall-goes-wrong-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=lfbMocO4z_M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lfbMocO4z_M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H16M59S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -853,13 +853,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
-        "Zerg"
+        "Protoss"
       ],
-      "heat": 111,
+      "heat": 117,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Mjo5zpxy5lY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/lfbMocO4z_M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -867,7 +866,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-01-07T22:11:20Z"
+      "publishedDateTime": "2024-01-16T09:06:41Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",

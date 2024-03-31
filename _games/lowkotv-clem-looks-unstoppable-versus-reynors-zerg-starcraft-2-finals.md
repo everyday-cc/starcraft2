@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-clem-looks-unstoppable-versu
 type: video
 length: PT58M7S
 publishedDateTime: 2024-03-27T12:55:00Z
-heat: 280
+heat: 240
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TVhSO9vI8fY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "GpvZT59X6VwHhTqoUIW0yjlS9EvRLR1s5kpUwm8WCy/afkVbXwjCz04CcGV37yNk2CtpR8zFpur9w5XsSZegmVIkFzP1rd/Ousl59bXzmglutbKmhoumH5jo3dJRj/aa7RREIfCTcWFG2RTOAvORb9U+V/eLQzjJf/tSyrUNOlysMtUOMS6pYr/OeoDgt3Gd5Pac6wEp3Nh7GwVXv9HjKKW4KSDN/+//WxEXNj/OCt4zSk5f/SHgV4+r4LdRY1TnwLK+1XOtgQ3oQpNFwnP1zgSyALRs1VD+Mi3KIJJfFg9p8uhRE7wsL5zogpCLxl24qNl+5BNRhJXr0xTXfyzIUF0MjuKpAnFKSI3+VuaCuZX/p6kdJd66PEAfof0f+1MquK5gE1CRi31sNGLDyqPcWWrn2COuHDWUvJgxk4jyyDc=;kWfeWyQGJErWUNMwdSg4AQ=="
+secured: "orbPD+iF+Q92eAL07eEJXRHIcKcb6vp+yVEEKhbcKCf+e7jTAZjN1AJLQ2etSgMI0KyKDAI95kdWB6TadK/Q7kyAu3a5pZ2I1XMVmSksx+AbS5bwvVOFBZma2eU7eN76AKhD/US+m0o9db/vCQYVxLXRX3oEAQzy99Wx+JHrFZ4JKIBMXRxP+563NHBBqiO/FZY/xre6RIqAEfrzwdxDMRuCKTOPMH5i53rOZnJjh2nc8JW5HnCkPIbfPE85xif3T69qVbPrdx+oXTODVZPupM1YaLPmyxynRlisg7qRWF4yQRw08yTThq1U9ECIQAeg4aXtXzg2ABOHfFslnCC00xHmICdyaZClWibvM0TIrMQxhzokgXn/p/2fiiv4vuCXKsrN0Ub6LY66pXKrx1gsfTwBIDycm3DI0Z1IJjeZO+E=;nKTj++lEy0Ak/m8A6SafIg=="
 ---
 

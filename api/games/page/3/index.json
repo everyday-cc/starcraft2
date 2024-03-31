@@ -852,6 +852,45 @@
       "publishedDateTime": "2023-01-19T02:34:08Z"
     },
     {
+      "path": "_games/lowkotv-byun-surprised-by-proxy-dark-templar-into-sky-toss-starcraft-2.md",
+      "title": "ByuN SURPRISED by Proxy Dark Templar into Sky Toss! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of StarCraft 2 between ByuN (Terran) and Creator (Protoss). This match of SC2 was played during the ESL Open Cup Korea. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-byun-surprised-by-proxy-dark-templar-into-sky-toss-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-byun-surprised-by-proxy-dark-templar-into-sky-toss-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=liwnsG5fuTw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/liwnsG5fuTw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 117,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/liwnsG5fuTw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-28T08:20:44Z"
+    },
+    {
       "path": "_games/lowkotv-darks-shocking-proxy-hatcheries-best-of-3.md",
       "title": "Dark's SHOCKING Proxy Hatcheries! (Best-of-3)",
       "excerpt": "Best-of-3 series of high level StarCraft 2 between Dark (Zerg) and NightMare (Protoss). In this series Dark decides to play some questionable strategies against his Protoss opponent but as per usual he somehow makes it work. A proxy hatchery is a strategy where a Zerg player builds a Hatchery near the",
@@ -920,44 +959,6 @@
       "publishedDateTime": "2024-03-24T03:08:31Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-incredible-speed-serral-vs-reynor.md",
-      "title": "StarCraft 2: INCREDIBLE SPEED - Serral vs Reynor!",
-      "excerpt": "Professional match of StarCraft 2 from the Master's Coliseum 7 tournament. This game is between Serral and Reynor, two of the world's greatest Zerg players. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-speed-serral-vs-reynor/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-incredible-speed-serral-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=GyPIXsRmbqs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GyPIXsRmbqs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M7S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 115,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GyPIXsRmbqs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-20T11:39:47Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",
       "title": "StarCraft 2: Erik's SURPRISES GuMiho with Zerg Drops! (Best-of-3)",
       "excerpt": "Best-of-3 series of Zerg vs Terran in StarCraft 2 between Erik and GuMiho. This is a series with some very unique Zerg strategies and build orders. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
@@ -997,14 +998,14 @@
       "publishedDateTime": "2023-05-22T10:49:14Z"
     },
     {
-      "path": "_games/pig-astrea-has-become-a-tournament-level-florencio-astrea-archives-1-starcraft-2.md",
-      "title": "Astrea Has Become A Tournament-Level Florencio | Astrea Archives 1 - StarCraft 2",
-      "excerpt": "There's a reason why anytime I host a showmatch, I ALWAYS invite Astrea - He is just TOO fun to watch. This game is from a pro tournament, where Astrea has been goofing off the entire time and winning with gigabrained mind games. He sent me this personally, saying this was the most interesting match",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-astrea-has-become-a-tournament-level-florencio-astrea-archives-1-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-astrea-has-become-a-tournament-level-florencio-astrea-archives-1-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=6sVDG8R3FqI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6sVDG8R3FqI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M3S",
+      "path": "_games/pig-starcraft-pros-read-mean-youtube-comments.md",
+      "title": "StarCraft Pros read MEAN Youtube Comments",
+      "excerpt": "We asked StarCraft 2 pro players to read Youtube mean comments for PiG Sty Festival 4 in September 2023. Here's how they reacted! Video includes Serral, Maru, Clem, HeroMarine, MaxPax and Reynor -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-starcraft-pros-read-mean-youtube-comments/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-starcraft-pros-read-mean-youtube-comments/",
+      "originalUrl": "https://youtube.com/watch?v=xQW09QiRg4Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xQW09QiRg4Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M55S",
       "provider": {
         "name": "PiG",
         "domain": "youtube.com"
@@ -1015,7 +1016,7 @@
       "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6sVDG8R3FqI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/xQW09QiRg4Y/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1023,7 +1024,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-01-10T12:52:20Z"
+      "publishedDateTime": "2024-01-21T10:43:29Z"
     }
   ],
   "nextPage": 4

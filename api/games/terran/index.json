@@ -954,6 +954,45 @@
       "publishedDateTime": "2024-03-23T11:15:26Z"
     },
     {
+      "path": "_games/lowkotv-byun-surprised-by-proxy-dark-templar-into-sky-toss-starcraft-2.md",
+      "title": "ByuN SURPRISED by Proxy Dark Templar into Sky Toss! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of StarCraft 2 between ByuN (Terran) and Creator (Protoss). This match of SC2 was played during the ESL Open Cup Korea. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-byun-surprised-by-proxy-dark-templar-into-sky-toss-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-byun-surprised-by-proxy-dark-templar-into-sky-toss-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=liwnsG5fuTw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/liwnsG5fuTw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 117,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/liwnsG5fuTw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-28T08:20:44Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",
       "title": "StarCraft 2: Erik's SURPRISES GuMiho with Zerg Drops! (Best-of-3)",
       "excerpt": "Best-of-3 series of Zerg vs Terran in StarCraft 2 between Erik and GuMiho. This is a series with some very unique Zerg strategies and build orders. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
@@ -1106,45 +1145,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-05-19T08:44:05Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
-      "title": "StarCraft 2: SERRAL vs MARU! (Best-of-7)",
-      "excerpt": "Merry Christmas everyone! The two best players currently in StarCraft 2 face off in a best-of-7 series. Serral (Zerg) takes on Maru (Terran). This is the Grand Finals of King of Battles 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-maru-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-maru-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=NtD2vnq5rTY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NtD2vnq5rTY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H22M32S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 105,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NtD2vnq5rTY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2021-12-24T21:58:31Z"
     }
   ],
   "nextPage": 2

@@ -4,44 +4,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_games/lowkotv-serral-baneling-busts-oliveira-starcraft-2.md",
-      "title": "Serral BANELING BUSTS Oliveira! (StarCraft 2)",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 between Serral (Zerg) and Oliveira (Terran). This match was played during the ESL Masters Winter tournament, at Dreamhack Atlanta. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-serral-baneling-busts-oliveira-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-serral-baneling-busts-oliveira-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=oR8rTBuGkUI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oR8rTBuGkUI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M50S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oR8rTBuGkUI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-12-19T11:09:23Z"
-    },
-    {
       "path": "_games/lowkotv-serral-is-surprised-by-cures-cyclones-starcraft-2.md",
       "title": "Serral is SURPRISED by Cure's Cyclones! (StarCraft 2)",
       "excerpt": "Professional match of StarCraft 2 played on the new balance patch on the map Radhuset Station. This new map is the strangest one in the new map pool. You really can't wish for a better first match on this map than Serral versus Cure. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
@@ -1135,6 +1097,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2018-12-14T11:41:46Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-a-ridiculous-zerg-vs-zerg.md",
+      "title": "StarCraft 2: A RIDICULOUS ZERG VS ZERG!",
+      "excerpt": "One of the longest games I've seen of Zerg vs Zerg. Subscribe for more videos: http://lowko.tv/youtube Insane Protoss macro: https://goo.gl/kYVEow  Denver versus Namshar in a really epic match of Zerg vs Zerg. While Denver decides to open up very defensively, he quickly piles on the aggression in the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-a-ridiculous-zerg-vs-zerg/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-a-ridiculous-zerg-vs-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=blr5eNFKU9A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/blr5eNFKU9A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/blr5eNFKU9A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2019-03-01T13:09:18Z"
     }
   ],
   "nextPage": 29

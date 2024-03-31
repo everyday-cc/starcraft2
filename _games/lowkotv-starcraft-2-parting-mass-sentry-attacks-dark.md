@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-parting-mass-sen
 type: video
 length: PT20M2S
 publishedDateTime: 2024-03-18T11:26:44Z
-heat: 91
+heat: 93
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v5gyRij2nTE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "xk2BQbbSoXZI2gpUchcl+ISbzezrY+nsP/ZCAQYkNF2DrrLQBf+L36dbh+uZ1wuf/iZ2yMqUCXgtuLGYQrpAKF9M8GMGArwHV7G3qy+a4JOHmded5Llp8BQ1T1b2Jvnc+KjFiwh869UrT3URzjXo3JzeJrOvlx52bEdxkfm8LKi08DRRlQtDB6/PoOmpfEYl5OygU8ZgEsskIiquhNmq1Hm/ET1AszG3iMMcLgkJawjb1upQm9pcCuQT0uuy42zsEPW+kSDgS7fwcFG9icho0yK8D41Y6ZmTQSCl3tMtX6MM65KH8LxJ6R6mMCeC1DON5V/hhgdlPyX2/s/0BPns099TuIIPfoOYoQJiBNLJqVArRg66T9XTNNVbsHW6pakYXflu24DDg7q7tahgYMDvVZt5lMEr7aPqRQlEUomQV8Y=;7QCYy5F2q6IOcY8JV6xZZg=="
+secured: "PmXhatBRP6r1+rCozonF/HLNkeQRErMamZ6ouEieaN6dLsNJtuM/Q/aZJtR7ZU7fie38qOoL9k4JoW+2c8lEMjgVhhT/LcNOhgQbPxfO3C5NGRrWFwATsmxZjrqkkROa/eKZjtIVx0jImyPh9ElsC3LQuwsDs6omPgRHrEolyUT8LS7u5SM1aHJ6z1GjSvsOnhIDRuhFqsXPCLSWnI9v/+/7dLr8gDKBwazSOBZ1paNkOtFRKdq9vn7ZVjR2O0V04ZFcSeh0lBaTHaWxHbXIpm/zNyoM1ZlzXxF4UN9pNcYUY4xlPSQBSUhuwfCH/bNwya92mk2cfam0J+g85Ai+zY5JI5D2oWbkmfcoqILBwvlyWiNMAa6LrUmcyvGR0onhe4Qw0tVqDyB6pBIlKvERcuOIDMIKUHGeY/3TTpWt/ks=;UsdSfStHcifEfm63Ul77gg=="
 ---
 

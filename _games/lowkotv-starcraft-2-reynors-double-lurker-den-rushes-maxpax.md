@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-double-l
 type: video
 length: PT49M44S
 publishedDateTime: 2024-03-16T11:15:18Z
-heat: 81
+heat: 83
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3oOQKD2Vbtc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "q2CDMRb6oex87hsyDVFvzCzxfvL1qz4BXY/TWRbciptVWj/RZBo+HqB1nvHuWzgeRQyrRyMFxN+uBUHdC0daQ4LKz+tMO9q5pHrAdPN7nWo9laRUBk+S4ULmf4/TJbAGo3GBU44di/SLP6KiAUI68sgQ6RYfsWcYOoNCbkwMHMnVGjhaJuxZXPNp4BZ1V/uiYT2XsHAjWRfq+tKQGbTCwu8Ansdq+Pdw4dMkGCgRJ/F6e7SeyefdhxxT3gFK1p7E0cVuH+BZl1O/jRPXaiW0VDcvbppdqvyldpJp/333O8+zPCIw6fkXPG6bIcsIQs8PAqQxzc+ExfdeyMuOG1Wv+pHdoRn2Hq0iEcBfSv9FfRBpANkRvuepUE+XYeqb3LQiyl86yr7R2h1NHHYDWVXgAbkw+VH5IlhZctQ+D8KbtHg=;pKpC/YteVo7x8HwbW8VM4Q=="
+secured: "8oJJrWtbUQ5JFdJPqZbRi808hjkvzZlfJFKxdVhbJUzICenWUgzDtbwWj8XJLUJGH1pnbw/ZTcZRu8j8hlcqZ0wMtsRtwn6yGqJ320N8El3Uyg8DRvq9f8Da05N4VmJmGyaP1ogZ3cMkVZfj9PXQ7avGJfLDLS4fvJoLpp9cO0ix+UFHg4xSuWpChZxziB5i+1rkMcWH4SzQt71h/NY5PO+IVmlzjBJT/VuBDozxQDP2rsoXycFq3KfDwJsRYJ4XMQChxQDFbOZgSEVopFzj8CHjScjnPnNiul0Xp47ijL4f+dixra+riLdHCfCo+96moCyxjajVcbYCv13tTfoiHtgxQAkPC2jUtXoJeAQ7pHPpiuRDii7qA5BsP+kaN2lMvnBDgFB1rqpd2Dq24e8VdmANDJziVrCwzN36+IeIrkA=;QR1R/TmTyCU346/V/v3Rjw=="
 ---
 

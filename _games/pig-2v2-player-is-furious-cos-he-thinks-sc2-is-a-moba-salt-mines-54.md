@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/pig-2v2-player-is-furious-cos-he-thi
 type: video
 length: PT19M35S
 publishedDateTime: 2024-03-26T06:36:37Z
-heat: 142
+heat: 143
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t3mtvUEy_TM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "nRM9Q2Jo2I510iQx1Sj9lP4kZHcmrbgmStAY0f6vDKkySUUC8aS1KGIh9U9+xTicKfB81Au21bXAfwq/tMKCm6b6cDkfRZorqoQMfojeZ1fGndUjZXaQ2brJqNCTsj2AtoXQ2VtgvaqefbzLUyZwfXumoAgKkmPB3/NJWhqrg4kVWxDvuKf2Ul5wPVerYTqrgBsCVCGuQHfAk8rQ/iXMVExtRCI0cyuhrWQZDS/n56lQoR2Hb6SMmp26ZyEBFSmP02lglLsq5QGUGu6/3q74oZNpOqECxAyXHVhR+V4DGG0FKjz0Hvw2n7eA1+8oQPenvDqZsFbKzsui7G7SueeJstlBfyHM0ah7q1T5kHKiO0yWDSq9Oxn7YV3nJvVMP2eZKTk1qh0jzMB1OIqzJWWgpEGRio/qmuGMvsquGHIpnxs=;1wrw3gmf8Txbfs8+j8C7fw=="
+secured: "Ws3VPLozQLMrKVTpivsGWbTTTuZL3dSU5RYtn4SUjKjHr+NsSkdrgTFfC8ssHIn3/PSgkyWVH4hdq/D0UTFBTQTZIWMQcX3VgfRTqmhAdoWp49syfbWAXWaSREE9dwINr3LaW/n6h+CiNnDCmXw+TzM5IVmDvlRZ8WKnwMYYLpB9WnbsFxn2nlWLh9Yo4kxLy37iDUF8OR9JuPK507sdOjoNiZagDrLz9YrvyeyDeHYIUt2n4FtVV8UbPhbzKe85bDB2fJrHyJdirlZCJV0DfywxNOH2jUgciNhAyrqu9MZd+W4k4UVVG/uzT281RtUkdj/FHPQDHZ9MY00CaUYIIor7woMW63fkf+lJ5nk2n7qZjBGfA2unToD/h3VvwTxM9Suv1JKlDG6xK2/g08RyUk5Q3EBJuFFGBOO/Vv0jkuY=;X/PzGkD0nMU/WI76rMekEg=="
 ---
 

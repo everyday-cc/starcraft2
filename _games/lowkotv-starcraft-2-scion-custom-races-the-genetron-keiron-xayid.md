@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-scion-custom-rac
 type: video
 length: PT41M9S
 publishedDateTime: 2023-11-28T08:50:37Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m1XUPkN62_c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "qxQmyS+vICvWDgf/C5jD3MnI++vC7ZS5R0zcg1NLpTQKaoPpBXCGKmUx/tzn/NF6OdVrInU8zMtydsc830UYZ4+gxeFMsZOq+nujFbw5jb92H1kUzpNIO7r1sVAh9W5QuYWtYrGjPD53IEuH3Y4G2MzMDTVs033wYTIsMcsgOG6Sz9OlA87jKfSLqHwRMwWEpHzqy7HSoOyZurYX+nmwQ8I6RXY5J/rZMCIXdJGeVS4WaGwKeulKkvf7OvNNnn6u2h8MPGbm5iYiKpr6IrmupWdt1rY63348TVjo7sOyyk3YRn9908nbb+S72b68ohnYhe8wAATEMuxM5/p8roZzMz95u8L8cGXyrEUn+ZaIltxsr/omIYmk6z4bMbgO9+b36SUFVsukq+9jweIoORh+8yP96lEQMKR8QpBTbRzGHlM=;1TAE0V85f9sAiki04XlXWg=="
+secured: "g8VoL19eKkMgwuapXzJiLqvVhyg4cXLc4AocNR724GgMu4gZTeqrUaWa67RZf9oa94JkZkr+tACuZRTJUIT1+IO3hcZduzEsrRo0zan9gDfpmPv5IaOjvWfn0DxY1K1qsQSgZlay3lg9vNrga7IZQ8QOfz8Qv5yqDs7+ht9mKEio7BypspKhih2UodUHsz0sV8iFTHgbNKMDdffXY5N4El67rDrszSKTMFqgUD7JroFQkpJuOmld9DxdJnh7G4VY35aSOoSIycM9mtSjjEFllZWMZNBl9IxDBzSYlbIm4RoTw/bx8VB1vnfqgephzItgdRCSzUxwrcPaoMcax8SXDxgGBj/gMHPeDX7jY4atottHCd1h/aELXgAyO0LQ+cCyxFAyy4OOSjDCcAQHMH8bIMXDMocwZUPAa6WpUUBvI9w=;vTR7O1WMulWjrf+kFqiLKw=="
 ---
 

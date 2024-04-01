@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-proxy-marauder-r
 type: video
 length: PT54M51S
 publishedDateTime: 2024-02-23T12:46:32Z
-heat: 75
+heat: 72
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fMQ-PYMUGwI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5p/lFoCiOYnPGAW3DJqrwBm1FU5gSGD+OAoXMJA26R8wfcjfDJhgi7x4kOHg4FmRpr39rDd+XibcUhFkZtcbNM+dfQLguTWquAYhl1G6C8/CSkxDxlbl72GuYI/w37XdmxjT5NZY1lhH6QxhPr5nhcaNXd+ppbNeiyOGpId84WkJjeJ+tCj+ODpWqcBt1KyyLoqFL4nDX6gehIfX7SaIUL7r0KwbG+vHQhvp2iclwgMJrQSCraQ4I/LEM8QdFhnOf4pIrnI6iNoe6y+IGXjHPsdDgEJ+SvNFalPnWFYAtnHmLFlUgAD5wt7/e3FOZ5fROXSpi0YcloZ7JQKPEQZ9qJ32Jv8God8gEwHn177cdYzKImxvP1Zf03GfbSj73DMEQYQ4UktF3LyPSCHUwSFwCHIELgGyji65Zu7Czr4pDPw=;+LiuFy7cSlJnbOA9GyBnag=="
+secured: "gTxUCj0rNaC6Ux9wYQmehHm1DvkREJ77WO1EMa+lfZhUdvC/p9H6ujJQgUVer3u91nDU9tPdNEuOzlMtLsLXkhNEikr9wt5zpMhyHoZ06A5he8MH8bTSEEMkWIuY169WUKYYlh1hyZRRIvpqDKYxqopHaAZ1wuqS/MbalNMK6JByF5LrExye26g1Z6u9ASe8PSNf8lXdrZ/NJXkvsCMA0jZdDuAYAigFoIq/4mltvqO4T4j5uOxxk1C/NVPPc6+aDlxP1FjCCpdrZq51JJIYrTkKQzZ3/7OiLgm3uAm1SUM1cmcoDPOKd2DVFIWRIfYhFt71Plcyu0UkIO0bIhf9t9QJwXhHYXB8aGMrNrikNdZU3mkO1GretsqqfPXrvsK2W5KxV5OKQ2MR1rss3bfFNxkem6tC9q3k++fdr8UJpw0=;2QWocIG+v1f+nI/9GaHZuA=="
 ---
 

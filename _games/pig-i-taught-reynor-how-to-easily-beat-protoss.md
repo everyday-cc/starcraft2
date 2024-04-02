@@ -2,6 +2,7 @@
 title: "I taught Reynor how to EASILY beat Protoss"
 excerpt: "@reynorsc asked for coaching help from PiG  -- 🐷 Main Channel: https://www.youtube.com/user/PiGstarcraft 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG: https://www.patreon.com/PiGSC2 🐷 PiG’s Discord: https://discord.gg/SkhbzCM"
 originalUrl: https://youtube.com/watch?v=1nsf1zwuotw
+webUrl: https://everyday.cc/starcraft2/game/pig-i-taught-reynor-how-to-easily-beat-protoss/
 type: video
 length: PT28M8S
 publishedDateTime: 2024-04-02T08:15:49Z
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "7ZjdcLeBESK+WzB3dzUEqKG14PpG9qT0KukvkzBiUDvdD4XJ0bf/1c05pAcUpJpuVOovTvUzPtpOezTxdV4GLu3TrDVDRYuBV00TC53k3XbqHWNch9wy3gdeXZMQkUau5/J0CQx3/QjER9L1emw5zcUuIP8zXt1uAuVG2qXTwp9iM7rdexB7+BDZvnLviQX0IesCH9QpvVpdbfT41aQ0uyLEojH0erbtaRTf9ViLt45ROSUL/RSmISwJcuIzdYpS8ufPPQAm6Mk8fnZxxDGZyWKC3OwTF02B71+3E5t/NEMmEVkksiZ2CYjbYoQt5pTzDPsE7xlVlqyQfuZNGwzUcrtCLpRj4Z5T6uEF29oA7t5TnzGDNyNnJQymIFUSxY88AU1iNSYzze/Fiov7bk6flA==;HBAjkNSwhoFZDazhbvGb0A=="
+secured: "EpOVuHbBO76+35msl0S0xykfJqvpMOEsrz7uXRf9pmE9Xk3HFgs6JSQ17pN9vkDiD6SVF94jHVY2TTSSpNT+EYgd2LtY0QcdJzF2rP/rlM/omb/uFf+je1qabG7m0XwbIVXI/7MhnZ/t2nXeebyrzb1TcZKyEYYCMFHvLkD+LO+5KPKATx/KmbZnjTx3i+GDmIb2kNkngZz9j7yw2K1YkWi6t8JvYzhY2TG1oMBN9nYreVXYlGOBxkcZ5V+Fq5mzaC/alVcAOrcZIXkx6E5aKfAMrPZ1wdL6chhFG2aJLEtDCmG2gi7rZe8AnqYzbnpxc/X629KfMeD+Xb1RT0jq+9UuvgV5CXs6Uc7Farh9YNq43APNoOMKqKvkYLry1xDK;3Cba8lGhu+lTtSydVr/wzg=="
 ---
 

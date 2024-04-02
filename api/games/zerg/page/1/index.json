@@ -4,6 +4,45 @@
   "page": 1,
   "value": [
     {
+      "path": "_games/lowkotv-dark-drone-rushes-hero-starcraft-2-finals.md",
+      "title": "Dark DRONE RUSHES herO! (StarCraft 2 Finals)",
+      "excerpt": "StarCraft 2 tournament match from the Korean StarCraft League 47. This is the grand finals of this SC2 tournament between herO and Dark, a classic Protoss versus Zerg matchup. Dark's super cheese vs Astrea: https://youtu.be/GakoZRmZyBo Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-drone-rushes-hero-starcraft-2-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-drone-rushes-hero-starcraft-2-finals/",
+      "originalUrl": "https://youtube.com/watch?v=3S2sxhIJbyM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3S2sxhIJbyM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M56S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 410,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3S2sxhIJbyM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD0gUihlMA8=&rs=AOn4CLAK5rwIo_9oMCyfthxqedIHI6QuBA",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-30T13:08:48Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-did-he-make-a-20000-mistake-serral-vs-ragnarok.md",
       "title": "StarCraft 2: Did He Make a $20,000 Mistake? (Serral vs RagnaroK)",
       "excerpt": "Best-of-5 series of StarCraft 2 between Serral and RagnaroK. This match is the quarter finals of the StarCraft 2 World Championships that was played last month at IEM Katowice.   Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: @LowkoTV @MoreLowko @LowkoClips",
@@ -785,83 +824,6 @@
       "publishedDateTime": "2022-09-11T12:45:43Z"
     },
     {
-      "path": "_games/lowkotv-dark-drone-rushes-hero-starcraft-2-finals.md",
-      "title": "Dark DRONE RUSHES herO! (StarCraft 2 Finals)",
-      "excerpt": "StarCraft 2 tournament match from the Korean StarCraft League 47. This is the grand finals of this SC2 tournament between herO and Dark, a classic Protoss versus Zerg matchup. Dark's super cheese vs Astrea: https://youtu.be/GakoZRmZyBo Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-drone-rushes-hero-starcraft-2-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-drone-rushes-hero-starcraft-2-finals/",
-      "originalUrl": "https://youtube.com/watch?v=3S2sxhIJbyM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3S2sxhIJbyM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M56S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 181,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3S2sxhIJbyM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD0gUihlMA8=&rs=AOn4CLAK5rwIo_9oMCyfthxqedIHI6QuBA",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-30T13:08:48Z"
-    },
-    {
-      "path": "_games/lowkotv-maxpax-mass-zealot-rushes-reynor-starcraft-2.md",
-      "title": "MaxPax Mass ZEALOT RUSHES Reynor?! (StarCraft 2)",
-      "excerpt": "StarCraft 2 series of top level SC2 from the ESL Open Cup Europe between MaxPax (Protoss) and Reynor (Zerg). This series features some strange new Protoss build orders. Some I love, others not so much. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-maxpax-mass-zealot-rushes-reynor-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-maxpax-mass-zealot-rushes-reynor-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=YvPBY5yB3nw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YvPBY5yB3nw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M10S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 177,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YvPBY5yB3nw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF0gZSg-MA8=&rs=AOn4CLB-JWK_lOvES5KOnKYJ0FoBK-w4Sw",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-25T11:03:12Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-clem-vs-dark-premier-tournament-grand-finals.md",
       "title": "StarCraft 2: Clem vs Dark - Premier Tournament Grand Finals!",
       "excerpt": "Best-of-7 series of top level StarCraft 2. This SC2 match is the Grand Finals of the ESL SC2 Masters 2023 Winter, between Dark (Zerg) and Clem (Terran). Total prize pool for this event is $75000. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
@@ -1119,6 +1081,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-11-23T11:34:26Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-queen-dropping-terran-gumiho-vs-erik.md",
+      "title": "StarCraft 2: QUEEN DROPPING Terran?! (GuMiho vs Erik)",
+      "excerpt": "Best-of-3 series of Zerg vs Terran in StarCraft 2 between Erik and GuMiho. This is a series with some very unique Zerg strategies and build orders. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-queen-dropping-terran-gumiho-vs-erik/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-queen-dropping-terran-gumiho-vs-erik/",
+      "originalUrl": "https://youtube.com/watch?v=TJezGProI74",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TJezGProI74\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M31S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 147,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TJezGProI74/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-05-22T10:49:14Z"
     }
   ],
   "nextPage": 2

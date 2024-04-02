@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/pig-2v2-player-is-furious-cos-he-thi
 type: video
 length: PT19M35S
 publishedDateTime: 2024-03-26T06:36:37Z
-heat: 143
+heat: 118
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t3mtvUEy_TM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 

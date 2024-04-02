@@ -43,6 +43,45 @@
       "publishedDateTime": "2024-03-23T11:15:26Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-reynors-late-game-war-vs-showtime.md",
+      "title": "StarCraft 2: Reynor's Late Game WAR  vs ShoWTimE!",
+      "excerpt": "Best-of-3 series of top level European StarCraft 2 that's a qualification match for the Masters Coliseum 7, the first premier SC2 tournament of 2024. In this video I cast a series of Zerg versus Protoss between Reynor and ShoWTimE. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynors-late-game-war-vs-showtime/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-late-game-war-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=Mjo5zpxy5lY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mjo5zpxy5lY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT53M52S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 115,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Mjo5zpxy5lY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-01-07T22:11:20Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",
       "title": "StarCraft 2: Erik's SURPRISES GuMiho with Zerg Drops! (Best-of-3)",
       "excerpt": "Best-of-3 series of Zerg vs Terran in StarCraft 2 between Erik and GuMiho. This is a series with some very unique Zerg strategies and build orders. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
@@ -149,45 +188,6 @@
       "publishedDateTime": "2023-08-25T11:00:16Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",
-      "title": "StarCraft 2: SERRAL vs MARU! (Best-of-7)",
-      "excerpt": "Merry Christmas everyone! The two best players currently in StarCraft 2 face off in a best-of-7 series. Serral (Zerg) takes on Maru (Terran). This is the Grand Finals of King of Battles 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-maru-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-maru-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=NtD2vnq5rTY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NtD2vnq5rTY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H22M32S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 108,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NtD2vnq5rTY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2021-12-24T21:58:31Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-soos-spine-crawler-rush-vs-zest-best-of-5.md",
       "title": "StarCraft 2: soO's Spine Crawler Rush vs Zest! (Best-of-5)",
       "excerpt": "Best-of-5 series of professional StarCraft 2 between soO (Zerg) and Zest (Protoss). After macro games soO decides to go for a Spine Crawler rush versus Zest.  soO vs Cure: https://youtu.be/EfILZ7FPv70 soO vs ByuN: https://youtu.be/mSL43Z7w6A4  Support my work on Patreon: https://www.patreon.com/lowkotv",
@@ -227,43 +227,6 @@
       "publishedDateTime": "2022-05-23T18:16:38Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-best-games-from-the-rextor-invitational-lowko-rushi.md",
-      "title": "StarCraft 2: The BEST GAMES from the Rextor Invitational! (Lowko & Rushi)",
-      "excerpt": "In this long video Rushi and myself cast a StarCraft 2 tournament called the \"Rextor Invitational #1\". This tournament features several up-and-coming players. This video features only the best games from this event.  Rushi's Twitch stream: https://www.twitch.tv/rushisc  Support my work on Patreon: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-best-games-from-the-rextor-invitational-lowko-rushi/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-best-games-from-the-rextor-invitational-lowko-rushi/",
-      "originalUrl": "https://youtube.com/watch?v=roaM0PoXd0Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/roaM0PoXd0Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3H51M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 108,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/roaM0PoXd0Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2021-10-12T10:02:20Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-darks-gumiho-speedrun-goes-wrong.md",
       "title": "StarCraft 2: Dark's GuMiho SPEEDRUN Goes Wrong!",
       "excerpt": "Best-of-3 series of StarCraft 2 between Dark (Zerg) and GuMiho (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
@@ -301,6 +264,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-05-19T08:44:05Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-premier-tournament-grand-finals-serral-vs-maxpax-best-of-7.md",
+      "title": "StarCraft 2: Premier Tournament GRAND FINALS - Serral vs MaxPax! (Best-of-7)",
+      "excerpt": "Grand Finals of the ESL StarCraft 2 Masters Summer: European regionals. This is a best-of-7 series of top level StarCraft 2 between Serral (Zerg) and MaxPax (Protoss). The number 1 Protoss and Zerg player in the world at the moment. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-premier-tournament-grand-finals-serral-vs-maxpax-best-of-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-premier-tournament-grand-finals-serral-vs-maxpax-best-of-7/",
+      "originalUrl": "https://youtube.com/watch?v=l3L6kBCAuRw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l3L6kBCAuRw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H29M52S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 105,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/l3L6kBCAuRw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-05-23T12:23:22Z"
     },
     {
       "path": "_games/pig-wings-of-liberty-nightmare-difficulty-gettin-cocky-totes-wont-backfire-part-10-starcraft-2.md",
@@ -439,6 +440,45 @@
       "publishedDateTime": "2022-09-11T12:45:43Z"
     },
     {
+      "path": "_games/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2.md",
+      "title": "Dark faces MASS Tactical Nukes! (StarCraft 2)",
+      "excerpt": "Mass Tactical Nukes in the StarCraft 2 GSL Code S 2024 season 1 qualifiers! This is a best-of-3 series of SC2 between Dark and Bunny, a high level Zerg versus Terran. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=6pr0CZSvUyQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6pr0CZSvUyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H10M56S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 102,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6pr0CZSvUyQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgPChBMA8=&rs=AOn4CLBia_8m6TG5f_mVbYYiilMR4QuOSw",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-21T10:22:51Z"
+    },
+    {
       "path": "_games/pig-how-quickly-can-scarlett-dispose-of-maphackers-holdout-challenge-starcraft-2.md",
       "title": "How quickly can SCARLETT dispose of MAPHACKERS? | Holdout Challenge - StarCraft 2",
       "excerpt": "We paid Scarlett to do the Maphacker Challenge - like a Holdout Challenge, but noobs now have MAPHACKS!  Holdout Challenge Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeFDpQtPEfczemYCea_nT3j -- 🐷 Second Channel for Learning Resources: https://www.youtube.com/c/PiGRandom 🐷 Third Channel",
@@ -498,44 +538,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-04-02T08:15:49Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-premier-tournament-grand-finals-serral-vs-maxpax-best-of-7.md",
-      "title": "StarCraft 2: Premier Tournament GRAND FINALS - Serral vs MaxPax! (Best-of-7)",
-      "excerpt": "Grand Finals of the ESL StarCraft 2 Masters Summer: European regionals. This is a best-of-7 series of top level StarCraft 2 between Serral (Zerg) and MaxPax (Protoss). The number 1 Protoss and Zerg player in the world at the moment. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-premier-tournament-grand-finals-serral-vs-maxpax-best-of-7/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-premier-tournament-grand-finals-serral-vs-maxpax-best-of-7/",
-      "originalUrl": "https://youtube.com/watch?v=l3L6kBCAuRw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l3L6kBCAuRw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H29M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 99,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/l3L6kBCAuRw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-05-23T12:23:22Z"
     },
     {
       "path": "_games/pig-this-is-the-strangest-zerg-pro-youll-ever-see-mad-meo-starcraft-2.md",

@@ -1108,6 +1108,7 @@ items:
   - pig-this-is-the-strangest-zerg-pro-youll-ever-see-mad-meo-starcraft-2
   - pig-2v2-player-is-furious-cos-he-thinks-sc2-is-a-moba-salt-mines-54
   - pig-heart-of-the-swarm-nightmare-difficulty-part-4-starcraft-2
+  - pig-i-taught-reynor-how-to-easily-beat-protoss
 
 topics:
   - StarCraft 2

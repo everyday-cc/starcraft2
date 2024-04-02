@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/pig-nightmare-difficulty-heart-of-th
 type: video
 length: PT1H31M41S
 publishedDateTime: 2024-02-14T06:58:20Z
-heat: 70
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TK4n7hib8f0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "x5fb07uyYdPseBFF5tk1IVjYXiWWu26X9YwetRVc/rdaImRoKp0Wlfc8O2upzyYByC2Wh2OlXs+B0CxANSvpz4Jw+fz0yv34EEYBye7g8LFrFernG45IcmsW64SukQbFQHQieYhxg8TaJEL1dera5hImtblTt4Y9+rhmh3FO1omAPz2XL6i9R2/47aaYBytLsm6oKyBa24cRXp4EI9ENOkzEdDbfQVDLetsNge9nCqapr3ZlMuUFV+jUoox0Erzz8gayUQBhQysMD8JinRV2tDPgHeKnK9gO/tp9PUDd7OPqR5ZGZ2UPBovL6S5BT4drrq7YCet0WSwaVWMfZJIKkAl90k/wA6rfQnJHNYVNbRhk+LATXLRVPFJh2tpJ4RM12gCLOC8298P2M7pMfb5omZfO1rWUyjQ5KWRZhNpjcYQ=;t7D5GYhSU/1VjNfueR9q4A=="
+secured: "TOihobrzwIcxESNXxxcxiL5ayGJZgLvycMfNDESBrwCVxJk4q2aLQGqp82f7tBHMcFAN9Sy69dUol9fRWdNa7yQhOWKA3mmxzkzWJt4mU41N1QI8t0n8ImAbCSPO6HE6Zadg9UdRhv1+xUuT3bq6a60OvqvY4NKlqVqdIOHSph0IFlwmHOg9KPD+2qCreUqylVzVyXokWWRyLgC11iNDdRUzYuTa7VJLRzZqqCyt7x5S74xx5VyM4tuujn6+f0WMLLcqpfkPfirrHzrxS8Tcos2aG3j4wjMj5GywiXAEdwwjyEw1fFcxPrwsmwnr9/xXA/rZ+Up+HyEoBF8gLC2owUvVSzsWIfKVdjDwqqk0eQvBvsJioE7r9ZaLkRr4UglCKbOLQt+IbEGhALDL5MRCFEjpdQ36T0lETjzwBgD47Ww=;9cNdUlGl2vIq3HnaJXhlkg=="
 ---
 

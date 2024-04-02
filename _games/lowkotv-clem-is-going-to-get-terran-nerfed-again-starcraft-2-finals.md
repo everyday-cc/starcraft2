@@ -2,6 +2,7 @@
 title: "Clem is going to get Terran NERFED... again! (StarCraft 2 Finals)"
 excerpt: "Grand finals of the StarCraft 2 ESL Open Cup 221 Europe between Clem and MaxPax. An amazing SC2 series of Terran versus Protoss. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel:"
 originalUrl: https://youtube.com/watch?v=tiecYmjDGVg
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-clem-is-going-to-get-terran-nerfed-again-starcraft-2-finals/
 type: video
 length: PT1H23M23S
 publishedDateTime: 2024-04-02T10:41:23Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "hTN4r6lspWQJ1QVC1r78RKFPTAU1PHUydx3PMx1yenAY4j1aS1vULKpgXSeTnbujWqoKnhPt7NVLqKodPPqElj+jeC1kciFOfQ5s0Kk3YDu0H2YAKDPvSjANRGgcP4hh1hRQN6rMhNFxlWc5eP8tkChPivQVjVloZw0twtvN7QcMpg4GGyyJWohJ/bgKndq6pbDp7m4TIS3HgkMER/vHQ/PRp78H7hPuB23/Wxw2GLT5cEMqf3dwDA/3nx72QJwzYME/8+jP24KwgPj+lgkPaT9vO9kssSeQfjsPm75MlU8hKZ54+JFYXGnhkNN1RaRzsP7LcBj1ninln5bAlR0kdz83XqRCVbQ/jxsAG9G8PRzztX0W3e5dsFi4mBqvfI0wJm62ePcLDVLNJiFPijR28w==;kdubAQKOc496/qldp9GmAw=="
+secured: "2ZuMZf8gkIrIzhb/sA0jUOMHTkfPM5CmKW99pg5Kwdb4ZYnM4WvizkVcfZ/AQ8FRj2Gvod1mtNsx8gRvQjXvJpm8KFHvxwtXrQKo3kbbG1yO+3uB4z8PU4BiaYdl3MgTU9VOzrCunZcYUdjWX6lD2xZtsXmEVSR9wNxnt/gPKI0KnPvLYhE20rbTk94Pgi+7VeaFLutNRVP84cYko8pyXtq2NGG53V6lDG4j9lAc5M+E3/77RH1uDSLbUmFCkFUtKy/rSPKkqZcAVT6Pr4Ni+jRPBTR2vD8ts2K1AzxQqA8EBfiv9anajfLEiN+0pbCvrcbfssXhnBiVILpKmXHoY8mPmssbUzsr54VuwSvhkHF3eoa233hCewT7UWjOnar+KKTuR4ha2ePm3mfSSdVFRg==;bgsL7cFydiwxmWsIoJLI4g=="
 ---
 

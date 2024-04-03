@@ -4,6 +4,45 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho.md",
+      "title": "StarCraft 2: Marine BLOOD BATH! (herO vs GuMiho)",
+      "excerpt": "StarCraft 2 ESL Open Cup 215 Grand Finals for the Korean server. In this series of Terran versus Protoss we watch GuMiho play hyper aggressive Terran strategies versus herO. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho/",
+      "originalUrl": "https://youtube.com/watch?v=DK68MQv_9QE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DK68MQv_9QE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M14S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DK68MQv_9QE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-26T11:34:09Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-strangest-games-this-year-hero-vs-dark-grand-finals.md",
       "title": "StarCraft 2: STRANGEST Games this Year - herO vs Dark! (Grand Finals)",
       "excerpt": "Best-of-5 series of StarCraft 2 between herO (Protoss) and Dark (Zerg). This series is the grand finals of the Korean Starcraft League, the KSL. The KSL on Patreon: https://patreon.com/KoreanStarcraftLeague/ Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
@@ -101,45 +140,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-07-06T21:50:04Z"
-    },
-    {
-      "path": "_games/lowkotv-protoss-genius-or-fool-solar-vs-hero.md",
-      "title": "Protoss GENIUS or FOOL?! Solar vs herO",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 from the ESL Open Cup between Solar (Zerg) and herO (Protoss). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-protoss-genius-or-fool-solar-vs-hero/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-protoss-genius-or-fool-solar-vs-hero/",
-      "originalUrl": "https://youtube.com/watch?v=Z-mRnnVT7JA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z-mRnnVT7JA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M27S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Z-mRnnVT7JA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-02T21:08:20Z"
     },
     {
       "path": "_games/pig-the-depot-strategy-to-break-zerg-brains-florencio-files-282-starcraft-2.md",

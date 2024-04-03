@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-clem-looks-unstoppable-versu
 type: video
 length: PT58M7S
 publishedDateTime: 2024-03-27T12:55:00Z
-heat: 198
+heat: 173
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TVhSO9vI8fY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 

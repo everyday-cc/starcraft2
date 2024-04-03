@@ -4,43 +4,14 @@
   "page": 4,
   "value": [
     {
-      "path": "_games/pig-i-embarrassed-a-pro-player-then-this-happened-pig-vs-astrea-starcraft-2.md",
-      "title": "I EMBARRASSED a Pro Player, then this happened | PiG vs Astrea - StarCraft 2",
-      "excerpt": "This is a story about RANDOM and REVENGE - between me and top 20 player in the world, Astrea, also known as Chadstrea -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-i-embarrassed-a-pro-player-then-this-happened-pig-vs-astrea-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-i-embarrassed-a-pro-player-then-this-happened-pig-vs-astrea-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=FAnNMQy9DZ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FAnNMQy9DZ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M53S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 118,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FAnNMQy9DZ0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-01-19T02:34:08Z"
-    },
-    {
-      "path": "_games/lowkotv-darks-shocking-proxy-hatcheries-best-of-3.md",
-      "title": "Dark's SHOCKING Proxy Hatcheries! (Best-of-3)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between Dark (Zerg) and NightMare (Protoss). In this series Dark decides to play some questionable strategies against his Protoss opponent but as per usual he somehow makes it work. A proxy hatchery is a strategy where a Zerg player builds a Hatchery near the",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-darks-shocking-proxy-hatcheries-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-darks-shocking-proxy-hatcheries-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=wBAEBaUcmlY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wBAEBaUcmlY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M10S",
+      "path": "_games/lowkotv-protoss-genius-or-fool-solar-vs-hero.md",
+      "title": "Protoss GENIUS or FOOL?! Solar vs herO",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 from the ESL Open Cup between Solar (Zerg) and herO (Protoss). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-protoss-genius-or-fool-solar-vs-hero/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-protoss-genius-or-fool-solar-vs-hero/",
+      "originalUrl": "https://youtube.com/watch?v=Z-mRnnVT7JA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z-mRnnVT7JA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M27S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -55,12 +26,13 @@
       },
       "topics": [
         "StarCraft 2",
+        "Protoss",
         "Zerg"
       ],
       "heat": 117,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/wBAEBaUcmlY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Z-mRnnVT7JA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -68,7 +40,38 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2023-12-14T12:16:00Z"
+      "publishedDateTime": "2024-03-02T21:08:20Z"
+    },
+    {
+      "path": "_games/pig-traumatized-terrans-brain-breaks-vs-cannon-rusher-smooth-brain-boanaan-6-starcraft-2.md",
+      "title": "Traumatized Terran's Brain BREAKS vs Cannon Rusher | Smooth Brain Boanaan #6 - StarCraft 2",
+      "excerpt": "Boanaan won Season 3 of the Smooth Brain Auditions with his Planetry Fortress rush that both failed and succeeded. Very glassy. In this game he traumatizes a Terran player  Watch (A Collection of) Smooth Brains playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh -- 🐷 Second",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-traumatized-terrans-brain-breaks-vs-cannon-rusher-smooth-brain-boanaan-6-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-traumatized-terrans-brain-breaks-vs-cannon-rusher-smooth-brain-boanaan-6-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=oP9viAcIJ3k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oP9viAcIJ3k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M9S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 117,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oP9viAcIJ3k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-22T02:52:42Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-maru-is-a-mech-monster-in-the-gsl-code-s.md",
@@ -95,7 +98,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 116,
+      "heat": 113,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/4NI5KH9Yn2U/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEsgZShAMA8=&rs=AOn4CLA3pWFj4_AwXnOSKVBUK-RNOy1x1g",
@@ -506,45 +509,6 @@
       "publishedDateTime": "2022-09-11T12:45:43Z"
     },
     {
-      "path": "_games/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2.md",
-      "title": "Dark faces MASS Tactical Nukes! (StarCraft 2)",
-      "excerpt": "Mass Tactical Nukes in the StarCraft 2 GSL Code S 2024 season 1 qualifiers! This is a best-of-3 series of SC2 between Dark and Bunny, a high level Zerg versus Terran. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=6pr0CZSvUyQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6pr0CZSvUyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M56S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 102,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6pr0CZSvUyQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgPChBMA8=&rs=AOn4CLBia_8m6TG5f_mVbYYiilMR4QuOSw",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-21T10:22:51Z"
-    },
-    {
       "path": "_games/pig-this-is-the-strangest-zerg-pro-youll-ever-see-mad-meo-starcraft-2.md",
       "title": "This is the STRANGEST Zerg Pro you'll ever see | Mad Meo - StarCraft 2",
       "excerpt": "Mad MeomaikA is the strangest zerg you'll ever see, but is also somehow Vietnam's #1 StarCraft 2 player! Lets take a dive into the filth that is Meo's devastating plays & insane army compositions. -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for",
@@ -573,6 +537,45 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-03-24T03:08:31Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s.md",
+      "title": "StarCraft 2: BEST Series of the Month! - Stats vs Dark! (GSL Code S)",
+      "excerpt": "Amazing series of StarCraft 2 between Dark (Zerg) and Stats (Protoss). This best-of-3 match was played during the SC2 GSL Code S round-of-16.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s/",
+      "originalUrl": "https://youtube.com/watch?v=hX3oGEuB0x0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hX3oGEuB0x0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H18M53S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 101,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hX3oGEuB0x0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDAgZSg4MA8=&rs=AOn4CLD03g7vsqkP90QMUZXc5r8ndJFhJA",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-11T12:54:59Z"
     },
     {
       "path": "_games/pig-how-quickly-can-scarlett-dispose-of-maphackers-holdout-challenge-starcraft-2.md",
@@ -702,14 +705,14 @@
       "publishedDateTime": "2022-06-10T23:30:09Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s.md",
-      "title": "StarCraft 2: BEST Series of the Month! - Stats vs Dark! (GSL Code S)",
-      "excerpt": "Amazing series of StarCraft 2 between Dark (Zerg) and Stats (Protoss). This best-of-3 match was played during the SC2 GSL Code S round-of-16.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-best-series-of-the-month-stats-vs-dark-gsl-code-s/",
-      "originalUrl": "https://youtube.com/watch?v=hX3oGEuB0x0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hX3oGEuB0x0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H18M53S",
+      "path": "_games/lowkotv-starcraft-2-simply-amazing-maru-vs-dark-best-of-7.md",
+      "title": "StarCraft 2: SIMPLY AMAZING -  Maru vs Dark! (Best-of-7)",
+      "excerpt": "Best-of-7 series of StarCraft 2 between Maru versus Dark, two of the best players in all of SC2. In this match they go toe-to-toe in an epic series. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-simply-amazing-maru-vs-dark-best-of-7/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-simply-amazing-maru-vs-dark-best-of-7/",
+      "originalUrl": "https://youtube.com/watch?v=ZAN3yhKvOVc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZAN3yhKvOVc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H22M16S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -724,13 +727,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
+        "Terran",
         "Zerg"
       ],
-      "heat": 95,
+      "heat": 96,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hX3oGEuB0x0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDAgZSg4MA8=&rs=AOn4CLD03g7vsqkP90QMUZXc5r8ndJFhJA",
+          "url": "https://i.ytimg.com/vi/ZAN3yhKvOVc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVShVMA8=&rs=AOn4CLAt1vsrL_-QxtTQfJ-qqRx-3g7yWQ",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -738,7 +741,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-03-11T12:54:59Z"
+      "publishedDateTime": "2024-02-03T09:51:23Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-my-biggest-baneling-hit-ever-zerg-live-games.md",

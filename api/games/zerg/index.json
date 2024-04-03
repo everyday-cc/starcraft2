@@ -779,44 +779,6 @@
       "publishedDateTime": "2022-09-11T12:45:43Z"
     },
     {
-      "path": "_games/lowkotv-darks-cheesiest-games-ive-ever-seen-starcraft-2.md",
-      "title": "Dark's Cheesiest Games I've EVER SEEN! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of pro StarCraft 2 between Astrea and Dark with some incredibly cheesy SC2. Amazing games! Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-darks-cheesiest-games-ive-ever-seen-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-darks-cheesiest-games-ive-ever-seen-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=GakoZRmZyBo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GakoZRmZyBo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M29S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 207,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GakoZRmZyBo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGAgYChgMA8=&rs=AOn4CLC8asy79H5yiKzVimvtjao6b5bbjw",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-25T12:52:14Z"
-    },
-    {
       "path": "_games/lowkotv-clem-looks-unstoppable-versus-reynors-zerg-starcraft-2-finals.md",
       "title": "Clem looks UNSTOPPABLE versus Reynor's Zerg! (StarCraft 2 Finals)",
       "excerpt": "Finals of the StarCraft 2 ESL Open Cup European weekly tournament. This is a top level series of SC2 between Clem and Reynor. New StarCraft 2 balance patch: https://youtu.be/dP2hx7mpZ1k Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord",
@@ -841,7 +803,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 198,
+      "heat": 173,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/TVhSO9vI8fY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEIgWihlMA8=&rs=AOn4CLCgyuU_eGjS98q3qd6StAVT9sPOpQ",
@@ -853,6 +815,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-03-27T12:55:00Z"
+    },
+    {
+      "path": "_games/lowkotv-darks-cheesiest-games-ive-ever-seen-starcraft-2.md",
+      "title": "Dark's Cheesiest Games I've EVER SEEN! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of pro StarCraft 2 between Astrea and Dark with some incredibly cheesy SC2. Amazing games! Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-darks-cheesiest-games-ive-ever-seen-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-darks-cheesiest-games-ive-ever-seen-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=GakoZRmZyBo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GakoZRmZyBo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M29S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 168,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GakoZRmZyBo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGAgYChgMA8=&rs=AOn4CLC8asy79H5yiKzVimvtjao6b5bbjw",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-25T12:52:14Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-clem-vs-dark-premier-tournament-grand-finals.md",
@@ -1038,6 +1038,45 @@
       "publishedDateTime": "2023-11-18T11:54:45Z"
     },
     {
+      "path": "_games/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2.md",
+      "title": "Dark faces MASS Tactical Nukes! (StarCraft 2)",
+      "excerpt": "Mass Tactical Nukes in the StarCraft 2 GSL Code S 2024 season 1 qualifiers! This is a best-of-3 series of SC2 between Dark and Bunny, a high level Zerg versus Terran. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=6pr0CZSvUyQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6pr0CZSvUyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H10M56S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 150,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6pr0CZSvUyQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgPChBMA8=&rs=AOn4CLBia_8m6TG5f_mVbYYiilMR4QuOSw",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-21T10:22:51Z"
+    },
+    {
       "path": "_games/lowkotv-blys-unexpected-zerg-rushes-vs-harstem-starcraft-2.md",
       "title": "Bly's UNEXPECTED Zerg Rushes vs Harstem!  (StarCraft 2)",
       "excerpt": "Best-of-5 series of StarCraft 2 from the European regionals of the ESL Masters Winter StarCraft 2 tournament. This match is a Zerg versus Protoss between Bly and Harstem, and features loads of creative Zerg rushes and cheeses. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
@@ -1074,44 +1113,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-11-23T11:34:26Z"
-    },
-    {
-      "path": "_games/lowkotv-darks-mass-swarm-host-army-starcraft-2.md",
-      "title": "Dark's MASS Swarm Host Army! (StarCraft 2)",
-      "excerpt": "Best-of-3 series from the Korean StarCraft 2 League between Dark (Zerg) and Creator (Protoss). In these SC2 games Dark and Creator play some very cool strategies, as for example our Zerg decides to go mass Swarm Hosts. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-darks-mass-swarm-host-army-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-darks-mass-swarm-host-army-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=8aBvPBLX944",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8aBvPBLX944\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M18S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 147,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8aBvPBLX944/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTShFMA8=&rs=AOn4CLCwSnJ-RJUfes4kxR0dBYWksF8ciA",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-21T11:48:10Z"
     }
   ],
   "nextPage": 2

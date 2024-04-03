@@ -43,45 +43,6 @@
       "publishedDateTime": "2024-03-02T09:24:05Z"
     },
     {
-      "path": "_games/lowkotv-protoss-genius-or-fool-solar-vs-hero.md",
-      "title": "Protoss GENIUS or FOOL?! Solar vs herO",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 from the ESL Open Cup between Solar (Zerg) and herO (Protoss). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-protoss-genius-or-fool-solar-vs-hero/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-protoss-genius-or-fool-solar-vs-hero/",
-      "originalUrl": "https://youtube.com/watch?v=Z-mRnnVT7JA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z-mRnnVT7JA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M27S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Z-mRnnVT7JA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-02T21:08:20Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-epic-battlecruiser-transitions-maru-vs-gumiho.md",
       "title": "StarCraft 2: EPIC Battlecruiser Transitions! (Maru vs GuMiho)",
       "excerpt": "Best-of-5 series of top level StarCraft 2 from the ESL SC2 Masters Summer, between Maru (Terran) and GuMiho (Terran).  Serral vs GuMiho (Grand Finals): https://youtu.be/YX4StuIsM_Q  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
@@ -466,6 +427,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-01-09T09:42:29Z"
+    },
+    {
+      "path": "_games/lowkotv-clems-supersonic-speed-vs-solar-starcraft-2.md",
+      "title": "Clem's SUPERSONIC Speed vs Solar! (StarCraft 2)",
+      "excerpt": "Amazing game of StarCraft 2 from the IEM Katowice SC2 tournament between Solar and Clem. Both players in this match play incredibly fast, with APM reaching over 1000 (!) at some moments. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-clems-supersonic-speed-vs-solar-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-clems-supersonic-speed-vs-solar-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=dZl4YqSxVN0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dZl4YqSxVN0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dZl4YqSxVN0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChKMA8=&rs=AOn4CLDACxoz2AkgsEybQx4VtSR1IlwsLQ",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-20T07:49:11Z"
     },
     {
       "path": "_games/lowkotv-reynors-unexpected-sky-toss-switches-vs-scarlett-best-of-3.md",

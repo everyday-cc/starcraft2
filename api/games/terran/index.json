@@ -1069,45 +1069,6 @@
       "publishedDateTime": "2024-03-23T11:15:26Z"
     },
     {
-      "path": "_games/lowkotv-byun-calls-heros-bluff-starcraft-2.md",
-      "title": "ByuN CALLS herO's BLUFF! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between herO (Protoss) and ByuN (Terran). This match was played during the ESL Open Cup Korea 209, a weekly SC2 tournament. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-byun-calls-heros-bluff-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-byun-calls-heros-bluff-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=0HgIa8nhFHI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0HgIa8nhFHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M51S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 113,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0HgIa8nhFHI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-16T11:31:26Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",
       "title": "StarCraft 2: Erik's SURPRISES GuMiho with Zerg Drops! (Best-of-3)",
       "excerpt": "Best-of-3 series of Zerg vs Terran in StarCraft 2 between Erik and GuMiho. This is a series with some very unique Zerg strategies and build orders. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
@@ -1145,6 +1106,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-05-22T10:49:14Z"
+    },
+    {
+      "path": "_games/lowkotv-gumihos-epic-battlecruiser-switch-surprises-astrea-starcraft-2.md",
+      "title": "Gumiho's Epic BATTLECRUISER Switch Surprises Astrea! (StarCraft 2)",
+      "excerpt": "Best-of-3 series from the Korean StarCraft League between Astrea (Protoss) and GuMiho (Terran). Both of these players are very creative with their decision making and strategies, and this series is no different. A very cheesy start catches Astrea off guard, but his quick Sentry rush helps him survive",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-gumihos-epic-battlecruiser-switch-surprises-astrea-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-gumihos-epic-battlecruiser-switch-surprises-astrea-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=9_J48-YG6Xs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9_J48-YG6Xs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 108,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9_J48-YG6Xs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-08-25T11:00:16Z"
     }
   ],
   "nextPage": 2

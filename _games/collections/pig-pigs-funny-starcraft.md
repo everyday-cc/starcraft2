@@ -1110,6 +1110,7 @@ items:
   - pig-heart-of-the-swarm-nightmare-difficulty-part-4-starcraft-2
   - pig-reynor-tries-his-best-to-coach-washed-up-caster
   - pig-i-taught-reynor-how-to-easily-beat-protoss
+  - pig-the-most-useless-planetary-fortress-ever-florencio-files-291-starcraft-2
 
 topics:
   - StarCraft 2

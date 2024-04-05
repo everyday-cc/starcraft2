@@ -688,44 +688,6 @@
       "publishedDateTime": "2024-03-12T11:28:21Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-proxy-marauder-rush-in-a-500000-tournament-hero-vs-cure.md",
-      "title": "StarCraft 2: PROXY Marauder Rush(?!) in a $500,000 Tournament! (herO vs Cure)",
-      "excerpt": "Best-of-5 series from the StarCraft 2 IEM Katowice tournament. This match of SC2 is between herO (Protoss) and Cure (Terran). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-marauder-rush-in-a-500000-tournament-hero-vs-cure/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-proxy-marauder-rush-in-a-500000-tournament-hero-vs-cure/",
-      "originalUrl": "https://youtube.com/watch?v=fMQ-PYMUGwI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fMQ-PYMUGwI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M51S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 129,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fMQ-PYMUGwI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXCg6MA8=&rs=AOn4CLCWgMIHgyqr8duQrcAHME8vqM32rQ",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-23T12:46:32Z"
-    },
-    {
       "path": "_games/pig-when-winning-means-makes-you-a-devil-worshipper-salt-mines-31-starcraft-2.md",
       "title": "When winning means makes you a DEVIL WORSHIPPER?! | Salt Mines #31- StarCraft 2",
       "excerpt": "Salt Mines: Everyone has encountered a salty or BM opponent on the StarCraft ladder before. UPLOAD YOUR REPLAY TO https://drop.sc/upload then send the link to RateMyStarCraft@gmail.com along with “Salt Mines” in the title + in the body of the email add your IGN & Rank & What happened in the game to make",
@@ -891,44 +853,6 @@
       "publishedDateTime": "2021-12-24T21:58:31Z"
     },
     {
-      "path": "_games/lowkotv-clems-supersonic-speed-vs-solar-starcraft-2.md",
-      "title": "Clem's SUPERSONIC Speed vs Solar! (StarCraft 2)",
-      "excerpt": "Amazing game of StarCraft 2 from the IEM Katowice SC2 tournament between Solar and Clem. Both players in this match play incredibly fast, with APM reaching over 1000 (!) at some moments. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-clems-supersonic-speed-vs-solar-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-clems-supersonic-speed-vs-solar-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=dZl4YqSxVN0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dZl4YqSxVN0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 119,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dZl4YqSxVN0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChKMA8=&rs=AOn4CLDACxoz2AkgsEybQx4VtSR1IlwsLQ",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-20T07:49:11Z"
-    },
-    {
       "path": "_games/lowkotv-darks-mass-swarm-host-army-starcraft-2.md",
       "title": "Dark's MASS Swarm Host Army! (StarCraft 2)",
       "excerpt": "Best-of-3 series from the Korean StarCraft 2 League between Dark (Zerg) and Creator (Protoss). In these SC2 games Dark and Creator play some very cool strategies, as for example our Zerg decides to go mass Swarm Hosts. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech",
@@ -1031,6 +955,73 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-06-19T08:16:44Z"
+    },
+    {
+      "path": "_games/pig-i-embarrassed-a-pro-player-then-this-happened-pig-vs-astrea-starcraft-2.md",
+      "title": "I EMBARRASSED a Pro Player, then this happened | PiG vs Astrea - StarCraft 2",
+      "excerpt": "This is a story about RANDOM and REVENGE - between me and top 20 player in the world, Astrea, also known as Chadstrea -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts -- 🐷 Watch live at https://www.twitch.tv/x5_pig",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-i-embarrassed-a-pro-player-then-this-happened-pig-vs-astrea-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-i-embarrassed-a-pro-player-then-this-happened-pig-vs-astrea-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=FAnNMQy9DZ0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FAnNMQy9DZ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M53S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 118,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FAnNMQy9DZ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-01-19T02:34:08Z"
+    },
+    {
+      "path": "_games/lowkotv-darks-shocking-proxy-hatcheries-best-of-3.md",
+      "title": "Dark's SHOCKING Proxy Hatcheries! (Best-of-3)",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 between Dark (Zerg) and NightMare (Protoss). In this series Dark decides to play some questionable strategies against his Protoss opponent but as per usual he somehow makes it work. A proxy hatchery is a strategy where a Zerg player builds a Hatchery near the",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-darks-shocking-proxy-hatcheries-best-of-3/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-darks-shocking-proxy-hatcheries-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=wBAEBaUcmlY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wBAEBaUcmlY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M10S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 117,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wBAEBaUcmlY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-12-14T12:16:00Z"
     }
   ],
   "nextPage": 4

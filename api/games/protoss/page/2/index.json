@@ -96,6 +96,37 @@
       "publishedDateTime": "2022-08-04T04:25:26Z"
     },
     {
+      "path": "_games/pig-the-depot-strategy-to-break-zerg-brains-florencio-files-282-starcraft-2.md",
+      "title": "THE DEPOT STRATEGY TO BREAK ZERG BRAINS | Florencio Files #282 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-depot-strategy-to-break-zerg-brains-florencio-files-282-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-depot-strategy-to-break-zerg-brains-florencio-files-282-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=6oSZOt5ROEo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6oSZOt5ROEo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M58S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 76,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6oSZOt5ROEo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-05-06T01:25:10Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-simply-amazing-reynor-vs-showtime-in-a-500000-tournament-best-of-3.md",
       "title": "StarCraft 2: SIMPLY AMAZING - Reynor vs ShoWTimE in a $500,000 Tournament! (Best-of-3)",
       "excerpt": "StarCraft 2 pro match from the IEM Katowice 2024 SC2 tournament. This best-of-3 series is played between two European pro gamers, Reynor and ShoWTimE. This Zerg versus Protoss features hyper aggression from the Zerg in the mid-game, going up against solid defensive play from the Protoss. Support my work:",
@@ -271,6 +302,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-03-18T11:26:44Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-proxy-marauder-rush-in-a-500000-tournament-hero-vs-cure.md",
+      "title": "StarCraft 2: PROXY Marauder Rush(?!) in a $500,000 Tournament! (herO vs Cure)",
+      "excerpt": "Best-of-5 series from the StarCraft 2 IEM Katowice tournament. This match of SC2 is between herO (Protoss) and Cure (Terran). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-marauder-rush-in-a-500000-tournament-hero-vs-cure/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-proxy-marauder-rush-in-a-500000-tournament-hero-vs-cure/",
+      "originalUrl": "https://youtube.com/watch?v=fMQ-PYMUGwI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fMQ-PYMUGwI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M51S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fMQ-PYMUGwI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXCg6MA8=&rs=AOn4CLCWgMIHgyqr8duQrcAHME8vqM32rQ",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-23T12:46:32Z"
     },
     {
       "path": "_games/pig-starcraft-2-three-basetrades-in-one-game-rocker-vs-ukko-pvz.md",
@@ -551,36 +620,6 @@
       "publishedDateTime": "2021-09-24T08:39:41Z"
     },
     {
-      "path": "_games/pig-flo-sets-up-sick-baits-but-the-opponent-has-69-iq-florencio-files-290-starcraft-2.md",
-      "title": "Flo sets up SICK baits but the opponent has 69 IQ | Florencio Files #290 - StarCraft 2",
-      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-flo-sets-up-sick-baits-but-the-opponent-has-69-iq-florencio-files-290-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-flo-sets-up-sick-baits-but-the-opponent-has-69-iq-florencio-files-290-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=-cxKArAsHpo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-cxKArAsHpo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M47S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-cxKArAsHpo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-14T07:00:54Z"
-    },
-    {
       "path": "_games/sc2hl-heros-sneaky-double-gold-base-starcraft-2-maru-vs-hero.md",
       "title": "herO's SNEAKY DOUBLE GOLD BASE - Starcraft 2: Maru vs. herO",
       "excerpt": "herO and herO playing the Starcraft 2 GSL Code S finals, with hero going for a sneaky build in the first game.   Match: maru vs. herO Tournament: GSL Code S 2022 - Season 2 VODs: https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg  ► Enjoy the content? Buy me a coffee! https://www.ko-fi.com/SC2HL",
@@ -651,7 +690,7 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 52,
+          "heat": 55,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/7hGsrlWElnU/hqdefault.jpg",
@@ -681,7 +720,7 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/zwQ1vCzSljQ/hqdefault.jpg",
@@ -2015,45 +2054,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-02-03T10:31:38Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho.md",
-      "title": "StarCraft 2: Marine BLOOD BATH! (herO vs GuMiho)",
-      "excerpt": "StarCraft 2 ESL Open Cup 215 Grand Finals for the Korean server. In this series of Terran versus Protoss we watch GuMiho play hyper aggressive Terran strategies versus herO. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho/",
-      "originalUrl": "https://youtube.com/watch?v=DK68MQv_9QE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DK68MQv_9QE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M14S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DK68MQv_9QE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-26T11:34:09Z"
     }
   ],
   "nextPage": 3

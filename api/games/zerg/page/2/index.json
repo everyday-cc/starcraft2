@@ -188,44 +188,6 @@
       "publishedDateTime": "2024-03-25T11:03:12Z"
     },
     {
-      "path": "_games/lowkotv-scarletts-new-mass-hydralisks-starcraft-2.md",
-      "title": "Scarlett's NEW Mass Hydralisks! (StarCraft 2)",
-      "excerpt": "StarCraft 2 $500,000 tournament match in 2024. This Zerg vs Terran is from IEM Katowice and features Scarlett reinventing the Zerg mid game as she masses one of the worst units that Zerg has available: the Hydralisk.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-scarletts-new-mass-hydralisks-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-scarletts-new-mass-hydralisks-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=LRSaVHM1nZ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LRSaVHM1nZ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT47M6S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LRSaVHM1nZ0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGggaChoMA8=&rs=AOn4CLBKGFyj7bGj7bORLzUN4NAn2OL_LA",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-02-15T11:45:46Z"
-    },
-    {
       "path": "_games/lowkotv-serral-vs-clem-mine-out-this-huge-map-starcraft-2.md",
       "title": "Serral vs Clem MINE OUT this huge map! (StarCraft 2)",
       "excerpt": "Amazing game of StarCraft 2 between the best Zerg versus Terran players in the world. Clem takes on Serral in a 1v1 of StarCraft 2 in a long drawn out macro game. Maru vs SHIN: https://youtu.be/4NI5KH9Yn2U Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
@@ -303,6 +265,44 @@
       "publishedDateTime": "2021-12-24T21:58:31Z"
     },
     {
+      "path": "_games/lowkotv-clems-supersonic-speed-vs-solar-starcraft-2.md",
+      "title": "Clem's SUPERSONIC Speed vs Solar! (StarCraft 2)",
+      "excerpt": "Amazing game of StarCraft 2 from the IEM Katowice SC2 tournament between Solar and Clem. Both players in this match play incredibly fast, with APM reaching over 1000 (!) at some moments. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-clems-supersonic-speed-vs-solar-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-clems-supersonic-speed-vs-solar-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=dZl4YqSxVN0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dZl4YqSxVN0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 119,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dZl4YqSxVN0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChKMA8=&rs=AOn4CLDACxoz2AkgsEybQx4VtSR1IlwsLQ",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-20T07:49:11Z"
+    },
+    {
       "path": "_games/lowkotv-darks-mass-swarm-host-army-starcraft-2.md",
       "title": "Dark's MASS Swarm Host Army! (StarCraft 2)",
       "excerpt": "Best-of-3 series from the Korean StarCraft 2 League between Dark (Zerg) and Creator (Protoss). In these SC2 games Dark and Creator play some very cool strategies, as for example our Zerg decides to go mass Swarm Hosts. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech",
@@ -339,45 +339,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-03-21T11:48:10Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-3.md",
-      "title": "StarCraft 2: SERRAL vs MARU! (Best-of-3)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between the best of the best! This match is between Serral (Zerg) and Maru (Terran). The two best players historically in StarCraft 2. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-maru-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-maru-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=MgGsW_p-2W4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MgGsW_p-2W4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT52M30S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 118,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MgGsW_p-2W4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWyhQMA8=&rs=AOn4CLA4Ic7Ulmy-OVf8M--vmmIoWW-4kQ",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-19T09:48:57Z"
     },
     {
       "path": "_games/lowkotv-darks-shocking-proxy-hatcheries-best-of-3.md",
@@ -1109,6 +1070,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-01-05T09:54:10Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-darks-queen-all-in-vs-clem-esl-finals.md",
+      "title": "StarCraft 2: Dark's QUEEN ALL-IN vs Clem! (ESL Finals)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between Dark (Zerg) and Clem (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-queen-all-in-vs-clem-esl-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-queen-all-in-vs-clem-esl-finals/",
+      "originalUrl": "https://youtube.com/watch?v=1oSTXHmFIn8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1oSTXHmFIn8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H17M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 78,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1oSTXHmFIn8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-02T12:58:32Z"
     }
   ],
   "nextPage": 3

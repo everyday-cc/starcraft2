@@ -2,6 +2,7 @@
 title: "Stats faces NEW Zerg All-ins! StarCraft 2 Tournament"
 excerpt: "Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko Twitch livestream: https://twitch.tv/lowkotv Live most days, starting at 2 PM CET / CEST  StarCraft"
 originalUrl: https://youtube.com/watch?v=1ncFL288m9o
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-stats-faces-new-zerg-all-ins-starcraft-2-tournament/
 type: video
 length: PT29M22S
 publishedDateTime: 2024-04-05T10:29:39Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "itm1JFtZ1WZdpYBKNSw8h/uMmH4A9TfjDnw+94j7b8YvwDFT7wpyTzQlfOLZkpYg1r/hk7zuhmEsaXq9wAHWiRl51mO8siyDtEwZdk/1WE8uz7R21JrUUCWsEUugMc1XzlnvY9nuJXS8vU6QL0dHuy4EXNuTY1/3vHGpSnIB7PxayszkgEDS5Xk1JBB81RguFn8/M44Itgeu/0Usx/XJnnVV/j9iG9x0ioyZIQV0OkWg56xisXZ+mP4ugdkZHip//E1uXMmfbJK3w2CvHYIMyUi6jbw/zhQNfUZpL1kYP9KMN5VlrsTsS40EGIz4ouycOccc3RrX6XoHkxB3iydQUzyRm1zE1cSpg3oq3kGmUy//7L5zB9OaD2myEtgzDt7cfefcTuRcmqomWb5uLQuESw==;Chy/V5fhducBpW+zXJfoVw=="
+secured: "EIr3t1IjWlLvkIWLvDji4CglAFtE0HehWBsJXTflTBTk/CPFBpPOfrJAgklfOED+8a3KILcdb0EDGiF77Up//mEXBhht0bjEA6PWBX2K/5ngqEDqvDXeLxiMbZWhXFEJIwIViQDd2zh48ZT6o+yDjFFhYPog4Sj/Znoo4hj7SvlqlXSYbx4mkZQYQi1h1f59oPY8T/iwj6vmIQ7fU+nDvW6LG96CIlEi6mC/Y47z62EamjAxDr7YUZKZJFFiKPziGeDSxlwpr4+NicCY3lgnQWsRqqyECd71GvSQKvKZXAnKR9cUC7gHruBs2xKxIWwm47uDa7ut7dMTiJwHqtviVid5mWbzfrm4/+GX6rQgL0KXjSLh5TbOQhoNNTXOfqQIb/NClJEFrvjUs9QP81wndQ==;/joBPjAxezCgyl8q3hByBg=="
 ---
 

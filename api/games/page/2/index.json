@@ -710,7 +710,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 174,
+      "heat": 171,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/6NJKJ0c5coM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgSShlMA8=&rs=AOn4CLCs1mkcx2HbOHe9SJK75GSQ0kBAZQ",
@@ -880,44 +880,6 @@
       "publishedDateTime": "2024-01-10T12:52:20Z"
     },
     {
-      "path": "_games/lowkotv-clem-looks-unstoppable-versus-reynors-zerg-starcraft-2-finals.md",
-      "title": "Clem looks UNSTOPPABLE versus Reynor's Zerg! (StarCraft 2 Finals)",
-      "excerpt": "Finals of the StarCraft 2 ESL Open Cup European weekly tournament. This is a top level series of SC2 between Clem and Reynor. New StarCraft 2 balance patch: https://youtu.be/dP2hx7mpZ1k Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-clem-looks-unstoppable-versus-reynors-zerg-starcraft-2-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-clem-looks-unstoppable-versus-reynors-zerg-starcraft-2-finals/",
-      "originalUrl": "https://youtube.com/watch?v=TVhSO9vI8fY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TVhSO9vI8fY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT58M7S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 163,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TVhSO9vI8fY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEIgWihlMA8=&rs=AOn4CLCgyuU_eGjS98q3qd6StAVT9sPOpQ",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-27T12:55:00Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-proxy-nexus-into-mass-sentry.md",
       "title": "StarCraft 2: Proxy NEXUS into Mass SENTRY!",
       "excerpt": "Two viewer submitted games of StarCraft 2, with some of the strangest strategies that I've ever seen. Proxy Refinery and a Proxy Nexus?!  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  00:00 Proxy Refinery 12:07 Proxy Nexus  My YouTube channels: https://youtube.com/lowkotv",
@@ -1021,6 +983,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-08-09T08:02:14Z"
+    },
+    {
+      "path": "_games/lowkotv-darks-cheesiest-games-ive-ever-seen-starcraft-2.md",
+      "title": "Dark's Cheesiest Games I've EVER SEEN! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of pro StarCraft 2 between Astrea and Dark with some incredibly cheesy SC2. Amazing games! Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-darks-cheesiest-games-ive-ever-seen-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-darks-cheesiest-games-ive-ever-seen-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=GakoZRmZyBo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GakoZRmZyBo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M29S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 157,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GakoZRmZyBo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGAgYChgMA8=&rs=AOn4CLC8asy79H5yiKzVimvtjao6b5bbjw",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-25T12:52:14Z"
     }
   ],
   "nextPage": 3

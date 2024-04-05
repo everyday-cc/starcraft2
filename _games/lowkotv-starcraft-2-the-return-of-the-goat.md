@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-the-return-of-th
 type: video
 length: PT29M25S
 publishedDateTime: 2024-04-04T09:43:24Z
-heat: 329
+heat: 427
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vTRzvB4MERk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "TOGUC9shR7+7AAVfEMFFtVsud2CZsOldEC2sTiFnUb0uE4iuB6U+ZJkfOyENWyUGrJqUlpRstg0XX4AQFLj64VjbX+kp1jIT58BBbFqy1OshftCQ8NWjwWAM0A13cD0IQKwneoKmBwUZpivPDxwngelJKlO34C6RgBDEjt1u78JGtDfbMlFIU0ZOOZAwEUp//cVewc6gsAMbBnH/tFco5xLkn8WeYwpsqSUbmgd73hpaO2Y+cBDdcor9s6lg6qOebcPKy8srzBN/PkuyPJded3MqD+BUV7Jn36Z8hB5AauHatMD9bQ3NYWQS5fdHVywkLyUEjIMtI7nmIswoAW1pGDy/d8NAdGDVHvvG8SswPOFwkM/QC5nV0IaInLsneTMEl+4Upfgyy1C2CQqirULwGQ==;tS2NRp84MMhzr3PeLmUBtg=="
+secured: "hoopMVk93KOnWOPGoSnFgsY2ubTysttbnFgYCXmI4i+78ZcE2m2Z4Vy2gdo35dzSVoKIQZHjxCpMY/GwybUirMjALuAXW5Uk/mzgulYjt9meSXhCgJrwk7aHIg3T8W8FN/f1xkb9CM9RD14tnqjFSR6/NCoEHAFFCJKXKYFxrLOirdgquCJK+0dFgzVpcNBq1lsqvNWFGXwT2yhcsmun/7QtIqCTdZfwrt7++lcSLI1GH6bPy9IWJ7koHe0rJCEDxj50VyyxUOuFVFEgAr5Jr5jdgn3spGwAlIhxFCgraUTdbPp+AxlK2YAkfz1RW7c0C6b/x2VjVrYn8yIAXH/J25/TpI1cOfrGN03p5KKXSoaQZ/b3M0oOh5qES072mB3eqoToA1NhR24thxdKLHzOQkvr1Cy53daOaci4Rt1+/Fg=;JsOBDSCAGslNHF4Nz4tiVw=="
 ---
 

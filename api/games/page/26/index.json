@@ -4,6 +4,71 @@
   "page": 26,
   "value": [
     {
+      "path": "_games/beastyqtsc2-starcraft-2-the-zerg-is-having-the-worst-game-of-his-life.md",
+      "title": "StarCraft 2: The Zerg is Having the WORST Game of His Life!",
+      "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right! At this point in the series, we are introducing other units into the composition to make the games",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-the-zerg-is-having-the-worst-game-of-his-life/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-the-zerg-is-having-the-worst-game-of-his-life/",
+      "originalUrl": "https://youtube.com/watch?v=ywXd0w-852s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ywXd0w-852s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M29S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ywXd0w-852s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2020-01-06T10:52:19Z"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-this-is-it-last-episode-of-never-attack-to-grandmaster.md",
+      "title": "StarCraft 2: THIS IS IT!!! Last Episode of Never Attack to Grandmaster",
+      "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-this-is-it-last-episode-of-never-attack-to-grandmaster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/beastyqtsc2-starcraft-2-this-is-it-last-episode-of-never-attack-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=qWl8RFgDiOg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qWl8RFgDiOg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M42S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qWl8RFgDiOg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2020-06-05T11:58:56Z"
+    },
+    {
       "path": "_games/beastyqtsc2-starcraft-2-this-terran-gamer-isangry-mass-zealots-phoenix.md",
       "title": "StarCraft 2: This Terran Gamer is....ANGRY! - MASS Zealots & Phoenix",
       "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
@@ -938,81 +1003,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-07-14T12:00:09Z"
-    },
-    {
-      "path": "_games/lowkotv-cures-200-iq-empty-medivac-drop-starcraft-2.md",
-      "title": "Cure's 200+ IQ Empty Medivac Drop! (StarCraft 2)",
-      "excerpt": "Best-of-2 series of top level StarCraft 2 between SHIN (Zerg) and Cure (Terran). In this series Cure plays very differently than what he recently did against Reynor, as he decides to play an active and very cheeky style of Terran. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-cures-200-iq-empty-medivac-drop-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-cures-200-iq-empty-medivac-drop-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=9OsHyZSWkJM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9OsHyZSWkJM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M15S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9OsHyZSWkJM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEkgSyhlMA8=&rs=AOn4CLD9mF5pW3BDaXkeWdsQvvMZpiejww",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-10T15:38:01Z"
-    },
-    {
-      "path": "_games/lowkotv-dark-gets-confused-by-40-archons-starcraft-2.md",
-      "title": "Dark gets CONFUSED by 40+ Archons! (StarCraft 2)",
-      "excerpt": "Professional match of StarCraft 2 between ShoWTimE and Dark where the German Protoss decides to go for Mass Archons in the late game. Rather than focusing on a Sky Toss based army he decides to face off against the Zerg mid game army without making that transition towards the conventional Carrier based",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-gets-confused-by-40-archons-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-gets-confused-by-40-archons-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=tJszwmX_XOI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tJszwmX_XOI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M31S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tJszwmX_XOI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-08-09T17:25:12Z"
     }
   ],
   "nextPage": 27

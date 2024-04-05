@@ -1048,14 +1048,14 @@
       "publishedDateTime": "2024-01-03T11:51:52Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-reynors-late-game-war-vs-showtime.md",
-      "title": "StarCraft 2: Reynor's Late Game WAR  vs ShoWTimE!",
-      "excerpt": "Best-of-3 series of top level European StarCraft 2 that's a qualification match for the Masters Coliseum 7, the first premier SC2 tournament of 2024. In this video I cast a series of Zerg versus Protoss between Reynor and ShoWTimE. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynors-late-game-war-vs-showtime/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-late-game-war-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=Mjo5zpxy5lY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mjo5zpxy5lY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53M52S",
+      "path": "_games/lowkotv-starcraft-2-serral-takes-on-the-world-champion-best-of-5.md",
+      "title": "StarCraft 2: Serral takes on the WORLD CHAMPION! (Best-of-5)",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between the highestst ranked player in the world (Serral) and the current World Champion of SC2 (Oliveira). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-takes-on-the-world-champion-best-of-5/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-takes-on-the-world-champion-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=IThgrMzn1t0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IThgrMzn1t0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M42S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1070,13 +1070,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
         "Zerg"
       ],
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Mjo5zpxy5lY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/IThgrMzn1t0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1084,7 +1083,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-01-07T22:11:20Z"
+      "publishedDateTime": "2023-06-03T10:28:17Z"
     }
   ],
   "nextPage": 11

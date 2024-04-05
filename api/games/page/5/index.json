@@ -4,6 +4,72 @@
   "page": 5,
   "value": [
     {
+      "path": "_games/lowkotv-the-starcraft-2-ladder-gamble-twitch-highlights-60.md",
+      "title": "The StarCraft 2 Ladder Gamble! (Twitch Highlights #60)",
+      "excerpt": "New highlight video with funny moments from my Twitch livestream. In this video I play StarCraft 2 and a whole lot of the Dyson Sphere Program.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-the-starcraft-2-ladder-gamble-twitch-highlights-60/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-the-starcraft-2-ladder-gamble-twitch-highlights-60/",
+      "originalUrl": "https://youtube.com/watch?v=IjDHRS_hcvo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IjDHRS_hcvo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M25S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 92,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IjDHRS_hcvo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2021-02-27T17:00:27Z"
+    },
+    {
+      "path": "_games/pig-when-youre-so-tilted-you-think-a-mirror-matchup-is-imbalanced-salt-mines-1-sc2.md",
+      "title": "When you’re so TILTED you think a mirror matchup is imbalanced | Salt Mines #1 - SC2",
+      "excerpt": "*NEW SHOW* The Salt Mines: Everyone has encountered a salty opponent on the ladder before. Send in your funniest, saltiest replays to RateMyStarCraft@gmail.com with “Salt Mines” in the title + in the body of the email add your IGN & Rank & Why you think your opponent got salty. -- 🐷 Second Channel for",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-when-youre-so-tilted-you-think-a-mirror-matchup-is-imbalanced-salt-mines-1-sc2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-when-youre-so-tilted-you-think-a-mirror-matchup-is-imbalanced-salt-mines-1-sc2/",
+      "originalUrl": "https://youtube.com/watch?v=1vjvR4nEJr8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1vjvR4nEJr8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M38S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 92,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1vjvR4nEJr8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2022-03-04T03:58:36Z"
+    },
+    {
       "path": "_games/pig-the-sewer-mermaid-slips-behind-enemy-lines-florencio-files-279-starcraft-2.md",
       "title": "The Sewer Mermaid slips behind enemy lines | Florencio Files #279 - StarCraft 2",
       "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
@@ -738,6 +804,43 @@
       "publishedDateTime": "2024-03-01T08:12:03Z"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-crazy-strats-astreas-builds-should-never-work.md",
+      "title": "StarCraft 2: CRAZY STRATS - Astrea's Builds SHOULD NEVER work!",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 from the ESL Open Cup between Astrea and MeomaikA. All games in this series of SC2 are played on the brand-new tournament maps. Picture of Astrea on the thumbnail of this video is from IEM Katowice 2022 and owned by ESL. Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-crazy-strats-astreas-builds-should-never-work/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-crazy-strats-astreas-builds-should-never-work/",
+      "originalUrl": "https://youtube.com/watch?v=YygztHmBCNg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YygztHmBCNg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M54S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 75,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YygztHmBCNg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUihEMA8=&rs=AOn4CLBRGzn2BE-V_J4gHDfc9YnS-U4OZQ",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-21T10:22:48Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-grand-finals-serral-vs-clem-best-of-7.md",
       "title": "StarCraft 2: GRAND FINALS - Serral vs Clem! (Best-of-7)",
       "excerpt": "Serral versus Clem in a best-of-7 series of top level StarCraft 2. This match is the Grand Finals of the ESL SC2 Masters 2023 Winter: European Regionals and displays some of the best SC2 in the world. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
@@ -939,121 +1042,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-06-10T23:30:09Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-cure-best-of-5.md",
-      "title": "StarCraft 2: SERRAL vs CURE! (Best-of-5)",
-      "excerpt": "A best-of-5 series of top level StarCraft 2 between Serral and Cure, the current number 1 and 2 on Aligulac. While Serral is clearly the more accomplished of the two, Cure does a great job playing both Terran Mech and Terran Bio. Serral focuses primarily on Zerglings, Banelings and Hydralisks, but mixes",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-cure-best-of-5/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-cure-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=BZeCPfOKjvs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BZeCPfOKjvs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 73,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BZeCPfOKjvs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2020-01-31T08:50:43Z"
-    },
-    {
-      "path": "_games/lowkotv-oliveiras-60-marine-swarm-vs-solar-starcraft-2.md",
-      "title": "Oliveira's 60+ MARINE SWARM vs Solar!  (StarCraft 2)",
-      "excerpt": "Professional match of StarCraft 2 between Oliveira (Terran) and Solar (Zerg).  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko Twitch livestream: https://twitch.tv/lowkotv Live most days",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-oliveiras-60-marine-swarm-vs-solar-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-oliveiras-60-marine-swarm-vs-solar-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=2nohS6JPFc8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2nohS6JPFc8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M40S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2nohS6JPFc8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-12-17T07:34:26Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-reynors-double-lurker-den-rushes-maxpax.md",
-      "title": "StarCraft 2: Reynor's DOUBLE LURKER DEN Rushes MaxPax!",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between MaxPax (Protoss) and Reynor (Zerg). Fantastic set of games of high level SC2 from the European server's ESL Open Cup. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynors-double-lurker-den-rushes-maxpax/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-reynors-double-lurker-den-rushes-maxpax/",
-      "originalUrl": "https://youtube.com/watch?v=3oOQKD2Vbtc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3oOQKD2Vbtc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M44S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3oOQKD2Vbtc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-16T11:15:18Z"
     }
   ],
   "nextPage": 6

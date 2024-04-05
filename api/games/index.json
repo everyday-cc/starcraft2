@@ -570,45 +570,6 @@
       "publishedDateTime": "2023-10-20T09:17:16Z"
     },
     {
-      "path": "_games/lowkotv-dark-drone-rushes-hero-starcraft-2-finals.md",
-      "title": "Dark DRONE RUSHES herO! (StarCraft 2 Finals)",
-      "excerpt": "StarCraft 2 tournament match from the Korean StarCraft League 47. This is the grand finals of this SC2 tournament between herO and Dark, a classic Protoss versus Zerg matchup. Dark's super cheese vs Astrea: https://youtu.be/GakoZRmZyBo Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-drone-rushes-hero-starcraft-2-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-drone-rushes-hero-starcraft-2-finals/",
-      "originalUrl": "https://youtube.com/watch?v=3S2sxhIJbyM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3S2sxhIJbyM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M56S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 270,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3S2sxhIJbyM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD0gUihlMA8=&rs=AOn4CLAK5rwIo_9oMCyfthxqedIHI6QuBA",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-30T13:08:48Z"
-    },
-    {
       "path": "_games/pig-how-is-this-madman-the-1-vietnamese-player-mad-meo-starcraft-2.md",
       "title": "How is this MADMAN the #1 Vietnamese Player? | Mad Meo - StarCraft 2",
       "excerpt": "Mad MeomaikA is the strangest zerg you'll ever see, but is also somehow Vietnam's #1 StarCraft 2 player! Lets take a dive into the filth that is Meo's devastating plays & insane army compositions. -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for",
@@ -980,6 +941,36 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-10-17T11:49:22Z"
+    },
+    {
+      "path": "_games/pig-florencio-finds-out-7-is-bigger-than-6-florencio-files-291-starcraft-2.md",
+      "title": "Florencio finds out 7 is bigger than 6!! | Florencio Files #291 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush  🧜Florencio Files Playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUfznFLMRCxI0ez9HZTyL6Tk 🧜Florencio Twitch: https://www.twitch.tv/florenciosc",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-florencio-finds-out-7-is-bigger-than-6-florencio-files-291-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-florencio-finds-out-7-is-bigger-than-6-florencio-files-291-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=AqI5oCkBTfs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AqI5oCkBTfs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M36S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 250,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AqI5oCkBTfs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-04-04T06:59:51Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-plays-2v2-professional-team-games.md",

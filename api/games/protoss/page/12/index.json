@@ -4,6 +4,45 @@
   "page": 12,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-classics-new-mass-robotics-style-vs-byun.md",
+      "title": "StarCraft 2: Classic's NEW Mass Robotics Style vs ByuN!",
+      "excerpt": "ByuN vs Classic in a best-of-3 series of StarCraft 2. In this match Classic decides to bring out mass Robo facility in the late game, rather than transition towards Sky Toss. This series was recently played during the $400 000 Gamers8 StarCraft 2 tournament. Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-classics-new-mass-robotics-style-vs-byun/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-classics-new-mass-robotics-style-vs-byun/",
+      "originalUrl": "https://youtube.com/watch?v=c0rUH67Fmuk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c0rUH67Fmuk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/c0rUH67Fmuk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-08-25T07:50:30Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-classics-probe-army-vs-byun.md",
       "title": "StarCraft 2: Classic’s PROBE ARMY vs ByuN!",
       "excerpt": "Amazing game of Protoss versus Terran in StarCraft 2 between Classic and ByuN. While Classic can build up his ultimate Protoss deathball, ByuN refuses to lose to it because of ridiculously good micro.  Early morning StarCraft (video from 2013): https://youtu.be/9_8gR2crUw0  Support my work on Patreon:",
@@ -1125,45 +1164,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-05-16T11:51:29Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-epic-game-proxy-factory-vs-proxy-stargate-gumiho-vs-hero.md",
-      "title": "StarCraft 2: EPIC GAME - Proxy Factory vs Proxy Stargate! (GuMiho vs herO)",
-      "excerpt": "Professional game of StarCraft 2 between GuMiho (Terran) and herO (Protoss) where both players make lots of questionable decisions which makes it a lot of fun to watch.   Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-game-proxy-factory-vs-proxy-stargate-gumiho-vs-hero/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-epic-game-proxy-factory-vs-proxy-stargate-gumiho-vs-hero/",
-      "originalUrl": "https://youtube.com/watch?v=6Q-cQMAup78",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6Q-cQMAup78\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M50S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6Q-cQMAup78/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2021-09-06T11:06:16Z"
     }
   ],
   "nextPage": 13

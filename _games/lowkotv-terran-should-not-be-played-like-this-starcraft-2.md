@@ -2,6 +2,7 @@
 title: "Terran should NOT be played like this?! (StarCraft 2)"
 excerpt: "Best-of-3 series of top level StarCraft 2 from the GSL Code S between herO and ByuN. Normally ByuN is known for his amazing micro, but in this series it seems that herO catches him off guard repeatedly.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup"
 originalUrl: https://youtube.com/watch?v=T4j1RcHWBC8
+webUrl: https://everyday.cc/starcraft2/game/lowkotv-terran-should-not-be-played-like-this-starcraft-2/
 type: video
 length: PT46M43S
 publishedDateTime: 2024-04-06T19:16:12Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "KSYTSkcYiP8Hq7GZXr/SCf2MnJg5/MLx/7ZWCQriMCEe7Aa0stbSZuE11W5mxkkV8jhwCC/wxvUunhfrKh3ui/drVRiJ5sNsov6QcADDEJX8F4DgCLWBLwoJ6kecEpWUL0POMZM8c9NLOQ5RtQqgPpDsXE97BO37/XanADKNO5OQ5JdmvptzOhAxtryloQ5Nzc4sf3RNeHTPxo88jnZmPi2lysQOAdLxAWJ4mW7H/ttAyHjvbZI51XC3S561zuT72BewcPqn8DOQ/nveN8DaoQn63SgMW6JG8l4LvNjF4RLD0PtDnxPZCJ90relajbbEmGudamERMxQjlZ9iynBm1X8Z3gB8oC8jA9Ql/b/S27K0NRs7d1af9padB0skG0WOzlCqxTzsmpfo9bgV47P8Ag==;0prRB5d85sn7eE9mCIKc2w=="
+secured: "kyBDWHceNAVZiBbtHpo0DhDOQsqPolKJ2n0z8MHACa9p1O9seTOE7MKtxaJYvhZtNzSNsXfy6r/aO6/37eU7Uf7VzDHJsVVkKRCwtxO0OgGeoN7am6itbG8rTruNWzFEZtdxnOdRIRfr4p2rwnR4elH/FKe+2BsJxG28PxRYpQZLCtGNXzDyH6a/2/aJ3+TVOcHhT+eabFAvm+T9tiRSH3hhjaR9fSl7Sx0nPem+0NQsBsBzDX1FbtPRGLKave30GIx8UREvqP5yKu8nOwuUY+BlvnTdWU3Q8zPyMUPvpBwBJ1Dss9jpGdXRidx2m8N8tgiZycTQN8Njp4M41MNizQ5LJdPFXJlM+i+PSf/xDbd2fYFi3GBYX0Ils2l5v5SFcR3TDDaEyIH6SAO7QDhJEg==;Hl1JzeK6u+D1b8LhvyLycA=="
 ---
 

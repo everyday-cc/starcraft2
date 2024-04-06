@@ -4,6 +4,35 @@
   "page": 99,
   "value": [
     {
+      "path": "_games/pig-the-prophet-of-d-town-unused-upgrades-the-odd-one-liquid-reign-icyfar-g1.md",
+      "title": "The Prophet of D-Town - Unused Upgrades? The Odd One Liquid Reign ICYFAR G1",
+      "excerpt": "In this week’s episode of I Cast Your Freakin Awesome Replays (ICYFAR) players sent in their replays that had the least used upgrades!   CURRENT LIQUID REIGN ICYFAR CHALLENGE: “Crash course” - Show us your most stupid and hilarious allins! During Liquid Reign ICYFARs there is a clear set of rules for",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-the-prophet-of-d-town-unused-upgrades-the-odd-one-liquid-reign-icyfar-g1/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-the-prophet-of-d-town-unused-upgrades-the-odd-one-liquid-reign-icyfar-g1/",
+      "originalUrl": "https://youtube.com/watch?v=NuFrICQr6IQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NuFrICQr6IQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M55S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NuFrICQr6IQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2021-06-01T12:46:41Z"
+    },
+    {
       "path": "_games/pig-the-raciest-of-basetrades-twitch-plays-pig-13.md",
       "title": "The raciest of basetrades ;)  | Twitch Plays PiG #13",
       "excerpt": "Like the content? Then consider to leave a thumbs up and subscribe! ;) If you wish to support me please consider supporting my patreon: https://www.patreon.com/PiGSC2 Videos don’t appear in your feed and you want to get notified about new uploads? Press the bell Icon :) -- Watch live at https://www.twitch.tv/x5_pig",
@@ -864,35 +893,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-06-24T00:55:59Z"
-    },
-    {
-      "path": "_games/pig-this-is-why-sc2-isnt-played-on-50-hit-points-pigs-laboratory-starcraft-2.md",
-      "title": "This is why SC2 isn’t played on 50% hit points | PiG's Laboratory - StarCraft 2",
-      "excerpt": "As part of PiG's Laboratory, I challenged StarCraft 2 pros to play with only 50% hit points - on everything! We get to witness how quickly everything dies. And best of all, Astrea and Cham have some clever solutions to this challenge! Check out the PiG's Laboratory playlist: https://youtube.com/playlist?list=PLFUDU8AOevUd-zdmPIHGBi7xWwtua9Gtr",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-this-is-why-sc2-isnt-played-on-50-hit-points-pigs-laboratory-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-this-is-why-sc2-isnt-played-on-50-hit-points-pigs-laboratory-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=kjLbAH2UwP8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kjLbAH2UwP8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M30S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kjLbAH2UwP8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-06-21T10:05:23Z"
     }
   ],
   "nextPage": 100

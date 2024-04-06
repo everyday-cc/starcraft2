@@ -28,7 +28,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 391,
+      "heat": 404,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/1ncFL288m9o/maxresdefault.jpg",
@@ -816,14 +816,14 @@
       "publishedDateTime": "2024-04-02T08:15:37Z"
     },
     {
-      "path": "_games/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2.md",
-      "title": "Dark faces MASS Tactical Nukes! (StarCraft 2)",
-      "excerpt": "Mass Tactical Nukes in the StarCraft 2 GSL Code S 2024 season 1 qualifiers! This is a best-of-3 series of SC2 between Dark and Bunny, a high level Zerg versus Terran. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-faces-mass-tactical-nukes-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=6pr0CZSvUyQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6pr0CZSvUyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M56S",
+      "path": "_games/lowkotv-dark-drone-rushes-hero-starcraft-2-finals.md",
+      "title": "Dark DRONE RUSHES herO! (StarCraft 2 Finals)",
+      "excerpt": "StarCraft 2 tournament match from the Korean StarCraft League 47. This is the grand finals of this SC2 tournament between herO and Dark, a classic Protoss versus Zerg matchup. Dark's super cheese vs Astrea: https://youtu.be/GakoZRmZyBo Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-drone-rushes-hero-starcraft-2-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-drone-rushes-hero-starcraft-2-finals/",
+      "originalUrl": "https://youtube.com/watch?v=3S2sxhIJbyM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3S2sxhIJbyM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M56S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -838,13 +838,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
+        "Protoss",
         "Zerg"
       ],
-      "heat": 163,
+      "heat": 161,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6pr0CZSvUyQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgPChBMA8=&rs=AOn4CLBia_8m6TG5f_mVbYYiilMR4QuOSw",
+          "url": "https://i.ytimg.com/vi/3S2sxhIJbyM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD0gUihlMA8=&rs=AOn4CLAK5rwIo_9oMCyfthxqedIHI6QuBA",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -852,7 +852,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-02-21T10:22:51Z"
+      "publishedDateTime": "2024-03-30T13:08:48Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-esl-masters-summer-grand-finals-scarlett-vs-astrea-best-of-7.md",

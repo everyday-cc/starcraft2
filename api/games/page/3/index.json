@@ -631,14 +631,14 @@
       "publishedDateTime": "2024-03-25T12:52:14Z"
     },
     {
-      "path": "_games/lowkotv-byun-calls-heros-insane-bluff-starcraft-2.md",
-      "title": "ByuN CALLS herO's INSANE BLUFF! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between herO (Protoss) and ByuN (Terran). This match was played during the ESL Open Cup Korea 209, a weekly SC2 tournament. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-byun-calls-heros-insane-bluff-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-byun-calls-heros-insane-bluff-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=0HgIa8nhFHI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0HgIa8nhFHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M51S",
+      "path": "_games/lowkotv-gumihos-brings-battlecruisers-back-starcraft-2.md",
+      "title": "GuMihos brings BATTLECRUISERS back! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of StarCraft 2 between GuMiho (Terran) and SHIN (Zerg). This series is from the ESL Open Cup and brings Battlecruisers back to the Terran versus Zerg meta. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-gumihos-brings-battlecruisers-back-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-gumihos-brings-battlecruisers-back-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=0JPH89u-_yQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0JPH89u-_yQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M14S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -653,13 +653,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
-        "Protoss"
+        "Terran"
       ],
-      "heat": 130,
+      "heat": 133,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/0HgIa8nhFHI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/0JPH89u-_yQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUihFMA8=&rs=AOn4CLAqCgniR6iqN8rvgSIfyg5NH43CQA",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -667,7 +666,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-01-16T11:31:26Z"
+      "publishedDateTime": "2024-03-01T08:12:03Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-7.md",

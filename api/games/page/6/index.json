@@ -4,45 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_games/lowkotv-byuns-masterclass-in-slow-pushing-protoss-starcraft-2-finals.md",
-      "title": "ByuN’s Masterclass in SLOW PUSHING Protoss! (StarCraft 2 Finals)",
-      "excerpt": "Professional series of StarCraft 2 between ByuN (Terran) and MaxPax (Protoss). This match is the finals of this week's ESL Open Cup. New StarCraft 2 patch:  https://youtu.be/dP2hx7mpZ1k?si=CvJuwObaVpVvKCVZ Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-byuns-masterclass-in-slow-pushing-protoss-starcraft-2-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-byuns-masterclass-in-slow-pushing-protoss-starcraft-2-finals/",
-      "originalUrl": "https://youtube.com/watch?v=M2VwLzwC4gg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M2VwLzwC4gg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M32S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 69,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/M2VwLzwC4gg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-23T11:15:26Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-grand-finals-serral-vs-clem-best-of-7.md",
       "title": "StarCraft 2: GRAND FINALS - Serral vs Clem! (Best-of-7)",
       "excerpt": "Serral versus Clem in a best-of-7 series of top level StarCraft 2. This match is the Grand Finals of the ESL SC2 Masters 2023 Winter: European Regionals and displays some of the best SC2 in the world. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
@@ -527,44 +488,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2019-08-19T11:11:17Z"
-    },
-    {
-      "path": "_games/lowkotv-dark-refuses-to-play-late-game-starcraft-2.md",
-      "title": "Dark REFUSES to play Late Game! (StarCraft 2)",
-      "excerpt": "Amazing series of StarCraft 2 between Dark (Zerg) and Cure (Terran). This series was played as part of the Master's Coliseum 7 tournament, the first premier SC2 event of 2024. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-refuses-to-play-late-game-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-refuses-to-play-late-game-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=o-IP_SC9jWU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o-IP_SC9jWU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M54S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/o-IP_SC9jWU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-20T12:47:58Z"
     },
     {
       "path": "_games/lowkotv-drgs-brood-war-unit-only-challenge-starcraft-2.md",
@@ -1210,6 +1133,81 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-06-09T11:01:24Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-50-tactical-nukes.md",
+      "title": "StarCraft 2: 50+ TACTICAL NUKES!",
+      "excerpt": "What a ridiculous match! So many Tactical Nukes in one game. Subscribe for more videos: http://lowko.tv/youtube More Serral vs INnoVation: https://youtu.be/FzjCKHA3Zc0  In this game between Serral and INnoVation we see basically the whole map of King's Cove mine out. It gets to the point that both players",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-50-tactical-nukes/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-50-tactical-nukes/",
+      "originalUrl": "https://youtube.com/watch?v=xKYulaEILB0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xKYulaEILB0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M28S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xKYulaEILB0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2019-03-22T10:12:45Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-crazy-strats-astreas-builds-should-never-work.md",
+      "title": "StarCraft 2: CRAZY STRATS - Astrea's Builds SHOULD NEVER work!",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 from the ESL Open Cup between Astrea and MeomaikA. All games in this series of SC2 are played on the brand-new tournament maps. Picture of Astrea on the thumbnail of this video is from IEM Katowice 2022 and owned by ESL. Support my work: https://patreon.com/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-crazy-strats-astreas-builds-should-never-work/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-crazy-strats-astreas-builds-should-never-work/",
+      "originalUrl": "https://youtube.com/watch?v=YygztHmBCNg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YygztHmBCNg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M54S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YygztHmBCNg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUihEMA8=&rs=AOn4CLBRGzn2BE-V_J4gHDfc9YnS-U4OZQ",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-21T10:22:48Z"
     }
   ],
   "nextPage": 7

@@ -503,44 +503,6 @@
       "publishedDateTime": "2019-08-19T11:11:17Z"
     },
     {
-      "path": "_games/lowkotv-dark-refuses-to-play-late-game-starcraft-2.md",
-      "title": "Dark REFUSES to play Late Game! (StarCraft 2)",
-      "excerpt": "Amazing series of StarCraft 2 between Dark (Zerg) and Cure (Terran). This series was played as part of the Master's Coliseum 7 tournament, the first premier SC2 event of 2024. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-dark-refuses-to-play-late-game-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-dark-refuses-to-play-late-game-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=o-IP_SC9jWU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o-IP_SC9jWU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M54S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/o-IP_SC9jWU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-01-20T12:47:58Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-epic-match-clem-vs-dark-best-of-7.md",
       "title": "StarCraft 2: EPIC MATCH - Clem vs Dark! (Best-of-7)",
       "excerpt": "Epic match of professional StarCraft 2 between Clem and Dark. In this best-of-7 series from the TSL 7 we watch two top level pro gamers fight it out in some very clever games. Clem doesn't really lose Terran versus Zerg in Europe anymore, but Dark plays a Korean version of ZvT that's different than what",
@@ -1002,6 +964,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-11-29T11:21:59Z"
+    },
+    {
+      "path": "_games/lowkotv-reynors-ultralisk-rush-vs-maxpax-starcraft-2.md",
+      "title": "Reynor's ULTRALISK RUSH vs MaxPax! (StarCraft 2)",
+      "excerpt": "StarCraft 2 series from the ESL Open Cup Europe between Reynor (Zerg) and MaxPax (Protoss). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-reynors-ultralisk-rush-vs-maxpax-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-reynors-ultralisk-rush-vs-maxpax-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=kvWH0tgaM9Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kvWH0tgaM9Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M2S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kvWH0tgaM9Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-29T12:53:38Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-dark-refuses-to-play-late-game-vs-cure-best-of-3.md",

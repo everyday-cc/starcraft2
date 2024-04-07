@@ -4,6 +4,45 @@
   "page": 6,
   "value": [
     {
+      "path": "_games/lowkotv-byuns-masterclass-in-slow-pushing-protoss-starcraft-2-finals.md",
+      "title": "ByuN’s Masterclass in SLOW PUSHING Protoss! (StarCraft 2 Finals)",
+      "excerpt": "Professional series of StarCraft 2 between ByuN (Terran) and MaxPax (Protoss). This match is the finals of this week's ESL Open Cup. New StarCraft 2 patch:  https://youtu.be/dP2hx7mpZ1k?si=CvJuwObaVpVvKCVZ Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-byuns-masterclass-in-slow-pushing-protoss-starcraft-2-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-byuns-masterclass-in-slow-pushing-protoss-starcraft-2-finals/",
+      "originalUrl": "https://youtube.com/watch?v=M2VwLzwC4gg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M2VwLzwC4gg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M32S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M2VwLzwC4gg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-23T11:15:26Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-grand-finals-serral-vs-clem-best-of-7.md",
       "title": "StarCraft 2: GRAND FINALS - Serral vs Clem! (Best-of-7)",
       "excerpt": "Serral versus Clem in a best-of-7 series of top level StarCraft 2. This match is the Grand Finals of the ESL SC2 Masters 2023 Winter: European Regionals and displays some of the best SC2 in the world. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
@@ -1180,35 +1219,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-07-29T00:05:04Z"
-    },
-    {
-      "path": "_games/pig-zvt-vs-4-players-at-once-is-insanely-difficult-starcraft-2.md",
-      "title": "ZvT vs 4 players at once is INSANELY DIFFICULT | StarCraft 2",
-      "excerpt": "PiG plays a StarCraft 2 Zerg game against a 4-player Terran archon of his Twitch viewers. Turns out playing ZvT against 4 pairs of hands is insanely hard -- 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom 🐷 Third Channel for Daily Pro Casts: https://www.youtube.com/c/PiGCasts",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-zvt-vs-4-players-at-once-is-insanely-difficult-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-zvt-vs-4-players-at-once-is-insanely-difficult-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=uhjuql7CNHQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uhjuql7CNHQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M19S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uhjuql7CNHQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-06-09T11:01:24Z"
     }
   ],
   "nextPage": 7

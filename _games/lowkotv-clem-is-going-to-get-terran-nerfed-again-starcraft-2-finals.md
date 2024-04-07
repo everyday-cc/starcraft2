@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-clem-is-going-to-get-terran-
 type: video
 length: PT1H23M23S
 publishedDateTime: 2024-04-02T10:41:23Z
-heat: 251
+heat: 247
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tiecYmjDGVg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "S1SWBb1BjTu4PuvwhQpp7VfXyBzZNM0v78ju1NsiR1GcNW88DqmbF52GHje7MuPb1PvOHSPyKTZ5PsEmCHOPKa0GhQugXI6hHBrVjt3t9JzVfqzXeGDZm358E9vdlYphWXY97L9GmK4ZgUW0r2fWueCVLlQRhJ2qn1h9AUR3ozw5t7EcXQxXVy2sSv+K7Ol92kIZTTSkb2P/RdWIoYlW4+cP3TFeOB3zqcAexBI7ioKVoUaWnnwlbzpAKq31cBp9UhILHaLgxL2NXbQRZyi5cxOoZRwfTl90jcY/jToOSbMMMAT6Fx/uCXNJho0PPtb4oCPEFJrZYXWow21Ex6QTYo5tVF36HDBV3h4r0EmtV1LYQ0QP0X+mUEIbSniJvS8M22z6hCNKidvgXPFfR27X4+jBLQkS+2ZfvFx2A7BCdV4=;1VsHFhAE6yfEHAmztqWuJA=="
+secured: "zlW5o2yaesEWrXsMGzL9iofj/KZtJhiE9z2kp1nUFhqYgvOzjTquc8BrAK4uNvB4+xHVKBsf9Chvl1RoBFC+dCilfPkhauUKBzRt5mH88YukFhXPfA4wInhRjN+MaCu0GtYg58BmWCgnTmqubx103a06aHAEW6E2FwqeI/xryOtUuk1RXe/JFrHBuKf8enCmq81lend1SslX664YA8mA4skoDv5ucQgR/fFjnX1mwLLRw6s180gXKzCMQK4EcCn9hfwQpk+woNH+YBJxeJ15owJ7490wfnuci7Wdc9FfUc3q2xN3Dy3x1dmO6tgHXSImlgd9HY1W0CVpVunRQ/81aPK+lKDwo3FPbKoEFj1OZ4AI6ycNiZHcBoS4rDP9yfYN3IuEpJ7MIf2VOAKJDPSObi+J4AjluZAtTNGwung7YOM=;e+eZ4DH9n1FRDj/kWNP1Tw=="
 ---
 

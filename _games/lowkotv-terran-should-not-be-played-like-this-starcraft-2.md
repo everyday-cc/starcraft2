@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-terran-should-not-be-played-
 type: video
 length: PT46M43S
 publishedDateTime: 2024-04-06T19:16:12Z
-heat: 396
+heat: 331
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T4j1RcHWBC8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "fMFXGWksW+6OXotcsu3UQM/AYlEZkC7z4ErfHKHPNYDKE8+1UGnh4eFT9hSwVlM09QxpWNsKE5/KmBTyKLGoHdW/JU96C6oC2bBpQEnZkIWRjfuleG4D87aUvUb+auTDlBrcjS4N7z6rVVP/4z94U4kWKtUxorCf5rXNKRpq+H7DkfacOvu6fiMvgLMYED4RmMRitow6ddsYdfEOEixqtqYngIGL868UFnDnKcm++RjmdoBWS4jPVkep19d5mD8yqDDiBK5cYR868zHoHQvBM0cg889Bx6PRhypL/LlFgzfVHhUQt2zSKoX96wku63QRWjhJBO9GJjFuOQmAnZetxtyAGXQDO9mPgvrSHAg9FhtSxMWRLCH2PnLr5xiHOlwk1LB0p6tC908VCgg8hV6zvShavqwcNP5iQAa65irzmLg=;XLF2MnQoqUPwOiGGZYtxiw=="
+secured: "Q/9ptSxm6hiSTO6qhdZLrn3X0jXqC71VZZ+ivP+/O4+5qWhX1sOrLxyI8cw7Y4ufG47cJqU/G9EA34JId2/Omy13YLYlEWG0FWoFXYlU2ozScI+Fal9BmaSaKRx80Zu0eYY+QCUGHiurf7Z8nFP+GcLNJ5bJUO66Xh1L3sFyUZe+eNBJnL19CQnGgPnpyfGl0NIWgQjri0SMnkSrOYntTcWUe4uFmmnR+YII9nPhnx5xB21QTM3sm1dEVus+wuNGRMVUV9edHW+xyURAOVEqEFIk0o9xHQGnL7uoQ26PFxfr8mrivSCi0R/UuqwGUMxe6Vdq3q0nBSfHJ+uWtt/NN6LR+llHXHsqMF6iZ6wRtDhjjtW+2EFDR6jndUyE8KEvgYgwWnB9Bc7SRCNv+rIHPBxc27nygNk547flDdaI2QM=;DSiRGcQdl4OPhegsjEkuPg=="
 ---
 

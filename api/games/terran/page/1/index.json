@@ -4,44 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_games/lowkotv-terran-should-not-be-played-like-this-starcraft-2.md",
-      "title": "Terran should NOT be played like this?! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 from the GSL Code S between herO and ByuN. Normally ByuN is known for his amazing micro, but in this series it seems that herO catches him off guard repeatedly.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-terran-should-not-be-played-like-this-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-terran-should-not-be-played-like-this-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=T4j1RcHWBC8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T4j1RcHWBC8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 396,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/T4j1RcHWBC8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-04-06T19:16:12Z"
-    },
-    {
       "path": "_games/lowkotv-marus-massive-nuke-in-the-gsl-code-s-starcraft-2.md",
       "title": "Maru's MASSIVE NUKE in the GSL Code S! (StarCraft 2)",
       "excerpt": "Best-of-3 series of StarCraft 2 played on the new SC2 balance patch. This match is between Maru (Terran) and Classic (Protoss) and played in the round-of-8 of the GSL Code S season 1 of 2024. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
@@ -116,6 +78,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-03-29T11:38:09Z"
+    },
+    {
+      "path": "_games/lowkotv-terran-should-not-be-played-like-this-starcraft-2.md",
+      "title": "Terran should NOT be played like this?! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 from the GSL Code S between herO and ByuN. Normally ByuN is known for his amazing micro, but in this series it seems that herO catches him off guard repeatedly.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-terran-should-not-be-played-like-this-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-terran-should-not-be-played-like-this-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=T4j1RcHWBC8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T4j1RcHWBC8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 331,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/T4j1RcHWBC8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-04-06T19:16:12Z"
     },
     {
       "path": "_games/lowkotv-byun-gets-the-reaper-nerfed-again-starcraft-2.md",
@@ -727,6 +727,44 @@
       "publishedDateTime": "2024-03-12T11:28:21Z"
     },
     {
+      "path": "_games/lowkotv-marus-biggest-tactical-nuke-of-the-year-starcraft-2.md",
+      "title": "Maru's BIGGEST TACTICAL NUKE of the Year! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of StarCraft 2 played on the new SC2 balance patch. This match is between Maru (Terran) and Classic (Protoss) and played in the round-of-8 of the GSL Code S season 1 of 2024. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-marus-biggest-tactical-nuke-of-the-year-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-marus-biggest-tactical-nuke-of-the-year-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=d7H8RL9nv28",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d7H8RL9nv28\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M16S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 157,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/d7H8RL9nv28/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVChHMA8=&rs=AOn4CLAnrYSCy9S8pQfYoyMewm9GdFrosg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-29T11:38:09Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-maru-vs-serral-the-highest-skilled-series-of-the-year.md",
       "title": "StarCraft 2: Maru vs Serral - The Highest Skilled Series of the Year!",
       "excerpt": "StarCraft 2 pro match between Serral and Maru. These two pro gamers have been the number 1 and 2 in the world for years. It does not get any higher level than this Zerg versus Terran. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My",
@@ -803,44 +841,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-05-22T10:49:14Z"
-    },
-    {
-      "path": "_games/lowkotv-marus-biggest-tactical-nuke-of-the-year-starcraft-2.md",
-      "title": "Maru's BIGGEST TACTICAL NUKE of the Year! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of StarCraft 2 played on the new SC2 balance patch. This match is between Maru (Terran) and Classic (Protoss) and played in the round-of-8 of the GSL Code S season 1 of 2024. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-marus-biggest-tactical-nuke-of-the-year-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-marus-biggest-tactical-nuke-of-the-year-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=d7H8RL9nv28",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d7H8RL9nv28\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT47M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 137,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/d7H8RL9nv28/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVChHMA8=&rs=AOn4CLAnrYSCy9S8pQfYoyMewm9GdFrosg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-29T11:38:09Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-byun-surprised-by-proxy-dark-templar.md",
@@ -1037,6 +1037,45 @@
       "publishedDateTime": "2024-03-28T10:02:42Z"
     },
     {
+      "path": "_games/lowkotv-blys-bizarre-zerg-build-orders-vs-gumiho-starcraft-2.md",
+      "title": "Bly's BIZARRE Zerg Build Orders vs GuMiho! (StarCraft 2)",
+      "excerpt": "Best-of-5 series of high level StarCraft 2 between Bly (Zerg) and GuMiho (Terran). This match of SC2 was played as a qualification game of the IEM Katowice StarCraft 2 tournament. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-blys-bizarre-zerg-build-orders-vs-gumiho-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-blys-bizarre-zerg-build-orders-vs-gumiho-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=8JKSa62oGL8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8JKSa62oGL8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M17S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 114,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8JKSa62oGL8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-22T11:57:58Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",
       "title": "StarCraft 2: Erik's SURPRISES GuMiho with Zerg Drops! (Best-of-3)",
       "excerpt": "Best-of-3 series of Zerg vs Terran in StarCraft 2 between Erik and GuMiho. This is a series with some very unique Zerg strategies and build orders. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
@@ -1112,45 +1151,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-08-25T11:00:16Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-darks-gumiho-speedrun-goes-wrong.md",
-      "title": "StarCraft 2: Dark's GuMiho SPEEDRUN Goes Wrong!",
-      "excerpt": "Best-of-3 series of StarCraft 2 between Dark (Zerg) and GuMiho (Terran). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko https://youtube.com/lowkoclips Twitch livestream: https://twitch.tv/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-darks-gumiho-speedrun-goes-wrong/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-darks-gumiho-speedrun-goes-wrong/",
-      "originalUrl": "https://youtube.com/watch?v=le7eiib5RMI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/le7eiib5RMI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M17S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 106,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/le7eiib5RMI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-05-19T08:44:05Z"
     }
   ],
   "nextPage": 2

@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/24078322/starcraft-ii-5
 webUrl: "https://news.blizzard.com/en-us/starcraft2/24078322/starcraft-ii-5-0-13-patch-notes"
 type: article
 quality: 177
-heat: 217
+heat: 197
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Boat Test: 2024 Starcraft SVX 231 OB CC"
-    excerpt: "We’ve tested many variations of Starcraft’s SVX series. Now, the SVX’s stable, reverse-chine hull and deep cockpit adds a family-friendly center-console to its fleet. Our SVX 231 OB CC handled chop and wakes, while offering angling amenities—such ..."
-    publishedDateTime: 2024-03-19T00:00:00Z
-    webUrl: "https://www.boatingmag.com/boats/2024-starcraft-svx-231-ob-cc-boat-test/"
-    type: article
-    provider:
-      name: Boating
-      domain: boatingmag.com
-    quality: 37
-    images:
-      - url: "https://www.boatingmag.com/uploads/2023/12/BTGBG24-RUN-Starcraft-SVX-231-OB-CC-02.jpg"
-        width: 2000
-        height: 1500
-        isCached: true
   - title: "2024 Starcraft Prices, Values and Specs"
     excerpt: "Starcraft has a rich manufacturing history dating back to 1903 as a producer of farm equipment and later boats. Entering the recreational vehicle marketplace in 1964, Starcraft began producing a folding camping trailer. Eventually, Starcraft added truck ..."
     publishedDateTime: 2024-03-26T10:37:00Z

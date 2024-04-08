@@ -32,20 +32,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Boat Test: 2024 Starcraft SVX 231 OB CC"
-    excerpt: "We’ve tested many variations of Starcraft’s SVX series. Now, the SVX’s stable, reverse-chine hull and deep cockpit adds a family-friendly center-console to its fleet. Our SVX 231 OB CC handled chop and wakes, while offering angling amenities—such ..."
-    publishedDateTime: 2024-03-19T00:00:00Z
-    webUrl: "https://www.boatingmag.com/boats/2024-starcraft-svx-231-ob-cc-boat-test/"
-    type: article
-    provider:
-      name: Boating
-      domain: boatingmag.com
-    quality: 37
-    images:
-      - url: "https://www.boatingmag.com/uploads/2023/12/BTGBG24-RUN-Starcraft-SVX-231-OB-CC-02.jpg"
-        width: 2000
-        height: 1500
-        isCached: true
 
 secured: "qIEklmeD+ZnYyVhkw17JdLGrrh+awR6bwFmMcSWSg9g00FzsmujPeo2qvicN4sNTldR49+677jfJK781bGrXxK55WszW/0vPh53XjgOo4hePDcFN5XbSVGuKred1XieJLPn2SibfEJi+tC/2sqA/dQQ3gsqVhXSWEsD/O9M7JEZ7BZDHNqBXfy9X8DcxG3NzohvWSzBkHi5tnOZqu0w5vSENuDfkjNTE6sDb2cK+ByXm/5Rlb3IL0OEU2iQ4Cf7+RppGOU1oDAiFR68ssTgge5D5IzFwM3BfRXzjEtiasn3Yp8jwa/gwjH4R+sfPlfTywu8adUFnonwb6Lm+IZcEX/pQThHXVo3mjIF18fEI+Lg=;q45pWBGaOA3pkzlh/f8Ohw=="
 ---

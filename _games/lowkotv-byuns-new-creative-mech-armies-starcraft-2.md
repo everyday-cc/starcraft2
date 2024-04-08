@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-byuns-new-creative-mech-armi
 type: video
 length: PT45M4S
 publishedDateTime: 2024-03-19T12:27:00Z
-heat: 89
+heat: 87
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8_ym1GbzaK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "3PSIXtpw7F8cRC9VH/BPu56/bjrER7ZX/g74NJf2E2T1J2nk4MQFsnv6IqQNN1rOgV+cZ2Z0WCHWWU/0SP/NzicN2geWgdLIsjIoKJBC4dHk+AuslNR9QA+1XH/DC0tzHh5wcktHJNAXySXjEZ0Xz8najJ6+P8fZmXIMO2aUBslpDIM/7dYhmyWO8JwBu6fTrJ8Fj0BTBQcN0QD74NgqplRdJnt/ExNWOwE7PHJe41fO6ogzoLUJ45X/3b/z1Ip6wIYpJw62OPHowjFybCRh5w4UouE3iyvUclMWLm9O5Lwua7S7RUNyuOEXedFAPXgaMwSUl/iY4FzaYOXHnj4PMlEZoYESxV2S9tmXjdxYO50ow25F466Z2Um0YYZBnIa3AVYBvKjdZUa7U1RGIhRAzWObolHyE/VXWVl5U9ycAH8=;K4Nffp+A+5BAWWHKAYvIoA=="
+secured: "lZ1EitrtVihBh9Bd24eqqJ/Ueo5hqX6D8NSebyKgDiQwrI51PQ9GmnvpXRehcS6/4qBxtLPHzuA8HU4srz/+b3lqWOWZ1Nfnz8oAEz/k5uTc4ad4Lopd09w+5NXokTnwM0fZQFc5ERsYKpm9oyPJEPkjVx9Z1Jvwx4IMhLrAOF5ZM0noIC97gtFO051Rme++l8FgiecZOWrR9FrdaWzNAz8GCNVisCIhrEqHB896gdrA/CBL6oiLymPz1Xqy1qffWzxN9xtFlJ2RnQsEsDwqec1LZGEhCvzJXlpQcosL9vG6orjHhmTm8ZCRh16RoOQ8wQguZ+xtrV8IKVI8jFb+pSNZXVygx1c0HixtP1ngVR9CoqqoGPYGneGPrHztB6VRwyegin8/JTBaKTB3nyfpUwZJupJyUhzjM4rkJg+2VnI=;FGQZ3B/L/Z+nF2MbpOOW9Q=="
 ---
 

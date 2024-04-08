@@ -1008,6 +1008,36 @@
       "publishedDateTime": "2023-11-18T11:54:45Z"
     },
     {
+      "path": "_games/pig-reynor-tries-his-best-to-coach-washed-up-caster.md",
+      "title": "Reynor tries his best to coach washed up caster",
+      "excerpt": "After getting coaching from PiG in https://youtu.be/1nsf1zwuotw , @reynorsc returned the favour  -- 🐷 Main Channel: https://www.youtube.com/user/PiGstarcraft 🐷 Second Channel for Learning StarCraft 2: https://www.youtube.com/c/PiGRandom -- 🐷 Watch live at https://www.twitch.tv/x5_pig 🐷 Support PiG:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-reynor-tries-his-best-to-coach-washed-up-caster/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-reynor-tries-his-best-to-coach-washed-up-caster/",
+      "originalUrl": "https://youtube.com/watch?v=99fAdzk7ZaE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/99fAdzk7ZaE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M45S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 152,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/99fAdzk7ZaE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-04-02T08:15:37Z"
+    },
+    {
       "path": "_games/lowkotv-blys-unexpected-zerg-rushes-vs-harstem-starcraft-2.md",
       "title": "Bly's UNEXPECTED Zerg Rushes vs Harstem!  (StarCraft 2)",
       "excerpt": "Best-of-5 series of StarCraft 2 from the European regionals of the ESL Masters Winter StarCraft 2 tournament. This match is a Zerg versus Protoss between Bly and Harstem, and features loads of creative Zerg rushes and cheeses. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop",
@@ -1083,45 +1113,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-11-17T11:44:02Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-queen-dropping-terran-gumiho-vs-erik.md",
-      "title": "StarCraft 2: QUEEN DROPPING Terran?! (GuMiho vs Erik)",
-      "excerpt": "Best-of-3 series of Zerg vs Terran in StarCraft 2 between Erik and GuMiho. This is a series with some very unique Zerg strategies and build orders. Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-queen-dropping-terran-gumiho-vs-erik/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-queen-dropping-terran-gumiho-vs-erik/",
-      "originalUrl": "https://youtube.com/watch?v=TJezGProI74",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TJezGProI74\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M31S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 147,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TJezGProI74/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-05-22T10:49:14Z"
     }
   ],
   "nextPage": 2

@@ -4,6 +4,45 @@
   "page": 17,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-maxpax-dark-templar-rushes-byun-esl-finals.md",
+      "title": "StarCraft 2: MaxPax DARK TEMPLAR Rushes ByuN! (ESL Finals)",
+      "excerpt": "Watch the Epic Clash of MaxPax vs ByuN in the StarCraft 2 ESL Open Cup North America Finals. Apparently the Dark Templar is the unit of this week! Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxpax-dark-templar-rushes-byun-esl-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-maxpax-dark-templar-rushes-byun-esl-finals/",
+      "originalUrl": "https://youtube.com/watch?v=7AzjAzJYlrI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7AzjAzJYlrI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M59S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7AzjAzJYlrI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-11-15T14:07:49Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-maxpax-destroys-marus-cyclones-best-of-5.md",
       "title": "StarCraft 2: MaxPax DESTROYS Maru's Cyclones!  (Best-of-5)",
       "excerpt": "Best-of-5 of the highest level of pro StarCraft 2 between MaxPax (Protoss) and Maru (Terran). This series was played as part of the WTL 2023 Winter (World Team League) organised by SCBoy.  Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
@@ -1114,45 +1153,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2019-04-28T15:09:09Z"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-professional-korean-protoss-vs-terran.md",
-      "title": "StarCraft 2: PROFESSIONAL Korean Protoss vs Terran!",
-      "excerpt": "A professional match of Protoss vs Terran between Jjakji and Patience. Subscribe for more videos: http://lowko.tv/youtube Perfect defense: https://goo.gl/gMXLjb  An awesome match with a focus on Macro from both ends between Jjakji and Patience. In this match on Honorgrounds, both players decide to sit",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-professional-korean-protoss-vs-terran/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-professional-korean-protoss-vs-terran/",
-      "originalUrl": "https://youtube.com/watch?v=B_tiuxhFit0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B_tiuxhFit0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B_tiuxhFit0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2017-04-15T09:06:39Z"
     }
   ],
   "nextPage": 18

@@ -4,14 +4,14 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/lowkotv-marus-disrespects-this-zerg-player-in-the-gsl-code-s-starcraft-2.md",
-      "title": "Maru's disrespects this Zerg player in the GSL Code S! (StarCraft 2)",
-      "excerpt": "StarCraft 2 GSL Code S match of a best-of-3 series of Zerg versus Terran between Maru (Terran) and soO (Zerg). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-marus-disrespects-this-zerg-player-in-the-gsl-code-s-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-marus-disrespects-this-zerg-player-in-the-gsl-code-s-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=qWSKWM1Ak60",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qWSKWM1Ak60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M4S",
+      "path": "_games/lowkotv-serral-vs-maru-500000-sc2-grand-finals-starcraft-2.md",
+      "title": "Serral vs Maru - $500,000 SC2 Grand Finals! (StarCraft 2)",
+      "excerpt": "Professional match of StarCraft 2 between Serral and Maru from the Grand Finals of the IEM Katowice SC2 tournament. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-serral-vs-maru-500000-sc2-grand-finals-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-serral-vs-maru-500000-sc2-grand-finals-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=wiol7QL9psw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wiol7QL9psw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M40S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -32,7 +32,7 @@
       "heat": 60,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/qWSKWM1Ak60/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTyhHMA8=&rs=AOn4CLCgzpWN8DfJOVUALGcdw3fsxNMVmw",
+          "url": "https://i.ytimg.com/vi/wiol7QL9psw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTyhNMA8=&rs=AOn4CLCZm5sNWXpVibw8SP7DGQ_nfF6S4g",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -40,46 +40,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-03-02T09:24:05Z"
-    },
-    {
-      "path": "_games/lowkotv-oliveiras-battlecruiser-anti-timing-vs-dark-starcraft-2.md",
-      "title": "Oliveira's BATTLECRUISER Anti-Timing vs Dark! (StarCraft 2)",
-      "excerpt": "Professional match of StarCraft 2 between Dark (Zerg) and Oliveira (Terran). This match is easily one of the best games of SC2 I've seen recently.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-oliveiras-battlecruiser-anti-timing-vs-dark-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-oliveiras-battlecruiser-anti-timing-vs-dark-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=FWFMDHXNY-k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FWFMDHXNY-k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M15S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FWFMDHXNY-k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2023-11-29T11:21:59Z"
+      "publishedDateTime": "2024-02-19T12:42:03Z"
     },
     {
       "path": "_games/pig-starcraft-2-ruff-the-spire-hunter-diamond-in-the-ruff-58.md",
@@ -1071,6 +1032,76 @@
       "type": "collection"
     },
     {
+      "path": "_games/pig-0-iq-bunker-makes-cheeser-rage-florencio-files-274-starcraft-2.md",
+      "title": "0 IQ Bunker makes Cheeser Rage | Florencio Files #274 - StarCraft 2",
+      "excerpt": "I cast one of the mysterious and deranged StarCraft 2 builds of the one and only, Florencio, the dude that invented the Protoss proxy nexus recall rush. In this episode, the Sewer Mermaid has a very good strat that deals a lot of damage. But is it enough against such a good opponent?  🧜Florencio Files",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-0-iq-bunker-makes-cheeser-rage-florencio-files-274-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-0-iq-bunker-makes-cheeser-rage-florencio-files-274-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=VJg4fya3ym8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VJg4fya3ym8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M48S",
+      "provider": {
+        "name": "PiG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Terran"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VJg4fya3ym8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2023-01-19T04:05:19Z"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho.md",
+      "title": "StarCraft 2: Marine BLOOD BATH! (herO vs GuMiho)",
+      "excerpt": "StarCraft 2 ESL Open Cup 215 Grand Finals for the Korean server. In this series of Terran versus Protoss we watch GuMiho play hyper aggressive Terran strategies versus herO. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-marine-blood-bath-hero-vs-gumiho/",
+      "originalUrl": "https://youtube.com/watch?v=DK68MQv_9QE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DK68MQv_9QE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M14S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DK68MQv_9QE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-02-26T11:34:09Z"
+    },
+    {
       "path": "_games/lowkotv-byun-surprised-by-proxy-dark-templar-into-sky-toss-starcraft-2.md",
       "title": "ByuN SURPRISED by Proxy Dark Templar into Sky Toss! (StarCraft 2)",
       "excerpt": "Best-of-3 series of StarCraft 2 between ByuN (Terran) and Creator (Protoss). This match of SC2 was played during the ESL Open Cup Korea. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second",
@@ -1797,37 +1828,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2023-12-22T15:35:33Z"
-    },
-    {
-      "path": "_games/pig-terran-experiment-confuses-zerg-opponent-2-tvz-games-diamond-in-the-ruff-66-starcraft-2.md",
-      "title": "Terran Experiment Confuses Zerg Opponent (2 TvZ games) | Diamond in the Ruff #66 - StarCraft 2",
-      "excerpt": "I cast a StarCraft 2 game from Ruff, a Terran with very creative gameplay. How will he ruff up his Terran opponent?  💎 Diamond in the Ruff: https://www.youtube.com/playlist?list=PLFUDU8AOevUfdEq20wYq8Sm9z3sc1yn0l 💎 Follow Ruff: https://www.twitch.tv/ruff_stuff_tv | https://www.youtube.com/ruff_stuff",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-terran-experiment-confuses-zerg-opponent-2-tvz-games-diamond-in-the-ruff-66-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-terran-experiment-confuses-zerg-opponent-2-tvz-games-diamond-in-the-ruff-66-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=RxpSjmptAuM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RxpSjmptAuM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M3S",
-      "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RxpSjmptAuM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2022-03-10T01:38:59Z"
     }
   ],
   "nextPage": 4

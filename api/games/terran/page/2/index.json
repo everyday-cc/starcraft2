@@ -321,7 +321,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 94,
+      "heat": 93,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/6pr0CZSvUyQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgPChBMA8=&rs=AOn4CLBia_8m6TG5f_mVbYYiilMR4QuOSw",
@@ -335,34 +335,27 @@
       "publishedDateTime": "2024-02-21T10:22:51Z"
     },
     {
-      "path": "_games/lowkotv-byuns-new-creative-mech-armies-starcraft-2.md",
-      "title": "ByuN's New CREATIVE Mech Armies! (StarCraft 2)",
-      "excerpt": "StarCraft 2 finals of the weekly ESL Open Cup, best-of-5 series of Terran versus Zerg between ByuN and Solar. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-byuns-new-creative-mech-armies-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-byuns-new-creative-mech-armies-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=8_ym1GbzaK0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8_ym1GbzaK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M4S",
+      "path": "_games/pig-traumatized-terrans-brain-breaks-vs-cannon-rusher-smooth-brain-boanaan-6-starcraft-2.md",
+      "title": "Traumatized Terran's Brain BREAKS vs Cannon Rusher | Smooth Brain Boanaan #6 - StarCraft 2",
+      "excerpt": "Boanaan won Season 3 of the Smooth Brain Auditions with his Planetry Fortress rush that both failed and succeeded. Very glassy. In this game he traumatizes a Terran player  Watch (A Collection of) Smooth Brains playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh -- 🐷 Second",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-traumatized-terrans-brain-breaks-vs-cannon-rusher-smooth-brain-boanaan-6-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/pig-traumatized-terrans-brain-breaks-vs-cannon-rusher-smooth-brain-boanaan-6-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=oP9viAcIJ3k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oP9viAcIJ3k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M9S",
       "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "PiG",
+        "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Terran",
+        "Protoss"
       ],
-      "heat": 89,
+      "heat": 92,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/8_ym1GbzaK0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgZCg_MA8=&rs=AOn4CLCsH96mlpFDQipv2HhBBoseHwK01A",
+          "url": "https://i.ytimg.com/vi/oP9viAcIJ3k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -370,7 +363,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-03-19T12:27:00Z"
+      "publishedDateTime": "2024-03-22T02:52:42Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-maru-wtl-finals-best-of-3.md",
@@ -443,27 +436,34 @@
       "publishedDateTime": "2022-03-04T03:13:33Z"
     },
     {
-      "path": "_games/pig-traumatized-terrans-brain-breaks-vs-cannon-rusher-smooth-brain-boanaan-6-starcraft-2.md",
-      "title": "Traumatized Terran's Brain BREAKS vs Cannon Rusher | Smooth Brain Boanaan #6 - StarCraft 2",
-      "excerpt": "Boanaan won Season 3 of the Smooth Brain Auditions with his Planetry Fortress rush that both failed and succeeded. Very glassy. In this game he traumatizes a Terran player  Watch (A Collection of) Smooth Brains playlist: https://www.youtube.com/playlist?list=PLFUDU8AOevUeWp37P_P5JW5JafF6mlcqh -- 🐷 Second",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/pig-traumatized-terrans-brain-breaks-vs-cannon-rusher-smooth-brain-boanaan-6-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/pig-traumatized-terrans-brain-breaks-vs-cannon-rusher-smooth-brain-boanaan-6-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=oP9viAcIJ3k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oP9viAcIJ3k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M9S",
+      "path": "_games/lowkotv-byuns-new-creative-mech-armies-starcraft-2.md",
+      "title": "ByuN's New CREATIVE Mech Armies! (StarCraft 2)",
+      "excerpt": "StarCraft 2 finals of the weekly ESL Open Cup, best-of-5 series of Terran versus Zerg between ByuN and Solar. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-byuns-new-creative-mech-armies-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-byuns-new-creative-mech-armies-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=8_ym1GbzaK0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8_ym1GbzaK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M4S",
       "provider": {
-        "name": "PiG",
-        "domain": "youtube.com"
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
-        "Protoss"
+        "Terran"
       ],
-      "heat": 80,
+      "heat": 87,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/oP9viAcIJ3k/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/8_ym1GbzaK0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgZCg_MA8=&rs=AOn4CLCsH96mlpFDQipv2HhBBoseHwK01A",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -471,7 +471,45 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-03-22T02:52:42Z"
+      "publishedDateTime": "2024-03-19T12:27:00Z"
+    },
+    {
+      "path": "_games/lowkotv-gumihos-brings-battlecruisers-back-starcraft-2.md",
+      "title": "GuMihos brings BATTLECRUISERS back! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of StarCraft 2 between GuMiho (Terran) and SHIN (Zerg). This series is from the ESL Open Cup and brings Battlecruisers back to the Terran versus Zerg meta. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-gumihos-brings-battlecruisers-back-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-gumihos-brings-battlecruisers-back-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=0JPH89u-_yQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0JPH89u-_yQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M14S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 78,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0JPH89u-_yQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUihFMA8=&rs=AOn4CLAqCgniR6iqN8rvgSIfyg5NH43CQA",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-03-01T08:12:03Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-75000-esl-masters-grand-finals-serral-vs-gumiho-best-of-7.md",
@@ -588,44 +626,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-03-23T11:15:26Z"
-    },
-    {
-      "path": "_games/lowkotv-gumihos-brings-battlecruisers-back-starcraft-2.md",
-      "title": "GuMihos brings BATTLECRUISERS back! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between GuMiho (Terran) and SHIN (Zerg). This series is from the ESL Open Cup and brings Battlecruisers back to the Terran versus Zerg meta. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-gumihos-brings-battlecruisers-back-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-gumihos-brings-battlecruisers-back-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=0JPH89u-_yQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0JPH89u-_yQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M14S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 75,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0JPH89u-_yQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUihFMA8=&rs=AOn4CLAqCgniR6iqN8rvgSIfyg5NH43CQA",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-03-01T08:12:03Z"
     },
     {
       "path": "_games/lowkotv-clem-vs-solar-the-most-intense-terran-vs-zerg-series-starcraft-2.md",
@@ -1046,14 +1046,14 @@
       "publishedDateTime": "2024-01-22T11:29:01Z"
     },
     {
-      "path": "_games/lowkotv-serral-vs-maru-500000-sc2-grand-finals-starcraft-2.md",
-      "title": "Serral vs Maru - $500,000 SC2 Grand Finals! (StarCraft 2)",
-      "excerpt": "Professional match of StarCraft 2 between Serral and Maru from the Grand Finals of the IEM Katowice SC2 tournament. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-serral-vs-maru-500000-sc2-grand-finals-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-serral-vs-maru-500000-sc2-grand-finals-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=wiol7QL9psw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wiol7QL9psw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M40S",
+      "path": "_games/lowkotv-marus-disrespects-this-zerg-player-in-the-gsl-code-s-starcraft-2.md",
+      "title": "Maru's disrespects this Zerg player in the GSL Code S! (StarCraft 2)",
+      "excerpt": "StarCraft 2 GSL Code S match of a best-of-3 series of Zerg versus Terran between Maru (Terran) and soO (Zerg). Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-marus-disrespects-this-zerg-player-in-the-gsl-code-s-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-marus-disrespects-this-zerg-player-in-the-gsl-code-s-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=qWSKWM1Ak60",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qWSKWM1Ak60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M4S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1071,10 +1071,10 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 61,
+      "heat": 60,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/wiol7QL9psw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTyhNMA8=&rs=AOn4CLCZm5sNWXpVibw8SP7DGQ_nfF6S4g",
+          "url": "https://i.ytimg.com/vi/qWSKWM1Ak60/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTyhHMA8=&rs=AOn4CLCgzpWN8DfJOVUALGcdw3fsxNMVmw",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1082,17 +1082,17 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-02-19T12:42:03Z"
+      "publishedDateTime": "2024-03-02T09:24:05Z"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-maru-best-of-3.md",
-      "title": "StarCraft 2: SERRAL vs MARU! (Best-of-3)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between the best of the best! This match is between Serral (Zerg) and Maru (Terran). The two best players historically in StarCraft 2. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-maru-best-of-3/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-serral-vs-maru-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=MgGsW_p-2W4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MgGsW_p-2W4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT52M30S",
+      "path": "_games/lowkotv-oliveiras-battlecruiser-anti-timing-vs-dark-starcraft-2.md",
+      "title": "Oliveira's BATTLECRUISER Anti-Timing vs Dark! (StarCraft 2)",
+      "excerpt": "Professional match of StarCraft 2 between Dark (Zerg) and Oliveira (Terran). This match is easily one of the best games of SC2 I've seen recently.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-oliveiras-battlecruiser-anti-timing-vs-dark-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-oliveiras-battlecruiser-anti-timing-vs-dark-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=FWFMDHXNY-k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FWFMDHXNY-k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M15S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1110,10 +1110,10 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 61,
+      "heat": 60,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/MgGsW_p-2W4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWyhQMA8=&rs=AOn4CLA4Ic7Ulmy-OVf8M--vmmIoWW-4kQ",
+          "url": "https://i.ytimg.com/vi/FWFMDHXNY-k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1121,7 +1121,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-01-19T09:48:57Z"
+      "publishedDateTime": "2023-11-29T11:21:59Z"
     }
   ],
   "nextPage": 3

@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/pig-i-taught-reynor-how-to-easily-be
 type: video
 length: PT28M8S
 publishedDateTime: 2024-04-02T08:15:49Z
-heat: 135
+heat: 130
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1nsf1zwuotw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "qAvcw5t4ooHyIFNSd8s8XGV7fEJByl4PHjHxSpd3e6yl73NyjEGOyoL2fFhguTCAIAnM3bzjXg5j+sjnf2Rihg2+52CyyIlty7n6HJyOGMKYs22ngk4NK6skodsn3hAjRfKIuU/Fu6KSaG4wO1pnb5XAluU62T36TSdL8lbZ+7t++q216K5Nmc6KEvaggH5G1r8T78Dsy2z4D7zszMw/UAfobl5vVpALgonR1b4cSomNL3EPuWy1zU+/rm24rq9m9aQ0aCehWIFsv016ugAr16EFe0TIrVTCCFH9nCovJ/JUwmtCHHHKufd7YKgO1BAt16v7VFk5qMbeZ3GIQ18SSTDW3ifHzTQd6L+ZWSqHUPxElzGBjWBxQEsJu9MlVDVEZ0lrckpwea+MjxpkqE7t8jkRf4SfDtXYz5NZB6UlS4A=;NCakF6fFKT0r96Lfp9A0rA=="
+secured: "dgqTaocqCrBsksfYhyAEiQqiNBL58PFSqyWE0EMp0RUF9zLjNhuoseum/C4pWILYwUlEek19Rqv1d2JBj28fgo5p4iPcYLoSoPz9ULAr4Vz6dFz6aZgweEu5SX0No/SonUXh4NzuRcDpzJMrquWbMNOoDL7Jog8fcKoB0OkqYzjphrpxZZge3xkoDCWxRi0gQ1Ipn1ktZhtX+1Fqcf5iMBI88Jl1EGR5uS1TEdYOCFjM2ZLrMO5dt0kCEZHb/jcGOO5nv66109fwkTNfJN4RwEhHpPc9rNNU9FCn4nAOccPAPL+LuUeer1cHSOYTHzmwnu0fcWHht+wTUy/iASW2vAk/SNiSZCGbwvnIGlKLxkN/UwEFrphEfGi9E+Y38s1UghxL3pfMxwbqQUbvNoG0p4MNDiza5/SFR9oFkT8NLrw=;JFTHFq0Y7icT4UVTriJJ5w=="
 ---
 

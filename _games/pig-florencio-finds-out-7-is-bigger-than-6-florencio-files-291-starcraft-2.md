@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/pig-florencio-finds-out-7-is-bigger-
 type: video
 length: PT8M36S
 publishedDateTime: 2024-04-04T06:59:51Z
-heat: 159
+heat: 141
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AqI5oCkBTfs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "4i0PNPQNcilO5FZnDTCrg2XAL9jiMW7Ztk6HKOskPQIineyOO1h54CVyN1wgVcH7E+mbKHZ2zk1Lrm06+l7UyZJCLFUOFYBCC/JPa3vOdJpfpYomnxZ9htI9+PuLazKw8ouiTvWwJ2gL90VSQeiLU2G7QTRTc/0d3nRNpgBQ3TPo23BAP6axC6TpDdKZq6X/nnMQZ/f7D0COLPA8Zo9pcjIF/sjs1d6QpxNK6Wi5lNNvBlc8P0N+XJBJgH7nlhmK76bGgQXeFfdGwFjvH0Rp8OhJ4MJw9GPg8m6vwe3xLOac5Wg1ddBoMfrVwVjBstFPWwOVTD83gpdNde3zQkwcGS/pDippgdVRIoP1mLhVnpwZ8m656oRo8TaYIEMoRWi2HqY1gktBeQkj+g16wiF+oHI3NIpEnC0iSAfLHvJO8Dk=;ta2Hnpn44g0bj609YZEaTA=="
+secured: "GuwjxM7cxa75PZwGN0WjugfZfKV+Gv9wUO71ZBEosOfpgIEEuF/wXYqMffGyn9qx98Y8nJ/g9ulqwtkQQR+17piaiaOs+uBrl0Ip6oTfC3FlXQonZJ8iwGYuqdY6nN6dj4AxDIPJEBBafJ+2T0OlZnMC80TdxFRjLGZqUKrHju+C+KnqqPo09ShH+y5ndGQBj5YBij7o5DkUyCJluHNdr3SQ6sdPIwzwIdtvFMNBgeWwhpWcfYRv3k1twdfbQB6wNh2esP4/Cs5WP2h2LWNeUBdml6fSOslF/vF+ksC/CtECyzGKWufxTKx04y1IHE08L52bOaGK8PIB/ytK9jImqC/0fnG0Yv4EcOOy+UEH6B+rpcJHFG9LoicBBGghcRV/U1QxCYM8tczpP7WmGB331RsPfSLth6n/Z7+ImHjwwrU=;t3tmFn8tVSUoXkwjMNwXJw=="
 ---
 

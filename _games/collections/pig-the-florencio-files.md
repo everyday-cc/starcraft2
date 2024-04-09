@@ -2,7 +2,7 @@
 title: "The Florencio Files"
 excerpt: "Welcome to this mystical StarCraft 2 playlist, the one-and-only™ documented archives of the legendary SEWER MERMAID!"
 type: collection
-heat: 61
+heat: 62
 
 provider:
   name: PiG

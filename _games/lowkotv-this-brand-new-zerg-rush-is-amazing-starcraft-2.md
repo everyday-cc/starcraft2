@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-this-brand-new-zerg-rush-is-
 type: video
 length: PT29M22S
 publishedDateTime: 2024-04-05T10:29:39Z
-heat: 286
+heat: 244
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1ncFL288m9o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "n5rV3JMIcxbrUBLDoLGdcxT92lxFb1ukEQh1JLHE70Q4XOUHX9OeQvUkSK47BfPm8eq47DdFjEdqN8Lf3tHl5x8387vz1B4fGa/3Iu+cI1mJHWvXo7eyC4jzoXY9EGxPz8QQcwzpriIFipEuZ5kY34Mpu4HBVkoAuAIAJlT9QymPkYJ4AIx62zX4HJB7zUZQbD7un5zkj5IcVNryX2dQvC7i+3zMjK7W3gZnloFb5k1rJAt9zDiJVP+avY2u4QjUh9D3pQsA0A4z0QglxJsytNzr0QRC6Kf1ibbloClV1QC+i8hNZIDzLsbNMdpqkNK/H0paQpz9pPs0+0+xIaTcKLZvNhq7IJ4tl2x2k7NSUaUz/xCsus2j4WFzyTnzRDCh2shTn8pOF2j8VFjHngmCYtvaf3gn5Y2qkXVuQ3cnDMk=;JCpGEQpo+zP6JfIM0BR7pA=="
+secured: "nuOztTY5e9X1JN0Xak8Fx9Dvw/Rfh+mf3sjG0AWUFznLDtZlKFNc1QgHj0/5Arq2c+GgCQaLZcOHunGblWNXgHzH1VgwKdFyLnxmoB29qA8Kzw6gbttgI6OIP+OKR+/cm9bWAyto73MlDXlnc1a2ual9pMkoUJTzw1d08cTgd1zz0Mt8yKxAHVQXgalEWHHfBYwOPGmfUha53wV1RyJZmGwgP/wOBOpIseCL+BZj7dBIyIIsA2psSEwwQciMgY+wsPC3ECPS4NfaCyt6l9TtG90QAZyeU8vrpGYV2XSWrJq5KI6nFy0wOcDdvYEBpZ8aaI549y8/0JMZMd+302OeYzjWTIgCkSpqRzozNABuVH4Mp0kfMcLjUjURuE1se+q+K7UWK05bgvyPV85CHHJviz2Vvz/CEEhyaRqmWUe4iZQ=;rFeVm7CG+Z6oMcji1tsrFA=="
 ---
 

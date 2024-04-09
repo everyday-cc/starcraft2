@@ -80,44 +80,6 @@
       "publishedDateTime": "2024-03-29T11:38:09Z"
     },
     {
-      "path": "_games/lowkotv-terran-should-not-be-played-like-this-starcraft-2.md",
-      "title": "Terran should NOT be played like this?! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 from the GSL Code S between herO and ByuN. Normally ByuN is known for his amazing micro, but in this series it seems that herO catches him off guard repeatedly.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-terran-should-not-be-played-like-this-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-terran-should-not-be-played-like-this-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=T4j1RcHWBC8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T4j1RcHWBC8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 331,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/T4j1RcHWBC8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-04-06T19:16:12Z"
-    },
-    {
       "path": "_games/lowkotv-byun-gets-the-reaper-nerfed-again-starcraft-2.md",
       "title": "ByuN gets the Reaper nerfed... AGAIN! (StarCraft 2)",
       "excerpt": "GL HF GG Mug: https://lowko.shop/products/gl-hf-gg-mug Best-of-3 series of top level StarCraft 2 between ByuN (Terran) and Solar (Zerg). In these games ByuN decides to make Reapers... and then more Reapers... and then in the next game he decides to go more Reapers. He loves Reapers, what else can I say?",
@@ -311,6 +273,44 @@
       "publishedDateTime": "2023-10-20T09:17:16Z"
     },
     {
+      "path": "_games/lowkotv-terran-should-not-be-played-like-this-starcraft-2.md",
+      "title": "Terran should NOT be played like this?! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 from the GSL Code S between herO and ByuN. Normally ByuN is known for his amazing micro, but in this series it seems that herO catches him off guard repeatedly.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-terran-should-not-be-played-like-this-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-terran-should-not-be-played-like-this-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=T4j1RcHWBC8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T4j1RcHWBC8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 271,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/T4j1RcHWBC8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-04-06T19:16:12Z"
+    },
+    {
       "path": "_games/lowkotv-gumihos-proxy-everything-vs-astrea-starcraft-2.md",
       "title": "GuMiho's Proxy EVERYTHING vs Astrea! (StarCraft 2)",
       "excerpt": "Best-of-5 series of high level StarCraft 2 between GuMiho (Terran) and Astrea (Protoss). In this series GuMiho goes for some of his classic proxy strategies, where he builds basically everything on the other side of the map and has the Protoss player deal with the early game aggression. Support my work:",
@@ -463,44 +463,6 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-08-26T11:56:26Z"
-    },
-    {
-      "path": "_games/lowkotv-clem-is-going-to-get-terran-nerfed-again-starcraft-2-finals.md",
-      "title": "Clem is going to get Terran NERFED... again! (StarCraft 2 Finals)",
-      "excerpt": "Grand finals of the StarCraft 2 ESL Open Cup 221 Europe between Clem and MaxPax. An amazing SC2 series of Terran versus Protoss. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel:",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-clem-is-going-to-get-terran-nerfed-again-starcraft-2-finals/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-clem-is-going-to-get-terran-nerfed-again-starcraft-2-finals/",
-      "originalUrl": "https://youtube.com/watch?v=tiecYmjDGVg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tiecYmjDGVg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H23M23S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 255,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tiecYmjDGVg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUChOMA8=&rs=AOn4CLDAvP-8C72UeJ0BXbj4ejX0xKWi0Q",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-04-02T10:41:23Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-epic-game-maru-the-medivac-magician.md",
@@ -689,6 +651,44 @@
       "publishedDateTime": "2022-05-10T10:03:07Z"
     },
     {
+      "path": "_games/lowkotv-clem-is-going-to-get-terran-nerfed-again-starcraft-2-finals.md",
+      "title": "Clem is going to get Terran NERFED... again! (StarCraft 2 Finals)",
+      "excerpt": "Grand finals of the StarCraft 2 ESL Open Cup 221 Europe between Clem and MaxPax. An amazing SC2 series of Terran versus Protoss. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel:",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-clem-is-going-to-get-terran-nerfed-again-starcraft-2-finals/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-clem-is-going-to-get-terran-nerfed-again-starcraft-2-finals/",
+      "originalUrl": "https://youtube.com/watch?v=tiecYmjDGVg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tiecYmjDGVg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H23M23S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 230,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tiecYmjDGVg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUChOMA8=&rs=AOn4CLDAvP-8C72UeJ0BXbj4ejX0xKWi0Q",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-04-02T10:41:23Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-maru-is-a-mech-monster-in-the-gsl-code-s.md",
       "title": "StarCraft 2: Maru is a MECH MONSTER in the GSL Code S!",
       "excerpt": "GSL Code S StarCraft 2 match between Maru and SHIN. One of the best recoveries in a pro level Terran versus Zerg I have ever seen.  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second",
@@ -751,7 +751,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 157,
+      "heat": 147,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/d7H8RL9nv28/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVChHMA8=&rs=AOn4CLAnrYSCy9S8pQfYoyMewm9GdFrosg",
@@ -1037,14 +1037,14 @@
       "publishedDateTime": "2024-03-28T10:02:42Z"
     },
     {
-      "path": "_games/lowkotv-byun-calls-heros-bluff-starcraft-2.md",
-      "title": "ByuN CALLS herO's BLUFF! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between herO (Protoss) and ByuN (Terran). This match was played during the ESL Open Cup Korea 209, a weekly SC2 tournament. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-byun-calls-heros-bluff-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-byun-calls-heros-bluff-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=0HgIa8nhFHI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0HgIa8nhFHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M51S",
+      "path": "_games/lowkotv-byun-surprised-by-proxy-dark-templar-into-sky-toss-starcraft-2.md",
+      "title": "ByuN SURPRISED by Proxy Dark Templar into Sky Toss! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of StarCraft 2 between ByuN (Terran) and Creator (Protoss). This match of SC2 was played during the ESL Open Cup Korea. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-byun-surprised-by-proxy-dark-templar-into-sky-toss-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-byun-surprised-by-proxy-dark-templar-into-sky-toss-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=liwnsG5fuTw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/liwnsG5fuTw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M48S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1060,12 +1060,12 @@
       "topics": [
         "StarCraft 2",
         "Terran",
-        "Protoss"
+        "Zerg"
       ],
-      "heat": 113,
+      "heat": 116,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/0HgIa8nhFHI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/liwnsG5fuTw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1073,7 +1073,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-01-16T11:31:26Z"
+      "publishedDateTime": "2024-02-28T08:20:44Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-eriks-surprises-gumiho-with-zerg-drops-best-of-3.md",

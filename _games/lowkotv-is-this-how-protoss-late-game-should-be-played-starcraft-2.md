@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-is-this-how-protoss-late-gam
 type: video
 length: PT36M45S
 publishedDateTime: 2024-04-09T08:04:33Z
-heat: 292
+heat: 408
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dF5fW6omHsw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ZNhB+G8e2+MF+f6GuUN7zOIBDNCVhsP5e6beR7OpdJdlF4y6z6EQqlEZdOsldbIZ7ee7deuDd43aLa60VEt1uqp8bm5ndfItpDPT8D/wbZgJw/7UFQnRjCWTPv5ywjBi0v3mgkWs0xPcdG7onJYu9MJ4PuCWw3XNU9jsxAH0dJMv8Fuopw5yUE1Vfr4kmj7uTXhrlo/FNkfiePFrfpE5EG/ipjxgpvVN7EDFxdmBsj/WxuDaMHU540evkE5gik1Zku2RYwOq+ycdG3r55+9y694Nz4IWkchAXV1KiAGijRFAR86nBH0qbvTqodAvNHHmuCq6mAd1cMDR9snbWgTUegK4Ug3ry40+oj/x6HCjpxRCY2cPWEG++qw467P604L+MrEtrZZS/yLCijzamZyWdg==;VVpg8gpDTDXeM109rJE77Q=="
+secured: "6Dhwh3MvJdfFzAx5cMFPVzvEsOpHpLUwnDjomwIbNaNQ+wZ6jbCeoxgqUkfYjJSUDHHsKfy/sd5r2XQgaOpSBEeqWLn6vvqJl6yedXCAkRXahDxhGFHQueun0JZRZ5gSELofn+ujz28QNe3Lxz43S8ilIPmDVpqLqzAoSZjz+IbUIn+Q30LiVgSlXpTfamYk80pmS71ep9cHlQOxYnOkgmCpP/bcfi6q99OS7BIrVdXcDs0aXWEJPfbwzHTltqGVF2IyoLGU2IFe4LWuDOZUs+fXI7JxhcgfMwhFj5ccUftbdl70GW0/aym5/2ZYiHQA917Ag30sbBg4MW9CFmDAQ+lMCo2d8AZFSwLxMGbTgIktJpaopMRTuEHrc15TuV0YbW8I2std5CoNVdHO16Z0AJxBDPJrDqRC1PVDX8gTZ4Q=;hOQHk5dEe7HLMGQjOqAjwQ=="
 ---
 

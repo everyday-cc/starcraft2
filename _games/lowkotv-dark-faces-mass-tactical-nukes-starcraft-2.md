@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-dark-faces-mass-tactical-nuk
 type: video
 length: PT1H10M56S
 publishedDateTime: 2024-02-21T10:22:51Z
-heat: 91
+heat: 98
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6pr0CZSvUyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "a2VSNBw51fqpCQuL+mGx3q+lo0/8gkZlwjw4yc6QNxXTrtJnNRwhflPPcsgawzhNydMUm2rh69JZE0W4wdpxvs8Bc9QcIDrCxwp0cHszgqxRAlpgD7dvgIxA+r5r5+XocCkbhei1YN5iQJWT+Uapgj6jvrEHk4t+DAY6lM6UwaxLlD/6Qtq0L6JYel0uwEyEUQ+zT9Y0VEqkeURGjo+KgEou6GsFMa/ra0H7VB7AradkpZYA/eokjXEqm7fGmaiaQ8qjYNRgutWtmcuuZKBvptYWFBNV2hubbcw6HRmyQ0KX6S8kzgM6l749XttQZYqjnTHcdQXh52xkinlA3izF3dsVlJqRxuUd7YuITOdYZ7wDqqRNCk7yx803MCoUwPEUAhyCCnnfVdVF6rNNdAKCnpJxsQLcEV5Rh83tp4wW/SA=;uHMz37StZEeYsoxCehqRHQ=="
+secured: "RcSt6EpAsW2i7RASnew5+h+XF9Ig9us7U7ZW5t/mYGF6ZMlPo+Evt9ub7zsRqfaYZatDO3X4YeHw35D4hbMBIMZC7nVUaGOlbRFB62hhQ5LNx/NT+iryMWgtLpDfIdyK48e6+GyY2kMDDLKG6EPTxmqYd/TPVSk7Js6wfd8y10h8kYrNmXDT9idBmUR5bd/H947oJD316k5m7s4fESX8lf8uthnlg5svV7KWmkwMjpVVT9QiXx9jry7Vb2C8ee9ztXBrJX1sze9YlViMkuQ0MKRULXWnjjiuBlIEDSWB0HFhZWVO+Qn0efVBlC+Xgcb5C0YVQElHDN3fGb9ecAcdCpTjqMzW66AhOCV5wN7+Gz3kNWuTYilR2Y/mZAvpzyx+1c6gjOayfBb+sz4t05ASdGi0AkM9O4B8wgJro2NtDoc=;q/C3k/AQv9M41kVHFb2c3g=="
 ---
 

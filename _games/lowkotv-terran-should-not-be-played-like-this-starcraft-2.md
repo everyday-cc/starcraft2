@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-terran-should-not-be-played-
 type: video
 length: PT46M43S
 publishedDateTime: 2024-04-06T19:16:12Z
-heat: 271
+heat: 223
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T4j1RcHWBC8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+BzncLT+yDM6cs8faE4KwfyxDwiJ2UAWFDMgiGmNk6LUgrDGO+1ocHPJfIaZgbuFK848ZdN0W1NtZDuu9W2TF/uETkWYh790qcc6KE4fPEd7LTZ3ifVQYzT4ooSXW0lVb31BU0FAouk5PQ5uMnhKM4IWSnKEaB3AtZTGXujjPFoV3cGzUnYDpukcgaFf88M28HO4ZBREhpPvjpwibIp17MnzhjTIGjHvf83d0NHF9iq5QlFJIeTYRP5mszicXP2oBYEJEHvG4UjIZIGq5tfF5BJy2XCaWEeVrFnyWT7JM8O45vHxPeikagGu1lG8sOITiO7n32aplTNZwdW22EImXRIRy89ggobFlumYmvFWNWXNXizRal9UbRCavZ/U30cGGsvYR16dwx9M00bq0K4s2HpLnuaObNFQDexLLHS7fxY=;ocPk9r1cqcQYfJ88KWOEzw=="
+secured: "JSxOqJJo/mUDI4UUm7kW5j6vXtrU0Rc62cD6AkiOq1ZckQc9wYLWFLH1dcXb1291Z0gYvI/TnCZgmLKA+OI+Q8IqR3oIjpOac+abCeyksvVCez4pJQytGkiZtakUNJFEN4Y2s844JuCQYr+NpUNWKpkvEYoPU4B2LDURb7di7xa72JWzNN8Z4SAJRycaFs1g7aO8sfVYuUGZoJa6og2sFB62dFlmmf2fh3ky2+Dqx80cTSI7fWhVc2XtpUXpJX1cZlK2Vt9IN1YisznsDxAmcIgDI+s6CCCbg9MicNtksOh4UQSnJPNo4DaZhfyz0j3tKrYVAYt43up4Ita9wIa/R7s4hDYu+QtWjBdyQZLJ8KZqLQyXgYq/OnRl55YmSsBgGFbeLvAIqbCA4XXFSbF9Nb1mkk/g87QI8BhRMPETcK0=;15IHNcDnu3M3dP+34+SEag=="
 ---
 

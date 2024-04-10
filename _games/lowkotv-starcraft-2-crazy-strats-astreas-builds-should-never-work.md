@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-starcraft-2-crazy-strats-ast
 type: video
 length: PT34M54S
 publishedDateTime: 2024-03-21T10:22:48Z
-heat: 61
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YygztHmBCNg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ixZbpvubx2O2qmDqAtx7Vhoiogp2Vm4eALP7lWGfF5Et6BpSlYlEQSOh89SQARvn7cHudViKR08V7v7M57IQ73VvwnJppmEYugDYzbkFjmwVPXtgZ2MyENX6UYMtPFNhHzD7jy1P5P9cx90MQNeHHbfI5EauiNZr1awfbMyiY2veVqroCaZVn8ftiK+6tnDvYpJoqwjPFIvdRetgu8wdIVWnXhrS5SeqMbIMI5zW6YcKdI431+0bvPNXpdZyUMvIbotf9t0EjMGQFjI30YJN438EoIzno+yrqAM3eFB/hq0K4ASQMRjU2qEndBDG0E+PkHCk6xR6gVoMPBfsPeXATAk0IZfPWzF0h3vF2p0qN2MKgvypNtyWcN6dK9KkjSCRmrzPP9nfhtnqXgHvF50MhBPMX8DriBsxFT2l7FL4++c=;k4mshfsByVFXktnRVAJn4w=="
+secured: "ICOg11Sqdx2olPT5WylMK25m1MulOrkvVX2224nbOxCdwrlbNUi5bqxlfRPjkea837qAlNvT8vBqm+sE1SqEZygrUU1wc/0OVkp04aRisagydVhIN+dweEJoBiuRuLxfNBZyUXMDht+Ky8ntQN406PSkcdXyAne67aTjqRDKG7cQYTcC5/MxHr4q9CxjWbBM5RPimI/ukWXOjftQSEVougN68HAnVoDZP20jdKATOFWw4Nw8kS+2lbwwlTSMJoYFgjfv8KoyXLrs5NoqAcevehaAWzP/Uxam4OytZ94S+VfjPRZDZxn0iEEajUJOyddyOprwsokN+Kr6KkBt9VClvJSSl88px9vyhK8cadUqcNkU69sinzy9MkwMYw9YSf4K+imU8rS+Tu/DO4orug1CGhYtZ/vtzOI2nOQo0dhKq/g=;xkfwu2SU2MHnGPp6XFJ5hw=="
 ---
 

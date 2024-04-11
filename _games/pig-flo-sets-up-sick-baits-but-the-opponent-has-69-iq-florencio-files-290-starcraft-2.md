@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/pig-flo-sets-up-sick-baits-but-the-o
 type: video
 length: PT33M47S
 publishedDateTime: 2024-03-14T07:00:54Z
-heat: 55
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-cxKArAsHpo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "IA3OuRHHj17RRApCn6ghoVVPXRrsfOPEDxNOpaX9l9QrI7ooPtgQcSCHaG7kNGKF3AgDDPgoxtNcmI8bxNMHeAk+JgaHdk5LQXZrhecE+sLacUuYu0DpFru5xjrYtEZQ9fGvg2ys5WCAGKjqjfW99f1Va+YMXZuCM3Y2Xkx6lXcL+HMoZ2Zmle2HT2DZwrxeAz/4cNq7L9tSfSRGUrusHfP1GGj/MpH0bW/BQXkzW/ejbOYh8ZuRwtK9FGXCAipjOLZDs/88Ywndl4x1WSzPdj87hGVC0XAj1PhwZ54JkZytHMW8dRdND2spTsO3zs/d5CgQnPPhHeu1QbOszkB7WunqjP5etLw0EsxQbZgqVXb3rMDCWF+wuc/xsrP0rTHZaKwL6wa4nU2xBFNS7CnU7OMh9QGEk8M0o/QRJ85Ydq8=;8kTi83FCsQOoIXIEIA2FFg=="
+secured: "OPF1KOeFPuTfms3ZP+chbFkL2vRDHz3VpbcyOKbBYSnOLaJZlLwHa90Wna1gErOA0u5aaD6QSwu83wQ2AAopM7xj84j6HqDiEdtbskp6Zo0fzBXg5mnojMixkMRgPCD+xf7RQ0av7Q2bFd+iwSukuGKCjxwWpj1QRibck9x/YX1Kt1Rh8jCVZ6EdN6E+shnXIuLOwtveAEjwGIc2YJjOMSSYHp2N5GpHMTKUkAoarCB3hr92P/U10gHLrLZzgdHqUBTfo+zYcUVKff4QBdHbUWxyIWYLxGTwuw7OPXzIaHZd2jhp5A7La7Dg9BUFSh5oB2JzG7P2EvhXUJ1qjhOBz0KR0uNJxBUpkJcUjE/CoPRnFFMA0mDswoC6bYbliO8A3DwKI4H19YewexuT6PIa3UpyjKudH8GEdDtORlE5OH0=;FipnajhTQlCd2Onx3yGONg=="
 ---
 

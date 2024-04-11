@@ -6,7 +6,7 @@ webUrl: https://everyday.cc/starcraft2/game/lowkotv-marus-biggest-tactical-nuke-
 type: video
 length: PT47M16S
 publishedDateTime: 2024-03-29T11:38:09Z
-heat: 133
+heat: 138
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d7H8RL9nv28\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "RbcUoYzoYFlt154QG2CtD4sLsFHOHQpBhn0yRddjkwVVnKOOi6/pKNMqFHFPiR3o4x9gDif+iw0vkf67SpvWncEdFjhKBA1WmRft9BgVAZAZ0uMIX3KHvfnkziwMPBitNiUa/pRqbo4D4nF01IH+oNB16CHTQSH8FPl9JvKu0kBYYFZkbGtwli2dMHI9L825vLL/1h6ckIV199Ija9tSjmgSbQ463XtWSsDW5Ehc5Dbp2Egp/OBpP1Lc7LkxSDkFm9AWC8MFbNzaeHmsKabtD/oPOWKd2xbIPfhJPBS05y+p9PG9G0JB8UixiP3raWfkMv50fcyofpzsKBVh7ou/pfnPvoI6+gt4sj5i5BOM3pNS1bX+J5Mz7Z7Y9PgMWu3QDJaX5ZXssbxSMQBafUZSBR5Ck9S5VSC60gpopWIbJgY=;EiuKudf8k9KPqzWgRSZaQQ=="
+secured: "m9WNhy/9euqdJVOL/+3lg4cHEmFmwJMstPSrHNaBTI78zZs/bSorr5Q4DxATvnpMfixjv3tP5WlNYYlGMKjeX9SOZ49gox+Ma1Td/RuD9Eka8fFspqBQNDaGs5FVXWZ5sYWdZlHNOeG7Ilpg2YBzM/bm2P3eRK6Z8w5oAakw6sJabMx80JptINhs9oC651kmER8A/2rb0bWBL5qRx6jYvGXdO5dy78H/UaLyy5uAJy8vVnf5EF2ZIFm2B6X8ms95PEhQC4nh3sLpFKZ18JwLkP/lSaoWl1NdPc/Vez7GyTknURrqzwUBTkRgz/FJ0pxpm5GzVxC6sUh43OHlDurGI4qCKuS0NT6XpM4a70CxdotL4P4ziDqDQt8PMNbUoBo23zkeUEULxQHAQdadx2PGwXT10bc/VF3v5hkOgZrfGzs=;koykgy2TySRnKA3OqPmyqA=="
 ---
 

@@ -159,44 +159,6 @@
       "publishedDateTime": "2024-04-05T10:29:39Z"
     },
     {
-      "path": "_games/lowkotv-darks-mass-zerg-transport-with-nydus-drops-starcraft-2.md",
-      "title": "Dark's MASS Zerg Transport with Nydus & Drops! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of top-level StarCraft 2 from the South Korean SC2 server between Dark (Zerg) and ByuN (Terran). This series is played with the new multiplayer balance patch on the new StarCraft 2 maps. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-darks-mass-zerg-transport-with-nydus-drops-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-darks-mass-zerg-transport-with-nydus-drops-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=ZxnOBKRVnAg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZxnOBKRVnAg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 313,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZxnOBKRVnAg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-04-06T07:01:16Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-reynors-double-lurker-rushes-maxpax.md",
       "title": "StarCraft 2: Reynor's DOUBLE LURKER Rushes MaxPax!",
       "excerpt": "Best-of-3 series of top level StarCraft 2 between MaxPax (Protoss) and Reynor (Zerg). Fantastic set of games of high level SC2 from the European server's ESL Open Cup. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
@@ -233,6 +195,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2024-03-16T11:15:18Z"
+    },
+    {
+      "path": "_games/lowkotv-darks-mass-zerg-transport-with-nydus-drops-starcraft-2.md",
+      "title": "Dark's MASS Zerg Transport with Nydus & Drops! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of top-level StarCraft 2 from the South Korean SC2 server between Dark (Zerg) and ByuN (Terran). This series is played with the new multiplayer balance patch on the new StarCraft 2 maps. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-darks-mass-zerg-transport-with-nydus-drops-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-darks-mass-zerg-transport-with-nydus-drops-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=ZxnOBKRVnAg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZxnOBKRVnAg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 281,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZxnOBKRVnAg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-04-06T07:01:16Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-new-maps-roach-rush-vs-protoss-maxpax-vs-meomaika.md",
@@ -528,7 +528,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 236,
+      "heat": 239,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/1ncFL288m9o/maxresdefault.jpg",

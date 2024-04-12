@@ -197,44 +197,6 @@
       "publishedDateTime": "2024-03-16T11:15:18Z"
     },
     {
-      "path": "_games/lowkotv-darks-mass-zerg-transport-with-nydus-drops-starcraft-2.md",
-      "title": "Dark's MASS Zerg Transport with Nydus & Drops! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of top-level StarCraft 2 from the South Korean SC2 server between Dark (Zerg) and ByuN (Terran). This series is played with the new multiplayer balance patch on the new StarCraft 2 maps. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-darks-mass-zerg-transport-with-nydus-drops-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-darks-mass-zerg-transport-with-nydus-drops-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=ZxnOBKRVnAg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZxnOBKRVnAg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 281,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZxnOBKRVnAg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-04-06T07:01:16Z"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-new-maps-roach-rush-vs-protoss-maxpax-vs-meomaika.md",
       "title": "StarCraft 2: NEW MAPS - ROACH RUSH vs Protoss?! (MaxPax vs MeomaikA)",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between MeomaikA (Zerg) and MaxPax (Protoss). This is a very interesting series of Zerg versus Protoss as not only do these games take place on new maps, both players decide to pick unique strategies that we don't commonly see in StarCraft 2.  Support my work",
@@ -504,14 +466,14 @@
       "publishedDateTime": "2023-10-26T07:32:32Z"
     },
     {
-      "path": "_games/lowkotv-this-brand-new-zerg-rush-is-amazing-starcraft-2.md",
-      "title": "This BRAND-NEW Zerg Rush is AMAZING! (StarCraft 2)",
-      "excerpt": "New maps means new all-ins! This best-of-3 series of StarCraft 2 is from the GSL Code S and is played between SHIN and Stats, two South Korean pro gamers. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-this-brand-new-zerg-rush-is-amazing-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-this-brand-new-zerg-rush-is-amazing-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=1ncFL288m9o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1ncFL288m9o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M22S",
+      "path": "_games/lowkotv-darks-mass-zerg-transport-with-nydus-drops-starcraft-2.md",
+      "title": "Dark's MASS Zerg Transport with Nydus & Drops! (StarCraft 2)",
+      "excerpt": "Best-of-3 series of top-level StarCraft 2 from the South Korean SC2 server between Dark (Zerg) and ByuN (Terran). This series is played with the new multiplayer balance patch on the new StarCraft 2 maps. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-darks-mass-zerg-transport-with-nydus-drops-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-darks-mass-zerg-transport-with-nydus-drops-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=ZxnOBKRVnAg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZxnOBKRVnAg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M22S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -528,10 +490,10 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 239,
+      "heat": 236,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/1ncFL288m9o/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZxnOBKRVnAg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -539,7 +501,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-04-05T10:29:39Z"
+      "publishedDateTime": "2024-04-06T07:01:16Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-heros-massive-overextension-vs-reynor.md",
@@ -754,6 +716,44 @@
       "content": "",
       "type": "video",
       "publishedDateTime": "2022-05-20T05:08:52Z"
+    },
+    {
+      "path": "_games/lowkotv-this-brand-new-zerg-rush-is-amazing-starcraft-2.md",
+      "title": "This BRAND-NEW Zerg Rush is AMAZING! (StarCraft 2)",
+      "excerpt": "New maps means new all-ins! This best-of-3 series of StarCraft 2 is from the GSL Code S and is played between SHIN and Stats, two South Korean pro gamers. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-this-brand-new-zerg-rush-is-amazing-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-this-brand-new-zerg-rush-is-amazing-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=1ncFL288m9o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1ncFL288m9o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 217,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1ncFL288m9o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-04-05T10:29:39Z"
     },
     {
       "path": "_games/pig-inflicting-the-fastest-nydus-swarm-hosts-ever-on-gms-starcraft-2.md",

@@ -4,44 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_games/lowkotv-is-this-how-protoss-late-game-should-be-played-starcraft-2.md",
-      "title": "Is this how Protoss Late Game SHOULD BE Played? (StarCraft 2)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between Stats (Protoss) and SHIN (Zerg). This match is from the StarCraft 2 GSL Code S season 1 of 2024, round-of-8. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-is-this-how-protoss-late-game-should-be-played-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-is-this-how-protoss-late-game-should-be-played-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=dF5fW6omHsw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dF5fW6omHsw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M45S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 408,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dF5fW6omHsw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "publishedDateTime": "2024-04-09T08:04:33Z"
-    },
-    {
       "path": "_games/lowkotv-marus-massive-nuke-in-the-gsl-code-s-starcraft-2.md",
       "title": "Maru's MASSIVE NUKE in the GSL Code S! (StarCraft 2)",
       "excerpt": "Best-of-3 series of StarCraft 2 played on the new SC2 balance patch. This match is between Maru (Terran) and Classic (Protoss) and played in the round-of-8 of the GSL Code S season 1 of 2024. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
@@ -349,6 +311,44 @@
       "publishedDateTime": "2024-03-16T11:15:18Z"
     },
     {
+      "path": "_games/lowkotv-is-this-how-protoss-late-game-should-be-played-starcraft-2.md",
+      "title": "Is this how Protoss Late Game SHOULD BE Played? (StarCraft 2)",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 between Stats (Protoss) and SHIN (Zerg). This match is from the StarCraft 2 GSL Code S season 1 of 2024, round-of-8. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-is-this-how-protoss-late-game-should-be-played-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-is-this-how-protoss-late-game-should-be-played-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=dF5fW6omHsw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dF5fW6omHsw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M45S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 308,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dF5fW6omHsw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "publishedDateTime": "2024-04-09T08:04:33Z"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-europes-best-terran-vs-protoss-clem-vs-maxpax.md",
       "title": "StarCraft 2: EUROPE'S Best Terran vs Protoss! (Clem vs MaxPax)",
       "excerpt": "Best-of-3 series of high level StarCraft 2 between Clem (Terran) and MaxPax (Protoss). All games in this best-of-3 series are played on the maps from the Team Liquid Map Contest (TLMC). Support my work: https://patreon.com/lowkotv Lowko Merch: https://lowko.shop  My YouTube channels: https://youtube.com/lowkotv",
@@ -426,14 +426,14 @@
       "publishedDateTime": "2023-03-31T10:46:52Z"
     },
     {
-      "path": "_games/lowkotv-darks-mass-zerg-transport-with-nydus-drops-starcraft-2.md",
-      "title": "Dark's MASS Zerg Transport with Nydus & Drops! (StarCraft 2)",
-      "excerpt": "Best-of-3 series of top-level StarCraft 2 from the South Korean SC2 server between Dark (Zerg) and ByuN (Terran). This series is played with the new multiplayer balance patch on the new StarCraft 2 maps. Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup",
-      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-darks-mass-zerg-transport-with-nydus-drops-starcraft-2/index.json",
-      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-darks-mass-zerg-transport-with-nydus-drops-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=ZxnOBKRVnAg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZxnOBKRVnAg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M22S",
+      "path": "_games/lowkotv-gumihos-terran-mech-on-the-new-patch-starcraft-2.md",
+      "title": "GuMiho's TERRAN MECH on the New Patch! (StarCraft 2)",
+      "excerpt": "StarCraft 2 tournament series from the GSL Code S between GuMiho (Terran) and SHIN (Zerg).  Support my work: https://patreon.com/lowkotv  Lowko merch: https://lowko.shop Tech setup: https://lowko.tv/setup Discord community: https://discord.gg/lowkotv  My second channel: https://youtube.com/morelowko",
+      "sourceUrl": "https://everyday-cc.github.io/starcraft2/api/games/lowkotv-gumihos-terran-mech-on-the-new-patch-starcraft-2/index.json",
+      "webUrl": "https://everyday.cc/starcraft2/game/lowkotv-gumihos-terran-mech-on-the-new-patch-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=h35Q-GrO4YQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h35Q-GrO4YQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M29S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -448,12 +448,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Zerg"
+        "Terran"
       ],
-      "heat": 281,
+      "heat": 285,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ZxnOBKRVnAg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/h35Q-GrO4YQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDwgZShEMA8=&rs=AOn4CLABuDmDXxFTV663ka8XE5uhyMhh0w",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -461,7 +461,7 @@
       ],
       "content": "",
       "type": "video",
-      "publishedDateTime": "2024-04-06T07:01:16Z"
+      "publishedDateTime": "2024-04-08T11:12:18Z"
     },
     {
       "path": "_games/lowkotv-starcraft-2-new-maps-roach-rush-vs-protoss-maxpax-vs-meomaika.md",

@@ -7,7 +7,7 @@ originalUrl: "https://kotaku.com/games/starcraft-ii-wings-of-liberty-collectors-
 webUrl: "https://kotaku.com/games/starcraft-ii-wings-of-liberty-collectors-edition--1"
 type: article
 quality: 77
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Starcraft II: Heart of the Swarm - Collector's Edition"
+    excerpt: "All the latest game footage and images from Starcraft II: Heart of the Swarm - Collector's Edition by Blizzard Entertainment | 2013 2 / 3 3 / 3"
+    publishedDateTime: 2024-04-12T11:32:00Z
+    webUrl: "https://kotaku.com/games/starcraft-ii-heart-of-the-swarm-collectors-edition/gallery"
+    type: article
+    provider:
+      name: Kotaku
+      domain: kotaku.com
+    quality: 57
   - title: "Video games “World of Warcraft”, “Diablo” and “Starcraft” will return to China"
     excerpt: "Since January 2023, the American Blizzard no longer had access to the Chinese market, the second most lucrative country for the video game industry with a global News"
     publishedDateTime: 2024-04-09T22:06:00Z
